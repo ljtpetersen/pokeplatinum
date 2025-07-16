@@ -18,51 +18,61 @@
 #include "system.h"
 #include "text.h"
 
+enum RowanIntroTvAppState {
+    RIT_APP_STATE_INIT,
+    RIT_APP_STATE_PLACEHOLDER_0,
+    RIT_APP_STATE_PLACEHOLDER_1,
+    RIT_APP_STATE_PLACEHOLDER_2,
+    RIT_APP_STATE_PLACEHOLDER_3,
+    RIT_APP_STATE_PLACEHOLDER_4,
+};
+
 typedef struct {
-    int heapID;
-    BgConfig *unk_04;
-    MessageLoader *unk_08;
+    enum HeapId heapID;
+    BgConfig *bgConfig;
+    MessageLoader *msgLoader;
     int unk_0C;
-    Window unk_10;
+    Window window;
     int unk_20;
     int unk_24;
-} UnkStruct_ov73_021D342C;
+} RowanIntroTv;
 
-void EnqueueApplication(FSOverlayID param0, const ApplicationManagerTemplate *param1);
-int RowanIntroTv_Init(ApplicationManager *appMan, int *param1);
-int RowanIntroTv_Main(ApplicationManager *appMan, int *param1);
-int RowanIntroTv_Exit(ApplicationManager *appMan, int *param1);
+void EnqueueApplication(FSOverlayID overlayID, const ApplicationManagerTemplate *appTemplate);
+BOOL RowanIntroTv_Init(ApplicationManager *appMan, enum RowanIntroTvAppState *state);
+BOOL RowanIntroTv_Main(ApplicationManager *appMan, enum RowanIntroTvAppState *state);
+BOOL RowanIntroTv_Exit(ApplicationManager *appMan, enum RowanIntroTvAppState *state);
 static void ov73_021D3420(void *param0);
-static void ov73_021D342C(UnkStruct_ov73_021D342C *param0);
-static void ov73_021D35F4(UnkStruct_ov73_021D342C *param0);
-static void ov73_021D366C(UnkStruct_ov73_021D342C *param0);
-static void ov73_021D368C(UnkStruct_ov73_021D342C *param0);
-static BOOL ov73_021D3698(UnkStruct_ov73_021D342C *param0, int param1, int param2, int param3);
-static void ov73_021D37AC(UnkStruct_ov73_021D342C *param0);
+static void RowanIntroTv_InitGraphics(RowanIntroTv *param0);
+static void ov73_021D35F4(RowanIntroTv *param0);
+static void ov73_021D366C(RowanIntroTv *param0);
+static void ov73_021D368C(RowanIntroTv *param0);
+static BOOL ov73_021D3698(RowanIntroTv *param0, int param1, int param2, int param3);
+static void ov73_021D37AC(RowanIntroTv *param0);
 
-int RowanIntroTv_Init(ApplicationManager *appMan, int *param1)
+BOOL RowanIntroTv_Init(ApplicationManager *appMan, enum RowanIntroTvAppState *unusedState)
 {
-    UnkStruct_ov73_021D342C *v0;
-    int heapID = HEAP_ID_83;
+    RowanIntroTv *tv;
+    // changing this int to enum HeapId causes the checksum to fail.
+    int heapID = HEAP_ID_ROWAN_INTRO_TV;
 
     Heap_Create(HEAP_ID_APPLICATION, heapID, 0x40000);
 
-    v0 = ApplicationManager_NewData(appMan, sizeof(UnkStruct_ov73_021D342C), heapID);
-    memset(v0, 0, sizeof(UnkStruct_ov73_021D342C));
+    tv = ApplicationManager_NewData(appMan, sizeof(RowanIntroTv), heapID);
+    memset(tv, 0, sizeof(RowanIntroTv));
 
-    v0->heapID = heapID;
-    v0->unk_24 = 0;
+    tv->heapID = heapID;
+    tv->unk_24 = 0;
 
-    return 1;
+    return TRUE;
 }
 
-int RowanIntroTv_Main(ApplicationManager *appMan, int *param1)
+BOOL RowanIntroTv_Main(ApplicationManager *appMan, enum RowanIntroTvAppState *state)
 {
-    UnkStruct_ov73_021D342C *v0 = ApplicationManager_Data(appMan);
-    int v1 = 0;
+    RowanIntroTv *tv = ApplicationManager_Data(appMan);
+    BOOL isFinished = FALSE;
 
-    switch (*param1) {
-    case 0:
+    switch (*state) {
+    case RIT_APP_STATE_INIT:
         SetScreenColorBrightness(DS_SCREEN_MAIN, COLOR_BLACK);
         SetScreenColorBrightness(DS_SCREEN_SUB, COLOR_BLACK);
 
@@ -75,10 +85,10 @@ int RowanIntroTv_Main(ApplicationManager *appMan, int *param1)
         GXS_SetVisiblePlane(0);
         SetAutorepeat(4, 8);
 
-        ov73_021D342C(v0);
-        ov73_021D366C(v0);
+        RowanIntroTv_InitGraphics(tv);
+        ov73_021D366C(tv);
 
-        SetVBlankCallback(ov73_021D3420, (void *)v0);
+        SetVBlankCallback(ov73_021D3420, (void *)tv);
         GXLayers_TurnBothDispOn();
 
         {
@@ -88,81 +98,81 @@ int RowanIntroTv_Main(ApplicationManager *appMan, int *param1)
             GX_LoadBGPltt((const void *)v2, 0, 16 * 0x20);
         }
 
-        v0->unk_24 = 2 * 30;
-        *param1 = 1;
+        tv->unk_24 = 2 * 30;
+        *state = RIT_APP_STATE_PLACEHOLDER_0;
         break;
-    case 1:
-        if (v0->unk_24) {
-            v0->unk_24--;
+    case RIT_APP_STATE_PLACEHOLDER_0:
+        if (tv->unk_24) {
+            tv->unk_24--;
         } else {
             Sound_SetFieldBGM(SEQ_TV_HOUSOU);
             Sound_SetSceneAndPlayBGM(SOUND_SCENE_FIELD, SEQ_TV_HOUSOU, 1);
 
-            v0->unk_24 = 3 * 30;
-            *param1 = 2;
+            tv->unk_24 = 3 * 30;
+            *state = RIT_APP_STATE_PLACEHOLDER_1;
         }
         break;
-    case 2:
-        if (v0->unk_24) {
-            v0->unk_24--;
+    case RIT_APP_STATE_PLACEHOLDER_1:
+        if (tv->unk_24) {
+            tv->unk_24--;
         } else {
-            v0->unk_24 = 0;
-            StartScreenFade(FADE_BOTH_SCREENS, FADE_TYPE_BRIGHTNESS_IN, FADE_TYPE_BRIGHTNESS_IN, COLOR_BLACK, 6, 1, v0->heapID);
-            *param1 = 3;
+            tv->unk_24 = 0;
+            StartScreenFade(FADE_BOTH_SCREENS, FADE_TYPE_BRIGHTNESS_IN, FADE_TYPE_BRIGHTNESS_IN, COLOR_BLACK, 6, 1, tv->heapID);
+            *state = RIT_APP_STATE_PLACEHOLDER_2;
         }
         break;
-    case 3:
-        ov73_021D37AC(v0);
+    case RIT_APP_STATE_PLACEHOLDER_2:
+        ov73_021D37AC(tv);
 
         if (IsScreenFadeDone() == TRUE) {
-            *param1 = 4;
+            *state = RIT_APP_STATE_PLACEHOLDER_3;
         }
         break;
-    case 4:
-        ov73_021D37AC(v0);
+    case RIT_APP_STATE_PLACEHOLDER_3:
+        ov73_021D37AC(tv);
 
-        if (ov73_021D3698(v0, 0, 5 * 8, 6 * 8) == 1) {
-            StartScreenFade(FADE_BOTH_SCREENS, FADE_TYPE_BRIGHTNESS_OUT, FADE_TYPE_BRIGHTNESS_OUT, COLOR_BLACK, 6, 1, v0->heapID);
-            *param1 = 5;
+        if (ov73_021D3698(tv, 0, 5 * 8, 6 * 8) == 1) {
+            StartScreenFade(FADE_BOTH_SCREENS, FADE_TYPE_BRIGHTNESS_OUT, FADE_TYPE_BRIGHTNESS_OUT, COLOR_BLACK, 6, 1, tv->heapID);
+            *state = RIT_APP_STATE_PLACEHOLDER_4;
         }
         break;
-    case 5:
-        ov73_021D37AC(v0);
+    case RIT_APP_STATE_PLACEHOLDER_4:
+        ov73_021D37AC(tv);
 
         if (IsScreenFadeDone() == TRUE) {
-            ov73_021D368C(v0);
-            ov73_021D35F4(v0);
+            ov73_021D368C(tv);
+            ov73_021D35F4(tv);
             SetVBlankCallback(NULL, NULL);
 
-            v1 = 1;
+            isFinished = TRUE;
         }
         break;
     }
 
-    return v1;
+    return isFinished;
 }
 
-int RowanIntroTv_Exit(ApplicationManager *appMan, int *param1)
+BOOL RowanIntroTv_Exit(ApplicationManager *appMan, enum RowanIntroTvAppState *unusedState)
 {
-    UnkStruct_ov73_021D342C *v0 = ApplicationManager_Data(appMan);
-    int heapID = v0->heapID;
+    RowanIntroTv *tv = ApplicationManager_Data(appMan);
+    int heapID = tv->heapID;
 
     ApplicationManager_FreeData(appMan);
     Heap_Destroy(heapID);
 
-    return 1;
+    return TRUE;
 }
 
 static void ov73_021D3420(void *param0)
 {
-    UnkStruct_ov73_021D342C *v0 = param0;
-    Bg_RunScheduledUpdates(v0->unk_04);
+    RowanIntroTv *v0 = param0;
+    Bg_RunScheduledUpdates(v0->bgConfig);
 }
 
-static void ov73_021D342C(UnkStruct_ov73_021D342C *param0)
+static void RowanIntroTv_InitGraphics(RowanIntroTv *tv)
 {
     {
-        UnkStruct_02099F80 v0 = {
+        UnkStruct_02099F80 banks = {
             GX_VRAM_BG_256_AB,
             GX_VRAM_BGEXTPLTT_NONE,
             GX_VRAM_SUB_BG_NONE,
@@ -175,46 +185,48 @@ static void ov73_021D342C(UnkStruct_ov73_021D342C *param0)
             GX_VRAM_TEXPLTT_NONE
         };
 
-        GXLayers_SetBanks(&v0);
+        GXLayers_SetBanks(&banks);
     }
 
     {
-        param0->unk_04 = BgConfig_New(param0->heapID);
+        tv->bgConfig = BgConfig_New(tv->heapID);
     }
     {
-        GraphicsModes v1 = {
+        GraphicsModes graphicsModes = {
             GX_DISPMODE_GRAPHICS,
             GX_BGMODE_0,
             GX_BGMODE_0,
             GX_BG0_AS_2D
         };
 
-        SetAllGraphicsModes(&v1);
+        SetAllGraphicsModes(&graphicsModes);
     }
     {
-        int v2, v3, v4;
+        // changing int to enum BgLayer for bgLayer causes
+        // the checksum to fail.
+        int bgLayer, v3, v4;
         {
-            BgTemplate v5 = {
-                0,
-                0,
-                0x800,
-                0,
-                1,
-                GX_BG_COLORMODE_16,
-                GX_BG_SCRBASE_0x0000,
-                GX_BG_CHARBASE_0x18000,
-                GX_BG_EXTPLTT_01,
-                1,
-                0,
-                0,
-                0
+            BgTemplate layer2BgTemplate = {
+                .x = 0,
+                .y = 0,
+                .bufferSize = 0x800,
+                .baseTile = 0,
+                .screenSize = BG_SCREEN_SIZE_256x256,
+                .colorMode = GX_BG_COLORMODE_16,
+                .screenBase = GX_BG_SCRBASE_0x0000,
+                .charBase = GX_BG_CHARBASE_0x18000,
+                .bgExtPltt = GX_BG_EXTPLTT_01,
+                .priority = 1,
+                .areaOver = 0,
+                .dummy = 0,
+                .mosaic = FALSE,
             };
 
-            v2 = 2;
+            bgLayer = BG_LAYER_MAIN_2;
 
-            Bg_InitFromTemplate(param0->unk_04, v2, &v5, 0);
-            Bg_ClearTilesRange(v2, 32, 0, param0->heapID);
-            Bg_ClearTilemap(param0->unk_04, v2);
+            Bg_InitFromTemplate(tv->bgConfig, bgLayer, &layer2BgTemplate, BG_TYPE_STATIC);
+            Bg_ClearTilesRange(bgLayer, 32, 0, tv->heapID);
+            Bg_ClearTilemap(tv->bgConfig, bgLayer);
         }
         {
             BgTemplate v6 = {
@@ -233,13 +245,13 @@ static void ov73_021D342C(UnkStruct_ov73_021D342C *param0)
                 0
             };
 
-            v2 = 0;
+            bgLayer = 0;
             v3 = 1;
             v4 = 4;
 
-            Bg_InitFromTemplate(param0->unk_04, v2, &v6, 0);
-            Graphics_LoadTilesToBgLayer(NARC_INDEX_DEMO__INTRO__INTRO_TV, v3, param0->unk_04, v2, 0, 0, 0, param0->heapID);
-            Graphics_LoadTilemapToBgLayer(NARC_INDEX_DEMO__INTRO__INTRO_TV, v4, param0->unk_04, v2, 0, 0, 0, param0->heapID);
+            Bg_InitFromTemplate(tv->bgConfig, bgLayer, &v6, 0);
+            Graphics_LoadTilesToBgLayer(NARC_INDEX_DEMO__INTRO__INTRO_TV, v3, tv->bgConfig, bgLayer, 0, 0, 0, tv->heapID);
+            Graphics_LoadTilemapToBgLayer(NARC_INDEX_DEMO__INTRO__INTRO_TV, v4, tv->bgConfig, bgLayer, 0, 0, 0, tv->heapID);
         }
         {
             BgTemplate v7 = {
@@ -258,13 +270,13 @@ static void ov73_021D342C(UnkStruct_ov73_021D342C *param0)
                 0
             };
 
-            v2 = 1;
+            bgLayer = 1;
             v3 = 2;
             v4 = 5;
 
-            Bg_InitFromTemplate(param0->unk_04, v2, &v7, 0);
-            Graphics_LoadTilesToBgLayer(NARC_INDEX_DEMO__INTRO__INTRO_TV, v3, param0->unk_04, v2, 0, 0, 0, param0->heapID);
-            Graphics_LoadTilemapToBgLayer(NARC_INDEX_DEMO__INTRO__INTRO_TV, v4, param0->unk_04, v2, 0, 0, 0, param0->heapID);
+            Bg_InitFromTemplate(tv->bgConfig, bgLayer, &v7, 0);
+            Graphics_LoadTilesToBgLayer(NARC_INDEX_DEMO__INTRO__INTRO_TV, v3, tv->bgConfig, bgLayer, 0, 0, 0, tv->heapID);
+            Graphics_LoadTilemapToBgLayer(NARC_INDEX_DEMO__INTRO__INTRO_TV, v4, tv->bgConfig, bgLayer, 0, 0, 0, tv->heapID);
         }
         {
             BgTemplate v8 = {
@@ -283,25 +295,25 @@ static void ov73_021D342C(UnkStruct_ov73_021D342C *param0)
                 0
             };
 
-            v2 = 3;
+            bgLayer = 3;
             v3 = 8;
             v4 = 7;
 
-            Bg_InitFromTemplate(param0->unk_04, v2, &v8, 0);
-            Graphics_LoadTilesToBgLayer(NARC_INDEX_DEMO__INTRO__INTRO_TV, v3, param0->unk_04, v2, 0, 0, 0, param0->heapID);
-            Graphics_LoadTilemapToBgLayer(NARC_INDEX_DEMO__INTRO__INTRO_TV, v4, param0->unk_04, v2, 0, 0, 0, param0->heapID);
+            Bg_InitFromTemplate(tv->bgConfig, bgLayer, &v8, 0);
+            Graphics_LoadTilesToBgLayer(NARC_INDEX_DEMO__INTRO__INTRO_TV, v3, tv->bgConfig, bgLayer, 0, 0, 0, tv->heapID);
+            Graphics_LoadTilemapToBgLayer(NARC_INDEX_DEMO__INTRO__INTRO_TV, v4, tv->bgConfig, bgLayer, 0, 0, 0, tv->heapID);
         }
     }
-    Graphics_LoadPalette(NARC_INDEX_DEMO__INTRO__INTRO_TV, 6, 0, 0, 0, param0->heapID);
-    Graphics_LoadPaletteWithSrcOffset(NARC_INDEX_DEMO__INTRO__INTRO_TV, 9, 0, 0x20 * 2, 0x20 * 2, 0x20 * 14, param0->heapID);
-    Font_LoadTextPalette(0, 1 * (2 * 16), param0->heapID);
+    Graphics_LoadPalette(NARC_INDEX_DEMO__INTRO__INTRO_TV, 6, 0, 0, 0, tv->heapID);
+    Graphics_LoadPaletteWithSrcOffset(NARC_INDEX_DEMO__INTRO__INTRO_TV, 9, 0, 0x20 * 2, 0x20 * 2, 0x20 * 14, tv->heapID);
+    Font_LoadTextPalette(0, 1 * (2 * 16), tv->heapID);
     Bg_MaskPalette(BG_LAYER_MAIN_0, 0x0);
     Bg_MaskPalette(BG_LAYER_SUB_0, 0x0);
 
     G2_SetBlendAlpha(GX_BLEND_PLANEMASK_BG1, GX_BLEND_PLANEMASK_BG2 | GX_BLEND_PLANEMASK_BG3, 0x4, 0xc);
 }
 
-static void ov73_021D35F4(UnkStruct_ov73_021D342C *param0)
+static void ov73_021D35F4(RowanIntroTv *param0)
 {
     Bg_ToggleLayer(BG_LAYER_MAIN_0, 0);
     Bg_ToggleLayer(BG_LAYER_MAIN_1, 0);
@@ -314,24 +326,24 @@ static void ov73_021D35F4(UnkStruct_ov73_021D342C *param0)
 
     G2_BlendNone();
 
-    Bg_FreeTilemapBuffer(param0->unk_04, BG_LAYER_MAIN_3);
-    Bg_FreeTilemapBuffer(param0->unk_04, BG_LAYER_MAIN_1);
-    Bg_FreeTilemapBuffer(param0->unk_04, BG_LAYER_MAIN_0);
-    Bg_FreeTilemapBuffer(param0->unk_04, BG_LAYER_MAIN_2);
-    Heap_Free(param0->unk_04);
+    Bg_FreeTilemapBuffer(param0->bgConfig, BG_LAYER_MAIN_3);
+    Bg_FreeTilemapBuffer(param0->bgConfig, BG_LAYER_MAIN_1);
+    Bg_FreeTilemapBuffer(param0->bgConfig, BG_LAYER_MAIN_0);
+    Bg_FreeTilemapBuffer(param0->bgConfig, BG_LAYER_MAIN_2);
+    Heap_Free(param0->bgConfig);
 }
 
-static void ov73_021D366C(UnkStruct_ov73_021D342C *param0)
+static void ov73_021D366C(RowanIntroTv *param0)
 {
-    param0->unk_08 = MessageLoader_Init(MESSAGE_LOADER_NARC_HANDLE, NARC_INDEX_MSGDATA__PL_MSG, TEXT_BANK_UNK_0607, param0->heapID);
+    param0->msgLoader = MessageLoader_Init(MESSAGE_LOADER_NARC_HANDLE, NARC_INDEX_MSGDATA__PL_MSG, TEXT_BANK_UNK_0607, param0->heapID);
 
     Text_ResetAllPrinters();
     param0->unk_0C = 0;
 }
 
-static void ov73_021D368C(UnkStruct_ov73_021D342C *param0)
+static void ov73_021D368C(RowanIntroTv *param0)
 {
-    MessageLoader_Free(param0->unk_08);
+    MessageLoader_Free(param0->msgLoader);
 }
 
 static const WindowTemplate Unk_ov72_021D3A38 = {
@@ -344,22 +356,22 @@ static const WindowTemplate Unk_ov72_021D3A38 = {
     0x1
 };
 
-static BOOL ov73_021D3698(UnkStruct_ov73_021D342C *a0, int a1, int a2, int a3)
+static BOOL ov73_021D3698(RowanIntroTv *a0, int a1, int a2, int a3)
 {
     BOOL r6 = FALSE;
     switch (a0->unk_0C) {
     case 0:
         Bg_ToggleLayer(BG_LAYER_MAIN_2, 0);
         Strbuf *r5 = Strbuf_Init(0x400, a0->heapID);
-        MessageLoader_GetStrbuf(a0->unk_08, a1, r5);
-        Window_AddFromTemplate(a0->unk_04, &a0->unk_10, &Unk_ov72_021D3A38);
-        Window_FillRectWithColor(&a0->unk_10, 0, 0, 0, 0x100, 0xc0);
+        MessageLoader_GetStrbuf(a0->msgLoader, a1, r5);
+        Window_AddFromTemplate(a0->bgConfig, &a0->window, &Unk_ov72_021D3A38);
+        Window_FillRectWithColor(&a0->window, 0, 0, 0, 0x100, 0xc0);
         u32 r7 = (0x100 - Font_CalcMaxLineWidth(0, r5, 0)) / 2;
         u32 r1 = Strbuf_NumLines(r5) * 16;
         u32 sp00 = (0xc0 - r1) / 2;
-        Text_AddPrinterWithParamsAndColor(&a0->unk_10, FONT_SYSTEM, r5, r7, sp00, TEXT_SPEED_INSTANT, TEXT_COLOR(15, 2, 0), NULL);
+        Text_AddPrinterWithParamsAndColor(&a0->window, FONT_SYSTEM, r5, r7, sp00, TEXT_SPEED_INSTANT, TEXT_COLOR(15, 2, 0), NULL);
         Strbuf_Free(r5);
-        Window_CopyToVRAM(&a0->unk_10);
+        Window_CopyToVRAM(&a0->window);
         Bg_ToggleLayer(BG_LAYER_MAIN_2, 1);
         a0->unk_24 = 240;
         a0->unk_0C = 1;
@@ -377,8 +389,8 @@ static BOOL ov73_021D3698(UnkStruct_ov73_021D342C *a0, int a1, int a2, int a3)
         }
         break;
     case 3:
-        Window_Remove(&a0->unk_10);
-        Bg_ClearTilemap(a0->unk_04, BG_LAYER_MAIN_2);
+        Window_Remove(&a0->window);
+        Bg_ClearTilemap(a0->bgConfig, BG_LAYER_MAIN_2);
         a0->unk_0C = 0;
         r6 = TRUE;
         break;
@@ -386,8 +398,8 @@ static BOOL ov73_021D3698(UnkStruct_ov73_021D342C *a0, int a1, int a2, int a3)
     return r6;
 }
 
-static void ov73_021D37AC(UnkStruct_ov73_021D342C *param0)
+static void ov73_021D37AC(RowanIntroTv *param0)
 {
     param0->unk_20 += 0x4;
-    Bg_SetOffset(param0->unk_04, BG_LAYER_MAIN_1, 3, param0->unk_20 >> 4);
+    Bg_SetOffset(param0->bgConfig, BG_LAYER_MAIN_1, 3, param0->unk_20 >> 4);
 }
