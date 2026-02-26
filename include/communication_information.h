@@ -10,7 +10,7 @@
 void CommInfo_Init(SaveData *saveData, const BattleRegulation *regulation);
 void CommInfo_Delete(void);
 BOOL CommInfo_IsInitialized(void);
-void CommInfo_SendBattleRegulation(void);
+void CommInfo_SendPlayerInfo(void);
 int CommPlayerInfo_Size(void);
 void CommunicatitonInformaion_FinishReading(int unused0, int unused1, void *unused2, void *unused3);
 BOOL CommInfo_IsDataFinishedReading(void);
@@ -33,7 +33,7 @@ int sub_02032F40(int param0);
 u16 *sub_02032F54(int netId);
 int CommInfo_PlayerCountry(int netId);
 int CommInfo_PlayerRegion(int netId);
-int sub_02032FC0(int param0);
+BOOL CommInfo_PlayerHasGiftPenalty(int netID);
 BOOL CommInfo_CheckBattleRegulation(void);
 void CommInfo_SavePlayerRecord(SaveData *saveData);
 void sub_020331B4(SaveData *saveData, int param1);

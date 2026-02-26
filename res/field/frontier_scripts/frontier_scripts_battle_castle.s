@@ -1,5 +1,6 @@
 # include "macros/frscrcmd.inc"
 # include "res/text/bank/battle_castle_scene.h"
+# include "constants/battle_frontier.h"
 
     .data
 
@@ -650,15 +651,15 @@ _03BC:
     .short 0xFD13
 
 _03C2:
-    FrontierScrCmd_3E 0x40BD, 0x8001
+    FrontierScrCmd_3E VAR_BATTLE_CASTLE_CHALLENGE_TYPE, 0x8001
     FrontierScrCmd_3E 0x4003, 0x8003
     FrontierScrCmd_3E 0x4002, 0x8004
     FrontierScrCmd_3E 0x4005, 0x8005
     FrontierScrCmd_3E 0x4006, 0x8006
-    FrontierScrCmd_40 0x8007
+    GetPlayerObjEventGfx 0x8007
     SetVar 0x800E, 0
-    GoToIfEq 0x8001, 2, _041E
-    GoToIfEq 0x8001, 3, _041E
+    GoToIfEq 0x8001, FRONTIER_CHALLENGE_MULTI, _041E
+    GoToIfEq 0x8001, FRONTIER_CHALLENGE_MULTI_WFC, _041E
     SetVar 0x800F, 231
     FrontierScrCmd_22 _0008
     FrontierScrCmd_24 _0024
@@ -666,7 +667,7 @@ _03C2:
     End
 
 _041E:
-    FrontierScrCmd_4A 43
+    IncrementTrainerScore TRAINER_SCORE_EVENT_UNK_43
     SetVar 0x800F, 232
     FrontierScrCmd_22 _0010
     FrontierScrCmd_24 _0048
@@ -676,8 +677,7 @@ _041E:
 _043C:
     FrontierScrCmd_22 _001C
     FrontierScrCmd_24 _0078
-    FrontierScrCmd_13 6, 1, 1, 0
-    FrontierScrCmd_14
+    FadeScreenIn
     FrontierScrCmd_6C
     FrontierScrCmd_97 0x8003, 0x8001, 0x8004, 0x8005, 0x8006, 0x8008
     FrontierScrCmd_A0 35, 0, 0, 0x8008
@@ -688,9 +688,9 @@ _043C:
 _0480:
     Call _09A8
     Call _04C5
-    FrontierScrCmd_36
+    ClearReceivedTempDataAllPlayers
     FrontierScrCmd_35 211
-    FrontierScrCmd_36
+    ClearReceivedTempDataAllPlayers
     GoTo _04F0
     End
 
@@ -699,7 +699,7 @@ _049C:
     FrontierScrCmd_A2 0x8002, 0, 0x8008
     GoToIfEq 0x8008, 0, _049C
     FrontierScrCmd_A3 0x8002
-    FrontierScrCmd_36
+    ClearReceivedTempDataAllPlayers
     GoTo _04F0
     End
 
@@ -712,7 +712,7 @@ _04CD:
     FrontierScrCmd_A2 0x8002, 0, 0x8008
     GoToIfEq 0x8008, 0, _04CD
     FrontierScrCmd_A3 0x8002
-    FrontierScrCmd_36
+    ClearReceivedTempDataAllPlayers
     Return
 
 _04F0:
@@ -723,9 +723,9 @@ _04F0:
     End
 
 _0510:
-    FrontierScrCmd_36
+    ClearReceivedTempDataAllPlayers
     FrontierScrCmd_35 212
-    FrontierScrCmd_36
+    ClearReceivedTempDataAllPlayers
     GoTo _0520
     End
 
@@ -734,10 +734,10 @@ _0520:
     FrontierScrCmd_A2 0x8002, 0, 0x8008
     GoToIfEq 0x8008, 0, _0520
     FrontierScrCmd_A3 0x8002
-    FrontierScrCmd_36
-    FrontierScrCmd_36
+    ClearReceivedTempDataAllPlayers
+    ClearReceivedTempDataAllPlayers
     FrontierScrCmd_35 125
-    FrontierScrCmd_36
+    ClearReceivedTempDataAllPlayers
     FrontierScrCmd_C9 1
     GoTo _0555
     End
@@ -747,10 +747,10 @@ _0555:
     FrontierScrCmd_A2 0x8002, 0, 0x8008
     GoToIfEq 0x8008, 0, _0555
     FrontierScrCmd_A3 0x8002
-    FrontierScrCmd_36
-    FrontierScrCmd_36
+    ClearReceivedTempDataAllPlayers
+    ClearReceivedTempDataAllPlayers
     FrontierScrCmd_35 210
-    FrontierScrCmd_36
+    ClearReceivedTempDataAllPlayers
     FrontierScrCmd_C9 0
     GoTo _058A
     End
@@ -790,9 +790,9 @@ _0612:
     End
 
 _0630:
-    FrontierScrCmd_36
+    ClearReceivedTempDataAllPlayers
     FrontierScrCmd_35 213
-    FrontierScrCmd_36
+    ClearReceivedTempDataAllPlayers
     GoTo _0640
     End
 
@@ -801,10 +801,10 @@ _0640:
     FrontierScrCmd_A2 0x8002, 0, 0x8008
     GoToIfEq 0x8008, 0, _0640
     FrontierScrCmd_A3 0x8002
-    FrontierScrCmd_36
-    FrontierScrCmd_36
+    ClearReceivedTempDataAllPlayers
+    ClearReceivedTempDataAllPlayers
     FrontierScrCmd_35 214
-    FrontierScrCmd_36
+    ClearReceivedTempDataAllPlayers
     FrontierScrCmd_A0 41, 0, 0, 0x8008
     FrontierScrCmd_A0 42, 0, 0, 0x8008
     Return
@@ -821,7 +821,7 @@ _0695:
     End
 
 _06A1:
-    FrontierScrCmd_7B 0
+    BufferPlayerName 0
     Message BattleCastleScene_Text_TakingItems
     GoTo _06B0
     End
@@ -845,9 +845,9 @@ _06EA:
     End
 
 _06F6:
-    FrontierScrCmd_36
+    ClearReceivedTempDataAllPlayers
     FrontierScrCmd_35 120
-    FrontierScrCmd_36
+    ClearReceivedTempDataAllPlayers
     GoTo _0706
     End
 
@@ -861,13 +861,13 @@ _0714:
     FrontierScrCmd_A0 19, 0, 0, 0x8006
     CallIfLt 0x8006, 3, _07A2
     CallIfGe 0x8006, 3, _07AC
-    FrontierScrCmd_CA 1
-    FrontierScrCmd_1C 49, 21, 1
-    FrontierScrCmd_1C 50, 22, 2
-    FrontierScrCmd_1C 51, 23, 4
+    SetMenuXOriginSide 1
+    AddListMenuEntry BattleCastleScene_Text_SelfOption, BattleCastleScene_Text_HealOrRentItem, 1
+    AddListMenuEntry BattleCastleScene_Text_OpponentOption, BattleCastleScene_Text_CheckOpponentsMons, 2
+    AddListMenuEntry BattleCastleScene_Text_BattleOption, BattleCastleScene_Text_BattleTrainer, 4
     FrontierScrCmd_A0 19, 0, 0, 0x8006
     CallIfGe 0x8006, 3, _07D7
-    FrontierScrCmd_1D
+    ShowListMenu
     GoToIfEq 0x8008, 1, _0804
     GoToIfEq 0x8008, 2, _08B6
     GoToIfEq 0x8008, 4, _0964
@@ -876,21 +876,21 @@ _0714:
     End
 
 _07A2:
-    FrontierScrCmd_1B 31, 11, 0, 0, 0x8008
+    InitLocalTextListMenu 31, 11, 0, 0, 0x8008
     Return
 
 _07AC:
     FrontierScrCmd_A0 40, 0, 0, 0x8008
     GoToIfEq 0x8008, 1, _07A2
     GoToIfEq 0x8008, 2, _07A2
-    FrontierScrCmd_1B 31, 9, 0, 0, 0x8008
+    InitLocalTextListMenu 31, 9, 0, 0, 0x8008
     Return
 
 _07D7:
     FrontierScrCmd_A0 40, 0, 0, 0x800D
     GoToIfEq 0x800D, 1, _0802
     GoToIfEq 0x800D, 2, _0802
-    FrontierScrCmd_1C 52, 24, 5
+    AddListMenuEntry BattleCastleScene_Text_PassOption, BattleCastleScene_Text_PassOnBattle, 5
     Return
 
 _0802:
@@ -911,9 +911,8 @@ _0827:
 _0833:
     FrontierScrCmd_A0 34, 0, 0, 0x8008
     FrontierScrCmd_A0 31, 0, 0, 0x8008
-    FrontierScrCmd_13 6, 1, 0, 0
-    FrontierScrCmd_14
-    FrontierScrCmd_12
+    FadeScreenOut
+    CloseMessage
     FrontierScrCmd_51
     FrontierScrCmd_A0 35, 0, 0, 0x8008
     CallIfEq 0x8008, 1, _08AC
@@ -922,20 +921,19 @@ _0833:
     CallIfEq 0x8008, 1, _09C5
     FrontierScrCmd_A0 35, 0, 0, 0x8008
     CallIfEq 0x8008, 1, _04C5
-    FrontierScrCmd_13 6, 1, 1, 0
-    FrontierScrCmd_14
+    FadeScreenIn
     GoTo _0706
     End
 
 _08A3:
-    FrontierScrCmd_7C 0
+    BufferPartnerName 0
     Message BattleCastleScene_Text_PassInstruction
     Return
 
 _08AC:
-    FrontierScrCmd_36
+    ClearReceivedTempDataAllPlayers
     FrontierScrCmd_35 240
-    FrontierScrCmd_36
+    ClearReceivedTempDataAllPlayers
     Return
 
 _08B6:
@@ -953,9 +951,8 @@ _08D9:
 _08E5:
     FrontierScrCmd_A0 34, 0, 0, 0x8008
     FrontierScrCmd_A0 31, 0, 0, 0x8008
-    FrontierScrCmd_13 6, 1, 0, 0
-    FrontierScrCmd_14
-    FrontierScrCmd_12
+    FadeScreenOut
+    CloseMessage
     FrontierScrCmd_51
     FrontierScrCmd_A0 35, 0, 0, 0x8008
     CallIfEq 0x8008, 1, _095A
@@ -964,19 +961,18 @@ _08E5:
     CallIfEq 0x8008, 1, _09E2
     FrontierScrCmd_A0 35, 0, 0, 0x8008
     CallIfEq 0x8008, 1, _04C5
-    FrontierScrCmd_13 6, 1, 1, 0
-    FrontierScrCmd_14
+    FadeScreenIn
     GoTo _0706
     End
 
 _0955:
-    FrontierScrCmd_7C 0
+    BufferPartnerName 0
     Return
 
 _095A:
-    FrontierScrCmd_36
+    ClearReceivedTempDataAllPlayers
     FrontierScrCmd_35 241
-    FrontierScrCmd_36
+    ClearReceivedTempDataAllPlayers
     Return
 
 _0964:
@@ -1001,40 +997,40 @@ _09A8:
     WaitTime 1, 0x8008
     FrontierScrCmd_A0 29, 0, 0, 0x8008
     WaitTime 1, 0x8008
-    FrontierScrCmd_36
+    ClearReceivedTempDataAllPlayers
     FrontierScrCmd_35 190
-    FrontierScrCmd_36
+    ClearReceivedTempDataAllPlayers
     Return
 
 _09C5:
     WaitTime 1, 0x8008
     FrontierScrCmd_A0 29, 0, 0, 0x8008
     WaitTime 1, 0x8008
-    FrontierScrCmd_36
+    ClearReceivedTempDataAllPlayers
     FrontierScrCmd_35 191
-    FrontierScrCmd_36
+    ClearReceivedTempDataAllPlayers
     Return
 
 _09E2:
     WaitTime 1, 0x8008
     FrontierScrCmd_A0 29, 0, 0, 0x8008
     WaitTime 1, 0x8008
-    FrontierScrCmd_36
+    ClearReceivedTempDataAllPlayers
     FrontierScrCmd_35 192
-    FrontierScrCmd_36
+    ClearReceivedTempDataAllPlayers
     Return
 
 _09FF:
     WaitTime 1, 0x8008
     FrontierScrCmd_A0 29, 0, 0, 0x8008
     WaitTime 1, 0x8008
-    FrontierScrCmd_36
+    ClearReceivedTempDataAllPlayers
     FrontierScrCmd_35 193
-    FrontierScrCmd_36
+    ClearReceivedTempDataAllPlayers
     Return
 
 _0A1C:
-    FrontierScrCmd_7A 0, 50
+    BufferNumber 0, 50
     Message BattleCastleScene_Text_ConfirmPurchase
     ShowYesNoMenu 0x8008, MENU_YES
     GoToIfEq 0x8008, 1, _0714
@@ -1072,7 +1068,7 @@ _0AB8:
     End
 
 _0ACD:
-    FrontierScrCmd_12
+    CloseMessage
     FrontierScrCmd_51
     FrontierScrCmd_A0 35, 0, 0, 0x8008
     GoToIfEq 0x8008, 1, _0B0C
@@ -1084,7 +1080,7 @@ _0ACD:
     End
 
 _0B07:
-    FrontierScrCmd_7C 0
+    BufferPartnerName 0
     Return
 
 _0B0C:
@@ -1099,8 +1095,7 @@ _0B0C:
 _0B36:
     PlaySoundEffect SEQ_SE_DP_KAIDAN2
     WaitSoundEffect SEQ_SE_DP_KAIDAN2
-    FrontierScrCmd_13 6, 1, 0, 0
-    FrontierScrCmd_14
+    FadeScreenOut
     FrontierScrCmd_A0 35, 0, 0, 0x8008
     GoToIfEq 0x8008, 1, _0BBA
     FrontierScrCmd_25 0
@@ -1108,17 +1103,15 @@ _0B36:
     FrontierScrCmd_25 4
     FrontierScrCmd_23 217
     FrontierScrCmd_03 13
-    FrontierScrCmd_40 0x8007
+    GetPlayerObjEventGfx 0x8007
     FrontierScrCmd_22 _019C
     FrontierScrCmd_24 _01B0
-    FrontierScrCmd_13 6, 1, 1, 0
-    FrontierScrCmd_14
+    FadeScreenIn
     FrontierScrCmd_28 4, _02D8
     FrontierScrCmd_29
     PlaySoundEffect SEQ_SE_DP_KAIDAN2
     WaitSoundEffect SEQ_SE_DP_KAIDAN2
-    FrontierScrCmd_13 6, 1, 0, 0
-    FrontierScrCmd_14
+    FadeScreenOut
     Call _19E8
     GoTo _0C1E
     End
@@ -1129,18 +1122,16 @@ _0BBA:
     FrontierScrCmd_25 3
     FrontierScrCmd_23 217
     FrontierScrCmd_03 13
-    FrontierScrCmd_40 0x8007
+    GetPlayerObjEventGfx 0x8007
     FrontierScrCmd_22 _01A4
     FrontierScrCmd_24 _01C8
-    FrontierScrCmd_13 6, 1, 1, 0
-    FrontierScrCmd_14
+    FadeScreenIn
     FrontierScrCmd_28 1, _02D8
     FrontierScrCmd_28 2, _02EC
     FrontierScrCmd_29
     PlaySoundEffect SEQ_SE_DP_KAIDAN2
     WaitSoundEffect SEQ_SE_DP_KAIDAN2
-    FrontierScrCmd_13 6, 1, 0, 0
-    FrontierScrCmd_14
+    FadeScreenOut
     Call _19E8
     GoTo _0C1E
     End
@@ -1158,8 +1149,8 @@ _0C47:
     FrontierScrCmd_A0 35, 0, 0, 0x8008
     GoToIfEq 0x8008, 1, _0C7F
     Message BattleCastleScene_Text_Proceed
-    FrontierScrCmd_3A
-    FrontierScrCmd_12
+    WaitABPress
+    CloseMessage
     FrontierScrCmd_28 0, _0228
     FrontierScrCmd_28 4, _0228
     FrontierScrCmd_29
@@ -1169,7 +1160,7 @@ _0C47:
 _0C7F:
     MessageNoSkip BattleCastleScene_Text_Proceed
     WaitTime 30, 0x8008
-    FrontierScrCmd_12
+    CloseMessage
     FrontierScrCmd_28 0, _0228
     FrontierScrCmd_28 1, _0228
     FrontierScrCmd_28 2, _0238
@@ -1180,8 +1171,7 @@ _0C7F:
 _0CAD:
     PlaySoundEffect SEQ_SE_DP_KAIDAN2
     WaitSoundEffect SEQ_SE_DP_KAIDAN2
-    FrontierScrCmd_13 6, 1, 0, 0
-    FrontierScrCmd_14
+    FadeScreenOut
     CallIfEq 0x800E, 0, _0E64
     FrontierScrCmd_A0 35, 0, 0, 0x8008
     GoToIfEq 0x8008, 1, _0DA3
@@ -1193,8 +1183,7 @@ _0CAD:
     Call _0E74
     FrontierScrCmd_22 _00DC
     FrontierScrCmd_24 _0100
-    FrontierScrCmd_13 6, 1, 1, 0
-    FrontierScrCmd_14
+    FadeScreenIn
     FrontierScrCmd_28 0, _028C
     FrontierScrCmd_28 4, _0294
     FrontierScrCmd_29
@@ -1204,7 +1193,7 @@ _0CAD:
     GoToIfEq 0x8008, 1, _1A9B
     GoToIfEq 0x8008, 2, _1ABA
     Call _1B75
-    FrontierScrCmd_7A 0, 0x8008
+    BufferNumber 0, 0x8008
     Call _0ED1
     FrontierScrCmd_28 98, _0300
     FrontierScrCmd_29
@@ -1213,8 +1202,8 @@ _0CAD:
     FrontierScrCmd_29
     FrontierScrCmd_A0 37, 0, 0, 0x8008
     FrontierScrCmd_A9 0
-    FrontierScrCmd_3A
-    FrontierScrCmd_12
+    WaitABPress
+    CloseMessage
     GoTo _0D9B
     End
 
@@ -1231,8 +1220,7 @@ _0DA3:
     Call _0E74
     FrontierScrCmd_22 _00E8
     FrontierScrCmd_24 _0124
-    FrontierScrCmd_13 6, 1, 1, 0
-    FrontierScrCmd_14
+    FadeScreenIn
     FrontierScrCmd_28 0, _028C
     FrontierScrCmd_28 1, _02A8
     FrontierScrCmd_28 2, _02BC
@@ -1249,13 +1237,13 @@ _0DA3:
     FrontierScrCmd_A0 37, 0, 0, 0x8008
     FrontierScrCmd_A9 0
     WaitTime 30, 0x8008
-    FrontierScrCmd_12
+    CloseMessage
     FrontierScrCmd_28 99, _0284
     FrontierScrCmd_29
     FrontierScrCmd_A0 37, 0, 0, 0x8008
     FrontierScrCmd_A9 1
     WaitTime 30, 0x8008
-    FrontierScrCmd_12
+    CloseMessage
     MessageNoSkip BattleCastleScene_Text_PleaseWait
     GoTo _0F2E
     End
@@ -1269,15 +1257,15 @@ _0E64:
 _0E74:
     FrontierScrCmd_41 0, 6, 1
     FrontierScrCmd_A0 36, 0, 0, 0x8008
-    FrontierScrCmd_40 0x8007
+    GetPlayerObjEventGfx 0x8007
     Return
 
 _0E89:
     FrontierScrCmd_A0 35, 0, 0, 0x8008
     GoToIfEq 0x8008, 1, _0EAD
     Message BattleCastleScene_Text_UsingPass
-    FrontierScrCmd_3A
-    FrontierScrCmd_12
+    WaitABPress
+    CloseMessage
     GoTo _1084
     End
 
@@ -1287,7 +1275,7 @@ _0EAD:
     MessageNoSkip BattleCastleScene_Text_PleaseWait
     Call _10CA
     Call _122A
-    FrontierScrCmd_12
+    CloseMessage
     GoTo _1098
     End
 
@@ -1326,40 +1314,39 @@ _0F2E:
     End
 
 _0F73:
-    FrontierScrCmd_48 59
+    IncrementRecordValue RECORD_UNK_059
     FrontierScrCmd_47 4
     GoTo _0F99
     End
 
 _0F83:
-    FrontierScrCmd_36
+    ClearReceivedTempDataAllPlayers
     FrontierScrCmd_35 121
-    FrontierScrCmd_36
-    FrontierScrCmd_12
+    ClearReceivedTempDataAllPlayers
+    CloseMessage
     FrontierScrCmd_3F 4
     GoTo _0F99
     End
 
 _0F99:
     Call _1B75
-    FrontierScrCmd_7A 0, 0x8008
+    BufferNumber 0, 0x8008
     FrontierScrCmd_9C
     FrontierScrCmd_9B
     FrontierScrCmd_41 0, 6, 1
     FrontierScrCmd_43 0, 0
     FrontierScrCmd_A0 36, 0, 0, 0x8008
-    FrontierScrCmd_13 6, 1, 1, 0
-    FrontierScrCmd_14
+    FadeScreenIn
     FrontierScrCmd_A1 0x8008
     GoToIfEq 0x8008, 0, _180E
-    FrontierScrCmd_48 61
+    IncrementRecordValue RECORD_UNK_061
     FrontierScrCmd_A0 35, 0, 0, 0x8008
     GoToIfEq 0x8008, 1, _1040
     FrontierScrCmd_A0 40, 0, 0, 0x8008
     GoToIfEq 0x8008, 1, _1AF8
     GoToIfEq 0x8008, 2, _1B2F
     Call _1B75
-    FrontierScrCmd_7A 0, 0x8008
+    BufferNumber 0, 0x8008
     FrontierScrCmd_28 98, _0360
     FrontierScrCmd_29
     GoTo _1030
@@ -1398,8 +1385,7 @@ _1084:
 _1098:
     PlaySoundEffect SEQ_SE_DP_KAIDAN2
     WaitSoundEffect SEQ_SE_DP_KAIDAN2
-    FrontierScrCmd_13 6, 1, 0, 0
-    FrontierScrCmd_14
+    FadeScreenOut
     FrontierScrCmd_25 5
     FrontierScrCmd_23 219
     Call _19E8
@@ -1416,9 +1402,9 @@ _10CA:
     Return
 
 _10DA:
-    FrontierScrCmd_7B 1
+    BufferPlayerName 1
     FrontierScrCmd_A0 27, 0, 0, 0x800D
-    FrontierScrCmd_7A 0, 0x800D
+    BufferNumber 0, 0x800D
     FrontierScrCmd_28 5, _03BC
     FrontierScrCmd_29
     FrontierScrCmd_A0 35, 0, 0, 0x8008
@@ -1427,13 +1413,13 @@ _10DA:
     End
 
 _110F:
-    FrontierScrCmd_12
+    CloseMessage
     FrontierScrCmd_A0 28, 0, 0, 0x8008
     FrontierScrCmd_22 _00F8
     FrontierScrCmd_24 _018C
     FrontierScrCmd_28 6, _03A4
     FrontierScrCmd_29
-    FrontierScrCmd_7B 1
+    BufferPlayerName 1
     GoToIfGe 0x800D, 40, _1160
     GoToIfGe 0x800D, 25, _117C
     GoToIfGe 0x800D, 15, _1198
@@ -1473,7 +1459,7 @@ _11D0:
 _11EC:
     PlayFanfare SEQ_PL_FRO
     WaitFanfare
-    FrontierScrCmd_12
+    CloseMessage
     FrontierScrCmd_28 6, _03B0
     FrontierScrCmd_29
     FrontierScrCmd_25 6
@@ -1485,7 +1471,7 @@ _11EC:
 _121C:
     MessageNoSkip BattleCastleScene_Text_PleaseWait
     Call _04C5
-    FrontierScrCmd_12
+    CloseMessage
     Return
 
 _122A:
@@ -1525,12 +1511,12 @@ _12C5:
 _12D3:
     FrontierScrCmd_A0 22, 0, 0, 0x8008
     FrontierScrCmd_3D 0x40BC, 1
-    FrontierScrCmd_7B 0
+    BufferPlayerName 0
     Message BattleCastleScene_Text_BPEarned
-    FrontierScrCmd_7B 0
+    BufferPlayerName 0
     FrontierScrCmd_A0 38, 0, 0, 0x8008
-    FrontierScrCmd_7A 1, 0x8008
-    FrontierScrCmd_82 0x8008
+    BufferNumber 1, 0x8008
+    GiveBattlePoints 0x8008
     Message BattleCastleScene_Text_ReceiveBP
     PlayFanfare SEQ_PL_POINTGET3
     WaitFanfare
@@ -1560,26 +1546,26 @@ _1349:
 
 _1372:
     Call _1B75
-    FrontierScrCmd_7A 0, 0x8008
+    BufferNumber 0, 0x8008
     FrontierScrCmd_A0 35, 0, 0, 0x8008
     GoToIfEq 0x8008, 1, _13AF
     FrontierScrCmd_A0 23, 0, 0, 0x8008
     AddVar 0x8008, 1
-    FrontierScrCmd_7A 0, 0x8008
+    BufferNumber 0, 0x8008
     Message BattleCastleScene_Text_AreYouReady
     GoTo _13E4
     End
 
 _13AF:
     MessageNoSkip BattleCastleScene_Text_PleaseWait
-    FrontierScrCmd_36
+    ClearReceivedTempDataAllPlayers
     FrontierScrCmd_35 127
-    FrontierScrCmd_36
+    ClearReceivedTempDataAllPlayers
     Call _1B75
-    FrontierScrCmd_7A 0, 0x8008
+    BufferNumber 0, 0x8008
     FrontierScrCmd_A0 23, 0, 0, 0x8008
     AddVar 0x8008, 1
-    FrontierScrCmd_7A 0, 0x8008
+    BufferNumber 0, 0x8008
     MessageInstant BattleCastleScene_Text_AreYouReady
     GoTo _13E4
     End
@@ -1632,40 +1618,40 @@ _148D:
     End
 
 _14C3:
-    FrontierScrCmd_1B 31, 13, 0, 0, 0x800A
-    FrontierScrCmd_CA 1
-    FrontierScrCmd_1C 45, 255, 0
+    InitLocalTextListMenu 31, 13, 0, 0, 0x800A
+    SetMenuXOriginSide 1
+    AddListMenuEntry BattleCastleScene_Text_ContinueOption, 255, 0
     GoTo _154F
     End
 
 _14DE:
-    FrontierScrCmd_1B 31, 11, 0, 0, 0x800A
-    FrontierScrCmd_CA 1
-    FrontierScrCmd_1C 45, 255, 0
-    FrontierScrCmd_1C 46, 255, 1
+    InitLocalTextListMenu 31, 11, 0, 0, 0x800A
+    SetMenuXOriginSide 1
+    AddListMenuEntry BattleCastleScene_Text_ContinueOption, 255, 0
+    AddListMenuEntry BattleCastleScene_Text_RecordOption, 255, 1
     GoTo _154F
     End
 
 _1501:
-    FrontierScrCmd_1B 31, 11, 0, 0, 0x800A
-    FrontierScrCmd_CA 1
-    FrontierScrCmd_1C 45, 255, 0
-    FrontierScrCmd_1C 47, 255, 2
+    InitLocalTextListMenu 31, 11, 0, 0, 0x800A
+    SetMenuXOriginSide 1
+    AddListMenuEntry BattleCastleScene_Text_ContinueOption, 255, 0
+    AddListMenuEntry BattleCastleScene_Text_RestOption, 255, 2
     GoTo _154F
     End
 
 _1524:
-    FrontierScrCmd_1B 31, 9, 0, 0, 0x800A
-    FrontierScrCmd_CA 1
-    FrontierScrCmd_1C 45, 255, 0
-    FrontierScrCmd_1C 46, 255, 1
-    FrontierScrCmd_1C 47, 255, 2
+    InitLocalTextListMenu 31, 9, 0, 0, 0x800A
+    SetMenuXOriginSide 1
+    AddListMenuEntry BattleCastleScene_Text_ContinueOption, 255, 0
+    AddListMenuEntry BattleCastleScene_Text_RecordOption, 255, 1
+    AddListMenuEntry BattleCastleScene_Text_RestOption, 255, 2
     GoTo _154F
     End
 
 _154F:
-    FrontierScrCmd_1C 48, 255, 3
-    FrontierScrCmd_1D
+    AddListMenuEntry BattleCastleScene_Text_RetireOption, 255, 3
+    ShowListMenu
     GoTo _1561
     End
 
@@ -1684,8 +1670,8 @@ _159D:
     End
 
 _15B9:
-    FrontierScrCmd_7C 0
-    Message BattleCastleScene_Text_OpponentIsChoosing
+    BufferPartnerName 0
+    Message BattleCastleScene_Text_PartnerIsChoosing
     GoTo _15C8
     End
 
@@ -1694,18 +1680,18 @@ _15C8:
     FrontierScrCmd_A2 0x8002, 0, 0x8008
     GoToIfEq 0x8008, 0, _15C8
     FrontierScrCmd_A3 0x8002
-    FrontierScrCmd_36
+    ClearReceivedTempDataAllPlayers
     FrontierScrCmd_A0 24, 0, 0, 0x8008
     GoToIfEq 0x8008, 1, _160D
-    FrontierScrCmd_36
+    ClearReceivedTempDataAllPlayers
     FrontierScrCmd_35 122
-    FrontierScrCmd_36
+    ClearReceivedTempDataAllPlayers
     GoTo _1622
     End
 
 _160D:
-    FrontierScrCmd_7C 0
-    MessageNoSkip BattleCastleScene_Text_OpponentRetired
+    BufferPartnerName 0
+    MessageNoSkip BattleCastleScene_Text_PartnerRetired
     WaitTime 30, 0x8008
     GoTo _17D9
     End
@@ -1770,7 +1756,7 @@ _16C7:
 
 _1707:
     PlaySoundEffect SEQ_SE_DP_SAVE
-    FrontierScrCmd_7B 0
+    BufferPlayerName 0
     Message BattleCastleScene_Text_BattleSaved
     Return
 
@@ -1795,9 +1781,8 @@ _173E:
     FrontierScrCmd_6F
     FrontierScrCmd_99
     Call _195E
-    FrontierScrCmd_13 6, 1, 0, 0
-    FrontierScrCmd_14
-    FrontierScrCmd_12
+    FadeScreenOut
+    CloseMessage
     FrontierScrCmd_A0 7, 0, 0, 0x8008
     End
 
@@ -1830,9 +1815,9 @@ _17B6:
 _17D9:
     Message BattleCastleScene_Text_ReturnItems
     MessageNoSkip BattleCastleScene_Text_PleaseWait
-    FrontierScrCmd_36
+    ClearReceivedTempDataAllPlayers
     FrontierScrCmd_35 124
-    FrontierScrCmd_36
+    ClearReceivedTempDataAllPlayers
     GoTo _17F1
     End
 
@@ -1849,8 +1834,7 @@ _1806:
 _180E:
     PlaySoundEffect SEQ_SE_DP_KAIDAN2
     WaitSoundEffect SEQ_SE_DP_KAIDAN2
-    FrontierScrCmd_13 6, 1, 0, 0
-    FrontierScrCmd_14
+    FadeScreenOut
     FrontierScrCmd_25 5
     FrontierScrCmd_23 219
     Call _19E8
@@ -1893,23 +1877,22 @@ _18B0:
 
 _18D0:
     MessageNoSkip BattleCastleScene_Text_PleaseWait
-    FrontierScrCmd_36
+    ClearReceivedTempDataAllPlayers
     FrontierScrCmd_35 128
-    FrontierScrCmd_36
+    ClearReceivedTempDataAllPlayers
     GoTo _18E4
     End
 
 _18E4:
     Call _195E
-    FrontierScrCmd_12
+    CloseMessage
     GoTo _18F4
     End
 
 _18F4:
     FrontierScrCmd_A0 35, 0, 0, 0x8008
     CallIfEq 0x8008, 1, _1948
-    FrontierScrCmd_13 6, 1, 0, 0
-    FrontierScrCmd_14
+    FadeScreenOut
     FrontierScrCmd_A0 17, 0, 0, 0x8008
     CallIfEq 0x8008, 2, _1942
     FrontierScrCmd_A0 17, 0, 0, 0x8008
@@ -1923,9 +1906,9 @@ _1942:
     Return
 
 _1948:
-    FrontierScrCmd_36
+    ClearReceivedTempDataAllPlayers
     FrontierScrCmd_35 129
-    FrontierScrCmd_36
+    ClearReceivedTempDataAllPlayers
     Return
 
 _1952:
@@ -1948,14 +1931,14 @@ _1974:
     FrontierScrCmd_A2 0x8002, 0, 0x8008
     GoToIfEq 0x8008, 0, _1974
     FrontierScrCmd_A3 0x8002
-    FrontierScrCmd_36
+    ClearReceivedTempDataAllPlayers
     GoTo _199D
     End
 
 _199D:
-    FrontierScrCmd_36
+    ClearReceivedTempDataAllPlayers
     FrontierScrCmd_35 126
-    FrontierScrCmd_36
+    ClearReceivedTempDataAllPlayers
     FrontierScrCmd_A0 30, 0, 0, 0x8008
     SetVar 0x8010, 0x8008
     GoToIfEq 0x8010, 1, _0833
@@ -1971,24 +1954,22 @@ _19E8:
     FrontierScrCmd_25 0
     FrontierScrCmd_25 4
     FrontierScrCmd_03 11
-    FrontierScrCmd_40 0x8007
+    GetPlayerObjEventGfx 0x8007
     SetVar 0x800F, 231
     FrontierScrCmd_22 _0008
     FrontierScrCmd_24 _0088
-    FrontierScrCmd_13 6, 1, 1, 0
-    FrontierScrCmd_14
+    FadeScreenIn
     Return
 
 _1A30:
     FrontierScrCmd_25 1
     FrontierScrCmd_25 2
     FrontierScrCmd_03 11
-    FrontierScrCmd_40 0x8007
+    GetPlayerObjEventGfx 0x8007
     SetVar 0x800F, 232
     FrontierScrCmd_22 _0010
     FrontierScrCmd_24 _00AC
-    FrontierScrCmd_13 6, 1, 1, 0
-    FrontierScrCmd_14
+    FadeScreenIn
     Return
 
 _1A60:
@@ -1996,28 +1977,28 @@ _1A60:
     FrontierScrCmd_A0 43, 0, 0, 0x8008
     GoToIfEq 0x8008, 1, _1372
     Call _1B75
-    FrontierScrCmd_7A 0, 0x8008
-    FrontierScrCmd_7B 0
+    BufferNumber 0, 0x8008
+    BufferPlayerName 0
     Message BattleCastleScene_Text_CastleValetApproaching
     GoTo _13E4
     End
 
 _1A9B:
     Call _1B75
-    FrontierScrCmd_7A 0, 0x8008
+    BufferNumber 0, 0x8008
     Call _1ADC
     Message BattleCastleScene_Text_DarachIntro
-    FrontierScrCmd_12
+    CloseMessage
     GoTo _0D9B
     End
 
 _1ABA:
     Call _1B75
-    FrontierScrCmd_7A 0, 0x8008
+    BufferNumber 0, 0x8008
     Call _1ADC
-    FrontierScrCmd_7B 0
+    BufferPlayerName 0
     Message BattleCastleScene_Text_DarachIntroGold
-    FrontierScrCmd_12
+    CloseMessage
     GoTo _0D9B
     End
 
@@ -2031,12 +2012,12 @@ _1ADC:
 
 _1AF8:
     Call _1B75
-    FrontierScrCmd_7A 0, 0x8008
+    BufferNumber 0, 0x8008
     FrontierScrCmd_3E 0x4052, 0x8008
     CallIfEq 0x8008, 0, _1B27
-    FrontierScrCmd_7B 0
+    BufferPlayerName 0
     Message BattleCastleScene_Text_BeatDarach
-    FrontierScrCmd_12
+    CloseMessage
     GoTo _1B63
     End
 
@@ -2046,11 +2027,11 @@ _1B27:
 
 _1B2F:
     Call _1B75
-    FrontierScrCmd_7A 0, 0x8008
+    BufferNumber 0, 0x8008
     FrontierScrCmd_3E 0x4052, 0x8008
     CallIfEq 0x8008, 2, _1B5B
     Message BattleCastleScene_Text_BeatDarachGold
-    FrontierScrCmd_12
+    CloseMessage
     GoTo _1B63
     End
 
@@ -2075,7 +2056,7 @@ _1B91:
 
 _1B93:
     Message BattleCastleScene_Text_GiveCP
-    FrontierScrCmd_3A
+    WaitABPress
     GoTo _110F
     End
 

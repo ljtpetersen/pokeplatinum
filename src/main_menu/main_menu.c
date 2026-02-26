@@ -8,7 +8,6 @@
 #include "generated/text_banks.h"
 
 #include "struct_decls/pokedexdata_decl.h"
-#include "struct_defs/struct_02099F80.h"
 
 #include "game_opening/const_ov77_021D742C.h"
 #include "main_menu/application_template.h"
@@ -50,7 +49,7 @@
 #include "unk_0209A74C.h"
 #include "vram_transfer.h"
 
-#include "res/graphics/main_menu/main_menu_graphics.naix.h"
+#include "res/graphics/main_menu/main_menu_graphics.naix"
 #include "res/text/bank/main_menu_alerts.h"
 #include "res/text/bank/main_menu_options.h"
 #include "res/text/bank/unk_0695.h"
@@ -579,7 +578,7 @@ static void DoScrollStep(MainMenuAppData *appData)
 
 static void InitMainMenuGraphics(MainMenuAppData *appData)
 {
-    UnkStruct_02099F80 vramBanks = {
+    GXBanks vramBanks = {
         GX_VRAM_BG_128_A,
         GX_VRAM_BGEXTPLTT_NONE,
         GX_VRAM_SUB_BG_128_C,

@@ -2,7 +2,6 @@ subdir('mmodel')
 subdir('sound')
 
 prebuilt_files = [
-    'arealight.narc',
     'battle_win.NSCR',
     'btower_canm.resdat',
     'btower_celact.cldat',
@@ -107,11 +106,9 @@ prebuilt_files = [
     'trapmark.narc',
     'tw_arc_etc.naix',
     'tw_arc_etc.narc',
-    'ug_anim.narc',
     'ug_base_cur.nsbmd',
     'ug_boygirl.NCGR',
     'ug_boygirl.NCLR',
-    'ug_fossil.narc',
     'ug_hero.NANR',
     'ug_hero.NCER',
     'ug_hole.NANR',
@@ -127,7 +124,6 @@ prebuilt_files = [
     'uground_pltt2.resdat',
     'ugroundeffect.naix',
     'ugroundeffect.narc',
-    'underg_radar.narc',
     'UTF16.dat',
     'utility.bin',
     'weather_sys.narc',

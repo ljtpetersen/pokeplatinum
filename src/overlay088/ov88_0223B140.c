@@ -10,7 +10,6 @@
 #include "struct_decls/struct_02095E80_decl.h"
 #include "struct_defs/chatot_cry.h"
 #include "struct_defs/struct_02095E80_t.h"
-#include "struct_defs/struct_02099F80.h"
 
 #include "applications/pokemon_summary_screen/main.h"
 #include "overlay088/ov88_0223E9C4.h"
@@ -23,6 +22,7 @@
 #include "char_transfer.h"
 #include "character_sprite.h"
 #include "charcode_util.h"
+#include "chatot_cry.h"
 #include "communication_information.h"
 #include "communication_system.h"
 #include "font.h"
@@ -67,7 +67,6 @@
 #include "touch_screen.h"
 #include "trainer_info.h"
 #include "unk_0202ACE0.h"
-#include "unk_0202CC64.h"
 #include "unk_0202D778.h"
 #include "unk_0202F180.h"
 #include "unk_0203061C.h"
@@ -910,7 +909,7 @@ static void ov88_0223C0E0(void *param0)
 
 static void ov88_0223C15C(void)
 {
-    UnkStruct_02099F80 v0 = {
+    GXBanks v0 = {
         GX_VRAM_BG_128_A,
         GX_VRAM_BGEXTPLTT_NONE,
         GX_VRAM_SUB_BG_128_C,
@@ -1646,14 +1645,14 @@ static void ov88_0223D0D4(TrainerInfo *param0, PalPad *param1, PalPad *param2)
     CharCode_Copy(param2->trainerName, TrainerInfo_Name(param0));
 
     param2->trainerId = TrainerInfo_ID(param0);
-    param2->regionCode = TrainerInfo_RegionCode(param0);
+    param2->language = TrainerInfo_Language(param0);
     param2->gameCode = TrainerInfo_GameCode(param0);
     param2->gender = TrainerInfo_Gender(param0);
 
     for (v0 = 0; v0 < 16; v0++) {
         param2->associatedTrainerIds[v0] = param1[v0].trainerId;
         param2->associatedTrainerGameCodes[v0] = param1[v0].gameCode;
-        param2->associatedTrainerRegionCodes[v0] = param1[v0].regionCode;
+        param2->associatedTrainerLanguages[v0] = param1[v0].language;
         param2->associatedTrainerGenders[v0] = param1[v0].gender;
     }
 
@@ -2491,7 +2490,7 @@ static void ov88_0223E694(Party *param0, Party *param1, int param2, int param3, 
 
     if (Party_HasSpecies(param0, SPECIES_CHATOT) == 0) {
         ChatotCry *v4 = SaveData_GetChatotCry(param4->saveData);
-        ResetChatotCryDataStatus(v4);
+        ChatotCry_ResetStatus(v4);
     }
 
     SaveData_UpdateCatchRecords(param4->saveData, v1);

@@ -59,7 +59,7 @@
 #include "unk_020366A0.h"
 #include "unk_020393C8.h"
 
-#include "res/graphics/main_menu/main_menu_graphics.naix.h"
+#include "res/graphics/main_menu/main_menu_graphics.naix"
 #include "res/text/bank/mystery_gift_menu.h"
 #include "res/text/bank/unk_0695.h"
 
@@ -496,8 +496,8 @@ static BOOL ShouldPlayAnimation(WonderCard *wonderCard)
         break;
     case MYST_GIFT_POKEMON:
     case MYST_GIFT_EGG: {
-        Pokemon *pokemon = &wonderCard->pgt.data.pokemonGiftData.pokemon;
-        int metLocation = Pokemon_GetValue(pokemon, MON_DATA_EGG_LOCATION, NULL);
+        Pokemon *mon = &wonderCard->pgt.data.pokemonGiftData.pokemon;
+        int metLocation = Pokemon_GetValue(mon, MON_DATA_EGG_LOCATION, NULL);
 
         if ((metLocation >= EVENT_LOCATION_MOVIES_START && metLocation <= EVENT_LOCATION_MOVIES_END)
             || (metLocation >= EVENT_LOCATION_POKEMON_EVENT_09 && metLocation <= EVENT_LOCATION_POKEMON_EVENT_16)) {

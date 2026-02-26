@@ -5,8 +5,6 @@
 
 #include "constants/field/map.h"
 
-#include "struct_defs/struct_02099F80.h"
-
 #include "applications/town_map/graphics.h"
 #include "applications/town_map/map_blocks.h"
 #include "applications/town_map/sprites.h"
@@ -26,7 +24,7 @@
 #include "touch_pad.h"
 #include "unk_0208C098.h"
 
-#include "res/graphics/town_map/town_map_graphics.naix.h"
+#include "res/graphics/town_map/town_map_graphics.naix"
 
 enum TownMapAppState {
     TOWN_MAP_APP_STATE_INIT_RESOURCES,
@@ -189,7 +187,7 @@ static void TownMapAppVBlankCB(void *_appData)
 
 static void SetVRAMBanks(void)
 {
-    UnkStruct_02099F80 vramBanks = {
+    GXBanks vramBanks = {
         GX_VRAM_BG_128_A,
         GX_VRAM_BGEXTPLTT_NONE,
         GX_VRAM_SUB_BG_128_C,

@@ -3,31 +3,26 @@
 #include <nitro.h>
 #include <string.h>
 
-#include "constants/goods.h"
+#include "generated/goods.h"
+#include "generated/sphere_types.h"
 
-#include "overlay023/underground_defs.h"
+#include "underground/defs.h"
 
 #include "res/text/bank/underground_records.h"
 
-typedef struct SpherePrice {
-    u8 sphereType;
-    u8 minSize;
-    u8 maxSize;
-} SpherePrice;
-
-typedef struct Good {
+typedef struct GoodData {
     u8 width;
     u8 depth;
-    u8 collision[9];
+    u8 collision[MAX_GOOD_WIDTH * MAX_GOOD_DEPTH];
     SpherePrice spherePrice;
     int moneyPrice;
     int interactMessageID;
     u8 natDexRequired;
     u8 ungiftable;
-} Good;
+} GoodData;
 
 // clang-format off
-static const Good sGoods[] = {
+static const GoodData sGoodData[] = {
     [UG_GOOD_NONE] = {
         .width = 0,
         .depth = 0,
@@ -163,7 +158,7 @@ static const Good sGoods[] = {
             0, 0, 0,
         },
         .spherePrice = {
-            .sphereType = RED_SPHERE,
+            .sphereType = SPHERE_RED,
             .minSize = 8,
             .maxSize = 10,
         },
@@ -181,7 +176,7 @@ static const Good sGoods[] = {
             0, 0, 0,
         },
         .spherePrice = {
-            .sphereType = RED_SPHERE,
+            .sphereType = SPHERE_RED,
             .minSize = 8,
             .maxSize = 10,
         },
@@ -199,7 +194,7 @@ static const Good sGoods[] = {
             0, 0, 0,
         },
         .spherePrice = {
-            .sphereType = RED_SPHERE,
+            .sphereType = SPHERE_RED,
             .minSize = 8,
             .maxSize = 10,
         },
@@ -217,7 +212,7 @@ static const Good sGoods[] = {
             1, 1, 1,
         },
         .spherePrice = {
-            .sphereType = BLUE_SPHERE,
+            .sphereType = SPHERE_BLUE,
             .minSize = 12,
             .maxSize = 15,
         },
@@ -235,7 +230,7 @@ static const Good sGoods[] = {
             0, 0, 0,
         },
         .spherePrice = {
-            .sphereType = BLUE_SPHERE,
+            .sphereType = SPHERE_BLUE,
             .minSize = 8,
             .maxSize = 10,
         },
@@ -253,7 +248,7 @@ static const Good sGoods[] = {
             0, 0, 0,
         },
         .spherePrice = {
-            .sphereType = BLUE_SPHERE,
+            .sphereType = SPHERE_BLUE,
             .minSize = 8,
             .maxSize = 10,
         },
@@ -271,7 +266,7 @@ static const Good sGoods[] = {
             1, 0, 0,
         },
         .spherePrice = {
-            .sphereType = BLUE_SPHERE,
+            .sphereType = SPHERE_BLUE,
             .minSize = 12,
             .maxSize = 15,
         },
@@ -289,7 +284,7 @@ static const Good sGoods[] = {
             0, 0, 0,
         },
         .spherePrice = {
-            .sphereType = BLUE_SPHERE,
+            .sphereType = SPHERE_BLUE,
             .minSize = 12,
             .maxSize = 15,
         },
@@ -307,7 +302,7 @@ static const Good sGoods[] = {
             0, 0, 0,
         },
         .spherePrice = {
-            .sphereType = BLUE_SPHERE,
+            .sphereType = SPHERE_BLUE,
             .minSize = 20,
             .maxSize = 25,
         },
@@ -325,7 +320,7 @@ static const Good sGoods[] = {
             0, 0, 0,
         },
         .spherePrice = {
-            .sphereType = GREEN_SPHERE,
+            .sphereType = SPHERE_GREEN,
             .minSize = 20,
             .maxSize = 25,
         },
@@ -343,7 +338,7 @@ static const Good sGoods[] = {
             0, 0, 0,
         },
         .spherePrice = {
-            .sphereType = GREEN_SPHERE,
+            .sphereType = SPHERE_GREEN,
             .minSize = 8,
             .maxSize = 10,
         },
@@ -361,7 +356,7 @@ static const Good sGoods[] = {
             0, 0, 0,
         },
         .spherePrice = {
-            .sphereType = GREEN_SPHERE,
+            .sphereType = SPHERE_GREEN,
             .minSize = 12,
             .maxSize = 15,
         },
@@ -379,7 +374,7 @@ static const Good sGoods[] = {
             0, 0, 0,
         },
         .spherePrice = {
-            .sphereType = GREEN_SPHERE,
+            .sphereType = SPHERE_GREEN,
             .minSize = 35,
             .maxSize = 49,
         },
@@ -397,7 +392,7 @@ static const Good sGoods[] = {
             0, 0, 0,
         },
         .spherePrice = {
-            .sphereType = GREEN_SPHERE,
+            .sphereType = SPHERE_GREEN,
             .minSize = 35,
             .maxSize = 49,
         },
@@ -415,7 +410,7 @@ static const Good sGoods[] = {
             0, 0, 0,
         },
         .spherePrice = {
-            .sphereType = GREEN_SPHERE,
+            .sphereType = SPHERE_GREEN,
             .minSize = 12,
             .maxSize = 15,
         },
@@ -433,7 +428,7 @@ static const Good sGoods[] = {
             0, 0, 0,
         },
         .spherePrice = {
-            .sphereType = GREEN_SPHERE,
+            .sphereType = SPHERE_GREEN,
             .minSize = 20,
             .maxSize = 25,
         },
@@ -451,7 +446,7 @@ static const Good sGoods[] = {
             0, 0, 0,
         },
         .spherePrice = {
-            .sphereType = GREEN_SPHERE,
+            .sphereType = SPHERE_GREEN,
             .minSize = 20,
             .maxSize = 25,
         },
@@ -469,7 +464,7 @@ static const Good sGoods[] = {
             0, 0, 0,
         },
         .spherePrice = {
-            .sphereType = GREEN_SPHERE,
+            .sphereType = SPHERE_GREEN,
             .minSize = 50,
             .maxSize = 60,
         },
@@ -487,7 +482,7 @@ static const Good sGoods[] = {
             0, 0, 0,
         },
         .spherePrice = {
-            .sphereType = PRISM_SPHERE,
+            .sphereType = SPHERE_PRISM,
             .minSize = 9,
             .maxSize = 10,
         },
@@ -505,7 +500,7 @@ static const Good sGoods[] = {
             0, 0, 0,
         },
         .spherePrice = {
-            .sphereType = GREEN_SPHERE,
+            .sphereType = SPHERE_GREEN,
             .minSize = 12,
             .maxSize = 15,
         },
@@ -523,7 +518,7 @@ static const Good sGoods[] = {
             0, 0, 0,
         },
         .spherePrice = {
-            .sphereType = PRISM_SPHERE,
+            .sphereType = SPHERE_PRISM,
             .minSize = 9,
             .maxSize = 10,
         },
@@ -541,7 +536,7 @@ static const Good sGoods[] = {
             0, 1, 0,
         },
         .spherePrice = {
-            .sphereType = BLUE_SPHERE,
+            .sphereType = SPHERE_BLUE,
             .minSize = 33,
             .maxSize = 40,
         },
@@ -559,7 +554,7 @@ static const Good sGoods[] = {
             0, 0, 0,
         },
         .spherePrice = {
-            .sphereType = RED_SPHERE,
+            .sphereType = SPHERE_RED,
             .minSize = 8,
             .maxSize = 10,
         },
@@ -577,7 +572,7 @@ static const Good sGoods[] = {
             0, 0, 0,
         },
         .spherePrice = {
-            .sphereType = RED_SPHERE,
+            .sphereType = SPHERE_RED,
             .minSize = 20,
             .maxSize = 25,
         },
@@ -595,7 +590,7 @@ static const Good sGoods[] = {
             0, 0, 0,
         },
         .spherePrice = {
-            .sphereType = RED_SPHERE,
+            .sphereType = SPHERE_RED,
             .minSize = 33,
             .maxSize = 40,
         },
@@ -613,7 +608,7 @@ static const Good sGoods[] = {
             0, 0, 0,
         },
         .spherePrice = {
-            .sphereType = PALE_SPHERE,
+            .sphereType = SPHERE_PALE,
             .minSize = 10,
             .maxSize = 40,
         },
@@ -631,7 +626,7 @@ static const Good sGoods[] = {
             0, 0, 0,
         },
         .spherePrice = {
-            .sphereType = PALE_SPHERE,
+            .sphereType = SPHERE_PALE,
             .minSize = 10,
             .maxSize = 40,
         },
@@ -649,7 +644,7 @@ static const Good sGoods[] = {
             0, 0, 0,
         },
         .spherePrice = {
-            .sphereType = PALE_SPHERE,
+            .sphereType = SPHERE_PALE,
             .minSize = 10,
             .maxSize = 40,
         },
@@ -667,7 +662,7 @@ static const Good sGoods[] = {
             0, 0, 0,
         },
         .spherePrice = {
-            .sphereType = PRISM_SPHERE,
+            .sphereType = SPHERE_PRISM,
             .minSize = 9,
             .maxSize = 10,
         },
@@ -685,7 +680,7 @@ static const Good sGoods[] = {
             0, 0, 0,
         },
         .spherePrice = {
-            .sphereType = RED_SPHERE,
+            .sphereType = SPHERE_RED,
             .minSize = 20,
             .maxSize = 25,
         },
@@ -703,7 +698,7 @@ static const Good sGoods[] = {
             0, 0, 0,
         },
         .spherePrice = {
-            .sphereType = PALE_SPHERE,
+            .sphereType = SPHERE_PALE,
             .minSize = 10,
             .maxSize = 40,
         },
@@ -721,7 +716,7 @@ static const Good sGoods[] = {
             1, 1, 0,
         },
         .spherePrice = {
-            .sphereType = PRISM_SPHERE,
+            .sphereType = SPHERE_PRISM,
             .minSize = 90,
             .maxSize = 99,
         },
@@ -739,7 +734,7 @@ static const Good sGoods[] = {
             0, 0, 0,
         },
         .spherePrice = {
-            .sphereType = PRISM_SPHERE,
+            .sphereType = SPHERE_PRISM,
             .minSize = 28,
             .maxSize = 30,
         },
@@ -757,7 +752,7 @@ static const Good sGoods[] = {
             0, 0, 0,
         },
         .spherePrice = {
-            .sphereType = PRISM_SPHERE,
+            .sphereType = SPHERE_PRISM,
             .minSize = 28,
             .maxSize = 30,
         },
@@ -775,7 +770,7 @@ static const Good sGoods[] = {
             0, 0, 0,
         },
         .spherePrice = {
-            .sphereType = PRISM_SPHERE,
+            .sphereType = SPHERE_PRISM,
             .minSize = 48,
             .maxSize = 50,
         },
@@ -793,7 +788,7 @@ static const Good sGoods[] = {
             0, 0, 0,
         },
         .spherePrice = {
-            .sphereType = GREEN_SPHERE,
+            .sphereType = SPHERE_GREEN,
             .minSize = 8,
             .maxSize = 10,
         },
@@ -811,7 +806,7 @@ static const Good sGoods[] = {
             0, 0, 0,
         },
         .spherePrice = {
-            .sphereType = RED_SPHERE,
+            .sphereType = SPHERE_RED,
             .minSize = 33,
             .maxSize = 40,
         },
@@ -829,7 +824,7 @@ static const Good sGoods[] = {
             0, 0, 0,
         },
         .spherePrice = {
-            .sphereType = GREEN_SPHERE,
+            .sphereType = SPHERE_GREEN,
             .minSize = 33,
             .maxSize = 40,
         },
@@ -847,7 +842,7 @@ static const Good sGoods[] = {
             0, 0, 0,
         },
         .spherePrice = {
-            .sphereType = PALE_SPHERE,
+            .sphereType = SPHERE_PALE,
             .minSize = 10,
             .maxSize = 40,
         },
@@ -901,7 +896,7 @@ static const Good sGoods[] = {
             1, 0, 1,
         },
         .spherePrice = {
-            .sphereType = PALE_SPHERE,
+            .sphereType = SPHERE_PALE,
             .minSize = 20,
             .maxSize = 70,
         },
@@ -919,7 +914,7 @@ static const Good sGoods[] = {
             1, 0, 1,
         },
         .spherePrice = {
-            .sphereType = PALE_SPHERE,
+            .sphereType = SPHERE_PALE,
             .minSize = 20,
             .maxSize = 70,
         },
@@ -937,7 +932,7 @@ static const Good sGoods[] = {
             1, 0, 1,
         },
         .spherePrice = {
-            .sphereType = PALE_SPHERE,
+            .sphereType = SPHERE_PALE,
             .minSize = 40,
             .maxSize = 99,
         },
@@ -955,7 +950,7 @@ static const Good sGoods[] = {
             1, 0, 1,
         },
         .spherePrice = {
-            .sphereType = PRISM_SPHERE,
+            .sphereType = SPHERE_PRISM,
             .minSize = 48,
             .maxSize = 50,
         },
@@ -973,7 +968,7 @@ static const Good sGoods[] = {
             1, 0, 1,
         },
         .spherePrice = {
-            .sphereType = PRISM_SPHERE,
+            .sphereType = SPHERE_PRISM,
             .minSize = 48,
             .maxSize = 50,
         },
@@ -991,7 +986,7 @@ static const Good sGoods[] = {
             1, 1, 1,
         },
         .spherePrice = {
-            .sphereType = PRISM_SPHERE,
+            .sphereType = SPHERE_PRISM,
             .minSize = 48,
             .maxSize = 50,
         },
@@ -1009,7 +1004,7 @@ static const Good sGoods[] = {
             1, 0, 1,
         },
         .spherePrice = {
-            .sphereType = PRISM_SPHERE,
+            .sphereType = SPHERE_PRISM,
             .minSize = 48,
             .maxSize = 50,
         },
@@ -1027,7 +1022,7 @@ static const Good sGoods[] = {
             1, 0, 1,
         },
         .spherePrice = {
-            .sphereType = PRISM_SPHERE,
+            .sphereType = SPHERE_PRISM,
             .minSize = 48,
             .maxSize = 50,
         },
@@ -1045,7 +1040,7 @@ static const Good sGoods[] = {
             0, 0, 0,
         },
         .spherePrice = {
-            .sphereType = BLUE_SPHERE,
+            .sphereType = SPHERE_BLUE,
             .minSize = 10,
             .maxSize = 12,
         },
@@ -1063,7 +1058,7 @@ static const Good sGoods[] = {
             0, 0, 0,
         },
         .spherePrice = {
-            .sphereType = BLUE_SPHERE,
+            .sphereType = SPHERE_BLUE,
             .minSize = 25,
             .maxSize = 30,
         },
@@ -1081,7 +1076,7 @@ static const Good sGoods[] = {
             0, 0, 0,
         },
         .spherePrice = {
-            .sphereType = RED_SPHERE,
+            .sphereType = SPHERE_RED,
             .minSize = 12,
             .maxSize = 14,
         },
@@ -1099,7 +1094,7 @@ static const Good sGoods[] = {
             0, 0, 0,
         },
         .spherePrice = {
-            .sphereType = RED_SPHERE,
+            .sphereType = SPHERE_RED,
             .minSize = 28,
             .maxSize = 32,
         },
@@ -1117,7 +1112,7 @@ static const Good sGoods[] = {
             0, 0, 0,
         },
         .spherePrice = {
-            .sphereType = RED_SPHERE,
+            .sphereType = SPHERE_RED,
             .minSize = 10,
             .maxSize = 12,
         },
@@ -1135,7 +1130,7 @@ static const Good sGoods[] = {
             0, 0, 0,
         },
         .spherePrice = {
-            .sphereType = RED_SPHERE,
+            .sphereType = SPHERE_RED,
             .minSize = 25,
             .maxSize = 30,
         },
@@ -1153,7 +1148,7 @@ static const Good sGoods[] = {
             0, 0, 0,
         },
         .spherePrice = {
-            .sphereType = BLUE_SPHERE,
+            .sphereType = SPHERE_BLUE,
             .minSize = 12,
             .maxSize = 14,
         },
@@ -1171,7 +1166,7 @@ static const Good sGoods[] = {
             0, 0, 0,
         },
         .spherePrice = {
-            .sphereType = BLUE_SPHERE,
+            .sphereType = SPHERE_BLUE,
             .minSize = 28,
             .maxSize = 32,
         },
@@ -1189,7 +1184,7 @@ static const Good sGoods[] = {
             0, 0, 0,
         },
         .spherePrice = {
-            .sphereType = PALE_SPHERE,
+            .sphereType = SPHERE_PALE,
             .minSize = 20,
             .maxSize = 50,
         },
@@ -1207,7 +1202,7 @@ static const Good sGoods[] = {
             0, 0, 0,
         },
         .spherePrice = {
-            .sphereType = PALE_SPHERE,
+            .sphereType = SPHERE_PALE,
             .minSize = 20,
             .maxSize = 50,
         },
@@ -1225,7 +1220,7 @@ static const Good sGoods[] = {
             0, 0, 0,
         },
         .spherePrice = {
-            .sphereType = PALE_SPHERE,
+            .sphereType = SPHERE_PALE,
             .minSize = 20,
             .maxSize = 50,
         },
@@ -1243,7 +1238,7 @@ static const Good sGoods[] = {
             0, 0, 0,
         },
         .spherePrice = {
-            .sphereType = PALE_SPHERE,
+            .sphereType = SPHERE_PALE,
             .minSize = 20,
             .maxSize = 50,
         },
@@ -1261,7 +1256,7 @@ static const Good sGoods[] = {
             0, 0, 0,
         },
         .spherePrice = {
-            .sphereType = GREEN_SPHERE,
+            .sphereType = SPHERE_GREEN,
             .minSize = 30,
             .maxSize = 38,
         },
@@ -1279,7 +1274,7 @@ static const Good sGoods[] = {
             0, 0, 0,
         },
         .spherePrice = {
-            .sphereType = GREEN_SPHERE,
+            .sphereType = SPHERE_GREEN,
             .minSize = 65,
             .maxSize = 80,
         },
@@ -1297,7 +1292,7 @@ static const Good sGoods[] = {
             0, 0, 0,
         },
         .spherePrice = {
-            .sphereType = RED_SPHERE,
+            .sphereType = SPHERE_RED,
             .minSize = 15,
             .maxSize = 18,
         },
@@ -1315,7 +1310,7 @@ static const Good sGoods[] = {
             0, 0, 0,
         },
         .spherePrice = {
-            .sphereType = RED_SPHERE,
+            .sphereType = SPHERE_RED,
             .minSize = 33,
             .maxSize = 40,
         },
@@ -1693,7 +1688,7 @@ static const Good sGoods[] = {
             0, 0, 0,
         },
         .spherePrice = {
-            .sphereType = RED_SPHERE,
+            .sphereType = SPHERE_RED,
             .minSize = 25,
             .maxSize = 30,
         },
@@ -1711,7 +1706,7 @@ static const Good sGoods[] = {
             0, 0, 0,
         },
         .spherePrice = {
-            .sphereType = GREEN_SPHERE,
+            .sphereType = SPHERE_GREEN,
             .minSize = 25,
             .maxSize = 30,
         },
@@ -1729,7 +1724,7 @@ static const Good sGoods[] = {
             0, 0, 0,
         },
         .spherePrice = {
-            .sphereType = BLUE_SPHERE,
+            .sphereType = SPHERE_BLUE,
             .minSize = 25,
             .maxSize = 30,
         },
@@ -1747,7 +1742,7 @@ static const Good sGoods[] = {
             0, 0, 0,
         },
         .spherePrice = {
-            .sphereType = RED_SPHERE,
+            .sphereType = SPHERE_RED,
             .minSize = 25,
             .maxSize = 30,
         },
@@ -1765,7 +1760,7 @@ static const Good sGoods[] = {
             0, 0, 0,
         },
         .spherePrice = {
-            .sphereType = GREEN_SPHERE,
+            .sphereType = SPHERE_GREEN,
             .minSize = 25,
             .maxSize = 30,
         },
@@ -1783,7 +1778,7 @@ static const Good sGoods[] = {
             0, 0, 0,
         },
         .spherePrice = {
-            .sphereType = BLUE_SPHERE,
+            .sphereType = SPHERE_BLUE,
             .minSize = 25,
             .maxSize = 30,
         },
@@ -1801,7 +1796,7 @@ static const Good sGoods[] = {
             0, 0, 0,
         },
         .spherePrice = {
-            .sphereType = RED_SPHERE,
+            .sphereType = SPHERE_RED,
             .minSize = 25,
             .maxSize = 30,
         },
@@ -1819,7 +1814,7 @@ static const Good sGoods[] = {
             0, 0, 0,
         },
         .spherePrice = {
-            .sphereType = GREEN_SPHERE,
+            .sphereType = SPHERE_GREEN,
             .minSize = 25,
             .maxSize = 30,
         },
@@ -1837,7 +1832,7 @@ static const Good sGoods[] = {
             0, 0, 0,
         },
         .spherePrice = {
-            .sphereType = BLUE_SPHERE,
+            .sphereType = SPHERE_BLUE,
             .minSize = 25,
             .maxSize = 30,
         },
@@ -1855,7 +1850,7 @@ static const Good sGoods[] = {
             0, 0, 0,
         },
         .spherePrice = {
-            .sphereType = RED_SPHERE,
+            .sphereType = SPHERE_RED,
             .minSize = 25,
             .maxSize = 40,
         },
@@ -1873,7 +1868,7 @@ static const Good sGoods[] = {
             0, 0, 0,
         },
         .spherePrice = {
-            .sphereType = GREEN_SPHERE,
+            .sphereType = SPHERE_GREEN,
             .minSize = 35,
             .maxSize = 40,
         },
@@ -1891,7 +1886,7 @@ static const Good sGoods[] = {
             0, 0, 0,
         },
         .spherePrice = {
-            .sphereType = BLUE_SPHERE,
+            .sphereType = SPHERE_BLUE,
             .minSize = 35,
             .maxSize = 40,
         },
@@ -1909,7 +1904,7 @@ static const Good sGoods[] = {
             0, 0, 0,
         },
         .spherePrice = {
-            .sphereType = PALE_SPHERE,
+            .sphereType = SPHERE_PALE,
             .minSize = 70,
             .maxSize = 99,
         },
@@ -1927,7 +1922,7 @@ static const Good sGoods[] = {
             0, 0, 0,
         },
         .spherePrice = {
-            .sphereType = RED_SPHERE,
+            .sphereType = SPHERE_RED,
             .minSize = 60,
             .maxSize = 70,
         },
@@ -1945,7 +1940,7 @@ static const Good sGoods[] = {
             0, 0, 0,
         },
         .spherePrice = {
-            .sphereType = BLUE_SPHERE,
+            .sphereType = SPHERE_BLUE,
             .minSize = 60,
             .maxSize = 70,
         },
@@ -1963,7 +1958,7 @@ static const Good sGoods[] = {
             0, 0, 0,
         },
         .spherePrice = {
-            .sphereType = PALE_SPHERE,
+            .sphereType = SPHERE_PALE,
             .minSize = 40,
             .maxSize = 70,
         },
@@ -1981,7 +1976,7 @@ static const Good sGoods[] = {
             0, 0, 0,
         },
         .spherePrice = {
-            .sphereType = PALE_SPHERE,
+            .sphereType = SPHERE_PALE,
             .minSize = 40,
             .maxSize = 70,
         },
@@ -1999,7 +1994,7 @@ static const Good sGoods[] = {
             0, 0, 0,
         },
         .spherePrice = {
-            .sphereType = GREEN_SPHERE,
+            .sphereType = SPHERE_GREEN,
             .minSize = 80,
             .maxSize = 99,
         },
@@ -2017,7 +2012,7 @@ static const Good sGoods[] = {
             0, 0, 0,
         },
         .spherePrice = {
-            .sphereType = RED_SPHERE,
+            .sphereType = SPHERE_RED,
             .minSize = 15,
             .maxSize = 20,
         },
@@ -2035,7 +2030,7 @@ static const Good sGoods[] = {
             0, 0, 0,
         },
         .spherePrice = {
-            .sphereType = GREEN_SPHERE,
+            .sphereType = SPHERE_GREEN,
             .minSize = 15,
             .maxSize = 20,
         },
@@ -2053,7 +2048,7 @@ static const Good sGoods[] = {
             0, 0, 0,
         },
         .spherePrice = {
-            .sphereType = BLUE_SPHERE,
+            .sphereType = SPHERE_BLUE,
             .minSize = 15,
             .maxSize = 20,
         },
@@ -2071,7 +2066,7 @@ static const Good sGoods[] = {
             0, 0, 0,
         },
         .spherePrice = {
-            .sphereType = PALE_SPHERE,
+            .sphereType = SPHERE_PALE,
             .minSize = 15,
             .maxSize = 30,
         },
@@ -2089,7 +2084,7 @@ static const Good sGoods[] = {
             0, 0, 0,
         },
         .spherePrice = {
-            .sphereType = PRISM_SPHERE,
+            .sphereType = SPHERE_PRISM,
             .minSize = 28,
             .maxSize = 30,
         },
@@ -2251,7 +2246,7 @@ static const Good sGoods[] = {
             0, 0, 0,
         },
         .spherePrice = {
-            .sphereType = RED_SPHERE,
+            .sphereType = SPHERE_RED,
             .minSize = 80,
             .maxSize = 99,
         },
@@ -2269,7 +2264,7 @@ static const Good sGoods[] = {
             0, 0, 0,
         },
         .spherePrice = {
-            .sphereType = BLUE_SPHERE,
+            .sphereType = SPHERE_BLUE,
             .minSize = 80,
             .maxSize = 99,
         },
@@ -2305,7 +2300,7 @@ static const Good sGoods[] = {
             0, 0, 0,
         },
         .spherePrice = {
-            .sphereType = BLUE_SPHERE,
+            .sphereType = SPHERE_BLUE,
             .minSize = 33,
             .maxSize = 40,
         },
@@ -2323,7 +2318,7 @@ static const Good sGoods[] = {
             0, 0, 0,
         },
         .spherePrice = {
-            .sphereType = PALE_SPHERE,
+            .sphereType = SPHERE_PALE,
             .minSize = 40,
             .maxSize = 70,
         },
@@ -2341,7 +2336,7 @@ static const Good sGoods[] = {
             0, 0, 0,
         },
         .spherePrice = {
-            .sphereType = PALE_SPHERE,
+            .sphereType = SPHERE_PALE,
             .minSize = 70,
             .maxSize = 99,
         },
@@ -2431,7 +2426,7 @@ static const Good sGoods[] = {
             0, 0, 0,
         },
         .spherePrice = {
-            .sphereType = BLUE_SPHERE,
+            .sphereType = SPHERE_BLUE,
             .minSize = 20,
             .maxSize = 25,
         },
@@ -2449,7 +2444,7 @@ static const Good sGoods[] = {
             0, 0, 0,
         },
         .spherePrice = {
-            .sphereType = GREEN_SPHERE,
+            .sphereType = SPHERE_GREEN,
             .minSize = 8,
             .maxSize = 10,
         },
@@ -2467,7 +2462,7 @@ static const Good sGoods[] = {
             0, 0, 0,
         },
         .spherePrice = {
-            .sphereType = GREEN_SPHERE,
+            .sphereType = SPHERE_GREEN,
             .minSize = 8,
             .maxSize = 10,
         },
@@ -2485,7 +2480,7 @@ static const Good sGoods[] = {
             0, 0, 0,
         },
         .spherePrice = {
-            .sphereType = GREEN_SPHERE,
+            .sphereType = SPHERE_GREEN,
             .minSize = 8,
             .maxSize = 10,
         },
@@ -2503,7 +2498,7 @@ static const Good sGoods[] = {
             0, 0, 0,
         },
         .spherePrice = {
-            .sphereType = GREEN_SPHERE,
+            .sphereType = SPHERE_GREEN,
             .minSize = 8,
             .maxSize = 10,
         },
@@ -2521,7 +2516,7 @@ static const Good sGoods[] = {
             0, 0, 0,
         },
         .spherePrice = {
-            .sphereType = GREEN_SPHERE,
+            .sphereType = SPHERE_GREEN,
             .minSize = 8,
             .maxSize = 10,
         },
@@ -2533,52 +2528,52 @@ static const Good sGoods[] = {
 };
 // clang-format on
 
-u8 Good_GetWidth(int goodID)
+u8 Good_GetWidth(enum Good goodID)
 {
-    return sGoods[goodID].width;
+    return sGoodData[goodID].width;
 }
 
-u8 Good_GetDepth(int goodID)
+u8 Good_GetDepth(enum Good goodID)
 {
-    return sGoods[goodID].depth;
+    return sGoodData[goodID].depth;
 }
 
-const u8 *Good_GetCollision(int goodID)
+const u8 *Good_GetCollision(enum Good goodID)
 {
-    return sGoods[goodID].collision;
+    return sGoodData[goodID].collision;
 }
 
-u8 Good_GetSpherePriceType(int goodID)
+u8 Good_GetSpherePriceType(enum Good goodID)
 {
-    return sGoods[goodID].spherePrice.sphereType;
+    return sGoodData[goodID].spherePrice.sphereType;
 }
 
-u8 Good_GetSpherePriceMinSize(int goodID)
+u8 Good_GetSpherePriceMinSize(enum Good goodID)
 {
-    return sGoods[goodID].spherePrice.minSize;
+    return sGoodData[goodID].spherePrice.minSize;
 }
 
-u8 Good_GetSpherePriceMaxSize(int goodID)
+u8 Good_GetSpherePriceMaxSize(enum Good goodID)
 {
-    return sGoods[goodID].spherePrice.maxSize;
+    return sGoodData[goodID].spherePrice.maxSize;
 }
 
-int Good_GetMoneyPrice(int goodID)
+int Good_GetMoneyPrice(enum Good goodID)
 {
-    return sGoods[goodID].moneyPrice;
+    return sGoodData[goodID].moneyPrice;
 }
 
-int Good_GetInteractMessageID(int goodID)
+int Good_GetInteractMessageID(enum Good goodID)
 {
-    return sGoods[goodID].interactMessageID;
+    return sGoodData[goodID].interactMessageID;
 }
 
-BOOL Good_IsNatDexRequired(int goodID)
+BOOL Good_IsNatDexRequired(enum Good goodID)
 {
-    return sGoods[goodID].natDexRequired;
+    return sGoodData[goodID].natDexRequired;
 }
 
-BOOL Good_IsUngiftable(int goodID)
+BOOL Good_IsUngiftable(enum Good goodID)
 {
-    return sGoods[goodID].ungiftable;
+    return sGoodData[goodID].ungiftable;
 }

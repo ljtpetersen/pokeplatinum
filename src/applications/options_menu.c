@@ -6,8 +6,6 @@
 #include "constants/heap.h"
 #include "constants/narc.h"
 
-#include "struct_defs/struct_02099F80.h"
-
 #include "bg_window.h"
 #include "font.h"
 #include "game_options.h"
@@ -31,7 +29,7 @@
 #include "unk_020393C8.h"
 #include "vram_transfer.h"
 
-#include "res/graphics/options_menu/config_gra.naix.h"
+#include "res/graphics/options_menu/config_gra.naix"
 #include "res/text/bank/options_menu.h"
 
 #define MENU_TITLE_BASE_TILE      10
@@ -309,7 +307,7 @@ BOOL OptionsMenu_Main(ApplicationManager *appMan, int *state)
 
 static void SetVRAMBanks()
 {
-    UnkStruct_02099F80 banks = {
+    GXBanks banks = {
         GX_VRAM_BG_128_A,
         GX_VRAM_BGEXTPLTT_NONE,
         GX_VRAM_SUB_BG_128_C,

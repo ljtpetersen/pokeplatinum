@@ -14,6 +14,7 @@
 
 #include "field/field_system.h"
 
+#include "chatot_cry.h"
 #include "daycare_save.h"
 #include "game_records.h"
 #include "heap.h"
@@ -29,7 +30,6 @@
 #include "string_template.h"
 #include "trainer_info.h"
 #include "unk_02017038.h"
-#include "unk_0202CC64.h"
 #include "unk_020559DC.h"
 #include "unk_02092494.h"
 
@@ -115,7 +115,7 @@ static void Daycare_MoveToDaycareMonFromParty(Party *party, int partySlot, Dayca
 
     if (Party_HasSpecies(party, SPECIES_CHATOT) == FALSE) {
         ChatotCry *cry = SaveData_GetChatotCry(saveData);
-        ResetChatotCryDataStatus(cry);
+        ChatotCry_ResetStatus(cry);
     }
 }
 
@@ -919,7 +919,7 @@ BOOL Daycare_Update(Daycare *daycare, Party *party, FieldSystem *fieldSystem)
 {
     u32 i, eggCycles, monCount, compatibilityScore, rand;
     u32 v5 = 0, steps;
-    int toSubstract;
+    int toSubtract;
     BoxPokemon *boxMon[NUM_DAYCARE_MONS];
 
     Daycare_CopyDaycareMonToBoxMonArray(daycare, boxMon);
@@ -950,7 +950,7 @@ BOOL Daycare_Update(Daycare *daycare, Party *party, FieldSystem *fieldSystem)
 
     if (steps == Daycare_GetEggCycleLength(fieldSystem)) {
         Daycare_SetStepCounter(daycare, 0);
-        toSubstract = Party_GetEggCyclesToSubtract(party);
+        toSubtract = Party_GetEggCyclesToSubtract(party);
 
         for (i = 0; i < Party_GetCurrentCount(party); i++) {
             Pokemon *mon = Party_GetPokemonBySlotIndex(party, i);
@@ -963,8 +963,8 @@ BOOL Daycare_Update(Daycare *daycare, Party *party, FieldSystem *fieldSystem)
                 eggCycles = Pokemon_GetValue(mon, MON_DATA_FRIENDSHIP, NULL);
 
                 if (eggCycles != 0) {
-                    if (eggCycles >= toSubstract) {
-                        eggCycles -= toSubstract;
+                    if (eggCycles >= toSubtract) {
+                        eggCycles -= toSubtract;
                     } else {
                         eggCycles--;
                     }

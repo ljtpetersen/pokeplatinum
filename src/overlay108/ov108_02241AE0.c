@@ -6,7 +6,6 @@
 #include "struct_decls/struct_020304A0_decl.h"
 #include "struct_decls/struct_020305B8_decl.h"
 #include "struct_defs/battle_frontier.h"
-#include "struct_defs/struct_02099F80.h"
 
 #include "overlay104/ov104_0223BCBC.h"
 #include "overlay104/struct_ov104_02238240.h"
@@ -325,7 +324,7 @@ int ov108_02241AE0(ApplicationManager *appMan, int *param1)
 
     ov108_0224237C(v1);
 
-    if (ov104_0223C000(v1->unk_09) == 1) {
+    if (BattleArcade_IsMultiPlayerChallenge(v1->unk_09) == 1) {
         sub_0209BA80(v1);
     }
 
@@ -362,7 +361,7 @@ int ov108_02241C38(ApplicationManager *appMan, int *param1)
             if (v0->unk_2F_1 == 1) {
                 ov108_0224295C(v0, param1, 2);
             } else {
-                if (ov104_0223C000(v0->unk_09) == 1) {
+                if (BattleArcade_IsMultiPlayerChallenge(v0->unk_09) == 1) {
                     ov108_0224295C(v0, param1, 3);
                 } else {
                     ov108_0224295C(v0, param1, 4);
@@ -420,7 +419,7 @@ static BOOL ov108_02241DB0(UnkStruct_ov108_02241DB0 *param0)
 {
     switch (param0->unk_08) {
     case 0:
-        if (ov104_0223C000(param0->unk_09) == 1) {
+        if (BattleArcade_IsMultiPlayerChallenge(param0->unk_09) == 1) {
             CommTool_ClearReceivedTempDataAllPlayers();
             CommTiming_StartSync(199);
             param0->unk_08++;
@@ -429,7 +428,7 @@ static BOOL ov108_02241DB0(UnkStruct_ov108_02241DB0 *param0)
         }
         break;
     case 1:
-        if (ov104_0223C000(param0->unk_09) == 1) {
+        if (BattleArcade_IsMultiPlayerChallenge(param0->unk_09) == 1) {
             if (CommTiming_IsSyncState(199) == 1) {
                 CommTool_ClearReceivedTempDataAllPlayers();
                 param0->unk_08++;
@@ -451,7 +450,7 @@ static BOOL ov108_02241DB0(UnkStruct_ov108_02241DB0 *param0)
         param0->unk_08++;
         break;
     case 5:
-        if (ov104_0223C000(param0->unk_09) == 1) {
+        if (BattleArcade_IsMultiPlayerChallenge(param0->unk_09) == 1) {
             CommTool_ClearReceivedTempDataAllPlayers();
             CommTiming_StartSync(201);
             param0->unk_08++;
@@ -460,7 +459,7 @@ static BOOL ov108_02241DB0(UnkStruct_ov108_02241DB0 *param0)
         }
         break;
     case 6:
-        if (ov104_0223C000(param0->unk_09) == 1) {
+        if (BattleArcade_IsMultiPlayerChallenge(param0->unk_09) == 1) {
             if (CommTiming_IsSyncState(201) == 1) {
                 CommTool_ClearReceivedTempDataAllPlayers();
                 param0->unk_08++;
@@ -470,7 +469,7 @@ static BOOL ov108_02241DB0(UnkStruct_ov108_02241DB0 *param0)
         }
         break;
     case 7:
-        if (ov104_0223C000(param0->unk_09) == 1) {
+        if (BattleArcade_IsMultiPlayerChallenge(param0->unk_09) == 1) {
             if (ov108_02242A38(param0, 30, 0) == 1) {
                 param0->unk_08++;
             }
@@ -480,7 +479,7 @@ static BOOL ov108_02241DB0(UnkStruct_ov108_02241DB0 *param0)
         }
         break;
     case 8:
-        if (ov104_0223C000(param0->unk_09) == 1) {
+        if (BattleArcade_IsMultiPlayerChallenge(param0->unk_09) == 1) {
             if (param0->unk_0F >= 2) {
                 param0->unk_0F = 0;
                 StartScreenFade(FADE_BOTH_SCREENS, FADE_TYPE_BRIGHTNESS_IN, FADE_TYPE_BRIGHTNESS_IN, COLOR_BLACK, 6, 1 * 3, HEAP_ID_103);
@@ -606,7 +605,7 @@ static BOOL ov108_02241F28(UnkStruct_ov108_02241DB0 *param0)
         if ((ov108_02242FE8(param0) == 1) || (param0->unk_18 == 0)) {
             ov108_022429FC(param0);
 
-            if (ov104_0223C000(param0->unk_09) == 0) {
+            if (BattleArcade_IsMultiPlayerChallenge(param0->unk_09) == 0) {
                 param0->unk_08 = 7;
                 break;
             } else {
@@ -832,7 +831,7 @@ static void ov108_0224237C(UnkStruct_ov108_02241DB0 *param0)
 
     v0 = ov104_0223BD70(param0->unk_09, 1);
 
-    if (ov104_0223C000(param0->unk_09) == 0) {
+    if (BattleArcade_IsMultiPlayerChallenge(param0->unk_09) == 0) {
         v3 = 46;
         v4 = 50;
     } else {
@@ -885,7 +884,7 @@ static void ov108_02242658(UnkStruct_ov108_02241DB0 *param0)
 
 static void ov108_022426B0(UnkStruct_ov108_02241DB0 *param0)
 {
-    ov108_02243030(&param0->unk_E8, param0->unk_3C8, param0->unk_3CC, ov104_0223C000(param0->unk_09));
+    ov108_02243030(&param0->unk_E8, param0->unk_3C8, param0->unk_3CC, BattleArcade_IsMultiPlayerChallenge(param0->unk_09));
     return;
 }
 
@@ -919,7 +918,7 @@ static void ov108_02242708(void *param0)
 
 static void ov108_02242740(void)
 {
-    UnkStruct_02099F80 v0 = {
+    GXBanks v0 = {
         GX_VRAM_BG_128_C,
         GX_VRAM_BGEXTPLTT_NONE,
         GX_VRAM_SUB_BG_32_H,
@@ -1022,7 +1021,7 @@ static void ov108_02242828(UnkStruct_ov108_02241DB0 *param0, u32 param1)
 
     Graphics_LoadTilesToBgLayerFromOpenNARC(param0->unk_3D0, 120, param0->unk_90, param1, 0, 0, 1, HEAP_ID_103);
 
-    if (ov104_0223C000(param0->unk_09) == 0) {
+    if (BattleArcade_IsMultiPlayerChallenge(param0->unk_09) == 0) {
         v0 = 116;
     } else {
         v0 = 118;
@@ -1036,7 +1035,7 @@ static void ov108_02242884(UnkStruct_ov108_02241DB0 *param0, u32 param1)
 {
     u32 v0;
 
-    if (ov104_0223C000(param0->unk_09) == 0) {
+    if (BattleArcade_IsMultiPlayerChallenge(param0->unk_09) == 0) {
         v0 = 117;
     } else {
         v0 = 119;
@@ -1127,7 +1126,7 @@ static u16 ov108_02242A14(UnkStruct_ov108_02241DB0 *param0)
 {
     u16 v0 = param0->unk_28;
 
-    if (ov104_0223C000(param0->unk_09) == 1) {
+    if (BattleArcade_IsMultiPlayerChallenge(param0->unk_09) == 1) {
         if (param0->unk_426 > param0->unk_28) {
             v0 = param0->unk_426;
         }

@@ -9,12 +9,12 @@
 #include "struct_defs/struct_02039A58.h"
 #include "struct_defs/struct_0209BBA4.h"
 
+#include "applications/frontier/battle_castle/opponent_app.h"
+#include "applications/frontier/battle_castle/self_app.h"
+#include "applications/frontier/battle_hall/main.h"
 #include "overlay104/ov104_0222ECE8.h"
 #include "overlay104/ov104_0223C164.h"
 #include "overlay105/ov105_02241AE0.h"
-#include "overlay106/ov106_02241AE0.h"
-#include "overlay107/ov107_02241AE0.h"
-#include "overlay107/ov107_02245EB0.h"
 #include "overlay108/ov108_02241AE0.h"
 
 #include "communication_system.h"
@@ -57,9 +57,9 @@ static const CommCmdTable Unk_020F8BF0[] = {
     { ov104_0222EDDC, CommPacketSizeOf_Variable, NULL },
     { ov104_0222EE38, CommPacketSizeOf_Variable, NULL },
     { ov104_0222EEA8, CommPacketSizeOf_Variable, ov104_0222EED8 },
-    { ov106_02243130, CommPacketSizeOf_Variable, NULL },
-    { ov106_02243180, CommPacketSizeOf_Variable, NULL },
-    { ov106_022431E0, CommPacketSizeOf_Variable, NULL },
+    { BattleHall_DummyCommCommand, CommPacketSizeOf_Variable, NULL },
+    { BattleHall_HandleTypeSelectionMsg, CommPacketSizeOf_Variable, NULL },
+    { BattleHall_HandlePartnerDecisionCmd, CommPacketSizeOf_Variable, NULL },
     { ov104_0222F418, CommPacketSizeOf_Variable, NULL },
     { ov104_0222F480, CommPacketSizeOf_Variable, NULL },
     { ov104_0222F530, CommPacketSizeOf_Variable, NULL },
@@ -67,14 +67,14 @@ static const CommCmdTable Unk_020F8BF0[] = {
     { ov104_0222F6E8, CommPacketSizeOf_Variable, NULL },
     { ov104_0222F730, CommPacketSizeOf_Variable, NULL },
     { ov104_0222F7BC, CommPacketSizeOf_Variable, ov104_0222F84C },
-    { ov107_02245338, CommPacketSizeOf_Variable, NULL },
-    { ov107_022453A0, CommPacketSizeOf_Variable, NULL },
-    { ov107_02245408, CommPacketSizeOf_Variable, NULL },
-    { ov107_02245438, CommPacketSizeOf_Variable, NULL },
-    { ov107_02248910, CommPacketSizeOf_Variable, NULL },
-    { ov107_02248978, CommPacketSizeOf_Variable, NULL },
-    { ov107_022489E0, CommPacketSizeOf_Variable, NULL },
-    { ov107_02248A10, CommPacketSizeOf_Variable, NULL },
+    { BattleCastleSelfApp_HandlePlayerInfoCmd, CommPacketSizeOf_Variable, NULL },
+    { BattleCastleSelfApp_HandlePurchaseInfoCmd, CommPacketSizeOf_Variable, NULL },
+    { BattleCastleSelfApp_HandleUpdateCursorCmd, CommPacketSizeOf_Variable, NULL },
+    { BattleCastleSelfApp_HandleExitAppCmd, CommPacketSizeOf_Variable, NULL },
+    { BattleCastleOpponentApp_HandlePlayerInfoCmd, CommPacketSizeOf_Variable, NULL },
+    { BattleCastleOpponentApp_HandlePurchaseInfoCmd, CommPacketSizeOf_Variable, NULL },
+    { BattleCastleOpponentApp_HandleUpdateCursorCmd, CommPacketSizeOf_Variable, NULL },
+    { BattleCastleOpponentApp_HandleExitAppCmd, CommPacketSizeOf_Variable, NULL },
     { sub_0209BBEC, CommPacketSizeOf_Variable, NULL },
     { sub_0209BC3C, CommPacketSizeOf_Variable, NULL },
     { sub_0209BD28, CommPacketSizeOf_Variable, NULL },

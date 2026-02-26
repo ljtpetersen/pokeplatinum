@@ -224,7 +224,7 @@ UnkStruct_ov104_0223BFFC *ov104_02237DD8(SaveData *saveData, u16 param1, u8 para
         }
     }
 
-    if (ov104_0223C000(v9->unk_10) == 1) {
+    if (BattleArcade_IsMultiPlayerChallenge(v9->unk_10) == 1) {
         ov104_0222E630(v9->saveData);
     }
 
@@ -246,7 +246,7 @@ static void ov104_02238080(UnkStruct_ov104_0223BFFC *param0)
 {
     ov104_0223BD28(param0->unk_10, ov104_0223C124(param0), param0->unk_78, (7 * 2));
 
-    ov104_0222E4BC(ov104_0223BDA4(param0->unk_10, 1), param0->unk_78[param0->unk_11], param0->unk_78[param0->unk_11 + 7], param0->unk_314, param0->unk_330, param0->unk_31C, param0->unk_320, ov104_0223C000(param0->unk_10));
+    ov104_0222E4BC(ov104_0223BDA4(param0->unk_10, 1), param0->unk_78[param0->unk_11], param0->unk_78[param0->unk_11 + 7], param0->unk_314, param0->unk_330, param0->unk_31C, param0->unk_320, BattleArcade_IsMultiPlayerChallenge(param0->unk_10));
 
     u16 v0 = ov104_0223C124(param0);
 
@@ -446,7 +446,7 @@ u16 ov104_02238464(UnkStruct_ov104_0223BFFC *param0, u8 param1)
 
     Heap_Free(BattleTower_GetTrainerData(&v0, param0->unk_78[v2], HEAP_ID_FIELD2, NARC_INDEX_BATTLE__B_PL_TOWER__PL_BTDTR));
 
-    return ov104_0222E10C(v0.trainerType);
+    return BattleTower_GetObjectIDFromTrainerClass(v0.trainerType);
 }
 
 u16 ov104_02238498(UnkStruct_ov104_0223BFFC *param0, u8 param1)
@@ -488,7 +488,7 @@ void ov104_022384DC(UnkStruct_ov104_0223BFFC *param0)
     int v0, v1, v2;
     u8 v3;
 
-    ov104_0222E4BC(ov104_0223BDA4(param0->unk_10, 1), param0->unk_78[param0->unk_11], param0->unk_78[param0->unk_11 + 7], param0->unk_314, param0->unk_330, param0->unk_31C, param0->unk_320, ov104_0223C000(param0->unk_10));
+    ov104_0222E4BC(ov104_0223BDA4(param0->unk_10, 1), param0->unk_78[param0->unk_11], param0->unk_78[param0->unk_11 + 7], param0->unk_314, param0->unk_330, param0->unk_31C, param0->unk_320, BattleArcade_IsMultiPlayerChallenge(param0->unk_10));
 
     for (v0 = 0; v0 < 4; v0++) {
         (void)0;
@@ -573,7 +573,7 @@ static int ov104_02238584(UnkStruct_ov104_0223BFFC *param0, Party *param1, Party
         }
     }
 
-    if (ov104_0223C000(param0->unk_10) == 1) {
+    if (BattleArcade_IsMultiPlayerChallenge(param0->unk_10) == 1) {
         for (v3 = 0; v3 < param3; v3++) {
             v5 = Party_GetPokemonBySlotIndex(param2, v3);
 

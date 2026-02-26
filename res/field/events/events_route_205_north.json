@@ -13,7 +13,7 @@
         {
             "id": "ROUTE_205_NORTH_FISHERMAN_ANDREW",
             "graphics_id": "OBJ_EVENT_GFX_FISHERMAN",
-            "movement_type": "MOVEMENT_TYPE_LOOK_RIGHT",
+            "movement_type": "MOVEMENT_TYPE_LOOK_EAST",
             "trainer_type": "TRAINER_TYPE_NORMAL",
             "hidden_flag": "0",
             "script": "TRAINER_FISHERMAN_ANDREW",
@@ -105,11 +105,11 @@
             "y": 7
         },
         {
-            "id": "ROUTE_205_NORTH_POKEBALL_6",
+            "id": "LOCALID_ITEM_GUARD_SPEC",
             "graphics_id": "OBJ_EVENT_GFX_POKEBALL",
             "movement_type": "MOVEMENT_TYPE_NONE",
             "trainer_type": "TRAINER_TYPE_NONE",
-            "hidden_flag": "FLAG_UNK_0x040D",
+            "hidden_flag": "FLAG_OBTAINED_ROUTE_205_NORTH_GUARD_SPEC",
             "script": 7023,
             "initial_dir": 0,
             "data": [],

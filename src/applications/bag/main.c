@@ -8,7 +8,6 @@
 #include "constants/items.h"
 
 #include "struct_defs/special_encounter.h"
-#include "struct_defs/struct_02099F80.h"
 
 #include "applications/bag/application.h"
 #include "applications/bag/sprites.h"
@@ -51,7 +50,7 @@
 #include "unk_0208C098.h"
 #include "vram_transfer.h"
 
-#include "res/graphics/bag/bag_graphics.naix.h"
+#include "res/graphics/bag/bag_graphics.naix"
 #include "res/text/bank/bag.h"
 
 #define DIAL_CENTER_X      (HW_LCD_WIDTH / 2)
@@ -660,7 +659,7 @@ static void BagUIVBlankCB(void *data)
 
 static void SetVRAMBanks(void)
 {
-    UnkStruct_02099F80 banks = {
+    GXBanks banks = {
         GX_VRAM_BG_128_A,
         GX_VRAM_BGEXTPLTT_NONE,
         GX_VRAM_SUB_BG_128_C,

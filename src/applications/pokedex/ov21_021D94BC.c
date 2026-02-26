@@ -31,7 +31,7 @@
 #include "touch_screen_actions.h"
 #include "unk_02012744.h"
 
-#include "res/graphics/pokedex/zukan.naix.h"
+#include "res/graphics/pokedex/zukan.naix"
 #include "res/text/bank/pokedex.h"
 
 typedef struct {
@@ -84,7 +84,7 @@ typedef struct {
     SpriteResource *unk_F4[4];
     int unk_104;
     int unk_108;
-    CursorTransformation unk_10C;
+    SpriteTransformation unk_10C;
     int unk_12C;
     int unk_130;
     BOOL *unk_134;
@@ -3436,7 +3436,7 @@ static void ov21_021DC7F4(UnkStruct_ov21_021DC96C *param0)
         param0->unk_130++;
         break;
     case 1:
-        v0 = PokedexGraphics_TakeCursorTransformStep(&param0->unk_10C);
+        v0 = PokedexGraphics_TakeTransformStep(&param0->unk_10C);
         G2S_ChangeBlendAlpha(param0->unk_10C.currentX, 16 - param0->unk_10C.currentX);
 
         if (v0 == 1) {

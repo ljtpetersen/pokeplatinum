@@ -101,7 +101,7 @@ PokemonLeagueNorthPokecenter1F_VendorCommon:
     PlayFanfare SEQ_SE_CONFIRM
     LockAll
     FacePlayer
-    VendorGreeting
+    Common_VendorGreeting
     CloseMessageWithoutErasing
     PokeMartCommon
     ReleaseAll
@@ -111,7 +111,7 @@ PokemonLeagueNorthPokecenter1F_VendorSpecial:
     PlayFanfare SEQ_SE_CONFIRM
     LockAll
     FacePlayer
-    VendorGreeting
+    Common_VendorGreeting
     CloseMessageWithoutErasing
     PokeMartSpecialties MART_SPECIALTIES_ID_POKEMON_LEAGUE
     ReleaseAll
@@ -119,9 +119,9 @@ PokemonLeagueNorthPokecenter1F_VendorSpecial:
 
 PokemonLeagueNorthPokecenter1F_RivalTrigger:
     LockAll
-    ClearFlag FLAG_HIDE_POKEMON_LEAGUE_NORTH_POKECENTER_1F_BARRY
-    AddObject LOCALID_BARRY
-    SetRivalBGM
+    ClearFlag FLAG_HIDE_POKEMON_LEAGUE_NORTH_POKECENTER_1F_RIVAL
+    AddObject LOCALID_RIVAL
+    Common_SetRivalBGM
     GetPlayerMapPos VAR_0x8004, VAR_0x8005
     GoToIfEq VAR_0x8004, 10, PokemonLeagueNorthPokecenter1F_RivalEnterWest
     GoToIfEq VAR_0x8004, 11, PokemonLeagueNorthPokecenter1F_RivalEnterNorth
@@ -129,17 +129,17 @@ PokemonLeagueNorthPokecenter1F_RivalTrigger:
     End
 
 PokemonLeagueNorthPokecenter1F_RivalEnterWest:
-    ApplyMovement LOCALID_BARRY, PokemonLeagueNorthPokecenter1F_Movement_RivalEnterWest
+    ApplyMovement LOCALID_RIVAL, PokemonLeagueNorthPokecenter1F_Movement_RivalEnterWest
     WaitMovement
     GoTo PokemonLeagueNorthPokecenter1F_RivalIntro
 
 PokemonLeagueNorthPokecenter1F_RivalEnterNorth:
-    ApplyMovement LOCALID_BARRY, PokemonLeagueNorthPokecenter1F_Movement_RivalEnterNorth
+    ApplyMovement LOCALID_RIVAL, PokemonLeagueNorthPokecenter1F_Movement_RivalEnterNorth
     WaitMovement
     GoTo PokemonLeagueNorthPokecenter1F_RivalIntro
 
 PokemonLeagueNorthPokecenter1F_RivalEnterEast:
-    ApplyMovement LOCALID_BARRY, PokemonLeagueNorthPokecenter1F_Movement_RivalEnterEast
+    ApplyMovement LOCALID_RIVAL, PokemonLeagueNorthPokecenter1F_Movement_RivalEnterEast
     WaitMovement
     GoTo PokemonLeagueNorthPokecenter1F_RivalIntro
 
@@ -180,30 +180,30 @@ PokemonLeagueNorthPokecenter1F_RivalPostBattle:
     End
 
 PokemonLeagueNorthPokecenter1F_RivalLeaveEast:
-    ApplyMovement LOCALID_BARRY, PokemonLeagueNorthPokecenter1F_Movement_RivalLeaveEast
+    ApplyMovement LOCALID_RIVAL, PokemonLeagueNorthPokecenter1F_Movement_RivalLeaveEast
     WaitMovement
     GoTo PokemonLeagueNorthPokecenter1F_RemoveRival
 
 PokemonLeagueNorthPokecenter1F_RivalLeaveSouth:
-    ApplyMovement LOCALID_BARRY, PokemonLeagueNorthPokecenter1F_Movement_RivalLeaveSouth
+    ApplyMovement LOCALID_RIVAL, PokemonLeagueNorthPokecenter1F_Movement_RivalLeaveSouth
     WaitMovement
     GoTo PokemonLeagueNorthPokecenter1F_RemoveRival
 
 PokemonLeagueNorthPokecenter1F_RivalLeaveWest:
-    ApplyMovement LOCALID_BARRY, PokemonLeagueNorthPokecenter1F_Movement_RivalLeaveWest
+    ApplyMovement LOCALID_RIVAL, PokemonLeagueNorthPokecenter1F_Movement_RivalLeaveWest
     WaitMovement
     GoTo PokemonLeagueNorthPokecenter1F_RemoveRival
 
 PokemonLeagueNorthPokecenter1F_RemoveRival:
     PlayFanfare SEQ_SE_DP_KAIDAN2
-    RemoveObject LOCALID_BARRY
+    RemoveObject LOCALID_RIVAL
     WaitFanfare SEQ_SE_DP_KAIDAN2
     SetVar VAR_RIVAL_BEAT_SUNYSHORE_GYM, 1
     ReleaseAll
     End
 
 PokemonLeagueNorthPokecenter1F_BlackOutFromRivalBattle:
-    SetFlag FLAG_HIDE_POKEMON_LEAGUE_NORTH_POKECENTER_1F_BARRY
+    SetFlag FLAG_HIDE_POKEMON_LEAGUE_NORTH_POKECENTER_1F_RIVAL
     BlackOutFromBattle
     ReleaseAll
     End
@@ -272,7 +272,7 @@ PokemonLeagueNorthPokecenter1F_Guitarist:
     End
 
 PokemonLeagueNorthPokecenter1F_Nurse:
-    CallPokecenterNurse 3
+    Common_CallPokecenterNurse 3
     End
 
     .balign 4, 0

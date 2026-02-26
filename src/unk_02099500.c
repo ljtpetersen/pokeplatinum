@@ -5,15 +5,15 @@
 
 #include "struct_defs/struct_02039A58.h"
 
-#include "overlay023/ov23_0223E140.h"
-#include "overlay023/ov23_02241F74.h"
-#include "overlay023/secret_bases.h"
-#include "overlay023/underground_pc.h"
-#include "overlay023/underground_player.h"
-#include "overlay023/underground_player_talk.h"
-#include "overlay023/underground_records.h"
-#include "overlay023/underground_spheres.h"
-#include "overlay023/underground_traps.h"
+#include "underground/manager.h"
+#include "underground/mining.h"
+#include "underground/pc.h"
+#include "underground/player.h"
+#include "underground/player_talk.h"
+#include "underground/records.h"
+#include "underground/secret_bases.h"
+#include "underground/spheres.h"
+#include "underground/traps.h"
 
 #include "comm_player_manager.h"
 #include "field_comm_manager.h"
@@ -48,34 +48,34 @@ static int sub_02099508(void)
 static const CommCmdTable Unk_020F68A4[] = {
     { CommPlayer_RecvLocation, CommPacketSizeOf_RecvLocation, NULL },
     { CommPlayer_RecvLocationAndInit, CommPacketSizeOf_RecvLocationAndInit, NULL },
-    { ov23_022431C4, CommPacketSizeOf_NetId, NULL },
-    { ov23_0224ACE8, CommPacketSizeOf_Nothing, NULL }, // 25
-    { ov23_0224ACF8, CommPacketSizeOf_NetId, NULL },
+    { UndergroundMan_ProcessVendorTalkRequest, CommPacketSizeOf_NetId, NULL },
+    { UndergroundPlayer_ProcessVendorTalk, CommPacketSizeOf_Nothing, NULL }, // 25
+    { UndergroundPlayer_ProcessVendorTalkServer, CommPacketSizeOf_NetId, NULL },
     { UndergroundPlayer_ProcessOpenMenuRequest, CommPacketSizeOf_Nothing, NULL },
-    { ov23_022428D8, ov23_022428D4, NULL },
+    { UndergroundMan_ProcessInteractEvent, CommPacketSizeOf_InteractEvent, NULL },
     { UndergroundPlayer_ProcessOpenMenuEvent, CommPacketSizeOf_Variable, NULL },
-    { UndergroundPlayer_ProcessTalkEvent, CommPacketSizeOf_Variable, NULL },
-    { ov23_022433BC, CommPacketSizeOf_Nothing, NULL },
-    { UndergroundTraps_TryPlaceTrap, CommPacketSizeOf_NetId, NULL },
-    { UndergroundTraps_RemoveBuriedTrapAtIndex_Unused, CommPacketSizeOf_2Bytes_Unused, NULL }, // corresponding cmd never sent
-    { UndergroundTraps_ProcessPlaceTrapResult, CommPacketSizeOf_PlaceTrapResult, NULL },
-    { UndergroundTraps_LoadLinkPlacedTraps, CommPacketSizeOf_AllTrapsPlacedPlayer, NULL },
-    { UndergroundTraps_ReceiveLoadTrapsResult, CommPacketSizeOf_LoadTrapsResult, NULL },
-    { UndergroundTraps_HandleTriggeredTrap, CommPacketSizeOf_TriggeredTrap2, NULL },
-    { UndergroundTraps_CallSecondTrapEffectServerFunc, CommPacketSizeOf_NetId, NULL },
-    { UndergroundTraps_StartLinkSlideAnimation_Unused, CommPacketSizeOf_3Bytes_Unused, NULL }, // corresponding cmd never sent
-    { UndergroundTraps_EscapeHole, CommPacketSizeOf_NetId, NULL },
-    { UndergroundTraps_EscapeTrapServer, CommPacketSizeOf_Nothing, NULL },
-    { UndergroundTraps_ProcessEscapedTrap, CommPacketSizeOf_EscapedTrap, NULL },
-    { UndergroundTraps_EndCurrentTrapEffectServer, CommPacketSizeOf_Nothing, NULL },
-    { UndergroundTraps_ProcessTrapHelp, CommPacketSizeOf_TrapHelpData, NULL },
-    { UndergroundTraps_ProcessTriggeredTrapBits, CommPacketSizeOf_NetId, NULL },
-    { UndergroundTraps_QueueSendTrapRadarResults, CommPacketSizeOf_Nothing, NULL },
-    { UndergroundTraps_ReceiveTrapRadarResults, CommPacketSizeOf_TrapRadarResult, NULL },
-    { ov23_022425F8, CommPacketSizeOf_Coordinates, NULL },
-    { ov23_02242624, CommPacketSizeOf_Variable, NULL },
-    { ov23_02242654, CommPacketSizeOf_Variable, NULL }, // 50
-    { UndergroundTraps_ProcessDisengagedTrap, CommPacketSizeOf_TriggeredTrap, NULL },
+    { UndergroundPlayer_ProcessTalkEvent, CommPacketSizeOf_Variable, NULL }, // 30
+    { UndergroundMan_ProcessAllDataSentMessage, CommPacketSizeOf_Nothing, NULL },
+    { Traps_TryPlaceTrap, CommPacketSizeOf_NetId, NULL },
+    { Traps_RemoveBuriedTrapAtIndex_Unused, CommPacketSizeOf_2Bytes_Unused, NULL }, // corresponding cmd never sent
+    { Traps_ProcessPlaceTrapResult, CommPacketSizeOf_PlaceTrapResult, NULL },
+    { Traps_LoadLinkPlacedTraps, CommPacketSizeOf_AllTrapsPlacedPlayer, NULL }, // 35
+    { Traps_ReceiveLoadTrapsResult, CommPacketSizeOf_LoadTrapsResult, NULL },
+    { Traps_HandleTriggeredTrap, CommPacketSizeOf_TriggeredTrap2, NULL },
+    { Traps_CallSecondTrapEffectServerFunc, CommPacketSizeOf_NetId, NULL },
+    { Traps_StartLinkSlideAnimation_Unused, CommPacketSizeOf_3Bytes_Unused, NULL }, // corresponding cmd never sent
+    { Traps_EscapeHole, CommPacketSizeOf_NetId, NULL },
+    { Traps_EscapeTrapServer, CommPacketSizeOf_Nothing, NULL },
+    { Traps_ProcessEscapedTrap, CommPacketSizeOf_EscapedTrap, NULL },
+    { Traps_EndCurrentTrapEffectServer, CommPacketSizeOf_Nothing, NULL },
+    { Traps_ProcessTrapHelp, CommPacketSizeOf_TrapHelpData, NULL },
+    { Traps_ProcessTriggeredTrapBits, CommPacketSizeOf_NetId, NULL },
+    { Traps_QueueSendTrapRadarResults, CommPacketSizeOf_Nothing, NULL },
+    { Traps_ReceiveTrapRadarResults, CommPacketSizeOf_TrapRadarResult, NULL },
+    { UndergroundMan_ProcessTouchInput, CommPacketSizeOf_Coordinates, NULL },
+    { UndergroundMan_ProcessTouchRadarTrapResults, CommPacketSizeOf_Variable, NULL },
+    { UndergroundMan_ProcessTouchRadarMiningSpotResults, CommPacketSizeOf_Variable, NULL }, // 50
+    { Traps_ProcessDisengagedTrap, CommPacketSizeOf_TriggeredTrap, NULL },
     { CommPlayer_RecvDelete, CommPacketSizeOf_NetId, NULL },
     { SecretBases_ProcessBaseInfo, CommPacketSizeOf_SecretBaseInfo, NULL },
     { SecretBases_ProcessBaseEnter, CommPacketSizeOf_SecretBaseInfo, NULL },
@@ -87,16 +87,16 @@ static const CommCmdTable Unk_020F68A4[] = {
     { SecretBases_ProcessGoodInteractionEvent, CommPacketSizeOf_GoodInteractionEvent, NULL }, // 60
     { SecretBases_ProcessFailedBaseEnter, CommPacketSizeOf_NetId, NULL },
     { sub_02058018, CommPacketSizeOf_NetId, NULL },
-    { UndergroundSpheres_RetrieveBuriedSphere, CommPacketSizeOf_NetId, NULL },
-    { ov23_0223E9D4, CommPacketSizeOf_NetId, NULL },
-    { ov23_0223EAF8, CommPacketSizeOf_NetId, NULL },
-    { ov23_0223EB8C, CommPacketSizeOf_NetId, NULL },
-    { ov23_0223EBC0, CommPacketSizeOf_NetId, NULL },
-    { ov23_0223EBE4, ov23_0223EBFC, NULL },
-    { Mining_TakeLinkInput, ov23_0223EC30, NULL },
-    { ov23_02243390, ov23_022433B8, NULL },
-    { ov23_022413A0, CommPacketSizeOf_Nothing, NULL },
-    { ov23_0224142C, ov23_022414D0, NULL },
+    { Spheres_ProcessRetrieveBuriedSphereRequest, CommPacketSizeOf_NetId, NULL },
+    { Mining_ProcessMiningSpotInteract, CommPacketSizeOf_NetId, NULL },
+    { Mining_ProcessConfirmStartMiningResult, CommPacketSizeOf_NetId, NULL }, // 65
+    { Mining_ProcessStartMiningConfirm, CommPacketSizeOf_NetId, NULL },
+    { Mining_ProcessMiningGameEnd, CommPacketSizeOf_NetId, NULL },
+    { Mining_ProcessLinkInput, CommPacketSizeOf_MiningLinkInput, NULL },
+    { Mining_ProcessLinkInputServer, CommPacketSizeOf_MiningLinkInputWithNetID, NULL },
+    { UndergroundMan_ProcessPlayerState, CommPacketSizeOf_UndergroundPlayerState, NULL },
+    { Mining_ProcessTreasureRadarStart, CommPacketSizeOf_Nothing, NULL },
+    { Mining_ProcessMiningSpotRadarResult, CommPacketSizeOf_MiningSpotRadarResult, NULL },
     { UndergroundTalk_RequestLinkTalkStateUpdateServer, CommPacketSizeOf_TalkStateChangeRequest, NULL },
     { UndergroundTalkResponse_RequestLinkTalkStateUpdateServer, CommPacketSizeOf_TalkStateChangeRequest, NULL },
     { UndergroundTalkResponse_HandleLinkTalkStateUpdateServer, CommPacketSizeOf_TalkStateChangeRequest, NULL }, // 75
@@ -116,7 +116,7 @@ static const CommCmdTable Unk_020F68A4[] = {
     { UndergroundPC_ProcessTakeFlagAttempt, CommPacketSizeOf_PCInteraction, NULL },
     { UndergroundPC_ProcessTakenFlag, CommPacketSizeOf_PCInteraction, NULL }, // 90
     { UndergroundPlayer_ProcessHeldFlagOwnerInfo, CommPacketSizeOf_TrainerInfo, NULL },
-    { UndergroundPlayer_ProcessHeldFlagOwnerInfoServer, CommPacketSizeOf_HeldFlagInfo, ov23_0224AAA0 },
+    { UndergroundPlayer_ProcessHeldFlagOwnerInfoServer, CommPacketSizeOf_HeldFlagInfo, UndergroundPlayer_GetHeldFlagInfoBuffer },
     { UndergroundPlayer_ProcessHeldFlagOwnerInfoAck, CommPacketSizeOf_NetId, NULL },
     { sub_02059180, CommPacketSizeOf_NetId, NULL },
     { sub_02059D0C, CommPacketSizeOf_NetId, NULL }, // 95
@@ -156,7 +156,7 @@ static const CommCmdTable Unk_020F68A4[] = {
     { sub_02099510, CommPacketSizeOf_Nothing, NULL },
     { sub_02099510, sub_02099504, NULL },
     { sub_02099510, sub_02099508, NULL },
-    { sub_0204FA34, CommPacketSizeOf_Variable, NULL },
+    { BattleHall_ProcessSelectedSpeciesMsg, CommPacketSizeOf_Variable, NULL },
     { sub_0205001C, CommPacketSizeOf_Variable, NULL },
     { sub_02050548, CommPacketSizeOf_Variable, NULL }
 };
