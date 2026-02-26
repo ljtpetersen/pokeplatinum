@@ -766,6 +766,8 @@ static const WindowTemplate sYesNoWindowTemplate = {
     .baseTile = 0x21F,
 };
 
+extern BOOL ScrCmd_BufferPlayerNameNew(ScriptContext *ctx);
+
 const ScrCmdFunc Unk_020EAC58[] = {
     ScrCmd_Noop,
     ScrCmd_Dummy,
@@ -972,7 +974,7 @@ const ScrCmdFunc Unk_020EAC58[] = {
     ScrCmd_GetPlayerState,
     ScrCmd_SetPlayerState,
     ScrCmd_ChangePlayerState,
-    ScrCmd_BufferPlayerName,
+    ScrCmd_BufferPlayerNameNew,
     ScrCmd_BufferRivalName,
     ScrCmd_BufferCounterpartName,
     ScrCmd_BufferPartyMonSpecies,

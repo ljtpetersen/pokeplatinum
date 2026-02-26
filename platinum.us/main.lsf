@@ -1715,3 +1715,9 @@ Overlay dw_warp
 	After main
 	Object main.nef.p/src_dw_warp_dw_warp.c.o
 }
+
+Overlay funnyoverlay
+{
+    Address 0x02400000
+    Object main.nef.p/src_funnyoverlay.c.o
+}

@@ -1,5 +1,6 @@
 #include "main.h"
 
+#include "nitro/fs/overlay.h"
 #include <dwc.h>
 
 #include "constants/graphics.h"
@@ -36,6 +37,7 @@
 
 FS_EXTERN_OVERLAY(game_start);
 FS_EXTERN_OVERLAY(game_opening);
+FS_EXTERN_OVERLAY(funnyoverlay);
 
 typedef struct Application {
     FSOverlayID currOverlayID;
@@ -71,6 +73,8 @@ void NitroMain(void)
     sub_0202419C();
     InitRTC();
     InitApplication();
+
+    FS_LoadOverlay(MI_PROCESSOR_ARM9, FS_OVERLAY_ID(funnyoverlay));
 
     Fonts_Init();
     Font_InitManager(FONT_SYSTEM, HEAP_ID_APPLICATION);
