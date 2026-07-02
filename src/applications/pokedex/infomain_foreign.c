@@ -3,6 +3,8 @@
 #include <nitro.h>
 #include <string.h>
 
+#include "constants/versions.h"
+
 #include "applications/pokedex/ov21_021E29DC.h"
 #include "applications/pokedex/pokedex_app.h"
 #include "applications/pokedex/pokedex_data_manager.h"
@@ -21,7 +23,6 @@
 #include "heap.h"
 #include "message.h"
 #include "narc.h"
-#include "pokemon.h"
 #include "pokemon_sprite.h"
 #include "sprite.h"
 #include "sprite_resource.h"
@@ -61,12 +62,12 @@ static PokedexGraphicData **AllocateGraphicsData(enum HeapID heapID, PokedexApp 
 static void FreeState(PokedexEntryDisplayState *displayState);
 static void FreeGraphicsData(PokedexGraphicData **graphicsData);
 static int GetNumScreenStates(void);
-static int ProcessInitData(PokedexDataManager *dataMan, void *data);
-static int ProcessUpdateData(PokedexDataManager *dataMan, void *data);
-static int ProcessFinalizeData(PokedexDataManager *dataMan, void *data);
-static int ProcessInitGraphics(void *graphics, PokedexGraphicsManager *graphicsMan, const void *data, const PokedexDataManager *dataMan);
-static int ProcessUpdateGraphics(void *graphics, PokedexGraphicsManager *graphicsMan, const void *data, const PokedexDataManager *dataMan);
-static int ProcessFinalizeGraphics(void *graphics, PokedexGraphicsManager *graphicsMan, const void *data, const PokedexDataManager *dataMan);
+static int InitData(PokedexDataManager *dataMan, void *data);
+static int UpdateData(PokedexDataManager *dataMan, void *data);
+static int FinalizeData(PokedexDataManager *dataMan, void *data);
+static int InitGraphics(void *graphics, PokedexGraphicsManager *graphicsMan, const void *data, const PokedexDataManager *dataMan);
+static int UpdateGraphics(void *graphics, PokedexGraphicsManager *graphicsMan, const void *data, const PokedexDataManager *dataMan);
+static int FinalizeGraphics(void *graphics, PokedexGraphicsManager *graphicsMan, const void *data, const PokedexDataManager *dataMan);
 static void InitBlendMode(PokedexEntryDisplayGraphics *graphicsStruct, PokedexGraphicData **graphicsData, const PokedexEntryDisplayState *displayState, BOOL isInitializing);
 static BOOL UpdateBlendMode(PokedexEntryDisplayGraphics *graphicsStruct, PokedexGraphicData **graphicsData, const PokedexEntryDisplayState *displayState, BOOL isInitializing);
 static void InitPositionBlendMode(PokedexEntryDisplayGraphics *graphicsStruct, PokedexGraphicData **graphicsData, const PokedexEntryDisplayState *displayState, BOOL isInitializing);
@@ -108,12 +109,12 @@ void InfoMainForeign_InitScreen(PokedexScreenManager *screenManager, PokedexApp 
     screenManager->pageGraphics = graphicsData;
     screenManager->screenStates = NULL;
     screenManager->numStates = GetNumScreenStates();
-    screenManager->dataFunc[0] = ProcessInitData;
-    screenManager->dataFunc[1] = ProcessUpdateData;
-    screenManager->dataFunc[2] = ProcessFinalizeData;
-    screenManager->graphicsFunc[0] = ProcessInitGraphics;
-    screenManager->graphicsFunc[1] = ProcessUpdateGraphics;
-    screenManager->graphicsFunc[2] = ProcessFinalizeGraphics;
+    screenManager->dataFunc[0] = InitData;
+    screenManager->dataFunc[1] = UpdateData;
+    screenManager->dataFunc[2] = FinalizeData;
+    screenManager->graphicsFunc[0] = InitGraphics;
+    screenManager->graphicsFunc[1] = UpdateGraphics;
+    screenManager->graphicsFunc[2] = FinalizeGraphics;
 }
 
 void InfoMainForeign_FreeScreen(PokedexScreenManager *screenManager)
@@ -214,15 +215,13 @@ static int GetNumScreenStates(void)
     return 0;
 }
 
-static int ProcessInitData(PokedexDataManager *dataMan, void *data)
+static int InitData(PokedexDataManager *dataMan, void *data)
 {
     return TRUE;
 }
 
-static int ProcessUpdateData(PokedexDataManager *dataMan, void *data)
+static int UpdateData(PokedexDataManager *dataMan, void *data)
 {
-    PokedexEntryDisplayState *displayState = data;
-
     if (dataMan->exit == TRUE) {
         return TRUE;
     }
@@ -234,12 +233,12 @@ static int ProcessUpdateData(PokedexDataManager *dataMan, void *data)
     return FALSE;
 }
 
-static int ProcessFinalizeData(PokedexDataManager *dataMan, void *data)
+static int FinalizeData(PokedexDataManager *dataMan, void *data)
 {
     return TRUE;
 }
 
-static int ProcessInitGraphics(void *graphics, PokedexGraphicsManager *graphicsMan, const void *data, const PokedexDataManager *dataMan)
+static int InitGraphics(void *graphics, PokedexGraphicsManager *graphicsMan, const void *data, const PokedexDataManager *dataMan)
 {
     const PokedexEntryDisplayState *displayState = data;
     PokedexGraphicData **graphicsData = graphics;
@@ -256,13 +255,13 @@ static int ProcessInitGraphics(void *graphics, PokedexGraphicsManager *graphicsM
         SetupGraphics(graphicsStruct, graphicsData, displayState, graphicsMan->heapID);
 
         switch (displayState->animationMode) {
-        case 0:
+        case ANIM_POSITION_BLEND:
             InitPositionBlendMode(graphicsStruct, graphicsData, displayState, 1);
             break;
-        case 1:
+        case ANIM_BLEND:
             InitBlendMode(graphicsStruct, graphicsData, displayState, 1);
             break;
-        case 2:
+        case ANIM_POSITION:
             InitPositionMode(graphicsStruct, graphicsData, displayState, 1);
             break;
         }
@@ -272,13 +271,13 @@ static int ProcessInitGraphics(void *graphics, PokedexGraphicsManager *graphicsM
 
     case 2:
         switch (displayState->animationMode) {
-        case 0:
+        case ANIM_POSITION_BLEND:
             animationComplete = UpdatePositionBlendMode(graphicsStruct, graphicsData, displayState, 1);
             break;
-        case 1:
+        case ANIM_BLEND:
             animationComplete = UpdateBlendMode(graphicsStruct, graphicsData, displayState, 1);
             break;
-        case 2:
+        case ANIM_POSITION:
             animationComplete = UpdatePositionMode(graphicsStruct, graphicsData, displayState, 1);
             break;
         }
@@ -297,12 +296,12 @@ static int ProcessInitGraphics(void *graphics, PokedexGraphicsManager *graphicsM
     return FALSE;
 }
 
-static int ProcessUpdateGraphics(void *graphics, PokedexGraphicsManager *graphicsMan, const void *data, const PokedexDataManager *dataMan)
+static int UpdateGraphics(void *graphics, PokedexGraphicsManager *graphicsMan, const void *data, const PokedexDataManager *dataMan)
 {
     return FALSE;
 }
 
-static int ProcessFinalizeGraphics(void *graphics, PokedexGraphicsManager *graphicsMan, const void *data, const PokedexDataManager *dataMan)
+static int FinalizeGraphics(void *graphics, PokedexGraphicsManager *graphicsMan, const void *data, const PokedexDataManager *dataMan)
 {
     const PokedexEntryDisplayState *displayState = data;
     PokedexGraphicData **graphicsData = graphics;
@@ -312,13 +311,13 @@ static int ProcessFinalizeGraphics(void *graphics, PokedexGraphicsManager *graph
     switch (graphicsMan->state) {
     case 0:
         switch (displayState->animationMode) {
-        case 0:
+        case ANIM_POSITION_BLEND:
             InitPositionBlendMode(graphicsStruct, graphicsData, displayState, 0);
             break;
-        case 1:
+        case ANIM_BLEND:
             InitBlendMode(graphicsStruct, graphicsData, displayState, 0);
             break;
-        case 2:
+        case ANIM_POSITION:
             InitPositionMode(graphicsStruct, graphicsData, displayState, 0);
             break;
         }
@@ -327,13 +326,13 @@ static int ProcessFinalizeGraphics(void *graphics, PokedexGraphicsManager *graph
         break;
     case 1:
         switch (displayState->animationMode) {
-        case 0:
+        case ANIM_POSITION_BLEND:
             animationComplete = UpdatePositionBlendMode(graphicsStruct, graphicsData, displayState, 0);
             break;
-        case 1:
+        case ANIM_BLEND:
             animationComplete = UpdateBlendMode(graphicsStruct, graphicsData, displayState, 0);
             break;
-        case 2:
+        case ANIM_POSITION:
             animationComplete = UpdatePositionMode(graphicsStruct, graphicsData, displayState, 0);
             break;
         }
@@ -376,7 +375,7 @@ static void CleanupGraphics(PokedexEntryDisplayGraphics *graphicsStruct, Pokedex
     Window_FillTilemap(&(*graphicsData)->window, 0);
 
     UnloadTypeIconSprites(graphicsStruct, graphicsData);
-    Bg_ClearTilemap((*graphicsData)->bgConfig, 1);
+    Bg_ClearTilemap((*graphicsData)->bgConfig, BG_LAYER_MAIN_1);
 }
 
 static void LoadBackground(PokedexGraphicData **graphicsData, enum HeapID heapID)
@@ -774,22 +773,22 @@ static int LanguageMessage(int languageID)
     int entryID;
 
     switch (languageID) {
-    case JAPANESE:
+    case LANGUAGE_JAPANESE:
         entryID = pl_msg_pokedex_japanese;
         break;
-    case ENGLISH:
+    case LANGUAGE_ENGLISH:
         entryID = pl_msg_pokedex_english;
         break;
-    case FRENCH:
+    case LANGUAGE_FRENCH:
         entryID = pl_msg_pokedex_french;
         break;
-    case ITALIAN:
+    case LANGUAGE_ITALIAN:
         entryID = pl_msg_pokedex_italian;
         break;
-    case GERMAN:
+    case LANGUAGE_GERMAN:
         entryID = pl_msg_pokedex_german;
         break;
-    case SPANISH:
+    case LANGUAGE_SPANISH:
         entryID = pl_msg_pokedex_spanish;
         break;
     default:

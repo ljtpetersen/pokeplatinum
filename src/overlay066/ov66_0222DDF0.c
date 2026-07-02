@@ -5,22 +5,20 @@
 #include <ppwlobby/ppw_lobby.h>
 #include <string.h>
 
+#include "constants/versions.h"
 #include "generated/game_records.h"
 #include "generated/journal_online_events.h"
 #include "generated/species.h"
 
-#include "struct_decls/pokedexdata_decl.h"
-#include "struct_decls/struct_02014FB0_decl.h"
-#include "struct_decls/struct_02030EC4_decl.h"
 #include "struct_decls/struct_0207E060_decl.h"
 #include "struct_defs/wi_fi_history.h"
 
-#include "global/pm_version.h"
 #include "overlay066/ov66_02231428.h"
 #include "overlay066/ov66_0223177C.h"
 #include "overlay066/ov66_022324F0.h"
 #include "overlay066/ov66_02234EA8.h"
 #include "overlay066/struct_ov66_0222E294.h"
+#include "overlay066/struct_ov66_0222E71C.h"
 #include "overlay066/struct_ov66_0222E908.h"
 #include "overlay066/struct_ov66_0222E990.h"
 #include "overlay066/struct_ov66_02230914.h"
@@ -46,11 +44,11 @@
 #include "font.h"
 #include "game_records.h"
 #include "heap.h"
-#include "inlines.h"
 #include "journal.h"
 #include "math_util.h"
 #include "message.h"
 #include "party.h"
+#include "password_word_bank.h"
 #include "pokedex.h"
 #include "pokemon.h"
 #include "save_player.h"
@@ -60,36 +58,9 @@
 #include "string_gf.h"
 #include "system_data.h"
 #include "trainer_info.h"
-#include "unk_02014D38.h"
-#include "unk_0202C858.h"
 #include "unk_02030EA4.h"
 #include "unk_0207E060.h"
-
-typedef struct UnkStruct_ov66_0222E71C_t {
-    s32 unk_00;
-    u32 unk_04;
-    u16 unk_08[8];
-    UnkStruct_ov66_02231428 unk_18;
-    UnkStruct_ov66_02231428 unk_1C;
-    u16 unk_20[6];
-    u8 unk_2C[6];
-    u8 unk_32[6];
-    u8 unk_38;
-    u8 language;
-    u16 unk_3A;
-    u16 unk_3C;
-    u8 unk_3E;
-    u8 unk_3F;
-    u8 unk_40;
-    u8 unk_41;
-    u8 unk_42;
-    u8 unk_43;
-    s64 unk_44;
-    u8 unk_4C[12];
-    s32 unk_58[12];
-    u16 unk_88[2];
-    UnkStruct_ov66_0222E908 unk_8C;
-} UnkStruct_ov66_0222E71C;
+#include "wifi_history_save_data.h"
 
 typedef struct {
     u16 unk_00[8];
@@ -196,7 +167,7 @@ typedef struct {
 typedef struct {
     u8 unk_00[20];
     UnkStruct_ov66_02230914 unk_14[20];
-    UnkStruct_02014FB0 *unk_B4;
+    PasswordWordBank *unk_B4;
 } UnkStruct_ov66_022308A0;
 
 typedef union {
@@ -344,7 +315,7 @@ static void ov66_022308BC(UnkStruct_ov66_022308A0 *param0);
 static void ov66_022308C8(UnkStruct_ov66_022308A0 *param0, u32 param1, BOOL param2, u32 param3);
 static BOOL ov66_022308F8(const UnkStruct_ov66_022308A0 *param0, u32 param1);
 static const UnkStruct_ov66_02230914 *ov66_02230914(const UnkStruct_ov66_022308A0 *param0, u32 param1);
-static void ov66_02230938(UnkStruct_02014FB0 *param0, u32 param1, UnkStruct_ov66_02230914 *param2);
+static void ov66_02230938(PasswordWordBank *param0, u32 param1, UnkStruct_ov66_02230914 *param2);
 static void ov66_022309A4(UnkStruct_ov66_022309A4 *param0, u32 param1, u32 param2);
 static void ov66_022309B4(UnkStruct_ov66_022309A4 *param0);
 static void ov66_022309C8(UnkStruct_ov66_022309A4 *param0);
@@ -1146,7 +1117,7 @@ u32 ov66_0222E80C(const UnkStruct_ov66_0222E71C *param0)
     if (ov66_0222E824(param0) == TRUE) {
         language = param0->language;
     } else {
-        language = ENGLISH;
+        language = LANGUAGE_ENGLISH;
     }
 
     return language;
@@ -1156,12 +1127,12 @@ u32 ov66_0222E80C(const UnkStruct_ov66_0222E71C *param0)
 BOOL ov66_0222E824(const UnkStruct_ov66_0222E71C *param0)
 {
     switch (param0->language) {
-    case JAPANESE:
-    case ENGLISH:
-    case FRENCH:
-    case ITALIAN:
-    case GERMAN:
-    case SPANISH:
+    case LANGUAGE_JAPANESE:
+    case LANGUAGE_ENGLISH:
+    case LANGUAGE_FRENCH:
+    case LANGUAGE_ITALIAN:
+    case LANGUAGE_GERMAN:
+    case LANGUAGE_SPANISH:
         return TRUE;
     default:
         break;
@@ -2390,7 +2361,7 @@ static BOOL ov66_0222FA04(const UnkStruct_ov66_0222F6C4 *param0, const SaveData 
     u32 v0 = SaveData_CalculateChecksum(saveData, &param0->unk_20, sizeof(UnkStruct_ov66_0222E71C));
 
     if (v0 != param0->unk_B4) {
-        GF_ASSERT(0);
+        GF_ASSERT(FALSE);
         return 0;
     }
 
@@ -3386,7 +3357,7 @@ static u32 ov66_02230828(const UnkStruct_ov66_022307D4 *param0)
         v2 += param0->unk_00[v0];
     }
 
-    GF_ASSERT(0);
+    GF_ASSERT(FALSE);
     return 0;
 }
 
@@ -3413,12 +3384,12 @@ static BOOL ov66_02230884(const UnkStruct_ov66_02232068 *param0, u32 param1)
 static void ov66_022308A0(UnkStruct_ov66_022308A0 *param0, u32 param1)
 {
     MI_CpuClear8(param0, sizeof(UnkStruct_ov66_022308A0));
-    param0->unk_B4 = sub_02014FB0(param1);
+    param0->unk_B4 = PasswordWordBank_New(param1);
 }
 
 static void ov66_022308BC(UnkStruct_ov66_022308A0 *param0)
 {
-    sub_02014FF0(param0->unk_B4);
+    PasswordWordBank_Free(param0->unk_B4);
 }
 
 static void ov66_022308C8(UnkStruct_ov66_022308A0 *param0, u32 param1, BOOL param2, u32 param3)
@@ -3458,27 +3429,27 @@ static const UnkStruct_ov66_02230914 *ov66_02230914(const UnkStruct_ov66_022308A
     return NULL;
 }
 
-static void ov66_02230938(UnkStruct_02014FB0 *param0, u32 param1, UnkStruct_ov66_02230914 *param2)
+static void ov66_02230938(PasswordWordBank *param0, u32 param1, UnkStruct_ov66_02230914 *param2)
 {
     UnkStruct_ov66_02230938 v0;
     u32 v1;
     u32 v2;
 
-    v1 = sub_02015004(param0);
+    v1 = PasswordWordBank_GetLength(param0);
 
     v0.val1 = param1;
 
     v2 = (v0.val2[3] + v0.val2[0]) % v1;
-    param2->unk_00[0] = sub_02015008(param0, v2);
+    param2->unk_00[0] = PasswordWordBank_GetWordAtIndex(param0, v2);
 
     v2 = (v0.val2[0] + v0.val2[1]) % v1;
-    param2->unk_00[1] = sub_02015008(param0, v2);
+    param2->unk_00[1] = PasswordWordBank_GetWordAtIndex(param0, v2);
 
     v2 = (v0.val2[1] + v0.val2[2]) % v1;
-    param2->unk_00[2] = sub_02015008(param0, v2);
+    param2->unk_00[2] = PasswordWordBank_GetWordAtIndex(param0, v2);
 
     v2 = (v0.val2[2] + v0.val2[3]) % v1;
-    param2->unk_00[3] = sub_02015008(param0, v2);
+    param2->unk_00[3] = PasswordWordBank_GetWordAtIndex(param0, v2);
 }
 
 static void ov66_022309A4(UnkStruct_ov66_022309A4 *param0, u32 param1, u32 param2)
@@ -3676,7 +3647,7 @@ static void ov66_02230BE0(UnkStruct_ov66_02230A6C *param0)
     u32 v0 = SaveData_CalculateChecksum(param0->saveData, param0, (sizeof(UnkStruct_ov66_02230A6C) - 8));
 
     if (v0 != param0->unk_48) {
-        GF_ASSERT(0);
+        GF_ASSERT(FALSE);
         param0->unk_4A = 1;
     }
 }

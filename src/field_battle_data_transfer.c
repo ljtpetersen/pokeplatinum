@@ -12,20 +12,20 @@
 #include "generated/items.h"
 #include "generated/species.h"
 
-#include "struct_decls/pokedexdata_decl.h"
-#include "struct_decls/struct_0203A790_decl.h"
 #include "struct_defs/chatot_cry.h"
-#include "struct_defs/struct_0205EC34.h"
+#include "struct_defs/player_data.h"
 #include "struct_defs/trainer.h"
 
 #include "applications/pokemon_summary_screen/main.h"
 #include "field/field_system.h"
 #include "savedata/save_table.h"
 
+#include "appearance.h"
 #include "bag.h"
 #include "battle_regulation.h"
 #include "charcode_util.h"
 #include "chatot_cry.h"
+#include "comm_manager.h"
 #include "communication_system.h"
 #include "field_overworld_state.h"
 #include "game_options.h"
@@ -51,11 +51,9 @@
 #include "system_vars.h"
 #include "terrain_collision_manager.h"
 #include "trainer_info.h"
-#include "tv_episode_segment.h"
+#include "tv_segment.h"
 #include "unk_0203266C.h"
-#include "unk_020366A0.h"
 #include "unk_020559DC.h"
-#include "unk_0205C980.h"
 #include "vars_flags.h"
 
 #include "res/text/bank/location_names.h"
@@ -122,7 +120,7 @@ FieldBattleDTO *FieldBattleDTO_New(enum HeapID heapID, u32 battleType)
 
     if (CommSys_IsInitialized() == TRUE) {
         for (i = 0; i < CommSys_ConnectedCount(); i++) {
-            dto->unk_178[i] = sub_020362F4(i);
+            dto->linkPlayerPositions[i] = sub_020362F4(i);
         }
         dto->networkID = CommSys_CurNetId();
     }
@@ -233,7 +231,7 @@ void FieldBattleDTO_CopyChatotCryToBattler(FieldBattleDTO *dto, const ChatotCry 
     ChatotCry_Copy(dto->chatotCries[battler], src);
 }
 
-void FieldBattleDTO_InitFromGameState(FieldBattleDTO *dto, const FieldSystem *fieldSystem, SaveData *saveData, enum MapHeader mapHeaderID, JournalEntry *journalEntry, BagCursor *bagCursor, u8 *subscreenCursorOn)
+void FieldBattleDTO_InitFromGameState(FieldBattleDTO *dto, const FieldSystem *fieldSystem, SaveData *saveData, enum MapHeaderID mapHeaderID, JournalEntry *journalEntry, BagCursor *bagCursor, u8 *subscreenCursorOn)
 {
     TrainerInfo *trainerInfo = SaveData_GetTrainerInfo(saveData);
     Party *party = SaveData_GetParty(saveData);
@@ -342,7 +340,7 @@ void FieldBattleDTO_InitWithPartyOrder(FieldBattleDTO *dto, const FieldSystem *f
     Pokedex *pokedex = SaveData_GetPokedex(fieldSystem->saveData);
     ChatotCry *chatotCry = SaveData_GetChatotCry(fieldSystem->saveData);
     Options *options = SaveData_GetOptions(fieldSystem->saveData);
-    const BattleRegulation *regulation = fieldSystem->unk_B0;
+    const BattleRegulation *regulation = fieldSystem->battleRegulation;
     int i;
     Pokemon *mon;
 
@@ -397,11 +395,11 @@ void FieldBattleDTO_InitWithPartyOrder(FieldBattleDTO *dto, const FieldSystem *f
     dto->palPad = SaveData_GetPalPad(fieldSystem->saveData);
     dto->saveData = fieldSystem->saveData;
 
-    if (sub_020326C4(sub_0203895C())) {
+    if (sub_020326C4(CommManager_GetCommType())) {
         int unionAppearance = TrainerInfo_Appearance(trainerInfo);
         int unionGender = TrainerInfo_Gender(trainerInfo);
 
-        dto->trainer[BATTLER_PLAYER_1].header.trainerType = sub_0205CA14(unionGender, unionAppearance, 1);
+        dto->trainer[BATTLER_PLAYER_1].header.trainerType = Appearance_GetData(unionGender, unionAppearance, APPEARANCE_DATA_TRAINER_CLASS_2);
         CharCode_Copy(dto->trainer[BATTLER_PLAYER_1].name, TrainerInfo_Name(dto->trainerInfo[BATTLER_PLAYER_1]));
         dto->trainer[BATTLER_PLAYER_2] = dto->trainer[BATTLER_PLAYER_1];
     } else {
@@ -499,7 +497,7 @@ static void SetBackgroundAndTerrain(FieldBattleDTO *dto, const FieldSystem *fiel
 {
     PlayerData *player = FieldOverworldState_GetPlayerData(SaveData_GetFieldOverworldState(fieldSystem->saveData));
     dto->background = MapHeader_GetBattleBG(fieldSystem->location->mapId);
-    if (player->form == PLAYER_AVATAR_SURFING) {
+    if (player->playerState == PLAYER_AVATAR_SURFING) {
         dto->background = BACKGROUND_WATER;
     }
 

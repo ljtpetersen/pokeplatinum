@@ -1,13 +1,10 @@
 #include "scrcmd_party.h"
 
 #include <nitro.h>
-#include <string.h>
 
 #include "constants/heap.h"
 #include "generated/natures.h"
 #include "generated/species.h"
-
-#include "struct_decls/pc_boxes_decl.h"
 
 #include "field/field_system.h"
 #include "overlay005/daycare.h"
@@ -24,7 +21,7 @@
 #include "pokemon.h"
 #include "ribbon.h"
 #include "save_player.h"
-#include "tv_episode_segment.h"
+#include "tv_segment.h"
 #include "unk_02017038.h"
 #include "unk_02054884.h"
 #include "unk_0205DFC4.h"
@@ -266,7 +263,7 @@ BOOL ScrCmd_FindPartySlotWithNature(ScriptContext *ctx)
     return FALSE;
 }
 
-BOOL ScrCmd_GetFriendshipByPartySlot(ScriptContext *ctx)
+BOOL ScrCmd_GetPartyMonFriendship(ScriptContext *ctx)
 {
     FieldSystem *fieldSystem = ctx->fieldSystem;
     u16 *destVar = ScriptContext_GetVarPointer(ctx);

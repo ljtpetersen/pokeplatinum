@@ -3,16 +3,15 @@
 #include <nitro.h>
 
 #include "constants/battle_frontier.h"
-#include "constants/scrcmd.h"
 
 #include "applications/frontier/battle_hall/sprite_manager.h"
 #include "applications/frontier/battle_hall/sprites.h"
 #include "applications/frontier/battle_hall/windows.h"
 #include "applications/pokemon_summary_screen/main.h"
+#include "overlay104/battle_hall_helpers.h"
 #include "overlay104/ov104_0222DCE0.h"
-#include "overlay104/ov104_0223AF58.h"
-#include "overlay104/struct_ov104_02235208.h"
 
+#include "battle_hall_save.h"
 #include "bg_window.h"
 #include "communication_system.h"
 #include "dexmode_checker.h"
@@ -27,6 +26,7 @@
 #include "message.h"
 #include "narc.h"
 #include "narc_frontier_bg.h"
+#include "network_icon.h"
 #include "overlay_manager.h"
 #include "palette.h"
 #include "party.h"
@@ -45,9 +45,7 @@
 #include "system.h"
 #include "text.h"
 #include "trainer_info.h"
-#include "unk_02030108.h"
 #include "unk_020363E8.h"
-#include "unk_020393C8.h"
 #include "unk_0209BA80.h"
 #include "vram_transfer.h"
 
@@ -91,8 +89,6 @@ enum BattleHallAppMultiConfirmSubState {
 #define PARTNER_DECISION_PENDING 0
 #define PARTNER_DECISION_CONFIRM 1
 #define PARTNER_DECISION_CANCEL  2
-
-#define MAX_RANK 10
 
 #define WINDOW_MSG_BOX     0
 #define WINDOW_YES_NO_MENU 1
@@ -251,17 +247,17 @@ BOOL BattleHallApp_Init(ApplicationManager *appMan, int *state)
     app->bgConfig = BgConfig_New(HEAP_ID_BATTLE_HALL_APP);
     app->unused = appMan;
 
-    UnkStruct_ov104_02235208 *v2 = ApplicationManager_Args(appMan);
+    BattleHallAppArgs *args = ApplicationManager_Args(appMan);
 
-    app->saveData = v2->saveData;
-    app->challengeType = v2->unk_04;
-    app->selectedCellPtr = &v2->unk_06;
+    app->saveData = args->saveData;
+    app->challengeType = args->challengeType;
+    app->selectedCellPtr = &args->selectedCell;
     app->options = SaveData_GetOptions(app->saveData);
-    app->party = v2->party;
-    app->typeRanks = v2->unk_08;
-    app->partnersLevel = v2->unk_14;
-    app->currentStreak = v2->unk_18 + 1;
-    app->cursorPos = v2->unk_05;
+    app->party = args->party;
+    app->typeRanks = args->typeRanks;
+    app->partnersLevel = args->partnersLevel;
+    app->currentStreak = args->currentStreak + 1;
+    app->cursorPos = args->cursorPos;
     app->partnersSelectedCell = 0xff;
     app->selectionID = 0xff;
     app->savedCursorPos = 0x75;
@@ -446,7 +442,7 @@ static BOOL State_SelectNextBattle(BattleHallApp *app)
                         return FALSE;
                     }
                 } else {
-                    if (BattleHall_GetRankOfType(GetCursorPos(app->cursorPos), app->typeRanks) >= MAX_RANK) {
+                    if (BattleHall_GetRankOfType(GetCursorPos(app->cursorPos), app->typeRanks) >= HALL_MAX_TYPE_RANK) {
                         Sound_PlayEffect(SEQ_SE_DP_BOX03);
 
                         return FALSE;
@@ -509,7 +505,7 @@ static BOOL State_SelectNextBattle(BattleHallApp *app)
             }
             break;
         case MENU_NO:
-        case MENU_CANCELED:
+        case MENU_CANCEL:
             FreeYesNoMenu(app);
             DeselectCell(app);
             app->subState = SELECT_STATE_MAKE_PICK;
@@ -643,7 +639,7 @@ static BOOL State_MultiplayerConfirmSelection(BattleHallApp *app)
             app->subState = MCONFIRM_STATE_SEND_CONFIRM_COMM;
             break;
         case MENU_NO:
-        case MENU_CANCELED:
+        case MENU_CANCEL:
             FreeYesNoMenu(app);
             app->subState = MCONFIRM_STATE_SEND_CANCELED_COMM;
             break;
@@ -836,7 +832,7 @@ static void LoadAssets(BattleHallApp *app)
     if (CommSys_IsInitialized()) {
         ReserveVramForWirelessIconChars(NNS_G2D_VRAM_TYPE_2DMAIN, GX_OBJVRAMMODE_CHAR_1D_32K);
         ReserveSlotsForWirelessIconPalette(NNS_G2D_VRAM_TYPE_2DMAIN);
-        sub_02039734();
+        NetworkIcon_Init();
     }
 
     SetVBlankCallback(VBlankCallback, app);
@@ -1140,8 +1136,8 @@ static void PrintTypesRanks(BattleHallApp *app, Window *window)
                 u8 v3 = r * GRID_WIDTH + c;
                 u8 rank = BattleHall_GetRankOfType(GetCursorPos(v3), app->typeRanks) + 1;
 
-                if (rank > MAX_RANK) {
-                    rank = MAX_RANK;
+                if (rank > HALL_MAX_TYPE_RANK) {
+                    rank = HALL_MAX_TYPE_RANK;
                 }
 
                 PrintRank(app, window, rank, 18 + (COL_WIDTH * c), 4 + (ROW_HEIGHT * r));
@@ -1515,8 +1511,8 @@ static void DrawMessageWithYesNoMenu(BattleHallApp *app)
 
     u8 rank = BattleHall_GetRankOfType(GetCursorPos(app->cursorPos), app->typeRanks) + 1;
 
-    if (rank > MAX_RANK) {
-        rank = MAX_RANK;
+    if (rank > HALL_MAX_TYPE_RANK) {
+        rank = HALL_MAX_TYPE_RANK;
     }
 
     SetStringTemplateNumber(app, 1, rank);

@@ -89,7 +89,7 @@ extern int tool_create(const options_t *opts) {
 
     strvec_t  excls  = { 0 };
     char     *ogcwd  = getcwd(NULL, 0);
-    char     *f_incl = NULL;
+    char     *f_incl = (char *)opts->single_file;
     char     *f_excl = NULL;
     char     *data   = NULL;
     size_t    size   = 0;
@@ -112,16 +112,18 @@ extern int tool_create(const options_t *opts) {
     free(cfg.files.data);
     free(excls.data); // none are internally-owned
     free(ogcwd);
-    free(f_incl);
+    if (opts->files_from)
+        free(f_incl);
     free(f_excl);
     free(data);
     return errc;
 }
 
-static bool strvec_has(const strvec_t *vec, char *s);
-static int  strvec_grow(strvec_t *vec);
-static int  strvec_push(strvec_t *vec, char *s);
-static int  lexicsort(const void *_lhs, const void *_rhs);
+static size_t strvec_nhits(const strvec_t *vec, char *s, size_t max_i);
+static bool   strvec_has(const strvec_t *vec, char *s);
+static int    strvec_grow(strvec_t *vec);
+static int    strvec_push(strvec_t *vec, char *s);
+static int    lexicsort(const void *_lhs, const void *_rhs);
 
 #define is_hspace(c) ((c) == ' ' || (c) == '\t' || (c) == '\r')
 
@@ -473,6 +475,22 @@ static char* guardify(const char *name, size_t size) {
     return guard;
 }
 
+static char* guardify_nhits(const char *name, size_t size, size_t nhits) {
+    assert(name);
+    char *base = guardify(name, size);
+    if (base == NULL || nhits == 0) return base;
+
+    size = snprintf(NULL, 0, "%s_%zu", base, nhits);
+    char *suffixed = malloc(size + 1);
+
+    if (suffixed != NULL) {
+        snprintf(suffixed, size + 1, "%s_%zu", base, nhits);
+    }
+
+    free(base);
+    return suffixed;
+}
+
 static int write_index(const char *fname, bool index, const strvec_t *files) {
     assert(fname);
     assert(files);
@@ -505,7 +523,8 @@ static int write_index(const char *fname, bool index, const strvec_t *files) {
     fprintf(fnaix, "\n");
 
     for (size_t i = 0; i < files->size; i++) {
-        char *defn = guardify(files->data[i], strlen(files->data[i]));
+        size_t nhits = strvec_nhits(files, files->data[i], i);
+        char  *defn  = guardify_nhits(files->data[i], strlen(files->data[i]), nhits);
         if (defn == NULL) { free(defn); goto erralloc; }
 
         fprintf(fnaix, "#define %s %zu\n", defn, i);
@@ -528,6 +547,15 @@ cleanup:
     free(name);
     free(guard);
     return errc;
+}
+
+static size_t strvec_nhits(const strvec_t *vec, char *s, size_t max_i) {
+    size_t count = 0;
+    for (size_t i = 0; i < max_i; i++) {
+        if (strcmp(vec->data[i], s) == 0) count++;
+    }
+
+    return count;
 }
 
 static bool strvec_has(const strvec_t *vec, char *s) {

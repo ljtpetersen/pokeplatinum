@@ -6,16 +6,16 @@
 #include "constants/battle_frontier.h"
 #include "generated/game_records.h"
 
-#include "struct_decls/struct_02030114_decl.h"
-#include "struct_decls/struct_0203026C_decl.h"
-#include "struct_decls/struct_020308A0_decl.h"
-
 #include "applications/party_menu/defs.h"
 #include "applications/party_menu/main.h"
 #include "applications/pokemon_summary_screen/main.h"
 #include "field/field_system.h"
 
 #include "bag.h"
+#include "battle_frontier_save.h"
+#include "battle_frontier_stats.h"
+#include "battle_hall_save.h"
+#include "battle_hall_win_records.h"
 #include "communication_system.h"
 #include "dexmode_checker.h"
 #include "field_script_context.h"
@@ -31,14 +31,11 @@
 #include "savedata.h"
 #include "script_manager.h"
 #include "string_template.h"
-#include "unk_0202D05C.h"
 #include "unk_0202D778.h"
-#include "unk_02030108.h"
-#include "unk_0203061C.h"
-#include "unk_02030880.h"
 #include "unk_0204FA34.h"
 #include "unk_0205DFC4.h"
 #include "unk_02099500.h"
+#include "wifi_battle_tower_save.h"
 
 #include "constdata/const_020F410C.h"
 
@@ -60,8 +57,8 @@ enum BattleHallSelectionSubTask {
 
 static BOOL CheckPartyIsBattleHallEligible(u16 numPokemonNeeded, SaveData *saveData);
 
-static void CheckSameSpeciesAsPartner(FieldTask *param0, u16 param1, u16 *param2);
-static BOOL CheckSameSpeciesAsPartnerTask(FieldTask *param0);
+static void CheckPartnerUsesDifferentSpecies(FieldTask *param0, u16 param1, u16 *param2);
+static BOOL CheckPartnerUsesDifferentSpeciesTask(FieldTask *param0);
 
 static void SelectBattleHallChallengers(FieldTask *task, void **partySelect, u8 challengeType);
 static BOOL BattleHallSelectChallengersTask(FieldTask *task);
@@ -78,8 +75,8 @@ BOOL ScrCmd_2CC(ScriptContext *ctx)
     u16 arg = ScriptContext_GetVar(ctx);
     u16 *result = FieldSystem_GetVarPointer(ctx->fieldSystem, ScriptContext_ReadHalfWord(ctx));
 
-    UnkStruct_02030114 *v10 = sub_02030114(ctx->fieldSystem->saveData);
-    UnkStruct_0203026C *v11 = sub_0203026C(ctx->fieldSystem->saveData);
+    BattleHallSave *v10 = BattleHallSave_Get(ctx->fieldSystem->saveData);
+    BattleHallStreakFlags *v11 = BattleHallStreakFlags_Get(ctx->fieldSystem->saveData);
     void **partySelect = FieldSystem_GetScriptMemberPtr(ctx->fieldSystem, SCRIPT_MANAGER_PARTY_MANAGEMENT_DATA);
 
     switch (action) {
@@ -88,17 +85,14 @@ BOOL ScrCmd_2CC(ScriptContext *ctx)
         break;
     case 1:
         if (arg == 3) {
-            *result = sub_02030698(SaveData_GetBattleFrontier(ctx->fieldSystem->saveData),
-                106,
-                sub_0205E6A8(106));
+            *result = BattleFrontierSave_GetStatAutoHostIdx(SaveData_GetBattleFrontier(ctx->fieldSystem->saveData), 106);
         } else {
-            *result = sub_020302B4(v11, 5, arg, 0, NULL);
+            *result = BattleHallStreakFlags_GetFlag(v11, 5, arg, 0, NULL);
         }
         break;
     case 2:
-        *result = sub_02030698(SaveData_GetBattleFrontier(ctx->fieldSystem->saveData),
-            sub_0205E55C(arg),
-            sub_0205E6A8(sub_0205E55C(arg)));
+        *result = BattleFrontierSave_GetStatAutoHostIdx(SaveData_GetBattleFrontier(ctx->fieldSystem->saveData),
+            BattleFrontierStats_GetHallLatestSpeciesIndex(arg));
         break;
     case 3:
         sub_0204FA50(ctx->fieldSystem->saveData, v11, arg);
@@ -187,22 +181,22 @@ static BOOL CheckPartyIsBattleHallEligible(u16 numPokemonNeeded, SaveData *saveD
 BOOL ScrCmd_2D1(ScriptContext *ctx)
 {
     u16 challengeType = ScriptContext_GetVar(ctx);
-    UnkStruct_0203026C *v0 = sub_0203026C(ctx->fieldSystem->saveData);
+    BattleHallStreakFlags *v0 = BattleHallStreakFlags_Get(ctx->fieldSystem->saveData);
 
     sub_0204FA50(ctx->fieldSystem->saveData, v0, challengeType);
     return FALSE;
 }
 
-BOOL ScrCmd_BattleHallCheckUsingSameSpeciesAsPartner(ScriptContext *ctx)
+BOOL ScrCmd_CheckBattleHallPartnerUsesDifferentSpecies(ScriptContext *ctx)
 {
     u16 species = ScriptContext_GetVar(ctx);
     u16 *result = ScriptContext_GetVarPointer(ctx);
 
-    CheckSameSpeciesAsPartner(ctx->task, species, result);
+    CheckPartnerUsesDifferentSpecies(ctx->task, species, result);
     return TRUE;
 }
 
-static void CheckSameSpeciesAsPartner(FieldTask *task, u16 species, u16 *speciesAreDifferent)
+static void CheckPartnerUsesDifferentSpecies(FieldTask *task, u16 species, u16 *speciesAreDifferent)
 {
     BattleHallSameSpeciesCheck *taskEnv = Heap_Alloc(HEAP_ID_FIELD2, sizeof(BattleHallSameSpeciesCheck));
     memset(taskEnv, 0, sizeof(BattleHallSameSpeciesCheck));
@@ -212,11 +206,11 @@ static void CheckSameSpeciesAsPartner(FieldTask *task, u16 species, u16 *species
 
     CommFieldCmd_Init(taskEnv);
 
-    FieldTask_InitCall(task, CheckSameSpeciesAsPartnerTask, taskEnv);
+    FieldTask_InitCall(task, CheckPartnerUsesDifferentSpeciesTask, taskEnv);
     return;
 }
 
-static BOOL CheckSameSpeciesAsPartnerTask(FieldTask *task)
+static BOOL CheckPartnerUsesDifferentSpeciesTask(FieldTask *task)
 {
     BattleHallSameSpeciesCheck *data = FieldTask_GetEnv(task);
 
@@ -459,7 +453,7 @@ static const BattleHallMilestone sBattleHallRecordMilestones[] = {
 
 BOOL ScrCmd_GetBattleHallRecordKeeperStats(ScriptContext *ctx)
 {
-    BattleFrontierStage *frontierStage;
+    BattleHallWinRecords *records;
     FieldSystem *fieldSystem = ctx->fieldSystem;
     StringTemplate **strTemplate = FieldSystem_GetScriptMemberPtr(fieldSystem, SCRIPT_MANAGER_STR_TEMPLATE);
     u8 curStreakStrIndex = ScriptContext_ReadByte(ctx);
@@ -477,17 +471,17 @@ BOOL ScrCmd_GetBattleHallRecordKeeperStats(ScriptContext *ctx)
         return FALSE;
     }
 
-    frontierStage = sub_020308A0(fieldSystem->saveData, HEAP_ID_FIELD3, &loadResult);
+    records = BattleHallWinRecords_Get(fieldSystem->saveData, HEAP_ID_FIELD3, &loadResult);
     if (loadResult != LOAD_RESULT_OK) {
         totalWinRecord = 0;
     } else {
         for (u32 species = 0; species < NATIONAL_DEX_COUNT; species++) {
-            totalWinRecord += sub_020308BC(fieldSystem->saveData, frontierStage, FRONTIER_CHALLENGE_SINGLE, species);
+            totalWinRecord += BattleHallWinRecords_GetRecordForSpecies(fieldSystem->saveData, records, FRONTIER_CHALLENGE_SINGLE, species);
         }
     }
 
-    if (frontierStage != NULL) {
-        Heap_Free(frontierStage);
+    if (records != NULL) {
+        Heap_Free(records);
     }
 
     StringTemplate_SetNumber(*strTemplate, curStreakStrIndex, totalWinRecord, GetNumberDigitCount(totalWinRecord), 1, 1);
@@ -508,8 +502,8 @@ BOOL ScrCmd_GetBattleHallRecordKeeperStats(ScriptContext *ctx)
     GameRecords_AddToRecordValue(SaveData_GetGameRecords(ctx->fieldSystem->saveData), RECORD_BATTLE_POINTS_RECEIVED, earnedBP);
 
     if (earnedBP != 0) {
-        BattlePoints_ApplyFuncAndGet(
-            sub_0202D750(ctx->fieldSystem->saveData), earnedBP, BATTLE_POINTS_FUNC_ADD);
+        WifiBattleTowerRecord_UpdateBattlePoints(
+            SaveData_GetWifiBattleTowerRecord(ctx->fieldSystem->saveData), earnedBP, BATTLE_POINTS_FUNC_ADD);
     }
 
     if (totalWinRecord == 0) {
@@ -538,7 +532,7 @@ BOOL ScrCmd_GetBattleHallRecordKeeperStats(ScriptContext *ctx)
 
 BOOL ScrCmd_GetNumSpeciesWithBattleHallRecords(ScriptContext *ctx)
 {
-    BattleFrontierStage *frontierStage;
+    BattleHallWinRecords *records;
     u32 combinedRecord, species;
     FieldSystem *fieldSystem = ctx->fieldSystem;
     u16 *result = ScriptContext_GetVarPointer(ctx);
@@ -551,16 +545,16 @@ BOOL ScrCmd_GetNumSpeciesWithBattleHallRecords(ScriptContext *ctx)
         return FALSE;
     }
 
-    frontierStage = sub_020308A0(fieldSystem->saveData, HEAP_ID_FIELD3, &loadResult);
+    records = BattleHallWinRecords_Get(fieldSystem->saveData, HEAP_ID_FIELD3, &loadResult);
     if (loadResult != LOAD_RESULT_OK) {
         numSpeciesWithRecord = 0;
     } else {
         for (species = 0; species < NATIONAL_DEX_COUNT; species++) {
             combinedRecord = 0;
 
-            combinedRecord += sub_020308BC(fieldSystem->saveData, frontierStage, FRONTIER_CHALLENGE_SINGLE, species);
-            combinedRecord += sub_020308BC(fieldSystem->saveData, frontierStage, FRONTIER_CHALLENGE_DOUBLE, species);
-            combinedRecord += sub_020308BC(fieldSystem->saveData, frontierStage, FRONTIER_CHALLENGE_MULTI, species);
+            combinedRecord += BattleHallWinRecords_GetRecordForSpecies(fieldSystem->saveData, records, FRONTIER_CHALLENGE_SINGLE, species);
+            combinedRecord += BattleHallWinRecords_GetRecordForSpecies(fieldSystem->saveData, records, FRONTIER_CHALLENGE_DOUBLE, species);
+            combinedRecord += BattleHallWinRecords_GetRecordForSpecies(fieldSystem->saveData, records, FRONTIER_CHALLENGE_MULTI, species);
 
             if (combinedRecord > 0) {
                 numSpeciesWithRecord++;
@@ -568,8 +562,8 @@ BOOL ScrCmd_GetNumSpeciesWithBattleHallRecords(ScriptContext *ctx)
         }
     }
 
-    if (frontierStage != NULL) {
-        Heap_Free(frontierStage);
+    if (records != NULL) {
+        Heap_Free(records);
     }
 
     *result = numSpeciesWithRecord;
@@ -578,7 +572,7 @@ BOOL ScrCmd_GetNumSpeciesWithBattleHallRecords(ScriptContext *ctx)
 
 BOOL ScrCmd_GetBattleHallTotalSinglesRecord(ScriptContext *ctx)
 {
-    BattleFrontierStage *frontierStage;
+    BattleHallWinRecords *records;
     FieldSystem *fieldSystem = ctx->fieldSystem;
     u16 *result = ScriptContext_GetVarPointer(ctx);
 
@@ -590,17 +584,17 @@ BOOL ScrCmd_GetBattleHallTotalSinglesRecord(ScriptContext *ctx)
         return FALSE;
     }
 
-    frontierStage = sub_020308A0(fieldSystem->saveData, HEAP_ID_FIELD3, &loadResult);
+    records = BattleHallWinRecords_Get(fieldSystem->saveData, HEAP_ID_FIELD3, &loadResult);
     if (loadResult != LOAD_RESULT_OK) {
         totalRecord = 0;
     } else {
         for (u32 species = 0; species < NATIONAL_DEX_COUNT; species++) {
-            totalRecord += sub_020308BC(fieldSystem->saveData, frontierStage, FRONTIER_CHALLENGE_SINGLE, species);
+            totalRecord += BattleHallWinRecords_GetRecordForSpecies(fieldSystem->saveData, records, FRONTIER_CHALLENGE_SINGLE, species);
         }
     }
 
-    if (frontierStage != NULL) {
-        Heap_Free(frontierStage);
+    if (records != NULL) {
+        Heap_Free(records);
     }
 
     if (totalRecord > 10000) {
@@ -615,12 +609,12 @@ BOOL ScrCmd_32A(ScriptContext *ctx)
 {
     u16 *v2 = ScriptContext_GetVarPointer(ctx);
 
-    u16 v0 = sub_02030698(SaveData_GetBattleFrontier(ctx->fieldSystem->saveData),
-        sub_0205E55C(0),
+    u16 v0 = BattleFrontierSave_GetStat(SaveData_GetBattleFrontier(ctx->fieldSystem->saveData),
+        BattleFrontierStats_GetHallLatestSpeciesIndex(0),
         0xff);
 
-    u16 v1 = sub_02030698(SaveData_GetBattleFrontier(ctx->fieldSystem->saveData),
-        sub_0205E50C(0),
+    u16 v1 = BattleFrontierSave_GetStat(SaveData_GetBattleFrontier(ctx->fieldSystem->saveData),
+        BattleFrontierStats_GetHallLatestStreakIndex(0),
         0xff);
 
     *v2 = 0;

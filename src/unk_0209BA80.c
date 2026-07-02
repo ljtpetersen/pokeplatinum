@@ -6,23 +6,22 @@
 #include "constants/battle_tower.h"
 
 #include "struct_defs/battle_tower.h"
-#include "struct_defs/struct_02039A58.h"
+#include "struct_defs/comm_cmd_table.h"
 #include "struct_defs/struct_0209BBA4.h"
 
+#include "applications/frontier/battle_arcade/main.h"
 #include "applications/frontier/battle_castle/opponent_app.h"
 #include "applications/frontier/battle_castle/self_app.h"
+#include "applications/frontier/battle_factory/main.h"
 #include "applications/frontier/battle_hall/main.h"
 #include "overlay104/ov104_0222ECE8.h"
 #include "overlay104/ov104_0223C164.h"
-#include "overlay105/ov105_02241AE0.h"
-#include "overlay108/ov108_02241AE0.h"
 
+#include "battle_frontier_save.h"
 #include "communication_system.h"
 #include "party.h"
 #include "pokemon.h"
-#include "unk_0203061C.h"
 #include "unk_02032798.h"
-#include "unk_0205DFC4.h"
 
 static void sub_0209BA94(int param0, int param1, void *param2, void *param3);
 BOOL sub_0209BB08(BattleTower *battleTower);
@@ -47,10 +46,10 @@ static const CommCmdTable Unk_020F8BF0[] = {
     { ov104_0222F1C4, CommPacketSizeOf_Variable, NULL },
     { ov104_0222F210, CommPacketSizeOf_Variable, NULL },
     { ov104_0222F31C, CommPacketSizeOf_Variable, NULL },
-    { ov105_0224569C, CommPacketSizeOf_Variable, NULL },
-    { ov105_02245744, CommPacketSizeOf_Variable, NULL },
-    { ov105_022457B8, CommPacketSizeOf_Variable, NULL },
-    { ov105_022458A4, CommPacketSizeOf_Variable, NULL },
+    { BattleFactoryApp_DummyCommCommand, CommPacketSizeOf_Variable, NULL },
+    { BattleFactoryApp_HandleSelectionUpdateCmd, CommPacketSizeOf_Variable, NULL },
+    { BattleFactoryApp_DummyCommCommand2, CommPacketSizeOf_Variable, NULL },
+    { BattleFactoryApp_HandleTradeResultCmd, CommPacketSizeOf_Variable, NULL },
     { ov104_0222ECE8, CommPacketSizeOf_Variable, NULL },
     { ov104_0222ED2C, CommPacketSizeOf_Variable, NULL },
     { ov104_0222ED74, CommPacketSizeOf_Variable, NULL },
@@ -89,9 +88,9 @@ static const CommCmdTable Unk_020F8BF0[] = {
     { ov104_0222FA5C, CommPacketSizeOf_Variable, NULL },
     { ov104_0222FAA8, CommPacketSizeOf_Variable, NULL },
     { ov104_0222FB34, CommPacketSizeOf_Variable, ov104_0222FBC4 },
-    { ov108_02242AB0, CommPacketSizeOf_Variable, NULL },
-    { ov108_02242B24, CommPacketSizeOf_Variable, NULL },
-    { ov108_02242B84, CommPacketSizeOf_Variable, NULL }
+    { BattleArcadeApp_HandleInitialLayoutCmd, CommPacketSizeOf_Variable, NULL },
+    { BattleArcadeApp_HandleResultCmd, CommPacketSizeOf_Variable, NULL },
+    { BattleArcadeApp_HandleUnusedCmd, CommPacketSizeOf_Variable, NULL }
 };
 
 void sub_0209BA80(void *param0)
@@ -201,7 +200,7 @@ BOOL sub_0209BBA4(UnkStruct_0209BBA4 *param0)
     param0->unk_08[0] = param0->unk_A0;
 
     v2 = ov104_0223C264(param0->unk_A0);
-    param0->unk_08[1] = sub_02030698(SaveData_GetBattleFrontier(param0->saveData), v2, sub_0205E6A8(v2));
+    param0->unk_08[1] = BattleFrontierSave_GetStatAutoHostIdx(SaveData_GetBattleFrontier(param0->saveData), v2);
 
     if (CommSys_SendData(57, param0->unk_08, v1) == 1) {
         v0 = 1;

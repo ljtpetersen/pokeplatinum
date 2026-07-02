@@ -11,6 +11,17 @@
 #define PARTY_MENU_SELECTION_ELIGIBLE   1
 #define PARTY_MENU_SELECTION_ENTERED    2
 
+enum PartyMenuInput {
+    PARTY_MENU_INPUT_CONFIRM,
+    PARTY_MENU_INPUT_DIRECTION_PAD,
+    PARTY_MENU_INPUT_TOUCH_SCREEN,
+    PARTY_MENU_INPUT_CANCEL,
+    PARTY_MENU_INPUT_4,
+    PARTY_MENU_INPUT_NONE
+};
+
+typedef void (*PartyMenuAction)(PartyMenuApplication *application, int *partyMenuState);
+
 extern const ApplicationManagerTemplate gPokemonPartyAppTemplate;
 
 void PartyMenu_UpdateFormChangeGraphicsMode(PartyMenuApplication *application, BOOL isTeardown);
@@ -23,7 +34,7 @@ u8 PartyMenu_CheckEligibility(PartyMenuApplication *application, u8 slot);
 u8 PartyMenu_CheckBattleHallEligibility(PartyMenuApplication *application, u8 slot);
 u8 PartyMenu_CheckBattleCastleEligibility(PartyMenuApplication *application, u8 slot);
 u8 PartyMenu_GetMemberPanelAnim(u8 menuType, u8 slot);
-u8 GetElementIndex(u16 param0);
+u8 GetFieldMoveIndex(u16 moveID);
 u32 sub_02081930(void);
 u32 sub_02081934(void);
 u32 sub_02081938(void);

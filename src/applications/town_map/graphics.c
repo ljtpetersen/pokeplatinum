@@ -32,6 +32,8 @@
 #include "text.h"
 #include "touch_screen.h"
 
+#include "res/graphics/sprite_templates/town_map.h"
+
 #define TOWN_MAP_RIGHT (1 << 0)
 #define TOWN_MAP_LEFT  (1 << 1)
 #define TOWN_MAP_DOWN  (1 << 2)
@@ -60,7 +62,7 @@
 typedef struct TownMapCoordsToHeader {
     u16 x;
     u16 z;
-    enum MapHeader header;
+    enum MapHeaderID header;
 } TownMapCoordsToHeader;
 
 typedef struct TilemapRectCopyParams {
@@ -72,7 +74,7 @@ typedef struct TilemapRectCopyParams {
     u8 height;
 } TilemapRectCopyParams;
 
-static void SetHoveredLocation(TownMapAppData *appData, TownMapBlock *mapBlock, enum MapHeader mapHeader);
+static void SetHoveredLocation(TownMapAppData *appData, TownMapBlock *mapBlock, enum MapHeaderID mapHeader);
 static void EraseSignpost(TownMapAppData *appData);
 static void PrintBottomScreenHeader(TownMapAppData *appData, Window *window);
 static void MakeAppWindows(TownMapAppData *appData);
@@ -85,8 +87,8 @@ static void LoadLocationHistory(TownMapAppData *appData);
 static void Task_UpdateShownLocationHistoryIdx(SysTask *sysTask, void *appData);
 static void DeleteLocationHistorySprites(TownMapAppData *appData);
 static void HandleInput(TownMapAppData *appData, int heldKeys);
-static void LoadMapName(TownMapAppData *appData, enum MapHeader header, int x, int z);
-static void PrintLocationName(TownMapAppData *appData, Window *window, enum MapHeader header, int x, int z);
+static void LoadMapName(TownMapAppData *appData, enum MapHeaderID header, int x, int z);
+static void PrintLocationName(TownMapAppData *appData, Window *window, enum MapHeaderID header, int x, int z);
 static void PrintLocationDescription(TownMapAppData *appData, Window *window, TownMapBlock *mapBlock);
 static void UpdateBottomScreenText(TownMapAppData *appData);
 static void UpdateHoveredLocation(TownMapAppData *appData);
@@ -286,7 +288,7 @@ BOOL TownMap_UpdateDisplayedLocationInfo(TownMapAppData *appData)
 {
     TownMapGraphicsManager *graphicsMan = appData->graphicsMan;
     TownMapBlock *mapBlock = appData->hoveredMapBlock;
-    enum MapHeader header = appData->hoveredMapHeader;
+    enum MapHeaderID header = appData->hoveredMapHeader;
 
     if (!appData->locationChanged) {
         return FALSE;
@@ -460,7 +462,7 @@ static void UpdateHoveredLocation(TownMapAppData *appData)
     graphicsMan->hoveredBlock = TownMap_GetMapBlockAtPosition(appData->mapBlockList, graphicsMan->cursorX, graphicsMan->cursorZ, appData->unlockedHiddenLocations);
 }
 
-static void LoadMapName(TownMapAppData *appData, enum MapHeader header, int x, int z)
+static void LoadMapName(TownMapAppData *appData, enum MapHeaderID header, int x, int z)
 {
     static const TownMapCoordsToHeader notOnMainMatrix[] = {
         { .x = 11, .z = 19, .header = MAP_HEADER_MT_CORONET_1F_SOUTH },
@@ -494,7 +496,7 @@ static void LoadMapName(TownMapAppData *appData, enum MapHeader header, int x, i
     return;
 }
 
-static void PrintLocationName(TownMapAppData *appData, Window *window, enum MapHeader header, int x, int z)
+static void PrintLocationName(TownMapAppData *appData, Window *window, enum MapHeaderID header, int x, int z)
 {
     u32 xOffset;
     TextColor textColor;
@@ -603,7 +605,7 @@ static void DoZoomedMapMvt(TownMapAppData *appData)
     }
 }
 
-static void SetHoveredLocation(TownMapAppData *appData, TownMapBlock *block, enum MapHeader header)
+static void SetHoveredLocation(TownMapAppData *appData, TownMapBlock *block, enum MapHeaderID header)
 {
     appData->hoveredMapHeader = header;
     appData->hoveredMapBlock = block;
@@ -794,9 +796,15 @@ static void ClearBGLayers(TownMapAppData *appData)
     Bg_ScheduleTilemapTransfer(appData->bgConfig, BG_LAYER_SUB_3);
 }
 
+enum {
+    SPRITE_TEMPLATE_ZOOM_BUTTON_SHOCKWAVE = 0,
+    SPRITE_TEMPLATE_CURSOR,
+    SPRITE_TEMPLATE_PLAYER_ICONS,
+};
+
 static const SpriteTemplateFromResourceHeader sTownMapSpriteTemplates[] = {
-    {
-        .resourceHeaderID = 0,
+    [SPRITE_TEMPLATE_ZOOM_BUTTON_SHOCKWAVE] = {
+        .resourceHeaderID = TownMap_Template_ZoomButtonShockwave,
         .x = 0,
         .y = 0,
         .z = 0,
@@ -804,13 +812,9 @@ static const SpriteTemplateFromResourceHeader sTownMapSpriteTemplates[] = {
         .priority = 0,
         .plttIdx = PLTT_0,
         .vramType = NNS_G2D_VRAM_TYPE_2DSUB,
-        .dummy18 = 0,
-        .dummy1C = 0,
-        .dummy20 = 0,
-        .dummy24 = 0,
     },
-    {
-        .resourceHeaderID = 1,
+    [SPRITE_TEMPLATE_CURSOR] = {
+        .resourceHeaderID = TownMap_Template_Cursor,
         .x = 0,
         .y = 0,
         .z = 0,
@@ -818,13 +822,9 @@ static const SpriteTemplateFromResourceHeader sTownMapSpriteTemplates[] = {
         .priority = 0,
         .plttIdx = PLTT_0,
         .vramType = NNS_G2D_VRAM_TYPE_2DMAIN,
-        .dummy18 = 0,
-        .dummy1C = 0,
-        .dummy20 = 0,
-        .dummy24 = 0,
     },
-    {
-        .resourceHeaderID = 2,
+    [SPRITE_TEMPLATE_PLAYER_ICONS] = {
+        .resourceHeaderID = TownMap_Template_PlayerIcons,
         .x = 0,
         .y = 0,
         .z = 0,
@@ -832,25 +832,21 @@ static const SpriteTemplateFromResourceHeader sTownMapSpriteTemplates[] = {
         .priority = 1,
         .plttIdx = PLTT_1,
         .vramType = NNS_G2D_VRAM_TYPE_2DMAIN,
-        .dummy18 = 0,
-        .dummy1C = 0,
-        .dummy20 = 0,
-        .dummy24 = 0,
     },
 };
 
 static void CreateSprites(TownMapAppData *appData)
 {
     TownMapGraphicsManager *graphicsMan = appData->graphicsMan;
-    SpriteTemplateFromResourceHeader spriteTemplate = sTownMapSpriteTemplates[2];
+    SpriteTemplateFromResourceHeader playerIconTemplate = sTownMapSpriteTemplates[SPRITE_TEMPLATE_PLAYER_ICONS];
 
-    graphicsMan->zoomBtnShockwave = SpriteSystem_NewSpriteFromResourceHeader(appData->spriteSystem, appData->spriteMan, &sTownMapSpriteTemplates[0]);
+    graphicsMan->zoomBtnShockwave = SpriteSystem_NewSpriteFromResourceHeader(appData->spriteSystem, appData->spriteMan, &sTownMapSpriteTemplates[SPRITE_TEMPLATE_ZOOM_BUTTON_SHOCKWAVE]);
 
     Sprite_SetDrawFlag(graphicsMan->zoomBtnShockwave, FALSE);
     Sprite_SetAnimSpeed(graphicsMan->zoomBtnShockwave, FX32_ONE);
     Sprite_SetPositionXY(graphicsMan->zoomBtnShockwave, 128, 108);
 
-    graphicsMan->cursorSprite = SpriteSystem_NewSpriteFromResourceHeader(appData->spriteSystem, appData->spriteMan, &sTownMapSpriteTemplates[1]);
+    graphicsMan->cursorSprite = SpriteSystem_NewSpriteFromResourceHeader(appData->spriteSystem, appData->spriteMan, &sTownMapSpriteTemplates[SPRITE_TEMPLATE_CURSOR]);
 
     Sprite_SetDrawFlag(graphicsMan->cursorSprite, TRUE);
     Sprite_SetAnimSpeed(graphicsMan->cursorSprite, FX32_CONST(2));
@@ -858,12 +854,12 @@ static void CreateSprites(TownMapAppData *appData)
     Sprite_SetPositionXY(graphicsMan->cursorSprite, TOWN_MAP_GRID_X(graphicsMan->cursorX), TOWN_MAP_GRID_Y(graphicsMan->cursorZ));
 
     if (appData->context->trainerGender == GENDER_MALE) {
-        spriteTemplate.plttIdx = PLTT_1;
+        playerIconTemplate.plttIdx = PLTT_1;
     } else {
-        spriteTemplate.plttIdx = PLTT_0;
+        playerIconTemplate.plttIdx = PLTT_0;
     }
 
-    graphicsMan->playerSprite = SpriteSystem_NewSpriteFromResourceHeader(appData->spriteSystem, appData->spriteMan, &spriteTemplate);
+    graphicsMan->playerSprite = SpriteSystem_NewSpriteFromResourceHeader(appData->spriteSystem, appData->spriteMan, &playerIconTemplate);
 
     Sprite_SetDrawFlag(graphicsMan->playerSprite, TRUE);
     Sprite_SetAnimFrame(graphicsMan->playerSprite, appData->context->trainerGender);
@@ -911,7 +907,7 @@ static void LoadLocationHistory(TownMapAppData *appData)
     TownMapGraphicsManager *graphicsMan = appData->graphicsMan;
     static const u16 directionMapping[4] = { 0, 2, 3, 1 };
     static const SpriteTemplateFromResourceHeader spriteTemplate = {
-        .resourceHeaderID = 3,
+        .resourceHeaderID = TownMap_Template_LocationHistoryDot,
         .x = 0,
         .y = 0,
         .z = 0,
@@ -919,10 +915,6 @@ static void LoadLocationHistory(TownMapAppData *appData)
         .priority = 2,
         .plttIdx = PLTT_2,
         .vramType = NNS_G2D_VRAM_TYPE_2DMAIN,
-        .dummy18 = 0,
-        .dummy1C = 0,
-        .dummy20 = 0,
-        .dummy24 = 0,
     };
 
     MI_CpuClear8(&(graphicsMan->locationHistory), sizeof(TownMapLocationHistory));

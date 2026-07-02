@@ -1,7 +1,6 @@
 #include "overlay104/ov104_0222DCE0.h"
 
 #include <nitro.h>
-#include <string.h>
 
 #include "constants/heap.h"
 #include "constants/narc.h"
@@ -10,12 +9,12 @@
 #include "generated/species_data_params.h"
 #include "generated/trainer_classes.h"
 
-#include "struct_defs/sentence.h"
 #include "struct_defs/wi_fi_history.h"
 
 #include "charcode_util.h"
 #include "communication_information.h"
 #include "communication_system.h"
+#include "easy_chat_sentence.h"
 #include "field_battle_data_transfer.h"
 #include "flags.h"
 #include "map_header.h"
@@ -31,10 +30,10 @@
 #include "string_gf.h"
 #include "string_template.h"
 #include "trainer_info.h"
-#include "unk_0202C858.h"
 #include "unk_02038F8C.h"
 #include "unk_0208C098.h"
 #include "unk_02092494.h"
+#include "wifi_history_save_data.h"
 
 static const u16 sTrainerClassToObjectID[][2] = {
     { TRAINER_CLASS_TRAINER_CHERYL, OBJ_EVENT_GFX_CHERYL },
@@ -102,27 +101,27 @@ static const u16 sTrainerClassToObjectID[][2] = {
     { TRAINER_CLASS_POKE_KID, OBJ_EVENT_GFX_PIKACHU }
 };
 
-BattleFrontierTrainerData *BattleTower_GetTrainerDataFromTrainerIDAndNarcID(u16 battleTowerTrainerID, enum HeapID heapID, enum NarcID narcID)
+BattleFrontierTrainerData *BattleFrontier_GetTrainerDataFromTrainerIDAndNarcID(u16 battleTowerTrainerID, enum HeapID heapID, enum NarcID narcID)
 {
     return NARC_AllocAndReadWholeMemberByIndexPair(narcID, battleTowerTrainerID, heapID);
 }
 
-void BattleTower_GetMonDataFromSetIDAndNarcID(BattleFrontierPokemonData *monData, int setID, enum NarcID narcID)
+void BattleTower_GetMonDataFromSetIDAndNarcID(BattleFrontierPokemonData *monData, int narcIdx, enum NarcID narcID)
 {
-    NARC_ReadWholeMemberByIndexPair(monData, narcID, setID);
+    NARC_ReadWholeMemberByIndexPair(monData, narcID, narcIdx);
 }
 
-BattleFrontierTrainerData *BattleTower_GetTrainerData(FrontierTrainerDataDTO *trDataDTO, int battleTowerTrainerID, enum HeapID heapID, enum NarcID narcID)
+BattleFrontierTrainerData *BattleFrontier_GetTrainerData(FrontierTrainerDataDTO *trDataDTO, int battleTowerTrainerID, enum HeapID heapID, enum NarcID narcID)
 {
     MessageLoader *msgLoader = MessageLoader_Init(MSG_LOADER_LOAD_ON_DEMAND, NARC_INDEX_MSGDATA__PL_MSG, TEXT_BANK_FRONTIER_TRAINER_NAMES, heapID);
 
     MI_CpuClear8(trDataDTO, sizeof(FrontierTrainerDataDTO));
 
-    BattleFrontierTrainerData *trData = BattleTower_GetTrainerDataFromTrainerIDAndNarcID(battleTowerTrainerID, heapID, narcID);
+    BattleFrontierTrainerData *trData = BattleFrontier_GetTrainerDataFromTrainerIDAndNarcID(battleTowerTrainerID, heapID, narcID);
 
     trDataDTO->trainerID = battleTowerTrainerID;
-    trDataDTO->unk_18[0] = 0xFFFF;
-    trDataDTO->unk_18[1] = battleTowerTrainerID * 3;
+    trDataDTO->introMsg[0] = 0xFFFF;
+    trDataDTO->introMsg[1] = battleTowerTrainerID * 3;
     trDataDTO->trainerType = trData->trainerType;
 
     String *string = MessageLoader_GetNewString(msgLoader, battleTowerTrainerID);
@@ -141,15 +140,11 @@ static const u16 Unk_ov104_0223F290[] = {
     ITEM_QUICK_CLAW
 };
 
-u32 ov104_0222DD6C(FrontierPokemonDataDTO *param0, u16 param1, u32 param2, u32 param3, u8 param4, u8 param5, BOOL param6, int param7, enum NarcID narcID)
+u32 ov104_0222DD6C(FrontierPokemonDataDTO *param0, u16 narcIdx, u32 otID, u32 param3, u8 ivs, u8 param5, BOOL param6, int heapID, enum NarcID narcID)
 {
-    int v0;
-    int v1;
-    u32 v2;
-    BattleFrontierPokemonData v4;
-
     MI_CpuClear8(param0, sizeof(FrontierPokemonDataDTO));
-    BattleTower_GetMonDataFromSetIDAndNarcID(&v4, param1, narcID);
+    BattleFrontierPokemonData v4;
+    BattleTower_GetMonDataFromSetIDAndNarcID(&v4, narcIdx, narcID);
 
     param0->species = v4.species;
     param0->form = v4.form;
@@ -166,7 +161,7 @@ u32 ov104_0222DD6C(FrontierPokemonDataDTO *param0, u16 param1, u32 param2, u32 p
 
     u8 friendship = MAX_FRIENDSHIP_VALUE;
 
-    for (v0 = 0; v0 < LEARNED_MOVES_MAX; v0++) {
+    for (int v0 = 0; v0 < LEARNED_MOVES_MAX; v0++) {
         param0->moves[v0] = v4.moves[v0];
 
         if (v4.moves[v0] == MOVE_FRUSTRATION) {
@@ -174,12 +169,13 @@ u32 ov104_0222DD6C(FrontierPokemonDataDTO *param0, u16 param1, u32 param2, u32 p
         }
     }
 
-    param0->otID = param2;
+    param0->otID = otID;
 
+    u32 v2;
     if (param3 == 0) {
         do {
             v2 = (LCRNG_Next() | LCRNG_Next() << 16);
-        } while ((v4.nature != Pokemon_GetNatureOf(v2)) || (Pokemon_IsPersonalityShiny(param2, v2) == TRUE));
+        } while ((v4.nature != Pokemon_GetNatureOf(v2)) || (Pokemon_IsPersonalityShiny(otID, v2) == TRUE));
 
         param0->personality = v2;
     } else {
@@ -187,16 +183,16 @@ u32 ov104_0222DD6C(FrontierPokemonDataDTO *param0, u16 param1, u32 param2, u32 p
         v2 = param3;
     }
 
-    param0->hpIV = param4;
-    param0->atkIV = param4;
-    param0->defIV = param4;
-    param0->speedIV = param4;
-    param0->spAtkIV = param4;
-    param0->spDefIV = param4;
+    param0->hpIV = ivs;
+    param0->atkIV = ivs;
+    param0->defIV = ivs;
+    param0->speedIV = ivs;
+    param0->spAtkIV = ivs;
+    param0->spDefIV = ivs;
 
-    v1 = 0;
+    int v1 = 0;
 
-    for (v0 = 0; v0 < 6; v0++) {
+    for (int v0 = 0; v0 < 6; v0++) {
         if (v4.evFlags & FlagIndex(v0)) {
             v1++;
         }
@@ -208,7 +204,7 @@ u32 ov104_0222DD6C(FrontierPokemonDataDTO *param0, u16 param1, u32 param2, u32 p
         v1 = 510 / v1;
     }
 
-    for (v0 = 0; v0 < 6; v0++) {
+    for (int v0 = 0; v0 < 6; v0++) {
         if (v4.evFlags & FlagIndex(v0)) {
             param0->evList[v0] = v1;
         }
@@ -217,7 +213,7 @@ u32 ov104_0222DD6C(FrontierPokemonDataDTO *param0, u16 param1, u32 param2, u32 p
     param0->combinedPPUps = 0;
     param0->language = gGameLanguage;
 
-    v0 = SpeciesData_GetSpeciesValue(param0->species, SPECIES_DATA_ABILITY_2);
+    int v0 = SpeciesData_GetSpeciesValue(param0->species, SPECIES_DATA_ABILITY_2);
 
     if (v0) {
         if (param0->personality & 1) {
@@ -230,88 +226,88 @@ u32 ov104_0222DD6C(FrontierPokemonDataDTO *param0, u16 param1, u32 param2, u32 p
     }
 
     param0->friendship = friendship;
-    MessageLoader_GetSpeciesName(param0->species, param7, &(param0->nickname[0]));
+    MessageLoader_GetSpeciesName(param0->species, heapID, &(param0->nickname[0]));
 
     return v2;
 }
 
-void ov104_0222DF40(const FrontierPokemonDataDTO *param0, Pokemon *param1, u8 param2)
+void FrontierPokemonDataDTO_InitPokemon(const FrontierPokemonDataDTO *pokemonDTO, Pokemon *mon, u8 param2)
 {
-    int v0;
-    u32 v1;
-    u8 v2, v3, v4;
-    u16 v5;
-    u32 v6;
+    int i;
+    u32 combinedIVs;
+    u8 val, maxPP, level;
+    u16 move;
+    u32 otID;
 
-    Pokemon_Init(param1);
+    Pokemon_Init(mon);
 
     if (param2 == 120) {
-        v4 = 50;
+        level = 50;
     } else if (param2 == 121) {
-        v4 = 100;
+        level = 100;
     } else {
-        v4 = param2;
+        level = param2;
     }
 
-    v1 = (param0->combinedIVs & 0x3FFFFFFF);
+    combinedIVs = (pokemonDTO->combinedIVs & 0x3FFFFFFF);
 
-    Pokemon_InitWith(param1, param0->species, v4, v1, TRUE, param0->personality, OTID_NOT_SHINY, 0);
-    Pokemon_SetValue(param1, MON_DATA_COMBINED_IVS, &v1);
-    Pokemon_CalcLevelAndStats(param1);
+    Pokemon_InitWith(mon, pokemonDTO->species, level, combinedIVs, TRUE, pokemonDTO->personality, OTID_NOT_SHINY, 0);
+    Pokemon_SetValue(mon, MON_DATA_COMBINED_IVS, &combinedIVs);
+    Pokemon_CalcLevelAndStats(mon);
 
-    v2 = param0->form;
+    val = pokemonDTO->form;
 
-    Pokemon_SetValue(param1, MON_DATA_FORM, &v2);
-    Pokemon_SetValue(param1, MON_DATA_HELD_ITEM, &param0->item);
+    Pokemon_SetValue(mon, MON_DATA_FORM, &val);
+    Pokemon_SetValue(mon, MON_DATA_HELD_ITEM, &pokemonDTO->item);
 
-    for (v0 = 0; v0 < LEARNED_MOVES_MAX; v0++) {
-        v5 = param0->moves[v0];
-        Pokemon_SetValue(param1, MON_DATA_MOVE1 + v0, &v5);
+    for (i = 0; i < LEARNED_MOVES_MAX; i++) {
+        move = pokemonDTO->moves[i];
+        Pokemon_SetValue(mon, MON_DATA_MOVE1 + i, &move);
 
-        v2 = (param0->combinedPPUps >> (v0 * 2)) & 0x3;
-        Pokemon_SetValue(param1, MON_DATA_MOVE1_PP_UPS + v0, &v2);
+        val = (pokemonDTO->combinedPPUps >> (i * 2)) & 0x3;
+        Pokemon_SetValue(mon, MON_DATA_MOVE1_PP_UPS + i, &val);
 
-        v3 = (u8)Pokemon_GetValue(param1, MON_DATA_MOVE1_MAX_PP + v0, NULL);
-        Pokemon_SetValue(param1, MON_DATA_MOVE1_PP + v0, &v3);
+        maxPP = (u8)Pokemon_GetValue(mon, MON_DATA_MOVE1_MAX_PP + i, NULL);
+        Pokemon_SetValue(mon, MON_DATA_MOVE1_PP + i, &maxPP);
     }
 
-    v6 = param0->otID;
-    Pokemon_SetValue(param1, MON_DATA_OT_ID, &v6);
+    otID = pokemonDTO->otID;
+    Pokemon_SetValue(mon, MON_DATA_OT_ID, &otID);
 
-    v2 = param0->hpEV;
-    Pokemon_SetValue(param1, MON_DATA_HP_EV, &v2);
+    val = pokemonDTO->hpEV;
+    Pokemon_SetValue(mon, MON_DATA_HP_EV, &val);
 
-    v2 = param0->atkEV;
-    Pokemon_SetValue(param1, MON_DATA_ATK_EV, &v2);
+    val = pokemonDTO->atkEV;
+    Pokemon_SetValue(mon, MON_DATA_ATK_EV, &val);
 
-    v2 = param0->defEV;
-    Pokemon_SetValue(param1, MON_DATA_DEF_EV, &v2);
+    val = pokemonDTO->defEV;
+    Pokemon_SetValue(mon, MON_DATA_DEF_EV, &val);
 
-    v2 = param0->speedEV;
-    Pokemon_SetValue(param1, MON_DATA_SPEED_EV, &v2);
+    val = pokemonDTO->speedEV;
+    Pokemon_SetValue(mon, MON_DATA_SPEED_EV, &val);
 
-    v2 = param0->spAtkEV;
-    Pokemon_SetValue(param1, MON_DATA_SPATK_EV, &v2);
+    val = pokemonDTO->spAtkEV;
+    Pokemon_SetValue(mon, MON_DATA_SPATK_EV, &val);
 
-    v2 = param0->spDefEV;
-    Pokemon_SetValue(param1, MON_DATA_SPDEF_EV, &v2);
+    val = pokemonDTO->spDefEV;
+    Pokemon_SetValue(mon, MON_DATA_SPDEF_EV, &val);
 
-    Pokemon_SetValue(param1, MON_DATA_ABILITY, &param0->ability);
-    Pokemon_SetValue(param1, MON_DATA_FRIENDSHIP, &param0->friendship);
+    Pokemon_SetValue(mon, MON_DATA_ABILITY, &pokemonDTO->ability);
+    Pokemon_SetValue(mon, MON_DATA_FRIENDSHIP, &pokemonDTO->friendship);
 
-    if (param0->unk_14_val1_30) {
-        MessageLoader *v7 = MessageLoader_Init(MSG_LOADER_LOAD_ON_DEMAND, NARC_INDEX_MSGDATA__PL_MSG, TEXT_BANK_SPECIES_NAME, HEAP_ID_FIELD1);
-        String *v8 = MessageLoader_GetNewString(v7, param0->species);
+    if (pokemonDTO->unk_14_val1_30) {
+        MessageLoader *msgLoader = MessageLoader_Init(MSG_LOADER_LOAD_ON_DEMAND, NARC_INDEX_MSGDATA__PL_MSG, TEXT_BANK_SPECIES_NAME, HEAP_ID_FIELD1);
+        String *speciesName = MessageLoader_GetNewString(msgLoader, pokemonDTO->species);
 
-        Pokemon_SetValue(param1, MON_DATA_NICKNAME_STRING, v8);
-        String_Free(v8);
-        MessageLoader_Free(v7);
+        Pokemon_SetValue(mon, MON_DATA_NICKNAME_STRING, speciesName);
+        String_Free(speciesName);
+        MessageLoader_Free(msgLoader);
     } else {
-        Pokemon_SetValue(param1, MON_DATA_NICKNAME, param0->nickname);
+        Pokemon_SetValue(mon, MON_DATA_NICKNAME, pokemonDTO->nickname);
     }
 
-    Pokemon_SetValue(param1, MON_DATA_LANGUAGE, &param0->language);
-    Pokemon_CalcLevelAndStats(param1);
+    Pokemon_SetValue(mon, MON_DATA_LANGUAGE, &pokemonDTO->language);
+    Pokemon_CalcLevelAndStats(mon);
 }
 
 u16 BattleTower_GetObjectIDFromTrainerClass(u8 trainerClass)
@@ -405,39 +401,33 @@ u8 BattleCastle_GetPokeIconAnimID(u16 hp, u16 maxHp)
     return POKEICON_ANIM_HP_MAX;
 }
 
-void ov104_0222E278(FrontierDataDTO *param0, u16 param1, enum HeapID heapID, int param3)
+void BattleFrontier_LoadTrainer(FrontierDataDTO *opponent, u16 trainerID, enum HeapID heapID, enum NarcID narcID)
 {
-    Heap_Free(BattleTower_GetTrainerData(&param0->trDataDTO, param1, heapID, param3));
+    Heap_Free(BattleFrontier_GetTrainerData(&opponent->trDataDTO, trainerID, heapID, narcID));
+}
+
+void FieldBattleDTO_InitFrontierTrainer(FieldBattleDTO *battleDTO, FrontierTrainerDataDTO *trDataDTO, int unused, int battlerId, enum HeapID heapID)
+{
+    EasyChatSentence *sentence;
+
+    battleDTO->trainerIDs[battlerId] = trDataDTO->trainerID;
+    battleDTO->trainer[battlerId].header.trainerType = trDataDTO->trainerType;
+
+    CharCode_Copy(&battleDTO->trainer[battlerId].name[0], &trDataDTO->trainerName[0]);
+
+    sentence = (EasyChatSentence *)&trDataDTO->winMsg[0];
+    battleDTO->trainer[battlerId].winMsg = *sentence;
+
+    sentence = (EasyChatSentence *)&trDataDTO->loseMsg[0];
+    battleDTO->trainer[battlerId].loseMsg = *sentence;
 
     return;
 }
 
-void ov104_0222E284(FieldBattleDTO *param0, FrontierTrainerDataDTO *param1, int param2, int battlerId, enum HeapID heapID)
+u32 BattleFrontier_LoadOpponentMonData(FrontierPokemonDataDTO *frontierMon, u16 narcIdx, int item, u8 ivs, u32 personality, int heapID, int narcID)
 {
-    Sentence *v0;
-
-    param0->trainerIDs[battlerId] = param1->trainerID;
-    param0->trainer[battlerId].header.trainerType = param1->trainerType;
-
-    CharCode_Copy(&param0->trainer[battlerId].name[0], &param1->trainerName[0]);
-
-    v0 = (Sentence *)&param1->unk_20[0];
-    param0->trainer[battlerId].winMsg = *v0;
-
-    v0 = (Sentence *)&param1->unk_28[0];
-    param0->trainer[battlerId].loseMsg = *v0;
-
-    return;
-}
-
-u32 ov104_0222E2F0(FrontierPokemonDataDTO *param0, u16 param1, int param2, u8 param3, u32 param4, int param5, int param6)
-{
-    u32 v0, v1, v2;
-
-    v0 = LCRNG_Next() | (LCRNG_Next() << 16);
-    v2 = ov104_0222DD6C(param0, param1, v0, param4, param3, param2, 0, param5, param6);
-
-    return v2;
+    u32 otID = LCRNG_Next() | (LCRNG_Next() << 16);
+    return ov104_0222DD6C(frontierMon, narcIdx, otID, personality, ivs, item, FALSE, heapID, narcID);
 }
 
 void ov104_0222E330(FrontierPokemonDataDTO *param0, u16 param1[], u8 param2[], u32 param3[], u32 param4[], int param5, int param6, int param7)
@@ -453,7 +443,7 @@ void ov104_0222E330(FrontierPokemonDataDTO *param0, u16 param1[], u8 param2[], u
     for (v0 = 0; v0 < param5; v0++) {
         v2 = (param2 == NULL) ? 0 : param2[v0];
         v1 = (param3 == NULL) ? 0 : param3[v0];
-        v1 = ov104_0222E2F0(&param0[v0], param1[v0], v0, v2, v1, param6, param7);
+        v1 = BattleFrontier_LoadOpponentMonData(&param0[v0], param1[v0], v0, v2, v1, param6, param7);
 
         if (param4 != NULL) {
             param4[v0] = v1;
@@ -547,7 +537,7 @@ void ov104_0222E4BC(u8 param0, u16 param1, u16 param2, u16 *param3, FrontierPoke
     FrontierTrainerDataDTO v4;
     BattleFrontierPokemonData v6;
 
-    BattleFrontierTrainerData *v5 = BattleTower_GetTrainerData(&v4, param1, HEAP_ID_FIELD2, NARC_INDEX_BATTLE__B_PL_TOWER__PL_BTDTR);
+    BattleFrontierTrainerData *v5 = BattleFrontier_GetTrainerData(&v4, param1, HEAP_ID_FIELD2, NARC_INDEX_BATTLE__B_PL_TOWER__PL_BTDTR);
 
     for (v0 = 0; v0 < param0; v0++) {
         param5[v0] = ov104_0222E3A8(param1);
@@ -565,7 +555,7 @@ void ov104_0222E4BC(u8 param0, u16 param1, u16 param2, u16 *param3, FrontierPoke
         }
 
         Heap_Free(v5);
-        v5 = BattleTower_GetTrainerData(&v4, param2, HEAP_ID_FIELD2, NARC_INDEX_BATTLE__B_PL_TOWER__PL_BTDTR);
+        v5 = BattleFrontier_GetTrainerData(&v4, param2, HEAP_ID_FIELD2, NARC_INDEX_BATTLE__B_PL_TOWER__PL_BTDTR);
         ov104_0222E3E4(v5, v2, v3, (param0 / 2), (param0 / 2), &param3[param0 / 2], 11);
 
         for (v0 = 0; v0 < (param0 / 2); v0++) {
@@ -585,33 +575,23 @@ void BattleFrontier_SetPartnerInStrTemplate(StringTemplate *template, u32 idx)
     return;
 }
 
-int ov104_0222E5F0(const TrainerInfo *param0)
+enum ObjectEventGfx BattleFrontier_GetPlayerObjEventGfx(const TrainerInfo *playerInfo)
 {
-    u32 v0;
-    int v1, v2;
+    u32 gender = TrainerInfo_Gender(playerInfo);
 
-    v0 = TrainerInfo_Gender(param0);
-    v2 = TrainerInfo_GameCode(param0);
-
-    switch (v2) {
-    case 12:
-    case 7:
-    case 8:
+    switch (TrainerInfo_GameCode(playerInfo)) {
+    case VERSION_PLATINUM:
+    case VERSION_HEARTGOLD:
+    case VERSION_SOULSILVER:
     default:
-        v1 = (v0 == 0) ? 0x0 : 0x61;
-        break;
-    case 0:
-        v1 = (v0 == 0) ? 0xfc : 0xfd;
-        break;
+        return gender == GENDER_MALE ? OBJ_EVENT_GFX_PLAYER_M : OBJ_EVENT_GFX_PLAYER_F;
+    case VERSION_NONE:
+        return gender == GENDER_MALE ? OBJ_EVENT_GFX_DP_PLAYER_M : OBJ_EVENT_GFX_DP_PLAYER_F;
     }
-
-    return v1;
 }
 
-void ov104_0222E630(SaveData *saveData)
+void BattleFrontier_FlagGeonetLinkInfo(SaveData *saveData)
 {
     WiFiHistory *wiFiHistory = SaveData_WiFiHistory(saveData);
-
     WiFiHistory_FlagGeonetLinkInfo(wiFiHistory);
-    return;
 }

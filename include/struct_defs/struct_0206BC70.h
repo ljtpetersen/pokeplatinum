@@ -3,22 +3,21 @@
 
 #include <dwc.h>
 
-#include "struct_decls/struct_0202D750_decl.h"
-#include "struct_decls/struct_0202D764_decl.h"
+#include "struct_defs/wifi_battle_tower_data.h"
 
 #include "game_options.h"
 #include "savedata.h"
 #include "system_data.h"
 
 typedef struct {
-    UnkStruct_0202D750 *unk_00;
-    UnkStruct_0202D764 *unk_04;
-    SystemData *unk_08;
+    WifiBattleTowerRecord *unk_00;
+    WifiBattleTowerDownloadData *unk_04;
+    SystemData *systemData;
     SaveData *saveData;
     Options *options;
-    DWCUserData *unk_14;
+    DWCUserData *userData;
     int unk_18;
-    int unk_1C;
+    int profileId;
     int unk_20;
     int unk_24;
 } UnkStruct_0206BC70;
