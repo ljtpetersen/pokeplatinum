@@ -1,6 +1,6 @@
 [wrap-git]
-url = https://github.com/lhearachel/nitrorom.git
-revision = 0.1.2
+url = https://github.com/ljtpetersen/lhearachel-nitrorom.git
+revision = d44d79e7d2e494273a7466128450a66bd5efb3d5
 depth = 1
 
 [provide]
