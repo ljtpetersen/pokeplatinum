@@ -98,7 +98,6 @@ json_to_bin_gen = generator(msgenc_exe,
     arguments: [
         '-e',
         '--json',
-        '-V', get_option('version'),
         '-c', charmap_txt.full_path(),
         '-H', bank_header_target / '@BASENAME@' + '.h',
         '@INPUT@',

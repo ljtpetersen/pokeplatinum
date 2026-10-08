@@ -13,7 +13,7 @@
         "Oh, I’m sorry, you don’t have\n",
         "a Coin Case to hold your Coins."
       ],
-      "en_EU": [
+      "en_GB": [
         "Hi there! Do you need some Coins?\r",
         "Oh, I’m sorry, you don’t have\n",
         "a Coin Case to hold your Coins."
@@ -56,7 +56,7 @@
       ]
     },
     {
-      "id": "GameCorner_Text_MementoForBonusRounds",
+      "id": "GameCorner_Text_TechnicalMachineMemento",
       "en_US": [
         "Ten straight bonus rounds on\n",
         "the slots! That’s amazing!\r",
@@ -65,7 +65,7 @@
         "So, please take this Technical Machine\n",
         "as a memento!\r"
       ],
-      "en_EU": [
+      "en_GB": [
         "We’re currently in the middle of\n",
         "a Technical Machine campaign!\r",
         "Here, please take this Technical\n",
@@ -73,12 +73,12 @@
       ]
     },
     {
-      "id": "GameCorner_Text_PleaseKeepPlayingSlots",
+      "id": "GameCorner_Text_ExplosionAfterGivingMemento",
       "en_US": [
         "Please keep playing the slots for\n",
         "another explosion of good luck!"
       ],
-      "en_EU": [
+      "en_GB": [
         "You should definitely teach one of\n",
         "your Pokémon the move Explosion!"
       ]
@@ -91,7 +91,7 @@
       ]
     },
     {
-      "id": "GameCorner_Text_StillAmazedTakeMemento",
+      "id": "GameCorner_Text_StillTakeMemento",
       "en_US": [
         "We’re still amazed by your ten straight\n",
         "bonus rounds on the slots before.\r",
@@ -100,7 +100,7 @@
         "So, please take this Technical Machine\n",
         "as a memento!\r"
       ],
-      "en_EU": [
+      "en_GB": [
         "We’re still going strong with the\n",
         "Technical Machine campaign!\r",
         "Please accept this Technical Machine\n",
@@ -113,13 +113,13 @@
         "You can’t play if you don’t have\n",
         "a Coin Case."
       ],
-      "en_EU": [
+      "en_GB": [
         "It’s a Game Machine!\r",
         "Come back when you have a Coin Case."
       ]
     },
     {
-      "id": "GameCorner_Text_ExplainSlotMachines",
+      "id": "GameCorner_Text_ExplainGameCorner",
       "en_US": [
         "I’ll explain how the slot machines\n",
         "work at this Game Corner.\r",
@@ -129,7 +129,7 @@
         "where CLEFAIRY points and stop\f",
         "the reels in that order."
       ],
-      "en_EU": [
+      "en_GB": [
         "Hi! Let me tell you a little\n",
         "bit about the Game Corner!\r",
         "There’s a very good reason to try\n",
@@ -146,7 +146,7 @@
         "I think the young man next door\n",
         "had one."
       ],
-      "en_EU": [
+      "en_GB": [
         "Kid, if you don’t have a Coin Case,\n",
         "you can’t carry any Coins, see?\r",
         "You want a Coin Case right?\n",
@@ -154,7 +154,7 @@
       ]
     },
     {
-      "id": "GameCorner_Text_IveBeenWinningATonToday",
+      "id": "GameCorner_Text_Receive20CoinsFromOldMan",
       "en_US": [
         "I’ve been winning a ton today.\n",
         "Here, take some Coins!\r",
@@ -163,7 +163,7 @@
         "{STRVAR_1 3, 0, 0} put the Coins away in\n",
         "the Coin Case."
       ],
-      "en_EU": [
+      "en_GB": [
         "Today I’m feeling on top of the world!\n",
         "You! Let me share some Coins with you!\r",
         "{STRVAR_1 3, 0, 0} received 20 Coins\n",
@@ -173,14 +173,14 @@
       ]
     },
     {
-      "id": "GameCorner_Text_ListenWhenClefairyAppears",
+      "id": "GameCorner_Text_OldManHint",
       "en_US": [
         "Listen, when CLEFAIRY appears, that’s\n",
         "your chance to line up sevens.\r",
         "Line those babies up and you’re into\n",
         "the bonus round!"
       ],
-      "en_EU": [
+      "en_GB": [
         "Hey! If you search the Game Machines\n",
         "sometimes extra Coins fall out!\r",
         "Thing is, it only tends to happen\n",
@@ -188,14 +188,14 @@
       ]
     },
     {
-      "id": "GameCorner_Text_ItsDrivingMeBananas",
+      "id": "GameCorner_Text_FarmerCelebrationNoCoinCase",
       "en_US": [
         "Woohoo! CLEFAIRY! Look at it!\n",
         "It’s driving me bananas!\r",
         "Oh, if only you had a Coin Case!\n",
         "Then you’d know what fun this is!"
       ],
-      "en_EU": [
+      "en_GB": [
         "Woohoo! Coins! All the Coins!\n",
         "The Coins just keep on coming!\r",
         "Oh, if only you had a Coin Case!\n",
@@ -203,7 +203,7 @@
       ]
     },
     {
-      "id": "GameCorner_Text_ItsACarnival",
+      "id": "GameCorner_Text_Receive50CoinsFromFarmer",
       "en_US": [
         "Woohoo! CLEFAIRY! Look!\n",
         "Yeahah! It’s a carnival!\r",
@@ -214,7 +214,7 @@
         "{STRVAR_1 3, 0, 0} put the Coins away in\n",
         "the Coin Case."
       ],
-      "en_EU": [
+      "en_GB": [
         "Gyahaha! The Coins! So many Coins!\n",
         "That Technical Machine will be mine!\r",
         "Righto! Let me share some of my\n",
@@ -226,7 +226,7 @@
       ]
     },
     {
-      "id": "GameCorner_Text_ClefairyIsAdorable",
+      "id": "GameCorner_Text_FarmerHint",
       "en_US": [
         "Woohoo! CLEFAIRY! It’s adorable!\n",
         "Just seeing it gets my pulse racing!\r",
@@ -236,7 +236,7 @@
         "want to get a replay because it\f",
         "makes CLEFAIRY tired!"
       ],
-      "en_EU": [
+      "en_GB": [
         "Aroooo! All these Coins! Just when you\n",
         "think you’ve got ’em... they disappear!\r",
         "I’ll let you in on a secret!\r",
@@ -246,18 +246,18 @@
       ]
     },
     {
-      "id": "GameCorner_Text_IWantCoinsOfCourse",
+      "id": "GameCorner_Text_WorkerDialogue",
       "en_US": [
         "I want Coins, of course, but\n",
         "setting records is hot, too!"
       ],
-      "en_EU": [
+      "en_GB": [
         "Sure, battling with Pokémon is great,\n",
         "but collecting Coins is pretty hot too!"
       ]
     },
     {
-      "id": "GameCorner_Text_WhenAPokeBallAppears",
+      "id": "GameCorner_Text_LadyDialogue",
       "en_US": [
         "When a Poké Ball appears, it’s a\n",
         "chance to line up slot marks.\r",
@@ -266,7 +266,7 @@
         "But you need to aim for better marks,\n",
         "like Poké Balls and Moon Stones."
       ],
-      "en_EU": [
+      "en_GB": [
         "I love Veilstone City because of the\n",
         "department store and Game Corner.\f",
         "It seems like I’m always coming here!\r",
@@ -278,21 +278,21 @@
       ]
     },
     {
-      "id": "GameCorner_Text_AFriendScoredTonOfCoins",
+      "id": "GameCorner_Text_GuitaristDialogue",
       "en_US": [
         "A friend in my group scored a ton of\n",
         "Coins here.\r",
         "Why mess with a good thing?\n",
         "I’ll try the same spot, too!"
       ],
-      "en_EU": [
+      "en_GB": [
         "Recently, my friends keep beating\n",
         "me at Pokémon battles so...\f",
         "I come here to let off some steam."
       ]
     },
     {
-      "id": "GameCorner_Text_NothingGoingMyWay",
+      "id": "GameCorner_Text_MayleneDadDialogue",
       "en_US": [
         "Sigh...\n",
         "Nothing’s going my way today...\r",
@@ -301,7 +301,7 @@
         "She happens to be my daughter.\n",
         "She’s some kind of tough!"
       ],
-      "en_EU": [
+      "en_GB": [
         "Are you a Trainer?\r",
         "Did you battle the Gym Leader?\r",
         "She happens to be my daughter.\n",
@@ -320,7 +320,7 @@
         "does information.\r",
         "...Ack. My streak is broken."
       ],
-      "en_EU": [
+      "en_GB": [
         "Looker: Ah, it is you, yes.\r",
         "Team Galactic, yes, I have a hunch\n",
         "that they, too, may come here to play.\r",
@@ -343,7 +343,7 @@
         "the world, it is at peace.\r",
         "...Ack. My streak is broken."
       ],
-      "en_EU": [
+      "en_GB": [
         "Looker: Ah, it is you, yes.\r",
         "I have decided to use the opportunity\n",
         "of being here in Sinnoh.\r",
@@ -355,7 +355,7 @@
       ]
     },
     {
-      "id": "GameCorner_Text_ShootFor10",
+      "id": "GameCorner_Text_BgSignText",
       "en_US": [
         "Shoot for 10!\n",
         "Line up those bonus rounds!\r",
@@ -367,7 +367,7 @@
         "The current record sits at\n",
         "{STRVAR_1 52, 0, 0} straight bonus rounds!"
       ],
-      "en_EU": [
+      "en_GB": [
         "A polite request from the management:\r",
         "Please take care not to spill Lemonade\n",
         "or Soda Pop on the Game Machines.\f",
@@ -379,22 +379,22 @@
     {
       "id": "GameCorner_Text_Dummy26",
       "garbage": 0,
-      "en_EU": null
+      "en_GB": null
     },
     {
       "id": "GameCorner_Text_ItsAGameMachine",
       "en_US": null,
-      "en_EU": "It’s a Game Machine!"
+      "en_GB": "It’s a Game Machine!"
     },
     {
       "id": "GameCorner_Text_Dummy27",
       "garbage": 0,
-      "en_EU": null
+      "en_GB": null
     },
     {
       "id": "GameCorner_Text_FoundCoins",
       "en_US": null,
-      "en_EU": [
+      "en_GB": [
         "Found {STRVAR_1 51, 0, 0} Coins!\r",
         "{STRVAR_1 3, 1, 0} put the Coins away in\n",
         "the Coin Case."

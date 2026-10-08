@@ -7,7 +7,7 @@
         "You don’t have three Coins.\n",
         "You cannot play right now."
       ],
-      "en_EU": null
+      "en_GB": null
     },
     {
       "id": "pl_msg_00000544_00001",
@@ -15,7 +15,7 @@
         "You have 50,000 Coins now.\n",
         "You cannot hold any more."
       ],
-      "en_EU": null
+      "en_GB": null
     },
     {
       "id": "pl_msg_00000544_00002",
@@ -23,7 +23,7 @@
         "You have no Coins.\n",
         "You cannot play now."
       ],
-      "en_EU": null
+      "en_GB": null
     },
     {
       "id": "pl_msg_00000544_00000",

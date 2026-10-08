@@ -30,13 +30,6 @@ Options::Options(int argc, char **argv) {
             textFormat = FMT_JSON;
         } else if (arg == "--gmm") {
             textFormat = FMT_GAMEFREAK_GMM;
-        } else if (arg == "-V") {
-            string param(argv[++i]);
-            if (param == "us_rev0" || param == "us_rev1") {
-                version = VERSION_US;
-            } else if (param == "eu") {
-                version = VERSION_EU;
-            }
         } else if (arg[0] != '-') {
             posargs.push_back(arg);
         } else {

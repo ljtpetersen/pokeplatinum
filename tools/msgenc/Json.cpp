@@ -103,22 +103,24 @@ int Json::FromFile(MessagesConverter &converter) {
 
         datanode_t messages = dp_get(&this->doc, ".messages");
         std::size_t numMessages = dp_arrlen(messages);
-        GameVersion version = converter.GetGameVersion();
-        const char *memberName;
-        switch (version) {
-        case VERSION_US:
-            memberName = "en_US";
-            break;
-        case VERSION_EU:
-            memberName = "en_EU";
-            break;
-        }
         for (std::size_t i = 0; i < numMessages; i++) {
             string message;
             datanode_t elem = dp_arrelem(messages, i);
             datanode_t content;
-            if (dp_hasmemb(elem, memberName)) {
-                content = dp_objmemb(elem, memberName);
+#if POKEPLATINUM_VERSION == 0 || POKEPLATINUM_VERSION == 1
+            // US
+            if (dp_hasmemb(elem, "en_US")) {
+                content = dp_objmemb(elem, "en_US");
+#elif POKEPLATINUM_VERSION == 2
+            if (dp_hasmemb(elem, "en_GB") || (!dp_hasmemb(elem, "garbage") && dp_hasmemb(elem, "en_US"))) {
+                if (dp_hasmemb(elem, "en_GB")) {
+                    content = dp_objmemb(elem, "en_GB");
+                }
+                else {
+                    content = dp_objmemb(elem, "en_US");
+                }
+#endif
+
                 std::size_t numLines = 0;
                 switch (content.type) {
                 case DATAPROC_T_STRING:
@@ -144,33 +146,12 @@ int Json::FromFile(MessagesConverter &converter) {
             else if (dp_hasmemb(elem, "garbage")) {
                 message.resize(dp_int(dp_objmemb(elem, "garbage")), ' ');
             }
-            else if (dp_hasmemb(elem, "en_US")) {
-                content = dp_objmemb(elem, "en_US");
-                std::size_t numLines = 0;
-                switch (content.type) {
-                case DATAPROC_T_STRING:
-                    message.append(dp_string(content));
-                    break;
-
-                case DATAPROC_T_ARRAY:
-                    numLines = dp_arrlen(content);
-                    for (std::size_t j = 0; j < numLines; j++) {
-                        const char *line = dp_string(dp_arrelem(content, j));
-                        if (line) message.append(line);
-                    }
-                    break;
-
-                default:
-                    dp_error(&content, "expected an array or string");
-                    continue;
-                }
-            }
             else {
-                if (version == VERSION_US) {
-                    dp_error(&elem, "expected a definition for one of 'garbage' or 'en_US'");
-                } else {
-                    dp_error(&elem, "expected a definition for one of '%s' or 'garbage' or 'en_US'", memberName);
-                }
+#if POKEPLATINUM_VERSION == 0 || POKEPLATINUM_VERSION == 1
+                dp_error(&elem, "expected a definition for one of 'garbage' or 'en_US'");
+#elif POKEPLATINUM_VERSION == 2
+                dp_error(&elem, "expected a definition for one of 'en_GB' or 'garbage' or 'en_US'");
+#endif
                 continue;
             }
 

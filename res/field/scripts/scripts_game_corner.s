@@ -346,19 +346,19 @@ GameCorner_CoinsClerk_CheckIfCanGiveTM64:
 
 GameCorner_CoinsClerk_TenStraightBonusRounds:
     GoToIfSet FLAG_SAVED_GAME_CORNER_TM64, GameCorner_CoinsClerk_TenStraightBonusRounds_SavedTM
-    Message GameCorner_Text_MementoForBonusRounds
+    Message GameCorner_Text_TechnicalMachineMemento
     GoTo GameCorner_CoinsClerk_GiveTM64
     End
 
 GameCorner_CoinsClerk_TenStraightBonusRounds_SavedTM:
-    Message GameCorner_Text_StillAmazedTakeMemento
+    Message GameCorner_Text_StillTakeMemento
     GoTo GameCorner_CoinsClerk_GiveTM64
     End
 
 GameCorner_CoinsClerk_GiveTM64:
     Common_GiveItemQuantity
     SetFlag FLAG_RECEIVED_GAME_CORNER_TM64
-    Message GameCorner_Text_PleaseKeepPlayingSlots
+    Message GameCorner_Text_ExplosionAfterGivingMemento
     WaitButton
     CloseMessage
     ReleaseAll
@@ -370,7 +370,7 @@ GameCorner_CoinsClerk_SaveTM64:
     End
 
 GameCorner_LadyExplainSlotMachines:
-    NPCMessage GameCorner_Text_ExplainSlotMachines
+    NPCMessage GameCorner_Text_ExplainGameCorner
     End
 
 GameCorner_OldMan20Coins:
@@ -383,7 +383,7 @@ GameCorner_OldMan20Coins:
     GoToIfCannotAddCoins 20, GameCorner_OldMan20Coins_LineUpClefairy
     SetFlag FLAG_RECEIVED_GAME_CORNER_20_COINS_OLD_MAN
     BufferPlayerName 0
-    Message GameCorner_Text_IveBeenWinningATonToday
+    Message GameCorner_Text_Receive20CoinsFromOldMan
     WaitButton
     PlaySE SEQ_SE_PL_COIN_sseq
     AddCoins 20
@@ -400,7 +400,7 @@ GameCorner_OldMan20Coins_NoCoinCase:
     End
 
 GameCorner_OldMan20Coins_LineUpClefairy:
-    Message GameCorner_Text_ListenWhenClefairyAppears
+    Message GameCorner_Text_OldManHint
     WaitButton
     CloseMessage
     ReleaseAll
@@ -416,7 +416,7 @@ GameCorner_Farmer:
     GoToIfCannotAddCoins 50, GameCorner_Farmer_CannotAddCoins
     SetFlag FLAG_RECEIVED_GAME_CORNER_50_COINS_FARMER
     BufferPlayerName 0
-    Message GameCorner_Text_ItsACarnival
+    Message GameCorner_Text_Receive50CoinsFromFarmer
     WaitButton
     PlaySE SEQ_SE_PL_COIN_sseq
     AddCoins 50
@@ -426,44 +426,44 @@ GameCorner_Farmer:
     End
 
 GameCorner_Farmer_NoCoinCase:
-    Message GameCorner_Text_ItsDrivingMeBananas
+    Message GameCorner_Text_FarmerCelebrationNoCoinCase
     WaitButton
     CloseMessage
     ReleaseAll
     End
 
 GameCorner_Farmer_CannotAddCoins:
-    Message GameCorner_Text_ClefairyIsAdorable
+    Message GameCorner_Text_FarmerHint
     WaitButton
     CloseMessage
     ReleaseAll
     End
 
 GameCorner_Worker:
-    NPCMessage GameCorner_Text_IWantCoinsOfCourse
+    NPCMessage GameCorner_Text_WorkerDialogue
     End
 
 GameCorner_LadyPokeBalls:
-    NPCMessage GameCorner_Text_WhenAPokeBallAppears
+    NPCMessage GameCorner_Text_LadyDialogue
     End
 
 GameCorner_Guitarist:
-    NPCMessage GameCorner_Text_AFriendScoredTonOfCoins
+    NPCMessage GameCorner_Text_GuitaristDialogue
     End
 
 GameCorner_MaylenesDad:
-    NPCMessage GameCorner_Text_NothingGoingMyWay
+    NPCMessage GameCorner_Text_MayleneDadDialogue
     End
 
 GameCorner_BgSignBonusRounds:
     GoToIfGt VAR_CONSECUTIVE_BONUS_ROUND_WINS, 999, GameCorner_BgSignBonusRounds_GreaterThan999
     BufferNumber 0, VAR_CONSECUTIVE_BONUS_ROUND_WINS
-    EventMessage GameCorner_Text_ShootFor10
+    EventMessage GameCorner_Text_BgSignText
     End
 
 GameCorner_BgSignBonusRounds_GreaterThan999:
     BufferNumber 0, 999
-    EventMessage GameCorner_Text_ShootFor10
+    EventMessage GameCorner_Text_BgSignText
     End
 
 GameCorner_Looker:
