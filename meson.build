@@ -36,13 +36,17 @@ shared_args = [
     '-D_MSL_RESTRICT=',
 ]
 
-if get_option('revision') == '0'
+if get_option('version') == 'us_rev0'
     shared_args += [
-        '-DPOKEPLATINUM_REVISION=0'
+        '-DPOKEPLATINUM_VERSION=0'
     ]
-else
+elif get_option('version') == 'us_rev1'
     shared_args += [
-        '-DPOKEPLATINUM_REVISION=1'
+        '-DPOKEPLATINUM_VERSION=1'
+    ]
+elif get_option('version') == 'eu'
+    shared_args += [
+        '-DPOKEPLATINUM_VERSION=2'
     ]
 endif
 
@@ -152,7 +156,11 @@ subdir('tools')
 ############################################################
 ###                      SPEC FILES                      ###
 ############################################################
+if get_option('version') == 'us_rev0' or get_option('version') == 'us_rev1'
 subdir('platinum.us')
+elif get_option('version') == 'eu'
+subdir('platinum.eu')
+endif
 
 
 ############################################################
@@ -190,6 +198,12 @@ trainer_ai_o = custom_target(
 
 libmslc = fs.copyfile('tools/metroskrew/lib/metroskrew/sdk/ds/2.0/sp2/msl/MSL_C/MSL_ARM/Lib/MSL_C_NITRO_Ai_LE.a')
 libmslcpp = fs.copyfile('tools/metroskrew/lib/metroskrew/sdk/ds/2.0/sp2/msl/MSL_C++/MSL_ARM/Lib/MSL_CPP_NITRO_Ai_LE.a')
+
+if get_option('version') == 'us_rev0' or get_option('version') == 'us_rev1'
+main_lcf_path = 'platinum.us/main.lcf'
+elif get_option('version') == 'eu'
+main_lcf_path = 'platinum.eu/main.lcf'
+endif
 
 main = executable('main',
     sources: [
@@ -233,7 +247,7 @@ main = executable('main',
     ],
     link_args: [
         link_args,
-        'platinum.us/main.lcf'
+        main_lcf_path
     ],
     link_depends: main_lcf,
     native: false
@@ -250,8 +264,16 @@ ichneumon_sub = subproject('NitroSDK'
 ############################################################
 ###                        DS ROM                        ###
 ############################################################
-pokeplatinum_nds = custom_target('pokeplatinum.us.nds',
-    output: 'pokeplatinum.us.nds',
+if get_option('version') == 'us_rev0'
+output_name = 'pokeplatinum.us_rev0.nds'
+elif get_option('version') == 'us_rev1'
+output_name = 'pokeplatinum.us_rev1.nds'
+elif get_option('version') == 'eu'
+output_name = 'pokeplatinum.eu.nds'
+endif
+
+pokeplatinum_nds = custom_target(output_name,
+    output: output_name,
     input: [
         main,
         rom_header_template,
@@ -265,7 +287,7 @@ pokeplatinum_nds = custom_target('pokeplatinum.us.nds',
         '-DHEADER_TEMPLATE=@INPUT1@', # rom_header_template
         '-DICON_PNG=@INPUT2@',        # icon_png
         '-DARM7_NEF=@INPUT3@',        # ichneumon_sub
-        '--output=@OUTPUT0@',         # pokeplatinum.us.nds
+        '--output=@OUTPUT0@',         # pokeplatinum.<VERSION>.nds
         rom_ini,
         filesys_csv,
     ],
@@ -310,10 +332,12 @@ test('SBIN Checksums - Shared',
     args: ['-c', '--quiet', sbins_sha1]
 )
 
+if get_option('version') == 'us_rev0' or get_option('version') == 'us_rev1'
 test('SBIN Checksums - For Revision',
     sha1sum,
     args: ['-c', '--quiet', sbins_for_rev_sha1]
 )
+endif
 
 test('SBIN Checksums - ARM7',
     sha1sum,

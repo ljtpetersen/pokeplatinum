@@ -20,8 +20,14 @@ enum TextFormat : uint8_t {
     FMT_JSON,
 };
 
+enum GameVersion : uint8_t {
+    VERSION_US = 0,
+    VERSION_EU,
+};
+
 struct Options {
     ConvertMode mode = CONV_INVALID;
+    GameVersion version = VERSION_US;
     int key = 0;
     vector<string> posargs;
     string failReason;

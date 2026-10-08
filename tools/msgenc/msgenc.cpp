@@ -26,6 +26,7 @@ static inline void usage() {
     cout << "--json        Text file is JSON" << endl;
     cout << "-H HEADER     When operating in GMM mode, specify this header file to read/write C constant values" << endl;
     cout << "-k KEY        The 16-bit encryption key for this message bank. Default: computes it from the binary file name" << endl;
+    cout << "-V VERSION    The game version. When operating in JSON mode, specify us_rev0, us_rev1, or eu for the respective version." << endl;
     cout << "-v            Print the program version and exit." << endl;
     cout << "-h            Print this message and exit." << endl;
     cout << "-D DUMPNAME   Dump the intermediate binary (after decryption or before encryption)." << endl;

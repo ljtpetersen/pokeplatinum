@@ -103,11 +103,49 @@ int Json::FromFile(MessagesConverter &converter) {
 
         datanode_t messages = dp_get(&this->doc, ".messages");
         std::size_t numMessages = dp_arrlen(messages);
+        GameVersion version = converter.GetGameVersion();
+        const char *memberName;
+        switch (version) {
+        case VERSION_US:
+            memberName = "en_US";
+            break;
+        case VERSION_EU:
+            memberName = "en_EU";
+            break;
+        }
         for (std::size_t i = 0; i < numMessages; i++) {
             string message;
             datanode_t elem = dp_arrelem(messages, i);
-            if (dp_hasmemb(elem, "en_US")) {
-                datanode_t content = dp_objmemb(elem, "en_US");
+            datanode_t content;
+            if (dp_hasmemb(elem, memberName)) {
+                content = dp_objmemb(elem, memberName);
+                std::size_t numLines = 0;
+                switch (content.type) {
+                case DATAPROC_T_STRING:
+                    message.append(dp_string(content));
+                    break;
+
+                case DATAPROC_T_ARRAY:
+                    numLines = dp_arrlen(content);
+                    for (std::size_t j = 0; j < numLines; j++) {
+                        const char *line = dp_string(dp_arrelem(content, j));
+                        if (line) message.append(line);
+                    }
+                    break;
+
+                case DATAPROC_T_NULL:
+                    continue;
+
+                default:
+                    dp_error(&content, "expected an array or string");
+                    continue;
+                }
+            }
+            else if (dp_hasmemb(elem, "garbage")) {
+                message.resize(dp_int(dp_objmemb(elem, "garbage")), ' ');
+            }
+            else if (dp_hasmemb(elem, "en_US")) {
+                content = dp_objmemb(elem, "en_US");
                 std::size_t numLines = 0;
                 switch (content.type) {
                 case DATAPROC_T_STRING:
@@ -127,11 +165,12 @@ int Json::FromFile(MessagesConverter &converter) {
                     continue;
                 }
             }
-            else if (dp_hasmemb(elem, "garbage")) {
-                message.resize(dp_int(dp_objmemb(elem, "garbage")), ' ');
-            }
             else {
-                dp_error(&elem, "expected a definition for one of 'garbage' or 'en_US'");
+                if (version == VERSION_US) {
+                    dp_error(&elem, "expected a definition for one of 'garbage' or 'en_US'");
+                } else {
+                    dp_error(&elem, "expected a definition for one of '%s' or 'garbage' or 'en_US'", memberName);
+                }
                 continue;
             }
 

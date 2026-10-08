@@ -92,7 +92,13 @@
         "about slops at all!\r",
         "It was a great day at the slots!\n",
         "See you again, folks!"
-      ]
+      ],
+      "en_EU": null
+    },
+    {
+      "id": "pl_msg_00000417_00003",
+      "en_US": null,
+      "garbage": 0
     },
     {
       "id": "pl_msg_00000417_00004",

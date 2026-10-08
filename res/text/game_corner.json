@@ -12,6 +12,11 @@
         "slots?\r",
         "Oh, I’m sorry, you don’t have\n",
         "a Coin Case to hold your Coins."
+      ],
+      "en_EU": [
+        "Hi there! Do you need some Coins?\r",
+        "Oh, I’m sorry, you don’t have\n",
+        "a Coin Case to hold your Coins."
       ]
     },
     {
@@ -59,6 +64,12 @@
         "of good luck!\r",
         "So, please take this Technical Machine\n",
         "as a memento!\r"
+      ],
+      "en_EU": [
+        "We’re currently in the middle of\n",
+        "a Technical Machine campaign!\r",
+        "Here, please take this Technical\n",
+        "Machine as a memento!\r"
       ]
     },
     {
@@ -66,6 +77,10 @@
       "en_US": [
         "Please keep playing the slots for\n",
         "another explosion of good luck!"
+      ],
+      "en_EU": [
+        "You should definitely teach one of\n",
+        "your Pokémon the move Explosion!"
       ]
     },
     {
@@ -84,6 +99,12 @@
         "of good luck!\r",
         "So, please take this Technical Machine\n",
         "as a memento!\r"
+      ],
+      "en_EU": [
+        "We’re still going strong with the\n",
+        "Technical Machine campaign!\r",
+        "Please accept this Technical Machine\n",
+        "to help celebrate our success!\r"
       ]
     },
     {
@@ -91,6 +112,10 @@
       "en_US": [
         "You can’t play if you don’t have\n",
         "a Coin Case."
+      ],
+      "en_EU": [
+        "It’s a Game Machine!\r",
+        "Come back when you have a Coin Case."
       ]
     },
     {
@@ -103,6 +128,14 @@
         "During the bonus round, watch\n",
         "where CLEFAIRY points and stop\f",
         "the reels in that order."
+      ],
+      "en_EU": [
+        "Hi! Let me tell you a little\n",
+        "bit about the Game Corner!\r",
+        "There’s a very good reason to try\n",
+        "and collect a lot of coins here!\r",
+        "You see, next door, you can exchange\n",
+        "your Coins for Technical Machines!"
       ]
     },
     {
@@ -112,6 +145,12 @@
         "you need a Coin Case.\r",
         "I think the young man next door\n",
         "had one."
+      ],
+      "en_EU": [
+        "Kid, if you don’t have a Coin Case,\n",
+        "you can’t carry any Coins, see?\r",
+        "You want a Coin Case right?\n",
+        "Then go to the building next door!"
       ]
     },
     {
@@ -123,6 +162,14 @@
         "from the man.\r",
         "{STRVAR_1 3, 0, 0} put the Coins away in\n",
         "the Coin Case."
+      ],
+      "en_EU": [
+        "Today I’m feeling on top of the world!\n",
+        "You! Let me share some Coins with you!\r",
+        "{STRVAR_1 3, 0, 0} received 20 Coins\n",
+        "from the man.\r",
+        "{STRVAR_1 3, 0, 0} put the Coins away in\n",
+        "the Coin Case. "
       ]
     },
     {
@@ -132,6 +179,12 @@
         "your chance to line up sevens.\r",
         "Line those babies up and you’re into\n",
         "the bonus round!"
+      ],
+      "en_EU": [
+        "Hey! If you search the Game Machines\n",
+        "sometimes extra Coins fall out!\r",
+        "Thing is, it only tends to happen\n",
+        "once a day..."
       ]
     },
     {
@@ -141,6 +194,12 @@
         "It’s driving me bananas!\r",
         "Oh, if only you had a Coin Case!\n",
         "Then you’d know what fun this is!"
+      ],
+      "en_EU": [
+        "Woohoo! Coins! All the Coins!\n",
+        "The Coins just keep on coming!\r",
+        "Oh, if only you had a Coin Case!\n",
+        "Then you’d know how much fun this is!"
       ]
     },
     {
@@ -154,6 +213,16 @@
         "from the man.\r",
         "{STRVAR_1 3, 0, 0} put the Coins away in\n",
         "the Coin Case."
+      ],
+      "en_EU": [
+        "Gyahaha! The Coins! So many Coins!\n",
+        "That Technical Machine will be mine!\r",
+        "Righto! Let me share some of my\n",
+        "happiness with you!\r",
+        "{STRVAR_1 3, 0, 0} received 50 Coins\n",
+        "from the man.\r",
+        "{STRVAR_1 3, 0, 0} put the Coins away in\n",
+        "the Coin Case. "
       ]
     },
     {
@@ -166,6 +235,14 @@
         "If the moon turns red, you don’t\n",
         "want to get a replay because it\f",
         "makes CLEFAIRY tired!"
+      ],
+      "en_EU": [
+        "Aroooo! All these Coins! Just when you\n",
+        "think you’ve got ’em... they disappear!\r",
+        "I’ll let you in on a secret!\r",
+        "Sometimes you can find Coins in the\n",
+        "Game Machines which the previous\f",
+        "person forgot! Cha-ching!"
       ]
     },
     {
@@ -173,6 +250,10 @@
       "en_US": [
         "I want Coins, of course, but\n",
         "setting records is hot, too!"
+      ],
+      "en_EU": [
+        "Sure, battling with Pokémon is great,\n",
+        "but collecting Coins is pretty hot too!"
       ]
     },
     {
@@ -184,6 +265,16 @@
         "you don’t make an effort.\r",
         "But you need to aim for better marks,\n",
         "like Poké Balls and Moon Stones."
+      ],
+      "en_EU": [
+        "I love Veilstone City because of the\n",
+        "department store and Game Corner.\f",
+        "It seems like I’m always coming here!\r",
+        "... But you know something?\r",
+        "I always have so much fun that before\n",
+        "I know it, it’s already night time!\f",
+        "But my trusty Pokémon are with me so\f",
+        "I’m not afraid of going home at night."
       ]
     },
     {
@@ -193,6 +284,11 @@
         "Coins here.\r",
         "Why mess with a good thing?\n",
         "I’ll try the same spot, too!"
+      ],
+      "en_EU": [
+        "Recently, my friends keep beating\n",
+        "me at Pokémon battles so...\f",
+        "I come here to let off some steam."
       ]
     },
     {
@@ -204,6 +300,12 @@
         "Did you battle the Gym Leader?\r",
         "She happens to be my daughter.\n",
         "She’s some kind of tough!"
+      ],
+      "en_EU": [
+        "Are you a Trainer?\r",
+        "Did you battle the Gym Leader?\r",
+        "She happens to be my daughter.\n",
+        "She’s a real tough cookie!"
       ]
     },
     {
@@ -217,6 +319,16 @@
         "Also, where the masses gather, so too\n",
         "does information.\r",
         "...Ack. My streak is broken."
+      ],
+      "en_EU": [
+        "Looker: Ah, it is you, yes.\r",
+        "Team Galactic, yes, I have a hunch\n",
+        "that they, too, may come here to play.\r",
+        "Further investigation is needed, and\n",
+        "I am just the man to do it.\r",
+        "Also, where the masses gather, so too\n",
+        "does information.\r",
+        "... Game Over? How can this be?"
       ]
     },
     {
@@ -230,6 +342,16 @@
         "Also, if I have nothing to do, it means\n",
         "the world, it is at peace.\r",
         "...Ack. My streak is broken."
+      ],
+      "en_EU": [
+        "Looker: Ah, it is you, yes.\r",
+        "I have decided to use the opportunity\n",
+        "of being here in Sinnoh.\r",
+        "I am therefore trying to teach moves\n",
+        "to Pokémon that I have captured.\r",
+        "Also, if I have nothing to do, it means\n",
+        "the world, it is at peace.\r",
+        "... What? Game Over? AGAIN?"
       ]
     },
     {
@@ -244,15 +366,39 @@
         "prize!\r",
         "The current record sits at\n",
         "{STRVAR_1 52, 0, 0} straight bonus rounds!"
+      ],
+      "en_EU": [
+        "A polite request from the management:\r",
+        "Please take care not to spill Lemonade\n",
+        "or Soda Pop on the Game Machines.\f",
+        "This will damage the Game Machines.\r",
+        "If you do happen to spill a drink,\n",
+        "please inform reception.\n"
       ]
     },
     {
       "id": "GameCorner_Text_Dummy26",
-      "garbage": 0
+      "garbage": 0,
+      "en_EU": null
+    },
+    {
+      "id": "GameCorner_Text_ItsAGameMachine",
+      "en_US": null,
+      "en_EU": "It’s a Game Machine!"
     },
     {
       "id": "GameCorner_Text_Dummy27",
-      "garbage": 0
+      "garbage": 0,
+      "en_EU": null
+    },
+    {
+      "id": "GameCorner_Text_FoundCoins",
+      "en_US": null,
+      "en_EU": [
+        "Found {STRVAR_1 51, 0, 0} Coins!\r",
+        "{STRVAR_1 3, 1, 0} put the Coins away in\n",
+        "the Coin Case."
+      ]
     }
   ]
 }

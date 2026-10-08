@@ -13,6 +13,7 @@ help() {
     echo "  -d | --out-dir      directory for output files (default: current directory)"
     echo "  -M | --depfile      output a compiler-generated depfile for the source"
     echo "  -P | --parent-dir   use the parent directory name of each input script to avoid name collisions"
+    echo "  -v | --version      the version of the ROM that is being built"
 }
 
 INCLUDE_ARGS=()
@@ -23,12 +24,18 @@ LD="arm-none-eabi-ld"
 OUTDIR="."
 MD=""
 USE_PARENT_DIR=0
+VERSION=1
 
 while [[ $# -gt 0 ]] ; do
     case $1 in 
         -h|--help)
             help
             exit 0
+            ;;
+        -v|--version)
+            VERSION="$2"
+            shift
+            shift
             ;;
         -i|--include)
             INCLUDE_ARGS+=("-I$2")
@@ -87,7 +94,7 @@ for script_file in "${SCRIPT_FILES[@]}" ; do
     script_bin="$OUTDIR/$script_noext"
 
     # Convert + clean-up
-    $AS $MD -E -x assembler-with-cpp "${INCLUDE_ARGS[@]}" "$script_file" \
+    $AS $MD -E -x assembler-with-cpp "-DPOKEPLATINUM_VERSION=$VERSION" "${INCLUDE_ARGS[@]}" "$script_file" \
         | "$ENUMPROC" \
         | $AS -x assembler-with-cpp -o "$script_obj" -c -
     $OBJCOPY -O binary --file-alignment 4 "$script_obj" "$script_bin"

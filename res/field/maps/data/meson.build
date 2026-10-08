@@ -1,3 +1,11 @@
+if get_option('version') == 'us_rev0' or get_option('version') == 'us_rev1'
+map_data_164 = 'map_data_164_us.bin'
+map_data_order = files('map_data_us.order')
+else
+map_data_164 = 'map_data_164_eu.bin'
+map_data_order = files('map_data_eu.order')
+endif
+
 map_data_files = copy_gen.process(files(
     'map_data_000.bin',
     'map_data_001.bin',
@@ -163,7 +171,7 @@ map_data_files = copy_gen.process(files(
     'map_data_161.bin',
     'map_data_162.bin',
     'map_data_163.bin',
-    'map_data_164.bin',
+    map_data_164,
     'map_data_165.bin',
     'map_data_166.bin',
     'map_data_167.bin',
@@ -675,7 +683,7 @@ map_data_narc = custom_target('land_data.narc',
     command: [
         nitroarc_exe,
         '--create',
-        '--files-from', files('map_data.order'),
+        '--files-from', map_data_order,
         '--file', '@OUTPUT0@',
         '@PRIVATE_DIR@',
     ],

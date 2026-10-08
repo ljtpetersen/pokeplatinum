@@ -19,7 +19,7 @@
 	target        \
 	update
 
-ROM_REVISION ?= 1
+ROM_VERSION ?= us_rev1
 
 SUBPROJ_DIR := subprojects
 
@@ -101,7 +101,7 @@ check: rom
 	$(MESON) test -C $(BUILD)
 
 rom: $(BUILD)/build.ninja
-	$(NINJA) -C $(BUILD) pokeplatinum.us.nds
+	$(NINJA) -C $(BUILD) pokeplatinum.$(ROM_VERSION).nds
 
 format: $(BUILD)/build.ninja
 	$(NINJA) -C $(BUILD) clang-format
@@ -134,7 +134,7 @@ configure: $(BUILD)/build.ninja
 
 $(BUILD)/build.ninja: | $(BUILD) $(SKREW_EXE) meson
 	$(MESON) setup \
-		-Drevision=$(ROM_REVISION) \
+		-Dversion=$(ROM_VERSION) \
 		--wrap-mode=nopromote \
 		--native-file=meson/$(NATIVE) \
 		--cross-file=meson/$(CROSS) \

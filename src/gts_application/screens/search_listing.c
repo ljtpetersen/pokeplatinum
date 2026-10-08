@@ -1,8 +1,10 @@
-﻿#include "gts_application/screens/search_listing.h"
+#include "gts_application/screens/search_listing.h"
 
 #include <dwc.h>
 #include <nitro.h>
 #include <string.h>
+
+#include "constants/platinum_version.h"
 
 #include "gts_application/application.h"
 #include "gts_application/avatar.h"
@@ -422,7 +424,7 @@ static void GTSSearchListing_DrawRequirementsInfo(Window *window, MessageLoader 
 
     GTSDeposit_DrawSpeciesText(window, speciesMessageLoader, requirements->species, 0, 3, TEXT_COLOR(15, 2, 0));
     GTSDeposit_DrawGenderText(window, gtsMessageLoader, requirements->gender, 0, 3, 70, TEXT_COLOR(15, 2, 0));
-#if POKEPLATINUM_REVISION == 0
+#if POKEPLATINUM_VERSION == POKEPLATINUM_VERSION_US_REV0
     GTSDeposit_DrawLevelText(window + 1, gtsMessageLoader, GTS_FindLevelMessageIndex(requirements->level, requirements->level2, 0), 0, 19, TEXT_COLOR(15, 2, 0), 0, 8);
 #else
     GTSDeposit_DrawLevelText(window, gtsMessageLoader, GTS_FindLevelMessageIndex(requirements->level, requirements->level2, 0), 0, 19, TEXT_COLOR(15, 2, 0), 0, 8);

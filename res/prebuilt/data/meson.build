@@ -49,7 +49,6 @@ prebuilt_files = [
     'nfont.NCLR',
     'pc.nsbca',
     'plbr.dat',
-    'slot.narc',
     'smptm_koori.NANR',
     'smptm_koori.NCER',
     'smptm_koori.NCGR',
@@ -91,6 +90,12 @@ prebuilt_files = [
     'wm.ncgr',
     'wm.nclr'
 ]
+
+if get_option('version') == 'us_rev0' or get_option('version') == 'us_rev1'
+    prebuilt_files += ['slot_us.narc']
+elif get_option('version') == 'eu'
+    prebuilt_files += ['slot_eu.narc']
+endif
 
 foreach f : prebuilt_files
     nitrofs_files += fs.copyfile(f)

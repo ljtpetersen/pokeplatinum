@@ -54,6 +54,7 @@ class MessagesConverter{
 
 protected:
     ConvertMode mode;
+    GameVersion version;
     string textfilename;
     string charmapfilename;
     string binfilename;
@@ -76,6 +77,7 @@ protected:
 public:
     MessagesConverter(Options &options) :
         mode(options.mode),
+        version(options.version),
         textfilename(options.posargs[0]),
         charmapfilename(options.charmap),
         binfilename(options.posargs[1]),
@@ -107,6 +109,10 @@ public:
 
     string &GetHeaderFilename() {
         return headerfilename;
+    }
+
+    GameVersion GetGameVersion() const {
+        return version;
     }
 };
 

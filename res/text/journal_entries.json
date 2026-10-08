@@ -123,7 +123,13 @@
     },
     {
       "id": "JournalEntries_Text_PlayedAtGameCorner",
-      "en_US": "Had fun at the Game Corner."
+      "en_US": "Had fun at the Game Corner.",
+      "en_EU": null
+    },
+    {
+      "id": "JournalEntries_Text_PlayedAtGameCorner",
+      "en_US": null,
+      "garbage": 0
     },
     {
       "id": "JournalEntries_Text_PlayedSafariGame",

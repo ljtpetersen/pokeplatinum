@@ -77,7 +77,7 @@ res/graphics/sprite_templates/shop_menu_cells.resdat,/data/shop_cell.resdat
 res/graphics/sprite_templates/shop_menu_chars.resdat,/data/shop_chr.resdat
 res/graphics/sprite_templates/shop_menu.cldat,/data/shop_h.cldat
 res/graphics/sprite_templates/shop_menu_pltts.resdat,/data/shop_pal.resdat
-res/prebuilt/data/slot_us.narc,/data/slot.narc
+res/prebuilt/data/slot_eu.narc,/data/slot.narc
 res/prebuilt/data/smptm_koori.NANR,/data/smptm_koori.NANR
 res/prebuilt/data/smptm_koori.NCER,/data/smptm_koori.NCER
 res/prebuilt/data/smptm_koori.NCGR,/data/smptm_koori.NCGR
@@ -328,7 +328,7 @@ res/prebuilt/application/bucket/ballslow_data.narc,/application/bucket/ballslow_
 res/prebuilt/particledata/pl_etc/pl_etc_particle.narc,/particledata/pl_etc/pl_etc_particle.narc
 res/prebuilt/contest/graphic/contest_bg.narc,/contest/graphic/contest_bg.narc
 res/prebuilt/contest/graphic/contest_obj.narc,/contest/graphic/contest_obj.narc
-res/prebuilt/demo/title/op_demo_us.narc,/demo/title/op_demo.narc
+res/prebuilt/demo/title/op_demo_eu.narc,/demo/title/op_demo.narc
 res/graphics/title_screen/titledemo.narc,/demo/title/titledemo.narc
 res/npc_trades.narc,/fielddata/pokemon_trade/fld_trade.narc
 res/graphics/pokedex/zukan.narc,/resource/eng/zukan/zukan.narc

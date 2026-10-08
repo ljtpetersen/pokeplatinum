@@ -2,7 +2,7 @@
 #include "res/text/bank/game_corner.h"
 #include "res/text/bank/menu_entries.h"
 
-#define LOCAL_VAR_SLOT_MACHINE_ID VAR_0x8004
+#include "constants/platinum_version.h"
 
 
     ScriptEntry GameCorner_SlotMachine_0
@@ -28,6 +28,9 @@
     ScriptEntry GameCorner_BgSignBonusRounds
     ScriptEntry GameCorner_Looker
     ScriptEntryEnd
+
+#if POKEPLATINUM_VERSION <= POKEPLATINUM_VERSION_US_REV1
+#define LOCAL_VAR_SLOT_MACHINE_ID VAR_0x8004
 
 GameCorner_SlotMachine_0:
     SetVar LOCAL_VAR_SLOT_MACHINE_ID, 0
@@ -99,6 +102,139 @@ GameCorner_SlotMachine_NoCoinCase:
     ReleaseAll
     End
 
+#elif POKEPLATINUM_VERSION == POKEPLATINUM_VERSION_EU
+GameCorner_SlotMachine_0:
+    GoToIfSet FLAG_DAILY_0x0ACE, GameCorner_AlreadyUsedMachine
+    Call GameCorner_SlotMachine
+    SetFlag FLAG_DAILY_0x0ACE
+    End
+
+GameCorner_SlotMachine_1:
+    GoToIfSet FLAG_DAILY_0x0ACF, GameCorner_AlreadyUsedMachine
+    Call GameCorner_SlotMachine
+    SetFlag FLAG_DAILY_0x0ACF
+    End
+   
+GameCorner_SlotMachine_2:
+    GoToIfSet FLAG_DAILY_0x0AD0, GameCorner_AlreadyUsedMachine
+    Call GameCorner_SlotMachine
+    SetFlag FLAG_DAILY_0x0AD0
+    End
+
+GameCorner_SlotMachine_3:
+    GoToIfSet FLAG_DAILY_0x0AD1, GameCorner_AlreadyUsedMachine
+    Call GameCorner_SlotMachine
+    SetFlag FLAG_DAILY_0x0AD1
+    End
+
+GameCorner_SlotMachine_4:
+    GoToIfSet FLAG_DAILY_0x0AD2, GameCorner_AlreadyUsedMachine
+    Call GameCorner_SlotMachine
+    SetFlag FLAG_DAILY_0x0AD2
+    End
+
+GameCorner_SlotMachine_5:
+    GoToIfSet FLAG_DAILY_0x0AD3, GameCorner_AlreadyUsedMachine
+    Call GameCorner_SlotMachine
+    SetFlag FLAG_DAILY_0x0AD3
+    End
+
+GameCorner_SlotMachine_6:
+    GoToIfSet FLAG_DAILY_0x0AD4, GameCorner_AlreadyUsedMachine
+    Call GameCorner_SlotMachine
+    SetFlag FLAG_DAILY_0x0AD4
+    End
+   
+GameCorner_SlotMachine_7:
+    GoToIfSet FLAG_DAILY_0x0AD5, GameCorner_AlreadyUsedMachine
+    Call GameCorner_SlotMachine
+    SetFlag FLAG_DAILY_0x0AD5
+    End
+
+GameCorner_SlotMachine_8:
+    GoToIfSet FLAG_DAILY_0x0AD6, GameCorner_AlreadyUsedMachine
+    Call GameCorner_SlotMachine
+    SetFlag FLAG_DAILY_0x0AD6
+    End
+
+GameCorner_SlotMachine_9:
+    GoToIfSet FLAG_DAILY_0x0AD7, GameCorner_AlreadyUsedMachine
+    Call GameCorner_SlotMachine
+    SetFlag FLAG_DAILY_0x0AD7
+    End
+
+GameCorner_SlotMachine_10:
+    GoToIfSet FLAG_DAILY_0x0AD8, GameCorner_AlreadyUsedMachine
+    Call GameCorner_SlotMachine
+    SetFlag FLAG_DAILY_0x0AD8
+    End
+
+GameCorner_SlotMachine_11:
+    GoToIfSet FLAG_DAILY_0x0AD9, GameCorner_AlreadyUsedMachine
+    Call GameCorner_SlotMachine
+    SetFlag FLAG_DAILY_0x0AD9
+    End
+
+GameCorner_SlotMachine:
+    CheckItem ITEM_COIN_CASE, 1, VAR_RESULT
+    GoToIfEq VAR_RESULT, FALSE, GameCorner_SlotMachine_NoCoinCase
+    GoToIfCannotAddCoins 20, GameCorner_SlotMachine_CoinCaseFull
+    GetRandom VAR_RESULT, 4
+    SetVarFromVar VAR_0x8008, VAR_RESULT
+    GoToIfEq VAR_0x8008, 1, GameCorner_SlotMachine_Win5Coins
+    GoToIfEq VAR_0x8008, 2, GameCorner_SlotMachine_Win10Coins
+    GoToIfEq VAR_0x8008, 3, GameCorner_SlotMachine_Win20Coins
+
+GameCorner_SlotMachine_CoinCaseFull:
+    PlaySE SE_CONFIRM_sseq_3
+    LockAll
+    Message GameCorner_Text_ItsAGameMachine
+    WaitButton
+    CloseMessage
+    ReleaseAll
+    Return
+
+GameCorner_SlotMachine_Win5Coins:
+    BufferNumber 0, 5
+    AddCoins 5
+    GoTo GameCorner_SlotMachine_DisplayMessgae
+
+GameCorner_SlotMachine_Win10Coins:
+    BufferNumber 0, 10
+    AddCoins 10
+    GoTo GameCorner_SlotMachine_DisplayMessgae
+
+GameCorner_SlotMachine_Win20Coins:
+    BufferNumber 0, 20
+    AddCoins 20
+
+GameCorner_SlotMachine_DisplayMessgae:
+    BufferPlayerName 1
+    PlaySE SE_CONFIRM_sseq_3
+    LockAll
+    Message GameCorner_Text_FoundCoins
+    WaitButton
+    CloseMessage
+    ReleaseAll
+    Return
+
+GameCorner_AlreadyUsedMachine:
+    PlaySE SE_CONFIRM_sseq_3
+    LockAll
+    Message GameCorner_Text_ItsAGameMachine
+    WaitButton
+    CloseMessage
+    ReleaseAll
+    End
+
+GameCorner_SlotMachine_NoCoinCase:
+    Message GameCorner_Text_CantPlayWithoutCoinCase
+    WaitButton
+    CloseMessage
+    ReleaseAll
+    End
+#endif
+
 GameCorner_CoinsClerk:
     PlaySE SE_CONFIRM_sseq_3
     LockAll
@@ -108,8 +244,15 @@ GameCorner_CoinsClerk:
     GoToIfEq VAR_RESULT, FALSE, GameCorner_CoinsClerk_NoCoinCase
     GoToIfSet FLAG_RECEIVED_GAME_CORNER_TM64, GameCorner_CoinsClerk_ShowCoinsAndMoney
     GoToIfSet FLAG_SAVED_GAME_CORNER_TM64, GameCorner_CoinsClerk_CheckIfCanGiveTM64
+#if POKEPLATINUM_VERSION <= POKEPLATINUM_VERSION_US_REV1
     CheckBonusRoundStreak VAR_RESULT
     GoToIfEq VAR_RESULT, FALSE, GameCorner_CoinsClerk_ShowCoinsAndMoney
+#elif POKEPLATINUM_VERSION == POKEPLATINUM_VERSION_EU
+    GoToIfSet FLAG_DAILY_0x0ADA, GameCorner_CoinsClerk_ShowCoinsAndMoney
+    SetFlag FLAG_DAILY_0x0ADA
+    GetRandom VAR_0x8004, 10
+    GoToIfNe VAR_0x8004, 0, GameCorner_CoinsClerk_ShowCoinsAndMoney
+#endif
     GoTo GameCorner_CoinsClerk_CheckIfCanGiveTM64
     End
 

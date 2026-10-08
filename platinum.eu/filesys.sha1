@@ -76,7 +76,7 @@ ca25450477e4d283af4693f1d4664ed4ba279608 *res/graphics/sprite_templates/shop_men
 4607568f0688fbabc865d01cfbb38d33c707044f *res/graphics/sprite_templates/shop_menu_chars.resdat
 13b14a575d361fea840cf6a433bde418e992bc5d *res/graphics/sprite_templates/shop_menu.cldat
 6ef9a9cb38575cb47bfa9f3070c068aeff2b7ab0 *res/graphics/sprite_templates/shop_menu_pltts.resdat
-7d890728684f972892221535e43f2dd07a63ac5c *res/prebuilt/data/slot_us.narc
+b6c2b6439334b37085733c764ad28e9c5f8fe1ac *res/prebuilt/data/slot_eu.narc
 5bb388f5b16ef1eb8c8ea4c638eccf1244e7789c *res/prebuilt/data/smptm_koori.NANR
 295d997311252e0c1cedaa36fc0083d024a140a2 *res/prebuilt/data/smptm_koori.NCER
 bba8cd586df5dfb3554fac257e7eecb5886991ba *res/prebuilt/data/smptm_koori.NCGR
@@ -139,7 +139,7 @@ e8982c6379fcc2dbd01e2a3626fa1e11477c77c9 *res/prebuilt/data/wm.ncgr
 b65f8a707781ecede813f948cbc8c9154d4b623f *res/prebuilt/data/wm.nclr
 ea0bcdd85b625239fc4c3cbb08f312ff24446991 *res/prebuilt/data/sound/sound_data.sdat
 a4160e55ee085f23df76a1c2b7b9427520b994fe *res/sound/pl_sound_data.sdat
-3614557aa04eb1ad7e5f260578de925f73da584d *res/text/pl_msg.narc
+25439d2156e73329aa7c6223320614fce3665401 *res/text/pl_msg.narc
 1ad55f1a6d2ad34116b9e9502a330bf054e2f2d3 *res/prebuilt/msgdata/msg.narc
 c995669c61058be149d6282036397ebee3a3b1b8 *res/prebuilt/msgdata/scenario/scr_msg.narc
 58a73976128abaa281f1567960c6028d81bf44c6 *res/prebuilt/poketool/pokegra/dp_height.narc
@@ -185,7 +185,7 @@ abbe7036e7117af7f4fd397cd3619b83f5e1d321 *res/battle/scripts/waza_seq.narc
 e3bb819c8dbab8a8db5e4ddccc788b234424e605 *res/graphics/battle/moves/anim_nclr.narc
 42e2b71655a74d6e5bffb9ec75a25df930b20c59 *res/moves/move_data.narc
 20a2a364629e4eb897f3cf443e15e65b7f1ac957 *res/prebuilt/poketool/waza/waza_tbl.narc
-9f4d3587b7032f4f673ccc1b8971685b2199396b *res/field/scripts/scr_seq.narc
+bec58e336f8533601e454867416a29db19876a4b *res/field/scripts/scr_seq.narc
 86e4a1030a0f3939eff107e94023140dd91acf6a *res/prebuilt/graphic/bag_gra.narc
 1c6bab5b5b8295bb3e6b8b6a271a7ca20c1ae177 *res/prebuilt/graphic/box.narc
 cf140701a40be4f23bb24fb17145b1a176ceabcd *res/graphics/frontier/tower/records.narc
@@ -267,7 +267,7 @@ a2cd6f636960544440b489e827e5e16dcaa7f014 *res/field/props/model_sets/prop_model_
 8174da67845c24f377f56e84a0f5f0e890e765ec *res/field/props/texture_sets/prop_texture_sets.narc
 74aded294b971d68f10554f86fd795b072a0b01f *res/field/maps/texture_sets/map_tex_set.narc
 2fb9b73d29f2577fdbd385daf961749794969d72 *res/prebuilt/fielddata/areadata/area_move_model/move_model_list.narc
-fa044bf2e0599ed2bf42d3b632776af3b7e8452e *res/field/maps/data/land_data.narc
+07d65c38a1897e5736441df70b7930619c59d93c *res/field/maps/data/land_data.narc
 f477dce1ffaf2db070ef0f31f422b51433463485 *res/prebuilt/contest/data/contest_data.narc
 e03ff29bc200e233217ad7a8f068ec77b33e6472 *res/prebuilt/particledata/particledata.narc
 5ab40a1a509372d16f6e3b678820c0932cce9d03 *res/pokemon/zukan_data.narc
@@ -327,7 +327,7 @@ ecdb14e0bc6619f114549e6126c8b6934cfc3aeb *res/prebuilt/battle/b_pl_stage/pl_bsdp
 3b475e06d86853ac3986f78ea356e4efe03d2d00 *res/prebuilt/particledata/pl_etc/pl_etc_particle.narc
 8e3c5c332cff4ae218ce746e59b9221e229d382c *res/prebuilt/contest/graphic/contest_bg.narc
 cec363028fa6bc6240f9c8da7ab8f9e8bb1b1465 *res/prebuilt/contest/graphic/contest_obj.narc
-7fa87d90ba039f67221a43782bf6a1a1107d5947 *res/prebuilt/demo/title/op_demo_us.narc
+90481c41b4b3cdf88ad8bef0a5253fba9dacc133 *res/prebuilt/demo/title/op_demo_eu.narc
 d7e86fadf59a54f922fc7cf65ae65fa326b8429e *res/graphics/title_screen/titledemo.narc
 32a0989a18cc7f3eb17c5949adecb3f057a84eea *res/npc_trades.narc
 d4b6f9731b808a613338005f59959325ce1e3ac9 *res/graphics/pokedex/zukan.narc
