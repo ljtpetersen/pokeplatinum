@@ -41,11 +41,16 @@
             "en_US": [
                 "I can’t believe you chased me here...\n",
                 "OK, let’s see how tough you are.\r"
+            ],
+            "fr_FR": [
+                "Je ne peux pas croire que tu m’aies\n",
+                "suivi... OK, montre-moi ce que tu vaux.\r"
             ]
         },
         {
             "type": "TRMSG_DEFEAT",
-            "en_US": "Where do you get that power?!\n"
+            "en_US": "Where do you get that power?!\n",
+            "fr_FR": "D’où sors-tu ce talent?!\n"
         },
         {
             "type": "TRMSG_POST_BATTLE",
@@ -53,7 +58,13 @@
                 "Mt. Coronet...\r",
                 "I might be just a grunt, but even I\n",
                 "can tell it has a weird energy!\n"
+            ],
+            "fr_FR": [
+                "Le Mont Couronné...\r",
+                "Je suis juste un sbire, mais même moi je\n",
+                "peux dire qu’il a une drôle d’énergie!\n"
             ]
         }
-    ]
+    ],
+    "name_fr": "Sbire"
 }

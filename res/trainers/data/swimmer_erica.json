@@ -23,6 +23,10 @@
             "en_US": [
                 "The human body floats more easily in\n",
                 "the sea, so it’s easy to swim!\r"
+            ],
+            "fr_FR": [
+                "Le corps humain flotte bien dans l’eau\n",
+                "de mer, c’est plus facile pour nager!\r"
             ]
         },
         {
@@ -30,18 +34,28 @@
             "en_US": [
                 "The sea is salty, but all I taste is\n",
                 "bitterness...\n"
+            ],
+            "fr_FR": [
+                "La mer est salée, mais je ne goûte que\n",
+                "l’amertume de la défaite...\n"
             ]
         },
         {
             "type": "TRMSG_POST_BATTLE",
-            "en_US": "I’ve got that sinking feeling...\n"
+            "en_US": "I’ve got that sinking feeling...\n",
+            "fr_FR": "J’ai l’impression de toucher le fond...\n"
         },
         {
             "type": "TRMSG_REMATCH",
             "en_US": [
                 "Pokémon can stay afloat even while\n",
                 "carrying someone. That’s so cool!\r"
+            ],
+            "fr_FR": [
+                "Les Pokémon peuvent flotter en portant\n",
+                "quelqu’un. C’est vraiment trop cool!\r"
             ]
         }
-    ]
+    ],
+    "name_fr": "Nora"
 }

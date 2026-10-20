@@ -24,11 +24,18 @@
                 "I had to get my revenge on you.\r",
                 "I trained my Pokémon while lost and\f",
                 "wandering in the Wayward Cave!\r"
+            ],
+            "fr_FR": [
+                "Tu me dois une revanche.\r",
+                "Je me suis entraînée dans la Grotte\n",
+                "Revêche en cherchant la sortie!\r"
             ]
         },
         {
             "type": "TRMSG_DEFEAT",
-            "en_US": "Kerrrash!"
+            "en_US": "Kerrrash!",
+            "fr_FR": "Patatras!"
         }
-    ]
+    ],
+    "name_fr": "Babette"
 }

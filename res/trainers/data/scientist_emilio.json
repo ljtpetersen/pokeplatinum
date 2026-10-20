@@ -26,7 +26,12 @@
             "en_US": [
                 "Hmm... I failed to foresee this\n",
                 "outcome...\n"
+            ],
+            "fr_FR": [
+                "Hum... Je n’avais pas prévu ce\n",
+                "résultat...\n"
             ]
         }
-    ]
+    ],
+    "name_fr": "Noah"
 }

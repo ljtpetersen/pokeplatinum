@@ -41,18 +41,28 @@
             "en_US": [
                 "Po-Po-Pokémon!\n",
                 "Do you think I’m a real Pokémon?\r"
+            ],
+            "fr_FR": [
+                "Po-Po-Pokémon!\n",
+                "Tu crois que je suis un vrai Pokémon?\r"
             ]
         },
         {
             "type": "TRMSG_DEFEAT",
-            "en_US": "Pi-Pikachu!\n"
+            "en_US": "Pi-Pikachu!\n",
+            "fr_FR": "Pi-Pikachu!\n"
         },
         {
             "type": "TRMSG_POST_BATTLE",
             "en_US": [
                 "I need to find a way to get more into\n",
                 "the character of a Pokémon...\n"
+            ],
+            "fr_FR": [
+                "Je dois trouver un moyen de ressembler\n",
+                "encore plus à un Pokémon...\n"
             ]
         }
-    ]
+    ],
+    "name_fr": "Catherine"
 }

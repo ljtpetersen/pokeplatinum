@@ -3,7 +3,8 @@
   "messages": [
     {
       "id": "OldChateau_Text_ItAppearsGlaring",
-      "en_US": "...It appears as if it is glaring..."
+      "en_US": "...It appears as if it is glaring...",
+      "fr_FR": "... On dirait qu’il nous regarde..."
     }
   ]
 }

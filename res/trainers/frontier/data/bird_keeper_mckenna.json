@@ -27,6 +27,10 @@
             "en_US": [
                 "I’m free like a bird!\n",
                 "I feel like I could fly!"
+            ],
+            "fr_FR": [
+                "Je crois que je pourrais voler. Toucher\n",
+                "le ciel. J’y pense tous les jours..."
             ]
         },
         {
@@ -34,6 +38,10 @@
             "en_US": [
                 "That’s how I ended up becoming a Bird\n",
                 "Keeper.\r"
+            ],
+            "fr_FR": [
+                "C’est pour cette raison que je\n",
+                "suis devenue Ornithologue.\r"
             ]
         },
         {
@@ -41,7 +49,12 @@
             "en_US": [
                 "Like most birds, I can’t see very well\n",
                 "at night.\r"
+            ],
+            "fr_FR": [
+                "Comme beaucoup d’oiseaux, je ne vois\n",
+                "pas très bien la nuit.\r"
             ]
         }
-    ]
+    ],
+    "name_fr": "Maréva"
 }

@@ -7,7 +7,10 @@
         "special_attack": 55,
         "special_defense": 65
     },
-    "types": [ "TYPE_GRASS", "TYPE_GRASS" ],
+    "types": [
+        "TYPE_GRASS",
+        "TYPE_GRASS"
+    ],
     "catch_rate": 45,
     "base_exp_reward": 141,
     "ev_yields": {
@@ -26,27 +29,72 @@
     "hatch_cycles": 20,
     "base_friendship": 70,
     "exp_rate": "EXP_RATE_MEDIUM_SLOW",
-    "egg_groups": [ "EGG_GROUP_MONSTER", "EGG_GROUP_GRASS" ],
-    "abilities": [ "ABILITY_OVERGROW", "ABILITY_NONE" ],
+    "egg_groups": [
+        "EGG_GROUP_MONSTER",
+        "EGG_GROUP_GRASS"
+    ],
+    "abilities": [
+        "ABILITY_OVERGROW",
+        "ABILITY_NONE"
+    ],
     "safari_flee_rate": 0,
     "body_color": "MON_COLOR_GREEN",
     "flip_sprite": false,
     "icon_palette": 1,
     "learnset": {
         "by_level": [
-            [ 1, "MOVE_TACKLE" ],
-            [ 1, "MOVE_WITHDRAW" ],
-            [ 5, "MOVE_WITHDRAW" ],
-            [ 9, "MOVE_ABSORB" ],
-            [ 13, "MOVE_RAZOR_LEAF" ],
-            [ 17, "MOVE_CURSE" ],
-            [ 22, "MOVE_BITE" ],
-            [ 27, "MOVE_MEGA_DRAIN" ],
-            [ 32, "MOVE_LEECH_SEED" ],
-            [ 37, "MOVE_SYNTHESIS" ],
-            [ 42, "MOVE_CRUNCH" ],
-            [ 47, "MOVE_GIGA_DRAIN" ],
-            [ 52, "MOVE_LEAF_STORM" ]
+            [
+                1,
+                "MOVE_TACKLE"
+            ],
+            [
+                1,
+                "MOVE_WITHDRAW"
+            ],
+            [
+                5,
+                "MOVE_WITHDRAW"
+            ],
+            [
+                9,
+                "MOVE_ABSORB"
+            ],
+            [
+                13,
+                "MOVE_RAZOR_LEAF"
+            ],
+            [
+                17,
+                "MOVE_CURSE"
+            ],
+            [
+                22,
+                "MOVE_BITE"
+            ],
+            [
+                27,
+                "MOVE_MEGA_DRAIN"
+            ],
+            [
+                32,
+                "MOVE_LEECH_SEED"
+            ],
+            [
+                37,
+                "MOVE_SYNTHESIS"
+            ],
+            [
+                42,
+                "MOVE_CRUNCH"
+            ],
+            [
+                47,
+                "MOVE_GIGA_DRAIN"
+            ],
+            [
+                52,
+                "MOVE_LEAF_STORM"
+            ]
         ],
         "by_tm": [
             "TM06",
@@ -121,9 +169,9 @@
             "name": "GROTLE",
             "category": "Grove Pokémon",
             "entry_text": [
-                "It knows where pure water wells\n",
-                "up. It carries fellow Pokémon there\n",
-                "on its back."
+                "It lives along water in forests. In\n",
+                "the daytime, it leaves the forest\n",
+                "to sunbathe its treed shell."
             ]
         },
         "fr": {
@@ -169,6 +217,18 @@
                 "もりの　なかの　みずべで　くらす。\n",
                 "ひるまは　もりの　そとに　でて\n",
                 "こうらの　きに　ひかりを　あてる。"
+            ]
+        },
+        "local_version": {
+            "entry_text": [
+                "It knows where pure water wells\n",
+                "up. It carries fellow Pokémon there\n",
+                "on its back."
+            ],
+            "entry_text_fr": [
+                "Il sait d’instinct où trouver une\n",
+                "source d’eau pure. Il y transporte\n",
+                "d’autres Pokémon sur son dos."
             ]
         }
     },

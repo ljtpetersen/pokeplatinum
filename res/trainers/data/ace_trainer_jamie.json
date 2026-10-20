@@ -30,6 +30,10 @@
             "en_US": [
                 "I constantly analyze Pokémon and\n",
                 "various battles on my laptop.\r"
+            ],
+            "fr_FR": [
+                "J’analyse les Pokémon et les combats\n",
+                "sur mon ordinateur portable.\r"
             ]
         },
         {
@@ -37,6 +41,10 @@
             "en_US": [
                 "...Things don’t always work out\n",
                 "according to my calculations...\n"
+            ],
+            "fr_FR": [
+                "... Les choses ne fonctionnent pas\n",
+                "toujours selon mes calculs...\n"
             ]
         },
         {
@@ -48,6 +56,14 @@
                 "battle data properly?\r",
                 "I could use a rematch to get\n",
                 "some additional data.\n"
+            ],
+            "fr_FR": [
+                "Mais j’ai eu plaisir à me battre\n",
+                "contre toi.\r",
+                "Je me demande si je peux analyser les\n",
+                "données du combat correctement.\r",
+                "J’aimerais faire une revanche pour\n",
+                "obtenir des données supplémentaires.\n"
             ]
         },
         {
@@ -55,7 +71,12 @@
             "en_US": [
                 "I analyzed our last battle on my\n",
                 "laptop.\r"
+            ],
+            "fr_FR": [
+                "J’ai analysé notre dernier combat sur\n",
+                "mon ordinateur portable.\r"
             ]
         }
-    ]
+    ],
+    "name_fr": "Laurence"
 }

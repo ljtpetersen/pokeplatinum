@@ -59,11 +59,18 @@
                 "Oh, it’s you again!\r",
                 "I’ve regained my confidence.\n",
                 "Let’s have another battle!\r"
+            ],
+            "fr_FR": [
+                "Oh, te revoilà!\r",
+                "J’ai retrouvé ma confiance.\n",
+                "Combattons à nouveau!\r"
             ]
         },
         {
             "type": "TRMSG_DEFEAT",
-            "en_US": "You made me lose my confidence...\n"
+            "en_US": "You made me lose my confidence...\n",
+            "fr_FR": "Tu as détruit ma confiance...\n"
         }
-    ]
+    ],
+    "name_fr": "Martina"
 }

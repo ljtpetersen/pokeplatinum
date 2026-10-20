@@ -34,6 +34,12 @@
                 "waves...\r",
                 "And a high-spirited gal who battles with\n",
                 "Pokémon!\r"
+            ],
+            "fr_FR": [
+                "Je suis une sirène qui dérive au gré\n",
+                "des vagues...\r",
+                "Et je ne suis pas du genre à refuser\n",
+                "un combat de Pokémon!\r"
             ]
         },
         {
@@ -41,11 +47,16 @@
             "en_US": [
                 "Losing...\n",
                 "Makes my tears well up.\n"
+            ],
+            "fr_FR": [
+                "J’ai perdu...\n",
+                "J’en ai les larmes aux yeux.\n"
             ]
         },
         {
             "type": "TRMSG_POST_BATTLE",
-            "en_US": "A mermaid’s tears are so salty...\n"
+            "en_US": "A mermaid’s tears are so salty...\n",
+            "fr_FR": "Les larmes de sirènes sont si salées...\n"
         },
         {
             "type": "TRMSG_REMATCH",
@@ -54,7 +65,14 @@
                 "waves...\r",
                 "And a high-spirited gal who battles with\n",
                 "Pokémon!\r"
+            ],
+            "fr_FR": [
+                "Je suis toujours une sirène qui dérive\n",
+                "au gré des vagues...\r",
+                "Mais je ne suis toujours pas du genre à\n",
+                "refuser un combat de Pokémon!\r"
             ]
         }
-    ]
+    ],
+    "name_fr": "Nathy"
 }

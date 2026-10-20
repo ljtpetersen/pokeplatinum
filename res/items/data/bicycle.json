@@ -26,5 +26,13 @@
   "battlePocket": "BATTLE_POCKET_MASK_NONE",
   "fieldUseFunc": "ITEM_USE_FUNC_BICYCLE",
   "battleUseCategory": "BATTLE_USE_CATEGORY_NONE",
-  "itemUseParams": null
+  "itemUseParams": null,
+  "name_fr": "Bicyclette",
+  "description_fr": [
+    "Une Bicyclette pliable permettant de se\n",
+    "déplacer plus rapidement qu’avec les\n",
+    "Chaussures de Sport."
+  ],
+  "plural_fr": "Bicyclette",
+  "article_fr": null
 }

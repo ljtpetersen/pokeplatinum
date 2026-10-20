@@ -37,6 +37,10 @@
             "en_US": [
                 "In battle and in love, one needs to\n",
                 "know when it is best to back off."
+            ],
+            "fr_FR": [
+                "En combat comme en amour, il\n",
+                "faut savoir prendre du recul."
             ]
         },
         {
@@ -44,6 +48,10 @@
             "en_US": [
                 "After all, both battle and romance can\n",
                 "become quagmires of despair.\r"
+            ],
+            "fr_FR": [
+                "N’oublie pas, c’est important de se\n",
+                "donner le temps de la réflexion.\r"
             ]
         },
         {
@@ -51,7 +59,12 @@
             "en_US": [
                 "I may have lost, but I said something\n",
                 "deep, in an endless bog kind of way.\r"
+            ],
+            "fr_FR": [
+                "J’ai peut-être perdu, mais n’oublie pas\n",
+                "le conseil que je t’ai donné.\r"
             ]
         }
-    ]
+    ],
+    "name_fr": "Blaise"
 }

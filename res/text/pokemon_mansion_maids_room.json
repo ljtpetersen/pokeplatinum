@@ -10,6 +10,14 @@
         "it warms up to you faster.\r",
         "I’ll share one with you, so give it\n",
         "a try.\r"
+      ],
+      "fr_FR": [
+        "Tu sais que tu peux attraper des\n",
+        "Pokémon sauvages dans le jardin?\r",
+        "Si tu fais tenir ceci à un Pokémon,\n",
+        "il s’habituera à toi plus rapidement.\r",
+        "Je t’en donne un pour que tu\n",
+        "l’essaies.\r"
       ]
     },
     {
@@ -17,6 +25,10 @@
       "en_US": [
         "I hope you become a Trainer that\n",
         "Pokémon can love and trust."
+      ],
+      "fr_FR": [
+        "J’espère que tu deviendras un Dresseur\n",
+        "très apprécié des Pokémon."
       ]
     },
     {
@@ -26,6 +38,12 @@
         "I’m just taking a personal break.\r",
         "It’s my official policy to sleep in a bed\n",
         "when I’m officially loafing."
+      ],
+      "fr_FR": [
+        "Je ne suis pas en train de buller.\n",
+        "Je fais une pause réparatrice.\r",
+        "Et pour cela, rien de mieux qu’un\n",
+        "lit bien douillet."
       ]
     },
     {
@@ -33,6 +51,10 @@
       "en_US": [
         "It’s a bed...\n",
         "Want to take a rest?"
+      ],
+      "fr_FR": [
+        "C’est un lit...\n",
+        "Faire une sieste?"
       ]
     },
     {
@@ -40,6 +62,10 @@
       "en_US": [
         "{STRVAR_1 3, 0, 0} quickly fell asleep in\n",
         "the bed...\r"
+      ],
+      "fr_FR": [
+        "{STRVAR_1 3, 0, 0} sombre dans un profond\n",
+        "sommeil...\r"
       ]
     },
     {
@@ -47,6 +73,10 @@
       "en_US": [
         "{STRVAR_1 3, 0, 0} and the Pokémon became\n",
         "fully healed from the nap!"
+      ],
+      "fr_FR": [
+        "{STRVAR_1 3, 0, 0} et son équipe ressortent\n",
+        "de leur sieste en pleine forme!"
       ]
     }
   ]

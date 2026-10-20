@@ -41,6 +41,10 @@
             "en_US": [
                 "To swim every sea there is...\n",
                 "That’s my dream!\r"
+            ],
+            "fr_FR": [
+                "Nager dans toutes les mers du monde...\n",
+                "C’est mon rêve!\r"
             ]
         },
         {
@@ -48,6 +52,10 @@
             "en_US": [
                 "Boo!\n",
                 "I’m not done with my dream!\n"
+            ],
+            "fr_FR": [
+                "Bouh!\n",
+                "Je n’abandonnerai pas mon rêve!\n"
             ]
         },
         {
@@ -55,6 +63,10 @@
             "en_US": [
                 "What is the sea like in places like the\n",
                 "Kanto and Hoenn regions?\n"
+            ],
+            "fr_FR": [
+                "Comment est la mer dans la région de\n",
+                "Kanto? Et dans la région de Hoenn?\n"
             ]
         },
         {
@@ -62,7 +74,12 @@
             "en_US": [
                 "Challenging every Pokémon League...\n",
                 "That’s another of my dreams!\r"
+            ],
+            "fr_FR": [
+                "Battre chaque Ligue Pokémon...\n",
+                "C’est un autre de mes rêves!\r"
             ]
         }
-    ]
+    ],
+    "name_fr": "Sauveur"
 }

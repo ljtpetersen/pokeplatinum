@@ -27,5 +27,12 @@
     "contest": {
         "effect": "CONTEST_EFFECT_TWO_VOLTAGE_IN_A_ROW_ADVANTAGE",
         "type": "CONTEST_TYPE_SMART"
-    }
+    },
+    "name_fr": "Poursuite",
+    "description_fr": [
+        "Une attaque qui inflige\n",
+        "deux fois plus de\n",
+        "dégâts à un ennemi qui\n",
+        "quitte le combat."
+    ]
 }

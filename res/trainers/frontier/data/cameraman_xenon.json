@@ -59,6 +59,10 @@
             "en_US": [
                 "You probably can’t tell, but I can see\n",
                 "right down to your pores."
+            ],
+            "fr_FR": [
+                "Toi, tu ne vois pas tout, mais moi, aucun\n",
+                "détail ne m’échappe."
             ]
         },
         {
@@ -66,6 +70,10 @@
             "en_US": [
                 "Yes, I see it, indeed.\n",
                 "I can see you clearly.\r"
+            ],
+            "fr_FR": [
+                "Oh oui. Je te vois très\n",
+                "nettement. Tout est clair.\r"
             ]
         },
         {
@@ -73,7 +81,12 @@
             "en_US": [
                 "I zoomed in on you too much.\n",
                 "I couldn’t see your Pokémon.\r"
+            ],
+            "fr_FR": [
+                "J’ai un peu trop zoomé sur toi. J’aurais\n",
+                "dû garder un œil sur le combat.\r"
             ]
         }
-    ]
+    ],
+    "name_fr": "Alain"
 }

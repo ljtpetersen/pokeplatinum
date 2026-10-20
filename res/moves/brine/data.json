@@ -26,5 +26,13 @@
     "contest": {
         "effect": "CONTEST_EFFECT_2_HEARTS_WHEN_VOLTAGE_UP",
         "type": "CONTEST_TYPE_SMART"
-    }
+    },
+    "name_fr": "Saumure",
+    "description_fr": [
+        "Cette attaque est\n",
+        "deux fois plus\n",
+        "puissante lorsque \n",
+        "l’ennemi a moins de\n",
+        "la moitié de ses PV."
+    ]
 }

@@ -7,7 +7,10 @@
         "special_attack": 30,
         "special_defense": 90
     },
-    "types": [ "TYPE_GHOST", "TYPE_GHOST" ],
+    "types": [
+        "TYPE_GHOST",
+        "TYPE_GHOST"
+    ],
     "catch_rate": 190,
     "base_exp_reward": 97,
     "ev_yields": {
@@ -26,27 +29,72 @@
     "hatch_cycles": 25,
     "base_friendship": 35,
     "exp_rate": "EXP_RATE_FAST",
-    "egg_groups": [ "EGG_GROUP_AMORPHOUS", "EGG_GROUP_AMORPHOUS" ],
-    "abilities": [ "ABILITY_LEVITATE", "ABILITY_NONE" ],
+    "egg_groups": [
+        "EGG_GROUP_AMORPHOUS",
+        "EGG_GROUP_AMORPHOUS"
+    ],
+    "abilities": [
+        "ABILITY_LEVITATE",
+        "ABILITY_NONE"
+    ],
     "safari_flee_rate": 0,
     "body_color": "MON_COLOR_BLACK",
     "flip_sprite": false,
     "icon_palette": 0,
     "learnset": {
         "by_level": [
-            [ 1, "MOVE_LEER" ],
-            [ 1, "MOVE_NIGHT_SHADE" ],
-            [ 6, "MOVE_DISABLE" ],
-            [ 9, "MOVE_FORESIGHT" ],
-            [ 14, "MOVE_ASTONISH" ],
-            [ 17, "MOVE_CONFUSE_RAY" ],
-            [ 22, "MOVE_SHADOW_SNEAK" ],
-            [ 25, "MOVE_PURSUIT" ],
-            [ 30, "MOVE_CURSE" ],
-            [ 33, "MOVE_WILL_O_WISP" ],
-            [ 38, "MOVE_MEAN_LOOK" ],
-            [ 41, "MOVE_PAYBACK" ],
-            [ 46, "MOVE_FUTURE_SIGHT" ]
+            [
+                1,
+                "MOVE_LEER"
+            ],
+            [
+                1,
+                "MOVE_NIGHT_SHADE"
+            ],
+            [
+                6,
+                "MOVE_DISABLE"
+            ],
+            [
+                9,
+                "MOVE_FORESIGHT"
+            ],
+            [
+                14,
+                "MOVE_ASTONISH"
+            ],
+            [
+                17,
+                "MOVE_CONFUSE_RAY"
+            ],
+            [
+                22,
+                "MOVE_SHADOW_SNEAK"
+            ],
+            [
+                25,
+                "MOVE_PURSUIT"
+            ],
+            [
+                30,
+                "MOVE_CURSE"
+            ],
+            [
+                33,
+                "MOVE_WILL_O_WISP"
+            ],
+            [
+                38,
+                "MOVE_MEAN_LOOK"
+            ],
+            [
+                41,
+                "MOVE_PAYBACK"
+            ],
+            [
+                46,
+                "MOVE_FUTURE_SIGHT"
+            ]
         ],
         "by_tm": [
             "TM04",
@@ -135,9 +183,9 @@
             "name": "DUSKULL",
             "category": "Requiem Pokémon",
             "entry_text": [
-                "It loves the crying of children. It\n",
-                "startles bad kids by passing\n",
-                "through walls and making them cry."
+                "It doggedly pursues its prey\n",
+                "wherever it goes. However, the\n",
+                "chase is abandoned at sunrise."
             ]
         },
         "fr": {
@@ -183,6 +231,18 @@
                 "どこまでも　えものを　おいつづける\n",
                 "しゅうねんぶかい　せいかくだが\n",
                 "あさひが　のぼると　あきらめる。"
+            ]
+        },
+        "local_version": {
+            "entry_text": [
+                "It loves the crying of children. It\n",
+                "startles bad kids by passing\n",
+                "through walls and making them cry."
+            ],
+            "entry_text_fr": [
+                "Les cris des enfants l’amusent.\n",
+                "Il effraie les moins sages d’entre\n",
+                "eux en traversant les murs."
             ]
         }
     },

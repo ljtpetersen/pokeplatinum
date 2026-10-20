@@ -59,18 +59,29 @@
                 "What it means to battle...\n",
                 "Its joys, its sorrows...\f",
                 "I’ve experienced it all!\r"
+            ],
+            "fr_FR": [
+                "Ce que signifie le combat...\n",
+                "ses joies, ses peines...\f",
+                "J’ai tout connu!\r"
             ]
         },
         {
             "type": "TRMSG_DEFEAT",
-            "en_US": "My sorrow deepens...\n"
+            "en_US": "My sorrow deepens...\n",
+            "fr_FR": "Ma peine grandit...\n"
         },
         {
             "type": "TRMSG_POST_BATTLE",
             "en_US": [
                 "You may be a child, but you’ve taught\n",
                 "me a whole lot. I thank you humbly.\n"
+            ],
+            "fr_FR": [
+                "Tu es peut-être jeune, mais tu m’as\n",
+                "beaucoup appris. Je te remercie.\n"
             ]
         }
-    ]
+    ],
+    "name_fr": "Dimitri"
 }

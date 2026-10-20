@@ -27,5 +27,13 @@
     "contest": {
         "effect": "CONTEST_EFFECT_MAX_VOLTAGE_ADVANTAGE",
         "type": "CONTEST_TYPE_BEAUTY"
-    }
+    },
+    "name_fr": "Hydroblast",
+    "description_fr": [
+        "Une trombe d’eau\n",
+        "heurte l’ennemi. \n",
+        "Le lanceur doit se\n",
+        "reposer au tour\n",
+        "suivant."
+    ]
 }

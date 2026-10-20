@@ -14,6 +14,19 @@
         "Can you do me a favor?\r",
         "You’ve got Pokémon with different\n",
         "natures, right? May I see them?"
+      ],
+      "fr_FR": [
+        "Eh, mais ce truc cool qui brille à \n",
+        "ton poignet... Mais oui, c’est ça!\r",
+        "C’est une Pokémontre! \n",
+        "C’est vraiment le top, hein?\r",
+        "J’ai eu l’accord de la Pokémontre S.A. \n",
+        "pour développer des logiciels\f",
+        "Pokémontre.\r",
+        "Mais, tu es un Dresseur, non?\n",
+        "Tu peux me rendre un service?\r",
+        "Tu as bien des Pokémon de différentes \n",
+        "natures? Je peux les voir?"
       ]
     },
     {
@@ -22,6 +35,10 @@
         "What am I in the mood to see now...\r",
         "I’d like to see a Pokémon with\n",
         "a Serious nature."
+      ],
+      "fr_FR": [
+        "Qu’est-ce que j’aimerais voir...\r",
+        "J’aimerais voir un Pokémon Sérieux."
       ]
     },
     {
@@ -30,6 +47,10 @@
         "What am I in the mood to see now...\r",
         "I’d like to see a Pokémon with\n",
         "a Naive nature."
+      ],
+      "fr_FR": [
+        "Qu’est-ce que j’aimerais voir...\r",
+        "J’aimerais voir un Pokémon Naïf."
       ]
     },
     {
@@ -38,6 +59,10 @@
         "What am I in the mood to see now...\r",
         "I’d like to see a Pokémon with\n",
         "a Quirky nature."
+      ],
+      "fr_FR": [
+        "Qu’est-ce que j’aimerais voir...\r",
+        "J’aimerais voir un Pokémon Bizarre."
       ]
     },
     {
@@ -47,6 +72,12 @@
         "a Serious nature all right!\r",
         "Thanks! I’ll give you this\n",
         "Calendar app for your Pokétch."
+      ],
+      "fr_FR": [
+        "C’est ça! Ton {STRVAR_1 0, 0, 0} est \n",
+        "vraiment Sérieux!\r",
+        "Merci! Je vais te donner le logiciel\n",
+        "Calendrier pour ta Pokémontre."
       ]
     },
     {
@@ -56,6 +87,12 @@
         "a Naive nature all right!\r",
         "Thanks! I’ll give you this\n",
         "Dot Artist app for your Pokétch."
+      ],
+      "fr_FR": [
+        "C’est bien ça! Ton {STRVAR_1 0, 0, 0} est \n",
+        "vraiment Naïf!\r",
+        "Merci! Je vais te donner le logiciel\n",
+        "Dessinateur pour ta Pokémontre."
       ]
     },
     {
@@ -65,6 +102,12 @@
         "a Quirky nature all right!\r",
         "Thanks! I’ll give you this\n",
         "Roulette app for your Pokétch."
+      ],
+      "fr_FR": [
+        "C’est bien ça! Ton {STRVAR_1 0, 0, 0} est \n",
+        "vraiment Bizarre!\r",
+        "Merci! Je vais te donner le logiciel\n",
+        "Roulette pour ta Pokémontre."
       ]
     },
     {
@@ -72,6 +115,10 @@
       "en_US": [
         "Some day, Pokétch apps may outnumber\n",
         "all the species of Pokémon."
+      ],
+      "fr_FR": [
+        "Un jour, il y aura plus de logiciels\n",
+        "Pokémontre que d’espèces de Pokémon."
       ]
     }
   ]

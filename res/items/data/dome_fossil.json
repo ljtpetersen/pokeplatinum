@@ -26,5 +26,12 @@
   "battlePocket": "BATTLE_POCKET_MASK_NONE",
   "fieldUseFunc": "ITEM_USE_FUNC_NONE",
   "battleUseCategory": "BATTLE_USE_CATEGORY_NONE",
-  "itemUseParams": {}
+  "itemUseParams": {},
+  "name_fr": "Fossile Dôme",
+  "description_fr": [
+    "Fossile d’un ancien Pokémon aquatique.\n",
+    "On dirait un morceau de carapace."
+  ],
+  "plural_fr": "Fossile Dôme",
+  "article_fr": null
 }

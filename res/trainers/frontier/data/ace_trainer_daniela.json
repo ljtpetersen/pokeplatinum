@@ -55,6 +55,10 @@
             "en_US": [
                 "A Trainer am I, a new ray of hope from\n",
                 "the land of the midnight sun."
+            ],
+            "fr_FR": [
+                "Topdresseur je suis. Gagner sans\n",
+                "l’ombre d’un doute je vais."
             ]
         },
         {
@@ -62,6 +66,10 @@
             "en_US": [
                 "In the frigid falls of the north, I honed\n",
                 "my skills. With them, I made you fall.\r"
+            ],
+            "fr_FR": [
+                "Dans les terres glacées du nord, pour\n",
+                "devenir la meilleure je m’entraîne.\r"
             ]
         },
         {
@@ -69,7 +77,12 @@
             "en_US": [
                 "Your foul trickery deserves contempt.\n",
                 "But effective it was, too.\r"
+            ],
+            "fr_FR": [
+                "En traître tu as agi, mais la victoire tu\n",
+                "as remporté. Bravo je te dis.\r"
             ]
         }
-    ]
+    ],
+    "name_fr": "Dani"
 }

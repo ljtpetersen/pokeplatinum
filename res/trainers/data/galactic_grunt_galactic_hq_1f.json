@@ -23,6 +23,10 @@
             "en_US": [
                 "Who do you think you are?\n",
                 "Desecrating the halls of our HQ?!\r"
+            ],
+            "fr_FR": [
+                "Pour qui tu te prends à profaner comme\n",
+                "ça les murs de notre QG?!\r"
             ]
         },
         {
@@ -30,6 +34,10 @@
             "en_US": [
                 "A tough little Trainer is what you\n",
                 "are...\n"
+            ],
+            "fr_FR": [
+                "Tu es vraiment un petit Dresseur bien\n",
+                "doué...\n"
             ]
         },
         {
@@ -39,7 +47,14 @@
                 "warp panels.\r",
                 "I’d like to see you figure out how\n",
                 "they connect.\n"
+            ],
+            "fr_FR": [
+                "Dans notre QG, on se déplace à l’aide\n",
+                "des téléporteurs.\r",
+                "J’aimerais bien comprendre comment ils\n",
+                "fonctionnent.\n"
             ]
         }
-    ]
+    ],
+    "name_fr": "Sbire"
 }

@@ -85,6 +85,10 @@
             "en_US": [
                 "Hi, may I interest you in a meal combo?\n",
                 "...I’m so used to saying that at work!"
+            ],
+            "fr_FR": [
+                "Je te recommande le plat du jour.\n",
+                "Oups! Déformation professionnelle!"
             ]
         },
         {
@@ -92,6 +96,10 @@
             "en_US": [
                 "Thank you, and have a great day!\n",
                 "...What am I saying?\r"
+            ],
+            "fr_FR": [
+                "Merci, bonne journée!\n",
+                "Mais qu’est-ce que je dis, moi?\r"
             ]
         },
         {
@@ -99,7 +107,12 @@
             "en_US": [
                 "We look forward to your next visit!\n",
                 "...What am I thinking?\r"
+            ],
+            "fr_FR": [
+                "Nous espérons te revoir bientôt!\n",
+                "Euh... Est-ce que j’ai vraiment dit ça?\r"
             ]
         }
-    ]
+    ],
+    "name_fr": "Noëlle"
 }

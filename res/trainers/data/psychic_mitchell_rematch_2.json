@@ -42,11 +42,17 @@
             "en_US": [
                 "I was certain that you’d return.\n",
                 "I sensed your presence, you see.\r"
+            ],
+            "fr_FR": [
+                "Je savais bien que tu reviendrais.\n",
+                "J’ai senti ta présence, vois-tu.\r"
             ]
         },
         {
             "type": "TRMSG_DEFEAT",
-            "en_US": "Defeating you will be no easy matter.\n"
+            "en_US": "Defeating you will be no easy matter.\n",
+            "fr_FR": "Ça ne va pas être facile de te battre.\n"
         }
-    ]
+    ],
+    "name_fr": "Michael"
 }

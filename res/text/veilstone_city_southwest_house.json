@@ -9,17 +9,29 @@
         "I meant your Pokémon.\r",
         "If you’d like, I can give a massage\n",
         "to a Pokémon. Would you like that?"
+      ],
+      "fr_FR": [
+        "Oh, on fatigue, pas vrai?\n",
+        "... Oh, non, je ne parle pas de toi.\f",
+        "Plutôt de tes Pokémon.\r",
+        "Je peux masser un Pokémon\n",
+        "si tu veux. Qu’en dis-tu?"
       ]
     },
     {
       "id": "VeilstoneCitySouthwestHouse_Text_MassageWhichPokemon",
-      "en_US": "Which one needs a little love?\r"
+      "en_US": "Which one needs a little love?\r",
+      "fr_FR": "Alors, qui a besoin d’un peu d’amour?\r"
     },
     {
       "id": "VeilstoneCitySouthwestHouse_Text_ImNotShady",
       "en_US": [
         "Oh!\n",
         "Hey, I’m not doing anything shady..."
+      ],
+      "fr_FR": [
+        "Oh!\n",
+        "Hé, ça n’a rien d’indécent, tu sais..."
       ]
     },
     {
@@ -27,6 +39,10 @@
       "en_US": [
         "Giggle... OK, let’s get started.\n",
         "OK, sweetie, just relax...\r"
+      ],
+      "fr_FR": [
+        "Hihihi... Bien, allons-y.\n",
+        "Allez poussin, on se détend...\r"
       ]
     },
     {
@@ -34,17 +50,23 @@
       "en_US": [
         "{STRVAR_1 0, 0, 0} looks dreamily\n",
         "content...\r"
-      ]
+      ],
+      "fr_FR": "{STRVAR_1 0, 0, 0} sourit bêtement...\r"
     },
     {
       "id": "VeilstoneCitySouthwestHouse_Text_DropByAgainTomorrow",
-      "en_US": "Drop by again tomorrow if you’d like."
+      "en_US": "Drop by again tomorrow if you’d like.",
+      "fr_FR": "Repasse me voir demain, si tu veux."
     },
     {
       "id": "VeilstoneCitySouthwestHouse_Text_IdBreakThatEgg",
       "en_US": [
         "That’s silly! I’d break that Egg\n",
         "if I tried to massage it!"
+      ],
+      "fr_FR": [
+        "C’est idiot! Je risque de briser cet\n",
+        "Oeuf en lui faisant un massage!"
       ]
     },
     {
@@ -52,6 +74,10 @@
       "en_US": [
         "When I was massaging your Pokémon,\n",
         "I found this.\r"
+      ],
+      "fr_FR": [
+        "J’ai trouvé ceci en massant\n",
+        "ton Pokémon.\r"
       ]
     },
     {
@@ -62,6 +88,13 @@
         "Tehehe...\r",
         "It’s a secret, of course!\r",
         "Come back again tomorrow!"
+      ],
+      "fr_FR": [
+        "Oh? Tu veux que je t’apprenne à\n",
+        "masser ton Pokémon?\r",
+        "Tihihi...\r",
+        "C’est un secret, bien sûr!\r",
+        "Reviens me voir demain!"
       ]
     },
     {
@@ -71,11 +104,18 @@
         "Guy in Pastoria City.\r",
         "They send Mail to each other by\n",
         "letting Pokémon deliver it."
+      ],
+      "fr_FR": [
+        "Le petit ami de ma sœur est le type\n",
+        "aux foulards de Verchamps.\r",
+        "Ils s’envoient des Lettres\n",
+        "livrées par des Pokémon."
       ]
     },
     {
       "id": "VeilstoneCitySouthwestHouse_Text_PachirisuCry",
-      "en_US": "PACHIRISU: Pachi chiii!"
+      "en_US": "PACHIRISU: Pachi chiii!",
+      "fr_FR": "PACHIRISU: Pachi chi!"
     }
   ]
 }

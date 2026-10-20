@@ -12,6 +12,16 @@
         "for the cream of the crop.\r",
         "If you wish to enter, I suggest you\n",
         "start by collecting lots of Ribbons.\r"
+      ],
+      "fr_FR": [
+        "Peuh...\n",
+        "Je regrette.\r",
+        "Cet établissement de haute \n",
+        "tenue est réservé à l’élite.\r",
+        "La crème de la crème, pour parler \n",
+        "vulgairement. Hu, hu, hu!\r",
+        "Si vous voulez en faire partie, vous\n",
+        "devez posséder beaucoup de Rubans.\r"
       ]
     },
     {
@@ -35,6 +45,26 @@
         "as a full-fledged member!\r",
         "{STRVAR_1 3, 0, 0} was made a member\n",
         "without any say in the decision!\r"
+      ],
+      "fr_FR": [
+        "Peuh...\n",
+        "Je regrette.\r",
+        "Cet établissement de haute \n",
+        "tenue est réservé à l’élite.\r",
+        "La crème de la crème, pour parler \n",
+        "vulgairement. Hu, hu, hu!\r",
+        "Si vous voulez en faire partie, vous\n",
+        "devez posséder beaucoup de...\r",
+        "Attendez un peu... \n",
+        "Diantre, regardez tous ces Rubans!\r",
+        "Vraiment, excusez mon impolitesse,\n",
+        "je me suis égarée!\r",
+        "Oh, je vous en prie, acceptez de \n",
+        "faire partie de notre club!\r",
+        "Oh, et puis au diable les convenances,\n",
+        "je vous déclare membre sur le champ!\r",
+        "{STRVAR_1 3, 0, 0} est maintenant \n",
+        "membre du Club Rubans!\r"
       ]
     },
     {
@@ -45,6 +75,13 @@
         "I do hope you will enjoy the luxurious\n",
         "atmosphere and services that only\f",
         "we can provide."
+      ],
+      "fr_FR": [
+        "Bienvenue! Nous vous attendions \n",
+        "avec impatience, {STRVAR_1 3, 0, 0}.\r",
+        "J’espère que vous saurez apprécier \n",
+        "l’atmosphère luxueuse et les différents\f",
+        "services que nous proposons."
       ]
     },
     {
@@ -61,6 +98,19 @@
         "the Gorgeous Ribbon.\r",
         "For a mere $10,000, you can be the\n",
         "proud owner of one."
+      ],
+      "fr_FR": [
+        "Bienvenue.\r",
+        "Voulez-vous voir nos Rubans de première\n",
+        "qualité importés par nos soins?\r",
+        "Nous sommes les seuls à \n",
+        "les proposer à la vente.\r",
+        "{STRVAR_1 3, 0, 0}, je pense que vos Pokémon\n",
+        "méritent ce qu’il y a de mieux.\r",
+        "Je peux vous proposer le \n",
+        "Ruban Sublime.\r",
+        "Il est à vous pour la modique \n",
+        "somme de 10 000 $."
       ]
     },
     {
@@ -77,6 +127,19 @@
         "the Royal Ribbon.\r",
         "For a mere $100,000, you can be\n",
         "the proud owner of one."
+      ],
+      "fr_FR": [
+        "Bienvenue.\r",
+        "Voulez-vous voir nos Rubans de première\n",
+        "qualité importés par nos soins?\r",
+        "Nous sommes les seuls à \n",
+        "les proposer à la vente.\r",
+        "{STRVAR_1 3, 0, 0}, je pense que vos Pokémon\n",
+        "méritent ce qu’il y a de mieux.\r",
+        "Je peux vous proposer le \n",
+        "Ruban Royal.\r",
+        "Il est à vous pour la modique \n",
+        "somme de 100 000 $."
       ]
     },
     {
@@ -93,6 +156,19 @@
         "the Gorgeous Royal Ribbon.\r",
         "For a mere $999,999, you can be\n",
         "the proud owner of one."
+      ],
+      "fr_FR": [
+        "Bienvenue.\r",
+        "Voulez-vous voir nos Rubans de première\n",
+        "qualité importés par nos soins?\r",
+        "Nous sommes les seuls à \n",
+        "les proposer à la vente.\r",
+        "{STRVAR_1 3, 0, 0}, je pense que vos Pokémon\n",
+        "méritent ce qu’il y a de mieux.\r",
+        "Je peux vous proposer le \n",
+        "Ruban Royal Sublime.\r",
+        "Il est à vous pour la modique \n",
+        "somme de 999 999 $."
       ]
     },
     {
@@ -102,6 +178,12 @@
         "Ooh! That’s a Gorgeous Royal Ribbon!\r",
         "{STRVAR_1 3, 0, 0}, your {STRVAR_1 0, 2, 0}\n",
         "certainly looks gorgeous and royal!"
+      ],
+      "fr_FR": [
+        "Bienvenue... Mais...! \n",
+        "C’est un Ruban Royal Sublime!\r",
+        "{STRVAR_1 3, 0, 0}, votre {STRVAR_1 0, 2, 0}\n",
+        "est vraiment royal et sublime!"
       ]
     },
     {
@@ -109,6 +191,10 @@
       "en_US": [
         "{STRVAR_1 3, 0, 0} bought\n",
         "a Gorgeous Ribbon.\r"
+      ],
+      "fr_FR": [
+        "{STRVAR_1 3, 0, 0} a acheté un \n",
+        "Ruban Sublime.\r"
       ]
     },
     {
@@ -116,6 +202,10 @@
       "en_US": [
         "{STRVAR_1 3, 0, 0} put the Gorgeous Ribbon\n",
         "on {STRVAR_1 0, 2, 0}."
+      ],
+      "fr_FR": [
+        "{STRVAR_1 3, 0, 0} a mis le Ruban Sublime\n",
+        "sur {STRVAR_1 0, 2, 0}."
       ]
     },
     {
@@ -123,6 +213,10 @@
       "en_US": [
         "{STRVAR_1 3, 0, 0} bought\n",
         "a Royal Ribbon.\r"
+      ],
+      "fr_FR": [
+        "{STRVAR_1 3, 0, 0} a acheté un \n",
+        "Ruban Royal.\r"
       ]
     },
     {
@@ -130,6 +224,10 @@
       "en_US": [
         "{STRVAR_1 3, 0, 0} put the Royal Ribbon\n",
         "on {STRVAR_1 0, 2, 0}."
+      ],
+      "fr_FR": [
+        "{STRVAR_1 3, 0, 0} a mis le Ruban Royal \n",
+        "sur {STRVAR_1 0, 2, 0}."
       ]
     },
     {
@@ -137,6 +235,10 @@
       "en_US": [
         "{STRVAR_1 3, 0, 0} bought\n",
         "a Gorgeous Royal Ribbon.\r"
+      ],
+      "fr_FR": [
+        "{STRVAR_1 3, 0, 0} a acheté un \n",
+        "Ruban Royal Sublime.\r"
       ]
     },
     {
@@ -144,6 +246,10 @@
       "en_US": [
         "{STRVAR_1 3, 0, 0} put the Gorgeous Royal\n",
         "Ribbon on {STRVAR_1 0, 2, 0}."
+      ],
+      "fr_FR": [
+        "{STRVAR_1 3, 0, 0} a mis le Ruban Royal \n",
+        "Sublime sur {STRVAR_1 0, 2, 0}."
       ]
     },
     {
@@ -152,6 +258,11 @@
         "Oh, please, {STRVAR_1 3, 0, 0}.\r",
         "You shouldn’t joke about not\n",
         "having money."
+      ],
+      "fr_FR": [
+        "Oh, pitié, {STRVAR_1 3, 0, 0}.\r",
+        "Ne faites pas semblant \n",
+        "de ne pas avoir d’argent."
       ]
     },
     {
@@ -159,6 +270,10 @@
       "en_US": [
         "I see.\n",
         "Please do visit again."
+      ],
+      "fr_FR": [
+        "Je vois.\n",
+        "Revenez quand vous voulez."
       ]
     },
     {
@@ -166,6 +281,10 @@
       "en_US": [
         "Just being in here is a sign of\n",
         "status, just so you know."
+      ],
+      "fr_FR": [
+        "Le simple fait d’être ici \n",
+        "est un signe de richesse."
       ]
     },
     {
@@ -173,6 +292,10 @@
       "en_US": [
         "I wish men would pay more attention\n",
         "to the way they dress themselves..."
+      ],
+      "fr_FR": [
+        "Ha, si seulement les hommes \n",
+        "savaient mieux s’habiller..."
       ]
     },
     {
@@ -180,15 +303,21 @@
       "en_US": [
         "A woman worthy of being seen with\n",
         "Pokémon... That’s what I hope to be."
+      ],
+      "fr_FR": [
+        "Je veux être une femme digne d’être \n",
+        "vue en compagnie des Pokémon."
       ]
     },
     {
       "id": "ResortAreaRibbonSyndicate1F_Text_SkittyCry",
-      "en_US": "SKITTY: Skiii!"
+      "en_US": "SKITTY: Skiii!",
+      "fr_FR": "SKITTY: Skiii!"
     },
     {
       "id": "ResortAreaRibbonSyndicate1F_Text_PsyduckCry",
-      "en_US": "PSYDUCK: Gyaugyau!"
+      "en_US": "PSYDUCK: Gyaugyau!",
+      "fr_FR": "PSYKOKWAK: Kwak, kwak!"
     }
   ]
 }

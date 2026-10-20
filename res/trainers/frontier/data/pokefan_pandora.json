@@ -77,6 +77,10 @@
             "en_US": [
                 "I heard that! I may be old enough to be\n",
                 "your mom, but I’m still young!"
+            ],
+            "fr_FR": [
+                "Je suis assez âgée pour être ta mère,\n",
+                "mais je suis restée jeune dans ma tête!"
             ]
         },
         {
@@ -84,6 +88,10 @@
             "en_US": [
                 "Look at my skin tone and Pokémon!\n",
                 "Both firm, but supple!\r"
+            ],
+            "fr_FR": [
+                "J’ai encore une peau de bébé, tu sais.\n",
+                "Douce, ferme et parfaitement hydratée.\r"
             ]
         },
         {
@@ -91,7 +99,12 @@
             "en_US": [
                 "Please don’t make that mistake again!\n",
                 "I’m young, I tell you!\r"
+            ],
+            "fr_FR": [
+                "J’ai l’air âgée, mais j’ai su rester\n",
+                "jeune! Je te jure!\r"
             ]
         }
-    ]
+    ],
+    "name_fr": "Purdey"
 }

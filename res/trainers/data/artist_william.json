@@ -33,6 +33,10 @@
                 "You and I!\r",
                 "Let us create a scene!\n",
                 "A fantastic tableau of battle!\r"
+            ],
+            "fr_FR": [
+                "Peignons un tableau! Toi et moi!\n",
+                "Une fantastique scène de combat!\r"
             ]
         },
         {
@@ -40,6 +44,10 @@
             "en_US": [
                 "Magnificent!\n",
                 "I am aglow with inspiration!\n"
+            ],
+            "fr_FR": [
+                "Magnifique! Je suis animé d’une \n",
+                "inspiration soudaine!\n"
             ]
         },
         {
@@ -49,6 +57,12 @@
                 "stupendous masterpiece painting!\r",
                 "I shall title it...\r",
                 "“My Pokémon Is Fight”!\n"
+            ],
+            "fr_FR": [
+                "Ce combat va devenir un \n",
+                "chef-d’œuvre de la peinture!\r",
+                "Je vais l’appeler...\n",
+                "“Pokémon Guerroyant”!\n"
             ]
         },
         {
@@ -58,7 +72,13 @@
                 "is to be observant.\r",
                 "That is the same for battling.\n",
                 "One must be observant!\r"
+            ],
+            "fr_FR": [
+                "Pour être un bon Peintre, il faut \n",
+                "d’abord être très observateur.\r",
+                "Il en va de même pour les combats!\r"
             ]
         }
-    ]
+    ],
+    "name_fr": "Achille"
 }

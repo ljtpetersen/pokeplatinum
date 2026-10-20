@@ -27,5 +27,13 @@
     "contest": {
         "effect": "CONTEST_EFFECT_UNIQUE_JUDGE",
         "type": "CONTEST_TYPE_SMART"
-    }
+    },
+    "name_fr": "Tunnel",
+    "description_fr": [
+        "Le lanceur creuse au\n",
+        "1¹ tour et frappe au\n",
+        "2⁴. Permet aussi de\n",
+        "s’échapper d’un\n",
+        "donjon."
+    ]
 }

@@ -7,6 +7,11 @@
         "Professor: Well, well, look who’s here.\r",
         "{STRVAR_1 3, 0, 0}, was it?\n",
         "Let’s have a look at your Pokémon.\r"
+      ],
+      "fr_FR": [
+        "Professeur: Eh bien, regardez qui voilà.\r",
+        "{STRVAR_1 3, 0, 0}, c’est bien ça?\n",
+        "Jetons un coup d’œil à ton Pokémon.\r"
       ]
     },
     {
@@ -17,6 +22,12 @@
         "I see...\r",
         "This Pokémon seems to be rather\n",
         "happy.\r"
+      ],
+      "fr_FR": [
+        "...\r",
+        "Hum...\n",
+        "Je vois...\r",
+        "Ce Pokémon m’a plutôt l’air heureux.\r"
       ]
     },
     {
@@ -25,6 +36,10 @@
         "Well well!\r",
         "You’ve made your Pokémon evolve\n",
         "already?!\r"
+      ],
+      "fr_FR": [
+        "Eh bien!\r",
+        "Tu l’as déjà fait évoluer?!\r"
       ]
     },
     {
@@ -33,6 +48,11 @@
         "Hm!\r",
         "Entrusting you with that {STRVAR_1 0, 0, 0}\n",
         "was no mistake, it seems!\r"
+      ],
+      "fr_FR": [
+        "Hum!\r",
+        "On dirait que je ne me suis pas trompé\n",
+        "en te confiant ce {STRVAR_1 0, 0, 0}!\r"
       ]
     },
     {
@@ -40,6 +60,10 @@
       "en_US": [
         "Professor: Well, would you like to give\n",
         "it a nickname?"
+      ],
+      "fr_FR": [
+        "Professeur: Eh bien, qu’attends-tu\n",
+        "pour lui donner un nom?"
       ]
     },
     {
@@ -47,6 +71,10 @@
       "en_US": [
         "Professor: Hmm, OK, I see...\n",
         "And you’re happy with that nickname?"
+      ],
+      "fr_FR": [
+        "Professeur: Hum, je vois...\n",
+        "Ce nom te paraît-il satisfaisant?"
       ]
     },
     {
@@ -66,6 +94,21 @@
         "way about you.\r",
         "That’s why I’ll ask you to cherish that\n",
         "{STRVAR_1 0, 0, 0} of yours.\r"
+      ],
+      "fr_FR": [
+        "Professeur: La première fois que je\n",
+        "vous ai vus, prêts à aller dans les\f",
+        "hautes herbes sans Pokémon...\r",
+        "J’ai été abasourdi par tant\n",
+        "de témérité.\r",
+        "Et je le suis toujours, mais pour\n",
+        "d’autres raisons.\r",
+        "Il y a déjà un lien étroit entre toi\n",
+        "et ce Pokémon.\r",
+        "Je me sens honoré de te connaître.\n",
+        "Et je suis sûr que ton Pokémon aussi.\r",
+        "C’est pourquoi je te demande de\n",
+        "prendre bien soin de ton {STRVAR_1 0, 0, 0}.\r"
       ]
     },
     {
@@ -75,6 +118,12 @@
         "toward Pokémon!\r",
         "If you weren’t, I’d have to...\n",
         "Oh, I just can’t say it...\r"
+      ],
+      "fr_FR": [
+        "Aurore: Je suis tellement contente que\n",
+        "tu sois gentil avec les Pokémon!\r",
+        "Si ça n’avait pas été le cas, je...\n",
+        "Oh, je ne peux même pas le dire...\r"
       ]
     },
     {
@@ -84,6 +133,12 @@
         "toward Pokémon.\r",
         "If you weren’t, well...\n",
         "I don’t even want to think about it.\r"
+      ],
+      "fr_FR": [
+        "Louka: Je suis content que tu\n",
+        "sois gentille avec les Pokémon.\r",
+        "Si tu l’avais pas été, eh bien...\n",
+        "Je ne veux même pas y penser.\r"
       ]
     },
     {
@@ -93,6 +148,12 @@
         "Let’s move on to the main topic.\r",
         "There is something I want you to do\n",
         "for me.\r"
+      ],
+      "fr_FR": [
+        "Professeur: Ahem!\n",
+        "Entrons dans le vif du sujet.\r",
+        "Il y a quelque chose que je veux\n",
+        "que tu fasses pour moi.\r"
       ]
     },
     {
@@ -112,6 +173,20 @@
         "Pokédex.\r",
         "Will you use it to record data on all\n",
         "the Pokémon in Sinnoh for me?"
+      ],
+      "fr_FR": [
+        "Pour commencer, je vais me présenter.\r",
+        "Comme tu le sais, je m’appelle Sorbier.\n",
+        "J’étudie les Pokémon.\r",
+        "Je cherche à savoir quelles sortes de\n",
+        "Pokémon vivent dans la région de\f",
+        "Sinnoh.\r",
+        "Pour ce faire, il faut recueillir\n",
+        "des données grâce au Pokédex.\r",
+        "C’est là que tu interviens.\r",
+        "Je voudrais te confier ce Pokédex.\r",
+        "Acceptes-tu d’y ajouter les données\n",
+        "de tous les Pokémon de Sinnoh?"
       ]
     },
     {
@@ -128,6 +203,19 @@
         "Pokédex.\r",
         "Will you use it to record data on all\n",
         "the Pokémon in Sinnoh for me?"
+      ],
+      "fr_FR": [
+        "Sorbier: ...\r",
+        "...\r",
+        "...\r",
+        "...\r",
+        "Je peux rester ici en silence pendant\n",
+        "des heures. Je suis d’un naturel\f",
+        "très patient.\r",
+        "Je te repose la question, {STRVAR_1 3, 0, 0}.\n",
+        "Je voudrais te confier ce Pokédex.\r",
+        "Acceptes-tu d’y ajouter les données\n",
+        "de tous les Pokémon de Sinnoh?"
       ]
     },
     {
@@ -135,6 +223,10 @@
       "en_US": [
         "Rowan: Hm!\r",
         "Good answer!\r"
+      ],
+      "fr_FR": [
+        "Sorbier: Hum!\r",
+        "Bien répondu!\r"
       ]
     },
     {
@@ -142,6 +234,10 @@
       "en_US": [
         "{STRVAR_1 3, 0, 0} obtained\n",
         "the {COLOR 1}Pokédex{COLOR 0}!"
+      ],
+      "fr_FR": [
+        "{STRVAR_1 3, 0, 0} obtient\n",
+        "le {COLOR 1}Pokédex{COLOR 0}!"
       ]
     },
     {
@@ -154,17 +250,31 @@
         "{STRVAR_1 3, 0, 0}, I ask that you go\n",
         "everywhere and meet every kind of\f",
         "Pokémon in this region!\r"
+      ],
+      "fr_FR": [
+        "Sorbier: Ce Pokédex est un appareil à la\n",
+        "pointe de la technologie.\r",
+        "Il enregistre automatiquement les\n",
+        "données des Pokémon rencontrés.\r",
+        "{STRVAR_1 3, 0, 0}, je te demande de visiter\n",
+        "tout Sinnoh et de rencontrer tous les\f",
+        "types de Pokémon de notre région!\r"
       ]
     },
     {
       "id": "SandgemTownLab_Text_DawnIveGotOneToo",
-      "en_US": "Dawn: I’ve got one, too!\r"
+      "en_US": "Dawn: I’ve got one, too!\r",
+      "fr_FR": "Aurore: J’en ai eu un, moi aussi!\r"
     },
     {
       "id": "SandgemTownLab_Text_LucasIveGotTheSamePokedex",
       "en_US": [
         "Lucas: I’ve got the same kind of\n",
         "Pokédex as you.\r"
+      ],
+      "fr_FR": [
+        "Louka: J’ai eu le même type de Pokédex\n",
+        "que toi.\r"
       ]
     },
     {
@@ -182,6 +292,21 @@
         "Now go!\r",
         "{STRVAR_1 3, 0, 0}, your grand adventure\n",
         "begins right now!\r"
+      ],
+      "fr_FR": [
+        "Sorbier: Quand tu marchais sur la Route\n",
+        "201 avec ton Pokémon, qu’as-tu\f",
+        "ressenti?\r",
+        "J’ai vécu 60 longues années. Encore\n",
+        "aujourd’hui, j’ai des frissons quand je\f",
+        "suis avec un Pokémon.\r",
+        "Il faut que tu saches qu’il y a\n",
+        "d’innombrables Pokémon dans ce monde.\r",
+        "Cela veut dire qu’il y a tout autant de\n",
+        "sensations fortes qui t’attendent!\r",
+        "Alors, en route!\r",
+        "{STRVAR_1 3, 0, 0}, ta grande aventure\n",
+        "commence maintenant!\r"
       ]
     },
     {
@@ -190,6 +315,11 @@
         "Rowan: Go on!\r",
         "{STRVAR_1 3, 0, 0}, your grand adventure\n",
         "awaits you!"
+      ],
+      "fr_FR": [
+        "Sorbier: En route!\r",
+        "{STRVAR_1 3, 0, 0}, ta grande aventure\n",
+        "t’attend!"
       ]
     },
     {
@@ -209,6 +339,23 @@
         "that’s all.\r",
         "I’ll be happy to teach you things.\n",
         "Glad to meet you, {STRVAR_1 3, 0, 0}!\r"
+      ],
+      "fr_FR": [
+        "Aurore: Le premier Pokémon que j’ai\n",
+        "rencontré était {STRVAR_1 0, 1, 0}!\r",
+        "Si tu avais choisi {STRVAR_1 0, 1, 0} sur la\n",
+        "Route 201, nous aurions le même\f",
+        "Pokémon!\r",
+        "Ce n’est pas très important, mais\n",
+        "bon... Bref, mon nom est Aurore.\r",
+        "J’aide aussi le professeur à remplir les\n",
+        "pages du Pokédex.\r",
+        "Alors, en un sens, je suis comme toi.\r",
+        "J’ai juste commencé un peu avant toi,\n",
+        "c’est tout.\r",
+        "Je serais enchantée de t’apprendre ce\n",
+        "que je sais.\r",
+        "Ravie de te connaître, {STRVAR_1 3, 0, 0}!\r"
       ]
     },
     {
@@ -219,6 +366,15 @@
         "That makes us comrades working toward\n",
         "the same goal.\r",
         "I’ll teach you stuff later, OK?\r"
+      ],
+      "fr_FR": [
+        "Louka: Le professeur m’a aussi demandé\n",
+        "de l’aider, alors je vais partir pour\f",
+        "remplir les pages du Pokédex.\r",
+        "Ça fait de nous des camarades\n",
+        "travaillant pour la même cause.\r",
+        "Je t’apprendrai quelques trucs plus\n",
+        "tard, OK?\r"
       ]
     },
     {
@@ -229,6 +385,14 @@
         "quest for the professor.\r",
         "Hahaha. Eh...\n",
         "I’m sure we can count on you!"
+      ],
+      "fr_FR": [
+        "Tu connais {STRVAR_1 3, 0, 0}?\n",
+        "Je suis son père.\r",
+        "Je serais enchanté de t’aider dans\n",
+        "ta quête pour le professeur.\r",
+        "Ha, ha, ha. Euh...\n",
+        "On peut compter sur toi, c’est sûr!"
       ]
     },
     {
@@ -240,6 +404,14 @@
         "Oh, my name is Roseanne.\r",
         "It’s an honor to be an assistant to\n",
         "our professor!"
+      ],
+      "fr_FR": [
+        "Le Professeur Sorbier a inventé un\n",
+        "nouveau Pokédex avec l’aide d’un\f",
+        "professeur de la région de Kanto!\r",
+        "Au fait, je m’appelle Rose.\r",
+        "C’est un honneur de travailler\n",
+        "pour le professeur!"
       ]
     },
     {
@@ -247,6 +419,10 @@
       "en_US": [
         "Adventure Rule No. 1\n",
         "The X Button opens the menu."
+      ],
+      "fr_FR": [
+        "Règle Nº 1\n",
+        "Le bouton X ouvre le menu."
       ]
     },
     {
@@ -254,6 +430,10 @@
       "en_US": [
         "Adventure Rule No. 2\n",
         "Record your progress with SAVE."
+      ],
+      "fr_FR": [
+        "Règle Nº 2\n",
+        "Sauvegardez en choisissant SAUVER."
       ]
     },
     {
@@ -261,13 +441,18 @@
       "en_US": [
         "It’s crammed full of books with all\n",
         "sorts of Pokémon information."
-      ]
+      ],
+      "fr_FR": "Il y a plein de livres sur les Pokémon."
     },
     {
       "id": "SandgemTownLab_Text_ReferenceMaterial",
       "en_US": [
         "There’s a lot of reference material\n",
         "and research reports on Pokémon."
+      ],
+      "fr_FR": [
+        "Il y a plein de rapports de recherche\n",
+        "et d’informations sur les Pokémon."
       ]
     },
     {
@@ -276,6 +461,11 @@
         "Rowan: Ah, {STRVAR_1 3, 0, 0}!\r",
         "You’ve come to show me your\n",
         "progress on the Pokédex?\r"
+      ],
+      "fr_FR": [
+        "Sorbier: Ah, {STRVAR_1 3, 0, 0}!\r",
+        "Tu viens me montrer l’avancement\n",
+        "de ton Pokédex?\r"
       ]
     },
     {
@@ -283,6 +473,10 @@
       "en_US": [
         "Hmm...\r",
         "So, you’ve seen {STRVAR_1 52, 0, 0} Pokémon.\r"
+      ],
+      "fr_FR": [
+        "Hum...\r",
+        "Alors, tu as vu {STRVAR_1 52, 0, 0} Pokémon.\r"
       ]
     },
     {
@@ -291,6 +485,11 @@
         "What’s wrong?\r",
         "You’re not going to tell me you’ve\n",
         "seen too few to bother showing me?"
+      ],
+      "fr_FR": [
+        "Que se passe-t-il?\r",
+        "Ne me dis pas que tu en as vu si peu que\n",
+        "ce n’est pas la peine de me le montrer?"
       ]
     },
     {
@@ -301,6 +500,14 @@
         "being added to your Pokédex.\r",
         "This will certainly help with my studies\n",
         "of Pokémon evolution...\r"
+      ],
+      "fr_FR": [
+        "Excellent travail, {STRVAR_1 3, 0, 0}!\r",
+        "Ton Pokédex s’est rempli à une vitesse\n",
+        "fulgurante! Une vraie mine de données\f",
+        "sur les Pokémon de Sinnoh!\r",
+        "Ça va m’aider dans mes travaux sur\n",
+        "l’évolution des Pokémon...\r"
       ]
     },
     {
@@ -312,6 +519,15 @@
         "there is in the Sinnoh region!\r",
         "This will help immensely with my\n",
         "studies on Pokémon evolution...\r"
+      ],
+      "fr_FR": [
+        "Sorbier: Hum! {STRVAR_1 3, 0, 0}, j’avais\n",
+        "hâte de te voir!\r",
+        "Tu as rencontré tous les types de\n",
+        "Pokémon de la région de Sinnoh!\r",
+        "Cela va m’aider considérablement dans\n",
+        "mes recherches sur l’évolution des\f",
+        "Pokémon...\r"
       ]
     },
     {
@@ -324,6 +540,15 @@
         "Of course, if it means meeting new\n",
         "Pokémon, there’s no distance too\f",
         "great for the likes of us to travel.\r"
+      ],
+      "fr_FR": [
+        "Chen: Bonjour, Professeur Sorbier!\n",
+        "Ça faisait longtemps!\r",
+        "Laissez-moi vous dire que le voyage de\n",
+        "Kanto à Sinnoh est plutôt long.\r",
+        "Bien sûr, si cela me permet de\n",
+        "rencontrer de nouveaux Pokémon, ce\f",
+        "n’est pas la distance qui m’arrête.\r"
       ]
     },
     {
@@ -337,6 +562,17 @@
         "there are Pokémon, you’ll find Oak!”\r",
         "It’s good to see that hasn’t changed\n",
         "one bit!\r"
+      ],
+      "fr_FR": [
+        "Sorbier: Oh! Si ce n’est pas mon ancien\n",
+        "collègue, le Professeur Chen!\r",
+        "J’aurais dû m’y attendre de la part de\n",
+        "l’autorité en matière de Pokémon!\r",
+        "On disait toujours en blaguant que\n",
+        "“Quand il y a des Pokémon, Chen n’est\f",
+        "jamais loin!”\r",
+        "C’est bon de voir que les choses n’ont\n",
+        "pas changé du tout!\r"
       ]
     },
     {
@@ -346,6 +582,12 @@
         "to my young assistant.\r",
         "This youngster has filled every page\n",
         "of the Sinnoh Pokédex for me.\r"
+      ],
+      "fr_FR": [
+        "Professeur Chen, laissez-moi vous\n",
+        "présenter mon aide.\r",
+        "Cette jeune personne a rempli pour moi\n",
+        "toutes les pages du Pokédex de Sinnoh.\r"
       ]
     },
     {
@@ -369,6 +611,25 @@
         "your Pokédex with the National Mode.\r",
         "After all, there are many kinds of\n",
         "Pokémon in this world of ours!\r"
+      ],
+      "fr_FR": [
+        "Chen: Ah, ravi de te rencontrer!\n",
+        "Comme tu as entendu, mon nom est Chen.\r",
+        "Le Professeur Sorbier m’a dit beaucoup\n",
+        "de bien de toi, dernièrement.\r",
+        "Il n’a pas arrêté de me chanter les\n",
+        "louanges d’un jeune Dresseur génial.\r",
+        "Je vois que tu les mérites grandement.\r",
+        "Tu as aussi un sens irréprochable du\n",
+        "timing.\r",
+        "Je rends visite au Professeur Sorbier\n",
+        "car j’ai un service à lui rendre.\r",
+        "Il m’a demandé de lui apporter les\n",
+        "données pour le Pokédex National.\r",
+        "Alors, puisque tu es là, je vais ajouter\n",
+        "le Mode National à ton Pokédex.\r",
+        "Après tout, il y a toutes sortes de\n",
+        "Pokémon dans notre monde!\r"
       ]
     },
     {
@@ -376,6 +637,10 @@
       "en_US": [
         "{STRVAR_1 3, 0, 0}’s Pokédex was upgraded\n",
         "with the National Mode!\r"
+      ],
+      "fr_FR": [
+        "Le Mode National a été ajouté au\n",
+        "Pokédex de {STRVAR_1 3, 0, 0}!\r"
       ]
     },
     {
@@ -385,6 +650,12 @@
         "complete the National Pokédex.\r",
         "However, I’m sure you will make an\n",
         "honest attempt on our behalf!\r"
+      ],
+      "fr_FR": [
+        "Chen: Tu risques d’avoir du mal à\n",
+        "compléter le Pokédex National.\r",
+        "Cependant, je suis sûr que tu feras de\n",
+        "ton mieux!\r"
       ]
     },
     {
@@ -394,6 +665,12 @@
         "will get the job done.\r",
         "By the way, Professor Oak, what\n",
         "compelled you to visit this region?\r"
+      ],
+      "fr_FR": [
+        "Sorbier: N’ayez crainte, {STRVAR_1 3, 0, 0}\n",
+        "va réussir.\r",
+        "Au fait, Professeur Chen, qu’est-ce qui\n",
+        "vous a poussé à visiter notre région?\r"
       ]
     },
     {
@@ -408,6 +685,17 @@
         "of Pokémon from every region.\r",
         "I’ve come to make certain that\n",
         "system is operating properly.\r"
+      ],
+      "fr_FR": [
+        "Chen: Ah, oui. Eh bien, j’ai entendu dire\n",
+        "que le Parc des Amis avait ouvert.\r",
+        "Si je me souviens bien, il est tout au\n",
+        "bout de la Route 221.\r",
+        "Le Parc des Amis a un système spécial\n",
+        "qui attire les Pokémon de toutes\f",
+        "espèces et de toutes régions.\r",
+        "Je suis venu m’assurer que ce système\n",
+        "fonctionne correctement.\r"
       ]
     },
     {
@@ -419,6 +707,14 @@
         "I don’t get going!\r",
         "OK, it was a pleasure seeing the both\n",
         "of you! Bye, now!\r"
+      ],
+      "fr_FR": [
+        "{STRVAR_1 3, 0, 0}, tu devrais aller visiter\n",
+        "le Parc des Amis, toi aussi.\r",
+        "Oups! Je vais être en retard à ma\n",
+        "réunion si je ne pars pas tout de suite!\r",
+        "Ça a été un vrai plaisir que de vous\n",
+        "voir tous les deux! Au revoir!\r"
       ]
     },
     {
@@ -430,6 +726,14 @@
         "I don’t get going!\r",
         "OK, it was a pleasure seeing the both\n",
         "of you! Bye, now!\r"
+      ],
+      "fr_FR": [
+        "{STRVAR_1 3, 0, 0}, tu devrais aller visiter\n",
+        "le Parc des Amis, toi aussi.\r",
+        "Oups! Je vais être en retard à ma\n",
+        "réunion si je ne pars pas tout de suite!\r",
+        "Ce fut un vrai plaisir que de vous\n",
+        "voir tous les deux! Au revoir!\r"
       ]
     },
     {
@@ -437,6 +741,10 @@
       "en_US": [
         "Rowan: Off he goes, as busy as\n",
         "ever...\r"
+      ],
+      "fr_FR": [
+        "Sorbier: Et le voilà reparti, pressé,\n",
+        "comme à son habitude...\r"
       ]
     },
     {
@@ -445,6 +753,12 @@
         "Now, {STRVAR_1 3, 0, 0}...\r",
         "I have a gift here as your reward\n",
         "for completing the Sinnoh Pokédex.\r"
+      ],
+      "fr_FR": [
+        "Alors, {STRVAR_1 3, 0, 0}...\r",
+        "J’ai ici un cadeau que je veux t’offrir\n",
+        "pour avoir complété le Pokédex\f",
+        "de Sinnoh.\r"
       ]
     },
     {
@@ -459,6 +773,17 @@
         "Pokédex, but you took care of that!\r",
         "I’m sure it will be useful for your\n",
         "goal of filling the National Pokédex."
+      ],
+      "fr_FR": [
+        "Sorbier: C’est le Radar Pokémon ou\n",
+        "Poké Radar.\r",
+        "Utilise-le pour trouver les Pokémon\n",
+        "cachés dans les hautes herbes.\r",
+        "Je l’ai créé pour aider mes assistants\n",
+        "sur le terrain à compléter le Pokédex\f",
+        "de Sinnoh, mais ça, tu l’as déjà fait!\r",
+        "Je suis sûr qu’il t’aidera à compléter\n",
+        "le Pokédex National."
       ]
     },
     {
@@ -468,6 +793,12 @@
         "There are many more Pokémon.\r",
         "That means there are many more\n",
         "thrills for you to seek and enjoy!"
+      ],
+      "fr_FR": [
+        "Sorbier: Le monde est immense. Il y a\n",
+        "encore plein de Pokémon inconnus.\r",
+        "Cela veut dire encore plus de\n",
+        "sensations fortes pour toi!"
       ]
     },
     {
@@ -477,6 +808,12 @@
         "The screen is filled with special terms\n",
         "and academic writing that is impossible\f",
         "to figure out."
+      ],
+      "fr_FR": [
+        "{STRVAR_1 3, 0, 0} allume le PC.\r",
+        "L’écran est rempli de termes techniques\n",
+        "et d’écrits savants impossibles à\f",
+        "déchiffrer."
       ]
     },
     {
@@ -484,6 +821,10 @@
       "en_US": [
         "Research materials are carefully\n",
         "tucked away."
+      ],
+      "fr_FR": [
+        "Du matériel de recherche est entreposé\n",
+        "avec soin."
       ]
     },
     {
@@ -491,6 +832,10 @@
       "en_US": [
         "The refrigerator is filled with\n",
         "tasty sweets! Mmm..."
+      ],
+      "fr_FR": [
+        "Le réfrigérateur est plein de\n",
+        "mets succulents! Miam..."
       ]
     },
     {
@@ -503,6 +848,16 @@
         "{STRVAR_1 3, 0, 0}...\r",
         "Anyway, you’ve been great for the\n",
         "prof’s Pokémon-evolution research!"
+      ],
+      "fr_FR": [
+        "Ça, c’est quelque chose!\r",
+        "Imagine... Cataloguer toutes les\n",
+        "espèces de Pokémon de Sinnoh!\r",
+        "Et à côté de ça, il y a\n",
+        "{STRVAR_1 3, 0, 0}...\r",
+        "Enfin, tu as fait beaucoup pour les\n",
+        "recherches du professeur sur\f",
+        "l’évolution des Pokémon."
       ]
     },
     {
@@ -513,6 +868,14 @@
         "Pokédex systems with Professor Oak.\r",
         "Professor Oak is Professor Rowan’s\n",
         "junior in terms of seniority."
+      ],
+      "fr_FR": [
+        "Oui, c’est exact.\r",
+        "Le Professeur Sorbier a étudié les\n",
+        "systèmes Pokédex avec le\f",
+        "Professeur Chen.\r",
+        "Mais le Professeur Chen a moins\n",
+        "d’ancienneté que le Professeur Sorbier."
       ]
     },
     {
@@ -525,6 +888,15 @@
         "You really have done it!\r",
         "Never has my heart pounded this hard\n",
         "for so long in my 60 years of living!\r"
+      ],
+      "fr_FR": [
+        "Sorbier: {STRVAR_1 3, 1, 0}!\n",
+        "Te voilà de retour!\r",
+        "Je... je suis sans voix!\r",
+        "Tu as réussi!\n",
+        "Pour de bon!\r",
+        "En 60 ans d’existence, jamais\n",
+        "mon cœur n’a battu si fort!\r"
       ]
     },
     {
@@ -538,6 +910,18 @@
         "help, and...\r",
         "{STRVAR_1 3, 1, 0}, I’m glad to see you safe!\n",
         "Welcome back!\r"
+      ],
+      "fr_FR": [
+        "Aurore: Après ton départ, le\n",
+        "professeur n’a pas arrêté de chercher\f",
+        "à avoir de tes nouvelles.\r",
+        "Il s’est fait un sang d’encre pour toi,\n",
+        "{STRVAR_1 3, 1, 0}...\r",
+        "Il a remué ciel et terre pour en savoir\n",
+        "plus, allant jusqu’à contacter de\f",
+        "vieilles connaissances...\r",
+        "Contente de te savoir en forme!\n",
+        "Et bon retour parmi nous!\r"
       ]
     },
     {
@@ -551,6 +935,18 @@
         "to rustle up help...\r",
         "You didn’t need it, {STRVAR_1 3, 1, 0}.\n",
         "I’m glad to see you back safe, too.\r"
+      ],
+      "fr_FR": [
+        "Louka: Après ton départ, le professeur\n",
+        "n’a pas arrêté de chercher à avoir de\f",
+        "tes nouvelles.\r",
+        "Il s’est fait un sang d’encre pour toi,\n",
+        "{STRVAR_1 3, 1, 0}...\r",
+        "Il a remué ciel et terre pour en savoir\n",
+        "plus, allant jusqu’à contacter de\f",
+        "vieilles connaissances...\r",
+        "Mais tu n’as besoin de personne pour\n",
+        "t’en sortir. Content de te revoir!\r"
       ]
     },
     {
@@ -575,6 +971,26 @@
         "further than ever before.\r",
         "Not to mention the opportunities to\n",
         "meet even more Pokémon."
+      ],
+      "fr_FR": [
+        "Sorbier: Oh, j’avais quelque chose\n",
+        "à te dire.\r",
+        "Les trois Pokémon des lacs sont\n",
+        "rentrés chez eux.\r",
+        "Alors, dis-moi.\n",
+        "Comment va la vie de ton côté?\r",
+        "Ton Pokédex...?\n",
+        "Hum! Un total de {STRVAR_1 52, 1, 0} Pokémon!\r",
+        "Et combien de Badges?\n",
+        "Déjà sept! Félicitations!\r",
+        "Il ne te manque que celui de Rivamar.\n",
+        "Tu en as fait du chemin!\r",
+        "Pourquoi ne pas t’attaquer à l’Arène\n",
+        "de Rivamar?\r",
+        "Et après, il y a la Ligue Pokémon!\r",
+        "Cela élargira encore ton horizon.\r",
+        "Et ce sont autant d’occasions de\n",
+        "croiser de nouveaux Pokémon."
       ]
     },
     {
@@ -583,6 +999,10 @@
         "Rowan: Oh, yes, {STRVAR_1 3, 0, 0}.\r",
         "If you see Cynthia, please give her \n",
         "my best regards."
+      ],
+      "fr_FR": [
+        "Sorbier: Au fait, {STRVAR_1 3, 0, 0}.\r",
+        "Si tu vois Cynthia, salue-la de ma part."
       ]
     },
     {
@@ -604,6 +1024,12 @@
         "I feel as shaken and inspired as when\n",
         "my child was born!\r",
         "Oh, how wonderful it is to be alive!"
+      ],
+      "fr_FR": [
+        "Un tel talent, c’est ahurissant!\r",
+        "Je suis aussi ému qu’à la naissance\n",
+        "de mon enfant!\r",
+        "La vie nous réserve de ces surprises!"
       ]
     },
     {
@@ -615,6 +1041,13 @@
         "make everything all right.\r",
         "I believed that you would make it, and\n",
         "here you are!"
+      ],
+      "fr_FR": [
+        "Quand le professeur m’a raconté ce qui\n",
+        "se tramait, j’en ai eu des frissons.\r",
+        "Mais il a bien insisté sur le fait que\n",
+        "tu arrangerais tout.\r",
+        "J’ai cru en toi et tu ne m’as pas déçue!"
       ]
     }
   ]

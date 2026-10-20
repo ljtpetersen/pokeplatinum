@@ -15,6 +15,12 @@
                 "Luck comes to those who are happy!\r",
                 "That’s why I always keep a big smile and\n",
                 "believe in my Pokémon when I battle."
+            ],
+            "fr_FR": [
+                "Respire à fond et souris un peu!\n",
+                "Dame Chance favorise les audacieux!\r",
+                "Aujourd’hui, elle est avec moi,\n",
+                "je vais donc gagner, tu verras!"
             ]
         },
         {
@@ -22,6 +28,10 @@
             "en_US": [
                 "You’re very good!\n",
                 "I had a lot of fun!\r"
+            ],
+            "fr_FR": [
+                "Tu es un adversaire redoutable!\n",
+                "Et un Dresseur des plus capables!\r"
             ]
         },
         {
@@ -29,7 +39,12 @@
             "en_US": [
                 "You’re so very, very good!\n",
                 "My Pokémon had a good time, too!\r"
+            ],
+            "fr_FR": [
+                "Ta puissance, tu l’as démontrée!\n",
+                "Tu nous as tous épatés!\r"
             ]
         }
-    ]
+    ],
+    "name_fr": "Dahlia"
 }

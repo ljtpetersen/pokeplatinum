@@ -58,6 +58,10 @@
             "en_US": [
                 "I always play for keeps!\n",
                 "This isn’t practice!\r"
+            ],
+            "fr_FR": [
+                "Je me donne toujours à fond!\n",
+                "Ceci n’est pas un exercice!\r"
             ]
         },
         {
@@ -65,6 +69,10 @@
             "en_US": [
                 "Good job!\n",
                 "That was an excellent battle.\n"
+            ],
+            "fr_FR": [
+                "Bien joué!\n",
+                "C’était vraiment un beau combat.\n"
             ]
         },
         {
@@ -72,6 +80,10 @@
             "en_US": [
                 "If you don’t play for keeps, you’ll\n",
                 "lose battles you should be dominating.\n"
+            ],
+            "fr_FR": [
+                "Si tu ne te donnes pas à fond, tu\n",
+                "perdras alors que tu aurais dû dominer.\n"
             ]
         },
         {
@@ -81,7 +93,14 @@
                 "battling for keeps.\r",
                 "But this time, I really mean it.\n",
                 "This is seriously for keeps!\r"
+            ],
+            "fr_FR": [
+                "Je me suis donné à fond quand tu m’as\n",
+                "battu, la dernière fois.\r",
+                "Mais cette fois, je ne plaisante plus.\n",
+                "Je joue... à double fond!\r"
             ]
         }
-    ]
+    ],
+    "name_fr": "Grégory"
 }

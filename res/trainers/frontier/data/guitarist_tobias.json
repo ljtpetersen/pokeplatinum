@@ -57,6 +57,10 @@
             "en_US": [
                 "I can hear it... The screaming adulation\n",
                 "of 100,000 fans rising in unison..."
+            ],
+            "fr_FR": [
+                "Tu les entends? Les cris déments de\n",
+                "mes centaines de fans?"
             ]
         },
         {
@@ -64,6 +68,10 @@
             "en_US": [
                 "Right on, everyone! You saw that!\n",
                 "I dedicate my win to you!\r"
+            ],
+            "fr_FR": [
+                "Merci, merci à tous. Je dédie cette\n",
+                "victoire à tous mes fans!\r"
             ]
         },
         {
@@ -71,7 +79,12 @@
             "en_US": [
                 "You’re scorching...\n",
                 "You’ve made a fan out of me.\r"
+            ],
+            "fr_FR": [
+                "Tu maîtrises ton sujet!\n",
+                "Je crois que je vais devenir fan de toi!\r"
             ]
         }
-    ]
+    ],
+    "name_fr": "Trevis"
 }

@@ -10,6 +10,14 @@
         "I got to live with Pokémon all\f",
         "this time.\r",
         "It’s been a blessed life."
+      ],
+      "fr_FR": [
+        "Je rêvais de devenir Champion\n",
+        "d’Arène à une époque...\r",
+        "Ce rêve ne s’est jamais réalisé, \n",
+        "mais il m’a amené à vivre pendant\f",
+        "très longtemps auprès des Pokémon.\r",
+        "C’était le bon vieux temps."
       ]
     },
     {
@@ -19,6 +27,12 @@
         "You have seven Gym Badges!\r",
         "All you need is one more to challenge\n",
         "the Pokémon League."
+      ],
+      "fr_FR": [
+        "Waouh, t’es vraiment extra!\n",
+        "Tu as sept Badges d’Arène!\r",
+        "Plus qu’un et tu pourras défier\n",
+        "la Ligue Pokémon!"
       ]
     },
     {
@@ -28,6 +42,12 @@
         "You have all eight Gym Badges!\r",
         "Now, you have to challenge the\n",
         "Pokémon League!"
+      ],
+      "fr_FR": [
+        "Waouh! T’es vraiment super extra!\n",
+        "Tu as les huit Badges d’Arène!\r",
+        "Il te reste plus qu’à te lancer à\n",
+        "l’assaut de la Ligue Pokémon!"
       ]
     },
     {
@@ -39,6 +59,15 @@
         "clean energy, and they’re good roads.\r",
         "It’s a symbol of Sunyshore’s will to\n",
         "survive, I think."
+      ],
+      "fr_FR": [
+        "Pour compenser le manque de place, la\n",
+        "ville a eu une idée.\r",
+        "Elle a fait construire des panneaux\n",
+        "solaires qui produisent de l’énergie et\f",
+        "servent aussi de routes.\r",
+        "Ils symbolisent la volonté de Rivamar\n",
+        "de perdurer."
       ]
     },
     {
@@ -46,6 +75,10 @@
       "en_US": [
         "Do you want to hear me play my guitar?\n",
         "Or do we battle?"
+      ],
+      "fr_FR": [
+        "Tu veux écouter mon solo de guitare?\n",
+        "Mais tu préfères peut-être te battre?"
       ]
     },
     {
@@ -53,6 +86,10 @@
       "en_US": [
         "Your spirit’s vibes...\n",
         "You’ve got rock in your veins!\r"
+      ],
+      "fr_FR": [
+        "Les vibrations qui émanent de toi...\n",
+        "Tu as le rock dans le sang!\r"
       ]
     },
     {
@@ -60,6 +97,10 @@
       "en_US": [
         "My guitar...\n",
         "It lies broken and weeping..."
+      ],
+      "fr_FR": [
+        "Ma guitare...\n",
+        "Elle ne s’en remettra pas."
       ]
     },
     {
@@ -69,6 +110,11 @@
         "For my girl, sweet kisses!\r",
         "That’s the perfect world for this\n",
         "guitarist!"
+      ],
+      "fr_FR": [
+        "Des Pokémon pour les Dresseurs!\r",
+        "Des bisous pour ma petite amie!\r",
+        "Je suis un Guitariste comblé!"
       ]
     }
   ]

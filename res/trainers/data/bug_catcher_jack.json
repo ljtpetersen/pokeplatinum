@@ -55,6 +55,11 @@
             "en_US": [
                 "What’s cool, you might ask? No?\n",
                 "I’ll tell you anyway: bug Pokémon!\r"
+            ],
+            "fr_FR": [
+                "Tu veux savoir ce qui est cool? Non? Je\n",
+                "le dis quand même: les Pokémon de type\f",
+                "Insecte!\r"
             ]
         },
         {
@@ -62,6 +67,10 @@
             "en_US": [
                 "Don’t ignore bug Pokémon!\n",
                 "That really bugs me!\n"
+            ],
+            "fr_FR": [
+                "Ceux qui méprisent les Pokémon de type\n",
+                "Insecte sont des gens infects!"
             ]
         },
         {
@@ -69,7 +78,12 @@
             "en_US": [
                 "It would seem that coolness alone\n",
                 "doesn’t add up to any wins...\n"
+            ],
+            "fr_FR": [
+                "On dirait qu’être cool ne suffit pas\n",
+                "pour obtenir la victoire...\n"
             ]
         }
-    ]
+    ],
+    "name_fr": "Pascual"
 }

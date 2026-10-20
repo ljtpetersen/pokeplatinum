@@ -79,39 +79,48 @@
     },
     {
       "id": "BattleParkGateToFightArea_Text_Exit",
-      "en_US": "EXIT"
+      "en_US": "EXIT",
+      "fr_FR": "SORTIR"
     },
     {
       "id": "BattleParkGateToFightArea_Text_BattlePark",
-      "en_US": "BATTLE PARK"
+      "en_US": "BATTLE PARK",
+      "fr_FR": "PARC DES COMBATS"
     },
     {
       "id": "BattleParkGateToFightArea_Text_ExchangeServiceCorner",
-      "en_US": "EXCHANGE SERVICE CORNER"
+      "en_US": "EXCHANGE SERVICE CORNER",
+      "fr_FR": "SERVICE D’ECHANGE"
     },
     {
       "id": "BattleParkGateToFightArea_Text_BattleTower",
-      "en_US": "BATTLE TOWER"
+      "en_US": "BATTLE TOWER",
+      "fr_FR": "TOUR DE COMBAT"
     },
     {
       "id": "BattleParkGateToFightArea_Text_PointCard",
-      "en_US": "POINT CARD"
+      "en_US": "POINT CARD",
+      "fr_FR": "CARTE POINTS"
     },
     {
       "id": "BattleParkGateToFightArea_Text_BP",
-      "en_US": "BP"
+      "en_US": "BP",
+      "fr_FR": "PCO"
     },
     {
       "id": "BattleParkGateToFightArea_Text_LevelLimit",
-      "en_US": "LEVEL LIMIT"
+      "en_US": "LEVEL LIMIT",
+      "fr_FR": "LIMITE DE NIVEAU"
     },
     {
       "id": "BattleParkGateToFightArea_Text_SpeciesAndNumbers",
-      "en_US": "SPECIES & NUMBERS"
+      "en_US": "SPECIES & NUMBERS",
+      "fr_FR": "ESPECES ET NOMBRES"
     },
     {
       "id": "BattleParkGateToFightArea_Text_HoldItems",
-      "en_US": "HOLD ITEMS"
+      "en_US": "HOLD ITEMS",
+      "fr_FR": "OBJETS TENUS"
     },
     {
       "id": "BattleParkGateToFightArea_Text_Dummy28",

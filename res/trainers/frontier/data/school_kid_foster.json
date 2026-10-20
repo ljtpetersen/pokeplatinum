@@ -59,6 +59,10 @@
             "en_US": [
                 "I’m thinking hard about why everyone\n",
                 "likes battling so much."
+            ],
+            "fr_FR": [
+                "Je me demande pourquoi les gens\n",
+                "aiment tant combattre..."
             ]
         },
         {
@@ -66,6 +70,10 @@
             "en_US": [
                 "Why does winning a battle make people\n",
                 "happy?\r"
+            ],
+            "fr_FR": [
+                "Pourquoi les gens sont-ils toujours\n",
+                "aussi contents de gagner?\r"
             ]
         },
         {
@@ -73,7 +81,12 @@
             "en_US": [
                 "Why is losing a battle so downright\n",
                 "infuriating?\r"
+            ],
+            "fr_FR": [
+                "Pourquoi les défaites sont-elles\n",
+                "toujours si dures à accepter?\r"
             ]
         }
-    ]
+    ],
+    "name_fr": "Léandre"
 }

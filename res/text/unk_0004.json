@@ -3,7 +3,11 @@
   "messages": [
     {
       "id": "pl_msg_00000004_00000",
-      "en_US": "Delete all saved data?"
+      "en_US": "Delete all saved data?",
+      "fr_FR": [
+        "Effacer toutes les données\n",
+        "sauvegardées?"
+      ]
     },
     {
       "id": "pl_msg_00000004_00001",
@@ -11,6 +15,11 @@
         "Once data has been deleted,\n",
         "there is no way to recover it.\r",
         "Delete the saved data anyway?"
+      ],
+      "fr_FR": [
+        "Une fois les données effacées, il est\n",
+        "impossible de les récupérer.\r",
+        "Effacer les données sauvegardées?"
       ]
     },
     {
@@ -18,6 +27,10 @@
       "en_US": [
         "Deleting all data.\n",
         "Don’t turn off the power."
+      ],
+      "fr_FR": [
+        "Effacement des données en cours...\n",
+        "Ne pas éteindre."
       ]
     }
   ]

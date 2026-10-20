@@ -3,75 +3,93 @@
   "messages": [
     {
       "id": "pl_msg_00000682_00000",
-      "en_US": "None"
+      "en_US": "None",
+      "fr_FR": "Aucun"
     },
     {
       "id": "pl_msg_00000682_00001",
-      "en_US": "Andalucia"
+      "en_US": "Andalucia",
+      "fr_FR": "Andalousie"
     },
     {
       "id": "pl_msg_00000682_00002",
-      "en_US": "Aragon"
+      "en_US": "Aragon",
+      "fr_FR": "Aragon"
     },
     {
       "id": "pl_msg_00000682_00003",
-      "en_US": "Asturias "
+      "en_US": "Asturias ",
+      "fr_FR": "Asturies"
     },
     {
       "id": "pl_msg_00000682_00004",
-      "en_US": "Islas Baleares"
+      "en_US": "Islas Baleares",
+      "fr_FR": "Iles Baléares"
     },
     {
       "id": "pl_msg_00000682_00005",
-      "en_US": "Pais Vasco"
+      "en_US": "Pais Vasco",
+      "fr_FR": "Pays basque"
     },
     {
       "id": "pl_msg_00000682_00006",
-      "en_US": "Islas Canarias"
+      "en_US": "Islas Canarias",
+      "fr_FR": "Iles Canaries"
     },
     {
       "id": "pl_msg_00000682_00007",
-      "en_US": "Cantabria"
+      "en_US": "Cantabria",
+      "fr_FR": "Cantabrie"
     },
     {
       "id": "pl_msg_00000682_00008",
-      "en_US": "Castilla-La Mancha"
+      "en_US": "Castilla-La Mancha",
+      "fr_FR": "Castille-La Manche"
     },
     {
       "id": "pl_msg_00000682_00009",
-      "en_US": "Castilla Leon"
+      "en_US": "Castilla Leon",
+      "fr_FR": "Castille et León"
     },
     {
       "id": "pl_msg_00000682_00010",
-      "en_US": "Cataluna"
+      "en_US": "Cataluna",
+      "fr_FR": "Catalogne"
     },
     {
       "id": "pl_msg_00000682_00011",
-      "en_US": "Extremadura"
+      "en_US": "Extremadura",
+      "fr_FR": "Estrémadure"
     },
     {
       "id": "pl_msg_00000682_00012",
-      "en_US": "Galicia"
+      "en_US": "Galicia",
+      "fr_FR": "Galice"
     },
     {
       "id": "pl_msg_00000682_00013",
-      "en_US": "Madrid"
+      "en_US": "Madrid",
+      "fr_FR": "Madrid"
     },
     {
       "id": "pl_msg_00000682_00014",
-      "en_US": "Murcia"
+      "en_US": "Murcia",
+      "fr_FR": "Murcie"
     },
     {
       "id": "pl_msg_00000682_00015",
-      "en_US": "Navarra"
+      "en_US": "Navarra",
+      "fr_FR": "Navarre"
     },
     {
       "id": "pl_msg_00000682_00016",
-      "en_US": "La Rioja"
+      "en_US": "La Rioja",
+      "fr_FR": "La Rioja"
     },
     {
       "id": "pl_msg_00000682_00017",
-      "en_US": "Comunidad Valenciana "
+      "en_US": "Comunidad Valenciana ",
+      "fr_FR": "Communauté de Valence"
     }
   ]
 }

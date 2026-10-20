@@ -101,6 +101,10 @@
             "en_US": [
                 "As a Worker, it’s my job to both build\n",
                 "and demolish."
+            ],
+            "fr_FR": [
+                "Je suis un Ouvrier. On me paie pour\n",
+                "construire, mais aussi pour démolir."
             ]
         },
         {
@@ -108,6 +112,10 @@
             "en_US": [
                 "Why don’t you become a Worker, too?\n",
                 "I find it fun and rewarding.\r"
+            ],
+            "fr_FR": [
+                "Tu devrais devenir Ouvrier toi aussi.\n",
+                "C’est à la fois amusant et gratifiant.\r"
             ]
         },
         {
@@ -115,7 +123,12 @@
             "en_US": [
                 "Making things is harder than\n",
                 "demolishing, but it’s more satisfying.\r"
+            ],
+            "fr_FR": [
+                "Construire est plus difficile que\n",
+                "démolir, mais aussi plus intéressant.\r"
             ]
         }
-    ]
+    ],
+    "name_fr": "Badis"
 }

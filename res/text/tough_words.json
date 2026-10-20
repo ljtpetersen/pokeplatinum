@@ -3,131 +3,163 @@
   "messages": [
     {
       "id": "ToughWords_Text_EarthTones",
-      "en_US": "EARTH TONES"
+      "en_US": "EARTH TONES",
+      "fr_FR": "OCRE"
     },
     {
       "id": "ToughWords_Text_Implant",
-      "en_US": "IMPLANT"
+      "en_US": "IMPLANT",
+      "fr_FR": "IMPLANT"
     },
     {
       "id": "ToughWords_Text_GoldenRatio",
-      "en_US": "GOLDEN RATIO"
+      "en_US": "GOLDEN RATIO",
+      "fr_FR": "ETALON OR"
     },
     {
       "id": "ToughWords_Text_Omnibus",
-      "en_US": "OMNIBUS"
+      "en_US": "OMNIBUS",
+      "fr_FR": "OMNIBUS"
     },
     {
       "id": "ToughWords_Text_Starboard",
-      "en_US": "STARBOARD"
+      "en_US": "STARBOARD",
+      "fr_FR": "TRIBORD"
     },
     {
       "id": "ToughWords_Text_MoneyRate",
-      "en_US": "MONEY RATE"
+      "en_US": "MONEY RATE",
+      "fr_FR": "TAUX"
     },
     {
       "id": "ToughWords_Text_Resolution",
-      "en_US": "RESOLUTION"
+      "en_US": "RESOLUTION",
+      "fr_FR": "RESOLUTION"
     },
     {
       "id": "ToughWords_Text_Cadenza",
-      "en_US": "CADENZA"
+      "en_US": "CADENZA",
+      "fr_FR": "CADENCE"
     },
     {
       "id": "ToughWords_Text_Education",
-      "en_US": "EDUCATION"
+      "en_US": "EDUCATION",
+      "fr_FR": "EDUCATION"
     },
     {
       "id": "ToughWords_Text_Cubism",
-      "en_US": "CUBISM"
+      "en_US": "CUBISM",
+      "fr_FR": "CUBISME"
     },
     {
       "id": "ToughWords_Text_CrossStitch",
-      "en_US": "CROSS-STITCH"
+      "en_US": "CROSS-STITCH",
+      "fr_FR": "TRICOT"
     },
     {
       "id": "ToughWords_Text_Artery",
-      "en_US": "ARTERY"
+      "en_US": "ARTERY",
+      "fr_FR": "ARTERE"
     },
     {
       "id": "ToughWords_Text_BoneDensity",
-      "en_US": "BONE DENSITY"
+      "en_US": "BONE DENSITY",
+      "fr_FR": "DENSITE"
     },
     {
       "id": "ToughWords_Text_Gommage",
-      "en_US": "GOMMAGE"
+      "en_US": "GOMMAGE",
+      "fr_FR": "PEELING"
     },
     {
       "id": "ToughWords_Text_Streaming",
-      "en_US": "STREAMING"
+      "en_US": "STREAMING",
+      "fr_FR": "FLUX"
     },
     {
       "id": "ToughWords_Text_Conductivity",
-      "en_US": "CONDUCTIVITY"
+      "en_US": "CONDUCTIVITY",
+      "fr_FR": "CONDUCTIVITE"
     },
     {
       "id": "ToughWords_Text_Copyright",
-      "en_US": "COPYRIGHT"
+      "en_US": "COPYRIGHT",
+      "fr_FR": "COPYRIGHT"
     },
     {
       "id": "ToughWords_Text_TwoStep",
-      "en_US": "TWO-STEP"
+      "en_US": "TWO-STEP",
+      "fr_FR": "TWO-STEP"
     },
     {
       "id": "ToughWords_Text_Contour",
-      "en_US": "CONTOUR"
+      "en_US": "CONTOUR",
+      "fr_FR": "RELIEF"
     },
     {
       "id": "ToughWords_Text_Neutrino",
-      "en_US": "NEUTRINO"
+      "en_US": "NEUTRINO",
+      "fr_FR": "NEUTRINO"
     },
     {
       "id": "ToughWords_Text_Howling",
-      "en_US": "HOWLING"
+      "en_US": "HOWLING",
+      "fr_FR": "HURLER"
     },
     {
       "id": "ToughWords_Text_Spreadsheet",
-      "en_US": "SPREADSHEET"
+      "en_US": "SPREADSHEET",
+      "fr_FR": "BULLETIN"
     },
     {
       "id": "ToughWords_Text_GMT",
-      "en_US": "GMT"
+      "en_US": "GMT",
+      "fr_FR": "GMT"
     },
     {
       "id": "ToughWords_Text_Irritability",
-      "en_US": "IRRITABILITY"
+      "en_US": "IRRITABILITY",
+      "fr_FR": "IRRITABILITE"
     },
     {
       "id": "ToughWords_Text_Fractals",
-      "en_US": "FRACTALS"
+      "en_US": "FRACTALS",
+      "fr_FR": "FRACTALES"
     },
     {
       "id": "ToughWords_Text_Flambe",
-      "en_US": "FLAMBE"
+      "en_US": "FLAMBE",
+      "fr_FR": "FLAMBE"
     },
     {
       "id": "ToughWords_Text_StockPrices",
-      "en_US": "STOCK PRICES"
+      "en_US": "STOCK PRICES",
+      "fr_FR": "COTATION"
     },
     {
       "id": "ToughWords_Text_PHBalance",
-      "en_US": "PH BALANCE"
+      "en_US": "PH BALANCE",
+      "fr_FR": "PH"
     },
     {
       "id": "ToughWords_Text_Vector",
-      "en_US": "VECTOR"
+      "en_US": "VECTOR",
+      "fr_FR": "VECTEUR"
     },
     {
       "id": "ToughWords_Text_Polyphenol",
-      "en_US": "POLYPHENOL"
+      "en_US": "POLYPHENOL",
+      "fr_FR": "POLYPHENOL"
     },
     {
       "id": "ToughWords_Text_Ubiquitous",
-      "en_US": "UBIQUITOUS"
+      "en_US": "UBIQUITOUS",
+      "fr_FR": "UBIQUITE"
     },
     {
       "id": "ToughWords_Text_REMSleep",
-      "en_US": "REM SLEEP"
+      "en_US": "REM SLEEP",
+      "fr_FR": "PARADOXAL"
     }
   ]
 }

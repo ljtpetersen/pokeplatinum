@@ -44,6 +44,10 @@
             "en_US": [
                 "I will win. I am sure of it.\n",
                 "Therefore, you will lose!\r"
+            ],
+            "fr_FR": [
+                "Je vais gagner, c’est sûr.\n",
+                "Donc forcément... tu vas perdre!\r"
             ]
         },
         {
@@ -51,6 +55,10 @@
             "en_US": [
                 "But...\n",
                 "This isn’t possible!\n"
+            ],
+            "fr_FR": [
+                "Mais...\n",
+                "C’est impossible!\n"
             ]
         },
         {
@@ -60,7 +68,14 @@
                 "It’s just that I lost!\r",
                 "...It’s all the same.\n",
                 "Go, me.\n"
+            ],
+            "fr_FR": [
+                "Je ne dirais pas que tu as gagné.\n",
+                "Ceci dit, j’ai perdu, c’est indéniable!\r",
+                "Oui, ça revient au même, et alors?\n",
+                "Va-t’en. S’il te plaît.\n"
             ]
         }
-    ]
+    ],
+    "name_fr": "Clarisse"
 }

@@ -26,5 +26,13 @@
   "battlePocket": "BATTLE_POCKET_MASK_NONE",
   "fieldUseFunc": "ITEM_USE_FUNC_NONE",
   "battleUseCategory": "BATTLE_USE_CATEGORY_NONE",
-  "itemUseParams": null
+  "itemUseParams": null,
+  "name_fr": "Boue Noire",
+  "description_fr": [
+    "Objet à tenir restaurant peu à peu les\n",
+    "PV des Pokémon de type Poison. Inflige\n",
+    "des dégâts à tous les autres types."
+  ],
+  "plural_fr": "Boue Noire",
+  "article_fr": null
 }

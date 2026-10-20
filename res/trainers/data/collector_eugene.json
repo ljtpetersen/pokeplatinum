@@ -23,7 +23,12 @@
             "en_US": [
                 "I don’t care if I lose.\n",
                 "I’m still a happy guy.\n"
+            ],
+            "fr_FR": [
+                "Peu importe si je perds. Je n’ai pas\n",
+                "besoin de victoires pour être heureux!"
             ]
         }
-    ]
+    ],
+    "name_fr": "Josef"
 }

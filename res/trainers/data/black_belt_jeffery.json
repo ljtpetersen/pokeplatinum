@@ -29,6 +29,11 @@
                 "We’re the Karate Quads!\r",
                 "I will strike a blow for tears with\n",
                 "my fist! Hiyah, teeeeeeaaaaaaaaars!\r"
+            ],
+            "fr_FR": [
+                "Nous sommes le Quatuor Karaté!\r",
+                "Si je joue des poings, c’est pour\n",
+                "célébrer le combat! Oui, le combat!\r"
             ]
         },
         {
@@ -36,6 +41,10 @@
             "en_US": [
                 "I’m so hungry, kid...\n",
                 "I don’t have any strength left...\n"
+            ],
+            "fr_FR": [
+                "J’ai tellement faim...\n",
+                "Je n’ai plus aucune force...\n"
             ]
         },
         {
@@ -45,7 +54,14 @@
                 "enough pizza.\r",
                 "...No. Anything I say will sound\n",
                 "like I’m making excuses."
+            ],
+            "fr_FR": [
+                "J’ai perdu parce que je n’ai pas mangé\n",
+                "assez de pizza.\r",
+                "... Non. On dirait que j’essaie de me\n",
+                "trouver des excuses."
             ]
         }
-    ]
+    ],
+    "name_fr": "Takashi"
 }

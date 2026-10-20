@@ -57,6 +57,10 @@
             "en_US": [
                 "Today, I have a special treat for all\n",
                 "my fans!"
+            ],
+            "fr_FR": [
+                "Aujourd’hui, j’ai une petite surprise\n",
+                "pour tous mes fans!"
             ]
         },
         {
@@ -64,11 +68,14 @@
             "en_US": [
                 "Thank you!\n",
                 "I love your support!\r"
-            ]
+            ],
+            "fr_FR": "Merci de ton soutien!\r"
         },
         {
             "type": "TRMSG_DEFEAT",
-            "en_US": "Are you really one of my fans?\r"
+            "en_US": "Are you really one of my fans?\r",
+            "fr_FR": "Est-ce que tu fais partie de mes fans?\r"
         }
-    ]
+    ],
+    "name_fr": "Pomme"
 }

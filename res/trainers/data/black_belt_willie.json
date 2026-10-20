@@ -33,6 +33,10 @@
             "en_US": [
                 "Judo chop!\n",
                 "Pokémon battle!\r"
+            ],
+            "fr_FR": [
+                "Place au karaté!\n",
+                "Combat Pokémon!\r"
             ]
         },
         {
@@ -40,6 +44,10 @@
             "en_US": [
                 "Wrroar!\n",
                 "Judo chop defeated!"
+            ],
+            "fr_FR": [
+                "Grrr! Ma technique de karaté n’a pas\n",
+                "fait le poids!"
             ]
         },
         {
@@ -48,7 +56,14 @@
                 "I’ll forget that we lost!\r",
                 "...Wait, if I did that, we’d never\n",
                 "learn from our mistakes...\n"
+            ],
+            "fr_FR": [
+                "Je vais me dépêcher d’oublier cette\n",
+                "défaite!\r",
+                "... Attends, si je fais ça, je ne\n",
+                "tirerai aucune leçon de ce combat."
             ]
         }
-    ]
+    ],
+    "name_fr": "Malcolm"
 }

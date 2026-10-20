@@ -32,6 +32,10 @@
             "en_US": [
                 "Brr... I’m starting to get chilly.\n",
                 "I could use a win to get warmed up.\r"
+            ],
+            "fr_FR": [
+                "Brr... Il commence à faire froid. Une\n",
+                "victoire devrait me réchauffer le cœur.\r"
             ]
         },
         {
@@ -40,6 +44,11 @@
                 "The chill of the sea, and the\n",
                 "coldness of defeat...\r",
                 "It’s a double whammy.\n"
+            ],
+            "fr_FR": [
+                "L’eau glaciale de la mer, la froideur\n",
+                "de la défaite...\r",
+                "Un malheur n’arrive jamais seul.\n"
             ]
         },
         {
@@ -47,6 +56,10 @@
             "en_US": [
                 "Look at my lips...\n",
                 "They’re the color of prunes!\n"
+            ],
+            "fr_FR": [
+                "Regarde mes lèvres...\n",
+                "Elles ont la couleur d’une prune!\n"
             ]
         },
         {
@@ -54,7 +67,12 @@
             "en_US": [
                 "Brr... I’m starting to feel chilly.\n",
                 "How about a hot Pokémon battle?\r"
+            ],
+            "fr_FR": [
+                "Brr... Je commence à grelotter. Et si\n",
+                "on se réchauffait avec un petit combat?\r"
             ]
         }
-    ]
+    ],
+    "name_fr": "Ulrik"
 }

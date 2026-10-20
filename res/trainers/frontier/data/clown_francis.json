@@ -55,6 +55,10 @@
             "en_US": [
                 "An analogy for battling is...\n",
                 "I’d say a bachelor guy."
+            ],
+            "fr_FR": [
+                "On pourrait comparer l’art du combat\n",
+                "à la vie d’un célibataire..."
             ]
         },
         {
@@ -62,6 +66,10 @@
             "en_US": [
                 "Heheh, do you get it?\n",
                 "I doubt you’d get it. No one does.\r"
+            ],
+            "fr_FR": [
+                "Tu sais pourquoi?\n",
+                "J’en doute. Personne ne sait.\r"
             ]
         },
         {
@@ -69,7 +77,12 @@
             "en_US": [
                 "Do you get what I’m saying?\n",
                 "I doubt you’d get it. No one ever does.\r"
+            ],
+            "fr_FR": [
+                "Tu vois le point commun?\n",
+                "J’en doute. Personne ne le voit.\r"
             ]
         }
-    ]
+    ],
+    "name_fr": "Lando"
 }

@@ -12,6 +12,16 @@
         "see all kinds of Pokémon.\r",
         "But you shouldn’t make your mom\n",
         "worry that you’ve disappeared.\r"
+      ],
+      "fr_FR": [
+        "Aurore: {STRVAR_1 3, 1, 0}?!\r",
+        "As-tu prévenu ta famille que tu aidais\n",
+        "le professeur?\r",
+        "... Tu ne l’as pas fait, n’est-ce pas?\r",
+        "Je sais que tu meurs d’envie de voir\n",
+        "toutes sortes de Pokémon.\r",
+        "Mais ta mère va croire que tu as\n",
+        "disparu.\r"
       ]
     },
     {
@@ -20,6 +30,11 @@
         "Dawn: You should go tell your family\n",
         "that you’re helping the professor.\r",
         "The faster the better, too.\r"
+      ],
+      "fr_FR": [
+        "Aurore: Tu devrais prévenir ta famille\n",
+        "que tu aides le professeur.\r",
+        "Le plus vite sera le mieux.\r"
       ]
     },
     {
@@ -30,6 +45,13 @@
         "how to catch a Pokémon.\r",
         "I’ll demonstrate how to catch \n",
         "one, so just watch me, OK?\r"
+      ],
+      "fr_FR": [
+        "Aurore: Oh, oui!\r",
+        "{STRVAR_1 3, 1, 0}, je ne t’ai pas expliqué\n",
+        "comment attraper un Pokémon.\r",
+        "Je vais te montrer comment on fait,\n",
+        "alors regarde bien, OK?\r"
       ]
     },
     {
@@ -49,6 +71,21 @@
         "OK, {STRVAR_1 3, 0, 0}, to get you\n",
         "started, I’ll give you five\f",
         "Poké Balls!\r"
+      ],
+      "fr_FR": [
+        "Aurore: Hi, hi...\n",
+        "Tu vois, c’est facile!\r",
+        "En fait, il vaut mieux faire baisser les\n",
+        "PV de ta cible plus que je ne l’ai fait.\r",
+        "Il est essentiel de baisser les PV du\n",
+        "Pokémon le plus possible.\r",
+        "Un Pokémon en pleine santé est\n",
+        "très difficile à attraper.\r",
+        "Oh, il est aussi plus facile de les\n",
+        "attraper en utilisant une capacité,\f",
+        "pour les endormir par exemple.\r",
+        "OK, {STRVAR_1 3, 0, 0}, pour t’aider au\n",
+        "départ, je te donne cinq Poké Balls!\r"
       ]
     },
     {
@@ -60,6 +97,14 @@
         "having your Pokémon friends along.\r",
         "OK, I need to get going.\n",
         "Bye, now!\r"
+      ],
+      "fr_FR": [
+        "Pour les longs voyages, il est plus sûr\n",
+        "d’avoir beaucoup de Pokémon avec toi.\r",
+        "En plus, c’est bien plus amusant de\n",
+        "voyager avec tes amis Pokémon.\r",
+        "OK, il faut que j’y aille.\n",
+        "A bientôt!\r"
       ]
     },
     {
@@ -73,6 +118,16 @@
         "see all kinds of Pokémon.\r",
         "But you shouldn’t make your mom\n",
         "worry like that.\r"
+      ],
+      "fr_FR": [
+        "Louka: {STRVAR_1 3, 1, 0}?!\r",
+        "Tu as prévenu ta famille que tu aidais\n",
+        "le professeur?\r",
+        "Tu ne l’as pas fait, pas vrai?\r",
+        "Je sais que tu meurs d’envie de voir\n",
+        "toutes sortes de Pokémon.\r",
+        "Mais tu ne devrais pas laisser ta mère\n",
+        "s’inquiéter.\r"
       ]
     },
     {
@@ -82,6 +137,12 @@
         "family that the professor asked for\f",
         "your help?\r",
         "You should do it right away.\r"
+      ],
+      "fr_FR": [
+        "Louka: Pourquoi tu vas pas dire à ta\n",
+        "famille que le professeur t’a demandé\f",
+        "de l’aider?\r",
+        "Tu devrais le faire tout de suite.\r"
       ]
     },
     {
@@ -91,6 +152,12 @@
         "how to catch a Pokémon?\r",
         "I’ll demonstrate how to catch\n",
         "one, so just watch, OK?\r"
+      ],
+      "fr_FR": [
+        "Louka: {STRVAR_1 3, 1, 0}, tu sais comment\n",
+        "attraper un Pokémon?\r",
+        "Je vais te montrer comment on fait,\n",
+        "alors regarde bien, OK?\r"
       ]
     },
     {
@@ -108,6 +175,20 @@
         "Pokémon put them to sleep or such.\r",
         "Here, {STRVAR_1 3, 0, 0}, I’ll give you\n",
         "five Poké Balls to get you started.\r"
+      ],
+      "fr_FR": [
+        "Louka: Voilà, c’est comme ça qu’on fait.\r",
+        "En fait, j’aurais dû faire baisser les PV\n",
+        "de la cible un peu plus.\r",
+        "Ouaip, il est très important de bien\n",
+        "faire baisser les PV du Pokémon.\r",
+        "Car, tu vois, un Pokémon en bonne santé\n",
+        "n’est pas facile à attraper.\r",
+        "Oh, ouais, j’oubliais. Un Pokémon\n",
+        "est aussi plus facile à attraper s’il\f",
+        "est endormi, par exemple.\r",
+        "Tiens, {STRVAR_1 3, 0, 0}, je te donne cinq\n",
+        "Poké Balls pour débuter.\r"
       ]
     },
     {
@@ -118,6 +199,13 @@
         "That way, you’ll have a better shot\n",
         "at meeting more Pokémon.\r",
         "See you around!\r"
+      ],
+      "fr_FR": [
+        "Si tu voyages avec plein de Pokémon, tu\n",
+        "pourras visiter des endroits éloignés.\r",
+        "Comme ça, tu auras plus de chances de\n",
+        "rencontrer encore plus de Pokémon!\r",
+        "A plus tard!\r"
       ]
     },
     {
@@ -128,6 +216,12 @@
         "Some only come out at night.\r",
         "I’ll keep looking till I’ve seen them\n",
         "all!"
+      ],
+      "fr_FR": [
+        "Certains Pokémon n’apparaissent que le\n",
+        "matin, d’autres uniquement la nuit.\r",
+        "Je continuerai à les chercher jusqu’à\n",
+        "ce que je les aie tous vus!"
       ]
     },
     {
@@ -135,6 +229,10 @@
       "en_US": [
         "Rt. 202\n",
         "Sandgem Town"
+      ],
+      "fr_FR": [
+        "Route 202\n",
+        "Littorella"
       ]
     },
     {
@@ -142,6 +240,10 @@
       "en_US": [
         "Rt. 202\n",
         "Jubilife City"
+      ],
+      "fr_FR": [
+        "Route 202\n",
+        "Féli-Cité"
       ]
     },
     {
@@ -152,6 +254,13 @@
         "a battle earn Exp. Points!\r",
         "The more your Pokémon battle,\n",
         "the stronger they will become."
+      ],
+      "fr_FR": [
+        "Conseils aux Dresseurs\r",
+        "Tout Pokémon apparaissant au combat,\n",
+        "même une fois, reçoit des points Exp.\r",
+        "Plus vos Pokémon combattent, plus ils\n",
+        "deviennent forts."
       ]
     },
     {
@@ -163,6 +272,14 @@
         "works.\r",
         "Let’s not waste any time.\n",
         "So, when you use the Poké Radar...\r"
+      ],
+      "fr_FR": [
+        "Aurore: Salut, {STRVAR_1 3, 0, 0}!\n",
+        "Je t’attendais.\r",
+        "Je vais te montrer comment marche\n",
+        "le Poké Radar.\r",
+        "Ne perdons pas de temps. Alors, quand\n",
+        "tu te sers du Poké Radar...\r"
       ]
     },
     {
@@ -174,6 +291,12 @@
         "grass.\r",
         "If you go there, the Pokémon will\n",
         "come bursting out.\r"
+      ],
+      "fr_FR": [
+        "Aurore: Tu as vu l’herbe frémir?\r",
+        "Ça veut dire qu’il y a un Pokémon à\n",
+        "cet endroit-là.\r",
+        "Si tu y vas, le Pokémon surgira.\r"
       ]
     },
     {
@@ -187,6 +310,17 @@
         "If you want to keep meeting the same\n",
         "kind of Pokémon, you should maybe\f",
         "use some Repels.\r"
+      ],
+      "fr_FR": [
+        "Ecoute bien, c’est là que ça devient\n",
+        "intéressant.\r",
+        "Si tu remarques un autre endroit où\n",
+        "l’herbe frémit un peu plus loin, vas-y.\r",
+        "Tu y trouveras le même Pokémon que\n",
+        "précédemment.\r",
+        "Si tu veux continuer à croiser le même\n",
+        "genre de Pokémon, pense à utiliser du\f",
+        "Repousse.\r"
       ]
     },
     {
@@ -197,6 +331,13 @@
         "works.\r",
         "Let’s give it a go.\n",
         "When you use the Poké Radar...\r"
+      ],
+      "fr_FR": [
+        "Louka: {STRVAR_1 3, 0, 0}.\r",
+        "Je vais t’expliquer le fonctionnement\n",
+        "du Poké Radar.\r",
+        "Essayons-le pour voir.\n",
+        "Quand tu te sers du Poké Radar...\r"
       ]
     },
     {
@@ -208,6 +349,13 @@
         "grass.\r",
         "Go in there, and the Pokémon will come\n",
         "leaping out.\r"
+      ],
+      "fr_FR": [
+        "Louka: Là!\n",
+        "Tu as vu l’herbe frémir?\r",
+        "Ça veut dire qu’il y a un Pokémon\n",
+        "caché là.\r",
+        "Vas-y et le Pokémon se montrera.\r"
       ]
     },
     {
@@ -220,6 +368,16 @@
         "So, if your aim is to keep seeing the\n",
         "same kind of Pokémon, you should\f",
         "consider using Repels.\r"
+      ],
+      "fr_FR": [
+        "On arrive à la partie la plus curieuse.\r",
+        "Si tu repères un autre endroit où\n",
+        "l’herbe frémit, c’est que le même\r",
+        "genre de Pokémon que précédemment\n",
+        "s’y cache.\r",
+        "Alors, si tu veux continuer à croiser\n",
+        "les mêmes Pokémon, pense à utiliser\f",
+        "du Repousse.\r"
       ]
     }
   ]

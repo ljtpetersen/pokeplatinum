@@ -3,13 +3,21 @@
   "messages": [
     {
       "id": "BgEvents_Text_SmallBookshelf1",
-      "en_US": "It’s lined with Pokémon picture books."
+      "en_US": "It’s lined with Pokémon picture books.",
+      "fr_FR": [
+        "C’est plein de livres d’images\n",
+        "sur les Pokémon."
+      ]
     },
     {
       "id": "BgEvents_Text_SmallBookshelf2",
       "en_US": [
         "Are these books for Pokémon\n",
         "to read?"
+      ],
+      "fr_FR": [
+        "Est-ce que ce sont des livres pour\n",
+        "les Pokémon?"
       ]
     },
     {
@@ -17,6 +25,10 @@
       "en_US": [
         "It’s chock-full of Pokémon books and\n",
         "photo collections."
+      ],
+      "fr_FR": [
+        "C’est plein à craquer de livres et\n",
+        "d’albums photos sur les Pokémon."
       ]
     },
     {
@@ -26,31 +38,44 @@
         "Pokémon Pal...\n",
         "Pokémon Handbook...\f",
         "Adorable Pokémon..."
+      ],
+      "fr_FR": [
+        "Des magazines Pokémon!\r",
+        "Nos Amis les Pokémon...\n",
+        "Manuel Pokémon...\f",
+        "Graine de Pokémon..."
       ]
     },
     {
       "id": "BgEvents_Text_TrashCan",
-      "en_US": "The trash can is empty."
+      "en_US": "The trash can is empty.",
+      "fr_FR": "C’est vide."
     },
     {
       "id": "BgEvents_Text_MartShelf1",
       "en_US": [
         "The shelves are jammed with colorful\n",
         "Pokémon goods."
-      ]
+      ],
+      "fr_FR": "C’est plein d’objets Pokémon colorés."
     },
     {
       "id": "BgEvents_Text_MartShelf2",
       "en_US": [
         "There’s a ton of convenient items.\n",
         "They all look useful."
-      ]
+      ],
+      "fr_FR": "C’est plein d’objets utiles."
     },
     {
       "id": "BgEvents_Text_MartShelf3",
       "en_US": [
         "The shelves brim with all sorts of\n",
         "Pokémon merchandise."
+      ],
+      "fr_FR": [
+        "Les étagères regorgent de toutes\n",
+        "sortes de produits Pokémon."
       ]
     }
   ]

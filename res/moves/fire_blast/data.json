@@ -26,5 +26,12 @@
     "contest": {
         "effect": "CONTEST_EFFECT_FIRST_PERFORMANCE_ADVANTAGE",
         "type": "CONTEST_TYPE_BEAUTY"
-    }
+    },
+    "name_fr": "Déflagration",
+    "description_fr": [
+        "Un déluge de flammes\n",
+        "ardentes submerge\n",
+        "l’ennemi. Peut aussi le\n",
+        "brûler."
+    ]
 }

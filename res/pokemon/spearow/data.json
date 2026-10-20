@@ -7,7 +7,10 @@
         "special_attack": 31,
         "special_defense": 31
     },
-    "types": [ "TYPE_NORMAL", "TYPE_FLYING" ],
+    "types": [
+        "TYPE_NORMAL",
+        "TYPE_FLYING"
+    ],
     "catch_rate": 255,
     "base_exp_reward": 58,
     "ev_yields": {
@@ -26,25 +29,64 @@
     "hatch_cycles": 15,
     "base_friendship": 70,
     "exp_rate": "EXP_RATE_MEDIUM_FAST",
-    "egg_groups": [ "EGG_GROUP_FLYING", "EGG_GROUP_FLYING" ],
-    "abilities": [ "ABILITY_KEEN_EYE", "ABILITY_NONE" ],
+    "egg_groups": [
+        "EGG_GROUP_FLYING",
+        "EGG_GROUP_FLYING"
+    ],
+    "abilities": [
+        "ABILITY_KEEN_EYE",
+        "ABILITY_NONE"
+    ],
     "safari_flee_rate": 0,
     "body_color": "MON_COLOR_BROWN",
     "flip_sprite": false,
     "icon_palette": 0,
     "learnset": {
         "by_level": [
-            [ 1, "MOVE_PECK" ],
-            [ 1, "MOVE_GROWL" ],
-            [ 5, "MOVE_LEER" ],
-            [ 9, "MOVE_FURY_ATTACK" ],
-            [ 13, "MOVE_PURSUIT" ],
-            [ 17, "MOVE_AERIAL_ACE" ],
-            [ 21, "MOVE_MIRROR_MOVE" ],
-            [ 25, "MOVE_AGILITY" ],
-            [ 29, "MOVE_ASSURANCE" ],
-            [ 33, "MOVE_ROOST" ],
-            [ 37, "MOVE_DRILL_PECK" ]
+            [
+                1,
+                "MOVE_PECK"
+            ],
+            [
+                1,
+                "MOVE_GROWL"
+            ],
+            [
+                5,
+                "MOVE_LEER"
+            ],
+            [
+                9,
+                "MOVE_FURY_ATTACK"
+            ],
+            [
+                13,
+                "MOVE_PURSUIT"
+            ],
+            [
+                17,
+                "MOVE_AERIAL_ACE"
+            ],
+            [
+                21,
+                "MOVE_MIRROR_MOVE"
+            ],
+            [
+                25,
+                "MOVE_AGILITY"
+            ],
+            [
+                29,
+                "MOVE_ASSURANCE"
+            ],
+            [
+                33,
+                "MOVE_ROOST"
+            ],
+            [
+                37,
+                "MOVE_DRILL_PECK"
+            ]
         ],
         "by_tm": [
             "TM06",
@@ -172,6 +214,18 @@
                 "ちいさな　つばさを　いそがしく\n",
                 "はばたかせて　とぶ。くさむらにいる\n",
                 "えものを　くちばしで　さがしだす。"
+            ]
+        },
+        "local_version": {
+            "entry_text": [
+                "It flaps its small wings busily to\n",
+                "fly. Using its beak, it searches\n",
+                "in grass for prey."
+            ],
+            "entry_text_fr": [
+                "Il fait battre vigoureusement ses\n",
+                "petites ailes pour voler et cherche\n",
+                "à manger dans l’herbe avec le bec."
             ]
         }
     },

@@ -16,6 +16,16 @@
         "returned to wherever you last\n",
         "saved.\n",
         "Please press the A Button."
+      ],
+      "fr_FR": [
+        "Erreur de communication.\n",
+        "\n",
+        "Si vous étiez dans la Salle Union,\n",
+        "vous y serez renvoyé.\n",
+        "Autrement, vous serez renvoyé à\n",
+        "l’endroit de votre dernière\n",
+        "sauvegarde.\n",
+        "Veuillez appuyer sur le bouton A."
       ]
     },
     {
@@ -29,6 +39,16 @@
         "If this message keeps appearing,\n",
         "please contact Nintendo\n",
         "Consumer Service."
+      ],
+      "fr_FR": [
+        "Une erreur est survenue lors de la\n",
+        "communication. ({STRVAR_1 54, 0, 0})\n",
+        "Veuillez éteindre la Nintendo DS,\n",
+        "la rallumer et réessayer.\n",
+        "\n",
+        "Si ce message apparaît de nouveau,\n",
+        "contactez le service consommateurs\n",
+        "Nintendo."
       ]
     },
     {
@@ -39,6 +59,13 @@
         "You will be returned to the title\n",
         "screen.\n",
         "Please press the A Button."
+      ],
+      "fr_FR": [
+        "Erreur de communication.\n",
+        "\n",
+        "Vous allez être renvoyé à\n",
+        "l’écran titre.\n",
+        "Veuillez appuyer sur le bouton A."
       ]
     },
     {
@@ -51,6 +78,16 @@
         "You have been disconnected from\n",
         "Nintendo Wi-Fi Connection.\n",
         "Please press the A Button."
+      ],
+      "fr_FR": [
+        "Soit la GTS connaît un trafic trop\n",
+        "important, soit le service est\n",
+        "interrompu. Veuillez réessayer\n",
+        "ultérieurement.\n",
+        "\n",
+        "Vous avez été déconnecté de la\n",
+        "connexion Wi-Fi Nintendo. Veuillez\n",
+        "appuyer sur le bouton A."
       ]
     },
     {
@@ -64,6 +101,16 @@
         "If this message keeps appearing,\n",
         "please contact Nintendo\n",
         "Consumer Service."
+      ],
+      "fr_FR": [
+        "Une erreur est survenue lors de la\n",
+        "communication.\n",
+        "Veuillez éteindre la console Nintendo\n",
+        "DS, la rallumer et réessayer.\n",
+        "\n",
+        "Si ce message apparaît de nouveau,\n",
+        "contactez le service consommateurs\n",
+        "Nintendo."
       ]
     },
     {
@@ -76,6 +123,16 @@
         "You will be returned to wherever\n",
         "you last saved.\n",
         "Please press the A Button."
+      ],
+      "fr_FR": [
+        "Erreur de communication.\n",
+        "\n",
+        "Vous avez été déconnecté de la\n",
+        "connexion Wi-Fi Nintendo.\n",
+        "Vous allez être renvoyé à\n",
+        "l’endroit de votre dernière\n",
+        "sauvegarde.\n",
+        "Veuillez appuyer sur le bouton A."
       ]
     },
     {
@@ -88,6 +145,15 @@
         "You will be returned to the title\n",
         "screen.\n",
         "Please press the A Button."
+      ],
+      "fr_FR": [
+        "Erreur de communication.\n",
+        "\n",
+        "Vous avez été déconnecté de la\n",
+        "connexion Wi-Fi Nintendo.\n",
+        "Vous allez être renvoyé à\n",
+        "l’écran titre.\n",
+        "Veuillez appuyer sur le bouton A."
       ]
     }
   ]

@@ -26,5 +26,13 @@
     "contest": {
         "effect": "CONTEST_EFFECT_LOWERS_VOLTAGE",
         "type": "CONTEST_TYPE_BEAUTY"
-    }
+    },
+    "name_fr": "Regard Noir",
+    "description_fr": [
+        "Le lanceur pétrifie\n",
+        "l’ennemi en lui lançant\n",
+        "un regard noir. Il\n",
+        "devient incapable de\n",
+        "s’enfuir."
+    ]
 }

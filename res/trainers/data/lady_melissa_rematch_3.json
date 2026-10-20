@@ -58,11 +58,17 @@
             "en_US": [
                 "Oh, I’m delighted to see you again.\n",
                 "Are you prepared?\r"
+            ],
+            "fr_FR": [
+                "Oh, quel délice de te revoir.\n",
+                "On peut y aller?\r"
             ]
         },
         {
             "type": "TRMSG_DEFEAT",
-            "en_US": "Oh, how very impressive of you.\n"
+            "en_US": "Oh, how very impressive of you.\n",
+            "fr_FR": "Oh, voilà qui est fort impressionnant.\n"
         }
-    ]
+    ],
+    "name_fr": "Sandrine"
 }

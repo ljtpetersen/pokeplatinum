@@ -59,6 +59,10 @@
             "en_US": [
                 "I hate admitting it, but I wanted to be\n",
                 "an Idol, too."
+            ],
+            "fr_FR": [
+                "Je ne devrais pas le dire, mais je\n",
+                "rêvais d’être une Star..."
             ]
         },
         {
@@ -66,6 +70,10 @@
             "en_US": [
                 "I didn’t want to lose to any Idol.\n",
                 "That motivated me to train.\r"
+            ],
+            "fr_FR": [
+                "J’ai beaucoup travaillé. Je voulais être\n",
+                "une Star, mais avec de la classe.\r"
             ]
         },
         {
@@ -73,7 +81,12 @@
             "en_US": [
                 "This is crushing... I work so much\n",
                 "harder than any silly Idol...\r"
+            ],
+            "fr_FR": [
+                "Quelle déception... Mes rêves\n",
+                "s’effondrent les uns après les autres!\r"
             ]
         }
-    ]
+    ],
+    "name_fr": "Maywenn"
 }

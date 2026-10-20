@@ -20,6 +20,25 @@
         "wrong!\r",
         "They accomplished a super feat!\n",
         "See you again, folks!"
+      ],
+      "fr_FR": [
+        "Serge: Bonjour! C’est l’heure \n",
+        "d’A nous les Records!\r",
+        "Aujourd’hui, nous nous intéressons au\n",
+        "record incroyable établi par des as de\f",
+        "la Tour de Combat.\r",
+        "Lola: Des as de la tour de Combat?\r",
+        "Serge: Tout à fait, Lola! Je parle de\n",
+        "l’équipe de {STRVAR_1 3, 0, 0} menée par\f",
+        "{STRVAR_1 0, 1, 0}.\r",
+        "Ils ont établi un nouveau record en\n",
+        "Combat Solo de {STRVAR_1 53, 2, 0} victoires\f",
+        "à la suite! Ils atteignent des sommets!\r",
+        "Lola: Ah, ce sont des mordus\n",
+        "d’escalade?\r",
+        "Serge: Non, non, vous avez tout faux!\r",
+        "Ce sont juste des Dresseurs\n",
+        "extras! A très bientôt, les amis!"
       ]
     },
     {
@@ -41,6 +60,26 @@
         "Double Battles are rough, too!\r",
         "They accomplished a super feat!\n",
         "See you again, folks!"
+      ],
+      "fr_FR": [
+        "Serge: Bonjour! C’est l’heure \n",
+        "d’A nous les Records!\r",
+        "Aujourd’hui, nous nous intéressons au\n",
+        "record incroyable établi par des as de\f",
+        "la Tour de Combat.\r",
+        "Lola: Des as de la Tour de Combat?\r",
+        "Serge: Tout à fait, Lola! Je parle de\n",
+        "l’équipe de {STRVAR_1 3, 0, 0} menée par\f",
+        "{STRVAR_1 0, 1, 0}.\r",
+        "Ils ont établi un nouveau record en\n",
+        "Combat Duo de {STRVAR_1 53, 2, 0} victoires\f",
+        "à la suite!\r",
+        "Lola: Ils doivent avoir eu peur des\n",
+        "Combats Solo.\r",
+        "Serge: Non, non, vous avez tout faux!\n",
+        "Les Combats Duo sont aussi très durs!\r",
+        "Ils ont accompli un super exploit!\n",
+        "A très bientôt, les amis!"
       ]
     },
     {
@@ -62,6 +101,23 @@
         "fit in your hands either way!\r",
         "{STRVAR_1 3, 0, 0} sure set a super record!\n",
         "See you again, folks!"
+      ],
+      "fr_FR": [
+        "Serge: Bonjour! C’est l’heure \n",
+        "d’A nous les Records!\r",
+        "Aujourd’hui, nous nous intéressons au\n",
+        "record de taille incroyable d’un\f",
+        "Pokémon. C’est énorme!\r",
+        "Lola: Un Pokémon énorme?\r",
+        "Serge: Tout à fait, Lola! Le record a\n",
+        "été établi par {STRVAR_1 3, 0, 0}.\r",
+        "Le {STRVAR_1 0, 1, 0} de {STRVAR_1 3, 0, 0} a\n",
+        "atteint la taille record de {STRVAR_1 52, 2, 0},{STRVAR_1 50, 3, 0} cm!\r",
+        "Lola: Il ne tiendra jamais au creux de\n",
+        "ma main.\r",
+        "Serge: Tout à fait, Lola!\r",
+        "{STRVAR_1 3, 0, 0} a établi un super record!\n",
+        "A très bientôt, les amis!"
       ]
     },
     {
@@ -121,6 +177,28 @@
         "contrary!\r",
         "It’s about achievements, not looks!\n",
         "See you again, folks!"
+      ],
+      "fr_FR": [
+        "Serge: Bonjour! C’est l’heure \n",
+        "d’A nous les Records!\r",
+        "Aujourd’hui, nous nous intéressons au\n",
+        "record établi par un maître des Rubans!\r",
+        "Lola: Des Rubans? Vous auriez dû me le\n",
+        "dire! Je me serais coiffée autrement!\r",
+        "Serge: Non, non, Lola! Oubliez la\n",
+        "coiffure, nous parlons bien sûr de\f",
+        "Rubans Pokémon!\r",
+        "Oui, {STRVAR_1 3, 0, 0} et son {STRVAR_1 0, 1, 0}\n",
+        "ont remporté le {STRVAR_1 39, 2, 0}.\r",
+        "Je parie que notre {STRVAR_1 0, 1, 0}\n",
+        "gagnera plein d’autres Rubans!\r",
+        "Lola: Attention, porter trop de rubans\n",
+        "est une faute de goût impardonnable!\r",
+        "Serge: Allons, Lola, ne soyez pas si\n",
+        "négative!\r",
+        "Ce qui compte, c’est la performance,\n",
+        "pas l’apparence!\r",
+        "A très bientôt, les amis!"
       ]
     },
     {
@@ -156,6 +234,32 @@
         "something like that...?\r",
         "Tanya: Everyone! Let’s do away with\n",
         "Traps! Let’s go underground!"
+      ],
+      "fr_FR": [
+        "Serge: Bonjour! C’est l’heure \n",
+        "d’A nous les Records!\r",
+        "Aujourd’hui, nous nous intéressons au\n",
+        "record établi par un maître des Pièges!\r",
+        "Lola: Ooh! Un maître des Pièges?\n",
+        "Dites-m’en plus!\r",
+        "Serge: Tiens, cette histoire a l’air\n",
+        "de vous intéresser...\r",
+        "Bref... {STRVAR_1 3, 0, 0} a établi un\n",
+        "record de désamorçage\f",
+        "de Pièges mémorable.\r",
+        "Lola: Encore! Des détails!\n",
+        "Dites-m’en plus!\r",
+        "Serge: {STRVAR_1 3, 0, 0} a désarmé\n",
+        "{STRVAR_1 52, 2, 0} Pièges, y compris le\f",
+        "{STRVAR_1 25, 1, 0}!\r",
+        "Lola: Je veux en savoir plus!\r",
+        "Serge: Plus? Mais que...\r",
+        "Lola: Que pensait {STRVAR_1 3, 0, 0}\n",
+        "en désamorçant les Pièges?\r",
+        "Serge: Comment pourrais-je \n",
+        "savoir une chose pareille...?\r",
+        "Lola: Ecoutez tous! Désamorçons des\n",
+        "Pièges! Allons dans le Souterrain!"
       ]
     },
     {
@@ -176,6 +280,25 @@
         "That’s the way that game’s played!\r",
         "It was a grand undertaking!\n",
         "See you again, folks!"
+      ],
+      "fr_FR": [
+        "Serge: Bonjour! C’est l’heure \n",
+        "d’A nous les Records!\r",
+        "Aujourd’hui, nous nous intéressons au\n",
+        "record établi par un maître de la\f",
+        "capture de Drapeaux!\r",
+        "Lola: Capture de Drapeaux?\r",
+        "Serge: Tout à fait, Lola!\n",
+        "Il s’agit d’obtenir les Drapeaux des\f",
+        "Bases Secrètes du Souterrain!\r",
+        "En une fois, {STRVAR_1 3, 0, 0} a capturé\n",
+        "{STRVAR_1 52, 1, 0} Drapeaux!\r",
+        "Lola: Tout ça? Sans en donner un seul \n",
+        "à personne? N’est-ce pas mesquin?\r",
+        "Serge: Non, ce n’est pas du tout ça!\n",
+        "C’est comme ça que l’on joue!\r",
+        "C’est une sacrée récolte!\n",
+        "A très bientôt, les amis!"
       ]
     },
     {
@@ -196,6 +319,25 @@
         "It’s harder to earn BP than money!\r",
         "It’s worth more than money!\n",
         "See you again, folks!"
+      ],
+      "fr_FR": [
+        "Serge: Bonjour! C’est l’heure \n",
+        "d’A nous les Records!\r",
+        "Aujourd’hui, nous nous intéressons au\n",
+        "record établi par un maître des\f",
+        "Points de Combat!\r",
+        "Lola: Des Points de Combat?\r",
+        "Serge: Tout à fait, Lola! Les fameux\n",
+        "Points de Combat de la Zone de Combat.\r",
+        "{STRVAR_1 3, 0, 0} a réussi à gagner\n",
+        "{STRVAR_1 53, 1, 0} PCo en une seule journée!\r",
+        "Lola: Pensez-vous que ce Dresseur\n",
+        "fasse cela pour l’argent?\r",
+        "Serge: Non, ce n’est pas du tout ça!\n",
+        "Gagner des PCo demande autant\f",
+        "d’efforts que de gagner de l’argent!\r",
+        "C’est sa performance qui est admirable!\n",
+        "A très bientôt, les amis!"
       ]
     },
     {
@@ -217,6 +359,24 @@
         "That’s not how to look at it.\r",
         "This is something special!\n",
         "See you again, folks!"
+      ],
+      "fr_FR": [
+        "Serge: Bonjour! C’est l’heure \n",
+        "d’A nous les Records!\r",
+        "Aujourd’hui, nous nous intéressons au\n",
+        "record établi par un maître GTS!\r",
+        "Lola: GTS? GROLEM Totalement Sauvage?\r",
+        "Serge: Non, non, non, Lola! Il ne s’agit\n",
+        "pas d’un Pokémon incontrôlable!\r",
+        "{STRVAR_1 3, 0, 0} a réussi à échanger\n",
+        "{STRVAR_1 53, 1, 0} Pokémon via la GTS\f",
+        "en une seule journée!\r",
+        "Lola: Ce Dresseur n’a donc aucune\n",
+        "confiance dans ses propres Pokémon?\r",
+        "Serge: Allons Lola, ne jugez pas! Vous\n",
+        "ne devez pas voir ça comme un abandon.\r",
+        "Au contraire, c’est un beau geste!\n",
+        "A très bientôt, les amis!"
       ]
     }
   ]

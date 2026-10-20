@@ -6,6 +6,10 @@
       "en_US": [
         "The room closest to the stairs is the\n",
         "Group Ranking Room.\r"
+      ],
+      "fr_FR": [
+        "La Salle Classement Groupe est la plus\n",
+        "proche des escaliers.\r"
       ]
     },
     {
@@ -13,6 +17,10 @@
       "en_US": [
         "The room on the opposite side\n",
         "is the Global Ranking Room."
+      ],
+      "fr_FR": [
+        "De l’autre côté, on trouve la \n",
+        "Salle Classement Mondial."
       ]
     },
     {
@@ -24,6 +32,16 @@
         "odds of winning the Pokémon Lottery!\r",
         "Why? Because the ID No. of a Pokémon\n",
         "is different from Trainer to Trainer!"
+      ],
+      "fr_FR": [
+        "Je viens de comprendre quelque chose\n",
+        "de génial! Je devrais échanger plus de\f",
+        "Pokémon!\r",
+        "Plus je fais d’échanges, plus j’ai de\n",
+        "chances de gagner à la loterie!\r",
+        "Pourquoi? Parce que le numéro ID d’un\n",
+        "Pokémon est différent d’un Dresseur\f",
+        "à l’autre!"
       ]
     },
     {
@@ -33,6 +51,12 @@
         "They tell you the history of stuff.\r",
         "You can really sense the dramatic\n",
         "stories behind all those numbers!"
+      ],
+      "fr_FR": [
+        "Les records, c’est cool.\n",
+        "Ça sent le vécu, tu vois.\r",
+        "Derrière tous ces chiffres, on perçoit\n",
+        "des épopées fantastiques!"
       ]
     },
     {
@@ -44,6 +68,14 @@
         "Are you watching TV?\r",
         "So, let me ask you.\n",
         "Will you tell me your opinion on TV?"
+      ],
+      "fr_FR": [
+        "Salut, toi!\n",
+        "Comment ça va?\r",
+        "Je suis producteur télé.\n",
+        "Tu regardes la télé, non?\r",
+        "Alors, laisse-moi te poser une question.\n",
+        "Peux-tu me donner ton avis sur la télé?"
       ]
     },
     {
@@ -53,6 +85,12 @@
         "That’s interesting.\r",
         "Moving right along, what feedback\n",
         "can you give me about TV?\r"
+      ],
+      "fr_FR": [
+        "Ah, ouais?\n",
+        "Intéressant.\r",
+        "Mais... est-ce que tu pourrais\n",
+        "préciser un peu ta pensée?\r"
       ]
     },
     {
@@ -64,6 +102,13 @@
         "I’ll file it away for reference.\r",
         "Keep your channel tuned to\n",
         "Jubilife TV!"
+      ],
+      "fr_FR": [
+        "Ah, ouais?\n",
+        "C’est intéressant.\r",
+        "Merci d’avoir répondu à mes questions.\n",
+        "Je vais les enregistrer.\r",
+        "Reste sur la chaîne de Féli-Télé!"
       ]
     },
     {
@@ -75,6 +120,14 @@
         "It’d be cool if you could answer my\n",
         "questions when you’ve got time.\r",
         "See you again!"
+      ],
+      "fr_FR": [
+        "Oh, très bien.\r",
+        "Je comprends que tu n’aies pas le temps\n",
+        "pour ça.\r",
+        "Ça serait génial si tu pouvais répondre\n",
+        "à mes questions plus tard.\r",
+        "A bientôt!"
       ]
     },
     {
@@ -89,6 +142,16 @@
         "a new wallpaper for your PC Boxes.\r",
         "Make sure you keep your channel\n",
         "tuned to Jubilife TV."
+      ],
+      "fr_FR": [
+        "... Oh?\r",
+        "Le fait que tu connaisses cette phrase\n",
+        "me dit que tu vas devenir quelqu’un.\r",
+        "Tu es un Dresseur, pas vrai?\n",
+        "Tu veux profiter d’un coup de piston?\r",
+        "Je pense pouvoir t’obtenir un nouveau\n",
+        "fond pour les Boîtes de ton PC.\r",
+        "Reste sur la chaîne de Féli-Télé."
       ]
     },
     {
@@ -103,6 +166,16 @@
         "can receive a Mystery Gift.\r",
         "Make sure you keep your channel\n",
         "tuned to Jubilife TV."
+      ],
+      "fr_FR": [
+        "... Oh?\r",
+        "Le fait que tu connaisses cette phrase\n",
+        "me dit que tu vas devenir quelqu’un.\r",
+        "Tu es un Dresseur, pas vrai?\n",
+        "Tu veux profiter d’un coup de piston?\r",
+        "Je pense pouvoir t’obtenir un\n",
+        "Cadeau Myst.!\r",
+        "Reste sur la chaîne de Féli-Télé."
       ]
     }
   ]

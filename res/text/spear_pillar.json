@@ -10,6 +10,14 @@
         "Of course you will, won’t you?\r",
         "That’s why the two of us will team up\n",
         "to take you down in an epic duel!\r"
+      ],
+      "fr_FR": [
+        "Le chef s’apprête à faire un truc\n",
+        "extraordinaire!\r",
+        "Mets pas ton nez dans nos affaires!\n",
+        "Tu ne veux pas nous écouter, hein?\r",
+        "Tant pis pour toi, on va pas se gêner\n",
+        "pour te botter les fesses!\r"
       ]
     },
     {
@@ -23,6 +31,16 @@
         "to take you down in an epic duel!\r",
         "What? You only have one Pokémon?\n",
         "Bah, come back when you’re ready!\r"
+      ],
+      "fr_FR": [
+        "Le chef s’apprête à faire un truc\n",
+        "extraordinaire!\r",
+        "Mets pas ton nez dans nos affaires!\n",
+        "Tu ne veux pas nous écouter, hein?\r",
+        "Tant pis pour toi, on va pas se gêner\n",
+        "pour te botter les fesses!\r",
+        "Quoi? Tu n’as qu’un Pokémon? Pff,\n",
+        "reviens quand ton équipe sera prête!\r"
       ]
     },
     {
@@ -31,6 +49,11 @@
         "We are not capable of slowing you.\r",
         "We will let you pass so you can get\n",
         "pulverized by our bosses!"
+      ],
+      "fr_FR": [
+        "Eh ben, tu es trop coriace pour nous...\r",
+        "On va te laisser passer, mais nos chefs\n",
+        "se chargeront de te pulvériser, va!"
       ]
     },
     {
@@ -42,6 +65,14 @@
         "have to go through me first.\r",
         "After all, you’ve made me look bad\n",
         "more times than I care to remember!\r"
+      ],
+      "fr_FR": [
+        "Mars: Tu vas où comme ça? Je ne te\n",
+        "laisserai pas déranger le chef.\r",
+        "Il faudra d’abord me passer sur\n",
+        "le corps.\r",
+        "Après tout, je ne compte même plus les\n",
+        "fois où tu m’as mise dans l’embarras!\r"
       ]
     },
     {
@@ -50,6 +81,11 @@
         "Jupiter: And I’ll be next.\r",
         "You might be tough, but this time,\n",
         "the gloves are coming off!\r"
+      ],
+      "fr_FR": [
+        "Jupiter: A moi, maintenant.\r",
+        "Tu es peut-être coriace, mais cette\n",
+        "fois, je ne prendrai pas de gants!\r"
       ]
     },
     {
@@ -58,6 +94,10 @@
         "{STRVAR_1 3, 0, 0}: Hold on one second!\r",
         "Don’t you start the party without\n",
         "me!\r"
+      ],
+      "fr_FR": [
+        "{STRVAR_1 3, 0, 0}: Hé, une minute!\r",
+        "On ne commence pas la fête sans moi!\r"
       ]
     },
     {
@@ -66,13 +106,18 @@
     },
     {
       "id": "SpearPillar_Text_Huh",
-      "en_US": "Jupiter: Huh?\r"
+      "en_US": "Jupiter: Huh?\r",
+      "fr_FR": "Jupiter: Hein?\r"
     },
     {
       "id": "SpearPillar_Text_ImHereForRevenge",
       "en_US": [
         "{STRVAR_1 3, 0, 0}: Remember me?\n",
         "I’m here to get my revenge!\r"
+      ],
+      "fr_FR": [
+        "{STRVAR_1 3, 0, 0}: Vous vous souvenez de\n",
+        "moi? Je viens prendre ma revanche!\r"
       ]
     },
     {
@@ -83,6 +128,12 @@
         "The little crybaby from Lake Acuity.\r",
         "Did you toughen up a bit?\n",
         "Sure, let’s battle two-on-two!\r"
+      ],
+      "fr_FR": [
+        "Jupiter: Ah!\n",
+        "Mais c’est le moucheron du Lac Savoir.\r",
+        "Tu t’es amélioré depuis le temps? C’est\n",
+        "ce qu’on va voir! En garde!\r"
       ]
     },
     {
@@ -94,6 +145,15 @@
         "...But, you know, that’s it for us.\n",
         "We’ve hit the wall...\r",
         "{STRVAR_1 3, 1, 0}, I’ll help you with this!\r"
+      ],
+      "fr_FR": [
+        "{STRVAR_1 3, 0, 0}: Hé... Ce sont des durs,\n",
+        "mes Pokémon, pas vrai?\f",
+        "Et ils peuvent encore progresser!\r",
+        "Mais je crois qu’on est K.O...\n",
+        "on a atteint notre limite...\r",
+        "{STRVAR_1 3, 1, 0}, je vais te donner\n",
+        "un coup de main!\r"
       ]
     },
     {
@@ -101,6 +161,10 @@
       "en_US": [
         "{STRVAR_1 3, 0, 0} fully healed\n",
         "{STRVAR_1 3, 1, 0}’s Pokémon!\r"
+      ],
+      "fr_FR": [
+        "{STRVAR_1 3, 0, 0} a totalement soigné les\n",
+        "Pokémon appartenant à {STRVAR_1 3, 1, 0}!\r"
       ]
     },
     {
@@ -108,6 +172,10 @@
       "en_US": [
         "{STRVAR_1 3, 0, 0}: Hey, {STRVAR_1 3, 1, 0}!\n",
         "This is it! It’s your show now!\r"
+      ],
+      "fr_FR": [
+        "{STRVAR_1 3, 0, 0}: Hé, {STRVAR_1 3, 1, 0}!\n",
+        "C’est le moment! A toi de jouer!\r"
       ]
     },
     {
@@ -127,6 +195,22 @@
         "the portal to another dimension.\r",
         "I command that you unleash your power\n",
         "for me...\r"
+      ],
+      "fr_FR": [
+        "Hélio: ...\n",
+        "...\r",
+        "Tout est enfin prêt pour la création\n",
+        "d’un monde nouveau.\r",
+        "C’est ici que tout se termine.\n",
+        "Et que tout recommence.\r",
+        "Avec cette Chaîne Rouge, fabriquée à\n",
+        "partir des cristaux des trois Pokémon\f",
+        "lacustres...\r",
+        "Et avec sa réplique, fruit de la\n",
+        "technologie, je vais ouvrir un\f",
+        "portail vers une autre dimension...\r",
+        "Je vous ordonne de déchaîner votre\n",
+        "puissance...\r"
       ]
     },
     {
@@ -134,6 +218,10 @@
       "en_US": [
         "DIALGA, the mythical Pokémon, and\n",
         "the master of time!\r"
+      ],
+      "fr_FR": [
+        "DIALGA, Pokémon mythique, maître\n",
+        "du temps!\r"
       ]
     },
     {
@@ -146,6 +234,11 @@
         "...And the other.\r",
         "PALKIA, the mythical Pokémon, and\n",
         "the master of space and dimensions!\r"
+      ],
+      "fr_FR": [
+        "Et toi aussi...\r",
+        "PALKIA, Pokémon mythique, maître de\n",
+        "l’espace et des dimensions!\r"
       ]
     },
     {
@@ -165,6 +258,18 @@
         "I will have your abilities as mine!\r",
         "With the power I wield, I will create\n",
         "an entirely new world!\r"
+      ],
+      "fr_FR": [
+        "Hélio: J’attends ce moment depuis si\n",
+        "longtemps, DIALGA et PALKIA.\r",
+        "La double spirale du temps et de\n",
+        "l’espace façonne ce monde.\r",
+        "Or, vous avez le pouvoir de contrôler\n",
+        "ces deux choses!\r",
+        "Je vous ordonne de m’obéir!\n",
+        "Votre pouvoir sera mien!\r",
+        "Et avec ce pouvoir, je créerai\n",
+        "un monde entièrement nouveau!\r"
       ]
     },
     {
@@ -178,6 +283,16 @@
         "A world of complete perfection.\r",
         "Nothing so vague and incomplete as\n",
         "spirit can remain.\r"
+      ],
+      "fr_FR": [
+        "Ce monde incomplet et imparfait peut\n",
+        "désormais disparaître.\r",
+        "Grâce à moi, tout repart de zéro.\n",
+        "Il ne restera rien.\r",
+        "Place au monde idéal, celui de la\n",
+        "perfection ultime.\r",
+        "Un monde dans lequel l’esprit, inachevé\n",
+        "et lacunaire, n’a pas sa place.\r"
       ]
     },
     {
@@ -188,6 +303,12 @@
         "UXIE, “The Being of Knowledge.”\r",
         "AZELF, “The Being of Willpower.”\r",
         "And MESPRIT, “The Being of Emotion”...\r"
+      ],
+      "fr_FR": [
+        "Hélio: J’aurais dû m’y attendre...\r",
+        "CREHELF, “être du savoir”.\r",
+        "CREFADET, “être de la volonté”.\r",
+        "Et CREFOLLET, “être de l’émotion”...\r"
       ]
     },
     {
@@ -205,6 +326,19 @@
         "here.\r",
         "Their coming here is in vain.\n",
         "So much meaningless drama.\r"
+      ],
+      "fr_FR": [
+        "Ces Pokémon sont venus protéger\n",
+        "Sinnoh? Pathétique et inutile.\r",
+        "Ils doivent s’y mettre à trois pour\n",
+        "faire front face au Pokémon du temps\f",
+        "ou de l’espace.\r",
+        "Mais ils ne peuvent maintenir l’équilibre\n",
+        "face aux deux à la fois.\r",
+        "Pas en présence de DIALGA et PALKIA\n",
+        "en même temps.\r",
+        "Ils sont venus pour rien. Toutes ces\n",
+        "histoires en vain.\r"
       ]
     },
     {
@@ -222,6 +356,19 @@
         "From those precious to you...!\r",
         "It is time!\n",
         "My dream will be my reality!\r"
+      ],
+      "fr_FR": [
+        "Bien, {STRVAR_1 3, 0, 0}.\r",
+        "Tu n’as eu de cesse de contrarier mes \n",
+        "plans, mais je te pardonne.\r",
+        "Après tout, quand j’aurai terminé,\n",
+        "c’en sera fini de l’esprit à tout jamais.\r",
+        "Toute forme d’esprit disparaîtra...\r",
+        "Y compris le tien, ceux de tes\n",
+        "Pokémon et de tous les gens qui te\f",
+        "sont chers...!\r",
+        "Il est temps!\n",
+        "Mon rêve va devenir réalité!\r"
       ]
     },
     {
@@ -229,6 +376,10 @@
       "en_US": [
         "What is this pressure I feel...?\n",
         "Something...is enraged?\r"
+      ],
+      "fr_FR": [
+        "Quelle est cette pression...?\n",
+        "Quelque chose... dégage une telle rage!\r"
       ]
     },
     {
@@ -237,6 +388,12 @@
         "Cyrus: Interesting.\r",
         "So, there is a Pokémon that can only\n",
         "appear as a shadow.\r"
+      ],
+      "fr_FR": [
+        "Hélio: Intéressant.\r",
+        "Ainsi donc, il existe un Pokémon qui ne\n",
+        "peut apparaître que sous la forme\f",
+        "d’une ombre.\r"
       ]
     },
     {
@@ -246,6 +403,12 @@
         "foolish.\r",
         "I have harnessed the powers of DIALGA\n",
         "and PALKIA...\r"
+      ],
+      "fr_FR": [
+        "Qu’importe, la manœuvre est vouée\n",
+        "à l’échec.\r",
+        "J’ai fait miens les pouvoirs de\n",
+        "DIALGA et PALKIA...\r"
       ]
     },
     {
@@ -253,6 +416,10 @@
       "en_US": [
         "I, Cyrus, won’t have any more\n",
         "interferererererere...!"
+      ],
+      "fr_FR": [
+        "Moi, Hélio, je refuse toute nouvelle\n",
+        "interrupruprup...!"
       ]
     },
     {
@@ -324,6 +491,11 @@
       "en_US": [
         "Mars: I’m surprised you made it here.\n",
         "You can stay if you won’t meddle."
+      ],
+      "fr_FR": [
+        "Mars: Je suis surprise que tu aies\n",
+        "réussi à arriver jusque-là. Tu peux\f",
+        "rester à condition de ne pas t’en mêler."
       ]
     },
     {
@@ -331,6 +503,10 @@
       "en_US": [
         "Jupiter: Be quiet and watch what our\n",
         "boss is about to do."
+      ],
+      "fr_FR": [
+        "Jupiter: Tais-toi et admire notre\n",
+        "chef à l’œuvre."
       ]
     },
     {

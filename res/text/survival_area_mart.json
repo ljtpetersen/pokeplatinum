@@ -12,6 +12,16 @@
         "take the edge off.\r",
         "That’s my advice.\n",
         "You’d best heed it, no joke!"
+      ],
+      "fr_FR": [
+        "Laisse-moi te donner un conseil de vieux\n",
+        "Montagnard aguerri!\r",
+        "Le Mont Abrupt est un endroit hostile\n",
+        "bourré de Pokémon de type Feu.\r",
+        "Les Pokémon et les capacités de type\n",
+        "Eau sont certains d’avoir le dessus.\r",
+        "C’était mon conseil. Sans blague,\n",
+        "tu ferais mieux de le suivre!"
       ]
     },
     {
@@ -19,6 +29,10 @@
       "en_US": [
         "I was on a 54-win streak...\n",
         "If only I used that move when..."
+      ],
+      "fr_FR": [
+        "J’en étais à 54 victoires d’affilée... Je\n",
+        "n’aurais pas dû utiliser cette capacité."
       ]
     }
   ]

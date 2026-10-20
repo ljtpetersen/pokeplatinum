@@ -3,103 +3,128 @@
   "messages": [
     {
       "id": "pl_msg_00000202_00000",
-      "en_US": "Hardy"
+      "en_US": "Hardy",
+      "fr_FR": "Hardi"
     },
     {
       "id": "pl_msg_00000202_00001",
-      "en_US": "Lonely"
+      "en_US": "Lonely",
+      "fr_FR": "Solo"
     },
     {
       "id": "pl_msg_00000202_00002",
-      "en_US": "Brave"
+      "en_US": "Brave",
+      "fr_FR": "Brave"
     },
     {
       "id": "pl_msg_00000202_00003",
-      "en_US": "Adamant"
+      "en_US": "Adamant",
+      "fr_FR": "Rigide"
     },
     {
       "id": "pl_msg_00000202_00004",
-      "en_US": "Naughty"
+      "en_US": "Naughty",
+      "fr_FR": "Mauvais"
     },
     {
       "id": "pl_msg_00000202_00005",
-      "en_US": "Bold"
+      "en_US": "Bold",
+      "fr_FR": "Assuré"
     },
     {
       "id": "pl_msg_00000202_00006",
-      "en_US": "Docile"
+      "en_US": "Docile",
+      "fr_FR": "Docile"
     },
     {
       "id": "pl_msg_00000202_00007",
-      "en_US": "Relaxed"
+      "en_US": "Relaxed",
+      "fr_FR": "Relax"
     },
     {
       "id": "pl_msg_00000202_00008",
-      "en_US": "Impish"
+      "en_US": "Impish",
+      "fr_FR": "Malin"
     },
     {
       "id": "pl_msg_00000202_00009",
-      "en_US": "Lax"
+      "en_US": "Lax",
+      "fr_FR": "Lâche"
     },
     {
       "id": "pl_msg_00000202_00010",
-      "en_US": "Timid"
+      "en_US": "Timid",
+      "fr_FR": "Timide"
     },
     {
       "id": "pl_msg_00000202_00011",
-      "en_US": "Hasty"
+      "en_US": "Hasty",
+      "fr_FR": "Pressé"
     },
     {
       "id": "pl_msg_00000202_00012",
-      "en_US": "Serious"
+      "en_US": "Serious",
+      "fr_FR": "Sérieux"
     },
     {
       "id": "pl_msg_00000202_00013",
-      "en_US": "Jolly"
+      "en_US": "Jolly",
+      "fr_FR": "Jovial"
     },
     {
       "id": "pl_msg_00000202_00014",
-      "en_US": "Naive"
+      "en_US": "Naive",
+      "fr_FR": "Naïf"
     },
     {
       "id": "pl_msg_00000202_00015",
-      "en_US": "Modest"
+      "en_US": "Modest",
+      "fr_FR": "Modeste"
     },
     {
       "id": "pl_msg_00000202_00016",
-      "en_US": "Mild"
+      "en_US": "Mild",
+      "fr_FR": "Doux"
     },
     {
       "id": "pl_msg_00000202_00017",
-      "en_US": "Quiet"
+      "en_US": "Quiet",
+      "fr_FR": "Discret"
     },
     {
       "id": "pl_msg_00000202_00018",
-      "en_US": "Bashful"
+      "en_US": "Bashful",
+      "fr_FR": "Pudique"
     },
     {
       "id": "pl_msg_00000202_00019",
-      "en_US": "Rash"
+      "en_US": "Rash",
+      "fr_FR": "Foufou"
     },
     {
       "id": "pl_msg_00000202_00020",
-      "en_US": "Calm"
+      "en_US": "Calm",
+      "fr_FR": "Calme"
     },
     {
       "id": "pl_msg_00000202_00021",
-      "en_US": "Gentle"
+      "en_US": "Gentle",
+      "fr_FR": "Gentil"
     },
     {
       "id": "pl_msg_00000202_00022",
-      "en_US": "Sassy"
+      "en_US": "Sassy",
+      "fr_FR": "Malpoli"
     },
     {
       "id": "pl_msg_00000202_00023",
-      "en_US": "Careful"
+      "en_US": "Careful",
+      "fr_FR": "Prudent"
     },
     {
       "id": "pl_msg_00000202_00024",
-      "en_US": "Quirky"
+      "en_US": "Quirky",
+      "fr_FR": "Bizarre"
     }
   ]
 }

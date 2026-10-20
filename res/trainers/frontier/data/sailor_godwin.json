@@ -51,6 +51,10 @@
             "en_US": [
                 "Youths of today aim for the world!\n",
                 "How’s that for deep!"
+            ],
+            "fr_FR": [
+                "Les jeunes d’aujourd’hui veulent\n",
+                "tous conquérir le monde..."
             ]
         },
         {
@@ -58,6 +62,10 @@
             "en_US": [
                 "There’d be some mighty cool Trainers\n",
                 "around the world. I’m sure of that.\r"
+            ],
+            "fr_FR": [
+                "Je suis sûr qu’il y a de très bons\n",
+                "Dresseurs partout dans le monde.\r"
             ]
         },
         {
@@ -65,7 +73,12 @@
             "en_US": [
                 "Go on, kid! Take on the world!\n",
                 "I’ll look forward to your return!\r"
+            ],
+            "fr_FR": [
+                "Poursuis ta route, jeune pirate! Le\n",
+                "monde est à ta portée! On se reverra!\r"
             ]
         }
-    ]
+    ],
+    "name_fr": "Kim"
 }

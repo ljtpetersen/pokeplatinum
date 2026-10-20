@@ -3,17 +3,23 @@
   "messages": [
     {
       "id": "BattlePark_Text_BigThudPalmer",
-      "en_US": "{SIZE 200}Thud!!{SIZE 100}\r"
+      "en_US": "{SIZE 200}Thud!!{SIZE 100}\r",
+      "fr_FR": "{SIZE 200}Boum!!!{SIZE 100}\r"
     },
     {
       "id": "BattlePark_Text_WhatThe",
-      "en_US": "What the...\r"
+      "en_US": "What the...\r",
+      "fr_FR": "Mais que...\r"
     },
     {
       "id": "BattlePark_Text_SorryAboutThat",
       "en_US": [
         "Whoops, sorry about that!\n",
         "I was in a rush.\r"
+      ],
+      "fr_FR": [
+        "Oups, désolé!\n",
+        "Je suis un peu pressé.\r"
       ]
     },
     {
@@ -27,11 +33,22 @@
         "behind...\r",
         "This should be fun.\n",
         "See you!\r"
+      ],
+      "fr_FR": [
+        "Eh, attends une minute...\n",
+        "Tu ne serais pas...\r",
+        "Tu es {STRVAR_1 3, 1, 0} de Bonaugure!\n",
+        "Waouh, ça fait un bail!\r",
+        "Bon, si tu es là, il ne doit \n",
+        "pas être bien loin...\r",
+        "Je crois qu’on ne va pas s’ennuyer.\n",
+        "A plus tard!\r"
       ]
     },
     {
       "id": "BattlePark_Text_BigThudRival",
-      "en_US": "{SIZE 200}Thud!!{SIZE 100}\r"
+      "en_US": "{SIZE 200}Thud!!{SIZE 100}\r",
+      "fr_FR": "{SIZE 200}Boum!!!{SIZE 100}\r"
     },
     {
       "id": "BattlePark_Text_MeasureUpBeforeStarkMountain",
@@ -49,6 +66,20 @@
         "It won’t take long before I see him.\r",
         "See ya, {STRVAR_1 3, 1, 0}!\n",
         "I’m going to toughen up here!\r"
+      ],
+      "fr_FR": [
+        "{STRVAR_1 3, 0, 0}: Mais que...\r",
+        "Oh, salut, {STRVAR_1 3, 1, 0}!\r",
+        "Alors te voilà aussi à la \n",
+        "Tour de Combat, hein?\r",
+        "Je voulais voir un peu ce que je vaux\n",
+        "avant d’attaquer le Mont Abrupt.\r",
+        "Mais ce gars à qui tu parlais à \n",
+        "l’instant... Bah, laisse tomber!\r",
+        "Je suis venu ici tout seul, sans l’aide \n",
+        "de personne. Je le verrai bientôt.\r",
+        "Je vais m’entraîner un peu dans le coin.\n",
+        "A plus, {STRVAR_1 3, 1, 0}!\r"
       ]
     },
     {
@@ -67,6 +98,20 @@
         "It won’t take long before I see him.\r",
         "See ya, {STRVAR_1 3, 1, 0}!\n",
         "I’m going to toughen up here!\r"
+      ],
+      "fr_FR": [
+        "{STRVAR_1 3, 0, 0}: Mais que...\r",
+        "Oh, salut, {STRVAR_1 3, 1, 0}!\r",
+        "Alors te voilà aussi à la \n",
+        "Tour de Combat, hein?\r",
+        "Je voulais voir un peu où j’en étais \n",
+        "dans ma quête pour être le plus grand.\r",
+        "Mais ce gars à qui tu parlais à \n",
+        "l’instant... Bah, laisse tomber!\r",
+        "Je suis venu ici tout seul, sans l’aide \n",
+        "de personne. Je le verrai bientôt.\r",
+        "Je vais m’entraîner un peu dans le coin.\n",
+        "A plus, {STRVAR_1 3, 1, 0}!\r"
       ]
     },
     {
@@ -74,6 +119,10 @@
       "en_US": [
         "Exchange Service Corner\n",
         "A Cornucopia of Fabulous Prizes!"
+      ],
+      "fr_FR": [
+        "Service d’Echange\n",
+        "Des prix fabuleux en abondance!"
       ]
     },
     {
@@ -81,6 +130,10 @@
       "en_US": [
         "Battle Tower\n",
         "Gather, All Ye Greatest!"
+      ],
+      "fr_FR": [
+        "Tour de Combat\n",
+        "Pour la gloire!"
       ]
     },
     {
@@ -90,6 +143,12 @@
         "Trainer you face is the room’s boss.\r",
         "You’ll need to stay focused if you\n",
         "want to win!"
+      ],
+      "fr_FR": [
+        "Dans les Salles de Combat, le septième \n",
+        "adversaire est le chef de la salle.\r",
+        "Tu devras être au top si \n",
+        "tu veux gagner!"
       ]
     },
     {
@@ -98,6 +157,11 @@
         "If you get a big win streak at the\n",
         "Battle Tower, you get to battle\f",
         "some real superstars."
+      ],
+      "fr_FR": [
+        "Si tu arrives à enchaîner un grand \n",
+        "nombre de victoires à la suite, tu\f",
+        "pourras affronter de vrais caïds."
       ]
     },
     {
@@ -107,11 +171,18 @@
         "at the Battle Tower.\r",
         "Now I can exchange them for\n",
         "loads of prizes!"
+      ],
+      "fr_FR": [
+        "Mwahaha! J’ai gagné plein de PCo \n",
+        "à la Tour de Combat.\r",
+        "Je vais pouvoir les échanger \n",
+        "contre des tonnes de trucs."
       ]
     },
     {
       "id": "BattlePark_Text_Aah",
-      "en_US": "Aah."
+      "en_US": "Aah.",
+      "fr_FR": "Hagah!"
     },
     {
       "id": "BattlePark_Text_ImABabysittingTrainer",
@@ -119,6 +190,11 @@
         "I’m a babysitting Trainer!\r",
         "I’m off to the Multi Battle Rooms\n",
         "with my beloved son!"
+      ],
+      "fr_FR": [
+        "Je suis un Dresseur père de famille!\r",
+        "Je vais affronter les Salles de \n",
+        "Combat Multi avec mon fiston!"
       ]
     },
     {
@@ -128,6 +204,12 @@
         "gather here for battles.\r",
         "This is my chance to get global\n",
         "fame and recognition!"
+      ],
+      "fr_FR": [
+        "J’ai entendu dire que les meilleurs \n",
+        "Dresseurs du monde se retrouvaient ici.\r",
+        "C’est ma chance, je vais \n",
+        "devenir célèbre!"
       ]
     },
     {
@@ -138,6 +220,14 @@
         "The items to be held!\r",
         "To become number one here, there is \n",
         "no detail that can be overlooked!"
+      ],
+      "fr_FR": [
+        "Le type des Pokémon!\r",
+        "Les capacités à enseigner et à utiliser!\r",
+        "Les objets que les Pokémon doivent\n",
+        "tenir!\r",
+        "Pour devenir le numéro 1, il faut\n",
+        "penser à tous les détails!"
       ]
     },
     {
@@ -145,6 +235,10 @@
       "en_US": [
         "I’d love to hook up with a Beauty\n",
         "for the Multi Battle Rooms."
+      ],
+      "fr_FR": [
+        "J’aimerais bien faire équipe avec un \n",
+        "Canon dans les Salles de Combat Multi."
       ]
     }
   ]

@@ -25,6 +25,10 @@
             "en_US": [
                 "What in the...?!\n",
                 "That one hurt, you!\n"
+            ],
+            "fr_FR": [
+                "Mais... mais non!\n",
+                "Hé, arrête tout de suite!\n"
             ]
         },
         {
@@ -32,6 +36,10 @@
             "en_US": [
                 "No way! We can keep going!\n",
                 "This is where we hit our stride!\n"
+            ],
+            "fr_FR": [
+                "Je n’abandonnerai pas! On a encore\n",
+                "des ressources! Regarde!"
             ]
         },
         {
@@ -39,7 +47,12 @@
             "en_US": [
                 "What are you saying?!\n",
                 "We ended up losing?!\n"
+            ],
+            "fr_FR": [
+                "Qu’est-ce que ça veut dire?\n",
+                "On a vraiment perdu?"
             ]
         }
-    ]
+    ],
+    "name_fr": "Eddy"
 }

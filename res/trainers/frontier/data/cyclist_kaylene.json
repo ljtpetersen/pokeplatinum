@@ -59,6 +59,10 @@
             "en_US": [
                 "When I was little, I hated cycling.\n",
                 "I couldn’t get the hang of it."
+            ],
+            "fr_FR": [
+                "Quand j’étais petite, je détestais faire\n",
+                "du vélo. Je tombais tout le temps."
             ]
         },
         {
@@ -66,6 +70,10 @@
             "en_US": [
                 "I love cycling now.\n",
                 "I’ve made many friends riding.\r"
+            ],
+            "fr_FR": [
+                "Aujourd’hui, j’adore faire du vélo,\n",
+                "surtout avec mes amis.\r"
             ]
         },
         {
@@ -73,7 +81,12 @@
             "en_US": [
                 "Can you ride a bike?\n",
                 "It’s healthy and a lot of fun.\r"
+            ],
+            "fr_FR": [
+                "Et toi, tu fais du vélo? C’est bon\n",
+                "pour la santé, tu sais.\r"
             ]
         }
-    ]
+    ],
+    "name_fr": "Karine"
 }

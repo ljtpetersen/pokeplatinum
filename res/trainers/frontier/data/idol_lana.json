@@ -45,18 +45,31 @@
             "en_US": [
                 "Do the monster Meteor Mash!\n",
                 "It’s my catchphrase!"
+            ],
+            "fr_FR": [
+                "Poing Météor, tout le monde dehors!\n",
+                "Qu’est-ce que tu penses de mon entrée?"
             ]
         },
         {
             "type": "TRMSG_WIN",
-            "en_US": "My Meteor Mash goes to your heart!\r"
+            "en_US": "My Meteor Mash goes to your heart!\r",
+            "fr_FR": [
+                "Je suis la Star du Poing Météor!\n",
+                "Personne ne peut me vaincre!\r"
+            ]
         },
         {
             "type": "TRMSG_DEFEAT",
             "en_US": [
                 "All Idols need a catchphrase,\n",
                 "especially right after their debut.\r"
+            ],
+            "fr_FR": [
+                "Les Stars doivent toujours soigner\n",
+                "leur entrée, c’est impératif.\r"
             ]
         }
-    ]
+    ],
+    "name_fr": "Lana"
 }

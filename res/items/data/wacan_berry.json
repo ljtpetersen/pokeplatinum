@@ -39,5 +39,13 @@
     "bitterness": 0,
     "sourness": 10,
     "smoothness": 30
-  }
+  },
+  "name_fr": "Baie Parma",
+  "description_fr": [
+    "Ingrédient pour Poffin. Tenue, cette\n",
+    "Baie affaiblit une attaque ennemie super\n",
+    "efficace de type Electrik."
+  ],
+  "plural_fr": "Baie Parma",
+  "article_fr": null
 }

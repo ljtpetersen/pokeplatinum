@@ -3,53 +3,68 @@
   "messages": [
     {
       "id": "EasyChat_Text_ChooseWordOrPhrase",
-      "en_US": "Choose a word or phrase."
+      "en_US": "Choose a word or phrase.",
+      "fr_FR": "Choisissez un mot ou une expression."
     },
     {
       "id": "pl_msg_00000437_00001",
-      "en_US": "Your feeling at the battle’s start?"
+      "en_US": "Your feeling at the battle’s start?",
+      "fr_FR": "Votre sentiment avant le combat?"
     },
     {
       "id": "pl_msg_00000437_00002",
-      "en_US": "What do you say if you win a battle?"
+      "en_US": "What do you say if you win a battle?",
+      "fr_FR": "Que dites-vous quand vous gagnez?"
     },
     {
       "id": "pl_msg_00000437_00003",
-      "en_US": "What do you say if you lose a battle?"
+      "en_US": "What do you say if you lose a battle?",
+      "fr_FR": "Que dites-vous quand vous perdez?"
     },
     {
       "id": "pl_msg_00000437_00004",
-      "en_US": "What’s popular?"
+      "en_US": "What’s popular?",
+      "fr_FR": "C’est quoi la dernière chose à la mode?"
     },
     {
       "id": "pl_msg_00000437_00005",
-      "en_US": "A greeting for the Union Room?"
+      "en_US": "A greeting for the Union Room?",
+      "fr_FR": "Un petit mot pour la Salle Union?"
     },
     {
       "id": "pl_msg_00000437_00006",
-      "en_US": "Is this your answer?"
+      "en_US": "Is this your answer?",
+      "fr_FR": "C’est correct?"
     },
     {
       "id": "pl_msg_00000437_00007",
-      "en_US": "Please enter a phrase or word."
+      "en_US": "Please enter a phrase or word.",
+      "fr_FR": "Entrez une expression ou un mot!"
     },
     {
       "id": "pl_msg_00000437_00008",
-      "en_US": "Quit without doing anything?"
+      "en_US": "Quit without doing anything?",
+      "fr_FR": "Arrêter en n’ayant rien fait?"
     },
     {
       "id": "pl_msg_00000437_00009",
-      "en_US": "Yes"
+      "en_US": "Yes",
+      "fr_FR": "Oui"
     },
     {
       "id": "pl_msg_00000437_00010",
-      "en_US": "No"
+      "en_US": "No",
+      "fr_FR": "Non"
     },
     {
       "id": "pl_msg_00000437_00011",
       "en_US": [
         "GROUP\n",
         "MODE"
+      ],
+      "fr_FR": [
+        "MODE\n",
+        "GROUPE"
       ]
     },
     {
@@ -57,6 +72,10 @@
       "en_US": [
         "ABC\n",
         "MODE"
+      ],
+      "fr_FR": [
+        "MODE\n",
+        "ABC"
       ]
     }
   ]

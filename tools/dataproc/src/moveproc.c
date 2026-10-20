@@ -162,9 +162,9 @@ static void proc_text(datafile_t *df, size_t i, const char *basename) {
     char buf[BUFSIZE]  = { 0 };
     char buf2[BUFSIZE] = { 0 };
 
-    const char *name        = string(".name");
-    char       *name_upper  = strupper(name);
-    datanode_t  description = dp_get(df, ".description");
+    const char *name        = string(".name" ATTRIBUTE_EXTENSION);
+    char       *name_upper  = strupper_remove_accents(name);
+    datanode_t  description = dp_get(df, ".description" ATTRIBUTE_EXTENSION);
 
     bank_push(T_MOVE_NAMES,           strfmt("MoveNames_Text_%s", basename),          name);
     bank_push(T_MOVE_NAMES_UPPERCASE, strfmt("MoveNamesUppercase_Text_%s", basename), name_upper);
@@ -177,6 +177,7 @@ static void proc_text(datafile_t *df, size_t i, const char *basename) {
     }
     else {
         char *nameline = strfmt2("%s!", name);
+#if POKEPLATINUM_VERSION < 3
         if (i == MOVE_U_TURN) { // MATCH DETAIL: The retail game uses "U-Turn" in battle instead of "U-turn"
             nameline[2] = 'T';
         }
@@ -190,6 +191,30 @@ static void proc_text(datafile_t *df, size_t i, const char *basename) {
         bank_pushm(T_MOVES_USED_IN_BATTLE, strfmt("MovesUsedInBattle_Text_%s_Foe",  basename),
                    "The foe’s {STRVAR_1 1, 0, 0} used\n",
                    nameline);
+#elif POKEPLATINUM_VERSION == 3
+        if (i == MOVE_WISH) {
+            bank_pushm(T_MOVES_USED_IN_BATTLE, strfmt("MovesUsedInBattle_Text_%s_Ally", basename),
+                       "{STRVAR_1 1, 0, 0} fait un ",
+                       nameline);
+            bank_pushm(T_MOVES_USED_IN_BATTLE, strfmt("MovesUsedInBattle_Text_%s_Wild", basename),
+                       "{STRVAR_1 1, 0, 0} sauvage fait un ",
+                       nameline);
+            bank_pushm(T_MOVES_USED_IN_BATTLE, strfmt("MovesUsedInBattle_Text_%s_Foe",  basename),
+                       "{STRVAR_1 1, 0, 0} ennemi fait un ",
+                       nameline);
+        } else {
+            bank_pushm(T_MOVES_USED_IN_BATTLE, strfmt("MovesUsedInBattle_Text_%s_Ally", basename),
+                       "{STRVAR_1 1, 0, 0} utilise\n",
+                       nameline);
+            bank_pushm(T_MOVES_USED_IN_BATTLE, strfmt("MovesUsedInBattle_Text_%s_Wild", basename),
+                       "{STRVAR_1 1, 0, 0} sauvage utilise\n",
+                       nameline);
+            bank_pushm(T_MOVES_USED_IN_BATTLE, strfmt("MovesUsedInBattle_Text_%s_Foe",  basename),
+                       "{STRVAR_1 1, 0, 0} ennemi utilise\n",
+                       nameline);
+        }
+#endif
+
     }
 
     free(name_upper);

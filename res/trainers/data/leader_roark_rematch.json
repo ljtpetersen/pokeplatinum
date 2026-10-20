@@ -89,6 +89,10 @@
             "en_US": [
                 "No way! Not yet!\n",
                 "Not giving up!\n"
+            ],
+            "fr_FR": [
+                "Oh non! Pas si vite!\n",
+                "Je n’abandonnerai jamais!\n"
             ]
         },
         {
@@ -96,7 +100,12 @@
             "en_US": [
                 "W-what? That can’t be!\n",
                 "My buffed-up Pokémon!\n"
+            ],
+            "fr_FR": [
+                "Comment? Impossible!\n",
+                "Mes Pokémon étaient prêts!\n"
             ]
         }
-    ]
+    ],
+    "name_fr": "Pierrick"
 }

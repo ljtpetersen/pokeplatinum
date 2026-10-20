@@ -77,6 +77,10 @@
             "en_US": [
                 "Um... I’m honestly quite tough.\n",
                 "Please keep up."
+            ],
+            "fr_FR": [
+                "Il paraît que je suis très forte.\n",
+                "J’espère que tu seras de taille."
             ]
         },
         {
@@ -84,6 +88,10 @@
             "en_US": [
                 "I’m sorry.\n",
                 "I don’t think you measure up after all.\r"
+            ],
+            "fr_FR": [
+                "Je me doutais bien que j’étais trop\n",
+                "forte pour toi. Désolée.\r"
             ]
         },
         {
@@ -91,7 +99,12 @@
             "en_US": [
                 "I’m amazed.\n",
                 "I didn’t think you’d win...\r"
+            ],
+            "fr_FR": [
+                "Incroyable. Je ne pensais vraiment\n",
+                "pas que tu gagnerais.\r"
             ]
         }
-    ]
+    ],
+    "name_fr": "Magali"
 }

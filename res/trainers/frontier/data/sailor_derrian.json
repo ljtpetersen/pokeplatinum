@@ -61,6 +61,10 @@
             "en_US": [
                 "I’ve got a showdown coming up with a\n",
                 "Hiker. Let me see if I’m ready!"
+            ],
+            "fr_FR": [
+                "Après ce combat, je dois affronter un\n",
+                "Montagnard. Tu seras donc mon apéritif."
             ]
         },
         {
@@ -68,6 +72,10 @@
             "en_US": [
                 "Yep, I’d say my team’s about ready.\n",
                 "That Hiker won’t know what hit him!\r"
+            ],
+            "fr_FR": [
+                "Bien, tu m’as mis en appétit.\n",
+                "Je suis prêt à dévorer ce Montagnard!\r"
             ]
         },
         {
@@ -75,7 +83,12 @@
             "en_US": [
                 "Aww, blast it, no!\n",
                 "I can’t beat that Hiker like this!\r"
+            ],
+            "fr_FR": [
+                "Nom d’un LEVIATOR! Je ne battrai jamais\n",
+                "ce Montagnard si ça continue!\r"
             ]
         }
-    ]
+    ],
+    "name_fr": "Diego"
 }

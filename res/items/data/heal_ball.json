@@ -26,5 +26,13 @@
   "battlePocket": "BATTLE_POCKET_MASK_POKE_BALLS",
   "fieldUseFunc": "ITEM_USE_FUNC_NONE",
   "battleUseCategory": "BATTLE_USE_CATEGORY_POKE_BALL",
-  "itemUseParams": null
+  "itemUseParams": null,
+  "name_fr": "Soin Ball",
+  "description_fr": [
+    "Une Poké Ball de soin qui rend tous les\n",
+    "PV du Pokémon attrapé et qui soigne\n",
+    "tous les changements de statut."
+  ],
+  "plural_fr": "Soin Ball",
+  "article_fr": null
 }

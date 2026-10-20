@@ -3,7 +3,8 @@
   "messages": [
     {
       "id": "SolaceonTown_Text_Yahoo",
-      "en_US": "Yahoo!\r"
+      "en_US": "Yahoo!\r",
+      "fr_FR": "Youhou!\r"
     },
     {
       "id": "SolaceonTown_Text_IGotSomethingCool",
@@ -11,6 +12,11 @@
         "{STRVAR_1 3, 0, 0}: Hey, {STRVAR_1 3, 1, 0}!\r",
         "I got something cool.\n",
         "I’ll show you as a special favor!\r"
+      ],
+      "fr_FR": [
+        "{STRVAR_1 3, 0, 0}: Hé, {STRVAR_1 3, 1, 0}!\r",
+        "J’ai un truc super cool. Je vais te\n",
+        "faire une fleur et te le montrer!\r"
       ]
     },
     {
@@ -29,6 +35,21 @@
         "It was Defog!\r",
         "Anyway, I’ll battle you another time.\n",
         "See ya!\r"
+      ],
+      "fr_FR": [
+        "Hein?\n",
+        "Qu’est-ce que...\r",
+        "Qu’est-ce qui se passe?\r",
+        "J’ai des Sceaux, mais j’ai oublié\n",
+        "de les emporter.\r",
+        "Oh, c’est vrai. C’est parce que\n",
+        "j’étais dans les ruines.\r",
+        "Il faut absolument les visiter!\n",
+        "C’est un endroit super cool.\r",
+        "J’y ai même trouvé une Capsule Secrète\n",
+        "contenant la capacité Anti-Brume!\r",
+        "Bref, on se battra une autre fois.\n",
+        "A plus!\r"
       ]
     },
     {
@@ -36,6 +57,10 @@
       "en_US": [
         "Breathing in this refreshing air...\n",
         "It perks up Pokémon, don’t you think?"
+      ],
+      "fr_FR": [
+        "Aaaah, tu sens ce bon air frais?\n",
+        "Il requinque même les Pokémon!"
       ]
     },
     {
@@ -43,6 +68,10 @@
       "en_US": [
         "Howdy, traveling Trainer.\n",
         "Take it easy, slow, and casual."
+      ],
+      "fr_FR": [
+        "Bien le bonjour, globe-trotter.\n",
+        "Cool, relax, prends ton temps."
       ]
     },
     {
@@ -54,6 +83,14 @@
         "think, anyway.\r",
         "Oh, right. We have the ruins here.\n",
         "Why not take a tour through that?"
+      ],
+      "fr_FR": [
+        "Bien le bonjour, globe-trotter.\n",
+        "Il n’y a rien ici.\r",
+        "Enfin, rien à part plein de temps\n",
+        "pour réfléchir.\r",
+        "Ah, si, il y a quand même les ruines.\n",
+        "Pourquoi tu n’irais pas y faire un tour?"
       ]
     },
     {
@@ -63,6 +100,12 @@
         "how to battle very good.\r",
         "The nice Day-Care Lady is raising\n",
         "my Pokémon for me."
+      ],
+      "fr_FR": [
+        "Je suis encore toute petite, je ne\n",
+        "sais pas vraiment me battre.\r",
+        "La gentille Hôtesse de la Pension\n",
+        "s’occupe de mes Pokémon pour moi."
       ]
     },
     {
@@ -70,6 +113,10 @@
       "en_US": [
         "Every Sunday, I visit the Lost\n",
         "Tower..."
+      ],
+      "fr_FR": [
+        "Chaque dimanche, je me\n",
+        "recueille dans la Tour Perdue..."
       ]
     },
     {
@@ -79,6 +126,12 @@
         "a road that went straight through.\r",
         "Over time, Pokémon and people just\n",
         "gathered, and the town came to be."
+      ],
+      "fr_FR": [
+        "Avant, il n’y avait rien ici, juste\n",
+        "une route qui traversait la plaine.\r",
+        "Les Pokémon et les gens se sont réunis\n",
+        "au fil du temps pour fonder cette ville."
       ]
     },
     {
@@ -91,6 +144,15 @@
         "think you’d’ve met at least fifty.\r",
         "If you haven’t, go farther abroad and\n",
         "search wider, youngster."
+      ],
+      "fr_FR": [
+        "Un Dresseur vagabond, hein?\r",
+        "Dis-moi, combien d’espèces de Pokémon\n",
+        "as-tu rencontrées jusque-là?\r",
+        "Si tu es un bon Dresseur, j’imagine que\n",
+        "tu as dû en voir au moins cinquante.\r",
+        "Si ce n’est pas le cas, repars \n",
+        "à l’aventure et ouvre l’œil."
       ]
     },
     {
@@ -102,6 +164,14 @@
         "Pokémon History.\r",
         "Use it to see your history of\n",
         "Pokémon catches.\r"
+      ],
+      "fr_FR": [
+        "A partir du moment où tu captures un\n",
+        "Pokémon, il fait partie de ton histoire.\r",
+        "Voici un logiciel Pokémontre appelé\n",
+        "Historique Pokémon.\r",
+        "Utilise-le pour connaître l’historique\n",
+        "de tes captures de Pokémon.\r"
       ]
     },
     {
@@ -111,6 +181,12 @@
         "Pokémon has its own history.\r",
         "When the two collide, new drama\n",
         "is born."
+      ],
+      "fr_FR": [
+        "Tu as ton histoire et chaque Pokémon\n",
+        "a la sienne.\r",
+        "Lorsque ces deux histoires se \n",
+        "recoupent, une nouvelle commence."
       ]
     },
     {
@@ -118,6 +194,10 @@
       "en_US": [
         "Solaceon Town\n",
         "Free of Worry!"
+      ],
+      "fr_FR": [
+        "Bonville\n",
+        "Ville sans-souci"
       ]
     },
     {
@@ -125,6 +205,10 @@
       "en_US": [
         "Pokémon Day Care\n",
         "Let Us Raise Your Pokémon"
+      ],
+      "fr_FR": [
+        "Pension Pokémon\n",
+        "Nous élevons vos Pokémon!"
       ]
     },
     {
@@ -132,6 +216,10 @@
       "en_US": [
         "Pokémon News Press\n",
         "Wanted: Pro Pokémon Catcher!"
+      ],
+      "fr_FR": [
+        "La Dépêche Pokémon\n",
+        "Recherchons pro de la capture!"
       ]
     }
   ]

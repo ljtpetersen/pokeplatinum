@@ -105,6 +105,10 @@
             "en_US": [
                 "I keep a journal about the lives of the\n",
                 "Trainers who arrive here."
+            ],
+            "fr_FR": [
+                "Je prépare une chronique sur tous\n",
+                "les Dresseurs qui se présentent ici."
             ]
         },
         {
@@ -112,6 +116,10 @@
             "en_US": [
                 "In our vast world, I wonder how many\n",
                 "Trainers will cross my path?\r"
+            ],
+            "fr_FR": [
+                "Le monde est vaste, je me demande\n",
+                "combien de Dresseurs je vais affronter.\r"
             ]
         },
         {
@@ -119,7 +127,12 @@
             "en_US": [
                 "Every encounter ends in parting.\n",
                 "That’s why I keep a journal.\r"
+            ],
+            "fr_FR": [
+                "Qui dit rencontre dit séparation. C’est\n",
+                "pour ça que je fais cette chronique.\r"
             ]
         }
-    ]
+    ],
+    "name_fr": "Dove"
 }

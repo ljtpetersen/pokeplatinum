@@ -59,6 +59,10 @@
             "en_US": [
                 "In romance, fashion, and Pokémon!\n",
                 "Today’s girls want it all!"
+            ],
+            "fr_FR": [
+                "En amour comme en Pokémon, les filles\n",
+                "méritent toujours d’être respectées!"
             ]
         },
         {
@@ -66,6 +70,10 @@
             "en_US": [
                 "The greed of today’s girls knows no\n",
                 "bounds!\r"
+            ],
+            "fr_FR": [
+                "Tu comprends pourquoi on mérite\n",
+                "le respect?\r"
             ]
         },
         {
@@ -73,7 +81,9 @@
             "en_US": [
                 "Did being greedy end up costing me\n",
                 "everything?\r"
-            ]
+            ],
+            "fr_FR": "C’est comme ça que tu me respectes?\r"
         }
-    ]
+    ],
+    "name_fr": "Julia"
 }

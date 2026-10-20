@@ -7,7 +7,10 @@
         "special_attack": 10,
         "special_defense": 45
     },
-    "types": [ "TYPE_ROCK", "TYPE_ROCK" ],
+    "types": [
+        "TYPE_ROCK",
+        "TYPE_ROCK"
+    ],
     "catch_rate": 255,
     "base_exp_reward": 68,
     "ev_yields": {
@@ -26,27 +29,72 @@
     "hatch_cycles": 20,
     "base_friendship": 70,
     "exp_rate": "EXP_RATE_MEDIUM_FAST",
-    "egg_groups": [ "EGG_GROUP_UNDISCOVERED", "EGG_GROUP_UNDISCOVERED" ],
-    "abilities": [ "ABILITY_STURDY", "ABILITY_ROCK_HEAD" ],
+    "egg_groups": [
+        "EGG_GROUP_UNDISCOVERED",
+        "EGG_GROUP_UNDISCOVERED"
+    ],
+    "abilities": [
+        "ABILITY_STURDY",
+        "ABILITY_ROCK_HEAD"
+    ],
     "safari_flee_rate": 0,
     "body_color": "MON_COLOR_BROWN",
     "flip_sprite": false,
     "icon_palette": 1,
     "learnset": {
         "by_level": [
-            [ 1, "MOVE_FAKE_TEARS" ],
-            [ 1, "MOVE_COPYCAT" ],
-            [ 6, "MOVE_FLAIL" ],
-            [ 9, "MOVE_LOW_KICK" ],
-            [ 14, "MOVE_ROCK_THROW" ],
-            [ 17, "MOVE_MIMIC" ],
-            [ 22, "MOVE_BLOCK" ],
-            [ 25, "MOVE_FAINT_ATTACK" ],
-            [ 30, "MOVE_ROCK_TOMB" ],
-            [ 33, "MOVE_ROCK_SLIDE" ],
-            [ 38, "MOVE_SLAM" ],
-            [ 41, "MOVE_SUCKER_PUNCH" ],
-            [ 46, "MOVE_DOUBLE_EDGE" ]
+            [
+                1,
+                "MOVE_FAKE_TEARS"
+            ],
+            [
+                1,
+                "MOVE_COPYCAT"
+            ],
+            [
+                6,
+                "MOVE_FLAIL"
+            ],
+            [
+                9,
+                "MOVE_LOW_KICK"
+            ],
+            [
+                14,
+                "MOVE_ROCK_THROW"
+            ],
+            [
+                17,
+                "MOVE_MIMIC"
+            ],
+            [
+                22,
+                "MOVE_BLOCK"
+            ],
+            [
+                25,
+                "MOVE_FAINT_ATTACK"
+            ],
+            [
+                30,
+                "MOVE_ROCK_TOMB"
+            ],
+            [
+                33,
+                "MOVE_ROCK_SLIDE"
+            ],
+            [
+                38,
+                "MOVE_SLAM"
+            ],
+            [
+                41,
+                "MOVE_SUCKER_PUNCH"
+            ],
+            [
+                46,
+                "MOVE_DOUBLE_EDGE"
+            ]
         ],
         "by_tm": [
             "TM04",
@@ -124,9 +172,9 @@
             "name": "BONSLY",
             "category": "Bonsai Pokémon",
             "entry_text": [
-                "It prefers an arid atmosphere. It\n",
-                "leaks water that looks like tears\n",
-                "when adjusting its moisture level."
+                "It looks as if it is always crying.\n",
+                "It is actually adjusting its body’s\n",
+                "fluid levels by eliminating excess."
             ]
         },
         "fr": {
@@ -172,6 +220,18 @@
                 "いつも　ないているように　みえるが\n",
                 "たいないの　すいぶんを　そとに\n",
                 "だして　ちょうせつしているのだ。"
+            ]
+        },
+        "local_version": {
+            "entry_text": [
+                "It prefers an arid atmosphere. It\n",
+                "leaks water that looks like tears\n",
+                "when adjusting its moisture level."
+            ],
+            "entry_text_fr": [
+                "Adepte des climats secs, il régule\n",
+                "son humidité en laissant couler ce\n",
+                "qui ressemble à des larmes."
             ]
         }
     },

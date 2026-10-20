@@ -25,6 +25,10 @@
             "en_US": [
                 "I’ve never battled a young Trainer like\n",
                 "yourself. It’s quite nerve wracking.\r"
+            ],
+            "fr_FR": [
+                "Je n’ai jamais affronté de Dresseur\n",
+                "aussi jeune. Ça me rend nerveuse!\r"
             ]
         },
         {
@@ -32,6 +36,10 @@
             "en_US": [
                 "Oh, dear... That wasn’t anything like\n",
                 "battling with my friends.\n"
+            ],
+            "fr_FR": [
+                "Je n’avais jamais combattu comme\n",
+                "ça avec mes amis.\n"
             ]
         },
         {
@@ -39,6 +47,10 @@
             "en_US": [
                 "Usually, I’ll have matches with\n",
                 "members of my social club.\n"
+            ],
+            "fr_FR": [
+                "D’habitude, je ne combats que les\n",
+                "membres de mon club.\n"
             ]
         },
         {
@@ -47,7 +59,13 @@
                 "Oh, it’s you again, dear?\r",
                 "It makes me a little nervous to ask,\n",
                 "but may I have a rematch?\r"
+            ],
+            "fr_FR": [
+                "Oh, encore toi, trésor?\r",
+                "Ça me rend nerveuse de te demander ça,\n",
+                "mais m’accorderais-tu une revanche?\r"
             ]
         }
-    ]
+    ],
+    "name_fr": "Irène"
 }

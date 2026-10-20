@@ -65,6 +65,10 @@
             "en_US": [
                 "Hmmm... So young...\n",
                 "I may have to go easy..."
+            ],
+            "fr_FR": [
+                "Humm... Si jeune...\n",
+                "Je vais retenir mes coups..."
             ]
         },
         {
@@ -72,6 +76,10 @@
             "en_US": [
                 "You’re so depressingly young...\n",
                 "It’s fine. You may go.\r"
+            ],
+            "fr_FR": [
+                "Tu es tellement jeune...\n",
+                "C’est bon. Tu peux partir.\r"
             ]
         },
         {
@@ -79,7 +87,12 @@
             "en_US": [
                 "Consider the loser’s feelings.\n",
                 "That’s where you young people fail...\r"
+            ],
+            "fr_FR": [
+                "Vous les jeunes, vous ne\n",
+                "pensez qu’à gagner...\r"
             ]
         }
-    ]
+    ],
+    "name_fr": "Joachim"
 }

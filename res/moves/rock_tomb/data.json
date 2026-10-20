@@ -25,5 +25,13 @@
     "contest": {
         "effect": "CONTEST_EFFECT_LAST_NEXT_TURN",
         "type": "CONTEST_TYPE_SMART"
-    }
+    },
+    "name_fr": "Tomberoche",
+    "description_fr": [
+        "Des rochers frappent\n",
+        "l’ennemi. Réduit aussi\n",
+        "sa Vitesse en\n",
+        "l’empêchant de\n",
+        "se déplacer."
+    ]
 }

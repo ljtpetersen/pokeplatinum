@@ -39,5 +39,13 @@
     "bitterness": 0,
     "sourness": 0,
     "smoothness": 60
-  }
+  },
+  "name_fr": "Baie Enigma",
+  "description_fr": [
+    "Ingrédient pour Poffin. Tenue, cette\n",
+    "Baie augmente les PV du Pokémon s’il\n",
+    "subit une attaque super efficace."
+  ],
+  "plural_fr": "Baie Enigma",
+  "article_fr": null
 }

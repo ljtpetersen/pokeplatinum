@@ -13,6 +13,17 @@
         "guy’s heart again.\r",
         "How could you not expect me to look\n",
         "forward to seeing you in battle?\r"
+      ],
+      "fr_FR": [
+        "Hé, Dresseur!\r",
+        "Je compte les jours depuis que \n",
+        "j’ai su que tu allais venir.\r",
+        "Le récit de tes exploits contre \n",
+        "Tanguy est arrivé jusqu’ici.\r",
+        "Réussir à raviver la flamme de ce vieux \n",
+        "Tanguy... Plutôt bien joué!\r",
+        "Tu imagines à quel point \n",
+        "j’étais impatient de t’affronter?\r"
       ]
     },
     {
@@ -22,6 +33,12 @@
         "user with me.\r",
         "Let Flint see how hot your spirit\n",
         "burns!\r"
+      ],
+      "fr_FR": [
+        "Prépare-toi à affronter des \n",
+        "Pokémon de type Feu.\r",
+        "Montre-moi si la flamme \n",
+        "du combat brûle en toi!\r"
       ]
     },
     {
@@ -35,6 +52,16 @@
         "...\r",
         "...Whew...\n",
         "...Burnt right down to cinders..."
+      ],
+      "fr_FR": [
+        "...\n",
+        "...\r",
+        "...\n",
+        "...\r",
+        "...\n",
+        "...\r",
+        "Waouh... Que dire...\n",
+        "Tu m’as réduit en cendres..."
       ]
     },
     {
@@ -47,6 +74,15 @@
         "...\n",
         "...\r",
         "...Keep going..."
+      ],
+      "fr_FR": [
+        "...\n",
+        "...\r",
+        "...\n",
+        "...\r",
+        "...\n",
+        "...\r",
+        "Continue comme ça, Dresseur..."
       ]
     },
     {
@@ -61,6 +97,17 @@
         "or what’s weak or strong.\r",
         "It all comes down to whether the\n",
         "combatants can burn hot or not.\r"
+      ],
+      "fr_FR": [
+        "Je t’attendais, Dresseur!\r",
+        "Je suis Adrien, maître des \n",
+        "Pokémon de type Feu!\r",
+        "Les Pokémon ont toujours une flamme \n",
+        "au fond des yeux quand ils combattent.\r",
+        "Ce qui compte alors, ce n’est pas de \n",
+        "savoir qui est fort ou qui est faible,\r",
+        "mais d’être capable d’empêcher\n",
+        "cette flamme de s’éteindre!\r"
       ]
     },
     {
@@ -70,6 +117,12 @@
         "...\r",
         "...Whew...\n",
         "...Burnt right down to cinders..."
+      ],
+      "fr_FR": [
+        "...\n",
+        "...\r",
+        "Waouh... Que dire...\n",
+        "Tu m’as réduit en cendres..."
       ]
     },
     {
@@ -80,6 +133,13 @@
         "...Keep going...\r",
         "I know your spirit burns hot.\n",
         "Your whole team does."
+      ],
+      "fr_FR": [
+        "...\n",
+        "...\r",
+        "Continue comme ça, Dresseur...\r",
+        "Je sais que la flamme qui brûle en toi \n",
+        "n’est pas près de s’éteindre."
       ]
     }
   ]

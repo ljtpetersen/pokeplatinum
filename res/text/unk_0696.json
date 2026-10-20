@@ -6,27 +6,36 @@
       "en_US": [
         "Press the X Button over a color dot\n",
         "to display the player’s location."
+      ],
+      "fr_FR": [
+        "Placez le curseur sur un point coloré\n",
+        "et appuyez sur le bouton X."
       ]
     },
     {
       "id": "pl_msg_00000696_00001",
-      "en_US": "EXIT"
+      "en_US": "EXIT",
+      "fr_FR": "QUIT."
     },
     {
       "id": "pl_msg_00000696_00002",
-      "en_US": "PLACE NAME"
+      "en_US": "PLACE NAME",
+      "fr_FR": "LIEU"
     },
     {
       "id": "pl_msg_00000696_00003",
-      "en_US": "{STRVAR_1 36, 0, 0}"
+      "en_US": "{STRVAR_1 36, 0, 0}",
+      "fr_FR": "{STRVAR_1 36, 0, 0}"
     },
     {
       "id": "pl_msg_00000696_00004",
-      "en_US": "{STRVAR_1 37, 0, 0}"
+      "en_US": "{STRVAR_1 37, 0, 0}",
+      "fr_FR": "{STRVAR_1 37, 0, 0}"
     },
     {
       "id": "pl_msg_00000696_00005",
-      "en_US": "Exit the Visitor Profiles?"
+      "en_US": "Exit the Visitor Profiles?",
+      "fr_FR": "Quitter le Globe Visiteurs?"
     }
   ]
 }

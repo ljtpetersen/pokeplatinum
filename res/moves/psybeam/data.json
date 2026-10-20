@@ -24,5 +24,12 @@
     "contest": {
         "effect": "CONTEST_EFFECT_FIRST_PERFORMANCE_ADVANTAGE",
         "type": "CONTEST_TYPE_BEAUTY"
-    }
+    },
+    "name_fr": "Rafale Psy",
+    "description_fr": [
+        "Un étrange rayon\n",
+        "frappe l’ennemi. Peut\n",
+        "aussi le rendre\n",
+        "confus."
+    ]
 }

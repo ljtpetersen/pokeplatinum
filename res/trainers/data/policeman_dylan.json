@@ -32,6 +32,10 @@
             "en_US": [
                 "Let’s enjoy a fierce battle in the\n",
                 "chilly night winds! Brrrr! Refreshing!\r"
+            ],
+            "fr_FR": [
+                "Rien de tel qu’une lutte âpre dans le\n",
+                "froid nocturne! Brr! Rafraîchissant!\r"
             ]
         },
         {
@@ -39,6 +43,10 @@
             "en_US": [
                 "I need to explain, all right?\n",
                 "It was too dark and hard to see.\n"
+            ],
+            "fr_FR": [
+                "Il y a une bonne raison à tout ça. Il\n",
+                "faisait trop noir. Je ne voyais pas bien."
             ]
         },
         {
@@ -46,6 +54,10 @@
             "en_US": [
                 "Oops, I’d better get back to my\n",
                 "beat before the boss radios me...\n"
+            ],
+            "fr_FR": [
+                "Oups, je ferais mieux de retourner dans\n",
+                "ma planque avant que le chef m’appelle.\n"
             ]
         },
         {
@@ -53,6 +65,10 @@
             "en_US": [
                 "Yo! Hanging tough, Trainer? Word!\n",
                 "I’m trying to make my lingo more hip!\n"
+            ],
+            "fr_FR": [
+                "Yo, Dresseur! Big up à toi!\n",
+                "J’essaie de me mettre au goût du jour.\n"
             ]
         },
         {
@@ -61,7 +77,13 @@
                 "Still training this late?\r",
                 "That makes you either a bad kid or\n",
                 "a good Trainer. Which one is it?\r"
+            ],
+            "fr_FR": [
+                "Tu t’entraînes encore à cette heure?\r",
+                "Soit tu es un bon Dresseur, soit tu es\n",
+                "une canaille. Voyons voir ça!\r"
             ]
         }
-    ]
+    ],
+    "name_fr": "Johan"
 }

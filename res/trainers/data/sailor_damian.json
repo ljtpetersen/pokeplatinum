@@ -43,6 +43,13 @@
                 "It’s this Gym I’ve chosen to make my\n",
                 "home!\r",
                 "You can bet it’s tough!\r"
+            ],
+            "fr_FR": [
+                "J’ai fait le tour du monde pour\n",
+                "entraîner mes Pokémon.\r",
+                "Et c’est dans cette Arène que j’ai\n",
+                "choisi de m’établir!\r",
+                "Tu vas bientôt comprendre pourquoi!\r"
             ]
         },
         {
@@ -50,6 +57,10 @@
             "en_US": [
                 "You!\n",
                 "You’re truly top-class tough!\n"
+            ],
+            "fr_FR": [
+                "Toi! Tu es vraiment un Dresseur\n",
+                "de première classe!\n"
             ]
         },
         {
@@ -57,7 +68,12 @@
             "en_US": [
                 "If you were to go around the world,\n",
                 "I’m sure you’d meet tougher Pokémon.\n"
+            ],
+            "fr_FR": [
+                "Je parie que tu trouverais de meilleurs\n",
+                "Pokémon en faisant le tour du monde.\n"
             ]
         }
-    ]
+    ],
+    "name_fr": "Damian"
 }

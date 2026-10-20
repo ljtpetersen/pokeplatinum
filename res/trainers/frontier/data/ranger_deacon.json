@@ -77,18 +77,28 @@
             "en_US": [
                 "Never fear, this Pokémon Ranger is\n",
                 "here to protect my own personal peace!"
+            ],
+            "fr_FR": [
+                "Les Pokémon Rangers sont avant tout\n",
+                "les gardiens de la paix."
             ]
         },
         {
             "type": "TRMSG_WIN",
-            "en_US": "My personal peace has been protected!\r"
+            "en_US": "My personal peace has been protected!\r",
+            "fr_FR": "J’ai gagné, au nom de la paix!\r"
         },
         {
             "type": "TRMSG_DEFEAT",
             "en_US": [
                 "You vile Trainer, you!\n",
                 "You’ve shattered my peace!\r"
+            ],
+            "fr_FR": [
+                "Toi, tu m’as tout l’air d’être du genre\n",
+                "fauteur de troubles, je me trompe?\r"
             ]
         }
-    ]
+    ],
+    "name_fr": "Djamel"
 }

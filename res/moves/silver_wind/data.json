@@ -26,5 +26,13 @@
     "contest": {
         "effect": "CONTEST_EFFECT_2_HEARTS_WHEN_VOLTAGE_UP",
         "type": "CONTEST_TYPE_BEAUTY"
-    }
+    },
+    "name_fr": "Vent Argenté",
+    "description_fr": [
+        "Vent qui projette des\n",
+        "écailles poudreuses\n",
+        "sur l’ennemi. Peut\n",
+        "aussi monter toutes\n",
+        "les stats du lanceur."
+    ]
 }

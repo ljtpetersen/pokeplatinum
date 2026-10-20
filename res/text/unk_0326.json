@@ -3,939 +3,1173 @@
   "messages": [
     {
       "id": "pl_msg_00000326_00000",
-      "en_US": "Player’s side 1"
+      "en_US": "Player’s side 1",
+      "fr_FR": "Player’s side 1"
     },
     {
       "id": "pl_msg_00000326_00001",
-      "en_US": "Player’s side 2"
+      "en_US": "Player’s side 2",
+      "fr_FR": "Player’s side 2"
     },
     {
       "id": "pl_msg_00000326_00002",
-      "en_US": "Opponent 1"
+      "en_US": "Opponent 1",
+      "fr_FR": "Opponent 1"
     },
     {
       "id": "pl_msg_00000326_00003",
-      "en_US": "Opponent 2"
+      "en_US": "Opponent 2",
+      "fr_FR": "Opponent 2"
     },
     {
       "id": "pl_msg_00000326_00004",
-      "en_US": "Class"
+      "en_US": "Class",
+      "fr_FR": "Class"
     },
     {
       "id": "pl_msg_00000326_00005",
-      "en_US": "Level"
+      "en_US": "Level",
+      "fr_FR": "Level"
     },
     {
       "id": "pl_msg_00000326_00006",
-      "en_US": "Exp. Points"
+      "en_US": "Exp. Points",
+      "fr_FR": "Exp. Points"
     },
     {
       "id": "pl_msg_00000326_00007",
-      "en_US": "ID No."
+      "en_US": "ID No.",
+      "fr_FR": "ID No."
     },
     {
       "id": "pl_msg_00000326_00008",
-      "en_US": "Random value"
+      "en_US": "Random value",
+      "fr_FR": "Random value"
     },
     {
       "id": "pl_msg_00000326_00009",
-      "en_US": "Gender"
+      "en_US": "Gender",
+      "fr_FR": "Gender"
     },
     {
       "id": "pl_msg_00000326_00010",
-      "en_US": "Nature"
+      "en_US": "Nature",
+      "fr_FR": "Nature"
     },
     {
       "id": "pl_msg_00000326_00011",
-      "en_US": "Normal"
+      "en_US": "Normal",
+      "fr_FR": "Normal"
     },
     {
       "id": "pl_msg_00000326_00012",
-      "en_US": "Rare"
+      "en_US": "Rare",
+      "fr_FR": "Rare"
     },
     {
       "id": "pl_msg_00000326_00013",
-      "en_US": "Status"
+      "en_US": "Status",
+      "fr_FR": "Status"
     },
     {
       "id": "pl_msg_00000326_00014",
-      "en_US": "Friendliness"
+      "en_US": "Friendliness",
+      "fr_FR": "Friendliness"
     },
     {
       "id": "pl_msg_00000326_00015",
-      "en_US": "Pokérus"
+      "en_US": "Pokérus",
+      "fr_FR": "Pokérus"
     },
     {
       "id": "pl_msg_00000326_00016",
-      "en_US": "Move 1"
+      "en_US": "Move 1",
+      "fr_FR": "Move 1"
     },
     {
       "id": "pl_msg_00000326_00017",
-      "en_US": "Move 2"
+      "en_US": "Move 2",
+      "fr_FR": "Move 2"
     },
     {
       "id": "pl_msg_00000326_00018",
-      "en_US": "Move 3"
+      "en_US": "Move 3",
+      "fr_FR": "Move 3"
     },
     {
       "id": "pl_msg_00000326_00019",
-      "en_US": "Move 4"
+      "en_US": "Move 4",
+      "fr_FR": "Move 4"
     },
     {
       "id": "pl_msg_00000326_00020",
-      "en_US": "Item"
+      "en_US": "Item",
+      "fr_FR": "Item"
     },
     {
       "id": "pl_msg_00000326_00021",
-      "en_US": "Attribute"
+      "en_US": "Attribute",
+      "fr_FR": "Attribute"
     },
     {
       "id": "pl_msg_00000326_00022",
-      "en_US": "Set"
+      "en_US": "Set",
+      "fr_FR": "Set"
     },
     {
       "id": "pl_msg_00000326_00023",
-      "en_US": "Default HP"
+      "en_US": "Default HP",
+      "fr_FR": "Default HP"
     },
     {
       "id": "pl_msg_00000326_00024",
-      "en_US": "HPrnd"
+      "en_US": "HPrnd",
+      "fr_FR": "HPrnd"
     },
     {
       "id": "pl_msg_00000326_00025",
-      "en_US": "HPexp"
+      "en_US": "HPexp",
+      "fr_FR": "HPexp"
     },
     {
       "id": "pl_msg_00000326_00026",
-      "en_US": "POWrnd"
+      "en_US": "POWrnd",
+      "fr_FR": "POWrnd"
     },
     {
       "id": "pl_msg_00000326_00027",
-      "en_US": "POWexp"
+      "en_US": "POWexp",
+      "fr_FR": "POWexp"
     },
     {
       "id": "pl_msg_00000326_00028",
-      "en_US": "DEFrnd"
+      "en_US": "DEFrnd",
+      "fr_FR": "DEFrnd"
     },
     {
       "id": "pl_msg_00000326_00029",
-      "en_US": "DEFexp"
+      "en_US": "DEFexp",
+      "fr_FR": "DEFexp"
     },
     {
       "id": "pl_msg_00000326_00030",
-      "en_US": "AGIrnd"
+      "en_US": "AGIrnd",
+      "fr_FR": "AGIrnd"
     },
     {
       "id": "pl_msg_00000326_00031",
-      "en_US": "AGIexp"
+      "en_US": "AGIexp",
+      "fr_FR": "AGIexp"
     },
     {
       "id": "pl_msg_00000326_00032",
-      "en_US": "SPWrnd"
+      "en_US": "SPWrnd",
+      "fr_FR": "SPWrnd"
     },
     {
       "id": "pl_msg_00000326_00033",
-      "en_US": "SPWexp"
+      "en_US": "SPWexp",
+      "fr_FR": "SPWexp"
     },
     {
       "id": "pl_msg_00000326_00034",
-      "en_US": "SDFrnd"
+      "en_US": "SDFrnd",
+      "fr_FR": "SDFrnd"
     },
     {
       "id": "pl_msg_00000326_00035",
-      "en_US": "SDFexp"
+      "en_US": "SDFexp",
+      "fr_FR": "SDFexp"
     },
     {
       "id": "pl_msg_00000326_00036",
-      "en_US": "POW"
+      "en_US": "POW",
+      "fr_FR": "POW"
     },
     {
       "id": "pl_msg_00000326_00037",
-      "en_US": "DEF"
+      "en_US": "DEF",
+      "fr_FR": "DEF"
     },
     {
       "id": "pl_msg_00000326_00038",
-      "en_US": "AGI"
+      "en_US": "AGI",
+      "fr_FR": "AGI"
     },
     {
       "id": "pl_msg_00000326_00039",
-      "en_US": "SPW"
+      "en_US": "SPW",
+      "fr_FR": "SPW"
     },
     {
       "id": "pl_msg_00000326_00040",
-      "en_US": "SDF"
+      "en_US": "SDF",
+      "fr_FR": "SDF"
     },
     {
       "id": "pl_msg_00000326_00041",
-      "en_US": "HP"
+      "en_US": "HP",
+      "fr_FR": "HP"
     },
     {
       "id": "pl_msg_00000326_00042",
-      "en_US": "MPP"
+      "en_US": "MPP",
+      "fr_FR": "MPP"
     },
     {
       "id": "pl_msg_00000326_00043",
-      "en_US": "MPT"
+      "en_US": "MPT",
+      "fr_FR": "MPT"
     },
     {
       "id": "pl_msg_00000326_00044",
-      "en_US": "Coolness"
+      "en_US": "Coolness",
+      "fr_FR": "Coolness"
     },
     {
       "id": "pl_msg_00000326_00045",
-      "en_US": "Beauty"
+      "en_US": "Beauty",
+      "fr_FR": "Beauty"
     },
     {
       "id": "pl_msg_00000326_00046",
-      "en_US": "Cuteness"
+      "en_US": "Cuteness",
+      "fr_FR": "Cuteness"
     },
     {
       "id": "pl_msg_00000326_00047",
-      "en_US": "Smartness"
+      "en_US": "Smartness",
+      "fr_FR": "Smartness"
     },
     {
       "id": "pl_msg_00000326_00048",
-      "en_US": "Toughness"
+      "en_US": "Toughness",
+      "fr_FR": "Toughness"
     },
     {
       "id": "pl_msg_00000326_00049",
-      "en_US": "Luster"
+      "en_US": "Luster",
+      "fr_FR": "Luster"
     },
     {
       "id": "pl_msg_00000326_00050",
-      "en_US": "Capture place"
+      "en_US": "Capture place",
+      "fr_FR": "Capture place"
     },
     {
       "id": "pl_msg_00000326_00051",
-      "en_US": "Capture level"
+      "en_US": "Capture level",
+      "fr_FR": "Capture level"
     },
     {
       "id": "pl_msg_00000326_00052",
-      "en_US": "Capture cassette"
+      "en_US": "Capture cassette",
+      "fr_FR": "Capture cassette"
     },
     {
       "id": "pl_msg_00000326_00053",
-      "en_US": "Capture Ball"
+      "en_US": "Capture Ball",
+      "fr_FR": "Capture Ball"
     },
     {
       "id": "pl_msg_00000326_00054",
-      "en_US": "Form No."
+      "en_US": "Form No.",
+      "fr_FR": "Form No."
     },
     {
       "id": "pl_msg_00000326_00055",
-      "en_US": "Egg Flag OFF"
+      "en_US": "Egg Flag OFF",
+      "fr_FR": "Egg Flag OFF"
     },
     {
       "id": "pl_msg_00000326_00056",
-      "en_US": "Egg Flag ON"
+      "en_US": "Egg Flag ON",
+      "fr_FR": "Egg Flag ON"
     },
     {
       "id": "pl_msg_00000326_00057",
-      "en_US": "→"
+      "en_US": "→",
+      "fr_FR": "→"
     },
     {
       "id": "pl_msg_00000326_00058",
-      "en_US": "Land form"
+      "en_US": "Land form",
+      "fr_FR": "Land form"
     },
     {
       "id": "pl_msg_00000326_00059",
-      "en_US": "Player’s gender"
+      "en_US": "Player’s gender",
+      "fr_FR": "Player’s gender"
     },
     {
       "id": "pl_msg_00000326_00060",
-      "en_US": "Battle type"
+      "en_US": "Battle type",
+      "fr_FR": "Battle type"
     },
     {
       "id": "pl_msg_00000326_00061",
-      "en_US": "ＴｒＩD1"
+      "en_US": "ＴｒＩD1",
+      "fr_FR": "ＴｒＩD1"
     },
     {
       "id": "pl_msg_00000326_00062",
-      "en_US": "ＴｒＩD2"
+      "en_US": "ＴｒＩD2",
+      "fr_FR": "ＴｒＩD2"
     },
     {
       "id": "pl_msg_00000326_00063",
-      "en_US": "1 vs 1 Wild"
+      "en_US": "1 vs 1 Wild",
+      "fr_FR": "1 vs 1 Wild"
     },
     {
       "id": "pl_msg_00000326_00064",
-      "en_US": "1 vs 1 Trainer"
+      "en_US": "1 vs 1 Trainer",
+      "fr_FR": "1 vs 1 Trainer"
     },
     {
       "id": "pl_msg_00000326_00065",
-      "en_US": "2 vs 2 Trainer"
+      "en_US": "2 vs 2 Trainer",
+      "fr_FR": "2 vs 2 Trainer"
     },
     {
       "id": "pl_msg_00000326_00066",
-      "en_US": "1 vs 1 Link Host"
+      "en_US": "1 vs 1 Link Host",
+      "fr_FR": "1 vs 1 Link Host"
     },
     {
       "id": "pl_msg_00000326_00067",
-      "en_US": "1 vs 1 Link Client"
+      "en_US": "1 vs 1 Link Client",
+      "fr_FR": "1 vs 1 Link Client"
     },
     {
       "id": "pl_msg_00000326_00068",
-      "en_US": "2 vs 2 Link Host"
+      "en_US": "2 vs 2 Link Host",
+      "fr_FR": "2 vs 2 Link Host"
     },
     {
       "id": "pl_msg_00000326_00069",
-      "en_US": "2 vs 2 Link Client"
+      "en_US": "2 vs 2 Link Client",
+      "fr_FR": "2 vs 2 Link Client"
     },
     {
       "id": "pl_msg_00000326_00070",
-      "en_US": "Link Multi Host"
+      "en_US": "Link Multi Host",
+      "fr_FR": "Link Multi Host"
     },
     {
       "id": "pl_msg_00000326_00071",
-      "en_US": "Link Multi Client"
+      "en_US": "Link Multi Client",
+      "fr_FR": "Link Multi Client"
     },
     {
       "id": "pl_msg_00000326_00072",
-      "en_US": "1 vs 1 Wifi Host"
+      "en_US": "1 vs 1 Wifi Host",
+      "fr_FR": "1 vs 1 Wifi Host"
     },
     {
       "id": "pl_msg_00000326_00073",
-      "en_US": "1 vs 1 Wifi Client"
+      "en_US": "1 vs 1 Wifi Client",
+      "fr_FR": "1 vs 1 Wifi Client"
     },
     {
       "id": "pl_msg_00000326_00074",
-      "en_US": "Safari Zone"
+      "en_US": "Safari Zone",
+      "fr_FR": "Safari Zone"
     },
     {
       "id": "pl_msg_00000326_00075",
-      "en_US": "Poké Park"
+      "en_US": "Poké Park",
+      "fr_FR": "Poké Park"
     },
     {
       "id": "pl_msg_00000326_00076",
-      "en_US": "Capture Demo"
+      "en_US": "Capture Demo",
+      "fr_FR": "Capture Demo"
     },
     {
       "id": "pl_msg_00000326_00077",
-      "en_US": "Wild 2 vs 2"
+      "en_US": "Wild 2 vs 2",
+      "fr_FR": "Wild 2 vs 2"
     },
     {
       "id": "pl_msg_00000326_00078",
-      "en_US": "Pair-up Battle"
+      "en_US": "Pair-up Battle",
+      "fr_FR": "Pair-up Battle"
     },
     {
       "id": "pl_msg_00000326_00079",
-      "en_US": "AI Multi"
+      "en_US": "AI Multi",
+      "fr_FR": "AI Multi"
     },
     {
       "id": "pl_msg_00000326_00080",
-      "en_US": "Tower Multi Host"
+      "en_US": "Tower Multi Host",
+      "fr_FR": "Tower Multi Host"
     },
     {
       "id": "pl_msg_00000326_00081",
-      "en_US": "Tower Multi Client"
+      "en_US": "Tower Multi Client",
+      "fr_FR": "Tower Multi Client"
     },
     {
       "id": "pl_msg_00000326_00082",
-      "en_US": "Mickey"
+      "en_US": "Mickey",
+      "fr_FR": "Mickey"
     },
     {
       "id": "pl_msg_00000326_00083",
-      "en_US": "Angelica"
+      "en_US": "Angelica",
+      "fr_FR": "Angelica"
     },
     {
       "id": "pl_msg_00000326_00084",
-      "en_US": "Cedric"
+      "en_US": "Cedric",
+      "fr_FR": "Cedric"
     },
     {
       "id": "pl_msg_00000326_00085",
-      "en_US": "Cheryl"
+      "en_US": "Cheryl",
+      "fr_FR": "Cheryl"
     },
     {
       "id": "pl_msg_00000326_00086",
-      "en_US": "Riley"
+      "en_US": "Riley",
+      "fr_FR": "Riley"
     },
     {
       "id": "pl_msg_00000326_00087",
-      "en_US": "Marley"
+      "en_US": "Marley",
+      "fr_FR": "Marley"
     },
     {
       "id": "pl_msg_00000326_00088",
-      "en_US": "Buck"
+      "en_US": "Buck",
+      "fr_FR": "Buck"
     },
     {
       "id": "pl_msg_00000326_00089",
-      "en_US": "Mira"
+      "en_US": "Mira",
+      "fr_FR": "Mira"
     },
     {
       "id": "pl_msg_00000326_00090",
-      "en_US": "㊚"
+      "en_US": "㊚",
+      "fr_FR": "㊚"
     },
     {
       "id": "pl_msg_00000326_00091",
-      "en_US": "㊛"
+      "en_US": "㊛",
+      "fr_FR": "㊛"
     },
     {
       "id": "pl_msg_00000326_00092",
-      "en_US": "None"
+      "en_US": "None",
+      "fr_FR": "None"
     },
     {
       "id": "pl_msg_00000326_00093",
-      "en_US": "Normal"
+      "en_US": "Normal",
+      "fr_FR": "Normal"
     },
     {
       "id": "pl_msg_00000326_00094",
-      "en_US": "Sleep"
+      "en_US": "Sleep",
+      "fr_FR": "Sleep"
     },
     {
       "id": "pl_msg_00000326_00095",
-      "en_US": "Poison"
+      "en_US": "Poison",
+      "fr_FR": "Poison"
     },
     {
       "id": "pl_msg_00000326_00096",
-      "en_US": "Burned"
+      "en_US": "Burned",
+      "fr_FR": "Burned"
     },
     {
       "id": "pl_msg_00000326_00097",
-      "en_US": "Paralysis"
+      "en_US": "Paralysis",
+      "fr_FR": "Paralysis"
     },
     {
       "id": "pl_msg_00000326_00098",
-      "en_US": "Frozen"
+      "en_US": "Frozen",
+      "fr_FR": "Frozen"
     },
     {
       "id": "pl_msg_00000326_00099",
-      "en_US": "Badly poisoned"
+      "en_US": "Badly poisoned",
+      "fr_FR": "Badly poisoned"
     },
     {
       "id": "pl_msg_00000326_00100",
-      "en_US": "Gravel"
+      "en_US": "Gravel",
+      "fr_FR": "Gravel"
     },
     {
       "id": "pl_msg_00000326_00101",
-      "en_US": "Beach"
+      "en_US": "Beach",
+      "fr_FR": "Beach"
     },
     {
       "id": "pl_msg_00000326_00102",
-      "en_US": "Lawn"
+      "en_US": "Lawn",
+      "fr_FR": "Lawn"
     },
     {
       "id": "pl_msg_00000326_00103",
-      "en_US": "Puddle"
+      "en_US": "Puddle",
+      "fr_FR": "Puddle"
     },
     {
       "id": "pl_msg_00000326_00104",
-      "en_US": "Rock surface"
+      "en_US": "Rock surface",
+      "fr_FR": "Rock surface"
     },
     {
       "id": "pl_msg_00000326_00105",
-      "en_US": "Dungeon"
+      "en_US": "Dungeon",
+      "fr_FR": "Dungeon"
     },
     {
       "id": "pl_msg_00000326_00106",
-      "en_US": "Snowfield"
+      "en_US": "Snowfield",
+      "fr_FR": "Snowfield"
     },
     {
       "id": "pl_msg_00000326_00107",
-      "en_US": "Water surface"
+      "en_US": "Water surface",
+      "fr_FR": "Water surface"
     },
     {
       "id": "pl_msg_00000326_00108",
-      "en_US": "Ice surface"
+      "en_US": "Ice surface",
+      "fr_FR": "Ice surface"
     },
     {
       "id": "pl_msg_00000326_00109",
-      "en_US": "Floor"
+      "en_US": "Floor",
+      "fr_FR": "Floor"
     },
     {
       "id": "pl_msg_00000326_00110",
-      "en_US": "Swamp"
+      "en_US": "Swamp",
+      "fr_FR": "Swamp"
     },
     {
       "id": "pl_msg_00000326_00111",
-      "en_US": "Dummy"
+      "en_US": "Dummy",
+      "fr_FR": "Dummy"
     },
     {
       "id": "pl_msg_00000326_00112",
-      "en_US": "Elite Four A"
+      "en_US": "Elite Four A",
+      "fr_FR": "Elite Four A"
     },
     {
       "id": "pl_msg_00000326_00113",
-      "en_US": "Elite Four B"
+      "en_US": "Elite Four B",
+      "fr_FR": "Elite Four B"
     },
     {
       "id": "pl_msg_00000326_00114",
-      "en_US": "Elite Four C"
+      "en_US": "Elite Four C",
+      "fr_FR": "Elite Four C"
     },
     {
       "id": "pl_msg_00000326_00115",
-      "en_US": "Elite Four D"
+      "en_US": "Elite Four D",
+      "fr_FR": "Elite Four D"
     },
     {
       "id": "pl_msg_00000326_00116",
-      "en_US": "Champion"
+      "en_US": "Champion",
+      "fr_FR": "Champion"
     },
     {
       "id": "pl_msg_00000326_00117",
-      "en_US": "Distortion World"
+      "en_US": "Distortion World",
+      "fr_FR": "Distortion World"
     },
     {
       "id": "pl_msg_00000326_00118",
-      "en_US": "Battle Tower"
+      "en_US": "Battle Tower",
+      "fr_FR": "Battle Tower"
     },
     {
       "id": "pl_msg_00000326_00119",
-      "en_US": "Battle Factory"
+      "en_US": "Battle Factory",
+      "fr_FR": "Battle Factory"
     },
     {
       "id": "pl_msg_00000326_00120",
-      "en_US": "Battle Arcade"
+      "en_US": "Battle Arcade",
+      "fr_FR": "Battle Arcade"
     },
     {
       "id": "pl_msg_00000326_00121",
-      "en_US": "Battle Castle"
+      "en_US": "Battle Castle",
+      "fr_FR": "Battle Castle"
     },
     {
       "id": "pl_msg_00000326_00122",
-      "en_US": "Battle Hall"
+      "en_US": "Battle Hall",
+      "fr_FR": "Battle Hall"
     },
     {
       "id": "pl_msg_00000326_00123",
-      "en_US": "Load"
+      "en_US": "Load",
+      "fr_FR": "Load"
     },
     {
       "id": "pl_msg_00000326_00124",
-      "en_US": "Save"
+      "en_US": "Save",
+      "fr_FR": "Save"
     },
     {
       "id": "pl_msg_00000326_00125",
-      "en_US": "Grassland"
+      "en_US": "Grassland",
+      "fr_FR": "Grassland"
     },
     {
       "id": "pl_msg_00000326_00126",
-      "en_US": "Ocean"
+      "en_US": "Ocean",
+      "fr_FR": "Ocean"
     },
     {
       "id": "pl_msg_00000326_00127",
-      "en_US": "Town"
+      "en_US": "Town",
+      "fr_FR": "Town"
     },
     {
       "id": "pl_msg_00000326_00128",
-      "en_US": "Forest"
+      "en_US": "Forest",
+      "fr_FR": "Forest"
     },
     {
       "id": "pl_msg_00000326_00129",
-      "en_US": "Mountain"
+      "en_US": "Mountain",
+      "fr_FR": "Mountain"
     },
     {
       "id": "pl_msg_00000326_00130",
-      "en_US": "Snow mountain"
+      "en_US": "Snow mountain",
+      "fr_FR": "Snow mountain"
     },
     {
       "id": "pl_msg_00000326_00131",
-      "en_US": "Room A"
+      "en_US": "Room A",
+      "fr_FR": "Room A"
     },
     {
       "id": "pl_msg_00000326_00132",
-      "en_US": "Room B"
+      "en_US": "Room B",
+      "fr_FR": "Room B"
     },
     {
       "id": "pl_msg_00000326_00133",
-      "en_US": "Room C"
+      "en_US": "Room C",
+      "fr_FR": "Room C"
     },
     {
       "id": "pl_msg_00000326_00134",
-      "en_US": "Dungeon A"
+      "en_US": "Dungeon A",
+      "fr_FR": "Dungeon A"
     },
     {
       "id": "pl_msg_00000326_00135",
-      "en_US": "Dungeon B"
+      "en_US": "Dungeon B",
+      "fr_FR": "Dungeon B"
     },
     {
       "id": "pl_msg_00000326_00136",
-      "en_US": "Dungeon C"
+      "en_US": "Dungeon C",
+      "fr_FR": "Dungeon C"
     },
     {
       "id": "pl_msg_00000326_00137",
-      "en_US": "Elite Four A"
+      "en_US": "Elite Four A",
+      "fr_FR": "Elite Four A"
     },
     {
       "id": "pl_msg_00000326_00138",
-      "en_US": "Elite Four B"
+      "en_US": "Elite Four B",
+      "fr_FR": "Elite Four B"
     },
     {
       "id": "pl_msg_00000326_00139",
-      "en_US": "Elite Four C"
+      "en_US": "Elite Four C",
+      "fr_FR": "Elite Four C"
     },
     {
       "id": "pl_msg_00000326_00140",
-      "en_US": "Elite Four D"
+      "en_US": "Elite Four D",
+      "fr_FR": "Elite Four D"
     },
     {
       "id": "pl_msg_00000326_00141",
-      "en_US": "Champion"
+      "en_US": "Champion",
+      "fr_FR": "Champion"
     },
     {
       "id": "pl_msg_00000326_00142",
-      "en_US": "Distortion World"
+      "en_US": "Distortion World",
+      "fr_FR": "Distortion World"
     },
     {
       "id": "pl_msg_00000326_00143",
-      "en_US": "Battle Tower"
+      "en_US": "Battle Tower",
+      "fr_FR": "Battle Tower"
     },
     {
       "id": "pl_msg_00000326_00144",
-      "en_US": "Battle Factory"
+      "en_US": "Battle Factory",
+      "fr_FR": "Battle Factory"
     },
     {
       "id": "pl_msg_00000326_00145",
-      "en_US": "Battle Arcade"
+      "en_US": "Battle Arcade",
+      "fr_FR": "Battle Arcade"
     },
     {
       "id": "pl_msg_00000326_00146",
-      "en_US": "Battle Castle"
+      "en_US": "Battle Castle",
+      "fr_FR": "Battle Castle"
     },
     {
       "id": "pl_msg_00000326_00147",
-      "en_US": "Battle Hall"
+      "en_US": "Battle Hall",
+      "fr_FR": "Battle Hall"
     },
     {
       "id": "pl_msg_00000326_00148",
-      "en_US": "Morning"
+      "en_US": "Morning",
+      "fr_FR": "Morning"
     },
     {
       "id": "pl_msg_00000326_00149",
-      "en_US": "Afternoon"
+      "en_US": "Afternoon",
+      "fr_FR": "Afternoon"
     },
     {
       "id": "pl_msg_00000326_00150",
-      "en_US": "Evening"
+      "en_US": "Evening",
+      "fr_FR": "Evening"
     },
     {
       "id": "pl_msg_00000326_00151",
-      "en_US": "Night"
+      "en_US": "Night",
+      "fr_FR": "Night"
     },
     {
       "id": "pl_msg_00000326_00152",
-      "en_US": "Midnight"
+      "en_US": "Midnight",
+      "fr_FR": "Midnight"
     },
     {
       "id": "pl_msg_00000326_00153",
-      "en_US": "Switch"
+      "en_US": "Switch",
+      "fr_FR": "Switch"
     },
     {
       "id": "pl_msg_00000326_00154",
-      "en_US": "Tourney"
+      "en_US": "Tourney",
+      "fr_FR": "Tourney"
     },
     {
       "id": "pl_msg_00000326_00155",
-      "en_US": "Effect ON"
+      "en_US": "Effect ON",
+      "fr_FR": "Effect ON"
     },
     {
       "id": "pl_msg_00000326_00156",
-      "en_US": "Effect OFF"
+      "en_US": "Effect OFF",
+      "fr_FR": "Effect OFF"
     },
     {
       "id": "pl_msg_00000326_00157",
-      "en_US": "Slow"
+      "en_US": "Slow",
+      "fr_FR": "Slow"
     },
     {
       "id": "pl_msg_00000326_00158",
-      "en_US": "Normal"
+      "en_US": "Normal",
+      "fr_FR": "Normal"
     },
     {
       "id": "pl_msg_00000326_00159",
-      "en_US": "Fast"
+      "en_US": "Fast",
+      "fr_FR": "Fast"
     },
     {
       "id": "pl_msg_00000326_00160",
-      "en_US": "OFF"
+      "en_US": "OFF",
+      "fr_FR": "OFF"
     },
     {
       "id": "pl_msg_00000326_00161",
-      "en_US": "ON"
+      "en_US": "ON",
+      "fr_FR": "ON"
     },
     {
       "id": "pl_msg_00000326_00162",
-      "en_US": "Basic AI"
+      "en_US": "Basic AI",
+      "fr_FR": "Basic AI"
     },
     {
       "id": "pl_msg_00000326_00163",
-      "en_US": "High power"
+      "en_US": "High power",
+      "fr_FR": "High power"
     },
     {
       "id": "pl_msg_00000326_00164",
-      "en_US": "Expert AI"
+      "en_US": "Expert AI",
+      "fr_FR": "Expert AI"
     },
     {
       "id": "pl_msg_00000326_00165",
-      "en_US": "Support move AI"
+      "en_US": "Support move AI",
+      "fr_FR": "Support move AI"
     },
     {
       "id": "pl_msg_00000326_00166",
-      "en_US": "Gamble AI"
+      "en_US": "Gamble AI",
+      "fr_FR": "Gamble AI"
     },
     {
       "id": "pl_msg_00000326_00167",
-      "en_US": "Damage AI"
+      "en_US": "Damage AI",
+      "fr_FR": "Damage AI"
     },
     {
       "id": "pl_msg_00000326_00168",
-      "en_US": "Relay AI"
+      "en_US": "Relay AI",
+      "fr_FR": "Relay AI"
     },
     {
       "id": "pl_msg_00000326_00169",
-      "en_US": "Double Battle"
+      "en_US": "Double Battle",
+      "fr_FR": "Double Battle"
     },
     {
       "id": "pl_msg_00000326_00170",
-      "en_US": "HP judge AI"
+      "en_US": "HP judge AI",
+      "fr_FR": "HP judge AI"
     },
     {
       "id": "pl_msg_00000326_00171",
-      "en_US": "Weather move AI"
+      "en_US": "Weather move AI",
+      "fr_FR": "Weather move AI"
     },
     {
       "id": "pl_msg_00000326_00172",
-      "en_US": "Annoyance AI"
+      "en_US": "Annoyance AI",
+      "fr_FR": "Annoyance AI"
     },
     {
       "id": "pl_msg_00000326_00173",
-      "en_US": "No weather effect"
+      "en_US": "No weather effect",
+      "fr_FR": "No weather effect"
     },
     {
       "id": "pl_msg_00000326_00174",
-      "en_US": "Rain"
+      "en_US": "Rain",
+      "fr_FR": "Rain"
     },
     {
       "id": "pl_msg_00000326_00175",
-      "en_US": "Heavy rain 1"
+      "en_US": "Heavy rain 1",
+      "fr_FR": "Heavy rain 1"
     },
     {
       "id": "pl_msg_00000326_00176",
-      "en_US": "Heavy rain 2"
+      "en_US": "Heavy rain 2",
+      "fr_FR": "Heavy rain 2"
     },
     {
       "id": "pl_msg_00000326_00177",
-      "en_US": "Snow"
+      "en_US": "Snow",
+      "fr_FR": "Snow"
     },
     {
       "id": "pl_msg_00000326_00178",
-      "en_US": "Blizzard"
+      "en_US": "Blizzard",
+      "fr_FR": "Blizzard"
     },
     {
       "id": "pl_msg_00000326_00179",
-      "en_US": "Whiteout"
+      "en_US": "Whiteout",
+      "fr_FR": "Whiteout"
     },
     {
       "id": "pl_msg_00000326_00180",
-      "en_US": "Sandstorm"
+      "en_US": "Sandstorm",
+      "fr_FR": "Sandstorm"
     },
     {
       "id": "pl_msg_00000326_00181",
-      "en_US": "Dense fog 1"
+      "en_US": "Dense fog 1",
+      "fr_FR": "Dense fog 1"
     },
     {
       "id": "pl_msg_00000326_00182",
-      "en_US": "Dense fog 2"
+      "en_US": "Dense fog 2",
+      "fr_FR": "Dense fog 2"
     },
     {
       "id": "pl_msg_00000326_00183",
-      "en_US": "Sunny Day"
+      "en_US": "Sunny Day",
+      "fr_FR": "Sunny Day"
     },
     {
       "id": "pl_msg_00000326_00184",
-      "en_US": "Trick Room"
+      "en_US": "Trick Room",
+      "fr_FR": "Trick Room"
     },
     {
       "id": "pl_msg_00000326_00185",
-      "en_US": "PP not reduced"
+      "en_US": "PP not reduced",
+      "fr_FR": "PP not reduced"
     },
     {
       "id": "pl_msg_00000326_00186",
-      "en_US": "HP not reduced"
+      "en_US": "HP not reduced",
+      "fr_FR": "HP not reduced"
     },
     {
       "id": "pl_msg_00000326_00187",
-      "en_US": "Auto Battle"
+      "en_US": "Auto Battle",
+      "fr_FR": "Auto Battle"
     },
     {
       "id": "pl_msg_00000326_00188",
-      "en_US": "Control Commands"
+      "en_US": "Control Commands",
+      "fr_FR": "Control Commands"
     },
     {
       "id": "pl_msg_00000326_00189",
-      "en_US": "BＴＩD1"
+      "en_US": "BＴＩD1",
+      "fr_FR": "BＴＩD1"
     },
     {
       "id": "pl_msg_00000326_00190",
-      "en_US": "BＴＩD2"
+      "en_US": "BＴＩD2",
+      "fr_FR": "BＴＩD2"
     },
     {
       "id": "pl_msg_00000326_00191",
-      "en_US": "Client 0"
+      "en_US": "Client 0",
+      "fr_FR": "Client 0"
     },
     {
       "id": "pl_msg_00000326_00192",
-      "en_US": "Client 1"
+      "en_US": "Client 1",
+      "fr_FR": "Client 1"
     },
     {
       "id": "pl_msg_00000326_00193",
-      "en_US": "Client 2"
+      "en_US": "Client 2",
+      "fr_FR": "Client 2"
     },
     {
       "id": "pl_msg_00000326_00194",
-      "en_US": "Client 3"
+      "en_US": "Client 3",
+      "fr_FR": "Client 3"
     },
     {
       "id": "pl_msg_00000326_00195",
-      "en_US": "0ｘ000"
+      "en_US": "0ｘ000",
+      "fr_FR": "0ｘ000"
     },
     {
       "id": "pl_msg_00000326_00196",
-      "en_US": "0ｘ100"
+      "en_US": "0ｘ100",
+      "fr_FR": "0ｘ100"
     },
     {
       "id": "pl_msg_00000326_00197",
-      "en_US": "0ｘ200"
+      "en_US": "0ｘ200",
+      "fr_FR": "0ｘ200"
     },
     {
       "id": "pl_msg_00000326_00198",
-      "en_US": "0ｘ300"
+      "en_US": "0ｘ300",
+      "fr_FR": "0ｘ300"
     },
     {
       "id": "pl_msg_00000326_00199",
-      "en_US": "＋00"
+      "en_US": "＋00",
+      "fr_FR": "＋00"
     },
     {
       "id": "pl_msg_00000326_00200",
-      "en_US": "＋08"
+      "en_US": "＋08",
+      "fr_FR": "＋08"
     },
     {
       "id": "pl_msg_00000326_00201",
-      "en_US": "＋10"
+      "en_US": "＋10",
+      "fr_FR": "＋10"
     },
     {
       "id": "pl_msg_00000326_00202",
-      "en_US": "＋18"
+      "en_US": "＋18",
+      "fr_FR": "＋18"
     },
     {
       "id": "pl_msg_00000326_00203",
-      "en_US": "＋20"
+      "en_US": "＋20",
+      "fr_FR": "＋20"
     },
     {
       "id": "pl_msg_00000326_00204",
-      "en_US": "＋28"
+      "en_US": "＋28",
+      "fr_FR": "＋28"
     },
     {
       "id": "pl_msg_00000326_00205",
-      "en_US": "＋30"
+      "en_US": "＋30",
+      "fr_FR": "＋30"
     },
     {
       "id": "pl_msg_00000326_00206",
-      "en_US": "＋38"
+      "en_US": "＋38",
+      "fr_FR": "＋38"
     },
     {
       "id": "pl_msg_00000326_00207",
-      "en_US": "＋40"
+      "en_US": "＋40",
+      "fr_FR": "＋40"
     },
     {
       "id": "pl_msg_00000326_00208",
-      "en_US": "＋48"
+      "en_US": "＋48",
+      "fr_FR": "＋48"
     },
     {
       "id": "pl_msg_00000326_00209",
-      "en_US": "＋50"
+      "en_US": "＋50",
+      "fr_FR": "＋50"
     },
     {
       "id": "pl_msg_00000326_00210",
-      "en_US": "＋58"
+      "en_US": "＋58",
+      "fr_FR": "＋58"
     },
     {
       "id": "pl_msg_00000326_00211",
-      "en_US": "＋60"
+      "en_US": "＋60",
+      "fr_FR": "＋60"
     },
     {
       "id": "pl_msg_00000326_00212",
-      "en_US": "＋68"
+      "en_US": "＋68",
+      "fr_FR": "＋68"
     },
     {
       "id": "pl_msg_00000326_00213",
-      "en_US": "＋70"
+      "en_US": "＋70",
+      "fr_FR": "＋70"
     },
     {
       "id": "pl_msg_00000326_00214",
-      "en_US": "＋78"
+      "en_US": "＋78",
+      "fr_FR": "＋78"
     },
     {
       "id": "pl_msg_00000326_00215",
-      "en_US": "＋80"
+      "en_US": "＋80",
+      "fr_FR": "＋80"
     },
     {
       "id": "pl_msg_00000326_00216",
-      "en_US": "＋88"
+      "en_US": "＋88",
+      "fr_FR": "＋88"
     },
     {
       "id": "pl_msg_00000326_00217",
-      "en_US": "＋90"
+      "en_US": "＋90",
+      "fr_FR": "＋90"
     },
     {
       "id": "pl_msg_00000326_00218",
-      "en_US": "＋98"
+      "en_US": "＋98",
+      "fr_FR": "＋98"
     },
     {
       "id": "pl_msg_00000326_00219",
-      "en_US": "＋A0"
+      "en_US": "＋A0",
+      "fr_FR": "＋A0"
     },
     {
       "id": "pl_msg_00000326_00220",
-      "en_US": "＋A8"
+      "en_US": "＋A8",
+      "fr_FR": "＋A8"
     },
     {
       "id": "pl_msg_00000326_00221",
-      "en_US": "＋B0"
+      "en_US": "＋B0",
+      "fr_FR": "＋B0"
     },
     {
       "id": "pl_msg_00000326_00222",
-      "en_US": "＋B8"
+      "en_US": "＋B8",
+      "fr_FR": "＋B8"
     },
     {
       "id": "pl_msg_00000326_00223",
-      "en_US": "＋C0"
+      "en_US": "＋C0",
+      "fr_FR": "＋C0"
     },
     {
       "id": "pl_msg_00000326_00224",
-      "en_US": "＋C8"
+      "en_US": "＋C8",
+      "fr_FR": "＋C8"
     },
     {
       "id": "pl_msg_00000326_00225",
-      "en_US": "＋D0"
+      "en_US": "＋D0",
+      "fr_FR": "＋D0"
     },
     {
       "id": "pl_msg_00000326_00226",
-      "en_US": "＋D8"
+      "en_US": "＋D8",
+      "fr_FR": "＋D8"
     },
     {
       "id": "pl_msg_00000326_00227",
-      "en_US": "＋E0"
+      "en_US": "＋E0",
+      "fr_FR": "＋E0"
     },
     {
       "id": "pl_msg_00000326_00228",
-      "en_US": "＋E8"
+      "en_US": "＋E8",
+      "fr_FR": "＋E8"
     },
     {
       "id": "pl_msg_00000326_00229",
-      "en_US": "＋F0"
+      "en_US": "＋F0",
+      "fr_FR": "＋F0"
     },
     {
       "id": "pl_msg_00000326_00230",
-      "en_US": "＋F8"
+      "en_US": "＋F8",
+      "fr_FR": "＋F8"
     },
     {
       "id": "pl_msg_00000326_00231",
-      "en_US": "Save the recorded data"
+      "en_US": "Save the recorded data",
+      "fr_FR": "Save the recorded data"
     },
     {
       "id": "pl_msg_00000326_00232",
-      "en_US": "Obey"
+      "en_US": "Obey",
+      "fr_FR": "Obey"
     },
     {
       "id": "pl_msg_00000326_00233",
-      "en_US": "Disobey"
+      "en_US": "Disobey",
+      "fr_FR": "Disobey"
     }
   ]
 }

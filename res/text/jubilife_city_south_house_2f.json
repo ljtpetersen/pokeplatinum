@@ -9,6 +9,13 @@
         "they get stronger from battling!\r",
         "When they evolve, they can take on\n",
         "completely different forms!"
+      ],
+      "fr_FR": [
+        "Sais-tu que certains Pokémon\n",
+        "évoluent quand ils acquièrent de\f",
+        "l’expérience au combat?\r",
+        "Quand ils évoluent, ils peuvent prendre\n",
+        "des formes totalement différentes."
       ]
     },
     {
@@ -18,6 +25,13 @@
         "much more fascinating.\r",
         "The mysteries of evolution... Can that\n",
         "dandy Prof. Rowan unravel them?"
+      ],
+      "fr_FR": [
+        "Le fait qu’ils évoluent rend les Pokémon\n",
+        "encore plus passionnants.\r",
+        "Les mystères de l’évolution...\n",
+        "L’éminent Professeur Sorbier\f",
+        "saura-t-il les décrypter?"
       ]
     },
     {
@@ -25,6 +39,11 @@
       "en_US": [
         "Didn’t Prof. Rowan conduct research\n",
         "with Prof. Oak of the Kanto region?"
+      ],
+      "fr_FR": [
+        "Les Professeurs Sorbier et Chen, de\n",
+        "la région de Kanto, ont fait des\f",
+        "recherches ensemble, non?"
       ]
     }
   ]

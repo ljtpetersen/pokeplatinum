@@ -32,6 +32,10 @@
             "en_US": [
                 "Mike: I can’t embarrass myself again.\n",
                 "Not in front of my girlfriend!\r"
+            ],
+            "fr_FR": [
+                "Téo: Je ne peux pas me ridiculiser\n",
+                "encore. Pas devant ma petite amie!\r"
             ]
         },
         {
@@ -39,6 +43,10 @@
             "en_US": [
                 "Mike: Awww, jeez.\n",
                 "Man, that’s a downer...\n"
+            ],
+            "fr_FR": [
+                "Téo: Ahhh, mince.\n",
+                "Quelle déprime...\n"
             ]
         },
         {
@@ -46,6 +54,10 @@
             "en_US": [
                 "Mike: Coming here again brings back\n",
                 "all kinds of memories of me and Nat.\n"
+            ],
+            "fr_FR": [
+                "Téo: Revenir ici nous rappelle plein de\n",
+                "souvenirs avec Lili.\n"
             ]
         },
         {
@@ -53,6 +65,10 @@
             "en_US": [
                 "Mike: You can’t battle with us.\n",
                 "Not with one Pokémon, anyway.\n"
+            ],
+            "fr_FR": [
+                "Téo: Tu ne peux pas nous battre.\n",
+                "Pas avec un seul Pokémon, en tout cas.\n"
             ]
         },
         {
@@ -60,6 +76,10 @@
             "en_US": [
                 "Nat: I don’t want to look bad again.\n",
                 "Not when my boyfriend is watching!\r"
+            ],
+            "fr_FR": [
+                "Lili: Je ne veux pas encore avoir l’air\n",
+                "ridicule. Pas devant mon petit copain!\r"
             ]
         },
         {
@@ -67,6 +87,10 @@
             "en_US": [
                 "Nat: This makes me feel hollow\n",
                 "inside... Oh, so hollow...\n"
+            ],
+            "fr_FR": [
+                "Lili: Je me sens vide à l’intérieur...\n",
+                "Oh, si vide...\n"
             ]
         },
         {
@@ -74,6 +98,10 @@
             "en_US": [
                 "Nat: The Pokémon that brought me and\n",
                 "Mike together is buried here...\n"
+            ],
+            "fr_FR": [
+                "Lili: Le Pokémon qui nous a réunis, Téo\n",
+                "et moi, est enterré ici...\n"
             ]
         },
         {
@@ -81,7 +109,12 @@
             "en_US": [
                 "Nat: You do have at least two\n",
                 "Pokémon, don’t you?\n"
+            ],
+            "fr_FR": [
+                "Lili: Tu as au moins deux Pokémon,\n",
+                "n’est-ce pas?\n"
             ]
         }
-    ]
+    ],
+    "name_fr": "Téo & Lili"
 }

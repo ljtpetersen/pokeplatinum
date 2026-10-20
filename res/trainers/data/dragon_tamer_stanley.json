@@ -36,6 +36,12 @@
                 "I’m Stanley, and I’m a Dragon Tamer.\r",
                 "What do you say we let our Pokémon\n",
                 "have it out? Sound OK to you?\r"
+            ],
+            "fr_FR": [
+                "Comment ça va? Moi, c’est Sébastien, je\n",
+                "suis un Dracologue.\r",
+                "Que dirais-tu d’un petit combat de\n",
+                "Pokémon? Ça te tente?\r"
             ]
         },
         {
@@ -43,6 +49,10 @@
             "en_US": [
                 "Victory!\n",
                 "That is, victory for you...\n"
+            ],
+            "fr_FR": [
+                "Victoire!\n",
+                "Je veux dire, victoire... pour toi!\n"
             ]
         },
         {
@@ -54,6 +64,14 @@
                 "take it slow, and take it my own way.\r",
                 "I figure there’s more than my style\n",
                 "that I need to work on first.\n"
+            ],
+            "fr_FR": [
+                "Les Dracologues ont une certaine\n",
+                "réputation, je crois.\r",
+                "Moi, je ne suis pas sûr d’être à la\n",
+                "hauteur de cette réputation.\r",
+                "Ça m’est égal. J’ai mon propre style.\n",
+                "Mais ça n’a pas l’air de suffire...\n"
             ]
         },
         {
@@ -62,7 +80,13 @@
                 "Hey, how do you do again?\r",
                 "What do you say we let our Pokémon\n",
                 "have at it again? Sound OK to you?\r"
+            ],
+            "fr_FR": [
+                "Salut! Ça va toujours?\r",
+                "Que dirais-tu d’un petit combat de\n",
+                "Pokémon? Ça te tente?\r"
             ]
         }
-    ]
+    ],
+    "name_fr": "Sébastien"
 }

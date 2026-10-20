@@ -16,6 +16,20 @@
         "It’s a place where the best seek to\n",
         "better themselves.\r",
         "Welcome to the Battleground!"
+      ],
+      "fr_FR": [
+        "Euh, tu es qui, toi?\n",
+        "Ah oui, une connaissance de Cornil!\r",
+        "Cornil et Lovis m’ont parlé de toi\n",
+        "en effet.\r",
+        "Eh bien, on t’accueillera toujours à\n",
+        "bras ouverts ici!\r",
+        "Nous sommes un club privé réservé aux\n",
+        "Champions d’Arène de Sinnoh, ainsi\f",
+        "qu’à leurs protégés.\r",
+        "L’élite des Dresseurs vient ici pour\n",
+        "s’entraîner.\r",
+        "Bienvenue au Café Combats!"
       ]
     },
     {
@@ -33,6 +47,21 @@
         "to keep the Pokémon pinned down.\r",
         "It kept the Pokémon from rampaging\n",
         "and the volcano from erupting."
+      ],
+      "fr_FR": [
+        "De quoi va-t-on discuter aujourd’hui?\n",
+        "Ah, je sais!\r",
+        "Je vais te parler du volcan qu’on\n",
+        "appelle le Mont Abrupt.\r",
+        "Il date de la création de Sinnoh, quand\n",
+        "le temps et l’espace ont été liés.\r",
+        "Des geysers de lave ont alors jailli\n",
+        "pour donner naissance à un Pokémon.\r",
+        "Il paraît qu’on a dû avoir recours\n",
+        "à la Pierre Magma pour le calmer.\r",
+        "Elle a empêché le Pokémon de se\n",
+        "déchaîner et le volcan d’entrer\f",
+        "en éruption."
       ]
     },
     {
@@ -40,6 +69,10 @@
       "en_US": [
         "Welcome to the Battleground!\n",
         "Make yourself at home like always."
+      ],
+      "fr_FR": [
+        "Bienvenue au Café Combats!\n",
+        "Fais comme chez toi."
       ]
     },
     {
@@ -60,6 +93,15 @@
         "Well, I’m off to the Battle Frontier.\r",
         "I feel like seeing how far I can go up\n",
         "the Tower.\r"
+      ],
+      "fr_FR": [
+        "Cornil: Chez moi, seuls les meilleurs\n",
+        "Dresseurs peuvent entrer.\r",
+        "Normalement, il faut être intronisé par\n",
+        "un Champion d’Arène, mais tu es à part.\r",
+        "Bon, je pars pour la Zone de Combat.\r",
+        "Je vais voir jusqu’où je peux aller\n",
+        "dans la Tour.\r"
       ]
     },
     {
@@ -95,6 +137,14 @@
         "up Fossils nonstop.\r",
         "Could I show you how tough I made them\n",
         "in a battle?"
+      ],
+      "fr_FR": [
+        "Pierrick: Je vais dans le Souterrain\n",
+        "tous les jours.\r",
+        "Mes Pokémon se sont endurcis à force\n",
+        "de déterrer des Fossiles.\r",
+        "Puis-je te faire une démonstration\n",
+        "de nos talents?"
       ]
     },
     {
@@ -102,6 +152,10 @@
       "en_US": [
         "Roark: Here goes! These are my rocking\n",
         "Pokémon, my pride and joy!\r"
+      ],
+      "fr_FR": [
+        "Pierrick: C’est parti! En piste, mes\n",
+        "Pokémon, ma fierté!\r"
       ]
     },
     {
@@ -115,6 +169,15 @@
         "you leave them buried?\r",
         "It’s not a huge issue or anything, but\n",
         "doesn’t it strike you as odd?"
+      ],
+      "fr_FR": [
+        "Pierrick: Ça n’a rien à voir, mais tu\n",
+        "as déjà entendu parler des Sphères?\r",
+        "Oui, celles que tu peux dénicher dans\n",
+        "le Souterrain.\r",
+        "Pourquoi crois-tu qu’elles grandissent\n",
+        "quand on les enterre?\r",
+        "Tu ne trouves pas ça bizarre?"
       ]
     },
     {
@@ -123,6 +186,11 @@
         "Roark: Look, can I have some time?\r",
         "I feel lucky to have run into you here,\n",
         "so can I challenge you to a battle?"
+      ],
+      "fr_FR": [
+        "Pierrick: Dis, tu as un moment?\r",
+        "J’ai de la chance d’être tombé sur toi,\n",
+        "alors je voudrais te défier. D’accord?"
       ]
     },
     {
@@ -131,6 +199,11 @@
         "Roark: ...We lost control there.\r",
         "Next time, I’d like to challenge you to\n",
         "a Fossil-digging race underground."
+      ],
+      "fr_FR": [
+        "Pierrick: On a perdu le contrôle.\r",
+        "La prochaine fois, on fera une chasse\n",
+        "aux Fossiles en temps limité."
       ]
     },
     {
@@ -139,6 +212,11 @@
         "Roark: Would you like to battle?\r",
         "You’ll get to see a different me than\n",
         "you saw at my Gym."
+      ],
+      "fr_FR": [
+        "Pierrick: Tu veux te battre?\r",
+        "Je te montrerai une autre facette de\n",
+        "ma personnalité qu’à l’Arène."
       ]
     },
     {
@@ -148,6 +226,12 @@
         "to send out.\r",
         "It’s tougher than even my dad’s\n",
         "AGGRON!\r"
+      ],
+      "fr_FR": [
+        "Pierrick: Apprête-toi à affronter mon\n",
+        "TYRANOCIF!\r",
+        "Il est encore plus redoutable que\n",
+        "le GALEKING de mon père!\r"
       ]
     },
     {
@@ -155,11 +239,16 @@
       "en_US": [
         "Roark: Hmm...\n",
         "That’s a heartbreaking answer."
+      ],
+      "fr_FR": [
+        "Pierrick: Hum...\n",
+        "Tu me fends le cœur."
       ]
     },
     {
       "id": "Battleground_Text_RoarkAskBattleAgain2",
-      "en_US": "Roark: Oh, you do want to battle?"
+      "en_US": "Roark: Oh, you do want to battle?",
+      "fr_FR": "Pierrick: Oh, tu veux te battre?"
     },
     {
       "id": "Battleground_Text_RoarkDefeat2",
@@ -170,6 +259,14 @@
         "discovered...\r",
         "I wonder if I can find new Fossils if\n",
         "I dig all over Sinnoh?"
+      ],
+      "fr_FR": [
+        "Pierrick: Des Pokémon des temps\n",
+        "anciens...\r",
+        "Des Fossiles qui attendent qu’on\n",
+        "les découvre...\r",
+        "Tu crois que je trouverai de nouveaux\n",
+        "Fossiles si je retourne tout Sinnoh?"
       ]
     },
     {
@@ -179,6 +276,12 @@
         "I finally realized how great my dad is.\r",
         "Not that I’d ever admit that to him,\n",
         "of course."
+      ],
+      "fr_FR": [
+        "Pierrick: Quand je suis devenu Champion\n",
+        "d’Arène, j’ai enfin pris toute la mesure\f",
+        "du talent de mon père.\r",
+        "Mais jamais je ne l’admettrai devant lui."
       ]
     },
     {
@@ -188,6 +291,10 @@
         "well?\r",
         "Let’s cut to the good stuff!\n",
         "Let’s get down to battle!"
+      ],
+      "fr_FR": [
+        "Flo: Salut, comment vas-tu?\r",
+        "Allons droit au but et battons-nous!"
       ]
     },
     {
@@ -196,6 +303,12 @@
         "Gardenia: Yes, that’s right!\r",
         "A battle will tell you if someone you\n",
         "haven’t seen’s been keeping well!\r"
+      ],
+      "fr_FR": [
+        "Flo: A la bonne heure!\r",
+        "Le combat est la meilleure façon\n",
+        "d’évaluer l’état de santé d’une\f",
+        "vieille connaissance!\r"
       ]
     },
     {
@@ -205,6 +318,12 @@
         "You’re not in the mood, huh?\r",
         "Well, why not polish your Badges, then?\n",
         "That might put a shine on your day, too."
+      ],
+      "fr_FR": [
+        "Flo: Tu refuses de te battre?\n",
+        "Tu n’es pas d’humeur, ou quoi?\r",
+        "Alors, tu devrais astiquer tes Badges.\n",
+        "Ça éclairera peut-être ta journée."
       ]
     },
     {
@@ -212,6 +331,10 @@
       "en_US": [
         "Gardenia: Oh?\n",
         "You do want a battle?"
+      ],
+      "fr_FR": [
+        "Flo: Oh?\n",
+        "Un petit combat, ça te dit?"
       ]
     },
     {
@@ -223,6 +346,14 @@
         "tough as I can.\r",
         "It’s not fair to my Pokémon if we were\n",
         "to lose because of me."
+      ],
+      "fr_FR": [
+        "Flo: Sorti de son Arène, un Champion\n",
+        "est un Dresseur comme un autre.\r",
+        "Mais je donne le meilleur de moi-même,\n",
+        "où que j’aille.\r",
+        "Ce ne serait pas juste envers mes\n",
+        "Pokémon, si on perdait par ma faute."
       ]
     },
     {
@@ -234,6 +365,14 @@
         "you have, too.\r",
         "Want to battle?\n",
         "A real quick one?"
+      ],
+      "fr_FR": [
+        "Flo: Mes Pokémon de type Plante n’en\n",
+        "finissent pas de grandir et de\f",
+        "progresser.\r",
+        "J’aimerais bien savoir quels Pokémon\n",
+        "tu as.\r",
+        "Alors, on se fait un petit combat?"
       ]
     },
     {
@@ -243,6 +382,13 @@
         "Pokémon have many weak points.\r",
         "But I’ll show you that’s not the only\n",
         "factor in deciding who wins!\r"
+      ],
+      "fr_FR": [
+        "Flo: Les Pokémon de type Plante ont de\n",
+        "nombreux points faibles, c’est\f",
+        "indéniable.\r",
+        "Mais je vais te prouver qu’il n’y a pas\n",
+        "que ça qui compte dans un combat!\r"
       ]
     },
     {
@@ -251,6 +397,11 @@
         "Gardenia: Aww, really?\r",
         "My grass Pokémon are growing good\n",
         "and strong, too..."
+      ],
+      "fr_FR": [
+        "Flo: Oooh, vraiment?\r",
+        "J’ai aussi de vraies plantes en forme\n",
+        "de Pokémon qui grandissent bien..."
       ]
     },
     {
@@ -260,6 +411,12 @@
         "growing good and strong.\r",
         "Come on, let’s battle!\n",
         "A real quick one, OK?"
+      ],
+      "fr_FR": [
+        "Flo: Mes Pokémon de type Plante n’en\n",
+        "finissent pas de grandir et de\f",
+        "progresser.\r",
+        "Alors, on se fait un petit combat?"
       ]
     },
     {
@@ -273,6 +430,16 @@
         "...I’m here just for fun...\r",
         "Ahahaha!\n",
         "Don’t mind me!"
+      ],
+      "fr_FR": [
+        "Flo: Au fait...\n",
+        "Tu as visité le Vieux Château?\r",
+        "Moi? Euh, tu sais, être Champion d’Arène\n",
+        "est une occupation à plein temps...\r",
+        "En fait, je suis là pour m’entraîner...\n",
+        "Enfin, pour m’amuser...\r",
+        "Ah, ah, ah!\n",
+        "Ne fais pas attention à ce que je dis!"
       ]
     },
     {
@@ -283,11 +450,18 @@
         "And I shall win.\r",
         "You will be startled by how much\n",
         "stronger I have become!"
+      ],
+      "fr_FR": [
+        "Kiméra: Te voilà enfin!\r",
+        "Tu vas donc me défier.\n",
+        "Et moi, je vais gagner.\r",
+        "Mes progrès vont t’éblouir!"
       ]
     },
     {
       "id": "Battleground_Text_FantinaIntro",
-      "en_US": "{SIZE 200}Ohohoho!!{SIZE 100}\r"
+      "en_US": "{SIZE 200}Ohohoho!!{SIZE 100}\r",
+      "fr_FR": "{SIZE 200}Oh, oh, oh!!{SIZE 100}\r"
     },
     {
       "id": "Battleground_Text_FantinaDeclinedBattle",
@@ -296,6 +470,12 @@
         "It is very sad.\r",
         "But, realize, you have not beaten me\n",
         "if you refuse."
+      ],
+      "fr_FR": [
+        "Kiméra: Je suis très déçue.\n",
+        "C’est bien triste.\r",
+        "Tu n’as aucune chance de me vaincre\n",
+        "si tu refuses de te battre."
       ]
     },
     {
@@ -306,6 +486,12 @@
         "But I shall win.\r",
         "You will be startled by how much\n",
         "stronger I have become!"
+      ],
+      "fr_FR": [
+        "Kiméra: Cette fois, tu vas me défier\n",
+        "pour de bon, n’est-il pas?\r",
+        "Et je vais gagner.\r",
+        "Mes progrès vont t’éblouir!"
       ]
     },
     {
@@ -317,6 +503,14 @@
         "purpose!\r",
         "My purpose, it is to defeat you!\n",
         "It is a gift from you to me!"
+      ],
+      "fr_FR": [
+        "Kiméra: Tu es un incroyable Dresseur!\n",
+        "Very fantastic!\r",
+        "Je suis enchantée car j’ai un but\n",
+        "désormais!\r",
+        "Et c’est de te vaincre!\n",
+        "Je te remercie!"
       ]
     },
     {
@@ -326,6 +520,12 @@
         "Are you not taking part in Contests?\r",
         "Since you are involving yourself in\n",
         "Contests, you should challenge me."
+      ],
+      "fr_FR": [
+        "Kiméra: Oh? C’est toi?\n",
+        "Tu participes aux Concours, yes?\r",
+        "Puisque c’est ça, nous devons\n",
+        "nous battre."
       ]
     },
     {
@@ -335,6 +535,12 @@
         "always without fail.\r",
         "Why, you ask? Because, in those\n",
         "moments, we are at our most serious.\r"
+      ],
+      "fr_FR": [
+        "Kiméra: Les combats de Pokémon, c’est\n",
+        "toujours fun.\r",
+        "Parce que dans ces moments-là, fini\n",
+        "la rigolade, c’est sérieux.\r"
       ]
     },
     {
@@ -344,6 +550,12 @@
         "Well, that is OK, also.\r",
         "Just seeing your face, it has made me\n",
         "happy."
+      ],
+      "fr_FR": [
+        "Kiméra: Non?\n",
+        "Bon, c’est OK, je suppose.\r",
+        "Voir ton visage a suffi à me rendre\n",
+        "heureuse."
       ]
     },
     {
@@ -351,6 +563,10 @@
       "en_US": [
         "Fantina: Yes, what is it?\n",
         "I accept your challenge if you give it!"
+      ],
+      "fr_FR": [
+        "Kiméra: Yes, c’est à quel sujet?\n",
+        "Lance-moi un défi et je le relèverai!"
       ]
     },
     {
@@ -358,6 +574,10 @@
       "en_US": [
         "Fantina: I wish to battle as if I were\n",
         "dancing."
+      ],
+      "fr_FR": [
+        "Kiméra: Je veux me battre comme sur\n",
+        "le dance floor."
       ]
     },
     {
@@ -369,6 +589,14 @@
         "my Pokémon and I have changed.\r",
         "That’s why I would like to challenge\n",
         "you for a rematch now, {STRVAR_1 3, 0, 0}."
+      ],
+      "fr_FR": [
+        "Mélina: Perdre plusieurs fois contre\n",
+        "le même Dresseur ne me dérange pas.\r",
+        "Me battre contre lui me permet\n",
+        "d’évaluer les progrès de mon équipe.\r",
+        "Aussi, je souhaiterais me battre à\n",
+        "nouveau contre toi, {STRVAR_1 3, 0, 0}."
       ]
     },
     {
@@ -378,6 +606,12 @@
         "Oh, that’s my bow before a match.\r",
         "{STRVAR_1 3, 0, 0}, I’m throwing everything\n",
         "I have at you!\r"
+      ],
+      "fr_FR": [
+        "Mélina: OK! Rei!\n",
+        "C’est mon salut d’avant-match.\r",
+        "{STRVAR_1 3, 0, 0}, prépare-toi à en voir\n",
+        "de toutes les couleurs!\r"
       ]
     },
     {
@@ -386,6 +620,11 @@
         "Maylene: Sigh...\r",
         "I braced myself for a battle.\n",
         "This is a little deflating..."
+      ],
+      "fr_FR": [
+        "Mélina: Pfiou...\r",
+        "Je m’étais préparée à combattre.\n",
+        "C’est un peu décevant..."
       ]
     },
     {
@@ -393,6 +632,10 @@
       "en_US": [
         "Maylene: Yes, what is it, {STRVAR_1 3, 0, 0}?\n",
         "Would you maybe like a battle?"
+      ],
+      "fr_FR": [
+        "Mélina: Oui, qu’y a-t-il, {STRVAR_1 3, 0, 0}?\n",
+        "Tu voulais te battre, peut-être?"
       ]
     },
     {
@@ -403,6 +646,13 @@
         "all delicious.\r",
         "That’s not all! We can eat all we want.\n",
         "Isn’t that amazing, {STRVAR_1 3, 0, 0}?"
+      ],
+      "fr_FR": [
+        "Mélina: J’adore venir ici.\r",
+        "Le grand-père de Cornil nous prépare\n",
+        "de bons petits plats.\r",
+        "Et ce n’est pas tout! On peut manger\n",
+        "autant qu’on veut. Super, non?"
       ]
     },
     {
@@ -412,6 +662,12 @@
         "gave me the strength to keep going.\r",
         "Please, {STRVAR_1 3, 0, 0}, accept my\n",
         "challenge!"
+      ],
+      "fr_FR": [
+        "Mélina: La compagnie des Pokémon m’a\n",
+        "donné le courage de persévérer.\r",
+        "S’il te plaît, {STRVAR_1 3, 0, 0}, accepte\n",
+        "mon défi!"
       ]
     },
     {
@@ -419,7 +675,8 @@
       "en_US": [
         "Maylene: OK, here we come,\n",
         "{STRVAR_1 3, 0, 0}!\r"
-      ]
+      ],
+      "fr_FR": "Mélina: OK, prépare-toi, {STRVAR_1 3, 0, 0}!\r"
     },
     {
       "id": "Battleground_Text_MayleneDeclinedBattle2",
@@ -427,6 +684,11 @@
         "Maylene: OK! Got it!\r",
         "We’ll train much harder so we can\n",
         "battle with you, {STRVAR_1 3, 0, 0}."
+      ],
+      "fr_FR": [
+        "Mélina: Message reçu!\r",
+        "On va s’entraîner dur pour pouvoir te\n",
+        "battre, {STRVAR_1 3, 0, 0}."
       ]
     },
     {
@@ -435,6 +697,11 @@
         "Maylene: {STRVAR_1 3, 0, 0}!\n",
         "I know I’m being a pest, but please,\f",
         "accept our challenge!"
+      ],
+      "fr_FR": [
+        "Mélina: {STRVAR_1 3, 0, 0}!\n",
+        "Au risque d’être lourde, je t’en prie,\f",
+        "accepte notre défi!"
       ]
     },
     {
@@ -445,6 +712,13 @@
         "go barefoot.\r",
         "Come to think of it, the Pokémon are\n",
         "all barefooted."
+      ],
+      "fr_FR": [
+        "Mélina: Hé, {STRVAR_1 3, 0, 0}!\r",
+        "Il paraît que c’est plus sain de\n",
+        "marcher pieds nus.\r",
+        "Maintenant que j’y pense, tous les\n",
+        "Pokémon se déplacent pieds nus."
       ]
     },
     {
@@ -454,6 +728,11 @@
         "here?\r",
         "Seems to me there’s nothing to do but\n",
         "battle!"
+      ],
+      "fr_FR": [
+        "Lovis: Comment un Dresseur peut-il tuer\n",
+        "le temps, ici?\r",
+        "En se battant, on dirait!"
       ]
     },
     {
@@ -462,6 +741,12 @@
         "Wake: My Pokémon have new Water-type\n",
         "moves under their belts!\r",
         "Let’s see how you bear up under them!\r"
+      ],
+      "fr_FR": [
+        "Lovis: Mes Pokémon ont de nouvelles\n",
+        "capacités de type Eau dans leur\f",
+        "manche!\r",
+        "Voyons si tu t’en sors face à eux!\r"
       ]
     },
     {
@@ -479,6 +764,21 @@
         "Run from electricity, Crasher Wake!\r",
         "Ah, ah, aaaah!\n",
         "The ring is my sea. ♫"
+      ],
+      "fr_FR": [
+        "Lovis: Ecoute ma chanson pour la peine!\n",
+        "Ahem!\r",
+        "Sur le ring, pareil à un loup de mer, ♫\n",
+        "les flots ont façonné mon âme\f",
+        "guerrière.\r",
+        "Bang! C’est moi Lovis le Teigneux!\n",
+        "Bang! C’est moi Lovis le Teigneux!\r",
+        "La déferlante toute puissante prête à\n",
+        "vous submerger!\r",
+        "J’éteins les flammes les plus ardentes!\n",
+        "Mais j’évite l’électricité mordante!\r",
+        "Ah, ah, aaaah! Je me déchaîne sur le\n",
+        "ring comme une tempête en mer. ♫"
       ]
     },
     {
@@ -488,6 +788,11 @@
         "We understand each other through\n",
         "battle!\r",
         "That’s what makes us Trainers!"
+      ],
+      "fr_FR": [
+        "Lovis: Les mots sont superflus.\r",
+        "C’est en se battant qu’on se comprend!\r",
+        "Voilà ce qui fait de nous des Dresseurs!"
       ]
     },
     {
@@ -500,6 +805,16 @@
         "One of these days, I hope to battle\n",
         "everyone in the world...\r",
         "Isn’t that right, {STRVAR_1 3, 0, 0}?!"
+      ],
+      "fr_FR": [
+        "Lovis: Que chacun des adversaires\n",
+        "profite de l’expérience sans se\f",
+        "préoccuper de l’issue du combat...\r",
+        "Voilà ce que je recherche.\r",
+        "Mon but est de combattre tous les\n",
+        "Dresseurs de l’univers...\r",
+        "Tu es d’accord là-dessus,\n",
+        "{STRVAR_1 3, 0, 0}?!"
       ]
     },
     {
@@ -513,6 +828,16 @@
         "at them and then pull you under!\r",
         "Victory will be ours!\n",
         "Come on, let’s get it done!"
+      ],
+      "fr_FR": [
+        "Lovis: Salut!\n",
+        "Comment ça va?\r",
+        "Mes Pokémon se sont endurcis au\n",
+        "contact des flots déchaînés!\r",
+        "Ils encaisseront tes coups avant\n",
+        "de te submerger!\r",
+        "La victoire sera nôtre!\n",
+        "Allez, qu’on en finisse!"
       ]
     },
     {
@@ -520,6 +845,10 @@
       "en_US": [
         "Wake: That’s the spirit!\n",
         "Bring it on!\r"
+      ],
+      "fr_FR": [
+        "Lovis: Voilà qui est parlé!\n",
+        "Lâche-toi!\r"
       ]
     },
     {
@@ -528,6 +857,11 @@
         "Wake: Whoops!\r",
         "You’re giving me the slip?\n",
         "You’re a slick one, {STRVAR_1 3, 0, 0}!"
+      ],
+      "fr_FR": [
+        "Lovis: Oups!\r",
+        "Tu te défiles, {STRVAR_1 3, 0, 0}? Tu glisses\n",
+        "entre mes doigts comme de l’eau!"
       ]
     },
     {
@@ -535,7 +869,8 @@
       "en_US": [
         "Wake: So, what’s the story?\n",
         "Are we gonna battle?"
-      ]
+      ],
+      "fr_FR": "Lovis: Alors, quoi? On se bat?"
     },
     {
       "id": "Battleground_Text_WakeDefeat2",
@@ -548,6 +883,16 @@
         "There’s no end to it.\r",
         "But beside me always are my Pokémon.\n",
         "Every inch of the way!"
+      ],
+      "fr_FR": [
+        "Lovis: Je m’entraîne sans cesse mais\n",
+        "beaucoup sont plus forts que moi.\r",
+        "Plus je m’améliore, plus mes adversaires\n",
+        "sont coriaces.\r",
+        "La route est longue et pénible.\n",
+        "Quasi-infinie!\r",
+        "Mais j’ai toujours mes Pokémon avec moi.\n",
+        "Ils ne me quittent pas d’une semelle!"
       ]
     },
     {
@@ -560,6 +905,16 @@
         "I have the confidence now to batter\n",
         "down your defenses.\r",
         "Could I ask you for a rematch?"
+      ],
+      "fr_FR": [
+        "Charles: En tant que Champion d’Arène,\n",
+        "j’ai affronté bien des Dresseurs.\r",
+        "Je me suis entraîné des jours et des\n",
+        "jours sur l’Ile de Fer tout en\f",
+        "méditant sur moi-même...\r",
+        "A présent, je suis capable de\n",
+        "t’écraser.\r",
+        "Acceptes-tu de me donner ma revanche?"
       ]
     },
     {
@@ -568,6 +923,11 @@
         "Byron: We are tempered and honed by\n",
         "battling the strong.\r",
         "Here’s to our showdown!\r"
+      ],
+      "fr_FR": [
+        "Charles: C’est en se battant contre\n",
+        "l’élite qu’on se galvanise.\r",
+        "En route pour le combat des chefs!\r"
       ]
     },
     {
@@ -575,6 +935,11 @@
       "en_US": [
         "Byron: When you came to the Gym, you\n",
         "had a glint that’s dulled now."
+      ],
+      "fr_FR": [
+        "Charles: Quand tu m’as défié à l’Arène,\n",
+        "tu brillais d’un éclat qui depuis\f",
+        "s’est terni."
       ]
     },
     {
@@ -583,6 +948,11 @@
         "Byron: I have the confidence now to\n",
         "batter down your defenses.\r",
         "Could I ask you for a rematch?"
+      ],
+      "fr_FR": [
+        "Charles: A présent, je suis capable de\n",
+        "t’écraser.\r",
+        "Acceptes-tu de me donner ma revanche?"
       ]
     },
     {
@@ -593,6 +963,13 @@
         "Pokémon...\r",
         "Gwahahahaha!\n",
         "I could still use more toughening up!"
+      ],
+      "fr_FR": [
+        "Charles: Sur l’Ile de Fer, mon équipe\n",
+        "et moi nous sommes endurcis en tapant\f",
+        "contre de l’acier...\r",
+        "Gwa, ah, ah! Ça ne me ferait pas de mal\n",
+        "de continuer à m’entraîner!"
       ]
     },
     {
@@ -603,6 +980,13 @@
         "I think we’ve addressed our\n",
         "shortcomings.\r",
         "Could I ask you for another rematch?"
+      ],
+      "fr_FR": [
+        "Charles: Depuis que tu nous as battus,\n",
+        "on n’a pas arrêté de s’entraîner.\r",
+        "Je crois qu’on a remédié à\n",
+        "nos faiblesses.\r",
+        "Tu veux bien m’accorder une revanche?"
       ]
     },
     {
@@ -611,6 +995,11 @@
         "Byron: Thank you!\r",
         "Like me, my Pokémon were longing for\n",
         "another chance to battle with you!\r"
+      ],
+      "fr_FR": [
+        "Charles: Merci!\r",
+        "Mes Pokémon et moi rêvions de te\n",
+        "combattre à nouveau!\r"
       ]
     },
     {
@@ -620,6 +1009,13 @@
         "That’s disappointing, but all right!\r",
         "There’s a lot to be learned by battling\n",
         "you. We had our hopes up."
+      ],
+      "fr_FR": [
+        "Charles: Gwa, ah, ah!\n",
+        "C’est décevant, mais tant pis!\r",
+        "Un combat contre toi est toujours riche\n",
+        "en enseignements.\r",
+        "On comptait beaucoup là-dessus!"
       ]
     },
     {
@@ -627,6 +1023,10 @@
       "en_US": [
         "Byron: Could I ask you for another\n",
         "rematch?"
+      ],
+      "fr_FR": [
+        "Charles: J’aimerais prendre ma\n",
+        "revanche sur toi. C’est d’accord?"
       ]
     },
     {
@@ -638,6 +1038,14 @@
         "together...?\r",
         "No, that’s too embarrassing...\n",
         "Hmm... This is a dilemma..."
+      ],
+      "fr_FR": [
+        "Charles: Argh...\n",
+        "On a encore perdu...\r",
+        "Et si je proposais à mon fils Pierrick\n",
+        "qu’on s’entraîne ensemble...?\r",
+        "Non, c’est trop gênant...\n",
+        "Hum... Quel dilemme!"
       ]
     },
     {
@@ -648,6 +1056,15 @@
         "My act needs polishing still, I fear...\r",
         "Ah, it’s you!\n",
         "Don’t mind me. Make yourself at home."
+      ],
+      "fr_FR": [
+        "Charles: Que va-t-il imaginer, Pierrick?\r",
+        "Qu’il va apprendre à un vieux singe à\n",
+        "faire la grimace?\r",
+        "Il faut que je revoie ma manière de\n",
+        "l’aborder...\r",
+        "Ah, c’est toi! Ne fais pas attention\n",
+        "à moi! Fais comme chez toi..."
       ]
     },
     {
@@ -658,6 +1075,13 @@
         "I bet you can’t tell what I’m thinking!\r",
         "I’ll give the answer away.\n",
         "I want to battle with you!"
+      ],
+      "fr_FR": [
+        "Gladys: Hiya!\n",
+        "Quoi de neuf?\r",
+        "Tu ne devineras jamais à quoi je pense!\r",
+        "Allez, je te le dis: je veux me battre\n",
+        "contre toi!"
       ]
     },
     {
@@ -665,6 +1089,10 @@
       "en_US": [
         "Candice: This time, Candice is going to\n",
         "push through on willpower!\r"
+      ],
+      "fr_FR": [
+        "Gladys: Cette fois-ci, Gladys va gagner\n",
+        "à force de volonté!\r"
       ]
     },
     {
@@ -672,6 +1100,10 @@
       "en_US": [
         "Candice: Oh...\n",
         "Did my willpower intimidate you?"
+      ],
+      "fr_FR": [
+        "Gladys: Oh...\n",
+        "C’est ma volonté qui te fait peur?"
       ]
     },
     {
@@ -679,6 +1111,10 @@
       "en_US": [
         "Candice: Listen, listen.\n",
         "You’ll battle Candice, won’t you?"
+      ],
+      "fr_FR": [
+        "Gladys: Dis-moi, tu vas relever mon\n",
+        "défi, n’est-ce pas?"
       ]
     },
     {
@@ -687,6 +1123,11 @@
         "Candice: Oh, wow, your scarf is totally\n",
         "in fashion.\r",
         "I wish I had one like that."
+      ],
+      "fr_FR": [
+        "Gladys: Waouh! Ton écharpe est top\n",
+        "tendance.\r",
+        "Je veux la même!"
       ]
     },
     {
@@ -696,6 +1137,13 @@
         "I’m blazing hot!\r",
         "Hot enough to melt Ice-type Pokémon!\r",
         "I need a battle to cool me down!"
+      ],
+      "fr_FR": [
+        "Gladys: Je suis en feu!\r",
+        "Je bouillonne littéralement!\r",
+        "Suffisamment pour faire fondre des\n",
+        "Pokémon de type Glace!\r",
+        "Vite un combat, pour me rafraîchir!"
       ]
     },
     {
@@ -704,18 +1152,25 @@
         "Candice: OK! I’ll show you how good\n",
         "Candice...\r",
         "I mean, how good my Pokémon can be!\r"
+      ],
+      "fr_FR": [
+        "Gladys: OK! Je vais te montrer mes\n",
+        "pouvoirs...\r",
+        "Ou plutôt, ceux de mes Pokémon!\r"
       ]
     },
     {
       "id": "Battleground_Text_CandiceDeclinedBattle2",
-      "en_US": "Candice: Awww!"
+      "en_US": "Candice: Awww!",
+      "fr_FR": "Gladys: Ooooh!"
     },
     {
       "id": "Battleground_Text_CandiceAskBattleAgain2",
       "en_US": [
         "Candice: You really want to battle\n",
         "with me, don’t you?"
-      ]
+      ],
+      "fr_FR": "Gladys: Tu veux te battre, pas vrai?"
     },
     {
       "id": "Battleground_Text_CandiceDefeat2",
@@ -724,6 +1179,12 @@
         "That’s it!\r",
         "I’m going to train so I can throw a\n",
         "Focus Punch myself!"
+      ],
+      "fr_FR": [
+        "Gladys: Oooh!\n",
+        "C’est décidé!\r",
+        "Je vais m’entraîner pour pouvoir \n",
+        "utiliser moi-même Mitra-Poing!"
       ]
     },
     {
@@ -734,6 +1195,12 @@
         "Of course, you can sense the power of\n",
         "my Pokémon, can’t you?\r",
         "Let us battle with you!"
+      ],
+      "fr_FR": [
+        "Tanguy: Tes Pokémon...\n",
+        "Je sens leur puissance!\r",
+        "Tu sens celle de mes Pokémon?\r",
+        "Que le duel commence!"
       ]
     },
     {
@@ -743,6 +1210,12 @@
         "feeling of anticipation!\r",
         "Let’s do it!\n",
         "We’re going to make some sparks fly!\r"
+      ],
+      "fr_FR": [
+        "Tanguy: Yeah! Un tel suspense\n",
+        "m’électrise!\r",
+        "C’est parti!\n",
+        "Ça va faire des étincelles!\r"
       ]
     },
     {
@@ -750,13 +1223,18 @@
       "en_US": [
         "Volkner: Aww, come on now.\n",
         "Don’t disappoint me..."
-      ]
+      ],
+      "fr_FR": "Tanguy: Oooh, allez, ne me déçois pas..."
     },
     {
       "id": "Battleground_Text_VolknerAskBattleAgain",
       "en_US": [
         "Volkner: Hm? What’s up?\n",
         "You do want to battle?"
+      ],
+      "fr_FR": [
+        "Tanguy: Hein? Qu’y a-t-il?\n",
+        "Tu veux te battre?"
       ]
     },
     {
@@ -766,6 +1244,12 @@
         "losing leaves me angry...\r",
         "That’s no great revelation, but it’s\n",
         "what makes me stronger."
+      ],
+      "fr_FR": [
+        "Tanguy: La victoire me comble de joie,\n",
+        "la défaite me laisse un goût amer...\r",
+        "Ce n’est pas le scoop de l’année, mais\n",
+        "c’est là que réside ma force."
       ]
     },
     {
@@ -775,6 +1259,12 @@
         "opponents.\r",
         "I’m willing to beg.\n",
         "Let’s battle!"
+      ],
+      "fr_FR": [
+        "Tanguy: Mon ELEKABLE a besoin\n",
+        "d’adversaires à sa taille.\r",
+        "Je suis prêt à te supplier!\n",
+        "Allez, combattons!"
       ]
     },
     {
@@ -782,6 +1272,10 @@
       "en_US": [
         "Volkner: You! And me!\n",
         "Let’s make some sparks fly!\r"
+      ],
+      "fr_FR": [
+        "Tanguy: Toi et moi!\n",
+        "Faisons des étincelles!\r"
       ]
     },
     {
@@ -789,6 +1283,10 @@
       "en_US": [
         "Volkner: Well, yeah, an ELECTIVIRE is\n",
         "intimidating. I hear you..."
+      ],
+      "fr_FR": [
+        "Tanguy: Ouais, c’est vrai que mon\n",
+        "ELEKABLE est intimidant. Je comprends."
       ]
     },
     {
@@ -797,6 +1295,12 @@
         "Volkner: Hm? What’s up?\n",
         "You’re willing to face my ELECTIVIRE?\f",
         "And help toughen up my Pokémon?"
+      ],
+      "fr_FR": [
+        "Tanguy: Hein? Qu’y a-t-il?\n",
+        "Tu veux affronter mon ELEKABLE?\r",
+        "Et contribuer à l’amélioration\n",
+        "de mes Pokémon?"
       ]
     },
     {
@@ -805,6 +1309,11 @@
         "Volkner: Some Trainers have Pokémon\n",
         "they just have to have in their party.\r",
         "For me, ELECTIVIRE is that Pokémon..."
+      ],
+      "fr_FR": [
+        "Tanguy: Chaque Dresseur a un Pokémon\n",
+        "dont il ne se sépare jamais.\r",
+        "Pour moi, c’est ELEKABLE..."
       ]
     },
     {
@@ -812,6 +1321,10 @@
       "en_US": [
         "Cheryl: Oh, hello, {STRVAR_1 3, 0, 0}.\n",
         "You’re my opponent of the day?"
+      ],
+      "fr_FR": [
+        "Sara: Oh, salut, {STRVAR_1 3, 0, 0}.\n",
+        "Tu es mon adversaire du jour?"
       ]
     },
     {
@@ -819,6 +1332,10 @@
       "en_US": [
         "Cheryl: My Pokémon have been itching\n",
         "for a battle.\r"
+      ],
+      "fr_FR": [
+        "Sara: Mes Pokémon meurent d’envie de\n",
+        "se battre.\r"
       ]
     },
     {
@@ -826,6 +1343,10 @@
       "en_US": [
         "Cheryl: Oh, but my Pokémon were itching\n",
         "for a battle..."
+      ],
+      "fr_FR": [
+        "Sara: Oh, et mes Pokémon qui mouraient\n",
+        "d’envie de se battre..."
       ]
     },
     {
@@ -833,6 +1354,10 @@
       "en_US": [
         "Cheryl: {STRVAR_1 3, 0, 0}, may I ask you for\n",
         "a battle?"
+      ],
+      "fr_FR": [
+        "Sara: {STRVAR_1 3, 0, 0}, puis-je te\n",
+        "proposer un petit combat?"
       ]
     },
     {
@@ -841,6 +1366,11 @@
         "Cheryl: Thank you, {STRVAR_1 3, 0, 0}!\r",
         "Thanks to you, my adorable Pokémon\n",
         "became a little tougher."
+      ],
+      "fr_FR": [
+        "Sara: Merci, {STRVAR_1 3, 0, 0}!\r",
+        "Grâce à toi, mes adorables Pokémon\n",
+        "se sont un peu améliorés."
       ]
     },
     {
@@ -850,6 +1380,11 @@
         "Hasn’t it?\r",
         "Would you care to have a battle with\n",
         "me?"
+      ],
+      "fr_FR": [
+        "Sara: Ça faisait longtemps...\n",
+        "N’est-ce pas?\r",
+        "Ça t’intéresse un petit combat?"
       ]
     },
     {
@@ -857,6 +1392,11 @@
       "en_US": [
         "Cheryl: I should warn you, my Pokémon\n",
         "can be quite rambunctious.\r"
+      ],
+      "fr_FR": [
+        "Sara: Je dois te prévenir que mes\n",
+        "Pokémon peuvent se montrer un peu\f",
+        "exubérants.\r"
       ]
     },
     {
@@ -865,6 +1405,11 @@
         "Cheryl: Giggle...\r",
         "Pokémon would get worn out if we\n",
         "battled all the time, wouldn’t they?"
+      ],
+      "fr_FR": [
+        "Sara: Hi, hi, hi...\r",
+        "Les Pokémon seraient épuisés si\n",
+        "on se battait tout le temps!"
       ]
     },
     {
@@ -872,6 +1417,10 @@
       "en_US": [
         "Cheryl: ...Yes?\n",
         "Would you like to battle after all?"
+      ],
+      "fr_FR": [
+        "Sara: Oui?\n",
+        "Tu veux te battre finalement?"
       ]
     },
     {
@@ -882,6 +1431,13 @@
         "discover.\r",
         "But, you know?\n",
         "I love Pokémon for that, too!"
+      ],
+      "fr_FR": [
+        "Sara: La vie de Dresseur n’est pas\n",
+        "tous les jours facile.\r",
+        "C’est en se battant qu’on apprend.\r",
+        "Mais tu sais quoi? C’est pour ça\n",
+        "aussi que j’aime les Pokémon!"
       ]
     },
     {
@@ -889,6 +1445,10 @@
       "en_US": [
         "Mira: {STRVAR_1 3, 0, 0}!\n",
         "Please teach Mira about Pokémon!"
+      ],
+      "fr_FR": [
+        "Maïté: {STRVAR_1 3, 0, 0}! Enseigne-moi\n",
+        "des choses sur les Pokémon!"
       ]
     },
     {
@@ -897,6 +1457,11 @@
         "Mira: {STRVAR_1 3, 0, 0}!\r",
         "Mira will show you that Mira doesn’t get\n",
         "lost anymore, {STRVAR_1 3, 0, 0}!\r"
+      ],
+      "fr_FR": [
+        "Maïté: {STRVAR_1 3, 0, 0}!\r",
+        "Je vais te prouver que je ne me\n",
+        "mélange plus les pédales, {STRVAR_1 3, 0, 0}!\r"
       ]
     },
     {
@@ -904,6 +1469,11 @@
       "en_US": [
         "Mira: Mira is a little sad...\n",
         "Mira’s Pokémon are stronger now."
+      ],
+      "fr_FR": [
+        "Maïté: Je suis un peu triste...\n",
+        "Mes Pokémon sont plus forts\f",
+        "maintenant."
       ]
     },
     {
@@ -911,6 +1481,10 @@
       "en_US": [
         "Mira: {STRVAR_1 3, 0, 0}, please?\n",
         "Please teach Mira about Pokémon!"
+      ],
+      "fr_FR": [
+        "Maïté: {STRVAR_1 3, 0, 0}! Enseigne-moi\n",
+        "des choses sur les Pokémon!"
       ]
     },
     {
@@ -920,6 +1494,12 @@
         "about Pokémon again!\r",
         "Mira wants to get a lot, lot stronger,\n",
         "like {STRVAR_1 3, 0, 0}!"
+      ],
+      "fr_FR": [
+        "Maïté: {STRVAR_1 3, 0, 0}, enseigne-moi\n",
+        "encore des choses sur les Pokémon!\r",
+        "Je veux devenir la plus forte, je\n",
+        "veux devenir comme toi!"
       ]
     },
     {
@@ -928,6 +1508,11 @@
         "Mira: {STRVAR_1 3, 0, 0}!\n",
         "Mira is stronger now!\f",
         "Please! Battle with Mira!"
+      ],
+      "fr_FR": [
+        "Maïté: {STRVAR_1 3, 0, 0}!\n",
+        "J’ai bien progressé!\f",
+        "S’il te plaît, bats-toi contre moi!"
       ]
     },
     {
@@ -935,18 +1520,24 @@
       "en_US": [
         "Mira: {STRVAR_1 3, 0, 0} will be shocked by\n",
         "Mira!\r"
-      ]
+      ],
+      "fr_FR": "Maïté: Maïté va éblouir {STRVAR_1 3, 0, 0}!\r"
     },
     {
       "id": "Battleground_Text_MiraDeclinedBattle2",
       "en_US": [
         "Mira: Mira really did get stronger.\n",
         "Mira wanted {STRVAR_1 3, 0, 0} to see."
+      ],
+      "fr_FR": [
+        "Maïté: Je me suis beaucoup améliorée.\n",
+        "Je veux te le montrer!"
       ]
     },
     {
       "id": "Battleground_Text_MiraAskBattleAgain2",
-      "en_US": "Mira: You will battle Mira?"
+      "en_US": "Mira: You will battle Mira?",
+      "fr_FR": "Maïté: Tu te bats contre moi?"
     },
     {
       "id": "Battleground_Text_MiraDefeat2",
@@ -955,6 +1546,12 @@
         "your Pokémon.\r",
         "That’s how you got to be so strong.\n",
         "Mira is beginning to understand!"
+      ],
+      "fr_FR": [
+        "Maïté: {STRVAR_1 3, 0, 0}, tu ne quittes\n",
+        "jamais tes Pokémon.\r",
+        "Pas étonnant que tu sois si coriace.\n",
+        "Je commence à comprendre!"
       ]
     },
     {
@@ -964,17 +1561,32 @@
         "Let’s forego the small talk and proceed\n",
         "right to battle.\r",
         "That’s my style!"
+      ],
+      "fr_FR": [
+        "Armand: Toi et moi, on est tous les deux\n",
+        "Dresseurs.\r",
+        "Evitons les bavardages et entrons tout\n",
+        "de suite dans le vif du sujet.\r",
+        "Que le duel commence!"
       ]
     },
     {
       "id": "Battleground_Text_RileyIntro",
-      "en_US": "Riley: Battling is our way of greeting!\r"
+      "en_US": "Riley: Battling is our way of greeting!\r",
+      "fr_FR": [
+        "Armand: Le combat, c’est une façon de\n",
+        "se saluer pour nous!\r"
+      ]
     },
     {
       "id": "Battleground_Text_RileyDeclinedBattle",
       "en_US": [
         "Riley: All right, then.\n",
         "So, what’ve you got to tell me?"
+      ],
+      "fr_FR": [
+        "Armand: Très bien.\n",
+        "Alors, qu’est-ce qui t’amène?"
       ]
     },
     {
@@ -982,6 +1594,10 @@
       "en_US": [
         "Riley: See? It just doesn’t feel right\n",
         "if we don’t battle, does it?"
+      ],
+      "fr_FR": [
+        "Armand: Tu vois? Le combat est une\n",
+        "seconde nature pour nous!"
       ]
     },
     {
@@ -992,6 +1608,14 @@
         "and what moves they use...\r",
         "If you have intelligence like that, your\n",
         "chances of winning are much improved."
+      ],
+      "fr_FR": [
+        "Armand: Apprends à connaître\n",
+        "ton ennemi.\r",
+        "Si tu connais tes Pokémon et\n",
+        "leurs capacités...\r",
+        "Alors tu as beaucoup plus de\n",
+        "chances de gagner."
       ]
     },
     {
@@ -1000,6 +1624,11 @@
         "Riley: Hi. Long time, no see.\r",
         "If it’s all right with you, I’d like to\n",
         "challenge you to a battle right now."
+      ],
+      "fr_FR": [
+        "Armand: Salut. Ça faisait un bail.\r",
+        "Si tu es d’accord, je souhaiterais\n",
+        "te défier en combat singulier."
       ]
     },
     {
@@ -1007,6 +1636,10 @@
       "en_US": [
         "Riley: We’re pulling out all the stops\n",
         "to put your Pokémon down.\r"
+      ],
+      "fr_FR": [
+        "Armand: On va mettre le paquet pour\n",
+        "venir à bout de ton équipe.\r"
       ]
     },
     {
@@ -1014,6 +1647,10 @@
       "en_US": [
         "Riley: Oh, all right.\n",
         "Then we’ll wait till you’re ready."
+      ],
+      "fr_FR": [
+        "Armand: Oh, d’accord. On attendra que\n",
+        "toi et ton équipe soyez d’attaque."
       ]
     },
     {
@@ -1021,6 +1658,10 @@
       "en_US": [
         "Riley: That look you have...\n",
         "I take it you’re ready for our battle?"
+      ],
+      "fr_FR": [
+        "Armand: Je vois à ton expression que\n",
+        "tu veux te battre... N’est-ce pas?"
       ]
     },
     {
@@ -1032,6 +1673,14 @@
         "then...\r",
         "Perhaps we would have never met.\n",
         "Or, would we have met elsewhere?"
+      ],
+      "fr_FR": [
+        "Armand: Si je n’avais pas été sur\n",
+        "l’Ile de Fer à ce moment-là...\r",
+        "Si tu n’avais pas débarqué sur\n",
+        "l’Ile de Fer au même moment...\r",
+        "On ne se serait peut-être jamais\n",
+        "rencontrés. Ou peut-être que si..."
       ]
     },
     {
@@ -1039,6 +1688,10 @@
       "en_US": [
         "Marley: I...\n",
         "Is it OK to battle?"
+      ],
+      "fr_FR": [
+        "Viviane: Je...\n",
+        "On se bat?"
       ]
     },
     {
@@ -1046,6 +1699,10 @@
       "en_US": [
         "Marley: ...OK.\n",
         "I’ll do my best.\r"
+      ],
+      "fr_FR": [
+        "Viviane: OK...\n",
+        "Je ferai de mon mieux.\r"
       ]
     },
     {
@@ -1053,6 +1710,10 @@
       "en_US": [
         "Marley: ...Oh?\n",
         "...You can be that mean?"
+      ],
+      "fr_FR": [
+        "Viviane: Oh?\n",
+        "La vie est absurde et cruelle!"
       ]
     },
     {
@@ -1060,6 +1721,10 @@
       "en_US": [
         "Marley: ...So?\n",
         "Are we battling?"
+      ],
+      "fr_FR": [
+        "Viviane: Alors...?\n",
+        "On se bat?"
       ]
     },
     {
@@ -1069,6 +1734,12 @@
         "It makes me feel happy.\r",
         "...I don’t know why.\n",
         "This is a strange feeling..."
+      ],
+      "fr_FR": [
+        "Viviane: Quel talent!\n",
+        "Ça me rend euphorique.\r",
+        "Je ne saurais l’expliquer.\n",
+        "C’est un sentiment étrange..."
       ]
     },
     {
@@ -1076,6 +1747,10 @@
       "en_US": [
         "Marley: ...Oh?\n",
         "A battle? With me?"
+      ],
+      "fr_FR": [
+        "Viviane: Oh?\n",
+        "Tu veux te battre? Contre moi?"
       ]
     },
     {
@@ -1083,6 +1758,10 @@
       "en_US": [
         "Marley: ...OK.\n",
         "I...won’t lose...!\r"
+      ],
+      "fr_FR": [
+        "Viviane: OK...\n",
+        "Je... je peux le faire...!\r"
       ]
     },
     {
@@ -1090,6 +1769,10 @@
       "en_US": [
         "Marley: ...Oh, you.\n",
         "I’m getting to dislike you a little."
+      ],
+      "fr_FR": [
+        "Viviane: Oh, toi!\n",
+        "Tu m’énerves à force."
       ]
     },
     {
@@ -1097,6 +1780,10 @@
       "en_US": [
         "Marley: ...If you won’t battle, I might\n",
         "not come back..."
+      ],
+      "fr_FR": [
+        "Viviane: Si tu refuses mon invitation,\n",
+        "je ne te le demanderai pas deux fois..."
       ]
     },
     {
@@ -1106,6 +1793,12 @@
         "you.\r",
         "...Just a little.\n",
         "Only a little tiny bit."
+      ],
+      "fr_FR": [
+        "Viviane: Il se pourrait que je prenne\n",
+        "goût à me battre contre toi.\r",
+        "Juste un peu.\n",
+        "Un tout petit peu."
       ]
     },
     {
@@ -1113,6 +1806,10 @@
       "en_US": [
         "Buck: Ehehehe! You’re here at last!\n",
         "Let’s not waste time! Let’s do this!"
+      ],
+      "fr_FR": [
+        "Cornil: Hé, hé, hé! Te voilà enfin!\n",
+        "Pas de temps à perdre, finissons-en!"
       ]
     },
     {
@@ -1120,6 +1817,11 @@
       "en_US": [
         "Buck: ...I’m telling you right now.\n",
         "I’m seriously tough. Act surprised!\r"
+      ],
+      "fr_FR": [
+        "Cornil: Je te préviens... je suis\n",
+        "sacrément coriace! Fais comme si\f",
+        "tu ne t’y attendais pas!\r"
       ]
     },
     {
@@ -1129,6 +1831,12 @@
         "That takes the wind out of my sails.\r",
         "Well, since you’re here, kick back,\n",
         "make yourself at home, and all that."
+      ],
+      "fr_FR": [
+        "Cornil: Hein, quoi?\n",
+        "Voilà qui me coupe dans mon élan.\r",
+        "Bon, maintenant que tu es là,\n",
+        "détends-toi, fais comme chez toi."
       ]
     },
     {
@@ -1136,6 +1844,10 @@
       "en_US": [
         "Buck: What? What?!\n",
         "So we are going to battle?"
+      ],
+      "fr_FR": [
+        "Cornil: Quoi? Quoi?!\n",
+        "Alors on va se battre?"
       ]
     },
     {
@@ -1144,6 +1856,11 @@
         "Buck: Fweh! Too much!\r",
         "I guess I’ll better my team\n",
         "at the Battle Tower."
+      ],
+      "fr_FR": [
+        "Cornil: Argh! Quelle raclée!\r",
+        "Je ferais mieux d’aller entraîner\n",
+        "mon équipe à la Tour de Combat."
       ]
     },
     {
@@ -1153,6 +1870,12 @@
         "the way of Pokémon!\r",
         "Two...\n",
         "Never mind that, let’s do this!"
+      ],
+      "fr_FR": [
+        "Cornil: Premièrement, en matière de\n",
+        "combat, l’entraînement, y a que ça!\r",
+        "Et puis...\n",
+        "Bref, passons aux choses sérieuses!"
       ]
     },
     {
@@ -1161,6 +1884,11 @@
         "Buck: I can feel my Pokémon shivering\n",
         "inside their Poké Balls!\r",
         "It’s out of anticipation, not fear!\r"
+      ],
+      "fr_FR": [
+        "Cornil: Je sens mes Pokémon gigoter\n",
+        "dans leurs Poké Balls!\r",
+        "Par impatience, pas par peur!\r"
       ]
     },
     {
@@ -1168,6 +1896,10 @@
       "en_US": [
         "Buck: Hey! This place! It’s named\n",
         "the Battleground for a reason!"
+      ],
+      "fr_FR": [
+        "Cornil: Hé! Ce n’est pas pour rien que\n",
+        "cet endroit s’appelle le Café Combats!"
       ]
     },
     {
@@ -1175,6 +1907,10 @@
       "en_US": [
         "Buck: So?\n",
         "Do you feel like battling now?"
+      ],
+      "fr_FR": [
+        "Cornil: Alors? Ça te dit un petit\n",
+        "combat, là maintenant tout de suite?"
       ]
     },
     {
@@ -1183,6 +1919,11 @@
         "Buck: Fweh! Too much!\r",
         "I guess I’ll better my team on\n",
         "Stark Mountain!"
+      ],
+      "fr_FR": [
+        "Cornil: Argh! Quelle raclée!\r",
+        "Je ferais mieux d’aller entraîner\n",
+        "mon équipe au Mont Abrupt."
       ]
     }
   ]

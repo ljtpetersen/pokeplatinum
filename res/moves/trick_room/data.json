@@ -24,5 +24,13 @@
     "contest": {
         "effect": "CONTEST_EFFECT_RANDOM_ORDER",
         "type": "CONTEST_TYPE_CUTE"
-    }
+    },
+    "name_fr": "Distorsion",
+    "description_fr": [
+        "Le lanceur crée une\n",
+        "zone étrange où les\n",
+        "Pokémon les plus\n",
+        "lents frappent en 1¹\n",
+        "pendant 5 tours."
+    ]
 }

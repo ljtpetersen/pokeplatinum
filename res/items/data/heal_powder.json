@@ -36,5 +36,13 @@
     "friendshipLow": -5,
     "friendshipMed": -5,
     "friendshipHigh": -10
-  }
+  },
+  "name_fr": "Poudre Soin",
+  "description_fr": [
+    "Une poudre médicinale très amère.\n",
+    "Soigne tous les problèmes de statut\n",
+    "d’un Pokémon."
+  ],
+  "plural_fr": "Poudre Soin",
+  "article_fr": null
 }

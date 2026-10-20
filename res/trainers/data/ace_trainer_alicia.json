@@ -45,6 +45,11 @@
                 "Are you feeling all run-down?\r",
                 "But a good Trainer is one who wins no\n",
                 "matter the situation!\r"
+            ],
+            "fr_FR": [
+                "Tu commences à fatiguer?\r",
+                "Un bon Dresseur peut gagner dans\n",
+                "n’importe quelle situation!\r"
             ]
         },
         {
@@ -52,6 +57,10 @@
             "en_US": [
                 "That’s right. A good Trainer will win,\n",
                 "no matter what the situation may be.\n"
+            ],
+            "fr_FR": [
+                "C’est vrai. Un bon Dresseur gagnera,\n",
+                "quelle que soit la situation.\n"
             ]
         },
         {
@@ -61,7 +70,14 @@
                 "The Pokémon’s feelings...\r",
                 "If they are one and the same, you\n",
                 "will never lose.\n"
+            ],
+            "fr_FR": [
+                "Les sentiments du Dresseur...\n",
+                "Les sentiments des Pokémon...\r",
+                "Si vous ressentez la même chose, vous\n",
+                "ne perdrez jamais.\n"
             ]
         }
-    ]
+    ],
+    "name_fr": "Zara"
 }

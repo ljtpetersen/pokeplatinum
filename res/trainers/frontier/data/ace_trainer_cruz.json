@@ -55,6 +55,10 @@
             "en_US": [
                 "I’ll say good-bye to you now.\n",
                 "Battles always end in tears."
+            ],
+            "fr_FR": [
+                "Je préfère te dire au revoir tout de\n",
+                "suite. Avant de me mettre à pleurer."
             ]
         },
         {
@@ -62,6 +66,10 @@
             "en_US": [
                 "Fweeeeh!\n",
                 "My tears of joy flow freely!\r"
+            ],
+            "fr_FR": [
+                "Snif! Snif!\n",
+                "Et voilà, je pleure... de joie!\r"
             ]
         },
         {
@@ -69,7 +77,12 @@
             "en_US": [
                 "Fweeeeh!\n",
                 "My tears of anguish flow freely!\r"
+            ],
+            "fr_FR": [
+                "Snif! Snif!\n",
+                "Et voilà, je pleure... de désespoir!\r"
             ]
         }
-    ]
+    ],
+    "name_fr": "Géraud"
 }

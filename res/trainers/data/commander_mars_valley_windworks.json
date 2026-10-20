@@ -42,14 +42,20 @@
             "en_US": [
                 "What do you think you’re doing to my\n",
                 "Pokémon?!"
-            ]
+            ],
+            "fr_FR": "Qu’est-ce que tu fais à mes Pokémon?!"
         },
         {
             "type": "TRMSG_DEFEAT",
             "en_US": [
                 "This can’t be?! I lost?!\n",
                 "You...you uppity brat!\n"
+            ],
+            "fr_FR": [
+                "Impossible! J’ai perdu!\n",
+                "Espèce de... Grrrr!\n"
             ]
         }
-    ]
+    ],
+    "name_fr": "Mars"
 }

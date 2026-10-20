@@ -26,5 +26,12 @@
     "contest": {
         "effect": "CONTEST_EFFECT_CONSECUTIVE_USE",
         "type": "CONTEST_TYPE_COOL"
-    }
+    },
+    "name_fr": "Picanon",
+    "description_fr": [
+        "Une rafale de pointes\n",
+        "aiguisées s’abat sur\n",
+        "l’ennemi. Inflige de 2\n",
+        "à 5 coups."
+    ]
 }

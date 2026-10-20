@@ -45,17 +45,31 @@
                 "I’ve pumped up my gang till they can’t\n",
                 "get pumped no more.\r",
                 "They’re going to school your Pokémon!\r"
+            ],
+            "fr_FR": [
+                "J’ai entraîné mon équipe sans relâche,\n",
+                "encore et encore, jour et nuit.\r",
+                "Tu vas voir, on va te donner une\n",
+                "bonne leçon!\r"
             ]
         },
         {
             "type": "TRMSG_DEFEAT",
-            "en_US": "My bunch got schooled, and how!\n"
+            "en_US": "My bunch got schooled, and how!\n",
+            "fr_FR": [
+                "C’est toi qui nous as donné une bonne\n",
+                "leçon, finalement. Dur..."
+            ]
         },
         {
             "type": "TRMSG_POST_BATTLE",
             "en_US": [
                 "I fed my gang Protein, Carbos...\n",
                 "You name it, I pumped ’em full of it.\n"
+            ],
+            "fr_FR": [
+                "Protéine, Carbone... J’ai boosté mon\n",
+                "équipe!\n"
             ]
         },
         {
@@ -65,7 +79,14 @@
                 "me and my Pokémon!\r",
                 "OK, this time we’ll return the favor!\n",
                 "We’ll be doing the schooling!\r"
+            ],
+            "fr_FR": [
+                "Hé! C’est toi qui m’as donné une leçon\n",
+                "la dernière fois!\r",
+                "OK, cette fois, ce sera différent!\n",
+                "Regarde et apprends!\r"
             ]
         }
-    ]
+    ],
+    "name_fr": "Michel"
 }

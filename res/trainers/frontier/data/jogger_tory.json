@@ -77,6 +77,10 @@
             "en_US": [
                 "I look to bug Pokémon for hints on\n",
                 "running all the time."
+            ],
+            "fr_FR": [
+                "Les Pokémon de type Insecte sont des\n",
+                "champions de la course à pied!"
             ]
         },
         {
@@ -84,11 +88,17 @@
             "en_US": [
                 "I admire the light and agile footwork of\n",
                 "bug Pokémon.\r"
+            ],
+            "fr_FR": [
+                "Je suis toujours très admiratif quand je\n",
+                "vois un Pokémon de type Insecte courir.\r"
             ]
         },
         {
             "type": "TRMSG_DEFEAT",
-            "en_US": "Skitter...\r"
+            "en_US": "Skitter...\r",
+            "fr_FR": "Argh...\r"
         }
-    ]
+    ],
+    "name_fr": "Thom"
 }

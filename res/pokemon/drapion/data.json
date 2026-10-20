@@ -7,7 +7,10 @@
         "special_attack": 60,
         "special_defense": 75
     },
-    "types": [ "TYPE_POISON", "TYPE_DARK" ],
+    "types": [
+        "TYPE_POISON",
+        "TYPE_DARK"
+    ],
     "catch_rate": 45,
     "base_exp_reward": 204,
     "ev_yields": {
@@ -26,30 +29,84 @@
     "hatch_cycles": 20,
     "base_friendship": 70,
     "exp_rate": "EXP_RATE_SLOW",
-    "egg_groups": [ "EGG_GROUP_BUG", "EGG_GROUP_WATER_3" ],
-    "abilities": [ "ABILITY_BATTLE_ARMOR", "ABILITY_SNIPER" ],
+    "egg_groups": [
+        "EGG_GROUP_BUG",
+        "EGG_GROUP_WATER_3"
+    ],
+    "abilities": [
+        "ABILITY_BATTLE_ARMOR",
+        "ABILITY_SNIPER"
+    ],
     "safari_flee_rate": 60,
     "body_color": "MON_COLOR_PURPLE",
     "flip_sprite": false,
     "icon_palette": 2,
     "learnset": {
         "by_level": [
-            [ 1, "MOVE_THUNDER_FANG" ],
-            [ 1, "MOVE_ICE_FANG" ],
-            [ 1, "MOVE_FIRE_FANG" ],
-            [ 1, "MOVE_BITE" ],
-            [ 1, "MOVE_POISON_STING" ],
-            [ 1, "MOVE_LEER" ],
-            [ 1, "MOVE_KNOCK_OFF" ],
-            [ 6, "MOVE_KNOCK_OFF" ],
-            [ 12, "MOVE_PIN_MISSILE" ],
-            [ 17, "MOVE_ACUPRESSURE" ],
-            [ 23, "MOVE_SCARY_FACE" ],
-            [ 28, "MOVE_TOXIC_SPIKES" ],
-            [ 34, "MOVE_BUG_BITE" ],
-            [ 39, "MOVE_POISON_FANG" ],
-            [ 49, "MOVE_CRUNCH" ],
-            [ 58, "MOVE_CROSS_POISON" ]
+            [
+                1,
+                "MOVE_THUNDER_FANG"
+            ],
+            [
+                1,
+                "MOVE_ICE_FANG"
+            ],
+            [
+                1,
+                "MOVE_FIRE_FANG"
+            ],
+            [
+                1,
+                "MOVE_BITE"
+            ],
+            [
+                1,
+                "MOVE_POISON_STING"
+            ],
+            [
+                1,
+                "MOVE_LEER"
+            ],
+            [
+                1,
+                "MOVE_KNOCK_OFF"
+            ],
+            [
+                6,
+                "MOVE_KNOCK_OFF"
+            ],
+            [
+                12,
+                "MOVE_PIN_MISSILE"
+            ],
+            [
+                17,
+                "MOVE_ACUPRESSURE"
+            ],
+            [
+                23,
+                "MOVE_SCARY_FACE"
+            ],
+            [
+                28,
+                "MOVE_TOXIC_SPIKES"
+            ],
+            [
+                34,
+                "MOVE_BUG_BITE"
+            ],
+            [
+                39,
+                "MOVE_POISON_FANG"
+            ],
+            [
+                49,
+                "MOVE_CRUNCH"
+            ],
+            [
+                58,
+                "MOVE_CROSS_POISON"
+            ]
         ],
         "by_tm": [
             "TM05",
@@ -106,7 +163,7 @@
             "MOVE_KNOCK_OFF"
         ]
     },
-    "evolutions": [  ],
+    "evolutions": [],
     "offspring": "SPECIES_SKORUPI",
     "footprint": {
         "has": true,
@@ -129,9 +186,9 @@
             "name": "DRAPION",
             "category": "Ogre Scorp Pokémon",
             "entry_text": [
-                "Possessing a sturdy build, it takes\n",
-                "pride in its strength, taking down\n",
-                "foes without using toxins."
+                "It has the power in its clawed\n",
+                "arms to make scrap of a car. The\n",
+                "tips of its claws release poison."
             ]
         },
         "fr": {
@@ -177,6 +234,18 @@
                 "りょううでの　ツメは　じどうしゃを\n",
                 "スクラップにする　はかいりょく。\n",
                 "ツメの　さきから　どくを　だす。"
+            ]
+        },
+        "local_version": {
+            "entry_text": [
+                "Possessing a sturdy build, it takes\n",
+                "pride in its strength, taking down\n",
+                "foes without using toxins."
+            ],
+            "entry_text_fr": [
+                "Fier et robuste, il met un point\n",
+                "d’honneur à battre ses adversaires\n",
+                "sans utiliser de poison."
             ]
         }
     },

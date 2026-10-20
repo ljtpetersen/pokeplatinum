@@ -3,23 +3,28 @@
   "messages": [
     {
       "id": "pl_msg_00000606_00000",
-      "en_US": "too spicy"
+      "en_US": "too spicy",
+      "fr_FR": "était trop épicée!"
     },
     {
       "id": "pl_msg_00000606_00001",
-      "en_US": "too dry"
+      "en_US": "too dry",
+      "fr_FR": "était trop sèche!"
     },
     {
       "id": "pl_msg_00000606_00002",
-      "en_US": "too sweet"
+      "en_US": "too sweet",
+      "fr_FR": "était trop sucrée!"
     },
     {
       "id": "pl_msg_00000606_00003",
-      "en_US": "too bitter"
+      "en_US": "too bitter",
+      "fr_FR": "était trop amère!"
     },
     {
       "id": "pl_msg_00000606_00004",
-      "en_US": "too sour"
+      "en_US": "too sour",
+      "fr_FR": "était trop acide!"
     }
   ]
 }

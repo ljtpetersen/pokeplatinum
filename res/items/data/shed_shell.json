@@ -26,5 +26,13 @@
   "battlePocket": "BATTLE_POCKET_MASK_NONE",
   "fieldUseFunc": "ITEM_USE_FUNC_NONE",
   "battleUseCategory": "BATTLE_USE_CATEGORY_NONE",
-  "itemUseParams": null
+  "itemUseParams": null,
+  "name_fr": "Carapace Mue",
+  "description_fr": [
+    "Carapace dure pouvant être tenue.\n",
+    "Permet au porteur de changer de place\n",
+    "avec un autre Pokémon lors de combats."
+  ],
+  "plural_fr": "Carapace Mue",
+  "article_fr": null
 }

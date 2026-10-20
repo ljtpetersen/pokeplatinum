@@ -59,6 +59,10 @@
             "en_US": [
                 "Hey, ’sup. I should warn you, I’m right\n",
                 "fast, Trainer. Hold on to your hat."
+            ],
+            "fr_FR": [
+                "S’lut! Allez, ne perdons pas\n",
+                "de temps! Hop, hop, hop!"
             ]
         },
         {
@@ -66,6 +70,10 @@
             "en_US": [
                 "Trainer, from now on, you can start\n",
                 "adding Mister to my name.\r"
+            ],
+            "fr_FR": [
+                "Yeah! Maintenant, tu peux m’appeler\n",
+                "“monsieur”.\r"
             ]
         },
         {
@@ -73,7 +81,12 @@
             "en_US": [
                 "Trainer, that was a real learning\n",
                 "experience. Thank you, seriously.\r"
+            ],
+            "fr_FR": [
+                "OK, au moins, j’ai appris quelque\n",
+                "chose aujourd’hui.\r"
             ]
         }
-    ]
+    ],
+    "name_fr": "Rico"
 }

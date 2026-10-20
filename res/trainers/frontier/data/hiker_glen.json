@@ -105,6 +105,10 @@
             "en_US": [
                 "I am captivated by the mountains.\n",
                 "They’re the main thing in my life!"
+            ],
+            "fr_FR": [
+                "La montagne, je trouve ça fascinant.\n",
+                "Je lui ai consacré ma vie!"
             ]
         },
         {
@@ -112,6 +116,10 @@
             "en_US": [
                 "The mountains mean more to me\n",
                 "than any battle, no matter how fun!\r"
+            ],
+            "fr_FR": [
+                "La montagne est bien plus importante\n",
+                "pour moi que cette victoire, tu sais.\r"
             ]
         },
         {
@@ -119,7 +127,12 @@
             "en_US": [
                 "Your battle skills are impressive, but I\n",
                 "can’t wait to return to the mountains.\r"
+            ],
+            "fr_FR": [
+                "Tu te bats bien. Mais je suis impatient\n",
+                "de retourner dans mes montagnes.\r"
             ]
         }
-    ]
+    ],
+    "name_fr": "Emrys"
 }

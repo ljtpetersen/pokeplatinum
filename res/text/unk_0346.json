@@ -3,95 +3,118 @@
   "messages": [
     {
       "id": "pl_msg_00000346_00000",
-      "en_US": "TV\n"
+      "en_US": "TV\n",
+      "fr_FR": "TV\n"
     },
     {
       "id": "pl_msg_00000346_00001",
-      "en_US": "TV0"
+      "en_US": "TV0",
+      "fr_FR": "TV0"
     },
     {
       "id": "pl_msg_00000346_00002",
-      "en_US": "TV1"
+      "en_US": "TV1",
+      "fr_FR": "TV1"
     },
     {
       "id": "pl_msg_00000346_00003",
-      "en_US": "TV2"
+      "en_US": "TV2",
+      "fr_FR": "TV2"
     },
     {
       "id": "pl_msg_00000346_00004",
-      "en_US": "TV3"
+      "en_US": "TV3",
+      "fr_FR": "TV3"
     },
     {
       "id": "pl_msg_00000346_00005",
-      "en_US": "TV4"
+      "en_US": "TV4",
+      "fr_FR": "TV4"
     },
     {
       "id": "pl_msg_00000346_00006",
-      "en_US": "TV5"
+      "en_US": "TV5",
+      "fr_FR": "TV5"
     },
     {
       "id": "pl_msg_00000346_00007",
-      "en_US": "TV6"
+      "en_US": "TV6",
+      "fr_FR": "TV6"
     },
     {
       "id": "pl_msg_00000346_00008",
-      "en_US": "TV7"
+      "en_US": "TV7",
+      "fr_FR": "TV7"
     },
     {
       "id": "pl_msg_00000346_00009",
-      "en_US": "TV8"
+      "en_US": "TV8",
+      "fr_FR": "TV8"
     },
     {
       "id": "pl_msg_00000346_00010",
-      "en_US": "TV9"
+      "en_US": "TV9",
+      "fr_FR": "TV9"
     },
     {
       "id": "pl_msg_00000346_00011",
-      "en_US": "Clear player’s data"
+      "en_US": "Clear player’s data",
+      "fr_FR": "Clear player’s data"
     },
     {
       "id": "pl_msg_00000346_00012",
-      "en_US": "Clear another player’s data"
+      "en_US": "Clear another player’s data",
+      "fr_FR": "Clear another player’s data"
     },
     {
       "id": "pl_msg_00000346_00013",
-      "en_US": "Confirm data"
+      "en_US": "Confirm data",
+      "fr_FR": "Confirm data"
     },
     {
       "id": "pl_msg_00000346_00014",
-      "en_US": "Questionnaire (player)"
+      "en_US": "Questionnaire (player)",
+      "fr_FR": "Questionnaire (player)"
     },
     {
       "id": "pl_msg_00000346_00015",
-      "en_US": "Observation (player)"
+      "en_US": "Observation (player)",
+      "fr_FR": "Observation (player)"
     },
     {
       "id": "pl_msg_00000346_00016",
-      "en_US": "Records (player)"
+      "en_US": "Records (player)",
+      "fr_FR": "Records (player)"
     },
     {
       "id": "pl_msg_00000346_00017",
-      "en_US": "Questionnaire {STRVAR_1 50, 0, 0} (another player)"
+      "en_US": "Questionnaire {STRVAR_1 50, 0, 0} (another player)",
+      "fr_FR": "Questionnaire {STRVAR_1 50, 0, 0} (another player)"
     },
     {
       "id": "pl_msg_00000346_00018",
-      "en_US": "Observation {STRVAR_1 50, 0, 0} (another player)"
+      "en_US": "Observation {STRVAR_1 50, 0, 0} (another player)",
+      "fr_FR": "Observation {STRVAR_1 50, 0, 0} (another player)"
     },
     {
       "id": "pl_msg_00000346_00019",
-      "en_US": "Records {STRVAR_1 50, 0, 0} (another player)"
+      "en_US": "Records {STRVAR_1 50, 0, 0} (another player)",
+      "fr_FR": "Records {STRVAR_1 50, 0, 0} (another player)"
     },
     {
       "id": "pl_msg_00000346_00020",
-      "en_US": "Id{STRVAR_1 51, 0, 0}　Preview{STRVAR_1 50, 1, 0} {STRVAR_1 51, 2, 0}/{STRVAR_1 51, 3, 0}/{STRVAR_1 51, 4, 0} CRC {STRVAR_1 54, 5, 0}"
+      "en_US": "Id{STRVAR_1 51, 0, 0}　Preview{STRVAR_1 50, 1, 0} {STRVAR_1 51, 2, 0}/{STRVAR_1 51, 3, 0}/{STRVAR_1 51, 4, 0} CRC {STRVAR_1 54, 5, 0}",
+      "fr_FR": "Id{STRVAR_1 51, 0, 0}　Preview{STRVAR_1 50, 1, 0} {STRVAR_1 51, 2, 0}/{STRVAR_1 51, 3, 0}/{STRVAR_1 51, 4, 0} CRC {STRVAR_1 54, 5, 0}"
     },
     {
       "id": "pl_msg_00000346_00021",
-      "en_US": "No data"
+      "en_US": "No data",
+      "fr_FR": "No data"
     },
     {
       "id": "pl_msg_00000346_00022",
-      "en_US": "ID: {STRVAR_1 54, 0, 0} {STRVAR_1 3, 1, 0} Country: {STRVAR_1 51, 2, 0}"
+      "en_US": "ID: {STRVAR_1 54, 0, 0} {STRVAR_1 3, 1, 0} Country: {STRVAR_1 51, 2, 0}",
+      "fr_FR": "ID: {STRVAR_1 54, 0, 0} {STRVAR_1 3, 1, 0} Country: {STRVAR_1 51, 2, 0}"
     }
   ]
 }

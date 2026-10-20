@@ -41,6 +41,10 @@
             "en_US": [
                 "The shinobi live by speed!\n",
                 "I’ll get in my attacks before you!\r"
+            ],
+            "fr_FR": [
+                "Les ninjas sont rapides comme l’éclair!\n",
+                "Mes frappes te prendront de vitesse!\r"
             ]
         },
         {
@@ -48,7 +52,12 @@
             "en_US": [
                 "What’s with you?\n",
                 "You didn’t give me any openings!\n"
+            ],
+            "fr_FR": [
+                "C’est quoi, ton problème?\n",
+                "Tu ne me laisses aucune ouverture!\n"
             ]
         }
-    ]
+    ],
+    "name_fr": "Jérémie"
 }

@@ -12,6 +12,16 @@
         "reading those weird letters.\r",
         "If you can give me Pokémon that look\n",
         "like letters, I’ll give you some Seals."
+      ],
+      "fr_FR": [
+        "Les Pokémon des ruines ressemblent aux\n",
+        "lettres d’un étrange alphabet.\r",
+        "Je les adore, mais je suis trop petit\n",
+        "pour les capturer.\r",
+        "Au lieu de ça, j’essaie de déchiffrer\n",
+        "ces caractères avec des Sceaux.\r",
+        "Montre-moi des Pokémon en forme de\n",
+        "lettres et je te donnerai des Sceaux."
       ]
     },
     {
@@ -21,6 +31,12 @@
         "my Seals!\r",
         "I’ll give you a bunch of Seals that\n",
         "look like it.\r"
+      ],
+      "fr_FR": [
+        "Oh, ce {STRVAR_1 0, 0, 0} ressemble à mes\n",
+        "Sceaux comme deux gouttes d’eau!\r",
+        "Je vais te donner des Sceaux qui lui\n",
+        "ressemblent.\r"
       ]
     },
     {
@@ -33,6 +49,11 @@
         "I wanted to give you some Seals,\n",
         "but you don’t have a Seal Case!\r",
         "You should talk to my mom!"
+      ],
+      "fr_FR": [
+        "Je voulais te donner des Sceaux,\n",
+        "mais tu n’as pas de Boîte Sceaux!\f",
+        "Tu devrais aller voir ma mère!"
       ]
     },
     {
@@ -40,6 +61,10 @@
       "en_US": [
         "The {STRVAR_1 10, 0, 0} were\n",
         "put away in the Seal Case."
+      ],
+      "fr_FR": [
+        "Les exemplaires du {STRVAR_1 10, 0, 0} ont\n",
+        "été rangés dans la Boîte Sceaux."
       ]
     },
     {
@@ -49,6 +74,12 @@
         "affixing Seals on them.\r",
         "Oh, you don’t have a Seal Case?\n",
         "Well, here you go!\r"
+      ],
+      "fr_FR": [
+        "Tu peux personnaliser tes Poké Balls\n",
+        "en y appliquant des Sceaux.\r",
+        "Oh, tu n’as pas de Boîte Sceaux?\n",
+        "Eh bien, voilà pour toi!\r"
       ]
     },
     {
@@ -56,6 +87,10 @@
       "en_US": [
         "Next, some Seals.\n",
         "Here you go!\r"
+      ],
+      "fr_FR": [
+        "Il ne te manque que des Sceaux.\n",
+        "Voilà pour toi!\r"
       ]
     },
     {
@@ -72,6 +107,20 @@
         "on a Poké Ball.\r",
         "You can see the results when you use\n",
         "that Pokémon in battle."
+      ],
+      "fr_FR": [
+        "Voilà comment fonctionnent les Sceaux:\n",
+        "d’abord, connecte-toi au PC d’un\f",
+        "Centre Pokémon.\r",
+        "Sélectionne ton PC, puis la rubrique\n",
+        "“CAPSULES BALL” à partir\f",
+        "du menu du PC.\r",
+        "Ensuite, choisis une Capsule et\n",
+        "décore-la avec des Sceaux.\r",
+        "Quand tu as fini, applique la Capsule\n",
+        "à une de tes Poké Balls.\r",
+        "Tu verras le résultat en utilisant le\n",
+        "Pokémon qui est dedans en combat."
       ]
     }
   ]

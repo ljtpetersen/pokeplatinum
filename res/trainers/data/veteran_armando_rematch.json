@@ -60,6 +60,12 @@
                 "use that as an excuse to slack off.\r",
                 "I take pride in challenging those\n",
                 "who have bested me before!\r"
+            ],
+            "fr_FR": [
+                "Je suis bien un Vénérable, mais je n’en\n",
+                "profite pas pour me détendre.\r",
+                "Je m’enorgueillis de défier ceux qui\n",
+                "m’ont déjà vaincu!\r"
             ]
         },
         {
@@ -67,7 +73,12 @@
             "en_US": [
                 "I see...\n",
                 "Simply outstanding."
+            ],
+            "fr_FR": [
+                "Je vois...\n",
+                "Tout simplement remarquable."
             ]
         }
-    ]
+    ],
+    "name_fr": "Clément"
 }

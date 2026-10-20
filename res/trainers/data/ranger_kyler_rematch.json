@@ -44,11 +44,18 @@
                 "Do you remember my slogan?\n",
                 "People! Nature! Pokémon!\r",
                 "That’s right. Harmony is essential!\r"
+            ],
+            "fr_FR": [
+                "Tu te souviens de mon slogan?\n",
+                "Les hommes! La nature! Les Pokémon!\r",
+                "Tout à fait, l’harmonie est essentielle!\r"
             ]
         },
         {
             "type": "TRMSG_DEFEAT",
-            "en_US": "You’re A-OK!\n"
+            "en_US": "You’re A-OK!\n",
+            "fr_FR": "Tu es OK!\n"
         }
-    ]
+    ],
+    "name_fr": "Cyprien"
 }

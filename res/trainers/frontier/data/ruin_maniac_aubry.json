@@ -35,6 +35,10 @@
             "en_US": [
                 "Seeing buildings and towns from the old\n",
                 "ages sends my pulse racing."
+            ],
+            "fr_FR": [
+                "Etudier les vestiges des civilisations\n",
+                "disparues me passionne!"
             ]
         },
         {
@@ -42,6 +46,10 @@
             "en_US": [
                 "People interested in old architecture\n",
                 "are potential Ruin Maniacs."
+            ],
+            "fr_FR": [
+                "Un Ruinemaniac s’intéresse toujours\n",
+                "à l’histoire."
             ]
         },
         {
@@ -49,7 +57,12 @@
             "en_US": [
                 "Open your eyes in towns. There will be\n",
                 "exciting new discoveries. I mean it."
+            ],
+            "fr_FR": [
+                "On a toujours des choses à apprendre.\n",
+                "Et c’est à la portée de tout le monde."
             ]
         }
-    ]
+    ],
+    "name_fr": "Tonio"
 }

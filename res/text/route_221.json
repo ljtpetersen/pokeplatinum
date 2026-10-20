@@ -6,6 +6,10 @@
       "en_US": [
         "Pal Park isn’t open yet.\n",
         "We’re still setting up."
+      ],
+      "fr_FR": [
+        "Le Parc des Amis n’est pas encore \n",
+        "ouvert. Les travaux ne sont pas finis."
       ]
     },
     {
@@ -13,6 +17,10 @@
       "en_US": [
         "We’re getting Pal Park ready.\n",
         "I wonder what you can do there?"
+      ],
+      "fr_FR": [
+        "On prépare le Parc des Amis.\n",
+        "Je me demande ce qu’on peut y faire."
       ]
     },
     {
@@ -20,6 +28,10 @@
       "en_US": [
         "Pal Park\n",
         "A Place for New Beginnings"
+      ],
+      "fr_FR": [
+        "Parc des Amis\n",
+        "Pour un nouveau départ!"
       ]
     }
   ]

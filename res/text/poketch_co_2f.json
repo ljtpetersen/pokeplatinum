@@ -6,6 +6,11 @@
       "en_US": [
         "We’ll try to think like a Trainer and find\n",
         "what Pokétch apps would be good."
+      ],
+      "fr_FR": [
+        "On s’efforcera de penser comme un\n",
+        "Dresseur pour mettre au point les\f",
+        "logiciels Pokémontre les plus utiles."
       ]
     },
     {
@@ -17,15 +22,25 @@
         "What does Pokémon stand for again?\r",
         "Anyway, I’m the father of the\n",
         "president of the Pokétch Company!"
+      ],
+      "fr_FR": [
+        "Montre Pokémon!\n",
+        "Ou aussi Pokémontre.\r",
+        "Une version longue et une version\n",
+        "courte... Et que signifie Pokémon, déjà?\r",
+        "Bref, je suis le père du président de la\n",
+        "Pokémontre S.A.!"
       ]
     },
     {
       "id": "PoketchCo2F_Text_ClefairyCry",
-      "en_US": "CLEFAIRY: Cleffy?"
+      "en_US": "CLEFAIRY: Cleffy?",
+      "fr_FR": "MELOFEE: Loffé?"
     },
     {
       "id": "PoketchCo2F_Text_PachirisuCry",
-      "en_US": "PACHIRISU: Patchii?"
+      "en_US": "PACHIRISU: Patchii?",
+      "fr_FR": "PACHIRISU: Pachii?"
     }
   ]
 }

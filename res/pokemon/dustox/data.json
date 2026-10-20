@@ -7,7 +7,10 @@
         "special_attack": 50,
         "special_defense": 90
     },
-    "types": [ "TYPE_BUG", "TYPE_POISON" ],
+    "types": [
+        "TYPE_BUG",
+        "TYPE_POISON"
+    ],
     "catch_rate": 45,
     "base_exp_reward": 161,
     "ev_yields": {
@@ -26,25 +29,64 @@
     "hatch_cycles": 15,
     "base_friendship": 70,
     "exp_rate": "EXP_RATE_MEDIUM_FAST",
-    "egg_groups": [ "EGG_GROUP_BUG", "EGG_GROUP_BUG" ],
-    "abilities": [ "ABILITY_SHIELD_DUST", "ABILITY_NONE" ],
+    "egg_groups": [
+        "EGG_GROUP_BUG",
+        "EGG_GROUP_BUG"
+    ],
+    "abilities": [
+        "ABILITY_SHIELD_DUST",
+        "ABILITY_NONE"
+    ],
     "safari_flee_rate": 0,
     "body_color": "MON_COLOR_GREEN",
     "flip_sprite": false,
     "icon_palette": 1,
     "learnset": {
         "by_level": [
-            [ 1, "MOVE_CONFUSION" ],
-            [ 10, "MOVE_CONFUSION" ],
-            [ 13, "MOVE_GUST" ],
-            [ 17, "MOVE_PROTECT" ],
-            [ 20, "MOVE_MOONLIGHT" ],
-            [ 24, "MOVE_PSYBEAM" ],
-            [ 27, "MOVE_WHIRLWIND" ],
-            [ 31, "MOVE_LIGHT_SCREEN" ],
-            [ 34, "MOVE_SILVER_WIND" ],
-            [ 38, "MOVE_TOXIC" ],
-            [ 41, "MOVE_BUG_BUZZ" ]
+            [
+                1,
+                "MOVE_CONFUSION"
+            ],
+            [
+                10,
+                "MOVE_CONFUSION"
+            ],
+            [
+                13,
+                "MOVE_GUST"
+            ],
+            [
+                17,
+                "MOVE_PROTECT"
+            ],
+            [
+                20,
+                "MOVE_MOONLIGHT"
+            ],
+            [
+                24,
+                "MOVE_PSYBEAM"
+            ],
+            [
+                27,
+                "MOVE_WHIRLWIND"
+            ],
+            [
+                31,
+                "MOVE_LIGHT_SCREEN"
+            ],
+            [
+                34,
+                "MOVE_SILVER_WIND"
+            ],
+            [
+                38,
+                "MOVE_TOXIC"
+            ],
+            [
+                41,
+                "MOVE_BUG_BUZZ"
+            ]
         ],
         "by_tm": [
             "TM06",
@@ -90,7 +132,7 @@
             "MOVE_SWIFT"
         ]
     },
-    "evolutions": [  ],
+    "evolutions": [],
     "offspring": "SPECIES_WURMPLE",
     "footprint": {
         "has": true,
@@ -113,9 +155,9 @@
             "name": "DUSTOX",
             "category": "Poison Moth Pokémon",
             "entry_text": [
-                "Toxic powder is scattered with each\n",
-                "flap. At night, it is known to strip\n",
-                "leaves off trees lining boulevards."
+                "A nocturnal Pokémon. Drawn by\n",
+                "streetlights, they messily eat the\n",
+                "leaves of trees lining boulevards."
             ]
         },
         "fr": {
@@ -161,6 +203,18 @@
                 "やこうせいの　ポケモン。\n",
                 "あかりに　さそわれた　ドクケイルが\n",
                 "がいろじゅの　はを　くいちらかす。"
+            ]
+        },
+        "local_version": {
+            "entry_text": [
+                "Toxic powder is scattered with each\n",
+                "flap. At night, it is known to strip\n",
+                "leaves off trees lining boulevards."
+            ],
+            "entry_text_fr": [
+                "Il disperse un nuage de poudre\n",
+                "toxique à chaque coup d’aile. Il\n",
+                "aime les feuilles d’arbres urbains."
             ]
         }
     },

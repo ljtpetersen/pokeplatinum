@@ -27,5 +27,12 @@
   "fieldUseFunc": "ITEM_USE_FUNC_TM_HM",
   "battleUseCategory": "BATTLE_USE_CATEGORY_NONE",
   "itemUseParams": null,
-  "teachesMove": "MOVE_SLUDGE_BOMB"
+  "teachesMove": "MOVE_SLUDGE_BOMB",
+  "name_fr": "CT36",
+  "description_fr": [
+    "Envoie des détritus sur l’ennemi. Peut\n",
+    "aussi l’empoisonner."
+  ],
+  "plural_fr": "CT36",
+  "article_fr": null
 }

@@ -45,6 +45,11 @@
                 "The Trainers and Pokémon that gather\n",
                 "here aren’t pushovers.\f",
                 "They all have tricks up their sleeves!\r"
+            ],
+            "fr_FR": [
+                "Les Dresseurs et les Pokémon\n",
+                "rassemblés ici sont costauds.\f",
+                "Ils ont plus d’un tour dans leur sac!\r"
             ]
         },
         {
@@ -52,6 +57,10 @@
             "en_US": [
                 "You’re not a Trainer that can be\n",
                 "taken lightly!\n"
+            ],
+            "fr_FR": [
+                "Tu n’es pas un Dresseur qu’on peut\n",
+                "prendre à la légère!\n"
             ]
         },
         {
@@ -59,7 +68,12 @@
             "en_US": [
                 "The Pokémon you’ll meet here won’t\n",
                 "make it easy for you to move onward.\n"
+            ],
+            "fr_FR": [
+                "Les Pokémon que tu rencontres ici\n",
+                "ne facilitent pas ta progression.\n"
             ]
         }
-    ]
+    ],
+    "name_fr": "Antoine"
 }

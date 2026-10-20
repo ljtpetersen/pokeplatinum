@@ -6,6 +6,10 @@
       "en_US": [
         "Hello! Welcome to the Oreburgh\n",
         "Mining Museum!"
+      ],
+      "fr_FR": [
+        "Bonjour! Bienvenue au Musée Minier de\n",
+        "Charbourg!"
       ]
     },
     {
@@ -15,6 +19,13 @@
         "How are you?\r",
         "I study Pokémon Fossils!\n",
         "Me! Right here and now!\r"
+      ],
+      "fr_FR": [
+        "Bonjour, bonjour!\r",
+        "Je suis un scientifique très\n",
+        "sérieux!\r",
+        "J’étudie les Fossiles anciens\n",
+        "de Pokémon!\r"
       ]
     },
     {
@@ -22,6 +33,10 @@
       "en_US": [
         "You have a Fossil for me, yes?\n",
         "Shall I turn it into a Pokémon?"
+      ],
+      "fr_FR": [
+        "Vous n’auriez pas un Fossile pour moi?\n",
+        "Je le transforme en Pokémon, oui?"
       ]
     },
     {
@@ -29,6 +44,10 @@
       "en_US": [
         "Which Fossil should I turn back\n",
         "into a Pokémon? Choose! Now!"
+      ],
+      "fr_FR": [
+        "Quel Fossile dois-je transformer en\n",
+        "Pokémon? Choisis! Vite!"
       ]
     },
     {
@@ -36,6 +55,10 @@
       "en_US": [
         "OK, I will do that! Turn that Fossil\n",
         "back into a Pokémon, surely I will!"
+      ],
+      "fr_FR": [
+        "OK, je vais faire ça! Transformer ce\n",
+        "Fossile en Pokémon, oui!"
       ]
     },
     {
@@ -43,6 +66,10 @@
       "en_US": [
         "You don’t wish that I extract any\n",
         "Pokémon from a Fossil. Fine, then!"
+      ],
+      "fr_FR": [
+        "Vous ne voulez pas que je transforme de\n",
+        "Fossile en Pokémon. Bah, bien!"
       ]
     },
     {
@@ -52,6 +79,12 @@
         "your Pokémon from a Fossil.\r",
         "You go outside, yes, please. Now!\n",
         "Time alone is what I now need. NOW!!!"
+      ],
+      "fr_FR": [
+        "Je suis en train de transformer votre\n",
+        "Fossile en Pokémon.\r",
+        "Vous sortez, oui, s’il vous plaît. Vite!\n",
+        "Je n’ai besoin que de temps. VITE!!!"
       ]
     },
     {
@@ -61,6 +94,12 @@
         "You kept us waiting! Unacceptable!\r",
         "This is your {STRVAR_1 0, 0, 0}!\n",
         "You be good to it, OK!\r"
+      ],
+      "fr_FR": [
+        "Vous revoici! Votre Fossile a été\n",
+        "transformé!\r",
+        "C’est un {STRVAR_1 0, 0, 0}!\n",
+        "Vous serez aimable avec lui, hein?\r"
       ]
     },
     {
@@ -68,6 +107,10 @@
       "en_US": [
         "{STRVAR_1 3, 0, 0} received\n",
         "the {STRVAR_1 0, 1, 0}!\r"
+      ],
+      "fr_FR": [
+        "{STRVAR_1 3, 0, 0} obtient un\n",
+        "{STRVAR_1 0, 1, 0}!\r"
       ]
     },
     {
@@ -75,6 +118,10 @@
       "en_US": [
         "Give a nickname to the {STRVAR_1 0, 1, 0}\n",
         "you received?"
+      ],
+      "fr_FR": [
+        "Donner un surnom au Pokémon\n",
+        "{STRVAR_1 0, 1, 0}?"
       ]
     },
     {
@@ -84,6 +131,13 @@
         "You have too many Pokémon with you!\r",
         "I must hold it for you, so come back,\n",
         "you, and take it away, please."
+      ],
+      "fr_FR": [
+        "Mais... Non, je ne peux pas faire ça!\n",
+        "Vous avez trop de Pokémon avec vous!\r",
+        "Je dois le garder pour vous, alors vous\n",
+        "revenez plus tard et vous l’emmenez,\f",
+        "oui."
       ]
     },
     {
@@ -91,6 +145,10 @@
       "en_US": [
         "If it is a Fossil that you obtain,\n",
         "bring it to me if you must."
+      ],
+      "fr_FR": [
+        "Si vous obtenez un Fossile,\n",
+        "amenez-le-moi si vous y tenez."
       ]
     },
     {
@@ -100,6 +158,13 @@
         "to achieve extraction from Fossils.\r",
         "From Fossils I can extract Pokémon,\n",
         "but not yet, not yet."
+      ],
+      "fr_FR": [
+        "Sur le point de faire une découverte,\n",
+        "je dois réussir l’extraction de\f",
+        "Fossiles.\r",
+        "Des Fossiles, je dois extraire des\n",
+        "Pokémon, mais pas encore, pas encore."
       ]
     },
     {
@@ -109,6 +174,12 @@
         "I never expected something this big!\r",
         "And that color!\n",
         "It really is as black as they say!"
+      ],
+      "fr_FR": [
+        "Waouh! Alors c’est ça, le charbon?\n",
+        "Je ne pensais pas que c’était si gros!\r",
+        "Et cette couleur!\n",
+        "C’est vraiment aussi noir qu’on le dit!"
       ]
     },
     {
@@ -116,6 +187,10 @@
       "en_US": [
         "Wow! The Pokémon that carried this\n",
         "must be terribly strong!"
+      ],
+      "fr_FR": [
+        "Waouh! Les Pokémon qui transportent\n",
+        "ça doivent être très forts!"
       ]
     },
     {
@@ -124,6 +199,11 @@
         "Well, how about that!\r",
         "The Oreburgh Mine extends under\n",
         "the seafloor!"
+      ],
+      "fr_FR": [
+        "Eh bien, ça, c’est quelque chose!\r",
+        "La Mine de Charbourg s’étend\n",
+        "sous la mer!"
       ]
     },
     {
@@ -135,6 +215,14 @@
         "Underground Man lives there.\r",
         "With a name like that, he must be an\n",
         "authority on the Underground."
+      ],
+      "fr_FR": [
+        "Loin d’ici, il y a une ville du nom de\n",
+        "Vestigion.\r",
+        "Il paraît qu’un personnage étrange y\n",
+        "vit, l’Homme du Souterrain.\r",
+        "Avec un tel nom, ce doit être un expert\n",
+        "du Souterrain."
       ]
     },
     {
@@ -144,6 +232,12 @@
         "just a tough body.\r",
         "Think about it. You’re in darkness,\n",
         "digging desperately through rock."
+      ],
+      "fr_FR": [
+        "Pour travailler dans la mine, le mental\n",
+        "compte autant que les muscles.\r",
+        "Penses-y. Tout le temps dans le noir,\n",
+        "à creuser la roche..."
       ]
     },
     {
@@ -152,6 +246,12 @@
         "The history of Oreburgh Mine...\r",
         "You could call it a history of effort and\n",
         "friendship between people and Pokémon."
+      ],
+      "fr_FR": [
+        "L’histoire de la Mine de Charbourg...\r",
+        "Elle est marquée par le travail et la\n",
+        "collaboration entre les gens et\f",
+        "les Pokémon."
       ]
     },
     {
@@ -162,6 +262,13 @@
         "vegetative matter was swept along\r",
         "by rain and rivers. It came to be\n",
         "buried under the ground.”"
+      ],
+      "fr_FR": [
+        "Comment s’est formé le Charbon   1\r",
+        "“Il y a très longtemps, les matières\n",
+        "végétales furent entraînées par les\r",
+        "pluies et les rivières. Elles ont été\n",
+        "enfouies sous le sol.”"
       ]
     },
     {
@@ -172,6 +279,13 @@
         "forced ever deeper under the ground\r",
         "due to tremors and fissures caused\n",
         "by the shifting landmasses.”"
+      ],
+      "fr_FR": [
+        "Comment s’est formé le Charbon   2\r",
+        "“La matière ensevelie s’est enfoncée\n",
+        "encore plus profondément à cause des\r",
+        "secousses et des fissures dues aux\n",
+        "glissements de terrain.”"
       ]
     },
     {
@@ -182,6 +296,13 @@
         "plant matter was subjected to heavy\r",
         "pressure and the heat of magma.\n",
         "It gradually turned into coal.”"
+      ],
+      "fr_FR": [
+        "Comment s’est formé le Charbon   3\r",
+        "“Dans le sol, la matière végétale\n",
+        "a subi de fortes pressions et la chaleur\r",
+        "du magma. Elle s’est peu à peu\n",
+        "transformée en charbon.”"
       ]
     },
     {
@@ -189,6 +310,10 @@
       "en_US": [
         "Samples of coal from different regions\n",
         "are displayed."
+      ],
+      "fr_FR": [
+        "Des échantillons de charbon de\n",
+        "différentes régions sont exposés ici."
       ]
     },
     {
@@ -196,6 +321,10 @@
       "en_US": [
         "The box contains categorized samples\n",
         "of coal."
+      ],
+      "fr_FR": [
+        "Cette vitrine d’exposition contient des\n",
+        "échantillons classés de charbon."
       ]
     },
     {
@@ -205,6 +334,12 @@
         "displayed.\r",
         "They appear to have been worn\n",
         "on someone’s head while underground."
+      ],
+      "fr_FR": [
+        "Différents types de lampes sont\n",
+        "exposés.\r",
+        "Des gens les ont portées sur leur\n",
+        "tête dans la mine."
       ]
     },
     {
@@ -214,6 +349,12 @@
         "displayed.\r",
         "They apparently dug out coal using\n",
         "these tools in the olden days."
+      ],
+      "fr_FR": [
+        "Des objets en bois très abîmés sont\n",
+        "exposés ici.\r",
+        "Ils ont apparemment servi à extraire le\n",
+        "charbon du sol il y a longtemps."
       ]
     },
     {
@@ -221,6 +362,10 @@
       "en_US": [
         "The everyday items and tools of\n",
         "past mine workers are displayed."
+      ],
+      "fr_FR": [
+        "Des objets et des outils usuels des\n",
+        "anciens mineurs sont exposés ici."
       ]
     }
   ]

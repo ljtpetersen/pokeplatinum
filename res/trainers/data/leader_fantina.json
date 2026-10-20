@@ -61,18 +61,28 @@
             "en_US": [
                 "Oh, heavens. What is this?\n",
                 "Is this my final Pokémon?\n"
+            ],
+            "fr_FR": [
+                "Oh, ciel! Que se passe-t-il?\n",
+                "C’est déjà mon last Pokémon?"
             ]
         },
         {
             "type": "TRMSG_LAST_BATTLER_HALF_HP",
-            "en_US": "Never give up, never surrender!\n"
+            "en_US": "Never give up, never surrender!\n",
+            "fr_FR": "Ne jamais abandonner, ni se rendre!\n"
         },
         {
             "type": "TRMSG_DEFEAT",
             "en_US": [
                 "You are so fantastically strong.\n",
                 "I know now why I have lost.\n"
+            ],
+            "fr_FR": [
+                "Ta puissance est fantastic.\n",
+                "Je comprends pourquoi j’ai perdu.\n"
             ]
         }
-    ]
+    ],
+    "name_fr": "Kiméra"
 }

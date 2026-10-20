@@ -28,5 +28,12 @@
   "battleUseCategory": "BATTLE_USE_CATEGORY_HEALING",
   "itemUseParams": {
     "ppRestored": 10
-  }
+  },
+  "name_fr": "Huile",
+  "description_fr": [
+    "Restaure jusqu’à 10 PP d’une\n",
+    "capacité sélectionnée."
+  ],
+  "plural_fr": "Huile",
+  "article_fr": null
 }

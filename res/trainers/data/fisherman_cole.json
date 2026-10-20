@@ -42,17 +42,30 @@
                 "If I stare at the water’s surface\n",
                 "for too long, I begin to forget what\f",
                 "I was doing in the first place.\r"
+            ],
+            "fr_FR": [
+                "Si je regarde trop longtemps la\n",
+                "surface de l’eau, je perds le fil\f",
+                "de ce que j’étais en train de faire.\r"
             ]
         },
         {
             "type": "TRMSG_DEFEAT",
-            "en_US": "I don’t know how, but I lost!\n"
+            "en_US": "I don’t know how, but I lost!\n",
+            "fr_FR": [
+                "Je ne sais pas comment c’est possible,\n",
+                "mais j’ai perdu!\n"
+            ]
         },
         {
             "type": "TRMSG_POST_BATTLE",
             "en_US": [
                 "Oh, right...\n",
                 "I was fishing, wasn’t I?\n"
+            ],
+            "fr_FR": [
+                "Ah oui, je me souviens...\n",
+                "Je pêchais, c’est ça?\n"
             ]
         },
         {
@@ -62,7 +75,14 @@
                 "water’s surface, I saw your face.\r",
                 "I’m not sure about what I was just\n",
                 "doing, but do you want to battle?\r"
+            ],
+            "fr_FR": [
+                "Quand j’ai levé les yeux de la surface\n",
+                "de l’eau, j’ai vu ton visage.\r",
+                "Je ne sais plus ce que j’étais en train\n",
+                "de faire, mais tu veux combattre?\r"
             ]
         }
-    ]
+    ],
+    "name_fr": "Walter"
 }

@@ -26,5 +26,12 @@
     "contest": {
         "effect": "CONTEST_EFFECT_ALL_SAME_JUDGE",
         "type": "CONTEST_TYPE_COOL"
-    }
+    },
+    "name_fr": "Guillotine",
+    "description_fr": [
+        "De méchantes pinces\n",
+        "lacèrent l’ennemi, le\n",
+        "mettant K.O. sur le\n",
+        "coup s’il est touché."
+    ]
 }

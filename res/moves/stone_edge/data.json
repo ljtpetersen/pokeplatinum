@@ -25,5 +25,12 @@
     "contest": {
         "effect": "CONTEST_EFFECT_2_HEARTS_WHEN_VOLTAGE_UP",
         "type": "CONTEST_TYPE_TOUGH"
-    }
+    },
+    "name_fr": "Lame de Roc",
+    "description_fr": [
+        "Fait surgir des\n",
+        "pierres aiguisées sous\n",
+        "l’ennemi. Taux de\n",
+        "critiques élevé."
+    ]
 }

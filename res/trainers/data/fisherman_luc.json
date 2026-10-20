@@ -59,6 +59,10 @@
             "en_US": [
                 "Yeah, yeah...\n",
                 "Nothing’s biting!\r"
+            ],
+            "fr_FR": [
+                "Ouais, ouais...\n",
+                "Ça mord pas du tout!\r"
             ]
         },
         {
@@ -66,6 +70,10 @@
             "en_US": [
                 "Can’t catch a fish!\n",
                 "Can’t catch a break!\n"
+            ],
+            "fr_FR": [
+                "Pas de poisson à l’horizon!\n",
+                "Pas de victoire non plus!\n"
             ]
         },
         {
@@ -75,6 +83,12 @@
                 "but...\r",
                 "Packing it in and going home sounds good\n",
                 "at a time like this...\n"
+            ],
+            "fr_FR": [
+                "Avoir beaucoup de Pokémon ne suffit\n",
+                "pas toujours...\r",
+                "Je crois que je ferais mieux de\n",
+                "rentrer chez moi...\n"
             ]
         },
         {
@@ -82,7 +96,12 @@
             "en_US": [
                 "Yeah, yeah...\n",
                 "Nothing’s biting today either.\r"
+            ],
+            "fr_FR": [
+                "Ouais, ouais...\n",
+                "Aujourd’hui non plus, ça ne mord pas.\r"
             ]
         }
-    ]
+    ],
+    "name_fr": "Micha"
 }

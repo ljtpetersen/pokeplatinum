@@ -27,5 +27,12 @@
     "contest": {
         "effect": "CONTEST_EFFECT_BASIC",
         "type": "CONTEST_TYPE_SMART"
-    }
+    },
+    "name_fr": "Etonnement",
+    "description_fr": [
+        "Le lanceur attaque\n",
+        "l’ennemi en poussant\n",
+        "un cri terrifiant.\n",
+        "Peut aussi l’apeurer."
+    ]
 }

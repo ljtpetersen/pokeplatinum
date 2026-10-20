@@ -26,5 +26,13 @@
     "contest": {
         "effect": "CONTEST_EFFECT_BASIC",
         "type": "CONTEST_TYPE_CUTE"
-    }
+    },
+    "name_fr": "Hydroqueue",
+    "description_fr": [
+        "Le lanceur attaque \n",
+        "en balançant sa\n",
+        "queue comme une\n",
+        "lame de fond en\n",
+        "pleine tempête."
+    ]
 }

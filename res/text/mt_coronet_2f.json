@@ -13,6 +13,19 @@
         "lakes have been captured...\r",
         "Something terrible is happening,\n",
         "but what exactly, I do not know.\r"
+      ],
+      "fr_FR": [
+        "Beladonis: Regarde-moi un peu ce trou.\r",
+        "Avant, il y avait là un mur avec une\n",
+        "peinture rupestre, bloquant l’accès\f",
+        "au sommet.\r",
+        "Mais le mur a disparu. Il a été brisé\n",
+        "en petits morceaux. Tu vois?\r",
+        "Depuis que les trois Pokémon lacustres\n",
+        "ont été capturés...\r",
+        "Je ne sais pas de quoi il retourne au\n",
+        "juste, mais quelque chose de terrible\f",
+        "est en train de se produire.\r"
       ]
     },
     {
@@ -24,6 +37,14 @@
         "Now, to the next step.\r",
         "Are you Trainer enough to advance?\n",
         "Show me, if you will!\r"
+      ],
+      "fr_FR": [
+        "Il n’existe qu’un seul responsable!\n",
+        "Hélio, de la Team Galaxie!\r",
+        "Nous ne pouvons plus faire marche\n",
+        "arrière. Autant avancer!\r",
+        "As-tu assez d’expérience pour y\n",
+        "arriver? Montre-moi!\r"
       ]
     },
     {
@@ -43,6 +64,24 @@
         "All I can do now is give you this.\r",
         "It is a little something I obtained in\n",
         "an investigation long ago.\r"
+      ],
+      "fr_FR": [
+        "...\n",
+        "...\r",
+        "Ah, ah, ah!\n",
+        "Tu peux te détendre, à présent.\r",
+        "Je comprends tout désormais.\n",
+        "Tu as bien plus de talent que moi.\r",
+        "Tout comme les Commandants.\n",
+        "Et Hélio, bien entendu.\r",
+        "La Team Galaxie est trop forte pour\n",
+        "moi...\r",
+        "Tu dois les arrêter! Tu es la seule\n",
+        "personne à en être capable!\r",
+        "Tout ce que je peux faire, c’est te\n",
+        "donner ceci.\r",
+        "Je l’ai trouvée au cours d’une enquête,\n",
+        "il y a bien longtemps.\r"
       ]
     },
     {
@@ -50,6 +89,10 @@
       "en_US": [
         "Looker: Please!\n",
         "You must stop Team Galactic!"
+      ],
+      "fr_FR": [
+        "Beladonis: Mets fin aux exactions de\n",
+        "la Team Galaxie, je t’en prie!"
       ]
     },
     {
@@ -57,6 +100,10 @@
       "en_US": [
         "Your Bag, it is full?\n",
         "Are you prepared for every occasion?"
+      ],
+      "fr_FR": [
+        "Ton Sac est plein? Tu n’es pas du genre\n",
+        "à t’embarquer sans biscuits, pas vrai?"
       ]
     },
     {
@@ -67,6 +114,14 @@
         "All I can do now is give you this.\r",
         "It is a little something I obtained in\n",
         "an investigation long ago.\r"
+      ],
+      "fr_FR": [
+        "Beladonis: Arrête la Team Galaxie! Tu es\n",
+        "la seule personne à en être capable!\r",
+        "Tout ce que je peux faire, c’est te\n",
+        "donner ceci.\r",
+        "Je l’ai trouvée au cours d’une enquête,\n",
+        "il y a bien longtemps.\r"
       ]
     },
     {
@@ -74,6 +129,10 @@
       "en_US": [
         "There appears to be a cave painting\n",
         "from an ancient time..."
+      ],
+      "fr_FR": [
+        "On dirait une peinture rupestre\n",
+        "des temps anciens..."
       ]
     },
     {
@@ -81,6 +140,10 @@
       "en_US": [
         "Shards are all that remain of the\n",
         "ancient cave painting..."
+      ],
+      "fr_FR": [
+        "L’antique peinture rupestre est brisée\n",
+        "en mille morceaux..."
       ]
     }
   ]

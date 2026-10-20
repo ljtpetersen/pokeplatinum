@@ -32,6 +32,10 @@
             "en_US": [
                 "If this mission is successful, we\n",
                 "will get a nice bonus.\r"
+            ],
+            "fr_FR": [
+                "Si cette mission est un succès, on\n",
+                "obtiendra une belle prime.\r"
             ]
         },
         {
@@ -39,6 +43,10 @@
             "en_US": [
                 "There goes our bonus...\n",
                 "This is an epic tragedy...\n"
+            ],
+            "fr_FR": [
+                "On peut dire adieu à notre prime...\n",
+                "Quelle tristesse...\n"
             ]
         },
         {
@@ -46,7 +54,12 @@
             "en_US": [
                 "I want Team Galactic to become\n",
                 "powerful. That is all I want.\n"
+            ],
+            "fr_FR": [
+                "Je veux que la Team Galaxie devienne\n",
+                "puissante. C’est mon seul objectif.\n"
             ]
         }
-    ]
+    ],
+    "name_fr": "Sbire"
 }

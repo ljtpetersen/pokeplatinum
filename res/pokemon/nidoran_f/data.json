@@ -7,7 +7,10 @@
         "special_attack": 40,
         "special_defense": 40
     },
-    "types": [ "TYPE_POISON", "TYPE_POISON" ],
+    "types": [
+        "TYPE_POISON",
+        "TYPE_POISON"
+    ],
     "catch_rate": 235,
     "base_exp_reward": 59,
     "ev_yields": {
@@ -26,27 +29,72 @@
     "hatch_cycles": 20,
     "base_friendship": 70,
     "exp_rate": "EXP_RATE_MEDIUM_SLOW",
-    "egg_groups": [ "EGG_GROUP_MONSTER", "EGG_GROUP_FIELD" ],
-    "abilities": [ "ABILITY_POISON_POINT", "ABILITY_RIVALRY" ],
+    "egg_groups": [
+        "EGG_GROUP_MONSTER",
+        "EGG_GROUP_FIELD"
+    ],
+    "abilities": [
+        "ABILITY_POISON_POINT",
+        "ABILITY_RIVALRY"
+    ],
     "safari_flee_rate": 0,
     "body_color": "MON_COLOR_BLUE",
     "flip_sprite": false,
     "icon_palette": 2,
     "learnset": {
         "by_level": [
-            [ 1, "MOVE_GROWL" ],
-            [ 1, "MOVE_SCRATCH" ],
-            [ 7, "MOVE_TAIL_WHIP" ],
-            [ 9, "MOVE_DOUBLE_KICK" ],
-            [ 13, "MOVE_POISON_STING" ],
-            [ 19, "MOVE_FURY_SWIPES" ],
-            [ 21, "MOVE_BITE" ],
-            [ 25, "MOVE_HELPING_HAND" ],
-            [ 31, "MOVE_TOXIC_SPIKES" ],
-            [ 33, "MOVE_FLATTER" ],
-            [ 37, "MOVE_CRUNCH" ],
-            [ 43, "MOVE_CAPTIVATE" ],
-            [ 45, "MOVE_POISON_FANG" ]
+            [
+                1,
+                "MOVE_GROWL"
+            ],
+            [
+                1,
+                "MOVE_SCRATCH"
+            ],
+            [
+                7,
+                "MOVE_TAIL_WHIP"
+            ],
+            [
+                9,
+                "MOVE_DOUBLE_KICK"
+            ],
+            [
+                13,
+                "MOVE_POISON_STING"
+            ],
+            [
+                19,
+                "MOVE_FURY_SWIPES"
+            ],
+            [
+                21,
+                "MOVE_BITE"
+            ],
+            [
+                25,
+                "MOVE_HELPING_HAND"
+            ],
+            [
+                31,
+                "MOVE_TOXIC_SPIKES"
+            ],
+            [
+                33,
+                "MOVE_FLATTER"
+            ],
+            [
+                37,
+                "MOVE_CRUNCH"
+            ],
+            [
+                43,
+                "MOVE_CAPTIVATE"
+            ],
+            [
+                45,
+                "MOVE_POISON_FANG"
+            ]
         ],
         "by_tm": [
             "TM03",
@@ -137,6 +185,7 @@
         "fr": {
             "name": "NIDORAN♀",
             "category": "Pokémon Venepic",
+            "category_fr": "Pokémon Vénépic",
             "entry_text": [
                 "Bien qu’il rechigne à se battre,\n",
                 "une goutte du poison sécrété par\n",
@@ -177,6 +226,18 @@
                 "たたかいを　このまない　せいかく。\n",
                 "どくバリから　ぶんぴつされる　どくは\n",
                 "ひとしずくでも　いのちとりだ。"
+            ]
+        },
+        "local_version": {
+            "entry_text": [
+                "While it does not prefer to fight,\n",
+                "even one drop of the poison it\n",
+                "secretes from barbs can be fatal."
+            ],
+            "entry_text_fr": [
+                "Bien qu’il rechigne à se battre,\n",
+                "une goutte du poison sécrété par\n",
+                "ses piquants peut s’avérer fatale."
             ]
         }
     },

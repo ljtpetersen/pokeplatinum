@@ -12,6 +12,16 @@
         "He still has much to learn.\r",
         "In place of my son Roark, I, Byron,\n",
         "will take your challenge!\r"
+      ],
+      "fr_FR": [
+        "Ah!\n",
+        "C’est le Badge d’Arène de Charbourg!\r",
+        "Je vois, je vois!\n",
+        "Tu as vaincu mon fils.\r",
+        "Enfin, ce n’est pas étonnant.\n",
+        "Il a encore beaucoup à apprendre.\r",
+        "Moi, Charles, saurai être à la hauteur,\n",
+        "contrairement à mon fils Pierrick!\r"
       ]
     },
     {
@@ -21,6 +31,12 @@
         "my prized team of Pokémon.\r",
         "In recognition of that power,\n",
         "I give you this: the Mine Badge!\r"
+      ],
+      "fr_FR": [
+        "Tu as assez de talent pour venir à bout\n",
+        "de ma grande équipe de Pokémon.\r",
+        "En reconnaissance de ta puissance,\n",
+        "je te confie ceci: le Badge Mine!\r"
       ]
     },
     {
@@ -28,6 +44,10 @@
       "en_US": [
         "{STRVAR_1 3, 0, 0} received\n",
         "the Mine Badge from Byron!"
+      ],
+      "fr_FR": [
+        "{STRVAR_1 3, 0, 0} obtient le\n",
+        "Badge Mine de Charles!"
       ]
     },
     {
@@ -41,6 +61,15 @@
         "will obey you without question.\r",
         "Here!\n",
         "Take this, too!\r"
+      ],
+      "fr_FR": [
+        "Ce Badge permet d’utiliser la capacité\n",
+        "Force en dehors du combat.\r",
+        "Tu possèdes maintenant six Badges.\r",
+        "Cela signifie que les Pokémon t’obéiront\n",
+        "au doigt et à l’œil jusqu’au N. 70.\r",
+        "Tiens!\n",
+        "Prends également ceci!\r"
       ]
     },
     {
@@ -50,6 +79,12 @@
         "{STRVAR_1 6, 1, 0}.\r",
         "If it hits, it may also lower the\n",
         "target’s Special Defense."
+      ],
+      "fr_FR": [
+        "La {STRVAR_1 8, 0, 0} contient la\n",
+        "capacité {STRVAR_1 6, 1, 0}.\r",
+        "Elle peut réduire la Défense Spéciale\n",
+        "de la cible quand elle fait mouche."
       ]
     },
     {
@@ -66,6 +101,19 @@
         "But I’m not stepping aside just yet!\r",
         "I merely need to rededicate myself\n",
         "to training on Iron Island."
+      ],
+      "fr_FR": [
+        "Gwahahahaha!\n",
+        "La région de Sinnoh est vaste!\r",
+        "Tous les jours, de nouveaux Dresseurs\n",
+        "coriaces comme toi et {STRVAR_1 3, 1, 0}\f",
+        "viennent défier les anciens!\r",
+        "Le futur des Pokémon est assuré avec\n",
+        "des Dresseurs aussi doués que mon\f",
+        "fils et vous deux!\r",
+        "Mais je n’ai pas dit mon dernier mot!\r",
+        "Je dois à nouveau reprendre mon\n",
+        "entraînement sur l’Ile de Fer."
       ]
     },
     {
@@ -77,6 +125,14 @@
         "Pokémon.\r",
         "Steel-type Pokémon have high Defense,\n",
         "so you’d have to hit them hard!"
+      ],
+      "fr_FR": [
+        "Hé, toi!\n",
+        "Futur Maître!\r",
+        "Le Champion d’Arène du coin utilise des\n",
+        "Pokémon de type Acier.\r",
+        "Les types Acier ont une excellente \n",
+        "défense, il faut les frapper fort!"
       ]
     },
     {
@@ -92,6 +148,18 @@
         "try to become the Pokémon Champ...\r",
         "No one’d laugh at you now!\n",
         "I’m in your corner, kiddo!"
+      ],
+      "fr_FR": [
+        "Oh! {STRVAR_1 3, 0, 0}!\n",
+        "Tu as vaincu le Champion d’Arène!\r",
+        "Bien joué!\n",
+        "Te voilà avec six Badges d’Arène!\r",
+        "Tu es en bonne voie pour devenir un\n",
+        "Dresseur d’exception, pas de doute.\r",
+        "Si tu clamais vouloir devenir le prochain\n",
+        "Maître Pokémon...\r",
+        "Personne n’oserait se moquer de toi!\n",
+        "Tu as mon soutien, petite tête!"
       ]
     },
     {
@@ -101,6 +169,12 @@
         "Leader: Byron\r",
         "Certified Trainers:\n",
         "{STRVAR_1 3, 1, 0}"
+      ],
+      "fr_FR": [
+        "Arène Pokémon de Joliberges\n",
+        "Champion: Charles\r",
+        "Nouveau Dresseur reconnu:\n",
+        "{STRVAR_1 3, 1, 0}"
       ]
     },
     {
@@ -109,6 +183,13 @@
         "Canalave City Pokémon Gym\n",
         "Leader: Byron\r",
         "Certified Trainers:\n",
+        "{STRVAR_1 3, 0, 0}\f",
+        "{STRVAR_1 3, 1, 0}"
+      ],
+      "fr_FR": [
+        "Arène Pokémon de Joliberges\n",
+        "Champion: Charles\r",
+        "Nouveaux Dresseurs reconnus:\n",
         "{STRVAR_1 3, 0, 0}\f",
         "{STRVAR_1 3, 1, 0}"
       ]

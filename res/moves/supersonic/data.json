@@ -26,5 +26,12 @@
     "contest": {
         "effect": "CONTEST_EFFECT_NO_VOLTAGE_DOWN",
         "type": "CONTEST_TYPE_SMART"
-    }
+    },
+    "name_fr": "Ultrason",
+    "description_fr": [
+        "Le lanceur produit\n",
+        "d’étranges ondes\n",
+        "sonores pouvant\n",
+        "rendre confus."
+    ]
 }

@@ -105,6 +105,10 @@
             "en_US": [
                 "A good Trainer takes on all challenges\n",
                 "regardless of the foe or the rules."
+            ],
+            "fr_FR": [
+                "Peu importe l’adversaire ou les règles,\n",
+                "un Dresseur ne refuse aucun combat!"
             ]
         },
         {
@@ -112,6 +116,10 @@
             "en_US": [
                 "No Trainer can be considered bad if\n",
                 "they battle the best they can.\r"
+            ],
+            "fr_FR": [
+                "Si un Dresseur fait de son mieux, on\n",
+                "ne peut pas lui faire de reproches.\r"
             ]
         },
         {
@@ -119,7 +127,12 @@
             "en_US": [
                 "A good Trainer doesn’t gloat over a win.\n",
                 "They just prepare for the next battle.\r"
+            ],
+            "fr_FR": [
+                "Un bon Dresseur ne se vante pas de ses\n",
+                "victoires, mais médite sur son combat.\r"
             ]
         }
-    ]
+    ],
+    "name_fr": "Hayden"
 }

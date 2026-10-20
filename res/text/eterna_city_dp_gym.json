@@ -13,6 +13,18 @@
         "You have a winning aura about you.\r",
         "So, anyway, this will be fun.\n",
         "Let’s have our battle!\r"
+      ],
+      "fr_FR": [
+        "J’ai failli attendre!\r",
+        "Je suis Flo, Champion d’Arène de\n",
+        "Vestigion, fan des Pokémon de type\f",
+        "Plante!\r",
+        "A notre première rencontre, j’ai su\n",
+        "que tu arriverais jusqu’à moi.\r",
+        "Mon intuition s’est avérée exacte.\n",
+        "Tu as l’aura d’un as.\r",
+        "Enfin, ce combat s’annonce amusant.\n",
+        "En garde!\r"
       ]
     },
     {
@@ -26,6 +38,16 @@
         "you love your Pokémon.\r",
         "In recognition of that, I proudly\n",
         "grant you this!\r"
+      ],
+      "fr_FR": [
+        "Peut-être l’ai-je déjà dit,\n",
+        "mais t’es vraiment coriace!\r",
+        "Ça n’a pas été trop dur d’entraîner\n",
+        "tes Pokémon jusqu’à ce niveau?\r",
+        "En tout cas, cela témoigne de\n",
+        "l’affection que tu leur portes.\r",
+        "En conséquence de quoi, je suis fière\n",
+        "de te remettre ceci!\r"
       ]
     },
     {
@@ -33,6 +55,10 @@
       "en_US": [
         "{STRVAR_1 3, 0, 0} received\n",
         "the Forest Badge from Gardenia!"
+      ],
+      "fr_FR": [
+        "{STRVAR_1 3, 0, 0} obtient le\n",
+        "Badge Forêt de Flo!"
       ]
     },
     {
@@ -46,6 +72,16 @@
         "will obey you up to Lv. 30.\r",
         "I’ve also got something else.\n",
         "It’s a gift from me!\r"
+      ],
+      "fr_FR": [
+        "Grâce au Badge Forêt, tes Pokémon\n",
+        "peuvent utiliser la capacité secrète\f",
+        "Coupe en dehors du combat.\r",
+        "Maintenant que tu possèdes deux Badges\n",
+        "d’Arène, les Pokémon que tu obtiens par\f",
+        "échange t’obéiront jusqu’au N. 30.\r",
+        "Oh, une dernière chose...\n",
+        "Voici un cadeau de ma part!\r"
       ]
     },
     {
@@ -56,6 +92,13 @@
         "It’s one of my favorite moves.\r",
         "The heavier the foe, the more\n",
         "damage this move will cause."
+      ],
+      "fr_FR": [
+        "La {STRVAR_1 8, 0, 0} contient\n",
+        "la capacité {STRVAR_1 6, 1, 0}.\r",
+        "C’est l’une de mes préférées.\r",
+        "Plus l’adversaire est lourd et plus\n",
+        "l’attaque est dévastatrice."
       ]
     },
     {
@@ -65,6 +108,12 @@
         "about you, it’s this!\r",
         "You and your Pokémon are gonna get\n",
         "even tougher, and I mean seriously!"
+      ],
+      "fr_FR": [
+        "Ouaip! S’il y a une chose que je sais\n",
+        "de toi, c’est bien celle-ci!\r",
+        "Toi et tes Pokémon, vous allez vous\n",
+        "endurcir, et pas qu’un peu!"
       ]
     },
     {
@@ -72,6 +121,10 @@
       "en_US": [
         "How did you know where to find me?\n",
         "Let’s have our battle!\r"
+      ],
+      "fr_FR": [
+        "Comment tu as su où j’étais?\n",
+        "Nous devons combattre!\r"
       ]
     },
     {
@@ -79,6 +132,10 @@
       "en_US": [
         "OK, the next Trainer is at the end,\n",
         "past the two boulders...I think."
+      ],
+      "fr_FR": [
+        "D’accord, le prochain Dresseur est au \n",
+        "bout, après deux rochers, je crois..."
       ]
     },
     {
@@ -87,6 +144,11 @@
         "My Grass-type Pokémon can dole out\n",
         "some serious special attacks...\r",
         "I won’t let you win...easily!\r"
+      ],
+      "fr_FR": [
+        "Mes Pokémon de type Plante utilisent de\n",
+        "sacrées attaques spéciales...\r",
+        "Tu ne gagneras pas... si facilement!\r"
       ]
     },
     {
@@ -96,6 +158,12 @@
         "A hint about the next Trainer...\r",
         "In the middle of three trees.\n",
         "That’s it for my hint. Good luck."
+      ],
+      "fr_FR": [
+        "Oh, j’oubliais...\n",
+        "Un indice sur le prochain Dresseur...\r",
+        "Cherche au milieu de trois arbres.\n",
+        "C’était mon indice. Bonne chance."
       ]
     },
     {
@@ -103,6 +171,10 @@
       "en_US": [
         "Even when you try to conceal it, you\n",
         "can’t hide the aroma of flowers.\r"
+      ],
+      "fr_FR": [
+        "On a beau essayer, on ne peut pas\n",
+        "dissimuler le parfum des fleurs.\r"
       ]
     },
     {
@@ -110,6 +182,10 @@
       "en_US": [
         "Your next opponent is beside four\n",
         "flowers."
+      ],
+      "fr_FR": [
+        "Ton prochain adversaire se trouve\n",
+        "à côté de quatre fleurs."
       ]
     },
     {
@@ -117,6 +193,10 @@
       "en_US": [
         "Giggle! You found me!\n",
         "Of course I’ll battle you!\r"
+      ],
+      "fr_FR": [
+        "Hi, hi, hi! Tu as découvert ma cachette!\n",
+        "Allez, je veux bien me battre avec toi!\r"
       ]
     },
     {
@@ -124,6 +204,10 @@
       "en_US": [
         "Giggle! There’s only our Gym Leader\n",
         "left. Go on, don’t be afraid!"
+      ],
+      "fr_FR": [
+        "Hi, hi, hi! Il ne reste plus que notre \n",
+        "Champion d’Arène. Allez, n’aie pas peur!"
       ]
     }
   ]

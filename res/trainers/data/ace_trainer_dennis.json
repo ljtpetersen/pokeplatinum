@@ -58,6 +58,10 @@
             "en_US": [
                 "I’ll take on anyone!\n",
                 "It can only make me stronger!\r"
+            ],
+            "fr_FR": [
+                "Je ne refuse jamais un combat.\n",
+                "C’est comme ça que je m’améliore!\r"
             ]
         },
         {
@@ -65,6 +69,10 @@
             "en_US": [
                 "You won and I lost, but the both of\n",
                 "us gained something from this.\n"
+            ],
+            "fr_FR": [
+                "Tu as gagné, j’ai perdu, mais chacun\n",
+                "a appris quelque chose aujourd’hui.\n"
             ]
         },
         {
@@ -74,6 +82,12 @@
                 "matter how old or young you are.\r",
                 "Your gender doesn’t matter, either.\n",
                 "Nothing like that means anything!\n"
+            ],
+            "fr_FR": [
+                "Etre jeune ou vieux ne compte \n",
+                "pas dans un combat de Pokémon.\r",
+                "Fille ou garçon, c’est pareil.\n",
+                "Ces choses-là n’ont aucune importance!\n"
             ]
         },
         {
@@ -83,7 +97,14 @@
                 "beaten me again and again.\r",
                 "By doing that, we both grow a little\n",
                 "as Trainers.\r"
+            ],
+            "fr_FR": [
+                "Je continue de défier des gens qui\n",
+                "m’ont battu plusieurs fois.\r",
+                "Ainsi, chacun d’entre nous apprend\n",
+                "quelque chose en tant que Dresseur.\r"
             ]
         }
-    ]
+    ],
+    "name_fr": "Ambroise"
 }

@@ -7,6 +7,11 @@
         "Rowan: Ah, {STRVAR_1 3, 0, 0}!\r",
         "You’ve come to show me the progress\n",
         "you’ve made on your Pokédex?"
+      ],
+      "fr_FR": [
+        "Sorbier: Ah, {STRVAR_1 3, 0, 0}!\r",
+        "Tu viens me montrer les progrès que\n",
+        "tu as fait avec ton Pokédex?"
       ]
     },
     {
@@ -14,6 +19,11 @@
       "en_US": [
         "Hmm...\r",
         "You’ve spotted {STRVAR_1 52, 0, 0} Pokémon in\n",
+        "Sinnoh...\r"
+      ],
+      "fr_FR": [
+        "Hum...\r",
+        "Tu as vu {STRVAR_1 52, 0, 0} Pokémon de\n",
         "Sinnoh...\r"
       ]
     },
@@ -23,6 +33,11 @@
         "What’s wrong?\r",
         "You’re not suggesting you’ve seen so\n",
         "few that you’re afraid to show me?"
+      ],
+      "fr_FR": [
+        "Qu’y a-t-il?\r",
+        "Ne me dis pas que tu en as vu si peu\n",
+        "que tu as peur de me le montrer?"
       ]
     },
     {
@@ -37,6 +52,13 @@
         "are in Sinnoh!\r",
         "{STRVAR_1 3, 0, 0}, I need to see you\n",
         "at my lab. I’ll be waiting!"
+      ],
+      "fr_FR": [
+        "Je vois!\r",
+        "Tu as rencontré tous les Pokémon\n",
+        "qui existent à Sinnoh!\r",
+        "{STRVAR_1 3, 0, 0}, j’ai besoin que tu passes\n",
+        "me voir au labo. Je t’attendrai!"
       ]
     },
     {
@@ -45,6 +67,11 @@
         "I see!\r",
         "You’ve met all the Pokémon there\n",
         "are in Sinnoh!"
+      ],
+      "fr_FR": [
+        "Je vois!\r",
+        "Tu as rencontré tous les Pokémon\n",
+        "qui existent à Sinnoh!"
       ]
     },
     {
@@ -53,6 +80,12 @@
         "Look harder for wild Pokémon.\r",
         "Don’t be afraid of going into tall\n",
         "grass."
+      ],
+      "fr_FR": [
+        "Essaie de voir plus de Pokémon\n",
+        "sauvages.\r",
+        "N’aie pas peur de t’aventurer dans\n",
+        "les hautes herbes."
       ]
     },
     {
@@ -60,6 +93,10 @@
       "en_US": [
         "Your pace is picking up.\n",
         "Things can only get better!"
+      ],
+      "fr_FR": [
+        "Ton rythme s’améliore.\n",
+        "Tu vas faire de mieux en mieux!"
       ]
     },
     {
@@ -68,6 +105,11 @@
         "Be persistent when you’re searching\n",
         "for Pokémon that appear only in\f",
         "certain places."
+      ],
+      "fr_FR": [
+        "Persiste quand tu cherches des Pokémon\n",
+        "qui apparaissent seulement à certains\f",
+        "endroits."
       ]
     },
     {
@@ -76,6 +118,11 @@
         "Are you using fishing rods?\r",
         "Pokémon that live underwater need to\n",
         "be caught by fishing."
+      ],
+      "fr_FR": [
+        "As-tu une canne à pêche?\r",
+        "On ne peut attraper les Pokémon\n",
+        "aquatiques qu’en les pêchant."
       ]
     },
     {
@@ -83,6 +130,10 @@
       "en_US": [
         "Remember, it’s important to make the\n",
         "Pokémon you’ve caught evolve."
+      ],
+      "fr_FR": [
+        "Pense à faire évoluer les Pokémon que\n",
+        "tu attrapes. C’est très important!"
       ]
     },
     {
@@ -91,6 +142,12 @@
         "Pokémon don’t just hide in tall grass.\r",
         "You can find many others in caves and\n",
         "seas."
+      ],
+      "fr_FR": [
+        "Les Pokémon ne se cachent pas que dans\n",
+        "les hautes herbes.\r",
+        "Tu peux en trouver beaucoup d’autres\n",
+        "dans les grottes et dans l’eau."
       ]
     },
     {
@@ -100,6 +157,12 @@
         "battle have Pokémon, obviously.\r",
         "They may have rare ones with them,\n",
         "and that can add to your Pokédex."
+      ],
+      "fr_FR": [
+        "Les Dresseurs qui t’affrontent au\n",
+        "combat ont aussi des Pokémon.\r",
+        "Ils ont même parfois des Pokémon rares,\n",
+        "qui peuvent compléter ton Pokédex."
       ]
     },
     {
@@ -109,6 +172,12 @@
         "morning and some only at night.\r",
         "I know it’s a challenge, but I urge you\n",
         "to keep searching."
+      ],
+      "fr_FR": [
+        "Certains Pokémon n’apparaissent que le\n",
+        "matin. D’autres ne sortent que la nuit.\r",
+        "C’est une tâche difficile, mais je compte\n",
+        "sur toi pour continuer à chercher."
       ]
     },
     {
@@ -118,6 +187,11 @@
         "understand what evolving involves.\r",
         "Your Pokédex doesn’t have long to go\n",
         "now."
+      ],
+      "fr_FR": [
+        "Excellent! Grâce à tes efforts, nous\n",
+        "en apprenons beaucoup sur l’évolution.\r",
+        "Ton Pokédex sera bientôt complet!"
       ]
     },
     {
@@ -127,6 +201,12 @@
         "variety of Pokémon in Sinnoh.\r",
         "This will help my studies immensely!\n",
         "Sincerely, thank you!"
+      ],
+      "fr_FR": [
+        "La diversité des Pokémon de Sinnoh ne\n",
+        "cesse de me surprendre.\r",
+        "Grâce à toi, mes travaux progressent\n",
+        "énormément! Merci pour ton aide!"
       ]
     },
     {
@@ -136,6 +216,12 @@
         "being filled up.\r",
         "This Pokédex can be considered a\n",
         "journal of your adventure."
+      ],
+      "fr_FR": [
+        "Tu fais beaucoup d’efforts pour\n",
+        "compléter ton Pokédex.\r",
+        "Chaque nouvelle page est un\n",
+        "témoignage de tes aventures."
       ]
     },
     {
@@ -143,6 +229,10 @@
       "en_US": [
         "You’re not far from seeing every\n",
         "Pokémon there is to see in Sinnoh!"
+      ],
+      "fr_FR": [
+        "Impressionnant! Tu as vu presque tous\n",
+        "les Pokémon de Sinnoh!"
       ]
     },
     {
@@ -151,6 +241,11 @@
         "Oak: Ah, {STRVAR_1 3, 0, 0}!\r",
         "You’ve come to show me how\n",
         "your Pokédex is coming along?"
+      ],
+      "fr_FR": [
+        "Chen: Ah, {STRVAR_1 3, 0, 0}!\r",
+        "Tu viens me montrer comment progresse\n",
+        "ton Pokédex?"
       ]
     },
     {
@@ -159,6 +254,11 @@
         "Oak: Ah, {STRVAR_1 3, 0, 0}!\r",
         "You’ve come to show me how\n",
         "your Pokédex is coming along?"
+      ],
+      "fr_FR": [
+        "Chen: Ah, {STRVAR_1 3, 0, 0}!\r",
+        "Tu viens me montrer comment progresse\n",
+        "ton Pokédex?"
       ]
     },
     {
@@ -166,6 +266,10 @@
       "en_US": [
         "Hmhm...\n",
         "You’ve caught {STRVAR_1 52, 0, 0} so far...\r"
+      ],
+      "fr_FR": [
+        "Hum...\n",
+        "Tu en as attrapé {STRVAR_1 52, 0, 0}...\r"
       ]
     },
     {
@@ -174,6 +278,11 @@
         "I see...\r",
         "Come see me if you’d like me to have\n",
         "a look at your Pokédex."
+      ],
+      "fr_FR": [
+        "Je vois...\r",
+        "Reviens me voir si tu veux me montrer\n",
+        "ton Pokédex."
       ]
     },
     {
@@ -183,6 +292,12 @@
         "species of Pokémon nationwide.\r",
         "If you’re planning to catch them all,\n",
         "you’d better be a committed Trainer."
+      ],
+      "fr_FR": [
+        "Il paraît qu’il y a au moins 400 espèces\n",
+        "de Pokémon dans le monde.\r",
+        "Si tu veux toutes les attraper, tu as\n",
+        "intérêt à être un Dresseur acharné."
       ]
     },
     {
@@ -192,6 +307,12 @@
         "the Pokédex with complete\f",
         "data on Pokémon you’ve gotten.\r",
         "Keep up the good work!"
+      ],
+      "fr_FR": [
+        "Hum! Petit à petit, tu remplis le\n",
+        "Pokédex avec les données exactes\f",
+        "des Pokémon que tu as attrapés.\r",
+        "Continue comme ça!"
       ]
     },
     {
@@ -201,6 +322,12 @@
         "in the wild.\r",
         "Minimize their HP before you throw\n",
         "your Poké Ball to catch them."
+      ],
+      "fr_FR": [
+        "Voici un petit conseil pour attraper les\n",
+        "Pokémon sauvages.\r",
+        "Diminue leurs PV avant de leur lancer\n",
+        "une Poké Ball pour les capturer."
       ]
     },
     {
@@ -212,6 +339,15 @@
         "data is added to the Pokédex.\r",
         "That’s why you should seek out as many\n",
         "trades as possible."
+      ],
+      "fr_FR": [
+        "Souviens-toi: si tu ne peux pas les\n",
+        "attraper, tu peux toujours les\f",
+        "échanger.\r",
+        "Dès l’échange effectué, les données du\n",
+        "Pokémon s’ajoutent au Pokédex.\r",
+        "C’est pour ça que tu dois faire autant\n",
+        "d’échanges que possible."
       ]
     },
     {
@@ -220,6 +356,11 @@
         "Have you visited the Great Marsh?\r",
         "Some Pokémon only appear in places\n",
         "such as that."
+      ],
+      "fr_FR": [
+        "Tu connais le Grand Marais?\r",
+        "Certains Pokémon n’apparaissent que\n",
+        "dans certains endroits comme celui-là."
       ]
     },
     {
@@ -229,6 +370,12 @@
         "that eventually evolve.\r",
         "That’s an important thing to consider\n",
         "when you’re filling your Pokédex."
+      ],
+      "fr_FR": [
+        "Comme tu le sais, il y a des Pokémon qui\n",
+        "évoluent parfois.\r",
+        "C’est une chose importante à prendre\n",
+        "en compte quand tu remplis ton Pokédex."
       ]
     },
     {
@@ -238,6 +385,12 @@
         "There’s nothing to worry about.\r",
         "Keep catching Pokémon the way you’ve\n",
         "been doing so far."
+      ],
+      "fr_FR": [
+        "Tu as prouvé ta valeur.\n",
+        "Il n’y a pas à s’inquiéter.\r",
+        "Continue à attraper des Pokémon comme\n",
+        "tu l’as fait jusqu’à présent."
       ]
     },
     {
@@ -247,6 +400,12 @@
         "one style of evolution?\r",
         "There are some Pokémon that evolve by\n",
         "becoming friends with the Trainer."
+      ],
+      "fr_FR": [
+        "Il existe bien des manières de faire\n",
+        "évoluer les Pokémon, tu sais.\r",
+        "Certains n’évoluent que lorsqu’ils ont\n",
+        "tissé un lien fort avec leur Dresseur."
       ]
     },
     {
@@ -256,6 +415,12 @@
         "that appear in swarms on occasion.\r",
         "Don’t miss out on these massive\n",
         "outbreaks of Pokémon!"
+      ],
+      "fr_FR": [
+        "Apparemment, certains Pokémon\n",
+        "apparaissent parfois en nuées.\r",
+        "Ne rate pas ces apparitions massives\n",
+        "de Pokémon!"
       ]
     },
     {
@@ -265,6 +430,12 @@
         "300 Pokémon!\r",
         "That’s already a major achievement,\n",
         "but I know you’re capable of more!"
+      ],
+      "fr_FR": [
+        "Incroyable! Tu as déjà attrapé plus de\n",
+        "300 Pokémon!\r",
+        "C’est une grande réussite en soi, mais\n",
+        "je sais que tu peux faire mieux!"
       ]
     },
     {
@@ -274,6 +445,13 @@
         "certain times of the day.\r",
         "You’ll need to look for Pokémon\n",
         "around the clock."
+      ],
+      "fr_FR": [
+        "Certains Pokémon sauvages\n",
+        "n’apparaissent qu’à certains moments\f",
+        "de la journée.\r",
+        "Tu dois chercher les Pokémon en\n",
+        "permanence."
       ]
     },
     {
@@ -287,6 +465,16 @@
         "areas you’ve already scoured.\r",
         "You may end up seeing Pokémon\n",
         "that weren’t there before."
+      ],
+      "fr_FR": [
+        "J’ai reçu des rapports indiquant\n",
+        "l’apparition de Pokémon différents.\r",
+        "Je veux dire des Pokémon qui ne sont\n",
+        "pas de la région de Sinnoh.\r",
+        "Tu devrais peut-être retourner dans\n",
+        "les zones que tu as déjà visitées.\r",
+        "Tu pourrais voir des Pokémon\n",
+        "qui n’y étaient pas avant."
       ]
     },
     {
@@ -296,6 +484,12 @@
         "the Pal Park recently?\r",
         "There still may be Pokémon that are\n",
         "rarely seen in Sinnoh."
+      ],
+      "fr_FR": [
+        "{STRVAR_1 3, 0, 0}, as-tu visité le Parc des\n",
+        "Amis, récemment?\r",
+        "Il peut encore y avoir des Pokémon \n",
+        "rares dans Sinnoh."
       ]
     },
     {
@@ -305,6 +499,12 @@
         "the Pal Park recently?\r",
         "There still may be Pokémon that are\n",
         "rarely seen in Sinnoh."
+      ],
+      "fr_FR": [
+        "{STRVAR_1 3, 0, 0}, as-tu visité le Parc des\n",
+        "Amis, récemment?\r",
+        "Il peut encore y avoir des Pokémon \n",
+        "rares dans Sinnoh."
       ]
     },
     {
@@ -314,6 +514,11 @@
         "to completion.\r",
         "Have you ever considered a career\n",
         "as a Pokémon professor?"
+      ],
+      "fr_FR": [
+        "Hum! Ton Pokédex est presque complet.\r",
+        "As-tu déjà envisagé de faire carrière\n",
+        "comme professeur Pokémon?"
       ]
     },
     {
@@ -325,6 +530,14 @@
         "means to seek them all out.\r",
         "If you have a Poké Radar, keep an eye\n",
         "out for rustling tall grass."
+      ],
+      "fr_FR": [
+        "Hum... Tu as une impressionnante\n",
+        "collection de Pokémon.\r",
+        "Tu as dû employer les grands moyens\n",
+        "pour tous les voir.\r",
+        "Pense à utiliser ton Poké Radar dans les\n",
+        "hautes herbes et ouvre bien les yeux."
       ]
     },
     {
@@ -334,6 +547,12 @@
         "of Pokémon.\r",
         "I’m still very much in awe of\n",
         "them."
+      ],
+      "fr_FR": [
+        "Je ne peux que m’émerveiller de la\n",
+        "diversité des Pokémon.\r",
+        "Je suis toujours en admiration\n",
+        "devant eux."
       ]
     },
     {
@@ -345,6 +564,13 @@
         "completion.\r",
         "When that happens, your views about\n",
         "Pokémon will likely have changed!"
+      ],
+      "fr_FR": [
+        "Bien, bien, tu as presque complété le\n",
+        "Pokédex.\r",
+        "Il me tarde de le voir terminé.\r",
+        "Quand ça arrivera, ton opinion sur les\n",
+        "Pokémon aura sûrement évolué!"
       ]
     },
     {
@@ -356,6 +582,14 @@
         "Recall what you’ve overlooked.\r",
         "You’re so close--please finish the\n",
         "Pokédex!"
+      ],
+      "fr_FR": [
+        "Hum... Tu as presque complété ton\n",
+        "Pokédex.\r",
+        "Cherche ce qui te manque.\n",
+        "Rappelle-toi ce que tu as négligé.\r",
+        "Tu es si proche du but! S’il te plaît,\n",
+        "termine le Pokédex!"
       ]
     },
     {
@@ -371,6 +605,19 @@
         "with a Trainer like you!\r",
         "Sincerely, I thank you from the\n",
         "bottom of my heart!"
+      ],
+      "fr_FR": [
+        "{STRVAR_1 3, 0, 0}!\n",
+        "Tu l’as fait!\r",
+        "Tu as finalement complété\n",
+        "le Pokédex National!\r",
+        "C’est encore meilleur que de rencontrer\n",
+        "un Pokémon exotique pour la première\f",
+        "fois!\r",
+        "Je me sens fier d’être ami avec un\n",
+        "Dresseur tel que toi!\r",
+        "Sincèrement, je te remercie du fond du\n",
+        "cœur!"
       ]
     },
     {
@@ -386,15 +633,30 @@
         "with a Trainer like you!\r",
         "Sincerely, I thank you from the\n",
         "bottom of my heart!"
+      ],
+      "fr_FR": [
+        "{STRVAR_1 3, 0, 0}!\n",
+        "Tu l’as fait!\r",
+        "Tu as finalement complété\n",
+        "le Pokédex National!\r",
+        "C’est encore meilleur que de rencontrer\n",
+        "un Pokémon exotique pour la première\f",
+        "fois!\r",
+        "Je me sens fier d’être ami avec un\n",
+        "Dresseur tel que toi!\r",
+        "Sincèrement, je te remercie du fond du\n",
+        "cœur!"
       ]
     },
     {
       "id": "PokedexRatings_Text_AccessedProfessorRowansPC",
-      "en_US": "Accessed Professor Rowan’s PC.\r"
+      "en_US": "Accessed Professor Rowan’s PC.\r",
+      "fr_FR": "Connexion au PC du Professeur Sorbier.\r"
     },
     {
       "id": "PokedexRatings_Text_AccessedProfessorOaksPC",
-      "en_US": "Accessed Professor Oak’s PC.\r"
+      "en_US": "Accessed Professor Oak’s PC.\r",
+      "fr_FR": "Connexion au PC du Professeur Chen.\r"
     }
   ]
 }

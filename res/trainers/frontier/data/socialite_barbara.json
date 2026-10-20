@@ -59,6 +59,10 @@
             "en_US": [
                 "Oh, hello, aren’t you a sweetie!\n",
                 "Are you sure you’re up to this?"
+            ],
+            "fr_FR": [
+                "Te voilà, trésor. Tu veux vraiment te\n",
+                "battre contre moi?"
             ]
         },
         {
@@ -66,6 +70,10 @@
             "en_US": [
                 "Oh, now, please don’t cry.\n",
                 "You should be proud of yourself, dear.\r"
+            ],
+            "fr_FR": [
+                "Non, trésor, ne pleure pas.\n",
+                "Tu n’as aucune raison d’avoir honte.\r"
             ]
         },
         {
@@ -73,7 +81,12 @@
             "en_US": [
                 "Oh, my... You’re quite the capable\n",
                 "practitioner of the art.\r"
+            ],
+            "fr_FR": [
+                "Eh bien, tu as montré un certain\n",
+                "talent, bravo.\r"
             ]
         }
-    ]
+    ],
+    "name_fr": "Fleur"
 }

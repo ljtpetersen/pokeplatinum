@@ -27,5 +27,13 @@
     "contest": {
         "effect": "CONTEST_EFFECT_UNIQUE_JUDGE",
         "type": "CONTEST_TYPE_TOUGH"
-    }
+    },
+    "name_fr": "Coud’Krâne",
+    "description_fr": [
+        "Le lanceur baisse la\n",
+        "tête pour augmenter\n",
+        "sa Défense au 1¹\n",
+        "tour et percuter\n",
+        "l’ennemi au 2⁴."
+    ]
 }

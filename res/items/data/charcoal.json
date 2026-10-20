@@ -26,5 +26,12 @@
   "battlePocket": "BATTLE_POCKET_MASK_NONE",
   "fieldUseFunc": "ITEM_USE_FUNC_NONE",
   "battleUseCategory": "BATTLE_USE_CATEGORY_NONE",
-  "itemUseParams": null
+  "itemUseParams": null,
+  "name_fr": "Charbon",
+  "description_fr": [
+    "Objet à tenir. Combustible montant la\n",
+    "puissance des capacités de type Feu."
+  ],
+  "plural_fr": "Charbon",
+  "article_fr": null
 }

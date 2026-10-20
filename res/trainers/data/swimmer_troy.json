@@ -24,17 +24,27 @@
                 "Yes, I know I can surf, but I’d\n",
                 "rather swim instead.\r",
                 "It does seem weird, I agree.\r"
+            ],
+            "fr_FR": [
+                "Oui, je sais qu’on peut surfer,\n",
+                "mais je préfère la nage.\r",
+                "Je sais, ça a l’air bizarre.\r"
             ]
         },
         {
             "type": "TRMSG_DEFEAT",
-            "en_US": "Kaploosh!\n"
+            "en_US": "Kaploosh!\n",
+            "fr_FR": "Splash!\n"
         },
         {
             "type": "TRMSG_POST_BATTLE",
             "en_US": [
                 "If you don’t know how, I’m willing to\n",
                 "show you how to swim.\n"
+            ],
+            "fr_FR": [
+                "Si tu ne sais pas nager, je veux\n",
+                "bien te montrer.\n"
             ]
         },
         {
@@ -42,7 +52,12 @@
             "en_US": [
                 "If you rely on your Pokémon all the\n",
                 "time, you’ll never learn how to swim!\r"
+            ],
+            "fr_FR": [
+                "Si tu te reposes trop sur tes Pokémon,\n",
+                "tu n’apprendras jamais à nager!\r"
             ]
         }
-    ]
+    ],
+    "name_fr": "Tony"
 }

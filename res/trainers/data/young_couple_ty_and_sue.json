@@ -42,6 +42,10 @@
             "en_US": [
                 "Ty: You’re not supposed to intrude\n",
                 "on my time with Sue!\r"
+            ],
+            "fr_FR": [
+                "Ted: Tu n’as pas à venir t’immiscer\n",
+                "quand je suis avec Ann!\r"
             ]
         },
         {
@@ -49,6 +53,10 @@
             "en_US": [
                 "Ty: I only have eyes for Sue.\n",
                 "Maybe that’s why we lost?\n"
+            ],
+            "fr_FR": [
+                "Ted: Je n’ai d’yeux que pour Ann.\n",
+                "C’est peut-être pour ça que j’ai perdu?\n"
             ]
         },
         {
@@ -56,6 +64,10 @@
             "en_US": [
                 "Ty: Sue, even in defeat, you’re\n",
                 "so beautiful...!\n"
+            ],
+            "fr_FR": [
+                "Ted: Ann, même dans la défaite... \n",
+                "tu es toujours la plus belle!\n"
             ]
         },
         {
@@ -64,6 +76,11 @@
                 "Ty: I don’t want to do anything\n",
                 "without Sue...\r",
                 "Bring two Pokémon at least, OK?\n"
+            ],
+            "fr_FR": [
+                "Ted: Tout ce que je fais, je le fais\n",
+                "avec Ann...\r",
+                "Amène au moins deux Pokémon, entendu?\n"
             ]
         },
         {
@@ -71,6 +88,10 @@
             "en_US": [
                 "Ty: Did you come back to intrude\n",
                 "on my time with Sue?\r"
+            ],
+            "fr_FR": [
+                "Ted: Tu reviens pour t’immiscer dans\n",
+                "mon rendez-vous avec Ann?\r"
             ]
         },
         {
@@ -79,17 +100,28 @@
                 "Sue: Huh?\n",
                 "You want to battle with me?\r",
                 "I will if I can team with Ty!\r"
+            ],
+            "fr_FR": [
+                "Ann: Hein?\n",
+                "Tu veux te battre avec moi?\r",
+                "Je veux bien, si je peux faire\n",
+                "équipe avec Ted!\r"
             ]
         },
         {
             "type": "TRMSG_DOUBLE_BATTLE_DEFEAT_2",
-            "en_US": "Sue: I’m sorry, Ty!\n"
+            "en_US": "Sue: I’m sorry, Ty!\n",
+            "fr_FR": "Ann: Je suis désolée, Ted!\n"
         },
         {
             "type": "TRMSG_POST_DOUBLE_BATTLE_2",
             "en_US": [
                 "Sue: We lost... Ty, I need a hug\n",
                 "to make it all better!\n"
+            ],
+            "fr_FR": [
+                "Ann: On a perdu... Ted, je veux un\n",
+                "câlin pour me remonter le moral!\n"
             ]
         },
         {
@@ -98,6 +130,11 @@
                 "Sue: I only want to battle next to my\n",
                 "sweet Ty.\r",
                 "Don’t you have two Pokémon?\n"
+            ],
+            "fr_FR": [
+                "Ann: Je ne peux pas combattre sans\n",
+                "mon cher Ted!\r",
+                "Tu n’aurais pas deux Pokémon?\n"
             ]
         },
         {
@@ -105,7 +142,12 @@
             "en_US": [
                 "Sue: Oh, it’s you again!\n",
                 "I’ll battle if I can team with Ty!\r"
+            ],
+            "fr_FR": [
+                "Ann: Oh, encore toi! Je veux bien me\n",
+                "battre si je peux faire équipe avec Ted!\r"
             ]
         }
-    ]
+    ],
+    "name_fr": "Ted & Ann"
 }

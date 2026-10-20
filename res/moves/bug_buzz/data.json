@@ -25,5 +25,13 @@
     "contest": {
         "effect": "CONTEST_EFFECT_2_HEARTS_WHEN_VOLTAGE_UP",
         "type": "CONTEST_TYPE_CUTE"
-    }
+    },
+    "name_fr": "Bourdon",
+    "description_fr": [
+        "Le lanceur fait vibrer\n",
+        "ses ailes pour lancer\n",
+        "une vague sonique. \n",
+        "Peut aussi baisser la\n",
+        "Déf. Spé. de l’ennemi."
+    ]
 }

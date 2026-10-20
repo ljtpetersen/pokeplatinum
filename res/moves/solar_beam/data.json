@@ -26,5 +26,13 @@
     "contest": {
         "effect": "CONTEST_EFFECT_UNIQUE_JUDGE",
         "type": "CONTEST_TYPE_COOL"
-    }
+    },
+    "name_fr": "Lance-Soleil",
+    "description_fr": [
+        "Absorbe la lumière\n",
+        "au premier tour et\n",
+        "envoie un rayon\n",
+        "puissant au tour\n",
+        "suivant."
+    ]
 }

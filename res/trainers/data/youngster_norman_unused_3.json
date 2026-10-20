@@ -44,6 +44,12 @@
                 "am I.\r",
                 "When Trainers lock eyes, that means\n",
                 "a battle is on!\r"
+            ],
+            "fr_FR": [
+                "Tu es un Dresseur de Pokémon et moi\n",
+                "aussi.\r",
+                "Quand deux Dresseurs échangent un\n",
+                "regard, ça donne lieu à un combat!\r"
             ]
         },
         {
@@ -51,6 +57,10 @@
             "en_US": [
                 "Losing makes me mad, but that\n",
                 "was still a bunch of fun!"
+            ],
+            "fr_FR": [
+                "Perdre me met de méchante humeur, mais\n",
+                "c’était sympa quand même!"
             ]
         },
         {
@@ -58,7 +68,12 @@
             "en_US": [
                 "With Pokémon that tough, I bet you\n",
                 "could go anywhere in Sinnoh!\n"
+            ],
+            "fr_FR": [
+                "Avec des Pokémon aussi forts, je parie\n",
+                "que tu peux aller partout dans Sinnoh!\n"
             ]
         }
-    ]
+    ],
+    "name_fr": "Eric"
 }

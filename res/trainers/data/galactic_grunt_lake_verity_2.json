@@ -55,11 +55,16 @@
             "en_US": [
                 "In order for us to bring peace to\n",
                 "the world, we must control it!\r"
+            ],
+            "fr_FR": [
+                "Pour pouvoir apporter la paix dans le\n",
+                "monde, nous devons le contrôler!\r"
             ]
         },
         {
             "type": "TRMSG_DEFEAT",
-            "en_US": "You’re too young to understand.\n"
+            "en_US": "You’re too young to understand.\n",
+            "fr_FR": "Tu es trop jeune pour comprendre.\n"
         },
         {
             "type": "TRMSG_POST_BATTLE",
@@ -68,7 +73,13 @@
                 "the three lakes...\r",
                 "While you were blissfully ignorant,\n",
                 "our work went ahead...\n"
+            ],
+            "fr_FR": [
+                "Notre chef a toujours été intéressé\n",
+                "par les trois lacs...\r",
+                "Et notre projet a déjà bien avancé...\n"
             ]
         }
-    ]
+    ],
+    "name_fr": "Sbire"
 }

@@ -55,18 +55,31 @@
             "en_US": [
                 "Sniff, sniff... Yes! Here it comes!\n",
                 "Aroma power!"
+            ],
+            "fr_FR": [
+                "Snif, snif... Oui! Je le sens!\n",
+                "Le pouvoir des arômes!"
             ]
         },
         {
             "type": "TRMSG_WIN",
-            "en_US": "With aroma power, I’m invincible!\r"
+            "en_US": "With aroma power, I’m invincible!\r",
+            "fr_FR": [
+                "Grâce au pouvoir des arômes,\n",
+                "je suis invincible!\r"
+            ]
         },
         {
             "type": "TRMSG_DEFEAT",
             "en_US": [
                 "Fizzle...\n",
                 "I’m out of aroma power...\r"
+            ],
+            "fr_FR": [
+                "Oh non...\n",
+                "J’ai le nez bouché...\r"
             ]
         }
-    ]
+    ],
+    "name_fr": "Ornella"
 }

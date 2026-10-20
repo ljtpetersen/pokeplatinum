@@ -27,5 +27,13 @@
   "fieldUseFunc": "ITEM_USE_FUNC_TM_HM",
   "battleUseCategory": "BATTLE_USE_CATEGORY_NONE",
   "itemUseParams": null,
-  "teachesMove": "MOVE_ROCK_SLIDE"
+  "teachesMove": "MOVE_ROCK_SLIDE",
+  "name_fr": "CT80",
+  "description_fr": [
+    "Envoie de gros rochers sur l’ennemi\n",
+    "pour infliger des dégâts. Peut\n",
+    "l’apeurer."
+  ],
+  "plural_fr": "CT80",
+  "article_fr": null
 }

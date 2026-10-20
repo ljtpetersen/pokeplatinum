@@ -7,31 +7,50 @@
         "If you’d share your shards with me,\n",
         "I can teach your Pokémon some moves.\r",
         "Would you like me to teach a move?"
+      ],
+      "fr_FR": [
+        "Je peux enseigner des capacités à tes\n",
+        "Pokémon contre des Tessons.\r",
+        "Ça t’intéresse?"
       ]
     },
     {
       "id": "Route212House_Text_SeeYouThen",
-      "en_US": "See you, then!"
+      "en_US": "See you, then!",
+      "fr_FR": "Très bien, à plus tard!"
     },
     {
       "id": "Route212House_Text_TeachWhichPokemon",
-      "en_US": "Which Pokémon should I teach?\r"
+      "en_US": "Which Pokémon should I teach?\r",
+      "fr_FR": [
+        "A quel Pokémon dois-je enseigner\n",
+        "une capacité?\r"
+      ]
     },
     {
       "id": "Route212House_Text_NoMovesToTeach",
       "en_US": [
         "There are no moves that can be taught\n",
         "to this Pokémon."
+      ],
+      "fr_FR": [
+        "Je ne peux rien apprendre à ce\n",
+        "Pokémon."
       ]
     },
     {
       "id": "Route212House_Text_NotEnoughShards",
-      "en_US": "You don’t have enough shards."
+      "en_US": "You don’t have enough shards.",
+      "fr_FR": "Tu n’as pas assez de Tessons."
     },
     {
       "id": "Route212House_Text_TeachWhichMove",
       "en_US": [
         "Which move should be taught to\n",
+        "{STRVAR_1 1, 0, 0}?"
+      ],
+      "fr_FR": [
+        "Quelle capacité dois-je enseigner à\n",
         "{STRVAR_1 1, 0, 0}?"
       ]
     },
@@ -48,6 +67,10 @@
       "en_US": [
         "{STRVAR_1 1, 0, 0} learned\n",
         "{STRVAR_1 6, 1, 0}!"
+      ],
+      "fr_FR": [
+        "{STRVAR_1 1, 0, 0} apprend\n",
+        "{STRVAR_1 6, 1, 0}."
       ]
     },
     {
@@ -59,17 +82,30 @@
         "than four moves.\r",
         "Delete an older move to make\n",
         "room for {STRVAR_1 6, 1, 0}?"
+      ],
+      "fr_FR": [
+        "{STRVAR_1 1, 0, 0} tente d’apprendre\n",
+        "{STRVAR_1 6, 1, 0}.\r",
+        "Mais {STRVAR_1 1, 0, 0} ne peut pas\n",
+        "apprendre plus de quatre capacités.\r",
+        "Effacer une capacité pour\n",
+        "{STRVAR_1 6, 1, 0}?"
       ]
     },
     {
       "id": "Route212House_Text_StopTryingToTeachMove",
-      "en_US": "Stop trying to teach {STRVAR_1 6, 1, 0}?"
+      "en_US": "Stop trying to teach {STRVAR_1 6, 1, 0}?",
+      "fr_FR": "Arrêter d’enseigner {STRVAR_1 6, 1, 0}?"
     },
     {
       "id": "Route212House_Text_PokemonDidntLearnMove",
       "en_US": [
         "{STRVAR_1 1, 0, 0} did not learn\n",
         "the move {STRVAR_1 6, 1, 0}.\r"
+      ],
+      "fr_FR": [
+        "{STRVAR_1 1, 0, 0} n’a pas appris la capacité\n",
+        "{STRVAR_1 6, 1, 0}.\r"
       ]
     },
     {
@@ -77,11 +113,16 @@
       "en_US": [
         "Is it OK to forget the\n",
         "move {STRVAR_1 6, 1, 0}?"
+      ],
+      "fr_FR": [
+        "{STRVAR_1 6, 1, 0} est la capacité qui doit\n",
+        "être oubliée?"
       ]
     },
     {
       "id": "Route212House_Text_OneTwoThreePoof",
-      "en_US": "1,{PAUSE 20} 2,{PAUSE 20} and...{PAUSE 20} ...{PAUSE 20} Poof!"
+      "en_US": "1,{PAUSE 20} 2,{PAUSE 20} and...{PAUSE 20} ...{PAUSE 20} Poof!",
+      "fr_FR": "1{PAUSE 20}, 2{PAUSE 20} et {PAUSE 20}... {PAUSE 20}... Tadaa!"
     },
     {
       "id": "Route212House_Text_PokemonForgotMove",
@@ -89,17 +130,30 @@
         "{STRVAR_1 1, 0, 0} forgot how to\n",
         "use {STRVAR_1 6, 1, 0}.\r",
         "And..."
+      ],
+      "fr_FR": [
+        "{STRVAR_1 1, 0, 0} oublie\n",
+        "{STRVAR_1 6, 1, 0}.\r",
+        "Et..."
       ]
     },
     {
       "id": "Route212House_Text_PokemonLearnedMove2",
-      "en_US": "{STRVAR_1 1, 0, 0} learned {STRVAR_1 6, 1, 0}."
+      "en_US": "{STRVAR_1 1, 0, 0} learned {STRVAR_1 6, 1, 0}.",
+      "fr_FR": [
+        "{STRVAR_1 1, 0, 0} apprend\n",
+        "{STRVAR_1 6, 1, 0}."
+      ]
     },
     {
       "id": "Route212House_Text_CantTeachEgg",
       "en_US": [
         "Teach an Egg a move?\n",
         "That’s out of my league!"
+      ],
+      "fr_FR": [
+        "Je suis incapable d’enseigner une\n",
+        "capacité à un Oeuf!"
       ]
     },
     {
@@ -108,6 +162,11 @@
         "My daddy collects shards.\r",
         "If you find any, like in the\n",
         "Underground, please bring them to us."
+      ],
+      "fr_FR": [
+        "Mon papa collectionne les Tessons.\r",
+        "Si tu en trouves, sous terre par\n",
+        "exemple, amène-les-nous."
       ]
     },
     {
@@ -118,6 +177,13 @@
         "in Sinnoh.\r",
         "One person likes Red Shards.\n",
         "Another collects Yellow Shards."
+      ],
+      "fr_FR": [
+        "Mon papa aime les Tessons Bleus.\r",
+        "Il y a d’autres personnes à Sinnoh\n",
+        "qui collectionnent les Tessons.\r",
+        "Certains préfèrent les Tessons Rouges,\n",
+        "et d’autres les Tessons Jaunes."
       ]
     },
     {
@@ -127,6 +193,14 @@
         "Blue Shards are for special effects.\f",
         "Yellow Shards are for status problems.\r",
         "Blue Shards are the ones for me!"
+      ],
+      "fr_FR": [
+        "Les Tessons Rouges augmentent la\n",
+        "puissance, les bleus les impacts\f",
+        "spéciaux.\r",
+        "Quant aux jaunes, c’est pour les\n",
+        "problèmes de statut.\r",
+        "Les bleus sont pour moi!"
       ]
     }
   ]

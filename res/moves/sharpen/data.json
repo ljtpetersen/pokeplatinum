@@ -25,5 +25,13 @@
     "contest": {
         "effect": "CONTEST_EFFECT_DOUBLE_NEXT_TURN",
         "type": "CONTEST_TYPE_CUTE"
-    }
+    },
+    "name_fr": "Affûtage",
+    "description_fr": [
+        "Le lanceur réduit son\n",
+        "nombre de polygones\n",
+        "pour accentuer ses\n",
+        "angles et augmenter\n",
+        "son Attaque."
+    ]
 }

@@ -24,5 +24,13 @@
     "contest": {
         "effect": "CONTEST_EFFECT_DOUBLE_NEXT_TURN",
         "type": "CONTEST_TYPE_BEAUTY"
-    }
+    },
+    "name_fr": "Yoga",
+    "description_fr": [
+        "Le lanceur médite\n",
+        "pour éveiller son\n",
+        "pouvoir latent et\n",
+        "augmenter son\n",
+        "Attaque."
+    ]
 }

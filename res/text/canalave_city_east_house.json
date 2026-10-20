@@ -10,6 +10,14 @@
         "...\r",
         "Oh, yes, I remember now!\n",
         "I’m the Move Deleter!\r"
+      ],
+      "fr_FR": [
+        "Hum...\n",
+        "Rappelle-moi qui je suis, déjà?\r",
+        "...\n",
+        "...\r",
+        "Ah oui, je me souviens!\n",
+        "Je suis l’Effaceur de Capacités!\r"
       ]
     },
     {
@@ -17,17 +25,26 @@
       "en_US": [
         "You’ve come to make me force your\n",
         "Pokémon to forget some moves?"
+      ],
+      "fr_FR": [
+        "Tu viens me voir pour que j’aide tes\n",
+        "Pokémon à oublier des capacités?"
       ]
     },
     {
       "id": "CanalaveCityEastHouse_Text_WhichPokemon",
-      "en_US": "Which Pokémon should forget a move?\r"
+      "en_US": "Which Pokémon should forget a move?\r",
+      "fr_FR": "Quel Pokémon doit oublier une capacité?\r"
     },
     {
       "id": "CanalaveCityEastHouse_Text_RememberMe",
       "en_US": [
         "Remember me if there are moves that\n",
         "need to be forgotten."
+      ],
+      "fr_FR": [
+        "Souviens-toi de moi si tu as\n",
+        "quelques capacités à faire oublier."
       ]
     },
     {
@@ -35,6 +52,10 @@
       "en_US": [
         "That Pokémon knows only one move,\n",
         "so it can’t be forgotten...\r"
+      ],
+      "fr_FR": [
+        "Ce Pokémon ne connaît qu’une\n",
+        "capacité, il ne peut pas l’oublier...\r"
       ]
     },
     {
@@ -42,6 +63,10 @@
       "en_US": [
         "What? That’s an Egg.\n",
         "No Egg should know any moves.\r"
+      ],
+      "fr_FR": [
+        "Quoi? C’est un Oeuf. Les Oeufs ne \n",
+        "connaissent aucune capacité.\r"
       ]
     },
     {
@@ -49,6 +74,10 @@
       "en_US": [
         "OK, then.\n",
         "Which move should be forgotten?\r"
+      ],
+      "fr_FR": [
+        "D’accord, très bien.\n",
+        "Quelle capacité doit être oubliée?\r"
       ]
     },
     {
@@ -56,6 +85,10 @@
       "en_US": [
         "Hm! The move {STRVAR_1 6, 0, 0}?\n",
         "Should that move be forgotten?"
+      ],
+      "fr_FR": [
+        "Hum! La capacité {STRVAR_1 6, 0, 0}?\n",
+        "Cette capacité doit être oubliée?"
       ]
     },
     {
@@ -64,6 +97,11 @@
         "It worked perfectly!\r",
         "Your Pokémon has forgotten the move\n",
         "{STRVAR_1 6, 0, 0} completely."
+      ],
+      "fr_FR": [
+        "Ça a parfaitement fonctionné!\r",
+        "Ton Pokémon a totalement oublié\n",
+        "la capacité {STRVAR_1 6, 0, 0}."
       ]
     }
   ]

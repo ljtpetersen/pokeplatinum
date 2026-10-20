@@ -12,6 +12,15 @@
         "friend of Pokémon!\r",
         "So, let me make a gift of this Hidden\n",
         "Machine to you!\r"
+      ],
+      "fr_FR": [
+        "Ta Pokémontre flambant neuve et ta\n",
+        "maladresse me disent que tu es un\f",
+        "Dresseur débutant!\r",
+        "Mais c’est super! Plus on est de fous,\n",
+        "plus on rit!\r",
+        "Alors, laisse-moi te faire cadeau de\n",
+        "cette Capsule Secrète!\r"
       ]
     },
     {
@@ -26,6 +35,18 @@
         "If you don’t have that Badge, you\n",
         "can’t make a Pokémon use the hidden\f",
         "move Rock Smash outside of battle."
+      ],
+      "fr_FR": [
+        "Cette Capsule Secrète, ou CS, contient\n",
+        "la capacité Eclate-Roc.\r",
+        "Un Pokémon qui apprend Eclate-Roc peut\n",
+        "casser de petits rochers sur le\f",
+        "terrain.\r",
+        "Mais le Dresseur doit avoir le Badge de\n",
+        "Charbourg.\r",
+        "Si tu n’as pas ce Badge, tes\n",
+        "Pokémon ne peuvent pas utiliser la CS\f",
+        "Eclate-Roc en dehors du combat."
       ]
     },
     {
@@ -35,6 +56,12 @@
         "That’s Oreburgh City’s Gym Badge!\r",
         "All right! Now you can use the hidden\n",
         "move Rock Smash on small boulders!"
+      ],
+      "fr_FR": [
+        "Oh! Ça alors! C’est le Badge de l’Arène\n",
+        "de Charbourg!\r",
+        "Parfait! Maintenant, tu peux utiliser la\n",
+        "CS Eclate-Roc sur de petits rochers!"
       ]
     }
   ]

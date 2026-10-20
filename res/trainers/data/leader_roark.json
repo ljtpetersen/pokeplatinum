@@ -57,6 +57,10 @@
             "en_US": [
                 "Think you can take down the \n",
                 "next Pokémon like you did earlier?\n"
+            ],
+            "fr_FR": [
+                "Ce Pokémon risque d’être plus \n",
+                "coriace que le précédent.\n"
             ]
         },
         {
@@ -64,6 +68,10 @@
             "en_US": [
                 "No way! Not yet!\n",
                 "Not giving up!\n"
+            ],
+            "fr_FR": [
+                "Ça s’annonce mal, mais je ne baisserai \n",
+                "pas les bras, pas encore!"
             ]
         },
         {
@@ -71,7 +79,12 @@
             "en_US": [
                 "W-what? That can’t be!\n",
                 "My buffed-up Pokémon!\n"
+            ],
+            "fr_FR": [
+                "Quoi? Impossible!\n",
+                "Mon meilleur Pokémon!\n"
             ]
         }
-    ]
+    ],
+    "name_fr": "Pierrick"
 }

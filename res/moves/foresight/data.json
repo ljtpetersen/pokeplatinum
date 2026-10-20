@@ -26,5 +26,13 @@
     "contest": {
         "effect": "CONTEST_EFFECT_TWO_VOLTAGE_IN_A_ROW_ADVANTAGE",
         "type": "CONTEST_TYPE_SMART"
-    }
+    },
+    "name_fr": "Clairvoyance",
+    "description_fr": [
+        "Permet de toucher un\n",
+        "Pokémon Spectre avec\n",
+        "n’importe quelle capa-\n",
+        "cité et de toucher un\n",
+        "ennemi insaisissable."
+    ]
 }

@@ -59,6 +59,10 @@
             "en_US": [
                 "I’m very fickle. I can’t stick with any\n",
                 "one thing for very long."
+            ],
+            "fr_FR": [
+                "Les gens disent que je suis frivole.\n",
+                "Je change souvent de passion."
             ]
         },
         {
@@ -66,6 +70,10 @@
             "en_US": [
                 "I won, and it’s enough for me.\n",
                 "I’m going to check out the Wi-Fi Plaza.\r"
+            ],
+            "fr_FR": [
+                "J’ai gagné! Ça me suffit, je vais aller\n",
+                "au Square Wi-Fi maintenant.\r"
             ]
         },
         {
@@ -73,7 +81,12 @@
             "en_US": [
                 "I lost, so that’s enough. I’ll go dig\n",
                 "Spheres in the Underground.\r"
+            ],
+            "fr_FR": [
+                "J’ai perdu, ça me suffit. Je vais aller\n",
+                "me balader dans le Souterrain.\r"
             ]
         }
-    ]
+    ],
+    "name_fr": "Bridget"
 }

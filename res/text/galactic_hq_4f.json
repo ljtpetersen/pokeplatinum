@@ -19,6 +19,23 @@
         "You’ve seen my minions of Team Galactic.\r",
         "You yourself must know that they are\n",
         "uniformly useless and incomplete.\r"
+      ],
+      "fr_FR": [
+        "Hélio: Alors te voilà...\n",
+        "Tu as entendu mon discours, j’imagine.\r",
+        "Balivernes que tout cela...\r",
+        "La seule chose qui soit vraie, c’est mon\n",
+        "intention de créer un monde nouveau.\r",
+        "Mais dans mon monde, il n’y aura pas de\n",
+        "place pour la Team Galaxie.\r",
+        "Non, il n’y en aura que pour moi, et\n",
+        "moi seul.\r",
+        "Autrement, ce ne serait pas un monde\n",
+        "parfait.\r",
+        "Tu as vu de tes yeux les sous-fifres de\n",
+        "la Team Galaxie.\r",
+        "Tu dois savoir que ce n’est qu’un\n",
+        "ramassis d’indésirables.\r"
       ]
     },
     {
@@ -48,6 +65,32 @@
         "such vacuous sentimentality!\r",
         "I will make you regret paying\n",
         "heed to your heart!\r"
+      ],
+      "fr_FR": [
+        "Je sais ce que tu fais ici, je le sens\n",
+        "en toi.\r",
+        "Tu es ici pour CREHELF, CREFOLLET et\n",
+        "CREFADET? Tu veux les sauver...\r",
+        "Ils ne me sont plus d’aucune utilité.\n",
+        "J’en ai terminé avec eux.\r",
+        "Si ton cœur fragile et agité brûle de\n",
+        "les secourir, ne te gêne pas.\r",
+        "Cela m’évitera de me fatiguer à\n",
+        "m’en débarrasser.\r",
+        "Cependant, je dois avouer que\n",
+        "tu es un spécimen remarquable...\r",
+        "Ces Pokémon n’ont rien à voir\n",
+        "avec toi, n’est-ce pas?\r",
+        "Pourtant, tu viens les secourir par\n",
+        "pure compassion?\r",
+        "Cette émotion misérable...\n",
+        "Elle est illogique, irrationnelle.\r",
+        "La pitié et la compassion sont les fruits\n",
+        "de la faiblesse et du manque.\r",
+        "C’est cette sentimentalité\n",
+        "inepte qui t’amène ici!\r",
+        "Je vais te faire regretter d’avoir\n",
+        "écouté ton cœur!\r"
       ]
     },
     {
@@ -68,6 +111,24 @@
         "That said, I recognize that you are\n",
         "strong and courageous to come alone.\r",
         "This is your reward.\r"
+      ],
+      "fr_FR": [
+        "Hélio: Je vois.\n",
+        "Tu es coriace, pas de doute.\r",
+        "Et tu tires ton pouvoir de ton\n",
+        "amour des Pokémon.\r",
+        "Quel gâchis...\n",
+        "Ces émotions sont des illusions.\r",
+        "Et comme toutes les illusions, elles\n",
+        "s’étiolent au fil du temps pour\f",
+        "disparaître à jamais.\r",
+        "C’est pourquoi j’ai tourné le dos aux\n",
+        "émotions et aux sentiments.\r",
+        "Enfin, peu importe... Je doute que\n",
+        "tu puisses comprendre ma position.\r",
+        "Ceci étant, je reconnais que tu as le\n",
+        "courage de combattre en solitaire.\r",
+        "Voici ta récompense.\r"
       ]
     },
     {
@@ -84,6 +145,19 @@
         "I don’t use Pokémon as tools.\r",
         "Instead, I make the power of Pokémon\n",
         "my own.\r"
+      ],
+      "fr_FR": [
+        "Hélio: La Master Ball est la Poké Ball\n",
+        "ultime.\r",
+        "Avec elle, les captures ne ratent\n",
+        "jamais.\r",
+        "Mais je n’en ai pas besoin.\r",
+        "Je préfère te la laisser, je ne\n",
+        "m’intéresse pas vraiment aux Pokémon.\r",
+        "Contrairement aux autres membres de\n",
+        "la Team Galaxie, je ne les utilise pas.\r",
+        "Je me contente d’accaparer leur\n",
+        "puissance.\r"
       ]
     },
     {
@@ -96,6 +170,15 @@
         "where destiny awaits me.\r",
         "It is there that I will create my new\n",
         "world...\r"
+      ],
+      "fr_FR": [
+        "Si tu souhaites sauver les Pokémon des\n",
+        "lacs, emprunte le téléporteur là-bas.\r",
+        "Je pars pour le Mont Couronné.\r",
+        "Je gravirai la montagne à la rencontre\n",
+        "de mon destin...\r",
+        "C’est là-bas que je créerai mon\n",
+        "nouveau monde...\r"
       ]
     },
     {
@@ -103,6 +186,10 @@
       "en_US": [
         "The door is locked.\n",
         "A special key is needed."
+      ],
+      "fr_FR": [
+        "La porte est fermée.\n",
+        "Elle nécessite une clé spéciale."
       ]
     },
     {
@@ -111,11 +198,17 @@
         "The door is locked.\n",
         "A special key is needed.\r",
         "Use the Galactic Key?"
+      ],
+      "fr_FR": [
+        "La porte est fermée.\n",
+        "Elle nécessite une clé spéciale.\r",
+        "Utiliser la Clé Galaxie?"
       ]
     },
     {
       "id": "GalacticHQ4F_Text_DoorOpened",
-      "en_US": "The door opened."
+      "en_US": "The door opened.",
+      "fr_FR": "La porte s’est ouverte."
     },
     {
       "id": "GalacticHQ4F_Text_TeamGalacticWarpPanels",
@@ -125,15 +218,24 @@
         "to the ground floor.\r",
         "Onward to a new universe!\n",
         "-Team Galactic"
+      ],
+      "fr_FR": [
+        "Téléporteurs de la Team Galaxie!\r",
+        "Le téléporteur vert vous ramène\n",
+        "au rez-de-chaussée.\r",
+        "En avant vers un nouvel univers!\n",
+        "- Team Galaxie"
       ]
     },
     {
       "id": "GalacticHQ4F_Text_TeamGalacticReport",
-      "en_US": "Team Galactic Report\r"
+      "en_US": "Team Galactic Report\r",
+      "fr_FR": "Rapport de la Team Galaxie\r"
     },
     {
       "id": "GalacticHQ4F_Text_ReadWhichReport",
-      "en_US": "Which report would you like to read?"
+      "en_US": "Which report would you like to read?",
+      "fr_FR": "Quel rapport souhaitez-vous lire?"
     },
     {
       "id": "GalacticHQ4F_Text_ReportCreationOfSpace",
@@ -151,6 +253,21 @@
         "Our aim is not to capture the mythical\n",
         "Pokémon, but to obtain its power...\r",
         "The PC entry ends there...\r"
+      ],
+      "fr_FR": [
+        "Certains prétendent que l’univers est\n",
+        "né d’une gigantesque explosion.\r",
+        "De même, on pense que Sinnoh fut\n",
+        "formée lors d’une explosion ancienne.\r",
+        "Il va sans dire qu’elle fut causée\n",
+        "par le pouvoir d’un Pokémon.\r",
+        "Ce Pokémon est certainement la\n",
+        "créature mythique que les anciens\f",
+        "vénéraient comme une déité.\r",
+        "Notre objectif n’est pas de capturer le\n",
+        "Pokémon mythique, mais de canaliser son\f",
+        "pouvoir...\r",
+        "Le fichier du PC s’arrête ici...\r"
       ]
     },
     {
@@ -166,6 +283,18 @@
         "can be shackled, and its power can\f",
         "be used without restraint...\r",
         "The PC entry ends there...\r"
+      ],
+      "fr_FR": [
+        "Le Pokémon mythique...\r",
+        "Selon la mythologie, le Pokémon a\n",
+        "créé Sinnoh grâce à son pouvoir.\r",
+        "Toutefois, capturer le Pokémon avec\n",
+        "une Poké Ball l’empêche d’utiliser\f",
+        "tout son potentiel...\r",
+        "Seule la Chaîne Rouge permet de\n",
+        "l’enchaîner et d’utiliser\f",
+        "son pouvoir sans contrainte...\r",
+        "Le fichier du PC s’arrête ici...\r"
       ]
     },
     {
@@ -183,6 +312,20 @@
         "Pokémon can be summoned and shackled\f",
         "to do as we command...\r",
         "The PC entry ends there...\r"
+      ],
+      "fr_FR": [
+        "La Chaîne Rouge...\r",
+        "Il existe un lien entre les Pokémon\n",
+        "des trois lacs et le Mont Couronné.\r",
+        "Capturer les Pokémon des lacs libère\n",
+        "le Pokémon du Mont Couronné.\r",
+        "Des cristaux peuvent être extraits\n",
+        "des Pokémon des lacs pour créer\f",
+        "une Chaîne Rouge.\r",
+        "Grâce à elle, le Pokémon mythique peut\n",
+        "être invoqué et enchaîné pour\f",
+        "suivre nos ordres...\r",
+        "Le fichier du PC s’arrête ici...\r"
       ]
     }
   ]

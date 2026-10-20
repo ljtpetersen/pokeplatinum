@@ -25,5 +25,13 @@
     "contest": {
         "effect": "CONTEST_EFFECT_TWO_VOLTAGE_IN_A_ROW_ADVANTAGE",
         "type": "CONTEST_TYPE_CUTE"
-    }
+    },
+    "name_fr": "Oeil Miracle",
+    "description_fr": [
+        "Permet de toucher un\n",
+        "Pokémon Ténèbres\n",
+        "avec une capacité Psy\n",
+        "et de toucher un\n",
+        "ennemi insaisissable."
+    ]
 }

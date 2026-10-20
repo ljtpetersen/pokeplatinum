@@ -59,6 +59,10 @@
             "en_US": [
                 "I was out all night at a party again.\n",
                 "I’m feeling dizzy from playing games!"
+            ],
+            "fr_FR": [
+                "Je me suis couchée tard hier soir... Je\n",
+                "ne me sens pas très bien aujourd’hui..."
             ]
         },
         {
@@ -66,11 +70,20 @@
             "en_US": [
                 "I’m so bored of fancy parties and silly\n",
                 "games, too.\r"
+            ],
+            "fr_FR": [
+                "J’ai gagné, mais je ne devrais\n",
+                "pas sortir autant...\r"
             ]
         },
         {
             "type": "TRMSG_DEFEAT",
-            "en_US": "Urp...!\r"
+            "en_US": "Urp...!\r",
+            "fr_FR": [
+                "Burp!\n",
+                "Pardon!\r"
+            ]
         }
-    ]
+    ],
+    "name_fr": "Tiffany"
 }

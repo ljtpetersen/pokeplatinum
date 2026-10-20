@@ -59,6 +59,10 @@
             "en_US": [
                 "Why do I raise Pokémon?\n",
                 "Because they are there!"
+            ],
+            "fr_FR": [
+                "Pourquoi je suis devenu Eleveur?\n",
+                "Parce que les Pokémon existent!"
             ]
         },
         {
@@ -66,6 +70,10 @@
             "en_US": [
                 "I think I said something deep and cool!\n",
                 "Didn’t I?\r"
+            ],
+            "fr_FR": [
+                "Ma réplique au début du combat était\n",
+                "vraiment classe, non?\r"
             ]
         },
         {
@@ -73,7 +81,12 @@
             "en_US": [
                 "That’s no reason at all?\n",
                 "That’s the reason in itself!\r"
+            ],
+            "fr_FR": [
+                "Ce n’est pas une raison, tu dis?\n",
+                "Réfléchis, tu comprendras...\r"
             ]
         }
-    ]
+    ],
+    "name_fr": "Lulu"
 }

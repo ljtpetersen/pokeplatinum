@@ -3,35 +3,43 @@
   "messages": [
     {
       "id": "pl_msg_00000378_00000",
-      "en_US": "Oreburgh Gym"
+      "en_US": "Oreburgh Gym",
+      "fr_FR": "Arène Charbourg"
     },
     {
       "id": "pl_msg_00000378_00001",
-      "en_US": "Eterna Gym"
+      "en_US": "Eterna Gym",
+      "fr_FR": "Arène Vestigion"
     },
     {
       "id": "pl_msg_00000378_00002",
-      "en_US": "Pastoria Gym"
+      "en_US": "Pastoria Gym",
+      "fr_FR": "Arène Verchamps"
     },
     {
       "id": "pl_msg_00000378_00003",
-      "en_US": "Veilstone Gym"
+      "en_US": "Veilstone Gym",
+      "fr_FR": "Arène Voilaroc"
     },
     {
       "id": "pl_msg_00000378_00004",
-      "en_US": "Hearthome Gym"
+      "en_US": "Hearthome Gym",
+      "fr_FR": "Arène Unionpolis"
     },
     {
       "id": "pl_msg_00000378_00005",
-      "en_US": "Snowpoint Gym"
+      "en_US": "Snowpoint Gym",
+      "fr_FR": "Arène Frimapic"
     },
     {
       "id": "pl_msg_00000378_00006",
-      "en_US": "Canalave Gym"
+      "en_US": "Canalave Gym",
+      "fr_FR": "Arène Joliberges"
     },
     {
       "id": "pl_msg_00000378_00007",
-      "en_US": "Sunyshore Gym"
+      "en_US": "Sunyshore Gym",
+      "fr_FR": "Arène Rivamar"
     }
   ]
 }

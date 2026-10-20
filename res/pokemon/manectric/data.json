@@ -7,7 +7,10 @@
         "special_attack": 105,
         "special_defense": 60
     },
-    "types": [ "TYPE_ELECTRIC", "TYPE_ELECTRIC" ],
+    "types": [
+        "TYPE_ELECTRIC",
+        "TYPE_ELECTRIC"
+    ],
     "catch_rate": 45,
     "base_exp_reward": 168,
     "ev_yields": {
@@ -26,31 +29,88 @@
     "hatch_cycles": 20,
     "base_friendship": 70,
     "exp_rate": "EXP_RATE_SLOW",
-    "egg_groups": [ "EGG_GROUP_FIELD", "EGG_GROUP_FIELD" ],
-    "abilities": [ "ABILITY_STATIC", "ABILITY_LIGHTNING_ROD" ],
+    "egg_groups": [
+        "EGG_GROUP_FIELD",
+        "EGG_GROUP_FIELD"
+    ],
+    "abilities": [
+        "ABILITY_STATIC",
+        "ABILITY_LIGHTNING_ROD"
+    ],
     "safari_flee_rate": 0,
     "body_color": "MON_COLOR_YELLOW",
     "flip_sprite": false,
     "icon_palette": 0,
     "learnset": {
         "by_level": [
-            [ 1, "MOVE_FIRE_FANG" ],
-            [ 1, "MOVE_TACKLE" ],
-            [ 1, "MOVE_THUNDER_WAVE" ],
-            [ 1, "MOVE_LEER" ],
-            [ 1, "MOVE_HOWL" ],
-            [ 4, "MOVE_THUNDER_WAVE" ],
-            [ 9, "MOVE_LEER" ],
-            [ 12, "MOVE_HOWL" ],
-            [ 17, "MOVE_QUICK_ATTACK" ],
-            [ 20, "MOVE_SPARK" ],
-            [ 25, "MOVE_ODOR_SLEUTH" ],
-            [ 30, "MOVE_BITE" ],
-            [ 37, "MOVE_THUNDER_FANG" ],
-            [ 42, "MOVE_ROAR" ],
-            [ 49, "MOVE_DISCHARGE" ],
-            [ 54, "MOVE_CHARGE" ],
-            [ 61, "MOVE_THUNDER" ]
+            [
+                1,
+                "MOVE_FIRE_FANG"
+            ],
+            [
+                1,
+                "MOVE_TACKLE"
+            ],
+            [
+                1,
+                "MOVE_THUNDER_WAVE"
+            ],
+            [
+                1,
+                "MOVE_LEER"
+            ],
+            [
+                1,
+                "MOVE_HOWL"
+            ],
+            [
+                4,
+                "MOVE_THUNDER_WAVE"
+            ],
+            [
+                9,
+                "MOVE_LEER"
+            ],
+            [
+                12,
+                "MOVE_HOWL"
+            ],
+            [
+                17,
+                "MOVE_QUICK_ATTACK"
+            ],
+            [
+                20,
+                "MOVE_SPARK"
+            ],
+            [
+                25,
+                "MOVE_ODOR_SLEUTH"
+            ],
+            [
+                30,
+                "MOVE_BITE"
+            ],
+            [
+                37,
+                "MOVE_THUNDER_FANG"
+            ],
+            [
+                42,
+                "MOVE_ROAR"
+            ],
+            [
+                49,
+                "MOVE_DISCHARGE"
+            ],
+            [
+                54,
+                "MOVE_CHARGE"
+            ],
+            [
+                61,
+                "MOVE_THUNDER"
+            ]
         ],
         "by_tm": [
             "TM05",
@@ -94,7 +154,7 @@
             "MOVE_SWIFT"
         ]
     },
-    "evolutions": [  ],
+    "evolutions": [],
     "offspring": "SPECIES_ELECTRIKE",
     "footprint": {
         "has": true,
@@ -165,6 +225,18 @@
                 "たてがみから　ほうでんしている。\n",
                 "ずじょうに　かみなりぐもを　つくり\n",
                 "いなずまを　おとして　こうげきする。"
+            ]
+        },
+        "local_version": {
+            "entry_text": [
+                "It discharges electricity from its\n",
+                "mane. It creates a thundercloud\n",
+                "overhead to drop lightning bolts."
+            ],
+            "entry_text_fr": [
+                "Il libère l’électricité par sa\n",
+                "crinière. Il crée un nuage d’orage\n",
+                "pour appeler la foudre."
             ]
         }
     },

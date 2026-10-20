@@ -39,5 +39,13 @@
     "bitterness": 0,
     "sourness": 0,
     "smoothness": 20
-  }
+  },
+  "name_fr": "Baie Remu",
+  "description_fr": [
+    "Ingrédient pour Poffin. Plantez cette\n",
+    "Baie dans un sol meuble pour obtenir\n",
+    "un plant."
+  ],
+  "plural_fr": "Baie Remu",
+  "article_fr": null
 }

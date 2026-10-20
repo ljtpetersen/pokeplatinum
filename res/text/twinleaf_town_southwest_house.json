@@ -11,6 +11,15 @@
         "years.\r",
         "I wonder if he found some amazing\n",
         "Pokémon while he was gone?"
+      ],
+      "fr_FR": [
+        "Tu es au courant?\r",
+        "Le Professeur Pokémon est revenu dans\n",
+        "la ville voisine.\r",
+        "On dit qu’il est resté absent quatre\n",
+        "longues années.\r",
+        "Je me demande s’il a découvert des\n",
+        "Pokémon incroyables pendant ce temps."
       ]
     },
     {
@@ -18,6 +27,10 @@
       "en_US": [
         "Well! Professor Rowan gave you a\n",
         "Pokédex, did he?"
+      ],
+      "fr_FR": [
+        "Bien! Le Professeur Sorbier t’a donné\n",
+        "un Pokédex, n’est-ce pas?"
       ]
     },
     {
@@ -25,6 +38,10 @@
       "en_US": [
         "Listen, listen, {STRVAR_1 3, 0, 0}.\n",
         "I want a cute Pokémon!"
+      ],
+      "fr_FR": [
+        "Ecoute, {STRVAR_1 3, 0, 0}.\n",
+        "Je veux un Pokémon gracieux!"
       ]
     },
     {
@@ -33,6 +50,11 @@
         "Listen, listen, {STRVAR_1 3, 0, 0}.\r",
         "Do you think I can be friends with\n",
         "Pokémon like you are?"
+      ],
+      "fr_FR": [
+        "Dis-moi, {STRVAR_1 3, 0, 0}.\r",
+        "Crois-tu que je puisse devenir amie avec\n",
+        "les Pokémon, comme toi?"
       ]
     }
   ]

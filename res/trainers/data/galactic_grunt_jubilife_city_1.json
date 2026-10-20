@@ -23,7 +23,12 @@
             "en_US": [
                 "How is this madness possible?\n",
                 "The two of us, losing to children?\n"
+            ],
+            "fr_FR": [
+                "Comment cette folie est-elle possible?\n",
+                "Nous deux, perdre contre des enfants?\n"
             ]
         }
-    ]
+    ],
+    "name_fr": "Sbire"
 }

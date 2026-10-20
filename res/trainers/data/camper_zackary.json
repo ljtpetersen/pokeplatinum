@@ -25,6 +25,10 @@
             "en_US": [
                 "It’s a long way between Floaroma\n",
                 "and Eterna City. So, let’s battle!\r"
+            ],
+            "fr_FR": [
+                "La route est longue entre Floraville et \n",
+                "Vestigion. Faisons plutôt un combat!\r"
             ]
         },
         {
@@ -32,6 +36,10 @@
             "en_US": [
                 "Wawawaah!\n",
                 "I’m out of Pokémon that can go!\n"
+            ],
+            "fr_FR": [
+                "Bouhouhouh!\n",
+                "Je n’ai plus aucun Pokémon!\n"
             ]
         },
         {
@@ -39,6 +47,10 @@
             "en_US": [
                 "Camping with Pokémon!\n",
                 "Do you have any idea how fun that is?\n"
+            ],
+            "fr_FR": [
+                "J’adore camper avec des Pokémon!\n",
+                "C’est vraiment sympa, je t’assure!"
             ]
         },
         {
@@ -46,7 +58,12 @@
             "en_US": [
                 "While I was enjoying camping, my\n",
                 "Pokémon got all buffed up!\r"
+            ],
+            "fr_FR": [
+                "Pendant que je faisais du camping, \n",
+                "j’ai pu entraîner mon équipe!\r"
             ]
         }
-    ]
+    ],
+    "name_fr": "Corentin"
 }

@@ -7,6 +7,11 @@
         "Buck: Yo, if it isn’t {STRVAR_1 3, 0, 0}!\r",
         "This! It’s my place!\n",
         "Drop in, hey?\r"
+      ],
+      "fr_FR": [
+        "Cornil: Yo, mais c’est {STRVAR_1 3, 0, 0}!\r",
+        "Regarde, c’est chez moi!\n",
+        "Entre un moment!\r"
       ]
     },
     {
@@ -14,6 +19,10 @@
       "en_US": [
         "The door is shut tight.\n",
         "“Members Only” is painted on it."
+      ],
+      "fr_FR": [
+        "La porte est fermée à clé.\n",
+        "C’est marqué “Réservé aux membres”."
       ]
     },
     {
@@ -23,6 +32,12 @@
         "aren’t the only one getting tougher!\r",
         "I’ll prove it to you!\n",
         "Let’s go!\r"
+      ],
+      "fr_FR": [
+        "{STRVAR_1 3, 0, 0}: Hé, {STRVAR_1 3, 1, 0}! Il\n",
+        "n’y a pas que toi qui fais des progrès!\r",
+        "Je vais te le prouver!\n",
+        "En garde!\r"
       ]
     },
     {
@@ -35,6 +50,15 @@
         "Pokémon and I get, too.\r",
         "There’s no end to Pokémon.\n",
         "That’s what I’m saying, {STRVAR_1 3, 1, 0}!"
+      ],
+      "fr_FR": [
+        "{STRVAR_1 3, 0, 0}: ...!\r",
+        "Bah, c’est pas grave.\n",
+        "Continue comme ça, {STRVAR_1 3, 1, 0}.\r",
+        "Plus tu t’entraînes, plus mes Pokémon\n",
+        "et moi on devient forts.\r",
+        "Les Pokémon ont des talents infinis.\n",
+        "C’est moi qui te le dis, {STRVAR_1 3, 1, 0}!"
       ]
     },
     {
@@ -46,6 +70,15 @@
         "Piling up the wins at the Battle Tower!\r",
         "Huh? My longest winning streak?\n",
         "What, you’re going to grill me now?"
+      ],
+      "fr_FR": [
+        "{STRVAR_1 3, 0, 0}: Hé, {STRVAR_1 3, 1, 0}!\n",
+        "Comment ça va?\r",
+        "Moi? La question ne se pose même pas!\n",
+        "J’enchaîne les victoires à la Tour\f",
+        "de Combat, bien sûr!\r",
+        "Mon record de victoires consécutives?\n",
+        "Tu as l’intention de me cuisiner ou quoi?"
       ]
     },
     {
@@ -58,6 +91,14 @@
         "though?\r",
         "When people talk about Pokémon, they\n",
         "all start smiling!"
+      ],
+      "fr_FR": [
+        "{STRVAR_1 3, 0, 0}: Oh, c’est toi,\n",
+        "{STRVAR_1 3, 1, 0}.\r",
+        "Tu as combattu tout le monde?\r",
+        "Tu trouves pas ça super?\r",
+        "Dès qu’ils parlent de Pokémon, les gens\n",
+        "se mettent à sourire!"
       ]
     },
     {
@@ -77,6 +118,21 @@
         "them, or to you!\r",
         "Because I’m still going to be the\n",
         "greatest Trainer ever!"
+      ],
+      "fr_FR": [
+        "{STRVAR_1 3, 0, 0}: ...!\n",
+        "Oh, c’est toi, {STRVAR_1 3, 1, 0}.\r",
+        "Tu sais, les meilleurs Dresseurs doivent\n",
+        "aimer les Pokémon du fond du cœur.\r",
+        "Les Champions d’Arène par exemple.\r",
+        "Et les Meneurs de Zone, comme l’Aigle\n",
+        "Tour, aussi.\r",
+        "Il suffit de se battre contre eux pour\n",
+        "que ça saute aux yeux.\r",
+        "Mais c’est pas pour autant que je vais\n",
+        "me laisser intimider!\r",
+        "J’ai toujours l’intention de devenir le\n",
+        "meilleur Dresseur de tous les temps!"
       ]
     },
     {
@@ -85,6 +141,11 @@
         "Hey, traveling Trainer.\n",
         "Is your big Bag full of items?\f",
         "Or is it full of dreams?"
+      ],
+      "fr_FR": [
+        "Eh, Dresseur en vadrouille.\n",
+        "Ton Sac est plein d’objets?\f",
+        "Ou peut-être est-il plein de rêves?"
       ]
     },
     {
@@ -92,6 +153,11 @@
       "en_US": [
         "Trainers who lose at the Battle\n",
         "Frontier come here to train."
+      ],
+      "fr_FR": [
+        "Les Dresseurs qui perdent dans la\n",
+        "Zone de Combat viennent ici pour\f",
+        "essayer d’être moins nuls."
       ]
     },
     {
@@ -99,6 +165,10 @@
       "en_US": [
         "I’m taking the Frontier challenges to\n",
         "score some commemorative prints."
+      ],
+      "fr_FR": [
+        "Je relève des défis à la Zone de Combat\n",
+        "pour gagner des photos-souvenirs."
       ]
     },
     {
@@ -109,6 +179,14 @@
         "“Search for the Red GYARADOS!”?\r",
         "Yeah, that outstanding documentary!\n",
         "I filmed that!"
+      ],
+      "fr_FR": [
+        "Je suis Caméraman. \n",
+        "Oui, je sais que ça se voit.\r",
+        "Tu as vu cette émission, “A la \n",
+        "recherche du LEVIATOR rouge!”?\r",
+        "Eh bien, ce documentaire de \n",
+        "génie, c’est moi qui l’ai filmé!"
       ]
     },
     {
@@ -124,6 +202,19 @@
         "capturing HEATRAN on film.\r",
         "Oh, well. The world’s a huge place.\n",
         "There’re plenty of other mysteries!"
+      ],
+      "fr_FR": [
+        "Je suis Caméraman. \n",
+        "Oui, je sais que ça se voit.\r",
+        "“L’éruption du Mont Abrupt.\n",
+        "Le mystère du Pokémon de feu endormi\f",
+        "au fin fond du volcan!”\r",
+        "J’avais tout préparé pour réaliser ce\n",
+        "documentaire, mais c’est peine perdue.\r",
+        "Eh oui, sans aucune image d’HEATRAN,\n",
+        "c’est mal parti.\r",
+        "Bah, le monde est grand et plein de\n",
+        "mystères!"
       ]
     },
     {
@@ -139,6 +230,19 @@
         "So much for that show.\r",
         "Oh, well. The world’s a huge place.\n",
         "There’re plenty of other mysteries!"
+      ],
+      "fr_FR": [
+        "Je suis Caméraman. \n",
+        "Oui, je sais que ça se voit.\r",
+        "“L’éruption du Mont Abrupt.\n",
+        "Le mystère du Pokémon de feu endormi\f",
+        "au fin fond du volcan!”\r",
+        "J’ai ce projet de documentaire en \n",
+        "tête depuis un bon moment.\r",
+        "Mais je n’ai encore rien filmé... \n",
+        "C’est mal parti.\r",
+        "Bah, le monde est grand et \n",
+        "plein de mystères!"
       ]
     },
     {
@@ -146,6 +250,10 @@
       "en_US": [
         "Survival Area\n",
         "Staging Point"
+      ],
+      "fr_FR": [
+        "Aire de Survie\n",
+        "Camp de base"
       ]
     }
   ]

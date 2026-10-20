@@ -25,6 +25,10 @@
             "en_US": [
                 "I don’t care who you are--no one\n",
                 "interferes with my treasure hunting!\r"
+            ],
+            "fr_FR": [
+                "Je me fiche de qui tu es, personne ne\n",
+                "dérange ma chasse au trésor!\r"
             ]
         },
         {
@@ -32,6 +36,10 @@
             "en_US": [
                 "My Pokémon!\n",
                 "My treasures!\n"
+            ],
+            "fr_FR": [
+                "Mon Pokémon!\n",
+                "Mon trésor!\n"
             ]
         },
         {
@@ -39,6 +47,10 @@
             "en_US": [
                 "I heard there’s an intriguing stone\n",
                 "monument around, so I came running.\n"
+            ],
+            "fr_FR": [
+                "Il paraît qu’il y a un curieux monument \n",
+                "en pierre ici, alors j’ai accouru.\n"
             ]
         },
         {
@@ -48,7 +60,14 @@
                 "for treasures.\r",
                 "However, a battle with you\n",
                 "is a treasure I can’t pass up!\r"
+            ],
+            "fr_FR": [
+                "Je suis encore là... à la recherche de\n",
+                "trésors.\r",
+                "Cependant, un combat contre toi est\n",
+                "un trésor que je ne peux laisser filer!\r"
             ]
         }
-    ]
+    ],
+    "name_fr": "Mario"
 }

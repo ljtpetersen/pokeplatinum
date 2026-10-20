@@ -25,5 +25,13 @@
     "contest": {
         "effect": "CONTEST_EFFECT_ALL_SAME_JUDGE",
         "type": "CONTEST_TYPE_BEAUTY"
-    }
+    },
+    "name_fr": "Glaciation",
+    "description_fr": [
+        "Une vague de froid\n",
+        "glacial frappe\n",
+        "l’ennemi. S’il est\n",
+        "touché, il est mis\n",
+        "K.O. sur le coup."
+    ]
 }

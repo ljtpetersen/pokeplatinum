@@ -3,24 +3,34 @@
   "messages": [
     {
       "id": "DistortionWorldGiratinaRoom_Text_GiratinaCryGiygogagogwoh",
-      "en_US": "Giygogagogwoh!"
+      "en_US": "Giygogagogwoh!",
+      "fr_FR": "Gwogroaaaraaaah!"
     },
     {
       "id": "DistortionWorldGiratinaRoom_Text_GiratinaIsEyeingPlayer",
       "en_US": [
         "GIRATINA is quietly eyeing\n",
         "{STRVAR_1 3, 0, 0}..."
+      ],
+      "fr_FR": [
+        "GIRATINA étudie {STRVAR_1 3, 0, 0}\n",
+        "du regard..."
       ]
     },
     {
       "id": "DistortionWorldGiratinaRoom_Text_GiratinaCryGiygogagohgwooh",
-      "en_US": "Giygogagohgwooh!\r"
+      "en_US": "Giygogagohgwooh!\r",
+      "fr_FR": "Gwogroaaaraaaah!\r"
     },
     {
       "id": "DistortionWorldGiratinaRoom_Text_GiratinaUnderstoodUs",
       "en_US": [
         "Cynthia: GIRATINA seems to have\n",
         "understood us!\r"
+      ],
+      "fr_FR": [
+        "Cynthia: GIRATINA semble avoir compris\n",
+        "le message!\r"
       ]
     },
     {
@@ -28,6 +38,10 @@
       "en_US": [
         "Cyrus: That Pokémon...\r",
         "That shadowy Pokémon was defeated?!\r"
+      ],
+      "fr_FR": [
+        "Hélio: Impossible...\r",
+        "Le Pokémon de l’ombre a été vaincu?!\r"
       ]
     },
     {
@@ -35,6 +49,10 @@
       "en_US": [
         "Cyrus: That Pokémon...\r",
         "That shadowy Pokémon was captured?!\r"
+      ],
+      "fr_FR": [
+        "Hélio: Impossible...\r",
+        "Le Pokémon de l’ombre a été capturé?!\r"
       ]
     },
     {
@@ -43,6 +61,11 @@
         "Cyrus: That shadowy Pokémon...\r",
         "You quelled its rage by refusing to\n",
         "battle it?!\r"
+      ],
+      "fr_FR": [
+        "Hélio: Le Pokémon de l’ombre...\r",
+        "C’est en refusant de le combattre que\n",
+        "tu as réussi à l’apaiser?!\r"
       ]
     },
     {
@@ -58,6 +81,18 @@
         "the two worlds?\r",
         "Is spirit, a vague and incomplete\n",
         "thing, so important to you?!\r"
+      ],
+      "fr_FR": [
+        "A cause de toi, ce monde irrationnel va\n",
+        "perdurer!\r",
+        "Et moi, je ne pourrai pas créer mon\n",
+        "nouveau monde!\r",
+        "Même si je fabrique une autre Chaîne\n",
+        "Rouge, tout est fichu!\r",
+        "Pourquoi?! Qu’est-ce qui te pousse à\n",
+        "protéger les deux mondes?\r",
+        "L’esprit, cette chose si imparfaite et\n",
+        "vague, est-il si important à tes yeux?!\r"
       ]
     },
     {
@@ -73,11 +108,25 @@
         "become greater than we were alone.\r",
         "That is why we can battle and trade\n",
         "with anyone we choose...\r"
+      ],
+      "fr_FR": [
+        "Cynthia: L’endroit où nous sommes nés,\n",
+        "la vie que nous menons, la langue\f",
+        "que nous parlons font de chacun de\f",
+        "nous un être unique.\r",
+        "Mais nous sommes tous unis par\n",
+        "la présence des Pokémon.\r",
+        "Nous partageons nos vies avec les\n",
+        "Pokémon, et nous nous en trouvons\f",
+        "aussi grandis qu’heureux.\r",
+        "Grâce à cela, nous pouvons combattre\n",
+        "et échanger avec qui nous voulons...\r"
       ]
     },
     {
       "id": "DistortionWorldGiratinaRoom_Text_BigSilence",
-      "en_US": "{SIZE 200}Silence!{SIZE 100}\r"
+      "en_US": "{SIZE 200}Silence!{SIZE 100}\r",
+      "fr_FR": "{SIZE 200}Silence!{SIZE 100}\r"
     },
     {
       "id": "DistortionWorldGiratinaRoom_Text_EnoughBlathering",
@@ -101,6 +150,27 @@
         "One day, you will awaken to a world of\n",
         "my creation.\r",
         "A world without spirit.\r"
+      ],
+      "fr_FR": [
+        "Hélio: Assez raconté d’âneries!\r",
+        "C’est comme ça que tu justifies la\n",
+        "prétendue utilité de l’esprit?!\r",
+        "Ce ne sont là que des illusions de joie\n",
+        "et de sécurité propres aux humains!\r",
+        "Les émotions m’assaillent...\n",
+        "Rage, haine, frustration...\r",
+        "Sentiments détestables, fruits pourris\n",
+        "de mon esprit infect!\r",
+        "Assez...\n",
+        "Nous ne serons jamais d’accord.\r",
+        "Mais je te fais une promesse.\n",
+        "Je percerai les secrets du monde.\r",
+        "Et je consacrerai ce savoir à la\n",
+        "création d’un monde parfait.\r",
+        "Un jour, tu te réveilleras dans un\n",
+        "monde que j’aurai moi-même créé.\r",
+        "Un monde où l’esprit sera banni\n",
+        "à jamais.\r"
       ]
     },
     {
@@ -112,6 +182,15 @@
         "feel joy.\r",
         "When there is anger, compassion\n",
         "is born...\r"
+      ],
+      "fr_FR": [
+        "Cynthia: ...\n",
+        "...\r",
+        "C’est parce que nous connaissons la\n",
+        "tristesse que nous ressentons la\f",
+        "joie.\r",
+        "De même, la colère contient les germes\n",
+        "de la compassion...\r"
       ]
     },
     {
@@ -124,6 +203,15 @@
         "being on the other side of our world.\r",
         "It stands to reason that it has a link\n",
         "to the other side."
+      ],
+      "fr_FR": [
+        "Rentrons chez nous.\r",
+        "Le portail où se trouvait GIRATINA\n",
+        "devrait conduire à notre monde.\r",
+        "La légende veut que GIRATINA vive de\n",
+        "l’autre côté de notre monde.\r",
+        "Par conséquent, il existe forcément\n",
+        "un passage reliant les deux côtés."
       ]
     },
     {
@@ -131,11 +219,16 @@
       "en_US": [
         "There is a portal where GIRATINA was.\n",
         "Will you leap into the portal?"
+      ],
+      "fr_FR": [
+        "Le portail où se trouvait GIRATINA.\n",
+        "Emprunter le passage?"
       ]
     },
     {
       "id": "DistortionWorldGiratinaRoom_Text_PlayerLeaptIntoPortal",
-      "en_US": "{STRVAR_1 3, 0, 0} leapt into the portal.\r"
+      "en_US": "{STRVAR_1 3, 0, 0} leapt into the portal.\r",
+      "fr_FR": "{STRVAR_1 3, 0, 0} emprunte le passage.\r"
     }
   ]
 }

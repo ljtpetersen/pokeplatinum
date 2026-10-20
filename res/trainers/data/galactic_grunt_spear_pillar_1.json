@@ -32,7 +32,12 @@
             "en_US": [
                 "The toughest of all the grunts!\n",
                 "That was me...\n"
+            ],
+            "fr_FR": [
+                "Le plus fort de tous les sbires!\n",
+                "C’était moi...\n"
             ]
         }
-    ]
+    ],
+    "name_fr": "Sbire"
 }

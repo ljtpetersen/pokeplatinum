@@ -51,6 +51,10 @@
             "en_US": [
                 "I’ll battle my way.\n",
                 "You battle yours."
+            ],
+            "fr_FR": [
+                "Au combat, j’ai mon propre style.\n",
+                "Toi aussi, tu as ton propre style."
             ]
         },
         {
@@ -58,6 +62,10 @@
             "en_US": [
                 "People are people.\n",
                 "I’ll go my own way.\r"
+            ],
+            "fr_FR": [
+                "Nous sommes tous uniques.\n",
+                "Je suis mon propre chemin.\r"
             ]
         },
         {
@@ -65,7 +73,12 @@
             "en_US": [
                 "People are people.\n",
                 "You go your own way.\r"
+            ],
+            "fr_FR": [
+                "Nous sommes tous uniques.\n",
+                "Tu suis ton propre chemin.\r"
             ]
         }
-    ]
+    ],
+    "name_fr": "Udo"
 }

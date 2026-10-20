@@ -27,5 +27,13 @@
     "contest": {
         "effect": "CONTEST_EFFECT_STEAL_VOLTAGE",
         "type": "CONTEST_TYPE_TOUGH"
-    }
+    },
+    "name_fr": "Larcin",
+    "description_fr": [
+        "Le lanceur attaque\n",
+        "l’ennemi et vole son\n",
+        "objet. Le lanceur ne\n",
+        "peut rien voler s’il\n",
+        "tient déjà un objet."
+    ]
 }

@@ -43,11 +43,17 @@
             "en_US": [
                 "Hey! You’re that high-energy Trainer!\n",
                 "I bet you can’t keep up with us now!\r"
+            ],
+            "fr_FR": [
+                "Hé! Tu es ce Dresseur plein d’énergie!\n",
+                "Cette fois, tu ne nous auras pas!\r"
             ]
         },
         {
             "type": "TRMSG_DEFEAT",
-            "en_US": "You’ve got energy to burn!\n"
+            "en_US": "You’ve got energy to burn!\n",
+            "fr_FR": "Tu as de l’énergie à revendre!\n"
         }
-    ]
+    ],
+    "name_fr": "Jonas"
 }

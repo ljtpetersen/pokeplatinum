@@ -23,7 +23,12 @@
             "en_US": [
                 "...This is why I’m gonna be stuck as\n",
                 "a grunt forever...\n"
+            ],
+            "fr_FR": [
+                "... Voilà pourquoi je resterai toujours\n",
+                "un pauvre sbire...\n"
             ]
         }
-    ]
+    ],
+    "name_fr": "Sbire"
 }

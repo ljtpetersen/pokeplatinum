@@ -8,6 +8,12 @@
         "Then, we have Amity Square!\r",
         "Hearthome gets visitors from all over,\n",
         "so things have to be nice and clean!"
+      ],
+      "fr_FR": [
+        "Il y a les Concours!\n",
+        "Et aussi le Square Paisible!\r",
+        "Unionpolis attire toute une foule de\n",
+        "visiteurs, alors tout doit être nickel!"
       ]
     },
     {
@@ -17,6 +23,12 @@
         "Pokémon Contests.\r",
         "What should I do?\n",
         "I could captivate the whole world!"
+      ],
+      "fr_FR": [
+        "Les Concours Pokémon sont retransmis\n",
+        "dans tous les pays.\r",
+        "Que dois-je faire? C’est une occasion\n",
+        "unique de captiver le monde entier!"
       ]
     },
     {
@@ -24,11 +36,17 @@
       "en_US": [
         "My SHROOMISH finds Berries and things\n",
         "when we go to Amity Square."
+      ],
+      "fr_FR": [
+        "Mon BALIGNON déniche des Baies et\n",
+        "tout un tas de choses lors de nos\f",
+        "promenades au Square Paisible."
       ]
     },
     {
       "id": "HearthomeCitySoutheastHouse1F_Text_ShroomishCryPofwaaah",
-      "en_US": "SHROOMISH: Pofwaaah!"
+      "en_US": "SHROOMISH: Pofwaaah!",
+      "fr_FR": "BALIGNON: Poufwaaa!"
     }
   ]
 }

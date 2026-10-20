@@ -26,5 +26,12 @@
     "contest": {
         "effect": "CONTEST_EFFECT_NO_VOLTAGE_DOWN",
         "type": "CONTEST_TYPE_SMART"
-    }
+    },
+    "name_fr": "Flatterie",
+    "description_fr": [
+        "Rend l’ennemi\n",
+        "confus, mais\n",
+        "augmente son \n",
+        "Atq. Spé."
+    ]
 }

@@ -3,95 +3,118 @@
   "messages": [
     {
       "id": "TrainerCard_Text_IDNo",
-      "en_US": "IDNo."
+      "en_US": "IDNo.",
+      "fr_FR": "Nº ID"
     },
     {
       "id": "TrainerCard_Text_Name",
-      "en_US": "NAME"
+      "en_US": "NAME",
+      "fr_FR": "NOM"
     },
     {
       "id": "TrainerCard_Text_Money",
-      "en_US": "MONEY"
+      "en_US": "MONEY",
+      "fr_FR": "ARGENT"
     },
     {
       "id": "TrainerCard_Text_Pokedex",
-      "en_US": "POKéDEX"
+      "en_US": "POKéDEX",
+      "fr_FR": "POKéDEX"
     },
     {
       "id": "TrainerCard_Text_Score",
-      "en_US": "SCORE"
+      "en_US": "SCORE",
+      "fr_FR": "SCORE"
     },
     {
       "id": "TrainerCard_Text_Time",
-      "en_US": "TIME"
+      "en_US": "TIME",
+      "fr_FR": "DUREE DE JEU"
     },
     {
       "id": "TrainerCard_Text_AdventureStarted",
-      "en_US": "ADVENTURE STARTED"
+      "en_US": "ADVENTURE STARTED",
+      "fr_FR": "DEBUT DE L’AVENTURE"
     },
     {
       "id": "TrainerCard_Text_HallOfFameDebut",
-      "en_US": "HALL OF FAME DEBUT"
+      "en_US": "HALL OF FAME DEBUT",
+      "fr_FR": "PANTHEON Nº 1"
     },
     {
       "id": "TrainerCard_Text_TimesLinked",
-      "en_US": "TIMES LINKED"
+      "en_US": "TIMES LINKED",
+      "fr_FR": "CONNEXIONS"
     },
     {
       "id": "TrainerCard_Text_LinkBattles",
-      "en_US": "LINK BATTLES"
+      "en_US": "LINK BATTLES",
+      "fr_FR": "COMBATS EN LINK"
     },
     {
       "id": "TrainerCard_Text_LinkTrades",
-      "en_US": "LINK TRADES"
+      "en_US": "LINK TRADES",
+      "fr_FR": "ECHANGES EN LINK"
     },
     {
       "id": "TrainerCard_Text_Colon",
-      "en_US": ":"
+      "en_US": ":",
+      "fr_FR": ":"
     },
     {
       "id": "TrainerCard_Text_TwoDashes",
-      "en_US": "--"
+      "en_US": "--",
+      "fr_FR": "--"
     },
     {
       "id": "TrainerCard_Text_BlankTime_Unused",
-      "en_US": "--:--"
+      "en_US": "--:--",
+      "fr_FR": "--:--"
     },
     {
       "id": "TrainerCard_Text_Format_Money",
-      "en_US": "${STRVAR_1 55, 5, 0}"
+      "en_US": "${STRVAR_1 55, 5, 0}",
+      "fr_FR": "{STRVAR_1 55, 5, 0} $"
     },
     {
       "id": "TrainerCard_Text_Format_HHMMWithColon",
-      "en_US": "{STRVAR_1 51, 0, 0}:{STRVAR_1 51, 1, 0}"
+      "en_US": "{STRVAR_1 51, 0, 0}:{STRVAR_1 51, 1, 0}",
+      "fr_FR": "{STRVAR_1 51, 0, 0}:{STRVAR_1 51, 1, 0}"
     },
     {
       "id": "TrainerCard_Text_Format_HHMMWithoutColon",
-      "en_US": "{STRVAR_1 51, 0, 0}  {STRVAR_1 51, 1, 0}"
+      "en_US": "{STRVAR_1 51, 0, 0}  {STRVAR_1 51, 1, 0}",
+      "fr_FR": "{STRVAR_1 51, 0, 0}  {STRVAR_1 51, 1, 0}"
     },
     {
       "id": "TrainerCard_Text_Format_MMDD20YY",
-      "en_US": "{STRVAR_1 74, 3, 0} {STRVAR_1 51, 4, 0}, 20{STRVAR_1 51, 2, 0}"
+      "en_US": "{STRVAR_1 74, 3, 0} {STRVAR_1 51, 4, 0}, 20{STRVAR_1 51, 2, 0}",
+      "fr_FR": "{STRVAR_1 51, 4, 0} {STRVAR_1 74, 3, 0} 20{STRVAR_1 51, 2, 0}"
     },
     {
       "id": "TrainerCard_Text_W",
-      "en_US": "W"
+      "en_US": "W",
+      "fr_FR": "V"
     },
     {
       "id": "TrainerCard_Text_L",
-      "en_US": "L"
+      "en_US": "L",
+      "fr_FR": "D"
     },
     {
       "id": "TrainerCard_Text_BlankDate",
-      "en_US": "--- --, ----"
+      "en_US": "--- --, ----",
+      "fr_FR": "-- --- ----"
     },
     {
       "id": "TrainerCard_Text_Format_Number_1",
-      "en_US": "{STRVAR_1 52, 5, 0}"
+      "en_US": "{STRVAR_1 52, 5, 0}",
+      "fr_FR": "{STRVAR_1 52, 5, 0}"
     },
     {
       "id": "TrainerCard_Text_Format_Number_2",
-      "en_US": "{STRVAR_1 55, 5, 0}"
+      "en_US": "{STRVAR_1 55, 5, 0}",
+      "fr_FR": "{STRVAR_1 55, 5, 0}"
     }
   ]
 }

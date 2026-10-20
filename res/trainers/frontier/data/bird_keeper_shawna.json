@@ -29,6 +29,10 @@
             "en_US": [
                 "Every day, I’m like a migratory bird,\n",
                 "but I go in all cardinal directions."
+            ],
+            "fr_FR": [
+                "Je suis une sorte d’oiseau migrateur,\n",
+                "mais je n’arrive pas à décider où aller."
             ]
         },
         {
@@ -36,6 +40,10 @@
             "en_US": [
                 "I gained experience while traveling to\n",
                 "all sorts of places.\r"
+            ],
+            "fr_FR": [
+                "J’ai beaucoup voyagé, j’ai donc\n",
+                "beaucoup appris.\r"
             ]
         },
         {
@@ -43,7 +51,12 @@
             "en_US": [
                 "I’d love to live somewhere where I can\n",
                 "find other Trainers like you.\r"
+            ],
+            "fr_FR": [
+                "J’aimerais vivre dans un lieu où les\n",
+                "Dresseurs sont tous aussi talentueux.\r"
             ]
         }
-    ]
+    ],
+    "name_fr": "Elle"
 }

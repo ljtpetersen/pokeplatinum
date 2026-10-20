@@ -7,7 +7,10 @@
         "special_attack": 75,
         "special_defense": 130
     },
-    "types": [ "TYPE_PSYCHIC", "TYPE_PSYCHIC" ],
+    "types": [
+        "TYPE_PSYCHIC",
+        "TYPE_PSYCHIC"
+    ],
     "catch_rate": 3,
     "base_exp_reward": 210,
     "ev_yields": {
@@ -26,26 +29,68 @@
     "hatch_cycles": 120,
     "base_friendship": 100,
     "exp_rate": "EXP_RATE_SLOW",
-    "egg_groups": [ "EGG_GROUP_UNDISCOVERED", "EGG_GROUP_UNDISCOVERED" ],
-    "abilities": [ "ABILITY_LEVITATE", "ABILITY_NONE" ],
+    "egg_groups": [
+        "EGG_GROUP_UNDISCOVERED",
+        "EGG_GROUP_UNDISCOVERED"
+    ],
+    "abilities": [
+        "ABILITY_LEVITATE",
+        "ABILITY_NONE"
+    ],
     "safari_flee_rate": 0,
     "body_color": "MON_COLOR_YELLOW",
     "flip_sprite": false,
     "icon_palette": 0,
     "learnset": {
         "by_level": [
-            [ 1, "MOVE_CONFUSION" ],
-            [ 1, "MOVE_DOUBLE_TEAM" ],
-            [ 11, "MOVE_SAFEGUARD" ],
-            [ 20, "MOVE_MIST" ],
-            [ 29, "MOVE_AURORA_BEAM" ],
-            [ 38, "MOVE_FUTURE_SIGHT" ],
-            [ 47, "MOVE_SLASH" ],
-            [ 57, "MOVE_MOONLIGHT" ],
-            [ 66, "MOVE_PSYCHO_CUT" ],
-            [ 75, "MOVE_PSYCHO_SHIFT" ],
-            [ 84, "MOVE_LUNAR_DANCE" ],
-            [ 93, "MOVE_PSYCHIC" ]
+            [
+                1,
+                "MOVE_CONFUSION"
+            ],
+            [
+                1,
+                "MOVE_DOUBLE_TEAM"
+            ],
+            [
+                11,
+                "MOVE_SAFEGUARD"
+            ],
+            [
+                20,
+                "MOVE_MIST"
+            ],
+            [
+                29,
+                "MOVE_AURORA_BEAM"
+            ],
+            [
+                38,
+                "MOVE_FUTURE_SIGHT"
+            ],
+            [
+                47,
+                "MOVE_SLASH"
+            ],
+            [
+                57,
+                "MOVE_MOONLIGHT"
+            ],
+            [
+                66,
+                "MOVE_PSYCHO_CUT"
+            ],
+            [
+                75,
+                "MOVE_PSYCHO_SHIFT"
+            ],
+            [
+                84,
+                "MOVE_LUNAR_DANCE"
+            ],
+            [
+                93,
+                "MOVE_PSYCHIC"
+            ]
         ],
         "by_tm": [
             "TM04",
@@ -99,7 +144,7 @@
             "MOVE_SWIFT"
         ]
     },
-    "evolutions": [  ],
+    "evolutions": [],
     "offspring": "SPECIES_CRESSELIA",
     "footprint": {
         "has": false,
@@ -122,9 +167,9 @@
             "name": "CRESSELIA",
             "category": "Lunar Pokémon",
             "entry_text": [
-                "On nights around the quarter moon,\n",
-                "the aurora from its tail extends\n",
-                "and undulates beautifully."
+                "Shiny particles are released from\n",
+                "its wings like a veil. It is said\n",
+                "to represent the crescent moon."
             ]
         },
         "fr": {
@@ -170,6 +215,18 @@
                 "ひこうするときは　ベ－ルのような\n",
                 "はねから　ひかる　りゅうしを　だす。\n",
                 "みかづきのけしんと　よばれている。"
+            ]
+        },
+        "local_version": {
+            "entry_text": [
+                "On nights around the quarter moon,\n",
+                "the aurora from its tail extends\n",
+                "and undulates beautifully."
+            ],
+            "entry_text_fr": [
+                "Les nuits où le premier croissant\n",
+                "de lune est visible, l’arc de sa\n",
+                "queue se déploie de façon superbe."
             ]
         }
     },

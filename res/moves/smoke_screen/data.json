@@ -26,5 +26,12 @@
     "contest": {
         "effect": "CONTEST_EFFECT_LOWERS_VOLTAGE",
         "type": "CONTEST_TYPE_SMART"
-    }
+    },
+    "name_fr": "Brouillard",
+    "description_fr": [
+        "Le lanceur disperse\n",
+        "un nuage d’encre ou\n",
+        "de fumée. Réduit la\n",
+        "précision de l’ennemi."
+    ]
 }

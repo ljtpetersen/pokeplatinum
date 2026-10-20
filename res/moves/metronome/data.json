@@ -24,5 +24,13 @@
     "contest": {
         "effect": "CONTEST_EFFECT_RANDOM_ORDER",
         "type": "CONTEST_TYPE_CUTE"
-    }
+    },
+    "name_fr": "Métronome",
+    "description_fr": [
+        "Agite un doigt et\n",
+        "stimule le cerveau\n",
+        "pour utiliser presque\n",
+        "n’importe quelle\n",
+        "capacité au hasard."
+    ]
 }

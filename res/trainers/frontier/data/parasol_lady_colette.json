@@ -59,6 +59,10 @@
             "en_US": [
                 "Don’t you think Pokémon battles are a\n",
                 "lot like the weather?"
+            ],
+            "fr_FR": [
+                "Il y a beaucoup de points communs entre\n",
+                "les combats de Pokémon et la météo."
             ]
         },
         {
@@ -66,6 +70,10 @@
             "en_US": [
                 "Winning makes me feel warm and cheerful\n",
                 "like a sunny day.\r"
+            ],
+            "fr_FR": [
+                "La victoire est douce comme la caresse\n",
+                "du soleil un soir d’été.\r"
             ]
         },
         {
@@ -73,7 +81,12 @@
             "en_US": [
                 "Losing makes me sad like a dreary,\n",
                 "cloudy day.\r"
+            ],
+            "fr_FR": [
+                "La défaite est triste comme la pluie\n",
+                "monotone d’un jour d’hiver.\r"
             ]
         }
-    ]
+    ],
+    "name_fr": "Carine"
 }

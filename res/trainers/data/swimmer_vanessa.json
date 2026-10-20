@@ -25,6 +25,12 @@
                 "There’s a huge variety!\r",
                 "I’ll show you the Water-type Pokémon I\n",
                 "chose and why I’m so proud of them!\r"
+            ],
+            "fr_FR": [
+                "Ce qui est génial avec les Pokémon de\n",
+                "type Eau, c’est qu’il en existe plein!\r",
+                "Je vais te montrer celui que j’ai\n",
+                "choisi et pourquoi j’en suis fière!\r"
             ]
         },
         {
@@ -32,6 +38,10 @@
             "en_US": [
                 "I can’t boast when I lose...\n",
                 "I’m so disappointed...\n"
+            ],
+            "fr_FR": [
+                "Je ne peux pas me vanter quand je \n",
+                "perds... Quelle déception...\n"
             ]
         },
         {
@@ -39,6 +49,10 @@
             "en_US": [
                 "Sure I lost, but watch me! I’ll get\n",
                 "tougher with water Pokémon.\n"
+            ],
+            "fr_FR": [
+                "D’accord, j’ai perdu, mais écoute! Je\n",
+                "m’endurcirai grâce aux Pokémon Eau.\n"
             ]
         },
         {
@@ -46,7 +60,12 @@
             "en_US": [
                 "This time, my water Pokémon will show\n",
                 "you why I’m so proud of them!\r"
+            ],
+            "fr_FR": [
+                "Cette fois, tu vas comprendre pourquoi\n",
+                "mon Pokémon Eau fait ma fierté!\r"
             ]
         }
-    ]
+    ],
+    "name_fr": "Charleen"
 }

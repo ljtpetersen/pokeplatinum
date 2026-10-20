@@ -23,11 +23,20 @@
             "en_US": [
                 "Why would you wander around here?\n",
                 "You must really like it here.\r"
+            ],
+            "fr_FR": [
+                "Pourquoi tu te promènes dans ce coin?\n",
+                "Tu dois vraiment aimer cette région.\r"
             ]
         },
         {
             "type": "TRMSG_DEFEAT",
-            "en_US": "The winds of victory shifted...\n"
+            "en_US": "The winds of victory shifted...\n",
+            "fr_FR": [
+                "Les vents de la victoire ont changé de\n",
+                "cap...\n"
+            ]
         }
-    ]
+    ],
+    "name_fr": "Geneviève"
 }

@@ -8,6 +8,13 @@
         "inside the cavern...\r",
         "I think a Pokémon’s hidden move will be\n",
         "able to smash those boulders, though."
+      ],
+      "fr_FR": [
+        "Des rochers bloquent le passage dans\n",
+        "la caverne...\r",
+        "Mais je crois qu’un Pokémon disposant\n",
+        "d’une certaine capacité secrète\f",
+        "pourrait les briser."
       ]
     },
     {
@@ -15,11 +22,16 @@
       "en_US": [
         "Rt. 204\n",
         "Jubilife City"
+      ],
+      "fr_FR": [
+        "Route 204\n",
+        "Féli-Cité"
       ]
     },
     {
       "id": "Route204South_Text_SignRavagedPath",
-      "en_US": "Ravaged Path"
+      "en_US": "Ravaged Path",
+      "fr_FR": "Chemin Rocheux"
     }
   ]
 }

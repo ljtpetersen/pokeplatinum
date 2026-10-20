@@ -27,5 +27,13 @@
   "fieldUseFunc": "ITEM_USE_FUNC_TM_HM",
   "battleUseCategory": "BATTLE_USE_CATEGORY_NONE",
   "itemUseParams": null,
-  "teachesMove": "MOVE_BULK_UP"
+  "teachesMove": "MOVE_BULK_UP",
+  "name_fr": "CT08",
+  "description_fr": [
+    "Le lanceur tend ses muscles pour se\n",
+    "gonfler, ce qui booste son Attaque et\n",
+    "sa Défense."
+  ],
+  "plural_fr": "CT08",
+  "article_fr": null
 }

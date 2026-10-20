@@ -18,6 +18,22 @@
         "beyond imagination.\r",
         "But, enough of that.\n",
         "The Magma Stone will be mine.\r"
+      ],
+      "fr_FR": [
+        "Pluton: Hélio a disparu, Mars et\n",
+        "Jupiter ont raccroché...\r",
+        "Quant à Saturne, il a dit qu’il veillerait\n",
+        "sur ce qui reste de la Team Galaxie.\r",
+        "Mais il refuse de se joindre à moi.\n",
+        "Quel imbécile!\r",
+        "Ce sont tous des imbéciles! Laisser\n",
+        "tomber la Team Galaxie de la sorte!\r",
+        "Après tous les efforts que nous avions\n",
+        "fournis pour en faire ce qu’elle était...\r",
+        "Nous aurions pu devenir incroyablement\n",
+        "riches.\r",
+        "Passons, ils n’en valent pas la peine.\n",
+        "La Pierre Magma sera bientôt mienne!\r"
       ]
     },
     {
@@ -25,6 +41,10 @@
       "en_US": [
         "Buck: Hey, you! Team Galactic!\n",
         "What’s going on here?!\r"
+      ],
+      "fr_FR": [
+        "Cornil: Hé vous! La Team Galaxie! On\n",
+        "peut savoir ce que vous manigancez?!\r"
       ]
     },
     {
@@ -40,22 +60,42 @@
         "to extort money by the millions!\r",
         "Fear me! For I am Charon!\n",
         "The boss of the reborn Team Galactic!\r"
+      ],
+      "fr_FR": [
+        "Pluton: Hein? Quoi?\n",
+        "Vous nous avez suivis jusqu’ici?\r",
+        "Toutes mes félicitations, vous avez fait\n",
+        "de votre mieux, mais c’est trop tard.\r",
+        "Grâce à cette Pierre Magma, je vais\n",
+        "réveiller HEATRAN!\r",
+        "Et contrôler l’activité de ce volcan\n",
+        "pour extorquer des millions aux\f",
+        "habitants!\r",
+        "La Team Galaxie renaît de ses cendres!\n",
+        "Prosternez-vous devant Pluton,\f",
+        "son nouveau chef! Mwah, ah, ah!\r"
       ]
     },
     {
       "id": "StarkMountainRoom3_Text_GoGoGo",
-      "en_US": "???: Go, go, go!\r"
+      "en_US": "???: Go, go, go!\r",
+      "fr_FR": "???: Go, go, go!\r"
     },
     {
       "id": "StarkMountainRoom3_Text_NoTheMagmaStone",
       "en_US": [
         "Charon: No! The Magma Stone!\r",
         "What?! What is going on?!\r"
+      ],
+      "fr_FR": [
+        "Pluton: Non! La Pierre Magma!\r",
+        "Mais que se passe-t-il?!\r"
       ]
     },
     {
       "id": "StarkMountainRoom3_Text_ExcellentWorkCroagunk",
-      "en_US": "???: Excellent work, CROAGUNK!\r"
+      "en_US": "???: Excellent work, CROAGUNK!\r",
+      "fr_FR": "???: Excellent travail, CRADOPAUD!\r"
     },
     {
       "id": "StarkMountainRoom3_Text_DisguisingWasNotEasy",
@@ -63,6 +103,11 @@
         "Looker: Pah!\r",
         "Disguising myself as a boulder for\n",
         "stakeout was not easy!\r"
+      ],
+      "fr_FR": [
+        "Beladonis: Pfiou!\r",
+        "Ça n’a pas été facile de me déguiser en\n",
+        "rocher pour ma couverture!\r"
       ]
     },
     {
@@ -74,6 +119,14 @@
         "about the new Team Galactic.\r",
         "With Cyrus, Mars, and Jupiter gone,\n",
         "you are all that is left.\r"
+      ],
+      "fr_FR": [
+        "Les Forces de Police Internationales\n",
+        "comptent sur ta coopération.\r",
+        "Tu as sûrement plein de choses à nous\n",
+        "révéler sur la nouvelle Team Galaxie.\r",
+        "Hélio, Mars et Jupiter étant partis,\n",
+        "tu es le seul qui reste.\r"
       ]
     },
     {
@@ -81,7 +134,8 @@
       "en_US": [
         "Grunt 1: Hey!\n",
         "It’s the International Police!\r"
-      ]
+      ],
+      "fr_FR": "Sbire 1: Hé! La Police Internationale!\r"
     },
     {
       "id": "StarkMountainRoom3_Text_OneThingToBeDone",
@@ -89,6 +143,11 @@
         "Grunt 2: Yeah!\n",
         "It’s the International Police all right!\r",
         "There’s only one thing to be done!\r"
+      ],
+      "fr_FR": [
+        "Sbire 2: Ouaip!\n",
+        "Aucun doute là-dessus!\r",
+        "Il n’y a plus qu’une chose à faire!\r"
       ]
     },
     {
@@ -96,6 +155,10 @@
       "en_US": [
         "Grunt 1: Run away!\n",
         "Grunt 2: Run away!\r"
+      ],
+      "fr_FR": [
+        "Sbire 1: Fuyons!\n",
+        "Sbire 2: Fuyons!\r"
       ]
     },
     {
@@ -110,6 +173,18 @@
         "old man! All said in jest!\r",
         "Besides, among Team Galactic’s\n",
         "Commanders, I was the most junior...\r"
+      ],
+      "fr_FR": [
+        "Pluton: Rhaaa... C’est la débandade...\r",
+        "La Police Internationale, vous dites?\n",
+        "Je ne sais rien du tout!\r",
+        "Une nouvelle Team Galaxie?\n",
+        "Extorquer de l’argent avec HEATRAN?\r",
+        "Les élucubrations d’un vieil homme, rien\n",
+        "de plus!\r",
+        "Par ailleurs, de tous les Commandants\n",
+        "de la Team Galaxie, j’étais le moins\f",
+        "gradé...\r"
       ]
     },
     {
@@ -121,6 +196,13 @@
         "You can’t win three-on-one, no?\r",
         "OK, Officers, over here, if you\n",
         "will.\r"
+      ],
+      "fr_FR": [
+        "Beladonis: Nous avons tout le temps\n",
+        "d’écouter ce que tu as à nous dire.\r",
+        "Inutile de résister. Tu n’as aucune\n",
+        "chance à trois contre un.\r",
+        "Inspecteurs, par ici, s’il vous plaît.\r"
       ]
     },
     {
@@ -130,6 +212,12 @@
         "This heat cannot be good for him.\r",
         "Quickly, take him somewhere cool.\n",
         "Yes, the cooler will do!\r"
+      ],
+      "fr_FR": [
+        "Beladonis: C’est un vieil homme, la\n",
+        "chaleur doit lui taper sur le système.\r",
+        "Mettez-moi ça au frais, et que ça\n",
+        "saute!\r"
       ]
     },
     {
@@ -140,22 +228,31 @@
         "I wish to say something.\r",
         "First, it is too hot!\n",
         "Let us exit this environment!\r"
+      ],
+      "fr_FR": [
+        "Beladonis: {STRVAR_1 3, 0, 0}!\r",
+        "Et toi aussi, jeune étranger! J’ai deux\n",
+        "mots à vous dire.\r",
+        "Mais d’abord, quittons cette fournaise!\r"
       ]
     },
     {
       "id": "StarkMountainRoom3_Text_HeatranCry",
-      "en_US": "Gwogobo gwobobobo!\r"
+      "en_US": "Gwogobo gwobobobo!\r",
+      "fr_FR": "Raaan raaan!\r"
     },
     {
       "id": "StarkMountainRoom3_Text_HeatranDisappeared",
       "en_US": [
         "HEATRAN disappeared into\n",
         "the volcano..."
-      ]
+      ],
+      "fr_FR": "HEATRAN a disparu dans le volcan..."
     },
     {
       "id": "StarkMountainRoom3_Text_Oof",
-      "en_US": "Buck: Oof!\r"
+      "en_US": "Buck: Oof!\r",
+      "fr_FR": "Cornil: Waouh!\r"
     },
     {
       "id": "StarkMountainRoom3_Text_ThatWasWicked",
@@ -167,6 +264,15 @@
         "Nah, that can’t happen!\r",
         "See ya, {STRVAR_1 3, 1, 0}!\n",
         "Say hi to that zippity Trainer buddy!\r"
+      ],
+      "fr_FR": [
+        "Cornil: Waouh! Oulah!\r",
+        "On dirait que le volcan \n",
+        "n’a pas trop aimé!\r",
+        "Il pourrait même entrer en éruption!\n",
+        "Non, aucune chance...\r",
+        "A plus, {STRVAR_1 3, 1, 0}! Dis bonjour à\n",
+        "ton pote hyperactif de ma part!\r"
       ]
     },
     {

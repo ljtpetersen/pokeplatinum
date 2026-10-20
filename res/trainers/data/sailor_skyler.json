@@ -32,17 +32,26 @@
             "en_US": [
                 "A man of the sea is also a man of\n",
                 "Pokémon!\r"
+            ],
+            "fr_FR": [
+                "Etre un loup de mer, ça n’empêche\n",
+                "pas d’aimer les Pokémon!\r"
             ]
         },
         {
             "type": "TRMSG_DEFEAT",
-            "en_US": "Anchors away!\n"
+            "en_US": "Anchors away!\n",
+            "fr_FR": "Levons l’ancre!\n"
         },
         {
             "type": "TRMSG_POST_BATTLE",
             "en_US": [
                 "You’ve got what it takes to be\n",
                 "a Trainer among Trainers!\n"
+            ],
+            "fr_FR": [
+                "Tu as ce qu’il faut pour devenir une\n",
+                "étoile du dressage!\n"
             ]
         },
         {
@@ -52,7 +61,14 @@
                 "That’s a sharp turn to the right!\r",
                 "Hard to port!\n",
                 "And that’s a sharp turn to the left!\r"
+            ],
+            "fr_FR": [
+                "A tribord, toute!\n",
+                "Virage dangereux à droite!\r",
+                "A bâbord, toute!\n",
+                "Et un virage dangereux à gauche!\r"
             ]
         }
-    ]
+    ],
+    "name_fr": "Augustin"
 }

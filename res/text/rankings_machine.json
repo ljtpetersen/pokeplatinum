@@ -3,101 +3,128 @@
   "messages": [
     {
       "id": "RankingsMachine_Text_SingleBattlesRecordTitle",
-      "en_US": "SINGLE BATTLES"
+      "en_US": "SINGLE BATTLES",
+      "fr_FR": "COMBATS SOLO"
     },
     {
       "id": "RankingsMachine_Text_DoubleBattlesRecordTitle",
-      "en_US": "DOUBLE BATTLES"
+      "en_US": "DOUBLE BATTLES",
+      "fr_FR": "COMBATS DUO"
     },
     {
       "id": "RankingsMachine_Text_MultiBattlesRecordTitle",
-      "en_US": "MULTI BATTLES"
+      "en_US": "MULTI BATTLES",
+      "fr_FR": "COMBATS MULTI"
     },
     {
       "id": "RankingsMachine_Text_LinkMultiBattlesRecordTitle",
-      "en_US": "LINK MULTI BATTLES"
+      "en_US": "LINK MULTI BATTLES",
+      "fr_FR": "COMBATS MULTI LINK"
     },
     {
       "id": "RankingsMachine_Text_WiFiBattleRoomRecordTitle",
-      "en_US": "WI-FI BATTLE ROOM"
+      "en_US": "WI-FI BATTLE ROOM",
+      "fr_FR": "SALLE DE COMBAT Wi-Fi"
     },
     {
       "id": "RankingsMachine_Text_AvgWinStreakRecordTitle",
-      "en_US": "AVG WIN STREAK"
+      "en_US": "AVG WIN STREAK",
+      "fr_FR": "MOYENNE VICTOIRES AFFILEE"
     },
     {
       "id": "RankingsMachine_Text_PokemonDefeatedRecordTitle",
-      "en_US": "POKéMON DEFEATED"
+      "en_US": "POKéMON DEFEATED",
+      "fr_FR": "POKéMON VAINCUS"
     },
     {
       "id": "RankingsMachine_Text_PokemonCaughtRecordTitle",
-      "en_US": "POKéMON CAUGHT"
+      "en_US": "POKéMON CAUGHT",
+      "fr_FR": "POKéMON ATTRAPES"
     },
     {
       "id": "RankingsMachine_Text_PokemonEggsRecordTitle",
-      "en_US": "POKéMON EGGS"
+      "en_US": "POKéMON EGGS",
+      "fr_FR": "OEUFS DE POKéMON"
     },
     {
       "id": "RankingsMachine_Text_EncounteredWhileFishingRecordTitle",
-      "en_US": "ENCOUNTERED WHILE FISHING"
+      "en_US": "ENCOUNTERED WHILE FISHING",
+      "fr_FR": "POKéMON PECHES"
     },
     {
       "id": "RankingsMachine_Text_ContestWinsRecordTitle",
-      "en_US": "CONTEST WINS"
+      "en_US": "CONTEST WINS",
+      "fr_FR": "CONCOURS GAGNES"
     },
     {
       "id": "RankingsMachine_Text_ContestWinPercentRecordTitle",
-      "en_US": "CONTEST WIN %"
+      "en_US": "CONTEST WIN %",
+      "fr_FR": "% DE CONCOURS GAGNES"
     },
     {
       "id": "RankingsMachine_Text_RibbonsRecordTitle",
-      "en_US": "RIBBONS"
+      "en_US": "RIBBONS",
+      "fr_FR": "RUBANS"
     },
     {
       "id": "RankingsMachine_Text_Exit",
-      "en_US": "EXIT"
+      "en_US": "EXIT",
+      "fr_FR": "SORTIR"
     },
     {
       "id": "RankingsMachine_Text_RecordEntryInfo",
-      "en_US": "{STRVAR_1 50, 0, 0}. {STRVAR_1 3, 1, 0}"
+      "en_US": "{STRVAR_1 50, 0, 0}. {STRVAR_1 3, 1, 0}",
+      "fr_FR": "{STRVAR_1 50, 0, 0}. {STRVAR_1 3, 1, 0}"
     },
     {
       "id": "RankingsMachine_Text_BattleWinsValue",
-      "en_US": "{STRVAR_1 53, 0, 0} wins"
+      "en_US": "{STRVAR_1 53, 0, 0} wins",
+      "fr_FR": "{STRVAR_1 53, 0, 0} VICTOIRE(S)"
     },
     {
       "id": "RankingsMachine_Text_AvgWinStreakValue",
-      "en_US": "{STRVAR_1 50, 0, 0} wins"
+      "en_US": "{STRVAR_1 50, 0, 0} wins",
+      "fr_FR": "{STRVAR_1 50, 0, 0} VICTOIRE(S)"
     },
     {
       "id": "RankingsMachine_Text_RibbonsValue",
-      "en_US": "{STRVAR_1 54, 0, 0}"
+      "en_US": "{STRVAR_1 54, 0, 0}",
+      "fr_FR": "{STRVAR_1 54, 0, 0}"
     },
     {
       "id": "RankingsMachine_Text_PokemonHatchedValue",
-      "en_US": "{STRVAR_1 55, 0, 0}"
+      "en_US": "{STRVAR_1 55, 0, 0}",
+      "fr_FR": "{STRVAR_1 55, 0, 0}"
     },
     {
       "id": "RankingsMachine_Text_PokemonCaughtValue",
-      "en_US": "{STRVAR_1 55, 0, 0}"
+      "en_US": "{STRVAR_1 55, 0, 0}",
+      "fr_FR": "{STRVAR_1 55, 0, 0}"
     },
     {
       "id": "RankingsMachine_Text_ContestWinPercentValue",
-      "en_US": "{STRVAR_1 52, 0, 0}%"
+      "en_US": "{STRVAR_1 52, 0, 0}%",
+      "fr_FR": "{STRVAR_1 52, 0, 0}%"
     },
     {
       "id": "RankingsMachine_Text_ContestWinsValue",
-      "en_US": "{STRVAR_1 53, 0, 0}"
+      "en_US": "{STRVAR_1 53, 0, 0}",
+      "fr_FR": "{STRVAR_1 53, 0, 0}"
     },
     {
       "id": "RankingsMachine_Text_WhichRecordWouldYouLikeToSee",
-      "en_US": "Which record would you like to see?"
+      "en_US": "Which record would you like to see?",
+      "fr_FR": "Quel record voudriez-vous afficher?"
     },
     {
       "id": "RankingsMachine_Text_SingleBattlesRecordExplanation",
       "en_US": [
         "The Battle Tower’s win-streak record\n",
         "in Single Battles."
+      ],
+      "fr_FR": [
+        "Nombre de victoires à la suite en Combat\n",
+        "Solo dans la Tour de Combat."
       ]
     },
     {
@@ -105,6 +132,10 @@
       "en_US": [
         "The Battle Tower’s win-streak record\n",
         "in Double Battles."
+      ],
+      "fr_FR": [
+        "Nombre de victoires à la suite en Combat\n",
+        "Duo dans la Tour de Combat."
       ]
     },
     {
@@ -112,6 +143,10 @@
       "en_US": [
         "The Battle Tower’s win-streak record\n",
         "in Multi Battles."
+      ],
+      "fr_FR": [
+        "Nombre de victoires à la suite en Combat\n",
+        "Multi dans la Tour de Combat."
       ]
     },
     {
@@ -119,6 +154,10 @@
       "en_US": [
         "The Battle Tower’s win-streak record\n",
         "in Link Multi Battles."
+      ],
+      "fr_FR": [
+        "Nombre de victoires à la suite en Combat\n",
+        "Multi Link dans la Tour de Combat."
       ]
     },
     {
@@ -126,6 +165,10 @@
       "en_US": [
         "The Battle Tower’s win-streak record\n",
         "in Wi-Fi Battles."
+      ],
+      "fr_FR": [
+        "Nombre de victoires à la suite en Combat\n",
+        "Wi-Fi dans la Tour de Combat."
       ]
     },
     {
@@ -133,17 +176,26 @@
       "en_US": [
         "The average win-streak record\n",
         "at the Battle Tower."
+      ],
+      "fr_FR": [
+        "Nombre moyen de victoires dans les\n",
+        "salles de la Tour de Combat."
       ]
     },
     {
       "id": "RankingsMachine_Text_PokemonDefeatedRecordExplanation",
-      "en_US": "The number of Pokémon defeated."
+      "en_US": "The number of Pokémon defeated.",
+      "fr_FR": "Nombre de Pokémon vaincus."
     },
     {
       "id": "RankingsMachine_Text_PokemonCaughtRecordExplanation",
       "en_US": [
         "The number of Pokémon caught using\n",
         "Poké Balls."
+      ],
+      "fr_FR": [
+        "Nombre de Pokémon attrapés en \n",
+        "utilisant des Poké Balls."
       ]
     },
     {
@@ -151,48 +203,69 @@
       "en_US": [
         "The number of Pokémon that were\n",
         "hatched from Eggs."
-      ]
+      ],
+      "fr_FR": "Nombre d’Oeufs éclos."
     },
     {
       "id": "RankingsMachine_Text_EncounteredWhileFishingRecordExplanation",
       "en_US": [
         "The number of Pokémon that were\n",
         "caught fishing."
-      ]
+      ],
+      "fr_FR": "Nombre de Pokémon attrapés à la pêche."
     },
     {
       "id": "RankingsMachine_Text_ContestWinsRecordExplanation",
-      "en_US": "The number of Contest wins."
+      "en_US": "The number of Contest wins.",
+      "fr_FR": "Nombre de victoires en Concours."
     },
     {
       "id": "RankingsMachine_Text_ContestWinPercentRecordExplanation",
-      "en_US": "The winning percentage of Contests."
+      "en_US": "The winning percentage of Contests.",
+      "fr_FR": [
+        "Pourcentage de victoires \n",
+        "lors des Concours."
+      ]
     },
     {
       "id": "RankingsMachine_Text_RibbonsRecordExplanation",
       "en_US": [
         "The number of Ribbons won in\n",
         "Contests."
+      ],
+      "fr_FR": [
+        "Nombre de Rubans gagnés \n",
+        "lors des Concours."
       ]
     },
     {
       "id": "RankingsMachine_Text_DeleteRecord",
-      "en_US": "DEL RECORD"
+      "en_US": "DEL RECORD",
+      "fr_FR": "EFF. RECORD"
     },
     {
       "id": "RankingsMachine_Text_SelectTheRecordYouWantToDeleteThenPressA",
       "en_US": [
         "Select the record you want to\n",
         "delete, then press the A Button."
+      ],
+      "fr_FR": [
+        "Sélectionnez le record à effacer puis \n",
+        "appuyez sur le bouton A."
       ]
     },
     {
       "id": "RankingsMachine_Text_AskDeleteThisRecord",
-      "en_US": "Delete this record?"
+      "en_US": "Delete this record?",
+      "fr_FR": "Effacer ce record?"
     },
     {
       "id": "RankingsMachine_Text_YourOwnRecordCantBeDeleted",
-      "en_US": "Your own record can’t be deleted."
+      "en_US": "Your own record can’t be deleted.",
+      "fr_FR": [
+        "Votre propre record ne \n",
+        "peut pas être effacé."
+      ]
     }
   ]
 }

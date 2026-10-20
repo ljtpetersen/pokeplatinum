@@ -77,18 +77,28 @@
             "en_US": [
                 "Look at me.\n",
                 "I’m what you should be aspiring to be."
+            ],
+            "fr_FR": [
+                "Regarde-moi. Je suis ce que tu as\n",
+                "toujours rêvé d’être."
             ]
         },
         {
             "type": "TRMSG_WIN",
-            "en_US": "You expected anything else?\r"
+            "en_US": "You expected anything else?\r",
+            "fr_FR": "Tu t’attendais à autre chose?\r"
         },
         {
             "type": "TRMSG_DEFEAT",
             "en_US": [
                 "You’ve already surpassed me.\n",
                 "But you can aim so much higher.\r"
+            ],
+            "fr_FR": [
+                "Ta puissance dépasse déjà la mienne.\n",
+                "Mais tu devrais viser encore plus haut.\r"
             ]
         }
-    ]
+    ],
+    "name_fr": "Daphné"
 }

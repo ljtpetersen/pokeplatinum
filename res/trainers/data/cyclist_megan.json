@@ -24,6 +24,11 @@
                 "Cycling feels great!\r",
                 "It will feel even better when I beat\n",
                 "you in a battle!\r"
+            ],
+            "fr_FR": [
+                "J’adore faire du vélo!\r",
+                "Mais gagner un combat de Pokémon,\n",
+                "c’est encore mieux!\r"
             ]
         },
         {
@@ -31,6 +36,10 @@
             "en_US": [
                 "Whew!\n",
                 "You worked us over.\n"
+            ],
+            "fr_FR": [
+                "Waouh!\n",
+                "Tu nous as épuisés.\n"
             ]
         },
         {
@@ -38,6 +47,10 @@
             "en_US": [
                 "I like spinning the pedals backward\n",
                 "while sailing downhill.\n"
+            ],
+            "fr_FR": [
+                "J’aime bien pédaler en arrière\n",
+                "lorsque je dévale une pente à vélo.\n"
             ]
         },
         {
@@ -46,7 +59,13 @@
                 "It feels great on my Bike!\r",
                 "I’m already sweaty, so let’s have a\n",
                 "rematch!\r"
+            ],
+            "fr_FR": [
+                "J’adore faire du vélo!\r",
+                "Cela m’a permis de me préparer\n",
+                "pour notre revanche!\r"
             ]
         }
-    ]
+    ],
+    "name_fr": "Vérona"
 }

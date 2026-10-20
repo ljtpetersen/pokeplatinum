@@ -27,5 +27,13 @@
   "fieldUseFunc": "ITEM_USE_FUNC_TM_HM",
   "battleUseCategory": "BATTLE_USE_CATEGORY_NONE",
   "itemUseParams": null,
-  "teachesMove": "MOVE_DRAIN_PUNCH"
+  "teachesMove": "MOVE_DRAIN_PUNCH",
+  "name_fr": "CT60",
+  "description_fr": [
+    "Un coup de poing qui draine l’énergie. \n",
+    "Convertit la moitié des dégâts infligés\n",
+    "en PV pour le lanceur."
+  ],
+  "plural_fr": "CT60",
+  "article_fr": null
 }

@@ -26,5 +26,12 @@
   "battlePocket": "BATTLE_POCKET_MASK_NONE",
   "fieldUseFunc": "ITEM_USE_FUNC_NONE",
   "battleUseCategory": "BATTLE_USE_CATEGORY_NONE",
-  "itemUseParams": null
+  "itemUseParams": null,
+  "name_fr": "Encens Veine",
+  "description_fr": [
+    "Objet à tenir doublant l’argent gagné si\n",
+    "le porteur se joint au combat."
+  ],
+  "plural_fr": "Encens Veine",
+  "article_fr": null
 }

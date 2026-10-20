@@ -26,5 +26,13 @@
     "contest": {
         "effect": "CONTEST_EFFECT_FINAL_PERFORMANCE_ADVANTAGE",
         "type": "CONTEST_TYPE_BEAUTY"
-    }
+    },
+    "name_fr": "Eruption",
+    "description_fr": [
+        "Le lanceur laisse\n",
+        "exploser sa colère.\n",
+        "Plus ses PV sont bas\n",
+        "et moins l’attaque est\n",
+        "puissante."
+    ]
 }

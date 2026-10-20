@@ -25,7 +25,12 @@
             "en_US": [
                 "So young, and yet so strong!\n",
                 "How very remarkable!"
+            ],
+            "fr_FR": [
+                "Si jeune et pourtant si robuste!\n",
+                "C’est remarquable!"
             ]
         }
-    ]
+    ],
+    "name_fr": "Enola"
 }

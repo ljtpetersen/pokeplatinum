@@ -27,5 +27,13 @@
     "contest": {
         "effect": "CONTEST_EFFECT_CONSECUTIVE_USE",
         "type": "CONTEST_TYPE_BEAUTY"
-    }
+    },
+    "name_fr": "Ball’Glace",
+    "description_fr": [
+        "Envoie une balle de\n",
+        "glace pendant 5\n",
+        "tours. L’attaque \n",
+        "gagne en puissance\n",
+        "à chaque coup."
+    ]
 }

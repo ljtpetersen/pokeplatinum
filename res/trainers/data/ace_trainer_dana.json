@@ -44,11 +44,16 @@
             "en_US": [
                 "You’re willing to battle?\n",
                 "Let me see what you have?\r"
+            ],
+            "fr_FR": [
+                "Tu veux te battre?\n",
+                "Montre ce que tu as dans le ventre!\r"
             ]
         },
         {
             "type": "TRMSG_DEFEAT",
-            "en_US": "Your love of Pokémon really shows!\n"
+            "en_US": "Your love of Pokémon really shows!\n",
+            "fr_FR": "Ton amour des Pokémon est flagrant!\n"
         },
         {
             "type": "TRMSG_POST_BATTLE",
@@ -57,6 +62,12 @@
                 "my team, right from my childhood.\r",
                 "All our memories, we’ve always shared\n",
                 "them.\n"
+            ],
+            "fr_FR": [
+                "J’ai grandi avec toute mon équipe, on\n",
+                "se connaît depuis l’enfance.\r",
+                "On a des tas de souvenirs en\n",
+                "commun.\n"
             ]
         },
         {
@@ -65,7 +76,13 @@
                 "Oh, hi, we meet again.\r",
                 "May I see what you’ve done with your\n",
                 "Pokémon?\r"
+            ],
+            "fr_FR": [
+                "Oh, salut, comme on se retrouve!\r",
+                "J’aimerais bien voir comment tu as\n",
+                "progressé.\r"
             ]
         }
-    ]
+    ],
+    "name_fr": "Cassandra"
 }

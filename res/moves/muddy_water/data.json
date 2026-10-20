@@ -26,5 +26,13 @@
     "contest": {
         "effect": "CONTEST_EFFECT_FINAL_PERFORMANCE_ADVANTAGE",
         "type": "CONTEST_TYPE_TOUGH"
-    }
+    },
+    "name_fr": "Ocroupi",
+    "description_fr": [
+        "Le lanceur attaque en\n",
+        "projetant de l’eau\n",
+        "boueuse. Peut aussi\n",
+        "réduire la précision\n",
+        "de l’ennemi."
+    ]
 }

@@ -58,6 +58,10 @@
             "en_US": [
                 "Ace Trainers always work to improve\n",
                 "their natural-born talents.\r"
+            ],
+            "fr_FR": [
+                "Les Topdresseurs s’entraînent sans \n",
+                "cesse pour améliorer leur don naturel.\r"
             ]
         },
         {
@@ -65,7 +69,12 @@
             "en_US": [
                 "I see...\n",
                 "I have to concede defeat.\n"
+            ],
+            "fr_FR": [
+                "Je vois...\n",
+                "Je dois m’avouer vaincue.\n"
             ]
         }
-    ]
+    ],
+    "name_fr": "Valéria"
 }

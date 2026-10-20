@@ -35,6 +35,10 @@
             "en_US": [
                 "See it! Hear it! Smell it!\n",
                 "Marvel at my power!"
+            ],
+            "fr_FR": [
+                "Ecoute! Regarde! Respire!\n",
+                "Tremble devant ma puissance!"
             ]
         },
         {
@@ -42,6 +46,10 @@
             "en_US": [
                 "That’s right! Use all your senses and\n",
                 "realize what you were up against!\r"
+            ],
+            "fr_FR": [
+                "Utilise tous tes sens pour évaluer\n",
+                "la puissance de ton adversaire.\r"
             ]
         },
         {
@@ -49,7 +57,12 @@
             "en_US": [
                 "I didn’t see anything! I’m not\n",
                 "listening! And I don’t smell a thing!\r"
+            ],
+            "fr_FR": [
+                "Moi, je n’ai rien vu, rien entendu,\n",
+                "mais j’ai tout perdu...\r"
             ]
         }
-    ]
+    ],
+    "name_fr": "Eliott"
 }

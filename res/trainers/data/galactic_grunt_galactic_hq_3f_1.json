@@ -25,6 +25,12 @@
                 "changing times!\r",
                 "Stand aside and let Team Galactic\n",
                 "shape the future!\r"
+            ],
+            "fr_FR": [
+                "Tu es trop jeune pour comprendre\n",
+                "ce qui se passe!\r",
+                "Rentre chez toi et laisse la Team\n",
+                "Galaxie créer un avenir meilleur!\r"
             ]
         },
         {
@@ -32,6 +38,10 @@
             "en_US": [
                 "I failed to read the flow of battle, and\n",
                 "your power was unfathomable...\n"
+            ],
+            "fr_FR": [
+                "Que... que s’est-il passé? Je crois que\n",
+                "ta puissance me dépasse.\n"
             ]
         },
         {
@@ -41,7 +51,14 @@
                 "the battle.\r",
                 "You need to read the dramatic situation\n",
                 "better here!\n"
+            ],
+            "fr_FR": [
+                "En tout cas, ma réplique avant notre\n",
+                "combat était super, non?\r",
+                "J’aime créer une atmosphère\n",
+                "dramatique dans le QG!\n"
             ]
         }
-    ]
+    ],
+    "name_fr": "Sbire"
 }

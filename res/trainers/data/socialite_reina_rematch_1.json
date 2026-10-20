@@ -26,6 +26,11 @@
                 "Oh, it’s you again, dear?\r",
                 "It makes me a little nervous, but\n",
                 "may I have a rematch?\r"
+            ],
+            "fr_FR": [
+                "Oh, encore toi, trésor?\r",
+                "Ça me rend nerveuse de te demander ça,\n",
+                "mais m’accorderais-tu une revanche?\r"
             ]
         },
         {
@@ -33,7 +38,12 @@
             "en_US": [
                 "Oh, dear... This isn’t anything like\n",
                 "battling with my friends.\n"
+            ],
+            "fr_FR": [
+                "Oh, trésor... Je n’avais jamais \n",
+                "combattu comme ça avec mes amis.\n"
             ]
         }
-    ]
+    ],
+    "name_fr": "Irène"
 }

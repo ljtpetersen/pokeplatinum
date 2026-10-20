@@ -26,5 +26,12 @@
   "battlePocket": "BATTLE_POCKET_MASK_POKE_BALLS",
   "fieldUseFunc": "ITEM_USE_FUNC_NONE",
   "battleUseCategory": "BATTLE_USE_CATEGORY_POKE_BALL",
-  "itemUseParams": null
+  "itemUseParams": null,
+  "name_fr": "Mémoire Ball",
+  "description_fr": [
+    "Une Poké Ball plutôt rare qui fut créée\n",
+    "pour une occasion spéciale."
+  ],
+  "plural_fr": "Mémoire Ball",
+  "article_fr": null
 }

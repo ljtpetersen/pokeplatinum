@@ -39,5 +39,13 @@
     "bitterness": 0,
     "sourness": 30,
     "smoothness": 40
-  }
+  },
+  "name_fr": "Baie Abriko",
+  "description_fr": [
+    "Ingrédient pour Poffin.\n",
+    "Tenue, cette Baie monte la Déf. Spé. si\n",
+    "nécessaire."
+  ],
+  "plural_fr": "Baie Abriko",
+  "article_fr": null
 }

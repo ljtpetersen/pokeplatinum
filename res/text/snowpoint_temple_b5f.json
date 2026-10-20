@@ -13,6 +13,16 @@
         "A body of steel.\r",
         "When gathers the three Pokémon,\n",
         "the king shall appear."
+      ],
+      "fr_FR": [
+        "C’est une statue de Pokémon.\n",
+        "Elle diffuse un pouvoir étrange...\r",
+        "{STRVAR_1 3, 0, 0} lit l’inscription gravée...\r",
+        "Un corps de roche.\r",
+        "Un corps de glace.\r",
+        "Un corps d’acier.\r",
+        "Lorsque les trois Pokémon seront\n",
+        "rassemblés, le roi apparaîtra."
       ]
     },
     {
@@ -29,15 +39,29 @@
         "the king shall appear.\r",
         "...\n",
         "...\r"
+      ],
+      "fr_FR": [
+        "C’est une statue de Pokémon.\n",
+        "Elle diffuse un pouvoir étrange...\r",
+        "{STRVAR_1 3, 0, 0} lit l’inscription gravée...\r",
+        "Un corps de roche.\r",
+        "Un corps de glace.\r",
+        "Un corps d’acier.\r",
+        "Lorsque les trois Pokémon seront\n",
+        "rassemblés, le roi apparaîtra.\r",
+        "...\n",
+        "...\r"
       ]
     },
     {
       "id": "SnowpointTempleB5F_Text_RegigigasCry",
-      "en_US": "...Zut zutt!\r"
+      "en_US": "...Zut zutt!\r",
+      "fr_FR": "... Gigas gigas!\r"
     },
     {
       "id": "SnowpointTempleB5F_Text_RegigigasDisappeared",
-      "en_US": "REGIGIGAS disappeared from view..."
+      "en_US": "REGIGIGAS disappeared from view...",
+      "fr_FR": "REGIGIGAS a disparu..."
     }
   ]
 }

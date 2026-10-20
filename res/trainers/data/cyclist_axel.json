@@ -23,11 +23,16 @@
             "en_US": [
                 "Yo! Cycling and Pokémon!\n",
                 "Which do you prefer?\r"
+            ],
+            "fr_FR": [
+                "Salut! Dis, entre le vélo et les\n",
+                "Pokémon... tu préfères quoi?\r"
             ]
         },
         {
             "type": "TRMSG_DEFEAT",
-            "en_US": "Hey, not bad, you!\n"
+            "en_US": "Hey, not bad, you!\n",
+            "fr_FR": "Eh, plutôt pas mal!\n"
         },
         {
             "type": "TRMSG_POST_BATTLE",
@@ -35,6 +40,11 @@
                 "This Cycling Road is one fine place--\n",
                 "great bikes, superb Pokémon,\f",
                 "and awesome Trainers all around!\n"
+            ],
+            "fr_FR": [
+                "J’adore la Piste Cyclable! On y voit des\n",
+                "vélos magnifiques, des Pokémon\f",
+                "superbes et des Dresseurs géniaux!"
             ]
         },
         {
@@ -42,7 +52,12 @@
             "en_US": [
                 "I’m sure I’ve seen your face before.\n",
                 "Did we maybe battle?\r"
+            ],
+            "fr_FR": [
+                "Je suis sûr que nous nous sommes déjà \n",
+                "rencontrés. Lors d’un combat, non?\r"
             ]
         }
-    ]
+    ],
+    "name_fr": "Vassili"
 }

@@ -89,6 +89,10 @@
             "en_US": [
                 "If we turn it around here, the\n",
                 "spectators will be stoked!\n"
+            ],
+            "fr_FR": [
+                "Je ne m’avouerai pas vaincu! Je ne\n",
+                "peux pas décevoir mon public!\n"
             ]
         },
         {
@@ -96,7 +100,12 @@
             "en_US": [
                 "That puts a grin on my face!\n",
                 "Guhahaha! That was a blast!\n"
+            ],
+            "fr_FR": [
+                "Har, har, har! C’était un régal!\n",
+                "Merci pour ce combat!\n"
             ]
         }
-    ]
+    ],
+    "name_fr": "Lovis"
 }

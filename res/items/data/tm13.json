@@ -27,5 +27,12 @@
   "fieldUseFunc": "ITEM_USE_FUNC_TM_HM",
   "battleUseCategory": "BATTLE_USE_CATEGORY_NONE",
   "itemUseParams": null,
-  "teachesMove": "MOVE_ICE_BEAM"
+  "teachesMove": "MOVE_ICE_BEAM",
+  "name_fr": "CT13",
+  "description_fr": [
+    "Un rayon de glace frappe l’ennemi.\n",
+    "Peut aussi le geler."
+  ],
+  "plural_fr": "CT13",
+  "article_fr": null
 }

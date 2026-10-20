@@ -26,5 +26,13 @@
     "contest": {
         "effect": "CONTEST_EFFECT_FIRST_PERFORMANCE_ADVANTAGE",
         "type": "CONTEST_TYPE_COOL"
-    }
+    },
+    "name_fr": "Vibrobscur",
+    "description_fr": [
+        "Le lanceur dégage une\n",
+        "horrible aura chargée\n",
+        "d’idées noires. Peut\n",
+        "aussi apeurer\n",
+        "l’ennemi."
+    ]
 }

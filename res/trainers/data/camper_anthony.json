@@ -25,6 +25,10 @@
             "en_US": [
                 "Go for it, my Pokémon!\n",
                 "I’ll do my best, too!\r"
+            ],
+            "fr_FR": [
+                "En avant, mon Pokémon! \n",
+                "Faisons de notre mieux!\r"
             ]
         },
         {
@@ -32,6 +36,10 @@
             "en_US": [
                 "Oh...\n",
                 "We lost...\n"
+            ],
+            "fr_FR": [
+                "Oh...\n",
+                "On a perdu...\n"
             ]
         },
         {
@@ -40,6 +48,13 @@
                 "Dig for Fossils in the Underground.\r",
                 "The mining museum might be able to\n",
                 "bring back the ancient Pokémon!\n"
+            ],
+            "fr_FR": [
+                "Essaie de trouver des Fossiles dans\n",
+                "le Souterrain.\r",
+                "Tu pourrais demander au Musée Minier\n",
+                "d’essayer de reconstituer un Pokémon\f",
+                "aujourd’hui disparu!"
             ]
         },
         {
@@ -47,7 +62,12 @@
             "en_US": [
                 "Go for it, my Pokémon!\n",
                 "I’ll do more than my best this time!\r"
+            ],
+            "fr_FR": [
+                "En avant, mon Pokémon! Je vais faire \n",
+                "encore mieux que la dernière fois!\r"
             ]
         }
-    ]
+    ],
+    "name_fr": "Gérard"
 }

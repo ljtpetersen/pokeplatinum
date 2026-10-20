@@ -26,5 +26,12 @@
   "battlePocket": "BATTLE_POCKET_MASK_NONE",
   "fieldUseFunc": "ITEM_USE_FUNC_NONE",
   "battleUseCategory": "BATTLE_USE_CATEGORY_NONE",
-  "itemUseParams": null
+  "itemUseParams": null,
+  "name_fr": "Grosseracine",
+  "description_fr": [
+    "Objet à tenir augmentant la puissance\n",
+    "des attaques volant des PV."
+  ],
+  "plural_fr": "Grosseracine",
+  "article_fr": null
 }

@@ -25,6 +25,10 @@
             "en_US": [
                 "To celebrate my getting through this\n",
                 "cave, I’m going to battle you!\r"
+            ],
+            "fr_FR": [
+                "Je vais te combattre pour célébrer ma\n",
+                "traversée de cette grotte!\r"
             ]
         },
         {
@@ -32,6 +36,10 @@
             "en_US": [
                 "Well, I guess losing is something\n",
                 "to commemorate, too...\n"
+            ],
+            "fr_FR": [
+                "Eh bien, j’imagine qu’on peut aussi\n",
+                "célébrer une défaite...\n"
             ]
         },
         {
@@ -39,7 +47,12 @@
             "en_US": [
                 "Getting through that cave feels\n",
                 "like an adventure.\n"
+            ],
+            "fr_FR": [
+                "En traversant cette grotte, j’ai\n",
+                "l’impression de vivre une aventure.\n"
             ]
         }
-    ]
+    ],
+    "name_fr": "Séléna"
 }

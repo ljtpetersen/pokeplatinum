@@ -26,5 +26,13 @@
   "battlePocket": "BATTLE_POCKET_MASK_NONE",
   "fieldUseFunc": "ITEM_USE_FUNC_BAG_MESSAGE",
   "battleUseCategory": "BATTLE_USE_CATEGORY_NONE",
-  "itemUseParams": {}
+  "itemUseParams": {},
+  "name_fr": "Flûteblanche",
+  "description_fr": [
+    "Une flûte en verre soufflé blanc dont\n",
+    "les notes attirent les Pokémon\n",
+    "sauvages."
+  ],
+  "plural_fr": "Flûteblanche",
+  "article_fr": null
 }

@@ -32,18 +32,29 @@
             "en_US": [
                 "The sharp vision of my bird Pokémon\n",
                 "will see through your weaknesses!\r"
+            ],
+            "fr_FR": [
+                "Le regard d’aigle de mes Pokémon\n",
+                "Oiseaux découvrira toutes tes\f",
+                "faiblesses!\r"
             ]
         },
         {
             "type": "TRMSG_DEFEAT",
-            "en_US": "Don’t you have an Achilles’ heel?"
+            "en_US": "Don’t you have an Achilles’ heel?",
+            "fr_FR": "Tu n’as pas de talon d’Achille?"
         },
         {
             "type": "TRMSG_POST_BATTLE",
             "en_US": [
                 "I want to become stronger, but only\n",
                 "with my favorite Pokémon.\n"
+            ],
+            "fr_FR": [
+                "Je veux devenir plus forte, mais\n",
+                "seulement avec mes Pokémon préférés.\n"
             ]
         }
-    ]
+    ],
+    "name_fr": "Marine"
 }

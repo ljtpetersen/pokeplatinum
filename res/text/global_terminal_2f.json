@@ -8,6 +8,12 @@
         "Why are there only shots of Pokémon?\r",
         "Why aren’t there any shots of ladies?\n",
         "I call discrimination!"
+      ],
+      "fr_FR": [
+        "C’est scandaleux! Pourquoi n’y a-t-il\n",
+        "que des photos de Pokémon?\r",
+        "Pourquoi pas des clichés de femmes?\n",
+        "C’est de la discrimination!"
       ]
     },
     {
@@ -19,6 +25,14 @@
         "rather not have others know about.\r",
         "...Ignoring the fact that me being here\n",
         "is a surefire giveaway."
+      ],
+      "fr_FR": [
+        "Jeter un coup d’œil aux Boîtes des\n",
+        "autres me remplit d’une délicieuse\f",
+        "culpabilité.\r",
+        "Mais je préférerais que ça reste\n",
+        "un secret.\r",
+        "Je vais faire comme si j’étais invisible."
       ]
     },
     {
@@ -32,6 +46,16 @@
         "say. It would sound like bragging.\r",
         "If you really must know, you can always\n",
         "find out yourself."
+      ],
+      "fr_FR": [
+        "Tu le savais?\n",
+        "Je parle de ma Boîte du PC...\r",
+        "Elle est pleine à craquer de Pokémon\n",
+        "très recherchés, comme...\r",
+        "Non, je ne voudrais pas avoir l’air de\n",
+        "me vanter...\r",
+        "Si tu veux vraiment savoir, tu devras\n",
+        "le découvrir par toi-même."
       ]
     },
     {
@@ -41,6 +65,12 @@
         "people’s Dress-Up Data.\r",
         "For me, it’s like the first step to\n",
         "fashion!"
+      ],
+      "fr_FR": [
+        "Je viens tous les jours consulter\n",
+        "les Clichés habillage des autres.\r",
+        "Pour moi, c’est une manière de rester\n",
+        "à la mode!"
       ]
     },
     {
@@ -48,6 +78,10 @@
       "en_US": [
         "Oh, dear me! Gracious!\n",
         "This is almost scandalous!"
+      ],
+      "fr_FR": [
+        "Oh là là! Incroyable!\n",
+        "C’en est presque scandaleux!"
       ]
     },
     {
@@ -57,6 +91,12 @@
         "those Accessories...\r",
         "It was so stunningly wonderful, I feel\n",
         "as if I’ve been zapped!"
+      ],
+      "fr_FR": [
+        "Ce Pokémon et ces Accessoires\n",
+        "se marient à merveille...\r",
+        "C’est d’une telle magnificence que j’ai\n",
+        "l’impression d’avoir été foudroyée!"
       ]
     },
     {
@@ -66,6 +106,12 @@
         "entirely different impressions.\r",
         "It really depends on where and how\n",
         "it’s used."
+      ],
+      "fr_FR": [
+        "Un même Accessoire peut créer des\n",
+        "effets complètement différents.\r",
+        "Tout dépend de la façon dont on le\n",
+        "place."
       ]
     },
     {
@@ -73,6 +119,10 @@
       "en_US": [
         "I got a Backdrop from a nice lady\n",
         "downstairs. For free!"
+      ],
+      "fr_FR": [
+        "Une gentille dame m’a donné un Décor,\n",
+        "en bas! Gratuitement!"
       ]
     },
     {
@@ -81,6 +131,11 @@
         "What I like to do...\r",
         "I like sneaking glances at the people\n",
         "checking out Dress-Up Data."
+      ],
+      "fr_FR": [
+        "Ce que j’aime faire...\r",
+        "Observer les gens qui viennent\n",
+        "consulter les Clichés habillage."
       ]
     },
     {
@@ -88,17 +143,29 @@
       "en_US": [
         "Warps to the GTS and the Trainer\n",
         "Rankings on 1F."
+      ],
+      "fr_FR": [
+        "Vers la GTS et le Classement des\n",
+        "Dresseurs au rez-de-chaussée."
       ]
     },
     {
       "id": "GlobalTerminal2F_Text_WarpsTo3F",
-      "en_US": "Warps to the Battle Video Gallery on 3F."
+      "en_US": "Warps to the Battle Video Gallery on 3F.",
+      "fr_FR": [
+        "Vers la galerie des Vidéos de combat au\n",
+        "deuxième étage."
+      ]
     },
     {
       "id": "GlobalTerminal2F_Text_ConnectForDressUpData",
       "en_US": [
         "Connect to Nintendo Wi-Fi Connection\n",
         "to view and post Dress-Up Data?"
+      ],
+      "fr_FR": [
+        "Se connecter à la CWF Nintendo pour\n",
+        "voir ou diffuser des Clichés habillage?"
       ]
     },
     {
@@ -112,6 +179,17 @@
         "Trainers may also be viewed here.\r",
         "The data may be sorted by Pokémon\n",
         "for convenient viewing.\r"
+      ],
+      "fr_FR": [
+        "Ici, vous pouvez diffuser les Clichés\n",
+        "habillage de vos Pokémon.\r",
+        "Rendez-vous au premier étage des\n",
+        "locaux de Féli-Télé pour réaliser et\f",
+        "sauvegarder des Clichés habillage.\r",
+        "Vous pouvez aussi voir ceux diffusés\n",
+        "par d’autres Dresseurs.\r",
+        "Pour faciliter la recherche, les clichés\n",
+        "sont classés par type de Pokémon.\r"
       ]
     },
     {
@@ -119,6 +197,10 @@
       "en_US": [
         "Connect to Nintendo Wi-Fi Connection\n",
         "to view and post Box Data?"
+      ],
+      "fr_FR": [
+        "Se connecter à la CWF Nintendo pour\n",
+        "voir ou diffuser des Clichés Boîte?"
       ]
     },
     {
@@ -132,19 +214,32 @@
         "Trainers to see.\r",
         "The Box Data posted by other Trainers\n",
         "may also be viewed here.\r"
+      ],
+      "fr_FR": [
+        "Ici, vous pouvez diffuser des Clichés\n",
+        "Boîte montrant vos Pokémon.\r",
+        "Choisissez un fond, puis disposez vos\n",
+        "Pokémon.\r",
+        "Ensuite, diffusez-le pour en faire\n",
+        "profiter les autres Dresseurs.\r",
+        "Vous pouvez aussi consulter les Clichés\n",
+        "Boîte des autres Dresseurs ici.\r"
       ]
     },
     {
       "id": "GlobalTerminal2F_Text_Use",
-      "en_US": "USE"
+      "en_US": "USE",
+      "fr_FR": "CONNEX."
     },
     {
       "id": "GlobalTerminal2F_Text_Info",
-      "en_US": "INFO"
+      "en_US": "INFO",
+      "fr_FR": "INFOS"
     },
     {
       "id": "GlobalTerminal2F_Text_Cancel",
-      "en_US": "CANCEL"
+      "en_US": "CANCEL",
+      "fr_FR": "ANNULER"
     }
   ]
 }

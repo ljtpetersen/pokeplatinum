@@ -59,6 +59,10 @@
             "en_US": [
                 "My Pokémon are my treasures.\n",
                 "I’ll let you see them. Just you."
+            ],
+            "fr_FR": [
+                "Les Pokémon sont nos amis!\n",
+                "Observe le pouvoir de l’amitié!"
             ]
         },
         {
@@ -66,14 +70,20 @@
             "en_US": [
                 "See? Cute and strong!\n",
                 "Eheheheh.\r"
-            ]
+            ],
+            "fr_FR": "Tu vois? C’est le pouvoir de l’amitié!\r"
         },
         {
             "type": "TRMSG_DEFEAT",
             "en_US": [
                 "See? They’re cute even when losing.\n",
                 "Eheheheh.\r"
+            ],
+            "fr_FR": [
+                "Tu vois? Le pouvoir de l’amitié\n",
+                "rend la défaite supportable!\r"
             ]
         }
-    ]
+    ],
+    "name_fr": "Marcia"
 }

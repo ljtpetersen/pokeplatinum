@@ -26,5 +26,13 @@
   "battlePocket": "BATTLE_POCKET_MASK_NONE",
   "fieldUseFunc": "ITEM_USE_FUNC_EVO_STONE",
   "battleUseCategory": "BATTLE_USE_CATEGORY_NONE",
-  "itemUseParams": {}
+  "itemUseParams": {},
+  "name_fr": "Pierre Eclat",
+  "description_fr": [
+    "Pierre étrange qui fait évoluer\n",
+    "certaines espèces de Pokémon. Elle\n",
+    "brille d’une lumière aveuglante."
+  ],
+  "plural_fr": "Pierre Eclat",
+  "article_fr": null
 }

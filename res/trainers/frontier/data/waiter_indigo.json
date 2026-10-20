@@ -85,6 +85,10 @@
             "en_US": [
                 "Work is fun, and Pokémon also.\n",
                 "I am happy I come to this country."
+            ],
+            "fr_FR": [
+                "J’adore mon travail et j’adore les\n",
+                "Pokémon. La vie est belle!"
             ]
         },
         {
@@ -92,6 +96,10 @@
             "en_US": [
                 "Having fun I am!\n",
                 "I hoping to live here forever.\r"
+            ],
+            "fr_FR": [
+                "Tout va pour le mieux!\n",
+                "J’ai vraiment beaucoup de chance.\r"
             ]
         },
         {
@@ -99,7 +107,12 @@
             "en_US": [
                 "Oh, why you beat me? So mean!\n",
                 "I want go home to my country.\r"
+            ],
+            "fr_FR": [
+                "Oh! Tu as gagné? Pff!\n",
+                "Ma bonne humeur s’est envolée!\r"
             ]
         }
-    ]
+    ],
+    "name_fr": "Ivan"
 }

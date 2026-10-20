@@ -65,6 +65,10 @@
             "en_US": [
                 "I was looking forward to a battle with\n",
                 "you!"
+            ],
+            "fr_FR": [
+                "J’attendais avec impatience l’occasion\n",
+                "de t’affronter!"
             ]
         },
         {
@@ -72,6 +76,10 @@
             "en_US": [
                 "I was right! You are pretty decent.\n",
                 "Why not become an Ace Trainer?\r"
+            ],
+            "fr_FR": [
+                "J’en étais sûre! Tu as du talent.\n",
+                "Tu devrais devenir Topdresseur.\r"
             ]
         },
         {
@@ -79,7 +87,12 @@
             "en_US": [
                 "You’re as good as the rumors say...\n",
                 "May I have a rematch one day?\r"
+            ],
+            "fr_FR": [
+                "Ta réputation est fondée, on dirait.\n",
+                "J’espère qu’on s’affrontera à nouveau.\r"
             ]
         }
-    ]
+    ],
+    "name_fr": "Chiara"
 }

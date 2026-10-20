@@ -27,5 +27,13 @@
     "contest": {
         "effect": "CONTEST_EFFECT_FINAL_PERFORMANCE_ADVANTAGE",
         "type": "CONTEST_TYPE_TOUGH"
-    }
+    },
+    "name_fr": "Tête de Fer",
+    "description_fr": [
+        "Le lanceur heurte\n",
+        "l’ennemi avec sa tête\n",
+        "dure comme de l’acier.\n",
+        "Peut aussi apeurer\n",
+        "l’ennemi."
+    ]
 }

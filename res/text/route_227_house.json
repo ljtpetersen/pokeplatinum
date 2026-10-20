@@ -8,6 +8,12 @@
         "tired?\r",
         "You should rest up.\n",
         "Yes, good idea! Rest up here!"
+      ],
+      "fr_FR": [
+        "Oh, quelle fière équipe! Mais\n",
+        "vous semblez épuisés!\r",
+        "Si tu veux, tu peux te reposer \n",
+        "ici. Bonne idée, non?"
       ]
     },
     {
@@ -15,6 +21,10 @@
       "en_US": [
         "Yes, yes, that’s right.\n",
         "Get some well-earned rest.\r"
+      ],
+      "fr_FR": [
+        "Voilà qui est sage! Tu as bien \n",
+        "mérité un peu de repos.\r"
       ]
     },
     {
@@ -24,6 +34,12 @@
         "You’re still needing rest, are you?\r",
         "You should rest up again.\n",
         "Yes, good idea! Rest up here!"
+      ],
+      "fr_FR": [
+        "Oh, pauvre Dresseur! Cette route\n",
+        "était vraiment épuisante, pas vrai?\r",
+        "Si tu veux, tu peux te reposer\n",
+        "encore un peu. Bonne idée, non?"
       ]
     },
     {
@@ -33,6 +49,11 @@
         "You’re sure now?\r",
         "I’m only concerned for your sake. No\n",
         "need to worry about putting me out!"
+      ],
+      "fr_FR": [
+        "Vraiment? C’est ton dernier mot?\r",
+        "Ça te ferait du bien, tu sais? Et ça me \n",
+        "ferait plaisir si tu acceptais."
       ]
     }
   ]

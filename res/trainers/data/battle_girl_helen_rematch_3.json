@@ -34,6 +34,11 @@
                 "What took you so long?\n",
                 "We’ve waited here a long time for\f",
                 "a rematch with you!\r"
+            ],
+            "fr_FR": [
+                "Qu’est-ce qui t’a pris aussi longtemps?\n",
+                "Ça fait un bail qu’on attend ici pour\f",
+                "prendre notre revanche!\r"
             ]
         },
         {
@@ -41,7 +46,12 @@
             "en_US": [
                 "No way! Give us another battle!\n",
                 "...Oh, right. I’m out of Pokémon.\n"
+            ],
+            "fr_FR": [
+                "Pas possible! Faisons un autre combat!\n",
+                "... Oh, mince. Je n’ai plus de Pokémon.\n"
             ]
         }
-    ]
+    ],
+    "name_fr": "Jennifer"
 }

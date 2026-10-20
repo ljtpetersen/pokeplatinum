@@ -34,6 +34,10 @@
             "en_US": [
                 "Yeah, I like to camp! So what?\n",
                 "Let’s battle!\r"
+            ],
+            "fr_FR": [
+                "Ouais, j’aime le camping! Et alors?\n",
+                "Battons-nous!\r"
             ]
         },
         {
@@ -41,14 +45,20 @@
             "en_US": [
                 "I should’ve just stuck to\n",
                 "camping out here...\n"
-            ]
+            ],
+            "fr_FR": "J’aurais dû m’en tenir au camping...\n"
         },
         {
             "type": "TRMSG_POST_BATTLE",
             "en_US": [
                 "When I’m with my Pokémon, I can camp\n",
                 "just about anywhere I want!\n"
+            ],
+            "fr_FR": [
+                "Quand je suis avec mes Pokémon, je peux\n",
+                "camper où je veux!\n"
             ]
         }
-    ]
+    ],
+    "name_fr": "Dorian"
 }

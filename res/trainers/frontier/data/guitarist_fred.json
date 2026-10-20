@@ -57,6 +57,10 @@
             "en_US": [
                 "Rock? Samba? Traditional folk?\n",
                 "I can play in any style. It’s all good!"
+            ],
+            "fr_FR": [
+                "Rock? Samba? Country? Je peux tout\n",
+                "jouer! Ouvre grand les oreilles!"
             ]
         },
         {
@@ -64,6 +68,10 @@
             "en_US": [
                 "Music and Pokémon uplift me!\n",
                 "I’m carried up among the stars!\r"
+            ],
+            "fr_FR": [
+                "Musique et Pokémon jusqu’au bout de\n",
+                "la nuit! Voilà la belle vie!\r"
             ]
         },
         {
@@ -71,7 +79,12 @@
             "en_US": [
                 "Sigh... I’m seeing stars...\n",
                 "You’ve got me singing the blues...\r"
+            ],
+            "fr_FR": [
+                "Bah, je n’ai plus la pêche. Je crois\n",
+                "que je vais jouer du blues, plutôt.\r"
             ]
         }
-    ]
+    ],
+    "name_fr": "Falco"
 }

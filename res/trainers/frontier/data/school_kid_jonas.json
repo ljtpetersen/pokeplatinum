@@ -59,6 +59,10 @@
             "en_US": [
                 "Exam season’s coming up, but I’m\n",
                 "neck-deep in battling..."
+            ],
+            "fr_FR": [
+                "Demain, j’ai un contrôle de maths,\n",
+                "mais j’ai le temps de faire un combat."
             ]
         },
         {
@@ -66,6 +70,10 @@
             "en_US": [
                 "Mom’s going to cut me off.\n",
                 "I just know it...\r"
+            ],
+            "fr_FR": [
+                "Au fait, ne dis pas à ma mère\n",
+                "que tu m’as vu aujourd’hui...\r"
             ]
         },
         {
@@ -73,7 +81,12 @@
             "en_US": [
                 "I have to keep up on both my studying\n",
                 "and Pokémon...\r"
+            ],
+            "fr_FR": [
+                "Je vais devoir travailler plus dur,\n",
+                "pour mon contrôle et pour les combats.\r"
             ]
         }
-    ]
+    ],
+    "name_fr": "Nono"
 }

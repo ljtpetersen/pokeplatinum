@@ -14,6 +14,18 @@
         "PACHIRISU,{CURSOR_X 70}HAPPINY,{CURSOR_X 140}BUNEARY,\f",
         "and DRIFLOON!\r",
         "Please do come back with one!\r"
+      ],
+      "fr_FR": [
+        "Au Square Paisible, vous pouvez vous\n",
+        "promener avec un Pokémon gracieux.\r",
+        "Les Pokémon autorisés sont: \n",
+        "TORTIPOUSS, {CURSOR_X 70}BOSKARA, {CURSOR_X 140}TORTERRA,\f",
+        "OUISTICRAM, {CURSOR_X 70}CHIMPENFEU, {CURSOR_X 140}SIMIABRAZ,\f",
+        "TIPLOUF, {CURSOR_X 70}PRINPLOUF, {CURSOR_X 140}PINGOLEON,\f",
+        "PIKACHU, {CURSOR_X 70}MELOFEE, {CURSOR_X 140}PSYKOKWAK,\f",
+        "PACHIRISU, {CURSOR_X 70}PTIRAVI, {CURSOR_X 140}LAPOREILLE,\f",
+        "et BAUDRIVE!\r",
+        "Revenez avec l’un d’entre eux!\r"
       ]
     },
     {
@@ -30,6 +42,19 @@
         "DRIFLOON,{CURSOR_X 70}JIGGLYPUFF,{CURSOR_X 140}TORCHIC,\f",
         "SKITTY,{CURSOR_X 70}and SHROOMISH!\r",
         "Please do come back with one!\r"
+      ],
+      "fr_FR": [
+        "Au Square Paisible, vous pouvez vous\n",
+        "promener avec un Pokémon gracieux.\r",
+        "Les Pokémon autorisés sont: \n",
+        "TORTIPOUSS, {CURSOR_X 70}BOSKARA, {CURSOR_X 140}TORTERRA,\f",
+        "OUISTICRAM, {CURSOR_X 70}CHIMPENFEU, {CURSOR_X 140}SIMIABRAZ,\f",
+        "TIPLOUF, {CURSOR_X 70}PRINPLOUF, {CURSOR_X 140}PINGOLEON,\f",
+        "PIKACHU, {CURSOR_X 70}MELOFEE, {CURSOR_X 140}PSYKOKWAK,\f",
+        "PACHIRISU, {CURSOR_X 70}PTIRAVI, {CURSOR_X 140}LAPOREILLE,\f",
+        "BAUDRIVE, {CURSOR_X 70}RONDOUDOU, {CURSOR_X 140}POUSSIFEU,\f",
+        "SKITTY{CURSOR_X 70} et BALIGNON!\r",
+        "Revenez avec l’un d’entre eux!\r"
       ]
     },
     {
@@ -39,6 +64,12 @@
         "a stroll with a cute Pokémon.\r",
         "OK? Would you like to go for\n",
         "a stroll with your {STRVAR_1 1, 0, 0}?"
+      ],
+      "fr_FR": [
+        "Au Square Paisible, vous pouvez vous\n",
+        "promener avec un Pokémon gracieux.\r",
+        "Compris? Voulez-vous vous promener\n",
+        "avec votre {STRVAR_1 1, 0, 0}?"
       ]
     },
     {
@@ -46,6 +77,10 @@
       "en_US": [
         "Please do enjoy your time together,\n",
         "just the two of you! OK?\r"
+      ],
+      "fr_FR": [
+        "S’il vous plaît, profitez bien de votre\n",
+        "temps ensemble, vous deux! Compris?\r"
       ]
     },
     {
@@ -53,6 +88,10 @@
       "en_US": [
         "Oh, OK? Then you would rather go\n",
         "for a stroll with your {STRVAR_1 1, 0, 0}?"
+      ],
+      "fr_FR": [
+        "Hum? Dans ce cas, voulez-vous vous\n",
+        "promener avec votre {STRVAR_1 1, 0, 0}?"
       ]
     },
     {
@@ -60,6 +99,10 @@
       "en_US": [
         "I see. Please come back if you happen\n",
         "to have a change of heart. OK?\r"
+      ],
+      "fr_FR": [
+        "Je vois. N’hésitez pas à revenir si\n",
+        "jamais vous changez d’avis. Compris?\r"
       ]
     },
     {
@@ -67,6 +110,10 @@
       "en_US": [
         "Are you feeling refreshed?\n",
         "Please come again! OK?\r"
+      ],
+      "fr_FR": [
+        "C’est bon, c’était rafraîchissant?\n",
+        "Revenez quand vous voulez! Compris?\r"
       ]
     },
     {
@@ -75,6 +122,11 @@
         "Your {STRVAR_1 1, 0, 0} looks quite pleased\n",
         "following you around.\r",
         "It really is adorable!"
+      ],
+      "fr_FR": [
+        "Votre {STRVAR_1 1, 0, 0} a l’air ravi de\n",
+        "vous emboîter le pas.\r",
+        "Il est vraiment adorable!"
       ]
     },
     {
@@ -85,6 +137,13 @@
         "the grounds.\r",
         "Seeing Trainers with their Pokémon\n",
         "makes our owner happy."
+      ],
+      "fr_FR": [
+        "Hum? Le propriétaire du Square Paisible?\r",
+        "Je pense qu’il est quelque part\n",
+        "dans les environs.\r",
+        "Il est toujours ravi de voir des\n",
+        "Dresseurs avec les Pokémon."
       ]
     },
     {
@@ -95,6 +154,14 @@
         "Your Pokémon may find them.\r",
         "You should try talking to your\n",
         "Pokémon every so often. OK?"
+      ],
+      "fr_FR": [
+        "Vous trouverez peut-être des objets\n",
+        "utiles sur le sol.\r",
+        "Mais ils sont vraiment minuscules.\n",
+        "Votre Pokémon saura les trouver.\r",
+        "Vous devriez essayer de parler à votre\n",
+        "Pokémon de temps à autre. Compris?"
       ]
     },
     {
@@ -103,6 +170,11 @@
         "Are you enjoying your stroll?\r",
         "You should try talking to your\n",
         "Pokémon. It will be happy you did."
+      ],
+      "fr_FR": [
+        "Alors, elle vous plaît cette balade?\r",
+        "Vous devriez essayer de parler à\n",
+        "votre Pokémon. Ça lui fera plaisir."
       ]
     },
     {
@@ -111,6 +183,11 @@
         "It makes me happy seeing all the\n",
         "cute Pokémon and their kind\f",
         "Trainers."
+      ],
+      "fr_FR": [
+        "Quel bonheur de voir ces \n",
+        "Pokémon gracieux, avec\f",
+        "leurs Dresseurs aux petits soins."
       ]
     },
     {
@@ -118,31 +195,45 @@
       "en_US": [
         "You may spend all the time you\n",
         "like in Amity Square. OK?"
+      ],
+      "fr_FR": [
+        "Vous pouvez rester autant que vous\n",
+        "voulez au Square Paisible. Compris?"
       ]
     },
     {
       "id": "AmitySquare_Text_PokemonIsHappilyKeepingUp",
-      "en_US": "{STRVAR_1 1, 0, 0} is happily keeping up."
+      "en_US": "{STRVAR_1 1, 0, 0} is happily keeping up.",
+      "fr_FR": [
+        "{STRVAR_1 1, 0, 0} trottine derrière vous,\n",
+        "l’air épanoui."
+      ]
     },
     {
       "id": "AmitySquare_Text_PokemonAppearsToBeVeryHappy",
       "en_US": [
         "{STRVAR_1 1, 0, 0} appears to be very\n",
         "happy."
-      ]
+      ],
+      "fr_FR": "{STRVAR_1 1, 0, 0} a l’air très heureux."
     },
     {
       "id": "AmitySquare_Text_PokemonAppearsToBeFeelingGood",
       "en_US": [
         "{STRVAR_1 1, 0, 0} appears to be feeling\n",
         "good."
-      ]
+      ],
+      "fr_FR": "{STRVAR_1 1, 0, 0} a l’air de bonne humeur."
     },
     {
       "id": "AmitySquare_Text_PokemonIsLookingEndearinglyAtYou",
       "en_US": [
         "{STRVAR_1 1, 0, 0} is looking endearingly\n",
         "at you."
+      ],
+      "fr_FR": [
+        "{STRVAR_1 1, 0, 0} vous lance un regard \n",
+        "touchant."
       ]
     },
     {
@@ -150,21 +241,31 @@
       "en_US": [
         "{STRVAR_1 1, 0, 0} is picking at the ground\n",
         "for some reason..."
+      ],
+      "fr_FR": [
+        "{STRVAR_1 1, 0, 0} gratte le sol pour quelque\n",
+        "obscure raison..."
       ]
     },
     {
       "id": "AmitySquare_Text_PokemonAlmostTripped",
-      "en_US": "{STRVAR_1 1, 0, 0} almost tripped!"
+      "en_US": "{STRVAR_1 1, 0, 0} almost tripped!",
+      "fr_FR": "{STRVAR_1 1, 0, 0} a manqué de trébucher!"
     },
     {
       "id": "AmitySquare_Text_PokemonIsSkippingHappily",
-      "en_US": "{STRVAR_1 1, 0, 0} is skipping happily."
+      "en_US": "{STRVAR_1 1, 0, 0} is skipping happily.",
+      "fr_FR": "{STRVAR_1 1, 0, 0} batifole, l’air guilleret."
     },
     {
       "id": "AmitySquare_Text_PokemonSeemsToBeSoHappyItCantKeepStill",
       "en_US": [
         "{STRVAR_1 1, 0, 0} seems to be so happy\n",
         "it can’t keep still."
+      ],
+      "fr_FR": [
+        "{STRVAR_1 1, 0, 0} est si heureux qu’il ne\n",
+        "tient pas en place."
       ]
     },
     {
@@ -172,6 +273,10 @@
       "en_US": [
         "{STRVAR_1 1, 0, 0} seems to be enjoying\n",
         "the walk."
+      ],
+      "fr_FR": [
+        "{STRVAR_1 1, 0, 0} a l’air d’apprécier cette\n",
+        "balade."
       ]
     },
     {
@@ -179,6 +284,10 @@
       "en_US": [
         "Oh?\n",
         "{STRVAR_1 1, 0, 0} is holding something!\r"
+      ],
+      "fr_FR": [
+        "Oh?\n",
+        "{STRVAR_1 1, 0, 0} tient quelque chose!\r"
       ]
     },
     {
@@ -186,34 +295,53 @@
       "en_US": [
         "{STRVAR_1 1, 0, 0} is following along, relaxed\n",
         "and casual."
+      ],
+      "fr_FR": [
+        "{STRVAR_1 1, 0, 0} trottine derrière vous,\n",
+        "calme et nonchalant."
       ]
     },
     {
       "id": "AmitySquare_Text_PokemonSnuggledUpClose",
-      "en_US": "{STRVAR_1 1, 0, 0} snuggled up close."
+      "en_US": "{STRVAR_1 1, 0, 0} snuggled up close.",
+      "fr_FR": [
+        "{STRVAR_1 1, 0, 0} aimerait se\n",
+        "blottir contre vous."
+      ]
     },
     {
       "id": "AmitySquare_Text_PokemonPretendedToTrip",
-      "en_US": "{STRVAR_1 1, 0, 0} pretended to trip."
+      "en_US": "{STRVAR_1 1, 0, 0} pretended to trip.",
+      "fr_FR": [
+        "{STRVAR_1 1, 0, 0} fait semblant de\n",
+        "trébucher."
+      ]
     },
     {
       "id": "AmitySquare_Text_PokemonGaveAContentedYawn",
-      "en_US": "{STRVAR_1 1, 0, 0} gave a contented yawn."
+      "en_US": "{STRVAR_1 1, 0, 0} gave a contented yawn.",
+      "fr_FR": "{STRVAR_1 1, 0, 0} bâille avec satisfaction."
     },
     {
       "id": "AmitySquare_Text_PokemonIsSniffingAtTheGrass",
-      "en_US": "{STRVAR_1 1, 0, 0} is sniffing at the grass."
+      "en_US": "{STRVAR_1 1, 0, 0} is sniffing at the grass.",
+      "fr_FR": "{STRVAR_1 1, 0, 0} renifle le sol."
     },
     {
       "id": "AmitySquare_Text_TheseRuinsAreFromALongLongTimeAgo",
       "en_US": [
         "These ruins are from a long, long\n",
         "time ago."
+      ],
+      "fr_FR": [
+        "Ces ruines sont les vestiges d’une\n",
+        "époque très, très ancienne."
       ]
     },
     {
       "id": "AmitySquare_Text_DrifloonFoon",
-      "en_US": "DRIFLOON: Foon!"
+      "en_US": "DRIFLOON: Foon!",
+      "fr_FR": "BAUDRIVE: Baaaaaau!"
     },
     {
       "id": "AmitySquare_Text_IComeHereWithMyHappinyEverySingleDay",
@@ -222,11 +350,18 @@
         "every single day!\r",
         "I can let it run free without any\n",
         "worries at all."
+      ],
+      "fr_FR": [
+        "Je viens ici tous les jours avec\n",
+        "mon PTIRAVI!\r",
+        "Je peux le laisser courir en liberté\n",
+        "sans avoir à m’inquiéter."
       ]
     },
     {
       "id": "AmitySquare_Text_HappinyAppearsToBeDrowsy",
-      "en_US": "HAPPINY appears to be drowsy."
+      "en_US": "HAPPINY appears to be drowsy.",
+      "fr_FR": "PTIRAVI a l’air hébété."
     },
     {
       "id": "AmitySquare_Text_OohIJustCantBelieveIt",
@@ -237,17 +372,30 @@
         "me without hesitation!\r",
         "Ahaha! It’s just the two of us!\n",
         "Woohoo!"
+      ],
+      "fr_FR": [
+        "Ooh, les mots me manquent!\n",
+        "J’aime tellement mon PIKACHU!\r",
+        "Où que j’aille, mon PIKACHU\n",
+        "me suit sans hésiter!\r",
+        "Hahaha! Amis pour la vie!\n",
+        "Wouhou!"
       ]
     },
     {
       "id": "AmitySquare_Text_PikachuPikkaPika",
-      "en_US": "PIKACHU: Pikka pika!"
+      "en_US": "PIKACHU: Pikka pika!",
+      "fr_FR": "PIKACHU: Pikka pika!"
     },
     {
       "id": "AmitySquare_Text_YouShouldTalkToYourPokemon",
       "en_US": [
         "You should talk to your Pokémon.\n",
         "It can occasionally find things."
+      ],
+      "fr_FR": [
+        "Tu devrais parler à ton Pokémon. Il\n",
+        "peut trouver des objets, par ici."
       ]
     },
     {
@@ -255,6 +403,10 @@
       "en_US": [
         "There is something shiny in CLEFAIRY’s\n",
         "hands..."
+      ],
+      "fr_FR": [
+        "MELOFEE tient un objet brillant\n",
+        "dans ses pattes..."
       ]
     },
     {
@@ -267,6 +419,16 @@
         "I find all sorts of items doing so.\r",
         "It’s quite fun, even exciting.\n",
         "Oh, I know.\r"
+      ],
+      "fr_FR": [
+        "Salut, comment vas-tu?\r",
+        "J’adore ce parc.\n",
+        "Du coup, je travaille à son entretien.\r",
+        "Ça ne me dérange pas du tout de le\n",
+        "nettoyer. Au contraire, je trouve\f",
+        "plein d’objets.\r",
+        "C’est très amusant, excitant même.\n",
+        "Oh, j’y pense.\r"
       ]
     },
     {
@@ -274,6 +436,11 @@
       "en_US": [
         "Do you know the item {STRVAR_1 8, 0, 0}?\n",
         "I found some. Would you like them?"
+      ],
+      "fr_FR": [
+        "Tu connais l’objet {STRVAR_1 8, 0, 0}?\n",
+        "J’en ai trouvé quelques-uns.\f",
+        "Ça t’intéresse?"
       ]
     },
     {
@@ -281,6 +448,10 @@
       "en_US": [
         "Oh, it’s no problem to me.\n",
         "They’re yours if you want, OK?"
+      ],
+      "fr_FR": [
+        "Moi, je n’en ai pas besoin.\n",
+        "Si tu veux, c’est à toi. OK?"
       ]
     },
     {
@@ -288,6 +459,10 @@
       "en_US": [
         "Hahahah!\n",
         "Perhaps I’ll see you again tomorrow!"
+      ],
+      "fr_FR": [
+        "Ah, ah, ah!\n",
+        "On se reverra peut-être demain!"
       ]
     },
     {
@@ -295,6 +470,10 @@
       "en_US": [
         "{STRVAR_1 3, 0, 0} received\n",
         "5 {STRVAR_1 8, 1, 0}!"
+      ],
+      "fr_FR": [
+        "{STRVAR_1 3, 0, 0} obtient 5 objets\n",
+        "{STRVAR_1 8, 1, 0}!"
       ]
     }
   ]

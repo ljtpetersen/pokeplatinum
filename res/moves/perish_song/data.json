@@ -24,5 +24,13 @@
     "contest": {
         "effect": "CONTEST_EFFECT_LOWERS_VOLTAGE",
         "type": "CONTEST_TYPE_BEAUTY"
-    }
+    },
+    "name_fr": "Requiem",
+    "description_fr": [
+        "Un Pokémon qui\n",
+        "entend ce requiem est\n",
+        "K.O. dans 3 tours à\n",
+        "moins qu’il ne quitte\n",
+        "le combat."
+    ]
 }

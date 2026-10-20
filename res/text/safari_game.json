@@ -6,6 +6,10 @@
       "en_US": [
         "Ding-dong! Time’s up!\n",
         "Your Safari Game is over."
+      ],
+      "fr_FR": [
+        "Ding dong! Temps écoulé!\n",
+        "Votre Jeu Safari est terminé."
       ]
     },
     {
@@ -13,6 +17,10 @@
       "en_US": [
         "Ding-dong! You’ve run out of Safari\n",
         "Balls. Your Safari Game is over."
+      ],
+      "fr_FR": [
+        "Ding dong! Vous n’avez plus de Safari\n",
+        "Balls. Votre Jeu Safari est terminé."
       ]
     },
     {
@@ -21,17 +29,27 @@
         "Ding-dong!\n",
         "You’re out of room for more Pokémon.\r",
         "Your Safari Game is over!"
+      ],
+      "fr_FR": [
+        "Ding dong! Vous n’avez plus de place\n",
+        "pour d’autres Pokémon.\r",
+        "Votre Jeu Safari est terminé!"
       ]
     },
     {
       "id": "SafariGame_Text_QuickTramPrompt",
-      "en_US": "Where would you like to go?"
+      "en_US": "Where would you like to go?",
+      "fr_FR": "Où voulez-vous aller?"
     },
     {
       "id": "SafariGame_Text_PlayerDidntBoard",
       "en_US": [
         "{STRVAR_1 3, 0, 0} didn’t board\n",
         "the Quick Tram."
+      ],
+      "fr_FR": [
+        "{STRVAR_1 3, 0, 0} n’embarque pas à bord\n",
+        "du Tram Eclair."
       ]
     },
     {
@@ -39,6 +57,10 @@
       "en_US": [
         "Would you like to exit the Great Marsh\n",
         "right now?"
+      ],
+      "fr_FR": [
+        "Voulez-vous quitter le\n",
+        "Grand Marais?"
       ]
     }
   ]

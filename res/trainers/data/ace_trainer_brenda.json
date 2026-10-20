@@ -45,6 +45,12 @@
                 "Tough Trainers...\r",
                 "You tell me, where else can I find\n",
                 "a place as good as this to train?\r"
+            ],
+            "fr_FR": [
+                "Des Pokémon forts...\n",
+                "Des Dresseurs puissants...\r",
+                "Dis-moi où je pourrais trouver un lieu\n",
+                "aussi bien que celui-ci pour m’exercer?\r"
             ]
         },
         {
@@ -52,6 +58,10 @@
             "en_US": [
                 "That was good.\n",
                 "You’ve bonded well with your Pokémon.\n"
+            ],
+            "fr_FR": [
+                "C’était bien.\n",
+                "Ton lien avec les Pokémon est fort.\n"
             ]
         },
         {
@@ -62,7 +72,15 @@
                 "Their strength comes from their bond.\n",
                 "And that’s something that can be\f",
                 "made stronger anywhere.\n"
+            ],
+            "fr_FR": [
+                "Des Pokémon endurcis...\n",
+                "Des Dresseurs puissants...\r",
+                "Leur force vient du lien qui les unit.\n",
+                "Un lien qu’ils renforcent toujours et\f",
+                "en tout lieu.\n"
             ]
         }
-    ]
+    ],
+    "name_fr": "Lilou"
 }

@@ -59,18 +59,31 @@
             "en_US": [
                 "I’ve been pondering lately...how much\n",
                 "longer will I be wearing shorts?"
+            ],
+            "fr_FR": [
+                "Je me demande combien de temps encore\n",
+                "je vais pouvoir porter des shorts..."
             ]
         },
         {
             "type": "TRMSG_WIN",
-            "en_US": "Will I still be in shorts as a grown-up?\r"
+            "en_US": "Will I still be in shorts as a grown-up?\r",
+            "fr_FR": [
+                "Est-ce que les adultes peuvent aussi\n",
+                "porter des shorts?\r"
+            ]
         },
         {
             "type": "TRMSG_DEFEAT",
             "en_US": [
                 "If I grow old like this, will they call me\n",
                 "something silly like “Shorts Man”?\r"
+            ],
+            "fr_FR": [
+                "Quand je serai grand, tu crois que les\n",
+                "gens m’appelleront “Monsieur Short”?\r"
             ]
         }
-    ]
+    ],
+    "name_fr": "Kader"
 }

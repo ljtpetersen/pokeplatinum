@@ -22,7 +22,9 @@
     "messages": [
         {
             "type": "TRMSG_DEFEAT",
-            "en_US": "Too much for me!\n"
+            "en_US": "Too much for me!\n",
+            "fr_FR": "Je n’étais pas à la hauteur."
         }
-    ]
+    ],
+    "name_fr": "Valérian"
 }

@@ -26,5 +26,13 @@
   "battlePocket": "BATTLE_POCKET_MASK_NONE",
   "fieldUseFunc": "ITEM_USE_FUNC_NONE",
   "battleUseCategory": "BATTLE_USE_CATEGORY_NONE",
-  "itemUseParams": null
+  "itemUseParams": null,
+  "name_fr": "Tissu Fauche",
+  "description_fr": [
+    "Un tissu imprégné d’une énergie\n",
+    "spirituelle horriblement puissante.\n",
+    "Apprécié d’un certain Pokémon."
+  ],
+  "plural_fr": "Tissu Fauche",
+  "article_fr": null
 }

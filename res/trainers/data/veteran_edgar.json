@@ -60,11 +60,18 @@
                 "a lot of trust in you.\r",
                 "You and your Pokémon...\n",
                 "You seem to be aglow.\r"
+            ],
+            "fr_FR": [
+                "Je sens que les Pokémon ont\n",
+                "vraiment confiance en toi.\r",
+                "Tu as un lien particulier avec eux...\n",
+                "Il y a comme une aura, autour de vous.\r"
             ]
         },
         {
             "type": "TRMSG_DEFEAT",
-            "en_US": "Ah, I understand it now!\n"
+            "en_US": "Ah, I understand it now!\n",
+            "fr_FR": "Ah, je comprends maintenant!\n"
         },
         {
             "type": "TRMSG_POST_BATTLE",
@@ -73,7 +80,14 @@
                 "forever.\r",
                 "But it is the very frailty of life that\n",
                 "allows us to shine!"
+            ],
+            "fr_FR": [
+                "Humain ou Pokémon, personne ne vit\n",
+                "éternellement.\r",
+                "Mais c’est cette fragilité de la vie qui\n",
+                "nous pousse à nous dépasser!"
             ]
         }
-    ]
+    ],
+    "name_fr": "Valéry"
 }

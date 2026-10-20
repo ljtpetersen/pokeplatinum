@@ -32,11 +32,16 @@
             "en_US": [
                 "Emma: We’re tough because we battle\n",
                 "together!\r"
+            ],
+            "fr_FR": [
+                "Amy: C’est parce qu’on combat toujours\n",
+                "ensemble qu’on est si fortes!\r"
             ]
         },
         {
             "type": "TRMSG_DOUBLE_BATTLE_DEFEAT_1",
-            "en_US": "Emma: Waaah!\n"
+            "en_US": "Emma: Waaah!\n",
+            "fr_FR": "Amy: Ouiiiin!\n"
         },
         {
             "type": "TRMSG_POST_DOUBLE_BATTLE_1",
@@ -44,6 +49,11 @@
                 "Emma: That was awesome!\n",
                 "Are you maybe a Pokémon genius?\f",
                 "You’re well deserving of respect!\n"
+            ],
+            "fr_FR": [
+                "Amy: T’es vraiment sensass!\n",
+                "Serais-tu un Dresseur de génie?\f",
+                "En tout cas, tu mérites le respect!\n"
             ]
         },
         {
@@ -51,6 +61,10 @@
             "en_US": [
                 "We won’t talk to people who have only\n",
                 "one Pokémon!\n"
+            ],
+            "fr_FR": [
+                "On ne parle pas aux gens qui n’ont\n",
+                "qu’un seul Pokémon!"
             ]
         },
         {
@@ -58,6 +72,10 @@
             "en_US": [
                 "Emma: When I battle with Lil,\n",
                 "we shouldn’t lose!\r"
+            ],
+            "fr_FR": [
+                "Amy: Quand je combats avec Lin,\n",
+                "on ne devrait pas perdre!\r"
             ]
         },
         {
@@ -65,11 +83,17 @@
             "en_US": [
                 "Lil: We’re gonna crunch and\n",
                 "munch you all up!\r"
+            ],
+            "fr_FR": [
+                "Lin: On va vous croquer comme des\n",
+                "petits bonbons, tous autant que vous\f",
+                "êtes!\r"
             ]
         },
         {
             "type": "TRMSG_DOUBLE_BATTLE_DEFEAT_2",
-            "en_US": "Lil: Hwaaah!\n"
+            "en_US": "Lil: Hwaaah!\n",
+            "fr_FR": "Lin: Bouhouhouh!\n"
         },
         {
             "type": "TRMSG_POST_DOUBLE_BATTLE_2",
@@ -78,6 +102,11 @@
                 "Trainers like you!\r",
                 "I just decided now!\n",
                 "Please cheer for us!\n"
+            ],
+            "fr_FR": [
+                "Lin: C’est décidé! Nous aussi, on va\n",
+                "devenir des Dresseurs super balèzes!\r",
+                "J’espère que tu nous encourageras!\n"
             ]
         },
         {
@@ -85,6 +114,10 @@
             "en_US": [
                 "We don’t talk to people who have only\n",
                 "one Pokémon!\n"
+            ],
+            "fr_FR": [
+                "On ne parle pas aux gens qui n’ont\n",
+                "qu’un seul Pokémon!"
             ]
         },
         {
@@ -92,7 +125,12 @@
             "en_US": [
                 "Lil: You munched us all up last\n",
                 "time, but it’s our turn now!\r"
+            ],
+            "fr_FR": [
+                "Lin: Tu nous as croquées la dernière\n",
+                "fois, à notre tour, maintenant!\r"
             ]
         }
-    ]
+    ],
+    "name_fr": "Amy & Lin"
 }

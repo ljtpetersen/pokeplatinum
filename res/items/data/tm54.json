@@ -27,5 +27,13 @@
   "fieldUseFunc": "ITEM_USE_FUNC_TM_HM",
   "battleUseCategory": "BATTLE_USE_CATEGORY_NONE",
   "itemUseParams": null,
-  "teachesMove": "MOVE_FALSE_SWIPE"
+  "teachesMove": "MOVE_FALSE_SWIPE",
+  "name_fr": "CT54",
+  "description_fr": [
+    "Le lanceur retient ses coups pour que\n",
+    "l’ennemi garde au moins 1 PV et ne\n",
+    "tombe pas K.O."
+  ],
+  "plural_fr": "CT54",
+  "article_fr": null
 }

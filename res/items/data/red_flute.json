@@ -28,5 +28,12 @@
   "battleUseCategory": "BATTLE_USE_CATEGORY_NONE",
   "itemUseParams": {
     "healAttract": true
-  }
+  },
+  "name_fr": "Flûte Rouge",
+  "description_fr": [
+    "Une flûte en verre soufflé rouge dont\n",
+    "les notes mettent fin à l’attirance."
+  ],
+  "plural_fr": "Flûte Rouge",
+  "article_fr": null
 }

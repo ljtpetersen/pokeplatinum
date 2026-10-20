@@ -42,6 +42,10 @@
             "en_US": [
                 "There’s no mountain here, but I’m\n",
                 "dressed to hike! Gahaha! Here goes!\r"
+            ],
+            "fr_FR": [
+                "Il n’y a pas de montagne ici, mais j’ai \n",
+                "quand même mis tout mon équipement!\r"
             ]
         },
         {
@@ -49,6 +53,10 @@
             "en_US": [
                 "Oh, yeah!\n",
                 "A refreshing battle that was!\n"
+            ],
+            "fr_FR": [
+                "Oh, oui!\n",
+                "Un très beau combat!"
             ]
         },
         {
@@ -58,6 +66,12 @@
                 "Pokémon in all sorts of places.\r",
                 "There’s no law saying a Hiker can’t\n",
                 "go searching off in the mountains!\n"
+            ],
+            "fr_FR": [
+                "On peut trouver le même type de \n",
+                "Pokémon dans différents endroits.\r",
+                "Et aucune loi n’interdit à un Montagnard\n",
+                "de descendre un peu dans les plaines!\n"
             ]
         },
         {
@@ -67,7 +81,14 @@
                 "they’re no longer strangers.\r",
                 "Meet them twice, and they’re your\n",
                 "friend!\r"
+            ],
+            "fr_FR": [
+                "Rencontre quelqu’un dans les montagnes\n",
+                "une fois et ce n’est plus un inconnu.\r",
+                "Rencontre-le une deuxième \n",
+                "fois et c’est un ami.\r"
             ]
         }
-    ]
+    ],
+    "name_fr": "Marcos"
 }

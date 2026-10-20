@@ -34,11 +34,18 @@
                 "type that can change gears!\r",
                 "You gotta love that!\n",
                 "Sure, I’ll give you a battle!\r"
+            ],
+            "fr_FR": [
+                "Ta Bicyclette... c’est le modèle avec\n",
+                "plusieurs vitesses!\r",
+                "Génial, non? Bon, c’est pas le tout,\n",
+                "mais on a un combat qui nous attend!\r"
             ]
         },
         {
             "type": "TRMSG_DEFEAT",
-            "en_US": "Crash! Tinkle...\n"
+            "en_US": "Crash! Tinkle...\n",
+            "fr_FR": "Vlan! Dring...\n"
         },
         {
             "type": "TRMSG_POST_BATTLE",
@@ -46,6 +53,12 @@
                 "The 3-speed makes for easy turning,\n",
                 "and the 4-speed’s for going fast.\r",
                 "I love them both!\n"
+            ],
+            "fr_FR": [
+                "En troisième, tu prends les virages\n",
+                "facilement, et en quatrième, tu peux\f",
+                "filer comme le vent!\r",
+                "Ce sont mes sensations préférées!\n"
             ]
         },
         {
@@ -53,7 +66,12 @@
             "en_US": [
                 "Is your bicycle geared to 3-speed now?\n",
                 "Or do you have it set to 4-speed?\r"
+            ],
+            "fr_FR": [
+                "Est-ce que tu roules en troisième?\n",
+                "Ou tu préfères la quatrième?\r"
             ]
         }
-    ]
+    ],
+    "name_fr": "Carl"
 }

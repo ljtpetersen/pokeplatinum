@@ -8,6 +8,12 @@
         "Sinnoh into halves.\r",
         "Seeing the Pokémon SHELLOS makes me\n",
         "think maybe the myth is real."
+      ],
+      "fr_FR": [
+        "Un mythe prétend que le Mont Couronné\n",
+        "sépare Sinnoh en deux.\r",
+        "A voir le Pokémon SANCOKI, j’ai \n",
+        "l’impression que ce mythe dit vrai."
       ]
     },
     {
@@ -16,11 +22,17 @@
         "If there are people who desire to\n",
         "see them, Pokémon will appear in\f",
         "many different guises."
+      ],
+      "fr_FR": [
+        "Les Pokémon peuvent revêtir de\n",
+        "nombreuses formes pour berner\f",
+        "ceux qui les recherchent."
       ]
     },
     {
       "id": "VeilstoneCityNorthwestHouse_Text_BunearyCry",
-      "en_US": "BUNEARY: Nii nii!"
+      "en_US": "BUNEARY: Nii nii!",
+      "fr_FR": "LAPOREILLE: Lapii lapii!"
     }
   ]
 }

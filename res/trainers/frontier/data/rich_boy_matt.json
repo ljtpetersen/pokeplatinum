@@ -59,6 +59,10 @@
             "en_US": [
                 "Don’t be shy.\n",
                 "You can bring it any which way."
+            ],
+            "fr_FR": [
+                "Ne sois pas timide.\n",
+                "Donne tout ce que tu as!"
             ]
         },
         {
@@ -66,14 +70,20 @@
             "en_US": [
                 "Yeah, I figured you’d be like this.\n",
                 "Heh.\r"
-            ]
+            ],
+            "fr_FR": "Hé, hé. Je le savais.\r"
         },
         {
             "type": "TRMSG_DEFEAT",
             "en_US": [
                 "W-well, sometimes I have to lose, just\n",
                 "so I don’t crush everyone. Ahaha...\r"
+            ],
+            "fr_FR": [
+                "Je t’ai laissé gagner pour te prouver\n",
+                "que je sais être clément. Voilà.\r"
             ]
         }
-    ]
+    ],
+    "name_fr": "Mark"
 }

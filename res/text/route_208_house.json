@@ -10,6 +10,14 @@
         "I want people to learn how wonderful\f",
         "they are.\r",
         "You’re deserving of one!\r"
+      ],
+      "fr_FR": [
+        "Apparemment, tout le monde\n",
+        "m’appelle le Maître des Baies.\r",
+        "Chaque jour, je distribue des Baies\n",
+        "dans l’espoir que les gens réalisent\f",
+        "à quel point elles sont formidables.\r",
+        "Tiens, tu la mérites!\r"
       ]
     },
     {
@@ -23,6 +31,16 @@
         "to plant more Berries.\r",
         "And that will make Sinnoh a greener,\n",
         "more natural place."
+      ],
+      "fr_FR": [
+        "Les Baies sont un don de la nature.\r",
+        "Je t’encourage à donner des Baies\n",
+        "à tes Pokémon.\r",
+        "Ça les rend heureux.\r",
+        "En voyant ça, les gens auront\n",
+        "envie de planter d’autres Baies.\r",
+        "Ainsi, Sinnoh deviendra un lieu\n",
+        "verdoyant, un gigantesque verger."
       ]
     },
     {
@@ -30,6 +48,10 @@
       "en_US": [
         "Are you the forgetful type who\n",
         "forgets where Berries are planted?"
+      ],
+      "fr_FR": [
+        "Es-tu du genre tête en l’air, à\n",
+        "oublier où tu as planté tes Baies?"
       ]
     },
     {
@@ -39,6 +61,12 @@
         "I’m the same way!\r",
         "I feel a sort of kinship with you!\n",
         "You can have this Pokétch app!\r"
+      ],
+      "fr_FR": [
+        "Oui, oui, je le savais!\n",
+        "Je suis comme toi!\r",
+        "Je me sens des affinités avec toi!\n",
+        "Tiens, prends ce logiciel Pokémontre!\r"
       ]
     },
     {
@@ -47,6 +75,11 @@
         "Oh, is that so.\r",
         "Then you’re OK even if I don’t give\n",
         "you this nice thing."
+      ],
+      "fr_FR": [
+        "Oh, vraiment.\r",
+        "Dans ce cas, tu n’auras pas besoin de\n",
+        "ce super truc que je voulais te donner."
       ]
     },
     {
@@ -55,6 +88,11 @@
         "The {STRVAR_1 24, 0, 0} shows you\n",
         "where there are ripe Berries\f",
         "that are ready to be picked."
+      ],
+      "fr_FR": [
+        "Le {STRVAR_1 24, 0, 0}\n",
+        "t’indique les Baies mûres qui\f",
+        "sont prêtes à être ramassées."
       ]
     },
     {
@@ -62,6 +100,10 @@
       "en_US": [
         "Certain kinds of Berries need lots\n",
         "and lots of water."
+      ],
+      "fr_FR": [
+        "Certaines familles de Baies ont besoin\n",
+        "d’être arrosées abondamment."
       ]
     },
     {
@@ -70,6 +112,12 @@
         "Um... Would you like some Mulch?\r",
         "If you’re going to grow Berries,\n",
         "Mulch is a good fertilizer."
+      ],
+      "fr_FR": [
+        "Hum... Est-ce que tu veux du\n",
+        "fertilisant?\r",
+        "Si tu veux faire pousser des Baies,\n",
+        "y a pas mieux comme engrais."
       ]
     },
     {
@@ -79,6 +127,13 @@
         "I made it by mixing high-grade soil\n",
         "with Pokémon...um...you know...\r",
         "It will promote healthy Berry growth."
+      ],
+      "fr_FR": [
+        "Ce produit, là, {STRVAR_1 8, 0, 0}... Tu\n",
+        "sais comment je l’ai obtenu?\r",
+        "En mélangeant de la bonne terre avec\n",
+        "du... euh... tu-sais-quoi de Pokémon...\r",
+        "Avec ça, tes Baies sont en pleine santé."
       ]
     },
     {
@@ -86,17 +141,26 @@
       "en_US": [
         "Um...\n",
         "Please come again."
+      ],
+      "fr_FR": [
+        "Hum...\n",
+        "N’hésite pas à revenir me voir."
       ]
     },
     {
       "id": "Route208House_Text_YouBoughtSomeMulch",
-      "en_US": "You bought some {STRVAR_1 8, 0, 0}.\r"
+      "en_US": "You bought some {STRVAR_1 8, 0, 0}.\r",
+      "fr_FR": "Tu as acheté du {STRVAR_1 8, 0, 0}.\r"
     },
     {
       "id": "Route208House_Text_YourBagAppearsToBeFull",
       "en_US": [
         "I’m so sorry...\n",
         "Your Bag appears to be full..."
+      ],
+      "fr_FR": [
+        "Oh, quel dommage...\n",
+        "On dirait bien que ton Sac est plein..."
       ]
     },
     {
@@ -104,6 +168,10 @@
       "en_US": [
         "Um... You don’t appear to have\n",
         "enough money..."
+      ],
+      "fr_FR": [
+        "Hum... On dirait que tu n’as\n",
+        "pas assez d’argent..."
       ]
     },
     {
@@ -111,6 +179,10 @@
       "en_US": [
         "It’s a book titled “Much Ado About\n",
         "Mulch: A Berry-Grower’s Guide.”\r"
+      ],
+      "fr_FR": [
+        "Un livre intitulé “Engrais Sans Regret:\n",
+        "Guide pour la Culture des Baies.”\r"
       ]
     },
     {
@@ -118,7 +190,8 @@
       "en_US": [
         "Which kind of Mulch would\n",
         "you like to read about?"
-      ]
+      ],
+      "fr_FR": "Lire quel chapitre?"
     },
     {
       "id": "Route208House_Text_ExplainGrowthMulch",
@@ -128,6 +201,12 @@
         "However, it also causes the soil to dry\n",
         "faster as well.\r",
         "More frequent watering is recommended.\r"
+      ],
+      "fr_FR": [
+        "Avec le Fertipousse, les Baies poussent\n",
+        "plus vite, mais le sol s’assèche plus\f",
+        "rapidement aussi.\r",
+        "Conseil: arroser plus souvent.\r"
       ]
     },
     {
@@ -136,6 +215,12 @@
         "The Damp Mulch slows the drying of soil.\r",
         "However, it also slows the growth of\n",
         "Berries.\r"
+      ],
+      "fr_FR": [
+        "Le Fertihumide ralentit l’assèchement\n",
+        "du sol.\r",
+        "Cependant, il ralentit également la\n",
+        "croissance des Baies.\r"
       ]
     },
     {
@@ -146,6 +231,13 @@
         "Some growers use it in hard-to-reach\n",
         "locations that may be overlooked for\f",
         "harvesting.\r"
+      ],
+      "fr_FR": [
+        "Avec le Fertistable, les Baies tombent\n",
+        "moins vite de leur plant.\r",
+        "Certains l’utilisent sur les plants\n",
+        "difficiles d’accès que l’on peut\f",
+        "oublier de récolter.\r"
       ]
     },
     {
@@ -156,27 +248,38 @@
         "This means the number of times new\n",
         "plants grow from where mature plants\f",
         "have withered is increased.\r"
+      ],
+      "fr_FR": [
+        "Le Fertiglu accélère la croissance\n",
+        "des Baies.\r",
+        "On peut ainsi cueillir les Baies plus\n",
+        "souvent.\r"
       ]
     },
     {
       "id": "Route208House_Text_GrowthMulch",
-      "en_US": "GROWTH MULCH"
+      "en_US": "GROWTH MULCH",
+      "fr_FR": "FERTIPOUSSE"
     },
     {
       "id": "Route208House_Text_DampMulch",
-      "en_US": "DAMP MULCH"
+      "en_US": "DAMP MULCH",
+      "fr_FR": "FERTIHUMIDE"
     },
     {
       "id": "Route208House_Text_StableMulch",
-      "en_US": "STABLE MULCH"
+      "en_US": "STABLE MULCH",
+      "fr_FR": "FERTISTABLE"
     },
     {
       "id": "Route208House_Text_GooeyMulch",
-      "en_US": "GOOEY MULCH"
+      "en_US": "GOOEY MULCH",
+      "fr_FR": "FERTIGLU"
     },
     {
       "id": "Route208House_Text_Exit",
-      "en_US": "EXIT"
+      "en_US": "EXIT",
+      "fr_FR": "ANNULER"
     }
   ]
 }

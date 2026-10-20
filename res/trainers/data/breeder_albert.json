@@ -50,6 +50,10 @@
             "en_US": [
                 "Let me see how much you’ve raised\n",
                 "your Pokémon.\r"
+            ],
+            "fr_FR": [
+                "Montre-moi si tu sais entraîner\n",
+                "un Pokémon efficacement.\r"
             ]
         },
         {
@@ -57,6 +61,10 @@
             "en_US": [
                 "Good stuff! Your Pokémon are in\n",
                 "impeccable condition.\n"
+            ],
+            "fr_FR": [
+                "Beau travail, ton entraînement a porté\n",
+                "ses fruits!\n"
             ]
         },
         {
@@ -64,6 +72,10 @@
             "en_US": [
                 "It’s obvious you raise your Pokémon\n",
                 "with a lot of love.\n"
+            ],
+            "fr_FR": [
+                "Tu élèves tes Pokémon avec amour, \n",
+                "ça se voit tout de suite.\n"
             ]
         },
         {
@@ -71,7 +83,12 @@
             "en_US": [
                 "I’ve raised my Pokémon since we met.\n",
                 "How much have you raised yours?\r"
+            ],
+            "fr_FR": [
+                "J’ai bien entraîné mes Pokémon depuis \n",
+                "notre dernière rencontre. Toi aussi?\r"
             ]
         }
-    ]
+    ],
+    "name_fr": "Richard"
 }

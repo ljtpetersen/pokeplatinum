@@ -26,5 +26,13 @@
   "battlePocket": "BATTLE_POCKET_MASK_NONE",
   "fieldUseFunc": "ITEM_USE_FUNC_MAIL",
   "battleUseCategory": "BATTLE_USE_CATEGORY_NONE",
-  "itemUseParams": null
+  "itemUseParams": null,
+  "name_fr": "Lettre Feu",
+  "description_fr": [
+    "Un papier à lettres orné de flammes\n",
+    "d’un rouge flamboyant. \n",
+    "Peut être tenu et livré par un Pokémon."
+  ],
+  "plural_fr": "Lettre Feu",
+  "article_fr": null
 }

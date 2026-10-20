@@ -26,5 +26,11 @@
     "contest": {
         "effect": "CONTEST_EFFECT_BASIC",
         "type": "CONTEST_TYPE_COOL"
-    }
+    },
+    "name_fr": "Bec Vrille",
+    "description_fr": [
+        "Une attaque utilisant\n",
+        "le bec comme une\n",
+        "perceuse."
+    ]
 }

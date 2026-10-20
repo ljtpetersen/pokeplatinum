@@ -53,6 +53,10 @@
             "en_US": [
                 "My showdown against a man of the sea\n",
                 "draws near! Let me test my team!"
+            ],
+            "fr_FR": [
+                "Après ce combat, j’affronte un Marin.\n",
+                "Je vais tester ma stratégie sur toi."
             ]
         },
         {
@@ -60,6 +64,10 @@
             "en_US": [
                 "Everything went as calculated...\n",
                 "Be ready for me, man of the sea!\r"
+            ],
+            "fr_FR": [
+                "Tout fonctionne à merveille.\n",
+                "Prépare-toi, Marin!\r"
             ]
         },
         {
@@ -67,7 +75,12 @@
             "en_US": [
                 "Beating the man of the sea is impossible\n",
                 "with an outcome this lame...\r"
+            ],
+            "fr_FR": [
+                "Je ne battrai jamais ce Marin si je\n",
+                "ne peux même pas gagner contre toi...\r"
             ]
         }
-    ]
+    ],
+    "name_fr": "Massimo"
 }

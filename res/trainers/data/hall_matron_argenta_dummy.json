@@ -23,7 +23,12 @@
             "en_US": [
                 "Oh, dear... The trouble with fun is that\n",
                 "it is over so quickly.\n"
+            ],
+            "fr_FR": [
+                "Quel dommage... Le bonheur est fugace,\n",
+                "mais il faut savoir l’apprécier.\n"
             ]
         }
-    ]
+    ],
+    "name_fr": "Célosia"
 }

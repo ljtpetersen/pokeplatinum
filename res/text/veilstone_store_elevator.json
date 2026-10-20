@@ -7,17 +7,27 @@
         "Hello, thank you for shopping\n",
         "with us today.\r",
         "To which floor may I take you?"
+      ],
+      "fr_FR": [
+        "Bonjour, merci de faire vos courses\n",
+        "dans notre établissement.\r",
+        "A quel étage voulez-vous accéder?"
       ]
     },
     {
       "id": "VeilstoneStoreElevator_Text_LookForward",
-      "en_US": "I look forward to serving you again."
+      "en_US": "I look forward to serving you again.",
+      "fr_FR": "Nous espérons vous revoir bientôt."
     },
     {
       "id": "VeilstoneStoreElevator_Text_GoingUp",
       "en_US": [
         "Certainly.\n",
         "Elevator going up.\r"
+      ],
+      "fr_FR": [
+        "Certainement.\n",
+        "Nous montons.\r"
       ]
     },
     {
@@ -25,17 +35,26 @@
       "en_US": [
         "Certainly.\n",
         "Elevator going down.\r"
+      ],
+      "fr_FR": [
+        "Certainement.\n",
+        "Nous descendons.\r"
       ]
     },
     {
       "id": "VeilstoneStoreElevator_Text_SameFloor",
-      "en_US": "We are already on that floor?!"
+      "en_US": "We are already on that floor?!",
+      "fr_FR": "Nous sommes déjà à cet étage?!"
     },
     {
       "id": "VeilstoneStoreElevator_Text_Floor1",
       "en_US": [
         "Ground floor: Medicine and items for\n",
         "all your adventure needs."
+      ],
+      "fr_FR": [
+        "Rez-de-chaussée: Médicaments et\n",
+        "objets pour aventuriers prévoyants."
       ]
     },
     {
@@ -43,6 +62,10 @@
       "en_US": [
         "Second floor: Useful items for all\n",
         "Pokémon battles."
+      ],
+      "fr_FR": [
+        "Premier étage: Objets utiles pour\n",
+        "vos combats de Pokémon."
       ]
     },
     {
@@ -50,6 +73,10 @@
       "en_US": [
         "Third floor: Technical Machines for\n",
         "powering up Pokémon."
+      ],
+      "fr_FR": [
+        "Deuxième étage: Capsules Techniques\n",
+        "pour renforcer vos Pokémon."
       ]
     },
     {
@@ -57,6 +84,10 @@
       "en_US": [
         "Fourth floor: Desirable decoration\n",
         "goods and Pokémon Dolls."
+      ],
+      "fr_FR": [
+        "Troisième étage: Articles de\n",
+        "décoration et Poupées Pokémon."
       ]
     },
     {
@@ -64,6 +95,10 @@
       "en_US": [
         "Fifth floor: The Rooftop Square for\n",
         "a refreshing break from shopping."
+      ],
+      "fr_FR": [
+        "Quatrième étage: La Terrasse, si l’envie\n",
+        "vous prend de faire une petite pause."
       ]
     },
     {
@@ -71,6 +106,10 @@
       "en_US": [
         "Basement floor: Food and produce, with\n",
         "many exclusives for you to enjoy.\n"
+      ],
+      "fr_FR": [
+        "Niveau -1: Alimentation.\n",
+        "Mets délicats introuvables ailleurs."
       ]
     }
   ]

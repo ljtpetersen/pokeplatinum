@@ -75,6 +75,10 @@
             "en_US": [
                 "I get it! You guys are tough!\n",
                 "But we can match your toughness!\n"
+            ],
+            "fr_FR": [
+                "Je sais! Vous êtes des coriaces!\n",
+                "Mais nous aussi, on peut être coriaces!\n"
             ]
         },
         {
@@ -82,11 +86,16 @@
             "en_US": [
                 "This is it!\n",
                 "My trump card!\n"
+            ],
+            "fr_FR": [
+                "Regarde ça!\n",
+                "C’est ma carte maîtresse!"
             ]
         },
         {
             "type": "TRMSG_LAST_BATTLER_HALF_HP",
-            "en_US": "Shocking... I didn’t see this coming!\n"
+            "en_US": "Shocking... I didn’t see this coming!\n",
+            "fr_FR": "Incroyable... Je n’ai rien vu venir!\n"
         },
         {
             "type": "TRMSG_DEFEAT",
@@ -97,7 +106,16 @@
                 "I even felt thrilled during our\n",
                 "match.\r",
                 "That was a very good battle.\n"
+            ],
+            "fr_FR": [
+                "Tu m’as battu...\r",
+                "Cette volonté et la manière noble dont\n",
+                "les Pokémon combattent pour toi...\r",
+                "J’en ai eu des frissons pendant le\n",
+                "combat.\r",
+                "C’était un très beau combat.\n"
             ]
         }
-    ]
+    ],
+    "name_fr": "Tanguy"
 }

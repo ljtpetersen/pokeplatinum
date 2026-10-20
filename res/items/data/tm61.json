@@ -27,5 +27,12 @@
   "fieldUseFunc": "ITEM_USE_FUNC_TM_HM",
   "battleUseCategory": "BATTLE_USE_CATEGORY_NONE",
   "itemUseParams": null,
-  "teachesMove": "MOVE_WILL_O_WISP"
+  "teachesMove": "MOVE_WILL_O_WISP",
+  "name_fr": "CT61",
+  "description_fr": [
+    "Lance une sinistre flamme violette à\n",
+    "l’ennemi pour lui infliger une brûlure."
+  ],
+  "plural_fr": "CT61",
+  "article_fr": null
 }

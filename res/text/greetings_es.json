@@ -3,15 +3,18 @@
   "messages": [
     {
       "id": "pl_msg_00000668_00000",
-      "en_US": "Buenos días."
+      "en_US": "Buenos días.",
+      "fr_FR": "Buenos días."
     },
     {
       "id": "pl_msg_00000668_00001",
-      "en_US": "Hola."
+      "en_US": "Hola.",
+      "fr_FR": "Hola."
     },
     {
       "id": "pl_msg_00000668_00002",
-      "en_US": "Buenas noches."
+      "en_US": "Buenas noches.",
+      "fr_FR": "Buenas noches."
     }
   ]
 }

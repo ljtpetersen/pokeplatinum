@@ -59,6 +59,10 @@
             "en_US": [
                 "Raise them with love, and Pokémon will\n",
                 "answer in kind. Probably."
+            ],
+            "fr_FR": [
+                "Les Pokémon élevés avec amour sont\n",
+                "très attachés à leur Dresseur."
             ]
         },
         {
@@ -66,6 +70,10 @@
             "en_US": [
                 "They responded to my love.\n",
                 "Probably.\r"
+            ],
+            "fr_FR": [
+                "Même en combat, on peut montrer à un\n",
+                "Pokémon qu’on l’aime. La preuve.\r"
             ]
         },
         {
@@ -73,7 +81,12 @@
             "en_US": [
                 "You’re raising your Pokémon with a lot\n",
                 "of love. I think.\r"
+            ],
+            "fr_FR": [
+                "Je crois que tu es du genre à élever\n",
+                "tes Pokémon avec amour. Je me trompe?\r"
             ]
         }
-    ]
+    ],
+    "name_fr": "Tatyana"
 }

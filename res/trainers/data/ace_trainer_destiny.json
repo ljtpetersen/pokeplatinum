@@ -46,6 +46,12 @@
                 "Trainers to battle.\r",
                 "I’ve been battling here because\n",
                 "I want to feel the rush!\r"
+            ],
+            "fr_FR": [
+                "Je ne cherche pas uniquement des\n",
+                "Dresseurs puissants à combattre.\r",
+                "Je me bats parce que j’aime cette\n",
+                "montée d’adrénaline!\r"
             ]
         },
         {
@@ -53,6 +59,10 @@
             "en_US": [
                 "Your power is thrilling...\n",
                 "I’m thrilled down to my toes!\n"
+            ],
+            "fr_FR": [
+                "Ta puissance est exaltante...\n",
+                "J’en ai des frissons jusqu’aux orteils!\n"
             ]
         },
         {
@@ -61,7 +71,13 @@
                 "I’m so glad that there are Pokémon!\r",
                 "There isn’t much else that gives me\n",
                 "the thrill that Pokémon do!\n"
+            ],
+            "fr_FR": [
+                "Quel bonheur qu’il y ait des Pokémon!\r",
+                "Il n’y a quasiment rien qui me rende\n",
+                "plus euphorique que les Pokémon!\n"
             ]
         }
-    ]
+    ],
+    "name_fr": "Isabelle"
 }

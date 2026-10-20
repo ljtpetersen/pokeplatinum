@@ -60,6 +60,12 @@
                 "I’m sure thrilled to be here.\r",
                 "It took a long time to get here.\n",
                 "We’re not going to lose again!\r"
+            ],
+            "fr_FR": [
+                "Je suis né à Floraville.\n",
+                "Je suis bien content d’être ici.\r",
+                "Ça m’a pris du temps pour venir.\n",
+                "On ne perdra pas une seconde fois!\r"
             ]
         },
         {
@@ -67,6 +73,10 @@
             "en_US": [
                 "We went down...\n",
                 "We couldn’t stick it out...\n"
+            ],
+            "fr_FR": [
+                "On a perdu...\n",
+                "On n’a pas pu se dépasser...\n"
             ]
         },
         {
@@ -76,7 +86,13 @@
                 "won’t guarantee you any wins.\r",
                 "But we keep trying to get better.\n",
                 "That’s what makes us Trainers.\n"
+            ],
+            "fr_FR": [
+                "Ce qui fait un Dresseur, ce ne sont pas\n",
+                "ses victoires.\r",
+                "Non... c’est son envie de gagner!"
             ]
         }
-    ]
+    ],
+    "name_fr": "Claude"
 }

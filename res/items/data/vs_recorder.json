@@ -26,5 +26,13 @@
   "battlePocket": "BATTLE_POCKET_MASK_NONE",
   "fieldUseFunc": "ITEM_USE_FUNC_VS_RECORDER",
   "battleUseCategory": "BATTLE_USE_CATEGORY_NONE",
-  "itemUseParams": null
+  "itemUseParams": null,
+  "name_fr": "Magnéto VS",
+  "description_fr": [
+    "Appareil utile permettant d’enregistrer\n",
+    "les combats entre amis et ceux ayant\n",
+    "lieu dans un bâtiment de combat."
+  ],
+  "plural_fr": "Magnéto VS",
+  "article_fr": null
 }

@@ -10,6 +10,14 @@
         "a yellow body, correct?\r",
         "Well, the different-colored PIKACHU\n",
         "has a sort of orange body."
+      ],
+      "fr_FR": [
+        "Tu savais que certains Pokémon\n",
+        "pouvaient avoir plusieurs couleurs?\r",
+        "Par exemple, d’habitude, le corps des\n",
+        "PIKACHU est jaune, pas vrai?\r",
+        "Eh bien, il existe des PIKACHU\n",
+        "dont le corps est orangé."
       ]
     },
     {
@@ -19,11 +27,18 @@
         "natures like we have personalities?\r",
         "I don’t think it’s surprising to see\n",
         "Pokémon in different colors."
+      ],
+      "fr_FR": [
+        "Tu sais que les Pokémon ont des natures\n",
+        "différentes...\r",
+        "Alors ce n’est pas surprenant de voir\n",
+        "des Pokémon de différentes couleurs."
       ]
     },
     {
       "id": "OreburghCityWestHouse_Text_PikachuCry",
-      "en_US": "PIKACHU: Pikaaah!"
+      "en_US": "PIKACHU: Pikaaah!",
+      "fr_FR": "PIKACHU: Pikaaah!"
     }
   ]
 }

@@ -11,6 +11,15 @@
         "he came running right back home.\r",
         "He just can’t sit still, that boy.\n",
         "I wonder who he takes after?"
+      ],
+      "fr_FR": [
+        "Mère de {STRVAR_1 3, 1, 0}: Oh, bonjour,\n",
+        "{STRVAR_1 3, 0, 0}.\r",
+        "Est-ce que tu cherches {STRVAR_1 3, 1, 0}?\r",
+        "Il est parti une seconde, puis il est\n",
+        "revenu en courant à la maison.\r",
+        "Il ne peut pas rester tranquille,\n",
+        "celui-là. Je me demande de qui il tient!"
       ]
     },
     {
@@ -23,6 +32,15 @@
         "he came running right back home.\r",
         "He just can’t sit still, that boy.\n",
         "I wonder who he takes after?"
+      ],
+      "fr_FR": [
+        "Mère de {STRVAR_1 3, 1, 0}: Oh, bonjour,\n",
+        "{STRVAR_1 3, 0, 0}.\r",
+        "Est-ce que tu cherches {STRVAR_1 3, 1, 0}?\r",
+        "Il est parti une seconde, puis il est\n",
+        "revenu en courant à la maison.\r",
+        "Il ne peut pas rester tranquille,\n",
+        "celui-là. Je me demande de qui il tient!"
       ]
     },
     {
@@ -34,6 +52,14 @@
         "Route 201 by now?\r",
         "He just can’t sit still, that boy.\n",
         "I wonder who he takes after?"
+      ],
+      "fr_FR": [
+        "Mère de {STRVAR_1 3, 1, 0}: Il est sorti\n",
+        "comme une flèche, comme d’habitude.\r",
+        "Je pense qu’il doit déjà avoir atteint la\n",
+        "Route 201 maintenant...\r",
+        "Il ne tient pas en place, ce petit.\n",
+        "Je me demande de qui il tient!"
       ]
     },
     {
@@ -43,6 +69,12 @@
         "should be out on Route 201 by now.\r",
         "He just can’t sit still, that boy.\n",
         "I wonder who he takes after?"
+      ],
+      "fr_FR": [
+        "Mère de {STRVAR_1 3, 1, 0}: {STRVAR_1 3, 1, 0}\n",
+        "devrait être sur la Route 201...\r",
+        "Il ne tient pas en place, ce petit.\n",
+        "Je me demande de qui il tient!"
       ]
     },
     {
@@ -50,6 +82,10 @@
       "en_US": [
         "{STRVAR_1 3, 1, 0}’s mom: Oh, you’ve\n",
         "become friends with a Pokémon, too."
+      ],
+      "fr_FR": [
+        "Mère de {STRVAR_1 3, 1, 0}: Oh, tu t’es fait\n",
+        "un ami Pokémon, toi aussi!"
       ]
     },
     {
@@ -61,6 +97,15 @@
         "becoming the greatest Trainer ever...\r",
         "He just can’t sit still, that boy.\n",
         "I wonder who he takes after?"
+      ],
+      "fr_FR": [
+        "Mère de {STRVAR_1 3, 1, 0}: {STRVAR_1 3, 1, 0} est\n",
+        "sorti comme une fusée, comme\f",
+        "d’habitude.\r",
+        "Il a crié qu’il allait devenir le\n",
+        "meilleur Dresseur au monde...\r",
+        "Il ne tient pas en place, ce garçon.\n",
+        "Je me demande de qui il tient..."
       ]
     }
   ]

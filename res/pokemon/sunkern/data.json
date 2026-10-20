@@ -7,7 +7,10 @@
         "special_attack": 30,
         "special_defense": 30
     },
-    "types": [ "TYPE_GRASS", "TYPE_GRASS" ],
+    "types": [
+        "TYPE_GRASS",
+        "TYPE_GRASS"
+    ],
     "catch_rate": 235,
     "base_exp_reward": 52,
     "ev_yields": {
@@ -26,27 +29,72 @@
     "hatch_cycles": 20,
     "base_friendship": 70,
     "exp_rate": "EXP_RATE_MEDIUM_SLOW",
-    "egg_groups": [ "EGG_GROUP_GRASS", "EGG_GROUP_GRASS" ],
-    "abilities": [ "ABILITY_CHLOROPHYLL", "ABILITY_SOLAR_POWER" ],
+    "egg_groups": [
+        "EGG_GROUP_GRASS",
+        "EGG_GROUP_GRASS"
+    ],
+    "abilities": [
+        "ABILITY_CHLOROPHYLL",
+        "ABILITY_SOLAR_POWER"
+    ],
     "safari_flee_rate": 0,
     "body_color": "MON_COLOR_YELLOW",
     "flip_sprite": false,
     "icon_palette": 1,
     "learnset": {
         "by_level": [
-            [ 1, "MOVE_ABSORB" ],
-            [ 1, "MOVE_GROWTH" ],
-            [ 5, "MOVE_MEGA_DRAIN" ],
-            [ 9, "MOVE_INGRAIN" ],
-            [ 13, "MOVE_GRASS_WHISTLE" ],
-            [ 17, "MOVE_LEECH_SEED" ],
-            [ 21, "MOVE_ENDEAVOR" ],
-            [ 25, "MOVE_WORRY_SEED" ],
-            [ 29, "MOVE_RAZOR_LEAF" ],
-            [ 33, "MOVE_SYNTHESIS" ],
-            [ 37, "MOVE_SUNNY_DAY" ],
-            [ 41, "MOVE_GIGA_DRAIN" ],
-            [ 45, "MOVE_SEED_BOMB" ]
+            [
+                1,
+                "MOVE_ABSORB"
+            ],
+            [
+                1,
+                "MOVE_GROWTH"
+            ],
+            [
+                5,
+                "MOVE_MEGA_DRAIN"
+            ],
+            [
+                9,
+                "MOVE_INGRAIN"
+            ],
+            [
+                13,
+                "MOVE_GRASS_WHISTLE"
+            ],
+            [
+                17,
+                "MOVE_LEECH_SEED"
+            ],
+            [
+                21,
+                "MOVE_ENDEAVOR"
+            ],
+            [
+                25,
+                "MOVE_WORRY_SEED"
+            ],
+            [
+                29,
+                "MOVE_RAZOR_LEAF"
+            ],
+            [
+                33,
+                "MOVE_SYNTHESIS"
+            ],
+            [
+                37,
+                "MOVE_SUNNY_DAY"
+            ],
+            [
+                41,
+                "MOVE_GIGA_DRAIN"
+            ],
+            [
+                45,
+                "MOVE_SEED_BOMB"
+            ]
         ],
         "by_tm": [
             "TM06",
@@ -174,6 +222,18 @@
                 "あるあさ　とつぜん　ふってくる。\n",
                 "なつが　さむかった　つぎの　としは\n",
                 "かずが　ばくはつてきに　ふえる。"
+            ]
+        },
+        "local_version": {
+            "entry_text": [
+                "It suddenly falls out of the sky in\n",
+                "the morning. A year after a cold\n",
+                "summer, their population explodes."
+            ],
+            "entry_text_fr": [
+                "Il tombe du ciel sans crier gare en\n",
+                "matinée. On en croise énormément \n",
+                "l’année suivant un été froid."
             ]
         }
     },

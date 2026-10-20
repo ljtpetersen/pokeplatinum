@@ -26,5 +26,13 @@
   "battlePocket": "BATTLE_POCKET_MASK_NONE",
   "fieldUseFunc": "ITEM_USE_FUNC_NONE",
   "battleUseCategory": "BATTLE_USE_CATEGORY_NONE",
-  "itemUseParams": null
+  "itemUseParams": null,
+  "name_fr": "Ceint. Force",
+  "description_fr": [
+    "Objet à tenir permettant au porteur,\n",
+    "s’il a ses PV pleins, d’éviter un\n",
+    "potentiel K.O. en conservant un PV."
+  ],
+  "plural_fr": "Ceint. Force",
+  "article_fr": null
 }

@@ -25,5 +25,13 @@
     "contest": {
         "effect": "CONTEST_EFFECT_BASIC",
         "type": "CONTEST_TYPE_TOUGH"
-    }
+    },
+    "name_fr": "Purédpois",
+    "description_fr": [
+        "Le lanceur attaque à\n",
+        "l’aide d’une éruption\n",
+        "de gaz répugnants.\n",
+        "Peut aussi\n",
+        "empoisonner l’ennemi."
+    ]
 }

@@ -41,5 +41,13 @@
     "bitterness": 10,
     "sourness": 10,
     "smoothness": 20
-  }
+  },
+  "name_fr": "Baie Oran",
+  "description_fr": [
+    "Ingrédient pour Poffin.\n",
+    "Utilisée ou tenue, cette Baie restaure\n",
+    "10 PV au Pokémon."
+  ],
+  "plural_fr": "Baie Oran",
+  "article_fr": null
 }

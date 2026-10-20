@@ -3,207 +3,258 @@
   "messages": [
     {
       "id": "pl_msg_00000688_00000",
-      "en_US": "None"
+      "en_US": "None",
+      "fr_FR": "Aucun"
     },
     {
       "id": "pl_msg_00000688_00001",
-      "en_US": "Hokkaido (Sapporo)"
+      "en_US": "Hokkaido (Sapporo)",
+      "fr_FR": "Hokkaido (Sapporo)"
     },
     {
       "id": "pl_msg_00000688_00002",
-      "en_US": "Hokkaido (Hakodate)"
+      "en_US": "Hokkaido (Hakodate)",
+      "fr_FR": "Hokkaido (Hakodate)"
     },
     {
       "id": "pl_msg_00000688_00003",
-      "en_US": "Hokkaido (Wakkanai)"
+      "en_US": "Hokkaido (Wakkanai)",
+      "fr_FR": "Hokkaido (Wakkanai)"
     },
     {
       "id": "pl_msg_00000688_00004",
-      "en_US": "Hokkaido (Kushiro)"
+      "en_US": "Hokkaido (Kushiro)",
+      "fr_FR": "Hokkaido (Kushiro)"
     },
     {
       "id": "pl_msg_00000688_00005",
-      "en_US": "Aomori"
+      "en_US": "Aomori",
+      "fr_FR": "Aomori"
     },
     {
       "id": "pl_msg_00000688_00006",
-      "en_US": "Iwate"
+      "en_US": "Iwate",
+      "fr_FR": "Iwate"
     },
     {
       "id": "pl_msg_00000688_00007",
-      "en_US": "Miyagi"
+      "en_US": "Miyagi",
+      "fr_FR": "Miyagi"
     },
     {
       "id": "pl_msg_00000688_00008",
-      "en_US": "Akita"
+      "en_US": "Akita",
+      "fr_FR": "Akita"
     },
     {
       "id": "pl_msg_00000688_00009",
-      "en_US": "Yamagata"
+      "en_US": "Yamagata",
+      "fr_FR": "Yamagata"
     },
     {
       "id": "pl_msg_00000688_00010",
-      "en_US": "Fukushima"
+      "en_US": "Fukushima",
+      "fr_FR": "Fukushima"
     },
     {
       "id": "pl_msg_00000688_00011",
-      "en_US": "Ibaraki"
+      "en_US": "Ibaraki",
+      "fr_FR": "Ibaraki"
     },
     {
       "id": "pl_msg_00000688_00012",
-      "en_US": "Tochigi"
+      "en_US": "Tochigi",
+      "fr_FR": "Tochigi"
     },
     {
       "id": "pl_msg_00000688_00013",
-      "en_US": "Gunma"
+      "en_US": "Gunma",
+      "fr_FR": "Gunma"
     },
     {
       "id": "pl_msg_00000688_00014",
-      "en_US": "Saitama"
+      "en_US": "Saitama",
+      "fr_FR": "Saitama"
     },
     {
       "id": "pl_msg_00000688_00015",
-      "en_US": "Chiba"
+      "en_US": "Chiba",
+      "fr_FR": "Chiba"
     },
     {
       "id": "pl_msg_00000688_00016",
-      "en_US": "Tokyo"
+      "en_US": "Tokyo",
+      "fr_FR": "Tokyo"
     },
     {
       "id": "pl_msg_00000688_00017",
-      "en_US": "Kanagawa"
+      "en_US": "Kanagawa",
+      "fr_FR": "Kanagawa"
     },
     {
       "id": "pl_msg_00000688_00018",
-      "en_US": "Niigata"
+      "en_US": "Niigata",
+      "fr_FR": "Niigata"
     },
     {
       "id": "pl_msg_00000688_00019",
-      "en_US": "Toyama"
+      "en_US": "Toyama",
+      "fr_FR": "Toyama"
     },
     {
       "id": "pl_msg_00000688_00020",
-      "en_US": "Ishikawa"
+      "en_US": "Ishikawa",
+      "fr_FR": "Ishikawa"
     },
     {
       "id": "pl_msg_00000688_00021",
-      "en_US": "Fukui"
+      "en_US": "Fukui",
+      "fr_FR": "Fukui"
     },
     {
       "id": "pl_msg_00000688_00022",
-      "en_US": "Yamanashi"
+      "en_US": "Yamanashi",
+      "fr_FR": "Yamanashi"
     },
     {
       "id": "pl_msg_00000688_00023",
-      "en_US": "Nagano"
+      "en_US": "Nagano",
+      "fr_FR": "Nagano"
     },
     {
       "id": "pl_msg_00000688_00024",
-      "en_US": "Gifu"
+      "en_US": "Gifu",
+      "fr_FR": "Gifu"
     },
     {
       "id": "pl_msg_00000688_00025",
-      "en_US": "Shizuoka"
+      "en_US": "Shizuoka",
+      "fr_FR": "Shizuoka"
     },
     {
       "id": "pl_msg_00000688_00026",
-      "en_US": "Aichi"
+      "en_US": "Aichi",
+      "fr_FR": "Aichi"
     },
     {
       "id": "pl_msg_00000688_00027",
-      "en_US": "Mie"
+      "en_US": "Mie",
+      "fr_FR": "Mie"
     },
     {
       "id": "pl_msg_00000688_00028",
-      "en_US": "Shiga"
+      "en_US": "Shiga",
+      "fr_FR": "Shiga"
     },
     {
       "id": "pl_msg_00000688_00029",
-      "en_US": "Kyoto"
+      "en_US": "Kyoto",
+      "fr_FR": "Kyoto"
     },
     {
       "id": "pl_msg_00000688_00030",
-      "en_US": "Osaka"
+      "en_US": "Osaka",
+      "fr_FR": "Osaka"
     },
     {
       "id": "pl_msg_00000688_00031",
-      "en_US": "Hyogo"
+      "en_US": "Hyogo",
+      "fr_FR": "Hyogo"
     },
     {
       "id": "pl_msg_00000688_00032",
-      "en_US": "Nara"
+      "en_US": "Nara",
+      "fr_FR": "Nara"
     },
     {
       "id": "pl_msg_00000688_00033",
-      "en_US": "Wakayama"
+      "en_US": "Wakayama",
+      "fr_FR": "Wakayama"
     },
     {
       "id": "pl_msg_00000688_00034",
-      "en_US": "Tottori"
+      "en_US": "Tottori",
+      "fr_FR": "Tottori"
     },
     {
       "id": "pl_msg_00000688_00035",
-      "en_US": "Shimane"
+      "en_US": "Shimane",
+      "fr_FR": "Shimane"
     },
     {
       "id": "pl_msg_00000688_00036",
-      "en_US": "Okayama"
+      "en_US": "Okayama",
+      "fr_FR": "Okayama"
     },
     {
       "id": "pl_msg_00000688_00037",
-      "en_US": "Hiroshima"
+      "en_US": "Hiroshima",
+      "fr_FR": "Hiroshima"
     },
     {
       "id": "pl_msg_00000688_00038",
-      "en_US": "Yamaguchi"
+      "en_US": "Yamaguchi",
+      "fr_FR": "Yamaguchi"
     },
     {
       "id": "pl_msg_00000688_00039",
-      "en_US": "Tokushima"
+      "en_US": "Tokushima",
+      "fr_FR": "Tokushima"
     },
     {
       "id": "pl_msg_00000688_00040",
-      "en_US": "Kagawa"
+      "en_US": "Kagawa",
+      "fr_FR": "Kagawa"
     },
     {
       "id": "pl_msg_00000688_00041",
-      "en_US": "Ehime"
+      "en_US": "Ehime",
+      "fr_FR": "Ehime"
     },
     {
       "id": "pl_msg_00000688_00042",
-      "en_US": "Kochi"
+      "en_US": "Kochi",
+      "fr_FR": "Kochi"
     },
     {
       "id": "pl_msg_00000688_00043",
-      "en_US": "Fukuoka"
+      "en_US": "Fukuoka",
+      "fr_FR": "Fukuoka"
     },
     {
       "id": "pl_msg_00000688_00044",
-      "en_US": "Saga"
+      "en_US": "Saga",
+      "fr_FR": "Saga"
     },
     {
       "id": "pl_msg_00000688_00045",
-      "en_US": "Nagasaki"
+      "en_US": "Nagasaki",
+      "fr_FR": "Nagasaki"
     },
     {
       "id": "pl_msg_00000688_00046",
-      "en_US": "Kumamoto"
+      "en_US": "Kumamoto",
+      "fr_FR": "Kumamoto"
     },
     {
       "id": "pl_msg_00000688_00047",
-      "en_US": "Oita"
+      "en_US": "Oita",
+      "fr_FR": "Oita"
     },
     {
       "id": "pl_msg_00000688_00048",
-      "en_US": "Miyazaki"
+      "en_US": "Miyazaki",
+      "fr_FR": "Miyazaki"
     },
     {
       "id": "pl_msg_00000688_00049",
-      "en_US": "Kagoshima"
+      "en_US": "Kagoshima",
+      "fr_FR": "Kagoshima"
     },
     {
       "id": "pl_msg_00000688_00050",
-      "en_US": "Okinawa"
+      "en_US": "Okinawa",
+      "fr_FR": "Okinawa"
     }
   ]
 }

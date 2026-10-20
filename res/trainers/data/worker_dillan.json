@@ -32,11 +32,16 @@
             "en_US": [
                 "I work in the fiery foundry.\n",
                 "You bet I’m hot and sweaty!\r"
+            ],
+            "fr_FR": [
+                "Je travaille à la Forge Fuego.\n",
+                "Je suis prêt à mettre le feu!\r"
             ]
         },
         {
             "type": "TRMSG_DEFEAT",
-            "en_US": "I burned out...\n"
+            "en_US": "I burned out...\n",
+            "fr_FR": "Je suis cuit...\n"
         },
         {
             "type": "TRMSG_POST_BATTLE",
@@ -44,7 +49,13 @@
                 "I toughened up my muscles from\n",
                 "honest work.\r",
                 "Pokémon have nothing on me!\n"
+            ],
+            "fr_FR": [
+                "J’ai développé mes muscles grâce à\n",
+                "un travail honnête.\r",
+                "Les Pokémon sont nuls comparés à moi!\n"
             ]
         }
-    ]
+    ],
+    "name_fr": "Aristide"
 }

@@ -25,5 +25,13 @@
     "contest": {
         "effect": "CONTEST_EFFECT_MAX_VOLTAGE_ADVANTAGE",
         "type": "CONTEST_TYPE_BEAUTY"
-    }
+    },
+    "name_fr": "Giclédo",
+    "description_fr": [
+        "Le lanceur attaque \n",
+        "avec un jet d’eau.\n",
+        "Moins il a de PV et\n",
+        "moins l’attaque est\n",
+        "puissante."
+    ]
 }

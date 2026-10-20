@@ -45,6 +45,10 @@
             "en_US": [
                 "We teen Idols have a secret code\n",
                 "of conduct that’s strictly enforced."
+            ],
+            "fr_FR": [
+                "Nous autres les Stars, nous avons\n",
+                "un code de conduite très strict."
             ]
         },
         {
@@ -52,6 +56,10 @@
             "en_US": [
                 "For example, if an Idol wins, she has\n",
                 "to squeal and jump around.\r"
+            ],
+            "fr_FR": [
+                "Par exemple, si une Star gagne, elle\n",
+                "doit hurler de joie et sauter partout.\r"
             ]
         },
         {
@@ -59,7 +67,12 @@
             "en_US": [
                 "If an Idol loses, she must never act\n",
                 "angry. That’s a big no-no.\r"
+            ],
+            "fr_FR": [
+                "Si une Star perd un combat, elle ne doit\n",
+                "pas pleurer. Surtout pas pleurer.\r"
             ]
         }
-    ]
+    ],
+    "name_fr": "Perle"
 }

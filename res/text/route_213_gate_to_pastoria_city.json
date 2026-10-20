@@ -8,6 +8,12 @@
         "when you walk on a beach.\r",
         "Pokémon seem to enjoy leaving\n",
         "footprints as much as people."
+      ],
+      "fr_FR": [
+        "Quand tu marches sur la plage, tu\n",
+        "laisses des empreintes.\r",
+        "Les Pokémon sont comme nous, ils\n",
+        "adorent marcher dans le sable!"
       ]
     },
     {
@@ -15,7 +21,8 @@
       "en_US": [
         "Listen, do you know about the Battle\n",
         "Frontier?"
-      ]
+      ],
+      "fr_FR": "Dis, tu connais la Zone de Combat?"
     },
     {
       "id": "Route213GateToPastoriaCity_Text_YouKnow",
@@ -25,6 +32,12 @@
         "I hear it’s a fun place with facilities\n",
         "for battling through under different\f",
         "sets of rules."
+      ],
+      "fr_FR": [
+        "Tu m’as l’air d’être au parfum.\r",
+        "Il paraît que c’est comme un grand parc\n",
+        "d’attractions dédié au combat et soumis\f",
+        "à différentes règles."
       ]
     },
     {
@@ -35,6 +48,13 @@
         "I hear it’s a fun place with facilities\n",
         "for battling consecutively under\f",
         "different sets of rules."
+      ],
+      "fr_FR": [
+        "Je me disais aussi que t’avais l’air un\n",
+        "peu à l’ouest.\r",
+        "Il paraît que c’est comme un grand parc\n",
+        "d’attractions dédié au combat et soumis\f",
+        "à différentes règles."
       ]
     }
   ]

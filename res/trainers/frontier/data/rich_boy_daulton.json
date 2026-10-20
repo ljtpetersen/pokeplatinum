@@ -59,6 +59,10 @@
             "en_US": [
                 "The age of money has come to Pokémon\n",
                 "battling. I’ll teach you who is right."
+            ],
+            "fr_FR": [
+                "Quand on est riche, on a une option\n",
+                "sur la victoire. Regarde."
             ]
         },
         {
@@ -66,6 +70,10 @@
             "en_US": [
                 "You understand, don’t you?\n",
                 "What is right, and who is stronger?\r"
+            ],
+            "fr_FR": [
+                "Tu as compris?\n",
+                "Tu vois qui domine?\r"
             ]
         },
         {
@@ -73,7 +81,12 @@
             "en_US": [
                 "M-my Pokémon! What have you done?\n",
                 "What am I to do?!\r"
+            ],
+            "fr_FR": [
+                "Non! Qu’est-ce que tu as fait?\n",
+                "Je suis perdu!\r"
             ]
         }
-    ]
+    ],
+    "name_fr": "Danton"
 }

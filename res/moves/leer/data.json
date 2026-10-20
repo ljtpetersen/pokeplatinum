@@ -26,5 +26,12 @@
     "contest": {
         "effect": "CONTEST_EFFECT_NO_VOLTAGE_DOWN",
         "type": "CONTEST_TYPE_COOL"
-    }
+    },
+    "name_fr": "Groz’Yeux",
+    "description_fr": [
+        "Le lanceur fait les\n",
+        "gros yeux à l’ennemi\n",
+        "pour l’intimider et\n",
+        "baisser sa Défense."
+    ]
 }

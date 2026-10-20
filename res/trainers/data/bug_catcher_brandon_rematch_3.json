@@ -41,6 +41,11 @@
             "en_US": [
                 "So, listen. Tell me you’ve grown to\n",
                 "like bug Pokémon since we last met.\r"
+            ],
+            "fr_FR": [
+                "Alors, dis-moi. Tu as appris à aimer les\n",
+                "Pokémon de type Insecte depuis la\f",
+                "dernière fois?\r"
             ]
         },
         {
@@ -48,7 +53,13 @@
             "en_US": [
                 "I’m not going to be able to explain\n",
                 "the charms of bug Pokémon this way!\n"
+            ],
+            "fr_FR": [
+                "Je ne vais pas pouvoir t’expliquer les\n",
+                "charmes des Pokémon de type Insecte\f",
+                "comme ça!\n"
             ]
         }
-    ]
+    ],
+    "name_fr": "Hervé"
 }

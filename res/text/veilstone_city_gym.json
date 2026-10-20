@@ -15,6 +15,19 @@
         "Gym Leader.\r",
         "I take battling very seriously.\n",
         "Whenever you’re ready!\r"
+      ],
+      "fr_FR": [
+        "Salut.\n",
+        "C’est un plaisir de te rencontrer.\r",
+        "Je suis Mélina, le Champion de cette\n",
+        "Arène.\r",
+        "Je ne sais pas ce que c’est qu’être\n",
+        "forte, ni comment je suis devenue\f",
+        "Champion d’Arène.\r",
+        "Mais je ferai de mon mieux pour faire\n",
+        "honneur à mon rang.\r",
+        "Je prends le combat très au sérieux.\n",
+        "C’est quand tu veux!\r"
       ]
     },
     {
@@ -25,6 +38,13 @@
         "That was a tough loss.\n",
         "I learned a lot from it.\r",
         "Please, accept this Gym Badge.\r"
+      ],
+      "fr_FR": [
+        "... Très bien.\n",
+        "Tu as gagné.\r",
+        "Quel combat!\n",
+        "J’ai beaucoup appris.\r",
+        "Accepte ce Badge d’Arène, s’il te plaît.\r"
       ]
     },
     {
@@ -32,6 +52,10 @@
       "en_US": [
         "{STRVAR_1 3, 0, 0} received\n",
         "the Cobble Badge from Maylene."
+      ],
+      "fr_FR": [
+        "{STRVAR_1 3, 0, 0} obtient le\n",
+        "Badge Pavé de Mélina."
       ]
     },
     {
@@ -45,6 +69,18 @@
         "Badges, Pokémon obtained in trades\f",
         "will obey you up to Lv. 50.\r",
         "Oh, and please take this as well.\r"
+      ],
+      "fr_FR": [
+        "Hum...\n",
+        "Je ferais bien de te parler de ce Badge.\r",
+        "Grâce à ce Badge officiel de la Ligue\n",
+        "Pokémon, tu pourras utiliser la\f",
+        "capacité secrète Vol hors combat.\r",
+        "De plus, maintenant que tu as quatre\n",
+        "Badges, les Pokémon obtenus au cours\f",
+        "d’un échange t’obéiront jusqu’au\f",
+        "niveau 50.\r",
+        "Oh, j’ai une autre récompense.\r"
       ]
     },
     {
@@ -54,6 +90,12 @@
         "{STRVAR_1 6, 1, 0}.\r",
         "Um... That move inflicts damage,\n",
         "and it robs the target’s HP."
+      ],
+      "fr_FR": [
+        "La {STRVAR_1 8, 0, 0} contient\n",
+        "la capacité {STRVAR_1 6, 1, 0}.\r",
+        "Hum... Cette capacité inflige des dégâts\n",
+        "et dérobe les PV de la cible."
       ]
     },
     {
@@ -68,6 +110,17 @@
         "into being strong...\r",
         "But being with Pokémon lets us\n",
         "keep making the effort, doesn’t it?"
+      ],
+      "fr_FR": [
+        "Mince, j’ai une faim de loup...\r",
+        "Oh, excuse-moi, ce n’est rien.\n",
+        "Non, je n’ai rien dit.\r",
+        "{STRVAR_1 3, 0, 0}, je ne sais pas ce que\n",
+        "c’est que la force.\r",
+        "Je n’ai aucune idée des efforts à\n",
+        "fournir pour devenir forte...\r",
+        "Mais rester avec les Pokémon nous\n",
+        "pousse à progresser, pas vrai?"
       ]
     },
     {
@@ -87,6 +140,22 @@
         "If you want to battle her, smack the\n",
         "punching bags along the rails.\r",
         "You have to hit those bags hard!"
+      ],
+      "fr_FR": [
+        "Hé, salut!\n",
+        "Comment va notre futur Maître?\r",
+        "Le Champion de cette Arène utilise des\n",
+        "Pokémon de type Combat.\r",
+        "Elle est la terreur des Pokémon\n",
+        "de type Normal.\r",
+        "Mais! Et c’est un grand mais!\n",
+        "Entre nous...\r",
+        "Mélina, le Champion d’Arène, a dit\n",
+        "que les Pokémon de type Vol et Psy\f",
+        "lui posaient de gros problèmes!\r",
+        "Pour l’atteindre, fais glisser les sacs\n",
+        "de frappe le long des rails.\r",
+        "Vas-y franco!"
       ]
     },
     {
@@ -95,6 +164,12 @@
         "Oh! {STRVAR_1 3, 0, 0}!\n",
         "You’ve beaten the Gym Leader!\r",
         "Of course, I thought you’d win."
+      ],
+      "fr_FR": [
+        "Oh! {STRVAR_1 3, 0, 0}!\n",
+        "Tu as vaincu le Champion d’Arène!\r",
+        "Bien sûr, j’ai toujours su que\n",
+        "tu allais gagner."
       ]
     },
     {
@@ -103,6 +178,12 @@
         "Veilstone City Pokémon Gym\n",
         "Leader: Maylene\r",
         "Certified Trainers:\n",
+        "{STRVAR_1 3, 1, 0}"
+      ],
+      "fr_FR": [
+        "Arène Pokémon de Voilaroc\n",
+        "Champion: Mélina\r",
+        "Nouveau Dresseur reconnu:\n",
         "{STRVAR_1 3, 1, 0}"
       ]
     },
@@ -114,22 +195,35 @@
         "Certified Trainers:\n",
         "{STRVAR_1 3, 0, 0}\f",
         "{STRVAR_1 3, 1, 0}"
+      ],
+      "fr_FR": [
+        "Arène Pokémon de Voilaroc\n",
+        "Champion: Mélina\r",
+        "Nouveaux Dresseurs reconnus:\n",
+        "{STRVAR_1 3, 0, 0}\f",
+        "{STRVAR_1 3, 1, 0}"
       ]
     },
     {
       "id": "VeilstoneGym_Text_GoodDeedEveryDay",
-      "en_US": "A good deed for every day."
+      "en_US": "A good deed for every day.",
+      "fr_FR": "A chaque jour sa bonne action."
     },
     {
       "id": "VeilstoneGym_Text_TreasureEveryEncounter",
       "en_US": [
         "Treasure every encounter,\n",
         "for it is unique."
+      ],
+      "fr_FR": [
+        "Appréciez chaque nouvelle rencontre,\n",
+        "car elle est unique."
       ]
     },
     {
       "id": "VeilstoneGym_Text_OneDayAtATime",
-      "en_US": "One day at a time."
+      "en_US": "One day at a time.",
+      "fr_FR": "Chaque chose en son temps."
     }
   ]
 }

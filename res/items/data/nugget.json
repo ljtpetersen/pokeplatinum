@@ -26,5 +26,13 @@
   "battlePocket": "BATTLE_POCKET_MASK_NONE",
   "fieldUseFunc": "ITEM_USE_FUNC_NONE",
   "battleUseCategory": "BATTLE_USE_CATEGORY_NONE",
-  "itemUseParams": {}
+  "itemUseParams": {},
+  "name_fr": "Pépite",
+  "description_fr": [
+    "Pépite d’or pur qui brille\n",
+    "magnifiquement. Peut être vendue à bon\n",
+    "prix aux magasins."
+  ],
+  "plural_fr": "Pépite",
+  "article_fr": null
 }

@@ -11,6 +11,16 @@
         "I found it near Team Galactic’s building.\r",
         "I’m no Trainer, so can you take it off\n",
         "my hands?"
+      ],
+      "fr_FR": [
+        "Tu es Dresseur, pas vrai?\r",
+        "J’ai avec moi un Pokémon que j’aimerais\n",
+        "bien confier à quelqu’un.\r",
+        "C’est un PORYGON.\n",
+        "Je l’ai trouvé près du bâtiment de la\f",
+        "Team Galaxie.\r",
+        "Je ne suis pas Dresseur, tu veux bien\n",
+        "t’en occuper pour moi?"
       ]
     },
     {
@@ -21,6 +31,13 @@
         "someone to look after.\r",
         "It’s a Pokémon called PORYGON.\n",
         "Can you take it off my hands?"
+      ],
+      "fr_FR": [
+        "Tu es Dresseur, pas vrai?\r",
+        "J’ai avec moi un Pokémon que j’aimerais\n",
+        "bien confier à quelqu’un.\r",
+        "C’est un PORYGON.\n",
+        "Tu veux bien t’en occuper pour moi?"
       ]
     },
     {
@@ -30,17 +47,28 @@
         "That’ll make the PORYGON happy, too.\r",
         "I suspect it ran away from those Team\n",
         "Galactic goons.\r"
+      ],
+      "fr_FR": [
+        "Super! Merci!\n",
+        "Le PORYGON sera content, lui aussi.\r",
+        "J’ai l’impression qu’il a échappé à\n",
+        "ces sales types de la Team Galaxie.\r"
       ]
     },
     {
       "id": "VeilstoneCityNortheastHouse_Text_PlayerAcceptedThePorygon",
-      "en_US": "{STRVAR_1 3, 0, 0} accepted the PORYGON!\r"
+      "en_US": "{STRVAR_1 3, 0, 0} accepted the PORYGON!\r",
+      "fr_FR": "{STRVAR_1 3, 0, 0} accepte le PORYGON!\r"
     },
     {
       "id": "VeilstoneCityNortheastHouse_Text_AskNicknamePorygon",
       "en_US": [
         "Would you like to give a nickname\n",
         "to the PORYGON you received?"
+      ],
+      "fr_FR": [
+        "Veux-tu donner un surnom au PORYGON\n",
+        "que tu as obtenu?"
       ]
     },
     {
@@ -51,6 +79,12 @@
         "team of Pokémon with you.\r",
         "If you want this PORYGON, you’d better\n",
         "put one in a PC Box first."
+      ],
+      "fr_FR": [
+        "Merci!\r",
+        "Mais... ton équipe est déjà au complet.\r",
+        "Si tu veux ce PORYGON, va déposer un de\n",
+        "tes Pokémon dans une Boîte du PC."
       ]
     },
     {
@@ -59,6 +93,11 @@
         "Is that so...\r",
         "I’ll look after it for a while. Please\n",
         "come see me if you change your mind."
+      ],
+      "fr_FR": [
+        "Ah bon...\r",
+        "Je vais m’en occuper pour l’instant\n",
+        "alors. Reviens si tu changes d’avis."
       ]
     },
     {
@@ -68,6 +107,12 @@
         "much, I can’t sleep well.\r",
         "It’s so bizarre, like a robot that’s\n",
         "about to start moving."
+      ],
+      "fr_FR": [
+        "Le bâtiment de la Team Galaxie me gêne\n",
+        "tellement que je n’en dors plus.\r",
+        "Il est si bizarre, comme un robot géant\n",
+        "prêt à se mettre en branle."
       ]
     },
     {
@@ -79,6 +124,15 @@
         "“awesomely fashionable” at all.\r",
         "Still, Team Galactic does seem to have\n",
         "a huge supply of energy."
+      ],
+      "fr_FR": [
+        "Ces trucs piquants sur le bâtiment et\n",
+        "la façon dont ils bougent inutilement...\r",
+        "Décidément, nous n’avons pas la même\n",
+        "conception de la “mode”.\r",
+        "Cela dit, la Team Galaxie semble\n",
+        "disposer d’une inépuisable source\f",
+        "d’énergie."
       ]
     }
   ]

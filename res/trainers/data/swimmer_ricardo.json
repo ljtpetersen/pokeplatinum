@@ -23,11 +23,16 @@
             "en_US": [
                 "It might not look like it, but I’m\n",
                 "traveling now.\r"
+            ],
+            "fr_FR": [
+                "On ne dirait pas, à me voir comme ça,\n",
+                "mais je suis en voyage.\r"
             ]
         },
         {
             "type": "TRMSG_DEFEAT",
-            "en_US": "You’ve got the upper hand on me.\n"
+            "en_US": "You’ve got the upper hand on me.\n",
+            "fr_FR": "Tu as pris l’ascendant sur moi.\n"
         },
         {
             "type": "TRMSG_POST_BATTLE",
@@ -36,6 +41,12 @@
                 "be bigger challenges in front of you.\r",
                 "Go! Go as far as you can! You alone can\n",
                 "broaden your horizons.\n"
+            ],
+            "fr_FR": [
+                "Tu peux me croire, des épreuves\n",
+                "plus difficiles t’attendent.\r",
+                "Pars! Aussi loin que possible! Personne\n",
+                "d’autre ne peut élargir tes horizons.\n"
             ]
         },
         {
@@ -43,7 +54,12 @@
             "en_US": [
                 "I’m still on my journey...\n",
                 "Let’s have a battle!\r"
+            ],
+            "fr_FR": [
+                "Je suis toujours en voyage...\n",
+                "Allez, on fait un combat!\r"
             ]
         }
-    ]
+    ],
+    "name_fr": "Emile"
 }

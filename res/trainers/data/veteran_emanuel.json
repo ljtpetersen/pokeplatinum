@@ -39,7 +39,9 @@
     "messages": [
         {
             "type": "TRMSG_DEFEAT",
-            "en_US": "Tough, aren’t you...?\n"
+            "en_US": "Tough, aren’t you...?\n",
+            "fr_FR": "T’es coriace, hein...?"
         }
-    ]
+    ],
+    "name_fr": "Dylan"
 }

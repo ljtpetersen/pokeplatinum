@@ -32,11 +32,17 @@
             "en_US": [
                 "If I battle now, won’t it mess up my\n",
                 "usual pace?\r"
+            ],
+            "fr_FR": [
+                "Si je me bats maintenant, ça ne va pas\n",
+                "briser mon rythme habituel?\r"
             ]
         },
         {
             "type": "TRMSG_DEFEAT",
-            "en_US": "My pace is completely off...\n"
+            "en_US": "My pace is completely off...\n",
+            "fr_FR": "Mon rythme est complètement brisé...\n"
         }
-    ]
+    ],
+    "name_fr": "Damian"
 }

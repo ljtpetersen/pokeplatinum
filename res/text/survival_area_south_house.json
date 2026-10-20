@@ -9,6 +9,13 @@
         "paralyzed, or burned.\r",
         "I’ve got the Technical Machine for\n",
         "it right here. You want it?\r"
+      ],
+      "fr_FR": [
+        "Il y a une capacité qui double de \n",
+        "puissance si le Pokémon qui l’utilise\f",
+        "est empoisonné, paralysé ou brûlé.\r",
+        "J’ai la Capsule Technique pour \n",
+        "cette capacité. Tu la veux?\r"
       ]
     },
     {
@@ -18,6 +25,12 @@
         "to have.\r",
         "Your opponent will think twice about\n",
         "poisoning or paralyzing your Pokémon."
+      ],
+      "fr_FR": [
+        "Façade est une capacité très utile.\r",
+        "Ton adversaire y réfléchira à deux fois\n",
+        "avant d’empoisonner ou de paralyser\f",
+        "tes Pokémon."
       ]
     }
   ]

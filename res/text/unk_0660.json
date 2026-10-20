@@ -3,43 +3,53 @@
   "messages": [
     {
       "id": "pl_msg_00000660_00000",
-      "en_US": "No, but want to"
+      "en_US": "No, but want to",
+      "fr_FR": "J’aimerais bien"
     },
     {
       "id": "pl_msg_00000660_00001",
-      "en_US": "No, but want some"
+      "en_US": "No, but want some",
+      "fr_FR": "J’aimerais bien"
     },
     {
       "id": "pl_msg_00000660_00002",
-      "en_US": "Its wittiness"
+      "en_US": "Its wittiness",
+      "fr_FR": "Son intelligence"
     },
     {
       "id": "pl_msg_00000660_00003",
-      "en_US": "No, but gimme!"
+      "en_US": "No, but gimme!",
+      "fr_FR": "J’aimerais bien"
     },
     {
       "id": "pl_msg_00000660_00004",
-      "en_US": "This is the first"
+      "en_US": "This is the first",
+      "fr_FR": "C’est le premier"
     },
     {
       "id": "pl_msg_00000660_00005",
-      "en_US": "In between"
+      "en_US": "In between",
+      "fr_FR": "Ado"
     },
     {
       "id": "pl_msg_00000660_00006",
-      "en_US": "Water type"
+      "en_US": "Water type",
+      "fr_FR": "Eau"
     },
     {
       "id": "pl_msg_00000660_00007",
-      "en_US": "Exploit abilities"
+      "en_US": "Exploit abilities",
+      "fr_FR": "Capacités spé."
     },
     {
       "id": "pl_msg_00000660_00008",
-      "en_US": "Siblings"
+      "en_US": "Siblings",
+      "fr_FR": "Frères et sœurs"
     },
     {
       "id": "pl_msg_00000660_00009",
-      "en_US": "No, but want to"
+      "en_US": "No, but want to",
+      "fr_FR": "J’aimerais bien"
     }
   ]
 }

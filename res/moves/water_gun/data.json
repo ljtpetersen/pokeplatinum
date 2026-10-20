@@ -25,5 +25,11 @@
     "contest": {
         "effect": "CONTEST_EFFECT_BASIC",
         "type": "CONTEST_TYPE_CUTE"
-    }
+    },
+    "name_fr": "Pistolet à O",
+    "description_fr": [
+        "De l’eau est projetée\n",
+        "sur l’ennemi en arc de\n",
+        "cercle."
+    ]
 }

@@ -20,7 +20,9 @@
     "messages": [
         {
             "type": "TRMSG_DEFEAT",
-            "en_US": "You’re a lucky one...\n"
+            "en_US": "You’re a lucky one...\n",
+            "fr_FR": "Quelle chance tu as...\n"
         }
-    ]
+    ],
+    "name_fr": "Joelle"
 }

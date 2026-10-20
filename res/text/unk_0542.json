@@ -6,34 +6,42 @@
       "en_US": [
         "This Seal releases a cloud of\n",
         "small pink hearts."
-      ]
+      ],
+      "fr_FR": "Sceau qui libère de petits cœurs roses."
     },
     {
       "id": "pl_msg_00000542_00001",
       "en_US": [
         "This Seal releases a cloud of\n",
         "big pink hearts."
-      ]
+      ],
+      "fr_FR": "Sceau qui libère de gros cœurs roses."
     },
     {
       "id": "pl_msg_00000542_00002",
       "en_US": [
         "This Seal releases a cloud of\n",
         "small black hearts."
-      ]
+      ],
+      "fr_FR": "Sceau qui libère de petits cœurs noirs."
     },
     {
       "id": "pl_msg_00000542_00003",
       "en_US": [
         "This Seal releases a cloud of\n",
         "big black hearts."
-      ]
+      ],
+      "fr_FR": "Sceau qui libère de gros cœurs noirs."
     },
     {
       "id": "pl_msg_00000542_00004",
       "en_US": [
         "This Seal releases pink hearts that\n",
         "float up a little."
+      ],
+      "fr_FR": [
+        "Sceau qui libère quelques cœurs roses\n",
+        "qui s’envolent."
       ]
     },
     {
@@ -41,6 +49,10 @@
       "en_US": [
         "This Seal releases pink hearts that\n",
         "float up."
+      ],
+      "fr_FR": [
+        "Sceau qui libère plein de cœurs roses\n",
+        "qui s’envolent."
       ]
     },
     {
@@ -48,6 +60,10 @@
       "en_US": [
         "This Seal releases a few popping yellow\n",
         "stars."
+      ],
+      "fr_FR": [
+        "Sceau qui libère quelques étoiles\n",
+        "jaunes."
       ]
     },
     {
@@ -55,6 +71,10 @@
       "en_US": [
         "This Seal releases many popping yellow\n",
         "stars."
+      ],
+      "fr_FR": [
+        "Sceau qui libère de nombreuses étoiles\n",
+        "jaunes."
       ]
     },
     {
@@ -62,6 +82,10 @@
       "en_US": [
         "This Seal releases a few popping blue\n",
         "stars."
+      ],
+      "fr_FR": [
+        "Sceau qui libère quelques étoiles\n",
+        "bleues."
       ]
     },
     {
@@ -69,6 +93,10 @@
       "en_US": [
         "This Seal releases many popping blue\n",
         "stars."
+      ],
+      "fr_FR": [
+        "Sceau qui libère de nombreuses étoiles\n",
+        "bleues."
       ]
     },
     {
@@ -76,6 +104,10 @@
       "en_US": [
         "This Seal releases a few popping stars\n",
         "in changing colors."
+      ],
+      "fr_FR": [
+        "Sceau qui libère quelques étoiles\n",
+        "qui changent de couleur."
       ]
     },
     {
@@ -83,6 +115,10 @@
       "en_US": [
         "This Seal releases many popping stars\n",
         "in changing colors."
+      ],
+      "fr_FR": [
+        "Sceau qui libère de nombreuses étoiles\n",
+        "qui changent de couleur."
       ]
     },
     {
@@ -90,6 +126,10 @@
       "en_US": [
         "This Seal releases white lines that\n",
         "spread out."
+      ],
+      "fr_FR": [
+        "Sceau qui libère des traits blancs qui\n",
+        "s’étirent vers l’extérieur."
       ]
     },
     {
@@ -97,6 +137,10 @@
       "en_US": [
         "This Seal releases yellow lines that\n",
         "spread out."
+      ],
+      "fr_FR": [
+        "Sceau qui libère des traits jaunes qui\n",
+        "s’étirent vers l’extérieur."
       ]
     },
     {
@@ -104,6 +148,10 @@
       "en_US": [
         "This Seal releases black lines that\n",
         "spread out."
+      ],
+      "fr_FR": [
+        "Sceau qui libère des traits noirs qui\n",
+        "s’étirent vers l’extérieur."
       ]
     },
     {
@@ -111,6 +159,10 @@
       "en_US": [
         "This Seal releases blue lines that\n",
         "spread out."
+      ],
+      "fr_FR": [
+        "Sceau qui libère des traits bleus qui\n",
+        "s’étirent vers l’extérieur."
       ]
     },
     {
@@ -118,6 +170,10 @@
       "en_US": [
         "This Seal releases a towering cloud of\n",
         "white smoke."
+      ],
+      "fr_FR": [
+        "Sceau qui libère une fumée blanche vers\n",
+        "le haut."
       ]
     },
     {
@@ -125,6 +181,10 @@
       "en_US": [
         "This Seal releases a towering cloud of\n",
         "black smoke."
+      ],
+      "fr_FR": [
+        "Sceau qui libère une fumée noire vers\n",
+        "le haut."
       ]
     },
     {
@@ -132,6 +192,10 @@
       "en_US": [
         "This Seal releases a cloud of white\n",
         "smoke."
+      ],
+      "fr_FR": [
+        "Sceau qui libère une fumée blanche vers\n",
+        "le bas."
       ]
     },
     {
@@ -139,6 +203,10 @@
       "en_US": [
         "This Seal releases a cloud of black\n",
         "smoke."
+      ],
+      "fr_FR": [
+        "Sceau qui libère une fumée noire vers\n",
+        "le bas."
       ]
     },
     {
@@ -146,6 +214,10 @@
       "en_US": [
         "This Seal releases yellow bolts of\n",
         "electricity upward."
+      ],
+      "fr_FR": [
+        "Sceau qui libère des éclairs jaunes vers\n",
+        "le haut."
       ]
     },
     {
@@ -153,6 +225,10 @@
       "en_US": [
         "This Seal releases green bolts of\n",
         "electricity upward."
+      ],
+      "fr_FR": [
+        "Sceau qui libère des éclairs verts vers\n",
+        "le haut."
       ]
     },
     {
@@ -160,6 +236,10 @@
       "en_US": [
         "This Seal releases yellow bolts of\n",
         "electricity downward."
+      ],
+      "fr_FR": [
+        "Sceau qui libère des éclairs jaunes vers\n",
+        "le bas."
       ]
     },
     {
@@ -167,6 +247,10 @@
       "en_US": [
         "This Seal releases green bolts of\n",
         "electricity downward."
+      ],
+      "fr_FR": [
+        "Sceau qui libère des éclairs verts vers\n",
+        "le bas."
       ]
     },
     {
@@ -174,28 +258,42 @@
       "en_US": [
         "This Seal releases a small number of\n",
         "blue bubbles."
-      ]
+      ],
+      "fr_FR": "Sceau qui libère quelques bulles bleues."
     },
     {
       "id": "pl_msg_00000542_00025",
-      "en_US": "This Seal releases many blue bubbles.\n"
+      "en_US": "This Seal releases many blue bubbles.\n",
+      "fr_FR": [
+        "Sceau qui libère de nombreuses bulles\n",
+        "bleues."
+      ]
     },
     {
       "id": "pl_msg_00000542_00026",
       "en_US": [
         "This Seal releases a small number of\n",
         "pink bubbles."
-      ]
+      ],
+      "fr_FR": "Sceau qui libère quelques bulles roses."
     },
     {
       "id": "pl_msg_00000542_00027",
-      "en_US": "This Seal releases many pink bubbles.\n"
+      "en_US": "This Seal releases many pink bubbles.\n",
+      "fr_FR": [
+        "Sceau qui libère de nombreuses bulles\n",
+        "roses."
+      ]
     },
     {
       "id": "pl_msg_00000542_00028",
       "en_US": [
         "This Seal releases a small amount of\n",
         "orange flames."
+      ],
+      "fr_FR": [
+        "Sceau qui libère quelques boules de feu\n",
+        "orange."
       ]
     },
     {
@@ -203,6 +301,10 @@
       "en_US": [
         "This Seal releases a lot of orange\n",
         "flames."
+      ],
+      "fr_FR": [
+        "Sceau qui libère de nombreuses boules\n",
+        "de feu orange."
       ]
     },
     {
@@ -210,6 +312,10 @@
       "en_US": [
         "This Seal releases a small amount of\n",
         "blue flames."
+      ],
+      "fr_FR": [
+        "Sceau qui libère quelques boules de feu\n",
+        "bleues."
       ]
     },
     {
@@ -217,6 +323,10 @@
       "en_US": [
         "This Seal releases a lot of blue\n",
         "flames."
+      ],
+      "fr_FR": [
+        "Sceau qui libère de nombreuses boules\n",
+        "de feu bleues."
       ]
     },
     {
@@ -224,34 +334,42 @@
       "en_US": [
         "This Seal releases a cloud of red\n",
         "confetti."
-      ]
+      ],
+      "fr_FR": "Sceau qui libère des confettis rouges."
     },
     {
       "id": "pl_msg_00000542_00033",
       "en_US": [
         "This Seal releases a cloud of blue\n",
         "confetti."
-      ]
+      ],
+      "fr_FR": "Sceau qui libère des confettis bleus."
     },
     {
       "id": "pl_msg_00000542_00034",
       "en_US": [
         "This Seal releases a cloud of yellow\n",
         "confetti."
-      ]
+      ],
+      "fr_FR": "Sceau qui libère des confettis verts."
     },
     {
       "id": "pl_msg_00000542_00035",
       "en_US": [
         "This Seal releases a cloud of white\n",
         "confetti."
-      ]
+      ],
+      "fr_FR": "Sceau qui libère des confettis blancs."
     },
     {
       "id": "pl_msg_00000542_00036",
       "en_US": [
         "This Seal releases a shower of pink\n",
         "flower petals."
+      ],
+      "fr_FR": [
+        "Sceau qui fait tomber une pluie de\n",
+        "pétales roses."
       ]
     },
     {
@@ -259,6 +377,10 @@
       "en_US": [
         "This Seal releases pink flower\n",
         "petals."
+      ],
+      "fr_FR": [
+        "Sceau qui fait jaillir un jet de pétales\n",
+        "roses."
       ]
     },
     {
@@ -266,6 +388,10 @@
       "en_US": [
         "This Seal releases a shower of purple\n",
         "flower petals."
+      ],
+      "fr_FR": [
+        "Sceau qui fait tomber une pluie de\n",
+        "pétales mauves."
       ]
     },
     {
@@ -273,6 +399,10 @@
       "en_US": [
         "This Seal releases purple flower\n",
         "petals."
+      ],
+      "fr_FR": [
+        "Sceau qui fait jaillir un jet de pétales\n",
+        "mauves."
       ]
     },
     {
@@ -280,6 +410,10 @@
       "en_US": [
         "This Seal releases a shower of yellow\n",
         "flower petals."
+      ],
+      "fr_FR": [
+        "Sceau qui fait tomber une pluie de\n",
+        "pétales orange."
       ]
     },
     {
@@ -287,6 +421,10 @@
       "en_US": [
         "This Seal releases yellow flower\n",
         "petals."
+      ],
+      "fr_FR": [
+        "Sceau qui fait jaillir un jet de pétales\n",
+        "orange."
       ]
     },
     {
@@ -294,13 +432,18 @@
       "en_US": [
         "A green Seal featuring a treble clef\n",
         "design."
-      ]
+      ],
+      "fr_FR": "Sceau qui libère une clé de sol verte."
     },
     {
       "id": "pl_msg_00000542_00043",
       "en_US": [
         "A red Seal featuring a musical note\n",
         "design."
+      ],
+      "fr_FR": [
+        "Sceau qui libère une note de musique\n",
+        "rouge."
       ]
     },
     {
@@ -308,6 +451,10 @@
       "en_US": [
         "An orange Seal featuring a musical\n",
         "note design."
+      ],
+      "fr_FR": [
+        "Sceau qui libère une note de musique\n",
+        "orange."
       ]
     },
     {
@@ -315,6 +462,10 @@
       "en_US": [
         "A yellow Seal featuring a musical\n",
         "note design."
+      ],
+      "fr_FR": [
+        "Sceau qui libère une note de musique\n",
+        "jaune."
       ]
     },
     {
@@ -322,6 +473,10 @@
       "en_US": [
         "A blue Seal featuring a musical\n",
         "note design."
+      ],
+      "fr_FR": [
+        "Sceau qui libère une note de musique\n",
+        "bleue."
       ]
     },
     {
@@ -329,6 +484,10 @@
       "en_US": [
         "A lime green Seal featuring a musical\n",
         "note design."
+      ],
+      "fr_FR": [
+        "Sceau qui libère une note de musique\n",
+        "verte."
       ]
     },
     {
@@ -336,6 +495,10 @@
       "en_US": [
         "A navy blue Seal featuring a musical\n",
         "note design."
+      ],
+      "fr_FR": [
+        "Sceau qui libère une note de musique\n",
+        "bleu marine."
       ]
     },
     {
@@ -343,6 +506,10 @@
       "en_US": [
         "A special Seal that makes a\n",
         "spectacular splash."
+      ],
+      "fr_FR": [
+        "Sceau spécial qui libère une\n",
+        "formidable éclaboussure."
       ]
     },
     {
@@ -350,6 +517,10 @@
       "en_US": [
         "A special Seal that explodes in a\n",
         "spectacular fashion."
+      ],
+      "fr_FR": [
+        "Sceau spécial qui libère une\n",
+        "formidable explosion."
       ]
     },
     {
@@ -357,6 +528,10 @@
       "en_US": [
         "A special Seal that releases pretty\n",
         "sparkles."
+      ],
+      "fr_FR": [
+        "Sceau spécial qui libère de magnifiques\n",
+        "étincelles."
       ]
     }
   ]

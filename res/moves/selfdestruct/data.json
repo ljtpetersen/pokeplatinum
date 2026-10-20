@@ -26,5 +26,13 @@
     "contest": {
         "effect": "CONTEST_EFFECT_ALL_SAME_JUDGE",
         "type": "CONTEST_TYPE_BEAUTY"
-    }
+    },
+    "name_fr": "Destruction",
+    "description_fr": [
+        "Le lanceur explose\n",
+        "en blessant tous les\n",
+        "autres Pokémon au\n",
+        "combat. Le lanceur\n",
+        "tombe K.O."
+    ]
 }

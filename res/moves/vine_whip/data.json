@@ -27,5 +27,11 @@
     "contest": {
         "effect": "CONTEST_EFFECT_BASIC",
         "type": "CONTEST_TYPE_COOL"
-    }
+    },
+    "name_fr": "Fouet Lianes",
+    "description_fr": [
+        "Fouette l’ennemi avec\n",
+        "de fines lianes pour\n",
+        "infliger des dégâts."
+    ]
 }

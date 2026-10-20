@@ -3,7 +3,8 @@
   "messages": [
     {
       "id": "Route217_Text_OhPlayer",
-      "en_US": "Maylene: Oh, {STRVAR_1 3, 0, 0}!\r"
+      "en_US": "Maylene: Oh, {STRVAR_1 3, 0, 0}!\r",
+      "fr_FR": "Mélina: Oh, {STRVAR_1 3, 0, 0}!\r"
     },
     {
       "id": "Route217_Text_GoingToSnowpointCity",
@@ -21,6 +22,21 @@
         "Really, I’m not cold at all.\r",
         "I’ll be going now.\n",
         "Please take care!\r"
+      ],
+      "fr_FR": [
+        "Tu es en route pour Frimapic?\n",
+        "Moi aussi.\r",
+        "Avec la capacité Vol, je pourrais y être\n",
+        "instantanément, mais la marche fait\f",
+        "partie de mon entraînement.\r",
+        "Ça ne me dérange pas.\r",
+        "Je suis habituée au froid et à déambuler\n",
+        "pieds nus et légèrement vêtue.\r",
+        "Atchoum!\r",
+        "Oh, ce n’est rien. Ne va pas croire\n",
+        "que j’ai froid.\r",
+        "Je dois y aller.\n",
+        "Bonne chance!\r"
       ]
     },
     {
@@ -30,6 +46,12 @@
         "my Pokétch.\r",
         "I’m looking for things buried under\n",
         "the snow."
+      ],
+      "fr_FR": [
+        "J’utilise le Radar à Objet de\n",
+        "ma Pokémontre.\r",
+        "Je cherche des choses enfouies\n",
+        "sous la neige."
       ]
     },
     {
@@ -37,6 +59,10 @@
       "en_US": [
         "The boulder is encrusted with ice.\n",
         "It is bone chilling to touch."
+      ],
+      "fr_FR": [
+        "Le rocher est enveloppé de glace.\n",
+        "Il est glacial au toucher."
       ]
     },
     {
@@ -44,6 +70,10 @@
       "en_US": [
         "Rt. 217\n",
         "Lake Acuity"
+      ],
+      "fr_FR": [
+        "Route 217\n",
+        "Lac Savoir"
       ]
     }
   ]

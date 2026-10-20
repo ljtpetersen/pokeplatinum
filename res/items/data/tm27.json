@@ -27,5 +27,13 @@
   "fieldUseFunc": "ITEM_USE_FUNC_TM_HM",
   "battleUseCategory": "BATTLE_USE_CATEGORY_NONE",
   "itemUseParams": null,
-  "teachesMove": "MOVE_RETURN"
+  "teachesMove": "MOVE_RETURN",
+  "name_fr": "CT27",
+  "description_fr": [
+    "Une attaque furieuse dont la puissance\n",
+    "augmente quand le Pokémon apprécie\n",
+    "son Dresseur."
+  ],
+  "plural_fr": "CT27",
+  "article_fr": null
 }

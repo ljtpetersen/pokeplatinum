@@ -9,11 +9,19 @@
         "Double Battle challenges.\r",
         "Please be aware that these challenges\n",
         "are designed for a single Trainer.\r"
+      ],
+      "fr_FR": [
+        "Bienvenue dans l’Usine de Combat!\r",
+        "Je suis votre guide pour les \n",
+        "Combats Solo et Duo.\r",
+        "Ils sont conçus pour un seul\n",
+        "Dresseur.\r"
       ]
     },
     {
       "id": "BattleFactory_Text_TakeWhichChallenge",
-      "en_US": "Which challenge would you like to take?"
+      "en_US": "Which challenge would you like to take?",
+      "fr_FR": "Quel défi souhaitez-vous relever?"
     },
     {
       "id": "BattleFactory_Text_ExplainSingleDoubleChallenge",
@@ -37,6 +45,27 @@
         "If you don’t save, you will be\n",
         "disqualified from your challenge.\r",
         "Please be aware of that!\r"
+      ],
+      "fr_FR": [
+        "L’Usine de Combat propose des Combats\n",
+        "Solo et des Combats Duo, où seuls sont\f",
+        "autorisés les Pokémon de location.\r",
+        "Une fois à l’intérieur, le défi se\n",
+        "poursuit jusqu’à la défaite.\r",
+        "Après chaque victoire, vous pourrez\n",
+        "troquer un de vos Pokémon de location\f",
+        "contre un autre de l’équipe adverse.\r",
+        "Avec l’option niveau 50, vos Pokémon ne\n",
+        "connaissent que des capacités faibles.\r",
+        "En revanche, avec l’option niveau libre,\n",
+        "vous débutez avec des Pokémon de\f",
+        "niveau 100 aux capacités puissantes.\r",
+        "Enchaînez sept victoires à la suite et\n",
+        "vous gagnerez des Points de Combat.\r",
+        "Si vous voulez interrompre votre \n",
+        "progression, vous devrez sauvegarder.\r",
+        "Si vous ne le faites pas, nous \n",
+        "devrons vous disqualifier.\r"
       ]
     },
     {
@@ -47,6 +76,13 @@
         "challenge.\r",
         "Please be aware that this challenge\n",
         "requires two Trainers.\r"
+      ],
+      "fr_FR": [
+        "Bienvenue dans l’Usine de Combat!\r",
+        "Je suis votre guide pour les \n",
+        "Combats Multi.\r",
+        "Ils sont conçus pour des équipes de \n",
+        "deux Dresseurs.\r"
       ]
     },
     {
@@ -54,6 +90,10 @@
       "en_US": [
         "Would you like to take the Battle\n",
         "Factory Multi Battle challenge?"
+      ],
+      "fr_FR": [
+        "Voulez-vous relever le défi\n",
+        "d’un Combat Multi?"
       ]
     },
     {
@@ -77,17 +117,44 @@
         "from the start.\r",
         "Please note: a Battle Factory Multi\n",
         "Battle challenge can’t be interrupted.\r"
+      ],
+      "fr_FR": [
+        "Pour les Combats Multi, vous pouvez\n",
+        "faire équipe avec un ami et combattre\f",
+        "avec des Pokémon de location.\r",
+        "Vous aurez droit à deux Pokémon de\n",
+        "location chacun.\r",
+        "Une fois à l’intérieur, vous enchaînerez\n",
+        "les combats jusqu’à la défaite.\r",
+        "Après chaque victoire, vous ou votre\n",
+        "partenaire pourrez troquer un de vos\f",
+        "Pokémon contre un de l’équipe adverse.\r",
+        "Remportez sept combats à la suite et\n",
+        "vous gagnerez des Points de Combat.\r",
+        "Avec l’option niveau 50, vos Pokémon ne\n",
+        "connaissent que des capacités faibles.\r",
+        "Avec l’option niveau libre, par contre,\n",
+        "vous débutez avec des Pokémon de\f",
+        "niveau 100 aux capacités puissantes.\r",
+        "Notez bien qu’à l’Usine de Combat, les\n",
+        "Combats Multi ne peuvent être\f",
+        "interrompus.\r"
       ]
     },
     {
       "id": "BattleFactory_Text_HopeToSeeYouAgain",
-      "en_US": "We hope to see you again!"
+      "en_US": "We hope to see you again!",
+      "fr_FR": "A une prochaine fois peut-être!"
     },
     {
       "id": "BattleFactory_Text_WhichChallengeLevel",
       "en_US": [
         "Which challenge level would you like to\n",
         "play? Level 50 or Open Level?"
+      ],
+      "fr_FR": [
+        "Quel défi souhaitez-vous relever?\n",
+        "Niveau 50 ou niveau libre?"
       ]
     },
     {
@@ -95,15 +162,21 @@
       "en_US": [
         "You must save the game before I\n",
         "show you in. Is that OK?"
+      ],
+      "fr_FR": [
+        "Vous devez sauvegarder la partie avant\n",
+        "d’entrer. C’est d’accord?"
       ]
     },
     {
       "id": "BattleFactory_Text_ThisWayPlease",
-      "en_US": "Right this way, please!"
+      "en_US": "Right this way, please!",
+      "fr_FR": "Par ici, s’il vous plaît!"
     },
     {
       "id": "BattleFactory_Text_LookForwardToNextVisit",
-      "en_US": "We look forward to your next visit.\r"
+      "en_US": "We look forward to your next visit.\r",
+      "fr_FR": "N’hésitez pas à revenir nous voir.\r"
     },
     {
       "id": "BattleFactory_Text_MustSaveBeforeResuming",
@@ -111,6 +184,12 @@
         "We’ve missed you!\r",
         "You must save the game before you\n",
         "resume your challenge. Please wait."
+      ],
+      "fr_FR": [
+        "Contents de vous revoir!\r",
+        "Vous devez sauvegarder la partie avant\n",
+        "de reprendre le défi.\r",
+        "Veuillez patienter."
       ]
     },
     {
@@ -121,6 +200,13 @@
         "challenge last time.\r",
         "Because of that, you have been\n",
         "disqualified from your challenge!\r"
+      ],
+      "fr_FR": [
+        "Je regrette.\r",
+        "Vous n’avez pas sauvegardé avant\n",
+        "l’interruption de votre dernier défi.\r",
+        "En conséquence, nous sommes \n",
+        "obligés de vous disqualifier!\r"
       ]
     },
     {
@@ -129,6 +215,11 @@
         "Congratulations!\r",
         "In honor of your victory, we present\n",
         "you this commemorative print!\r"
+      ],
+      "fr_FR": [
+        "Félicitations!\r",
+        "Pour célébrer votre victoire, nous vous\n",
+        "offrons cette photo en souvenir!\r"
       ]
     },
     {
@@ -136,6 +227,10 @@
       "en_US": [
         "The Gold Print was added to\n",
         "{STRVAR_1 3, 0, 0}’s Vs. Recorder!\r"
+      ],
+      "fr_FR": [
+        "{STRVAR_1 3, 0, 0} a la Photo d’Or dans son\n",
+        "Magnéto VS!\r"
       ]
     },
     {
@@ -143,39 +238,51 @@
       "en_US": [
         "The Silver Print was added to\n",
         "{STRVAR_1 3, 0, 0}’s Vs. Recorder!\r"
+      ],
+      "fr_FR": [
+        "{STRVAR_1 3, 0, 0} a la Photo d’Argent dans\n",
+        "son Magnéto VS!\r"
       ]
     },
     {
       "id": "BattleFactory_Text_SingleBattle",
-      "en_US": "SINGLE BATTLE"
+      "en_US": "SINGLE BATTLE",
+      "fr_FR": "COMBAT SOLO"
     },
     {
       "id": "BattleFactory_Text_DoubleBattle",
-      "en_US": "DOUBLE BATTLE"
+      "en_US": "DOUBLE BATTLE",
+      "fr_FR": "COMBAT DUO"
     },
     {
       "id": "BattleFactory_Text_TakeChallenge",
-      "en_US": "TAKE CHALLENGE"
+      "en_US": "TAKE CHALLENGE",
+      "fr_FR": "RELEVER LE DEFI"
     },
     {
       "id": "BattleFactory_Text_Info",
-      "en_US": "INFO"
+      "en_US": "INFO",
+      "fr_FR": "INFOS"
     },
     {
       "id": "BattleFactory_Text_CancelChallenge",
-      "en_US": "CANCEL"
+      "en_US": "CANCEL",
+      "fr_FR": "ANNULER"
     },
     {
       "id": "BattleFactory_Text_Level50",
-      "en_US": "LEVEL 50"
+      "en_US": "LEVEL 50",
+      "fr_FR": "NIVEAU 50"
     },
     {
       "id": "BattleFactory_Text_OpenLevel",
-      "en_US": "OPEN LEVEL"
+      "en_US": "OPEN LEVEL",
+      "fr_FR": "NIVEAU LIBRE"
     },
     {
       "id": "BattleFactory_Text_CancelLevel",
-      "en_US": "CANCEL"
+      "en_US": "CANCEL",
+      "fr_FR": "ANNULER"
     },
     {
       "id": "BattleFactory_Text_BecomeLeaderOrJoinGroup",
@@ -184,6 +291,12 @@
         "“BECOME LEADER.”\r",
         "The other Trainer must select\n",
         "“JOIN GROUP.”"
+      ],
+      "fr_FR": [
+        "L’un de vous deux devra sélectionner\n",
+        "“MENEUR”.\r",
+        "L’autre Dresseur devra choisir\n",
+        "“JOINDRE”."
       ]
     },
     {
@@ -191,6 +304,10 @@
       "en_US": [
         "We need to launch DS Wireless \n",
         "Communications."
+      ],
+      "fr_FR": [
+        "La communication sans fil DS va\n",
+        "démarrer."
       ]
     },
     {
@@ -198,6 +315,10 @@
       "en_US": [
         "You must save the game before I\n",
         "show you in. Please wait."
+      ],
+      "fr_FR": [
+        "Vos données vont être sauvegardées.\n",
+        "Veuillez patienter."
       ]
     },
     {
@@ -206,6 +327,11 @@
         "They’re very helpful here.\r",
         "The staff tell you about the next\n",
         "Trainer you’ll face."
+      ],
+      "fr_FR": [
+        "Le personnel est très serviable, ici.\r",
+        "Il te donne des informations sur le\n",
+        "prochain Dresseur à affronter."
       ]
     },
     {
@@ -215,6 +341,13 @@
         "Pokémon?\r",
         "Get your opponent’s lineup and choose\n",
         "accordingly. That’s rock-solid basic!"
+      ],
+      "fr_FR": [
+        "Tu veux un tuyau pour choisir tes\n",
+        "Pokémon au mieux?\r",
+        "Jette un coup d’œil à l’équipe adverse\n",
+        "et fais ton choix en conséquence.\r",
+        "Imparable!"
       ]
     },
     {
@@ -224,6 +357,12 @@
         "Pokémon used.\r",
         "That way, you’ll know what to expect\n",
         "when you’re choosing one for trade."
+      ],
+      "fr_FR": [
+        "Mémorise les capacités utilisées par\n",
+        "les Pokémon de ton adversaire.\r",
+        "Comme ça, pas de mauvaise surprise au\n",
+        "moment d’en choisir un à troquer."
       ]
     },
     {
@@ -237,6 +376,16 @@
         "Better Pokémon intelligence.\r",
         "That knowledge is power.\n",
         "It makes me a better Trainer."
+      ],
+      "fr_FR": [
+        "Laisse-moi t’expliquer comment\n",
+        "je procède.\r",
+        "Je choisis toujours des Pokémon que\n",
+        "je n’ai jamais élevés.\r",
+        "Comme ça, j’engrange de nouvelles\n",
+        "connaissances sur les Pokémon.\r",
+        "Savoir, c’est pouvoir. C’est ce qui fait\n",
+        "de moi un des meilleurs Dresseurs."
       ]
     },
     {
@@ -254,6 +403,19 @@
         "are rental Pokémon.\r",
         "Remember this, my favorite place to be.\n",
         "Its name: the Battle Factory!"
+      ],
+      "fr_FR": [
+        "Salut, salut!\n",
+        "Tu élèves des Pokémon?\r",
+        "Bien sûr, ça va sans dire.\r",
+        "Mais est-ce que tu en élèves de toutes\n",
+        "les catégories? Ça, c’est moins sûr.\r",
+        "Cet endroit est génial. Tout le monde\n",
+        "peut participer, même sans Pokémon.\r",
+        "Eh oui, puisque seuls sont autorisés\n",
+        "les Pokémon de location.\r",
+        "Souviens-toi! Mon endroit préféré,\n",
+        "ça s’appelle l’Usine de Combat!"
       ]
     },
     {
@@ -264,6 +426,13 @@
         "The Pokémon I battled with became my\n",
         "favorites.\r",
         "But I already have six favorites!"
+      ],
+      "fr_FR": [
+        "Mince alors, que faire maintenant?\n",
+        "Je ne m’attendais pas à ça!\r",
+        "Un Pokémon de location avec lequel j’ai\n",
+        "combattu est devenu mon chouchou.\r",
+        "Mais j’en ai déjà six, des chouchous!"
       ]
     },
     {
@@ -273,6 +442,12 @@
         "because they were so tough to battle.\r",
         "But when I had them on my side, they\n",
         "won me over with their power."
+      ],
+      "fr_FR": [
+        "Avant, je haïssais certains Pokémon car\n",
+        "ils étaient trop durs à battre.\r",
+        "Mais une fois que je les ai eus dans mon\n",
+        "équipe, leur puissance m’a conquis."
       ]
     }
   ]

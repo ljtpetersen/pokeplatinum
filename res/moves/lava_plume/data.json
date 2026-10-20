@@ -26,5 +26,13 @@
     "contest": {
         "effect": "CONTEST_EFFECT_FIRST_PERFORMANCE_ADVANTAGE",
         "type": "CONTEST_TYPE_TOUGH"
-    }
+    },
+    "name_fr": "Ebullilave",
+    "description_fr": [
+        "Des boules de feu\n",
+        "s’abattent sur tous\n",
+        "les autres Pokémon au\n",
+        "combat. Peut aussi\n",
+        "brûler."
+    ]
 }

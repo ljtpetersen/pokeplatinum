@@ -26,5 +26,13 @@
     "contest": {
         "effect": "CONTEST_EFFECT_BASIC",
         "type": "CONTEST_TYPE_SMART"
-    }
+    },
+    "name_fr": "Vague Psy",
+    "description_fr": [
+        "Une étrange onde\n",
+        "d’énergie chaude \n",
+        "frappe l’ennemi.\n",
+        "Cette attaque est\n",
+        "d’intensité variable."
+    ]
 }

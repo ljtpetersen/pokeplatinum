@@ -26,5 +26,13 @@
     "contest": {
         "effect": "CONTEST_EFFECT_FIRST_PERFORMANCE_ADVANTAGE",
         "type": "CONTEST_TYPE_COOL"
-    }
+    },
+    "name_fr": "Lame d’Air",
+    "description_fr": [
+        "Le lanceur attaque\n",
+        "avec une lame d’air\n",
+        "qui fend tout. Peut\n",
+        "aussi apeurer\n",
+        "l’ennemi."
+    ]
 }

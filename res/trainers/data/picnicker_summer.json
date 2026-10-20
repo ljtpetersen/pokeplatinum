@@ -26,6 +26,11 @@
                 "May we have a battle, please?\r",
                 "It will be something to lighten up this\n",
                 "boring picnic with.\r"
+            ],
+            "fr_FR": [
+                "On fait un combat, s’il te plaît?\r",
+                "Ça me changera les idées, ce\n",
+                "pique-nique est si ennuyeux.\r"
             ]
         },
         {
@@ -33,6 +38,10 @@
             "en_US": [
                 "We’re not going to win if we play\n",
                 "around like that...\n"
+            ],
+            "fr_FR": [
+                "On ne va pas gagner si on s’amuse\n",
+                "comme ça...\n"
             ]
         },
         {
@@ -40,7 +49,12 @@
             "en_US": [
                 "I’m going home to play with my\n",
                 "Pokémon!\n"
+            ],
+            "fr_FR": [
+                "Je rentre à la maison jouer avec mes\n",
+                "Pokémon!\n"
             ]
         }
-    ]
+    ],
+    "name_fr": "Séverine"
 }

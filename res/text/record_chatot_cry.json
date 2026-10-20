@@ -6,6 +6,10 @@
       "en_US": [
         "It will forget the saying it now\n",
         "knows. Is that OK?"
+      ],
+      "fr_FR": [
+        "Il oubliera l’expression qu’il\n",
+        "connaît actuellement. D’accord?"
       ]
     },
     {
@@ -13,37 +17,56 @@
       "en_US": [
         "Press the A or B Button, then speak\n",
         "into the microphone.\r"
+      ],
+      "fr_FR": [
+        "Appuyez sur le bouton A ou le bouton B,\n",
+        "puis parlez dans le micro.\r"
       ]
     },
     {
       "id": "RecordChatotCry_Text_ChatotLearnedSaying",
-      "en_US": "{STRVAR_1 1, 0, 0} learned a new saying!\r"
+      "en_US": "{STRVAR_1 1, 0, 0} learned a new saying!\r",
+      "fr_FR": [
+        "{STRVAR_1 1, 0, 0} a appris une nouvelle\n",
+        "expression!\r"
+      ]
     },
     {
       "id": "RecordChatotCry_Text_ChatotFailedToLearnSaying",
       "en_US": [
         "{STRVAR_1 1, 0, 0} failed to learn a new\n",
         "saying.\r"
+      ],
+      "fr_FR": [
+        "{STRVAR_1 1, 0, 0} n’a pas réussi à\n",
+        "apprendre une nouvelle expression.\r"
       ]
     },
     {
       "id": "RecordChatotCry_Text_WantToTryAgain",
-      "en_US": "Would you like to try again?"
+      "en_US": "Would you like to try again?",
+      "fr_FR": "Voulez-vous essayer de nouveau?"
     },
     {
       "id": "RecordChatotCry_Text_UnableToConcentrate",
       "en_US": [
         "It seems to be distracted and\n",
         "unable to concentrate..."
+      ],
+      "fr_FR": [
+        "Il a l’air distrait et incapable\n",
+        "de se concentrer..."
       ]
     },
     {
       "id": "RecordChatotCry_Text_Yes",
-      "en_US": "Yes"
+      "en_US": "Yes",
+      "fr_FR": "Oui"
     },
     {
       "id": "RecordChatotCry_Text_No",
-      "en_US": "No"
+      "en_US": "No",
+      "fr_FR": "Non"
     }
   ]
 }

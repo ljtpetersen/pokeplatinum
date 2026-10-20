@@ -51,6 +51,10 @@
             "en_US": [
                 "Wahaha!\n",
                 "Laughter brings good fortune!\r"
+            ],
+            "fr_FR": [
+                "Ha, ha, ha! Le bonheur va vers \n",
+                "ceux qui savent rire!\r"
             ]
         },
         {
@@ -58,6 +62,10 @@
             "en_US": [
                 "Wahahaha! There’s nothing that\n",
                 "I can do but laugh!\n"
+            ],
+            "fr_FR": [
+                "Ha, ha, ha! Je ne peux plus \n",
+                "m’arrêter de rire!\n"
             ]
         },
         {
@@ -65,6 +73,10 @@
             "en_US": [
                 "Wahahahaha!\n",
                 "...Go ahead, laugh at me--the loser!\n"
+            ],
+            "fr_FR": [
+                "Snif... J’ai perdu...\n",
+                "Allez, vas-y, moque-toi de moi!\n"
             ]
         },
         {
@@ -73,7 +85,14 @@
                 "Wahaha!\r",
                 "Laughter brings good fortune!\n",
                 "Forgetting your gloves brings a cold!\r"
+            ],
+            "fr_FR": [
+                "Ha, ha, ha! Le bonheur va vers \n",
+                "ceux qui savent rire!\r",
+                "Et le froid vers ceux qui \n",
+                "oublient leurs gants...\r"
             ]
         }
-    ]
+    ],
+    "name_fr": "Achille"
 }

@@ -32,17 +32,26 @@
             "en_US": [
                 "There are several clans of ninjas.\n",
                 "Are you from the Iga clan? Or Kouga?\r"
+            ],
+            "fr_FR": [
+                "Les ninjas font tous partie d’un clan.\n",
+                "Tu appartiens au clan Iga? Ou Kouga?\r"
             ]
         },
         {
             "type": "TRMSG_DEFEAT",
-            "en_US": "I’m not much of a ninja either way...\n"
+            "en_US": "I’m not much of a ninja either way...\n",
+            "fr_FR": "Je ne mérite pas d’être un ninja...\n"
         },
         {
             "type": "TRMSG_POST_BATTLE",
             "en_US": [
                 "I wonder why everyone stops being\n",
                 "a ninja when they grow up?\n"
+            ],
+            "fr_FR": [
+                "Pourquoi les gens arrêtent d’être\n",
+                "des ninjas quand ils grandissent?\n"
             ]
         },
         {
@@ -50,7 +59,12 @@
             "en_US": [
                 "I forged my willpower in the snow!\n",
                 "Witness my snowy might!\r"
+            ],
+            "fr_FR": [
+                "J’ai forgé ma volonté dans la neige!\n",
+                "Admire ma puissance neigeuse!\r"
             ]
         }
-    ]
+    ],
+    "name_fr": "Alexandre"
 }

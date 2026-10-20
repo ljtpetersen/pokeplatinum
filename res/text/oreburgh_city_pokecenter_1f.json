@@ -6,6 +6,10 @@
       "en_US": [
         "Yay! I got a Pal Pad at the\n",
         "Pokémon Wi-Fi Club downstairs!"
+      ],
+      "fr_FR": [
+        "Ouais! J’ai obtenu un Registre Ami au\n",
+        "Club Wi-Fi Pokémon en bas des escaliers!"
       ]
     },
     {
@@ -17,6 +21,15 @@
         "the Pokémon Storage System.\r",
         "That’s all you need to do to store\n",
         "or bring out your Pokémon."
+      ],
+      "fr_FR": [
+        "Allume le PC de n’importe quel Centre\n",
+        "Pokémon.\r",
+        "Connecte-toi au premier PC de la liste\n",
+        "pour accéder à la Gestion de Stocks\f",
+        "de Pokémon.\r",
+        "A partir de là, tu peux stocker ou\n",
+        "récupérer tes Pokémon à ta guise."
       ]
     },
     {
@@ -25,6 +38,11 @@
         "Hmmm...!\r",
         "What is your favorite kind of Trainer?\n",
         "Can you tell me?\r"
+      ],
+      "fr_FR": [
+        "Hum...\r",
+        "Quel est ton style de Dresseur\n",
+        "préféré, dis-moi?\r"
       ]
     },
     {
@@ -32,6 +50,10 @@
       "en_US": [
         "Which kind of Trainer would you like\n",
         "to be?"
+      ],
+      "fr_FR": [
+        "Quel type de Dresseur aimerais-tu\n",
+        "être?"
       ]
     },
     {
@@ -39,6 +61,10 @@
       "en_US": [
         "{STRVAR_1 14, 0, 0} is the kind of Trainer\n",
         "you want to be?"
+      ],
+      "fr_FR": [
+        "{STRVAR_1 14, 0, 0}? C’est ce que tu\n",
+        "aimerais être?"
       ]
     },
     {
@@ -48,11 +74,18 @@
         "of Trainer you like.\r",
         "If that’s the case, others may come\n",
         "to see you in the same way.\r"
+      ],
+      "fr_FR": [
+        "{STRVAR_1 14, 0, 0}! C’est le type de\n",
+        "Dresseur qui te plaît.\r",
+        "Tu sais, il y a peut-être des gens\n",
+        "dont tu es le modèle.\r"
       ]
     },
     {
       "id": "OreburghCityPokecenter1F_Text_IllJustTalkToYouLater",
-      "en_US": "OK, then I’ll just talk to you later!"
+      "en_US": "OK, then I’ll just talk to you later!",
+      "fr_FR": "OK, on en reparlera plus tard!"
     },
     {
       "id": "OreburghCityPokecenter1F_Text_WhatKindOfTrainerDoYouLike",
@@ -63,6 +96,15 @@
         "a different kind of Trainer.\r",
         "So, how about telling me what kind of\n",
         "Trainer that you like?\r"
+      ],
+      "fr_FR": [
+        "Salut! {STRVAR_1 14, 0, 0}... Les gens\n",
+        "pensent que tu es un Dresseur de ce\f",
+        "genre?\r",
+        "Mais tu pourrais aussi passer pour\n",
+        "autre chose.\r",
+        "Alors pourquoi ne me dis-tu pas\n",
+        "quel genre de Dresseur tu aimes?\r"
       ]
     },
     {
@@ -76,6 +118,17 @@
         "from others by force.\r",
         "It’s a mystery! They’re mysterious!\n",
         "Isn’t anyone investigating them?"
+      ],
+      "fr_FR": [
+        "Humm...\r",
+        "Qui, ou quoi, est derrière la Team\n",
+        "Galaxie?!\r",
+        "D’un côté, ils affirment développer\n",
+        "une source d’énergie de rêve...\r",
+        "Mais de l’autre, le bruit court qu’ils\n",
+        "volent les Pokémon des gens.\r",
+        "Mystère et boule de gomme!\n",
+        "Mais que fait la police???"
       ]
     },
     {
@@ -87,6 +140,16 @@
         "as stealing Pokémon.\r",
         "They’re still involved in developing \n",
         "dream energies, but ethically now."
+      ],
+      "fr_FR": [
+        "Humm...\r",
+        "Qui, ou quoi, est derrière la Team\n",
+        "Galaxie?!\r",
+        "Ces derniers temps, ils ont renoncé à\n",
+        "voler des Pokémon.\r",
+        "Ils se consacrent toujours au\n",
+        "développement d’une nouvelle énergie,\f",
+        "mais de manière éthique."
       ]
     },
     {
@@ -96,6 +159,13 @@
         "using wireless communications?\r",
         "Well now, you can capture it as a Battle\n",
         "Video using a Vs. Recorder!"
+      ],
+      "fr_FR": [
+        "Tu sais que tu peux te battre contre\n",
+        "tes amis via la communication sans fil?\r",
+        "Eh bien, maintenant, tu peux aussi\n",
+        "enregistrer tes combats à l’aide du\f",
+        "Magnéto VS!"
       ]
     },
     {
@@ -105,6 +175,12 @@
         "You have a Vs. Recorder!\r",
         "So, did you go to the Global Terminal in\n",
         "Jubilife City? Did ya? Did ya?"
+      ],
+      "fr_FR": [
+        "Cool!\n",
+        "Tu as un Magnéto VS!\r",
+        "Et tu as fait un tour au Terminal Mondial\n",
+        "de Féli-Cité? Alors? Alors?"
       ]
     },
     {
@@ -113,6 +189,12 @@
         "Hi, I’m Grace, the Idol! I’m just back\n",
         "from a show in Oreburgh Mine!\r",
         "So, shall we battle?"
+      ],
+      "fr_FR": [
+        "Salut, je suis Romane, la Star! Je viens\n",
+        "de donner un concert à la Mine de\f",
+        "Charbourg!\r",
+        "Alors, on se bat?"
       ]
     },
     {
@@ -120,6 +202,10 @@
       "en_US": [
         "I’ll let you join my fan club if you can\n",
         "beat me!\r"
+      ],
+      "fr_FR": [
+        "Si tu arrives à me vaincre, je te\n",
+        "laisserai rejoindre mon fan-club!\r"
       ]
     },
     {
@@ -127,6 +213,10 @@
       "en_US": [
         "You won’t accept my challenge?!\n",
         "But I’m an Idol..."
+      ],
+      "fr_FR": [
+        "Tu déclines mon défi?!\n",
+        "Pourtant je suis une Star..."
       ]
     },
     {
@@ -136,6 +226,12 @@
         "I hope you’ll support us!\r",
         "Just so you know, our latest single is\n",
         "titled “Jigglin’ Pokémon Wub”!"
+      ],
+      "fr_FR": [
+        "Et voilà, c’était moi et mon équipe\n",
+        "Pokémon en live! Tu peux applaudir!\r",
+        "Au passage, notre dernier single\n",
+        "s’intitule “Twist d’amour des Pokémon”!"
       ]
     }
   ]

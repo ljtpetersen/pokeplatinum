@@ -26,5 +26,13 @@
   "battlePocket": "BATTLE_POCKET_MASK_NONE",
   "fieldUseFunc": "ITEM_USE_FUNC_NONE",
   "battleUseCategory": "BATTLE_USE_CATEGORY_NONE",
-  "itemUseParams": null
+  "itemUseParams": null,
+  "name_fr": "Passe Bateau",
+  "description_fr": [
+    "Le ticket requis pour embarquer à bord\n",
+    "du ferry L’Océane. Il y a un bateau\n",
+    "dessiné dessus."
+  ],
+  "plural_fr": "Passe Bateau",
+  "article_fr": null
 }

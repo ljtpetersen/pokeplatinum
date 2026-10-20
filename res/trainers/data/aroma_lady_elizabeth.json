@@ -27,6 +27,10 @@
             "en_US": [
                 "I love Pokémon that smell sweet.\n",
                 "Like this one--get a whiff of this!\r"
+            ],
+            "fr_FR": [
+                "J’aime les Pokémon qui sentent bon.\n",
+                "Comme celui-là. Tiens, sens-moi ça!\r"
             ]
         },
         {
@@ -34,6 +38,10 @@
             "en_US": [
                 "Did you understand what I meant?\n",
                 "Didn’t my Pokémon smell nice?\n"
+            ],
+            "fr_FR": [
+                "Tu comprends ce que je voulais dire? \n",
+                "Mon Pokémon sentait très bon, non?\n"
             ]
         },
         {
@@ -41,6 +49,10 @@
             "en_US": [
                 "If you plant lots of Berries, you\n",
                 "can be surrounded by sweet scents.\n"
+            ],
+            "fr_FR": [
+                "Si tu sèmes beaucoup de Baies, de \n",
+                "douces senteurs flotteront dans l’air.\n"
             ]
         },
         {
@@ -48,7 +60,12 @@
             "en_US": [
                 "Sniff... Oh?\n",
                 "Your Pokémon smells nice!\r"
+            ],
+            "fr_FR": [
+                "Snif... Oh?\n",
+                "Ton Pokémon sent bon!\r"
             ]
         }
-    ]
+    ],
+    "name_fr": "Lorna"
 }

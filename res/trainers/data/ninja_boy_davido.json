@@ -23,6 +23,10 @@
             "en_US": [
                 "A ninja can use all kinds of skills.\n",
                 "Like this and like that!\r"
+            ],
+            "fr_FR": [
+                "Un ninja connaît plein de techniques.\n",
+                "Comme celle-ci et celle-là!\r"
             ]
         },
         {
@@ -30,6 +34,10 @@
             "en_US": [
                 "Hmm...\n",
                 "My ninja techniques failed to work...\n"
+            ],
+            "fr_FR": [
+                "Hum... Mes techniques ninja\n",
+                "n’ont pas fonctionné...\n"
             ]
         },
         {
@@ -38,6 +46,12 @@
                 "There’s a ninja Gym Leader somewhere\n",
                 "far away.\r",
                 "I should become a devotee of theirs.\n"
+            ],
+            "fr_FR": [
+                "Il existe un Champion d’Arène ninja,\n",
+                "très loin d’ici.\r",
+                "J’envisage de rejoindre les\n",
+                "rangs de ses fidèles.\n"
             ]
         },
         {
@@ -45,7 +59,12 @@
             "en_US": [
                 "What’s with you?\n",
                 "You’re not a ninja yet?\r"
+            ],
+            "fr_FR": [
+                "Ben alors, qu’est-ce qui t’arrive?\n",
+                "Tu ne fais pas encore partie des ninjas?\r"
             ]
         }
-    ]
+    ],
+    "name_fr": "Gaultier"
 }

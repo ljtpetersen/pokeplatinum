@@ -58,6 +58,10 @@
             "en_US": [
                 "What do you expect to achieve here?\n",
                 "I’ll be the one to make that call!\r"
+            ],
+            "fr_FR": [
+                "Qu’espères-tu accomplir ici?\n",
+                "C’est moi qui vais gagner!\r"
             ]
         },
         {
@@ -65,7 +69,8 @@
             "en_US": [
                 "You’ve earned the right to be here.\n",
                 "Both you and your Pokémon.\n"
-            ]
+            ],
+            "fr_FR": "Tu as gagné le droit d’être ici."
         },
         {
             "type": "TRMSG_POST_BATTLE",
@@ -73,7 +78,13 @@
                 "You may find it odd, but the stink\n",
                 "of sulfur from the volcanic gas\f",
                 "is what draws me here.\n"
+            ],
+            "fr_FR": [
+                "Tu vas peut-être trouver ça bizarre,\n",
+                "mais je viens ici pour l’odeur de\f",
+                "soufre des gaz volcaniques.\n"
             ]
         }
-    ]
+    ],
+    "name_fr": "Ewan"
 }

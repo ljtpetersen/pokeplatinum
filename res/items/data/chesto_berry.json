@@ -41,5 +41,13 @@
     "bitterness": 0,
     "sourness": 0,
     "smoothness": 25
-  }
+  },
+  "name_fr": "Baie Maron",
+  "description_fr": [
+    "Ingrédient pour Poffin.\n",
+    "Utilisée ou tenue, cette Baie réveille\n",
+    "les Pokémon endormis."
+  ],
+  "plural_fr": "Baie Maron",
+  "article_fr": null
 }

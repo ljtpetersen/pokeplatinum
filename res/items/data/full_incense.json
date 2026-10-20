@@ -26,5 +26,13 @@
   "battlePocket": "BATTLE_POCKET_MASK_NONE",
   "fieldUseFunc": "ITEM_USE_FUNC_NONE",
   "battleUseCategory": "BATTLE_USE_CATEGORY_NONE",
-  "itemUseParams": null
+  "itemUseParams": null,
+  "name_fr": "Encens Plein",
+  "description_fr": [
+    "Objet à tenir. Encens au parfum\n",
+    "exotique gonflant son porteur et le\n",
+    "faisant se déplacer lentement."
+  ],
+  "plural_fr": "Encens Plein",
+  "article_fr": null
 }

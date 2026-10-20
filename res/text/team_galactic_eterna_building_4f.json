@@ -9,6 +9,13 @@
         "You want to free the Pokémon.\r",
         "Fine!\n",
         "I, Jupiter, will deal with you.\r"
+      ],
+      "fr_FR": [
+        "Euh, c’est à quel sujet?\r",
+        "Quelle question stupide.\n",
+        "Tu viens pour libérer les Pokémon.\r",
+        "Très bien! Moi, Jupiter, je vais te\n",
+        "régler ton compte.\r"
       ]
     },
     {
@@ -28,11 +35,27 @@
         "I suggest you keep out of Team\n",
         "Galactic’s affairs from now on.\r",
         "This is your last warning!\r"
+      ],
+      "fr_FR": [
+        "Eh ben, t’es coriace, toi!\r",
+        "Enfin, c’est pas grave. Nous avons fini\n",
+        "d’enquêter sur la statue de Pokémon.\r",
+        "Mars a récolté l’énergie des Eoliennes.\r",
+        "On n’a plus grand-chose à faire ici.\n",
+        "Mais je vais te confier un petit secret.\r",
+        "Notre chef s’intéresse aux mythes\n",
+        "des anciens Pokémon.\r",
+        "Il contrôlera Sinnoh grâce aux\n",
+        "pouvoirs des Pokémon mythiques...\r",
+        "Je te conseille de ne pas mettre le nez\n",
+        "dans les affaires de la Team Galaxie.\r",
+        "C’est mon dernier avertissement!\r"
       ]
     },
     {
       "id": "TeamGalacticEternaBuilding4F_Text_ClefairyCry",
-      "en_US": "CLEFAIRY: Pi..."
+      "en_US": "CLEFAIRY: Pi...",
+      "fr_FR": "MELOFEE: Féeeeee..."
     },
     {
       "id": "TeamGalacticEternaBuilding4F_Text_WhatsWithTeamGalactic",
@@ -40,6 +63,12 @@
         "What is it with this Team Galactic?\r",
         "Why did they take our Pokémon?\n",
         "What are they trying to accomplish?"
+      ],
+      "fr_FR": [
+        "C’est quoi leur problème,\n",
+        "à la Team Galaxie?\r",
+        "Pourquoi ils prennent nos Pokémon?\n",
+        "Qu’est-ce qu’ils ont derrière la tête?"
       ]
     },
     {
@@ -56,17 +85,36 @@
         "Thank you very much!\r",
         "I can’t thank you enough right now,\n",
         "but cruise by my Cycle Shop, OK?\r"
+      ],
+      "fr_FR": [
+        "J’ai récupéré mon MELOFEE\n",
+        "grâce à toi!\r",
+        "Mais la Team Galaxie, ils ont\n",
+        "vraiment un problème...\r",
+        "Je les ai entendus dire “MELOFEE vient\n",
+        "de l’espace, il nous le faut!”.\r",
+        "Tu parles d’une logique, c’est\n",
+        "plutôt eux les extraterrestres!\r",
+        "Enfin, ils sont partis maintenant.\n",
+        "Merci beaucoup!\r",
+        "Je n’ai rien à t’offrir pour le moment,\n",
+        "mais viens me voir à la Boutique de Vélo!\r"
       ]
     },
     {
       "id": "TeamGalacticEternaBuilding4F_Text_BunearyCry",
-      "en_US": "BUNEARY: Myun..."
+      "en_US": "BUNEARY: Myun...",
+      "fr_FR": "LAPOREILLE: Lapoooo..."
     },
     {
       "id": "TeamGalacticEternaBuilding4F_Text_WorkingForWorldPeace",
       "en_US": [
         "Working for world peace.\n",
         "              Team Galactic"
+      ],
+      "fr_FR": [
+        "Au service de la paix dans le monde.\n",
+        "              Team Galaxie"
       ]
     }
   ]

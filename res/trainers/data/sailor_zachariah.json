@@ -41,6 +41,10 @@
             "en_US": [
                 "I came out here because I wanted to\n",
                 "see the Pokémon League for myself.\r"
+            ],
+            "fr_FR": [
+                "Je suis venu ici pour voir la\n",
+                "Ligue Pokémon par moi-même.\r"
             ]
         },
         {
@@ -48,6 +52,10 @@
             "en_US": [
                 "I’m shocked...\n",
                 "No, really, I am.\n"
+            ],
+            "fr_FR": [
+                "Je suis choqué...\n",
+                "Non, vraiment, je dis ça sérieusement.\n"
             ]
         },
         {
@@ -57,6 +65,12 @@
                 "only look at the Pokémon League!\r",
                 "You, go on! You go to the Pokémon\n",
                 "League for me, too!\n"
+            ],
+            "fr_FR": [
+                "Vu la façon dont je combats, la Ligue\n",
+                "Pokémon restera pour moi un doux rêve!\r",
+                "Mais toi, vas-y! Tu dois rejoindre la\n",
+                "Ligue Pokémon, fais-le pour moi!\n"
             ]
         },
         {
@@ -64,7 +78,12 @@
             "en_US": [
                 "I’ve been training here in hopes of\n",
                 "going to the Pokémon League.\r"
+            ],
+            "fr_FR": [
+                "Je me suis entraîné ici dans l’espoir\n",
+                "de rejoindre la Ligue Pokémon.\r"
             ]
         }
-    ]
+    ],
+    "name_fr": "Harold"
 }

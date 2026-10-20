@@ -24,5 +24,12 @@
     "contest": {
         "effect": "CONTEST_EFFECT_VOLTAGE",
         "type": "CONTEST_TYPE_SMART"
-    }
+    },
+    "name_fr": "Soin",
+    "description_fr": [
+        "Un soin qui permet au\n",
+        "lanceur de récupérer\n",
+        "jusqu’à la moitié de\n",
+        "ses PV max."
+    ]
 }

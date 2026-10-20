@@ -9,6 +9,13 @@
         "From somewhere, something spoke out.\r",
         "“With our Master, upon every lighted\n",
         "tile you must tread.”"
+      ],
+      "fr_FR": [
+        "C’est une statue de Pokémon.\n",
+        "Elle diffuse un pouvoir étrange...\r",
+        "Une voix lointaine se fait entendre.\r",
+        "“Dans les pas de notre maître, sur les\n",
+        "dalles lumineuses il te faut marcher.”"
       ]
     },
     {
@@ -17,17 +24,27 @@
         "Something changed in the air...\r",
         "An indescribable power is emanating\n",
         "from the Pokémon statue..."
+      ],
+      "fr_FR": [
+        "Il y a du changement dans l’air...\r",
+        "Un pouvoir indescriptible émane de\n",
+        "la statue de Pokémon..."
       ]
     },
     {
       "id": "IronRuins_Text_RegisteelCry",
-      "en_US": "Ji-ji-ze-ji-zoh.\r"
+      "en_US": "Ji-ji-ze-ji-zoh.\r",
+      "fr_FR": "Gist, gisteel.\r"
     },
     {
       "id": "IronRuins_Text_StatueStoppedEmanatingPower",
       "en_US": [
         "The Pokémon statue has stopped\n",
         "emanating power."
+      ],
+      "fr_FR": [
+        "La statue de Pokémon a cessé de\n",
+        "diffuser son pouvoir."
       ]
     },
     {
@@ -40,6 +57,15 @@
         "Master, pay heed...\r",
         "“Become stronger you must.\n",
         "So much the others cannot but notice.”"
+      ],
+      "fr_FR": [
+        "C’est une statue de Pokémon.\n",
+        "Elle diffuse un pouvoir étrange...\r",
+        "Une voix lointaine se fait entendre.\r",
+        "“Toi, l’humain qui côtoie notre maître,\n",
+        "écoute cet avertissement...\r",
+        "Il faut t’endurcir. Que le monde\n",
+        "entier soit témoin de ta force.”"
       ]
     }
   ]

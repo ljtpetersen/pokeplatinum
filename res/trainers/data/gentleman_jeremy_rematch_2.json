@@ -25,6 +25,10 @@
             "en_US": [
                 "If it pleases, would you care for a\n",
                 "rematch with me?\r"
+            ],
+            "fr_FR": [
+                "Si le cœur t’en dit, voudrais-tu te\n",
+                "mesurer à moi dans un duel de Pokémon?\r"
             ]
         },
         {
@@ -32,7 +36,12 @@
             "en_US": [
                 "Your handling of Pokémon is\n",
                 "impeccable.\n"
+            ],
+            "fr_FR": [
+                "Ta maîtrise des Pokémon est\n",
+                "impeccable.\n"
             ]
         }
-    ]
+    ],
+    "name_fr": "Zacharie"
 }

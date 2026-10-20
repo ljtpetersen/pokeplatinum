@@ -31,11 +31,17 @@
                 "My willpower was shaped and tempered\n",
                 "by howling blizzards.\r",
                 "I’ll bring it to bear on you!\r"
+            ],
+            "fr_FR": [
+                "J’ai forgé ma volonté grâce aux\n",
+                "blizzards mugissants.\r",
+                "Tu vas voir!\r"
             ]
         },
         {
             "type": "TRMSG_DEFEAT",
-            "en_US": "You weren’t even fazed...\n"
+            "en_US": "You weren’t even fazed...\n",
+            "fr_FR": "Tu n’as même pas eu peur...\n"
         },
         {
             "type": "TRMSG_POST_BATTLE",
@@ -44,7 +50,14 @@
                 "and many more Pokémon still.\r",
                 "My spirit has been hardened from all\n",
                 "the battles I have fought."
+            ],
+            "fr_FR": [
+                "J’ai combattu un nombre incalculable de\n",
+                "Dresseurs et encore plus de Pokémon.\r",
+                "Mon esprit s’est endurci grâce à tous\n",
+                "ces combats que j’ai effectués."
             ]
         }
-    ]
+    ],
+    "name_fr": "Patrick"
 }

@@ -27,5 +27,12 @@
     "contest": {
         "effect": "CONTEST_EFFECT_2_HEARTS_WHEN_VOLTAGE_UP",
         "type": "CONTEST_TYPE_TOUGH"
-    }
+    },
+    "name_fr": "Spatio-Rift",
+    "description_fr": [
+        "Le lanceur déchire\n",
+        "l’ennemi et l’espace\n",
+        "autour de lui. Taux\n",
+        "de critiques élevé."
+    ]
 }

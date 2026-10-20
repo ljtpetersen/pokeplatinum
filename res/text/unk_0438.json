@@ -3,11 +3,13 @@
   "messages": [
     {
       "id": "pl_msg_00000438_00000",
-      "en_US": "CONFIRM"
+      "en_US": "CONFIRM",
+      "fr_FR": "CONFIRMER"
     },
     {
       "id": "pl_msg_00000438_00001",
-      "en_US": "CANCEL"
+      "en_US": "CANCEL",
+      "fr_FR": "ANNULER"
     }
   ]
 }

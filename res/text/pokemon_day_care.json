@@ -13,6 +13,17 @@
         "collaboration with the Day Care.\r",
         "Since you’re a fellow fan of the Day\n",
         "Care, I’m compelled to share this!\r"
+      ],
+      "fr_FR": [
+        "Toi aussi, tu es fan du \n",
+        "couple de la Pension?\r",
+        "J’ai mis la main sur un gadget excellent.\r",
+        "C’est le dernier logiciel Pokémontre de\n",
+        "la Pokémontre S.A.\r",
+        "En plus, ils l’ont développé en\n",
+        "association avec la Pension.\r",
+        "Je dois t’en faire profiter, c’est bien\n",
+        "normal, entre fans de la Pension!\r"
       ]
     },
     {
@@ -23,6 +34,13 @@
         "left with the Day-Care Couple.\r",
         "But I haven’t been able to leave\n",
         "my Pokémon... So here I stay..."
+      ],
+      "fr_FR": [
+        "Grâce au Contrôleur Pension, tu peux\n",
+        "vérifier comment se portent les Pokémon\f",
+        "laissés à la Pension Pokémon.\r",
+        "Mais je n’arrive pas à me séparer de\n",
+        "mes Pokémon... Alors je reste ici..."
       ]
     },
     {
@@ -32,6 +50,12 @@
         "with you...\r",
         "Be always bonded in friendship.\n",
         "Pokémon Day Care"
+      ],
+      "fr_FR": [
+        "Vos Pokémon et vous grandissez\n",
+        "ensemble au cours de vos voyages...\r",
+        "Préservez le lien qui vous unit.\n",
+        "Pension Pokémon"
       ]
     }
   ]

@@ -23,11 +23,17 @@
             "en_US": [
                 "Pal Park, huh? I wonder what kinds\n",
                 "of Pokémon you can see there?\r"
+            ],
+            "fr_FR": [
+                "Le Parc des Amis, hein? Je me demande\n",
+                "quels Pokémon on peut voir là-bas.\r"
             ]
         },
         {
             "type": "TRMSG_DEFEAT",
-            "en_US": "You’re one enthusiastic Trainer.\n"
+            "en_US": "You’re one enthusiastic Trainer.\n",
+            "fr_FR": "Tu es un Dresseur très enthousiaste.\n"
         }
-    ]
+    ],
+    "name_fr": "Polo"
 }

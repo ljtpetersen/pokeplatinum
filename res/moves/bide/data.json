@@ -27,5 +27,13 @@
     "contest": {
         "effect": "CONTEST_EFFECT_DOUBLE_FINAL_ACT",
         "type": "CONTEST_TYPE_TOUGH"
-    }
+    },
+    "name_fr": "Patience",
+    "description_fr": [
+        "Le lanceur encaisse \n",
+        "les coups durant 2\n",
+        "tours et réplique en\n",
+        "infligeant le double\n",
+        "des dégâts subis."
+    ]
 }

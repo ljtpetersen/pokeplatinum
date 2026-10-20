@@ -28,5 +28,13 @@
     "contest": {
         "effect": "CONTEST_EFFECT_MAX_VOLTAGE_ADVANTAGE",
         "type": "CONTEST_TYPE_SMART"
-    }
+    },
+    "name_fr": "Close Combat",
+    "description_fr": [
+        "Le lanceur combat au\n",
+        "corps à corps sans se\n",
+        "protéger. Baisse\n",
+        "aussi sa Défense et\n",
+        "sa Déf. Spé."
+    ]
 }

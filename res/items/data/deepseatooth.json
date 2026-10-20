@@ -26,5 +26,13 @@
   "battlePocket": "BATTLE_POCKET_MASK_NONE",
   "fieldUseFunc": "ITEM_USE_FUNC_NONE",
   "battleUseCategory": "BATTLE_USE_CATEGORY_NONE",
-  "itemUseParams": null
+  "itemUseParams": null,
+  "name_fr": "Dent Océan",
+  "description_fr": [
+    "Objet à faire tenir à COQUIPERL. Dent\n",
+    "de couleur argent montant son\n",
+    "Atq. Spé."
+  ],
+  "plural_fr": "Dent Océan",
+  "article_fr": null
 }

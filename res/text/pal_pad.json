@@ -3,194 +3,244 @@
   "messages": [
     {
       "id": "pl_msg_00000675_00000",
-      "en_US": "PAL PAD"
+      "en_US": "PAL PAD",
+      "fr_FR": "REGISTRE AMI"
     },
     {
       "id": "pl_msg_00000675_00001",
-      "en_US": "CHECK FRIEND ROSTER"
+      "en_US": "CHECK FRIEND ROSTER",
+      "fr_FR": "VERIFIER LISTE D’AMIS"
     },
     {
       "id": "pl_msg_00000675_00002",
-      "en_US": "REGISTER FRIEND CODE"
+      "en_US": "REGISTER FRIEND CODE",
+      "fr_FR": "ENREGISTRER UN CODE AMI"
     },
     {
       "id": "pl_msg_00000675_00003",
-      "en_US": "{STRVAR_1 3, 0, 0}’s FRIEND CODE"
+      "en_US": "{STRVAR_1 3, 0, 0}’s FRIEND CODE",
+      "fr_FR": "CODE DE {STRVAR_1 3, 0, 0}"
     },
     {
       "id": "pl_msg_00000675_00004",
-      "en_US": "EXIT"
+      "en_US": "EXIT",
+      "fr_FR": "QUITTER"
     },
     {
       "id": "pl_msg_00000675_00005",
-      "en_US": "FRIEND ROSTER"
+      "en_US": "FRIEND ROSTER",
+      "fr_FR": "LISTE D’AMIS"
     },
     {
       "id": "pl_msg_00000675_00006",
-      "en_US": "{STRVAR_1 3, 0, 0}"
+      "en_US": "{STRVAR_1 3, 0, 0}",
+      "fr_FR": "{STRVAR_1 3, 0, 0}"
     },
     {
       "id": "pl_msg_00000675_00007",
-      "en_US": "CANCEL"
+      "en_US": "CANCEL",
+      "fr_FR": "RETOUR"
     },
     {
       "id": "pl_msg_00000675_00008",
-      "en_US": "DETAILS"
+      "en_US": "DETAILS",
+      "fr_FR": "CONSULTER"
     },
     {
       "id": "pl_msg_00000675_00009",
-      "en_US": "REWRITE NAME"
+      "en_US": "REWRITE NAME",
+      "fr_FR": "MODIFIER NOM"
     },
     {
       "id": "pl_msg_00000675_00010",
-      "en_US": "DELETE"
+      "en_US": "DELETE",
+      "fr_FR": "EFFACER"
     },
     {
       "id": "PalPad_Text_Cancel",
-      "en_US": "CANCEL"
+      "en_US": "CANCEL",
+      "fr_FR": "ANNULER"
     },
     {
       "id": "pl_msg_00000675_00012",
       "en_US": [
         "What would you like to do\n",
         "with {STRVAR_1 3, 0, 0}’s data?"
+      ],
+      "fr_FR": [
+        "Que souhaitez-vous faire avec \n",
+        "les données de {STRVAR_1 3, 0, 0}?"
       ]
     },
     {
       "id": "pl_msg_00000675_00013",
-      "en_US": "RECORD WITH {STRVAR_1 3, 0, 0}"
+      "en_US": "RECORD WITH {STRVAR_1 3, 0, 0}",
+      "fr_FR": "DONNEES DE {STRVAR_1 3, 0, 0}"
     },
     {
       "id": "pl_msg_00000675_00014",
-      "en_US": "GROUP"
+      "en_US": "GROUP",
+      "fr_FR": "GROUPE"
     },
     {
       "id": "pl_msg_00000675_00015",
-      "en_US": "BATTLE RECORD"
+      "en_US": "BATTLE RECORD",
+      "fr_FR": "DONNEES DE COMBAT"
     },
     {
       "id": "pl_msg_00000675_00016",
-      "en_US": "WIN: "
+      "en_US": "WIN: ",
+      "fr_FR": "VICT."
     },
     {
       "id": "pl_msg_00000675_00017",
-      "en_US": "LOSE: "
+      "en_US": "LOSE: ",
+      "fr_FR": "DEFAI."
     },
     {
       "id": "pl_msg_00000675_00018",
-      "en_US": "{STRVAR_1 53, 0, 0}"
+      "en_US": "{STRVAR_1 53, 0, 0}",
+      "fr_FR": "{STRVAR_1 53, 0, 0}"
     },
     {
       "id": "pl_msg_00000675_00019",
-      "en_US": "POKéMON TRADES"
+      "en_US": "POKéMON TRADES",
+      "fr_FR": "ECHANGES POKéMON"
     },
     {
       "id": "pl_msg_00000675_00020",
-      "en_US": "{STRVAR_1 53, 0, 0}"
+      "en_US": "{STRVAR_1 53, 0, 0}",
+      "fr_FR": "{STRVAR_1 53, 0, 0}"
     },
     {
       "id": "pl_msg_00000675_00021",
-      "en_US": "POFFIN SESSIONS"
+      "en_US": "POFFIN SESSIONS",
+      "fr_FR": "SEANCES POFFINS"
     },
     {
       "id": "pl_msg_00000675_00022",
-      "en_US": "{STRVAR_1 53, 0, 0}"
+      "en_US": "{STRVAR_1 53, 0, 0}",
+      "fr_FR": "{STRVAR_1 53, 0, 0}"
     },
     {
       "id": "pl_msg_00000675_00023",
-      "en_US": "DATE LAST PLAYED"
+      "en_US": "DATE LAST PLAYED",
+      "fr_FR": "DERNIERE RENCONTRE"
     },
     {
       "id": "pl_msg_00000675_00024",
-      "en_US": "{STRVAR_1 74, 1, 0} {STRVAR_1 51, 2, 0}, {STRVAR_1 53, 0, 0}"
+      "en_US": "{STRVAR_1 74, 1, 0} {STRVAR_1 51, 2, 0}, {STRVAR_1 53, 0, 0}",
+      "fr_FR": "{STRVAR_1 51, 2, 0} {STRVAR_1 74, 1, 0} {STRVAR_1 53, 0, 0}"
     },
     {
       "id": "pl_msg_00000675_00025",
-      "en_US": "BATTLE TOWER"
+      "en_US": "BATTLE TOWER",
+      "fr_FR": "TOUR DE COMBAT"
     },
     {
       "id": "pl_msg_00000675_00026",
-      "en_US": "BATTLE FACTORY"
+      "en_US": "BATTLE FACTORY",
+      "fr_FR": "USINE DE COMBAT"
     },
     {
       "id": "pl_msg_00000675_00027",
-      "en_US": "BATTLE CASTLE"
+      "en_US": "BATTLE CASTLE",
+      "fr_FR": "CASTEL DE COMBAT"
     },
     {
       "id": "pl_msg_00000675_00028",
-      "en_US": "BATTLE HALL"
+      "en_US": "BATTLE HALL",
+      "fr_FR": "SCENE DE COMBAT"
     },
     {
       "id": "pl_msg_00000675_00029",
-      "en_US": "BATTLE ARCADE"
+      "en_US": "BATTLE ARCADE",
+      "fr_FR": "ARCADE DE COMBAT"
     },
     {
       "id": "pl_msg_00000675_00030",
-      "en_US": "PREV"
+      "en_US": "PREV",
+      "fr_FR": "DERNIER"
     },
     {
       "id": "pl_msg_00000675_00031",
-      "en_US": "CURRENT"
+      "en_US": "CURRENT",
+      "fr_FR": "ACTUEL"
     },
     {
       "id": "pl_msg_00000675_00032",
-      "en_US": "RECORD"
+      "en_US": "RECORD",
+      "fr_FR": "MEILLEUR"
     },
     {
       "id": "pl_msg_00000675_00033",
-      "en_US": "LEVEL 50"
+      "en_US": "LEVEL 50",
+      "fr_FR": "NIVEAU 50"
     },
     {
       "id": "pl_msg_00000675_00034",
-      "en_US": "OPEN LEVEL"
+      "en_US": "OPEN LEVEL",
+      "fr_FR": "NIVEAU LIBRE"
     },
     {
       "id": "pl_msg_00000675_00035",
-      "en_US": "RENTAL/TRADE"
+      "en_US": "RENTAL/TRADE",
+      "fr_FR": "LOCATION/ECHANGE"
     },
     {
       "id": "pl_msg_00000675_00036",
-      "en_US": "CASTLE POINTS"
+      "en_US": "CASTLE POINTS",
+      "fr_FR": "POINTS CASTEL"
     },
     {
       "id": "pl_msg_00000675_00037",
-      "en_US": "{STRVAR_1 0, 0, 0}’S RECORD"
+      "en_US": "{STRVAR_1 0, 0, 0}’S RECORD",
+      "fr_FR": "RECORD DE {STRVAR_1 0, 0, 0}"
     },
     {
       "id": "pl_msg_00000675_00038",
-      "en_US": "WIN STREAK: {STRVAR_1 53, 0, 0}"
+      "en_US": "WIN STREAK: {STRVAR_1 53, 0, 0}",
+      "fr_FR": "VICTOIRES: {STRVAR_1 53, 0, 0}"
     },
     {
       "id": "pl_msg_00000675_00039",
-      "en_US": "{STRVAR_1 53, 0, 0}"
+      "en_US": "{STRVAR_1 53, 0, 0}",
+      "fr_FR": "{STRVAR_1 53, 0, 0}"
     },
     {
       "id": "pl_msg_00000675_00040",
-      "en_US": "{STRVAR_1 53, 0, 0} CP"
+      "en_US": "{STRVAR_1 53, 0, 0} CP",
+      "fr_FR": "{STRVAR_1 53, 0, 0} PCa"
     },
     {
       "id": "pl_msg_00000675_00041",
-      "en_US": "WIN STREAK: {STRVAR_1 53, 0, 0}"
+      "en_US": "WIN STREAK: {STRVAR_1 53, 0, 0}",
+      "fr_FR": "{STRVAR_1 53, 0, 0} VICTOIRE(S)"
     },
     {
       "id": "pl_msg_00000675_00042",
-      "en_US": "GAMES CLEARED: {STRVAR_1 53, 0, 0}"
+      "en_US": "GAMES CLEARED: {STRVAR_1 53, 0, 0}",
+      "fr_FR": "{STRVAR_1 53, 0, 0} VICTOIRE(S)"
     },
     {
       "id": "pl_msg_00000675_00043",
-      "en_US": "PLAZA GAMES PLAYED"
+      "en_US": "PLAZA GAMES PLAYED",
+      "fr_FR": "PARTICIPATIONS JEUX SQUARE"
     },
     {
       "id": "pl_msg_00000675_00044",
-      "en_US": "{STRVAR_6 0, 0, 0}"
+      "en_US": "{STRVAR_6 0, 0, 0}",
+      "fr_FR": "{STRVAR_6 0, 0, 0}"
     },
     {
       "id": "pl_msg_00000675_00045",
-      "en_US": "{STRVAR_1 53, 0, 0}"
+      "en_US": "{STRVAR_1 53, 0, 0}",
+      "fr_FR": "{STRVAR_1 53, 0, 0}"
     },
     {
       "id": "pl_msg_00000675_00046",
-      "en_US": "{STRVAR_1 3, 0, 0}’s CODE"
+      "en_US": "{STRVAR_1 3, 0, 0}’s CODE",
+      "fr_FR": "CODE DE {STRVAR_1 3, 0, 0}"
     },
     {
       "id": "pl_msg_00000675_00047",
@@ -199,6 +249,12 @@
         "with other players, you may\n",
         "trade and battle with them\n",
         "over Nintendo WFC."
+      ],
+      "fr_FR": [
+        "En échangeant vos codes ami,\n",
+        "vous pourrez participer à des\n",
+        "échanges ou des combats \n",
+        "via la CWF Nintendo."
       ]
     },
     {
@@ -206,6 +262,11 @@
       "en_US": [
         "To obtain your Friend Code,\n",
         "please log on to Nintendo WFC."
+      ],
+      "fr_FR": [
+        "Pour obtenir votre code ami, \n",
+        "veuillez vous connecter à la\n",
+        "connexion Wi-Fi Nintendo."
       ]
     },
     {
@@ -213,6 +274,10 @@
       "en_US": [
         "{STRVAR_1 53, 1, 0} {STRVAR_1 53, 2, 0} {STRVAR_1 53, 3, 0}\n",
         "{STRVAR_1 3, 0, 0} will be registered."
+      ],
+      "fr_FR": [
+        "{STRVAR_1 53, 1, 0} {STRVAR_1 53, 2, 0} {STRVAR_1 53, 3, 0}\n",
+        "{STRVAR_1 3, 0, 0} sera enregistré(e)."
       ]
     },
     {
@@ -220,46 +285,66 @@
       "en_US": [
         "The Friend Code is wrong.\n",
         "{STRVAR_1 53, 1, 0} {STRVAR_1 53, 2, 0} {STRVAR_1 53, 3, 0}"
+      ],
+      "fr_FR": [
+        "Le code ami est incorrect.\n",
+        "{STRVAR_1 53, 1, 0} {STRVAR_1 53, 2, 0} {STRVAR_1 53, 3, 0}"
       ]
     },
     {
       "id": "pl_msg_00000675_00051",
-      "en_US": "{STRVAR_1 53, 1, 0} {STRVAR_1 53, 2, 0} {STRVAR_1 53, 3, 0}"
+      "en_US": "{STRVAR_1 53, 1, 0} {STRVAR_1 53, 2, 0} {STRVAR_1 53, 3, 0}",
+      "fr_FR": "{STRVAR_1 53, 1, 0} {STRVAR_1 53, 2, 0} {STRVAR_1 53, 3, 0}"
     },
     {
       "id": "pl_msg_00000675_00052",
       "en_US": [
         "{STRVAR_1 3, 0, 0} will be deleted.\n",
         "Are you sure about this?"
+      ],
+      "fr_FR": [
+        "{STRVAR_1 3, 0, 0} sera effacé(e).\n",
+        "Confirmer?"
       ]
     },
     {
       "id": "pl_msg_00000675_00053",
-      "en_US": "Your Friend Roster is full!"
+      "en_US": "Your Friend Roster is full!",
+      "fr_FR": "Votre liste d’amis est pleine!"
     },
     {
       "id": "pl_msg_00000675_00054",
       "en_US": [
         "That Friend Code has already been\n",
         "registered before."
-      ]
+      ],
+      "fr_FR": "Ce code ami a déjà été enregistré."
     },
     {
       "id": "pl_msg_00000675_00055",
       "en_US": [
         "{STRVAR_1 3, 0, 0}’s Friend Code:\n",
         "{STRVAR_1 53, 1, 0} {STRVAR_1 53, 2, 0} {STRVAR_1 53, 3, 0}"
+      ],
+      "fr_FR": [
+        "Code ami de {STRVAR_1 3, 0, 0}:\n",
+        "{STRVAR_1 53, 1, 0} {STRVAR_1 53, 2, 0} {STRVAR_1 53, 3, 0}"
       ]
     },
     {
       "id": "pl_msg_00000675_00056",
-      "en_US": "CHECK FRIEND CODE"
+      "en_US": "CHECK FRIEND CODE",
+      "fr_FR": "VOIR CODE AMI"
     },
     {
       "id": "PalPad_Text_RegisterFriend",
       "en_US": [
         "Register {STRVAR_1 3, 0, 0} in your\n",
         "Pal Pad?"
+      ],
+      "fr_FR": [
+        "Enregistrer {STRVAR_1 3, 0, 0} \n",
+        "dans votre Registre Ami?"
       ]
     },
     {
@@ -267,6 +352,10 @@
       "en_US": [
         "Your Friend Roster is full.\n",
         "Will you delete someone?"
+      ],
+      "fr_FR": [
+        "Votre liste d’amis est pleine.\n",
+        "Voulez-vous effacer un ami?"
       ]
     },
     {
@@ -274,6 +363,10 @@
       "en_US": [
         "Give up on registering\n",
         "{STRVAR_1 3, 0, 0}?"
+      ],
+      "fr_FR": [
+        "Abandonner l’enregistrement \n",
+        "de {STRVAR_1 3, 0, 0}?"
       ]
     },
     {
@@ -281,11 +374,16 @@
       "en_US": [
         "Delete {STRVAR_1 3, 0, 0}’s data from\n",
         "your Friend Roster?"
+      ],
+      "fr_FR": [
+        "Effacer les données de {STRVAR_1 3, 0, 0}\n",
+        "de votre liste d’amis?"
       ]
     },
     {
       "id": "pl_msg_00000675_00061",
-      "en_US": "{STRVAR_1 3, 0, 0}"
+      "en_US": "{STRVAR_1 3, 0, 0}",
+      "fr_FR": "{STRVAR_1 3, 0, 0}"
     }
   ]
 }

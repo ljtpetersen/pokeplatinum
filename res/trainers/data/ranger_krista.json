@@ -34,17 +34,26 @@
             "en_US": [
                 "Are you getting worn out from all\n",
                 "the running you’ve done?\r"
+            ],
+            "fr_FR": [
+                "La fatigue te gagne-t-elle après toute\n",
+                "la marche que tu as dû faire?\r"
             ]
         },
         {
             "type": "TRMSG_DEFEAT",
-            "en_US": "You’re not tired at all?!\n"
+            "en_US": "You’re not tired at all?!\n",
+            "fr_FR": "Tu ne ressens pas la moindre fatigue?!\n"
         },
         {
             "type": "TRMSG_POST_BATTLE",
             "en_US": [
                 "The world is full of Pokémon and all\n",
                 "sorts of Trainers.\n"
+            ],
+            "fr_FR": [
+                "Le monde est plein de Pokémon et de\n",
+                "Dresseurs en tous genres.\n"
             ]
         },
         {
@@ -54,7 +63,13 @@
                 "Zone?\r",
                 "You’ve met so many Pokémon...\n",
                 "I’ve got to battle you again!\r"
+            ],
+            "fr_FR": [
+                "Que penses-tu du Secteur Combat?\r",
+                "Tu as rencontré tant de Pokémon...\n",
+                "Il faut que je te combatte à nouveau!\r"
             ]
         }
-    ]
+    ],
+    "name_fr": "Tessa"
 }

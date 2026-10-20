@@ -26,5 +26,12 @@
   "battlePocket": "BATTLE_POCKET_MASK_NONE",
   "fieldUseFunc": "ITEM_USE_FUNC_NONE",
   "battleUseCategory": "BATTLE_USE_CATEGORY_NONE",
-  "itemUseParams": null
+  "itemUseParams": null,
+  "name_fr": "Clé Stockage",
+  "description_fr": [
+    "La clé de l’entrepôt de la Team Galaxie\n",
+    "situé à la périphérie de Voilaroc."
+  ],
+  "plural_fr": "Clé Stockage",
+  "article_fr": null
 }

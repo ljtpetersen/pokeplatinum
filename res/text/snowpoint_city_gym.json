@@ -13,6 +13,17 @@
         "It’s all about focus!\r",
         "I’ll show you just what I mean.\n",
         "Get ready to lose!\r"
+      ],
+      "fr_FR": [
+        "Tu veux me défier?\r",
+        "Bien sûr!\n",
+        "J’attendais un Dresseur coriace!\r",
+        "Laisse-moi te dire une chose, je tire ma\n",
+        "force de ma concentration.\r",
+        "Les Pokémon, la mode, l’amour...\n",
+        "C’est une question de concentration!\r",
+        "Je vais t’en faire la démonstration.\n",
+        "Tu peux numéroter tes abattis!\r"
       ]
     },
     {
@@ -24,6 +35,14 @@
         "us over totally.\r",
         "Oh, that’s right!\n",
         "I’m supposed to give you this!\r"
+      ],
+      "fr_FR": [
+        "Waouh! Tu es fantastique!\n",
+        "Tu viens de gagner mon respect!\r",
+        "J’étais stupéfaite par ta\n",
+        "concentration et ta volonté.\r",
+        "Oh, c’est vrai!\n",
+        "Je suis censée te remettre ceci!\r"
       ]
     },
     {
@@ -31,6 +50,10 @@
       "en_US": [
         "{STRVAR_1 3, 0, 0} received\n",
         "the Icicle Badge from Candice."
+      ],
+      "fr_FR": [
+        "{STRVAR_1 3, 0, 0} obtient le\n",
+        "Badge Glaçon de Gladys."
       ]
     },
     {
@@ -41,6 +64,14 @@
         "hidden move Rock Climb anytime, even\f",
         "when you’re not in a battle.\r",
         "Oh, and take this, too.\r"
+      ],
+      "fr_FR": [
+        "Tu sais, ce Badge Glaçon\n",
+        "que je viens de te donner?\r",
+        "Grâce à lui, tu peux utiliser la capacité\n",
+        "secrète Escalade quand tu veux,\f",
+        "même en dehors du combat.\r",
+        "Oh, j’allais oublier ça.\r"
       ]
     },
     {
@@ -52,6 +83,14 @@
         "power is doubled!\r",
         "Can you imagine what sort of focus\n",
         "you’d need to pull it off?"
+      ],
+      "fr_FR": [
+        "La {STRVAR_1 8, 0, 0} contient la capacité\n",
+        "{STRVAR_1 6, 1, 0}.\r",
+        "Si le lanceur subit des dégâts, la\n",
+        "puissance de la capacité est doublée!\r",
+        "Tu réalises la concentration que\n",
+        "cela implique?"
       ]
     },
     {
@@ -63,6 +102,12 @@
         "cool and distant?\r",
         "That sort of thing I have trouble\n",
         "with."
+      ],
+      "fr_FR": [
+        "Tu crois que je devrais me comporter\n",
+        "comme un Champion de type Glace?\r",
+        "Genre, être froide et distante?\r",
+        "Ce n’est pas dans mon caractère..."
       ]
     },
     {
@@ -80,6 +125,20 @@
         "hot Fire-type moves!\r",
         "It’s all about focus with this Gym.\n",
         "Bear down and focus!"
+      ],
+      "fr_FR": [
+        "Hé, toi! Comment ça va? Tu veux devenir\n",
+        "le Maître de la Ligue Pokémon, non?\r",
+        "Tu as vu les grosses boules de neige\n",
+        "placées ici et là?\r",
+        "Tu dois glisser sur la glace à une\n",
+        "vitesse suffisante pour les pulvériser.\r",
+        "Le Champion d’Arène utilise des Pokémon\n",
+        "de type Glace.\r",
+        "Fais fondre ses défenses grâce à des\n",
+        "capacités brûlantes de type Feu!\r",
+        "Ici, tout est une question de\n",
+        "concentration. Garde la tête froide!"
       ]
     },
     {
@@ -89,6 +148,12 @@
         "You’ve beaten the Gym Leader!\r",
         "You were more focused than her,\n",
         "and your Pokémon picked up on it!"
+      ],
+      "fr_FR": [
+        "Oh! {STRVAR_1 3, 0, 0}!\n",
+        "Tu as vaincu le Champion d’Arène!\r",
+        "Ta concentration a fait la différence,\n",
+        "tu as montré l’exemple à tes Pokémon!"
       ]
     },
     {
@@ -98,6 +163,12 @@
         "Leader: Candice\r",
         "Certified Trainers:\n",
         "{STRVAR_1 3, 1, 0}"
+      ],
+      "fr_FR": [
+        "Arène Pokémon de Frimapic\r",
+        "Champion: Gladys\n",
+        "Nouveau Dresseur reconnu:\f",
+        "{STRVAR_1 3, 1, 0}"
       ]
     },
     {
@@ -106,6 +177,13 @@
         "Snowpoint City Pokémon Gym\n",
         "Leader: Candice\r",
         "Certified Trainers:\n",
+        "{STRVAR_1 3, 0, 0}\f",
+        "{STRVAR_1 3, 1, 0}"
+      ],
+      "fr_FR": [
+        "Arène Pokémon de Frimapic\r",
+        "Champion: Gladys\n",
+        "Nouveaux Dresseurs reconnus:\f",
         "{STRVAR_1 3, 0, 0}\f",
         "{STRVAR_1 3, 1, 0}"
       ]

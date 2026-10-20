@@ -23,6 +23,10 @@
             "en_US": [
                 "I’ll let you join my fan club if you can\n",
                 "beat me!\r"
+            ],
+            "fr_FR": [
+                "Si tu me bats, je te laisserai joindre\n",
+                "mon fan-club pour que tu m’adores!\r"
             ]
         },
         {
@@ -30,6 +34,10 @@
             "en_US": [
                 "Ouch! Are you one of those loyal\n",
                 "fans? You sure are rowdy!\n"
+            ],
+            "fr_FR": [
+                "Ouille! Es-tu un de ces fans fous?\n",
+                "Quelle brutalité!\n"
             ]
         },
         {
@@ -39,7 +47,14 @@
                 "Thank you for being such a fan!\r",
                 "Just so you know, our latest single\n",
                 "is “Jigglin’ Pokémon Wub”!\n"
+            ],
+            "fr_FR": [
+                "Et voilà, c’était moi et mon équipe\n",
+                "Pokémon en live! Tu peux applaudir!\r",
+                "Tu sais, notre dernier tube est\n",
+                "“Twist d’amour des Pokémon”!\n"
             ]
         }
-    ]
+    ],
+    "name_fr": "Romane"
 }

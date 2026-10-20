@@ -8,17 +8,32 @@
         "we’re doing?\r",
         "All you have to do is battle with me.\n",
         "Will you do that?"
+      ],
+      "fr_FR": [
+        "Salut, nous sommes en plein tournage.\n",
+        "Ça te dirait de passer à la télé?\r",
+        "Tout ce que tu as à faire, c’est\n",
+        "te battre contre moi. D’accord?"
       ]
     },
     {
       "id": "PokemonCenterDailyTrainers_Text_KinseyJubilife_BattleAccepted",
-      "en_US": "Reporter Kinsey’s live interview!\r"
+      "en_US": "Reporter Kinsey’s live interview!\r",
+      "fr_FR": [
+        "Interviewer Célia au cœur\n",
+        "de l’action!\r"
+      ]
     },
     {
       "id": "PokemonCenterDailyTrainers_Text_KinseyJubilife_BattleDeclined",
       "en_US": [
         "Unbelievable! Press coverage denied!\n",
         "I find you intriguing, too..."
+      ],
+      "fr_FR": [
+        "Incroyable! Et la liberté de la presse,\n",
+        "dans tout ça?! Il y a quelque chose qui\f",
+        "me chiffonne, chez toi..."
       ]
     },
     {
@@ -28,6 +43,12 @@
         "them honestly with no hidden tricks.\r",
         "It’s like the relationship between\n",
         "Pokémon and Trainers, isn’t it?"
+      ],
+      "fr_FR": [
+        "Pour encourager les gens à se confier,\n",
+        "on s’adresse à eux avec franchise.\r",
+        "Comme le font les Dresseurs avec leurs\n",
+        "Pokémon, n’est-ce pas?"
       ]
     },
     {
@@ -35,6 +56,10 @@
       "en_US": [
         "I’ve spotted a charismatic Trainer!\n",
         "Is it OK to go for the scoop?"
+      ],
+      "fr_FR": [
+        "Dresseur charismatique en vue!\n",
+        "Alors, c’est d’accord pour le scoop?"
       ]
     },
     {
@@ -42,6 +67,11 @@
       "en_US": [
         "As a professional cameraman, I always\n",
         "go for the best shot!\r"
+      ],
+      "fr_FR": [
+        "En tant que caméraman professionnel,\n",
+        "je cherche toujours à obtenir les\f",
+        "meilleures prises!\r"
       ]
     },
     {
@@ -50,6 +80,11 @@
         "That’s a downer...\r",
         "I thought I’d found a Trainer and\n",
         "Pokémon who’d shine on camera."
+      ],
+      "fr_FR": [
+        "Quelle déception...\r",
+        "Moi qui pensais avoir déniché un\n",
+        "Dresseur qui crèverait l’écran..."
       ]
     },
     {
@@ -58,6 +93,11 @@
         "The lively expressions on you and your\n",
         "Pokémon’s faces...\r",
         "It sure makes for some great TV!"
+      ],
+      "fr_FR": [
+        "Toi et ton équipe de Pokémon êtes si\n",
+        "expressifs...\r",
+        "Vous êtes nés pour la caméra!"
       ]
     },
     {
@@ -66,6 +106,11 @@
         "Are we all ready to have some fun?\n",
         "I sure am! Aren’t you having fun?!\f",
         "Let’s make it fun! OK?!"
+      ],
+      "fr_FR": [
+        "Prêts pour un moment de folie?\n",
+        "Moi, je le suis! Pas toi?!\f",
+        "Soyons fous! C’est d’accord?!"
       ]
     },
     {
@@ -73,6 +118,10 @@
       "en_US": [
         "OK, how shall we do this?\n",
         "Shall we do something fantastical?\r"
+      ],
+      "fr_FR": [
+        "OK, comment va-t-on s’y prendre?\n",
+        "Et si on faisait dans le fantastique?\r"
       ]
     },
     {
@@ -80,6 +129,10 @@
       "en_US": [
         "Oh, how shall I say this...?\n",
         "It makes me all lonely, I say..."
+      ],
+      "fr_FR": [
+        "Oh, comment dire...\n",
+        "Je me sens si seul..."
       ]
     },
     {
@@ -88,6 +141,11 @@
         "A clown’s makeup is a face that’s\n",
         "crying while laughing. Mwahahah!\r",
         "It defines what we do!"
+      ],
+      "fr_FR": [
+        "Un maquillage de Bouffon, c’est un\n",
+        "visage qui rit et pleure en même temps.\r",
+        "Tout comme ce que nous faisons!"
       ]
     },
     {
@@ -95,6 +153,10 @@
       "en_US": [
         "Come on, let’s show off our Pokémon!\n",
         "Let’s do battle, kiddo!"
+      ],
+      "fr_FR": [
+        "Allez, sortons nos Pokémon!\n",
+        "En garde!"
       ]
     },
     {
@@ -102,6 +164,10 @@
       "en_US": [
         "Your spirit’s vibes...\n",
         "You’ve got rock in your veins!\r"
+      ],
+      "fr_FR": [
+        "Ces vibrations qui émanent de toi...\n",
+        "Tu as le rock dans le sang!\r"
       ]
     },
     {
@@ -109,6 +175,10 @@
       "en_US": [
         "My guitar...\n",
         "It lies broken and weeping..."
+      ],
+      "fr_FR": [
+        "Ma guitare...\n",
+        "Elle ne s’en remettra pas..."
       ]
     },
     {
@@ -116,6 +186,10 @@
       "en_US": [
         "Pokémon and rock and roll are all\n",
         "anyone needs to survive this world!"
+      ],
+      "fr_FR": [
+        "Les Pokémon et le rock... c’est tout ce\n",
+        "dont on a besoin pour vivre!"
       ]
     },
     {
@@ -124,6 +198,12 @@
         "Hi, I’m Grace, the Idol! I’m just back\n",
         "from a show in Oreburgh Mine!\r",
         "So, shall we battle?"
+      ],
+      "fr_FR": [
+        "Salut, je suis Romane, la Star! Je viens\n",
+        "de donner un concert à la Mine de\f",
+        "Charbourg!\r",
+        "Alors, on se bat?"
       ]
     },
     {
@@ -131,6 +211,10 @@
       "en_US": [
         "I’ll let you join my fan club if you can\n",
         "beat me!\r"
+      ],
+      "fr_FR": [
+        "Si tu arrives à me vaincre, je te\n",
+        "laisserai rejoindre mon fan-club!\r"
       ]
     },
     {
@@ -138,6 +222,10 @@
       "en_US": [
         "You won’t accept my challenge?!\n",
         "But I’m an Idol..."
+      ],
+      "fr_FR": [
+        "Tu déclines mon défi?!\n",
+        "Pourtant je suis une Star..."
       ]
     },
     {
@@ -147,6 +235,12 @@
         "I hope you’ll support us!\r",
         "Just so you know, our latest single is\n",
         "titled “Jigglin’ Pokémon Wub”!"
+      ],
+      "fr_FR": [
+        "Et voilà, c’était moi et mon équipe\n",
+        "Pokémon en live! Tu peux applaudir!\r",
+        "Au passage, notre dernier single\n",
+        "s’intitule “Twist d’amour des Pokémon”!"
       ]
     },
     {
@@ -156,6 +250,12 @@
         "That’s what we need.\r",
         "We’re looking for a Trainer who’s\n",
         "traveling with at least two Pokémon."
+      ],
+      "fr_FR": [
+        "Deux Pokémon!\n",
+        "Voilà ce dont on a besoin.\r",
+        "On cherche un Dresseur voyageant avec\n",
+        "au moins deux Pokémon."
       ]
     },
     {
@@ -163,6 +263,10 @@
       "en_US": [
         "Oh! Would you like to battle against the\n",
         "both of us?"
+      ],
+      "fr_FR": [
+        "Oh! Tu veux te battre contre nous deux\n",
+        "en même temps?"
       ]
     },
     {
@@ -170,6 +274,10 @@
       "en_US": [
         "You’re live on camera, but try to act\n",
         "natural, OK?\r"
+      ],
+      "fr_FR": [
+        "Bon, on est en direct, mais essaie\n",
+        "d’avoir l’air naturel, OK?\r"
       ]
     },
     {
@@ -177,7 +285,8 @@
       "en_US": [
         "OK, that’s how it is, huh.\n",
         "Can’t do anything about that."
-      ]
+      ],
+      "fr_FR": "Bien... je ne peux pas te forcer."
     },
     {
       "id": "PokemonCenterDailyTrainers_Text_OliEterna_PostBattle",
@@ -186,6 +295,10 @@
         "Wasn’t that battle smoking hot?\r",
         "You should make a Battle Video of it and\n",
         "share it with the world!"
+      ],
+      "fr_FR": [
+        "Yeah!\n",
+        "Un combat comme on ne les oublie pas!"
       ]
     },
     {
@@ -195,6 +308,12 @@
         "You only have one Pokémon with you?\r",
         "That’s very commendable, but we can’t\n",
         "battle with you that way."
+      ],
+      "fr_FR": [
+        "Oh, mince alors!\n",
+        "Tu n’as qu’un Pokémon avec toi?\r",
+        "Très bien, mais on ne peut pas se\n",
+        "battre contre toi dans ces conditions."
       ]
     },
     {
@@ -202,6 +321,10 @@
       "en_US": [
         "Giggle!\n",
         "Could you win against both of us?"
+      ],
+      "fr_FR": [
+        "Hi, hi, hi!\n",
+        "Acceptes-tu de te battre contre nous?"
       ]
     },
     {
@@ -209,6 +332,10 @@
       "en_US": [
         "We’ll thoroughly check out your\n",
         "abilities as a Trainer!\r"
+      ],
+      "fr_FR": [
+        "On va étudier ton cas de très près,\n",
+        "Dresseur!\r"
       ]
     },
     {
@@ -216,6 +343,10 @@
       "en_US": [
         "Oh? You haven’t healed your Pokémon,\n",
         "maybe?"
+      ],
+      "fr_FR": [
+        "Oh? Tu n’as peut-être pas soigné\n",
+        "tes Pokémon?"
       ]
     },
     {
@@ -224,6 +355,11 @@
         "That was a good match.\r",
         "It adds flair and drama when many\n",
         "eager Pokémon get involved."
+      ],
+      "fr_FR": [
+        "C’était un beau combat.\r",
+        "Ça rend les choses plus exaltantes\n",
+        "quand les Pokémon en veulent."
       ]
     },
     {
@@ -233,6 +369,11 @@
         "Can we get you to participate?\r",
         "If we can, we’d like to see how strong\n",
         "you are in a battle!"
+      ],
+      "fr_FR": [
+        "On fait un reportage sur les Dresseurs.\n",
+        "Acceptes-tu d’y participer?\r",
+        "Montre-nous ce dont tu es capable!"
       ]
     },
     {
@@ -240,6 +381,10 @@
       "en_US": [
         "Jubilife TV!\n",
         "On-the-spot live report!\r"
+      ],
+      "fr_FR": [
+        "C’est l’heure du reportage en direct\n",
+        "de Féli-Télé!\r"
       ]
     },
     {
@@ -247,6 +392,11 @@
       "en_US": [
         "...Are you one of those contrary\n",
         "people who reply “No” first thing?"
+      ],
+      "fr_FR": [
+        "... Fais-tu partie de ces gens qui\n",
+        "disent toujours “Non” par esprit de\f",
+        "contradiction?"
       ]
     },
     {
@@ -255,6 +405,12 @@
         "Why Trainers choose certain kinds of\n",
         "Pokémon and their feelings about it...\r",
         "That’s what we’re investigating."
+      ],
+      "fr_FR": [
+        "Les raisons qui poussent les Dresseurs\n",
+        "à choisir certaines espèces de Pokémon\f",
+        "et ce qu’ils en pensent...\r",
+        "C’est le sujet de notre enquête."
       ]
     },
     {
@@ -264,6 +420,12 @@
         "eyes on you.\r",
         "I’d really love to capture you on\n",
         "camera while you’re battling."
+      ],
+      "fr_FR": [
+        "Dès que j’ai posé les yeux sur toi,\n",
+        "l’inspiration m’est venue.\r",
+        "J’aimerais vraiment te filmer en plein\n",
+        "combat."
       ]
     },
     {
@@ -271,6 +433,11 @@
       "en_US": [
         "For close-ups, I need to get in tight.\n",
         "You don’t mind, do you?\r"
+      ],
+      "fr_FR": [
+        "J’ai besoin de me coller à toi pour\n",
+        "les gros plans.\r",
+        "Ça ne te dérange pas, j’espère?\r"
       ]
     },
     {
@@ -279,6 +446,12 @@
         "That’s a downer...\r",
         "I thought I’d found a Trainer and\n",
         "Pokémon who’d shine on camera."
+      ],
+      "fr_FR": [
+        "Quelle déception...\r",
+        "Moi qui pensais avoir déniché un\n",
+        "Dresseur et une équipe de Pokémon\f",
+        "susceptibles de crever l’écran."
       ]
     },
     {
@@ -286,6 +459,10 @@
       "en_US": [
         "So, did you come to Hearthome to\n",
         "compete in Contests?"
+      ],
+      "fr_FR": [
+        "Alors? Tu es à Unionpolis pour\n",
+        "participer aux Concours?"
       ]
     },
     {
@@ -293,6 +470,11 @@
       "en_US": [
         "Would you like to battle with me?\n",
         "As a memento of your visit to Pastoria?"
+      ],
+      "fr_FR": [
+        "Ça te dit un petit combat? Ça te fera\n",
+        "un joli souvenir de ton passage à\f",
+        "Verchamps..."
       ]
     },
     {
@@ -300,6 +482,10 @@
       "en_US": [
         "I’ll let you join my fan club if you can\n",
         "beat me!\r"
+      ],
+      "fr_FR": [
+        "Si tu arrives à me battre, tu pourras\n",
+        "te joindre à mon fan-club!\r"
       ]
     },
     {
@@ -307,6 +493,10 @@
       "en_US": [
         "You’re not interested in Idols?\n",
         "...I think I’m going to cry."
+      ],
+      "fr_FR": [
+        "Tu ne t’intéresses pas aux Stars?\n",
+        "Je crois que je vais pleurer..."
       ]
     },
     {
@@ -316,6 +506,12 @@
         "I hope you’ll support us!\r",
         "Just so you know, our latest single is\n",
         "titled “Jigglin’ Pokémon Wub”!"
+      ],
+      "fr_FR": [
+        "Et voilà, c’était moi et mon équipe\n",
+        "Pokémon en live! Tu peux applaudir!\r",
+        "Au passage, notre dernier single\n",
+        "s’intitule “Twist d’amour des Pokémon”!"
       ]
     },
     {
@@ -323,6 +519,10 @@
       "en_US": [
         "Are we all ready to have some fun?\n",
         "Our battle will be fun! OK?!"
+      ],
+      "fr_FR": [
+        "Alors on est prêt à s’amuser? Faisons\n",
+        "de ce combat un moment amusant! OK?!"
       ]
     },
     {
@@ -330,6 +530,10 @@
       "en_US": [
         "OK, how shall we do this?\n",
         "Shall we do something fantastical?\r"
+      ],
+      "fr_FR": [
+        "OK, comment va-t-on s’y prendre?\n",
+        "Et si on faisait dans le fantastique?\r"
       ]
     },
     {
@@ -337,6 +541,10 @@
       "en_US": [
         "Oh, how shall I say this...?\n",
         "It makes me all lonely, I say..."
+      ],
+      "fr_FR": [
+        "Oh, comment dire...\n",
+        "Je me sens si seul..."
       ]
     },
     {
@@ -344,6 +552,10 @@
       "en_US": [
         "Well, let’s see!\n",
         "Which town will we go to next?"
+      ],
+      "fr_FR": [
+        "Alors, voyons voir! Quelle sera notre\n",
+        "prochaine destination?"
       ]
     },
     {
@@ -351,6 +563,10 @@
       "en_US": [
         "Come on, let’s show off our Pokémon!\n",
         "Let’s do battle, kiddo!"
+      ],
+      "fr_FR": [
+        "C’est parti pour un défilé de Pokémon!\n",
+        "Allez, combattons!"
       ]
     },
     {
@@ -358,6 +574,10 @@
       "en_US": [
         "Your spirit’s vibes...\n",
         "You’ve got rock in your veins!\r"
+      ],
+      "fr_FR": [
+        "Les vibrations qui émanent de toi...\n",
+        "Tu as le rock dans le sang!\r"
       ]
     },
     {
@@ -365,6 +585,10 @@
       "en_US": [
         "My guitar...\n",
         "It lies broken and weeping..."
+      ],
+      "fr_FR": [
+        "Ma guitare...\n",
+        "Elle ne s’en remettra pas..."
       ]
     },
     {
@@ -373,6 +597,11 @@
         "Rock is about your spirit!\n",
         "Battling is about spirit, too!\f",
         "That’s why a battle is rock!"
+      ],
+      "fr_FR": [
+        "Le rock, ça vient du cœur!\n",
+        "Le combat, ça vient du cœur aussi!\f",
+        "Donc le combat, c’est du rock!"
       ]
     },
     {
@@ -380,6 +609,10 @@
       "en_US": [
         "Two Pokémon! If you had two Pokémon,\n",
         "we’d get a great shot here."
+      ],
+      "fr_FR": [
+        "Si tu avais deux Pokémon, on pourrait\n",
+        "tourner une séquence du tonnerre!"
       ]
     },
     {
@@ -387,6 +620,10 @@
       "en_US": [
         "Oh! You’re ready for a battle\n",
         "with us?"
+      ],
+      "fr_FR": [
+        "Oh! Toi et ton équipe êtes prêts à\n",
+        "combattre?"
       ]
     },
     {
@@ -394,6 +631,10 @@
       "en_US": [
         "You’re live on camera, but try to act\n",
         "natural, OK?\r"
+      ],
+      "fr_FR": [
+        "Bon, on est en direct, mais essaie\n",
+        "d’avoir l’air naturel, OK?\r"
       ]
     },
     {
@@ -401,13 +642,18 @@
       "en_US": [
         "OK, that’s how it is, huh.\n",
         "Can’t do anything about that."
-      ]
+      ],
+      "fr_FR": "Bien... je ne peux pas te forcer."
     },
     {
       "id": "PokemonCenterDailyTrainers_Text_OliVeilstone_PostBattle",
       "en_US": [
         "I’d like to take that footage and\n",
         "broadcast it worldwide."
+      ],
+      "fr_FR": [
+        "Je rêve de faire cette prise pour la\n",
+        "diffuser dans le monde entier."
       ]
     },
     {
@@ -415,6 +661,10 @@
       "en_US": [
         "Oh, no. What we really want to see\n",
         "is you battling using two Pokémon!"
+      ],
+      "fr_FR": [
+        "Oh non! Ce qu’on veut, c’est te filmer\n",
+        "en plein combat avec deux Pokémon!"
       ]
     },
     {
@@ -422,6 +672,10 @@
       "en_US": [
         "Giggle!\n",
         "Will you have a battle with us?"
+      ],
+      "fr_FR": [
+        "Hi, hi, hi!\n",
+        "Acceptes-tu de te battre contre nous?"
       ]
     },
     {
@@ -429,6 +683,10 @@
       "en_US": [
         "We’ll thoroughly check out your\n",
         "abilities as a Trainer!\r"
+      ],
+      "fr_FR": [
+        "On va étudier ton cas de très près,\n",
+        "Dresseur!\r"
       ]
     },
     {
@@ -436,6 +694,10 @@
       "en_US": [
         "Oh, too bad!\n",
         "I wanted to check out your Pokémon!"
+      ],
+      "fr_FR": [
+        "Oh, quel dommage! J’aurais tant aimé\n",
+        "voir ton équipe à l’œuvre!"
       ]
     },
     {
@@ -443,6 +705,10 @@
       "en_US": [
         "I lost but I’m totally thrilled!\n",
         "We made a wonderful spectacle!"
+      ],
+      "fr_FR": [
+        "J’ai perdu mais je ne suis pas déçue\n",
+        "du voyage! Ça, c’est du spectacle!"
       ]
     },
     {
@@ -450,6 +716,10 @@
       "en_US": [
         "Do you want to hear me play my guitar?\n",
         "Or do we battle?"
+      ],
+      "fr_FR": [
+        "Tu veux écouter mon solo de guitare?\n",
+        "Ou tu préfères te battre?"
       ]
     },
     {
@@ -457,6 +727,10 @@
       "en_US": [
         "Your spirit’s vibes...\n",
         "You’ve got rock in your veins!\r"
+      ],
+      "fr_FR": [
+        "Les vibrations qui émanent de toi...\n",
+        "Tu as le rock dans le sang!\r"
       ]
     },
     {
@@ -464,6 +738,10 @@
       "en_US": [
         "My guitar...\n",
         "It lies broken and weeping..."
+      ],
+      "fr_FR": [
+        "Ma guitare...\n",
+        "Elle ne s’en remettra pas."
       ]
     },
     {
@@ -473,6 +751,11 @@
         "For my girl, sweet kisses!\r",
         "That’s the perfect world for this\n",
         "guitarist!"
+      ],
+      "fr_FR": [
+        "Des Pokémon pour les Dresseurs!\r",
+        "Des bisous pour ma petite amie!\r",
+        "Je suis un Guitariste comblé!"
       ]
     },
     {
@@ -482,6 +765,12 @@
         "show in Snowpoint!\r",
         "I’m so happy you came to see me!\n",
         "I’ll battle you as my thank-you!"
+      ],
+      "fr_FR": [
+        "Merci d’être là pour le concert de\n",
+        "Romane, en direct live à Frimapic!\r",
+        "Je suis si contente de te voir, public\n",
+        "adoré! Battons-nous pour fêter ça!"
       ]
     },
     {
@@ -489,6 +778,10 @@
       "en_US": [
         "I’ll let you join my fan club if you can\n",
         "beat me!\r"
+      ],
+      "fr_FR": [
+        "Si tu arrives à me battre, tu pourras\n",
+        "faire partie de mon fan-club!\r"
       ]
     },
     {
@@ -496,6 +789,10 @@
       "en_US": [
         "But my song!\n",
         "It’s nicer than that Crasher Wake’s!"
+      ],
+      "fr_FR": [
+        "Et ma chanson? Elle est mieux que celle\n",
+        "de Lovis le Teigneux!"
       ]
     },
     {
@@ -506,6 +803,14 @@
         "heart out in snowy Snowpoint!\r",
         "...To a crowd of none.\n",
         "...This is Grace. Thanks for listening..."
+      ],
+      "fr_FR": [
+        "Mon rêve, c’est d’être une super Star!\r",
+        "Je ferai fondre les cœurs en\n",
+        "chantant à tue-tête depuis les\f",
+        "hauteurs enneigées de Frimapic!\r",
+        "Où le public se fait rare... C’était\n",
+        "Romane, merci de votre attention..."
       ]
     },
     {
@@ -515,17 +820,31 @@
         "in the Battle Zone.\r",
         "That’s where you come in.\n",
         "We need you to battle us!"
+      ],
+      "fr_FR": [
+        "On fait un reportage sur les Dresseurs\n",
+        "du Secteur Combat.\r",
+        "C’est là que tu interviens.\n",
+        "Bats-toi contre nous!"
       ]
     },
     {
       "id": "PokemonCenterDailyTrainers_Text_KinseyFightArea_BattleAccepted",
-      "en_US": "Reporter Kinsey’s live interview!\r"
+      "en_US": "Reporter Kinsey’s live interview!\r",
+      "fr_FR": [
+        "Interviewer Célia au cœur\n",
+        "de l’action!\r"
+      ]
     },
     {
       "id": "PokemonCenterDailyTrainers_Text_KinseyFightArea_BattleDeclined",
       "en_US": [
         "You don’t have to be shy.\n",
         "We can obscure your face if we have to."
+      ],
+      "fr_FR": [
+        "Ne sois pas timide.\n",
+        "Au besoin, on peut cacher ton visage."
       ]
     },
     {
@@ -535,6 +854,12 @@
         "Pokémon move--I tackle them!\r",
         "Of course, I don’t use Tackle in\n",
         "battles, though."
+      ],
+      "fr_FR": [
+        "Interviews, capacités... même combat!\n",
+        "Il faut y aller au pas de charge!\r",
+        "Même si, bien sûr, je n’utilise jamais la\n",
+        "capacité Charge en combat."
       ]
     },
     {
@@ -542,6 +867,10 @@
       "en_US": [
         "Expert Trainer spotted!\n",
         "Will you let us battle with you?"
+      ],
+      "fr_FR": [
+        "Dresseur d’élite en vue!\n",
+        "Un petit combat, ça te dit?"
       ]
     },
     {
@@ -549,6 +878,10 @@
       "en_US": [
         "Great! Great!\n",
         "You guys are great!\r"
+      ],
+      "fr_FR": [
+        "Super!\n",
+        "Tu es formidable!\r"
       ]
     },
     {
@@ -556,6 +889,11 @@
       "en_US": [
         "Want to see how good you are before\n",
         "you go off to the Battle Frontier?"
+      ],
+      "fr_FR": [
+        "Ça te dit une petite mise à l’épreuve\n",
+        "avant de te lancer dans la Zone de\f",
+        "Combat?"
       ]
     },
     {
@@ -563,6 +901,10 @@
       "en_US": [
         "The combination of you and your Pokémon\n",
         "will tear up the Battle Tower!"
+      ],
+      "fr_FR": [
+        "Toi et ton équipe de Pokémon allez\n",
+        "faire un malheur à la Tour de Combat!"
       ]
     },
     {
@@ -571,15 +913,22 @@
         "Po-Po-Pokémon!\r",
         "I want to become more like a PIKACHU!\n",
         "Will you battle me?"
+      ],
+      "fr_FR": [
+        "Po-Po-Pokémon!\r",
+        "Ressembler à un PIKACHU, c’est mon\n",
+        "rêve! Allez, un petit combat?"
       ]
     },
     {
       "id": "PokemonCenterDailyTrainers_Text_ArielFloaroma_BattleAccepted",
-      "en_US": "Pi-Pikachu!\r"
+      "en_US": "Pi-Pikachu!\r",
+      "fr_FR": "Pi-Pikachu!\r"
     },
     {
       "id": "PokemonCenterDailyTrainers_Text_ArielFloaroma_BattleDeclined",
-      "en_US": "Pi-Pikachu!"
+      "en_US": "Pi-Pikachu!",
+      "fr_FR": "Pikachu!"
     },
     {
       "id": "PokemonCenterDailyTrainers_Text_ArielFloaroma_PostBattle",
@@ -588,6 +937,13 @@
         "not very much like a Pokémon yet.\r",
         "Don’t give up, me!\n",
         "Become a Pokémon, me!"
+      ],
+      "fr_FR": [
+        "Je sais produire de l’électricité\n",
+        "statique, mais je ne ressemble pas\f",
+        "encore à un Pokémon.\r",
+        "Mais je ne laisserai pas tomber!\n",
+        "Je deviendrai un Pokémon!"
       ]
     },
     {
@@ -596,15 +952,22 @@
         "Pikachu!\r",
         "I want to become more like a PIKACHU!\n",
         "Will you battle me?"
+      ],
+      "fr_FR": [
+        "Pikachu!\r",
+        "Ressembler à un PIKACHU, c’est mon\n",
+        "rêve! Allez, un petit combat?"
       ]
     },
     {
       "id": "PokemonCenterDailyTrainers_Text_ArielSolaceon_BattleAccepted",
-      "en_US": "Pi-Pikachu!\r"
+      "en_US": "Pi-Pikachu!\r",
+      "fr_FR": "Pi-Pikachu!\r"
     },
     {
       "id": "PokemonCenterDailyTrainers_Text_ArielSolaceon_BattleDeclined",
-      "en_US": "Pi-Pikachu!"
+      "en_US": "Pi-Pikachu!",
+      "fr_FR": "Pikachu!"
     },
     {
       "id": "PokemonCenterDailyTrainers_Text_ArielSolaceon_PostBattle",
@@ -613,6 +976,12 @@
         "the character of a Pokémon...\r",
         "Maybe I should get the Day Care to\n",
         "raise me?"
+      ],
+      "fr_FR": [
+        "Il faut que j’arrive à me mettre dans\n",
+        "la peau d’un Pokémon...\r",
+        "Et si je demandais à la Pension Pokémon\n",
+        "de m’élever?"
       ]
     },
     {
@@ -621,6 +990,12 @@
         "As a clown, I like to show off Pokémon\n",
         "that are a little out of the ordinary.\r",
         "Want to battle and see for yourself?"
+      ],
+      "fr_FR": [
+        "En tant que Bouffon, j’aime avoir dans\n",
+        "mon équipe des Pokémon qui sortent\f",
+        "de l’ordinaire.\r",
+        "Tu veux que je te montre?"
       ]
     },
     {
@@ -628,6 +1003,10 @@
       "en_US": [
         "OK, how shall we do this?\n",
         "Shall we do something fantastical?\r"
+      ],
+      "fr_FR": [
+        "OK, comment va-t-on s’y prendre?\n",
+        "Et si on faisait dans le fantastique?\r"
       ]
     },
     {
@@ -635,6 +1014,10 @@
       "en_US": [
         "Oh, how shall I say this...?\n",
         "It makes me all lonely, I say..."
+      ],
+      "fr_FR": [
+        "Oh, comment dire...\n",
+        "Je me sens si seul..."
       ]
     },
     {
@@ -643,6 +1026,10 @@
         "Here’s a piece of useless trivia.\n",
         "Fear of clowns is also known as\f",
         "coulrophobia!"
+      ],
+      "fr_FR": [
+        "C’est à côté de la plaque, mais...\n",
+        "En français, on dit Pierrot le clown!"
       ]
     },
     {
@@ -651,15 +1038,22 @@
         "Po-Po-Pokémon!\r",
         "I want to become more like a PIKACHU!\n",
         "Will you battle me?"
+      ],
+      "fr_FR": [
+        "Po-Po-Pokémon!\r",
+        "Ressembler à un PIKACHU, c’est mon\n",
+        "rêve! Allez, un petit combat?"
       ]
     },
     {
       "id": "PokemonCenterDailyTrainers_Text_ArielResortArea_BattleAccepted",
-      "en_US": "Pi-Pikachu!\r"
+      "en_US": "Pi-Pikachu!\r",
+      "fr_FR": "Pi-Pikachu!\r"
     },
     {
       "id": "PokemonCenterDailyTrainers_Text_ArielResortArea_BattleDeclined",
-      "en_US": "Pi-Pikachu!"
+      "en_US": "Pi-Pikachu!",
+      "fr_FR": "Pikachu!"
     },
     {
       "id": "PokemonCenterDailyTrainers_Text_ArielResortArea_PostBattle",
@@ -668,6 +1062,12 @@
         "Ribbon Syndicate!\r",
         "I have to get more into the character\n",
         "of a Pokémon..."
+      ],
+      "fr_FR": [
+        "Et dire que je reviens tout juste du\n",
+        "Club Rubans avec mon équipe!\r",
+        "Il faut que j’arrive à me mettre dans\n",
+        "la peau d’un Pokémon..."
       ]
     }
   ]

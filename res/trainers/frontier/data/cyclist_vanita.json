@@ -109,6 +109,10 @@
             "en_US": [
                 "I only have this bike to look good for\n",
                 "the ladies. I can’t actually ride."
+            ],
+            "fr_FR": [
+                "Je ne sais pas trop pourquoi j’ai acheté\n",
+                "ce vélo. Je ne sais même pas en faire."
             ]
         },
         {
@@ -116,6 +120,10 @@
             "en_US": [
                 "It was a pain getting this bike here.\n",
                 "I had to push it all the way!\r"
+            ],
+            "fr_FR": [
+                "J’ai eu du mal à venir ici avec ce vélo!\n",
+                "J’ai dû le pousser tout le temps!\r"
             ]
         },
         {
@@ -123,7 +131,12 @@
             "en_US": [
                 "I’m only concerned about looking good.\n",
                 "I don’t practice enough.\r"
+            ],
+            "fr_FR": [
+                "Maintenant que je l’ai acheté, je\n",
+                "devrais vraiment apprendre à en faire!\r"
             ]
         }
-    ]
+    ],
+    "name_fr": "Vanille"
 }

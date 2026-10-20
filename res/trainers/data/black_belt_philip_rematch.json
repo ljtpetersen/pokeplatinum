@@ -24,11 +24,17 @@
             "en_US": [
                 "Oh? I’ve seen your face before.\n",
                 "What say we battle?\r"
+            ],
+            "fr_FR": [
+                "Oh? J’ai déjà vu ce visage.\n",
+                "Un combat, ça te dirait?\r"
             ]
         },
         {
             "type": "TRMSG_DEFEAT",
-            "en_US": "Huh? It’s over, you say?\n"
+            "en_US": "Huh? It’s over, you say?\n",
+            "fr_FR": "Hein? Tu veux dire que c’est fini?\n"
         }
-    ]
+    ],
+    "name_fr": "Fuhito"
 }

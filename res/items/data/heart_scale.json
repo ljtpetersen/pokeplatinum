@@ -26,5 +26,13 @@
   "battlePocket": "BATTLE_POCKET_MASK_NONE",
   "fieldUseFunc": "ITEM_USE_FUNC_NONE",
   "battleUseCategory": "BATTLE_USE_CATEGORY_NONE",
-  "itemUseParams": {}
+  "itemUseParams": {},
+  "name_fr": "Ecaillecoeur",
+  "description_fr": [
+    "Une jolie écaille en forme de cœur qui\n",
+    "est très rare. Elle brille légèrement\n",
+    "d’un éclat arc-en-ciel."
+  ],
+  "plural_fr": "Ecaillecoeur",
+  "article_fr": null
 }

@@ -26,5 +26,13 @@
     "contest": {
         "effect": "CONTEST_EFFECT_FIRST_PERFORMANCE_ADVANTAGE",
         "type": "CONTEST_TYPE_BEAUTY"
-    }
+    },
+    "name_fr": "Rayon Chargé",
+    "description_fr": [
+        "Le lanceur tire un\n",
+        "rayon chargé\n",
+        "d’électricité. Peut\n",
+        "aussi augmenter son\n",
+        "Atq. Spé."
+    ]
 }

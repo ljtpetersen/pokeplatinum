@@ -35,22 +35,32 @@
         "{STRVAR_1 28, 2, 0}{PAUSE 15}\r",
         "{STRVAR_1 3, 0, 0}\n",
         "has contacted you."
+      ],
+      "fr_FR": [
+        "{STRVAR_1 28, 2, 0}{PAUSE 15}\r",
+        "{STRVAR_1 3, 0, 0} vous a contacté(e)."
       ]
     },
     {
       "id": "UnionRoom_Text_ChatHasBeenDropped",
-      "en_US": "The chat has been dropped."
+      "en_US": "The chat has been dropped.",
+      "fr_FR": "La connexion a été interrompue."
     },
     {
       "id": "UnionRoom_Text_AwaitingResponseFromPlayer",
       "en_US": [
         "Awaiting a response from\n",
         "{STRVAR_1 3, 0, 0}..."
+      ],
+      "fr_FR": [
+        "En attente d’une réponse de\n",
+        "{STRVAR_1 3, 0, 0}..."
       ]
     },
     {
       "id": "UnionRoom_Text_ChatWasEnded",
-      "en_US": "The chat was ended."
+      "en_US": "The chat was ended.",
+      "fr_FR": "La connexion a été interrompue."
     },
     {
       "id": "UnionRoom_Text_ShowTrainerCase",
@@ -59,6 +69,12 @@
         "{STRVAR_1 3, 0, 0}’s Trainer Case.\r",
         "Would you like to show your\n",
         "Trainer Case?"
+      ],
+      "fr_FR": [
+        "{STRVAR_1 3, 0, 0} propose de vous montrer\n",
+        "son Etui Dresseur.\r",
+        "Voulez-vous montrer votre\n",
+        "Etui Dresseur?"
       ]
     },
     {
@@ -66,6 +82,12 @@
       "en_US": [
         "This is the Trainer Case of\n",
         "{STRVAR_1 3, 0, 0}, who lives in\r",
+        "{STRVAR_1 37, 4, 0},\n",
+        "{STRVAR_1 36, 3, 0}."
+      ],
+      "fr_FR": [
+        "C’est l’Etui Dresseur de\n",
+        "{STRVAR_1 3, 0, 0}, qui vit ici:\r",
         "{STRVAR_1 37, 4, 0},\n",
         "{STRVAR_1 36, 3, 0}."
       ]
@@ -76,6 +98,11 @@
         "This is the Trainer Case of\n",
         "{STRVAR_1 3, 0, 0}, who lives in\f",
         "{STRVAR_1 36, 3, 0}.\n"
+      ],
+      "fr_FR": [
+        "C’est l’Etui Dresseur de\n",
+        "{STRVAR_1 3, 0, 0}, qui vit ici:\f",
+        "{STRVAR_1 36, 3, 0}.\n"
       ]
     },
     {
@@ -84,6 +111,11 @@
         "This is the Trainer Case of\n",
         "{STRVAR_1 3, 0, 0}, who lives in\f",
         "{STRVAR_1 37, 4, 0}.\n"
+      ],
+      "fr_FR": [
+        "C’est l’Etui Dresseur de\n",
+        "{STRVAR_1 3, 0, 0}, qui vit ici:\f",
+        "{STRVAR_1 37, 4, 0}.\n"
       ]
     },
     {
@@ -91,15 +123,21 @@
       "en_US": [
         "This is {STRVAR_1 3, 0, 0}’s\n",
         "Trainer Case."
+      ],
+      "fr_FR": [
+        "C’est l’Etui Dresseur de\n",
+        "{STRVAR_1 3, 0, 0}."
       ]
     },
     {
       "id": "UnionRoom_Text_WaitOtherPlayerFinish",
-      "en_US": "Awaiting the other player to finish."
+      "en_US": "Awaiting the other player to finish.",
+      "fr_FR": "Attente de l’autre joueur..."
     },
     {
       "id": "UnionRoom_Text_DeclinedOfferShowTrainerCase",
-      "en_US": "You declined the offer."
+      "en_US": "You declined the offer.",
+      "fr_FR": "Vous avez décliné l’offre."
     },
     {
       "id": "UnionRoom_Text_JoinOtherPlayerAndDraw",
@@ -108,15 +146,23 @@
         "something.\r",
         "Would you like to join the other\n",
         "player and draw?"
+      ],
+      "fr_FR": [
+        "{STRVAR_1 3, 0, 0} vous invite à\n",
+        "dessiner quelque chose.\r",
+        "Voulez-vous vous joindre à cette\n",
+        "personne et dessiner?"
       ]
     },
     {
       "id": "UnionRoom_Text_LetsGetDrawing",
-      "en_US": "Let’s get drawing!"
+      "en_US": "Let’s get drawing!",
+      "fr_FR": "Allez, dessinons!"
     },
     {
       "id": "UnionRoom_Text_DeclinedInvitationTrade",
-      "en_US": "You declined the invitation."
+      "en_US": "You declined the invitation.",
+      "fr_FR": "Vous avez décliné l’offre."
     },
     {
       "id": "UnionRoom_Text_AcceptBattleChallenge",
@@ -125,26 +171,38 @@
         "a battle.\r",
         "Will you accept the battle\n",
         "challenge?"
+      ],
+      "fr_FR": [
+        "{STRVAR_1 3, 0, 0} vous propose un\n",
+        "combat.\r",
+        "Acceptez-vous de combattre?"
       ]
     },
     {
       "id": "UnionRoom_Text_BattleWillBeStarted",
-      "en_US": "The battle will be started."
+      "en_US": "The battle will be started.",
+      "fr_FR": "Le combat va commencer."
     },
     {
       "id": "UnionRoom_Text_DeclinedToTakePart",
-      "en_US": "You declined to take part."
+      "en_US": "You declined to take part.",
+      "fr_FR": "Vous avez décliné l’offre."
     },
     {
       "id": "UnionRoom_Text_NeedTwoPokemonLv30",
       "en_US": [
         "For a battle, you need two\n",
         "Pokémon that are Lv. 30 or below."
+      ],
+      "fr_FR": [
+        "Pour combattre, il faut deux\n",
+        "Pokémon de N. 30 ou moins."
       ]
     },
     {
       "id": "UnionRoom_Text_BattleHasBeenCanceled",
-      "en_US": "The battle has been canceled."
+      "en_US": "The battle has been canceled.",
+      "fr_FR": "Le combat a été annulé."
     },
     {
       "id": "UnionRoom_Text_AcceptTradeOffer",
@@ -152,21 +210,32 @@
         "{STRVAR_1 3, 0, 0} has offered to\n",
         "make a trade.\r",
         "Will you accept this trade offer?"
+      ],
+      "fr_FR": [
+        "{STRVAR_1 3, 0, 0} propose de faire un\n",
+        "échange.\r",
+        "Acceptez-vous l’offre d’échange?"
       ]
     },
     {
       "id": "UnionRoom_Text_TradeWillBeStarted",
-      "en_US": "The trade will be started."
+      "en_US": "The trade will be started.",
+      "fr_FR": "L’échange va commencer."
     },
     {
       "id": "UnionRoom_Text_DeclinedDraw",
-      "en_US": "You declined the offer."
+      "en_US": "You declined the offer.",
+      "fr_FR": "Vous avez décliné l’offre."
     },
     {
       "id": "UnionRoom_Text_NeedAtLeastTwoPokemon",
       "en_US": [
         "For trading, you must have at\n",
         "least two Pokémon with you."
+      ],
+      "fr_FR": [
+        "Pour faire un échange, il faut\n",
+        "avoir au moins deux Pokémon."
       ]
     },
     {
@@ -176,15 +245,23 @@
         "records.\r",
         "Would you like to mix records with\n",
         "the other player?"
+      ],
+      "fr_FR": [
+        "{STRVAR_1 3, 0, 0} vous propose un échange\n",
+        "de données.\r",
+        "Acceptez-vous de faire l’échange de\n",
+        "données?"
       ]
     },
     {
       "id": "UnionRoom_Text_RecordMixingWillBeStarted",
-      "en_US": "Record mixing will be started."
+      "en_US": "Record mixing will be started.",
+      "fr_FR": "L’échange de données va commencer."
     },
     {
       "id": "UnionRoom_Text_00032",
-      "en_US": "You declined the invitation."
+      "en_US": "You declined the invitation.",
+      "fr_FR": "Vous avez décliné l’offre."
     },
     {
       "id": "UnionRoom_Text_TakePartInSpinTrade",
@@ -193,21 +270,32 @@
         "a Spin Trade session.\r",
         "Would you like to take part in the\n",
         "Spin Trade?"
+      ],
+      "fr_FR": [
+        "{STRVAR_1 3, 0, 0} vous invite à jouer à\n",
+        "Oeuf Surprise.\r",
+        "Voulez-vous participer?"
       ]
     },
     {
       "id": "UnionRoom_Text_StartingTheSpinTrade",
-      "en_US": "Starting the Spin Trade!"
+      "en_US": "Starting the Spin Trade!",
+      "fr_FR": "C’est parti pour Oeuf Surprise!"
     },
     {
       "id": "UnionRoom_Text_DeclinedInvitationShowTrainerCase",
-      "en_US": "You declined the invitation."
+      "en_US": "You declined the invitation.",
+      "fr_FR": "Vous avez décliné l’offre."
     },
     {
       "id": "UnionRoom_Text_YouDontHaveAnEgg",
       "en_US": [
         "You don’t have an Egg.\n",
         "The invitation was turned down."
+      ],
+      "fr_FR": [
+        "Vous n’avez pas d’Oeuf.\n",
+        "Vous ne pouvez accepter l’invitation."
       ]
     },
     {
@@ -216,6 +304,11 @@
         "{STRVAR_1 28, 2, 0}{PAUSE 15}\r",
         "This is {STRVAR_1 3, 0, 0}! Is there\n",
         "something that you wanted to do?"
+      ],
+      "fr_FR": [
+        "{STRVAR_1 28, 2, 0}{PAUSE 15}\r",
+        "C’est {STRVAR_1 3, 0, 0}! Tu voulais faire\n",
+        "quelque chose?"
       ]
     },
     {
@@ -224,6 +317,11 @@
         "Whoops! Sorry, but I have to do\n",
         "something else.\f",
         "Another time, OK?"
+      ],
+      "fr_FR": [
+        "Oups! Dommage, j’ai autre \n",
+        "chose à faire.\f",
+        "Une autre fois, OK?"
       ]
     },
     {
@@ -231,13 +329,18 @@
       "en_US": [
         "Do you want to\n",
         "do anything else?"
-      ]
+      ],
+      "fr_FR": "Tu veux faire autre chose?"
     },
     {
       "id": "UnionRoom_Text_TrainersAppearsBusy",
       "en_US": [
         "... ...\n",
         "The Trainer appears to be busy..."
+      ],
+      "fr_FR": [
+        "... ...\n",
+        "Le Dresseur est occupé."
       ]
     },
     {
@@ -249,6 +352,10 @@
       "en_US": [
         "Sure thing! As my “Greetings,”\n",
         "here’s my Trainer Case."
+      ],
+      "fr_FR": [
+        "D’accord! Pour te “saluer”,\n",
+        "voici mon Etui Dresseur."
       ]
     },
     {
@@ -257,6 +364,11 @@
         "Huh? My Trainer Case...\n",
         "Where’d it go now?\r",
         "Sorry! I’ll show you another time!"
+      ],
+      "fr_FR": [
+        "Hein? Mon Etui Dresseur...\n",
+        "Je l’ai mis où?\r",
+        "Tant pis, la prochaine fois alors!"
       ]
     },
     {
@@ -264,17 +376,29 @@
       "en_US": [
         "I’m just showing my Trainer Case\n",
         "as my way of a greeting."
+      ],
+      "fr_FR": [
+        "Je montre toujours mon Etui Dresseur\n",
+        "pour me présenter."
       ]
     },
     {
       "id": "UnionRoom_Text_ShowingTrainerCaseMale",
-      "en_US": "I hope I get to know you better!"
+      "en_US": "I hope I get to know you better!",
+      "fr_FR": [
+        "J’espère qu’on apprendra à se\n",
+        "connaître!"
+      ]
     },
     {
       "id": "UnionRoom_Text_WaitForDrawAnswerMale",
       "en_US": [
         "Oh, did you want to draw with me?\n",
         "Sure thing, but wait just a second."
+      ],
+      "fr_FR": [
+        "Oh, tu voulais dessiner avec moi?\n",
+        "D’accord, une seconde."
       ]
     },
     {
@@ -282,6 +406,10 @@
       "en_US": [
         "Thanks for waiting!\n",
         "Let’s get drawing!"
+      ],
+      "fr_FR": [
+        "Merci d’avoir attendu!\n",
+        "Allez, dessinons!"
       ]
     },
     {
@@ -289,6 +417,10 @@
       "en_US": [
         "Oh, sorry! I can’t now.\n",
         "Let’s draw another time."
+      ],
+      "fr_FR": [
+        "Ok, je ne peux pas, là.\n",
+        "Ce sera pour une prochaine fois."
       ]
     },
     {
@@ -298,6 +430,12 @@
         "now.\r",
         "Oh, I know! {STRVAR_1 3, 1, 0}, would\n",
         "you like to draw with us?"
+      ],
+      "fr_FR": [
+        "{STRVAR_1 3, 0, 0}: On est en train de\n",
+        "dessiner.\r",
+        "Je sais! Est-ce que tu veux dessiner\n",
+        "avec nous, {STRVAR_1 3, 1, 0}?"
       ]
     },
     {
@@ -305,6 +443,10 @@
       "en_US": [
         "Oh, all right.\n",
         "Come see me anytime, OK?"
+      ],
+      "fr_FR": [
+        "Bon, OK.\n",
+        "A la prochaine alors."
       ]
     },
     {
@@ -312,7 +454,8 @@
       "en_US": [
         "OK! Let’s do some drawing\n",
         "together!"
-      ]
+      ],
+      "fr_FR": "OK! Dessinons ensemble!"
     },
     {
       "id": "UnionRoom_Text_00052",
@@ -323,6 +466,10 @@
       "en_US": [
         "The last letter of what you draw has\n",
         "to be the first letter of what I draw?"
+      ],
+      "fr_FR": [
+        "La dernière lettre de ce que tu écris\n",
+        "doit être la première de ce que j’écris?"
       ]
     },
     {
@@ -330,6 +477,10 @@
       "en_US": [
         "Stop drawing funny faces!\n",
         "It hurts to laugh so much!"
+      ],
+      "fr_FR": [
+        "Arrête de faire des trucs aussi drôles!\n",
+        "J’ai mal au ventre tellement je rigole!"
       ]
     },
     {
@@ -337,6 +488,10 @@
       "en_US": [
         "Wow, you’re good!\n",
         "I’ll try to imitate you!"
+      ],
+      "fr_FR": [
+        "Waouh, pas mal!\n",
+        "Je vais essayer de t’imiter!"
       ]
     },
     {
@@ -344,6 +499,10 @@
       "en_US": [
         "...Uh-huh... What is that?\n",
         "That’s supposed to be me?"
+      ],
+      "fr_FR": [
+        "Euh... qu’est-ce que c’est?\n",
+        "C’est censé me représenter?"
       ]
     },
     {
@@ -351,6 +510,10 @@
       "en_US": [
         "A battle? Of course, but I need\n",
         "time to get ready."
+      ],
+      "fr_FR": [
+        "Un combat, hein?\n",
+        "Très bien, juste un instant."
       ]
     },
     {
@@ -358,6 +521,10 @@
       "en_US": [
         "Thanks for waiting!\n",
         "Let’s get our battle started!"
+      ],
+      "fr_FR": [
+        "Merci d’avoir patienté!\n",
+        "Allez, commençons le combat!"
       ]
     },
     {
@@ -366,6 +533,11 @@
         "Sorry! My Pokémon don’t seem to\n",
         "be feeling too well right now.\f",
         "Let me battle you another time."
+      ],
+      "fr_FR": [
+        "Dommage! Mes Pokémon ne sont\n",
+        "pas vraiment en forme.\f",
+        "Je t’écraserai une prochaine fois."
       ]
     },
     {
@@ -373,6 +545,10 @@
       "en_US": [
         "If you want to battle, you need two\n",
         "Pokémon that are Lv. 30 or lower.\r"
+      ],
+      "fr_FR": [
+        "Pour combattre, il faut deux\n",
+        "Pokémon de N. 30 ou moins.\r"
       ]
     },
     {
@@ -380,6 +556,10 @@
       "en_US": [
         "Whoa!\n",
         "I can tell you’re pretty tough!"
+      ],
+      "fr_FR": [
+        "Waouh!\n",
+        "T’en as dans le ventre!"
       ]
     },
     {
@@ -387,6 +567,10 @@
       "en_US": [
         "You used that move?\n",
         "That’s good strategy!"
+      ],
+      "fr_FR": [
+        "T’as utilisé cette capacité?\n",
+        "Bonne stratégie!"
       ]
     },
     {
@@ -394,6 +578,10 @@
       "en_US": [
         "Way to go!\n",
         "That was an eye-opener!"
+      ],
+      "fr_FR": [
+        "Voilà!\n",
+        "C’est comme ça qu’il faut faire!"
       ]
     },
     {
@@ -401,6 +589,10 @@
       "en_US": [
         "Oh! How could you use that\n",
         "Pokémon in that situation?"
+      ],
+      "fr_FR": [
+        "Oh! C’est pas le bon moment\n",
+        "pour utiliser ce Pokémon!"
       ]
     },
     {
@@ -408,6 +600,10 @@
       "en_US": [
         "You want to trade, huh?\n",
         "Sure, hold on just a second."
+      ],
+      "fr_FR": [
+        "Tu veux faire un échange?\n",
+        "OK, une seconde."
       ]
     },
     {
@@ -415,6 +611,10 @@
       "en_US": [
         "All right!\n",
         "Let’s trade!"
+      ],
+      "fr_FR": [
+        "Allez!\n",
+        "Faisons cet échange!"
       ]
     },
     {
@@ -423,6 +623,11 @@
         "Sorry! I don’t have a Pokémon I\n",
         "can trade right now.\r",
         "Let’s trade some other time."
+      ],
+      "fr_FR": [
+        "Malheureusement, je n’ai aucun Pokémon\n",
+        "à échanger pour l’instant.\r",
+        "Ce sera pour une prochaine fois."
       ]
     },
     {
@@ -430,6 +635,10 @@
       "en_US": [
         "Oh yeah!\n",
         "I really wanted this Pokémon!"
+      ],
+      "fr_FR": [
+        "Cool! \n",
+        "Je le voulais vraiment, ce Pokémon!"
       ]
     },
     {
@@ -437,13 +646,18 @@
       "en_US": [
         "Finally, I got that Pokémon\n",
         "I’ve wanted for such a long time."
-      ]
+      ],
+      "fr_FR": "J’ai enfin le Pokémon que je voulais!"
     },
     {
       "id": "UnionRoom_Text_CantTradeIfOnePokemonMale",
       "en_US": [
         "You can’t trade if you have only one\n",
         "Pokémon with you.\r"
+      ],
+      "fr_FR": [
+        "Pour faire un échange, il faut\n",
+        "avoir au moins deux Pokémon.\r"
       ]
     },
     {
@@ -451,6 +665,10 @@
       "en_US": [
         "If you want to do something with\n",
         "me, just give me a shout!"
+      ],
+      "fr_FR": [
+        "Si tu as besoin de moi,\n",
+        "fais-moi signe!"
       ]
     },
     {
@@ -458,6 +676,10 @@
       "en_US": [
         "You want to mix records with me?\n",
         "OK, I just need a little time."
+      ],
+      "fr_FR": [
+        "Tu veux faire un échange de données?\n",
+        "OK, une seconde."
       ]
     },
     {
@@ -465,6 +687,10 @@
       "en_US": [
         "Thanks for waiting!\n",
         "Let’s mix our records, then."
+      ],
+      "fr_FR": [
+        "Merci d’avoir attendu!\n",
+        "Echangeons nos données."
       ]
     },
     {
@@ -473,6 +699,11 @@
         "Oh, I’m sorry.\n",
         "I have too much to do right now.\f",
         "Another time, OK?"
+      ],
+      "fr_FR": [
+        "Dommage, j’ai trop à faire pour\n",
+        "l’instant.\f",
+        "Mais ce n’est que partie remise, OK?"
       ]
     },
     {
@@ -482,6 +713,12 @@
         "records now.\r",
         "I know! {STRVAR_1 3, 1, 0}, do you want\n",
         "to mix your records with us, too?"
+      ],
+      "fr_FR": [
+        "{STRVAR_1 3, 0, 0}: On va faire un échange\n",
+        "de données.\r",
+        "Je sais! {STRVAR_1 3, 1, 0}, tu veux\n",
+        "participer à l’échange de données?"
       ]
     },
     {
@@ -489,11 +726,16 @@
       "en_US": [
         "Oh, all right.\n",
         "Come see me anytime, OK?"
+      ],
+      "fr_FR": [
+        "Bon, OK.\n",
+        "A la prochaine alors."
       ]
     },
     {
       "id": "UnionRoom_Text_LetsMixRecordsTogetherMale",
-      "en_US": "OK! Let’s mix our records!"
+      "en_US": "OK! Let’s mix our records!",
+      "fr_FR": "Faisons cet échange de données!"
     },
     {
       "id": "UnionRoom_Text_00078",
@@ -501,32 +743,54 @@
         "Oh, sorry!\n",
         "I just can’t right this instant.\f",
         "Another time, OK?"
+      ],
+      "fr_FR": [
+        "C’est dommage, je ne peux pas\n",
+        "maintenant.\f",
+        "Une autre fois, d’accord?"
       ]
     },
     {
       "id": "UnionRoom_Text_MixingRecordsMale1",
-      "en_US": "It’s fun mixing records!"
+      "en_US": "It’s fun mixing records!",
+      "fr_FR": [
+        "C’est sympa de faire des échanges\n",
+        "de données!"
+      ]
     },
     {
       "id": "UnionRoom_Text_MixingRecordsMale2",
       "en_US": [
         "I’m going to mix records with\n",
         "everyone!"
+      ],
+      "fr_FR": [
+        "Je vais faire un échange de données\n",
+        "avec tout le monde!"
       ]
     },
     {
       "id": "UnionRoom_Text_MixingRecordsMale3",
-      "en_US": "Mix it up! Keep mixing!"
+      "en_US": "Mix it up! Keep mixing!",
+      "fr_FR": "Les échanges de données, c’est super!"
     },
     {
       "id": "UnionRoom_Text_MixingRecordsMale4",
-      "en_US": "You should mix records, too!"
+      "en_US": "You should mix records, too!",
+      "fr_FR": [
+        "Tu devrais faire des échanges de\n",
+        "données, toi aussi!"
+      ]
     },
     {
       "id": "UnionRoom_Text_WaitForSpinTradeAnswerMale",
       "en_US": [
         "Spin Trade? Sure!\n",
         "OK, just hold on a second!"
+      ],
+      "fr_FR": [
+        "Oeuf Surprise? Bien sûr!\n",
+        "Juste une petite seconde..."
       ]
     },
     {
@@ -534,6 +798,10 @@
       "en_US": [
         "OK, all set!\n",
         "Let’s do a Spin Trade!"
+      ],
+      "fr_FR": [
+        "Bien, tout est prêt!\n",
+        "Jouons à Oeuf Surprise!"
       ]
     },
     {
@@ -542,6 +810,11 @@
         "Oh! Sorry!\n",
         "I can’t right now.\f",
         "Please ask me another time!"
+      ],
+      "fr_FR": [
+        "Oh! Pardon, mais ce n’est pas possible\n",
+        "pour le moment.\f",
+        "Une prochaine fois, d’accord?"
       ]
     },
     {
@@ -549,6 +822,10 @@
       "en_US": [
         "You need an Egg if you want to take\n",
         "part in a Spin Trade.\r"
+      ],
+      "fr_FR": [
+        "Tu dois avoir un Oeuf dans ton\n",
+        "équipe pour jouer à Oeuf Surprise.\r"
       ]
     },
     {
@@ -558,6 +835,12 @@
         "Trade now.\r",
         "Hey, {STRVAR_1 3, 1, 0}! Do you want to join\n",
         "us for a Spin Trade, too?"
+      ],
+      "fr_FR": [
+        "{STRVAR_1 3, 0, 0}: Nous allons bientôt\n",
+        "démarrer Oeuf Surprise.\r",
+        "Dis, {STRVAR_1 3, 1, 0}, ça te dit de\n",
+        "jouer à Oeuf Surprise avec nous?"
       ]
     },
     {
@@ -565,6 +848,10 @@
       "en_US": [
         "Oh, OK.\n",
         "Come see us anytime!"
+      ],
+      "fr_FR": [
+        "Ah bon, d’accord.\n",
+        "Une autre fois, alors!"
       ]
     },
     {
@@ -572,6 +859,10 @@
       "en_US": [
         "OK!\n",
         "Let’s do a Spin Trade together!"
+      ],
+      "fr_FR": [
+        "Super! Pour Oeuf Surprise, plus on est\n",
+        "de fous, plus on rit!"
       ]
     },
     {
@@ -587,28 +878,45 @@
       "en_US": [
         "There is an Egg that cannot be traded\n",
         "in your party."
+      ],
+      "fr_FR": [
+        "Ton équipe contient un Oeuf qui ne\n",
+        "peut être échangé."
       ]
     },
     {
       "id": "UnionRoom_Text_SpinTradingMale1",
-      "en_US": "Spin Trades are so much fun!"
+      "en_US": "Spin Trades are so much fun!",
+      "fr_FR": [
+        "Tout le monde adore Oeuf Surprise!\n",
+        "On s’amuse toujours beaucoup."
+      ]
     },
     {
       "id": "UnionRoom_Text_SpinTradingMale2",
       "en_US": [
         "There!\n",
         "Stop there!"
+      ],
+      "fr_FR": [
+        "Hé!\n",
+        "Stop!"
       ]
     },
     {
       "id": "UnionRoom_Text_SpinTradingMale3",
-      "en_US": "My Egg’s awesome!"
+      "en_US": "My Egg’s awesome!",
+      "fr_FR": "Mon Oeuf est génial!"
     },
     {
       "id": "UnionRoom_Text_SpinTradingMale4",
       "en_US": [
         "Yes!\n",
         "I got the Egg I wanted!"
+      ],
+      "fr_FR": [
+        "Super! J’ai eu exactement l’Oeuf que\n",
+        "je voulais."
       ]
     },
     {
@@ -617,6 +925,11 @@
         "{STRVAR_1 28, 2, 0}{PAUSE 15}\r",
         "Hello, it’s {STRVAR_1 3, 0, 0}!\n",
         "Would you like to do something?"
+      ],
+      "fr_FR": [
+        "{STRVAR_1 28, 2, 0}{PAUSE 15}\r",
+        "Salut, c’est {STRVAR_1 3, 0, 0}!\n",
+        "Tu veux faire quelque chose?"
       ]
     },
     {
@@ -625,6 +938,11 @@
         "Whoops!\n",
         "Sorry, but I have to do something else.\f",
         "Another time, OK?"
+      ],
+      "fr_FR": [
+        "Oups! Dommage, j’ai autre \n",
+        "chose à faire.\f",
+        "Une autre fois, OK?"
       ]
     },
     {
@@ -632,13 +950,18 @@
       "en_US": [
         "Want to do\n",
         "something else?"
-      ]
+      ],
+      "fr_FR": "Tu veux faire autre chose?"
     },
     {
       "id": "UnionRoom_Text_TrainersAppearsBusyFemale",
       "en_US": [
         "... ...\n",
         "The Trainer appears to be busy..."
+      ],
+      "fr_FR": [
+        "... ...\n",
+        "Le Dresseur est occupé."
       ]
     },
     {
@@ -650,6 +973,10 @@
       "en_US": [
         "As my introduction, I’ll show you\n",
         "my Trainer Case."
+      ],
+      "fr_FR": [
+        "Pour me présenter, je vais te\n",
+        "montrer mon Etui Dresseur."
       ]
     },
     {
@@ -658,6 +985,11 @@
         "Oh? Now where did I put my\n",
         "Trainer Case...?\r",
         "Sorry! I’ll show you later!"
+      ],
+      "fr_FR": [
+        "Oh! Mais où est passé mon\n",
+        "Etui Dresseur?\r",
+        "Désolée! La prochaine fois alors!"
       ]
     },
     {
@@ -665,6 +997,10 @@
       "en_US": [
         "We’re showing each other our\n",
         "Trainer Cases to get acquainted."
+      ],
+      "fr_FR": [
+        "On se montre notre Etui Dresseur\n",
+        "pour faire connaissance."
       ]
     },
     {
@@ -672,6 +1008,10 @@
       "en_US": [
         "Glad to meet you.\n",
         "Please don’t be a stranger!"
+      ],
+      "fr_FR": [
+        "On va bien s’entendre.\n",
+        "Je le sens!"
       ]
     },
     {
@@ -679,6 +1019,10 @@
       "en_US": [
         "You want to draw with me?\n",
         "Sure! Just give me a second..."
+      ],
+      "fr_FR": [
+        "Tu veux dessiner avec moi?\n",
+        "Super! Donne-moi juste une seconde..."
       ]
     },
     {
@@ -686,6 +1030,10 @@
       "en_US": [
         "Sorry I made you wait!\n",
         "Let’s get started!"
+      ],
+      "fr_FR": [
+        "Tu n’as pas trop attendu?\n",
+        "Commençons!"
       ]
     },
     {
@@ -693,6 +1041,10 @@
       "en_US": [
         "Oh, I’m sorry!\n",
         "Let’s draw another time!"
+      ],
+      "fr_FR": [
+        "Oh, je suis désolée!\n",
+        "On dessinera une autre fois!"
       ]
     },
     {
@@ -702,6 +1054,12 @@
         "now.\r",
         "Oh, I know! {STRVAR_1 3, 1, 0}, would you\n",
         "like to draw with us?"
+      ],
+      "fr_FR": [
+        "{STRVAR_1 3, 0, 0}: On est en train de\n",
+        "dessiner.\r",
+        "Je sais! Tu veux dessiner avec\n",
+        "nous, {STRVAR_1 3, 1, 0}?"
       ]
     },
     {
@@ -709,6 +1067,10 @@
       "en_US": [
         "Oh...\n",
         "Please come by anytime."
+      ],
+      "fr_FR": [
+        "Oh...\n",
+        "A la prochaine alors."
       ]
     },
     {
@@ -716,6 +1078,10 @@
       "en_US": [
         "OK! Thanks for waiting!\n",
         "Let’s get drawing!"
+      ],
+      "fr_FR": [
+        "OK! Merci d’avoir attendu!\n",
+        "Mettons-nous au dessin!"
       ]
     },
     {
@@ -724,6 +1090,12 @@
         "Sorry!\n",
         "I just can’t right now!\f",
         "Let’s draw some other time."
+      ],
+      "fr_FR": [
+        "Désolée, mais là je n’ai pas\n",
+        "le temps!\r",
+        "On dessinera ensemble une prochaine\n",
+        "fois."
       ]
     },
     {
@@ -731,6 +1103,10 @@
       "en_US": [
         "Wow!\n",
         "You’re really good!"
+      ],
+      "fr_FR": [
+        "Waouh!\n",
+        "Tu dessines bien!"
       ]
     },
     {
@@ -738,6 +1114,10 @@
       "en_US": [
         "Ahaha!\n",
         "What is that?!"
+      ],
+      "fr_FR": [
+        "Ha, ha!\n",
+        "C’est quoi?"
       ]
     },
     {
@@ -745,6 +1125,10 @@
       "en_US": [
         "I love drawing!\n",
         "I can draw and draw!"
+      ],
+      "fr_FR": [
+        "J’adore dessiner!\n",
+        "Je pourrais y passer des heures!"
       ]
     },
     {
@@ -752,6 +1136,10 @@
       "en_US": [
         "Oops!\n",
         "I can’t stay inside the lines!"
+      ],
+      "fr_FR": [
+        "Oups! Je n’arrive pas à rester entre\n",
+        "les lignes!"
       ]
     },
     {
@@ -759,6 +1147,10 @@
       "en_US": [
         "A battle? Of course, but I need\n",
         "time to get ready."
+      ],
+      "fr_FR": [
+        "Un combat? Bien sûr!\n",
+        "Juste un instant, je me prépare."
       ]
     },
     {
@@ -766,6 +1158,10 @@
       "en_US": [
         "Sorry I made you wait!\n",
         "Let’s get started!"
+      ],
+      "fr_FR": [
+        "Tu n’as pas trop attendu?\n",
+        "Commençons!"
       ]
     },
     {
@@ -774,6 +1170,11 @@
         "I’m terribly sorry, but my Pokémon\n",
         "aren’t feeling well...\r",
         "Let’s battle another time."
+      ],
+      "fr_FR": [
+        "Je suis désolée, mais mes Pokémon\n",
+        "ne se sentent pas bien.\r",
+        "Battons-nous une prochaine fois!"
       ]
     },
     {
@@ -781,6 +1182,10 @@
       "en_US": [
         "If you want to battle, you need two\n",
         "Pokémon that are Lv. 30 or lower.\r"
+      ],
+      "fr_FR": [
+        "Pour combattre, il faut deux\n",
+        "Pokémon de N. 30 ou moins.\r"
       ]
     },
     {
@@ -788,6 +1193,10 @@
       "en_US": [
         "That Pokémon...\n",
         "It’s been raised really well!"
+      ],
+      "fr_FR": [
+        "Ce Pokémon...\n",
+        "Il est super bien dressé!"
       ]
     },
     {
@@ -795,6 +1204,10 @@
       "en_US": [
         "That’s it!\n",
         "This is the right move now!"
+      ],
+      "fr_FR": [
+        "C’est ça!\n",
+        "C’est la bonne capacité!"
       ]
     },
     {
@@ -802,6 +1215,10 @@
       "en_US": [
         "That’s awesome!\n",
         "You can battle that way?"
+      ],
+      "fr_FR": [
+        "Incroyable!\n",
+        "Tu peux te battre comme ça?"
       ]
     },
     {
@@ -809,6 +1226,10 @@
       "en_US": [
         "You have exquisite timing for\n",
         "switching Pokémon!"
+      ],
+      "fr_FR": [
+        "Tu sais vraiment changer de\n",
+        "Pokémon au bon moment!"
       ]
     },
     {
@@ -816,13 +1237,18 @@
       "en_US": [
         "A trade? Of course, but I need\n",
         "time to get ready."
-      ]
+      ],
+      "fr_FR": "Un échange? OK, je me prépare."
     },
     {
       "id": "UnionRoom_Text_LetsStartTradeFemale",
       "en_US": [
         "Sorry I made you wait!\n",
         "Let’s get started!"
+      ],
+      "fr_FR": [
+        "Tu n’as pas trop attendu?\n",
+        "Commençons!"
       ]
     },
     {
@@ -831,17 +1257,30 @@
         "I’m sorry, but I don’t have any\n",
         "Pokémon that I can trade now...\r",
         "Let’s trade some other time!"
+      ],
+      "fr_FR": [
+        "Malheureusement, je n’ai aucun Pokémon\n",
+        "à échanger pour l’instant.\r",
+        "Ce sera pour une prochaine fois."
       ]
     },
     {
       "id": "UnionRoom_Text_TradingFemale1",
-      "en_US": "I’m trading Pokémon right now."
+      "en_US": "I’m trading Pokémon right now.",
+      "fr_FR": [
+        "Je suis en train de faire\n",
+        "un échange."
+      ]
     },
     {
       "id": "UnionRoom_Text_TradingFemale2",
       "en_US": [
         "I finally got that Pokémon I\n",
         "wanted in a trade!"
+      ],
+      "fr_FR": [
+        "C’est le Pokémon que je voulais\n",
+        "tellement!"
       ]
     },
     {
@@ -849,6 +1288,10 @@
       "en_US": [
         "You can’t trade if you have only\n",
         "one Pokémon with you.\r"
+      ],
+      "fr_FR": [
+        "Pour faire un échange, il faut\n",
+        "avoir au moins deux Pokémon.\r"
       ]
     },
     {
@@ -856,6 +1299,10 @@
       "en_US": [
         "If you want to do something with\n",
         "me, don’t be shy. Just ask!"
+      ],
+      "fr_FR": [
+        "Si tu veux faire un truc, n’hésite\n",
+        "pas à demander."
       ]
     },
     {
@@ -863,6 +1310,10 @@
       "en_US": [
         "You want to mix records?\n",
         "Sure! But I need a little time!"
+      ],
+      "fr_FR": [
+        "Tu veux faire un échange de données?\n",
+        "D’accord, juste une seconde!"
       ]
     },
     {
@@ -870,6 +1321,10 @@
       "en_US": [
         "Sorry I made you wait!\n",
         "Let’s get started!"
+      ],
+      "fr_FR": [
+        "Désolée pour l’attente!\n",
+        "Commençons!"
       ]
     },
     {
@@ -877,7 +1332,8 @@
       "en_US": [
         "Oh, sorry!\n",
         "Let’s do this another time!"
-      ]
+      ],
+      "fr_FR": "Désolée! Une autre fois, OK?"
     },
     {
       "id": "UnionRoom_Text_AskJoinMixRecordsFemale",
@@ -886,6 +1342,12 @@
         "our records.\r",
         "I know! {STRVAR_1 3, 1, 0}, would you like\n",
         "to mix your records with us, too?"
+      ],
+      "fr_FR": [
+        "{STRVAR_1 3, 0, 0}: Nous étions en train de\n",
+        "faire un échange de données.\r",
+        "Je sais! {STRVAR_1 3, 1, 0}, tu veux faire\n",
+        "l’échange de données avec nous?"
       ]
     },
     {
@@ -893,6 +1355,10 @@
       "en_US": [
         "Oh...\n",
         "Please come by anytime."
+      ],
+      "fr_FR": [
+        "Oh...\n",
+        "A la prochaine alors."
       ]
     },
     {
@@ -900,6 +1366,10 @@
       "en_US": [
         "Thanks for waiting!\n",
         "Let’s mix some records!"
+      ],
+      "fr_FR": [
+        "Merci d’avoir attendu!\n",
+        "Commençons l’échange de données!"
       ]
     },
     {
@@ -907,29 +1377,41 @@
       "en_US": [
         "Oh, sorry!\n",
         "Let’s do this another time!"
+      ],
+      "fr_FR": [
+        "Désolée!\n",
+        "On fera ça une autre fois!"
       ]
     },
     {
       "id": "UnionRoom_Text_MixingRecordsFemale1",
-      "en_US": "It’s so fun to mix records!"
+      "en_US": "It’s so fun to mix records!",
+      "fr_FR": "J’adore les échanges de données!"
     },
     {
       "id": "UnionRoom_Text_MixingRecordsFemale2",
-      "en_US": "I’m going to keep mixing!"
+      "en_US": "I’m going to keep mixing!",
+      "fr_FR": "Je vais continuer l’échange de données!"
     },
     {
       "id": "UnionRoom_Text_MixingRecordsFemale3",
-      "en_US": "Let’s mix it up!"
+      "en_US": "Let’s mix it up!",
+      "fr_FR": "Mélangeons tout!"
     },
     {
       "id": "UnionRoom_Text_MixingRecordsFemale4",
-      "en_US": "I wonder what’s going to happen?"
+      "en_US": "I wonder what’s going to happen?",
+      "fr_FR": "Je me demande ce qui va se passer."
     },
     {
       "id": "UnionRoom_Text_WaitForSpinTradeAnswerFemale",
       "en_US": [
         "Spin Trade? Of course!\n",
         "OK, can you just wait a moment?"
+      ],
+      "fr_FR": [
+        "Oeuf Surprise? Bien sûr!\n",
+        "Juste une petite seconde..."
       ]
     },
     {
@@ -937,6 +1419,10 @@
       "en_US": [
         "OK, all ready!\n",
         "Let’s get this Spin Trade started!"
+      ],
+      "fr_FR": [
+        "Bien, tout est prêt!\n",
+        "Jouons à Oeuf Surprise!"
       ]
     },
     {
@@ -944,6 +1430,11 @@
       "en_US": [
         "Oh! Sorry!\n",
         "Let’s do this another time!"
+      ],
+      "fr_FR": [
+        "Oh! Pardon, mais ce n’est pas possible\n",
+        "pour le moment.\f",
+        "Une prochaine fois, d’accord?"
       ]
     },
     {
@@ -951,6 +1442,10 @@
       "en_US": [
         "If you want to join a Spin Trade, you\n",
         "need to bring an Egg, too.\r"
+      ],
+      "fr_FR": [
+        "Tu dois avoir un Oeuf dans ton\n",
+        "équipe pour jouer à Oeuf Surprise.\r"
       ]
     },
     {
@@ -960,6 +1455,12 @@
         "just now.\r",
         "{STRVAR_1 3, 1, 0}, do you want to join us\n",
         "and do some Spin Trades, too?"
+      ],
+      "fr_FR": [
+        "{STRVAR_1 3, 0, 0}: Nous allons bientôt\n",
+        "jouer à Oeuf Surprise.\r",
+        "Dis, {STRVAR_1 3, 1, 0}, ça te dit de\n",
+        "participer?"
       ]
     },
     {
@@ -967,6 +1468,10 @@
       "en_US": [
         "Oh, OK.\n",
         "Come see us anytime!"
+      ],
+      "fr_FR": [
+        "Ah bon, d’accord.\n",
+        "Une autre fois, alors!"
       ]
     },
     {
@@ -974,6 +1479,10 @@
       "en_US": [
         "OK!\n",
         "Let’s do a Spin Trade together!"
+      ],
+      "fr_FR": [
+        "Super! Pour Oeuf Surprise, plus on est\n",
+        "de fous, plus on rit!"
       ]
     },
     {
@@ -989,28 +1498,48 @@
       "en_US": [
         "There is an Egg that cannot be traded\n",
         "in your party."
+      ],
+      "fr_FR": [
+        "Ton équipe contient un Oeuf qui ne\n",
+        "peut être échangé."
       ]
     },
     {
       "id": "UnionRoom_Text_SpinTradingFemale1",
-      "en_US": "We’re doing Spin Trades!"
+      "en_US": "We’re doing Spin Trades!",
+      "fr_FR": [
+        "Tout le monde adore Oeuf Surprise!\n",
+        "On s’amuse toujours beaucoup."
+      ]
     },
     {
       "id": "UnionRoom_Text_SpinTradingFemale2",
       "en_US": [
         "Wah!\n",
         "It moved again!"
+      ],
+      "fr_FR": [
+        "Hein?\n",
+        "Il a encore bougé!"
       ]
     },
     {
       "id": "UnionRoom_Text_SpinTradingFemale3",
-      "en_US": "There goes the Egg I wanted..."
+      "en_US": "There goes the Egg I wanted...",
+      "fr_FR": [
+        "Je suis déçue, je n’ai pas eu\n",
+        "l’Oeuf que je voulais..."
+      ]
     },
     {
       "id": "UnionRoom_Text_SpinTradingFemale4",
       "en_US": [
         "If it stopped there, I would’ve gotten\n",
         "a Berry."
+      ],
+      "fr_FR": [
+        "Si cet Oeuf s’était arrêté au bon\n",
+        "endroit, j’aurais eu une Baie en plus."
       ]
     },
     {
@@ -1019,17 +1548,27 @@
         "Welcome to the Union Room.\r",
         "If there is anything you need help\n",
         "with, please let me know!"
+      ],
+      "fr_FR": [
+        "Bienvenue dans la Salle Union.\r",
+        "Si vous avez besoin d’aide, n’hésitez\n",
+        "pas à venir me voir!"
       ]
     },
     {
       "id": "UnionRoom_Text_HowMayIHelp",
-      "en_US": "How may I help you?"
+      "en_US": "How may I help you?",
+      "fr_FR": "Que puis-je faire pour vous?"
     },
     {
       "id": "UnionRoom_Text_ExplainWhichTopic",
       "en_US": [
         "Which topic would you\n",
         "like me to explain?"
+      ],
+      "fr_FR": [
+        "Sur quel sujet souhaitez-vous\n",
+        "des explications?"
       ]
     },
     {
@@ -1041,6 +1580,14 @@
         "When you visit here, we recommend\n",
         "that you bring Pokémon that\f",
         "meet this requirement.\r"
+      ],
+      "fr_FR": [
+        "Dans la Salle Union, vous pouvez\n",
+        "combattre avec deux Pokémon de votre\f",
+        "choix de N. 30 ou moins.\r",
+        "Lorsque vous venez, nous vous\n",
+        "conseillons d’apporter des Pokémon\f",
+        "répondant à ce critère.\r"
       ]
     },
     {
@@ -1050,6 +1597,12 @@
         "other players.\r",
         "Meeting new people could be a\n",
         "shortcut to meeting rare Pokémon!\r"
+      ],
+      "fr_FR": [
+        "Vous pouvez échanger des Pokémon\n",
+        "avec d’autres joueurs.\r",
+        "C’est un bon moyen d’essayer\n",
+        "d’obtenir des Pokémon rares!\r"
       ]
     },
     {
@@ -1063,6 +1616,15 @@
         "see!\r",
         "Up to five players can take part,\n",
         "so try it with your friends!\r"
+      ],
+      "fr_FR": [
+        "Vous pouvez communiquer avec d’autres\n",
+        "joueurs et échanger vos données.\r",
+        "Que se passera-t-il si vous échangez\n",
+        "vos données, me demanderez-vous?\r",
+        "Essayez, vous verrez bien!\r",
+        "Jusqu’à cinq joueurs peuvent\n",
+        "participer, tentez avec vos amis!\r"
       ]
     },
     {
@@ -1075,6 +1637,15 @@
         "It’s quite exciting and fun!\r",
         "Up to five players can take part, so\n",
         "try it with your friends!\r"
+      ],
+      "fr_FR": [
+        "Dans Oeuf Surprise, chaque participant\n",
+        "dépose un Oeuf à échanger.\r",
+        "La roue tourne, quel Oeuf allez-vous\n",
+        "obtenir? Quel Pokémon se cache dans\f",
+        "l’Oeuf? Rebondissements garantis!\r",
+        "Jusqu’à cinq joueurs peuvent\n",
+        "participer, essayez donc avec vos amis!\r"
       ]
     },
     {
@@ -1088,6 +1659,16 @@
         "will be a memorable masterpiece!\r",
         "Up to five players can take part,\n",
         "so try it with your friends!\r"
+      ],
+      "fr_FR": [
+        "Vous pouvez vous regrouper avec\n",
+        "d’autres personnes et dessiner.\r",
+        "Vous dessinez tous sur la même feuille\n",
+        "en même temps.\r",
+        "Essayez de réaliser des chefs-d’œuvre\n",
+        "avec vos amis!\r",
+        "Cinq personnes peuvent dessiner en\n",
+        "même temps!\r"
       ]
     },
     {
@@ -1101,6 +1682,14 @@
         "and what you’d like to do.\r",
         "Mingle, chat, and add to your\n",
         "circle of friends!\r"
+      ],
+      "fr_FR": [
+        "Pour discuter avec d’autres joueurs,\n",
+        "choisissez “TCHAT” dans le menu.\r",
+        "Allez à la rencontre des autres\n",
+        "Dresseurs de la Salle Union!\r",
+        "Présentez-vous et parlez de vous.\n",
+        "Vous élargirez votre cercle d’amis!\r"
       ]
     },
     {
@@ -1110,6 +1699,12 @@
         "Here comes someone now!\r",
         "Instead of me, why not strike up\n",
         "a chat with our newcomer?\r"
+      ],
+      "fr_FR": [
+        "Oh!\n",
+        "Quelqu’un vient d’arriver!\r",
+        "Pourquoi n’iriez vous pas discuter\n",
+        "avec cette personne?\r"
       ]
     },
     {
@@ -1118,6 +1713,12 @@
         "It’s rather boring if no one comes\n",
         "to visit...\r",
         "What might we do for entertainment...?\r"
+      ],
+      "fr_FR": [
+        "Quand personne ne vient, on s’ennuie\n",
+        "ici...\r",
+        "Que pourrait-on faire pour passer\n",
+        "le temps?\r"
       ]
     },
     {
@@ -1127,6 +1728,11 @@
         "a real {STRVAR_1 14, 0, 0}?\r",
         "I just seem to get that feeling\n",
         "from you.\r"
+      ],
+      "fr_FR": [
+        "Est-ce qu’on vous prend pour un vrai\n",
+        "Dresseur {STRVAR_1 14, 0, 0}?\r",
+        "Vous me donnez cette impression.\r"
       ]
     },
     {
@@ -1137,6 +1743,12 @@
         "It’s important to say a greeting!\r",
         "If someone arrives, let’s try to\n",
         "be friendly!\r"
+      ],
+      "fr_FR": [
+        "Oh, vous avez raison!\r",
+        "C’est important de se saluer!\r",
+        "Si quelqu’un arrive, pensez à\n",
+        "aller le saluer!\r"
       ]
     },
     {
@@ -1151,6 +1763,17 @@
         "introduce yourself.\r",
         "By introducing yourself, you’ll get to\n",
         "know about the other person, too!\r"
+      ],
+      "fr_FR": [
+        "Tiens!\r",
+        "{STRVAR_1 28, 0, 0}?\n",
+        "Superbe!\f",
+        "Moi aussi, j’aime bien!\r",
+        "Quand on rencontre quelqu’un\n",
+        "pour la première fois, il est\f",
+        "d’usage de se présenter.\r",
+        "C’est un bon moyen pour faire\n",
+        "connaissance!\r"
       ]
     },
     {
@@ -1163,6 +1786,15 @@
         "any Pokémon...\r",
         "I would rather watch than battle,\n",
         "you see.\r"
+      ],
+      "fr_FR": [
+        "Un Dresseur {STRVAR_1 28, 0, 0}?\n",
+        "Vraiment?\f",
+        "Eh bien, ce n’est pas rien!\r",
+        "Malheureusement, je n’ai pas de\n",
+        "Pokémon...\r",
+        "Par contre, j’aime bien assister\n",
+        "aux combats.\r"
       ]
     },
     {
@@ -1175,6 +1807,15 @@
         "I was actually joking.\r",
         "I don’t have any Pokémon, so\n",
         "I can’t trade with anyone...\r"
+      ],
+      "fr_FR": [
+        "Oh! Votre {STRVAR_1 28, 0, 0}!\n",
+        "J’adorerais l’avoir!\f",
+        "Faisons un échange!\r",
+        "...\r",
+        "Je n’étais pas sérieuse.\r",
+        "Je n’ai pas de Pokémon, je ne\n",
+        "peux pas faire d’échange...\r"
       ]
     },
     {
@@ -1186,6 +1827,14 @@
         "make trades just for you.\r",
         "You also have to consider what\n",
         "Pokémon the other person wants.\r"
+      ],
+      "fr_FR": [
+        "{STRVAR_1 28, 0, 0}?\n",
+        "Je vous comprends...\r",
+        "Mais ce n’est pas si facile que\n",
+        "ça de faire un échange.\r",
+        "Il faut trouver quelqu’un qui\n",
+        "est intéressé par un de vos Pokémon.\r"
       ]
     },
     {
@@ -1199,6 +1848,14 @@
         "I’m also here to chat.\r",
         "You see, I have a lot of time on\n",
         "my hands...\r"
+      ],
+      "fr_FR": [
+        "Bienvenue dans la Salle Union!\r",
+        "Je suis seule dans la salle, mais\n",
+        "vous pouvez ramener vos amis!\r",
+        "Si vous avez du temps devant vous,\n",
+        "vous pouvez discuter avec moi.\r",
+        "Moi j’ai le temps.\r"
       ]
     },
     {
@@ -1208,6 +1865,11 @@
         "If it’s {STRVAR_1 28, 0, 0},\n",
         "leave it to me!\f",
         "No one’s better than me at it!\r"
+      ],
+      "fr_FR": [
+        "Je dessine bien!\r",
+        "{STRVAR_1 28, 0, 0}, pas de problème!\n",
+        "Personne ne m’égale!\r"
       ]
     },
     {
@@ -1217,6 +1879,12 @@
         "...\r",
         "It makes me feel lonesome...\r",
         "Please do come visit again!\r"
+      ],
+      "fr_FR": [
+        "Oh, vous partez...\r",
+        "...\r",
+        "Je vais me sentir seule ici...\r",
+        "Revenez vite!\r"
       ]
     },
     {
@@ -1227,6 +1895,13 @@
         "If you’re feeling blue, it’s much\n",
         "better to have fun with friends\f",
         "than to be alone.\r"
+      ],
+      "fr_FR": [
+        "Qu’y a-t-il?\n",
+        "Quelque chose ne va pas?\r",
+        "Si vous êtes triste, allez vous\n",
+        "amuser avec vos amis plutôt que\f",
+        "de rester avec moi.\r"
       ]
     },
     {
@@ -1238,6 +1913,14 @@
         "on duty here, so I can’t...\r",
         "Sigh... {STRVAR_1 28, 0, 0}...\n",
         "I wish I could...\r"
+      ],
+      "fr_FR": [
+        "{STRVAR_1 28, 0, 0}?\n",
+        "Bonne idée!\r",
+        "J’aimerais bien, mais je ne peux\n",
+        "pas. Je suis ici pour travailler...\r",
+        "Oh... {STRVAR_1 28, 0, 0}...\n",
+        "C’est vraiment dommage...\r"
       ]
     },
     {
@@ -1248,6 +1931,13 @@
         "But I need to stay here and attend\n",
         "to our visitors...\r",
         "Please enjoy it with your friends!\r"
+      ],
+      "fr_FR": [
+        "{STRVAR_1 28, 0, 0}?\n",
+        "Oh, ça m’intéresse!\r",
+        "Mais je dois rester ici pour\n",
+        "accueillir les visiteurs...\r",
+        "Amusez-vous bien!\r"
       ]
     },
     {
@@ -1259,6 +1949,13 @@
         "attend to our visitors.\r",
         "I’m sorry. I’d love to accept,\n",
         "but I really can’t.\r"
+      ],
+      "fr_FR": [
+        "{STRVAR_1 28, 0, 0}?\n",
+        "C’est gentil de me proposer!\r",
+        "Mais je dois rester ici pour\n",
+        "accueillir les visiteurs.\r",
+        "Je ne peux vraiment pas.\r"
       ]
     },
     {
@@ -1269,6 +1966,13 @@
         "just go and invite other people.\r",
         "But don’t get too selfish or pushy\n",
         "because you want to {STRVAR_1 28, 0, 0}.\r"
+      ],
+      "fr_FR": [
+        "Voilà qui est dit!\r",
+        "C’est bien de proposer des choses\n",
+        "aux autres, comme {STRVAR_1 28, 0, 0}.\r",
+        "Mais ne soyez pas trop direct, les\n",
+        "autres ont leur mot à dire aussi.\r"
       ]
     },
     {
@@ -1279,6 +1983,13 @@
         "Nothing is impossible.\r",
         "Think positively and keep your\n",
         "chin up!\r"
+      ],
+      "fr_FR": [
+        "Oui!\n",
+        "OK!\r",
+        "Rien n’est impossible.\r",
+        "Il faut rester positif et garder\n",
+        "la tête haute!\r"
       ]
     },
     {
@@ -1290,6 +2001,14 @@
         "do what they don’t want to do.\r",
         "Incidentally, {STRVAR_1 28, 0, 0} is\n",
         "something that I would like to do.\r"
+      ],
+      "fr_FR": [
+        "On a tous des choses que l’on\n",
+        "n’aime pas.\r",
+        "Il ne faut jamais forcer quelqu’un à\n",
+        "faire ce qu’il ne veut pas.\r",
+        "{STRVAR_1 28, 0, 0}? Moi j’aimerais bien\n",
+        "en tout cas.\r"
       ]
     },
     {
@@ -1299,6 +2018,12 @@
         "serious battles.\r",
         "You can’t experience ones like\n",
         "this in the Union Room!\r"
+      ],
+      "fr_FR": [
+        "Bonne chance! J’espère que vous\n",
+        "allez faire de beaux combats.\r",
+        "Ce sera sûrement mieux qu’ici\n",
+        "dans la Salle Union!\r"
       ]
     },
     {
@@ -1311,6 +2036,15 @@
         "to other players.\r",
         "After all, you can’t make friends\n",
         "if you don’t talk to people.\r"
+      ],
+      "fr_FR": [
+        "Vous avez envie de discuter?\r",
+        "Vous ne devriez pas perdre votre\n",
+        "temps avec moi, vous savez.\r",
+        "Vous devriez plutôt parler avec\n",
+        "les autres joueurs.\r",
+        "Vous devez leur parler si vous\n",
+        "voulez vous faire des amis.\r"
       ]
     },
     {
@@ -1324,6 +2058,17 @@
         "...That’s ridiculous!\n",
         "Please, don’t be silly!\f",
         "My word!\r"
+      ],
+      "fr_FR": [
+        "Où vous êtes?\n",
+        "Hum... Devant moi.\r",
+        "Oh!\n",
+        "Peut-être que ce n’est pas vous?\r",
+        "Vous vous faites passer pour\n",
+        "quelqu’un d’autre?\r",
+        "C’est ridicule!\n",
+        "Ne vous moquez pas de moi!\f",
+        "Oh là là!\r"
       ]
     },
     {
@@ -1334,6 +2079,13 @@
         "I would love to as well.\r",
         "But telling me that won’t help.\n",
         "I can’t trade with anyone.\r"
+      ],
+      "fr_FR": [
+        "Echanger {STRVAR_1 28, 0, 0}?\n",
+        "J’aimerais bien!\r",
+        "Mais vous vous adressez à la\n",
+        "mauvaise personne, je ne peux pas\f",
+        "faire d’échanges.\r"
       ]
     },
     {
@@ -1345,31 +2097,44 @@
         "If you can’t assert yourself, you\n",
         "may never get a chance at a\f",
         "{STRVAR_1 28, 0, 0} Battle!\r"
+      ],
+      "fr_FR": [
+        "Si vous voulez faire un combat\n",
+        "{STRVAR_1 28, 0, 0}, vous devez vous\f",
+        "affirmer plus et parler avec les autres.\r",
+        "Autrement, vous ne ferez jamais de\n",
+        "combat {STRVAR_1 28, 0, 0}!\r"
       ]
     },
     {
       "id": "UnionRoom_Text_00189",
-      "en_US": "INFO"
+      "en_US": "INFO",
+      "fr_FR": "INFOS"
     },
     {
       "id": "UnionRoom_Text_00190",
-      "en_US": "CHAT"
+      "en_US": "CHAT",
+      "fr_FR": "TCHAT"
     },
     {
       "id": "UnionRoom_Text_00191",
-      "en_US": "EXIT"
+      "en_US": "EXIT",
+      "fr_FR": "RETOUR"
     },
     {
       "id": "UnionRoom_Text_00192",
-      "en_US": "BATTLE"
+      "en_US": "BATTLE",
+      "fr_FR": "COMBAT"
     },
     {
       "id": "UnionRoom_Text_00193",
-      "en_US": "TRADE"
+      "en_US": "TRADE",
+      "fr_FR": "ECHANGE"
     },
     {
       "id": "UnionRoom_Text_00194",
-      "en_US": "RECORDS"
+      "en_US": "RECORDS",
+      "fr_FR": "DONNEES"
     },
     {
       "id": "UnionRoom_Text_00195",
@@ -1377,19 +2142,23 @@
     },
     {
       "id": "UnionRoom_Text_00196",
-      "en_US": "DRAW"
+      "en_US": "DRAW",
+      "fr_FR": "DESSINER"
     },
     {
       "id": "UnionRoom_Text_00197",
-      "en_US": "CHAT"
+      "en_US": "CHAT",
+      "fr_FR": "TCHAT"
     },
     {
       "id": "UnionRoom_Text_00198",
-      "en_US": "CANCEL"
+      "en_US": "CANCEL",
+      "fr_FR": "RETOUR"
     },
     {
       "id": "UnionRoom_Text_TalkingToPlayer",
-      "en_US": "Talking to {STRVAR_1 3, 0, 0}..."
+      "en_US": "Talking to {STRVAR_1 3, 0, 0}...",
+      "fr_FR": "Discussion avec {STRVAR_1 3, 0, 0}..."
     },
     {
       "id": "UnionRoom_Text_Dummy200",
@@ -1401,11 +2170,20 @@
         "Whoops! Sorry, but I have to do\n",
         "something else.\f",
         "Another time, OK?"
+      ],
+      "fr_FR": [
+        "Oups! Dommage, j’ai autre \n",
+        "chose à faire.\f",
+        "Une autre fois, OK?"
       ]
     },
     {
       "id": "UnionRoom_Text_WaitOtherPlayersChoice",
-      "en_US": "Waiting for the other player’s choice."
+      "en_US": "Waiting for the other player’s choice.",
+      "fr_FR": [
+        "Communication en attente du\n",
+        "choix d’un participant..."
+      ]
     },
     {
       "id": "UnionRoom_Text_Dummy203",
@@ -1429,49 +2207,63 @@
     },
     {
       "id": "UnionRoom_Text_00208",
-      "en_US": "{STRVAR_1 3, 0, 0}’s friend"
+      "en_US": "{STRVAR_1 3, 0, 0}’s friend",
+      "fr_FR": "Ami de {STRVAR_1 3, 0, 0}"
     },
     {
       "id": "UnionRoom_Text_00209",
-      "en_US": "{STRVAR_1 3, 1, 0}’s friend"
+      "en_US": "{STRVAR_1 3, 1, 0}’s friend",
+      "fr_FR": "Ami de {STRVAR_1 3, 1, 0}"
     },
     {
       "id": "UnionRoom_Text_00210",
-      "en_US": "{STRVAR_1 3, 2, 0}’s friend"
+      "en_US": "{STRVAR_1 3, 2, 0}’s friend",
+      "fr_FR": "Ami de {STRVAR_1 3, 2, 0}"
     },
     {
       "id": "UnionRoom_Text_GreetingJapanese",
-      "en_US": "こんにちは！"
+      "en_US": "こんにちは！",
+      "fr_FR": "こんにちは！"
     },
     {
       "id": "UnionRoom_Text_GreetingEnglish",
-      "en_US": "Hello!"
+      "en_US": "Hello!",
+      "fr_FR": "Hello!"
     },
     {
       "id": "UnionRoom_Text_GreetingFrench",
-      "en_US": "Bonjour!"
+      "en_US": "Bonjour!",
+      "fr_FR": "Bonjour!"
     },
     {
       "id": "UnionRoom_Text_GreetingItalian",
-      "en_US": "Ciao!"
+      "en_US": "Ciao!",
+      "fr_FR": "Ciao!"
     },
     {
       "id": "UnionRoom_Text_GreetingGerman",
-      "en_US": "Hallo!"
+      "en_US": "Hallo!",
+      "fr_FR": "Hallo!"
     },
     {
       "id": "UnionRoom_Text_GreetingSpanish",
-      "en_US": "Hola!"
+      "en_US": "Hola!",
+      "fr_FR": "¡Hola!"
     },
     {
       "id": "UnionRoom_Text_GreetingDefault",
-      "en_US": "H-e-l-l-o-!"
+      "en_US": "H-e-l-l-o-!",
+      "fr_FR": "H-e-l-l-o-!"
     },
     {
       "id": "UnionRoom_Text_CantSpinTradeDiamondPearl",
       "en_US": [
         "Sorry, you can’t do a Spin Trade with\n",
         "Pokémon Diamond or Pearl.\r"
+      ],
+      "fr_FR": [
+        "Oeuf Surprise ne fonctionne pas dans\n",
+        "Pokémon Diamant et Perle.\r"
       ]
     }
   ]

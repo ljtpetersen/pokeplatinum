@@ -27,5 +27,13 @@
   "fieldUseFunc": "ITEM_USE_FUNC_TM_HM",
   "battleUseCategory": "BATTLE_USE_CATEGORY_NONE",
   "itemUseParams": null,
-  "teachesMove": "MOVE_SNATCH"
+  "teachesMove": "MOVE_SNATCH",
+  "name_fr": "CT49",
+  "description_fr": [
+    "Le lanceur vole l’effet des capacités\n",
+    "de soin ou de changement de stats\n",
+    "utilisées par l’ennemi."
+  ],
+  "plural_fr": "CT49",
+  "article_fr": null
 }

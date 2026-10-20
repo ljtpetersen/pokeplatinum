@@ -12,6 +12,16 @@
         "that involved lots of explosives!\r",
         "Yup, this is going to be a smashing\n",
         "job for Team Galactic..."
+      ],
+      "fr_FR": [
+        "Grr... Le paquet du hangar de\n",
+        "Voilaroc n’est pas encore arrivé...\r",
+        "Quand est-ce qu’ils vont le livrer?\n",
+        "Cette attente me rend maboul...\r",
+        "Ah, j’aimerais vraiment pouvoir\n",
+        "m’amuser avec des explosifs!\r",
+        "Ouaip, ce travail pour la Team Galaxie\n",
+        "promet d’être éclatant..."
       ]
     },
     {
@@ -27,6 +37,18 @@
         "Where should I set it off...?\r",
         "Yup, this is going to be a smashing\n",
         "job for Team Galactic..."
+      ],
+      "fr_FR": [
+        "Grr...\n",
+        "C’est très énervant...\r",
+        "Qu’est-ce tu veux, toi? Bah, t’as\n",
+        "que trois Badges d’Arène.\r",
+        "Les gens comme toi devraient\n",
+        "pas se mêler de la Team Galaxie!\r",
+        "... Alors, ce paquet de Voilaroc...\n",
+        "Où dois-je l’amorcer...?\r",
+        "Ouais, une fois de plus, la Team\n",
+        "Galaxie va faire grand bruit..."
       ]
     },
     {
@@ -39,6 +61,15 @@
         "Buffing up your Pokémon, eh?\r",
         "I’ll test you and your Pokémon out\n",
         "to see how buff and tough you are!\r"
+      ],
+      "fr_FR": [
+        "{STRVAR_1 3, 0, 0}: Oups!\r",
+        "Héhéhé! Je ne vais tout de même pas te\n",
+        "bousculer à chaque fois qu’on se voit!\r",
+        "Alors, comment ça va, {STRVAR_1 3, 1, 0}?\n",
+        "On améliore ses Pokémon, hein?\r",
+        "Nous allons voir si toi et tes\n",
+        "Pokémon avez fait des progrès!\r"
       ]
     },
     {
@@ -56,6 +87,20 @@
         "like that... You’re a bad guy.\r",
         "All right, {STRVAR_1 3, 1, 0}!\n",
         "Next time, I’m not holding back!\r"
+      ],
+      "fr_FR": [
+        "{STRVAR_1 3, 0, 0}: Hum, ouais, tu as un peu\n",
+        "progressé depuis la dernière fois.\r",
+        "D’ailleurs, ça m’a surpris, c’est pour\n",
+        "ça que j’ai perdu. Faute d’inattention.\r",
+        "Alors, dis, qu’est-ce qui mettait ce\n",
+        "type de la Team Galaxie dans cet état?\r",
+        "Je ne sais pas ce qu’il a en tête, mais\n",
+        "tu ferais bien de le poursuivre!\r",
+        "Y a que les Pokémon qui courent comme\n",
+        "ça... Les Pokémon et les bandits.\r",
+        "Très bien, {STRVAR_1 3, 1, 0}! La prochaine\n",
+        "fois, je ne retiendrai pas mes coups!\r"
       ]
     },
     {
@@ -69,6 +114,16 @@
         "Veilstone’s Gym Leader Maylene.\r",
         "Sheesh!\n",
         "I ended up missing him completely!"
+      ],
+      "fr_FR": [
+        "{STRVAR_1 3, 0, 0}: Salut, {STRVAR_1 3, 1, 0}.\n",
+        "Pas de chance.\r",
+        "Le Champion d’Arène, Lovis le Teigneux,\n",
+        "enfin M. Lovis, est parti à Voilaroc.\r",
+        "Pour un match amical contre Mélina, le\n",
+        "Champion d’Arène de Voilaroc.\r",
+        "Mince alors!\n",
+        "Du coup, je l’ai manqué!"
       ]
     },
     {
@@ -81,6 +136,15 @@
         "Buffing up your Pokémon, eh?\r",
         "I’ll test you and your Pokémon out\n",
         "to see how buff and tough you are!\r"
+      ],
+      "fr_FR": [
+        "{STRVAR_1 3, 0, 0}: Hop là!\r",
+        "Hé, hé! Je vais pas te foncer dedans\n",
+        "à chaque fois qu’on se rencontre!\r",
+        "Alors, quoi de neuf, {STRVAR_1 3, 1, 0}?\n",
+        "Tu entraînes ton équipe, hein?\r",
+        "Justement... Et si je testais vos\n",
+        "talents en combat!\r"
       ]
     },
     {
@@ -93,6 +157,16 @@
         "Oh, yeah, I joined Mr. Wake as an\n",
         "apprentice!\r",
         "Like, I want my own theme song!\r"
+      ],
+      "fr_FR": [
+        "{STRVAR_1 3, 0, 0}: Ouais, c’est vrai que tu\n",
+        "as fait quelques progrès depuis la\f",
+        "dernière fois.\r",
+        "Tu as gagné grâce à l’effet de\n",
+        "surprise.\r",
+        "Ah, au fait, je suis l’apprenti de\n",
+        "M. Lovis maintenant!\r",
+        "Je veux avoir mon hymne de combat!\r"
       ]
     },
     {
@@ -102,6 +176,13 @@
         "You got the Gym Badge here, huh?\r",
         "What’d I tell you? Mr. Wake--I mean,\n",
         "the master--is pretty awesome, hey?\r"
+      ],
+      "fr_FR": [
+        "{STRVAR_1 3, 0, 0}: Oh, salut!\n",
+        "T’as eu le Badge d’Arène, pas vrai?\r",
+        "Je te l’avais bien dit! M. Lovis, ou\n",
+        "plutôt le maître... c’est un balèze,\f",
+        "tu trouves pas?\r"
       ]
     },
     {
@@ -109,11 +190,16 @@
       "en_US": [
         "Wake: What’s this racket, then?\n",
         "Oh, it’s you two.\r"
+      ],
+      "fr_FR": [
+        "Lovis: C’est quoi, tout ce tapage?\n",
+        "Ah, c’est vous.\r"
       ]
     },
     {
       "id": "PastoriaCity_Text_OhMaster",
-      "en_US": "{STRVAR_1 3, 0, 0}: Oh, Master!\r"
+      "en_US": "{STRVAR_1 3, 0, 0}: Oh, Master!\r",
+      "fr_FR": "{STRVAR_1 3, 0, 0}: Oh, Maître!\r"
     },
     {
       "id": "PastoriaCity_Text_ListenKid",
@@ -122,6 +208,13 @@
         "I know your father. I won’t deny that.\r",
         "But I don’t recall ever taking you on\n",
         "as an apprentice. Not in the least.\r"
+      ],
+      "fr_FR": [
+        "Lovis: Ecoute, gamin...\n",
+        "Je connais ton père, c’est vrai.\r",
+        "Mais je ne me rappelle pas t’avoir\n",
+        "jamais pris comme apprenti. Pas le\f",
+        "moins du monde.\r"
       ]
     },
     {
@@ -130,6 +223,11 @@
         "Besides, you two don’t need me.\r",
         "You can become strong on your own\n",
         "without being my apprentice.\r"
+      ],
+      "fr_FR": [
+        "En plus, vous n’avez pas besoin de moi.\r",
+        "Vous êtes tout à fait capables de\n",
+        "progresser tout seuls.\r"
       ]
     },
     {
@@ -142,6 +240,16 @@
         "There’s a Team Galactic goon in front \n",
         "of the Observatory Gate.\r",
         "He said something about using a bomb!\r"
+      ],
+      "fr_FR": [
+        "{STRVAR_1 3, 0, 0}: Peu importe.\n",
+        "J’ai fait de vous mon maître! Je vous ai\f",
+        "choisi!\r",
+        "Mais oublions ça! Quelque chose se\n",
+        "prépare!\r",
+        "Il y a un type de la Team Galaxie\n",
+        "devant la porte de l’Observatoire.\r",
+        "Il a parlé d’amorcer une bombe!\r"
       ]
     },
     {
@@ -150,6 +258,11 @@
         "Wake: WHAAAAT?!\r",
         "No one messes with Pastoria!\n",
         "Not on my watch!\r"
+      ],
+      "fr_FR": [
+        "Lovis: QUOIII?!\r",
+        "Moi vivant, personne ne touchera\n",
+        "à Verchamps!\r"
       ]
     },
     {
@@ -157,6 +270,10 @@
       "en_US": [
         "{STRVAR_1 3, 0, 0}: Hey!\n",
         "Master! Wait!\r"
+      ],
+      "fr_FR": [
+        "{STRVAR_1 3, 0, 0}: Hé!\n",
+        "Maître! Attendez-moi!\r"
       ]
     },
     {
@@ -164,6 +281,11 @@
       "en_US": [
         "{STRVAR_1 3, 0, 0}: Does my new outfit look\n",
         "good or what? CROAGUNK’s where it’s at."
+      ],
+      "fr_FR": [
+        "{STRVAR_1 3, 0, 0}: Alors, ce nouveau\n",
+        "costume? La classe, non?\f",
+        "Avec ça, je ressemble à un CRADOPAUD."
       ]
     },
     {
@@ -171,6 +293,10 @@
       "en_US": [
         "{STRVAR_1 3, 0, 0}: Why are you talking to\n",
         "me from there?!\r"
+      ],
+      "fr_FR": [
+        "{STRVAR_1 3, 0, 0}: Pourquoi tu me parles\n",
+        "de là?!\r"
       ]
     },
     {
@@ -179,25 +305,37 @@
         "{STRVAR_1 3, 0, 0}: Hey!\r",
         "What am I, chopped liver?\n",
         "Don’t forget I’m here, too!\r"
+      ],
+      "fr_FR": [
+        "{STRVAR_1 3, 0, 0}: Hé!\r",
+        "Et moi, je compte pour du beurre?\n",
+        "Pas la peine de m’ignorer!\r"
       ]
     },
     {
       "id": "PastoriaCity_Text_WheresThisGalac",
-      "en_US": "Wake: So, where’s this Galac...\r"
+      "en_US": "Wake: So, where’s this Galac...\r",
+      "fr_FR": "Lovis: Où donc se cache ce sale...\r"
     },
     {
       "id": "PastoriaCity_Text_BigExplosion",
-      "en_US": "{SIZE 200}DDDOOOMMM!!{SIZE 100}\r"
+      "en_US": "{SIZE 200}DDDOOOMMM!!{SIZE 100}\r",
+      "fr_FR": "{SIZE 200}BOUUUMMM!!{SIZE 100}\r"
     },
     {
       "id": "PastoriaCity_Text_ThatWasRough",
-      "en_US": "Grunt: Fweh! That was rough.\r"
+      "en_US": "Grunt: Fweh! That was rough.\r",
+      "fr_FR": "Sbire: Fiou! Tu parles d’une pétarade!\r"
     },
     {
       "id": "PastoriaCity_Text_WhatveYouDone",
       "en_US": [
         "Wake: YOU!\n",
         "What’ve you done?!\r"
+      ],
+      "fr_FR": [
+        "Lovis: TOI!\n",
+        "Qu’est-ce que tu as fait?!\r"
       ]
     },
     {
@@ -213,11 +351,29 @@
         "The test results need reporting!\r",
         "Cheerio, then!\n",
         "You daft codger, your mask’s absurd!\r"
+      ],
+      "fr_FR": [
+        "Sbire: Ce que j’ai fait?\n",
+        "Euh, techniquement, ce n’était pas moi.\r",
+        "Le paquet que j’ai reçu, voyez, c’était\n",
+        "une bombe. La Bombe Galaxie.\r",
+        "Moi, je n’ai fait qu’obéir aux ordres et\n",
+        "appuyer sur le bouton.\r",
+        "Comme ça, “Bing!”.\r",
+        "Oh, j’y pense! Je dois faire un rapport\n",
+        "sur les résultats du test!\r",
+        "A pluche!\n",
+        "Au fait, le maboul... ton masque est\f",
+        "ridicule!\r"
       ]
     },
     {
       "id": "PastoriaCity_Text_GreatMarshIsInvaluable",
-      "en_US": "Wake: The Great Marsh is invaluable...\r"
+      "en_US": "Wake: The Great Marsh is invaluable...\r",
+      "fr_FR": [
+        "Lovis: Le Grand Marais est un bien\n",
+        "inestimable...\r"
+      ]
     },
     {
       "id": "PastoriaCity_Text_DoNotFollowMe",
@@ -226,6 +382,12 @@
         "Don’t let anyone else in, either!\r",
         "There’d be big trouble if there’s any\n",
         "of that bomb left!\r"
+      ],
+      "fr_FR": [
+        "Vous deux! BOUGEZ PAS DE LA!\n",
+        "Et ne laissez personne entrer!\r",
+        "S’il reste quoi que ce soit de cette\n",
+        "bombe, on s’expose à de gros ennuis!\r"
       ]
     },
     {
@@ -236,6 +398,13 @@
         "I’m staying here like Master said!\n",
         "Gotta keep others from going in!\r",
         "Don’t let that Galactic guy get away!"
+      ],
+      "fr_FR": [
+        "{STRVAR_1 3, 0, 0}: Hé! {STRVAR_1 3, 1, 0}!\n",
+        "Poursuis le type de la Team Galaxie!\r",
+        "Moi, je reste ici, comme a dit le Maître!\n",
+        "Faut empêcher les autres de rentrer!\r",
+        "Laisse pas filer ce voyou!"
       ]
     },
     {
@@ -244,6 +413,11 @@
         "{STRVAR_1 3, 0, 0}: What’s the matter?!\n",
         "Why aren’t you gone already?!\r",
         "Go after that Galactic goon!\r"
+      ],
+      "fr_FR": [
+        "{STRVAR_1 3, 0, 0}: C’est quoi le problème?!\n",
+        "Qu’est-ce que tu fais encore là?!\r",
+        "Suis le type de la Team Galaxie!\r"
       ]
     },
     {
@@ -252,6 +426,11 @@
         "{STRVAR_1 3, 0, 0}: What’s the matter?!\n",
         "Why aren’t you gone already?!\r",
         "Go after that Galactic goon!"
+      ],
+      "fr_FR": [
+        "{STRVAR_1 3, 0, 0}: C’est quoi le problème?!\n",
+        "Qu’est-ce que tu fais encore là?!\r",
+        "Suis le type de la Team Galaxie!"
       ]
     },
     {
@@ -265,6 +444,16 @@
         "lake ASAP! So, you’re lucky! I’m out!\r",
         "All right, do I make myself clear?\n",
         "Don’t you dare follow me!\r"
+      ],
+      "fr_FR": [
+        "Rah!\n",
+        "T’es un sacré pot de colle!\r",
+        "J’ai bien envie de te pulvériser avec\n",
+        "mon Pokémon!\r",
+        "Mais je dois regagner le lac aussi vite\n",
+        "que possible! Alors ciao!\r",
+        "C’est clair?\n",
+        "Arrête de me filer le train!\r"
       ]
     },
     {
@@ -272,6 +461,10 @@
       "en_US": [
         "Here where I am standing, I’m\n",
         "smack-dab in the middle of town."
+      ],
+      "fr_FR": [
+        "Tu vois où je suis? Regarde bien.\n",
+        "C’est exactement le centre de la ville."
       ]
     },
     {
@@ -279,6 +472,10 @@
       "en_US": [
         "I study rare Pokémon that appear\n",
         "only in the Great Marsh."
+      ],
+      "fr_FR": [
+        "J’étudie les Pokémon rares qui \n",
+        "n’apparaissent qu’au Grand Marais."
       ]
     },
     {
@@ -288,6 +485,12 @@
         "their Pokémon from evolving.\r",
         "They wait until the Pokémon levels up\n",
         "and learns certain moves."
+      ],
+      "fr_FR": [
+        "Certains Dresseurs empêchent \n",
+        "délibérément leurs Pokémon d’évoluer.\r",
+        "Ils attendent un certain niveau pour\n",
+        "leur apprendre certaines capacités."
       ]
     },
     {
@@ -296,6 +499,10 @@
         "I’m visiting here to see the Great\n",
         "Marsh.\r",
         "I’m staying at the lakeside hotel."
+      ],
+      "fr_FR": [
+        "Je suis venue voir le Grand Marais.\n",
+        "J’ai pris une chambre à l’hôtel du lac."
       ]
     },
     {
@@ -305,6 +512,12 @@
         "his water attacks.\r",
         "You’ll know what I mean when you\n",
         "challenge him."
+      ],
+      "fr_FR": [
+        "Le Champion d’Arène de Verchamps est\n",
+        "super balèze avec ses attaques de\f",
+        "type Eau.\r",
+        "Tu comprendras quand tu le combattras."
       ]
     },
     {
@@ -318,6 +531,16 @@
         "wrestling matches for prize money.\r",
         "That money goes to help people and\n",
         "Pokémon in trouble."
+      ],
+      "fr_FR": [
+        "Alors, le Champion de Verchamps?\n",
+        "Impressionnant, non?\r",
+        "Mais ne le juge pas sur son\n",
+        "apparence et son attitude.\r",
+        "Le bruit court qu’il participe à des\n",
+        "combats de catch pour l’argent.\r",
+        "Et il consacre cet argent à aider les\n",
+        "gens et les Pokémon dans le besoin."
       ]
     },
     {
@@ -327,11 +550,18 @@
         "cool in the summertime.\r",
         "This is a good town for Water-type\n",
         "Pokémon."
+      ],
+      "fr_FR": [
+        "Le Grand Marais reste frais\n",
+        "en été.\r",
+        "C’est une bonne ville pour les\n",
+        "Pokémon de type Eau."
       ]
     },
     {
       "id": "PastoriaCity_Text_ClefairyCry",
-      "en_US": "CLEFAIRY: Fiiih?!"
+      "en_US": "CLEFAIRY: Fiiih?!",
+      "fr_FR": "MELOFEE: Mélo mélo?!"
     },
     {
       "id": "PastoriaCity_Text_TryDressingUpPokemon",
@@ -344,6 +574,16 @@
         "This might put a smile on your face.\r",
         "Try dressing up a Pokémon with\n",
         "this {STRVAR_1 31, 0, 0}.\r"
+      ],
+      "fr_FR": [
+        "Tu me rappelles ce garçon très \n",
+        "impatient croisé tout à l’heure.\r",
+        "Il était très proche de ses Pokémon,\n",
+        "tout comme toi.\r",
+        "Hé, merci de m’avoir rendu le sourire!\n",
+        "Voilà qui pourrait te rendre la pareille.\r",
+        "Essaie d’habiller un Pokémon\n",
+        "avec l’Accessoire {STRVAR_1 31, 0, 0}.\r"
       ]
     },
     {
@@ -355,6 +595,14 @@
         "them into Poffins.\r",
         "All the work is worth it when I see\n",
         "how happy they make my Pokémon!"
+      ],
+      "fr_FR": [
+        "Quelqu’un m’a donné une Baie, je l’ai\n",
+        "plantée, elle en a donné d’autres...\r",
+        "Ensuite, j’ai pris les Baies pour\n",
+        "préparer des Poffins.\r",
+        "Et crois-moi, à voir comme mes Pokémon\n",
+        "sont heureux, ça en vaut la peine!"
       ]
     },
     {
@@ -362,6 +610,11 @@
       "en_US": [
         "I can’t use the hidden move Surf until\n",
         "I beat the local Gym Leader."
+      ],
+      "fr_FR": [
+        "Je ne pourrai utiliser la capacité\n",
+        "secrète Surf qu’après avoir vaincu\f",
+        "le Champion d’Arène du coin."
       ]
     },
     {
@@ -371,6 +624,12 @@
         "It’s on Route 212.\r",
         "The owner, Mr. Backlot, likes to brag\n",
         "about his herd of rare Pokémon."
+      ],
+      "fr_FR": [
+        "Tu as fait un tour au Manoir Pokémon?\n",
+        "Il est sur la Route 212.\r",
+        "Le propriétaire, M. Décorum, aime se\n",
+        "vanter de ses Pokémon rares."
       ]
     },
     {
@@ -378,6 +637,10 @@
       "en_US": [
         "Pastoria City\n",
         "The Marsh City"
+      ],
+      "fr_FR": [
+        "Verchamps\n",
+        "Ville marais"
       ]
     },
     {
@@ -386,6 +649,11 @@
         "Pastoria City Pokémon Gym\n",
         "Leader: Crasher Wake\f",
         "The Torrential Masked Master!"
+      ],
+      "fr_FR": [
+        "Arène Pokémon de Verchamps\n",
+        "Champion: Lovis le Teigneux\f",
+        "La vague déferlante masquée!"
       ]
     },
     {
@@ -393,6 +661,10 @@
       "en_US": [
         "Pastoria Great Marsh\n",
         "Observatory Gate"
+      ],
+      "fr_FR": [
+        "Grand Marais de Verchamps\n",
+        "Porte de l’Observatoire."
       ]
     },
     {
@@ -400,6 +672,10 @@
       "en_US": [
         "Try the Safari Game in\n",
         "Pastoria’s Great Marsh!"
+      ],
+      "fr_FR": [
+        "Participez au Jeu Safari du\n",
+        "Grand Marais de Verchamps!"
       ]
     }
   ]

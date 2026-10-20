@@ -25,5 +25,13 @@
     "contest": {
         "effect": "CONTEST_EFFECT_2_HEARTS_WHEN_VOLTAGE_UP",
         "type": "CONTEST_TYPE_BEAUTY"
-    }
+    },
+    "name_fr": "Rayon Signal",
+    "description_fr": [
+        "Le lanceur projette\n",
+        "un rayon de lumière\n",
+        "sinistre. Peut aussi\n",
+        "rendre l’ennemi\n",
+        "confus."
+    ]
 }

@@ -68,7 +68,12 @@
             "en_US": [
                 "Ouch! Are you one of those loyal\n",
                 "fans? You sure are rowdy!\n"
+            ],
+            "fr_FR": [
+                "Hé! Fan ou pas, j’aimerais que tu\n",
+                "montres un peu plus de délicatesse!\n"
             ]
         }
-    ]
+    ],
+    "name_fr": "Romane"
 }

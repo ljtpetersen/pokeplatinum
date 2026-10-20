@@ -24,5 +24,13 @@
     "contest": {
         "effect": "CONTEST_EFFECT_FIRST_NEXT_TURN",
         "type": "CONTEST_TYPE_CUTE"
-    }
+    },
+    "name_fr": "Moi d’Abord",
+    "description_fr": [
+        "Le lanceur vole la\n",
+        "capacité prévue\n",
+        "par l’ennemi et\n",
+        "l’utilise avec une\n",
+        "puissance accrue."
+    ]
 }

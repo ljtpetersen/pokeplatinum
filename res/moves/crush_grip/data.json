@@ -27,5 +27,13 @@
     "contest": {
         "effect": "CONTEST_EFFECT_DOUBLE_FINAL_ACT",
         "type": "CONTEST_TYPE_TOUGH"
-    }
+    },
+    "name_fr": "Presse",
+    "description_fr": [
+        "Une force puissante\n",
+        "écrase l’ennemi. Plus\n",
+        "il lui reste de PV et\n",
+        "plus l’attaque est\n",
+        "puissante."
+    ]
 }

@@ -8,6 +8,12 @@
         "A key is necessary for us to go on.\r",
         "For the time being, we cannot give\n",
         "chase to those who run away.\r"
+      ],
+      "fr_FR": [
+        "Beladonis: Hum...\n",
+        "C’est fermé.\r",
+        "Sans la clé, nous sommes obligés\n",
+        "de laisser filer ces bandits.\r"
       ]
     },
     {
@@ -19,6 +25,13 @@
         "keeping.\r",
         "It will not do to leave this item here\n",
         "to be used by the Team Galactic.\r"
+      ],
+      "fr_FR": [
+        "Beladonis: Ah, cette Capsule Secrète...\n",
+        "Elle contient la capacité secrète Vol.\r",
+        "{STRVAR_1 3, 0, 0}, je te la confie.\r",
+        "Mieux vaut ne pas la laisser aux mains\n",
+        "de la Team Galaxie.\r"
       ]
     },
     {
@@ -32,6 +45,16 @@
         "something to Pastoria City.\r",
         "What they are up to, I do not know, but\n",
         "I have bad feelings about it."
+      ],
+      "fr_FR": [
+        "Beladonis: Il semblerait que nous ne\n",
+        "soyons pas plus avancés... Tant pis.\r",
+        "Ce qui m’inquiète, c’est ce que j’ai\n",
+        "entendu au Casino.\r",
+        "La Team Galaxie a transporté quelque\n",
+        "chose jusqu’à Verchamps.\r",
+        "Je ne sais pas ce qu’ils mijotent\n",
+        "mais ça ne me dit rien qui vaille."
       ]
     },
     {
@@ -43,6 +66,14 @@
         "something to Pastoria City.\r",
         "What they are up to, I do not know, but\n",
         "I have bad feelings about it."
+      ],
+      "fr_FR": [
+        "Beladonis: Ce qui m’inquiète, c’est ce\n",
+        "que j’ai entendu au Casino.\r",
+        "La Team Galaxie a transporté quelque\n",
+        "chose jusqu’à Verchamps.\r",
+        "Je ne sais pas ce qu’ils mijotent\n",
+        "mais ça ne me dit rien qui vaille."
       ]
     },
     {
@@ -50,6 +81,10 @@
       "en_US": [
         "Looker: Ah, hello!\n",
         "I have kept you waiting.\r"
+      ],
+      "fr_FR": [
+        "Beladonis: Salut!\n",
+        "Je t’ai fait attendre.\r"
       ]
     },
     {
@@ -60,6 +95,14 @@
         "...Ker-chunk!\r",
         "Yes!\n",
         "It is opened!\r"
+      ],
+      "fr_FR": [
+        "Beladonis: Le moment est venu d’utiliser\n",
+        "cette Clé Stockage, que j’ai extorquée\f",
+        "à la Team Galaxie...\r",
+        "Cric crac!\r",
+        "Victoire!\n",
+        "C’est ouvert!\r"
       ]
     },
     {
@@ -67,6 +110,10 @@
       "en_US": [
         "I will go on ahead, my friend.\n",
         "Do not expose yourself to danger!\r"
+      ],
+      "fr_FR": [
+        "Je passe le premier, camarade.\n",
+        "Ne prends aucun risque!\r"
       ]
     },
     {
@@ -74,6 +121,10 @@
       "en_US": [
         "The rust-encrusted door is locked.\n",
         "It appears to take a special key.\n"
+      ],
+      "fr_FR": [
+        "Cette porte rouillée est verrouillée.\n",
+        "Elle nécessite une clé spéciale."
       ]
     },
     {
@@ -82,6 +133,11 @@
         "The rust-encrusted door is locked.\n",
         "It appears to take a special key.\r",
         "Use the Storage Key?"
+      ],
+      "fr_FR": [
+        "Cette porte rouillée est verrouillée.\n",
+        "Elle nécessite une clé spéciale.\r",
+        "Utiliser la Clé Stockage?"
       ]
     },
     {
@@ -92,6 +148,13 @@
         "The rusty door creaked open!\r",
         "The Storage Key snapped off inside\n",
         "the keyhole..."
+      ],
+      "fr_FR": [
+        "{STRVAR_1 3, 0, 0} tourne la Clé\n",
+        "Stockage dans la serrure.\r",
+        "La porte rouillée s’ouvre en grinçant!\r",
+        "La Clé Stockage s’est cassée dans la\n",
+        "serrure..."
       ]
     }
   ]

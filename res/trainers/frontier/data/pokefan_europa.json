@@ -77,6 +77,10 @@
             "en_US": [
                 "I think I’ll try out the TM the woman\n",
                 "next door gave me."
+            ],
+            "fr_FR": [
+                "Ma voisine m’a offert une CT ce matin.\n",
+                "Voyons ce que ça donne..."
             ]
         },
         {
@@ -84,6 +88,10 @@
             "en_US": [
                 "I am impressed. That woman actually\n",
                 "gave me something useful.\r"
+            ],
+            "fr_FR": [
+                "Je suis surprise. Pour une fois, ma\n",
+                "voisine m’a donné quelque chose d’utile!\r"
             ]
         },
         {
@@ -91,7 +99,12 @@
             "en_US": [
                 "Oh, that nasty woman!\n",
                 "This TM is worthless!\r"
+            ],
+            "fr_FR": [
+                "Pff, j’aurais dû m’en douter. Ma voisine\n",
+                "m’a refilé une CT sans intérêt!\r"
             ]
         }
-    ]
+    ],
+    "name_fr": "Eunice"
 }

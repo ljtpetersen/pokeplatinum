@@ -33,17 +33,26 @@
             "en_US": [
                 "Whoa! You startled me!\n",
                 "Well, we may as well battle!\r"
+            ],
+            "fr_FR": [
+                "Oaaah! Tu m’as fait peur! Maintenant\n",
+                "que tu es là, autant nous affronter.\r"
             ]
         },
         {
             "type": "TRMSG_DEFEAT",
-            "en_US": "Your power startles me!\n"
+            "en_US": "Your power startles me!\n",
+            "fr_FR": "Ta puissance est effrayante!"
         },
         {
             "type": "TRMSG_POST_BATTLE",
             "en_US": [
                 "We Hikers are bighearted guys!\n",
                 "Losing doesn’t bother us!\n"
+            ],
+            "fr_FR": [
+                "Nous les Montagnards, nous avons un \n",
+                "mental d’acier. Perdre nous est égal.\n"
             ]
         },
         {
@@ -51,7 +60,12 @@
             "en_US": [
                 "Whoa! You startled me!\n",
                 "We may as well have a rematch!\r"
+            ],
+            "fr_FR": [
+                "Oaaah! Tu m’as fait peur! Encore!\n",
+                "Bon, faisons la revanche.\r"
             ]
         }
-    ]
+    ],
+    "name_fr": "Timéo"
 }

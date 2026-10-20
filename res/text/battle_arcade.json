@@ -9,11 +9,19 @@
         "Double Battle challenges.\r",
         "Please be aware that these challenges\n",
         "are designed for a single Trainer.\r"
+      ],
+      "fr_FR": [
+        "Bienvenue à l’Arcade de Combat!\r",
+        "Je suis votre guide pour les \n",
+        "Combats Solo et Duo.\r",
+        "Ils sont conçus pour un seul\n",
+        "Dresseur.\r"
       ]
     },
     {
       "id": "BattleArcade_Text_TakeWhichChallenge",
-      "en_US": "Which challenge would you like to take?"
+      "en_US": "Which challenge would you like to take?",
+      "fr_FR": "Quel défi souhaitez-vous relever?"
     },
     {
       "id": "BattleArcade_Text_ExplainSingleDoubleChallenge",
@@ -37,6 +45,25 @@
         "If you don’t save, you will be\n",
         "disqualified from your challenge.\r",
         "Please be aware of that!\r"
+      ],
+      "fr_FR": [
+        "L’Arcade de Combat propose des\n",
+        "Combats Solo et des Combats Duo.\r",
+        "Avant chaque match, un tableau de jeu\n",
+        "décide aléatoirement des conditions\f",
+        "du combat à venir.\r",
+        "Celles-ci peuvent s’avérer favorables\n",
+        "au candidat, ou l’inverse.\r",
+        "Le but est d’enchaîner le plus de\n",
+        "victoires possible.\r",
+        "Les objets tenus par vos Pokémon\n",
+        "seront consignés le temps du défi.\r",
+        "Remportez sept combats à la suite et\n",
+        "vous gagnerez des Points de Combat.\r",
+        "Si vous voulez interrompre votre \n",
+        "progression, vous devrez sauvegarder.\r",
+        "Si vous ne le faites pas, nous \n",
+        "devrons vous disqualifier.\r"
       ]
     },
     {
@@ -47,6 +74,13 @@
         "challenge.\r",
         "Please be aware that this challenge\n",
         "requires two Trainers.\r"
+      ],
+      "fr_FR": [
+        "Bienvenue à l’Arcade de Combat!\r",
+        "Je serai votre guide pour les\n",
+        "Combats Multi!\r",
+        "Ils sont conçus pour des équipes\n",
+        "de deux Dresseurs.\r"
       ]
     },
     {
@@ -54,6 +88,10 @@
       "en_US": [
         "Would you like to take the Battle\n",
         "Arcade Multi Battle challenge?"
+      ],
+      "fr_FR": [
+        "Voulez-vous relever le défi du\n",
+        "Combat Multi?"
       ]
     },
     {
@@ -75,18 +113,38 @@
         "a row, you will earn Battle Points (BP).\r",
         "Please note: a Battle Arcade Multi\n",
         "Battle challenge can’t be interrupted.\r"
+      ],
+      "fr_FR": [
+        "Pour les Combats Multi, vous pouvez\n",
+        "faire équipe avec un ami.\r",
+        "Ici, avant chaque match, un tableau de\n",
+        "jeu décide aléatoirement des conditions\f",
+        "du combat à venir.\r",
+        "Celles-ci peuvent avoir un certain\n",
+        "impact sur l’issue du combat.\r",
+        "Le but est d’enchaîner le plus de\n",
+        "victoires possible.\r",
+        "Les objets tenus par vos Pokémon\n",
+        "seront consignés le temps du défi.\r",
+        "Remportez sept combats à la suite et\n",
+        "vous gagnerez des Points de Combat.\r",
+        "Notez bien qu’à l’Arcade de Combat, les\n",
+        "Combats Multi ne peuvent être\f",
+        "interrompus.\r"
       ]
     },
     {
       "id": "BattleArcade_Text_HopeToSeeYouAgain",
-      "en_US": "We hope to see you again!"
+      "en_US": "We hope to see you again!",
+      "fr_FR": "A une prochaine fois peut-être!"
     },
     {
       "id": "BattleArcade_Text_SelectPokemonToEnter",
       "en_US": [
         "Please select the Pokémon you wish\n",
         "to enter.\r"
-      ]
+      ],
+      "fr_FR": "Veuillez choisir les Pokémon à inscrire.\r"
     },
     {
       "id": "BattleArcade_Text_NotEnoughEligiblePokemon",
@@ -95,17 +153,29 @@
         "You don’t have {STRVAR_1 50, 0, 0} eligible Pokémon.\r",
         "You must have {STRVAR_1 50, 1, 0} different Pokémon\n",
         "to enter.\r"
+      ],
+      "fr_FR": [
+        "Je regrette!\r",
+        "Vous n’avez pas {STRVAR_1 50, 0, 0} Pokémon pouvant\n",
+        "participer.\r",
+        "Il vous faut {STRVAR_1 50, 1, 0} Pokémon différents\n",
+        "pour participer.\r"
       ]
     },
     {
       "id": "BattleArcade_Text_Banlist",
-      "en_US": "Also, Eggs are ineligible to enter.\r"
+      "en_US": "Also, Eggs are ineligible to enter.\r",
+      "fr_FR": "Les Oeufs ne peuvent pas participer.\r"
     },
     {
       "id": "BattleArcade_Text_Banlist1",
       "en_US": [
         "Eggs and {STRVAR_1 0, 1, 0} are not allowed\n",
         "to enter.\r"
+      ],
+      "fr_FR": [
+        "Les Oeufs et {STRVAR_1 0, 1, 0} ne sont pas\n",
+        "autorisés à participer.\r"
       ]
     },
     {
@@ -113,6 +183,11 @@
       "en_US": [
         "Eggs, {STRVAR_1 0, 1, 0}, and {STRVAR_1 0, 2, 0}\n",
         "are not allowed to enter.\r"
+      ],
+      "fr_FR": [
+        "Les Oeufs, {STRVAR_1 0, 1, 0} et\n",
+        "{STRVAR_1 0, 2, 0} ne sont pas autorisés à\f",
+        "participer.\r"
       ]
     },
     {
@@ -121,6 +196,11 @@
         "Eggs, {STRVAR_1 0, 1, 0}, {STRVAR_1 0, 2, 0},\n",
         "and {STRVAR_1 0, 3, 0} are not allowed\f",
         "to enter.\r"
+      ],
+      "fr_FR": [
+        "Les Oeufs, {STRVAR_1 0, 1, 0}, {STRVAR_1 0, 2, 0}\n",
+        "et {STRVAR_1 0, 3, 0} ne sont pas autorisés\f",
+        "à participer.\r"
       ]
     },
     {
@@ -129,6 +209,11 @@
         "Eggs, {STRVAR_1 0, 1, 0}, {STRVAR_1 0, 2, 0},\n",
         "{STRVAR_1 0, 3, 0}, and {STRVAR_1 0, 4, 0}\f",
         "are not allowed to enter.\r"
+      ],
+      "fr_FR": [
+        "Les Oeufs, {STRVAR_1 0, 1, 0}, {STRVAR_1 0, 2, 0},\n",
+        "{STRVAR_1 0, 3, 0} et {STRVAR_1 0, 4, 0} ne sont\f",
+        "pas autorisés à participer.\r"
       ]
     },
     {
@@ -137,6 +222,12 @@
         "Eggs, {STRVAR_1 0, 1, 0}, {STRVAR_1 0, 2, 0},\n",
         "{STRVAR_1 0, 3, 0}, {STRVAR_1 0, 4, 0}, and\f",
         "{STRVAR_1 0, 5, 0} are not allowed to enter.\r"
+      ],
+      "fr_FR": [
+        "Les Oeufs, {STRVAR_1 0, 1, 0}, {STRVAR_1 0, 2, 0},\n",
+        "{STRVAR_1 0, 3, 0}, {STRVAR_1 0, 4, 0} et\f",
+        "{STRVAR_1 0, 5, 0} ne sont pas autorisés\f",
+        "à participer.\r"
       ]
     },
     {
@@ -146,6 +237,12 @@
         "{STRVAR_1 0, 3, 0}, {STRVAR_1 0, 4, 0},\f",
         "{STRVAR_1 0, 5, 0}, and {STRVAR_1 0, 6, 0}\f",
         "are not allowed to enter.\r"
+      ],
+      "fr_FR": [
+        "Les Oeufs, {STRVAR_1 0, 1, 0}, {STRVAR_1 0, 2, 0},\n",
+        "{STRVAR_1 0, 3, 0}, {STRVAR_1 0, 4, 0},\f",
+        "{STRVAR_1 0, 5, 0} et {STRVAR_1 0, 6, 0}\f",
+        "ne sont pas autorisés à participer.\r"
       ]
     },
     {
@@ -155,6 +252,13 @@
         "{STRVAR_1 0, 3, 0}, {STRVAR_1 0, 4, 0},\f",
         "{STRVAR_1 0, 5, 0}, {STRVAR_1 0, 6, 0}, and\f",
         "{STRVAR_1 0, 7, 0} are not allowed to enter.\r"
+      ],
+      "fr_FR": [
+        "Les Oeufs, {STRVAR_1 0, 1, 0}, {STRVAR_1 0, 2, 0},\n",
+        "{STRVAR_1 0, 3, 0}, {STRVAR_1 0, 4, 0},\f",
+        "{STRVAR_1 0, 5, 0}, {STRVAR_1 0, 6, 0} et\f",
+        "{STRVAR_1 0, 7, 0} ne sont pas autorisés\f",
+        "à participer.\r"
       ]
     },
     {
@@ -165,6 +269,13 @@
         "{STRVAR_1 0, 5, 0}, {STRVAR_1 0, 6, 0},\f",
         "{STRVAR_1 0, 7, 0}, and {STRVAR_1 0, 8, 0}\f",
         "are not allowed to enter.\r"
+      ],
+      "fr_FR": [
+        "Les Oeufs, {STRVAR_1 0, 1, 0}, {STRVAR_1 0, 2, 0},\n",
+        "{STRVAR_1 0, 3, 0}, {STRVAR_1 0, 4, 0},\f",
+        "{STRVAR_1 0, 5, 0}, {STRVAR_1 0, 6, 0},\f",
+        "{STRVAR_1 0, 7, 0} et {STRVAR_1 0, 8, 0}\f",
+        "ne sont pas autorisés à participer.\r"
       ]
     },
     {
@@ -175,6 +286,14 @@
         "{STRVAR_1 0, 5, 0}, {STRVAR_1 0, 6, 0},\f",
         "{STRVAR_1 0, 7, 0}, {STRVAR_1 0, 8, 0}, and\f",
         "{STRVAR_1 0, 9, 0} are not allowed to enter.\r"
+      ],
+      "fr_FR": [
+        "Les Oeufs, {STRVAR_1 0, 1, 0}, {STRVAR_1 0, 2, 0},\n",
+        "{STRVAR_1 0, 3, 0}, {STRVAR_1 0, 4, 0},\f",
+        "{STRVAR_1 0, 5, 0}, {STRVAR_1 0, 6, 0},\f",
+        "{STRVAR_1 0, 7, 0}, {STRVAR_1 0, 8, 0} et\f",
+        "{STRVAR_1 0, 9, 0} ne sont pas autorisés\f",
+        "à participer.\r"
       ]
     },
     {
@@ -186,6 +305,14 @@
         "{STRVAR_1 0, 7, 0}, {STRVAR_1 0, 8, 0},\f",
         "{STRVAR_1 0, 9, 0}, and {STRVAR_1 0, 10, 0}\f",
         "are not allowed to enter.\r"
+      ],
+      "fr_FR": [
+        "Les Oeufs, {STRVAR_1 0, 1, 0}, {STRVAR_1 0, 2, 0},\n",
+        "{STRVAR_1 0, 3, 0}, {STRVAR_1 0, 4, 0},\f",
+        "{STRVAR_1 0, 5, 0}, {STRVAR_1 0, 6, 0},\f",
+        "{STRVAR_1 0, 7, 0}, {STRVAR_1 0, 8, 0},\f",
+        "{STRVAR_1 0, 9, 0} et {STRVAR_1 0, 10, 0}\f",
+        "ne sont pas autorisés à participer.\r"
       ]
     },
     {
@@ -197,6 +324,15 @@
         "{STRVAR_1 0, 7, 0}, {STRVAR_1 0, 8, 0},\f",
         "{STRVAR_1 0, 9, 0}, {STRVAR_1 0, 10, 0}, and\f",
         "{STRVAR_1 0, 11, 0} are not allowed to enter.\r"
+      ],
+      "fr_FR": [
+        "Les Oeufs, {STRVAR_1 0, 1, 0}, {STRVAR_1 0, 2, 0},\n",
+        "{STRVAR_1 0, 3, 0}, {STRVAR_1 0, 4, 0},\f",
+        "{STRVAR_1 0, 5, 0}, {STRVAR_1 0, 6, 0},\f",
+        "{STRVAR_1 0, 7, 0}, {STRVAR_1 0, 8, 0},\f",
+        "{STRVAR_1 0, 9, 0}, {STRVAR_1 0, 10, 0} et\f",
+        "{STRVAR_1 0, 11, 0} ne sont pas autorisés\f",
+        "à participer.\r"
       ]
     },
     {
@@ -209,6 +345,15 @@
         "{STRVAR_1 0, 9, 0}, {STRVAR_1 0, 10, 0},\f",
         "{STRVAR_1 0, 11, 0}, and {STRVAR_1 0, 12, 0}\f",
         "are not allowed to enter.\r"
+      ],
+      "fr_FR": [
+        "Les Oeufs, {STRVAR_1 0, 1, 0}, {STRVAR_1 0, 2, 0},\n",
+        "{STRVAR_1 0, 3, 0}, {STRVAR_1 0, 4, 0},\f",
+        "{STRVAR_1 0, 5, 0}, {STRVAR_1 0, 6, 0},\f",
+        "{STRVAR_1 0, 7, 0}, {STRVAR_1 0, 8, 0},\f",
+        "{STRVAR_1 0, 9, 0}, {STRVAR_1 0, 10, 0},\f",
+        "{STRVAR_1 0, 11, 0} et {STRVAR_1 0, 12, 0}\f",
+        "ne sont pas autorisés à participer.\r"
       ]
     },
     {
@@ -221,6 +366,16 @@
         "{STRVAR_1 0, 9, 0}, {STRVAR_1 0, 10, 0},\f",
         "{STRVAR_1 0, 11, 0}, {STRVAR_1 0, 12, 0}, and\f",
         "{STRVAR_1 0, 13, 0} are not allowed to enter.\r"
+      ],
+      "fr_FR": [
+        "Les Oeufs, {STRVAR_1 0, 1, 0}, {STRVAR_1 0, 2, 0},\n",
+        "{STRVAR_1 0, 3, 0}, {STRVAR_1 0, 4, 0},\f",
+        "{STRVAR_1 0, 5, 0}, {STRVAR_1 0, 6, 0},\f",
+        "{STRVAR_1 0, 7, 0}, {STRVAR_1 0, 8, 0},\f",
+        "{STRVAR_1 0, 9, 0}, {STRVAR_1 0, 10, 0},\f",
+        "{STRVAR_1 0, 11, 0}, {STRVAR_1 0, 12, 0} et\f",
+        "{STRVAR_1 0, 13, 0} ne sont pas autorisés\f",
+        "à participer.\r"
       ]
     },
     {
@@ -234,6 +389,16 @@
         "{STRVAR_1 0, 11, 0}, {STRVAR_1 0, 12, 0},\f",
         "{STRVAR_1 0, 13, 0}, and {STRVAR_1 0, 14, 0}\f",
         "are not allowed to enter.\r"
+      ],
+      "fr_FR": [
+        "Les Oeufs, {STRVAR_1 0, 1, 0}, {STRVAR_1 0, 2, 0},\n",
+        "{STRVAR_1 0, 3, 0}, {STRVAR_1 0, 4, 0},\f",
+        "{STRVAR_1 0, 5, 0}, {STRVAR_1 0, 6, 0},\f",
+        "{STRVAR_1 0, 7, 0}, {STRVAR_1 0, 8, 0},\f",
+        "{STRVAR_1 0, 9, 0}, {STRVAR_1 0, 10, 0},\f",
+        "{STRVAR_1 0, 11, 0}, {STRVAR_1 0, 12, 0},\f",
+        "{STRVAR_1 0, 13, 0} et {STRVAR_1 0, 14, 0}\f",
+        "ne sont pas autorisés à participer.\r"
       ]
     },
     {
@@ -247,6 +412,17 @@
         "{STRVAR_1 0, 11, 0}, {STRVAR_1 0, 12, 0},\f",
         "{STRVAR_1 0, 13, 0}, {STRVAR_1 0, 14, 0}, and\f",
         "{STRVAR_1 0, 15, 0} are not allowed to enter.\r"
+      ],
+      "fr_FR": [
+        "Les Oeufs, {STRVAR_1 0, 1, 0}, {STRVAR_1 0, 2, 0},\n",
+        "{STRVAR_1 0, 3, 0}, {STRVAR_1 0, 4, 0},\f",
+        "{STRVAR_1 0, 5, 0}, {STRVAR_1 0, 6, 0},\f",
+        "{STRVAR_1 0, 7, 0}, {STRVAR_1 0, 8, 0},\f",
+        "{STRVAR_1 0, 9, 0}, {STRVAR_1 0, 10, 0},\f",
+        "{STRVAR_1 0, 11, 0}, {STRVAR_1 0, 12, 0},\f",
+        "{STRVAR_1 0, 13, 0}, {STRVAR_1 0, 14, 0} et\f",
+        "{STRVAR_1 0, 15, 0} ne sont pas autorisés\f",
+        "à participer.\r"
       ]
     },
     {
@@ -261,6 +437,17 @@
         "{STRVAR_1 0, 13, 0}, {STRVAR_1 0, 14, 0},\f",
         "{STRVAR_1 0, 15, 0}, and {STRVAR_1 0, 16, 0}\f",
         "are not allowed to enter.\r"
+      ],
+      "fr_FR": [
+        "Les Oeufs, {STRVAR_1 0, 1, 0}, {STRVAR_1 0, 2, 0},\n",
+        "{STRVAR_1 0, 3, 0}, {STRVAR_1 0, 4, 0},\f",
+        "{STRVAR_1 0, 5, 0}, {STRVAR_1 0, 6, 0},\f",
+        "{STRVAR_1 0, 7, 0}, {STRVAR_1 0, 8, 0},\f",
+        "{STRVAR_1 0, 9, 0}, {STRVAR_1 0, 10, 0},\f",
+        "{STRVAR_1 0, 11, 0}, {STRVAR_1 0, 12, 0},\f",
+        "{STRVAR_1 0, 13, 0}, {STRVAR_1 0, 14, 0},\f",
+        "{STRVAR_1 0, 15, 0} et {STRVAR_1 0, 16, 0}\f",
+        "ne sont pas autorisés à participer.\r"
       ]
     },
     {
@@ -275,6 +462,18 @@
         "{STRVAR_1 0, 13, 0}, {STRVAR_1 0, 14, 0},\f",
         "{STRVAR_1 0, 15, 0}, {STRVAR_1 0, 16, 0}, and\f",
         "{STRVAR_1 0, 17, 0} are not allowed to enter.\r"
+      ],
+      "fr_FR": [
+        "Les Oeufs, {STRVAR_1 0, 1, 0}, {STRVAR_1 0, 2, 0},\n",
+        "{STRVAR_1 0, 3, 0}, {STRVAR_1 0, 4, 0},\f",
+        "{STRVAR_1 0, 5, 0}, {STRVAR_1 0, 6, 0},\f",
+        "{STRVAR_1 0, 7, 0}, {STRVAR_1 0, 8, 0},\f",
+        "{STRVAR_1 0, 9, 0}, {STRVAR_1 0, 10, 0},\f",
+        "{STRVAR_1 0, 11, 0}, {STRVAR_1 0, 12, 0},\f",
+        "{STRVAR_1 0, 13, 0}, {STRVAR_1 0, 14, 0},\f",
+        "{STRVAR_1 0, 15, 0}, {STRVAR_1 0, 16, 0} et\f",
+        "{STRVAR_1 0, 17, 0} ne sont pas autorisés\f",
+        "à participer.\r"
       ]
     },
     {
@@ -290,11 +489,27 @@
         "{STRVAR_1 0, 15, 0}, {STRVAR_1 0, 16, 0},\f",
         "{STRVAR_1 0, 17, 0}, and {STRVAR_1 0, 18, 0}\f",
         "are not allowed to enter.\r"
+      ],
+      "fr_FR": [
+        "Les Oeufs, {STRVAR_1 0, 1, 0}, {STRVAR_1 0, 2, 0},\n",
+        "{STRVAR_1 0, 3, 0}, {STRVAR_1 0, 4, 0},\f",
+        "{STRVAR_1 0, 5, 0}, {STRVAR_1 0, 6, 0},\f",
+        "{STRVAR_1 0, 7, 0}, {STRVAR_1 0, 8, 0},\f",
+        "{STRVAR_1 0, 9, 0}, {STRVAR_1 0, 10, 0},\f",
+        "{STRVAR_1 0, 11, 0}, {STRVAR_1 0, 12, 0},\f",
+        "{STRVAR_1 0, 13, 0}, {STRVAR_1 0, 14, 0},\f",
+        "{STRVAR_1 0, 15, 0}, {STRVAR_1 0, 16, 0},\f",
+        "{STRVAR_1 0, 17, 0} et {STRVAR_1 0, 18, 0}\f",
+        "ne sont pas autorisés à participer.\r"
       ]
     },
     {
       "id": "BattleArcade_Text_SeeMeWhenReady",
-      "en_US": "Please come see me when you are ready.\r"
+      "en_US": "Please come see me when you are ready.\r",
+      "fr_FR": [
+        "Revenez nous voir quand votre équipe\n",
+        "sera prête.\r"
+      ]
     },
     {
       "id": "BattleArcade_Text_BothTrainersChoseThisPokemon",
@@ -303,6 +518,11 @@
         "Pokémon {STRVAR_1 0, 0, 0}.\r",
         "Please confer with the other Trainer\n",
         "and choose different Pokémon.\r"
+      ],
+      "fr_FR": [
+        "Les deux Dresseurs ont choisi le\n",
+        "Pokémon {STRVAR_1 0, 0, 0}.\r",
+        "Veuillez choisir des Pokémon différents.\r"
       ]
     },
     {
@@ -312,6 +532,11 @@
         "{STRVAR_1 0, 0, 0} and {STRVAR_1 0, 1, 0}.\r",
         "Please confer with the other Trainer\n",
         "and choose different Pokémon.\r"
+      ],
+      "fr_FR": [
+        "Les deux Dresseurs ont choisi les\n",
+        "Pokémon {STRVAR_1 0, 0, 0} et {STRVAR_1 0, 1, 0}.\r",
+        "Veuillez choisir des Pokémon différents.\r"
       ]
     },
     {
@@ -320,7 +545,8 @@
     },
     {
       "id": "BattleArcade_Text_ThisWayPlease",
-      "en_US": "Right this way, please!"
+      "en_US": "Right this way, please!",
+      "fr_FR": "Par ici, s’il vous plaît!"
     },
     {
       "id": "BattleArcade_Text_MustSaveBeforeResuming",
@@ -328,6 +554,12 @@
         "We’ve missed you!\r",
         "You must save the game before you\n",
         "resume your challenge. Please wait."
+      ],
+      "fr_FR": [
+        "Contents de vous revoir!\r",
+        "Vous devez sauvegarder la partie avant\n",
+        "de reprendre le défi.\r",
+        "Veuillez patienter."
       ]
     },
     {
@@ -338,6 +570,13 @@
         "challenge last time.\r",
         "Because of that, you have been\n",
         "disqualified from your challenge!\r"
+      ],
+      "fr_FR": [
+        "Je regrette.\r",
+        "Vous n’avez pas sauvegardé avant\n",
+        "l’interruption de votre dernier défi.\r",
+        "En conséquence, nous sommes \n",
+        "obligés de vous disqualifier!\r"
       ]
     },
     {
@@ -346,6 +585,11 @@
         "Congratulations!\r",
         "In honor of your victory, we present\n",
         "you with this commemorative print!\r"
+      ],
+      "fr_FR": [
+        "Félicitations!\r",
+        "Pour célébrer votre victoire, nous vous\n",
+        "offrons cette photo en souvenir!\r"
       ]
     },
     {
@@ -353,6 +597,10 @@
       "en_US": [
         "The Gold Print was added to\n",
         "{STRVAR_1 3, 0, 0}’s Vs. Recorder!\r"
+      ],
+      "fr_FR": [
+        "{STRVAR_1 3, 0, 0} a la Photo d’Or dans son\n",
+        "Magnéto VS!\r"
       ]
     },
     {
@@ -360,27 +608,36 @@
       "en_US": [
         "The Silver Print was added to\n",
         "{STRVAR_1 3, 0, 0}’s Vs. Recorder!\r"
+      ],
+      "fr_FR": [
+        "{STRVAR_1 3, 0, 0} a la Photo d’Argent dans\n",
+        "son Magnéto VS!\r"
       ]
     },
     {
       "id": "BattleArcade_Text_SingleBattle",
-      "en_US": "SINGLE BATTLE"
+      "en_US": "SINGLE BATTLE",
+      "fr_FR": "COMBAT SOLO"
     },
     {
       "id": "BattleArcade_Text_DoubleBattle",
-      "en_US": "DOUBLE BATTLE"
+      "en_US": "DOUBLE BATTLE",
+      "fr_FR": "COMBAT DUO"
     },
     {
       "id": "BattleArcade_Text_TakeChallenge",
-      "en_US": "TAKE CHALLENGE"
+      "en_US": "TAKE CHALLENGE",
+      "fr_FR": "RELEVER LE DEFI"
     },
     {
       "id": "BattleArcade_Text_Info",
-      "en_US": "INFO"
+      "en_US": "INFO",
+      "fr_FR": "INFOS"
     },
     {
       "id": "BattleArcade_Text_Cancel",
-      "en_US": "CANCEL"
+      "en_US": "CANCEL",
+      "fr_FR": "ANNULER"
     },
     {
       "id": "BattleArcade_Text_BecomeLeaderOrJoinGroup",
@@ -389,6 +646,12 @@
         "“BECOME LEADER.”\r",
         "The other Trainer must select\n",
         "“JOIN GROUP.”"
+      ],
+      "fr_FR": [
+        "L’un de vous deux devra sélectionner\n",
+        "“MENEUR”.\r",
+        "L’autre Dresseur devra choisir\n",
+        "“JOINDRE”."
       ]
     },
     {
@@ -396,6 +659,10 @@
       "en_US": [
         "We need to launch DS Wireless\n",
         "Communications."
+      ],
+      "fr_FR": [
+        "La communication sans fil DS va\n",
+        "démarrer."
       ]
     },
     {
@@ -403,6 +670,10 @@
       "en_US": [
         "You must save the game before I\n",
         "show you in. Please wait."
+      ],
+      "fr_FR": [
+        "Vos données vont être sauvegardées.\n",
+        "Veuillez patienter."
       ]
     },
     {
@@ -412,6 +683,12 @@
         "at the Battle Arcade!\r",
         "It sounds sort of profound, but it’s\n",
         "actually no-kidding obvious!"
+      ],
+      "fr_FR": [
+        "La maîtrise du tableau de jeu est\n",
+        "cruciale pour gagner à l’Arcade!\r",
+        "Ça a l’air profond dit comme ça, mais\n",
+        "c’est l’évidence même!"
       ]
     },
     {
@@ -420,6 +697,11 @@
         "It all comes down to luck here...\r",
         "My cute Pokémon...\n",
         "They were helplessly frozen."
+      ],
+      "fr_FR": [
+        "Ici, tout est une question de chance...\r",
+        "Mes pauvres petits Pokémon, victimes\n",
+        "impuissantes du gel..."
       ]
     },
     {
@@ -427,6 +709,10 @@
       "en_US": [
         "There’s nothing you can do about luck.\n",
         "It’s just there or not."
+      ],
+      "fr_FR": [
+        "On ne peut pas forcer la chance.\n",
+        "Quand ça ne vient pas, ça ne vient pas."
       ]
     },
     {
@@ -436,6 +722,12 @@
         "motion of the game board.\r",
         "If you don’t stop it in 30 seconds, it\n",
         "will stop by itself."
+      ],
+      "fr_FR": [
+        "Ne te laisse pas hypnotiser par les\n",
+        "mouvements du curseur sur le tableau.\r",
+        "Si tu ne le stoppes pas dans les 30\n",
+        "secondes, il s’arrête tout seul."
       ]
     },
     {
@@ -447,6 +739,14 @@
         "A little bump, a wiggle...\r",
         "...Please don’t look at me that way.\n",
         "It’s not nice."
+      ],
+      "fr_FR": [
+        "Le Meneur a des goûts spéciaux en\n",
+        "matière de mode. Qui plus est, il se\f",
+        "déplace bizarrement.\r",
+        "Un petit pas par-ci, un bond par-là...\r",
+        "Pas la peine de me regarder comme ça.\n",
+        "C’est grossier, d’abord."
       ]
     },
     {
@@ -456,6 +756,13 @@
         "with the move Trick Room in effect?\r",
         "A strategy built around Speed could\n",
         "backfire right in your face!"
+      ],
+      "fr_FR": [
+        "Il arrive que les combats débutent sous\n",
+        "l’influence de la capacité Distorsion?\r",
+        "A ce train-là, une stratégie basée sur\n",
+        "la vitesse peut se retourner contre\f",
+        "son usager!"
       ]
     },
     {
@@ -466,6 +773,13 @@
         "Leap into battles ruled by fickle fate!\r",
         "That’s how you enjoy the Battle\n",
         "Arcade!"
+      ],
+      "fr_FR": [
+        "Abandonne-toi au hasard!\r",
+        "Lance-toi dans des combats régis par\n",
+        "les caprices du destin!\r",
+        "C’est la seule façon de profiter\n",
+        "pleinement de l’Arcade de Combat!"
       ]
     },
     {
@@ -475,6 +789,12 @@
         "is pitiful. It’s poor form.\r",
         "The game board will show better choices\n",
         "the greater the wins you achieve."
+      ],
+      "fr_FR": [
+        "Accuser le tableau de jeu pour justifier\n",
+        "sa défaite, c’est pitoyable.\r",
+        "Plus tes exploits sont grands, plus\n",
+        "le tableau te sera favorable."
       ]
     },
     {
@@ -485,6 +805,14 @@
         "made ineffective.\r",
         "...If the Pokémon’s type or ability\n",
         "protects it from such status problems."
+      ],
+      "fr_FR": [
+        "Dis, tu réalises?\r",
+        "Des conditions comme le gel et le poison\n",
+        "peuvent être contrecarrées.\r",
+        "Si tant est que le type ou la capacité\n",
+        "spéciale du Pokémon le protège de ces\f",
+        "problèmes de statut..."
       ]
     },
     {
@@ -493,6 +821,11 @@
         "If the game board triggers a\n",
         "paralyzing event here, Ground types\f",
         "aren’t affected."
+      ],
+      "fr_FR": [
+        "Si les conditions du combat provoquent\n",
+        "la paralysie, les Pokémon de type Sol\f",
+        "ne sont pas affectés."
       ]
     }
   ]

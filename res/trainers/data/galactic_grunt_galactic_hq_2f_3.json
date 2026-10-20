@@ -32,6 +32,10 @@
             "en_US": [
                 "You should be tired out by now.\n",
                 "It’s Team Galactic’s turn to shine!\r"
+            ],
+            "fr_FR": [
+                "L’épuisement doit te gagner.\n",
+                "C’est à la Team Galaxie de briller!\r"
             ]
         },
         {
@@ -39,6 +43,10 @@
             "en_US": [
                 "What? I don’t get it.\n",
                 "What’s your rush?\n"
+            ],
+            "fr_FR": [
+                "Quoi? Je ne comprends pas.\n",
+                "Pourquoi tant de hâte?\n"
             ]
         },
         {
@@ -46,7 +54,12 @@
             "en_US": [
                 "Pokémon are that important to you?\n",
                 "Is that what this is all about?\n"
+            ],
+            "fr_FR": [
+                "Les Pokémon sont importants pour toi?\n",
+                "C’est pour ça?\n"
             ]
         }
-    ]
+    ],
+    "name_fr": "Sbire"
 }

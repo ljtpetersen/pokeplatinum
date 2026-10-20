@@ -23,7 +23,12 @@
             "en_US": [
                 "This won’t do... Time to retreat.\n",
                 "This mission is a failure.\n"
+            ],
+            "fr_FR": [
+                "Ça ne va pas... Fuyons.\n",
+                "Cette mission est un échec.\n"
             ]
         }
-    ]
+    ],
+    "name_fr": "Sbire"
 }

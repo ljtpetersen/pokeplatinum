@@ -3,19 +3,23 @@
   "messages": [
     {
       "id": "pl_msg_00000384_00000",
-      "en_US": "Please touch the bottom screen.{YESNO 0}"
+      "en_US": "Please touch the bottom screen.{YESNO 0}",
+      "fr_FR": "Please touch the bottom screen.{YESNO 0}"
     },
     {
       "id": "pl_msg_00000384_00001",
-      "en_US": "Please look at the bottom screen.{YESNO 1}"
+      "en_US": "Please look at the bottom screen.{YESNO 1}",
+      "fr_FR": "Please look at the bottom screen.{YESNO 1}"
     },
     {
       "id": "pl_msg_00000384_00002",
-      "en_US": "Please operate the top screen.{YESNO 2}"
+      "en_US": "Please operate the top screen.{YESNO 2}",
+      "fr_FR": "Please operate the top screen.{YESNO 2}"
     },
     {
       "id": "pl_msg_00000384_00003",
-      "en_US": "Please look at the top screen.{YESNO 3}"
+      "en_US": "Please look at the top screen.{YESNO 3}",
+      "fr_FR": "Please look at the top screen.{YESNO 3}"
     }
   ]
 }

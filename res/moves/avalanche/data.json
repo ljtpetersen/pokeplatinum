@@ -27,5 +27,13 @@
     "contest": {
         "effect": "CONTEST_EFFECT_DOUBLE_FINAL_ACT",
         "type": "CONTEST_TYPE_COOL"
-    }
+    },
+    "name_fr": "Avalanche",
+    "description_fr": [
+        "Une attaque deux fois\n",
+        "plus puissante si le\n",
+        "lanceur a été blessé\n",
+        "par l’ennemi durant le\n",
+        "tour."
+    ]
 }

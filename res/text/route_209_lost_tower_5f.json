@@ -8,6 +8,12 @@
         "doubt in my heart!\r",
         "This is my thanks.\n",
         "Don’t be shy! Take it!\r"
+      ],
+      "fr_FR": [
+        "Oh! Le brouillard s’est envolé, et tous\n",
+        "mes doutes avec lui!\r",
+        "Tiens, pour te remercier.\n",
+        "Prends, ne sois pas timide!\r"
       ]
     },
     {
@@ -17,6 +23,12 @@
         "It’s hard to tell what she’s thinking.\r",
         "But she has a compassionate heart.\n",
         "You know, she’s a regular visitor."
+      ],
+      "fr_FR": [
+        "Cette Kiméra...\n",
+        "Difficile de savoir ce qu’elle pense.\r",
+        "Mais elle a bon cœur, en tout cas.\n",
+        "Elle vient régulièrement."
       ]
     },
     {
@@ -26,6 +38,12 @@
         "This fog obscures everything!\r",
         "I wish this fog could be blown away like\n",
         "the doubt in my heart!"
+      ],
+      "fr_FR": [
+        "Je n’y vois rien!\n",
+        "Le brouillard est si épais!\r",
+        "Si seulement ce brouillard pouvait\n",
+        "s’envoler et mes doutes avec lui!"
       ]
     },
     {
@@ -33,6 +51,10 @@
       "en_US": [
         "Let me make your journey out of this\n",
         "place less frightening. Take this.\r"
+      ],
+      "fr_FR": [
+        "Laisse-moi t’aider à sortir de cet\n",
+        "endroit sans encombre. Prends ceci.\r"
       ]
     },
     {
@@ -44,6 +66,13 @@
         "Those whose times were short...\r",
         "All the departed Pokémon shall find\n",
         "solace here..."
+      ],
+      "fr_FR": [
+        "C’est à la Tour Perdue que reposent\n",
+        "les âmes des Pokémon disparus.\r",
+        "Ceux qui ont vécu longtemps...\n",
+        "Ceux dont la vie a été courte...\r",
+        "Tous peuvent trouver le repos ici..."
       ]
     },
     {
@@ -53,6 +82,12 @@
         "This fog obscures everything!\r",
         "I wish this fog could be blown away like\n",
         "the doubt in my heart!"
+      ],
+      "fr_FR": [
+        "Je n’y vois rien!\n",
+        "Le brouillard est si épais!\r",
+        "Si seulement ce brouillard pouvait\n",
+        "s’envoler et mes doutes avec lui!"
       ]
     }
   ]

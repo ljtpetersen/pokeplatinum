@@ -86,6 +86,10 @@
             "en_US": [
                 "This is like back at the Gym, isn’t it?\n",
                 "I’m in a bit of a bind, aren’t I?\n"
+            ],
+            "fr_FR": [
+                "L’histoire se répète... Tu me pousses\n",
+                "dans mes derniers retranchements!\n"
             ]
         },
         {
@@ -93,7 +97,12 @@
             "en_US": [
                 "I’m forced to admit defeat again...\n",
                 "You are much too strong.\n"
+            ],
+            "fr_FR": [
+                "J’admets ma défaite... Encore une fois.\n",
+                "Ta puissance est incroyable!\n"
             ]
         }
-    ]
+    ],
+    "name_fr": "Mélina"
 }

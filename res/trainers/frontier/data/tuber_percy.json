@@ -55,6 +55,10 @@
             "en_US": [
                 "I went and caught my Pokémon with my\n",
                 "daddy."
+            ],
+            "fr_FR": [
+                "Mon papa m’aide souvent à\n",
+                "capturer des Pokémon!"
             ]
         },
         {
@@ -62,6 +66,10 @@
             "en_US": [
                 "I won, Daddy!\n",
                 "Daddy, thank you!\r"
+            ],
+            "fr_FR": [
+                "Hé, papa! J’ai gagné! J’ai gagné!\n",
+                "Merci mon papa!\r"
             ]
         },
         {
@@ -69,7 +77,12 @@
             "en_US": [
                 "I wonder if Daddy will show me how to\n",
                 "train my Pokémon next?\r"
+            ],
+            "fr_FR": [
+                "Je vais demander à mon papa de\n",
+                "m’aider à devenir plus fort.\r"
             ]
         }
-    ]
+    ],
+    "name_fr": "Prosper"
 }

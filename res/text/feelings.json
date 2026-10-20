@@ -3,191 +3,238 @@
   "messages": [
     {
       "id": "Feelings_Text_Beauty",
-      "en_US": "BEAUTY"
+      "en_US": "BEAUTY",
+      "fr_FR": "BEAUTE"
     },
     {
       "id": "Feelings_Text_Delight",
-      "en_US": "DELIGHT"
+      "en_US": "DELIGHT",
+      "fr_FR": "BONHEUR"
     },
     {
       "id": "Feelings_Text_Strangeness",
-      "en_US": "STRANGENESS"
+      "en_US": "STRANGENESS",
+      "fr_FR": "BIZARRE"
     },
     {
       "id": "Feelings_Text_Cleverness",
-      "en_US": "CLEVERNESS"
+      "en_US": "CLEVERNESS",
+      "fr_FR": "INTELLIGENCE"
     },
     {
       "id": "Feelings_Text_Disappointed",
-      "en_US": "DISAPPOINTED"
+      "en_US": "DISAPPOINTED",
+      "fr_FR": "DEÇU"
     },
     {
       "id": "Feelings_Text_Coolness",
-      "en_US": "COOLNESS"
+      "en_US": "COOLNESS",
+      "fr_FR": "SANG-FROID"
     },
     {
       "id": "Feelings_Text_Sadness",
-      "en_US": "SADNESS"
+      "en_US": "SADNESS",
+      "fr_FR": "TRISTESSE"
     },
     {
       "id": "Feelings_Text_Cuteness",
-      "en_US": "CUTENESS"
+      "en_US": "CUTENESS",
+      "fr_FR": "GRACE"
     },
     {
       "id": "Feelings_Text_Anger",
-      "en_US": "ANGER"
+      "en_US": "ANGER",
+      "fr_FR": "COLERE"
     },
     {
       "id": "Feelings_Text_Healthy",
-      "en_US": "HEALTHY"
+      "en_US": "HEALTHY",
+      "fr_FR": "EN FORME"
     },
     {
       "id": "Feelings_Text_Regret",
-      "en_US": "REGRET"
+      "en_US": "REGRET",
+      "fr_FR": "REGRET"
     },
     {
       "id": "Feelings_Text_Happiness",
-      "en_US": "HAPPINESS"
+      "en_US": "HAPPINESS",
+      "fr_FR": "JOIE"
     },
     {
       "id": "Feelings_Text_Depressed",
-      "en_US": "DEPRESSED"
+      "en_US": "DEPRESSED",
+      "fr_FR": "DECOURAGE"
     },
     {
       "id": "Feelings_Text_Incredible",
-      "en_US": "INCREDIBLE"
+      "en_US": "INCREDIBLE",
+      "fr_FR": "MERVEILLEUX"
     },
     {
       "id": "Feelings_Text_Likes",
-      "en_US": "LIKES"
+      "en_US": "LIKES",
+      "fr_FR": "AIME"
     },
     {
       "id": "Feelings_Text_Dislike",
-      "en_US": "DISLIKE"
+      "en_US": "DISLIKE",
+      "fr_FR": "N’AIME PAS"
     },
     {
       "id": "Feelings_Text_Bored",
-      "en_US": "BORED"
+      "en_US": "BORED",
+      "fr_FR": "ENNUYEUX"
     },
     {
       "id": "Feelings_Text_Important",
-      "en_US": "IMPORTANT"
+      "en_US": "IMPORTANT",
+      "fr_FR": "IMPORTANT"
     },
     {
       "id": "Feelings_Text_AllRight",
-      "en_US": "ALL RIGHT"
+      "en_US": "ALL RIGHT",
+      "fr_FR": "PARFAIT"
     },
     {
       "id": "Feelings_Text_Adore",
-      "en_US": "ADORE"
+      "en_US": "ADORE",
+      "fr_FR": "ADORE"
     },
     {
       "id": "Feelings_Text_Toughness",
-      "en_US": "TOUGHNESS"
+      "en_US": "TOUGHNESS",
+      "fr_FR": "ROBUSTESSE"
     },
     {
       "id": "Feelings_Text_Enjoyment",
-      "en_US": "ENJOYMENT"
+      "en_US": "ENJOYMENT",
+      "fr_FR": "AMUSEMENT"
     },
     {
       "id": "Feelings_Text_Useless",
-      "en_US": "USELESS"
+      "en_US": "USELESS",
+      "fr_FR": "SANS INTERET"
     },
     {
       "id": "Feelings_Text_Drooling",
-      "en_US": "DROOLING"
+      "en_US": "DROOLING",
+      "fr_FR": "ADMIRATIF"
     },
     {
       "id": "Feelings_Text_Excited",
-      "en_US": "EXCITED"
+      "en_US": "EXCITED",
+      "fr_FR": "NERVEUX"
     },
     {
       "id": "Feelings_Text_Skillful",
-      "en_US": "SKILLFUL"
+      "en_US": "SKILLFUL",
+      "fr_FR": "HABILE"
     },
     {
       "id": "Feelings_Text_Tears",
-      "en_US": "TEARS"
+      "en_US": "TEARS",
+      "fr_FR": "LARMES"
     },
     {
       "id": "Feelings_Text_Hate",
-      "en_US": "HATE"
+      "en_US": "HATE",
+      "fr_FR": "DETESTE"
     },
     {
       "id": "Feelings_Text_ROFL",
-      "en_US": "ROFL"
+      "en_US": "ROFL",
+      "fr_FR": "RIRE"
     },
     {
       "id": "Feelings_Text_Happy",
-      "en_US": "HAPPY"
+      "en_US": "HAPPY",
+      "fr_FR": "HEUREUX"
     },
     {
       "id": "Feelings_Text_Energetic",
-      "en_US": "ENERGETIC"
+      "en_US": "ENERGETIC",
+      "fr_FR": "ENERGIQUE"
     },
     {
       "id": "Feelings_Text_Surprise",
-      "en_US": "SURPRISE"
+      "en_US": "SURPRISE",
+      "fr_FR": "SURPRISE"
     },
     {
       "id": "Feelings_Text_Nervous",
-      "en_US": "NERVOUS"
+      "en_US": "NERVOUS",
+      "fr_FR": "NERVOSITE"
     },
     {
       "id": "Feelings_Text_Want",
-      "en_US": "WANT"
+      "en_US": "WANT",
+      "fr_FR": "JE VEUX"
     },
     {
       "id": "Feelings_Text_Satisfied",
-      "en_US": "SATISFIED"
+      "en_US": "SATISFIED",
+      "fr_FR": "REJOUI"
     },
     {
       "id": "Feelings_Text_Rare",
-      "en_US": "RARE"
+      "en_US": "RARE",
+      "fr_FR": "RARE"
     },
     {
       "id": "Feelings_Text_MessedUp",
-      "en_US": "MESSED UP"
+      "en_US": "MESSED UP",
+      "fr_FR": "DETRUIT"
     },
     {
       "id": "Feelings_Text_NoWay",
-      "en_US": "NO WAY"
+      "en_US": "NO WAY",
+      "fr_FR": "NEGATIF"
     },
     {
       "id": "Feelings_Text_Danger",
-      "en_US": "DANGER"
+      "en_US": "DANGER",
+      "fr_FR": "DANGER"
     },
     {
       "id": "Feelings_Text_LoveyDovey",
-      "en_US": "LOVEY-DOVEY"
+      "en_US": "LOVEY-DOVEY",
+      "fr_FR": "AMOUR"
     },
     {
       "id": "Feelings_Text_Anticipation",
-      "en_US": "ANTICIPATION"
+      "en_US": "ANTICIPATION",
+      "fr_FR": "ATTENDU"
     },
     {
       "id": "Feelings_Text_Smile",
-      "en_US": "SMILE"
+      "en_US": "SMILE",
+      "fr_FR": "SOURIRE"
     },
     {
       "id": "Feelings_Text_Subtle",
-      "en_US": "SUBTLE"
+      "en_US": "SUBTLE",
+      "fr_FR": "SUBTIL"
     },
     {
       "id": "Feelings_Text_Recommend",
-      "en_US": "RECOMMEND"
+      "en_US": "RECOMMEND",
+      "fr_FR": "RECOMMANDE"
     },
     {
       "id": "Feelings_Text_Simple",
-      "en_US": "SIMPLE"
+      "en_US": "SIMPLE",
+      "fr_FR": "SIMPLE"
     },
     {
       "id": "Feelings_Text_Nice",
-      "en_US": "NICE"
+      "en_US": "NICE",
+      "fr_FR": "SYMPA"
     },
     {
       "id": "Feelings_Text_Difficult",
-      "en_US": "DIFFICULT"
+      "en_US": "DIFFICULT",
+      "fr_FR": "DIFFICILE"
     }
   ]
 }

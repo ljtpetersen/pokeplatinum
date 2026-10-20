@@ -26,5 +26,12 @@
     "contest": {
         "effect": "CONTEST_EFFECT_CONSECUTIVE_USE",
         "type": "CONTEST_TYPE_BEAUTY"
-    }
+    },
+    "name_fr": "Roue de Feu",
+    "description_fr": [
+        "Le lanceur s’entoure\n",
+        "de feu et charge\n",
+        "l’ennemi. Peut aussi\n",
+        "brûler l’ennemi."
+    ]
 }

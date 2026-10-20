@@ -7,7 +7,10 @@
         "special_attack": 50,
         "special_defense": 70
     },
-    "types": [ "TYPE_GRASS", "TYPE_POISON" ],
+    "types": [
+        "TYPE_GRASS",
+        "TYPE_POISON"
+    ],
     "catch_rate": 255,
     "base_exp_reward": 68,
     "ev_yields": {
@@ -26,20 +29,44 @@
     "hatch_cycles": 20,
     "base_friendship": 70,
     "exp_rate": "EXP_RATE_MEDIUM_SLOW",
-    "egg_groups": [ "EGG_GROUP_UNDISCOVERED", "EGG_GROUP_UNDISCOVERED" ],
-    "abilities": [ "ABILITY_NATURAL_CURE", "ABILITY_POISON_POINT" ],
+    "egg_groups": [
+        "EGG_GROUP_UNDISCOVERED",
+        "EGG_GROUP_UNDISCOVERED"
+    ],
+    "abilities": [
+        "ABILITY_NATURAL_CURE",
+        "ABILITY_POISON_POINT"
+    ],
     "safari_flee_rate": 120,
     "body_color": "MON_COLOR_GREEN",
     "flip_sprite": true,
     "icon_palette": 1,
     "learnset": {
         "by_level": [
-            [ 1, "MOVE_ABSORB" ],
-            [ 4, "MOVE_GROWTH" ],
-            [ 7, "MOVE_WATER_SPORT" ],
-            [ 10, "MOVE_STUN_SPORE" ],
-            [ 13, "MOVE_MEGA_DRAIN" ],
-            [ 16, "MOVE_WORRY_SEED" ]
+            [
+                1,
+                "MOVE_ABSORB"
+            ],
+            [
+                4,
+                "MOVE_GROWTH"
+            ],
+            [
+                7,
+                "MOVE_WATER_SPORT"
+            ],
+            [
+                10,
+                "MOVE_STUN_SPORE"
+            ],
+            [
+                13,
+                "MOVE_MEGA_DRAIN"
+            ],
+            [
+                16,
+                "MOVE_WORRY_SEED"
+            ]
         ],
         "by_tm": [
             "TM06",
@@ -93,7 +120,10 @@
         ]
     },
     "evolutions": [
-        [ "EVO_LEVEL_HAPPINESS_DAY", "SPECIES_ROSELIA" ]
+        [
+            "EVO_LEVEL_HAPPINESS_DAY",
+            "SPECIES_ROSELIA"
+        ]
     ],
     "offspring": "SPECIES_BUDEW",
     "footprint": {
@@ -117,9 +147,9 @@
             "name": "BUDEW",
             "category": "Bud Pokémon",
             "entry_text": [
-                "Sensitive to changing temperature,\n",
-                "the bud is said to bloom when it\n",
-                "feels the sun’s warm touch."
+                "Over the winter, it closes its bud\n",
+                "and endures the cold. In spring,\n",
+                "the bud opens and releases pollen."
             ]
         },
         "fr": {
@@ -165,6 +195,18 @@
                 "ふゆの　あいだは　つぼみを　とざして\n",
                 "さむさに　たえる。はるになると\n",
                 "つぼみを　ひらき　かふんを　とばす。"
+            ]
+        },
+        "local_version": {
+            "entry_text": [
+                "Sensitive to changing temperature,\n",
+                "the bud is said to bloom when it\n",
+                "feels the sun’s warm touch."
+            ],
+            "entry_text_fr": [
+                "Il est sensible aux variations de\n",
+                "température et on dit qu’il fleurit\n",
+                "quand il sent la chaleur du soleil."
             ]
         }
     },

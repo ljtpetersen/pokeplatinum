@@ -31,6 +31,10 @@
             "en_US": [
                 "I won’t let you disrupt our research!\n",
                 "This is for Team Galactic!\r"
+            ],
+            "fr_FR": [
+                "Je ne te laisserai pas perturber nos\n",
+                "recherches! Pour la Team Galaxie!\r"
             ]
         },
         {
@@ -38,6 +42,10 @@
             "en_US": [
                 "I got whipped...\n",
                 "I look pathetic...\n"
+            ],
+            "fr_FR": [
+                "J’ai été battu...\n",
+                "J’ai l’air pathétique...\n"
             ]
         },
         {
@@ -46,7 +54,13 @@
                 "Our boss is a scientific genius!\r",
                 "He will make the power of mythical\n",
                 "Pokémon his own!\n"
+            ],
+            "fr_FR": [
+                "Notre chef est un génie scientifique!\r",
+                "Il va faire sien le pouvoir du Pokémon\n",
+                "mythique!\n"
             ]
         }
-    ]
+    ],
+    "name_fr": "Ned"
 }

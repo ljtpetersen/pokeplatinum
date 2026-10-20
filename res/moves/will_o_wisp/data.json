@@ -25,5 +25,12 @@
     "contest": {
         "effect": "CONTEST_EFFECT_FIRST_PERFORMANCE_ADVANTAGE",
         "type": "CONTEST_TYPE_BEAUTY"
-    }
+    },
+    "name_fr": "Feu Follet",
+    "description_fr": [
+        "Lance une sinistre\n",
+        "flamme violette à\n",
+        "l’ennemi pour lui\n",
+        "infliger une brûlure."
+    ]
 }

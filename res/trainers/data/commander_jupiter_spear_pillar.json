@@ -59,7 +59,12 @@
             "en_US": [
                 "Humph! You’ve toughened up.\n",
                 "But you’re no match for our boss.\n"
+            ],
+            "fr_FR": [
+                "Hum, pff! Tu as progressé. Mais tu n’es\n",
+                "pas de taille face à notre chef.\n"
             ]
         }
-    ]
+    ],
+    "name_fr": "Jupiter"
 }

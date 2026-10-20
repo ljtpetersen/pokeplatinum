@@ -8,6 +8,12 @@
         "use now.\r",
         "But I’ve only got two Gym Badges, so\n",
         "I can’t buy any yet..."
+      ],
+      "fr_FR": [
+        "J’aurais bien besoin d’un Rappel, à\n",
+        "l’heure actuelle.\r",
+        "Mais ils refusent de m’en vendre parce\n",
+        "que je n’ai que deux Badges d’Arène..."
       ]
     },
     {
@@ -17,6 +23,13 @@
         "It’s a happy and cheerful place.\r",
         "You can find Accessories there you\n",
         "can’t buy in Poké Marts."
+      ],
+      "fr_FR": [
+        "Tu connais le Square Paisible?\n",
+        "C’est un endroit très agréable.\r",
+        "On y déniche des Accessoires\n",
+        "introuvables dans les Boutiques\f",
+        "Pokémon."
       ]
     }
   ]

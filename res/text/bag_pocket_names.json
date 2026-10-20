@@ -3,35 +3,43 @@
   "messages": [
     {
       "id": "pl_msg_00000395_00000",
-      "en_US": "ITEMS"
+      "en_US": "ITEMS",
+      "fr_FR": "OBJETS"
     },
     {
       "id": "pl_msg_00000395_00001",
-      "en_US": "MEDICINE"
+      "en_US": "MEDICINE",
+      "fr_FR": "MEDICAMENTS"
     },
     {
       "id": "pl_msg_00000395_00002",
-      "en_US": "POKé BALLS"
+      "en_US": "POKé BALLS",
+      "fr_FR": "BALLS"
     },
     {
       "id": "pl_msg_00000395_00003",
-      "en_US": "TMs & HMs"
+      "en_US": "TMs & HMs",
+      "fr_FR": "CT & CS"
     },
     {
       "id": "pl_msg_00000395_00004",
-      "en_US": "BERRIES"
+      "en_US": "BERRIES",
+      "fr_FR": "BAIES"
     },
     {
       "id": "pl_msg_00000395_00005",
-      "en_US": "MAIL"
+      "en_US": "MAIL",
+      "fr_FR": "LETTRES"
     },
     {
       "id": "pl_msg_00000395_00006",
-      "en_US": "BATTLE ITEMS"
+      "en_US": "BATTLE ITEMS",
+      "fr_FR": "OBJETS COMBAT"
     },
     {
       "id": "pl_msg_00000395_00007",
-      "en_US": "KEY ITEMS"
+      "en_US": "KEY ITEMS",
+      "fr_FR": "OBJETS RARES"
     }
   ]
 }

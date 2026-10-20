@@ -33,5 +33,13 @@
     "healFreeze": true,
     "healParalysis": true,
     "healConfusion": true
-  }
+  },
+  "name_fr": "Lava Cookie",
+  "description_fr": [
+    "La spécialité de la ville de Vermilava.\n",
+    "Soigne tous les problèmes de statut\n",
+    "d’un Pokémon."
+  ],
+  "plural_fr": "Lava Cookie",
+  "article_fr": null
 }

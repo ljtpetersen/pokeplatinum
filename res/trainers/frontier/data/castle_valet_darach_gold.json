@@ -15,6 +15,10 @@
             "en_US": [
                 "This is for Lady Caitlin’s sake.\n",
                 "I’m afraid I must go all out."
+            ],
+            "fr_FR": [
+                "J’ai bien peur de devoir vous défaire\n",
+                "au nom de Dame Percila..."
             ]
         },
         {
@@ -23,6 +27,11 @@
                 "Ah, a most valiant effort.\r",
                 "Though I was lucky enough to win this\n",
                 "time, the next time...\r"
+            ],
+            "fr_FR": [
+                "Ah, un effort des plus louables.\r",
+                "J’ai pu m’octroyer la victoire\n",
+                "cette fois-ci, mais...\r"
             ]
         },
         {
@@ -30,7 +39,12 @@
             "en_US": [
                 "Your skills are superlative as ever!\n",
                 "My admiration knows no bounds.\r"
+            ],
+            "fr_FR": [
+                "Quel remarquable talent! Mon admiration\n",
+                "à votre égard est sans limite.\r"
             ]
         }
-    ]
+    ],
+    "name_fr": "Parsley"
 }

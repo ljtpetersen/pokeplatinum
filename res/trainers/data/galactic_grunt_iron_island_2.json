@@ -41,7 +41,12 @@
             "en_US": [
                 "They’re too tough to handle!\n",
                 "What a combination!\n"
+            ],
+            "fr_FR": [
+                "Il sont trop puissants!\n",
+                "Quelle équipe de choc!"
             ]
         }
-    ]
+    ],
+    "name_fr": "Sbire"
 }

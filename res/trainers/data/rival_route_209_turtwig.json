@@ -72,6 +72,10 @@
             "en_US": [
                 "Oh, yeah?\n",
                 "I’ll show you something wicked, too!\n"
+            ],
+            "fr_FR": [
+                "Ah ouais? Moi aussi, je vais\n",
+                "te montrer un truc génial!\n"
             ]
         },
         {
@@ -79,6 +83,10 @@
             "en_US": [
                 "What the?! We’re in trouble?!\n",
                 "But there’s no giving up on me!\n"
+            ],
+            "fr_FR": [
+                "Mais que...?! On a des ennuis?!\n",
+                "Mais pas question de laisser tomber!\n"
             ]
         },
         {
@@ -86,7 +94,12 @@
             "en_US": [
                 "What just happened?!\n",
                 "You’re telling me I lost?!\n"
+            ],
+            "fr_FR": [
+                "Qu’est-ce qui s’est passé?!\n",
+                "Tu veux dire que j’ai perdu?!\n"
             ]
         }
-    ]
+    ],
+    "name_fr": "Eddy"
 }

@@ -39,5 +39,13 @@
     "bitterness": 0,
     "sourness": 0,
     "smoothness": 35
-  }
+  },
+  "name_fr": "Baie Zalis",
+  "description_fr": [
+    "Ingrédient pour Poffin. Tenue, cette\n",
+    "Baie affaiblit une attaque ennemie super\n",
+    "efficace de type Normal."
+  ],
+  "plural_fr": "Baie Zalis",
+  "article_fr": null
 }

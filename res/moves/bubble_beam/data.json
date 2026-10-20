@@ -25,5 +25,13 @@
     "contest": {
         "effect": "CONTEST_EFFECT_LAST_NEXT_TURN",
         "type": "CONTEST_TYPE_BEAUTY"
-    }
+    },
+    "name_fr": "Bulles d’O",
+    "description_fr": [
+        "Des bulles sont\n",
+        "envoyées avec\n",
+        "puissance sur\n",
+        "l’ennemi. Peut aussi\n",
+        "baisser sa Vitesse."
+    ]
 }

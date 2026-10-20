@@ -30,5 +30,13 @@
     "speedStages": 1,
     "friendshipLow": 1,
     "friendshipMed": 1
-  }
+  },
+  "name_fr": "Vitesse +",
+  "description_fr": [
+    "Monte la Vitesse pendant un combat.\n",
+    "L’effet s’estompe si le Pokémon se\n",
+    "retire."
+  ],
+  "plural_fr": "Vitesse +",
+  "article_fr": null
 }

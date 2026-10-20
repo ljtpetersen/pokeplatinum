@@ -59,6 +59,10 @@
             "en_US": [
                 "Partying, shopping, dining...\n",
                 "Darling, I’ve grown bored of it all."
+            ],
+            "fr_FR": [
+                "Chérichou, j’en ai assez de tous ces\n",
+                "dîners, galas et autres réceptions..."
             ]
         },
         {
@@ -66,6 +70,10 @@
             "en_US": [
                 "Excitement is so lacking in my life.\n",
                 "What will send my heart racing?\r"
+            ],
+            "fr_FR": [
+                "Ma vie est si monotone...\n",
+                "Qui réussira à me divertir?\r"
             ]
         },
         {
@@ -73,7 +81,12 @@
             "en_US": [
                 "Only battling lifts me from this idle\n",
                 "existence of boredom and apathy...\r"
+            ],
+            "fr_FR": [
+                "Seuls les combats de Pokémon apportent\n",
+                "un peu de piment à ma vie...\r"
             ]
         }
-    ]
+    ],
+    "name_fr": "Juliane"
 }

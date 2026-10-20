@@ -27,5 +27,13 @@
   "fieldUseFunc": "ITEM_USE_FUNC_TM_HM",
   "battleUseCategory": "BATTLE_USE_CATEGORY_NONE",
   "itemUseParams": null,
-  "teachesMove": "MOVE_HIDDEN_POWER"
+  "teachesMove": "MOVE_HIDDEN_POWER",
+  "name_fr": "CT10",
+  "description_fr": [
+    "La puissance et le type de la\n",
+    "capacité dépendent de l’aptitude\n",
+    "cachée du lanceur."
+  ],
+  "plural_fr": "CT10",
+  "article_fr": null
 }

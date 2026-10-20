@@ -44,5 +44,13 @@
     "bitterness": 10,
     "sourness": 0,
     "smoothness": 20
-  }
+  },
+  "name_fr": "Baie Grena",
+  "description_fr": [
+    "Ingrédient pour Poffin.\n",
+    "Rend les Pokémon plus amicaux, mais\n",
+    "baisse leurs PV de base."
+  ],
+  "plural_fr": "Baie Grena",
+  "article_fr": null
 }

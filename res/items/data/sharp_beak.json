@@ -26,5 +26,13 @@
   "battlePocket": "BATTLE_POCKET_MASK_NONE",
   "fieldUseFunc": "ITEM_USE_FUNC_NONE",
   "battleUseCategory": "BATTLE_USE_CATEGORY_NONE",
-  "itemUseParams": null
+  "itemUseParams": null,
+  "name_fr": "Bec Pointu",
+  "description_fr": [
+    "Objet à tenir. Bec long et pointu\n",
+    "montant la puissance des capacités de\n",
+    "type Vol."
+  ],
+  "plural_fr": "Bec Pointu",
+  "article_fr": null
 }

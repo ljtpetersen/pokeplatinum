@@ -61,6 +61,10 @@
             "en_US": [
                 "Bear witness to my display of machismo\n",
                 "and masculinity!"
+            ],
+            "fr_FR": [
+                "Je suis un homme, un vrai, un dur.\n",
+                "Je te conseille de me respecter. "
             ]
         },
         {
@@ -68,6 +72,10 @@
             "en_US": [
                 "There!\n",
                 "That’s how a real man lives and battles!\r"
+            ],
+            "fr_FR": [
+                "Et voilà!\n",
+                "Un homme, un vrai, ne perd jamais!\r"
             ]
         },
         {
@@ -75,7 +83,12 @@
             "en_US": [
                 "Waaaah! Waaaah!\n",
                 "Mommy!\r"
+            ],
+            "fr_FR": [
+                "Ouiiiiin! Ouiiiin!\n",
+                "Je veux ma môman!\r"
             ]
         }
-    ]
+    ],
+    "name_fr": "Casey"
 }

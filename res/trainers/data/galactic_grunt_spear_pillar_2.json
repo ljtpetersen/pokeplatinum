@@ -32,7 +32,12 @@
             "en_US": [
                 "Arrgh!\n",
                 "I let some little kid beat me!\n"
+            ],
+            "fr_FR": [
+                "Arrgh!\n",
+                "J’ai laissé un enfant me battre!\n"
             ]
         }
-    ]
+    ],
+    "name_fr": "Sbire"
 }

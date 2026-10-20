@@ -3,87 +3,108 @@
   "messages": [
     {
       "id": "pl_msg_00000687_00000",
-      "en_US": "None"
+      "en_US": "None",
+      "fr_FR": "Aucun"
     },
     {
       "id": "pl_msg_00000687_00001",
-      "en_US": "Abruzzo"
+      "en_US": "Abruzzo",
+      "fr_FR": "Abruzzes"
     },
     {
       "id": "pl_msg_00000687_00002",
-      "en_US": "Basilicata"
+      "en_US": "Basilicata",
+      "fr_FR": "Basilicate"
     },
     {
       "id": "pl_msg_00000687_00003",
-      "en_US": "Calabria"
+      "en_US": "Calabria",
+      "fr_FR": "Calabre"
     },
     {
       "id": "pl_msg_00000687_00004",
-      "en_US": "Campania"
+      "en_US": "Campania",
+      "fr_FR": "Campanie"
     },
     {
       "id": "pl_msg_00000687_00005",
-      "en_US": "Emilia-Romagna"
+      "en_US": "Emilia-Romagna",
+      "fr_FR": "Emilie-Romagne"
     },
     {
       "id": "pl_msg_00000687_00006",
-      "en_US": "Friuli-Venezia Giulia"
+      "en_US": "Friuli-Venezia Giulia",
+      "fr_FR": "Frioul-Vénétie Julienne"
     },
     {
       "id": "pl_msg_00000687_00007",
-      "en_US": "Lazio"
+      "en_US": "Lazio",
+      "fr_FR": "Latium"
     },
     {
       "id": "pl_msg_00000687_00008",
-      "en_US": "Liguria"
+      "en_US": "Liguria",
+      "fr_FR": "Ligurie"
     },
     {
       "id": "pl_msg_00000687_00009",
-      "en_US": "Lombardia"
+      "en_US": "Lombardia",
+      "fr_FR": "Lombardie"
     },
     {
       "id": "pl_msg_00000687_00010",
-      "en_US": "Marche"
+      "en_US": "Marche",
+      "fr_FR": "Marches"
     },
     {
       "id": "pl_msg_00000687_00011",
-      "en_US": "Molise"
+      "en_US": "Molise",
+      "fr_FR": "Molise"
     },
     {
       "id": "pl_msg_00000687_00012",
-      "en_US": "Piemonte"
+      "en_US": "Piemonte",
+      "fr_FR": "Piémont"
     },
     {
       "id": "pl_msg_00000687_00013",
-      "en_US": "Puglia"
+      "en_US": "Puglia",
+      "fr_FR": "Pouille"
     },
     {
       "id": "pl_msg_00000687_00014",
-      "en_US": "Sardegna"
+      "en_US": "Sardegna",
+      "fr_FR": "Sardaigne"
     },
     {
       "id": "pl_msg_00000687_00015",
-      "en_US": "Sicilia"
+      "en_US": "Sicilia",
+      "fr_FR": "Sicile"
     },
     {
       "id": "pl_msg_00000687_00016",
-      "en_US": "Toscana"
+      "en_US": "Toscana",
+      "fr_FR": "Toscane"
     },
     {
       "id": "pl_msg_00000687_00017",
-      "en_US": "Trentino-Alto Adige"
+      "en_US": "Trentino-Alto Adige",
+      "fr_FR": "Trentin-Haut-Adige"
     },
     {
       "id": "pl_msg_00000687_00018",
-      "en_US": "Umbria"
+      "en_US": "Umbria",
+      "fr_FR": "Ombrie"
     },
     {
       "id": "pl_msg_00000687_00019",
-      "en_US": "Valle d’Aosta"
+      "en_US": "Valle d’Aosta",
+      "fr_FR": "Val d’Aoste"
     },
     {
       "id": "pl_msg_00000687_00020",
-      "en_US": "Veneto"
+      "en_US": "Veneto",
+      "fr_FR": "Vénétie"
     }
   ]
 }

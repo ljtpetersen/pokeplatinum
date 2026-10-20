@@ -30,11 +30,18 @@
                 "A battle is a clash of willpower!\r",
                 "The one who wants the win the most\n",
                 "will emerge the victor!\r"
+            ],
+            "fr_FR": [
+                "Un combat, c’est deux volontés qui\n",
+                "s’affrontent!\r",
+                "Le Dresseur qui veut gagner le plus\n",
+                "remporte la victoire!\r"
             ]
         },
         {
             "type": "TRMSG_DEFEAT",
-            "en_US": "But... I thought I could win!\n"
+            "en_US": "But... I thought I could win!\n",
+            "fr_FR": "Mais... je pensais pouvoir gagner!\n"
         },
         {
             "type": "TRMSG_POST_BATTLE",
@@ -44,7 +51,16 @@
                 "something that you can’t see.\r",
                 "But love, friendship...\n",
                 "You can’t see those, either.\n"
+            ],
+            "fr_FR": [
+                "Les pouvoirs psychiques...\r",
+                "Ce n’est pas facile de croire à\n",
+                "quelque chose d’aussi intangible.\r",
+                "Mais en y réfléchissant, l’amour,\n",
+                "l’amitié sont tout aussi intangibles,\f",
+                "et pourtant bien réels...\n"
             ]
         }
-    ]
+    ],
+    "name_fr": "Marius"
 }

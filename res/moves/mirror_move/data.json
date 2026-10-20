@@ -21,5 +21,12 @@
     "contest": {
         "effect": "CONTEST_EFFECT_DOUBLE_FINAL_ACT",
         "type": "CONTEST_TYPE_SMART"
-    }
+    },
+    "name_fr": "Mimique",
+    "description_fr": [
+        "Le lanceur contre la\n",
+        "capacité de l’ennemi\n",
+        "avec la même\n",
+        "capacité."
+    ]
 }

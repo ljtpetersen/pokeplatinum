@@ -27,5 +27,13 @@
     "contest": {
         "effect": "CONTEST_EFFECT_FINAL_PERFORMANCE_ADVANTAGE",
         "type": "CONTEST_TYPE_TOUGH"
-    }
+    },
+    "name_fr": "Martobois",
+    "description_fr": [
+        "Le lanceur heurte\n",
+        "l’ennemi de son corps\n",
+        "robuste. Inflige de\n",
+        "sérieux dégâts au\n",
+        "lanceur aussi."
+    ]
 }

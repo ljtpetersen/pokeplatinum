@@ -12,6 +12,15 @@
         "I’ve got something nice for you.\r",
         "{STRVAR_1 3, 0, 0}, choose which hand\n",
         "you want."
+      ],
+      "fr_FR": [
+        "Aurore: Salut, {STRVAR_1 3, 0, 0}!\n",
+        "Ça avance ton Pokédex?\r",
+        "Moi? Ben, ça oscille entre le\n",
+        "génial et, euh, le ridicule...\r",
+        "Mais on n’est pas là pour parler de moi!\n",
+        "J’ai un petit truc pour toi.\r",
+        "{STRVAR_1 3, 0, 0}, choisis une main."
       ]
     },
     {
@@ -21,6 +30,12 @@
         "You want the Vs. Seeker.\r",
         "I’m impressed, {STRVAR_1 3, 0, 0}.\n",
         "You know what’s important.\r"
+      ],
+      "fr_FR": [
+        "Aurore: Je vois...\n",
+        "Tu veux le Cherche VS.\r",
+        "Tu m’impressionnes, {STRVAR_1 3, 0, 0},\n",
+        "tu as l’esprit pratique.\r"
       ]
     },
     {
@@ -35,6 +50,17 @@
         "You can have this too, then.\r",
         "You deserve it for all your hard\n",
         "work, {STRVAR_1 3, 0, 0}.\r"
+      ],
+      "fr_FR": [
+        "Aurore: En utilisant ce Cherche VS, tu\n",
+        "pourras localiser les Dresseurs qui\f",
+        "veulent faire une revanche.\r",
+        "Oh, {STRVAR_1 3, 0, 0}, c’est une\n",
+        "Pokémontre?\r",
+        "Exact, c’est bien ça.\n",
+        "Dans ce cas, je te donne aussi ceci.\r",
+        "Tu as bien travaillé, c’est mérité,\n",
+        "{STRVAR_1 3, 0, 0}.\r"
       ]
     },
     {
@@ -49,6 +75,17 @@
         "OK, let’s keep working on our\n",
         "Pokédexes.\r",
         "Professor Rowan is counting on us!\r"
+      ],
+      "fr_FR": [
+        "Aurore: N’hésite pas à toucher le\n",
+        "{STRVAR_1 24, 1, 0}.\r",
+        "Il te préviendra s’il y a un objet\n",
+        "invisible enfoui dans les environs.\r",
+        "Tiens d’ailleurs, je crois bien qu’il y a\n",
+        "quelque chose ici même. Essaye!\r",
+        "Allez, on se remet au travail\n",
+        "sur nos Pokédex.\r",
+        "Le Professeur Sorbier compte sur nous!\r"
       ]
     },
     {
@@ -63,6 +100,17 @@
         "a couple of neat tools.\r",
         "{STRVAR_1 3, 0, 0}, I’ll share with you.\n",
         "Choose a hand!"
+      ],
+      "fr_FR": [
+        "Louka: Hé, {STRVAR_1 3, 0, 0}!\n",
+        "Ça se passe comment, ton Pokédex?\r",
+        "Moi? Tout roule, comme d’habitude!\n",
+        "... Enfin, pas tout à fait mais...\r",
+        "Mais ce n’est pas très important.\r",
+        "Je bidouille des outils vraiment\n",
+        "classes ces derniers temps.\r",
+        "{STRVAR_1 3, 0, 0}, je vais t’en faire\n",
+        "profiter. Choisis une main!"
       ]
     },
     {
@@ -72,6 +120,12 @@
         "You want the Vs. Seeker.\r",
         "Yup, {STRVAR_1 3, 0, 0}, you know what’s\n",
         "important.\r"
+      ],
+      "fr_FR": [
+        "Louka: Ouaiiiis!\n",
+        "Tu veux le Cherche VS.\r",
+        "Bien vu, {STRVAR_1 3, 0, 0}, tu ne\n",
+        "perds pas le nord.\r"
       ]
     },
     {
@@ -86,6 +140,17 @@
         "You can have this too, then.\r",
         "You deserve it for all of your\n",
         "effort, {STRVAR_1 3, 0, 0}.\r"
+      ],
+      "fr_FR": [
+        "Louka: Utilise le Cherche VS pour\n",
+        "localiser les Dresseurs qui veulent\f",
+        "prendre une revanche.\r",
+        "{STRVAR_1 3, 0, 0}, tu connais la\n",
+        "Pokémontre? Tu en as une?\r",
+        "Oui, je vois ça.\n",
+        "Dans ce cas, voilà un autre cadeau.\r",
+        "Tu l’as bien mérité, tu as fait\n",
+        "beaucoup d’efforts, {STRVAR_1 3, 0, 0}.\r"
       ]
     },
     {
@@ -99,6 +164,16 @@
         "I think there’s something here.\r",
         "OK, keep working on your Pokédex.\n",
         "Professor Rowan is counting on us!\r"
+      ],
+      "fr_FR": [
+        "Louka: Le {STRVAR_1 24, 1, 0}?\n",
+        "Hum, essaie simplement de le toucher.\r",
+        "Il t’indiquera quand un objet\n",
+        "invisible est enfoui dans le sol.\r",
+        "Essaye pour voir.\n",
+        "Je crois qu’il y a quelque chose ici.\r",
+        "Bien, surtout, travaille ton Pokédex.\n",
+        "Le Professeur Sorbier compte sur nous!\r"
       ]
     },
     {
@@ -112,6 +187,12 @@
         "You’ll need a Bike to get up.\r",
         "You don’t have a Bicycle?\n",
         "There’s a Cycle Shop in Eterna City."
+      ],
+      "fr_FR": [
+        "Cette pente est trop glissante. Il te\n",
+        "faut une Bicyclette pour la monter.\r",
+        "Tu n’as pas de Bicyclette? Il y a une\n",
+        "Boutique de Vélo à Vestigion."
       ]
     },
     {
@@ -119,6 +200,10 @@
       "en_US": [
         "Change to the 4th gear and take a run.\n",
         "That’ll shoot you right up that slope."
+      ],
+      "fr_FR": [
+        "Pour grimper la pente, change de\n",
+        "vitesse et fonce."
       ]
     },
     {
@@ -126,6 +211,10 @@
       "en_US": [
         "Rt. 207\n",
         "Mt. Coronet"
+      ],
+      "fr_FR": [
+        "Route 207\n",
+        "Mont Couronné"
       ]
     },
     {
@@ -133,6 +222,10 @@
       "en_US": [
         "Rt. 207\n",
         "Oreburgh City"
+      ],
+      "fr_FR": [
+        "Route 207\n",
+        "Charbourg"
       ]
     },
     {
@@ -145,6 +238,15 @@
         "it could be disastrous.\r",
         "If your opponent’s Pokémon can’t\n",
         "move, it’s a big opportunity!"
+      ],
+      "fr_FR": [
+        "Conseils aux Dresseurs\r",
+        "Les Pokémon endormis ou paralysés\n",
+        "peuvent être immobilisés.\r",
+        "Cela peut être extrêmement\n",
+        "dangereux pour un Pokémon.\r",
+        "Si le Pokémon de votre adversaire est\n",
+        "immobilisé, c’est le moment de frapper!"
       ]
     }
   ]

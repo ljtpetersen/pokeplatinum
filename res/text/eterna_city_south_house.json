@@ -9,6 +9,13 @@
         "Capturing every kind of Pokémon is\n",
         "no easy feat, I’ll grant you that.\r",
         "But I’m sure you can accomplish it!\r"
+      ],
+      "fr_FR": [
+        "Chen: Ah, c’est toi! Ravi de te voir!\n",
+        "Tu complètes bien ton Pokédex?\r",
+        "Je suis le premier à admettre que c’est\n",
+        "difficile de capturer chaque Pokémon.\r",
+        "Mais je suis sûr que tu y arriveras!\r"
       ]
     },
     {
@@ -19,6 +26,13 @@
         "me something quite interesting.\r",
         "I think you’d make better use of it\n",
         "than I ever could.\r"
+      ],
+      "fr_FR": [
+        "Chen: Ah, oui!\r",
+        "Une connaissance de Kanto m’a fait\n",
+        "parvenir quelque chose d’intéressant.\r",
+        "Je pense que cela te servira beaucoup\n",
+        "plus qu’à moi.\r"
       ]
     },
     {
@@ -27,6 +41,11 @@
         "I understand there is a Pokémon that\n",
         "evolves when it is traded while holding\f",
         "that Up-Grade.\r"
+      ],
+      "fr_FR": [
+        "D’après ce que je sais, il existe un\n",
+        "Pokémon qui évolue lorsqu’on l’échange\f",
+        "alors qu’il tient cet Améliorator.\r"
       ]
     },
     {
@@ -42,6 +61,18 @@
         "locations here in Sinnoh, no less!\r",
         "Why, you may be lucky enough to see\n",
         "them yourself in your journeys!"
+      ],
+      "fr_FR": [
+        "A propos, ça n’a rien à voir, mais...\r",
+        "Le bruit court que des Pokémon très\n",
+        "rares ont été aperçus récemment.\r",
+        "Je parle des Pokémon Oiseaux\n",
+        "légendaires: ARTIKODIN, ELECTHOR et\f",
+        "SULFURA!\r",
+        "Ils sont apparus dans divers endroits\n",
+        "à Sinnoh!\r",
+        "Qui sait? Tu auras peut-être la chance\n",
+        "de les rencontrer en voyageant!"
       ]
     },
     {
@@ -55,6 +86,15 @@
         "Sinnoh of all places?\r",
         "There are still many, many mysteries\n",
         "surrounding Pokémon, it seems!"
+      ],
+      "fr_FR": [
+        "Chen: ARTIKODIN, ELECTHOR et SULFURA\n",
+        "sont très rares, même à Kanto.\r",
+        "On ne les voit quasiment jamais.\r",
+        "Alors, pourquoi se montreraient-ils\n",
+        "à Sinnoh?\r",
+        "Décidément, les Pokémon sont des\n",
+        "créatures empreintes de mystère!"
       ]
     },
     {
@@ -67,6 +107,15 @@
         "Now that is incredible!\r",
         "Well, then, allow me to examine your\n",
         "Pokédex.\r"
+      ],
+      "fr_FR": [
+        "Chen: Ah, c’est toi!\n",
+        "Comment ça va?\r",
+        "Quoi? Tu as capturé un ARTIKODIN,\n",
+        "un ELECTHOR et même un SULFURA?!\r",
+        "Je n’en crois pas mes oreilles!\r",
+        "Si tu le permets, j’aimerais examiner\n",
+        "ton Pokédex.\r"
       ]
     }
   ]

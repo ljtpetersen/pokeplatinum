@@ -44,11 +44,18 @@
                 "pounding!\r",
                 "You think you can win like that?!\n",
                 "Hiyah!\r"
+            ],
+            "fr_FR": [
+                "Les battements de ton cœur trahissent\n",
+                "ta nervosité!\r",
+                "La défaite te fait peur?\n",
+                "Yahaaa!\r"
             ]
         },
         {
             "type": "TRMSG_DEFEAT",
-            "en_US": "Gurgle...\n"
+            "en_US": "Gurgle...\n",
+            "fr_FR": "Glarglargl...\n"
         },
         {
             "type": "TRMSG_POST_BATTLE",
@@ -57,6 +64,12 @@
                 "chance at the Battle Frontier.\r",
                 "Not against those hard-core pros,\n",
                 "I wouldn’t!\n"
+            ],
+            "fr_FR": [
+                "Si je perds ici, je n’aurai aucune\n",
+                "chance à la Zone de Combat.\r",
+                "Là-bas, on ne trouve que des\n",
+                "pros endurcis, crois-moi!\n"
             ]
         },
         {
@@ -64,7 +77,12 @@
             "en_US": [
                 "Am I lost, you ask?\n",
                 "I merely feigned it! Hiyah!\r"
+            ],
+            "fr_FR": [
+                "Tu veux savoir si je suis perdu?\n",
+                "Ah, je fais juste semblant! Ya-ta!\r"
             ]
         }
-    ]
+    ],
+    "name_fr": "Hubert"
 }

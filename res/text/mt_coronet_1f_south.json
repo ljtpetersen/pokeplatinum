@@ -6,6 +6,10 @@
       "en_US": [
         "According to one theory, Mt. Coronet\n",
         "is where the Sinnoh region began.\r"
+      ],
+      "fr_FR": [
+        "Une théorie veut que le Mont Couronné\n",
+        "soit à l’origine de la région de Sinnoh.\r"
       ]
     },
     {
@@ -15,6 +19,12 @@
         "A world where only time flowed and\n",
         "space expanded...\f",
         "There should have been no strife.\r"
+      ],
+      "fr_FR": [
+        "... Dans un monde nouveau...\r",
+        "Un monde où seuls le temps s’écoulait\n",
+        "et l’espace s’étendait...\f",
+        "Le conflit n’aurait jamais dû exister.\r"
       ]
     },
     {
@@ -26,6 +36,14 @@
         "This world is being ruined by it...\r",
         "I find this state of affairs to be\n",
         "deplorable...\r"
+      ],
+      "fr_FR": [
+        "Mais qu’est-il arrivé à ce monde?\r",
+        "Le conflit s’est répandu car l’esprit\n",
+        "humain est faible et imparfait...\r",
+        "Il met le monde en péril...\r",
+        "Je trouve cette situation tout à\n",
+        "fait déplorable...\r"
       ]
     }
   ]

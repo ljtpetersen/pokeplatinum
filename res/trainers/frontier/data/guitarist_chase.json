@@ -57,6 +57,10 @@
             "en_US": [
                 "Let my exquisite melody ring out!\n",
                 "Hear my Pokémon shout out!"
+            ],
+            "fr_FR": [
+                "Connais-tu cette douce mélodie?\n",
+                "C’est parti pour une valse Pokémon!"
             ]
         },
         {
@@ -64,6 +68,10 @@
             "en_US": [
                 "The melody from my Pokémon and me...\n",
                 "Did it reach out and touch your heart?\r"
+            ],
+            "fr_FR": [
+                "Cette douce mélodie...\n",
+                "Elle va droit au cœur, n’est-ce pas?\r"
             ]
         },
         {
@@ -71,7 +79,12 @@
             "en_US": [
                 "I’ve been known to throw matches, but\n",
                 "I’ll never throw a guitar on stage!\r"
+            ],
+            "fr_FR": [
+                "Hé, cette mélodie aurait dû\n",
+                "t’attendrir! Prends exemple sur moi!\r"
             ]
         }
-    ]
+    ],
+    "name_fr": "Célian"
 }

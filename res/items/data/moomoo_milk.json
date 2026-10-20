@@ -28,5 +28,12 @@
   "battleUseCategory": "BATTLE_USE_CATEGORY_HEALING",
   "itemUseParams": {
     "hpRestored": 100
-  }
+  },
+  "name_fr": "Lait Meumeu",
+  "description_fr": [
+    "Un lait très nourrissant.\n",
+    "Restaure 100 PV à un Pokémon."
+  ],
+  "plural_fr": "Lait Meumeu",
+  "article_fr": null
 }

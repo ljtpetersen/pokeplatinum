@@ -41,11 +41,16 @@
             "en_US": [
                 "I like fishing, no question.\n",
                 "But battling? That’s what I love!\r"
+            ],
+            "fr_FR": [
+                "Il y a une chose que j’aime encore plus\n",
+                "que la pêche: les combats, évidemment!\r"
             ]
         },
         {
             "type": "TRMSG_DEFEAT",
-            "en_US": "Sploosh!\n"
+            "en_US": "Sploosh!\n",
+            "fr_FR": "Splash!\n"
         },
         {
             "type": "TRMSG_POST_BATTLE",
@@ -54,6 +59,12 @@
                 "missing half of life’s enjoyment.\r",
                 "If you don’t know Pokémon...\n",
                 "You’re missing out on all of it!\n"
+            ],
+            "fr_FR": [
+                "Si tu ne sais pas pêcher, tu passes à\n",
+                "côté d’un des grands plaisirs de la vie.\r",
+                "Si tu ne connais pas les Pokémon...\n",
+                "autant dire que ta vie n’a aucun sens!\n"
             ]
         },
         {
@@ -61,7 +72,12 @@
             "en_US": [
                 "Come on, battle me again!\n",
                 "You know I love to fish and battle!\r"
+            ],
+            "fr_FR": [
+                "Allez, accorde-moi une revanche! Tu\n",
+                "sais que j’aime la pêche et le combat!\r"
             ]
         }
-    ]
+    ],
+    "name_fr": "Rodolphe"
 }

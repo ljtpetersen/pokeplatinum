@@ -55,18 +55,28 @@
             "en_US": [
                 "Like everything else, people have likes\n",
                 "and dislikes when it comes to scents."
+            ],
+            "fr_FR": [
+                "Certaines senteurs plaisent à certaines\n",
+                "personnes, mais pas à d’autres."
             ]
         },
         {
             "type": "TRMSG_WIN",
-            "en_US": "I love how Pokémon smell after a battle.\r"
+            "en_US": "I love how Pokémon smell after a battle.\r",
+            "fr_FR": "Moi, j’adore l’odeur de la victoire.\r"
         },
         {
             "type": "TRMSG_DEFEAT",
             "en_US": [
                 "I feel a little thrill if I catch a whiff\n",
                 "of intense effort postbattle.\r"
+            ],
+            "fr_FR": [
+                "L’odeur de la défaite ne me plaît pas,\n",
+                "curieusement...\r"
             ]
         }
-    ]
+    ],
+    "name_fr": "Beryl"
 }

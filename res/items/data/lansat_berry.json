@@ -39,5 +39,13 @@
     "bitterness": 10,
     "sourness": 30,
     "smoothness": 50
-  }
+  },
+  "name_fr": "Baie Lansat",
+  "description_fr": [
+    "Ingrédient pour Poffin.\n",
+    "Tenue, cette Baie monte le taux de\n",
+    "critiques si nécessaire."
+  ],
+  "plural_fr": "Baie Lansat",
+  "article_fr": null
 }

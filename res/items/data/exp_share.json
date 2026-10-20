@@ -26,5 +26,13 @@
   "battlePocket": "BATTLE_POCKET_MASK_NONE",
   "fieldUseFunc": "ITEM_USE_FUNC_NONE",
   "battleUseCategory": "BATTLE_USE_CATEGORY_NONE",
-  "itemUseParams": null
+  "itemUseParams": null,
+  "name_fr": "Multi Exp",
+  "description_fr": [
+    "Objet à tenir. Le porteur reçoit une\n",
+    "partie des points Exp. du combat sans\n",
+    "avoir à combattre."
+  ],
+  "plural_fr": "Multi Exp",
+  "article_fr": null
 }

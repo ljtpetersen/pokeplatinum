@@ -27,5 +27,13 @@
   "fieldUseFunc": "ITEM_USE_FUNC_TM_HM",
   "battleUseCategory": "BATTLE_USE_CATEGORY_NONE",
   "itemUseParams": null,
-  "teachesMove": "MOVE_PROTECT"
+  "teachesMove": "MOVE_PROTECT",
+  "name_fr": "CT17",
+  "description_fr": [
+    "Le lanceur esquive toutes les attaques.\n",
+    "Plus la capacité est utilisée de fois à la\n",
+    "suite, plus elle risque d’échouer."
+  ],
+  "plural_fr": "CT17",
+  "article_fr": null
 }

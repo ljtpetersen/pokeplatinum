@@ -45,6 +45,11 @@
                 "This total stranger’ll be a good way\n",
                 "to see if I have what it takes to own\f",
                 "the Pokémon League’s Elite Four!\r"
+            ],
+            "fr_FR": [
+                "On ne se connaît pas, mais tu vas me\n",
+                "servir d’entraînement avant mon combat\f",
+                "contre le Conseil 4!\r"
             ]
         },
         {
@@ -52,6 +57,10 @@
             "en_US": [
                 "That battle just now must make you\n",
                 "tougher than everyone in the world.\n"
+            ],
+            "fr_FR": [
+                "Cette victoire fait de toi le Dresseur\n",
+                "le plus coriace du monde.\n"
             ]
         },
         {
@@ -60,7 +69,13 @@
                 "It doesn’t appear as if anyone could\n",
                 "even try to stand against your might.\r",
                 "The Elite Four should just surrender."
+            ],
+            "fr_FR": [
+                "J’ai l’impression que tout le monde sera\n",
+                "forcé de s’incliner devant ton talent.\r",
+                "Le Conseil 4 est fichu."
             ]
         }
-    ]
+    ],
+    "name_fr": "Sabine"
 }

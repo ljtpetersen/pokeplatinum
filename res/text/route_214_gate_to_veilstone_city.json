@@ -16,6 +16,16 @@
         "Maniac guy you could check out.\r",
         "That guy’s been digging his way\n",
         "through the bedrock all by himself."
+      ],
+      "fr_FR": [
+        "Tu comptes emprunter la Route 214?\n",
+        "Tu dis ça sérieusement?\r",
+        "Elle est difficilement praticable\n",
+        "et il n’y a rien à voir là-bas.\r",
+        "A part peut-être ce Ruinemaniac,\n",
+        "à la limite.\r",
+        "Ce type s’est frayé un chemin à travers\n",
+        "la roche, et sans l’aide de personne!"
       ]
     },
     {
@@ -23,6 +33,11 @@
       "en_US": [
         "That Ruin Maniac! It takes effort and\n",
         "dedication to do what he did!"
+      ],
+      "fr_FR": [
+        "Ce Ruinemaniac! Il faut beaucoup\n",
+        "d’efforts et de persévérance pour\f",
+        "accomplir ce qu’il a fait!"
       ]
     }
   ]

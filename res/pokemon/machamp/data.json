@@ -7,7 +7,10 @@
         "special_attack": 65,
         "special_defense": 85
     },
-    "types": [ "TYPE_FIGHTING", "TYPE_FIGHTING" ],
+    "types": [
+        "TYPE_FIGHTING",
+        "TYPE_FIGHTING"
+    ],
     "catch_rate": 45,
     "base_exp_reward": 193,
     "ev_yields": {
@@ -26,28 +29,76 @@
     "hatch_cycles": 20,
     "base_friendship": 70,
     "exp_rate": "EXP_RATE_MEDIUM_SLOW",
-    "egg_groups": [ "EGG_GROUP_HUMAN_LIKE", "EGG_GROUP_HUMAN_LIKE" ],
-    "abilities": [ "ABILITY_GUTS", "ABILITY_NO_GUARD" ],
+    "egg_groups": [
+        "EGG_GROUP_HUMAN_LIKE",
+        "EGG_GROUP_HUMAN_LIKE"
+    ],
+    "abilities": [
+        "ABILITY_GUTS",
+        "ABILITY_NO_GUARD"
+    ],
     "safari_flee_rate": 0,
     "body_color": "MON_COLOR_GRAY",
     "flip_sprite": false,
     "icon_palette": 0,
     "learnset": {
         "by_level": [
-            [ 1, "MOVE_LOW_KICK" ],
-            [ 1, "MOVE_LEER" ],
-            [ 1, "MOVE_FOCUS_ENERGY" ],
-            [ 7, "MOVE_FOCUS_ENERGY" ],
-            [ 10, "MOVE_KARATE_CHOP" ],
-            [ 13, "MOVE_FORESIGHT" ],
-            [ 19, "MOVE_SEISMIC_TOSS" ],
-            [ 22, "MOVE_REVENGE" ],
-            [ 25, "MOVE_VITAL_THROW" ],
-            [ 32, "MOVE_SUBMISSION" ],
-            [ 36, "MOVE_WAKE_UP_SLAP" ],
-            [ 40, "MOVE_CROSS_CHOP" ],
-            [ 44, "MOVE_SCARY_FACE" ],
-            [ 51, "MOVE_DYNAMIC_PUNCH" ]
+            [
+                1,
+                "MOVE_LOW_KICK"
+            ],
+            [
+                1,
+                "MOVE_LEER"
+            ],
+            [
+                1,
+                "MOVE_FOCUS_ENERGY"
+            ],
+            [
+                7,
+                "MOVE_FOCUS_ENERGY"
+            ],
+            [
+                10,
+                "MOVE_KARATE_CHOP"
+            ],
+            [
+                13,
+                "MOVE_FORESIGHT"
+            ],
+            [
+                19,
+                "MOVE_SEISMIC_TOSS"
+            ],
+            [
+                22,
+                "MOVE_REVENGE"
+            ],
+            [
+                25,
+                "MOVE_VITAL_THROW"
+            ],
+            [
+                32,
+                "MOVE_SUBMISSION"
+            ],
+            [
+                36,
+                "MOVE_WAKE_UP_SLAP"
+            ],
+            [
+                40,
+                "MOVE_CROSS_CHOP"
+            ],
+            [
+                44,
+                "MOVE_SCARY_FACE"
+            ],
+            [
+                51,
+                "MOVE_DYNAMIC_PUNCH"
+            ]
         ],
         "by_tm": [
             "TM01",
@@ -100,7 +151,7 @@
             "MOVE_VACUUM_WAVE"
         ]
     },
-    "evolutions": [  ],
+    "evolutions": [],
     "offspring": "SPECIES_MACHOP",
     "footprint": {
         "has": true,
@@ -123,9 +174,9 @@
             "name": "MACHAMP",
             "category": "Superpower Pokémon",
             "entry_text": [
-                "Its four muscled arms slam foes\n",
-                "with powerful punches and chops\n",
-                "at blinding speed."
+                "It punches with its four arms at\n",
+                "blinding speed. It can launch\n",
+                "1,000 punches in two seconds."
             ]
         },
         "fr": {
@@ -171,6 +222,18 @@
                 "４ほんの　うでを　めにもとまらぬ\n",
                 "はやさで　うごかし　２びょうかんに\n",
                 "１０００ぱつの　パンチを　くりだす。"
+            ]
+        },
+        "local_version": {
+            "entry_text": [
+                "Its four muscled arms slam foes\n",
+                "with powerful punches and chops\n",
+                "at blinding speed."
+            ],
+            "entry_text_fr": [
+                "La puissance et la rapidité de ses\n",
+                "quatre bras puissants font des\n",
+                "ravages sur ses adversaires."
             ]
         }
     },

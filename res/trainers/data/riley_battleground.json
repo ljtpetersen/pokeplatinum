@@ -89,6 +89,10 @@
             "en_US": [
                 "Your team!\n",
                 "I sense your strong aura!\n"
+            ],
+            "fr_FR": [
+                "Ton équipe! La puissance de\n",
+                "son aura est incroyable!\n"
             ]
         },
         {
@@ -97,7 +101,14 @@
                 "At times we battle, and sometimes we\n",
                 "team up...\r",
                 "It’s great how Trainers can interact.\n"
+            ],
+            "fr_FR": [
+                "Parfois, on fait équipe...\n",
+                "Et parfois, on s’affronte...\r",
+                "La vie des Dresseurs est pleine\n",
+                "de rebondissements.\n"
             ]
         }
-    ]
+    ],
+    "name_fr": "Armand"
 }

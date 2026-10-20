@@ -45,6 +45,10 @@
             "en_US": [
                 "I see what I have no right seeing...\n",
                 "Like there. Behind you."
+            ],
+            "fr_FR": [
+                "Je vois des choses... effrayantes.\n",
+                "Là, derrière toi!"
             ]
         },
         {
@@ -52,6 +56,10 @@
             "en_US": [
                 "Oh? You can’t see it?\n",
                 "Then, you’re fortunate. Giggle...\r"
+            ],
+            "fr_FR": [
+                "Oh? Tu ne vois rien?\n",
+                "Tu as de la chance... Hé, hé, hé...\r"
             ]
         },
         {
@@ -59,7 +67,12 @@
             "en_US": [
                 "I wouldn’t ask about what I see.\n",
                 "It’s better not to know. Really.\r"
+            ],
+            "fr_FR": [
+                "Ne me demande pas ce que j’ai vu.\n",
+                "Crois-moi, tu ne veux pas savoir.\r"
             ]
         }
-    ]
+    ],
+    "name_fr": "Céline"
 }

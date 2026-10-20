@@ -27,5 +27,13 @@
     "contest": {
         "effect": "CONTEST_EFFECT_LOW_VOLTAGE_ADVANTAGE",
         "type": "CONTEST_TYPE_CUTE"
-    }
+    },
+    "name_fr": "Demi-Tour",
+    "description_fr": [
+        "Après avoir attaqué,\n",
+        "le lanceur change de\n",
+        "place avec un\n",
+        "Pokémon de l’équipe\n",
+        "qui attend son tour."
+    ]
 }

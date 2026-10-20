@@ -24,5 +24,12 @@
     "contest": {
         "effect": "CONTEST_EFFECT_DOUBLE_FINAL_ACT",
         "type": "CONTEST_TYPE_TOUGH"
-    }
+    },
+    "name_fr": "Riposte",
+    "description_fr": [
+        "Une riposte qui contre\n",
+        "toute attaque\n",
+        "physique en infligeant\n",
+        "le double de dégâts."
+    ]
 }

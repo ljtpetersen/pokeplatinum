@@ -45,6 +45,10 @@
             "en_US": [
                 "Will you believe that inside this\n",
                 "costume is a grown-up Beauty?"
+            ],
+            "fr_FR": [
+                "Tu sais, dissimulée dans ce costume se\n",
+                "cache une belle jeune femme."
             ]
         },
         {
@@ -52,6 +56,10 @@
             "en_US": [
                 "My dream is to live as a Pokémon\n",
                 "one day. To become a Pokémon!\r"
+            ],
+            "fr_FR": [
+                "Je rêve de vivre comme un Pokémon!\n",
+                "De devenir un Pokémon!\r"
             ]
         },
         {
@@ -59,7 +67,12 @@
             "en_US": [
                 "I’m an adult, but I want to be a\n",
                 "Pokémon. Does that make me weird?\r"
+            ],
+            "fr_FR": [
+                "Je suis une adulte, mais je veux devenir\n",
+                "un Pokémon. Tu crois que je suis folle?\r"
             ]
         }
-    ]
+    ],
+    "name_fr": "Romy"
 }

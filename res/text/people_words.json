@@ -3,155 +3,193 @@
   "messages": [
     {
       "id": "PeopleWords_Text_Opponent",
-      "en_US": "OPPONENT"
+      "en_US": "OPPONENT",
+      "fr_FR": "ADVERSAIRE"
     },
     {
       "id": "PeopleWords_Text_I_Unused",
-      "en_US": "I"
+      "en_US": "I",
+      "fr_FR": "JE"
     },
     {
       "id": "PeopleWords_Text_You",
-      "en_US": "YOU"
+      "en_US": "YOU",
+      "fr_FR": "TU"
     },
     {
       "id": "PeopleWords_Text_Mother",
-      "en_US": "MOTHER"
+      "en_US": "MOTHER",
+      "fr_FR": "MERE"
     },
     {
       "id": "PeopleWords_Text_Grandfather",
-      "en_US": "GRANDFATHER"
+      "en_US": "GRANDFATHER",
+      "fr_FR": "GRAND-PERE"
     },
     {
       "id": "PeopleWords_Text_Uncle",
-      "en_US": "UNCLE"
+      "en_US": "UNCLE",
+      "fr_FR": "ONCLE"
     },
     {
       "id": "PeopleWords_Text_Father",
-      "en_US": "FATHER"
+      "en_US": "FATHER",
+      "fr_FR": "PERE"
     },
     {
       "id": "PeopleWords_Text_Boy",
-      "en_US": "BOY"
+      "en_US": "BOY",
+      "fr_FR": "GARÇON"
     },
     {
       "id": "PeopleWords_Text_Adult",
-      "en_US": "ADULT"
+      "en_US": "ADULT",
+      "fr_FR": "ADULTE"
     },
     {
       "id": "PeopleWords_Text_Brother",
-      "en_US": "BROTHER"
+      "en_US": "BROTHER",
+      "fr_FR": "GRAND-FRERE"
     },
     {
       "id": "PeopleWords_Text_Sister",
-      "en_US": "SISTER"
+      "en_US": "SISTER",
+      "fr_FR": "GRANDE-SŒUR"
     },
     {
       "id": "PeopleWords_Text_Grandmother",
-      "en_US": "GRANDMOTHER"
+      "en_US": "GRANDMOTHER",
+      "fr_FR": "GRAND-MERE"
     },
     {
       "id": "PeopleWords_Text_Aunt",
-      "en_US": "AUNT"
+      "en_US": "AUNT",
+      "fr_FR": "TANTE"
     },
     {
       "id": "PeopleWords_Text_Parent",
-      "en_US": "PARENT"
+      "en_US": "PARENT",
+      "fr_FR": "PARENTS"
     },
     {
       "id": "PeopleWords_Text_OldMan",
-      "en_US": "OLD MAN"
+      "en_US": "OLD MAN",
+      "fr_FR": "VIEILLARD"
     },
     {
       "id": "PeopleWords_Text_Me",
-      "en_US": "ME"
+      "en_US": "ME",
+      "fr_FR": "MOI"
     },
     {
       "id": "PeopleWords_Text_Girl",
-      "en_US": "GIRL"
+      "en_US": "GIRL",
+      "fr_FR": "FILLE"
     },
     {
       "id": "PeopleWords_Text_Gal",
-      "en_US": "GAL"
+      "en_US": "GAL",
+      "fr_FR": "DEMOISELLE"
     },
     {
       "id": "PeopleWords_Text_Family",
-      "en_US": "FAMILY"
+      "en_US": "FAMILY",
+      "fr_FR": "FAMILLE"
     },
     {
       "id": "PeopleWords_Text_Her",
-      "en_US": "HER"
+      "en_US": "HER",
+      "fr_FR": "TA"
     },
     {
       "id": "PeopleWords_Text_Him",
-      "en_US": "HIM"
+      "en_US": "HIM",
+      "fr_FR": "LUI"
     },
     {
       "id": "PeopleWords_Text_You_Unused",
-      "en_US": "YOU"
+      "en_US": "YOU",
+      "fr_FR": "TOI"
     },
     {
       "id": "PeopleWords_Text_Siblings",
-      "en_US": "SIBLINGS"
+      "en_US": "SIBLINGS",
+      "fr_FR": "FRATRIE"
     },
     {
       "id": "PeopleWords_Text_Kids",
-      "en_US": "KIDS"
+      "en_US": "KIDS",
+      "fr_FR": "ENFANTS"
     },
     {
       "id": "PeopleWords_Text_Mr",
-      "en_US": "MR."
+      "en_US": "MR.",
+      "fr_FR": "MONSIEUR"
     },
     {
       "id": "PeopleWords_Text_Ms",
-      "en_US": "MS."
+      "en_US": "MS.",
+      "fr_FR": "MADAME"
     },
     {
       "id": "PeopleWords_Text_Myself",
-      "en_US": "MYSELF"
+      "en_US": "MYSELF",
+      "fr_FR": "MOI-MEME"
     },
     {
       "id": "PeopleWords_Text_Who",
-      "en_US": "WHO"
+      "en_US": "WHO",
+      "fr_FR": "QUI"
     },
     {
       "id": "PeopleWords_Text_Friend",
-      "en_US": "FRIEND"
+      "en_US": "FRIEND",
+      "fr_FR": "AMI"
     },
     {
       "id": "PeopleWords_Text_Ally",
-      "en_US": "ALLY"
+      "en_US": "ALLY",
+      "fr_FR": "ALLIE"
     },
     {
       "id": "PeopleWords_Text_Person",
-      "en_US": "PERSON"
+      "en_US": "PERSON",
+      "fr_FR": "PERSONNE"
     },
     {
       "id": "PeopleWords_Text_Kids_Unused",
-      "en_US": "KIDS"
+      "en_US": "KIDS",
+      "fr_FR": "GAMINS"
     },
     {
       "id": "PeopleWords_Text_I_Unused2",
-      "en_US": "I"
+      "en_US": "I",
+      "fr_FR": "J’"
     },
     {
       "id": "PeopleWords_Text_Everyone",
-      "en_US": "EVERYONE"
+      "en_US": "EVERYONE",
+      "fr_FR": "TOUS"
     },
     {
       "id": "PeopleWords_Text_Rival",
-      "en_US": "RIVAL"
+      "en_US": "RIVAL",
+      "fr_FR": "RIVAL"
     },
     {
       "id": "PeopleWords_Text_I_Unused3",
-      "en_US": "I"
+      "en_US": "I",
+      "fr_FR": "MOI JE"
     },
     {
       "id": "PeopleWords_Text_I",
-      "en_US": "I"
+      "en_US": "I",
+      "fr_FR": "MOI J’"
     },
     {
       "id": "PeopleWords_Text_Baby",
-      "en_US": "BABY"
+      "en_US": "BABY",
+      "fr_FR": "BEBE"
     }
   ]
 }

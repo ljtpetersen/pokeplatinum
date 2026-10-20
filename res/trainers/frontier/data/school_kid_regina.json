@@ -59,15 +59,28 @@
             "en_US": [
                 "It’s been so long since I had my last\n",
                 "battle."
+            ],
+            "fr_FR": [
+                "Il y a longtemps que je n’ai pas\n",
+                "combattu."
             ]
         },
         {
             "type": "TRMSG_WIN",
-            "en_US": "You know, battling is fun after all.\r"
+            "en_US": "You know, battling is fun after all.\r",
+            "fr_FR": [
+                "Je devrais combattre plus souvent.\n",
+                "C’est amusant, finalement.\r"
+            ]
         },
         {
             "type": "TRMSG_DEFEAT",
-            "en_US": "Battling is so much fun, but...\r"
+            "en_US": "Battling is so much fun, but...\r",
+            "fr_FR": [
+                "Ce n’est pas que je n’aime pas\n",
+                "combattre, mais bon...\r"
+            ]
         }
-    ]
+    ],
+    "name_fr": "Régina"
 }

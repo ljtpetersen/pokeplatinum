@@ -27,5 +27,13 @@
   "fieldUseFunc": "ITEM_USE_FUNC_TM_HM",
   "battleUseCategory": "BATTLE_USE_CATEGORY_NONE",
   "itemUseParams": null,
-  "teachesMove": "MOVE_BRICK_BREAK"
+  "teachesMove": "MOVE_BRICK_BREAK",
+  "name_fr": "CT31",
+  "description_fr": [
+    "Une attaque avec la main ou autre.\n",
+    "Peut briser les barrières comme Mur\n",
+    "Lumière et Protection."
+  ],
+  "plural_fr": "CT31",
+  "article_fr": null
 }

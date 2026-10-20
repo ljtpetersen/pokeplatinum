@@ -43,6 +43,10 @@
             "en_US": [
                 "Aiyaah! We’re coming out swinging\n",
                 "with super-heavy judo chops!\r"
+            ],
+            "fr_FR": [
+                "Ya-ta! On déboule avec nos prises\n",
+                "de karaté surpuissantes!\r"
             ]
         },
         {
@@ -50,6 +54,10 @@
             "en_US": [
                 "That was...\n",
                 "A complete trashing!\n"
+            ],
+            "fr_FR": [
+                "C’était...\n",
+                "une sacrée dérouillée!\n"
             ]
         },
         {
@@ -57,7 +65,12 @@
             "en_US": [
                 "I must rededicate myself to training.\n",
                 "The road extends into infinity...\n"
+            ],
+            "fr_FR": [
+                "Je dois reprendre mon entraînement.\n",
+                "Cette route s’étend à l’infini...\n"
             ]
         }
-    ]
+    ],
+    "name_fr": "Aymeric"
 }

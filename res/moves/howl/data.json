@@ -23,5 +23,12 @@
     "contest": {
         "effect": "CONTEST_EFFECT_DOUBLE_NEXT_TURN",
         "type": "CONTEST_TYPE_COOL"
-    }
+    },
+    "name_fr": "Grondement",
+    "description_fr": [
+        "Le lanceur hurle pour\n",
+        "se rassurer, ce qui\n",
+        "augmente son\n",
+        "Attaque."
+    ]
 }

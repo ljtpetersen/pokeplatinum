@@ -42,6 +42,11 @@
                 "My dream’s a big one!\r",
                 "I want to battle every kind of Pokémon\n",
                 "from around the world!\r"
+            ],
+            "fr_FR": [
+                "J’ai un rêve, et pas n’importe lequel!\r",
+                "Je veux affronter tous les Pokémon du\n",
+                "monde!\r"
             ]
         },
         {
@@ -49,6 +54,10 @@
             "en_US": [
                 "I lost, but I am one step closer to\n",
                 "realizing my dream!\n"
+            ],
+            "fr_FR": [
+                "J’ai perdu, mais c’était une étape\n",
+                "nécessaire à la réalisation de mon rêve!\n"
             ]
         },
         {
@@ -56,6 +65,10 @@
             "en_US": [
                 "Listen, you! Whatever happens, never\n",
                 "lose sight of your dream!\n"
+            ],
+            "fr_FR": [
+                "Ecoute bien! Quoi qu’il arrive, tu ne\n",
+                "dois jamais oublier tes rêves!\n"
             ]
         },
         {
@@ -64,7 +77,13 @@
                 "All right, you!\r",
                 "Help me realize my dream of battling\n",
                 "every kind of Pokémon there is!\r"
+            ],
+            "fr_FR": [
+                "Toi!\r",
+                "Aide-moi à réaliser mon rêve! Je veux\n",
+                "combattre tous les Pokémon du monde!\r"
             ]
         }
-    ]
+    ],
+    "name_fr": "Oscar"
 }

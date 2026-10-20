@@ -24,17 +24,27 @@
                 "Rainy days make me feel blue...\r",
                 "But the instant it starts to snow,\n",
                 "I’m as happy as can be!\r"
+            ],
+            "fr_FR": [
+                "Quand il pleut, j’ai le spleen...\r",
+                "Mais dès qu’il commence à neiger,\n",
+                "je suis gaie comme un pinson!\r"
             ]
         },
         {
             "type": "TRMSG_DEFEAT",
-            "en_US": "The conditions weren’t very good.\n"
+            "en_US": "The conditions weren’t very good.\n",
+            "fr_FR": "Le temps n’était pas idéal.\n"
         },
         {
             "type": "TRMSG_POST_BATTLE",
             "en_US": [
                 "Can any of your Pokémon use that\n",
                 "hidden move to climb cliffs?\n"
+            ],
+            "fr_FR": [
+                "Est-ce que tu as un Pokémon qui connaît\n",
+                "la capacité pour escalader les falaises?\n"
             ]
         },
         {
@@ -43,7 +53,13 @@
                 "You really must like snow.\r",
                 "After all, if you didn’t, I doubt that\n",
                 "you’d come here so often!\r"
+            ],
+            "fr_FR": [
+                "Tu dois vraiment aimer la neige.\r",
+                "Si ce n’était pas le cas, je ne te\n",
+                "verrais pas aussi souvent dans le coin!\r"
             ]
         }
-    ]
+    ],
+    "name_fr": "Julie"
 }

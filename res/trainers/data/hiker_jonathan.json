@@ -24,6 +24,10 @@
             "en_US": [
                 "If I beat you, will you share some\n",
                 "food with me?\r"
+            ],
+            "fr_FR": [
+                "Si je gagne, tu voudras bien me \n",
+                "donner quelque chose à manger?\r"
             ]
         },
         {
@@ -31,7 +35,8 @@
             "en_US": [
                 "We were starved for food, and now\n",
                 "we’re starved for a win...\n"
-            ]
+            ],
+            "fr_FR": "Pas de victoire, pas de nourriture...\n"
         },
         {
             "type": "TRMSG_POST_BATTLE",
@@ -40,6 +45,12 @@
                 "Maybe I’ll chow down some Berries...\r",
                 "But that’s kind of gross.\n",
                 "What am I, a Pokémon?\n"
+            ],
+            "fr_FR": [
+                "Pff... J’ai encore plus faim qu’avant...\n",
+                "Je pourrais manger des Baies...\r",
+                "Mais c’est plutôt écœurant...\n",
+                "Je ne suis pas un Pokémon!\n"
             ]
         },
         {
@@ -49,7 +60,14 @@
                 "before we started climbing.\r",
                 "If I beat you this time, share some\n",
                 "food with me!\r"
+            ],
+            "fr_FR": [
+                "Euh... J’ai mangé mon casse-croûte \n",
+                "avant de me lancer dans l’ascension.\r",
+                "Cette fois-ci, si je te bats, tu \n",
+                "devras me donner à manger!\r"
             ]
         }
-    ]
+    ],
+    "name_fr": "Raoul"
 }

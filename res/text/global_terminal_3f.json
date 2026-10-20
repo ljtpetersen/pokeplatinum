@@ -8,6 +8,12 @@
         "around the world love Pokémon.\r",
         "Watching Battle Videos lets you share\n",
         "the fun these people had."
+      ],
+      "fr_FR": [
+        "Ici, on voit bien à quel point les gens\n",
+        "du monde entier aiment les Pokémon.\r",
+        "Ils diffusent des Vidéos de combat pour\n",
+        "partager leur joie avec les autres."
       ]
     },
     {
@@ -17,6 +23,12 @@
         "Everyone and anyone can participate.\r",
         "Even if you lose, it could still be a part\n",
         "of someone’s favorite Battle Video."
+      ],
+      "fr_FR": [
+        "C’est une super idée.\n",
+        "Tout le monde peut participer.\r",
+        "Même si tu perds, ta Vidéo de combat\n",
+        "pourrait être utile à plein de gens!"
       ]
     },
     {
@@ -25,6 +37,11 @@
         "This Battle Video rocks hard!\r",
         "It’s an incredible turnaround from the\n",
         "brink of a wipeout!"
+      ],
+      "fr_FR": [
+        "Cette Vidéo de combat, elle déchire!\r",
+        "Quel retournement de situation, à deux\n",
+        "doigts du K.O.!"
       ]
     },
     {
@@ -32,6 +49,10 @@
       "en_US": [
         "I have Battle Videos of only cute little\n",
         "CLEFAIRY as my favorites."
+      ],
+      "fr_FR": [
+        "Je n’aime que les Vidéos de combat où il\n",
+        "y a des MELOFEE. Ils sont si mignons."
       ]
     },
     {
@@ -41,6 +62,12 @@
         "I can see why this is so popular.\r",
         "Just seeing some of these Battle Videos\n",
         "makes me feel tougher!"
+      ],
+      "fr_FR": [
+        "Quelle collection incroyable!\n",
+        "Pas étonnant que ce soit si populaire.\r",
+        "Rien qu’à voir certaines de ces Vidéos\n",
+        "de combat, je me sens déjà plus fort!"
       ]
     },
     {
@@ -50,6 +77,12 @@
         "every day...\r",
         "I would consider that a hobby worthy\n",
         "of a true gentleman."
+      ],
+      "fr_FR": [
+        "Prendre le temps de regarder quelques\n",
+        "Vidéos de combat chaque jour...\r",
+        "C’est ce que j’appelle un passe-temps\n",
+        "digne d’un véritable gentleman."
       ]
     },
     {
@@ -61,6 +94,14 @@
         "What’s on it?\r",
         "It’s a secret!\n",
         "It’s a secret! And I mean it!"
+      ],
+      "fr_FR": [
+        "Ma Vidéo de combat préférée.\n",
+        "Ma Vidéo de combat préférée.\r",
+        "Quel Pokémon y apparaît?\n",
+        "Quel Pokémon y apparaît?\r",
+        "C’est un secret!\n",
+        "C’est un secret! Et ça va le rester!"
       ]
     },
     {
@@ -78,6 +119,20 @@
         "growing flowers for my dear old Ma!\r",
         "Yeah, I know, lame-o.\n",
         "You give it a try!"
+      ],
+      "fr_FR": [
+        "Allez hop! Un rap alphabétique sur le\n",
+        "thème Féli-Cité! En avant la musique!\r",
+        "F... Floraville, ville en fleurs, on en\n",
+        "voit de toutes les couleurs.\r",
+        "E... Ecole de Dresseurs, d’où j’me suis\n",
+        "fait jeter par le proviseur!\r",
+        "L... Littorella, la dolce vita, toute la\n",
+        "journée à profiter du climat.\r",
+        "I... Inepties, c’est ce que je dis, pas\n",
+        "de souci, c’est toute ma vie!\r",
+        "Ouais, je sais, c’est fade et plat.\n",
+        "Vas-y, essaye donc, toi!"
       ]
     },
     {
@@ -85,6 +140,11 @@
       "en_US": [
         "The Hiker enjoying the Box Data down\n",
         "on 2F is my little brother."
+      ],
+      "fr_FR": [
+        "Le Montagnard en train d’admirer les\n",
+        "Clichés Boîte au premier est mon petit\f",
+        "frère."
       ]
     },
     {
@@ -92,6 +152,10 @@
       "en_US": [
         "Warps to the GTS and the Trainer\n",
         "Rankings on 1F."
+      ],
+      "fr_FR": [
+        "Vers la GTS et le Classement des\n",
+        "Dresseurs au rez-de-chaussée."
       ]
     },
     {
@@ -99,6 +163,10 @@
       "en_US": [
         "Warps to the studios for Box Data and\n",
         "Dress-Up Data on 2F."
+      ],
+      "fr_FR": [
+        "Vers les studios des Clichés Boîte et\n",
+        "Clichés habillage au premier étage."
       ]
     },
     {
@@ -106,6 +174,10 @@
       "en_US": [
         "Connect to Nintendo Wi-Fi Connection\n",
         "to view and post Battle Videos?"
+      ],
+      "fr_FR": [
+        "Se connecter à la CWF Nintendo pour\n",
+        "voir ou diffuser des Vidéos de combat?"
       ]
     },
     {
@@ -121,19 +193,34 @@
         "assigned a 12-digit number.\r",
         "Your friends may view your Battle Video\n",
         "by entering this 12-digit code here.\r"
+      ],
+      "fr_FR": [
+        "Ici, vous pouvez diffuser des Vidéos de\n",
+        "combat avec vos Pokémon.\r",
+        "Vous pouvez aussi voir les Vidéos de\n",
+        "combat des autres Dresseurs.\r",
+        "Les vidéos sont triées par type de\n",
+        "Pokémon, lieu de combat, etc.\r",
+        "A chaque Vidéo de combat est assigné\n",
+        "un code de 12 chiffres.\r",
+        "Donnez ce code à vos amis pour qu’ils\n",
+        "retrouvent facilement votre vidéo.\r"
       ]
     },
     {
       "id": "GlobalTerminal3F_Text_Use",
-      "en_US": "USE"
+      "en_US": "USE",
+      "fr_FR": "CONNEX."
     },
     {
       "id": "GlobalTerminal3F_Text_Info",
-      "en_US": "INFO"
+      "en_US": "INFO",
+      "fr_FR": "INFOS"
     },
     {
       "id": "GlobalTerminal3F_Text_Cancel",
-      "en_US": "CANCEL"
+      "en_US": "CANCEL",
+      "fr_FR": "ANNULER"
     }
   ]
 }

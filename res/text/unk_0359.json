@@ -3,7 +3,8 @@
   "messages": [
     {
       "id": "pl_msg_00000359_00000",
-      "en_US": "{STRVAR_1 3, 0, 0}"
+      "en_US": "{STRVAR_1 3, 0, 0}",
+      "fr_FR": "{STRVAR_1 3, 0, 0}"
     }
   ]
 }

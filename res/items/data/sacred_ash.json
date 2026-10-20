@@ -30,5 +30,12 @@
     "revive": true,
     "reviveAll": true,
     "hpRestored": -1
-  }
+  },
+  "name_fr": "Cendresacrée",
+  "description_fr": [
+    "Ranime tous les Pokémon K.O. et\n",
+    "restaure tous leurs PV."
+  ],
+  "plural_fr": "Cendresacrée",
+  "article_fr": null
 }

@@ -34,11 +34,17 @@
             "en_US": [
                 "I took great pains raising my partners.\n",
                 "I’ll show you how strong I made them!\r"
+            ],
+            "fr_FR": [
+                "Entraîner mes partenaires n’a pas été\n",
+                "une tâche facile. Mais je suis fier du\f",
+                "résultat!\r"
             ]
         },
         {
             "type": "TRMSG_DEFEAT",
-            "en_US": "It needs to be leveled more?!\n"
+            "en_US": "It needs to be leveled more?!\n",
+            "fr_FR": "Il faut encore qu’ils progressent?!\n"
         },
         {
             "type": "TRMSG_POST_BATTLE",
@@ -46,6 +52,11 @@
                 "My Pokémon...\r",
                 "They’re the first friends I ever\n",
                 "caught. They mean everything to me!"
+            ],
+            "fr_FR": [
+                "Mes Pokémon...\r",
+                "Ce sont mes amis depuis le premier jour.\n",
+                "Ils comptent énormément pour moi!"
             ]
         },
         {
@@ -55,7 +66,14 @@
                 "how we lost to you in vivid detail.\r",
                 "But, I’ve raised them since then! I’ll\n",
                 "throw their strength in your face!\r"
+            ],
+            "fr_FR": [
+                "Quand je ferme les yeux, je me souviens\n",
+                "des détails de notre dernier combat.\r",
+                "J’ai perdu la dernière fois, mais\n",
+                "maintenant nous sommes bien plus forts!\r"
             ]
         }
-    ]
+    ],
+    "name_fr": "Karl"
 }

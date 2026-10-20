@@ -58,7 +58,12 @@
             "en_US": [
                 "...!\n",
                 "Again and again...\n"
+            ],
+            "fr_FR": [
+                "...!\n",
+                "L’histoire se répète..."
             ]
         }
-    ]
+    ],
+    "name_fr": "Mars"
 }

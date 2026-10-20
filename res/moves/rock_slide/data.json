@@ -25,5 +25,13 @@
     "contest": {
         "effect": "CONTEST_EFFECT_BASIC",
         "type": "CONTEST_TYPE_TOUGH"
-    }
+    },
+    "name_fr": "Eboulement",
+    "description_fr": [
+        "Envoie de gros\n",
+        "rochers sur l’ennemi\n",
+        "pour infliger des\n",
+        "dégâts. Peut aussi\n",
+        "l’apeurer."
+    ]
 }

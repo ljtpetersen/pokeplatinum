@@ -53,18 +53,31 @@
             "en_US": [
                 "Up and down you go on the lifts.\n",
                 "Me? I like to battle!\r"
+            ],
+            "fr_FR": [
+                "Tu montes, tu descends, tu prends\n",
+                "l’ascenseur. Moi? J’aime le combat!\r"
             ]
         },
         {
             "type": "TRMSG_DEFEAT",
-            "en_US": "You’ve got me feeling down!\n"
+            "en_US": "You’ve got me feeling down!\n",
+            "fr_FR": [
+                "A cause de toi, je suis au\n",
+                "trente-sixième dessous!\n"
+            ]
         },
         {
             "type": "TRMSG_POST_BATTLE",
             "en_US": [
                 "I can’t keep this up!\n",
                 "I’ll go back to working on the lifts.\n"
+            ],
+            "fr_FR": [
+                "Ça ne peut plus durer! Je dois me\n",
+                "remettre au travail sur les ascenseurs.\n"
             ]
         }
-    ]
+    ],
+    "name_fr": "Thierry"
 }

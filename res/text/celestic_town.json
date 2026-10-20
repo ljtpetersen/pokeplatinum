@@ -13,6 +13,17 @@
         "The nerve of it all...\r",
         "If only I were younger, I’d punish\n",
         "that spaceman with my Pokémon..."
+      ],
+      "fr_FR": [
+        "Un étrange cosmonaute se tient\n",
+        "devant les ruines.\r",
+        "Il n’y a rien ici, mais il a l’air\n",
+        "en colère, en tout cas.\r",
+        "Il menace de faire exploser la ville\n",
+        "avec une bombe...\r",
+        "Franchement, quel culot...\r",
+        "Si j’avais vingt ans de moins, je lui\n",
+        "donnerais une leçon avec mes Pokémon..."
       ]
     },
     {
@@ -26,6 +37,16 @@
         "you down with a Pokémon battle.\r",
         "So, what’s it going to be?\n",
         "Are you going to mess with me?"
+      ],
+      "fr_FR": [
+        "Cette ville est insignifiante!\n",
+        "Il n’y a rien d’intéressant ici.\r",
+        "Elle n’a aucune raison d’être, je la\n",
+        "pulvériserai avec une Bombe Galaxie!\r",
+        "Si tu tentes de t’interposer, je\n",
+        "t’écraserai avec mes Pokémon.\r",
+        "Alors, qu’en dis-tu?\n",
+        "Tu veux te frotter à moi?"
       ]
     },
     {
@@ -34,6 +55,11 @@
         "You dare to oppose Team Galactic?\r",
         "That means you’re taking on the\n",
         "world... No, the universe, even!\r"
+      ],
+      "fr_FR": [
+        "Tu oses défier la Team Galaxie?\r",
+        "C’est comme défier le monde...\n",
+        "Non, l’univers!\r"
       ]
     },
     {
@@ -45,6 +71,14 @@
         "boonies like this for everyone’s sake.\r",
         "Your cooperation is appreciated.\n",
         "Now, where is my partner...?"
+      ],
+      "fr_FR": [
+        "Bien! T’es pas bête!\n",
+        "Tu sais ce qui est bon pour toi!\r",
+        "La Team Galaxie est venue dans cette\n",
+        "ville pour le bien de tout le monde.\r",
+        "Ta coopération est très appréciée.\n",
+        "Alors, où est mon partenaire...?"
       ]
     },
     {
@@ -54,6 +88,12 @@
         "I can’t do anything here...\r",
         "This place is nothing!\n",
         "I’ll be happily rid of this place!\r"
+      ],
+      "fr_FR": [
+        "C’est trop pour moi...\n",
+        "Je ne peux rien faire ici...\r",
+        "Cet endroit est insignifiant!\n",
+        "Je serai ravi d’en être débarrassé!\r"
       ]
     },
     {
@@ -71,6 +111,20 @@
         "it to deliver to me?\r",
         "That Cynthia...\n",
         "She’s my granddaughter.\r"
+      ],
+      "fr_FR": [
+        "Oh, tu étais magnifique!\n",
+        "Tu es un sacré Dresseur, pas vrai?\r",
+        "En tant que doyenne de Célestia, \n",
+        "je te remercie.\r",
+        "Oh? Ce Vieux Grigri...\n",
+        "Puis-je le voir, mon enfant?\r",
+        "...\n",
+        "Saperlipopette!\r",
+        "Tu dis que Cynthia a demandé\n",
+        "à ce que tu me le livres?\r",
+        "Cette Cynthia...\n",
+        "C’est ma petite-fille.\r"
       ]
     },
     {
@@ -78,6 +132,10 @@
       "en_US": [
         "{STRVAR_1 3, 0, 0} handed over\n",
         "the {STRVAR_1 8, 1, 0} to the elder."
+      ],
+      "fr_FR": [
+        "{STRVAR_1 3, 0, 0} remet le {STRVAR_1 8, 1, 0}\n",
+        "à la doyenne."
       ]
     },
     {
@@ -91,6 +149,16 @@
         "now and again.\r",
         "Since you’re in Celestic Town, why not\n",
         "look around inside the ruins?"
+      ],
+      "fr_FR": [
+        "Ce Vieux Grigri fut fabriqué dans la\n",
+        "ville de Célestia, il y a très longtemps.\r",
+        "Il fut conçu en l’honneur d’une déité\n",
+        "mythique qui avait créé Sinnoh.\r",
+        "On retrouve parfois l’un de ces Vieux\n",
+        "Grigris, de temps à autre.\r",
+        "Puisque tu es à Célestia, pourquoi ne\n",
+        "pas visiter les ruines?"
       ]
     },
     {
@@ -100,6 +168,12 @@
         "Celestic Town.\r",
         "Why not take a little more time to\n",
         "examine the ruins?"
+      ],
+      "fr_FR": [
+        "Tu t’es donné tant de mal pour\n",
+        "rejoindre Célestia.\r",
+        "Pourquoi ne pas prendre un peu de\n",
+        "temps pour visiter les ruines?"
       ]
     },
     {
@@ -108,6 +182,11 @@
         "Cynthia: Was everything all right here?\r",
         "You saw those strange people with\n",
         "a Galactic Bomb, didn’t you?\r"
+      ],
+      "fr_FR": [
+        "Cynthia: Tout va bien ici?\r",
+        "Tu as vu ces gens bizarres armés\n",
+        "d’une Bombe Galaxie?\r"
       ]
     },
     {
@@ -124,6 +203,19 @@
         "than expected.\r",
         "Trying to monopolize Pokémon just isn’t\n",
         "acceptable!\r"
+      ],
+      "fr_FR": [
+        "Quelle bande de fripouilles...!\n",
+        "Et moi qui les croyais inoffensifs.\r",
+        "Avec leurs tenues extravagantes et\n",
+        "leurs drôles d’histoires à propos\f",
+        "d’un nouvel univers...\r",
+        "Je pensais que c’était des blagues et\n",
+        "qu’il n’y avait pas à s’inquiéter.\r",
+        "Mais ils causent plus d’ennuis que\n",
+        "je ne m’y attendais.\r",
+        "Essayer de s’emparer des Pokémon,\n",
+        "c’est intolérable!\r"
       ]
     },
     {
@@ -139,6 +231,19 @@
         "Pokédex, too.\r",
         "The quickest way to Canalave City\n",
         "is to go west from Jubilife City."
+      ],
+      "fr_FR": [
+        "Au fait, la visite des ruines t’a plu?\r",
+        "Si ça t’intéresse, il y a une\n",
+        "bibliothèque à Joliberges.\r",
+        "Elle est pleine à craquer de vieux\n",
+        "livres retraçant toute l’histoire\f",
+        "de Sinnoh.\r",
+        "Ça pourrait t’aider à compléter\n",
+        "ton Pokédex.\r",
+        "Pars vers l’ouest à partir de Féli-Cité,\n",
+        "et tu seras à Joliberges en moins\f",
+        "de deux."
       ]
     },
     {
@@ -146,6 +251,10 @@
       "en_US": [
         "Howdy!\n",
         "Studying up on local history?"
+      ],
+      "fr_FR": [
+        "Salut, salut!\n",
+        "On étudie l’histoire locale?"
       ]
     },
     {
@@ -154,6 +263,11 @@
         "Hey, do you know what they say?\r",
         "They say a Pokémon created the\n",
         "Sinnoh region."
+      ],
+      "fr_FR": [
+        "Hé, tu sais ce qu’on raconte?\r",
+        "Il paraît qu’un Pokémon a créé\n",
+        "la région de Sinnoh."
       ]
     },
     {
@@ -163,6 +277,12 @@
         "town...\r",
         "Instead, you can buy and sell items\n",
         "in this house here."
+      ],
+      "fr_FR": [
+        "Il n’y a pas de Boutique Pokémon dans\n",
+        "cette ville...\r",
+        "Par contre, tu peux vendre et acheter\n",
+        "des objets dans cette maison."
       ]
     },
     {
@@ -170,6 +290,10 @@
       "en_US": [
         "Celestic Town\n",
         "The Past Lives"
+      ],
+      "fr_FR": [
+        "Célestia\n",
+        "Survivance du passé"
       ]
     },
     {
@@ -181,6 +305,14 @@
         "in as well...\r",
         "The flow of time never stops...\n",
         "The past, future, and present..."
+      ],
+      "fr_FR": [
+        "Le mur est orné d’une gravure géante\n",
+        "qui semble représenter un Pokémon...\r",
+        "Il y a également une inscription que le\n",
+        "temps a presque effacée...\r",
+        "Le flot du temps ne s’arrête jamais...\n",
+        "Le passé, le futur, le présent..."
       ]
     },
     {
@@ -192,6 +324,14 @@
         "in as well...\r",
         "Space is ever-expanding dimensions...\n",
         "Our spirits, too, are as space..."
+      ],
+      "fr_FR": [
+        "Le mur est orné d’une gravure géante\n",
+        "qui semble représenter un Pokémon...\r",
+        "Il y a également une inscription que le\n",
+        "temps a presque effacée...\r",
+        "L’espace, dimensions en perpétuelle\n",
+        "expansion... Nos âmes comme l’espace..."
       ]
     }
   ]

@@ -80,18 +80,25 @@
     "messages": [
         {
             "type": "TRMSG_PRE_BATTLE",
-            "en_US": "Wanna?"
+            "en_US": "Wanna?",
+            "fr_FR": "Alors?"
         },
         {
             "type": "TRMSG_WIN",
-            "en_US": "Heh...\r"
+            "en_US": "Heh...\r",
+            "fr_FR": "Hé, hé...\r"
         },
         {
             "type": "TRMSG_DEFEAT",
             "en_US": [
                 "You beat me?\n",
                 "Where’s your dojo?\r"
+            ],
+            "fr_FR": [
+                "Tu m’as battue?\n",
+                "Qui est ton senseï?\r"
             ]
         }
-    ]
+    ],
+    "name_fr": "Ilona"
 }

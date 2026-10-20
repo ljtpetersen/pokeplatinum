@@ -51,6 +51,10 @@
             "en_US": [
                 "Wherever, whenever, and with whomever.\n",
                 "That’s my motto!"
+            ],
+            "fr_FR": [
+                "Je ne refuse jamais un combat!\n",
+                "Peu importe le moment ou l’endroit!"
             ]
         },
         {
@@ -58,6 +62,10 @@
             "en_US": [
                 "When, where, or whom...\n",
                 "It doesn’t matter at all to me.\r"
+            ],
+            "fr_FR": [
+                "Où, quand, comment... Rien n’a\n",
+                "d’importance, tant qu’on se bat.\r"
             ]
         },
         {
@@ -65,7 +73,12 @@
             "en_US": [
                 "Hahaha! This is great!\n",
                 "I want to keep this going!\r"
+            ],
+            "fr_FR": [
+                "Ha, ha, ha! C’est génial!\n",
+                "Continue comme ça!\r"
             ]
         }
-    ]
+    ],
+    "name_fr": "Konrad"
 }

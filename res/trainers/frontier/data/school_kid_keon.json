@@ -59,6 +59,10 @@
             "en_US": [
                 "Hiya, you Trainer there! Slip on some\n",
                 "glasses. They’ll make you look better."
+            ],
+            "fr_FR": [
+                "Salut, Dresseur! Tu devrais porter\n",
+                "des lunettes, ça t’irait drôlement bien."
             ]
         },
         {
@@ -66,6 +70,10 @@
             "en_US": [
                 "Nothing’s the matter with my eyes.\n",
                 "I wear glasses for the looks I get.\r"
+            ],
+            "fr_FR": [
+                "Je ne suis pas myope du tout. Je porte\n",
+                "des lunettes pour parfaire mon look.\r"
             ]
         },
         {
@@ -73,7 +81,12 @@
             "en_US": [
                 "Whoops!\n",
                 "My glasses, my glasses.\r"
+            ],
+            "fr_FR": [
+                "Oups!\n",
+                "J’ai perdu mes lunettes!\r"
             ]
         }
-    ]
+    ],
+    "name_fr": "Kleber"
 }

@@ -41,7 +41,12 @@
             "en_US": [
                 "I want to cry...\n",
                 "My heart is shattered...\n"
+            ],
+            "fr_FR": [
+                "J’ai envie de pleurer...\n",
+                "Mon cœur saigne...\n"
             ]
         }
-    ]
+    ],
+    "name_fr": "Sbire"
 }

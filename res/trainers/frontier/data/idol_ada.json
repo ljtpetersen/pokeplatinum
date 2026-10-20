@@ -45,6 +45,10 @@
             "en_US": [
                 "I’m not supposed to be here.\n",
                 "Can we do this on the sly?"
+            ],
+            "fr_FR": [
+                "Je ne devrais pas être ici. Tu ne diras\n",
+                "à personne que tu m’as vue, d’accord?"
             ]
         },
         {
@@ -52,6 +56,10 @@
             "en_US": [
                 "Even battling can draw attention.\n",
                 "It’s not easy being a pop star.\r"
+            ],
+            "fr_FR": [
+                "A chaque combat, je risque d’attirer\n",
+                "la presse. Ce n’est pas une vie facile.\r"
             ]
         },
         {
@@ -59,7 +67,12 @@
             "en_US": [
                 "Pop stars are ordinary girls at heart.\n",
                 "We want to enjoy our Pokémon, too!\r"
+            ],
+            "fr_FR": [
+                "J’ai beau être une star, je suis une\n",
+                "fille comme les autres, tu sais!\r"
             ]
         }
-    ]
+    ],
+    "name_fr": "Daisy"
 }

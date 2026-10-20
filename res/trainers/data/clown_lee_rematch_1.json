@@ -32,7 +32,12 @@
             "en_US": [
                 "Oh, no, no, no!\n",
                 "Mwahahah?\n"
+            ],
+            "fr_FR": [
+                "Oh, non, non, non!\n",
+                "Mouah, ah, ah?\n"
             ]
         }
-    ]
+    ],
+    "name_fr": "Kenzo"
 }

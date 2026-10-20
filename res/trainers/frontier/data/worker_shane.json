@@ -35,6 +35,10 @@
             "en_US": [
                 "It’s the Workers of the world like us\n",
                 "who keep the world going."
+            ],
+            "fr_FR": [
+                "Nous autres, les Ouvriers, on fait\n",
+                "tourner le monde!"
             ]
         },
         {
@@ -42,6 +46,10 @@
             "en_US": [
                 "There are times we would like to lay\n",
                 "down our tools and rest.\r"
+            ],
+            "fr_FR": [
+                "Parfois, on aimerait bien pouvoir se\n",
+                "reposer un peu.\r"
             ]
         },
         {
@@ -49,7 +57,12 @@
             "en_US": [
                 "Don’t forget how Workers like us work\n",
                 "for you.\r"
+            ],
+            "fr_FR": [
+                "N’oublie jamais ce que nous autres,\n",
+                "les Ouvriers, on fait pour toi.\r"
             ]
         }
-    ]
+    ],
+    "name_fr": "Dante"
 }

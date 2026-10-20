@@ -27,5 +27,13 @@
   "fieldUseFunc": "ITEM_USE_FUNC_TM_HM",
   "battleUseCategory": "BATTLE_USE_CATEGORY_NONE",
   "itemUseParams": null,
-  "teachesMove": "MOVE_SANDSTORM"
+  "teachesMove": "MOVE_SANDSTORM",
+  "name_fr": "CT37",
+  "description_fr": [
+    "Une tempête de sable de 5 tours qui\n",
+    "blesse tous les Pokémon sauf les types\n",
+    "Roche, Sol et Acier."
+  ],
+  "plural_fr": "CT37",
+  "article_fr": null
 }

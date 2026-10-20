@@ -89,6 +89,10 @@
             "en_US": [
                 "We’re not done yet!\n",
                 "There’s no giving up!\n"
+            ],
+            "fr_FR": [
+                "Ce n’est pas terminé!\n",
+                "Je ne baisserai pas les bras!"
             ]
         },
         {
@@ -96,7 +100,12 @@
             "en_US": [
                 "Hmm!\n",
                 "My sturdy Pokémon--defeated!\n"
+            ],
+            "fr_FR": [
+                "Argh! Mes Pokémon!\n",
+                "Ils n’ont pas fait le poids!\n"
             ]
         }
-    ]
+    ],
+    "name_fr": "Charles"
 }

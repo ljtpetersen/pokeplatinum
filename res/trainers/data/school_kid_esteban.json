@@ -28,7 +28,9 @@
     "messages": [
         {
             "type": "TRMSG_DEFEAT",
-            "en_US": "Wow... You’re out there.\n"
+            "en_US": "Wow... You’re out there.\n",
+            "fr_FR": "Waouh... Tu es incroyable.\n"
         }
-    ]
+    ],
+    "name_fr": "Hercule"
 }

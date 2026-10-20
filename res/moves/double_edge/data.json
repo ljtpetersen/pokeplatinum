@@ -28,5 +28,13 @@
     "contest": {
         "effect": "CONTEST_EFFECT_ALL_SAME_JUDGE",
         "type": "CONTEST_TYPE_TOUGH"
-    }
+    },
+    "name_fr": "Damoclès",
+    "description_fr": [
+        "Une dangereuse\n",
+        "charge. Inflige aussi\n",
+        "des dégâts assez\n",
+        "importants au\n",
+        "lanceur."
+    ]
 }

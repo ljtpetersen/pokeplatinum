@@ -37,6 +37,10 @@
             "en_US": [
                 "Turn, step, turn, turn... I’ll practice\n",
                 "my dance steps while battling!"
+            ],
+            "fr_FR": [
+                "Un, deux, trois, un, deux, trois!\n",
+                "Je répète mes pas de danse!"
             ]
         },
         {
@@ -44,6 +48,10 @@
             "en_US": [
                 "I dance with passion and precision.\n",
                 "How can there be a weakness?\r"
+            ],
+            "fr_FR": [
+                "Je danse avec passion et précision.\n",
+                "Je ne peux pas perdre.\r"
             ]
         },
         {
@@ -51,7 +59,12 @@
             "en_US": [
                 "You’re throwing off my rhythm!\n",
                 "My dance routine is ruined!\r"
+            ],
+            "fr_FR": [
+                "Non! Tu n’es pas du tout en rythme!\n",
+                "Tu as gâché mon entraînement!\r"
             ]
         }
-    ]
+    ],
+    "name_fr": "Danaé"
 }

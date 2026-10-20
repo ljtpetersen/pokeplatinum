@@ -55,6 +55,10 @@
             "en_US": [
                 "I’m on the way home from the pool, but\n",
                 "OK, I can battle."
+            ],
+            "fr_FR": [
+                "Je reviens de la piscine. On peut\n",
+                "se battre, si tu veux."
             ]
         },
         {
@@ -62,6 +66,10 @@
             "en_US": [
                 "I hope I can go home soon.\n",
                 "I need some dry clothes!\r"
+            ],
+            "fr_FR": [
+                "Je vais rentrer à la maison.\n",
+                "J’ai besoin de me changer!\r"
             ]
         },
         {
@@ -69,7 +77,12 @@
             "en_US": [
                 "Ah-ah-atchoo! Aww...\n",
                 "Atchoo! We lost...\r"
+            ],
+            "fr_FR": [
+                "A... A... Atchoum! Ooh...\n",
+                "Atchoum! Perdu...\r"
             ]
         }
-    ]
+    ],
+    "name_fr": "Dana"
 }

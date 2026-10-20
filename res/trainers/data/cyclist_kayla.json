@@ -23,11 +23,16 @@
             "en_US": [
                 "If you beat me, you can count on\n",
                 "something rotten coming your way!\r"
+            ],
+            "fr_FR": [
+                "Si tu me bats, quelque chose d’horrible\n",
+                "va t’arriver!\r"
             ]
         },
         {
             "type": "TRMSG_DEFEAT",
-            "en_US": "Kerrrash!"
+            "en_US": "Kerrrash!",
+            "fr_FR": "Vlaan!"
         },
         {
             "type": "TRMSG_POST_BATTLE",
@@ -36,6 +41,12 @@
                 "Why did you beat me?!\r",
                 "I hope you get so lost in Wayward Cave\n",
                 "you cry! Boo-hoo-hoo!\n"
+            ],
+            "fr_FR": [
+                "Non!\n",
+                "Pourquoi tu m’as battue?\r",
+                "Je te souhaite de te perdre pendant\n",
+                "des heures dans la Grotte Revêche, na!"
             ]
         },
         {
@@ -44,7 +55,13 @@
                 "I had to get my revenge on you.\r",
                 "I trained my Pokémon while wandering\f",
                 "lost in Wayward Cave!\r"
+            ],
+            "fr_FR": [
+                "Tu me dois une revanche.\r",
+                "Je me suis entraînée dans la Grotte\n",
+                "Revêche en cherchant la sortie!\r"
             ]
         }
-    ]
+    ],
+    "name_fr": "Babette"
 }

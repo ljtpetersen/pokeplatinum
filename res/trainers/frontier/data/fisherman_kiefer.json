@@ -37,6 +37,10 @@
             "en_US": [
                 "When I enter battle, I picture the vast\n",
                 "sea in my mind."
+            ],
+            "fr_FR": [
+                "Chaque fois que je combats, je\n",
+                "pense à l’immensité des océans."
             ]
         },
         {
@@ -44,6 +48,10 @@
             "en_US": [
                 "When I can envision the sea, I feel as if\n",
                 "I could never lose.\r"
+            ],
+            "fr_FR": [
+                "Quand je pense aux océans, si\n",
+                "majestueux, je ne peux pas perdre.\r"
             ]
         },
         {
@@ -51,7 +59,12 @@
             "en_US": [
                 "When I envision the sea, I don’t feel\n",
                 "the sting of defeat.\r"
+            ],
+            "fr_FR": [
+                "Quand je pense aux océans, si\n",
+                "majestueux, la défaite importe peu.\r"
             ]
         }
-    ]
+    ],
+    "name_fr": "Cody"
 }

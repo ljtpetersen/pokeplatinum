@@ -3,36 +3,49 @@
   "messages": [
     {
       "id": "pl_msg_00000533_00000",
-      "en_US": "{STRVAR_1 3, 0, 0}"
+      "en_US": "{STRVAR_1 3, 0, 0}",
+      "fr_FR": "{STRVAR_1 3, 0, 0}"
     },
     {
       "id": "pl_msg_00000533_00001",
-      "en_US": "ID: {STRVAR_1 54, 0, 0}"
+      "en_US": "ID: {STRVAR_1 54, 0, 0}",
+      "fr_FR": "Nº {STRVAR_1 54, 0, 0}"
     },
     {
       "id": "pl_msg_00000533_00002",
       "en_US": [
         "When the group is ready:\n",
         "A Button: Proceed   B Button: Cancel"
+      ],
+      "fr_FR": [
+        "Lorsque tous les joueurs sont prêts...\n",
+        "Bouton A: Confirmer   Bouton B: Annuler"
       ]
     },
     {
       "id": "pl_msg_00000533_00003",
-      "en_US": "Are these members OK?"
+      "en_US": "Are these members OK?",
+      "fr_FR": "Ces membres vous conviennent?"
     },
     {
       "id": "pl_msg_00000533_00004",
-      "en_US": "Cancel record mixing?"
+      "en_US": "Cancel record mixing?",
+      "fr_FR": "Annuler l’échange de données?"
     },
     {
       "id": "pl_msg_00000533_00005",
-      "en_US": "Record mixing will be canceled."
+      "en_US": "Record mixing will be canceled.",
+      "fr_FR": "L’échange de données va être annulé."
     },
     {
       "id": "pl_msg_00000533_00006",
       "en_US": [
         "There is a member who can no\n",
         "longer remain available."
+      ],
+      "fr_FR": [
+        "Un des membres ne sera\n",
+        "bientôt plus disponible."
       ]
     },
     {
@@ -40,6 +53,10 @@
       "en_US": [
         "There are no members.\n",
         "Record mixing will be canceled."
+      ],
+      "fr_FR": [
+        "Il n’y a aucun membre.\n",
+        "L’échange de données va être annulé."
       ]
     },
     {
@@ -47,6 +64,10 @@
       "en_US": [
         "Please wait.\n",
         "... ... B Button: Cancel"
+      ],
+      "fr_FR": [
+        "Veuillez attendre...\n",
+        "Bouton B: Annuler"
       ]
     },
     {
@@ -54,21 +75,31 @@
       "en_US": [
         "A member is no longer available.\n",
         "Record mixing will be canceled."
+      ],
+      "fr_FR": [
+        "Un des membres n’est plus disponible.\n",
+        "L’échange de données va être annulé."
       ]
     },
     {
       "id": "pl_msg_00000533_00010",
-      "en_US": "Cancel record mixing?"
+      "en_US": "Cancel record mixing?",
+      "fr_FR": "Annuler l’échange de données?"
     },
     {
       "id": "pl_msg_00000533_00011",
-      "en_US": "Record mixing will be canceled."
+      "en_US": "Record mixing will be canceled.",
+      "fr_FR": "L’échange de données va être annulé."
     },
     {
       "id": "pl_msg_00000533_00012",
       "en_US": [
         "Mixing records...\n",
         "Don’t turn off the power!"
+      ],
+      "fr_FR": [
+        "Echange de données...\n",
+        "Ne pas éteindre!"
       ]
     },
     {
@@ -76,6 +107,10 @@
       "en_US": [
         "Record mixing completed!\n",
         "Returning to the Union Room."
+      ],
+      "fr_FR": [
+        "Echange de données terminé!\n",
+        "Retour à la Salle Union."
       ]
     },
     {
@@ -83,34 +118,47 @@
       "en_US": [
         "If the leader quits, the group will\n",
         "disband. Is that OK?"
+      ],
+      "fr_FR": [
+        "Si le meneur part, le groupe\n",
+        "est dissous. Continuer?"
       ]
     },
     {
       "id": "pl_msg_00000533_00015",
-      "en_US": "{STRVAR_1 3, 0, 0} has left."
+      "en_US": "{STRVAR_1 3, 0, 0} has left.",
+      "fr_FR": "{STRVAR_1 3, 0, 0} est parti(e)."
     },
     {
       "id": "pl_msg_00000533_00016",
       "en_US": [
         "{STRVAR_1 1, 0, 0} the leader has left.\n",
         "The group will disband."
+      ],
+      "fr_FR": [
+        "Le meneur, {STRVAR_1 1, 0, 0}, est parti.\n",
+        "Ce groupe va être dissous."
       ]
     },
     {
       "id": "pl_msg_00000533_00017",
-      "en_US": "Seeking record-mixing friends!"
+      "en_US": "Seeking record-mixing friends!",
+      "fr_FR": "Recherche amis pour éch. de données!"
     },
     {
       "id": "pl_msg_00000533_00018",
-      "en_US": "Record mixing under way!"
+      "en_US": "Record mixing under way!",
+      "fr_FR": "Echange de données en cours!"
     },
     {
       "id": "pl_msg_00000533_00019",
-      "en_US": "Yes"
+      "en_US": "Yes",
+      "fr_FR": "Oui"
     },
     {
       "id": "pl_msg_00000533_00020",
-      "en_US": "No"
+      "en_US": "No",
+      "fr_FR": "Non"
     }
   ]
 }

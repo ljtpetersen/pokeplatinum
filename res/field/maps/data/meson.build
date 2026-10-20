@@ -1,7 +1,7 @@
 if get_option('version') == 'us_rev0' or get_option('version') == 'us_rev1'
 map_data_164 = 'map_data_164_us.bin'
 map_data_order = files('map_data_us.order')
-else
+elif get_option('version') == 'eu' or get_option('version') == 'fr'
 map_data_164 = 'map_data_164_eu.bin'
 map_data_order = files('map_data_eu.order')
 endif

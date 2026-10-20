@@ -28,5 +28,12 @@
   "battleUseCategory": "BATTLE_USE_CATEGORY_HEALING",
   "itemUseParams": {
     "hpRestored": 50
-  }
+  },
+  "name_fr": "Eau Fraîche",
+  "description_fr": [
+    "Une eau riche en minéraux.\n",
+    "Restaure 50 PV à un Pokémon."
+  ],
+  "plural_fr": "Eau Fraîche",
+  "article_fr": null
 }

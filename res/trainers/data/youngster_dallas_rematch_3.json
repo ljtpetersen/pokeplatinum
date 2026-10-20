@@ -51,11 +51,18 @@
                 "I’m always with my Pokémon.\r",
                 "Actually, you’re always with your\n",
                 "Pokémon too, aren’t you?\r"
+            ],
+            "fr_FR": [
+                "Je ne quitte jamais mes Pokémon.\r",
+                "Toi non plus, tu ne sors jamais\n",
+                "sans Pokémon, pas vrai?\r"
             ]
         },
         {
             "type": "TRMSG_DEFEAT",
-            "en_US": "I’m so beyond bummed out now...\n"
+            "en_US": "I’m so beyond bummed out now...\n",
+            "fr_FR": "Voilà que je retombe dans la déprime...\n"
         }
-    ]
+    ],
+    "name_fr": "Gavin"
 }

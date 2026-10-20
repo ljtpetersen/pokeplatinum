@@ -3,19 +3,23 @@
   "messages": [
     {
       "id": "pl_msg_00000385_00000",
-      "en_US": "DONE!"
+      "en_US": "DONE!",
+      "fr_FR": "OK"
     },
     {
       "id": "pl_msg_00000385_00001",
-      "en_US": "Is your Pokémon all dressed up?"
+      "en_US": "Is your Pokémon all dressed up?",
+      "fr_FR": "L’habillage du Pokémon est terminé?"
     },
     {
       "id": "pl_msg_00000385_00002",
-      "en_US": "Would you like to save this design?"
+      "en_US": "Would you like to save this design?",
+      "fr_FR": "Voulez-vous sauvegarder cette image?"
     },
     {
       "id": "pl_msg_00000385_00003",
-      "en_US": "There is no more space."
+      "en_US": "There is no more space.",
+      "fr_FR": "Il n’y a plus de place."
     },
     {
       "id": "pl_msg_00000385_00004",
@@ -27,55 +31,68 @@
     },
     {
       "id": "pl_msg_00000385_00006",
-      "en_US": "Theme: "
+      "en_US": "Theme: ",
+      "fr_FR": "Thème: "
     },
     {
       "id": "pl_msg_00000385_00007",
-      "en_US": "The Shapely"
+      "en_US": "The Shapely",
+      "fr_FR": "Le palpable"
     },
     {
       "id": "pl_msg_00000385_00008",
-      "en_US": "The Sharp"
+      "en_US": "The Sharp",
+      "fr_FR": "Le pointu"
     },
     {
       "id": "pl_msg_00000385_00009",
-      "en_US": "The Created"
+      "en_US": "The Created",
+      "fr_FR": "L’artificiel"
     },
     {
       "id": "pl_msg_00000385_00010",
-      "en_US": "The Natural"
+      "en_US": "The Natural",
+      "fr_FR": "Le naturel"
     },
     {
       "id": "pl_msg_00000385_00011",
-      "en_US": "The Colorful"
+      "en_US": "The Colorful",
+      "fr_FR": "La couleur"
     },
     {
       "id": "pl_msg_00000385_00012",
-      "en_US": "The Solid"
+      "en_US": "The Solid",
+      "fr_FR": "La solidité"
     },
     {
       "id": "pl_msg_00000385_00013",
-      "en_US": "The Bright"
+      "en_US": "The Bright",
+      "fr_FR": "La brillance"
     },
     {
       "id": "pl_msg_00000385_00014",
-      "en_US": "The Gaudy"
+      "en_US": "The Gaudy",
+      "fr_FR": "Le voyant"
     },
     {
       "id": "pl_msg_00000385_00015",
-      "en_US": "The Flexible"
+      "en_US": "The Flexible",
+      "fr_FR": "La flexibilité"
     },
     {
       "id": "pl_msg_00000385_00016",
-      "en_US": "The Festive"
+      "en_US": "The Festive",
+      "fr_FR": "La fête"
     },
     {
       "id": "pl_msg_00000385_00017",
-      "en_US": "The Intangible"
+      "en_US": "The Intangible",
+      "fr_FR": "L’impalpable"
     },
     {
       "id": "pl_msg_00000385_00018",
-      "en_US": "The Relaxed"
+      "en_US": "The Relaxed",
+      "fr_FR": "La détente"
     },
     {
       "id": "pl_msg_00000385_00019",
@@ -114,6 +131,14 @@
         "your Pokémon with Accessories.\r",
         "Match the theme and earn higher\n",
         "scores!\r"
+      ],
+      "fr_FR": [
+        "Les concurrents doivent se retirer\n",
+        "en coulisses!\r",
+        "Vous avez 60 secondes pour habiller\n",
+        "vos Pokémon avec des Accessoires.\r",
+        "Suivez le thème pour gagner plus de\n",
+        "points!\r"
       ]
     },
     {
@@ -129,6 +154,14 @@
         "your Pokémon with Accessories.\r",
         "Match your dress-up choices to the\n",
         "theme to score big points!\r"
+      ],
+      "fr_FR": [
+        "Commençons l’entraînement à\n",
+        "l’Epreuve de Style!\r",
+        "Utilisez l’écran tactile pour habiller\n",
+        "votre Pokémon avec des Accessoires.\r",
+        "Habillez votre Pokémon en suivant le\n",
+        "thème pour gagner plus de points!\r"
       ]
     },
     {
@@ -136,6 +169,10 @@
       "en_US": [
         "OK, our theme this time is...\n",
         "“The Shapely”!\r"
+      ],
+      "fr_FR": [
+        "Notre thème sera...\n",
+        "“Le palpable”!\r"
       ]
     },
     {
@@ -143,6 +180,10 @@
       "en_US": [
         "OK, our theme this time is...\n",
         "“The Sharp”!\r"
+      ],
+      "fr_FR": [
+        "Notre thème sera...\n",
+        "“Le pointu”!\r"
       ]
     },
     {
@@ -150,6 +191,10 @@
       "en_US": [
         "OK, our theme this time is...\n",
         "“The Created”!\r"
+      ],
+      "fr_FR": [
+        "Notre thème sera...\n",
+        "“L’artificiel”!\r"
       ]
     },
     {
@@ -157,6 +202,10 @@
       "en_US": [
         "OK, our theme this time is...\n",
         "“The Natural”!\r"
+      ],
+      "fr_FR": [
+        "Notre thème sera...\n",
+        "“Le naturel”!\r"
       ]
     },
     {
@@ -164,6 +213,10 @@
       "en_US": [
         "OK, our theme this time is...\n",
         "“The Colorful”!\r"
+      ],
+      "fr_FR": [
+        "Notre thème sera...\n",
+        "“La couleur”!\r"
       ]
     },
     {
@@ -171,6 +224,10 @@
       "en_US": [
         "OK, our theme this time is...\n",
         "“The Solid”!\r"
+      ],
+      "fr_FR": [
+        "Notre thème sera...\n",
+        "“La solidité”!\r"
       ]
     },
     {
@@ -178,6 +235,10 @@
       "en_US": [
         "OK, our theme this time is...\n",
         "“The Bright”!\r"
+      ],
+      "fr_FR": [
+        "Notre thème sera...\n",
+        "“La brillance”!\r"
       ]
     },
     {
@@ -185,6 +246,10 @@
       "en_US": [
         "OK, our theme this time is...\n",
         "“The Gaudy”!\r"
+      ],
+      "fr_FR": [
+        "Notre thème sera...\n",
+        "“Le voyant”!\r"
       ]
     },
     {
@@ -192,6 +257,10 @@
       "en_US": [
         "OK, our theme this time is...\n",
         "“The Flexible”!\r"
+      ],
+      "fr_FR": [
+        "Notre thème sera...\n",
+        "“La flexibilité”!\r"
       ]
     },
     {
@@ -199,6 +268,10 @@
       "en_US": [
         "OK, our theme this time is...\n",
         "“The Festive”!\r"
+      ],
+      "fr_FR": [
+        "Notre thème sera...\n",
+        "“La fête”!\r"
       ]
     },
     {
@@ -206,6 +279,10 @@
       "en_US": [
         "OK, our theme this time is...\n",
         "“The Intangible”!\r"
+      ],
+      "fr_FR": [
+        "Notre thème sera...\n",
+        "“L’impalpable”!\r"
       ]
     },
     {
@@ -213,6 +290,10 @@
       "en_US": [
         "OK, our theme this time is...\n",
         "“The Relaxed”!\r"
+      ],
+      "fr_FR": [
+        "Notre thème sera...\n",
+        "“La détente”!\r"
       ]
     },
     {
@@ -222,6 +303,12 @@
         "You are allowed {STRVAR_1 51, 0, 0} Accessories!\r",
         "Make sure they are securely set!\n",
         "Begin dressing up now!\r"
+      ],
+      "fr_FR": [
+        "Vous disposez de 60 secondes!\n",
+        "Vous avez droit à {STRVAR_1 51, 0, 0} Accessoires!\r",
+        "Assurez-vous qu’ils sont bien fixés!\n",
+        "Que la séance d’habillage commence!\r"
       ]
     },
     {
@@ -231,23 +318,33 @@
         "You are allowed {STRVAR_1 51, 0, 0} Accessories!\r",
         "Your fashion sense is on trial!\n",
         "Begin dressing up now!\r"
+      ],
+      "fr_FR": [
+        "Vous disposez de 60 secondes!\n",
+        "Vous avez droit à {STRVAR_1 51, 0, 0} Accessoires!\r",
+        "Montrez-nous votre sens de la mode!\n",
+        "Que la séance d’habillage commence!\r"
       ]
     },
     {
       "id": "pl_msg_00000385_00043",
-      "en_US": "{STRVAR_1 34, 0, 0} {STRVAR_1 35, 1, 0}"
+      "en_US": "{STRVAR_1 34, 0, 0} {STRVAR_1 35, 1, 0}",
+      "fr_FR": "{STRVAR_1 34, 0, 0} {STRVAR_1 35, 1, 0}"
     },
     {
       "id": "pl_msg_00000385_00044",
-      "en_US": "{STRVAR_1 3, 3, 0}’s {STRVAR_1 1, 4, 0}"
+      "en_US": "{STRVAR_1 3, 3, 0}’s {STRVAR_1 1, 4, 0}",
+      "fr_FR": "{STRVAR_1 1, 4, 0} de {STRVAR_1 3, 3, 0}"
     },
     {
       "id": "pl_msg_00000385_00045",
-      "en_US": "{STRVAR_1 28, 0, 0}"
+      "en_US": "{STRVAR_1 28, 0, 0}",
+      "fr_FR": "{STRVAR_1 28, 0, 0}"
     },
     {
       "id": "pl_msg_00000385_00046",
-      "en_US": "Communicating. Please stand by..."
+      "en_US": "Communicating. Please stand by...",
+      "fr_FR": "Communication en cours..."
     },
     {
       "id": "pl_msg_00000385_00047",
@@ -263,6 +360,20 @@
         "Change the background with the\n",
         "square button at the center right.\r",
         "OK? Let’s begin dressing up!"
+      ],
+      "fr_FR": [
+        "Les Accessoires se trouvent du côté\n",
+        "gauche de l’écran tactile.\r",
+        "Touchez un Accessoire, puis faites-le\n",
+        "glisser sur votre Pokémon à droite\f",
+        "et fixez-le bien.\r",
+        "Vous avez droit à dix Accessoires.\n",
+        "Utilisez les flèches pour les faire\f",
+        "défiler et trouver les bons.\r",
+        "Choisissez un Décor en appuyant sur le\n",
+        "bouton carré vers la droite.\r",
+        "C’est compris? On commence la\n",
+        "séance d’habillage!"
       ]
     },
     {

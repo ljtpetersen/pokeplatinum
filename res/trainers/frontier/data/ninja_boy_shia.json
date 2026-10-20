@@ -59,18 +59,25 @@
             "en_US": [
                 "You transgressor!\n",
                 "Hold still, I say!"
-            ]
+            ],
+            "fr_FR": "Halte-là, vermine!"
         },
         {
             "type": "TRMSG_WIN",
-            "en_US": "I willed myself to victory!\r"
+            "en_US": "I willed myself to victory!\r",
+            "fr_FR": "J’étais concentré sur la victoire!\r"
         },
         {
             "type": "TRMSG_DEFEAT",
             "en_US": [
                 "C-curses...\n",
                 "I’ve brought dishonor on us...\r"
+            ],
+            "fr_FR": [
+                "Non! Tu as couvert mon nom de\n",
+                "déshonneur!\r"
             ]
         }
-    ]
+    ],
+    "name_fr": "Stan"
 }

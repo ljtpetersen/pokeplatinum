@@ -27,6 +27,11 @@
                 "overseas.\r",
                 "I’m very well off, if you haven’t\n",
                 "noticed!\r"
+            ],
+            "fr_FR": [
+                "Notre Pokémon dort sur un matelas\n",
+                "que j’ai fait venir de l’étranger.\r",
+                "Eh oui, nous sommes si riches que ça!\r"
             ]
         },
         {
@@ -35,6 +40,12 @@
                 "What? Over already?\n",
                 "Well, that’s fine.\f",
                 "Rich people like me don’t fight.\n"
+            ],
+            "fr_FR": [
+                "Comment? C’est déjà fini?\n",
+                "Peu importe.\r",
+                "Les gens aussi riches que nous ne\n",
+                "devraient même pas se battre.\n"
             ]
         },
         {
@@ -44,6 +55,12 @@
                 "My Pokémon is worn out.\r",
                 "I’d better let it sleep it off in the\n",
                 "bed I had sent from overseas.\n"
+            ],
+            "fr_FR": [
+                "Oh, non.\n",
+                "Notre Pokémon n’en peut plus.\r",
+                "Nous devrions le laisser se reposer sur\n",
+                "notre superbe matelas d’importation.\n"
             ]
         },
         {
@@ -51,7 +68,12 @@
             "en_US": [
                 "I do this only because I love my\n",
                 "Pokémon. Winning isn’t that important.\r"
+            ],
+            "fr_FR": [
+                "Tout ça, nous le faisons par amour de\n",
+                "notre Pokémon. La victoire importe peu.\r"
             ]
         }
-    ]
+    ],
+    "name_fr": "Wilfried"
 }

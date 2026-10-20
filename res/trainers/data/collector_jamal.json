@@ -23,11 +23,16 @@
             "en_US": [
                 "To find my favorite Pokémon, I’ll go\n",
                 "east, west, or any which way!\r"
+            ],
+            "fr_FR": [
+                "Pour trouver mon Pokémon préféré,\n",
+                "j’irai à l’est, à l’ouest, au fil du vent!\r"
             ]
         },
         {
             "type": "TRMSG_DEFEAT",
-            "en_US": "But they’re rare Pokémon!\n"
+            "en_US": "But they’re rare Pokémon!\n",
+            "fr_FR": "Mais c’est un Pokémon rare!\n"
         },
         {
             "type": "TRMSG_POST_BATTLE",
@@ -36,6 +41,12 @@
                 "you want, you need to go everywhere!\r",
                 "Not just east and west, either.\n",
                 "South and north are important, too!"
+            ],
+            "fr_FR": [
+                "Si tu veux trouver un Pokémon précis,\n",
+                "il te faudra aller partout!\r",
+                "Pas simplement à l’est ou à l’ouest. Le\n",
+                "sud et le nord sont aussi importants!"
             ]
         },
         {
@@ -45,7 +56,14 @@
                 "east, west, or any which way!\r",
                 "...Saying that, I’ve been wandering\n",
                 "around here all this time.\r"
+            ],
+            "fr_FR": [
+                "Pour trouver mon Pokémon préféré,\n",
+                "j’irai à l’est, à l’ouest, au fil du vent!\r",
+                "... En même temps, j’ai passé tout mon\n",
+                "temps à traîner dans le coin.\r"
             ]
         }
-    ]
+    ],
+    "name_fr": "Rémi"
 }

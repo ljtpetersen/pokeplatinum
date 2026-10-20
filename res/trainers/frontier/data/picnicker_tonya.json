@@ -77,6 +77,10 @@
             "en_US": [
                 "Fweeoo-fwee-fwee-fyoo...\n",
                 "I saunter into battle, whistling..."
+            ],
+            "fr_FR": [
+                "Ffffuit! Fffuuuuiiiit!\n",
+                "Siffler en combattant, j’adore ça!"
             ]
         },
         {
@@ -84,6 +88,10 @@
             "en_US": [
                 "Too easy! I was whistling all the way\n",
                 "through that.\r"
+            ],
+            "fr_FR": [
+                "Trop facile! Est-ce que mon\n",
+                "sifflement a gêné ta concentration?\r"
             ]
         },
         {
@@ -91,7 +99,12 @@
             "en_US": [
                 "Fwee-ooo fwee-ooo fwee-ooo...\n",
                 "I switched to an ambulance siren...\r"
+            ],
+            "fr_FR": [
+                "Ffffffffff... Fffff...\n",
+                "Je n’ai plus la force de siffler...\r"
             ]
         }
-    ]
+    ],
+    "name_fr": "Tonya"
 }

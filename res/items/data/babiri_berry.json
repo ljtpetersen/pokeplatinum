@@ -39,5 +39,13 @@
     "bitterness": 0,
     "sourness": 0,
     "smoothness": 35
-  }
+  },
+  "name_fr": "Baie Babiri",
+  "description_fr": [
+    "Ingrédient pour Poffin. Tenue, cette\n",
+    "Baie affaiblit une attaque ennemie super\n",
+    "efficace de type Acier."
+  ],
+  "plural_fr": "Baie Babiri",
+  "article_fr": null
 }

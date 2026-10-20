@@ -85,6 +85,10 @@
             "en_US": [
                 "Raising Pokémon with love isn’t the same\n",
                 "as coddling them. Don’t you see?"
+            ],
+            "fr_FR": [
+                "Les Pokémon ont besoin d’amour, mais il\n",
+                "ne faut pas les étouffer!"
             ]
         },
         {
@@ -92,14 +96,20 @@
             "en_US": [
                 "Ooh, you did it! Oh, I love you so!\n",
                 "My luvly, wuvly Pokémon!\r"
-            ]
+            ],
+            "fr_FR": "Oh! J’ai réussi! Bravo!\r"
         },
         {
             "type": "TRMSG_DEFEAT",
             "en_US": [
                 "How could you?!\n",
                 "What if my Pokémon are injured?!\r"
+            ],
+            "fr_FR": [
+                "Quelle brutalité! Tu pourrais faire\n",
+                "preuve d’un peu de délicatesse.\r"
             ]
         }
-    ]
+    ],
+    "name_fr": "Sélène"
 }

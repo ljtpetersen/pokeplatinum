@@ -24,5 +24,13 @@
     "contest": {
         "effect": "CONTEST_EFFECT_FIRST_PERFORMANCE_ADVANTAGE",
         "type": "CONTEST_TYPE_COOL"
-    }
+    },
+    "name_fr": "Carnareket",
+    "description_fr": [
+        "Le lanceur génère\n",
+        "une sphère lumineuse\n",
+        "qu’il projette sur\n",
+        "l’ennemi 2 tours\n",
+        "plus tard."
+    ]
 }

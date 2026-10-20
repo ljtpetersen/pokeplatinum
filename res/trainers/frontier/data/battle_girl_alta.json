@@ -57,6 +57,10 @@
             "en_US": [
                 "First, let’s battle.\n",
                 "Talking can wait."
+            ],
+            "fr_FR": [
+                "D’abord, on se bat.\n",
+                "Ensuite, on discute."
             ]
         },
         {
@@ -64,6 +68,10 @@
             "en_US": [
                 "That wasn’t bad at all, yup.\n",
                 "That goes for you and your Pokémon.\r"
+            ],
+            "fr_FR": [
+                "Tu as prouvé ta valeur malgré tout.\n",
+                "Je te félicite.\r"
             ]
         },
         {
@@ -71,7 +79,12 @@
             "en_US": [
                 "You’re a tough one, yup.\n",
                 "Where do you do your training?\r"
+            ],
+            "fr_FR": [
+                "Tu es coriace, dis donc. Où est-ce que\n",
+                "tu t’entraînes?\r"
             ]
         }
-    ]
+    ],
+    "name_fr": "Laure"
 }

@@ -32,18 +32,28 @@
             "en_US": [
                 "So sorry, sweetie.\n",
                 "Team Galactic has no room for kiddies!\r"
+            ],
+            "fr_FR": [
+                "Désolée, mon chou. Il n’y a pas de place\n",
+                "pour les enfants dans la Team Galaxie!\r"
             ]
         },
         {
             "type": "TRMSG_DEFEAT",
-            "en_US": "B-but, deary, you’re just a kid!\n"
+            "en_US": "B-but, deary, you’re just a kid!\n",
+            "fr_FR": "Mais, mon chou, tu es si jeune!\n"
         },
         {
             "type": "TRMSG_POST_BATTLE",
             "en_US": [
                 "You wanted to go up?\n",
                 "Well, why didn’t you?\n"
+            ],
+            "fr_FR": [
+                "Tu voulais monter?\n",
+                "Eh bien, pourquoi tu ne l’as pas fait?\n"
             ]
         }
-    ]
+    ],
+    "name_fr": "Sbire"
 }

@@ -7,7 +7,10 @@
         "special_attack": 95,
         "special_defense": 79
     },
-    "types": [ "TYPE_ELECTRIC", "TYPE_ELECTRIC" ],
+    "types": [
+        "TYPE_ELECTRIC",
+        "TYPE_ELECTRIC"
+    ],
     "catch_rate": 45,
     "base_exp_reward": 194,
     "ev_yields": {
@@ -26,27 +29,72 @@
     "hatch_cycles": 20,
     "base_friendship": 70,
     "exp_rate": "EXP_RATE_MEDIUM_SLOW",
-    "egg_groups": [ "EGG_GROUP_FIELD", "EGG_GROUP_FIELD" ],
-    "abilities": [ "ABILITY_RIVALRY", "ABILITY_INTIMIDATE" ],
+    "egg_groups": [
+        "EGG_GROUP_FIELD",
+        "EGG_GROUP_FIELD"
+    ],
+    "abilities": [
+        "ABILITY_RIVALRY",
+        "ABILITY_INTIMIDATE"
+    ],
     "safari_flee_rate": 0,
     "body_color": "MON_COLOR_BLUE",
     "flip_sprite": false,
     "icon_palette": 0,
     "learnset": {
         "by_level": [
-            [ 1, "MOVE_TACKLE" ],
-            [ 1, "MOVE_LEER" ],
-            [ 1, "MOVE_CHARGE" ],
-            [ 5, "MOVE_LEER" ],
-            [ 9, "MOVE_CHARGE" ],
-            [ 13, "MOVE_SPARK" ],
-            [ 18, "MOVE_BITE" ],
-            [ 23, "MOVE_ROAR" ],
-            [ 28, "MOVE_SWAGGER" ],
-            [ 35, "MOVE_THUNDER_FANG" ],
-            [ 42, "MOVE_CRUNCH" ],
-            [ 49, "MOVE_SCARY_FACE" ],
-            [ 56, "MOVE_DISCHARGE" ]
+            [
+                1,
+                "MOVE_TACKLE"
+            ],
+            [
+                1,
+                "MOVE_LEER"
+            ],
+            [
+                1,
+                "MOVE_CHARGE"
+            ],
+            [
+                5,
+                "MOVE_LEER"
+            ],
+            [
+                9,
+                "MOVE_CHARGE"
+            ],
+            [
+                13,
+                "MOVE_SPARK"
+            ],
+            [
+                18,
+                "MOVE_BITE"
+            ],
+            [
+                23,
+                "MOVE_ROAR"
+            ],
+            [
+                28,
+                "MOVE_SWAGGER"
+            ],
+            [
+                35,
+                "MOVE_THUNDER_FANG"
+            ],
+            [
+                42,
+                "MOVE_CRUNCH"
+            ],
+            [
+                49,
+                "MOVE_SCARY_FACE"
+            ],
+            [
+                56,
+                "MOVE_DISCHARGE"
+            ]
         ],
         "by_tm": [
             "TM05",
@@ -90,7 +138,7 @@
             "MOVE_SWIFT"
         ]
     },
-    "evolutions": [  ],
+    "evolutions": [],
     "offspring": "SPECIES_SHINX",
     "footprint": {
         "has": true,
@@ -113,9 +161,9 @@
             "name": "LUXRAY",
             "category": "Gleam Eyes Pokémon",
             "entry_text": [
-                "It can see clearly through walls\n",
-                "to track down its prey and seek\n",
-                "its lost young."
+                "It has eyes that can see through\n",
+                "anything. It spots and captures\n",
+                "prey hiding behind objects."
             ]
         },
         "fr": {
@@ -161,6 +209,18 @@
                 "あらゆるものを　とうししてしまう\n",
                 "めを　もつ。ものかげに　かくれた\n",
                 "えものを　みつけて　とらえる。"
+            ]
+        },
+        "local_version": {
+            "entry_text": [
+                "It can see clearly through walls\n",
+                "to track down its prey and seek\n",
+                "its lost young."
+            ],
+            "entry_text_fr": [
+                "Il est capable de voir à travers\n",
+                "les murs pour chasser des proies\n",
+                "ou retrouver ses petits égarés."
             ]
         }
     },

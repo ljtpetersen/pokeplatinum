@@ -3,83 +3,103 @@
   "messages": [
     {
       "id": "pl_msg_00000603_00000",
-      "en_US": "Table"
+      "en_US": "Table",
+      "fr_FR": "Table"
     },
     {
       "id": "pl_msg_00000603_00001",
-      "en_US": "Big Sofa"
+      "en_US": "Big Sofa",
+      "fr_FR": "Grand canapé"
     },
     {
       "id": "pl_msg_00000603_00002",
-      "en_US": "Small Sofa"
+      "en_US": "Small Sofa",
+      "fr_FR": "Petit canapé"
     },
     {
       "id": "pl_msg_00000603_00003",
-      "en_US": "Bed"
+      "en_US": "Bed",
+      "fr_FR": "Lit"
     },
     {
       "id": "pl_msg_00000603_00004",
-      "en_US": "Night Table"
+      "en_US": "Night Table",
+      "fr_FR": "Table de nuit"
     },
     {
       "id": "pl_msg_00000603_00005",
-      "en_US": "TV"
+      "en_US": "TV",
+      "fr_FR": "TV"
     },
     {
       "id": "pl_msg_00000603_00006",
-      "en_US": "Audio System"
+      "en_US": "Audio System",
+      "fr_FR": "Chaîne stéréo"
     },
     {
       "id": "pl_msg_00000603_00007",
-      "en_US": "Bookshelf"
+      "en_US": "Bookshelf",
+      "fr_FR": "Bibliothèque"
     },
     {
       "id": "pl_msg_00000603_00008",
-      "en_US": "Rack"
+      "en_US": "Rack",
+      "fr_FR": "Etagère"
     },
     {
       "id": "pl_msg_00000603_00009",
-      "en_US": "Houseplant"
+      "en_US": "Houseplant",
+      "fr_FR": "Plante"
     },
     {
       "id": "pl_msg_00000603_00010",
-      "en_US": "PC Desk"
+      "en_US": "PC Desk",
+      "fr_FR": "Meuble PC"
     },
     {
       "id": "pl_msg_00000603_00011",
-      "en_US": "Music Box"
+      "en_US": "Music Box",
+      "fr_FR": "Boîte musicale"
     },
     {
       "id": "pl_msg_00000603_00012",
-      "en_US": "Pokémon Bust"
+      "en_US": "Pokémon Bust",
+      "fr_FR": "Statue Pokémon"
     },
     {
       "id": "pl_msg_00000603_00013",
-      "en_US": "Pokémon Bust"
+      "en_US": "Pokémon Bust",
+      "fr_FR": "Statue Pokémon"
     },
     {
       "id": "pl_msg_00000603_00014",
-      "en_US": "Piano"
+      "en_US": "Piano",
+      "fr_FR": "Piano"
     },
     {
       "id": "pl_msg_00000603_00015",
-      "en_US": "Guest Set"
+      "en_US": "Guest Set",
+      "fr_FR": "Table d’hôte"
     },
     {
       "id": "pl_msg_00000603_00016",
-      "en_US": "Wall Clock"
+      "en_US": "Wall Clock",
+      "fr_FR": "Horloge"
     },
     {
       "id": "pl_msg_00000603_00017",
-      "en_US": "Masterpiece"
+      "en_US": "Masterpiece",
+      "fr_FR": "Chef-d’œuvre"
     },
     {
       "id": "pl_msg_00000603_00018",
-      "en_US": "Tea Set"
+      "en_US": "Tea Set",
+      "fr_FR": "Service à thé"
     },
     {
       "id": "pl_msg_00000603_00019",
-      "en_US": "Chandelier"
+      "en_US": "Chandelier",
+      "fr_FR": "Lustre"
     }
   ]
 }

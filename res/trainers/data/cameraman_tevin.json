@@ -32,7 +32,12 @@
             "en_US": [
                 "My camera’s too heavy.\n",
                 "I couldn’t battle effectively...\n"
+            ],
+            "fr_FR": [
+                "Ma caméra est trop lourde.\n",
+                "Elle me gêne au combat..."
             ]
         }
-    ]
+    ],
+    "name_fr": "Jo"
 }

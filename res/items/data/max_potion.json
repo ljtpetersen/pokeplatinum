@@ -28,5 +28,12 @@
   "battleUseCategory": "BATTLE_USE_CATEGORY_HEALING",
   "itemUseParams": {
     "hpRestored": -1
-  }
+  },
+  "name_fr": "Potion Max",
+  "description_fr": [
+    "Un spray qui soigne les blessures.\n",
+    "Restaure tous les PV d’un Pokémon."
+  ],
+  "plural_fr": "Potion Max",
+  "article_fr": null
 }

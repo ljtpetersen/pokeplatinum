@@ -27,5 +27,13 @@
   "fieldUseFunc": "ITEM_USE_FUNC_TM_HM",
   "battleUseCategory": "BATTLE_USE_CATEGORY_NONE",
   "itemUseParams": null,
-  "teachesMove": "MOVE_TOXIC"
+  "teachesMove": "MOVE_TOXIC",
+  "name_fr": "CT06",
+  "description_fr": [
+    "Empoisonne gravement l’ennemi. Les\n",
+    "dégâts dus au poison augmentent à\n",
+    "chaque tour."
+  ],
+  "plural_fr": "CT06",
+  "article_fr": null
 }

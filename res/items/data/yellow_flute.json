@@ -28,5 +28,13 @@
   "battleUseCategory": "BATTLE_USE_CATEGORY_NONE",
   "itemUseParams": {
     "healConfusion": true
-  }
+  },
+  "name_fr": "Flûte Jaune",
+  "description_fr": [
+    "Une flûte en verre soufflé jaune dont\n",
+    "les notes sortent un Pokémon de sa\n",
+    "confusion."
+  ],
+  "plural_fr": "Flûte Jaune",
+  "article_fr": null
 }

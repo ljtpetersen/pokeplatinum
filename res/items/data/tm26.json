@@ -27,5 +27,13 @@
   "fieldUseFunc": "ITEM_USE_FUNC_TM_HM",
   "battleUseCategory": "BATTLE_USE_CATEGORY_NONE",
   "itemUseParams": null,
-  "teachesMove": "MOVE_EARTHQUAKE"
+  "teachesMove": "MOVE_EARTHQUAKE",
+  "name_fr": "CT26",
+  "description_fr": [
+    "Le lanceur provoque un tremblement\n",
+    "de terre touchant tous les autres\n",
+    "Pokémon au combat."
+  ],
+  "plural_fr": "CT26",
+  "article_fr": null
 }

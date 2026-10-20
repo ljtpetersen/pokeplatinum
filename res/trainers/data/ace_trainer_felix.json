@@ -41,13 +41,18 @@
     "messages": [
         {
             "type": "TRMSG_PRE_BATTLE",
-            "en_US": "Welcome to my Pokémon show!\r"
+            "en_US": "Welcome to my Pokémon show!\r",
+            "fr_FR": "Bienvenue au spectacle Pokémon!\r"
         },
         {
             "type": "TRMSG_DEFEAT",
             "en_US": [
                 "Did you enjoy the show?\n",
                 "Super fabulous, wasn’t it?\n"
+            ],
+            "fr_FR": [
+                "Le spectacle t’a plu?\n",
+                "Captivant, pas vrai?\n"
             ]
         },
         {
@@ -55,11 +60,20 @@
             "en_US": [
                 "I’ll be happy to battle you again!\n",
                 "Let’s battle again sometime, yeah?"
+            ],
+            "fr_FR": [
+                "J’aimerais te combattre à nouveau!\n",
+                "On recommencera, pas vrai?"
             ]
         },
         {
             "type": "TRMSG_REMATCH",
-            "en_US": "Welcome to my new Pokémon show!\r"
+            "en_US": "Welcome to my new Pokémon show!\r",
+            "fr_FR": [
+                "Bienvenue au nouveau spectacle\n",
+                "Pokémon!\r"
+            ]
         }
-    ]
+    ],
+    "name_fr": "Esteban"
 }

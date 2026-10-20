@@ -27,5 +27,13 @@
     "contest": {
         "effect": "CONTEST_EFFECT_MAX_VOLTAGE_ADVANTAGE",
         "type": "CONTEST_TYPE_COOL"
-    }
+    },
+    "name_fr": "Végé-Attak",
+    "description_fr": [
+        "Un violent coup de\n",
+        "racines s’abat sur\n",
+        "l’ennemi. Immobilise\n",
+        "le lanceur au tour\n",
+        "suivant."
+    ]
 }

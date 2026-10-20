@@ -13,6 +13,17 @@
         "myself.\r",
         "The name’s Flint! I’m one of\n",
         "the Pokémon League’s Elite Four!\r"
+      ],
+      "fr_FR": [
+        "Yo!\n",
+        "Collègue Dresseur!\r",
+        "Tes Pokémon ont beau être enfermés \n",
+        "dans leurs Poké Balls, je peux sentir\f",
+        "leur force d’ici!\r",
+        "Oups, excuse-moi, je ne \n",
+        "me suis pas présenté.\r",
+        "Je suis Adrien, membre du \n",
+        "Conseil 4 de la Ligue Pokémon!\r"
       ]
     },
     {
@@ -34,6 +45,26 @@
         "that’s so hot, it will reignite his\f",
         "passion for battling.\r",
         "I’m counting on you, hotshot!\r"
+      ],
+      "fr_FR": [
+        "Tiens, j’ai une idée. \n",
+        "Et tu vas pouvoir m’aider.\r",
+        "C’est à propos du \n",
+        "Champion de cette Arène...\r",
+        "Il a totalement perdu goût au combat.\n",
+        "Il est en manque de bons Dresseurs\f",
+        "à affronter.\r",
+        "Il s’ennuie tellement qu’il passe tout \n",
+        "son temps à retaper l’Arène.\r",
+        "Sans parler de la grande coupure de \n",
+        "courant, qui n’a rien arrangé.\r",
+        "Tu commences à comprendre \n",
+        "où je veux en venir?\r",
+        "Je veux que tu lui donnes l’occasion de \n",
+        "participer à un combat spectaculaire et\r",
+        "passionnant, qui pourrait lui\n",
+        "redonner le goût de combattre.\r",
+        "Je compte sur toi, l’artiste!\r"
       ]
     },
     {
@@ -46,6 +77,15 @@
         "Give him a battle that’s so hot, it\n",
         "will reignite his passion for battling!\r",
         "I’m counting on you, hotshot!"
+      ],
+      "fr_FR": [
+        "Adrien: Eh, salut!\n",
+        "Il n’est pas encore revenu.\r",
+        "Mais à son retour, tu sais \n",
+        "ce que tu as à faire.\r",
+        "Ravive la flamme qui s’est éteinte en \n",
+        "lui, redonne-lui le goût du combat!\r",
+        "Je compte sur toi, l’artiste!"
       ]
     },
     {
@@ -64,6 +104,19 @@
         "will reignite his passion for battling!\r",
         "All right, hotshot! I’ll be waiting at\n",
         "the Pokémon League!\r"
+      ],
+      "fr_FR": [
+        "Adrien: Eh, l’artiste!\n",
+        "Ça y est, il est revenu!\r",
+        "Et il a plutôt l’air de bonne humeur. Je \n",
+        "crois qu’il a tout de suite vu ta valeur.\r",
+        "Il doit être impatient de t’affronter. \n",
+        "Tu sais ce que tu dois faire, l’artiste.\r",
+        "Mets le feu à l’Arène avec tes \n",
+        "techniques embrasées pour raviver\f",
+        "en lui la flamme du combat!\r",
+        "Allez, je te laisse à ta mission.\n",
+        "On se voit à la Ligue Pokémon!\r"
       ]
     },
     {
@@ -78,6 +131,15 @@
         "...Er...um...\n",
         "It would be nice if you knew about\f",
         "the Johto region...\r"
+      ],
+      "fr_FR": [
+        "Euh... hum... Mon nom est Jasmine,\n",
+        "et je suis Champion d’Arène.\r",
+        "Oh, pardon, pas de cette ville, mais \n",
+        "d’une autre, dans la région de Johto...\r",
+        "Euh... hum...\n",
+        "Tu n’as jamais entendu parler de\f",
+        "Johto, pas vrai...?\r"
       ]
     },
     {
@@ -85,11 +147,16 @@
       "en_US": [
         "Oh, if you don’t have the Gym Badge,\n",
         "you’ll be forced to turn back."
+      ],
+      "fr_FR": [
+        "Oh, si tu n’as pas le Badge d’Arène, \n",
+        "tu vas devoir faire demi-tour."
       ]
     },
     {
       "id": "SunyshoreCity_Text_ThisIsntMuchBut",
-      "en_US": "This isn’t much, but...\r"
+      "en_US": "This isn’t much, but...\r",
+      "fr_FR": "Ce n’est pas grand-chose, mais...\r"
     },
     {
       "id": "SunyshoreCity_Text_ThatHMContainsWaterfall",
@@ -100,6 +167,14 @@
         "Pokémon League.\r",
         "...Um... I... I don’t know how I should\n",
         "say this, but good luck.\r"
+      ],
+      "fr_FR": [
+        "Cette Capsule Secrète...\n",
+        "Elle contient Cascade.\r",
+        "Grâce à elle, tu pourras avoir \n",
+        "accès à la Ligue Pokémon.\r",
+        "Euh... Je... je ne sais pas quoi dire... \n",
+        "B-Bonne chance...\r"
       ]
     },
     {
@@ -109,6 +184,11 @@
         "at home somehow.\r",
         "It’s next to the sea, and there’s\n",
         "a lighthouse...\r"
+      ],
+      "fr_FR": [
+        "Jasmine: Cette ville... \n",
+        "Je m’y sens un peu chez moi.\r",
+        "C’est près de la mer, il y a un phare...\r"
       ]
     },
     {
@@ -120,6 +200,14 @@
         "people with their Pokémon...\r",
         "They all looked like they were having\n",
         "fun. I felt happy seeing it."
+      ],
+      "fr_FR": [
+        "Jasmine: Je suis venue de très loin \n",
+        "pour... améliorer mon niveau.\r",
+        "J’ai rencontré des tas de \n",
+        "gens et de Pokémon différents...\r",
+        "Et... ils avaient tous l’air \n",
+        "de beaucoup s’amuser. "
       ]
     },
     {
@@ -133,6 +221,17 @@
         "Aww, you...\n",
         "That’s wicked! I envy you!\r",
         "But don’t think you’ve won!\r"
+      ],
+      "fr_FR": [
+        "{STRVAR_1 3, 0, 0}: Hé!\n",
+        "{STRVAR_1 3, 1, 0}!\r",
+        "Qu’est-ce que...\r",
+        "Tu as réussi à obtenir les huit\n",
+        "Badges d’Arène de Sinnoh!\r",
+        "Décidément...\n",
+        "C’est la classe! Comme je t’envie!\r",
+        "Mais ne va pas t’imaginer que tu as\n",
+        "gagné la partie!\r"
       ]
     },
     {
@@ -148,6 +247,19 @@
         "I thought about what Pokémon are.\r",
         "We’re going to get tougher one step at\n",
         "a time!\r"
+      ],
+      "fr_FR": [
+        "C’est moi qui vais devenir le meilleur\n",
+        "Dresseur de tous les temps! Crois-moi!\r",
+        "Avant, j’étais un doux rêveur, je\n",
+        "voulais juste marcher sur les traces\f",
+        "de mon père.\r",
+        "Mais tout a changé depuis.\r",
+        "J’ai bien réfléchi à ce qu’implique\n",
+        "le métier de Dresseur.\r",
+        "Et aussi à ce que sont les Pokémon.\r",
+        "Moi et mon équipe, on va s’endurcir\n",
+        "étape par étape!\r"
       ]
     },
     {
@@ -165,6 +277,20 @@
         "catch up to you in no time.\r",
         "If you don’t hurry to the Pokémon\n",
         "League, I’ll leave you in my wake!\r"
+      ],
+      "fr_FR": [
+        "Je ne vais pas te défier dans l’immédiat.\r",
+        "Je dois l’avouer, tu es trop coriace\n",
+        "pour moi.\r",
+        "Mais pas tant que ça.\n",
+        "Juste un peu.\r",
+        "Disons que tu as... un mètre d’avance\n",
+        "sur moi?\r",
+        "Nan, à peine un centimètre!\r",
+        "Bref, ce que je veux dire, c’est que je\n",
+        "vais vite te rattraper.\r",
+        "Dépêche-toi d’aller à la Ligue Pokémon\n",
+        "avant que je ne te grille la politesse!\r"
       ]
     },
     {
@@ -183,6 +309,20 @@
         "seeing you two.\r",
         "It may seem odd, but I’d like you to\n",
         "have this as my thanks.\r"
+      ],
+      "fr_FR": [
+        "Jasmine: C’est ton ami?\r",
+        "Votre complicité fait vraiment plaisir\n",
+        "à voir.\r",
+        "Ce doit être merveilleux d’avoir un ami\n",
+        "aussi proche.\r",
+        "Quelqu’un avec qui tout partager.\r",
+        "Avec qui compétition ne rime pas avec\n",
+        "opposition.\r",
+        "Hum... vous voir tous les deux me\n",
+        "réchauffe le cœur.\r",
+        "Aussi étrange que ça puisse paraître,\n",
+        "je veux te donner ça pour te remercier.\r"
       ]
     },
     {
@@ -194,6 +334,10 @@
       "en_US": [
         "That giant rock...\n",
         "Isn’t it really a Pokémon?"
+      ],
+      "fr_FR": [
+        "Cet immense rocher...\n",
+        "Et si c’était en fait un Pokémon?"
       ]
     },
     {
@@ -207,6 +351,12 @@
         "electricity!\r",
         "He needs to think about the city’s\n",
         "power needs, too!"
+      ],
+      "fr_FR": [
+        "Ce Champion d’Arène utilise \n",
+        "trop d’électricité!\r",
+        "Il devrait penser à la consommation\n",
+        "d’énergie de la ville, aussi."
       ]
     },
     {
@@ -218,6 +368,16 @@
         "city’s roads into giant solar panels.\r",
         "Sunyshore is the Sunshine City, so\n",
         "the system works perfectly."
+      ],
+      "fr_FR": [
+        "Notre ville consomme beaucoup \n",
+        "d’électricité, surtout l’Arène\f",
+        "et le phare.\r",
+        "Ils ont donc décidé de transformer \n",
+        "une partie des routes en panneaux\f",
+        "solaires géants!\r",
+        "Après tout, Rivamar est la ville\n",
+        "du soleil!"
       ]
     },
     {
@@ -227,6 +387,12 @@
         "And...\r",
         "It’s the gateway to the Pokémon\n",
         "League."
+      ],
+      "fr_FR": [
+        "Cette ville côtière est très\n",
+        "fréquentée...\r",
+        "Mais elle est surtout le point de \n",
+        "départ vers la Ligue Pokémon."
       ]
     },
     {
@@ -235,6 +401,11 @@
         "Whatever the environment, people\n",
         "and Pokémon adapt to live there.\r",
         "That’s what we all do to survive."
+      ],
+      "fr_FR": [
+        "Quel que soit l’environnement, les \n",
+        "hommes et les Pokémon s’adaptent\f",
+        "toujours. C’est un moyen de survie."
       ]
     },
     {
@@ -242,6 +413,10 @@
       "en_US": [
         "Sunyshore City\n",
         "Solar Powered!"
+      ],
+      "fr_FR": [
+        "Rivamar\n",
+        "Marche à l’énergie solaire"
       ]
     },
     {
@@ -250,6 +425,11 @@
         "Sunyshore City Pokémon Gym\n",
         "Leader: Volkner\f",
         "The Shining, Shocking Star"
+      ],
+      "fr_FR": [
+        "Arène Pokémon de Rivamar\n",
+        "Champion: Tanguy\f",
+        "Etoile étincelante, Dresseur éclairé!"
       ]
     },
     {
@@ -257,6 +437,10 @@
       "en_US": [
         "Vista Lighthouse\n",
         "The Beacon That Lights Sinnoh"
+      ],
+      "fr_FR": [
+        "Phare Panorama\n",
+        "L’astre qui éclaire Sinnoh!"
       ]
     },
     {
@@ -264,6 +448,10 @@
       "en_US": [
         "Sunyshore Market\n",
         "A Selection of the World’s Seals"
+      ],
+      "fr_FR": [
+        "Marché de Rivamar\n",
+        "Le plus grand choix de Sceaux!"
       ]
     },
     {
@@ -271,17 +459,26 @@
       "en_US": [
         "Julia’s House\n",
         "Delightful Ribbons for Pokémon"
+      ],
+      "fr_FR": [
+        "Maison de Claudie\n",
+        "Adorables Rubans pour Pokémon!"
       ]
     },
     {
       "id": "SunyshoreCity_Text_SignBlank",
-      "en_US": "It’s a blank sign painted white."
+      "en_US": "It’s a blank sign painted white.",
+      "fr_FR": "Un panneau blanc, sans aucun texte."
     },
     {
       "id": "SunyshoreCity_Text_SignPokemonRock",
       "en_US": [
         "Pokémon Rock\n",
         "Sunyshore’s Heritage Site"
+      ],
+      "fr_FR": [
+        "Rocher Pokémon\n",
+        "Site historique de Rivamar."
       ]
     }
   ]

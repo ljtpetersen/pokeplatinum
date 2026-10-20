@@ -23,6 +23,10 @@
             "en_US": [
                 "I’m warmed up and limber.\n",
                 "I’m OK to battle!\r"
+            ],
+            "fr_FR": [
+                "J’ai fini de m’échauffer, je suis chaud.\n",
+                "Je suis prêt à combattre!\r"
             ]
         },
         {
@@ -30,6 +34,10 @@
             "en_US": [
                 "...Oh, serious woe.\n",
                 "I wasn’t prepared emotionally for this.\n"
+            ],
+            "fr_FR": [
+                "Euh...\n",
+                "J’étais pas préparé émotionnellement.\n"
             ]
         },
         {
@@ -37,6 +45,10 @@
             "en_US": [
                 "I wish I could just run from all this...\n",
                 "Just joking.\n"
+            ],
+            "fr_FR": [
+                "Je devrais peut-être m’enfuir à toutes\n",
+                "jambes. Rien ne me réussit ici."
             ]
         },
         {
@@ -44,6 +56,10 @@
             "en_US": [
                 "I’m going to keep running.\n",
                 "Just as long as there’s a road...\n"
+            ],
+            "fr_FR": [
+                "Je vais continuer à courir.\n",
+                "Tant qu’il y aura des routes...\n"
             ]
         },
         {
@@ -52,7 +68,13 @@
                 "I’ve been training so I can have\n",
                 "a rematch with you.\r",
                 "I’m OK to battle!\r"
+            ],
+            "fr_FR": [
+                "Je me suis entraîné pour pouvoir\n",
+                "prendre ma revanche.\r",
+                "Je suis prêt à combattre!\r"
             ]
         }
-    ]
+    ],
+    "name_fr": "Isaac"
 }

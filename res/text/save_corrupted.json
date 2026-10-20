@@ -6,6 +6,10 @@
       "en_US": [
         "The save file is corrupted.\n",
         "The previous save file will be loaded."
+      ],
+      "fr_FR": [
+        "Fichier de sauvegarde corrompu.\n",
+        "Le fichier précédent sera chargé."
       ]
     },
     {
@@ -13,6 +17,10 @@
       "en_US": [
         "The save file has been erased\n",
         "due to corruption or damage."
+      ],
+      "fr_FR": [
+        "Le fichier de sauvegarde a été effacé\n",
+        "car il était corrompu ou endommagé."
       ]
     },
     {
@@ -22,6 +30,12 @@
         "corrupted.\r",
         "The previously saved Battle Video will\n",
         "be loaded instead.\n"
+      ],
+      "fr_FR": [
+        "La Vidéo de combat la plus récente est\n",
+        "corrompue.\r",
+        "La Vidéo de combat précédemment\n",
+        "sauvegardée sera chargée à la place."
       ]
     },
     {
@@ -29,6 +43,10 @@
       "en_US": [
         "A Battle Video appears to have been\n",
         "erased."
+      ],
+      "fr_FR": [
+        "Il semble qu’une Vidéo de\n",
+        "combat ait été effacée."
       ]
     },
     {
@@ -38,6 +56,12 @@
         "is corrupted.\r",
         "The previously saved record will be\n",
         "loaded instead.\n"
+      ],
+      "fr_FR": [
+        "Les données de la Scène de Combat les\n",
+        "plus récentes sont corrompues.\r",
+        "Les données précédemment sauvegardées\n",
+        "seront chargées à la place."
       ]
     },
     {
@@ -45,6 +69,10 @@
       "en_US": [
         "The Battle Hall record has been erased.\n",
         "\n"
+      ],
+      "fr_FR": [
+        "Les données de la Scène de Combat ont\n",
+        "été effacées."
       ]
     }
   ]

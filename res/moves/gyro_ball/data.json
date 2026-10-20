@@ -27,5 +27,13 @@
     "contest": {
         "effect": "CONTEST_EFFECT_DOUBLE_FINAL_ACT",
         "type": "CONTEST_TYPE_BEAUTY"
-    }
+    },
+    "name_fr": "Gyroballe",
+    "description_fr": [
+        "Le lanceur effectue\n",
+        "une rotation et\n",
+        "frappe l’ennemi. Plus\n",
+        "le lanceur est lent,\n",
+        "plus il fait de dégâts."
+    ]
 }

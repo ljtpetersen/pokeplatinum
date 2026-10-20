@@ -3,35 +3,43 @@
   "messages": [
     {
       "id": "DanceCompetition_Text_Jump",
-      "en_US": "JUMP"
+      "en_US": "JUMP",
+      "fr_FR": "Saut"
     },
     {
       "id": "DanceCompetition_Text_Up",
-      "en_US": "UP"
+      "en_US": "UP",
+      "fr_FR": "Haut"
     },
     {
       "id": "DanceCompetition_Text_Front",
-      "en_US": "FRONT"
+      "en_US": "FRONT",
+      "fr_FR": "Devant"
     },
     {
       "id": "DanceCompetition_Text_Left",
-      "en_US": "LEFT"
+      "en_US": "LEFT",
+      "fr_FR": "Gauche"
     },
     {
       "id": "DanceCompetition_Text_Right",
-      "en_US": "RIGHT"
+      "en_US": "RIGHT",
+      "fr_FR": "Droite"
     },
     {
       "id": "DanceCompetition_Text_Excellent",
-      "en_US": "Excellent!"
+      "en_US": "Excellent!",
+      "fr_FR": "Excellent!"
     },
     {
       "id": "DanceCompetition_Text_Good",
-      "en_US": "Good!"
+      "en_US": "Good!",
+      "fr_FR": "Bien!"
     },
     {
       "id": "DanceCompetition_Text_Miss",
-      "en_US": "Miss!"
+      "en_US": "Miss!",
+      "fr_FR": "Raté!"
     },
     {
       "id": "DanceCompetition_Text_CompetitionIsReady",
@@ -42,15 +50,25 @@
         "follow the main dancer’s steps?!\r",
         "OK! Everybody, let’s dance!\n",
         "Start the music!\r"
+      ],
+      "fr_FR": [
+        "L’Epreuve de Danse va bientôt\n",
+        "commencer!\r",
+        "Nos concurrents pourront-ils suivre la\n",
+        "chorégraphie sans faire d’erreurs?\r",
+        "OK! Dansons!\n",
+        "Envoyez la musique!\r"
       ]
     },
     {
       "id": "DanceCompetition_Text_PerformStepsAsMainDancer",
-      "en_US": "{COLOR 2}Perform {STRVAR_1 50, 0, 0} steps as the main dancer!{COLOR 0}"
+      "en_US": "{COLOR 2}Perform {STRVAR_1 50, 0, 0} steps as the main dancer!{COLOR 0}",
+      "fr_FR": "{COLOR 2}Exécutez {STRVAR_1 50, 0, 0} pas comme premier danseur!{COLOR 0}"
     },
     {
       "id": "DanceCompetition_Text_CopyPokemonBeforeYou",
-      "en_US": "{COLOR 1}Copy the Pokémon before you!{COLOR 0}"
+      "en_US": "{COLOR 1}Copy the Pokémon before you!{COLOR 0}",
+      "fr_FR": "{COLOR 1}Copiez le Pokémon situé devant!{COLOR 0}"
     },
     {
       "id": "DanceCompetition_Text_Unused",
@@ -88,6 +106,13 @@
         "{STRVAR_1 3, 0, 0}!\r",
         "Can anyone turn things around in the\n",
         "Acting Competition?\r"
+      ],
+      "fr_FR": [
+        "L’Epreuve de Danse est terminée!\r",
+        "Pour le moment, {STRVAR_1 3, 0, 0} est\n",
+        "en tête!\r",
+        "Est-ce que la situation peut changer\n",
+        "avec l’Epreuve de Comédie?\r"
       ]
     },
     {
@@ -99,6 +124,14 @@
         "and train for the big show!\r",
         "I’ll be taking part to practice up\n",
         "on being an MC!\r"
+      ],
+      "fr_FR": [
+        "Bienvenue! Merci de vous joindre à nous\n",
+        "pour cette séance d’entraînement!\r",
+        "Entraînez-vous autant que vous voulez\n",
+        "avant le grand moment!\r",
+        "Je me joins à vous pour m’entraîner\n",
+        "à être Animateur!\r"
       ]
     },
     {
@@ -113,6 +146,18 @@
         "You get to be the main dancer last.\n",
         "Do a dance that no one can imitate!\r",
         "OK! Start it up!\r"
+      ],
+      "fr_FR": [
+        "Tout le monde est là? Bien, alors\n",
+        "commençons l’entraînement Danse!\r",
+        "{STRVAR_1 1, 0, 0} doit imiter le premier\n",
+        "danseur.\r",
+        "Après avoir dansé deux fois, il change\n",
+        "de place avec un autre danseur.\r",
+        "{STRVAR_1 1, 0, 0} sera premier danseur en\n",
+        "dernier.\r",
+        "Il faut faire des danses inimitables!\r",
+        "OK! Allons-y!\r"
       ]
     }
   ]

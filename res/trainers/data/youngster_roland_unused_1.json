@@ -32,6 +32,11 @@
             "en_US": [
                 "You got Pokémon! I got Pokémon!\n",
                 "Let’s see whose Pokémon is the best!\r"
+            ],
+            "fr_FR": [
+                "Tu as des Pokémon! J’ai des Pokémon!\n",
+                "Voyons quels Pokémon sont les\f",
+                "meilleurs!\r"
             ]
         },
         {
@@ -39,6 +44,10 @@
             "en_US": [
                 "I give up! You’re too much!\n",
                 "Are you maybe a Pokémon genius?\n"
+            ],
+            "fr_FR": [
+                "J’abandonne! Tu es trop balèze!\n",
+                "Un vrai petit génie!"
             ]
         },
         {
@@ -46,7 +55,12 @@
             "en_US": [
                 "Making Pokémon battle each other\n",
                 "makes them tougher, you know?\n"
+            ],
+            "fr_FR": [
+                "Faire s’affronter des Pokémon les rend\n",
+                "plus forts, tu sais?\n"
             ]
         }
-    ]
+    ],
+    "name_fr": "Lilian"
 }

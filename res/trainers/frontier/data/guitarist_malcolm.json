@@ -45,15 +45,22 @@
             "en_US": [
                 "Hunh? A battle, is that it?\n",
                 "Sure thing, sure thing."
+            ],
+            "fr_FR": [
+                "Comment? Un combat?\n",
+                "Pourquoi pas..."
             ]
         },
         {
             "type": "TRMSG_WIN",
-            "en_US": "Hey, you’re something special, huh?\r"
+            "en_US": "Hey, you’re something special, huh?\r",
+            "fr_FR": "Hé, tu es un sacré phénomène!\r"
         },
         {
             "type": "TRMSG_DEFEAT",
-            "en_US": "Yeah, thanks for your time.\r"
+            "en_US": "Yeah, thanks for your time.\r",
+            "fr_FR": "OK... Ça, c’est fait.\r"
         }
-    ]
+    ],
+    "name_fr": "Marcus"
 }

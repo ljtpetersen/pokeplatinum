@@ -24,5 +24,11 @@
     "contest": {
         "effect": "CONTEST_EFFECT_RANDOM_ORDER",
         "type": "CONTEST_TYPE_CUTE"
-    }
+    },
+    "name_fr": "Danse-Folle",
+    "description_fr": [
+        "Danse qui rend confus\n",
+        "tous les autres\n",
+        "Pokémon au combat."
+    ]
 }

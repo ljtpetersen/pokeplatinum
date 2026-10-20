@@ -26,5 +26,13 @@
   "battlePocket": "BATTLE_POCKET_MASK_NONE",
   "fieldUseFunc": "ITEM_USE_FUNC_NONE",
   "battleUseCategory": "BATTLE_USE_CATEGORY_NONE",
-  "itemUseParams": null
+  "itemUseParams": null,
+  "name_fr": "Rune Sort",
+  "description_fr": [
+    "Objet à tenir. Plaque sinistre et\n",
+    "étrange montant la puissance des\n",
+    "capacités de type Spectre."
+  ],
+  "plural_fr": "Rune Sort",
+  "article_fr": null
 }

@@ -24,5 +24,13 @@
     "contest": {
         "effect": "CONTEST_EFFECT_SUPPRESS_VOLTAGE",
         "type": "CONTEST_TYPE_CUTE"
-    }
+    },
+    "name_fr": "Lilliput",
+    "description_fr": [
+        "Le lanceur comprime\n",
+        "son corps pour se\n",
+        "faire tout petit et\n",
+        "augmenter son\n",
+        "esquive."
+    ]
 }

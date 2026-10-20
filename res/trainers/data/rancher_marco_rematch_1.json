@@ -34,6 +34,12 @@
                 "Trainer from before!\r",
                 "Here are my ranch-toughened Pokémon!\n",
                 "I’m right proud of them!\r"
+            ],
+            "fr_FR": [
+                "Hé! C’est toi le Dresseur coriace de\n",
+                "la dernière fois!\r",
+                "Rien de tel que les Pokémon élevés\n",
+                "à la ferme, tu vas voir!\r"
             ]
         },
         {
@@ -41,7 +47,12 @@
             "en_US": [
                 "Hahahah! Your Pokémon sure can be\n",
                 "counted on!\n"
+            ],
+            "fr_FR": [
+                "Ha, ha, ha! Toi, tu peux vraiment\n",
+                "compter sur tes Pokémon!\n"
             ]
         }
-    ]
+    ],
+    "name_fr": "Anton"
 }

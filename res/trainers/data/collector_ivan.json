@@ -24,6 +24,11 @@
                 "Are you going to the Pal Park, too?\r",
                 "For you, I’m willing to show off my\n",
                 "prized Pokémon!\r"
+            ],
+            "fr_FR": [
+                "Tu te rends au Parc des Amis, toi aussi?\r",
+                "Si tu veux, je peux te montrer mon\n",
+                "précieux Pokémon!\r"
             ]
         },
         {
@@ -31,6 +36,10 @@
             "en_US": [
                 "So? Hot stuff, huh?\n",
                 "That’s why I’m so proud of my Pokémon!\n"
+            ],
+            "fr_FR": [
+                "Alors? Pas mal, non? C’est pour ça que\n",
+                "je suis si fier de mon Pokémon.\n"
             ]
         },
         {
@@ -38,6 +47,10 @@
             "en_US": [
                 "Pal Park, huh? I wonder what kinds\n",
                 "of Pokémon you can see there?\n"
+            ],
+            "fr_FR": [
+                "Le Parc des Amis, hein? Je me demande\n",
+                "quels Pokémon on peut voir là-bas...\n"
             ]
         },
         {
@@ -45,7 +58,12 @@
             "en_US": [
                 "Listen, did you go to the Pal Park?\n",
                 "What was it like? What was it like?\r"
+            ],
+            "fr_FR": [
+                "Hé, tu as visité le Parc des Amis?\n",
+                "C’était comment, dis, c’était comment?\r"
             ]
         }
-    ]
+    ],
+    "name_fr": "Polo"
 }

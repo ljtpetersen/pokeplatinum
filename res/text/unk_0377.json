@@ -3,40 +3,57 @@
   "messages": [
     {
       "id": "pl_msg_00000377_00000",
-      "en_US": "{STRVAR_1 3, 0, 0}"
+      "en_US": "{STRVAR_1 3, 0, 0}",
+      "fr_FR": "{STRVAR_1 3, 0, 0}"
     },
     {
       "id": "pl_msg_00000377_00001",
-      "en_US": "ID {STRVAR_1 54, 0, 0}"
+      "en_US": "ID {STRVAR_1 54, 0, 0}",
+      "fr_FR": "Nº {STRVAR_1 54, 0, 0}"
     },
     {
       "id": "pl_msg_00000377_00002",
       "en_US": [
         "When the group is ready:\n",
         "A Button: Proceed   B Button: Cancel"
+      ],
+      "fr_FR": [
+        "Lorsque tous les joueurs sont prêts...\n",
+        "Bouton A: Confirmer   Bouton B: Annuler"
       ]
     },
     {
       "id": "pl_msg_00000377_00003",
-      "en_US": "Is this group OK?"
+      "en_US": "Is this group OK?",
+      "fr_FR": "Ce groupe vous convient?"
     },
     {
       "id": "pl_msg_00000377_00004",
-      "en_US": "Cancel the Spin Trade?"
+      "en_US": "Cancel the Spin Trade?",
+      "fr_FR": "Annuler la séance d’Oeuf Surprise?"
     },
     {
       "id": "pl_msg_00000377_00005",
-      "en_US": "The Spin Trade will be canceled."
+      "en_US": "The Spin Trade will be canceled.",
+      "fr_FR": [
+        "La séance d’Oeuf Surprise va\n",
+        "être annulée."
+      ]
     },
     {
       "id": "pl_msg_00000377_00006",
-      "en_US": "A member has dropped out."
+      "en_US": "A member has dropped out.",
+      "fr_FR": "Un membre a abandonné."
     },
     {
       "id": "pl_msg_00000377_00007",
       "en_US": [
         "There are no other members.\n",
         "The Spin Trade will be canceled."
+      ],
+      "fr_FR": [
+        "Il n’y a pas d’autre participant.\n",
+        "La séance va être annulée."
       ]
     },
     {
@@ -44,6 +61,10 @@
       "en_US": [
         "Please wait.\n",
         "B Button: Cancel"
+      ],
+      "fr_FR": [
+        "Veuillez patienter...\n",
+        "Bouton B: Annuler"
       ]
     },
     {
@@ -51,21 +72,34 @@
       "en_US": [
         "A member dropped out.\n",
         "The Spin Trade will be canceled."
+      ],
+      "fr_FR": [
+        "Un membre a abandonné. La séance\n",
+        "d’Oeuf Surprise va être annulée."
       ]
     },
     {
       "id": "pl_msg_00000377_00010",
-      "en_US": "Would you like to stop the Spin Trade?"
+      "en_US": "Would you like to stop the Spin Trade?",
+      "fr_FR": "Abandonner la séance d’Oeuf Surprise?"
     },
     {
       "id": "pl_msg_00000377_00011",
-      "en_US": "The Spin Trade will be canceled."
+      "en_US": "The Spin Trade will be canceled.",
+      "fr_FR": [
+        "La séance d’Oeuf Surprise va être\n",
+        "annulée."
+      ]
     },
     {
       "id": "pl_msg_00000377_00012",
       "en_US": [
         "Mixing everyone’s records...\n",
         "Don’t turn off the power!"
+      ],
+      "fr_FR": [
+        "Echange de données en cours...\n",
+        "Ne pas éteindre."
       ]
     },
     {
@@ -73,6 +107,10 @@
       "en_US": [
         "The Spin Trade is done!\n",
         "You will be returned to the Union Room."
+      ],
+      "fr_FR": [
+        "La séance d’Oeuf Surprise est\n",
+        "terminée! Retour à la Salle Union."
       ]
     },
     {
@@ -80,34 +118,47 @@
       "en_US": [
         "If the leader drops out, the group will\n",
         "be disbanded. Is that OK?"
+      ],
+      "fr_FR": [
+        "Si le meneur se désiste, le groupe sera\n",
+        "dissous. Continuer?"
       ]
     },
     {
       "id": "pl_msg_00000377_00015",
-      "en_US": "{STRVAR_1 3, 0, 0} has left."
+      "en_US": "{STRVAR_1 3, 0, 0} has left.",
+      "fr_FR": "{STRVAR_1 3, 0, 0} est parti(e)."
     },
     {
       "id": "pl_msg_00000377_00016",
       "en_US": [
         "{STRVAR_1 1, 0, 0}, the leader, has left.\n",
         "The group will be disbanded."
+      ],
+      "fr_FR": [
+        "{STRVAR_1 1, 0, 0}, le meneur, a quitté la\n",
+        "séance. Le groupe va être dissous."
       ]
     },
     {
       "id": "pl_msg_00000377_00017",
-      "en_US": "Seeking a Spin Trade!"
+      "en_US": "Seeking a Spin Trade!",
+      "fr_FR": "Oeuf Surprise - Séance ouverte!"
     },
     {
       "id": "pl_msg_00000377_00018",
-      "en_US": "Spin Trade in progress!"
+      "en_US": "Spin Trade in progress!",
+      "fr_FR": "Oeuf Surprise - Séance en cours!"
     },
     {
       "id": "pl_msg_00000377_00019",
-      "en_US": "YES"
+      "en_US": "YES",
+      "fr_FR": "OUI"
     },
     {
       "id": "pl_msg_00000377_00020",
-      "en_US": "NO"
+      "en_US": "NO",
+      "fr_FR": "NON"
     }
   ]
 }

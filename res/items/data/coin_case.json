@@ -26,5 +26,13 @@
   "battlePocket": "BATTLE_POCKET_MASK_NONE",
   "fieldUseFunc": "ITEM_USE_FUNC_BAG_MESSAGE",
   "battleUseCategory": "BATTLE_USE_CATEGORY_NONE",
-  "itemUseParams": null
+  "itemUseParams": null,
+  "name_fr": "Boîte Jetons",
+  "description_fr": [
+    "Une boîte pour conserver les Jetons\n",
+    "obtenus au Casino.\n",
+    "Peut contenir jusqu’à 50 000 Jetons."
+  ],
+  "plural_fr": "Boîte Jetons",
+  "article_fr": null
 }

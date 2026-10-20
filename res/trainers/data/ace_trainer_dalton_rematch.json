@@ -44,11 +44,17 @@
             "en_US": [
                 "We’ll come at you with our hearts\n",
                 "ablaze!\r"
+            ],
+            "fr_FR": [
+                "Prépare-toi, les cœurs vaillants\n",
+                "brûlent de te combattre!\r"
             ]
         },
         {
             "type": "TRMSG_DEFEAT",
-            "en_US": "Your heart burns as hot as mine!\n"
+            "en_US": "Your heart burns as hot as mine!\n",
+            "fr_FR": "Nos deux cœurs brûlent à l’unisson!\n"
         }
-    ]
+    ],
+    "name_fr": "Benjamin"
 }

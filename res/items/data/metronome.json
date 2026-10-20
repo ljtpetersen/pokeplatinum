@@ -26,5 +26,13 @@
   "battlePocket": "BATTLE_POCKET_MASK_NONE",
   "fieldUseFunc": "ITEM_USE_FUNC_NONE",
   "battleUseCategory": "BATTLE_USE_CATEGORY_NONE",
-  "itemUseParams": null
+  "itemUseParams": null,
+  "name_fr": "Métronome",
+  "description_fr": [
+    "Objet à tenir boostant une capacité\n",
+    "utilisée à répétition. L’effet s’annule\n",
+    "si une autre capacité est utilisée."
+  ],
+  "plural_fr": "Métronome",
+  "article_fr": null
 }

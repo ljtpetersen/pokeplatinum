@@ -25,5 +25,13 @@
     "contest": {
         "effect": "CONTEST_EFFECT_FINAL_PERFORMANCE_ADVANTAGE",
         "type": "CONTEST_TYPE_TOUGH"
-    }
+    },
+    "name_fr": "Séisme",
+    "description_fr": [
+        "Le lanceur provoque\n",
+        "un tremblement de\n",
+        "terre touchant tous\n",
+        "les autres Pokémon\n",
+        "au combat."
+    ]
 }

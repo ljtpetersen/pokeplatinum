@@ -6,7 +6,8 @@
       "en_US": [
         "Boy...\n",
         "I sure am thirsty..."
-      ]
+      ],
+      "fr_FR": "Je meurs de soif..."
     },
     {
       "id": "Route218GateToCanalaveCity_Text_Dummy1",
@@ -26,6 +27,20 @@
         "that you’d pass through.\r",
         "{STRVAR_1 3, 0, 0}, may I have your\n",
         "Pokédex for a moment?\r"
+      ],
+      "fr_FR": [
+        "{STRVAR_1 3, 0, 0}, ça faisait longtemps!\r",
+        "Oh? Quelque chose te chiffonne?\n",
+        "Tu te demandes qui je suis.\r",
+        "Je suis l’assistant du Professeur\n",
+        "Sorbier. Tu connais {STRVAR_1 3, 1, 0}?\f",
+        "Je suis son père.\r",
+        "Le professeur m’a demandé d’améliorer\n",
+        "ton Pokédex, tu vois.\r",
+        "Alors j’ai choisi cet endroit car je me\n",
+        "doutais que tu passerais par là.\r",
+        "{STRVAR_1 3, 0, 0}, puis-je avoir ton Pokédex\n",
+        "un moment?\r"
       ]
     },
     {
@@ -42,6 +57,20 @@
         "that you’d pass through.\r",
         "{STRVAR_1 3, 0, 0}, may I have your\n",
         "Pokédex for a moment?\r"
+      ],
+      "fr_FR": [
+        "{STRVAR_1 3, 0, 0}, ça faisait longtemps!\r",
+        "Oh? Quelque chose te chiffonne?\n",
+        "Tu te demandes qui je suis.\r",
+        "Je suis l’assistant du Professeur\n",
+        "Sorbier. Tu connais {STRVAR_1 3, 1, 0}?\f",
+        "Je suis son père.\r",
+        "Le professeur m’a demandé d’améliorer\n",
+        "ton Pokédex, tu vois.\r",
+        "Alors j’ai choisi cet endroit car je me\n",
+        "doutais que tu passerais par là.\r",
+        "{STRVAR_1 3, 0, 0}, puis-je avoir ton Pokédex\n",
+        "un moment?\r"
       ]
     },
     {
@@ -65,6 +94,26 @@
         "what happened in Jubilife City...\r",
         "It’s probably nothing to worry over!\n",
         "I’ll be on my way now.\r"
+      ],
+      "fr_FR": [
+        "Voyons... Je devais mettre le logiciel\n",
+        "ici, je crois...\r",
+        "Clic.\n",
+        "Clic!\r",
+        "Terminé!\n",
+        "J’ai mis à jour ton Pokédex!\r",
+        "Je devrais t’expliquer ce qui a changé,\n",
+        "n’est-ce pas?\r",
+        "Il peut désormais afficher les images de\n",
+        "Pokémon mâles et femelles.\r",
+        "OK, je te laisse à ton projet pour le\n",
+        "professeur...\r",
+        "... Puis-je aussi te demander de garder\n",
+        "un œil sur la Team Galaxie?\r",
+        "Le professeur est inquiet à propos de\n",
+        "ce qui s’est passé à Féli-Cité...\r",
+        "Ce n’est probablement rien!\n",
+        "Il faut que j’y aille maintenant.\r"
       ]
     }
   ]

@@ -35,6 +35,11 @@
                 "In deep tunnels and caves, there’re\n",
                 "a couple things you’re sure to see.\r",
                 "ZUBAT and Ruin Maniacs!\r"
+            ],
+            "fr_FR": [
+                "Au fond des tunnels et des grottes, il y\n",
+                "a deux choses qu’on voit tout le temps.\r",
+                "Des NOSFERAPTI et des Ruinemaniac!\r"
             ]
         },
         {
@@ -42,6 +47,10 @@
             "en_US": [
                 "Your awesome power...\n",
                 "It’s mystifying.\n"
+            ],
+            "fr_FR": [
+                "Ton redoutable pouvoir...\n",
+                "C’est épatant.\n"
             ]
         },
         {
@@ -51,7 +60,14 @@
                 "place... Most of it while I was lost.\r",
                 "Anyway, if there’s one thing I can\n",
                 "say, this place can’t be called ruins!\n"
+            ],
+            "fr_FR": [
+                "J’ai parcouru chaque centimètre de\n",
+                "cet endroit... Parce que j’étais perdu.\r",
+                "Et s’il y a une chose que je peux dire,\n",
+                "c’est que ce ne sont pas des ruines!\n"
             ]
         }
-    ]
+    ],
+    "name_fr": "Yassine"
 }

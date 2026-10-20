@@ -10,6 +10,14 @@
         "Adventure Rule No. 2\n",
         "Record your progress with SAVE.\r",
         "There is nothing else on here..."
+      ],
+      "fr_FR": [
+        "{STRVAR_1 3, 0, 0} allume le PC.\r",
+        "Règle Nº 1\n",
+        "Le bouton X ouvre le menu!\r",
+        "Règle Nº 2\n",
+        "Sauvegardez en choisissant SAUVER.\r",
+        "Il n’y a rien d’autre..."
       ]
     }
   ]

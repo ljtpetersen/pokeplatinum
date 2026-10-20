@@ -6,6 +6,10 @@
       "en_US": [
         "Team Galactic is working hard to find\n",
         "new energy sources for the future!"
+      ],
+      "fr_FR": [
+        "La Team Galaxie travaille dur pour \n",
+        "trouver de futures sources d’énergie!"
       ]
     },
     {
@@ -15,6 +19,12 @@
         "forms of energy!\r",
         "We want to harness the mysterious\n",
         "power of Pokémon and use it as energy!"
+      ],
+      "fr_FR": [
+        "On conduit une étude sur les\n",
+        "nouvelles formes d’énergie!\r",
+        "Nous voulons canaliser le\n",
+        "mystérieux pouvoir des Pokémon!"
       ]
     },
     {
@@ -22,6 +32,10 @@
       "en_US": [
         "Let us make progress together!\n",
         "             Team Galactic"
+      ],
+      "fr_FR": [
+        "Tous ensemble au service du progrès!\n",
+        "             Team Galaxie"
       ]
     }
   ]

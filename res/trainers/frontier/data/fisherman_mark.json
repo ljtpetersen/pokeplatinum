@@ -35,6 +35,10 @@
             "en_US": [
                 "Feed the Pokémon you catch, or they\n",
                 "will flee. Do you see?"
+            ],
+            "fr_FR": [
+                "Si tu ne donnes pas à manger à tes\n",
+                "Pokémon, ils finiront par s’enfuir."
             ]
         },
         {
@@ -42,6 +46,10 @@
             "en_US": [
                 "Once a Pokémon has fled, it will never\n",
                 "return. Do you see?\r"
+            ],
+            "fr_FR": [
+                "Si un Pokémon s’enfuit, tu ne le\n",
+                "reverras plus jamais!\r"
             ]
         },
         {
@@ -49,7 +57,12 @@
             "en_US": [
                 "What I said about Pokémon, it is a\n",
                 "parable. Do you see?\r"
+            ],
+            "fr_FR": [
+                "Ce que je t’ai dit tout à l’heure, c’est\n",
+                "une maxime pleine de sagesse.\r"
             ]
         }
-    ]
+    ],
+    "name_fr": "Manolo"
 }

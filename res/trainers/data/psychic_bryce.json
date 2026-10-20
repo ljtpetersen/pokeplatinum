@@ -42,6 +42,10 @@
             "en_US": [
                 "I am a Psychic!\n",
                 "I can see your future!\r"
+            ],
+            "fr_FR": [
+                "Je suis Kinésiste!\n",
+                "Je peux voir ton avenir!\r"
             ]
         },
         {
@@ -49,6 +53,10 @@
             "en_US": [
                 "So be it! I will now divulge what\n",
                 "I know of your future... Hmm!\n"
+            ],
+            "fr_FR": [
+                "Bien! Je vais donc divulguer ce que\n",
+                "je sais de ton futur... Hum!\n"
             ]
         },
         {
@@ -57,7 +65,13 @@
                 "I see it now!\r",
                 "You will battle the Elite Four of the\n",
                 "Pokémon League!\n"
+            ],
+            "fr_FR": [
+                "Je vois... je vois...\r",
+                "Que tu vas affronter le Conseil 4\n",
+                "de la Ligue Pokémon!\n"
             ]
         }
-    ]
+    ],
+    "name_fr": "Wolfgang"
 }

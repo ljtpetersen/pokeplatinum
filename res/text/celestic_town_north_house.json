@@ -14,6 +14,17 @@
         "over you.\r",
         "Would you like to know more about\n",
         "MESPRIT?"
+      ],
+      "fr_FR": [
+        "D’où viens-tu?\r",
+        "...\r",
+        "Hum, Bonaugure, dis-tu...\n",
+        "C’est pas loin du Lac Vérité, non?\r",
+        "Il paraît que ce lac est la demeure de\n",
+        "CREFOLLET, “être de l’émotion”.\r",
+        "Il doit veiller sur toi.\r",
+        "Veux-tu que je t’en dise plus sur\n",
+        "CREFOLLET?"
       ]
     },
     {
@@ -28,6 +39,17 @@
         "strong and compassionate spirits.\r",
         "The power of their spirits maintains\n",
         "the natural balance of Sinnoh."
+      ],
+      "fr_FR": [
+        "CREFOLLET est le Pokémon légendaire\n",
+        "symbolisant les émotions.\r",
+        "Il y a aussi CREHELF, “être du savoir”\n",
+        "et CREFADET, “être de la volonté”.\r",
+        "Ces trois Pokémon sont réputés pour\n",
+        "leur force de caractère et leur\f",
+        "compassion.\r",
+        "Ce sont eux qui maintiennent l’équilibre\n",
+        "naturel de Sinnoh."
       ]
     },
     {
@@ -37,6 +59,12 @@
         "Well, of course you wouldn’t.\r",
         "It’s a tale from so long ago.\n",
         "It’s no wonder you weren’t interested."
+      ],
+      "fr_FR": [
+        "Ha, ha, ha!\n",
+        "J’aurais dû m’en douter.\r",
+        "C’est une très vieille légende. Pas\n",
+        "étonnant qu’elle ne t’intéresse pas."
       ]
     },
     {
@@ -45,6 +73,12 @@
         "Using the move Surf, you’ll be able to\n",
         "go to places that were inaccessible.\r",
         "You’d be surprised where you can go."
+      ],
+      "fr_FR": [
+        "Grâce à Surf, tu pourras rejoindre des\n",
+        "endroits auparavant inaccessibles.\r",
+        "En explorant, tu devrais tomber sur\n",
+        "quelques surprises."
       ]
     },
     {
@@ -55,6 +89,14 @@
         "The town was founded to honor\n",
         "Pokémon from the distant past.\r",
         "Or at least that’s the legend..."
+      ],
+      "fr_FR": [
+        "Célestia est la ville la plus ancienne\n",
+        "de Sinnoh.\r",
+        "Elle fut fondée en l’honneur des\n",
+        "Pokémon d’un passé lointain.\r",
+        "Tout du moins, c’est ce\n",
+        "que dit la légende..."
       ]
     },
     {
@@ -80,6 +122,29 @@
         "It seems the people of long ago met\n",
         "both DIALGA and PALKIA, the Pokémon\f",
         "of time and space."
+      ],
+      "fr_FR": [
+        "Eh bien, bonjour!\n",
+        "Tu as l’air en forme.\r",
+        "J’ai mené des recherches dans mon coin\n",
+        "depuis les ennuis de la dernière fois.\r",
+        "L’activité du Mont Couronné me semble\n",
+        "très inquiétante.\r",
+        "Enfin, voilà ce que j’ai trouvé\n",
+        "dans le temple.\r",
+        "C’est un livre et il est assez\n",
+        "ancien. Ecoute ce passage.\r",
+        "“Que le porteur de l’Orbe Adamant \n",
+        "invoque DIALGA aux Colonnes Lances.\r",
+        "“Le Pokémon gardien du temps répondra\n",
+        "à son appel.\r",
+        "“Que le porteur de l’Orbe Perlé invoque\n",
+        "PALKIA aux Colonnes Lances.\r",
+        "“Le Pokémon qui lie les dimensions\n",
+        "spatiales répondra à l’appel.”\r",
+        "Il semblerait que les peuples antiques\n",
+        "aient connu DIALGA et PALKIA,\f",
+        "les Pokémon du temps et de l’espace."
       ]
     },
     {
@@ -87,6 +152,10 @@
       "en_US": [
         "“PALKIA, the Pokémon that binds the\n",
         "spatial dimensions,” it is written...\r"
+      ],
+      "fr_FR": [
+        "Il est écrit “PALKIA, le Pokémon qui\n",
+        "lie les dimensions spatiales”...\r"
       ]
     },
     {
@@ -94,6 +163,10 @@
       "en_US": [
         "“DIALGA, the guardian Pokémon of\n",
         "time,” it is written...\r"
+      ],
+      "fr_FR": [
+        "Il est écrit “DIALGA, le Pokémon\n",
+        "gardien du temps”...\r"
       ]
     },
     {
@@ -112,6 +185,17 @@
         "Or were they the same as now?\r",
         "She says that’s the focus of her\n",
         "research."
+      ],
+      "fr_FR": [
+        "Ma grande sœur étudie les mythes\n",
+        "de Sinnoh.\r",
+        "Elle cherche à étudier la relation\n",
+        "qui liait les gens aux Pokémon\f",
+        "dans les temps anciens.\r",
+        "Les choses étaient-elles différentes?\n",
+        "Ou pareilles qu’aujourd’hui?\r",
+        "Selon elle, c’est le point principal\n",
+        "de ses recherches."
       ]
     },
     {
@@ -119,6 +203,10 @@
       "en_US": [
         "It’s hard to tell for sure, but it’s\n",
         "probably an invaluable scroll."
+      ],
+      "fr_FR": [
+        "Difficile à dire, mais c’est sûrement\n",
+        "un parchemin de grande valeur."
       ]
     },
     {
@@ -135,6 +223,19 @@
         "“When that Pokémon was born,\n",
         "willpower bloomed among us,\f",
         "spurring us into action...”"
+      ],
+      "fr_FR": [
+        "C’est un vieux livre.\n",
+        "{STRVAR_1 3, 0, 0} commence à le lire.\r",
+        "“A la naissance de ce Pokémon,\n",
+        "l’intelligence s’est répandue parmi nous\f",
+        "pour améliorer notre existence.\r",
+        "A la naissance de ce Pokémon,\n",
+        "les émotions se sont répandues\f",
+        "pour nous donner joie et tristesse.\r",
+        "A la naissance de ce Pokémon,\n",
+        "la volonté s’est répandue\f",
+        "pour nous encourager à agir...”"
       ]
     }
   ]

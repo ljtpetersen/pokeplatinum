@@ -8,6 +8,12 @@
         "...A rare sight...\r",
         "...Thank you for visiting...\n",
         "...A gift...\r"
+      ],
+      "fr_FR": [
+        "... Une personne...?\n",
+        "... Plutôt rare...\r",
+        "... Merci de ta visite...\n",
+        "... Un cadeau...\r"
       ]
     },
     {
@@ -16,6 +22,11 @@
         "...The Spell Tag...\n",
         "It intensifies Ghost-type moves...\f",
         "May it serve you well..."
+      ],
+      "fr_FR": [
+        "... La Rune Sort... Elle intensifie les\n",
+        "capacités de type Spectre...\f",
+        "J’espère qu’elle te sera utile..."
       ]
     }
   ]

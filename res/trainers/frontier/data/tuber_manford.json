@@ -55,6 +55,10 @@
             "en_US": [
                 "I frolic with my water Pokémon in a pool\n",
                 "all the time."
+            ],
+            "fr_FR": [
+                "J’adore jouer avec les Pokémon Eau\n",
+                "à la piscine."
             ]
         },
         {
@@ -62,14 +66,20 @@
             "en_US": [
                 "It sure makes me happy winning with my\n",
                 "Pokémon favorites.\r"
-            ]
+            ],
+            "fr_FR": "Je suis content d’avoir gagné.\r"
         },
         {
             "type": "TRMSG_DEFEAT",
             "en_US": [
                 "I’d love to swim in a pool full of water\n",
                 "Pokémon.\r"
+            ],
+            "fr_FR": [
+                "Mon rêve, c’est de nager dans une\n",
+                "piscine remplie de Pokémon Eau.\r"
             ]
         }
-    ]
+    ],
+    "name_fr": "Timo"
 }

@@ -32,7 +32,12 @@
             "en_US": [
                 "I just got worked over!\n",
                 "And by a kid no less...\n"
+            ],
+            "fr_FR": [
+                "Je viens juste d’être battu!\n",
+                "Et par une demi-portion, en plus...\n"
             ]
         }
-    ]
+    ],
+    "name_fr": "Sbire"
 }

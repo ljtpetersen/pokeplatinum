@@ -3,19 +3,23 @@
   "messages": [
     {
       "id": "BattleBag_Text_MenuTitleHPPP",
-      "en_US": "HP/PP"
+      "en_US": "HP/PP",
+      "fr_FR": "SOINS"
     },
     {
       "id": "BattleBag_Text_MenuTitleRestore",
-      "en_US": "RESTORE"
+      "en_US": "RESTORE",
+      "fr_FR": "PV/PP"
     },
     {
       "id": "BattleBag_Text_MenuTitleStatus",
-      "en_US": "STATUS"
+      "en_US": "STATUS",
+      "fr_FR": "SOINS"
     },
     {
       "id": "BattleBag_Text_MenuTitleHealers",
-      "en_US": "HEALERS"
+      "en_US": "HEALERS",
+      "fr_FR": "STATUT"
     },
     {
       "id": "pl_msg_00000002_00004",
@@ -27,63 +31,78 @@
     },
     {
       "id": "BattleBag_Text_MenuTitleBattleItems",
-      "en_US": "BATTLE ITEMS"
+      "en_US": "BATTLE ITEMS",
+      "fr_FR": "OBJETS COMBAT"
     },
     {
       "id": "BattleBag_Text_MenuTitlePokeBalls",
-      "en_US": "POKé BALLS"
+      "en_US": "POKé BALLS",
+      "fr_FR": "BALLS"
     },
     {
       "id": "BattleBag_Text_ItemUsedLast",
-      "en_US": "Item used last"
+      "en_US": "Item used last",
+      "fr_FR": "Dernier objet utilisé"
     },
     {
       "id": "BattleBag_Text_PocketSlot1ItemName",
-      "en_US": "{STRVAR_1 8, 0, 0}"
+      "en_US": "{STRVAR_1 8, 0, 0}",
+      "fr_FR": "{STRVAR_1 8, 0, 0}"
     },
     {
       "id": "BattleBag_Text_PocketSlot1ItemAmount",
-      "en_US": "x{STRVAR_1 52, 0, 0}"
+      "en_US": "x{STRVAR_1 52, 0, 0}",
+      "fr_FR": "x{STRVAR_1 52, 0, 0}"
     },
     {
       "id": "BattleBag_Text_PocketSlot2ItemName",
-      "en_US": "{STRVAR_1 8, 0, 0}"
+      "en_US": "{STRVAR_1 8, 0, 0}",
+      "fr_FR": "{STRVAR_1 8, 0, 0}"
     },
     {
       "id": "BattleBag_Text_PocketSlot2ItemAmount",
-      "en_US": "x{STRVAR_1 52, 0, 0}"
+      "en_US": "x{STRVAR_1 52, 0, 0}",
+      "fr_FR": "x{STRVAR_1 52, 0, 0}"
     },
     {
       "id": "BattleBag_Text_PocketSlot3ItemName",
-      "en_US": "{STRVAR_1 8, 0, 0}"
+      "en_US": "{STRVAR_1 8, 0, 0}",
+      "fr_FR": "{STRVAR_1 8, 0, 0}"
     },
     {
       "id": "BattleBag_Text_PocketSlot3ItemAmount",
-      "en_US": "x{STRVAR_1 52, 0, 0}"
+      "en_US": "x{STRVAR_1 52, 0, 0}",
+      "fr_FR": "x{STRVAR_1 52, 0, 0}"
     },
     {
       "id": "BattleBag_Text_PocketSlot4ItemName",
-      "en_US": "{STRVAR_1 8, 0, 0}"
+      "en_US": "{STRVAR_1 8, 0, 0}",
+      "fr_FR": "{STRVAR_1 8, 0, 0}"
     },
     {
       "id": "BattleBag_Text_PocketSlot4ItemAmount",
-      "en_US": "x{STRVAR_1 52, 0, 0}"
+      "en_US": "x{STRVAR_1 52, 0, 0}",
+      "fr_FR": "x{STRVAR_1 52, 0, 0}"
     },
     {
       "id": "BattleBag_Text_PocketSlot5ItemName",
-      "en_US": "{STRVAR_1 8, 0, 0}"
+      "en_US": "{STRVAR_1 8, 0, 0}",
+      "fr_FR": "{STRVAR_1 8, 0, 0}"
     },
     {
       "id": "BattleBag_Text_PocketSlot5ItemAmount",
-      "en_US": "x{STRVAR_1 52, 0, 0}"
+      "en_US": "x{STRVAR_1 52, 0, 0}",
+      "fr_FR": "x{STRVAR_1 52, 0, 0}"
     },
     {
       "id": "BattleBag_Text_PocketSlot6ItemName",
-      "en_US": "{STRVAR_1 8, 0, 0}"
+      "en_US": "{STRVAR_1 8, 0, 0}",
+      "fr_FR": "{STRVAR_1 8, 0, 0}"
     },
     {
       "id": "BattleBag_Text_PocketSlot6ItemAmount",
-      "en_US": "x{STRVAR_1 52, 0, 0}"
+      "en_US": "x{STRVAR_1 52, 0, 0}",
+      "fr_FR": "x{STRVAR_1 52, 0, 0}"
     },
     {
       "id": "pl_msg_00000002_00021",
@@ -91,55 +110,68 @@
     },
     {
       "id": "BattleBag_Text_PocketNameHPPP",
-      "en_US": "HP/PP"
+      "en_US": "HP/PP",
+      "fr_FR": "SOINS"
     },
     {
       "id": "BattleBag_Text_PocketNameRestore",
-      "en_US": "RESTORE"
+      "en_US": "RESTORE",
+      "fr_FR": "PV/PP"
     },
     {
       "id": "BattleBag_Text_PocketNameStatus",
-      "en_US": "STATUS"
+      "en_US": "STATUS",
+      "fr_FR": "SOINS"
     },
     {
       "id": "BattleBag_Text_PocketNameHealers",
-      "en_US": "HEALERS"
+      "en_US": "HEALERS",
+      "fr_FR": "STATUT"
     },
     {
       "id": "BattleBag_Text_PocketNamePokeBalls",
-      "en_US": "POKé BALLS"
+      "en_US": "POKé BALLS",
+      "fr_FR": "BALLS"
     },
     {
       "id": "BattleBag_Text_PocketNameBattleItems",
-      "en_US": "BATTLE ITEMS"
+      "en_US": "BATTLE ITEMS",
+      "fr_FR": "OBJ. COMBAT"
     },
     {
       "id": "BattleBag_Text_PocketPageDivider",
-      "en_US": "/"
+      "en_US": "/",
+      "fr_FR": "/"
     },
     {
       "id": "BattleBag_Text_PocketCurrentPage",
-      "en_US": "{STRVAR_1 50, 0, 0}"
+      "en_US": "{STRVAR_1 50, 0, 0}",
+      "fr_FR": "{STRVAR_1 50, 0, 0}"
     },
     {
       "id": "BattleBag_Text_PocketPageNum",
-      "en_US": "{STRVAR_1 50, 0, 0}"
+      "en_US": "{STRVAR_1 50, 0, 0}",
+      "fr_FR": "{STRVAR_1 50, 0, 0}"
     },
     {
       "id": "BattleBag_Text_Use",
-      "en_US": "USE"
+      "en_US": "USE",
+      "fr_FR": "UTILIS."
     },
     {
       "id": "pl_msg_00000002_00032",
-      "en_US": "{STRVAR_1 8, 0, 0}"
+      "en_US": "{STRVAR_1 8, 0, 0}",
+      "fr_FR": "{STRVAR_1 8, 0, 0}"
     },
     {
       "id": "pl_msg_00000002_00033",
-      "en_US": "x{STRVAR_1 52, 0, 0}"
+      "en_US": "x{STRVAR_1 52, 0, 0}",
+      "fr_FR": "x{STRVAR_1 52, 0, 0}"
     },
     {
       "id": "BattleBag_Text_ItemHasNoUse",
-      "en_US": "It won’t do any good to use that!"
+      "en_US": "It won’t do any good to use that!",
+      "fr_FR": "Ça n’aura aucun effet."
     },
     {
       "id": "pl_msg_00000002_00035",
@@ -150,13 +182,18 @@
       "en_US": [
         "{STRVAR_1 1, 0, 0} is getting\n",
         "pumped!"
-      ]
+      ],
+      "fr_FR": "{STRVAR_1 1, 0, 0} se gonfle!"
     },
     {
       "id": "pl_msg_00000002_00037",
       "en_US": [
         "{STRVAR_1 1, 0, 0}’s Attack\n",
         "rose!"
+      ],
+      "fr_FR": [
+        "L’Attaque du {STRVAR_1 1, 0, 0}\n",
+        "augmente!"
       ]
     },
     {
@@ -164,6 +201,10 @@
       "en_US": [
         "{STRVAR_1 1, 0, 0}’s Special Attack\n",
         "rose!"
+      ],
+      "fr_FR": [
+        "L’Atq. Spé. du {STRVAR_1 1, 0, 0}\n",
+        "augmente!"
       ]
     },
     {
@@ -171,6 +212,10 @@
       "en_US": [
         "{STRVAR_1 1, 0, 0}’s Speed\n",
         "rose!"
+      ],
+      "fr_FR": [
+        "La Vitesse du {STRVAR_1 1, 0, 0}\n",
+        "augmente!"
       ]
     },
     {
@@ -178,6 +223,10 @@
       "en_US": [
         "{STRVAR_1 1, 0, 0}’s Special Defense\n",
         "rose!"
+      ],
+      "fr_FR": [
+        "La Déf. Spé. du {STRVAR_1 1, 0, 0}\n",
+        "augmente!"
       ]
     },
     {
@@ -185,6 +234,10 @@
       "en_US": [
         "{STRVAR_1 1, 0, 0}’s Defense\n",
         "rose!"
+      ],
+      "fr_FR": [
+        "La Défense du {STRVAR_1 1, 0, 0}\n",
+        "augmente!"
       ]
     },
     {
@@ -192,28 +245,42 @@
       "en_US": [
         "{STRVAR_1 1, 0, 0}’s accuracy\n",
         "rose!"
+      ],
+      "fr_FR": [
+        "La Précision du {STRVAR_1 1, 0, 0}\n",
+        "augmente!"
       ]
     },
     {
       "id": "pl_msg_00000002_00043",
-      "en_US": "The {STRVAR_1 8, 0, 0} was used!"
+      "en_US": "The {STRVAR_1 8, 0, 0} was used!",
+      "fr_FR": "L’objet {STRVAR_1 8, 0, 0} est utilisé!"
     },
     {
       "id": "BattleBag_Text_CantUseBallTwoPokemon",
       "en_US": [
         "It’s no good! It’s impossible to aim\n",
         "when there are two Pokémon!"
+      ],
+      "fr_FR": [
+        "Impossible! On ne peut pas viser\n",
+        "quand il y a deux Pokémon!"
       ]
     },
     {
       "id": "BattleBag_Text_CantUseBallNoRoomLeft",
-      "en_US": "There is no room left in the PC!"
+      "en_US": "There is no room left in the PC!",
+      "fr_FR": "Il n’y a plus de place dans le PC!"
     },
     {
       "id": "BattleBag_Text_EmbargoBlockingItemUse",
       "en_US": [
         "{STRVAR_1 6, 1, 0}’s effect prevents\n",
         "the item’s use on {STRVAR_1 1, 0, 0}!"
+      ],
+      "fr_FR": [
+        "La capacité {STRVAR_1 6, 1, 0} empêche\n",
+        "d’utiliser l’objet sur {STRVAR_1 1, 0, 0}!"
       ]
     },
     {
@@ -221,6 +288,10 @@
       "en_US": [
         "It’s no good! It’s impossible to aim\n",
         "at a Pokémon that’s not in sight!"
+      ],
+      "fr_FR": [
+        "Impossible! On ne peut pas viser\n",
+        "si aucun Pokémon n’est visible!"
       ]
     },
     {
@@ -228,6 +299,10 @@
       "en_US": [
         "It’s no good! It’s impossible to aim\n",
         "at a Pokémon that’s not in sight!"
+      ],
+      "fr_FR": [
+        "Impossible! On ne peut pas viser\n",
+        "si aucun Pokémon n’est visible!"
       ]
     }
   ]

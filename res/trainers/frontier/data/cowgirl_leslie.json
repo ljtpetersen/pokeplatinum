@@ -59,6 +59,10 @@
             "en_US": [
                 "I’d like to take a break.\n",
                 "...No? We have to begin right away?"
+            ],
+            "fr_FR": [
+                "Je voudrais faire une pause...\n",
+                "Trop tard? Le combat commence?"
             ]
         },
         {
@@ -66,6 +70,10 @@
             "en_US": [
                 "Aww, see? You should have taken a\n",
                 "break with me before.\r"
+            ],
+            "fr_FR": [
+                "Ah, tu vois? Tu aurais dû faire\n",
+                "cette pause avant le combat.\r"
             ]
         },
         {
@@ -73,7 +81,12 @@
             "en_US": [
                 "Ooh, aren’t you a tough one?\n",
                 "You should take breaks, though.\r"
+            ],
+            "fr_FR": [
+                "OK, tu as du talent. Mais n’oublie pas\n",
+                "de faire une pause de temps en temps.\r"
             ]
         }
-    ]
+    ],
+    "name_fr": "Laly"
 }

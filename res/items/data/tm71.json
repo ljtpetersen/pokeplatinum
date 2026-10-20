@@ -27,5 +27,12 @@
   "fieldUseFunc": "ITEM_USE_FUNC_TM_HM",
   "battleUseCategory": "BATTLE_USE_CATEGORY_NONE",
   "itemUseParams": null,
-  "teachesMove": "MOVE_STONE_EDGE"
+  "teachesMove": "MOVE_STONE_EDGE",
+  "name_fr": "CT71",
+  "description_fr": [
+    "Fait surgir des pierres aiguisées sous\n",
+    "l’ennemi. Taux de critiques élevé."
+  ],
+  "plural_fr": "CT71",
+  "article_fr": null
 }

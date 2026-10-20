@@ -32,7 +32,12 @@
             "en_US": [
                 "I should have kept my head down and\n",
                 "just watched our warehouse...\n"
+            ],
+            "fr_FR": [
+                "J’aurais dû faire profil bas et me\n",
+                "contenter de surveiller le hangar...\n"
             ]
         }
-    ]
+    ],
+    "name_fr": "Sbire"
 }

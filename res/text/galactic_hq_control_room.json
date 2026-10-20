@@ -16,6 +16,20 @@
         "to come. Let me welcome you!\r",
         "Consider it payback for your insulting\n",
         "me at the lake.\r"
+      ],
+      "fr_FR": [
+        "Toi... Tu as fait tout ce chemin pour\n",
+        "sauver quelques Pokémon?\r",
+        "... Ce n’est pas nouveau, mais je dois\n",
+        "dire que la logique du chef m’échappe...\r",
+        "Pourquoi laisserait-il un enfant comme\n",
+        "toi aller où bon lui semble...?\r",
+        "La Team Galaxie prend ce dont elle\n",
+        "a besoin et élimine le reste.\r",
+        "Enfin bref. Tu as eu le courage de\n",
+        "te montrer, je suis le comité d’accueil!\r",
+        "Je vais te faire payer l’affront que\n",
+        "tu m’as fait au lac.\r"
       ]
     },
     {
@@ -27,6 +41,14 @@
         "those three Pokémon.\r",
         "Press the button on that machine\n",
         "to set them free.\r"
+      ],
+      "fr_FR": [
+        "... Argh!\n",
+        "D’où te vient cette puissance?\r",
+        "Soit... Fais ce que tu veux\n",
+        "avec ces trois Pokémon.\r",
+        "Il te suffit d’appuyer sur le bouton\n",
+        "de cette machine pour les libérer.\r"
       ]
     },
     {
@@ -34,6 +56,10 @@
       "en_US": [
         "Press the button and set them free.\n",
         "Isn’t that why you came?"
+      ],
+      "fr_FR": [
+        "Appuie sur le bouton pour les libérer.\n",
+        "Tu es là pour ça, non?"
       ]
     },
     {
@@ -48,6 +74,17 @@
         "creating something.\r",
         "But that’s all I know. Who knows\n",
         "what he’s planning to do up there.\r"
+      ],
+      "fr_FR": [
+        "Notre chef a fabriqué une Chaîne\n",
+        "Rouge à partir des cristaux qu’il a\f",
+        "dérobés aux trois Pokémon.\r",
+        "Il en a besoin pour enchaîner quelque\n",
+        "chose sur le Mont Couronné.\r",
+        "Apparemment, elle est aussi nécessaire\n",
+        "à la création d’un truc quelconque.\r",
+        "On ne m’a rien dit d’autre. Qui sait\n",
+        "ce qu’il compte faire là-haut...\r"
       ]
     },
     {
@@ -55,6 +92,10 @@
       "en_US": [
         "Press the button and set them free.\n",
         "Isn’t that why you came?\r"
+      ],
+      "fr_FR": [
+        "Appuie sur le bouton pour les libérer.\n",
+        "Tu es là pour ça, non?\r"
       ]
     },
     {
@@ -63,11 +104,17 @@
         "Charon: Fuhyahya!\r",
         "Those Pokémon of the lakes, where do\n",
         "you suppose they would go?\r"
+      ],
+      "fr_FR": [
+        "Pluton: Fouah, ah, ah!\r",
+        "Et où crois-tu qu’ils iraient, les\n",
+        "Pokémon des lacs?\r"
       ]
     },
     {
       "id": "GalacticHQControlRoom_Text_WhatAreYouSaying",
-      "en_US": "Saturn: What are you trying to say?\r"
+      "en_US": "Saturn: What are you trying to say?\r",
+      "fr_FR": "Saturne: Qu’est-ce que tu racontes?\r"
     },
     {
       "id": "GalacticHQControlRoom_Text_ILookForwardToPlan",
@@ -84,6 +131,20 @@
         "realizes his dream.\r",
         "I look forward to whatever our beloved\n",
         "leader has planned atop Mt. Coronet.\r"
+      ],
+      "fr_FR": [
+        "Pluton: Rien.\n",
+        "Laisse tomber.\r",
+        "Après tout, un monde nouveau n’a rien\n",
+        "de si captivant, n’est-ce pas?\r",
+        "Si Hélio dit vrai, alors la Team Galaxie\n",
+        "contrôlera ce monde.\r",
+        "C’est là que ça devient intéressant.\n",
+        "Une chance de profiter de ses délices.\r",
+        "J’espère bien qu’Hélio réalisera son\n",
+        "rêve.\r",
+        "Il me tarde qu’advienne enfin ce qu’il\n",
+        "a prévu sur le Mont Couronné.\r"
       ]
     },
     {
@@ -92,6 +153,11 @@
         "Saturn: Gramps.\r",
         "Our boss can do without your kind of\n",
         "moral support."
+      ],
+      "fr_FR": [
+        "Saturne: Dis, pépé.\r",
+        "Ton soutien moral, le patron s’en passe\n",
+        "sans problème."
       ]
     },
     {
@@ -106,6 +172,17 @@
         "...Hmm. Perhaps another option needs\n",
         "to be considered.\r",
         "One befitting the genius of Charon!"
+      ],
+      "fr_FR": [
+        "Pluton: Pfff. Même Saturne et Hélio se\n",
+        "sont fait avoir par un moucheron\f",
+        "de ton acabit...\r",
+        "La Team Galaxie est en piteux état...\r",
+        "Quant aux plans d’Hélio au Mont\n",
+        "Couronné... Qui sait s’ils vont marcher?\r",
+        "Hum, il y a peut-être une alternative.\r",
+        "Une alternative digne de Pluton,\n",
+        "le génie!"
       ]
     },
     {
@@ -113,6 +190,10 @@
       "en_US": [
         "Press the button and set\n",
         "the Pokémon free?"
+      ],
+      "fr_FR": [
+        "Appuyer sur le bouton pour\n",
+        "libérer les Pokémon?"
       ]
     },
     {
@@ -120,6 +201,10 @@
       "en_US": [
         "{STRVAR_1 3, 0, 0} pressed the button and\n",
         "set the Pokémon free.\r"
+      ],
+      "fr_FR": [
+        "{STRVAR_1 3, 0, 0} libère les Pokémon en\n",
+        "appuyant sur le bouton.\r"
       ]
     },
     {
@@ -127,6 +212,10 @@
       "en_US": [
         "The button has been pressed already.\n",
         "You have to leave."
+      ],
+      "fr_FR": [
+        "Vous avez déjà appuyé sur le bouton.\n",
+        "Il faut partir, maintenant."
       ]
     },
     {
@@ -134,6 +223,10 @@
       "en_US": [
         "UXIE is sealed inside! It appears to\n",
         "be suffering, with eyes squeezed shut."
+      ],
+      "fr_FR": [
+        "CREHELF est enfermé à l’intérieur! Ses\n",
+        "yeux sont clos, il a l’air de souffrir."
       ]
     },
     {
@@ -141,6 +234,10 @@
       "en_US": [
         "MESPRIT is sealed inside! It seems to\n",
         "be suffering, with its tail twitching."
+      ],
+      "fr_FR": [
+        "CREFOLLET est enfermé à l’intérieur! Sa\n",
+        "queue frissonne, il a l’air de souffrir."
       ]
     },
     {
@@ -148,6 +245,10 @@
       "en_US": [
         "AZELF is sealed inside! It appears to\n",
         "be suffering, with wracking shudders."
+      ],
+      "fr_FR": [
+        "CREFADET est enfermé à l’intérieur! Il\n",
+        "semble souffrir et tremble de partout."
       ]
     },
     {
@@ -155,6 +256,10 @@
       "en_US": [
         "It’s Team Galactic’s sinister machine.\n",
         "UXIE had been sealed inside it."
+      ],
+      "fr_FR": [
+        "C’est la sinistre machine de la Team\n",
+        "Galaxie. CREHELF y était enfermé."
       ]
     },
     {
@@ -162,6 +267,10 @@
       "en_US": [
         "It’s Team Galactic’s sinister machine.\n",
         "MESPRIT had been sealed inside it."
+      ],
+      "fr_FR": [
+        "C’est la sinistre machine de la Team\n",
+        "Galaxie. CREFOLLET y était enfermé."
       ]
     },
     {
@@ -169,6 +278,10 @@
       "en_US": [
         "It’s Team Galactic’s sinister machine.\n",
         "AZELF had been sealed inside it."
+      ],
+      "fr_FR": [
+        "C’est la sinistre machine de la Team\n",
+        "Galaxie. CREFADET y était enfermé."
       ]
     }
   ]

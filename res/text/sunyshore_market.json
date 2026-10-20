@@ -6,6 +6,10 @@
       "en_US": [
         "Oh?\n",
         "Your {STRVAR_1 0, 0, 0}...\r"
+      ],
+      "fr_FR": [
+        "Oh?\n",
+        "Ton {STRVAR_1 0, 0, 0}...\r"
       ]
     },
     {
@@ -15,6 +19,12 @@
         "didn’t it?\r",
         "As its reward, please give it this\n",
         "Effort Ribbon.\r"
+      ],
+      "fr_FR": [
+        "Ton Pokémon a fourni \n",
+        "des efforts prodigieux!\r",
+        "En récompense, ce Ruban \n",
+        "Effort est pour lui.\r"
       ]
     },
     {
@@ -22,13 +32,18 @@
       "en_US": [
         "{STRVAR_1 3, 1, 0} received\n",
         "the Effort Ribbon.\r"
-      ]
+      ],
+      "fr_FR": "{STRVAR_1 3, 1, 0} obtient le Ruban Effort.\r"
     },
     {
       "id": "SunyshoreMarket_Text_PlayerPutEffortRibbonOn",
       "en_US": [
         "{STRVAR_1 3, 1, 0} put the Effort Ribbon\n",
         "on {STRVAR_1 0, 0, 0}."
+      ],
+      "fr_FR": [
+        "{STRVAR_1 3, 1, 0} met le Ruban Effort \n",
+        "sur {STRVAR_1 0, 0, 0}."
       ]
     },
     {
@@ -37,6 +52,12 @@
         "It needs to work a little harder.\r",
         "If it does, I’ll give your Pokémon\n",
         "something nice."
+      ],
+      "fr_FR": [
+        "Ton Pokémon doit \n",
+        "fournir plus d’efforts.\r",
+        "Quand il aura vraiment fait de son mieux,\n",
+        "je lui donnerai une belle récompense."
       ]
     },
     {
@@ -44,6 +65,10 @@
       "en_US": [
         "Oh! That Effort Ribbon looks \n",
         "good on your {STRVAR_1 0, 0, 0}!"
+      ],
+      "fr_FR": [
+        "Oh! Ce Ruban Effort va à \n",
+        "merveille à ton {STRVAR_1 0, 0, 0}!"
       ]
     },
     {
@@ -51,6 +76,10 @@
       "en_US": [
         "Sunyshore Market is best known for\n",
         "its big selection of Seals."
+      ],
+      "fr_FR": [
+        "Le Marché de Rivamar est réputé\n",
+        "pour son large choix de Sceaux."
       ]
     },
     {
@@ -58,6 +87,10 @@
       "en_US": [
         "Ah, please, allow me a little of your\n",
         "time, if you will. You won’t regret it.\r"
+      ],
+      "fr_FR": [
+        "Vous avez quelques minutes? Je vous\n",
+        "assure que vous ne le regretterez pas.\r"
       ]
     },
     {
@@ -69,17 +102,30 @@
         "You have no Seal Case?\r",
         "You must return to the town with the\n",
         "ruins and obtain a Seal Case!"
+      ],
+      "fr_FR": [
+        "Vous avez quelques minutes? Je vous\n",
+        "assure que vous ne le regretterez pas.\r",
+        "Ah mais non, ça ne va pas du tout!\n",
+        "Vous n’avez pas de Boîte Sceaux?\r",
+        "Vous pourrez vous en procurer une dans\n",
+        "cette ville où il y a des ruines."
       ]
     },
     {
       "id": "SunyshoreMarket_Text_SeeTheSealMerchant",
-      "en_US": "See the Seal Merchant there?\r"
+      "en_US": "See the Seal Merchant there?\r",
+      "fr_FR": "Tu vois ce marchand de Sceaux?\r"
     },
     {
       "id": "SunyshoreMarket_Text_DidntHaveSeals",
       "en_US": [
         "He didn’t have any Seals I wanted...\n",
         "Maybe tomorrow, I guess."
+      ],
+      "fr_FR": [
+        "Il n’a pas les Sceaux que je cherche...\n",
+        "Je reviendrai demain, on ne sait jamais."
       ]
     },
     {
@@ -87,6 +133,10 @@
       "en_US": [
         "He came through with different Seals\n",
         "today! Just what I wanted to see!"
+      ],
+      "fr_FR": [
+        "Il est revenu avec un grand choix de \n",
+        "Sceaux aujourd’hui! Je suis aux anges!"
       ]
     },
     {
@@ -96,6 +146,12 @@
         "Plaza Games are great, too!\r",
         "I’m a huge fan of the Wi-Fi Plaza, so\n",
         "I’m promoting it on my own."
+      ],
+      "fr_FR": [
+        "J’adore les Tape-joujoux et les Jeux\n",
+        "du Square!\r",
+        "Je suis accro au Square Wi-Fi, alors je\n",
+        "lui fais de la pub!"
       ]
     }
   ]

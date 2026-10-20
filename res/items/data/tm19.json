@@ -27,5 +27,12 @@
   "fieldUseFunc": "ITEM_USE_FUNC_TM_HM",
   "battleUseCategory": "BATTLE_USE_CATEGORY_NONE",
   "itemUseParams": null,
-  "teachesMove": "MOVE_GIGA_DRAIN"
+  "teachesMove": "MOVE_GIGA_DRAIN",
+  "name_fr": "CT19",
+  "description_fr": [
+    "Une attaque qui convertit la moitié des\n",
+    "dégâts infligés en PV."
+  ],
+  "plural_fr": "CT19",
+  "article_fr": null
 }

@@ -3,13 +3,19 @@
   "messages": [
     {
       "id": "Route201_Text_TooSlow",
-      "en_US": "Too slow!\r"
+      "en_US": "Too slow!\r",
+      "fr_FR": "Dépêche-toi un peu!\r"
     },
     {
       "id": "Route201_Text_LetsGetMoving",
       "en_US": [
         "{STRVAR_1 3, 0, 0}: All right!\n",
         "Let’s get moving to Prof. Rowan’s lab.\r"
+      ],
+      "fr_FR": [
+        "{STRVAR_1 3, 0, 0}: Allez!\n",
+        "En route pour le labo du\f",
+        "Professeur Sorbier.\r"
       ]
     },
     {
@@ -26,6 +32,20 @@
         "I’ve got an idea!\r",
         "Now listen. You know how wild Pokémon\n",
         "jump out when you go into tall grass?\r"
+      ],
+      "fr_FR": [
+        "{STRVAR_1 3, 0, 0}: ...\n",
+        "...\r",
+        "Quoi?\n",
+        "Evitons les hautes herbes?\f",
+        "Pas de problème!\r",
+        "Ce n’est pas grave que nous n’ayons\n",
+        "pas de Pokémon.\r",
+        "Fais-moi confiance.\n",
+        "J’ai une idée!\r",
+        "Ecoute. Tu sais que les Pokémon\n",
+        "surgissent quand on marche dans\f",
+        "les hautes herbes?\r"
       ]
     },
     {
@@ -38,6 +58,14 @@
         "Sandgem Town without running into\f",
         "wild Pokémon!\r",
         "OK, stick with me!\r"
+      ],
+      "fr_FR": [
+        "Il suffit de passer en trombe les zones\n",
+        "herbeuses, avant même que les Pokémon\f",
+        "aient le temps d’apparaître!\r",
+        "Si on fait ça, on pourra atteindre\n",
+        "Littorella sans encombre!\r",
+        "Allez, suis-moi!\r"
       ]
     },
     {
@@ -45,11 +73,16 @@
       "en_US": [
         "OK, here goes!\r",
         "On your marks...\r"
+      ],
+      "fr_FR": [
+        "Allez, en route!\r",
+        "A vos marques...\r"
       ]
     },
     {
       "id": "Route201_Text_HoldIt",
-      "en_US": "{SIZE 200}Hold it!{SIZE 100}\r"
+      "en_US": "{SIZE 200}Hold it!{SIZE 100}\r",
+      "fr_FR": "{SIZE 200}Halte!{SIZE 100}\r"
     },
     {
       "id": "Route201_Text_YouHaveNoPokemon",
@@ -58,11 +91,21 @@
         "any Pokémon between you?\r",
         "Then, what is the meaning of going into\n",
         "the tall grass?!\r"
+      ],
+      "fr_FR": [
+        "Professeur: Vous ne semblez pas avoir\n",
+        "de Pokémon, vous deux...\r",
+        "On peut savoir ce que vous comptiez\n",
+        "faire dans les hautes herbes?!\r"
       ]
     },
     {
       "id": "Route201_Text_RivalEllipsis",
       "en_US": [
+        "{STRVAR_1 3, 0, 0}: ...\n",
+        "...\r"
+      ],
+      "fr_FR": [
         "{STRVAR_1 3, 0, 0}: ...\n",
         "...\r"
       ]
@@ -71,6 +114,12 @@
       "id": "Route201_Text_ProfessorEllipsis",
       "en_US": [
         "Professor: ...\n",
+        "...\r",
+        "...\n",
+        "...\r"
+      ],
+      "fr_FR": [
+        "Professeur: ...\n",
         "...\r",
         "...\n",
         "...\r"
@@ -83,6 +132,12 @@
         "This old guy...\r",
         "It’s Prof. Rowan, isn’t it?\n",
         "What’s he doing here...?\r"
+      ],
+      "fr_FR": [
+        "{STRVAR_1 3, 0, 0}: Hé, {STRVAR_1 3, 1, 0}.\n",
+        "Ce vieux bonhomme...\r",
+        "C’est le Professeur Sorbier, pas vrai?\n",
+        "Que fait-il ici...?\r"
       ]
     },
     {
@@ -100,6 +155,19 @@
         "path...?\r",
         "...\n",
         "...\r"
+      ],
+      "fr_FR": [
+        "Professeur: ...\n",
+        "...\r",
+        "Ils sont allés dans les hautes herbes\n",
+        "pour capturer des Pokémon...\r",
+        "Hum...\n",
+        "Que faire...?\r",
+        "Leur vision du monde changerait du tout\n",
+        "au tout s’ils croisaient des Pokémon...\r",
+        "Est-ce la meilleure chose à faire...?\r",
+        "...\n",
+        "...\r"
       ]
     },
     {
@@ -107,6 +175,10 @@
       "en_US": [
         "You two.\n",
         "You truly love Pokémon, do you?"
+      ],
+      "fr_FR": [
+        "Vous deux. Vous aimez vraiment\n",
+        "les Pokémon, n’est-ce pas?"
       ]
     },
     {
@@ -114,6 +186,10 @@
       "en_US": [
         "{STRVAR_1 3, 0, 0}: Whoa, hold up!\n",
         "You’re not making any sense here!\r"
+      ],
+      "fr_FR": [
+        "{STRVAR_1 3, 0, 0}: Hein, quoi?\n",
+        "Mais qu’est-ce que tu racontes?!\r"
       ]
     },
     {
@@ -124,6 +200,13 @@
         "ask you again.\r",
         "You two.\n",
         "You truly love Pokémon, do you?"
+      ],
+      "fr_FR": [
+        "Professeur: Ahem!\r",
+        "Je n’ai pas bien entendu, alors je vais\n",
+        "vous reposer la question.\r",
+        "Vous deux. Vous aimez vraiment\n",
+        "les Pokémon, n’est-ce pas?"
       ]
     },
     {
@@ -131,6 +214,10 @@
       "en_US": [
         "{STRVAR_1 3, 0, 0}: Me, too!\n",
         "I love Pokémon, too!\r"
+      ],
+      "fr_FR": [
+        "{STRVAR_1 3, 0, 0}: Moi aussi, j’aime\n",
+        "les Pokémon!\r"
       ]
     },
     {
@@ -139,6 +226,12 @@
         "Professor: I will ask you once again.\r",
         "You two.\n",
         "You truly love Pokémon, do you?\r"
+      ],
+      "fr_FR": [
+        "Professeur: Je vais vous reposer la\n",
+        "question.\r",
+        "Vous deux. Vous aimez vraiment les\n",
+        "Pokémon, n’est-ce pas?\r"
       ]
     },
     {
@@ -149,17 +242,29 @@
         "The answer will never change!\r",
         "We’ll both answer a hundred times,\n",
         "we love Pokémon!\r"
+      ],
+      "fr_FR": [
+        "{STRVAR_1 3, 0, 0}: Quoi?!\n",
+        "Vous pouvez bien la poser cent fois!\f",
+        "La réponse ne changera jamais!\r",
+        "On répondra toujours qu’on aime\n",
+        "les Pokémon!\r"
       ]
     },
     {
       "id": "Route201_Text_RightPlayer",
-      "en_US": "Right, {STRVAR_1 3, 1, 0}?"
+      "en_US": "Right, {STRVAR_1 3, 1, 0}?",
+      "fr_FR": "Pas vrai, {STRVAR_1 3, 1, 0}?"
     },
     {
       "id": "Route201_Text_ThatJokesGettingOld",
       "en_US": [
         "{STRVAR_1 3, 0, 0}: ...\n",
         "That joke’s getting old!\r"
+      ],
+      "fr_FR": [
+        "{STRVAR_1 3, 0, 0}: ...\n",
+        "Les plus courtes sont les meilleures!\r"
       ]
     },
     {
@@ -170,6 +275,13 @@
         "without Pokémon of their own...?\r",
         "It worries me what people like that\n",
         "would do with Pokémon.\r"
+      ],
+      "fr_FR": [
+        "Professeur: Deux petits sots qui se\n",
+        "promènent dans les hautes herbes alors\f",
+        "qu’ils n’ont même pas de Pokémon...?\r",
+        "Je m’inquiète de ce qu’ils pourraient\n",
+        "faire s’ils en avaient.\r"
       ]
     },
     {
@@ -183,6 +295,16 @@
         "a Pokémon to my friend here!\r",
         "I mean, it was me who tried to go into\n",
         "the tall grass and all...\r"
+      ],
+      "fr_FR": [
+        "{STRVAR_1 3, 0, 0}: Euh...\n",
+        "Eh bien, je, euh...\r",
+        "...\n",
+        "...\r",
+        "Alors tant pis pour moi, mais donnez\n",
+        "un Pokémon à mon acolyte!\r",
+        "Vous savez, c’est moi qui ai insisté\n",
+        "pour aller dans les hautes herbes...\r"
       ]
     },
     {
@@ -200,6 +322,19 @@
         "Now, then...\r",
         "Hm?\n",
         "Now, where...?\r"
+      ],
+      "fr_FR": [
+        "Professeur: !\r",
+        "Tu as beaucoup de cœur...\r",
+        "Alors, c’est décidé!\n",
+        "Je vais vous confier des Pokémon!\r",
+        "Et je vous présente mes excuses pour\n",
+        "vous avoir testés comme ça.\r",
+        "Cependant, vous devez me promettre\n",
+        "que vous ne prendrez plus de risques\f",
+        "inutiles.\r",
+        "Alors, voyons...\n",
+        "Euh, qu’est-ce que j’en ai fait...?\r"
       ]
     },
     {
@@ -207,6 +342,10 @@
       "en_US": [
         "Dawn: Professor Rowan.\r",
         "You left your briefcase at the lake!\r"
+      ],
+      "fr_FR": [
+        "Aurore: Professeur Sorbier.\r",
+        "Vous aviez oublié votre mallette au lac!\r"
       ]
     },
     {
@@ -214,6 +353,10 @@
       "en_US": [
         "Oh?\n",
         "Is something wrong here?\r"
+      ],
+      "fr_FR": [
+        "Oh?\n",
+        "Il y a un problème?\r"
       ]
     },
     {
@@ -222,11 +365,16 @@
         "Lucas: Professor Rowan!\r",
         "You left your briefcase behind at\n",
         "the lake.\r"
+      ],
+      "fr_FR": [
+        "Louka: Professeur Sorbier.\r",
+        "Vous aviez oublié votre mallette au lac!\r"
       ]
     },
     {
       "id": "Route201_Text_IsSomethingWrong",
-      "en_US": "Is something wrong here?\r"
+      "en_US": "Is something wrong here?\r",
+      "fr_FR": "Il y a un problème?\r"
     },
     {
       "id": "Route201_Text_NiceWorkDawn",
@@ -235,6 +383,12 @@
         "Dawn, nice work.\r",
         "What I was about to do was to entrust\n",
         "these two with their own Pokémon.\r"
+      ],
+      "fr_FR": [
+        "Sorbier: Ah! La voilà!\n",
+        "Bien joué, Aurore.\r",
+        "Je m’apprêtais à donner leurs propres\n",
+        "Pokémon à ces deux jeunes.\r"
       ]
     },
     {
@@ -244,6 +398,12 @@
         "Lucas, nice work.\r",
         "What I was about to do was to entrust\n",
         "these two with their own Pokémon.\r"
+      ],
+      "fr_FR": [
+        "Sorbier: Ah! La voilà!\n",
+        "Bien joué, Louka.\r",
+        "Je m’apprêtais à donner leurs propres\n",
+        "Pokémon à ces deux jeunes.\r"
       ]
     },
     {
@@ -252,6 +412,11 @@
         "Dawn: Pardon?!\r",
         "Those Pokémon are hard to replace.\n",
         "Are you sure about giving them away?\r"
+      ],
+      "fr_FR": [
+        "Aurore: Pardon?!\r",
+        "Ces Pokémon sont irremplaçables. Vous\n",
+        "êtes sûr d’être prêt à vous en défaire?\r"
       ]
     },
     {
@@ -260,6 +425,11 @@
         "Lucas: Wha...?!\r",
         "Those Pokémon are crucial.\n",
         "You’re giving them away?\r"
+      ],
+      "fr_FR": [
+        "Louka: Quoi?!\r",
+        "Ces Pokémon sont irremplaçables. Vous\n",
+        "êtes sûr d’être prêt à vous en défaire?\r"
       ]
     },
     {
@@ -273,6 +443,15 @@
         "explored together.\r",
         "For them, today is that time.\n",
         "The place, right here.\r"
+      ],
+      "fr_FR": [
+        "Sorbier: Hum!\r",
+        "Nous coexistons avec les Pokémon.\r",
+        "Tout le monde devrait en côtoyer à\n",
+        "un moment ou à un autre.\r",
+        "C’est une expérience propre à changer\n",
+        "sa vision du monde.\r",
+        "Le moment est venu pour ces enfants.\r"
       ]
     },
     {
@@ -280,6 +459,10 @@
       "en_US": [
         "Go on! Open the briefcase and choose\n",
         "a Pokémon!\r"
+      ],
+      "fr_FR": [
+        "Allez! Ouvrez la mallette et choisissez\n",
+        "un Pokémon!\r"
       ]
     },
     {
@@ -287,6 +470,10 @@
       "en_US": [
         "Rowan: Go on! Open the briefcase and\n",
         "choose a Pokémon!"
+      ],
+      "fr_FR": [
+        "Sorbier: Allez! Ouvrez la mallette et\n",
+        "choisissez un Pokémon!"
       ]
     },
     {
@@ -296,6 +483,13 @@
         "Prof. Rowan!\r",
         "I can’t believe it! I’m so happy now\n",
         "that I can’t keep a straight face!\r"
+      ],
+      "fr_FR": [
+        "{STRVAR_1 3, 0, 0}: Vraiment?!\n",
+        "Professeur Sorbier!\r",
+        "Je n’en crois pas mes oreilles! Je suis\n",
+        "si heureux que j’ai du mal à me\f",
+        "contenir!\r"
       ]
     },
     {
@@ -305,6 +499,12 @@
         "You can choose first.\r",
         "Hey, I’m practically a grown-up.\n",
         "I have to show some class here."
+      ],
+      "fr_FR": [
+        "Hé, {STRVAR_1 3, 1, 0}.\n",
+        "Choisis en premier.\r",
+        "Tu comprends, je suis presque adulte,\n",
+        "alors je dois montrer l’exemple."
       ]
     },
     {
@@ -312,6 +512,11 @@
       "en_US": [
         "{STRVAR_1 3, 0, 0}: What’s up with you?\n",
         "Open the briefcase and pick a Pokémon!\r"
+      ],
+      "fr_FR": [
+        "{STRVAR_1 3, 0, 0}: Qu’est-ce que\n",
+        "t’attends? Ouvre la mallette et fais\f",
+        "ton choix!\r"
       ]
     },
     {
@@ -319,6 +524,10 @@
       "en_US": [
         "{STRVAR_1 3, 0, 0}: Then, I choose you!\n",
         "I’m picking this {STRVAR_1 0, 2, 0}!\r"
+      ],
+      "fr_FR": [
+        "{STRVAR_1 3, 0, 0}: C’est toi que je choisis!\n",
+        "Je prends ce {STRVAR_1 0, 2, 0}!\r"
       ]
     },
     {
@@ -333,6 +542,16 @@
         "like you.\r",
         "As fellow newcomers to the world,\n",
         "I hope you’ll do well together.\r"
+      ],
+      "fr_FR": [
+        "Sorbier: Très bien! Vous avez choisi\n",
+        "de bons Pokémon.\r",
+        "A présent, écoutez-moi bien!\r",
+        "Les Pokémon que je vous ai confiés ne\n",
+        "connaissent pas encore le monde.\r",
+        "En cela, ils vous ressemblent beaucoup.\r",
+        "Vous avez tout à découvrir, j’espère\n",
+        "que vous ferez de bonnes équipes.\r"
       ]
     },
     {
@@ -341,6 +560,12 @@
         "If you have any trouble, come see me\n",
         "at my lab in Sandgem Town.\r",
         "And now, we’ll be on our way.\r"
+      ],
+      "fr_FR": [
+        "En cas de problème, n’hésitez pas\n",
+        "à venir me voir dans mon labo de\f",
+        "Littorella.\r",
+        "Bien, à présent, partons.\r"
       ]
     },
     {
@@ -348,6 +573,10 @@
       "en_US": [
         "Dawn: Professor!\n",
         "Wait for me, please!\r"
+      ],
+      "fr_FR": [
+        "Aurore: Professeur!\n",
+        "Attendez-moi!\r"
       ]
     },
     {
@@ -355,6 +584,10 @@
       "en_US": [
         "I’m sorry...\n",
         "Please let me pass.\r"
+      ],
+      "fr_FR": [
+        "Veuillez m’excuser...\n",
+        "Je dois y aller.\r"
       ]
     },
     {
@@ -362,11 +595,16 @@
       "en_US": [
         "Lucas: Professor!\n",
         "Wait for me!\r"
+      ],
+      "fr_FR": [
+        "Louka: Professeur!\n",
+        "Attendez-moi!\r"
       ]
     },
     {
       "id": "Route201_Text_LucasSorryFolks",
-      "en_US": "Uh, sorry, folks.\r"
+      "en_US": "Uh, sorry, folks.\r",
+      "fr_FR": "Euh, désolé.\r"
     },
     {
       "id": "Route201_Text_ProfRowansReallyNice",
@@ -374,6 +612,13 @@
         "{STRVAR_1 3, 0, 0}: How do you like that?\n",
         "Prof. Rowan’s really nice.\r",
         "On TV, he seems so stern and scary.\r"
+      ],
+      "fr_FR": [
+        "{STRVAR_1 3, 0, 0}: Qu’est-ce que tu dis de\n",
+        "ça? Le Professeur Sorbier est très\f",
+        "gentil.\r",
+        "Rien à voir avec ce que je m’étais\n",
+        "imaginé en le voyant à la télé.\r"
       ]
     },
     {
@@ -383,6 +628,12 @@
         "We’ve both got Pokémon now.\r",
         "There’s only one thing to do, right?\n",
         "Are you up for this?\r"
+      ],
+      "fr_FR": [
+        "Hé, hé, {STRVAR_1 3, 1, 0}!\n",
+        "Maintenant, on a chacun un Pokémon.\r",
+        "Il n’y a plus qu’une chose à faire, non?\n",
+        "Tu te sens à la hauteur?\r"
       ]
     },
     {
@@ -390,6 +641,10 @@
       "en_US": [
         "{STRVAR_1 3, 0, 0}: What’s with that attitude?\n",
         "Don’t be that way!\r"
+      ],
+      "fr_FR": [
+        "{STRVAR_1 3, 0, 0}: Mais c’est quoi cette\n",
+        "attitude? Reprends-toi!\r"
       ]
     },
     {
@@ -404,6 +659,13 @@
         "The time has finally come!\r",
         "{STRVAR_1 3, 1, 0}!\n",
         "I challenge you to a battle!\r"
+      ],
+      "fr_FR": [
+        "{STRVAR_1 3, 0, 0}: J’ai toujours rêvé de\n",
+        "dire ça...\r",
+        "L’heure a enfin sonné!\r",
+        "{STRVAR_1 3, 1, 0}!\n",
+        "Je te défie en combat singulier!\r"
       ]
     },
     {
@@ -414,6 +676,13 @@
         "I’m beat after that battle.\n",
         "My Pokémon needs rest, too.\r",
         "See ya, {STRVAR_1 3, 1, 0}!\r"
+      ],
+      "fr_FR": [
+        "{STRVAR_1 3, 0, 0}: Waouh!\n",
+        "Rentrons à la maison.\r",
+        "Ce combat m’a épuisé.\n",
+        "Et mon Pokémon aussi a besoin de repos.\r",
+        "A plus, {STRVAR_1 3, 1, 0}!\r"
       ]
     },
     {
@@ -429,6 +698,18 @@
         "I’m beat after that battle.\n",
         "My Pokémon needs rest, too.\r",
         "See ya, {STRVAR_1 3, 1, 0}!\r"
+      ],
+      "fr_FR": [
+        "{STRVAR_1 3, 0, 0}: Ah, ah...\n",
+        "Ah, ah... J’ai gagné? J’ai gagné!\r",
+        "Enfin, ça aurait pu finir différemment!\n",
+        "C’était juste!\r",
+        "En tout cas, les combats c’est super\n",
+        "amusant!\r",
+        "OK, rentrons.\r",
+        "Ce combat m’a épuisé.\n",
+        "Et mon Pokémon aussi a besoin de repos.\r",
+        "A plus, {STRVAR_1 3, 1, 0}!\r"
       ]
     },
     {
@@ -448,6 +729,21 @@
         "Let’s catch that Pokémon.\r",
         "That’ll make Prof. Rowan happy.\n",
         "I’m sure of that!\r"
+      ],
+      "fr_FR": [
+        "{STRVAR_1 3, 0, 0}: T’en as pas marre de\n",
+        "traîner? Moi, j’en ai marre d’attendre!\r",
+        "Je me rends chez le Professeur Sorbier\n",
+        "pour le remercier.\r",
+        "J’ai eu une super idée.\n",
+        "Ecoute-moi ça.\r",
+        "Tu sais, le lac où on va souvent jouer?\r",
+        "On raconte qu’un Pokémon légendaire\n",
+        "y vit.\r",
+        "Tu as deviné!\n",
+        "Allons attraper ce Pokémon.\r",
+        "Le Professeur Sorbier sera fou de joie,\n",
+        "j’en suis sûr!\r"
       ]
     },
     {
@@ -455,6 +751,10 @@
       "en_US": [
         "{STRVAR_1 3, 0, 0}: Me and you together,\n",
         "we’ve got nothing to fear!"
+      ],
+      "fr_FR": [
+        "{STRVAR_1 3, 0, 0}: Ensemble, on n’a rien à\n",
+        "craindre!"
       ]
     },
     {
@@ -462,6 +762,10 @@
       "en_US": [
         "{STRVAR_1 3, 0, 0}: Heheh, {STRVAR_1 3, 1, 0}.\n",
         "The lake’s not that way!\r"
+      ],
+      "fr_FR": [
+        "{STRVAR_1 3, 0, 0}: Hé, {STRVAR_1 3, 1, 0}.\n",
+        "Le lac n’est pas par là!\r"
       ]
     },
     {
@@ -469,6 +773,10 @@
       "en_US": [
         "{STRVAR_1 3, 0, 0}: Hey, {STRVAR_1 3, 1, 0}!\n",
         "I said, the lake’s not that way!\r"
+      ],
+      "fr_FR": [
+        "{STRVAR_1 3, 0, 0}: Hé, {STRVAR_1 3, 1, 0}!\n",
+        "Le lac n’est pas par là!\r"
       ]
     },
     {
@@ -480,6 +788,15 @@
         "Pokémon, just walk in tall grass.\r",
         "If you want to avoid wild Pokémon,\n",
         "then stay out of the tall grass."
+      ],
+      "fr_FR": [
+        "Les Pokémon sauvages se cachent dans\n",
+        "les hautes herbes. Ils peuvent\f",
+        "attaquer à n’importe quel moment.\r",
+        "Donc si tu veux en combattre,\n",
+        "marche dans les hautes herbes.\r",
+        "Si tu veux éviter les Pokémon\n",
+        "sauvages, marche sur le chemin.\n"
       ]
     },
     {
@@ -497,6 +814,20 @@
         "a free sample. First one’s free!\r",
         "It will automatically go in the\n",
         "Medicine Pocket of your Bag.\r"
+      ],
+      "fr_FR": [
+        "Bonjour!\n",
+        "Je travaille dans une Boutique Pokémon.\r",
+        "Saviez-vous que la santé des Pokémon\n",
+        "se mesure en PV (Points de Vie)?\r",
+        "Si un Pokémon n’a plus de PV, il est\n",
+        "K.O. et ne peut plus se battre.\r",
+        "Si les PV d’un Pokémon sont bas, vous\n",
+        "pouvez le soigner avec une Potion.\r",
+        "Tenez, laissez-moi vous offrir une\n",
+        "Potion. La première fois, c’est gratuit!\r",
+        "Elle sera envoyée directement dans la\n",
+        "Poche Médicaments de votre Sac.\r"
       ]
     },
     {
@@ -504,6 +835,10 @@
       "en_US": [
         "You can find a Pokémon Mart in cities\n",
         "and most major towns."
+      ],
+      "fr_FR": [
+        "Vous trouverez des Boutiques Pokémon\n",
+        "dans la plupart des villes."
       ]
     },
     {
@@ -511,6 +846,10 @@
       "en_US": [
         "That ledge is one way. Jump down\n",
         "for a shortcut to Twinleaf Town!"
+      ],
+      "fr_FR": [
+        "Cette corniche à sens unique est un\n",
+        "raccourci pour Bonaugure. Saute!"
       ]
     },
     {
@@ -519,6 +858,11 @@
         "If your Pokémon’s health--that’s its\n",
         "HP--is getting low, you should go\f",
         "home and get some rest."
+      ],
+      "fr_FR": [
+        "Si tes Pokémon sont en mauvaise santé,\n",
+        "c’est-à-dire si leurs PV sont bas,\f",
+        "rentre chez toi te coucher."
       ]
     },
     {
@@ -527,6 +871,11 @@
         "If your Pokémon’s health--that’s its\n",
         "HP--is getting low, you should go\f",
         "to a Pokémon Center!"
+      ],
+      "fr_FR": [
+        "Si tes Pokémon sont en mauvaise santé,\n",
+        "c’est-à-dire si leurs PV sont bas,\f",
+        "rends-toi à un Centre Pokémon!"
       ]
     },
     {
@@ -534,6 +883,10 @@
       "en_US": [
         "Rt. 201\n",
         "Twinleaf Town"
+      ],
+      "fr_FR": [
+        "Route 201\n",
+        "Bonaugure"
       ]
     },
     {
@@ -541,6 +894,10 @@
       "en_US": [
         "Rt. 201\n",
         "Sandgem Town"
+      ],
+      "fr_FR": [
+        "Route 201\n",
+        "Littorella"
       ]
     },
     {
@@ -551,6 +908,13 @@
         "everyone you happen to see.\r",
         "By talking to people, you will get\n",
         "invaluable information and advice."
+      ],
+      "fr_FR": [
+        "Conseils aux Dresseurs\r",
+        "Ne soyez pas timides! Parlez à tous\n",
+        "les gens que vous voyez.\r",
+        "Vous obtiendrez peut-être des infos et\n",
+        "des conseils utiles."
       ]
     }
   ]

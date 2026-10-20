@@ -25,5 +25,13 @@
     "contest": {
         "effect": "CONTEST_EFFECT_NO_VOLTAGE_DOWN",
         "type": "CONTEST_TYPE_CUTE"
-    }
+    },
+    "name_fr": "Doux Baiser",
+    "description_fr": [
+        "Le lanceur envoie\n",
+        "un bisou si mignon\n",
+        "et désarmant qu’il\n",
+        "plonge l’ennemi dans\n",
+        "la confusion."
+    ]
 }

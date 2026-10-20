@@ -26,5 +26,13 @@
     "contest": {
         "effect": "CONTEST_EFFECT_HIGH_SCORE_LATER_TURN",
         "type": "CONTEST_TYPE_TOUGH"
-    }
+    },
+    "name_fr": "Ligotage",
+    "description_fr": [
+        "Le lanceur ligote\n",
+        "l’ennemi avec des\n",
+        "lianes ou son corps\n",
+        "pour l’écraser durant\n",
+        "2 à 5 tours."
+    ]
 }

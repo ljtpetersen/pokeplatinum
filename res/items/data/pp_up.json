@@ -31,5 +31,12 @@
     "friendshipLow": 5,
     "friendshipMed": 3,
     "friendshipHigh": 2
-  }
+  },
+  "name_fr": "PP Plus",
+  "description_fr": [
+    "Monte un peu les PP max. d’une\n",
+    "capacité sélectionnée."
+  ],
+  "plural_fr": "PP Plus",
+  "article_fr": null
 }

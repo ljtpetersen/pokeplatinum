@@ -59,6 +59,10 @@
             "en_US": [
                 "Yes! Not a grown-up!\n",
                 "Lucky me! I stand a chance!"
+            ],
+            "fr_FR": [
+                "Hé! Tu es jeune!\n",
+                "Cool! J’ai toutes mes chances!"
             ]
         },
         {
@@ -66,6 +70,10 @@
             "en_US": [
                 "Yup, battling another kid is a lot less\n",
                 "scary.\r"
+            ],
+            "fr_FR": [
+                "Je n’aime pas me battre contre\n",
+                "les adultes. Ils me font peur!\r"
             ]
         },
         {
@@ -73,7 +81,12 @@
             "en_US": [
                 "I get really nervous in front of\n",
                 "grown-ups.\r"
+            ],
+            "fr_FR": [
+                "Quand j’affronte des adultes, je suis\n",
+                "encore plus nerveux!\r"
             ]
         }
-    ]
+    ],
+    "name_fr": "Clovis"
 }

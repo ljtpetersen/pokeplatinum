@@ -9,6 +9,13 @@
         "Accessories matched to the theme.\r",
         "That means you’ll be at an advantage\n",
         "if you have lots of Accessories."
+      ],
+      "fr_FR": [
+        "Pour le Style, mieux vaut habiller\n",
+        "tes Pokémon avec des Accessoires\f",
+        "qui correspondent au thème.\r",
+        "Plus tu possèdes d’Accessoires et plus\n",
+        "tu as de chances de briller."
       ]
     },
     {
@@ -17,6 +24,11 @@
         "For the Dance competition, your\n",
         "Pokémon needs to perfectly mimic\f",
         "the dance steps of the lead dancer."
+      ],
+      "fr_FR": [
+        "Pour la compétition de Danse, ton \n",
+        "Pokémon doit suivre les pas du premier\f",
+        "danseur à la perfection."
       ]
     },
     {
@@ -30,6 +42,16 @@
         "If everyone performs for the same\n",
         "Judge, your Pokémon leaves less of\f",
         "an impression on that Judge."
+      ],
+      "fr_FR": [
+        "Pour ce qui est de la Comédie,\n",
+        "le Pokémon doit posséder le\f",
+        "bon type de capacités.\r",
+        "Mais le plus important, c’est de choisir\n",
+        "le Juge adéquat.\r",
+        "Si tout le monde joue devant le même\n",
+        "Juge, ton Pokémon fera forcément\f",
+        "moins forte impression."
       ]
     },
     {
@@ -40,6 +62,14 @@
         "Gets the Judges all excited!\r",
         "If the Judge’s excitement peaks, you\n",
         "score massive bonus points! So hot!"
+      ],
+      "fr_FR": [
+        "Pour le Concours de Sang-froid, il faut\n",
+        "utiliser une capacité avec aplomb!\f",
+        "Tu dois rendre le jury fou d’excitation!\r",
+        "Plus il est enthousiaste et plus tu \n",
+        "récoltes de points bonus!\f",
+        "C’est chaud bouillant!"
       ]
     }
   ]

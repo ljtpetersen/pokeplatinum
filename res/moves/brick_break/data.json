@@ -27,5 +27,13 @@
     "contest": {
         "effect": "CONTEST_EFFECT_BASIC",
         "type": "CONTEST_TYPE_COOL"
-    }
+    },
+    "name_fr": "Casse-Brique",
+    "description_fr": [
+        "Une attaque avec la\n",
+        "main ou autre. Peut\n",
+        "briser les barrières\n",
+        "comme Mur Lumière\n",
+        "et Protection."
+    ]
 }

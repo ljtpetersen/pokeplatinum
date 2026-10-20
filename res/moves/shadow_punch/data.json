@@ -27,5 +27,12 @@
     "contest": {
         "effect": "CONTEST_EFFECT_FIRST_PERFORMANCE_ADVANTAGE",
         "type": "CONTEST_TYPE_SMART"
-    }
+    },
+    "name_fr": "Poing Ombre",
+    "description_fr": [
+        "Le lanceur surgit des\n",
+        "ombres et donne un\n",
+        "coup de poing.\n",
+        "N’échoue jamais."
+    ]
 }

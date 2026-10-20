@@ -42,6 +42,10 @@
             "en_US": [
                 "I trained all of my gnarly Pokémon\n",
                 "at the Fighting Dojo in Kanto!\r"
+            ],
+            "fr_FR": [
+                "J’ai entraîné tous mes Pokémon\n",
+                "au Dojo de Kanto!\r"
             ]
         },
         {
@@ -49,6 +53,10 @@
             "en_US": [
                 "D  n     i\n",
                 "  o  e     n...\n"
+            ],
+            "fr_FR": [
+                "Défaite... Humiliation...\n",
+                "Pourquoi? Comment?\n"
             ]
         },
         {
@@ -56,7 +64,12 @@
             "en_US": [
                 "We’re gonna go ahead and leave...\n",
                 "You know, go train elsewhere.\n"
+            ],
+            "fr_FR": [
+                "On va aller de l’avant et partir...\n",
+                "Tu sais, pour s’entraîner ailleurs.\n"
             ]
         }
-    ]
+    ],
+    "name_fr": "Bruce"
 }

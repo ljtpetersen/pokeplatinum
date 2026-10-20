@@ -3,239 +3,298 @@
   "messages": [
     {
       "id": "pl_msg_00000341_00000",
-      "en_US": "Set Camera"
+      "en_US": "Set Camera",
+      "fr_FR": "Set Camera"
     },
     {
       "id": "pl_msg_00000341_00001",
-      "en_US": "Swaying grass"
+      "en_US": "Swaying grass",
+      "fr_FR": "Swaying grass"
     },
     {
       "id": "pl_msg_00000341_00002",
-      "en_US": "Height Check B"
+      "en_US": "Height Check B",
+      "fr_FR": "Height Check B"
     },
     {
       "id": "pl_msg_00000341_00003",
-      "en_US": "Height Check G"
+      "en_US": "Height Check G",
+      "fr_FR": "Height Check G"
     },
     {
       "id": "pl_msg_00000341_00004",
-      "en_US": "Camera"
+      "en_US": "Camera",
+      "fr_FR": "Camera"
     },
     {
       "id": "pl_msg_00000341_00005",
-      "en_US": "Change player’s height"
+      "en_US": "Change player’s height",
+      "fr_FR": "Change player’s height"
     },
     {
       "id": "pl_msg_00000341_00006",
-      "en_US": "Camera Info"
+      "en_US": "Camera Info",
+      "fr_FR": "Camera Info"
     },
     {
       "id": "pl_msg_00000341_00007",
-      "en_US": "Camera List"
+      "en_US": "Camera List",
+      "fr_FR": "Camera List"
     },
     {
       "id": "pl_msg_00000341_00008",
-      "en_US": "Zone Camera List"
+      "en_US": "Zone Camera List",
+      "fr_FR": "Zone Camera List"
     },
     {
       "id": "pl_msg_00000341_00009",
-      "en_US": "Animation"
+      "en_US": "Animation",
+      "fr_FR": "Animation"
     },
     {
       "id": "pl_msg_00000341_00010",
-      "en_US": "Fishing"
+      "en_US": "Fishing",
+      "fr_FR": "Fishing"
     },
     {
       "id": "pl_msg_00000341_00011",
-      "en_US": "Travelling Pokémon"
+      "en_US": "Travelling Pokémon",
+      "fr_FR": "Travelling Pokémon"
     },
     {
       "id": "pl_msg_00000341_00012",
-      "en_US": "Pokémon mass outbreak"
+      "en_US": "Pokémon mass outbreak",
+      "fr_FR": "Pokémon mass outbreak"
     },
     {
       "id": "pl_msg_00000341_00013",
-      "en_US": "Safari"
+      "en_US": "Safari",
+      "fr_FR": "Safari"
     },
     {
       "id": "pl_msg_00000341_00014",
-      "en_US": "GBA"
+      "en_US": "GBA",
+      "fr_FR": "GBA"
     },
     {
       "id": "pl_msg_00000341_00015",
-      "en_US": "Distance"
+      "en_US": "Distance",
+      "fr_FR": "Distance"
     },
     {
       "id": "pl_msg_00000341_00016",
-      "en_US": "X-axis"
+      "en_US": "X-axis",
+      "fr_FR": "X-axis"
     },
     {
       "id": "pl_msg_00000341_00017",
-      "en_US": "Y-axis"
+      "en_US": "Y-axis",
+      "fr_FR": "Y-axis"
     },
     {
       "id": "pl_msg_00000341_00018",
-      "en_US": "Z-axis"
+      "en_US": "Z-axis",
+      "fr_FR": "Z-axis"
     },
     {
       "id": "pl_msg_00000341_00019",
-      "en_US": "Perspective"
+      "en_US": "Perspective",
+      "fr_FR": "Perspective"
     },
     {
       "id": "pl_msg_00000341_00020",
-      "en_US": "Type"
+      "en_US": "Type",
+      "fr_FR": "Type"
     },
     {
       "id": "pl_msg_00000341_00021",
-      "en_US": "PER"
+      "en_US": "PER",
+      "fr_FR": "PER"
     },
     {
       "id": "pl_msg_00000341_00022",
-      "en_US": "ORT"
+      "en_US": "ORT",
+      "fr_FR": "ORT"
     },
     {
       "id": "pl_msg_00000341_00023",
-      "en_US": "Near"
+      "en_US": "Near",
+      "fr_FR": "Near"
     },
     {
       "id": "pl_msg_00000341_00024",
-      "en_US": "Distant"
+      "en_US": "Distant",
+      "fr_FR": "Distant"
     },
     {
       "id": "pl_msg_00000341_00025",
-      "en_US": "LOOK-X"
+      "en_US": "LOOK-X",
+      "fr_FR": "LOOK-X"
     },
     {
       "id": "pl_msg_00000341_00026",
-      "en_US": "LOOK-Y"
+      "en_US": "LOOK-Y",
+      "fr_FR": "LOOK-Y"
     },
     {
       "id": "pl_msg_00000341_00027",
-      "en_US": "LOOK-Z"
+      "en_US": "LOOK-Z",
+      "fr_FR": "LOOK-Z"
     },
     {
       "id": "pl_msg_00000341_00028",
-      "en_US": "X"
+      "en_US": "X",
+      "fr_FR": "X"
     },
     {
       "id": "pl_msg_00000341_00029",
-      "en_US": "O"
+      "en_US": "O",
+      "fr_FR": "O"
     },
     {
       "id": "pl_msg_00000341_00030",
-      "en_US": "BLOCK"
+      "en_US": "BLOCK",
+      "fr_FR": "BLOCK"
     },
     {
       "id": "pl_msg_00000341_00031",
-      "en_US": "LOCAL"
+      "en_US": "LOCAL",
+      "fr_FR": "LOCAL"
     },
     {
       "id": "pl_msg_00000341_00032",
-      "en_US": "HEIGHT"
+      "en_US": "HEIGHT",
+      "fr_FR": "HEIGHT"
     },
     {
       "id": "pl_msg_00000341_00033",
-      "en_US": "Trigger"
+      "en_US": "Trigger",
+      "fr_FR": "Trigger"
     },
     {
       "id": "pl_msg_00000341_00034",
-      "en_US": "Chain"
+      "en_US": "Chain",
+      "fr_FR": "Chain"
     },
     {
       "id": "pl_msg_00000341_00035",
-      "en_US": "Info"
+      "en_US": "Info",
+      "fr_FR": "Info"
     },
     {
       "id": "pl_msg_00000341_00036",
-      "en_US": "Records"
+      "en_US": "Records",
+      "fr_FR": "Records"
     },
     {
       "id": "pl_msg_00000341_00037",
-      "en_US": "ロッド"
+      "en_US": "ロッド",
+      "fr_FR": "ロッド"
     },
     {
       "id": "pl_msg_00000341_00038",
-      "en_US": "100%"
+      "en_US": "100%",
+      "fr_FR": "100%"
     },
     {
       "id": "pl_msg_00000341_00039",
-      "en_US": "Special point"
+      "en_US": "Special point",
+      "fr_FR": "Special point"
     },
     {
       "id": "pl_msg_00000341_00040",
-      "en_US": "Info"
+      "en_US": "Info",
+      "fr_FR": "Info"
     },
     {
       "id": "pl_msg_00000341_00041",
-      "en_US": "Location change"
+      "en_US": "Location change",
+      "fr_FR": "Location change"
     },
     {
       "id": "pl_msg_00000341_00042",
-      "en_US": "Entry"
+      "en_US": "Entry",
+      "fr_FR": "Entry"
     },
     {
       "id": "pl_msg_00000341_00043",
-      "en_US": "MESPRIT"
+      "en_US": "MESPRIT",
+      "fr_FR": "MESPRIT"
     },
     {
       "id": "pl_msg_00000341_00044",
-      "en_US": "CRESSELIA"
+      "en_US": "CRESSELIA",
+      "fr_FR": "CRESSELIA"
     },
     {
       "id": "pl_msg_00000341_00045",
-      "en_US": "DARKRAI"
+      "en_US": "DARKRAI",
+      "fr_FR": "DARKRAI"
     },
     {
       "id": "pl_msg_00000341_00046",
-      "en_US": "MOLTRES"
+      "en_US": "MOLTRES",
+      "fr_FR": "MOLTRES"
     },
     {
       "id": "pl_msg_00000341_00047",
-      "en_US": "ZAPDOS"
+      "en_US": "ZAPDOS",
+      "fr_FR": "ZAPDOS"
     },
     {
       "id": "pl_msg_00000341_00048",
-      "en_US": "ARTICUNO"
+      "en_US": "ARTICUNO",
+      "fr_FR": "ARTICUNO"
     },
     {
       "id": "pl_msg_00000341_00049",
-      "en_US": "Start"
+      "en_US": "Start",
+      "fr_FR": "Start"
     },
     {
       "id": "pl_msg_00000341_00050",
-      "en_US": "Zone info"
+      "en_US": "Zone info",
+      "fr_FR": "Zone info"
     },
     {
       "id": "pl_msg_00000341_00051",
-      "en_US": "Now ON"
+      "en_US": "Now ON",
+      "fr_FR": "Now ON"
     },
     {
       "id": "pl_msg_00000341_00052",
-      "en_US": "Now OFF"
+      "en_US": "Now OFF",
+      "fr_FR": "Now OFF"
     },
     {
       "id": "pl_msg_00000341_00053",
-      "en_US": "None"
+      "en_US": "None",
+      "fr_FR": "None"
     },
     {
       "id": "pl_msg_00000341_00054",
-      "en_US": "Sapphire"
+      "en_US": "Sapphire",
+      "fr_FR": "Sapphire"
     },
     {
       "id": "pl_msg_00000341_00055",
-      "en_US": "Ruby"
+      "en_US": "Ruby",
+      "fr_FR": "Ruby"
     },
     {
       "id": "pl_msg_00000341_00056",
-      "en_US": "Emerald"
+      "en_US": "Emerald",
+      "fr_FR": "Emerald"
     },
     {
       "id": "pl_msg_00000341_00057",
-      "en_US": "Red"
+      "en_US": "Red",
+      "fr_FR": "Red"
     },
     {
       "id": "pl_msg_00000341_00058",
-      "en_US": "Green"
+      "en_US": "Green",
+      "fr_FR": "Green"
     }
   ]
 }

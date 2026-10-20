@@ -59,6 +59,10 @@
             "en_US": [
                 "I like my mommy, PIKACHU, and my daddy,\n",
                 "too."
+            ],
+            "fr_FR": [
+                "J’aime ma maman et PIKACHU.\n",
+                "Et j’aime mon papa aussi."
             ]
         },
         {
@@ -66,6 +70,10 @@
             "en_US": [
                 "A weak Trainer isn’t cool.\n",
                 "I don’t like you.\r"
+            ],
+            "fr_FR": [
+                "Un Dresseur nul, c’est nul.\n",
+                "Je t’aime pas.\r"
             ]
         },
         {
@@ -73,7 +81,12 @@
             "en_US": [
                 "A not-wimpy Trainer is cool.\n",
                 "I like you.\r"
+            ],
+            "fr_FR": [
+                "Un Dresseur qui perd pas, c’est cool.\n",
+                "Je t’aime bien.\r"
             ]
         }
-    ]
+    ],
+    "name_fr": "Anita"
 }

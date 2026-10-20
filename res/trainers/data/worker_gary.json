@@ -28,11 +28,18 @@
                 "how tough your Pokémon happen to be.\r",
                 "It’s so much deeper than just that.\n",
                 "It’s a test of you as a person.\r"
+            ],
+            "fr_FR": [
+                "Une Arène Pokémon, ça ne sert pas qu’à\n",
+                "jauger la force d’un Pokémon.\r",
+                "C’est beaucoup plus profond que ça.\n",
+                "Cela te permet de découvrir qui tu es.\r"
             ]
         },
         {
             "type": "TRMSG_DEFEAT",
-            "en_US": "That move was devastating!\n"
+            "en_US": "That move was devastating!\n",
+            "fr_FR": "Cette technique était dévastatrice!\n"
         },
         {
             "type": "TRMSG_POST_BATTLE",
@@ -40,7 +47,13 @@
                 "I get to work all day with my\n",
                 "Pokémon, and even battle sometimes.\r",
                 "I get all the fun I need every day!"
+            ],
+            "fr_FR": [
+                "Chaque jour, je pars au boulot avec mon\n",
+                "Pokémon. Il m’arrive même de combattre.\r",
+                "Comme ça, chaque jour est une fête!"
             ]
         }
-    ]
+    ],
+    "name_fr": "Jacky"
 }

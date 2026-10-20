@@ -28,5 +28,13 @@
     "contest": {
         "effect": "CONTEST_EFFECT_LOW_VOLTAGE_ADVANTAGE",
         "type": "CONTEST_TYPE_COOL"
-    }
+    },
+    "name_fr": "Faux-Chage",
+    "description_fr": [
+        "Le lanceur retient\n",
+        "ses coups pour que\n",
+        "l’ennemi garde au\n",
+        "moins 1 PV et ne\n",
+        "tombe pas K.O."
+    ]
 }

@@ -26,5 +26,13 @@
     "contest": {
         "effect": "CONTEST_EFFECT_ALL_SAME_JUDGE",
         "type": "CONTEST_TYPE_COOL"
-    }
+    },
+    "name_fr": "Empal’Korne",
+    "description_fr": [
+        "Un coup de corne en\n",
+        "vrille qui empale\n",
+        "l’ennemi, le mettant\n",
+        "K.O. sur le coup s’il\n",
+        "est touché."
+    ]
 }

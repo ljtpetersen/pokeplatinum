@@ -27,5 +27,13 @@
   "fieldUseFunc": "ITEM_USE_FUNC_TM_HM",
   "battleUseCategory": "BATTLE_USE_CATEGORY_NONE",
   "itemUseParams": null,
-  "teachesMove": "MOVE_FOCUS_BLAST"
+  "teachesMove": "MOVE_FOCUS_BLAST",
+  "name_fr": "CT52",
+  "description_fr": [
+    "Le lanceur rassemble ses forces et\n",
+    "laisse éclater son pouvoir. Peut aussi\n",
+    "baisser la Déf. Spé. de l’ennemi."
+  ],
+  "plural_fr": "CT52",
+  "article_fr": null
 }

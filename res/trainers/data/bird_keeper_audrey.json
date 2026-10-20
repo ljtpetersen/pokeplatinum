@@ -41,6 +41,10 @@
             "en_US": [
                 "I let my bird Pokémon carry me to\n",
                 "wherever. And so, here I am!\r"
+            ],
+            "fr_FR": [
+                "Je laisse mes Pokémon Oiseaux m’emmener\n",
+                "où bon leur semble. Et donc, me voilà!\r"
             ]
         },
         {
@@ -48,6 +52,10 @@
             "en_US": [
                 "Sheesh... I arrive in a new place, and\n",
                 "it turns out to be the Battle Zone...\n"
+            ],
+            "fr_FR": [
+                "Pfff... J’arrive à un nouvel endroit\n",
+                "et je tombe sur le Secteur Combat...\n"
             ]
         },
         {
@@ -55,6 +63,10 @@
             "en_US": [
                 "I was born in the Hoenn region.\n",
                 "I’ve only just recently flown here.\n"
+            ],
+            "fr_FR": [
+                "Je suis née dans la région de Hoenn.\n",
+                "Et mes Pokémon m’ont portée ici.\n"
             ]
         },
         {
@@ -62,7 +74,12 @@
             "en_US": [
                 "I let my bird Pokémon do as they\n",
                 "wish. And so, we train here daily!\r"
+            ],
+            "fr_FR": [
+                "Je laisse mes Pokémon Oiseaux faire ce\n",
+                "qu’ils veulent. Ils veulent s’entraîner!\r"
             ]
         }
-    ]
+    ],
+    "name_fr": "Charlotte"
 }

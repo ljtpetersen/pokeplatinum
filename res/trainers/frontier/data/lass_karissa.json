@@ -59,6 +59,10 @@
             "en_US": [
                 "Uh... Um... H-hello.\n",
                 "P-pleased to meet you."
+            ],
+            "fr_FR": [
+                "Oh... Euh... S-salut...\n",
+                "Enchantée... Je crois..."
             ]
         },
         {
@@ -66,6 +70,10 @@
             "en_US": [
                 "S-s-sorry.\n",
                 "I’m r-really n-nervous.\r"
+            ],
+            "fr_FR": [
+                "D-d-désolée.\n",
+                "Je suis un peu n-nerveuse.\r"
             ]
         },
         {
@@ -73,7 +81,12 @@
             "en_US": [
                 "Uh... Th-thank you.\n",
                 "That was f-fun.\r"
+            ],
+            "fr_FR": [
+                "Oh... Euh... Merci...\n",
+                "C’était... s-s-sympa...\r"
             ]
         }
-    ]
+    ],
+    "name_fr": "Lisa"
 }

@@ -25,5 +25,13 @@
     "contest": {
         "effect": "CONTEST_EFFECT_LOW_VOLTAGE_ADVANTAGE",
         "type": "CONTEST_TYPE_CUTE"
-    }
+    },
+    "name_fr": "Permugarde",
+    "description_fr": [
+        "Pouvoir qui échange\n",
+        "les modifications de \n",
+        "la Déf. Spé. et de la\n",
+        "Défense avec\n",
+        "l’ennemi."
+    ]
 }

@@ -27,5 +27,13 @@
   "fieldUseFunc": "ITEM_USE_FUNC_TM_HM",
   "battleUseCategory": "BATTLE_USE_CATEGORY_NONE",
   "itemUseParams": null,
-  "teachesMove": "MOVE_ROCK_TOMB"
+  "teachesMove": "MOVE_ROCK_TOMB",
+  "name_fr": "CT39",
+  "description_fr": [
+    "Des rochers frappent l’ennemi. Réduit\n",
+    "aussi sa Vitesse en l’empêchant de\n",
+    "se déplacer."
+  ],
+  "plural_fr": "CT39",
+  "article_fr": null
 }

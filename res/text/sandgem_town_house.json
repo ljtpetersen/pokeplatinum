@@ -10,6 +10,15 @@
         "though.\r",
         "Heal your Pokémon regularly at Pokémon\n",
         "Centers while you’re leveling them up."
+      ],
+      "fr_FR": [
+        "Les Pokémon deviennent plus forts en\n",
+        "combattant d’autres Pokémon.\r",
+        "Vas-y doucement pour commencer,\n",
+        "cependant.\r",
+        "Et pense à les soigner souvent dans\n",
+        "les Centres Pokémon, le temps\f",
+        "qu’ils améliorent leur niveau."
       ]
     },
     {
@@ -18,6 +27,11 @@
         "A good Trainer is one that takes care\n",
         "not to let their Pokémon faint from\f",
         "losing HP."
+      ],
+      "fr_FR": [
+        "Un bon Dresseur veille à ce que ses\n",
+        "Pokémon ne soient pas K.O. parce qu’ils\f",
+        "ont perdu tous leurs PV."
       ]
     }
   ]

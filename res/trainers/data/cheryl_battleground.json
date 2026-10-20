@@ -86,14 +86,23 @@
     "messages": [
         {
             "type": "TRMSG_LAST_BATTLER_HALF_HP",
-            "en_US": "I can’t keep up with healing...\n"
+            "en_US": "I can’t keep up with healing...\n",
+            "fr_FR": [
+                "Non... J’aurai du mal à nous\n",
+                "soigner à temps...\n"
+            ]
         },
         {
             "type": "TRMSG_DEFEAT",
             "en_US": [
                 "Striking the right balance of offense\n",
                 "and defense... It’s not easy to do.\n"
+            ],
+            "fr_FR": [
+                "Ce n’est pas facile de trouver\n",
+                "l’équilibre entre attaque et défense!\n"
             ]
         }
-    ]
+    ],
+    "name_fr": "Sara"
 }

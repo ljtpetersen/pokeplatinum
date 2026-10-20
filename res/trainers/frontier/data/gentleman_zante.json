@@ -59,18 +59,28 @@
             "en_US": [
                 "I believe I will approach this battle\n",
                 "from the perspective of a newborn."
+            ],
+            "fr_FR": [
+                "J’ai décidé de me mettre dans la peau\n",
+                "d’un nourrisson durant notre combat."
             ]
         },
         {
             "type": "TRMSG_WIN",
-            "en_US": "Abuboo dah.\r"
+            "en_US": "Abuboo dah.\r",
+            "fr_FR": "Areuh, areuh! Gouzi, gouzi, gouzi!\r"
         },
         {
             "type": "TRMSG_DEFEAT",
             "en_US": [
                 "Ababaa.\n",
                 "Manmaa.\r"
+            ],
+            "fr_FR": [
+                "Ouiiiiiiiin! Ouiiiiiin!\n",
+                "Ma... ma... man...\r"
             ]
         }
-    ]
+    ],
+    "name_fr": "Melvil"
 }

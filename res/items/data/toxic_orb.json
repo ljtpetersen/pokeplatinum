@@ -26,5 +26,13 @@
   "battlePocket": "BATTLE_POCKET_MASK_NONE",
   "fieldUseFunc": "ITEM_USE_FUNC_NONE",
   "battleUseCategory": "BATTLE_USE_CATEGORY_NONE",
-  "itemUseParams": null
+  "itemUseParams": null,
+  "name_fr": "Orbe Toxique",
+  "description_fr": [
+    "Objet à tenir. Orbe bizarre\n",
+    "empoisonnant gravement son porteur\n",
+    "durant le combat."
+  ],
+  "plural_fr": "Orbe Toxique",
+  "article_fr": null
 }

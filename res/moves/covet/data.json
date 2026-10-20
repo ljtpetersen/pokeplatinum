@@ -25,5 +25,13 @@
     "contest": {
         "effect": "CONTEST_EFFECT_STEAL_VOLTAGE",
         "type": "CONTEST_TYPE_CUTE"
-    }
+    },
+    "name_fr": "Implore",
+    "description_fr": [
+        "Le lanceur s’approche\n",
+        "de l’ennemi avec un\n",
+        "air angélique afin\n",
+        "de dérober l’objet\n",
+        "qu’il tient."
+    ]
 }

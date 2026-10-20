@@ -33,6 +33,11 @@
                 "Rock ’n’ roll!\n",
                 "We’ll beat it out again!\f",
                 "Our rhythm of battle!\r"
+            ],
+            "fr_FR": [
+                "Rock ’n’ roll!\n",
+                "C’est l’heure du rappel!\f",
+                "Suivons à nouveau le rythme du combat!\r"
             ]
         },
         {
@@ -40,7 +45,12 @@
             "en_US": [
                 "Can you hear it?\n",
                 "That’s my guitar weeping...\n"
+            ],
+            "fr_FR": [
+                "Tu entends ça?\n",
+                "Ma guitare a le blues, bébé...\n"
             ]
         }
-    ]
+    ],
+    "name_fr": "Edgar"
 }

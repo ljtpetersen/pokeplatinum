@@ -26,5 +26,13 @@
   "battlePocket": "BATTLE_POCKET_MASK_NONE",
   "fieldUseFunc": "ITEM_USE_FUNC_NONE",
   "battleUseCategory": "BATTLE_USE_CATEGORY_NONE",
-  "itemUseParams": null
+  "itemUseParams": null,
+  "name_fr": "Clé Chambre",
+  "description_fr": [
+    "Clé de l’une des suites de l’hôtel de\n",
+    "luxe se trouvant près du lac.\n",
+    "Bizarrement, elle disparaît souvent."
+  ],
+  "plural_fr": "Clé Chambre",
+  "article_fr": null
 }

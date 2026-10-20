@@ -26,5 +26,13 @@
   "battlePocket": "BATTLE_POCKET_MASK_NONE",
   "fieldUseFunc": "ITEM_USE_FUNC_NONE",
   "battleUseCategory": "BATTLE_USE_CATEGORY_NONE",
-  "itemUseParams": {}
+  "itemUseParams": {},
+  "name_fr": "Foss. Racine",
+  "description_fr": [
+    "Fossile d’un ancien Pokémon aquatique.\n",
+    "On dirait un morceau de racine de\n",
+    "plante."
+  ],
+  "plural_fr": "Foss. Racine",
+  "article_fr": null
 }

@@ -100,6 +100,10 @@
             "en_US": [
                 "I fully believe in this last one.\n",
                 "I have no reason to freak out.\n"
+            ],
+            "fr_FR": [
+                "J’ai totalement confiance en celui-ci.\n",
+                "Je n’ai aucune raison de m’inquiéter.\n"
             ]
         },
         {
@@ -107,6 +111,10 @@
             "en_US": [
                 "We’re not finished yet! We’ll get out\n",
                 "of this spot because we’re so tight!\n"
+            ],
+            "fr_FR": [
+                "On ne s’avoue pas vaincus! On va s’en\n",
+                "sortir, car on est géniaux!\n"
             ]
         },
         {
@@ -114,7 +122,12 @@
             "en_US": [
                 "What just went down?!\n",
                 "My team still needs raising?!\n"
+            ],
+            "fr_FR": [
+                "Qu’est-ce qui s’est passé?!\n",
+                "Mon équipe doit encore progresser?!\n"
             ]
         }
-    ]
+    ],
+    "name_fr": "Eddy"
 }

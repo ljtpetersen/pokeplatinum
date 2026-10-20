@@ -28,5 +28,13 @@
     "contest": {
         "effect": "CONTEST_EFFECT_MAX_VOLTAGE_ADVANTAGE",
         "type": "CONTEST_TYPE_COOL"
-    }
+    },
+    "name_fr": "Electacle",
+    "description_fr": [
+        "Le lanceur électrifie\n",
+        "son corps avant de\n",
+        "charger. Le choc\n",
+        "blesse aussi beaucoup\n",
+        "le lanceur."
+    ]
 }

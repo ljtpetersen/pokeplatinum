@@ -23,6 +23,10 @@
             "en_US": [
                 "Oi! This is no fun and games!\n",
                 "This is proper work, I tell you!\r"
+            ],
+            "fr_FR": [
+                "Je ne suis pas là pour m’amuser!\n",
+                "J’ai une mission, figure-toi!\r"
             ]
         },
         {
@@ -30,6 +34,10 @@
             "en_US": [
                 "What...?!\n",
                 "Some brat messed up my job...\n"
+            ],
+            "fr_FR": [
+                "Comment oses-tu compromettre ma\n",
+                "mission?\n"
             ]
         },
         {
@@ -37,7 +45,12 @@
             "en_US": [
                 "Team Galactic needs electricity for\n",
                 "doing something big!\n"
+            ],
+            "fr_FR": [
+                "La Team Galaxie a besoin d’électricité\n",
+                "pour réaliser un projet ambitieux!\n"
             ]
         }
-    ]
+    ],
+    "name_fr": "Sbire"
 }

@@ -89,11 +89,17 @@
             "en_US": [
                 "...My time with you is drawing to a\n",
                 "close...\n"
+            ],
+            "fr_FR": [
+                "Ma présence à tes côtés risque de\n",
+                "s’effacer d’un moment à l’autre...\n"
             ]
         },
         {
             "type": "TRMSG_DEFEAT",
-            "en_US": "...Awww.\n"
+            "en_US": "...Awww.\n",
+            "fr_FR": "Argh..."
         }
-    ]
+    ],
+    "name_fr": "Viviane"
 }

@@ -35,6 +35,12 @@
                 "same anymore.\r",
                 "Like, you characters changed the,\n",
                 "well, character of the place!\r"
+            ],
+            "fr_FR": [
+                "Le vieux Pluton me donne la chair de\n",
+                "poule. Et toi, qu’est-ce que tu fais là?\r",
+                "Je ne comprends plus rien à ce qui se\n",
+                "passe ici, moi...\r"
             ]
         },
         {
@@ -42,7 +48,8 @@
             "en_US": [
                 "Oh, sure. Why don’t you just get\n",
                 "all cocky about it!\n"
-            ]
+            ],
+            "fr_FR": "Oh, bien sûr. Vas-y, vante-toi!\n"
         },
         {
             "type": "TRMSG_POST_BATTLE",
@@ -51,7 +58,14 @@
                 "not going to get very far.\r",
                 "Well, non-Team Galactic member?\n",
                 "What’s your next move?\n"
+            ],
+            "fr_FR": [
+                "Sans la clé magnétique, tu n’iras\n",
+                "pas très loin.\r",
+                "Alors, non-membre de la Team Galaxie?\n",
+                "Que comptes-tu faire, maintenant?\n"
             ]
         }
-    ]
+    ],
+    "name_fr": "Sbire"
 }

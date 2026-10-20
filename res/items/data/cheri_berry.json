@@ -41,5 +41,13 @@
     "bitterness": 0,
     "sourness": 0,
     "smoothness": 25
-  }
+  },
+  "name_fr": "Baie Ceriz",
+  "description_fr": [
+    "Ingrédient pour Poffin.\n",
+    "Utilisée ou tenue, cette Baie soigne\n",
+    "la paralysie."
+  ],
+  "plural_fr": "Baie Ceriz",
+  "article_fr": null
 }

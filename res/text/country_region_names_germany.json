@@ -3,71 +3,88 @@
   "messages": [
     {
       "id": "pl_msg_00000681_00000",
-      "en_US": "None"
+      "en_US": "None",
+      "fr_FR": "Aucun"
     },
     {
       "id": "pl_msg_00000681_00001",
-      "en_US": "Baden-Wurttemberg"
+      "en_US": "Baden-Wurttemberg",
+      "fr_FR": "Bade-Wurtemberg"
     },
     {
       "id": "pl_msg_00000681_00002",
-      "en_US": "Bayern"
+      "en_US": "Bayern",
+      "fr_FR": "Bavière"
     },
     {
       "id": "pl_msg_00000681_00003",
-      "en_US": "Berlin"
+      "en_US": "Berlin",
+      "fr_FR": "Berlin"
     },
     {
       "id": "pl_msg_00000681_00004",
-      "en_US": "Brandenburg"
+      "en_US": "Brandenburg",
+      "fr_FR": "Brandebourg"
     },
     {
       "id": "pl_msg_00000681_00005",
-      "en_US": "Bremen"
+      "en_US": "Bremen",
+      "fr_FR": "Brême"
     },
     {
       "id": "pl_msg_00000681_00006",
-      "en_US": "Hamburg"
+      "en_US": "Hamburg",
+      "fr_FR": "Hambourg"
     },
     {
       "id": "pl_msg_00000681_00007",
-      "en_US": "Hessen"
+      "en_US": "Hessen",
+      "fr_FR": "Hesse"
     },
     {
       "id": "pl_msg_00000681_00008",
-      "en_US": "Mecklenburg-Vorpommern"
+      "en_US": "Mecklenburg-Vorpommern",
+      "fr_FR": "Mecklembourg-Poméranie-Occidentale"
     },
     {
       "id": "pl_msg_00000681_00009",
-      "en_US": "Niedersachsen"
+      "en_US": "Niedersachsen",
+      "fr_FR": "Basse-Saxe"
     },
     {
       "id": "pl_msg_00000681_00010",
-      "en_US": "Nordrhein-Westfalen"
+      "en_US": "Nordrhein-Westfalen",
+      "fr_FR": "Rhénanie-du-Nord-Westphalie"
     },
     {
       "id": "pl_msg_00000681_00011",
-      "en_US": "Rheinland-Pfalz"
+      "en_US": "Rheinland-Pfalz",
+      "fr_FR": "Rhénanie-Palatinat"
     },
     {
       "id": "pl_msg_00000681_00012",
-      "en_US": "Saarland"
+      "en_US": "Saarland",
+      "fr_FR": "Sarre"
     },
     {
       "id": "pl_msg_00000681_00013",
-      "en_US": "Sachsen"
+      "en_US": "Sachsen",
+      "fr_FR": "Saxe"
     },
     {
       "id": "pl_msg_00000681_00014",
-      "en_US": "Sachsen-Anhalt"
+      "en_US": "Sachsen-Anhalt",
+      "fr_FR": "Saxe-Anhalt"
     },
     {
       "id": "pl_msg_00000681_00015",
-      "en_US": "Schleswig-Holstein"
+      "en_US": "Schleswig-Holstein",
+      "fr_FR": "Schleswig-Holstein"
     },
     {
       "id": "pl_msg_00000681_00016",
-      "en_US": "Freistaat Thuringen"
+      "en_US": "Freistaat Thuringen",
+      "fr_FR": "Etat libre de Thuringe"
     }
   ]
 }

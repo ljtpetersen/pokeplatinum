@@ -27,5 +27,12 @@
     "contest": {
         "effect": "CONTEST_EFFECT_BASIC",
         "type": "CONTEST_TYPE_COOL"
-    }
+    },
+    "name_fr": "Cru-Aile",
+    "description_fr": [
+        "L’ennemi est frappé\n",
+        "par de larges ailes\n",
+        "déployées pour\n",
+        "infliger des dégâts."
+    ]
 }

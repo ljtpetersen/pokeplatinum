@@ -28,11 +28,16 @@
             "en_US": [
                 "Hey, how about you and me battle before\n",
                 "I go into Eterna Forest?\r"
+            ],
+            "fr_FR": [
+                "Que dirais-tu d’un petit combat avant\n",
+                "mon départ pour la Forêt de Vestigion?\r"
             ]
         },
         {
             "type": "TRMSG_DEFEAT",
-            "en_US": "That really dampened my spirits.\n"
+            "en_US": "That really dampened my spirits.\n",
+            "fr_FR": "Tu m’as stoppé dans mon élan.\n"
         },
         {
             "type": "TRMSG_POST_BATTLE",
@@ -40,6 +45,12 @@
                 "I heard that really tough Pokémon\n",
                 "appear in Eterna Forest.\r",
                 "I need to be more prepared than this!\n"
+            ],
+            "fr_FR": [
+                "Il paraît que les Pokémon de la Forêt\n",
+                "de Vestigion sont très dangereux.\r",
+                "Je vais devoir me préparer un peu\n",
+                "mieux!"
             ]
         },
         {
@@ -47,7 +58,12 @@
             "en_US": [
                 "You’ve been to Eterna Forest\n",
                 "already, right? How was it?\r"
+            ],
+            "fr_FR": [
+                "Tu as déjà visité la Forêt de Vestigion,\n",
+                "je crois? Alors, c’était comment?\r"
             ]
         }
-    ]
+    ],
+    "name_fr": "Claudius"
 }

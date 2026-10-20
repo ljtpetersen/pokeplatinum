@@ -44,17 +44,26 @@
             "en_US": [
                 "What sort of moves have you taught?\n",
                 "That tells me how good you are!\r"
+            ],
+            "fr_FR": [
+                "Quelles capacités connaissent-ils?\n",
+                "Ça me permettra d’évaluer ton niveau!\r"
             ]
         },
         {
             "type": "TRMSG_DEFEAT",
-            "en_US": "Yowch!\n"
+            "en_US": "Yowch!\n",
+            "fr_FR": "Ouille!\n"
         },
         {
             "type": "TRMSG_POST_BATTLE",
             "en_US": [
                 "I heard that somewhere there’s\n",
                 "someone who teaches Pokémon moves.\n"
+            ],
+            "fr_FR": [
+                "On dit qu’il y a quelqu’un quelque part\n",
+                "qui enseigne des capacités aux Pokémon.\n"
             ]
         },
         {
@@ -62,7 +71,12 @@
             "en_US": [
                 "Have you taught your team any new\n",
                 "moves since last time?\r"
+            ],
+            "fr_FR": [
+                "Qu’as-tu appris à ton équipe depuis la\n",
+                "dernière fois?\r"
             ]
         }
-    ]
+    ],
+    "name_fr": "Nancy"
 }

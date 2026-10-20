@@ -27,5 +27,13 @@
   "fieldUseFunc": "ITEM_USE_FUNC_TM_HM",
   "battleUseCategory": "BATTLE_USE_CATEGORY_NONE",
   "itemUseParams": null,
-  "teachesMove": "MOVE_BRINE"
+  "teachesMove": "MOVE_BRINE",
+  "name_fr": "CT55",
+  "description_fr": [
+    "Cette attaque est deux fois plus\n",
+    "puissante lorsque l’ennemi a moins\n",
+    "de la moitié de ses PV."
+  ],
+  "plural_fr": "CT55",
+  "article_fr": null
 }

@@ -107,11 +107,12 @@ int Json::FromFile(MessagesConverter &converter) {
             string message;
             datanode_t elem = dp_arrelem(messages, i);
             datanode_t content;
-#if POKEPLATINUM_VERSION == 0 || POKEPLATINUM_VERSION == 1
+#if POKEPLATINUM_VERSION < 2
             // US
             if (dp_hasmemb(elem, "en_US")) {
                 content = dp_objmemb(elem, "en_US");
 #elif POKEPLATINUM_VERSION == 2
+            // EU
             if (dp_hasmemb(elem, "en_GB") || (!dp_hasmemb(elem, "garbage") && dp_hasmemb(elem, "en_US"))) {
                 if (dp_hasmemb(elem, "en_GB")) {
                     content = dp_objmemb(elem, "en_GB");
@@ -119,6 +120,10 @@ int Json::FromFile(MessagesConverter &converter) {
                 else {
                     content = dp_objmemb(elem, "en_US");
                 }
+#elif POKEPLATINUM_VERSION == 3
+            // FR
+            if (dp_hasmemb(elem, "fr_FR")) {
+                content = dp_objmemb(elem, "fr_FR");
 #endif
 
                 std::size_t numLines = 0;
@@ -147,11 +152,6 @@ int Json::FromFile(MessagesConverter &converter) {
                 message.resize(dp_int(dp_objmemb(elem, "garbage")), ' ');
             }
             else {
-#if POKEPLATINUM_VERSION == 0 || POKEPLATINUM_VERSION == 1
-                dp_error(&elem, "expected a definition for one of 'garbage' or 'en_US'");
-#elif POKEPLATINUM_VERSION == 2
-                dp_error(&elem, "expected a definition for one of 'en_GB' or 'garbage' or 'en_US'");
-#endif
                 continue;
             }
 

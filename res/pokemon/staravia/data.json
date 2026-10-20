@@ -7,7 +7,10 @@
         "special_attack": 40,
         "special_defense": 40
     },
-    "types": [ "TYPE_NORMAL", "TYPE_FLYING" ],
+    "types": [
+        "TYPE_NORMAL",
+        "TYPE_FLYING"
+    ],
     "catch_rate": 120,
     "base_exp_reward": 113,
     "ev_yields": {
@@ -26,26 +29,68 @@
     "hatch_cycles": 15,
     "base_friendship": 70,
     "exp_rate": "EXP_RATE_MEDIUM_SLOW",
-    "egg_groups": [ "EGG_GROUP_FLYING", "EGG_GROUP_FLYING" ],
-    "abilities": [ "ABILITY_INTIMIDATE", "ABILITY_NONE" ],
+    "egg_groups": [
+        "EGG_GROUP_FLYING",
+        "EGG_GROUP_FLYING"
+    ],
+    "abilities": [
+        "ABILITY_INTIMIDATE",
+        "ABILITY_NONE"
+    ],
     "safari_flee_rate": 60,
     "body_color": "MON_COLOR_BROWN",
     "flip_sprite": false,
     "icon_palette": 0,
     "learnset": {
         "by_level": [
-            [ 1, "MOVE_TACKLE" ],
-            [ 1, "MOVE_GROWL" ],
-            [ 1, "MOVE_QUICK_ATTACK" ],
-            [ 5, "MOVE_QUICK_ATTACK" ],
-            [ 9, "MOVE_WING_ATTACK" ],
-            [ 13, "MOVE_DOUBLE_TEAM" ],
-            [ 18, "MOVE_ENDEAVOR" ],
-            [ 23, "MOVE_WHIRLWIND" ],
-            [ 28, "MOVE_AERIAL_ACE" ],
-            [ 33, "MOVE_TAKE_DOWN" ],
-            [ 38, "MOVE_AGILITY" ],
-            [ 43, "MOVE_BRAVE_BIRD" ]
+            [
+                1,
+                "MOVE_TACKLE"
+            ],
+            [
+                1,
+                "MOVE_GROWL"
+            ],
+            [
+                1,
+                "MOVE_QUICK_ATTACK"
+            ],
+            [
+                5,
+                "MOVE_QUICK_ATTACK"
+            ],
+            [
+                9,
+                "MOVE_WING_ATTACK"
+            ],
+            [
+                13,
+                "MOVE_DOUBLE_TEAM"
+            ],
+            [
+                18,
+                "MOVE_ENDEAVOR"
+            ],
+            [
+                23,
+                "MOVE_WHIRLWIND"
+            ],
+            [
+                28,
+                "MOVE_AERIAL_ACE"
+            ],
+            [
+                33,
+                "MOVE_TAKE_DOWN"
+            ],
+            [
+                38,
+                "MOVE_AGILITY"
+            ],
+            [
+                43,
+                "MOVE_BRAVE_BIRD"
+            ]
         ],
         "by_tm": [
             "TM06",
@@ -115,9 +160,9 @@
             "name": "STARAVIA",
             "category": "Starling Pokémon",
             "entry_text": [
-                "Recognizing their own weakness,\n",
-                "they always live in a group. When\n",
-                "alone, a STARAVIA cries noisily."
+                "It flies around forests and fields\n",
+                "in search of bug Pokémon.\n",
+                "It stays within a huge flock."
             ]
         },
         "fr": {
@@ -163,6 +208,18 @@
                 "むしポケモンを　ねらって\n",
                 "もりや　そうげんを　とびまわる。\n",
                 "おおきな　むれで　こうどうする。"
+            ]
+        },
+        "local_version": {
+            "entry_text": [
+                "Recognizing their own weakness,\n",
+                "they always live in a group. When\n",
+                "alone, a STARAVIA cries noisily."
+            ],
+            "entry_text_fr": [
+                "Conscient de sa propre faiblesse,\n",
+                "il vit toujours en groupe, piaillant\n",
+                "bruyamment quand il est seul."
             ]
         }
     },

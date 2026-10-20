@@ -39,5 +39,13 @@
     "bitterness": 30,
     "sourness": 10,
     "smoothness": 40
-  }
+  },
+  "name_fr": "Baie Pitaye",
+  "description_fr": [
+    "Ingrédient pour Poffin.\n",
+    "Tenue, cette Baie monte l’Atq. Spé. si\n",
+    "nécessaire."
+  ],
+  "plural_fr": "Baie Pitaye",
+  "article_fr": null
 }

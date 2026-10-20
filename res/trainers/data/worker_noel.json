@@ -29,11 +29,19 @@
     "messages": [
         {
             "type": "TRMSG_PRE_BATTLE",
-            "en_US": "The working-class hero says hi!\r"
+            "en_US": "The working-class hero says hi!\r",
+            "fr_FR": [
+                "Le héros de la classe ouvrière te\n",
+                "salue!\r"
+            ]
         },
         {
             "type": "TRMSG_DEFEAT",
-            "en_US": "The working-class hero waves bye...\n"
+            "en_US": "The working-class hero waves bye...\n",
+            "fr_FR": [
+                "Le héros de la classe ouvrière te dit\n",
+                "adieu..."
+            ]
         },
         {
             "type": "TRMSG_POST_BATTLE",
@@ -44,7 +52,15 @@
                 "Floaroma Town, too.\r",
                 "You might say I’m drawn by iron\n",
                 "as if by magnet!\n"
+            ],
+            "fr_FR": [
+                "J’ai travaillé ici il y a longtemps, \n",
+                "avant la fermeture.\r",
+                "J’ai aussi travaillé à la forge près de\n",
+                "Floraville.\r",
+                "Le fer m’attire comme un aimant!\n"
             ]
         }
-    ]
+    ],
+    "name_fr": "Galaad"
 }

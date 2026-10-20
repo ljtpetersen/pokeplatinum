@@ -9,6 +9,13 @@
         "For someone like you, this\n",
         "{STRVAR_1 8, 0, 0} might be perfect.\r",
         "Let a Pokémon hold it, yah?\r"
+      ],
+      "fr_FR": [
+        "Tu as réussi à venir jusqu’ici?\n",
+        "Ça demande beaucoup d’efforts!\r",
+        "Pour quelqu’un comme toi, l’objet\n",
+        "{STRVAR_1 8, 0, 0} pourrait être parfait.\r",
+        "Laisse un Pokémon le tenir, OK?\r"
       ]
     },
     {
@@ -18,6 +25,13 @@
         "when they’re held by Pokémon.\r",
         "Try finding other items like that\n",
         "and spice up your adventure!"
+      ],
+      "fr_FR": [
+        "Certains objets ne sont utiles que\n",
+        "lorsqu’un Pokémon les tient.\r",
+        "Essaie de trouver d’autres objets de\n",
+        "ce type et met du piment dans ton\f",
+        "aventure!"
       ]
     }
   ]

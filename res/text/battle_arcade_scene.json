@@ -6,11 +6,16 @@
       "en_US": [
         "First, I’ll need to hold on to any\n",
         "items held by your Pokémon.\r"
+      ],
+      "fr_FR": [
+        "Avant tout, nous allons mettre de côté\n",
+        "tous les objets tenus par vos Pokémon.\r"
       ]
     },
     {
       "id": "BattleArcadeScene_Text_PleaseWait",
-      "en_US": "Please wait a moment."
+      "en_US": "Please wait a moment.",
+      "fr_FR": "Veuillez patienter."
     },
     {
       "id": "BattleArcadeScene_Text_Dummy1",
@@ -21,6 +26,10 @@
       "en_US": [
         "Good going!\n",
         "We’ll heal your Pokémon now."
+      ],
+      "fr_FR": [
+        "Excellent!\n",
+        "Laissez-moi soigner vos Pokémon."
       ]
     },
     {
@@ -28,6 +37,10 @@
       "en_US": [
         "Next up, game no. {STRVAR_1 53, 0, 0}!\n",
         "Are you ready?"
+      ],
+      "fr_FR": [
+        "Prochaine étape, le combat nº {STRVAR_1 53, 0, 0}!\n",
+        "On y va?"
       ]
     },
     {
@@ -35,6 +48,10 @@
       "en_US": [
         "Would you like to save the last battle\n",
         "as your Battle Video?"
+      ],
+      "fr_FR": [
+        "Voulez-vous enregistrer la vidéo du\n",
+        "dernier combat sur le Magnéto VS?"
       ]
     },
     {
@@ -42,6 +59,10 @@
       "en_US": [
         "{STRVAR_1 3, 0, 0}’s battle has been saved\n",
         "as a Battle Video.\r"
+      ],
+      "fr_FR": [
+        "La Vidéo de combat de {STRVAR_1 3, 0, 0}\n",
+        "a été sauvegardée.\r"
       ]
     },
     {
@@ -49,6 +70,10 @@
       "en_US": [
         "There was an error.\n",
         "The Battle Video couldn’t be saved.\r"
+      ],
+      "fr_FR": [
+        "Une erreur est survenue.\n",
+        "La sauvegarde a échoué.\r"
       ]
     },
     {
@@ -56,6 +81,10 @@
       "en_US": [
         "Delete your existing Battle Video and\n",
         "save the last battle?"
+      ],
+      "fr_FR": [
+        "Effacer la Vidéo de combat précédente\n",
+        "pour enregistrer ce combat?"
       ]
     },
     {
@@ -63,6 +92,10 @@
       "en_US": [
         "Saving...\n",
         "Don’t turn off the power."
+      ],
+      "fr_FR": [
+        "Sauvegarde en cours...\n",
+        "Ne pas éteindre."
       ]
     },
     {
@@ -70,6 +103,10 @@
       "en_US": [
         "Would you like to save and take a break\n",
         "from playing?"
+      ],
+      "fr_FR": [
+        "Voulez-vous sauvegarder et faire une\n",
+        "pause?"
       ]
     },
     {
@@ -85,7 +122,8 @@
       "en_US": [
         "Would you like to retire from this\n",
         "challenge?"
-      ]
+      ],
+      "fr_FR": "Voulez-vous abandonner?"
     },
     {
       "id": "BattleArcadeScene_Text_Dummy4",
@@ -100,6 +138,10 @@
       "en_US": [
         "{STRVAR_1 3, 0, 0} is choosing.\n",
         "Please wait."
+      ],
+      "fr_FR": [
+        "Attente d’une réponse de {STRVAR_1 3, 0, 0}.\n",
+        "Veuillez patienter."
       ]
     },
     {
@@ -108,17 +150,23 @@
     },
     {
       "id": "BattleArcadeScene_Text_PartnerRetired",
-      "en_US": "{STRVAR_1 3, 0, 0} chose to retire."
+      "en_US": "{STRVAR_1 3, 0, 0} chose to retire.",
+      "fr_FR": "{STRVAR_1 3, 0, 0} a décidé d’abandonner."
     },
     {
       "id": "BattleArcadeScene_Text_Welcome",
-      "en_US": "Welcome to the Battle Arcade!\r"
+      "en_US": "Welcome to the Battle Arcade!\r",
+      "fr_FR": "Bienvenue à l’Arcade de Combat!\r"
     },
     {
       "id": "BattleArcadeScene_Text_GameStart",
       "en_US": [
         "Game no. {STRVAR_1 53, 0, 0}!\n",
         "Come on!"
+      ],
+      "fr_FR": [
+        "Combat numéro {STRVAR_1 53, 0, 0}!\n",
+        "C’est parti!"
       ]
     },
     {
@@ -126,17 +174,27 @@
       "en_US": [
         "Without further ado...\n",
         "Let’s activate the game board!"
+      ],
+      "fr_FR": [
+        "Sans plus attendre...\n",
+        "Activons le tableau de jeu!"
       ]
     },
     {
       "id": "BattleArcadeScene_Text_CurrentEvent",
-      "en_US": "This is our current event!"
+      "en_US": "This is our current event!",
+      "fr_FR": "Et voici le résultat!"
     },
     {
       "id": "BattleArcadeScene_Text_SoloNonFullHP",
       "en_US": [
         "The match will commence with\n",
         "{STRVAR_1 3, 0, 0}’s Pokémon without full HP!"
+      ],
+      "fr_FR": [
+        "Les Pokémon de {STRVAR_1 3, 0, 0}\n",
+        "commenceront le combat avec\f",
+        "des PV en moins!"
       ]
     },
     {
@@ -145,6 +203,11 @@
         "The match will commence with\n",
         "{STRVAR_1 3, 0, 0}’s and {STRVAR_1 3, 1, 0}’s\f",
         "Pokémon without full HP!"
+      ],
+      "fr_FR": [
+        "Les Pokémon de {STRVAR_1 3, 0, 0} et\n",
+        "{STRVAR_1 3, 1, 0} commenceront le combat\f",
+        "avec des PV en moins!"
       ]
     },
     {
@@ -152,6 +215,10 @@
       "en_US": [
         "The match will commence with\n",
         "{STRVAR_1 3, 0, 0}’s Pokémon leveled up!"
+      ],
+      "fr_FR": [
+        "Le niveau des Pokémon de {STRVAR_1 3, 0, 0}\n",
+        "sera augmenté pour ce combat!"
       ]
     },
     {
@@ -160,6 +227,11 @@
         "The match will commence with\n",
         "{STRVAR_1 3, 0, 0}’s and {STRVAR_1 3, 1, 0}’s\f",
         "Pokémon leveled up!"
+      ],
+      "fr_FR": [
+        "Le niveau des Pokémon de {STRVAR_1 3, 0, 0}\n",
+        "et {STRVAR_1 3, 1, 0} sera augmenté\f",
+        "pour ce combat!"
       ]
     },
     {
@@ -167,6 +239,10 @@
       "en_US": [
         "The match will commence with\n",
         "{STRVAR_1 3, 0, 0}’s Pokémon poisoned!"
+      ],
+      "fr_FR": [
+        "Les Pokémon de {STRVAR_1 3, 0, 0} seront\n",
+        "empoisonnés avant le combat!"
       ]
     },
     {
@@ -175,6 +251,11 @@
         "The match will commence with\n",
         "{STRVAR_1 3, 0, 0} and {STRVAR_1 3, 1, 0}’s\f",
         "Pokémon poisoned!"
+      ],
+      "fr_FR": [
+        "Les Pokémon de {STRVAR_1 3, 0, 0} et\n",
+        "{STRVAR_1 3, 1, 0} seront empoisonnés\f",
+        "avant le combat!"
       ]
     },
     {
@@ -182,6 +263,10 @@
       "en_US": [
         "The match will commence with\n",
         "{STRVAR_1 3, 0, 0}’s Pokémon paralyzed!"
+      ],
+      "fr_FR": [
+        "Les Pokémon de {STRVAR_1 3, 0, 0} seront\n",
+        "paralysés avant le combat!"
       ]
     },
     {
@@ -190,6 +275,11 @@
         "The match will commence with\n",
         "{STRVAR_1 3, 0, 0} and {STRVAR_1 3, 1, 0}’s\f",
         "Pokémon paralyzed!"
+      ],
+      "fr_FR": [
+        "Les Pokémon de {STRVAR_1 3, 0, 0} et\n",
+        "{STRVAR_1 3, 1, 0} seront paralysés\f",
+        "avant le combat!"
       ]
     },
     {
@@ -197,6 +287,10 @@
       "en_US": [
         "The match will commence with\n",
         "{STRVAR_1 3, 0, 0}’s Pokémon burned!"
+      ],
+      "fr_FR": [
+        "Les Pokémon de {STRVAR_1 3, 0, 0} seront\n",
+        "brûlés avant le combat!"
       ]
     },
     {
@@ -205,6 +299,11 @@
         "The match will commence with\n",
         "{STRVAR_1 3, 0, 0} and {STRVAR_1 3, 1, 0}’s\f",
         "Pokémon burned!"
+      ],
+      "fr_FR": [
+        "Les Pokémon de {STRVAR_1 3, 0, 0} et\n",
+        "{STRVAR_1 3, 1, 0} seront brûlés\f",
+        "avant le combat!"
       ]
     },
     {
@@ -212,6 +311,10 @@
       "en_US": [
         "The match will commence with\n",
         "{STRVAR_1 3, 0, 0}’s Pokémon asleep!"
+      ],
+      "fr_FR": [
+        "Un Pokémon de {STRVAR_1 3, 0, 0} sera\n",
+        "endormi avant le combat!"
       ]
     },
     {
@@ -220,6 +323,11 @@
         "The match will commence with\n",
         "{STRVAR_1 3, 0, 0} and {STRVAR_1 3, 1, 0}’s\f",
         "Pokémon asleep!"
+      ],
+      "fr_FR": [
+        "Un Pokémon de {STRVAR_1 3, 0, 0} ou\n",
+        "{STRVAR_1 3, 1, 0} sera endormi\f",
+        "avant le combat!"
       ]
     },
     {
@@ -227,6 +335,10 @@
       "en_US": [
         "The match will commence with\n",
         "{STRVAR_1 3, 0, 0}’s Pokémon frozen!"
+      ],
+      "fr_FR": [
+        "Un Pokémon de {STRVAR_1 3, 0, 0}\n",
+        "sera gelé avant le combat!"
       ]
     },
     {
@@ -235,6 +347,11 @@
         "The match will commence with\n",
         "{STRVAR_1 3, 0, 0} and {STRVAR_1 3, 1, 0}’s\f",
         "Pokémon frozen!"
+      ],
+      "fr_FR": [
+        "Un Pokémon de {STRVAR_1 3, 0, 0} ou\n",
+        "{STRVAR_1 3, 1, 0} sera gelé\f",
+        "avant le combat!"
       ]
     },
     {
@@ -242,6 +359,10 @@
       "en_US": [
         "{STRVAR_1 3, 0, 0}’s Pokémon will be loaned\n",
         "the {STRVAR_1 8, 2, 0}."
+      ],
+      "fr_FR": [
+        "Les Pokémon de {STRVAR_1 3, 0, 0} tiendront\n",
+        "l’objet {STRVAR_1 8, 2, 0}."
       ]
     },
     {
@@ -250,17 +371,27 @@
         "{STRVAR_1 3, 0, 0} and {STRVAR_1 3, 1, 0}’s\n",
         "Pokémon will be loaned the\f",
         "{STRVAR_1 8, 2, 0}."
+      ],
+      "fr_FR": [
+        "Les Pokémon de {STRVAR_1 3, 0, 0} et\n",
+        "{STRVAR_1 3, 1, 0} tiendront l’objet\f",
+        "{STRVAR_1 8, 2, 0}!"
       ]
     },
     {
       "id": "BattleArcadeScene_Text_HereYouGo",
-      "en_US": "Here you go!\r"
+      "en_US": "Here you go!\r",
+      "fr_FR": "Et voilà!\r"
     },
     {
       "id": "BattleArcadeScene_Text_SunnyCondition",
       "en_US": [
         "This match will be conducted under\n",
         "harsh sunlight."
+      ],
+      "fr_FR": [
+        "Ce combat aura lieu sous un\n",
+        "soleil brûlant!"
       ]
     },
     {
@@ -268,6 +399,10 @@
       "en_US": [
         "This match will be conducted under a\n",
         "steady rainfall."
+      ],
+      "fr_FR": [
+        "Ce combat aura lieu sous\n",
+        "une pluie torrentielle!"
       ]
     },
     {
@@ -275,6 +410,10 @@
       "en_US": [
         "This match will be conducted under\n",
         "a raging sandstorm."
+      ],
+      "fr_FR": [
+        "Ce combat aura lieu au beau milieu\n",
+        "d’une tempête de sable!"
       ]
     },
     {
@@ -282,13 +421,18 @@
       "en_US": [
         "This match will be conducted under\n",
         "pelting hail."
-      ]
+      ],
+      "fr_FR": "Ce combat aura lieu sous la grêle!"
     },
     {
       "id": "BattleArcadeScene_Text_FoggyCondition",
       "en_US": [
         "This match will be conducted in a\n",
         "dense fog."
+      ],
+      "fr_FR": [
+        "Ce combat aura lieu dans un\n",
+        "épais brouillard!"
       ]
     },
     {
@@ -296,6 +440,10 @@
       "en_US": [
         "This match will be conducted on a floor\n",
         "where time and space are distorted."
+      ],
+      "fr_FR": [
+        "Pour ce combat, les dimensions seront\n",
+        "faussées!"
       ]
     },
     {
@@ -303,6 +451,10 @@
       "en_US": [
         "Your Pokémon will be switched with the\n",
         "other Trainer’s for this match."
+      ],
+      "fr_FR": [
+        "Pour ce combat, vos Pokémon seront\n",
+        "échangés contre ceux de l’adversaire!"
       ]
     },
     {
@@ -310,6 +462,10 @@
       "en_US": [
         "From the next game on, the\n",
         "game board’s speed will be increased."
+      ],
+      "fr_FR": [
+        "Après ce combat, le curseur du tableau\n",
+        "de jeu se déplacera plus rapidement."
       ]
     },
     {
@@ -317,6 +473,10 @@
       "en_US": [
         "From the next game on, the\n",
         "game board’s speed will be decreased."
+      ],
+      "fr_FR": [
+        "Après ce combat, le curseur du tableau\n",
+        "de jeu se déplacera plus lentement."
       ]
     },
     {
@@ -324,28 +484,42 @@
       "en_US": [
         "For the next game, the game board’s\n",
         "motion will become random."
+      ],
+      "fr_FR": [
+        "Au tour suivant, le curseur du tableau\n",
+        "de jeu se déplacera aléatoirement."
       ]
     },
     {
       "id": "BattleArcadeScene_Text_SoloFreeBP",
-      "en_US": "{STRVAR_1 3, 0, 0} received {STRVAR_1 51, 2, 0} BP!"
+      "en_US": "{STRVAR_1 3, 0, 0} received {STRVAR_1 51, 2, 0} BP!",
+      "fr_FR": "{STRVAR_1 3, 0, 0} obtient {STRVAR_1 51, 2, 0} PCo!"
     },
     {
       "id": "BattleArcadeScene_Text_MultiFreeBP",
       "en_US": [
         "{STRVAR_1 3, 0, 0} and {STRVAR_1 3, 1, 0} received\n",
         "{STRVAR_1 51, 2, 0} BP!"
+      ],
+      "fr_FR": [
+        "{STRVAR_1 3, 0, 0} et {STRVAR_1 3, 1, 0}\n",
+        "obtiennent {STRVAR_1 51, 2, 0} PCo!"
       ]
     },
     {
       "id": "BattleArcadeScene_Text_AreYouReady2",
-      "en_US": "Are you ready?"
+      "en_US": "Are you ready?",
+      "fr_FR": "Tout le monde est prêt?"
     },
     {
       "id": "BattleArcadeScene_Text_SkipBattle",
       "en_US": [
         "Oh! Lucky!\n",
         "You can skip the battle!"
+      ],
+      "fr_FR": [
+        "Oh! Quelle chance!\n",
+        "Vous évitez ce combat!"
       ]
     },
     {
@@ -353,11 +527,16 @@
       "en_US": [
         "Too bad!\n",
         "There is no event this time!"
+      ],
+      "fr_FR": [
+        "Dommage!\n",
+        "Pas d’événement pour ce combat!"
       ]
     },
     {
       "id": "BattleArcadeScene_Text_BattleStart",
-      "en_US": "OK! Let the battle commence!"
+      "en_US": "OK! Let the battle commence!",
+      "fr_FR": "Bien! Que le combat commence!"
     },
     {
       "id": "BattleArcadeScene_Text_SoloImmuneToPoison",
@@ -367,6 +546,13 @@
         "Oh! A lucky break!\r",
         "{STRVAR_1 3, 0, 0} has no Pokémon that can\n",
         "be poisoned!"
+      ],
+      "fr_FR": [
+        "Les Pokémon de {STRVAR_1 3, 0, 0} seront\n",
+        "empoisonnés avant le combat...\r",
+        "Oh! Quelle chance!\r",
+        "Aucun des Pokémon de {STRVAR_1 3, 0, 0} ne\n",
+        "peut être empoisonné!"
       ]
     },
     {
@@ -377,6 +563,14 @@
         "Oh! A lucky break!\r",
         "Neither of them has a Pokémon that\n",
         "can be poisoned!"
+      ],
+      "fr_FR": [
+        "Les Pokémon de {STRVAR_1 3, 0, 0} et\n",
+        "{STRVAR_1 3, 1, 0} seront empoisonnés\f",
+        "avant le combat...\r",
+        "Oh! Quelle chance!\r",
+        "Aucun de leurs Pokémon ne peut être\n",
+        "empoisonné!"
       ]
     },
     {
@@ -387,6 +581,13 @@
         "Oh! A lucky break!\r",
         "{STRVAR_1 3, 0, 0} has no Pokémon that can\n",
         "be paralyzed!"
+      ],
+      "fr_FR": [
+        "Les Pokémon de {STRVAR_1 3, 0, 0} seront\n",
+        "paralysés avant le combat...\r",
+        "Oh! Quelle chance!\r",
+        "Aucun des Pokémon de {STRVAR_1 3, 0, 0} ne\n",
+        "peut être paralysé!"
       ]
     },
     {
@@ -397,6 +598,14 @@
         "Oh! A lucky break!\r",
         "Neither of them has a Pokémon that\n",
         "can be paralyzed!"
+      ],
+      "fr_FR": [
+        "Les Pokémon de {STRVAR_1 3, 0, 0} et\n",
+        "{STRVAR_1 3, 1, 0} seront paralysés\f",
+        "avant le combat...\r",
+        "Oh! Quelle chance!\r",
+        "Aucun de leurs Pokémon ne peut être\n",
+        "paralysé!"
       ]
     },
     {
@@ -407,6 +616,13 @@
         "Oh! A lucky break!\r",
         "{STRVAR_1 3, 0, 0} has no Pokémon that can\n",
         "be burned!"
+      ],
+      "fr_FR": [
+        "Les Pokémon de {STRVAR_1 3, 0, 0} seront\n",
+        "brûlés avant le combat...\r",
+        "Oh! Quelle chance!\r",
+        "Aucun des Pokémon de {STRVAR_1 3, 0, 0} ne\n",
+        "peut être brûlé!"
       ]
     },
     {
@@ -417,6 +633,14 @@
         "Oh! A lucky break!\r",
         "Neither of them has a Pokémon that\n",
         "can be burned!"
+      ],
+      "fr_FR": [
+        "Les Pokémon de {STRVAR_1 3, 0, 0} et\n",
+        "{STRVAR_1 3, 1, 0} seront brûlés\f",
+        "avant le combat...\r",
+        "Oh! Quelle chance!\r",
+        "Aucun de leurs Pokémon ne peut être\n",
+        "brûlé!"
       ]
     },
     {
@@ -427,6 +651,13 @@
         "Oh! A lucky break!\r",
         "{STRVAR_1 3, 0, 0} has no Pokémon that can\n",
         "be made to sleep!"
+      ],
+      "fr_FR": [
+        "Un Pokémon de {STRVAR_1 3, 0, 0} sera\n",
+        "endormi avant le combat...\r",
+        "Oh! Quelle chance!\r",
+        "Aucun des Pokémon de {STRVAR_1 3, 0, 0} ne\n",
+        "peut être endormi!"
       ]
     },
     {
@@ -437,6 +668,14 @@
         "Oh! A lucky break!\r",
         "Neither of them has a Pokémon that\n",
         "can be made to sleep!"
+      ],
+      "fr_FR": [
+        "Un Pokémon de {STRVAR_1 3, 0, 0} ou\n",
+        "{STRVAR_1 3, 1, 0} va être endormi\f",
+        "avant le combat...\r",
+        "Oh! Quelle chance!\r",
+        "Aucun de leurs Pokémon ne peut être\n",
+        "endormi!"
       ]
     },
     {
@@ -447,6 +686,13 @@
         "Oh! A lucky break!\r",
         "{STRVAR_1 3, 0, 0} has no Pokémon that can\n",
         "be frozen!"
+      ],
+      "fr_FR": [
+        "Un Pokémon de {STRVAR_1 3, 0, 0} sera\n",
+        "gelé avant le combat...\r",
+        "Oh! Quelle chance!\r",
+        "Aucun des Pokémon de {STRVAR_1 3, 0, 0} ne\n",
+        "peut être gelé!"
       ]
     },
     {
@@ -457,6 +703,14 @@
         "Oh! A lucky break!\r",
         "Neither of them has a Pokémon that\n",
         "can be frozen!"
+      ],
+      "fr_FR": [
+        "Un Pokémon de {STRVAR_1 3, 0, 0} ou\n",
+        "{STRVAR_1 3, 1, 0} sera gelé\f",
+        "avant le combat...\r",
+        "Oh! Quelle chance!\r",
+        "Aucun de leurs Pokémon ne peut être\n",
+        "gelé!"
       ]
     },
     {
@@ -465,11 +719,17 @@
         "You have cleared your seventh battle!\n",
         "Congratulations!\r",
         "You have earned BP as your prize!\r"
+      ],
+      "fr_FR": [
+        "Vous avez remporté votre septième\n",
+        "combat d’affilée! Félicitations!\r",
+        "Prenez ces PCo en récompense!\r"
       ]
     },
     {
       "id": "BattleArcadeScene_Text_ReceiveBP",
-      "en_US": "{STRVAR_1 3, 0, 0} received {STRVAR_1 51, 1, 0} BP!\r"
+      "en_US": "{STRVAR_1 3, 0, 0} received {STRVAR_1 51, 1, 0} BP!\r",
+      "fr_FR": "{STRVAR_1 3, 0, 0} obtient {STRVAR_1 51, 1, 0} PCo!\r"
     },
     {
       "id": "BattleArcadeScene_Text_Dummy7",
@@ -480,6 +740,10 @@
       "en_US": [
         "We will return any items we were holding\n",
         "for you.\r"
+      ],
+      "fr_FR": [
+        "Vous pouvez reprendre les objets\n",
+        "que vous nous aviez laissés.\r"
       ]
     },
     {
@@ -487,6 +751,10 @@
       "en_US": [
         "Saving...\n",
         "Don’t turn off the power."
+      ],
+      "fr_FR": [
+        "Sauvegarde en cours...\n",
+        "Ne pas éteindre."
       ]
     },
     {
@@ -495,19 +763,23 @@
     },
     {
       "id": "BattleArcadeScene_Text_ContinueOption",
-      "en_US": "CONTINUE"
+      "en_US": "CONTINUE",
+      "fr_FR": "CONTINUER"
     },
     {
       "id": "BattleArcadeScene_Text_RecordOption",
-      "en_US": "RECORD"
+      "en_US": "RECORD",
+      "fr_FR": "ENREGISTRER"
     },
     {
       "id": "BattleArcadeScene_Text_RestOption",
-      "en_US": "REST"
+      "en_US": "REST",
+      "fr_FR": "FAIRE UNE PAUSE"
     },
     {
       "id": "BattleArcadeScene_Text_RetireOption",
-      "en_US": "RETIRE"
+      "en_US": "RETIRE",
+      "fr_FR": "ABANDONNER"
     },
     {
       "id": "BattleArcadeScene_Text_ArcadeStarApproaching",
@@ -519,6 +791,15 @@
         "So, your next match is against the\n",
         "Arcade Star; no ifs or buts!\r",
         "Are you ready?\r"
+      ],
+      "fr_FR": [
+        "Félicitations, Dresseur!\r",
+        "Vos qualités ont impressionné notre\n",
+        "Meneur de Zone, qui a décidé de vous\f",
+        "affronter en personne.\r",
+        "Lors du prochain combat, vous\n",
+        "affronterez la Diva Arcade!\r",
+        "Voulez-vous relever le défi?\r"
       ]
     },
     {
@@ -536,6 +817,19 @@
         "because you were lucky.\r",
         "Let us not waste any time.\n",
         "I wish to test your skills myself!\r"
+      ],
+      "fr_FR": [
+        "Dahlia: A quoi bon s’inquiéter? ♫\n",
+        "Les choses sont-elles déjà décidées?\r",
+        "Le tableau de jeu, la vie...\n",
+        "Que va-t-il se passer?\r",
+        "A quoi bon s’inquiéter? ♫\n",
+        "On ne peut changer sa destinée!\r",
+        "Mais assez de poésie!\r",
+        "La chance est ton alliée, mais tes\n",
+        "compétences sont avérées.\r",
+        "Allons, ne perdons plus de temps,\n",
+        "car tu dois m’affronter!\r"
       ]
     },
     {
@@ -555,6 +849,21 @@
         "not be swayed by luck, good or bad?\r",
         "I wish to see for myself what brought\n",
         "you to me today!\r"
+      ],
+      "fr_FR": [
+        "Dahlia: A quoi bon s’inquiéter? ♫\n",
+        "Les choses sont-elles déjà décidées?\r",
+        "Le tableau de jeu, la vie...\n",
+        "Que va-t-il se passer?\r",
+        "A quoi bon s’inquiéter? ♫\n",
+        "On ne peut changer sa destinée!\r",
+        "Mais assez de poésie. Tu es\n",
+        "absolument incroyable!\r",
+        "A nouveau, tu te trouves devant moi,\n",
+        "la chance a l’air de ton côté!\r",
+        "Ou peut-être n’as-tu que faire de\n",
+        "la chance?\r",
+        "Je vais pouvoir en juger!\r"
       ]
     },
     {
@@ -567,6 +876,15 @@
         "That is why you handled everything\n",
         "thrown your way splendidly.\r",
         "A most wonderful victory it was!\r"
+      ],
+      "fr_FR": [
+        "Dahlia: Quel talent!\n",
+        "Cette victoire m’a épatée!\r",
+        "Ton amour des Pokémon m’inspire\n",
+        "bien plus que je ne saurais dire.\r",
+        "Les mots me manquent pour exprimer\n",
+        "la splendeur de notre combat passé.\r",
+        "Un moment magique!\r"
       ]
     },
     {
@@ -582,6 +900,15 @@
         "proven your mastery brilliantly!\r",
         "I am sincerely happy for having this\n",
         "battle against you!\r"
+      ],
+      "fr_FR": [
+        "Dahlia: Quel talent!\n",
+        "Cette victoire m’a épatée!\r",
+        "Tu as su faire de la chance ton alliée.\r",
+        "C’est une qualité importante!\r",
+        "Même moi, Dahlia, dus m’incliner\n",
+        "devant de telles capacités!\r",
+        "Merci pour ce combat!\r"
       ]
     }
   ]

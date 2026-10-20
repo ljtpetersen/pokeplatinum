@@ -43,6 +43,10 @@
             "en_US": [
                 "Whilst exploring the ruins, I spotted\n",
                 "a Trainer! I must investigate!\r"
+            ],
+            "fr_FR": [
+                "J’ai repéré un Dresseur en explorant\n",
+                "les ruines! Je dois mener l’enquête!\r"
             ]
         },
         {
@@ -50,6 +54,10 @@
             "en_US": [
                 "My investigation has revealed the\n",
                 "Trainer to be tough! Ouch...\n"
+            ],
+            "fr_FR": [
+                "Mon enquête révèle que le Dresseur est\n",
+                "vraiment coriace! Aïe...\n"
             ]
         },
         {
@@ -57,6 +65,10 @@
             "en_US": [
                 "Celestic Town is an old town.\n",
                 "I’m sure to find something cool.\n"
+            ],
+            "fr_FR": [
+                "Célestia est une ville ancienne.\n",
+                "J’y trouverai sûrement un truc cool.\n"
             ]
         },
         {
@@ -64,7 +76,12 @@
             "en_US": [
                 "Whilst exploring the ruins, I spotted\n",
                 "you again! I will now investigate!\r"
+            ],
+            "fr_FR": [
+                "Je retombe sur toi en explorant\n",
+                "les ruines! Je dois mener l’enquête!\r"
             ]
         }
-    ]
+    ],
+    "name_fr": "Hugo"
 }

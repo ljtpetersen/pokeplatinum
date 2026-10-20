@@ -12,6 +12,17 @@
         "discovered in the Kanto region.\r",
         "I want to ask for your help in\n",
         "solving the mystery behind this.\r"
+      ],
+      "fr_FR": [
+        "Chen: Ah, {STRVAR_1 3, 0, 0}!\n",
+        "Je suis content de te voir!\r",
+        "Je voudrais te montrer quelque chose. \n",
+        "Regarde cette plaque en pierre.\r",
+        "On en a découvert une toute \n",
+        "pareille dans la région de Kanto.\r",
+        "Je voudrais que tu me donnes \n",
+        "un coup de main pour résoudre\f",
+        "le mystère qui l’entoure.\r"
       ]
     },
     {
@@ -25,6 +36,17 @@
         "discovered in the Kanto region.\r",
         "I want to ask for your help in\n",
         "solving the mystery behind this.\r"
+      ],
+      "fr_FR": [
+        "Chen: Ah, {STRVAR_1 3, 0, 0}!\n",
+        "Je suis content de te voir!\r",
+        "Je voudrais te montrer quelque chose. \n",
+        "Regarde cette plaque en pierre.\r",
+        "On en a découvert une semblable \n",
+        "dans la région de Kanto.\r",
+        "Je voudrais que tu me donnes \n",
+        "un coup de main pour résoudre\f",
+        "le mystère qui l’entoure.\r"
       ]
     },
     {
@@ -46,6 +68,23 @@
         "affected you the most.\r",
         "Tell me, to whom do you most want\n",
         "to say your thanks?\r"
+      ],
+      "fr_FR": [
+        "J’ai essayé de déchiffrer \n",
+        "les inscriptions qu’elle porte.\r",
+        "Apparemment, elle permet à un Dresseur\n",
+        "qui a mûri au travers de ses aventures\f",
+        "d’y graver ses pensées.\r",
+        "Tu corresponds parfaitement \n",
+        "à cette description.\r",
+        "Et c’est pour ça que \n",
+        "je te demande ton aide.\r",
+        "Tu as rencontré une multitude de \n",
+        "gens et de Pokémon, et les épreuves\r",
+        "que tu as traversées ont fait de toi \n",
+        "ce que tu es aujourd’hui.\r",
+        "Je voudrais que tu répondes \n",
+        "sincèrement: qui voudrais-tu remercier?\r"
       ]
     },
     {
@@ -55,6 +94,11 @@
         "You most want to express your\n",
         "thanks to {STRVAR_1 28, 1, 0}?\r",
         "You’re absolutely certain of it?"
+      ],
+      "fr_FR": [
+        "Hm...\r",
+        "{STRVAR_1 28, 1, 0}?\r",
+        "Est-ce vraiment ton choix?"
       ]
     },
     {
@@ -66,6 +110,14 @@
         "the stone tablet?\r",
         "Hmm... Where did that Pokémon go?\n",
         "Its destination is intriguing...\r"
+      ],
+      "fr_FR": [
+        "Chen: Mais...?!\n",
+        "C’était quoi, ce Pokémon?\r",
+        "Est-ce qu’il a quelque chose \n",
+        "à voir avec la plaque?\r",
+        "Hum... Où est-il allé?\n",
+        "Tout cela est très bizarre...\r"
       ]
     },
     {
@@ -77,6 +129,14 @@
         "the stone tablet?\r",
         "Hmm... Where did that Pokémon go?\n",
         "Its destination is intriguing..."
+      ],
+      "fr_FR": [
+        "Chen: Mais...?!\n",
+        "C’était quoi, ce Pokémon?\r",
+        "Est-ce qu’il a quelque chose \n",
+        "à voir avec la plaque?\r",
+        "Hum... Où est-il allé?\n",
+        "Tout cela est très bizarre..."
       ]
     },
     {
@@ -86,6 +146,12 @@
         "suggesting there’s no one?\r",
         "Tell me, to whom do you most want\n",
         "to say your thanks?\r"
+      ],
+      "fr_FR": [
+        "Chen: Quel est le problème? Il doit \n",
+        "forcément y avoir quelqu’un.\r",
+        "Alors, qui voudrais-tu \n",
+        "remercier par-dessus tout?\r"
       ]
     },
     {
@@ -93,6 +159,10 @@
       "en_US": [
         "The surface is unmarked.\n",
         "It is polished like a mirror."
+      ],
+      "fr_FR": [
+        "La surface est lisse et \n",
+        "polie comme un miroir."
       ]
     },
     {
@@ -100,7 +170,8 @@
       "en_US": [
         "{STRVAR_1 28, 1, 0}, to whom I give\n",
         "my thanks."
-      ]
+      ],
+      "fr_FR": "{STRVAR_1 28, 1, 0}, à qui je dois tout."
     },
     {
       "id": "Route224_Text_PokemonThatConveysGratitude",
@@ -114,6 +185,17 @@
         "is so wonderful.\r",
         "It’s a Pokémon that conveys the\n",
         "feelings of gratitude in a nice way...\r"
+      ],
+      "fr_FR": [
+        "Viviane: Je...\n",
+        "Je ne suis pas très bavarde...\r",
+        "Je veille à peser mes mots quand je\n",
+        "parle, mais on risque toujours de\f",
+        "blesser quelqu’un sans le vouloir...\r",
+        "Quand j’y pense, je deviens muette...\n",
+        "C’est pour ça que j’adore ce Pokémon.\r",
+        "Il a un don pour communiquer\n",
+        "la gratitude...\r"
       ]
     },
     {
@@ -121,6 +203,10 @@
       "en_US": [
         "Marley: That stone tablet...\n",
         "It has a strange feel to it..."
+      ],
+      "fr_FR": [
+        "Viviane: Cette plaque en pierre...\n",
+        "Une curieuse sensation en émane..."
       ]
     },
     {
@@ -132,6 +218,14 @@
         "You made it so I could see it...\r",
         "So, I’ll have to convey thanks in my own\n",
         "words, too..."
+      ],
+      "fr_FR": [
+        "Viviane: Merci...\r",
+        "Ce devait être le Pokémon de\n",
+        "la gratitude...\r",
+        "Tu m’as permis de le voir...\r",
+        "Alors, je vais devoir te remercier\n",
+        "avec mes propres mots..."
       ]
     },
     {
@@ -139,6 +233,10 @@
       "en_US": [
         "Marley: To you, too...\r",
         "Thank you..."
+      ],
+      "fr_FR": [
+        "Viviane: A toi aussi...\r",
+        "Je tiens à dire merci..."
       ]
     }
   ]

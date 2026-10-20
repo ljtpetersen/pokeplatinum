@@ -3,329 +3,413 @@
   "messages": [
     {
       "id": "RibbonName_Text_HoennChampion",
-      "en_US": "Champion Ribbon"
+      "en_US": "Champion Ribbon",
+      "fr_FR": "Ruban Maître"
     },
     {
       "id": "RibbonName_Text_HoennCool",
-      "en_US": "Cool Ribbon"
+      "en_US": "Cool Ribbon",
+      "fr_FR": "Ruban Sang-froid"
     },
     {
       "id": "RibbonName_Text_HoennCoolSuper",
-      "en_US": "Cool Ribbon Super"
+      "en_US": "Cool Ribbon Super",
+      "fr_FR": "Ruban Sang-froid Super"
     },
     {
       "id": "RibbonName_Text_HoennCoolHyper",
-      "en_US": "Cool Ribbon Hyper"
+      "en_US": "Cool Ribbon Hyper",
+      "fr_FR": "Ruban Sang-froid Hyper"
     },
     {
       "id": "RibbonName_Text_HoennCoolMaster",
-      "en_US": "Cool Ribbon Master"
+      "en_US": "Cool Ribbon Master",
+      "fr_FR": "Ruban Sang-froid Master"
     },
     {
       "id": "RibbonName_Text_HoennBeauty",
-      "en_US": "Beauty Ribbon"
+      "en_US": "Beauty Ribbon",
+      "fr_FR": "Ruban Beauté"
     },
     {
       "id": "RibbonName_Text_HoennBeautySuper",
-      "en_US": "Beauty Ribbon Super"
+      "en_US": "Beauty Ribbon Super",
+      "fr_FR": "Ruban Beauté Super"
     },
     {
       "id": "RibbonName_Text_HoennBeautyHyper",
-      "en_US": "Beauty Ribbon Hyper"
+      "en_US": "Beauty Ribbon Hyper",
+      "fr_FR": "Ruban Beauté Hyper"
     },
     {
       "id": "RibbonName_Text_HoennBeautyMaster",
-      "en_US": "Beauty Ribbon Master"
+      "en_US": "Beauty Ribbon Master",
+      "fr_FR": "Ruban Beauté Master"
     },
     {
       "id": "RibbonName_Text_HoennCute",
-      "en_US": "Cute Ribbon"
+      "en_US": "Cute Ribbon",
+      "fr_FR": "Ruban Grâce"
     },
     {
       "id": "RibbonName_Text_HoennCuteSuper",
-      "en_US": "Cute Ribbon Super"
+      "en_US": "Cute Ribbon Super",
+      "fr_FR": "Ruban Grâce Super"
     },
     {
       "id": "RibbonName_Text_HoennCuteHyper",
-      "en_US": "Cute Ribbon Hyper"
+      "en_US": "Cute Ribbon Hyper",
+      "fr_FR": "Ruban Grâce Hyper"
     },
     {
       "id": "RibbonName_Text_HoennCuteMaster",
-      "en_US": "Cute Ribbon Master"
+      "en_US": "Cute Ribbon Master",
+      "fr_FR": "Ruban Grâce Master"
     },
     {
       "id": "RibbonName_Text_HoennSmart",
-      "en_US": "Smart Ribbon"
+      "en_US": "Smart Ribbon",
+      "fr_FR": "Ruban Intelligence"
     },
     {
       "id": "RibbonName_Text_HoennSmartSuper",
-      "en_US": "Smart Ribbon Super"
+      "en_US": "Smart Ribbon Super",
+      "fr_FR": "Ruban Intelligence Super"
     },
     {
       "id": "RibbonName_Text_HoennSmartHyper",
-      "en_US": "Smart Ribbon Hyper"
+      "en_US": "Smart Ribbon Hyper",
+      "fr_FR": "Ruban Intelligence Hyper"
     },
     {
       "id": "RibbonName_Text_HoennSmartMaster",
-      "en_US": "Smart Ribbon Master"
+      "en_US": "Smart Ribbon Master",
+      "fr_FR": "Ruban Intelligence Master"
     },
     {
       "id": "RibbonName_Text_HoennTough",
-      "en_US": "Tough Ribbon"
+      "en_US": "Tough Ribbon",
+      "fr_FR": "Ruban Robustesse"
     },
     {
       "id": "RibbonName_Text_HoennToughSuper",
-      "en_US": "Tough Ribbon Super"
+      "en_US": "Tough Ribbon Super",
+      "fr_FR": "Ruban Robustesse Super"
     },
     {
       "id": "RibbonName_Text_HoennToughHyper",
-      "en_US": "Tough Ribbon Hyper"
+      "en_US": "Tough Ribbon Hyper",
+      "fr_FR": "Ruban Robustesse Hyper"
     },
     {
       "id": "RibbonName_Text_HoennToughMaster",
-      "en_US": "Tough Ribbon Master"
+      "en_US": "Tough Ribbon Master",
+      "fr_FR": "Ruban Robustesse Master"
     },
     {
       "id": "RibbonName_Text_HoennWinning",
-      "en_US": "Winning Ribbon"
+      "en_US": "Winning Ribbon",
+      "fr_FR": "Ruban Gagnant"
     },
     {
       "id": "RibbonName_Text_HoennVictory",
-      "en_US": "Victory Ribbon"
+      "en_US": "Victory Ribbon",
+      "fr_FR": "Ruban Victoire"
     },
     {
       "id": "RibbonName_Text_HoennArtist",
-      "en_US": "Artist Ribbon"
+      "en_US": "Artist Ribbon",
+      "fr_FR": "Ruban Artiste"
     },
     {
       "id": "RibbonName_Text_HoennEffort",
-      "en_US": "Effort Ribbon"
+      "en_US": "Effort Ribbon",
+      "fr_FR": "Ruban Effort"
     },
     {
       "id": "RibbonName_Text_HoennMarine",
-      "en_US": "Marine Ribbon"
+      "en_US": "Marine Ribbon",
+      "fr_FR": "Ruban Marine"
     },
     {
       "id": "RibbonName_Text_HoennLand",
-      "en_US": "Land Ribbon"
+      "en_US": "Land Ribbon",
+      "fr_FR": "Ruban Terroir"
     },
     {
       "id": "RibbonName_Text_HoennSky",
-      "en_US": "Sky Ribbon"
+      "en_US": "Sky Ribbon",
+      "fr_FR": "Ruban Ciel"
     },
     {
       "id": "RibbonName_Text_HoennCountry",
-      "en_US": "Country Ribbon"
+      "en_US": "Country Ribbon",
+      "fr_FR": "Ruban Pays"
     },
     {
       "id": "RibbonName_Text_HoennNational",
-      "en_US": "National Ribbon"
+      "en_US": "National Ribbon",
+      "fr_FR": "Ruban National"
     },
     {
       "id": "RibbonName_Text_HoennEarth",
-      "en_US": "Earth Ribbon"
+      "en_US": "Earth Ribbon",
+      "fr_FR": "Ruban Terre"
     },
     {
       "id": "RibbonName_Text_HoennWorld",
-      "en_US": "World Ribbon"
+      "en_US": "World Ribbon",
+      "fr_FR": "Ruban Monde"
     },
     {
       "id": "RibbonName_Text_SinnohChamp",
-      "en_US": "Sinnoh Champ Ribbon"
+      "en_US": "Sinnoh Champ Ribbon",
+      "fr_FR": "Ruban Maître Sinnoh"
     },
     {
       "id": "RibbonName_Text_Cool",
-      "en_US": "Cool Ribbon"
+      "en_US": "Cool Ribbon",
+      "fr_FR": "Ruban Sang-froid"
     },
     {
       "id": "RibbonName_Text_CoolGreat",
-      "en_US": "Cool Ribbon Great"
+      "en_US": "Cool Ribbon Great",
+      "fr_FR": "Ruban Sang-froid Méga"
     },
     {
       "id": "RibbonName_Text_CoolUltra",
-      "en_US": "Cool Ribbon Ultra"
+      "en_US": "Cool Ribbon Ultra",
+      "fr_FR": "Ruban Sang-froid Ultra"
     },
     {
       "id": "RibbonName_Text_CoolMaster",
-      "en_US": "Cool Ribbon Master"
+      "en_US": "Cool Ribbon Master",
+      "fr_FR": "Ruban Sang-froid Master"
     },
     {
       "id": "RibbonName_Text_Beauty",
-      "en_US": "Beauty Ribbon"
+      "en_US": "Beauty Ribbon",
+      "fr_FR": "Ruban Beauté"
     },
     {
       "id": "RibbonName_Text_BeautyGreat",
-      "en_US": "Beauty Ribbon Great"
+      "en_US": "Beauty Ribbon Great",
+      "fr_FR": "Ruban Beauté Méga"
     },
     {
       "id": "RibbonName_Text_BeautyUltra",
-      "en_US": "Beauty Ribbon Ultra"
+      "en_US": "Beauty Ribbon Ultra",
+      "fr_FR": "Ruban Beauté Ultra"
     },
     {
       "id": "RibbonName_Text_BeautyMaster",
-      "en_US": "Beauty Ribbon Master"
+      "en_US": "Beauty Ribbon Master",
+      "fr_FR": "Ruban Beauté Master"
     },
     {
       "id": "RibbonName_Text_Cute",
-      "en_US": "Cute Ribbon"
+      "en_US": "Cute Ribbon",
+      "fr_FR": "Ruban Grâce"
     },
     {
       "id": "RibbonName_Text_CuteGreat",
-      "en_US": "Cute Ribbon Great"
+      "en_US": "Cute Ribbon Great",
+      "fr_FR": "Ruban Grâce Méga"
     },
     {
       "id": "RibbonName_Text_CuteUltra",
-      "en_US": "Cute Ribbon Ultra"
+      "en_US": "Cute Ribbon Ultra",
+      "fr_FR": "Ruban Grâce Ultra"
     },
     {
       "id": "RibbonName_Text_CuteMaster",
-      "en_US": "Cute Ribbon Master"
+      "en_US": "Cute Ribbon Master",
+      "fr_FR": "Ruban Grâce Master"
     },
     {
       "id": "RibbonName_Text_Smart",
-      "en_US": "Smart Ribbon"
+      "en_US": "Smart Ribbon",
+      "fr_FR": "Ruban Intelligence"
     },
     {
       "id": "RibbonName_Text_SmartGreat",
-      "en_US": "Smart Ribbon Great"
+      "en_US": "Smart Ribbon Great",
+      "fr_FR": "Ruban Intelligence Méga"
     },
     {
       "id": "RibbonName_Text_SmartUltra",
-      "en_US": "Smart Ribbon Ultra"
+      "en_US": "Smart Ribbon Ultra",
+      "fr_FR": "Ruban Intelligence Ultra"
     },
     {
       "id": "RibbonName_Text_SmartMaster",
-      "en_US": "Smart Ribbon Master"
+      "en_US": "Smart Ribbon Master",
+      "fr_FR": "Ruban Intelligence Master"
     },
     {
       "id": "RibbonName_Text_Tough",
-      "en_US": "Tough Ribbon"
+      "en_US": "Tough Ribbon",
+      "fr_FR": "Ruban Robustesse"
     },
     {
       "id": "RibbonName_Text_ToughGreat",
-      "en_US": "Tough Ribbon Great"
+      "en_US": "Tough Ribbon Great",
+      "fr_FR": "Ruban Robustesse Méga"
     },
     {
       "id": "RibbonName_Text_ToughUltra",
-      "en_US": "Tough Ribbon Ultra"
+      "en_US": "Tough Ribbon Ultra",
+      "fr_FR": "Ruban Robustesse Ultra"
     },
     {
       "id": "RibbonName_Text_ToughMaster",
-      "en_US": "Tough Ribbon Master"
+      "en_US": "Tough Ribbon Master",
+      "fr_FR": "Ruban Robustesse Master"
     },
     {
       "id": "RibbonName_Text_Ability",
-      "en_US": "Ability Ribbon"
+      "en_US": "Ability Ribbon",
+      "fr_FR": "Ruban Aptitude"
     },
     {
       "id": "RibbonName_Text_GreatAbility",
-      "en_US": "Great Ability Ribbon"
+      "en_US": "Great Ability Ribbon",
+      "fr_FR": "Ruban Aptitude Méga"
     },
     {
       "id": "RibbonName_Text_DoubleAbility",
-      "en_US": "Double Ability Ribbon"
+      "en_US": "Double Ability Ribbon",
+      "fr_FR": "Ruban Aptitude Duo"
     },
     {
       "id": "RibbonName_Text_MultiAbility",
-      "en_US": "Multi Ability Ribbon"
+      "en_US": "Multi Ability Ribbon",
+      "fr_FR": "Ruban Aptitude Multi"
     },
     {
       "id": "RibbonName_Text_PairAbility",
-      "en_US": "Pair Ability Ribbon"
+      "en_US": "Pair Ability Ribbon",
+      "fr_FR": "Ruban Aptitude Paire"
     },
     {
       "id": "RibbonName_Text_WorldAbility",
-      "en_US": "World Ability Ribbon"
+      "en_US": "World Ability Ribbon",
+      "fr_FR": "Ruban Aptitude Monde"
     },
     {
       "id": "RibbonName_Text_Alert",
-      "en_US": "Alert Ribbon"
+      "en_US": "Alert Ribbon",
+      "fr_FR": "Ruban Alerte"
     },
     {
       "id": "RibbonName_Text_Shock",
-      "en_US": "Shock Ribbon"
+      "en_US": "Shock Ribbon",
+      "fr_FR": "Ruban Choc"
     },
     {
       "id": "RibbonName_Text_Downcast",
-      "en_US": "Downcast Ribbon"
+      "en_US": "Downcast Ribbon",
+      "fr_FR": "Ruban Déprime"
     },
     {
       "id": "RibbonName_Text_Careless",
-      "en_US": "Careless Ribbon"
+      "en_US": "Careless Ribbon",
+      "fr_FR": "Ruban Négligence"
     },
     {
       "id": "RibbonName_Text_Relax",
-      "en_US": "Relax Ribbon"
+      "en_US": "Relax Ribbon",
+      "fr_FR": "Ruban Détente"
     },
     {
       "id": "RibbonName_Text_Snooze",
-      "en_US": "Snooze Ribbon"
+      "en_US": "Snooze Ribbon",
+      "fr_FR": "Ruban Sieste"
     },
     {
       "id": "RibbonName_Text_Smile",
-      "en_US": "Smile Ribbon"
+      "en_US": "Smile Ribbon",
+      "fr_FR": "Ruban Sourire"
     },
     {
       "id": "RibbonName_Text_Gorgeous",
-      "en_US": "Gorgeous Ribbon"
+      "en_US": "Gorgeous Ribbon",
+      "fr_FR": "Ruban Sublime"
     },
     {
       "id": "RibbonName_Text_Royal",
-      "en_US": "Royal Ribbon"
+      "en_US": "Royal Ribbon",
+      "fr_FR": "Ruban Royal"
     },
     {
       "id": "RibbonName_Text_GorgeousRoyal",
-      "en_US": "Gorgeous Royal Ribbon"
+      "en_US": "Gorgeous Royal Ribbon",
+      "fr_FR": "Ruban Royal Sublime"
     },
     {
       "id": "RibbonName_Text_Footprint",
-      "en_US": "Footprint Ribbon"
+      "en_US": "Footprint Ribbon",
+      "fr_FR": "Ruban Empreinte"
     },
     {
       "id": "RibbonName_Text_Record",
-      "en_US": "Record Ribbon"
+      "en_US": "Record Ribbon",
+      "fr_FR": "Ruban Record"
     },
     {
       "id": "RibbonName_Text_History",
-      "en_US": "History Ribbon"
+      "en_US": "History Ribbon",
+      "fr_FR": "Ruban Histoire"
     },
     {
       "id": "RibbonName_Text_Legend",
-      "en_US": "Legend Ribbon"
+      "en_US": "Legend Ribbon",
+      "fr_FR": "Ruban Légende"
     },
     {
       "id": "RibbonName_Text_Red",
-      "en_US": "Red Ribbon"
+      "en_US": "Red Ribbon",
+      "fr_FR": "Ruban Rouge"
     },
     {
       "id": "RibbonName_Text_Green",
-      "en_US": "Green Ribbon"
+      "en_US": "Green Ribbon",
+      "fr_FR": "Ruban Vert"
     },
     {
       "id": "RibbonName_Text_Blue",
-      "en_US": "Blue Ribbon"
+      "en_US": "Blue Ribbon",
+      "fr_FR": "Ruban Bleu"
     },
     {
       "id": "RibbonName_Text_Festival",
-      "en_US": "Festival Ribbon"
+      "en_US": "Festival Ribbon",
+      "fr_FR": "Ruban Festival"
     },
     {
       "id": "RibbonName_Text_Carnival",
-      "en_US": "Carnival Ribbon"
+      "en_US": "Carnival Ribbon",
+      "fr_FR": "Ruban Carnaval"
     },
     {
       "id": "RibbonName_Text_Classic",
-      "en_US": "Classic Ribbon"
+      "en_US": "Classic Ribbon",
+      "fr_FR": "Ruban Classique"
     },
     {
       "id": "RibbonName_Text_Premier",
-      "en_US": "Premier Ribbon"
+      "en_US": "Premier Ribbon",
+      "fr_FR": "Ruban Premier"
     },
     {
       "id": "RibbonDesc_Text_HoennChampion",
       "en_US": [
         "Ribbon for clearing the Pokémon League and\n",
         "entering the Hall of Fame in another region."
+      ],
+      "fr_FR": [
+        "Ruban pour une victoire contre la Ligue\n",
+        "Pokémon d’une autre région."
       ]
     },
     {
@@ -333,6 +417,10 @@
       "en_US": [
         "Hoenn Cool Contest\n",
         "Normal Rank winner!"
+      ],
+      "fr_FR": [
+        "Concours de Sang-froid de Hoenn\n",
+        "Gagnant catégorie Normal!"
       ]
     },
     {
@@ -340,6 +428,10 @@
       "en_US": [
         "Hoenn Cool Contest\n",
         "Super Rank winner!"
+      ],
+      "fr_FR": [
+        "Concours de Sang-froid de Hoenn\n",
+        "Gagnant catégorie Super!"
       ]
     },
     {
@@ -347,6 +439,10 @@
       "en_US": [
         "Hoenn Cool Contest\n",
         "Hyper Rank winner!"
+      ],
+      "fr_FR": [
+        "Concours de Sang-froid de Hoenn\n",
+        "Gagnant catégorie Hyper!"
       ]
     },
     {
@@ -354,6 +450,10 @@
       "en_US": [
         "Hoenn Cool Contest\n",
         "Master Rank winner!"
+      ],
+      "fr_FR": [
+        "Concours de Sang-froid de Hoenn\n",
+        "Gagnant catégorie Master!"
       ]
     },
     {
@@ -361,6 +461,10 @@
       "en_US": [
         "Hoenn Beauty Contest\n",
         "Normal Rank winner!"
+      ],
+      "fr_FR": [
+        "Concours de Beauté de Hoenn\n",
+        "Gagnant catégorie Normal!"
       ]
     },
     {
@@ -368,6 +472,10 @@
       "en_US": [
         "Hoenn Beauty Contest\n",
         "Super Rank winner!"
+      ],
+      "fr_FR": [
+        "Concours de Beauté de Hoenn\n",
+        "Gagnant catégorie Super!"
       ]
     },
     {
@@ -375,6 +483,10 @@
       "en_US": [
         "Hoenn Beauty Contest\n",
         "Hyper Rank winner!"
+      ],
+      "fr_FR": [
+        "Concours de Beauté de Hoenn\n",
+        "Gagnant catégorie Hyper!"
       ]
     },
     {
@@ -382,6 +494,10 @@
       "en_US": [
         "Hoenn Beauty Contest\n",
         "Master Rank winner!"
+      ],
+      "fr_FR": [
+        "Concours de Beauté de Hoenn\n",
+        "Gagnant catégorie Master!"
       ]
     },
     {
@@ -389,6 +505,10 @@
       "en_US": [
         "Hoenn Cute Contest\n",
         "Normal Rank winner!"
+      ],
+      "fr_FR": [
+        "Concours de Grâce de Hoenn\n",
+        "Gagnant catégorie Normal!"
       ]
     },
     {
@@ -396,6 +516,10 @@
       "en_US": [
         "Hoenn Cute Contest\n",
         "Super Rank winner!"
+      ],
+      "fr_FR": [
+        "Concours de Grâce de Hoenn\n",
+        "Gagnant catégorie Super!"
       ]
     },
     {
@@ -403,6 +527,10 @@
       "en_US": [
         "Hoenn Cute Contest\n",
         "Hyper Rank winner!"
+      ],
+      "fr_FR": [
+        "Concours de Grâce de Hoenn\n",
+        "Gagnant catégorie Hyper!"
       ]
     },
     {
@@ -410,6 +538,10 @@
       "en_US": [
         "Hoenn Cute Contest\n",
         "Master Rank winner!"
+      ],
+      "fr_FR": [
+        "Concours de Grâce de Hoenn\n",
+        "Gagnant catégorie Master!"
       ]
     },
     {
@@ -417,6 +549,10 @@
       "en_US": [
         "Hoenn Smart Contest\n",
         "Normal Rank winner!"
+      ],
+      "fr_FR": [
+        "Concours d’Intelligence de Hoenn\n",
+        "Gagnant catégorie Normal!"
       ]
     },
     {
@@ -424,6 +560,10 @@
       "en_US": [
         "Hoenn Smart Contest\n",
         "Super Rank winner!"
+      ],
+      "fr_FR": [
+        "Concours d’Intelligence de Hoenn\n",
+        "Gagnant catégorie Super!"
       ]
     },
     {
@@ -431,6 +571,10 @@
       "en_US": [
         "Hoenn Smart Contest\n",
         "Hyper Rank winner!"
+      ],
+      "fr_FR": [
+        "Concours d’Intelligence de Hoenn\n",
+        "Gagnant catégorie Hyper!"
       ]
     },
     {
@@ -438,6 +582,10 @@
       "en_US": [
         "Hoenn Smart Contest\n",
         "Master Rank winner!"
+      ],
+      "fr_FR": [
+        "Concours d’Intelligence de Hoenn\n",
+        "Gagnant catégorie Master!"
       ]
     },
     {
@@ -445,6 +593,10 @@
       "en_US": [
         "Hoenn Tough Contest\n",
         "Normal Rank winner!"
+      ],
+      "fr_FR": [
+        "Concours de Robustesse de Hoenn\n",
+        "Gagnant catégorie Normal!"
       ]
     },
     {
@@ -452,6 +604,10 @@
       "en_US": [
         "Hoenn Tough Contest\n",
         "Super Rank winner!"
+      ],
+      "fr_FR": [
+        "Concours de Robustesse de Hoenn\n",
+        "Gagnant catégorie Super!"
       ]
     },
     {
@@ -459,6 +615,10 @@
       "en_US": [
         "Hoenn Tough Contest\n",
         "Hyper Rank winner!"
+      ],
+      "fr_FR": [
+        "Concours de Robustesse de Hoenn\n",
+        "Gagnant catégorie Hyper!"
       ]
     },
     {
@@ -466,6 +626,10 @@
       "en_US": [
         "Hoenn Tough Contest\n",
         "Master Rank winner!"
+      ],
+      "fr_FR": [
+        "Concours de Robustesse de Hoenn\n",
+        "Gagnant catégorie Master!"
       ]
     },
     {
@@ -473,6 +637,10 @@
       "en_US": [
         "Ribbon awarded for clearing the Hoenn\n",
         "Battle Tower’s Lv. 50 challenge."
+      ],
+      "fr_FR": [
+        "Ruban pour une victoire au N.50 de\n",
+        "la Tour de Combat de Hoenn."
       ]
     },
     {
@@ -480,6 +648,10 @@
       "en_US": [
         "Ribbon awarded for clearing the Hoenn\n",
         "Battle Tower’s Lv. 100 challenge."
+      ],
+      "fr_FR": [
+        "Ruban pour une victoire au N.100 de\n",
+        "la Tour de Combat de Hoenn."
       ]
     },
     {
@@ -487,6 +659,10 @@
       "en_US": [
         "Ribbon awarded for being chosen as\n",
         "a super sketch model in Hoenn."
+      ],
+      "fr_FR": [
+        "Ruban pour les modèles de Hoenn\n",
+        "exposés au musée."
       ]
     },
     {
@@ -494,6 +670,10 @@
       "en_US": [
         "Ribbon awarded for being an exceptionally\n",
         "hard worker."
+      ],
+      "fr_FR": [
+        "Ruban pour récompenser un dur\n",
+        "travail."
       ]
     },
     {
@@ -501,6 +681,10 @@
       "en_US": [
         "Ribbon awarded for beating the Sinnoh\n",
         "Champion and entering the Hall of Fame."
+      ],
+      "fr_FR": [
+        "Ruban pour une victoire contre le Maître\n",
+        "de Sinnoh et l’appartenance au Panthéon."
       ]
     },
     {
@@ -508,6 +692,10 @@
       "en_US": [
         "Super Contest Cool Category\n",
         "Normal Rank winner!"
+      ],
+      "fr_FR": [
+        "Super Concours de Sang-froid\n",
+        "Gagnant catégorie Normal!"
       ]
     },
     {
@@ -515,6 +703,10 @@
       "en_US": [
         "Super Contest Cool Category\n",
         "Great Rank winner!"
+      ],
+      "fr_FR": [
+        "Super Concours de Sang-froid\n",
+        "Gagnant catégorie Méga!"
       ]
     },
     {
@@ -522,6 +714,10 @@
       "en_US": [
         "Super Contest Cool Category\n",
         "Ultra Rank winner!"
+      ],
+      "fr_FR": [
+        "Super Concours de Sang-froid\n",
+        "Gagnant catégorie Ultra!"
       ]
     },
     {
@@ -529,6 +725,10 @@
       "en_US": [
         "Super Contest Cool Category\n",
         "Master Rank winner!"
+      ],
+      "fr_FR": [
+        "Super Concours de Sang-froid\n",
+        "Gagnant catégorie Master!"
       ]
     },
     {
@@ -536,6 +736,10 @@
       "en_US": [
         "Super Contest Beauty Category\n",
         "Normal Rank winner!"
+      ],
+      "fr_FR": [
+        "Super Concours de Beauté\n",
+        "Gagnant catégorie Normal!"
       ]
     },
     {
@@ -543,6 +747,10 @@
       "en_US": [
         "Super Contest Beauty Category\n",
         "Great Rank winner!"
+      ],
+      "fr_FR": [
+        "Super Concours de Beauté\n",
+        "Gagnant catégorie Méga!"
       ]
     },
     {
@@ -550,6 +758,10 @@
       "en_US": [
         "Super Contest Beauty Category\n",
         "Ultra Rank winner!"
+      ],
+      "fr_FR": [
+        "Super Concours de Beauté\n",
+        "Gagnant catégorie Ultra!"
       ]
     },
     {
@@ -557,6 +769,10 @@
       "en_US": [
         "Super Contest Beauty Category\n",
         "Master Rank winner!"
+      ],
+      "fr_FR": [
+        "Super Concours de Beauté\n",
+        "Gagnant catégorie Master!"
       ]
     },
     {
@@ -564,6 +780,10 @@
       "en_US": [
         "Super Contest Cute Category\n",
         "Normal Rank winner!"
+      ],
+      "fr_FR": [
+        "Super Concours de Grâce\n",
+        "Gagnant catégorie Normal!"
       ]
     },
     {
@@ -571,6 +791,10 @@
       "en_US": [
         "Super Contest Cute Category\n",
         "Great Rank winner!"
+      ],
+      "fr_FR": [
+        "Super Concours de Grâce\n",
+        "Gagnant catégorie Méga!"
       ]
     },
     {
@@ -578,6 +802,10 @@
       "en_US": [
         "Super Contest Cute Category\n",
         "Ultra Rank winner!"
+      ],
+      "fr_FR": [
+        "Super Concours de Grâce\n",
+        "Gagnant catégorie Ultra!"
       ]
     },
     {
@@ -585,6 +813,10 @@
       "en_US": [
         "Super Contest Cute Category\n",
         "Master Rank winner!"
+      ],
+      "fr_FR": [
+        "Super Concours de Grâce\n",
+        "Gagnant catégorie Master!"
       ]
     },
     {
@@ -592,6 +824,10 @@
       "en_US": [
         "Super Contest Smart Category\n",
         "Normal Rank winner!"
+      ],
+      "fr_FR": [
+        "Super Concours d’Intelligence\n",
+        "Gagnant catégorie Normal!"
       ]
     },
     {
@@ -599,6 +835,10 @@
       "en_US": [
         "Super Contest Smart Category\n",
         "Great Rank winner!"
+      ],
+      "fr_FR": [
+        "Super Concours d’Intelligence\n",
+        "Gagnant catégorie Méga!"
       ]
     },
     {
@@ -606,6 +846,10 @@
       "en_US": [
         "Super Contest Smart Category\n",
         "Ultra Rank winner!"
+      ],
+      "fr_FR": [
+        "Super Concours d’Intelligence\n",
+        "Gagnant catégorie Ultra!"
       ]
     },
     {
@@ -613,6 +857,10 @@
       "en_US": [
         "Super Contest Smart Category\n",
         "Master Rank winner!"
+      ],
+      "fr_FR": [
+        "Super Concours d’Intelligence\n",
+        "Gagnant catégorie Master!"
       ]
     },
     {
@@ -620,6 +868,10 @@
       "en_US": [
         "Super Contest Tough Category\n",
         "Normal Rank winner!"
+      ],
+      "fr_FR": [
+        "Super Concours de Robustesse\n",
+        "Gagnant catégorie Normal!"
       ]
     },
     {
@@ -627,6 +879,10 @@
       "en_US": [
         "Super Contest Tough Category\n",
         "Great Rank winner!"
+      ],
+      "fr_FR": [
+        "Super Concours de Robustesse\n",
+        "Gagnant catégorie Méga!"
       ]
     },
     {
@@ -634,6 +890,10 @@
       "en_US": [
         "Super Contest Tough Category\n",
         "Ultra Rank winner!"
+      ],
+      "fr_FR": [
+        "Super Concours de Robustesse\n",
+        "Gagnant catégorie Ultra!"
       ]
     },
     {
@@ -641,6 +901,10 @@
       "en_US": [
         "Super Contest Tough Category\n",
         "Master Rank winner!"
+      ],
+      "fr_FR": [
+        "Super Concours de Robustesse\n",
+        "Gagnant catégorie Master!"
       ]
     },
     {
@@ -648,6 +912,10 @@
       "en_US": [
         "A Ribbon awarded for defeating the\n",
         "Tower Tycoon at the Battle Tower."
+      ],
+      "fr_FR": [
+        "Ruban pour une victoire contre\n",
+        "l’Aigle Tour de la Tour de Combat."
       ]
     },
     {
@@ -655,6 +923,10 @@
       "en_US": [
         "A Ribbon awarded for defeating the\n",
         "Tower Tycoon at the Battle Tower."
+      ],
+      "fr_FR": [
+        "Ruban pour une victoire contre\n",
+        "l’Aigle Tour de la Tour de Combat."
       ]
     },
     {
@@ -662,6 +934,10 @@
       "en_US": [
         "A Ribbon awarded for completing the\n",
         "Sinnoh Battle Tower Double challenge."
+      ],
+      "fr_FR": [
+        "Ruban pour une réussite au défi Duo\n",
+        "de la Tour de Combat de Sinnoh."
       ]
     },
     {
@@ -669,6 +945,10 @@
       "en_US": [
         "A Ribbon awarded for completing the\n",
         "Sinnoh Battle Tower Multi challenge."
+      ],
+      "fr_FR": [
+        "Ruban pour une réussite au défi Multi\n",
+        "de la Tour de Combat de Sinnoh."
       ]
     },
     {
@@ -676,6 +956,10 @@
       "en_US": [
         "A Ribbon awarded for completing the\n",
         "Sinnoh Battle Tower Link Multi challenge."
+      ],
+      "fr_FR": [
+        "Ruban pour une réussite au défi Multi\n",
+        "Link de la Tour de Combat de Sinnoh."
       ]
     },
     {
@@ -683,6 +967,10 @@
       "en_US": [
         "A Ribbon awarded for completing the\n",
         "Sinnoh Wi-Fi Battle Tower challenge."
+      ],
+      "fr_FR": [
+        "Ruban pour une réussite au défi Wi-Fi\n",
+        "de la Tour de Combat de Sinnoh."
       ]
     },
     {
@@ -690,6 +978,10 @@
       "en_US": [
         "A Ribbon for recalling an invigorating\n",
         "event that created life energy."
+      ],
+      "fr_FR": [
+        "Ruban rappelant un événement vivifiant\n",
+        "qui a créé de l’énergie vitale."
       ]
     },
     {
@@ -697,6 +989,10 @@
       "en_US": [
         "A Ribbon for recalling a thrilling event\n",
         "that made life more exciting."
+      ],
+      "fr_FR": [
+        "Ruban rappelant un événement palpitant\n",
+        "qui a rendu la vie plus passionnante."
       ]
     },
     {
@@ -704,6 +1000,10 @@
       "en_US": [
         "A Ribbon for recalling feelings of sadness\n",
         "that added spice to life."
+      ],
+      "fr_FR": [
+        "Ruban rappelant des sentiments de tristesse\n",
+        "ayant ajouté un peu de piment à la vie."
       ]
     },
     {
@@ -711,6 +1011,10 @@
       "en_US": [
         "A Ribbon for recalling a careless error\n",
         "that helped steer life decisions."
+      ],
+      "fr_FR": [
+        "Ruban rappelant une négligence qui a\n",
+        "aidé à prendre des décisions vitales."
       ]
     },
     {
@@ -718,6 +1022,10 @@
       "en_US": [
         "A Ribbon for recalling a refreshing\n",
         "event that added sparkle to life."
+      ],
+      "fr_FR": [
+        "Ruban rappelant un événement\n",
+        "rafraîchissant qui a ajouté du peps à la vie."
       ]
     },
     {
@@ -725,6 +1033,10 @@
       "en_US": [
         "A Ribbon for recalling a deep slumber\n",
         "that made life soothing."
+      ],
+      "fr_FR": [
+        "Ruban rappelant un événement ensommeillé\n",
+        "qui a rendu la vie plus reposante."
       ]
     },
     {
@@ -732,6 +1044,10 @@
       "en_US": [
         "A Ribbon for recalling that smiles\n",
         "enrich the quality of life."
+      ],
+      "fr_FR": [
+        "Ruban rappelant que le sourire améliore\n",
+        "la qualité de vie."
       ]
     },
     {
@@ -739,13 +1055,18 @@
       "en_US": [
         "An extraordinarily gorgeous and\n",
         "extravagant Ribbon."
-      ]
+      ],
+      "fr_FR": "Ruban somptueux et excentrique."
     },
     {
       "id": "RibbonDesc_Text_Royal",
       "en_US": [
         "An incredibly regal Ribbon with an air\n",
         "of nobility."
+      ],
+      "fr_FR": [
+        "Incroyable ruban royal qui a un petit air\n",
+        "de noblesse."
       ]
     },
     {
@@ -753,6 +1074,10 @@
       "en_US": [
         "A gorgeous and regal Ribbon that\n",
         "is the peak of fabulous."
+      ],
+      "fr_FR": [
+        "Un ruban somptueux et royal qui est le\n",
+        "comble de la beauté."
       ]
     },
     {
@@ -760,6 +1085,10 @@
       "en_US": [
         "A Ribbon awarded to a Pokémon deemed\n",
         "to have a top-quality footprint."
+      ],
+      "fr_FR": [
+        "Ruban récompensant un Pokémon pour la\n",
+        "qualité exceptionnelle de son empreinte."
       ]
     },
     {
@@ -767,6 +1096,10 @@
       "en_US": [
         "A Ribbon awarded for setting an\n",
         "incredible record."
+      ],
+      "fr_FR": [
+        "Ruban récompensant un record\n",
+        "incroyable."
       ]
     },
     {
@@ -774,6 +1107,10 @@
       "en_US": [
         "A Ribbon awarded for setting a historical\n",
         "record."
+      ],
+      "fr_FR": [
+        "Ruban récompensant un record\n",
+        "historique."
       ]
     },
     {
@@ -781,6 +1118,10 @@
       "en_US": [
         "A Ribbon awarded for setting a legendary\n",
         "record."
+      ],
+      "fr_FR": [
+        "Ruban récompensant un record\n",
+        "légendaire."
       ]
     },
     {
@@ -788,6 +1129,10 @@
       "en_US": [
         "A commemorative Ribbon obtained in\n",
         "a Mystery Zone."
+      ],
+      "fr_FR": [
+        "Ruban commémoratif obtenu dans un\n",
+        "endroit mystérieux."
       ]
     },
     {
@@ -795,6 +1140,10 @@
       "en_US": [
         "2003 Regional Tournament\n",
         "Champion Ribbon"
+      ],
+      "fr_FR": [
+        "Tournoi Régional 2003\n",
+        "Ruban Maître"
       ]
     },
     {
@@ -802,6 +1151,10 @@
       "en_US": [
         "2003 National Tournament\n",
         "Champion Ribbon"
+      ],
+      "fr_FR": [
+        "Tournoi National 2003\n",
+        "Ruban Maître"
       ]
     },
     {
@@ -809,6 +1162,10 @@
       "en_US": [
         "2003 Global Cup\n",
         "Champion Ribbon"
+      ],
+      "fr_FR": [
+        "Coupe Globale 2003\n",
+        "Ruban Maître"
       ]
     },
     {
@@ -816,6 +1173,10 @@
       "en_US": [
         "2003 Regional Tournament\n",
         "Runner-up Ribbon"
+      ],
+      "fr_FR": [
+        "Tournoi Régional 2003\n",
+        "Ruban 2⁴ place"
       ]
     },
     {
@@ -823,6 +1184,10 @@
       "en_US": [
         "2003 National Tournament\n",
         "Runner-up Ribbon"
+      ],
+      "fr_FR": [
+        "Tournoi National 2003\n",
+        "Ruban 2⁴ place"
       ]
     },
     {
@@ -830,6 +1195,10 @@
       "en_US": [
         "2003 Global Cup\n",
         "Runner-up Ribbon"
+      ],
+      "fr_FR": [
+        "Coupe Globale 2003\n",
+        "Ruban 2⁴ place"
       ]
     },
     {
@@ -837,6 +1206,10 @@
       "en_US": [
         "2003 Regional Tournament\n",
         "Semifinalist Ribbon"
+      ],
+      "fr_FR": [
+        "Tournoi Régional 2003\n",
+        "Ruban demi-finaliste"
       ]
     },
     {
@@ -844,6 +1217,10 @@
       "en_US": [
         "2003 National Tournament\n",
         "Semifinalist Ribbon"
+      ],
+      "fr_FR": [
+        "Tournoi National 2003\n",
+        "Ruban demi-finaliste"
       ]
     },
     {
@@ -851,6 +1228,10 @@
       "en_US": [
         "2003 Global Cup\n",
         "Semifinalist Ribbon"
+      ],
+      "fr_FR": [
+        "Coupe Globale 2003\n",
+        "Ruban demi-finaliste"
       ]
     },
     {
@@ -858,6 +1239,10 @@
       "en_US": [
         "2004 Regional Tournament\n",
         "Champion Ribbon"
+      ],
+      "fr_FR": [
+        "Tournoi Régional 2004\n",
+        "Ruban Maître"
       ]
     },
     {
@@ -865,6 +1250,10 @@
       "en_US": [
         "2004 National Tournament\n",
         "Champion Ribbon"
+      ],
+      "fr_FR": [
+        "Tournoi National 2004\n",
+        "Ruban Maître"
       ]
     },
     {
@@ -872,6 +1261,10 @@
       "en_US": [
         "2004 Global Cup\n",
         "Champion Ribbon"
+      ],
+      "fr_FR": [
+        "Coupe Globale 2004\n",
+        "Ruban Maître"
       ]
     },
     {
@@ -879,6 +1272,10 @@
       "en_US": [
         "2004 Regional Tournament\n",
         "Runner-up Ribbon"
+      ],
+      "fr_FR": [
+        "Tournoi Régional 2004\n",
+        "Ruban 2⁴ place"
       ]
     },
     {
@@ -886,6 +1283,10 @@
       "en_US": [
         "2004 National Tournament\n",
         "Runner-up Ribbon"
+      ],
+      "fr_FR": [
+        "Tournoi National 2004\n",
+        "Ruban 2⁴ place"
       ]
     },
     {
@@ -893,6 +1294,10 @@
       "en_US": [
         "2004 Global Cup\n",
         "Runner-up Ribbon"
+      ],
+      "fr_FR": [
+        "Coupe Globale 2004\n",
+        "Ruban 2⁴ place"
       ]
     },
     {
@@ -900,6 +1305,10 @@
       "en_US": [
         "2004 Regional Tournament\n",
         "Semifinalist Ribbon"
+      ],
+      "fr_FR": [
+        "Tournoi Régional 2004\n",
+        "Ruban demi-finaliste"
       ]
     },
     {
@@ -907,6 +1316,10 @@
       "en_US": [
         "2004 National Tournament\n",
         "Semifinalist Ribbon"
+      ],
+      "fr_FR": [
+        "Tournoi National 2004\n",
+        "Ruban demi-finaliste"
       ]
     },
     {
@@ -914,6 +1327,10 @@
       "en_US": [
         "2004 Global Cup\n",
         "Semifinalist Ribbon"
+      ],
+      "fr_FR": [
+        "Coupe Globale 2004\n",
+        "Ruban demi-finaliste"
       ]
     },
     {
@@ -921,6 +1338,10 @@
       "en_US": [
         "2005 Regional Tournament\n",
         "Champion Ribbon"
+      ],
+      "fr_FR": [
+        "Tournoi Régional 2005\n",
+        "Ruban Maître"
       ]
     },
     {
@@ -928,6 +1349,10 @@
       "en_US": [
         "2005 National Tournament\n",
         "Champion Ribbon"
+      ],
+      "fr_FR": [
+        "Tournoi National 2005\n",
+        "Ruban Maître"
       ]
     },
     {
@@ -935,6 +1360,10 @@
       "en_US": [
         "2005 Global Cup\n",
         "Champion Ribbon"
+      ],
+      "fr_FR": [
+        "Coupe Globale 2005\n",
+        "Ruban Maître"
       ]
     },
     {
@@ -942,6 +1371,10 @@
       "en_US": [
         "2005 Regional Tournament\n",
         "Runner-up Ribbon"
+      ],
+      "fr_FR": [
+        "Tournoi Régional 2005\n",
+        "Ruban 2⁴ place"
       ]
     },
     {
@@ -949,6 +1382,10 @@
       "en_US": [
         "2005 National Tournament\n",
         "Runner-up Ribbon"
+      ],
+      "fr_FR": [
+        "Tournoi National 2005\n",
+        "Ruban 2⁴ place"
       ]
     },
     {
@@ -956,6 +1393,10 @@
       "en_US": [
         "2005 Global Cup\n",
         "Runner-up Ribbon"
+      ],
+      "fr_FR": [
+        "Coupe Globale 2005\n",
+        "Ruban 2⁴ place"
       ]
     },
     {
@@ -963,6 +1404,10 @@
       "en_US": [
         "2005 Regional Tournament\n",
         "Semifinalist Ribbon"
+      ],
+      "fr_FR": [
+        "Tournoi Régional 2005\n",
+        "Ruban demi-finaliste"
       ]
     },
     {
@@ -970,6 +1415,10 @@
       "en_US": [
         "2005 National Tournament\n",
         "Semifinalist Ribbon"
+      ],
+      "fr_FR": [
+        "Tournoi National 2005\n",
+        "Ruban demi-finaliste"
       ]
     },
     {
@@ -977,6 +1426,10 @@
       "en_US": [
         "2005 Global Cup\n",
         "Semifinalist Ribbon"
+      ],
+      "fr_FR": [
+        "Coupe Globale 2005\n",
+        "Ruban demi-finaliste"
       ]
     },
     {
@@ -984,6 +1437,10 @@
       "en_US": [
         "Pokémon Battle Cup\n",
         "Champion Ribbon"
+      ],
+      "fr_FR": [
+        "Coupe Combat Pokémon\n",
+        "Ruban Maître"
       ]
     },
     {
@@ -991,6 +1448,10 @@
       "en_US": [
         "Pokémon Battle Cup\n",
         "Runner-up Ribbon"
+      ],
+      "fr_FR": [
+        "Coupe Combat Pokémon\n",
+        "Ruban 2⁴ place"
       ]
     },
     {
@@ -998,6 +1459,10 @@
       "en_US": [
         "Pokémon Battle Cup\n",
         "Semifinalist Ribbon"
+      ],
+      "fr_FR": [
+        "Coupe Combat Pokémon\n",
+        "Ruban demi-finaliste"
       ]
     },
     {
@@ -1005,6 +1470,10 @@
       "en_US": [
         "Pokémon Battle Cup\n",
         "Participation Ribbon"
+      ],
+      "fr_FR": [
+        "Coupe Combat Pokémon\n",
+        "Ruban de participation"
       ]
     },
     {
@@ -1012,6 +1481,10 @@
       "en_US": [
         "Pokémon League\n",
         "Champion Ribbon"
+      ],
+      "fr_FR": [
+        "Ligue Pokémon\n",
+        "Ruban Maître"
       ]
     },
     {
@@ -1019,6 +1492,10 @@
       "en_US": [
         "Pokémon League\n",
         "Runner-up Ribbon"
+      ],
+      "fr_FR": [
+        "Ligue Pokémon\n",
+        "Ruban 2⁴ place"
       ]
     },
     {
@@ -1026,6 +1503,10 @@
       "en_US": [
         "Pokémon League\n",
         "Semifinalist Ribbon"
+      ],
+      "fr_FR": [
+        "Ligue Pokémon\n",
+        "Ruban demi-finaliste"
       ]
     },
     {
@@ -1033,6 +1514,10 @@
       "en_US": [
         "Pokémon League\n",
         "Participation Ribbon"
+      ],
+      "fr_FR": [
+        "Ligue Pokémon\n",
+        "Ruban de participation"
       ]
     },
     {
@@ -1040,6 +1525,10 @@
       "en_US": [
         "Advance Cup\n",
         "Champion Ribbon"
+      ],
+      "fr_FR": [
+        "Coupe Advance\n",
+        "Ruban Maître"
       ]
     },
     {
@@ -1047,6 +1536,10 @@
       "en_US": [
         "Advance Cup\n",
         "Runner-up Ribbon"
+      ],
+      "fr_FR": [
+        "Coupe Advance\n",
+        "Ruban 2⁴ place"
       ]
     },
     {
@@ -1054,6 +1547,10 @@
       "en_US": [
         "Advance Cup\n",
         "Semifinalist Ribbon"
+      ],
+      "fr_FR": [
+        "Coupe Advance\n",
+        "Ruban demi-finaliste"
       ]
     },
     {
@@ -1061,6 +1558,10 @@
       "en_US": [
         "Advance Cup\n",
         "Participation Ribbon"
+      ],
+      "fr_FR": [
+        "Coupe Advance\n",
+        "Ruban de participation"
       ]
     },
     {
@@ -1068,6 +1569,10 @@
       "en_US": [
         "Pokémon Tournament\n",
         "Participation Ribbon"
+      ],
+      "fr_FR": [
+        "Tournoi Pokémon\n",
+        "Ruban de participation"
       ]
     },
     {
@@ -1075,6 +1580,10 @@
       "en_US": [
         "Pokémon Event\n",
         "Participation Ribbon"
+      ],
+      "fr_FR": [
+        "Evénement Pokémon\n",
+        "Ruban de participation"
       ]
     },
     {
@@ -1082,6 +1591,10 @@
       "en_US": [
         "Pokémon Festival\n",
         "Participation Ribbon"
+      ],
+      "fr_FR": [
+        "Festival Pokémon\n",
+        "Ruban de participation"
       ]
     },
     {
@@ -1089,6 +1602,10 @@
       "en_US": [
         "A Ribbon awarded for overcoming\n",
         "difficult challenges."
+      ],
+      "fr_FR": [
+        "Ruban pour avoir triomphé face\n",
+        "aux difficultés."
       ]
     },
     {
@@ -1096,6 +1613,10 @@
       "en_US": [
         "A Ribbon awarded for overcoming all\n",
         "difficult challenges."
+      ],
+      "fr_FR": [
+        "Ruban pour avoir triomphé face\n",
+        "à toutes les difficultés."
       ]
     },
     {
@@ -1103,6 +1624,10 @@
       "en_US": [
         "A Ribbon awarded for winning 100\n",
         "matches in a row."
+      ],
+      "fr_FR": [
+        "Ruban récompensant 100 victoires\n",
+        "à la suite."
       ]
     },
     {
@@ -1110,6 +1635,10 @@
       "en_US": [
         "A Ribbon awarded for clearing\n",
         "the Darkness Tower."
+      ],
+      "fr_FR": [
+        "Ruban récompensant le succès\n",
+        "à la Tour Obscure."
       ]
     },
     {
@@ -1117,6 +1646,10 @@
       "en_US": [
         "A Ribbon awarded for clearing\n",
         "the Red Tower."
+      ],
+      "fr_FR": [
+        "Ruban récompensant le succès\n",
+        "à la Tour Rouge."
       ]
     },
     {
@@ -1124,6 +1657,10 @@
       "en_US": [
         "A Ribbon awarded for clearing\n",
         "the Blackiron Tower."
+      ],
+      "fr_FR": [
+        "Ruban récompensant le succès\n",
+        "à la Tour Fer Noir."
       ]
     },
     {
@@ -1131,6 +1668,10 @@
       "en_US": [
         "A Ribbon awarded for clearing\n",
         "the Final Tower."
+      ],
+      "fr_FR": [
+        "Ruban récompensant le succès\n",
+        "à la Tour Finale."
       ]
     },
     {
@@ -1138,6 +1679,10 @@
       "en_US": [
         "A Ribbon awarded for creating\n",
         "a new legend."
+      ],
+      "fr_FR": [
+        "Ruban récompensant d’avoir\n",
+        "contribué à la légende."
       ]
     },
     {
@@ -1145,6 +1690,10 @@
       "en_US": [
         "Pokémon Center Tokyo\n",
         "Commemorative Ribbon"
+      ],
+      "fr_FR": [
+        "Centre Pokémon Tokyo\n",
+        "Ruban commémoratif"
       ]
     },
     {
@@ -1152,6 +1701,10 @@
       "en_US": [
         "Pokémon Center Osaka\n",
         "Commemorative Ribbon"
+      ],
+      "fr_FR": [
+        "Centre Pokémon Osaka\n",
+        "Ruban commémoratif"
       ]
     },
     {
@@ -1159,6 +1712,10 @@
       "en_US": [
         "Pokémon Center Nagoya\n",
         "Commemorative Ribbon"
+      ],
+      "fr_FR": [
+        "Centre Pokémon Nagoya\n",
+        "Ruban commémoratif"
       ]
     },
     {
@@ -1166,45 +1723,61 @@
       "en_US": [
         "Nintendo World NY\n",
         "Commemorative Ribbon"
+      ],
+      "fr_FR": [
+        "Nintendo World NY\n",
+        "Ruban commémoratif"
       ]
     },
     {
       "id": "pl_msg_00000535_00201",
-      "en_US": "Summer Holidays Ribbon"
+      "en_US": "Summer Holidays Ribbon",
+      "fr_FR": "Ruban vacances d’été"
     },
     {
       "id": "pl_msg_00000535_00202",
-      "en_US": "Winter Holidays Ribbon"
+      "en_US": "Winter Holidays Ribbon",
+      "fr_FR": "Ruban vacances d’hiver"
     },
     {
       "id": "pl_msg_00000535_00203",
-      "en_US": "Spring Holidays Ribbon"
+      "en_US": "Spring Holidays Ribbon",
+      "fr_FR": "Ruban vac. de printemps"
     },
     {
       "id": "pl_msg_00000535_00204",
-      "en_US": "Evergreen Ribbon"
+      "en_US": "Evergreen Ribbon",
+      "fr_FR": "Ruban feuilles persist."
     },
     {
       "id": "pl_msg_00000535_00205",
-      "en_US": "Special Holiday Ribbon"
+      "en_US": "Special Holiday Ribbon",
+      "fr_FR": "Ruban vac. spéciales"
     },
     {
       "id": "pl_msg_00000535_00206",
-      "en_US": "Hard Worker Ribbon"
+      "en_US": "Hard Worker Ribbon",
+      "fr_FR": "Ruban travailleur"
     },
     {
       "id": "pl_msg_00000535_00207",
-      "en_US": "Lots of Friends Ribbon"
+      "en_US": "Lots of Friends Ribbon",
+      "fr_FR": "Ruban amitié"
     },
     {
       "id": "pl_msg_00000535_00208",
-      "en_US": "Full of Energy Ribbon"
+      "en_US": "Full of Energy Ribbon",
+      "fr_FR": "Ruban énergie"
     },
     {
       "id": "pl_msg_00000535_00209",
       "en_US": [
         "A commemorative Ribbon for a beloved\n",
         "Pokémon."
+      ],
+      "fr_FR": [
+        "Ruban souvenir pour un Pokémon\n",
+        "bien-aimé."
       ]
     },
     {
@@ -1212,6 +1785,10 @@
       "en_US": [
         "A Ribbon that proclaims love for\n",
         "Pokémon."
+      ],
+      "fr_FR": [
+        "Ruban qui montre l’amour porté à\n",
+        "un Pokémon."
       ]
     },
     {
@@ -1219,6 +1796,10 @@
       "en_US": [
         "Pokémon Center Sapporo\n",
         "Commemorative Ribbon"
+      ],
+      "fr_FR": [
+        "Centre Pokémon Sapporo\n",
+        "Ruban commémoratif"
       ]
     },
     {
@@ -1226,6 +1807,10 @@
       "en_US": [
         "Pokémon Center Yokohama\n",
         "Commemorative Ribbon"
+      ],
+      "fr_FR": [
+        "Centre Pokémon Yokohama\n",
+        "Ruban commémoratif"
       ]
     },
     {
@@ -1233,6 +1818,10 @@
       "en_US": [
         "Pokémon Center Fukuoka\n",
         "Commemorative Ribbon"
+      ],
+      "fr_FR": [
+        "Centre Pokémon Fukuoka\n",
+        "Ruban commémoratif"
       ]
     },
     {
@@ -1240,6 +1829,10 @@
       "en_US": [
         "Pokémon Fan Club\n",
         "Special Ribbon"
+      ],
+      "fr_FR": [
+        "Fan Club Pokémon\n",
+        "Ruban Spécial"
       ]
     },
     {
@@ -1247,6 +1840,10 @@
       "en_US": [
         "Pokémon Fan Club\n",
         "Wi-Fi Ribbon"
+      ],
+      "fr_FR": [
+        "Fan Club Pokémon\n",
+        "Ruban Wi-Fi"
       ]
     },
     {
@@ -1254,6 +1851,10 @@
       "en_US": [
         "Wi-Fi Global Event\n",
         "Commemorative Ribbon"
+      ],
+      "fr_FR": [
+        "Evénement Mondial Wi-Fi\n",
+        "Ruban commémoratif"
       ]
     },
     {
@@ -1261,6 +1862,10 @@
       "en_US": [
         "Wi-Fi Global Gift\n",
         "Special Ribbon"
+      ],
+      "fr_FR": [
+        "Cadeau Mondial Wi-Fi\n",
+        "Ruban spécial"
       ]
     },
     {
@@ -1268,6 +1873,10 @@
       "en_US": [
         "Simultaneous Worldwide Gift\n",
         "Special Ribbon"
+      ],
+      "fr_FR": [
+        "Cadeau Mondial Simultané\n",
+        "Ruban spécial"
       ]
     },
     {
@@ -1275,6 +1884,10 @@
       "en_US": [
         "Pokémon Center Opening\n",
         "Commemorative Ribbon"
+      ],
+      "fr_FR": [
+        "Ouverture Centre Pokémon\n",
+        "Ruban commémoratif"
       ]
     },
     {
@@ -1282,17 +1895,26 @@
       "en_US": [
         "Poké Park Opening\n",
         "Commemorative Ribbon"
+      ],
+      "fr_FR": [
+        "Ouverture Poké Park\n",
+        "Ruban commémoratif"
       ]
     },
     {
       "id": "pl_msg_00000535_00221",
-      "en_US": "Poké Park Special Ribbon"
+      "en_US": "Poké Park Special Ribbon",
+      "fr_FR": "Ruban Spécial Poké Park"
     },
     {
       "id": "pl_msg_00000535_00222",
       "en_US": [
         "Pokémon Concert\n",
         "Commemorative Ribbon"
+      ],
+      "fr_FR": [
+        "Concert Pokémon\n",
+        "Ruban commémoratif"
       ]
     },
     {
@@ -1300,6 +1922,10 @@
       "en_US": [
         "Pokémon League 2006\n",
         "Champion Ribbon"
+      ],
+      "fr_FR": [
+        "Ligue Pokémon 2006\n",
+        "Ruban Maître"
       ]
     },
     {
@@ -1307,6 +1933,10 @@
       "en_US": [
         "Pokémon League 2006\n",
         "Runner-up Ribbon"
+      ],
+      "fr_FR": [
+        "Ligue Pokémon 2006\n",
+        "Ruban 2⁴ place"
       ]
     },
     {
@@ -1314,6 +1944,10 @@
       "en_US": [
         "Pokémon League 2006\n",
         "Semifinalist Ribbon"
+      ],
+      "fr_FR": [
+        "Ligue Pokémon 2006\n",
+        "Ruban demi-finaliste"
       ]
     },
     {
@@ -1321,6 +1955,10 @@
       "en_US": [
         "Pokémon League 2006\n",
         "Participation Ribbon"
+      ],
+      "fr_FR": [
+        "Ligue Pokémon 2006\n",
+        "Ruban de participation"
       ]
     },
     {
@@ -1328,6 +1966,10 @@
       "en_US": [
         "Pokémon League 2007\n",
         "Champion Ribbon"
+      ],
+      "fr_FR": [
+        "Ligue Pokémon 2007\n",
+        "Ruban Maître"
       ]
     },
     {
@@ -1335,6 +1977,10 @@
       "en_US": [
         "Pokémon League 2007\n",
         "Runner-up Ribbon"
+      ],
+      "fr_FR": [
+        "Ligue Pokémon 2007\n",
+        "Ruban 2⁴ place"
       ]
     },
     {
@@ -1342,6 +1988,10 @@
       "en_US": [
         "Pokémon League 2007\n",
         "Semifinalist Ribbon"
+      ],
+      "fr_FR": [
+        "Ligue Pokémon 2007\n",
+        "Ruban demi-finaliste"
       ]
     },
     {
@@ -1349,6 +1999,10 @@
       "en_US": [
         "Pokémon League 2007\n",
         "Participation Ribbon"
+      ],
+      "fr_FR": [
+        "Ligue Pokémon 2007\n",
+        "Ruban de participation"
       ]
     },
     {
@@ -1356,6 +2010,10 @@
       "en_US": [
         "Pokémon League 2008\n",
         "Champion Ribbon"
+      ],
+      "fr_FR": [
+        "Ligue Pokémon 2008\n",
+        "Ruban Maître"
       ]
     },
     {
@@ -1363,6 +2021,10 @@
       "en_US": [
         "Pokémon League 2008\n",
         "Runner-up Ribbon"
+      ],
+      "fr_FR": [
+        "Ligue Pokémon 2008\n",
+        "Ruban 2⁴ place"
       ]
     },
     {
@@ -1370,6 +2032,10 @@
       "en_US": [
         "Pokémon League 2008\n",
         "Semifinalist Ribbon"
+      ],
+      "fr_FR": [
+        "Ligue Pokémon 2008\n",
+        "Ruban demi-finaliste"
       ]
     },
     {
@@ -1377,6 +2043,10 @@
       "en_US": [
         "Pokémon League 2008\n",
         "Participation Ribbon"
+      ],
+      "fr_FR": [
+        "Ligue Pokémon 2008\n",
+        "Ruban de participation"
       ]
     },
     {
@@ -1384,6 +2054,10 @@
       "en_US": [
         "Pokémon League 2009\n",
         "Champion Ribbon"
+      ],
+      "fr_FR": [
+        "Ligue Pokémon 2009\n",
+        "Ruban Maître"
       ]
     },
     {
@@ -1391,6 +2065,10 @@
       "en_US": [
         "Pokémon League 2009\n",
         "Runner-up Ribbon"
+      ],
+      "fr_FR": [
+        "Ligue Pokémon 2009\n",
+        "Ruban 2⁴ place"
       ]
     },
     {
@@ -1398,6 +2076,10 @@
       "en_US": [
         "Pokémon League 2009\n",
         "Semifinalist Ribbon"
+      ],
+      "fr_FR": [
+        "Ligue Pokémon 2009\n",
+        "Ruban demi-finaliste"
       ]
     },
     {
@@ -1405,6 +2087,10 @@
       "en_US": [
         "Pokémon League 2009\n",
         "Participation Ribbon"
+      ],
+      "fr_FR": [
+        "Ligue Pokémon 2009\n",
+        "Ruban de participation"
       ]
     },
     {
@@ -1412,6 +2098,10 @@
       "en_US": [
         "Pokémon League 2010\n",
         "Champion Ribbon"
+      ],
+      "fr_FR": [
+        "Ligue Pokémon 2010\n",
+        "Ruban Maître"
       ]
     },
     {
@@ -1419,6 +2109,10 @@
       "en_US": [
         "Pokémon League 2010\n",
         "Runner-up Ribbon"
+      ],
+      "fr_FR": [
+        "Ligue Pokémon 2010\n",
+        "Ruban 2⁴ place"
       ]
     },
     {
@@ -1426,6 +2120,10 @@
       "en_US": [
         "Pokémon League 2010\n",
         "Semifinalist Ribbon"
+      ],
+      "fr_FR": [
+        "Ligue Pokémon 2010\n",
+        "Ruban demi-finaliste"
       ]
     },
     {
@@ -1433,6 +2131,10 @@
       "en_US": [
         "Pokémon League 2010\n",
         "Participation Ribbon"
+      ],
+      "fr_FR": [
+        "Ligue Pokémon 2010\n",
+        "Ruban de participation"
       ]
     },
     {
@@ -1440,6 +2142,10 @@
       "en_US": [
         "A commemorative Ribbon obtained in\n",
         "a Mystery Zone."
+      ],
+      "fr_FR": [
+        "Ruban commémoratif obtenu dans un\n",
+        "endroit mystérieux."
       ]
     },
     {
@@ -1447,6 +2153,10 @@
       "en_US": [
         "A commemorative Ribbon obtained in\n",
         "a Mystery Zone."
+      ],
+      "fr_FR": [
+        "Ruban commémoratif obtenu dans un\n",
+        "endroit mystérieux."
       ]
     },
     {
@@ -1454,6 +2164,10 @@
       "en_US": [
         "A commemorative Ribbon obtained in\n",
         "a Mystery Zone."
+      ],
+      "fr_FR": [
+        "Ruban commémoratif obtenu dans un\n",
+        "endroit mystérieux."
       ]
     },
     {
@@ -1461,6 +2175,10 @@
       "en_US": [
         "A commemorative Ribbon obtained in\n",
         "a Mystery Zone."
+      ],
+      "fr_FR": [
+        "Ruban commémoratif obtenu dans un\n",
+        "endroit mystérieux."
       ]
     },
     {
@@ -1468,6 +2186,10 @@
       "en_US": [
         "A commemorative Ribbon obtained in\n",
         "a Mystery Zone."
+      ],
+      "fr_FR": [
+        "Ruban commémoratif obtenu dans un\n",
+        "endroit mystérieux."
       ]
     },
     {
@@ -1475,6 +2197,10 @@
       "en_US": [
         "A commemorative Ribbon obtained in\n",
         "a Mystery Zone."
+      ],
+      "fr_FR": [
+        "Ruban commémoratif obtenu dans un\n",
+        "endroit mystérieux."
       ]
     },
     {
@@ -1482,6 +2208,10 @@
       "en_US": [
         "A commemorative Ribbon obtained in\n",
         "a Mystery Zone."
+      ],
+      "fr_FR": [
+        "Ruban commémoratif obtenu dans un\n",
+        "endroit mystérieux."
       ]
     },
     {
@@ -1489,6 +2219,10 @@
       "en_US": [
         "A commemorative Ribbon obtained in\n",
         "a Mystery Zone."
+      ],
+      "fr_FR": [
+        "Ruban commémoratif obtenu dans un\n",
+        "endroit mystérieux."
       ]
     },
     {
@@ -1496,6 +2230,10 @@
       "en_US": [
         "A commemorative Ribbon obtained in\n",
         "a Mystery Zone."
+      ],
+      "fr_FR": [
+        "Ruban commémoratif obtenu dans un\n",
+        "endroit mystérieux."
       ]
     },
     {
@@ -1503,6 +2241,10 @@
       "en_US": [
         "A commemorative Ribbon obtained in\n",
         "a Mystery Zone."
+      ],
+      "fr_FR": [
+        "Ruban commémoratif obtenu dans un\n",
+        "endroit mystérieux."
       ]
     },
     {
@@ -1510,6 +2252,10 @@
       "en_US": [
         "A commemorative Ribbon obtained in\n",
         "a Mystery Zone."
+      ],
+      "fr_FR": [
+        "Ruban commémoratif obtenu dans un\n",
+        "endroit mystérieux."
       ]
     },
     {
@@ -1517,6 +2263,10 @@
       "en_US": [
         "A commemorative Ribbon obtained in\n",
         "a Mystery Zone."
+      ],
+      "fr_FR": [
+        "Ruban commémoratif obtenu dans un\n",
+        "endroit mystérieux."
       ]
     },
     {
@@ -1524,6 +2274,10 @@
       "en_US": [
         "A commemorative Ribbon obtained in\n",
         "a Mystery Zone."
+      ],
+      "fr_FR": [
+        "Ruban commémoratif obtenu dans un\n",
+        "endroit mystérieux."
       ]
     },
     {
@@ -1531,6 +2285,10 @@
       "en_US": [
         "A commemorative Ribbon obtained in\n",
         "a Mystery Zone."
+      ],
+      "fr_FR": [
+        "Ruban commémoratif obtenu dans un\n",
+        "endroit mystérieux."
       ]
     },
     {
@@ -1538,6 +2296,10 @@
       "en_US": [
         "A commemorative Ribbon obtained in\n",
         "a Mystery Zone."
+      ],
+      "fr_FR": [
+        "Ruban commémoratif obtenu dans un\n",
+        "endroit mystérieux."
       ]
     },
     {
@@ -1545,6 +2307,10 @@
       "en_US": [
         "A commemorative Ribbon obtained in\n",
         "a Mystery Zone."
+      ],
+      "fr_FR": [
+        "Ruban commémoratif obtenu dans un\n",
+        "endroit mystérieux."
       ]
     },
     {
@@ -1552,6 +2318,10 @@
       "en_US": [
         "A commemorative Ribbon obtained in\n",
         "a Mystery Zone."
+      ],
+      "fr_FR": [
+        "Ruban commémoratif obtenu dans un\n",
+        "endroit mystérieux."
       ]
     },
     {
@@ -1559,6 +2329,10 @@
       "en_US": [
         "A commemorative Ribbon obtained in\n",
         "a Mystery Zone."
+      ],
+      "fr_FR": [
+        "Ruban commémoratif obtenu dans un\n",
+        "endroit mystérieux."
       ]
     },
     {
@@ -1566,6 +2340,10 @@
       "en_US": [
         "A commemorative Ribbon obtained in\n",
         "a Mystery Zone."
+      ],
+      "fr_FR": [
+        "Ruban commémoratif obtenu dans un\n",
+        "endroit mystérieux."
       ]
     },
     {
@@ -1573,6 +2351,10 @@
       "en_US": [
         "A commemorative Ribbon obtained in\n",
         "a Mystery Zone."
+      ],
+      "fr_FR": [
+        "Ruban commémoratif obtenu dans un\n",
+        "endroit mystérieux."
       ]
     },
     {
@@ -1580,6 +2362,10 @@
       "en_US": [
         "A commemorative Ribbon obtained in\n",
         "a Mystery Zone."
+      ],
+      "fr_FR": [
+        "Ruban commémoratif obtenu dans un\n",
+        "endroit mystérieux."
       ]
     },
     {
@@ -1587,6 +2373,10 @@
       "en_US": [
         "A commemorative Ribbon obtained in\n",
         "a Mystery Zone."
+      ],
+      "fr_FR": [
+        "Ruban commémoratif obtenu dans un\n",
+        "endroit mystérieux."
       ]
     },
     {
@@ -1594,6 +2384,10 @@
       "en_US": [
         "A commemorative Ribbon obtained in\n",
         "a Mystery Zone."
+      ],
+      "fr_FR": [
+        "Ruban commémoratif obtenu dans un\n",
+        "endroit mystérieux."
       ]
     },
     {
@@ -1601,6 +2395,10 @@
       "en_US": [
         "A commemorative Ribbon obtained in\n",
         "a Mystery Zone."
+      ],
+      "fr_FR": [
+        "Ruban commémoratif obtenu dans un\n",
+        "endroit mystérieux."
       ]
     },
     {
@@ -1608,6 +2406,10 @@
       "en_US": [
         "A commemorative Ribbon obtained in\n",
         "a Mystery Zone."
+      ],
+      "fr_FR": [
+        "Ruban commémoratif obtenu dans un\n",
+        "endroit mystérieux."
       ]
     },
     {
@@ -1615,6 +2417,10 @@
       "en_US": [
         "A commemorative Ribbon obtained in\n",
         "a Mystery Zone."
+      ],
+      "fr_FR": [
+        "Ruban commémoratif obtenu dans un\n",
+        "endroit mystérieux."
       ]
     },
     {
@@ -1622,6 +2428,10 @@
       "en_US": [
         "A commemorative Ribbon obtained in\n",
         "a Mystery Zone."
+      ],
+      "fr_FR": [
+        "Ruban commémoratif obtenu dans un\n",
+        "endroit mystérieux."
       ]
     },
     {
@@ -1629,6 +2439,10 @@
       "en_US": [
         "A commemorative Ribbon obtained in\n",
         "a Mystery Zone."
+      ],
+      "fr_FR": [
+        "Ruban commémoratif obtenu dans un\n",
+        "endroit mystérieux."
       ]
     },
     {
@@ -1636,6 +2450,10 @@
       "en_US": [
         "A commemorative Ribbon obtained in\n",
         "a Mystery Zone."
+      ],
+      "fr_FR": [
+        "Ruban commémoratif obtenu dans un\n",
+        "endroit mystérieux."
       ]
     },
     {
@@ -1643,6 +2461,10 @@
       "en_US": [
         "A commemorative Ribbon obtained in\n",
         "a Mystery Zone."
+      ],
+      "fr_FR": [
+        "Ruban commémoratif obtenu dans un\n",
+        "endroit mystérieux."
       ]
     },
     {
@@ -1650,6 +2472,10 @@
       "en_US": [
         "A commemorative Ribbon obtained in\n",
         "a Mystery Zone."
+      ],
+      "fr_FR": [
+        "Ruban commémoratif obtenu dans un\n",
+        "endroit mystérieux."
       ]
     },
     {
@@ -1657,6 +2483,10 @@
       "en_US": [
         "A commemorative Ribbon obtained in\n",
         "a Mystery Zone."
+      ],
+      "fr_FR": [
+        "Ruban commémoratif obtenu dans un\n",
+        "endroit mystérieux."
       ]
     },
     {
@@ -1664,6 +2494,10 @@
       "en_US": [
         "A commemorative Ribbon obtained in\n",
         "a Mystery Zone."
+      ],
+      "fr_FR": [
+        "Ruban commémoratif obtenu dans un\n",
+        "endroit mystérieux."
       ]
     },
     {
@@ -1671,6 +2505,10 @@
       "en_US": [
         "A commemorative Ribbon obtained in\n",
         "a Mystery Zone."
+      ],
+      "fr_FR": [
+        "Ruban commémoratif obtenu dans un\n",
+        "endroit mystérieux."
       ]
     },
     {
@@ -1678,6 +2516,10 @@
       "en_US": [
         "A commemorative Ribbon obtained in\n",
         "a Mystery Zone."
+      ],
+      "fr_FR": [
+        "Ruban commémoratif obtenu dans un\n",
+        "endroit mystérieux."
       ]
     },
     {
@@ -1685,6 +2527,10 @@
       "en_US": [
         "A commemorative Ribbon obtained in\n",
         "a Mystery Zone."
+      ],
+      "fr_FR": [
+        "Ruban commémoratif obtenu dans un\n",
+        "endroit mystérieux."
       ]
     },
     {
@@ -1692,6 +2538,10 @@
       "en_US": [
         "A commemorative Ribbon obtained in\n",
         "a Mystery Zone."
+      ],
+      "fr_FR": [
+        "Ruban commémoratif obtenu dans un\n",
+        "endroit mystérieux."
       ]
     },
     {
@@ -1699,6 +2549,10 @@
       "en_US": [
         "A commemorative Ribbon obtained in\n",
         "a Mystery Zone."
+      ],
+      "fr_FR": [
+        "Ruban commémoratif obtenu dans un\n",
+        "endroit mystérieux."
       ]
     },
     {
@@ -1706,6 +2560,10 @@
       "en_US": [
         "A commemorative Ribbon obtained in\n",
         "a Mystery Zone."
+      ],
+      "fr_FR": [
+        "Ruban commémoratif obtenu dans un\n",
+        "endroit mystérieux."
       ]
     },
     {
@@ -1713,6 +2571,10 @@
       "en_US": [
         "A commemorative Ribbon obtained in\n",
         "a Mystery Zone."
+      ],
+      "fr_FR": [
+        "Ruban commémoratif obtenu dans un\n",
+        "endroit mystérieux."
       ]
     },
     {
@@ -1720,6 +2582,10 @@
       "en_US": [
         "A commemorative Ribbon obtained in\n",
         "a Mystery Zone."
+      ],
+      "fr_FR": [
+        "Ruban commémoratif obtenu dans un\n",
+        "endroit mystérieux."
       ]
     },
     {
@@ -1727,6 +2593,10 @@
       "en_US": [
         "A commemorative Ribbon obtained in\n",
         "a Mystery Zone."
+      ],
+      "fr_FR": [
+        "Ruban commémoratif obtenu dans un\n",
+        "endroit mystérieux."
       ]
     },
     {
@@ -1734,6 +2604,10 @@
       "en_US": [
         "A commemorative Ribbon obtained in\n",
         "a Mystery Zone."
+      ],
+      "fr_FR": [
+        "Ruban commémoratif obtenu dans un\n",
+        "endroit mystérieux."
       ]
     },
     {
@@ -1741,6 +2615,10 @@
       "en_US": [
         "A commemorative Ribbon obtained in\n",
         "a Mystery Zone."
+      ],
+      "fr_FR": [
+        "Ruban commémoratif obtenu dans un\n",
+        "endroit mystérieux."
       ]
     },
     {
@@ -1748,6 +2626,10 @@
       "en_US": [
         "A commemorative Ribbon obtained in\n",
         "a Mystery Zone."
+      ],
+      "fr_FR": [
+        "Ruban commémoratif obtenu dans un\n",
+        "endroit mystérieux."
       ]
     },
     {
@@ -1755,6 +2637,10 @@
       "en_US": [
         "A commemorative Ribbon obtained in\n",
         "a Mystery Zone."
+      ],
+      "fr_FR": [
+        "Ruban commémoratif obtenu dans un\n",
+        "endroit mystérieux."
       ]
     },
     {
@@ -1762,6 +2648,10 @@
       "en_US": [
         "A commemorative Ribbon obtained in\n",
         "a Mystery Zone."
+      ],
+      "fr_FR": [
+        "Ruban commémoratif obtenu dans un\n",
+        "endroit mystérieux."
       ]
     },
     {
@@ -1769,6 +2659,10 @@
       "en_US": [
         "A commemorative Ribbon obtained in\n",
         "a Mystery Zone."
+      ],
+      "fr_FR": [
+        "Ruban commémoratif obtenu dans un\n",
+        "endroit mystérieux."
       ]
     },
     {
@@ -1776,6 +2670,10 @@
       "en_US": [
         "A commemorative Ribbon obtained in\n",
         "a Mystery Zone."
+      ],
+      "fr_FR": [
+        "Ruban commémoratif obtenu dans un\n",
+        "endroit mystérieux."
       ]
     },
     {
@@ -1783,6 +2681,10 @@
       "en_US": [
         "A commemorative Ribbon obtained in\n",
         "a Mystery Zone."
+      ],
+      "fr_FR": [
+        "Ruban commémoratif obtenu dans un\n",
+        "endroit mystérieux."
       ]
     },
     {
@@ -1790,6 +2692,10 @@
       "en_US": [
         "A commemorative Ribbon obtained in\n",
         "a Mystery Zone."
+      ],
+      "fr_FR": [
+        "Ruban commémoratif obtenu dans un\n",
+        "endroit mystérieux."
       ]
     },
     {
@@ -1797,6 +2703,10 @@
       "en_US": [
         "A commemorative Ribbon obtained in\n",
         "a Mystery Zone."
+      ],
+      "fr_FR": [
+        "Ruban commémoratif obtenu dans un\n",
+        "endroit mystérieux."
       ]
     },
     {
@@ -1804,6 +2714,10 @@
       "en_US": [
         "A commemorative Ribbon obtained in\n",
         "a Mystery Zone."
+      ],
+      "fr_FR": [
+        "Ruban commémoratif obtenu dans un\n",
+        "endroit mystérieux."
       ]
     },
     {
@@ -1811,6 +2725,10 @@
       "en_US": [
         "A commemorative Ribbon obtained in\n",
         "a Mystery Zone."
+      ],
+      "fr_FR": [
+        "Ruban commémoratif obtenu dans un\n",
+        "endroit mystérieux."
       ]
     },
     {
@@ -1818,6 +2736,10 @@
       "en_US": [
         "A commemorative Ribbon obtained in\n",
         "a Mystery Zone."
+      ],
+      "fr_FR": [
+        "Ruban commémoratif obtenu dans un\n",
+        "endroit mystérieux."
       ]
     },
     {
@@ -1825,6 +2747,10 @@
       "en_US": [
         "A commemorative Ribbon obtained in\n",
         "a Mystery Zone."
+      ],
+      "fr_FR": [
+        "Ruban commémoratif obtenu dans un\n",
+        "endroit mystérieux."
       ]
     },
     {
@@ -1832,6 +2758,10 @@
       "en_US": [
         "A commemorative Ribbon obtained in\n",
         "a Mystery Zone."
+      ],
+      "fr_FR": [
+        "Ruban commémoratif obtenu dans un\n",
+        "endroit mystérieux."
       ]
     },
     {
@@ -1839,6 +2769,10 @@
       "en_US": [
         "A commemorative Ribbon obtained in\n",
         "a Mystery Zone."
+      ],
+      "fr_FR": [
+        "Ruban commémoratif obtenu dans un\n",
+        "endroit mystérieux."
       ]
     },
     {
@@ -1846,6 +2780,10 @@
       "en_US": [
         "A commemorative Ribbon obtained in\n",
         "a Mystery Zone."
+      ],
+      "fr_FR": [
+        "Ruban commémoratif obtenu dans un\n",
+        "endroit mystérieux."
       ]
     },
     {
@@ -1853,6 +2791,10 @@
       "en_US": [
         "A commemorative Ribbon obtained in\n",
         "a Mystery Zone."
+      ],
+      "fr_FR": [
+        "Ruban commémoratif obtenu dans un\n",
+        "endroit mystérieux."
       ]
     },
     {
@@ -1860,6 +2802,10 @@
       "en_US": [
         "A commemorative Ribbon obtained in\n",
         "a Mystery Zone."
+      ],
+      "fr_FR": [
+        "Ruban commémoratif obtenu dans un\n",
+        "endroit mystérieux."
       ]
     },
     {
@@ -1867,6 +2813,10 @@
       "en_US": [
         "A commemorative Ribbon obtained in\n",
         "a Mystery Zone."
+      ],
+      "fr_FR": [
+        "Ruban commémoratif obtenu dans un\n",
+        "endroit mystérieux."
       ]
     },
     {
@@ -1874,6 +2824,10 @@
       "en_US": [
         "A commemorative Ribbon obtained in\n",
         "a Mystery Zone."
+      ],
+      "fr_FR": [
+        "Ruban commémoratif obtenu dans un\n",
+        "endroit mystérieux."
       ]
     },
     {
@@ -1881,6 +2835,10 @@
       "en_US": [
         "A commemorative Ribbon obtained in\n",
         "a Mystery Zone."
+      ],
+      "fr_FR": [
+        "Ruban commémoratif obtenu dans un\n",
+        "endroit mystérieux."
       ]
     },
     {
@@ -1888,6 +2846,10 @@
       "en_US": [
         "A commemorative Ribbon obtained in\n",
         "a Mystery Zone."
+      ],
+      "fr_FR": [
+        "Ruban commémoratif obtenu dans un\n",
+        "endroit mystérieux."
       ]
     },
     {
@@ -1895,6 +2857,10 @@
       "en_US": [
         "A commemorative Ribbon obtained in\n",
         "a Mystery Zone."
+      ],
+      "fr_FR": [
+        "Ruban commémoratif obtenu dans un\n",
+        "endroit mystérieux."
       ]
     },
     {
@@ -1902,6 +2868,10 @@
       "en_US": [
         "A commemorative Ribbon obtained in\n",
         "a Mystery Zone."
+      ],
+      "fr_FR": [
+        "Ruban commémoratif obtenu dans un\n",
+        "endroit mystérieux."
       ]
     },
     {
@@ -1909,6 +2879,10 @@
       "en_US": [
         "A commemorative Ribbon obtained in\n",
         "a Mystery Zone."
+      ],
+      "fr_FR": [
+        "Ruban commémoratif obtenu dans un\n",
+        "endroit mystérieux."
       ]
     },
     {
@@ -1916,6 +2890,10 @@
       "en_US": [
         "A commemorative Ribbon obtained in\n",
         "a Mystery Zone."
+      ],
+      "fr_FR": [
+        "Ruban commémoratif obtenu dans un\n",
+        "endroit mystérieux."
       ]
     },
     {
@@ -1923,6 +2901,10 @@
       "en_US": [
         "A commemorative Ribbon obtained in\n",
         "a Mystery Zone."
+      ],
+      "fr_FR": [
+        "Ruban commémoratif obtenu dans un\n",
+        "endroit mystérieux."
       ]
     },
     {
@@ -1930,6 +2912,10 @@
       "en_US": [
         "A commemorative Ribbon obtained in\n",
         "a Mystery Zone."
+      ],
+      "fr_FR": [
+        "Ruban commémoratif obtenu dans un\n",
+        "endroit mystérieux."
       ]
     },
     {
@@ -1937,6 +2923,10 @@
       "en_US": [
         "A commemorative Ribbon obtained in\n",
         "a Mystery Zone."
+      ],
+      "fr_FR": [
+        "Ruban commémoratif obtenu dans un\n",
+        "endroit mystérieux."
       ]
     },
     {
@@ -1944,6 +2934,10 @@
       "en_US": [
         "A commemorative Ribbon obtained in\n",
         "a Mystery Zone."
+      ],
+      "fr_FR": [
+        "Ruban commémoratif obtenu dans un\n",
+        "endroit mystérieux."
       ]
     },
     {
@@ -1951,6 +2945,10 @@
       "en_US": [
         "A commemorative Ribbon obtained in\n",
         "a Mystery Zone."
+      ],
+      "fr_FR": [
+        "Ruban commémoratif obtenu dans un\n",
+        "endroit mystérieux."
       ]
     },
     {
@@ -1958,6 +2956,10 @@
       "en_US": [
         "A commemorative Ribbon obtained in\n",
         "a Mystery Zone."
+      ],
+      "fr_FR": [
+        "Ruban commémoratif obtenu dans un\n",
+        "endroit mystérieux."
       ]
     },
     {
@@ -1965,6 +2967,10 @@
       "en_US": [
         "A commemorative Ribbon obtained in\n",
         "a Mystery Zone."
+      ],
+      "fr_FR": [
+        "Ruban commémoratif obtenu dans un\n",
+        "endroit mystérieux."
       ]
     },
     {
@@ -1972,6 +2978,10 @@
       "en_US": [
         "A commemorative Ribbon obtained in\n",
         "a Mystery Zone."
+      ],
+      "fr_FR": [
+        "Ruban commémoratif obtenu dans un\n",
+        "endroit mystérieux."
       ]
     },
     {
@@ -1979,6 +2989,10 @@
       "en_US": [
         "A commemorative Ribbon obtained in\n",
         "a Mystery Zone."
+      ],
+      "fr_FR": [
+        "Ruban commémoratif obtenu dans un\n",
+        "endroit mystérieux."
       ]
     },
     {
@@ -1986,6 +3000,10 @@
       "en_US": [
         "A commemorative Ribbon obtained in\n",
         "a Mystery Zone."
+      ],
+      "fr_FR": [
+        "Ruban commémoratif obtenu dans un\n",
+        "endroit mystérieux."
       ]
     },
     {
@@ -1993,6 +3011,10 @@
       "en_US": [
         "A commemorative Ribbon obtained in\n",
         "a Mystery Zone."
+      ],
+      "fr_FR": [
+        "Ruban commémoratif obtenu dans un\n",
+        "endroit mystérieux."
       ]
     },
     {
@@ -2000,6 +3022,10 @@
       "en_US": [
         "A commemorative Ribbon obtained in\n",
         "a Mystery Zone."
+      ],
+      "fr_FR": [
+        "Ruban commémoratif obtenu dans un\n",
+        "endroit mystérieux."
       ]
     },
     {
@@ -2007,6 +3033,10 @@
       "en_US": [
         "A commemorative Ribbon obtained in\n",
         "a Mystery Zone."
+      ],
+      "fr_FR": [
+        "Ruban commémoratif obtenu dans un\n",
+        "endroit mystérieux."
       ]
     },
     {
@@ -2014,6 +3044,10 @@
       "en_US": [
         "A commemorative Ribbon obtained in\n",
         "a Mystery Zone."
+      ],
+      "fr_FR": [
+        "Ruban commémoratif obtenu dans un\n",
+        "endroit mystérieux."
       ]
     },
     {
@@ -2021,6 +3055,10 @@
       "en_US": [
         "A commemorative Ribbon obtained in\n",
         "a Mystery Zone."
+      ],
+      "fr_FR": [
+        "Ruban commémoratif obtenu dans un\n",
+        "endroit mystérieux."
       ]
     },
     {
@@ -2028,6 +3066,10 @@
       "en_US": [
         "A commemorative Ribbon obtained in\n",
         "a Mystery Zone."
+      ],
+      "fr_FR": [
+        "Ruban commémoratif obtenu dans un\n",
+        "endroit mystérieux."
       ]
     },
     {
@@ -2035,6 +3077,10 @@
       "en_US": [
         "A commemorative Ribbon obtained in\n",
         "a Mystery Zone."
+      ],
+      "fr_FR": [
+        "Ruban commémoratif obtenu dans un\n",
+        "endroit mystérieux."
       ]
     },
     {
@@ -2042,6 +3088,10 @@
       "en_US": [
         "A commemorative Ribbon obtained in\n",
         "a Mystery Zone."
+      ],
+      "fr_FR": [
+        "Ruban commémoratif obtenu dans un\n",
+        "endroit mystérieux."
       ]
     },
     {
@@ -2049,6 +3099,10 @@
       "en_US": [
         "A commemorative Ribbon obtained in\n",
         "a Mystery Zone."
+      ],
+      "fr_FR": [
+        "Ruban commémoratif obtenu dans un\n",
+        "endroit mystérieux."
       ]
     },
     {
@@ -2056,6 +3110,10 @@
       "en_US": [
         "A commemorative Ribbon obtained in\n",
         "a Mystery Zone."
+      ],
+      "fr_FR": [
+        "Ruban commémoratif obtenu dans un\n",
+        "endroit mystérieux."
       ]
     },
     {
@@ -2063,6 +3121,10 @@
       "en_US": [
         "A commemorative Ribbon obtained in\n",
         "a Mystery Zone."
+      ],
+      "fr_FR": [
+        "Ruban commémoratif obtenu dans un\n",
+        "endroit mystérieux."
       ]
     },
     {
@@ -2070,6 +3132,10 @@
       "en_US": [
         "A commemorative Ribbon obtained in\n",
         "a Mystery Zone."
+      ],
+      "fr_FR": [
+        "Ruban commémoratif obtenu dans un\n",
+        "endroit mystérieux."
       ]
     },
     {
@@ -2077,6 +3143,10 @@
       "en_US": [
         "A commemorative Ribbon obtained in\n",
         "a Mystery Zone."
+      ],
+      "fr_FR": [
+        "Ruban commémoratif obtenu dans un\n",
+        "endroit mystérieux."
       ]
     },
     {
@@ -2084,6 +3154,10 @@
       "en_US": [
         "A commemorative Ribbon obtained in\n",
         "a Mystery Zone."
+      ],
+      "fr_FR": [
+        "Ruban commémoratif obtenu dans un\n",
+        "endroit mystérieux."
       ]
     },
     {
@@ -2091,6 +3165,10 @@
       "en_US": [
         "A commemorative Ribbon obtained in\n",
         "a Mystery Zone."
+      ],
+      "fr_FR": [
+        "Ruban commémoratif obtenu dans un\n",
+        "endroit mystérieux."
       ]
     },
     {
@@ -2098,6 +3176,10 @@
       "en_US": [
         "A commemorative Ribbon obtained in\n",
         "a Mystery Zone."
+      ],
+      "fr_FR": [
+        "Ruban commémoratif obtenu dans un\n",
+        "endroit mystérieux."
       ]
     },
     {
@@ -2105,6 +3187,10 @@
       "en_US": [
         "A commemorative Ribbon obtained in\n",
         "a Mystery Zone."
+      ],
+      "fr_FR": [
+        "Ruban commémoratif obtenu dans un\n",
+        "endroit mystérieux."
       ]
     },
     {
@@ -2112,6 +3198,10 @@
       "en_US": [
         "A commemorative Ribbon obtained in\n",
         "a Mystery Zone."
+      ],
+      "fr_FR": [
+        "Ruban commémoratif obtenu dans un\n",
+        "endroit mystérieux."
       ]
     },
     {
@@ -2119,6 +3209,10 @@
       "en_US": [
         "A commemorative Ribbon obtained in\n",
         "a Mystery Zone."
+      ],
+      "fr_FR": [
+        "Ruban commémoratif obtenu dans un\n",
+        "endroit mystérieux."
       ]
     },
     {
@@ -2126,6 +3220,10 @@
       "en_US": [
         "A commemorative Ribbon obtained in\n",
         "a Mystery Zone."
+      ],
+      "fr_FR": [
+        "Ruban commémoratif obtenu dans un\n",
+        "endroit mystérieux."
       ]
     },
     {
@@ -2133,6 +3231,10 @@
       "en_US": [
         "A commemorative Ribbon obtained in\n",
         "a Mystery Zone."
+      ],
+      "fr_FR": [
+        "Ruban commémoratif obtenu dans un\n",
+        "endroit mystérieux."
       ]
     },
     {
@@ -2140,6 +3242,10 @@
       "en_US": [
         "A commemorative Ribbon obtained in\n",
         "a Mystery Zone."
+      ],
+      "fr_FR": [
+        "Ruban commémoratif obtenu dans un\n",
+        "endroit mystérieux."
       ]
     },
     {
@@ -2147,6 +3253,10 @@
       "en_US": [
         "A commemorative Ribbon obtained in\n",
         "a Mystery Zone."
+      ],
+      "fr_FR": [
+        "Ruban commémoratif obtenu dans un\n",
+        "endroit mystérieux."
       ]
     },
     {
@@ -2154,6 +3264,10 @@
       "en_US": [
         "A commemorative Ribbon obtained in\n",
         "a Mystery Zone."
+      ],
+      "fr_FR": [
+        "Ruban commémoratif obtenu dans un\n",
+        "endroit mystérieux."
       ]
     },
     {
@@ -2161,6 +3275,10 @@
       "en_US": [
         "A commemorative Ribbon obtained in\n",
         "a Mystery Zone."
+      ],
+      "fr_FR": [
+        "Ruban commémoratif obtenu dans un\n",
+        "endroit mystérieux."
       ]
     },
     {
@@ -2168,6 +3286,10 @@
       "en_US": [
         "A commemorative Ribbon obtained in\n",
         "a Mystery Zone."
+      ],
+      "fr_FR": [
+        "Ruban commémoratif obtenu dans un\n",
+        "endroit mystérieux."
       ]
     },
     {
@@ -2175,6 +3297,10 @@
       "en_US": [
         "A commemorative Ribbon obtained in\n",
         "a Mystery Zone."
+      ],
+      "fr_FR": [
+        "Ruban commémoratif obtenu dans un\n",
+        "endroit mystérieux."
       ]
     },
     {
@@ -2182,6 +3308,10 @@
       "en_US": [
         "A commemorative Ribbon obtained in\n",
         "a Mystery Zone."
+      ],
+      "fr_FR": [
+        "Ruban commémoratif obtenu dans un\n",
+        "endroit mystérieux."
       ]
     },
     {
@@ -2189,6 +3319,10 @@
       "en_US": [
         "A commemorative Ribbon obtained in\n",
         "a Mystery Zone."
+      ],
+      "fr_FR": [
+        "Ruban commémoratif obtenu dans un\n",
+        "endroit mystérieux."
       ]
     },
     {
@@ -2196,6 +3330,10 @@
       "en_US": [
         "A commemorative Ribbon obtained in\n",
         "a Mystery Zone."
+      ],
+      "fr_FR": [
+        "Ruban commémoratif obtenu dans un\n",
+        "endroit mystérieux."
       ]
     },
     {
@@ -2203,6 +3341,10 @@
       "en_US": [
         "A commemorative Ribbon obtained in\n",
         "a Mystery Zone."
+      ],
+      "fr_FR": [
+        "Ruban commémoratif obtenu dans un\n",
+        "endroit mystérieux."
       ]
     },
     {
@@ -2210,6 +3352,10 @@
       "en_US": [
         "A commemorative Ribbon obtained in\n",
         "a Mystery Zone."
+      ],
+      "fr_FR": [
+        "Ruban commémoratif obtenu dans un\n",
+        "endroit mystérieux."
       ]
     },
     {
@@ -2217,6 +3363,10 @@
       "en_US": [
         "A commemorative Ribbon obtained in\n",
         "a Mystery Zone."
+      ],
+      "fr_FR": [
+        "Ruban commémoratif obtenu dans un\n",
+        "endroit mystérieux."
       ]
     },
     {
@@ -2224,6 +3374,10 @@
       "en_US": [
         "A commemorative Ribbon obtained in\n",
         "a Mystery Zone."
+      ],
+      "fr_FR": [
+        "Ruban commémoratif obtenu dans un\n",
+        "endroit mystérieux."
       ]
     },
     {
@@ -2231,6 +3385,10 @@
       "en_US": [
         "A commemorative Ribbon obtained in\n",
         "a Mystery Zone."
+      ],
+      "fr_FR": [
+        "Ruban commémoratif obtenu dans un\n",
+        "endroit mystérieux."
       ]
     },
     {
@@ -2238,6 +3396,10 @@
       "en_US": [
         "A commemorative Ribbon obtained in\n",
         "a Mystery Zone."
+      ],
+      "fr_FR": [
+        "Ruban commémoratif obtenu dans un\n",
+        "endroit mystérieux."
       ]
     },
     {
@@ -2245,6 +3407,10 @@
       "en_US": [
         "A commemorative Ribbon obtained in\n",
         "a Mystery Zone."
+      ],
+      "fr_FR": [
+        "Ruban commémoratif obtenu dans un\n",
+        "endroit mystérieux."
       ]
     },
     {
@@ -2252,6 +3418,10 @@
       "en_US": [
         "A commemorative Ribbon obtained in\n",
         "a Mystery Zone."
+      ],
+      "fr_FR": [
+        "Ruban commémoratif obtenu dans un\n",
+        "endroit mystérieux."
       ]
     },
     {
@@ -2259,6 +3429,10 @@
       "en_US": [
         "A commemorative Ribbon obtained in\n",
         "a Mystery Zone."
+      ],
+      "fr_FR": [
+        "Ruban commémoratif obtenu dans un\n",
+        "endroit mystérieux."
       ]
     },
     {
@@ -2266,6 +3440,10 @@
       "en_US": [
         "A commemorative Ribbon obtained in\n",
         "a Mystery Zone."
+      ],
+      "fr_FR": [
+        "Ruban commémoratif obtenu dans un\n",
+        "endroit mystérieux."
       ]
     },
     {
@@ -2273,6 +3451,10 @@
       "en_US": [
         "A commemorative Ribbon obtained in\n",
         "a Mystery Zone."
+      ],
+      "fr_FR": [
+        "Ruban commémoratif obtenu dans un\n",
+        "endroit mystérieux."
       ]
     },
     {
@@ -2280,6 +3462,10 @@
       "en_US": [
         "A commemorative Ribbon obtained in\n",
         "a Mystery Zone."
+      ],
+      "fr_FR": [
+        "Ruban commémoratif obtenu dans un\n",
+        "endroit mystérieux."
       ]
     },
     {
@@ -2287,6 +3473,10 @@
       "en_US": [
         "A commemorative Ribbon obtained in\n",
         "a Mystery Zone."
+      ],
+      "fr_FR": [
+        "Ruban commémoratif obtenu dans un\n",
+        "endroit mystérieux."
       ]
     },
     {
@@ -2294,6 +3484,10 @@
       "en_US": [
         "A commemorative Ribbon obtained in\n",
         "a Mystery Zone."
+      ],
+      "fr_FR": [
+        "Ruban commémoratif obtenu dans un\n",
+        "endroit mystérieux."
       ]
     },
     {
@@ -2301,6 +3495,10 @@
       "en_US": [
         "A commemorative Ribbon obtained in\n",
         "a Mystery Zone."
+      ],
+      "fr_FR": [
+        "Ruban commémoratif obtenu dans un\n",
+        "endroit mystérieux."
       ]
     },
     {
@@ -2308,6 +3506,10 @@
       "en_US": [
         "A commemorative Ribbon obtained in\n",
         "a Mystery Zone."
+      ],
+      "fr_FR": [
+        "Ruban commémoratif obtenu dans un\n",
+        "endroit mystérieux."
       ]
     },
     {
@@ -2315,6 +3517,10 @@
       "en_US": [
         "A commemorative Ribbon obtained in\n",
         "a Mystery Zone."
+      ],
+      "fr_FR": [
+        "Ruban commémoratif obtenu dans un\n",
+        "endroit mystérieux."
       ]
     },
     {
@@ -2322,6 +3528,10 @@
       "en_US": [
         "A commemorative Ribbon obtained in\n",
         "a Mystery Zone."
+      ],
+      "fr_FR": [
+        "Ruban commémoratif obtenu dans un\n",
+        "endroit mystérieux."
       ]
     },
     {
@@ -2329,6 +3539,10 @@
       "en_US": [
         "A commemorative Ribbon obtained in\n",
         "a Mystery Zone."
+      ],
+      "fr_FR": [
+        "Ruban commémoratif obtenu dans un\n",
+        "endroit mystérieux."
       ]
     },
     {
@@ -2336,6 +3550,10 @@
       "en_US": [
         "A commemorative Ribbon obtained in\n",
         "a Mystery Zone."
+      ],
+      "fr_FR": [
+        "Ruban commémoratif obtenu dans un\n",
+        "endroit mystérieux."
       ]
     },
     {
@@ -2343,6 +3561,10 @@
       "en_US": [
         "A commemorative Ribbon obtained in\n",
         "a Mystery Zone."
+      ],
+      "fr_FR": [
+        "Ruban commémoratif obtenu dans un\n",
+        "endroit mystérieux."
       ]
     },
     {
@@ -2350,6 +3572,10 @@
       "en_US": [
         "A commemorative Ribbon obtained in\n",
         "a Mystery Zone."
+      ],
+      "fr_FR": [
+        "Ruban commémoratif obtenu dans un\n",
+        "endroit mystérieux."
       ]
     },
     {
@@ -2357,6 +3583,10 @@
       "en_US": [
         "A commemorative Ribbon obtained in\n",
         "a Mystery Zone."
+      ],
+      "fr_FR": [
+        "Ruban commémoratif obtenu dans un\n",
+        "endroit mystérieux."
       ]
     },
     {
@@ -2364,6 +3594,10 @@
       "en_US": [
         "A commemorative Ribbon obtained in\n",
         "a Mystery Zone."
+      ],
+      "fr_FR": [
+        "Ruban commémoratif obtenu dans un\n",
+        "endroit mystérieux."
       ]
     },
     {
@@ -2371,6 +3605,10 @@
       "en_US": [
         "A commemorative Ribbon obtained in\n",
         "a Mystery Zone."
+      ],
+      "fr_FR": [
+        "Ruban commémoratif obtenu dans un\n",
+        "endroit mystérieux."
       ]
     },
     {
@@ -2378,6 +3616,10 @@
       "en_US": [
         "A commemorative Ribbon obtained in\n",
         "a Mystery Zone."
+      ],
+      "fr_FR": [
+        "Ruban commémoratif obtenu dans un\n",
+        "endroit mystérieux."
       ]
     },
     {
@@ -2385,6 +3627,10 @@
       "en_US": [
         "A commemorative Ribbon obtained in\n",
         "a Mystery Zone."
+      ],
+      "fr_FR": [
+        "Ruban commémoratif obtenu dans un\n",
+        "endroit mystérieux."
       ]
     },
     {
@@ -2392,6 +3638,10 @@
       "en_US": [
         "A commemorative Ribbon obtained in\n",
         "a Mystery Zone."
+      ],
+      "fr_FR": [
+        "Ruban commémoratif obtenu dans un\n",
+        "endroit mystérieux."
       ]
     },
     {
@@ -2399,6 +3649,10 @@
       "en_US": [
         "A commemorative Ribbon obtained in\n",
         "a Mystery Zone."
+      ],
+      "fr_FR": [
+        "Ruban commémoratif obtenu dans un\n",
+        "endroit mystérieux."
       ]
     },
     {
@@ -2406,6 +3660,10 @@
       "en_US": [
         "A commemorative Ribbon obtained in\n",
         "a Mystery Zone."
+      ],
+      "fr_FR": [
+        "Ruban commémoratif obtenu dans un\n",
+        "endroit mystérieux."
       ]
     },
     {
@@ -2413,6 +3671,10 @@
       "en_US": [
         "A commemorative Ribbon obtained in\n",
         "a Mystery Zone."
+      ],
+      "fr_FR": [
+        "Ruban commémoratif obtenu dans un\n",
+        "endroit mystérieux."
       ]
     },
     {
@@ -2420,6 +3682,10 @@
       "en_US": [
         "A commemorative Ribbon obtained in\n",
         "a Mystery Zone."
+      ],
+      "fr_FR": [
+        "Ruban commémoratif obtenu dans un\n",
+        "endroit mystérieux."
       ]
     },
     {
@@ -2427,6 +3693,10 @@
       "en_US": [
         "A commemorative Ribbon obtained in\n",
         "a Mystery Zone."
+      ],
+      "fr_FR": [
+        "Ruban commémoratif obtenu dans un\n",
+        "endroit mystérieux."
       ]
     },
     {
@@ -2434,6 +3704,10 @@
       "en_US": [
         "A commemorative Ribbon obtained in\n",
         "a Mystery Zone."
+      ],
+      "fr_FR": [
+        "Ruban commémoratif obtenu dans un\n",
+        "endroit mystérieux."
       ]
     },
     {
@@ -2441,6 +3715,10 @@
       "en_US": [
         "A commemorative Ribbon obtained in\n",
         "a Mystery Zone."
+      ],
+      "fr_FR": [
+        "Ruban commémoratif obtenu dans un\n",
+        "endroit mystérieux."
       ]
     },
     {
@@ -2448,6 +3726,10 @@
       "en_US": [
         "A commemorative Ribbon obtained in\n",
         "a Mystery Zone."
+      ],
+      "fr_FR": [
+        "Ruban commémoratif obtenu dans un\n",
+        "endroit mystérieux."
       ]
     },
     {
@@ -2455,6 +3737,10 @@
       "en_US": [
         "A commemorative Ribbon obtained in\n",
         "a Mystery Zone."
+      ],
+      "fr_FR": [
+        "Ruban commémoratif obtenu dans un\n",
+        "endroit mystérieux."
       ]
     },
     {
@@ -2462,6 +3748,10 @@
       "en_US": [
         "A commemorative Ribbon obtained in\n",
         "a Mystery Zone."
+      ],
+      "fr_FR": [
+        "Ruban commémoratif obtenu dans un\n",
+        "endroit mystérieux."
       ]
     },
     {
@@ -2469,6 +3759,10 @@
       "en_US": [
         "A commemorative Ribbon obtained in\n",
         "a Mystery Zone."
+      ],
+      "fr_FR": [
+        "Ruban commémoratif obtenu dans un\n",
+        "endroit mystérieux."
       ]
     },
     {
@@ -2476,6 +3770,10 @@
       "en_US": [
         "A commemorative Ribbon obtained in\n",
         "a Mystery Zone."
+      ],
+      "fr_FR": [
+        "Ruban commémoratif obtenu dans un\n",
+        "endroit mystérieux."
       ]
     },
     {
@@ -2483,6 +3781,10 @@
       "en_US": [
         "A commemorative Ribbon obtained in\n",
         "a Mystery Zone."
+      ],
+      "fr_FR": [
+        "Ruban commémoratif obtenu dans un\n",
+        "endroit mystérieux."
       ]
     },
     {
@@ -2490,6 +3792,10 @@
       "en_US": [
         "A commemorative Ribbon obtained in\n",
         "a Mystery Zone."
+      ],
+      "fr_FR": [
+        "Ruban commémoratif obtenu dans un\n",
+        "endroit mystérieux."
       ]
     },
     {
@@ -2497,6 +3803,10 @@
       "en_US": [
         "A commemorative Ribbon obtained in\n",
         "a Mystery Zone."
+      ],
+      "fr_FR": [
+        "Ruban commémoratif obtenu dans un\n",
+        "endroit mystérieux."
       ]
     },
     {
@@ -2504,6 +3814,10 @@
       "en_US": [
         "A commemorative Ribbon obtained in\n",
         "a Mystery Zone."
+      ],
+      "fr_FR": [
+        "Ruban commémoratif obtenu dans un\n",
+        "endroit mystérieux."
       ]
     },
     {
@@ -2511,6 +3825,10 @@
       "en_US": [
         "A commemorative Ribbon obtained in\n",
         "a Mystery Zone."
+      ],
+      "fr_FR": [
+        "Ruban commémoratif obtenu dans un\n",
+        "endroit mystérieux."
       ]
     },
     {
@@ -2518,6 +3836,10 @@
       "en_US": [
         "A commemorative Ribbon obtained in\n",
         "a Mystery Zone."
+      ],
+      "fr_FR": [
+        "Ruban commémoratif obtenu dans un\n",
+        "endroit mystérieux."
       ]
     },
     {
@@ -2525,6 +3847,10 @@
       "en_US": [
         "A commemorative Ribbon obtained in\n",
         "a Mystery Zone."
+      ],
+      "fr_FR": [
+        "Ruban commémoratif obtenu dans un\n",
+        "endroit mystérieux."
       ]
     },
     {
@@ -2532,6 +3858,10 @@
       "en_US": [
         "A commemorative Ribbon obtained in\n",
         "a Mystery Zone."
+      ],
+      "fr_FR": [
+        "Ruban commémoratif obtenu dans un\n",
+        "endroit mystérieux."
       ]
     },
     {
@@ -2539,6 +3869,10 @@
       "en_US": [
         "A commemorative Ribbon obtained in\n",
         "a Mystery Zone."
+      ],
+      "fr_FR": [
+        "Ruban commémoratif obtenu dans un\n",
+        "endroit mystérieux."
       ]
     },
     {
@@ -2546,6 +3880,10 @@
       "en_US": [
         "A commemorative Ribbon obtained in\n",
         "a Mystery Zone."
+      ],
+      "fr_FR": [
+        "Ruban commémoratif obtenu dans un\n",
+        "endroit mystérieux."
       ]
     },
     {
@@ -2553,6 +3891,10 @@
       "en_US": [
         "A commemorative Ribbon obtained in\n",
         "a Mystery Zone."
+      ],
+      "fr_FR": [
+        "Ruban commémoratif obtenu dans un\n",
+        "endroit mystérieux."
       ]
     }
   ]

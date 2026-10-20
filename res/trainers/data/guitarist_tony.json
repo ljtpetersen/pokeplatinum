@@ -32,6 +32,10 @@
             "en_US": [
                 "Let it rock!\n",
                 "It’s the rhythm of battle!\r"
+            ],
+            "fr_FR": [
+                "Yeah!\n",
+                "Suivons le rythme du combat!\r"
             ]
         },
         {
@@ -39,6 +43,10 @@
             "en_US": [
                 "Can you hear it?\n",
                 "That’s my guitar weeping...\n"
+            ],
+            "fr_FR": [
+                "Tu entends ça?\n",
+                "Ma guitare a le blues, bébé...\n"
             ]
         },
         {
@@ -46,6 +54,10 @@
             "en_US": [
                 "I’m too torn up to sing anymore...\n",
                 "I am so cool that way...\n"
+            ],
+            "fr_FR": [
+                "Je suis trop amoché pour chanter...\n",
+                "Pas grave, ça me donne un super look...\n"
             ]
         },
         {
@@ -54,7 +66,13 @@
                 "Rock ’n’ roll!\n",
                 "We’ll beat it out again!\f",
                 "Our rhythm of battle!\r"
+            ],
+            "fr_FR": [
+                "Rock-and-roll!\n",
+                "C’est l’heure du rappel!\f",
+                "Suivons à nouveau le rythme du combat!\r"
             ]
         }
-    ]
+    ],
+    "name_fr": "Edgar"
 }

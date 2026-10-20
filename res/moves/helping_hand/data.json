@@ -21,5 +21,12 @@
     "contest": {
         "effect": "CONTEST_EFFECT_TWO_VOLTAGE_IN_A_ROW_ADVANTAGE",
         "type": "CONTEST_TYPE_SMART"
-    }
+    },
+    "name_fr": "Coup d’Main",
+    "description_fr": [
+        "Une capacité qui\n",
+        "augmente la puissance\n",
+        "d’attaque de l’allié\n",
+        "durant un Combat Duo."
+    ]
 }

@@ -43,6 +43,12 @@
                 "You should be proud of yourself!\r",
                 "And now, I’ll send you packing home\n",
                 "with only that happy thought!\r"
+            ],
+            "fr_FR": [
+                "Tu as travaillé si dur pour arriver ici.\n",
+                "Tu devrais en tirer de la fierté!\r",
+                "Et maintenant, je vais te renvoyer\n",
+                "chez toi avec cette heureuse pensée!\r"
             ]
         },
         {
@@ -50,6 +56,10 @@
             "en_US": [
                 "Wh-- How dare you! That’s how you\n",
                 "respond to my generosity?\n"
+            ],
+            "fr_FR": [
+                "Qu... comment oses-tu! C’est ainsi que\n",
+                "tu me remercies de ma générosité?\n"
             ]
         },
         {
@@ -58,7 +68,13 @@
                 "We couldn’t stop you...\n",
                 "We’ll be discarded as useless...\r",
                 "Our boss is ruthless that way...\n"
+            ],
+            "fr_FR": [
+                "On n’a pas pu t’arrêter... On va nous\n",
+                "jeter comme de vieilles chaussettes.\r",
+                "Notre chef est sans pitié...\n"
             ]
         }
-    ]
+    ],
+    "name_fr": "Sbire"
 }

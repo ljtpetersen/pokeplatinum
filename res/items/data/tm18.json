@@ -27,5 +27,13 @@
   "fieldUseFunc": "ITEM_USE_FUNC_TM_HM",
   "battleUseCategory": "BATTLE_USE_CATEGORY_NONE",
   "itemUseParams": null,
-  "teachesMove": "MOVE_RAIN_DANCE"
+  "teachesMove": "MOVE_RAIN_DANCE",
+  "name_fr": "CT18",
+  "description_fr": [
+    "Invoque de fortes pluies qui durent 5\n",
+    "tours et améliorent les capacités de\n",
+    "type Eau."
+  ],
+  "plural_fr": "CT18",
+  "article_fr": null
 }

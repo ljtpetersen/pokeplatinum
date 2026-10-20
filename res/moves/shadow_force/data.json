@@ -26,5 +26,13 @@
     "contest": {
         "effect": "CONTEST_EFFECT_MAX_VOLTAGE_ADVANTAGE",
         "type": "CONTEST_TYPE_SMART"
-    }
+    },
+    "name_fr": "Revenant",
+    "description_fr": [
+        "Le lanceur disparaît\n",
+        "et frappe l’ennemi au\n",
+        "second tour.\n",
+        "Fonctionne même si\n",
+        "l’ennemi utilise Abri."
+    ]
 }

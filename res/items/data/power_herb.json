@@ -26,5 +26,13 @@
   "battlePocket": "BATTLE_POCKET_MASK_NONE",
   "fieldUseFunc": "ITEM_USE_FUNC_NONE",
   "battleUseCategory": "BATTLE_USE_CATEGORY_NONE",
-  "itemUseParams": null
+  "itemUseParams": null,
+  "name_fr": "Herbe Pouv.",
+  "description_fr": [
+    "Objet à tenir et à usage unique. Permet\n",
+    "d’utiliser immédiatement une capacité\n",
+    "qui devrait se charger au premier tour."
+  ],
+  "plural_fr": "Herbe Pouv.",
+  "article_fr": null
 }

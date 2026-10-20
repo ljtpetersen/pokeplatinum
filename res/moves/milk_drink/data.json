@@ -24,5 +24,13 @@
     "contest": {
         "effect": "CONTEST_EFFECT_VOLTAGE",
         "type": "CONTEST_TYPE_CUTE"
-    }
+    },
+    "name_fr": "Lait à Boire",
+    "description_fr": [
+        "Restaure jusqu’à la\n",
+        "moitié des PV max du\n",
+        "lanceur. En dehors\n",
+        "des combats,\n",
+        "restaure des PV."
+    ]
 }

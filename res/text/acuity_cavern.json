@@ -3,13 +3,18 @@
   "messages": [
     {
       "id": "AcuityCavern_Text_UxieCry",
-      "en_US": "Kyouuuun!\r"
+      "en_US": "Kyouuuun!\r",
+      "fr_FR": "Créééééé!\r"
     },
     {
       "id": "AcuityCavern_Text_UxieDisappeared",
       "en_US": [
         "UXIE disappeared deep into its\n",
         "cavern..."
+      ],
+      "fr_FR": [
+        "CREHELF a disparu au plus profond de la\n",
+        "caverne..."
       ]
     }
   ]

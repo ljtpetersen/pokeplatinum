@@ -27,5 +27,13 @@
   "fieldUseFunc": "ITEM_USE_FUNC_TM_HM",
   "battleUseCategory": "BATTLE_USE_CATEGORY_NONE",
   "itemUseParams": null,
-  "teachesMove": "MOVE_SILVER_WIND"
+  "teachesMove": "MOVE_SILVER_WIND",
+  "name_fr": "CT62",
+  "description_fr": [
+    "Vent qui projette des écailles\n",
+    "poudreuses sur l’ennemi. Peut aussi\n",
+    "monter toutes les stats du lanceur."
+  ],
+  "plural_fr": "CT62",
+  "article_fr": null
 }

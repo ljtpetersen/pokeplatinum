@@ -3,39 +3,48 @@
   "messages": [
     {
       "id": "pl_msg_00000551_00000",
-      "en_US": "HP"
+      "en_US": "HP",
+      "fr_FR": "PV"
     },
     {
       "id": "pl_msg_00000551_00001",
-      "en_US": "Attack"
+      "en_US": "Attack",
+      "fr_FR": "Attaque"
     },
     {
       "id": "pl_msg_00000551_00002",
-      "en_US": "Defense"
+      "en_US": "Defense",
+      "fr_FR": "Défense"
     },
     {
       "id": "pl_msg_00000551_00003",
-      "en_US": "Speed"
+      "en_US": "Speed",
+      "fr_FR": "Vitesse"
     },
     {
       "id": "pl_msg_00000551_00004",
-      "en_US": "Sp. Atk"
+      "en_US": "Sp. Atk",
+      "fr_FR": "Attaque Spé."
     },
     {
       "id": "pl_msg_00000551_00005",
-      "en_US": "Sp. Def"
+      "en_US": "Sp. Def",
+      "fr_FR": "Défense Spé."
     },
     {
       "id": "pl_msg_00000551_00006",
-      "en_US": "accuracy"
+      "en_US": "accuracy",
+      "fr_FR": "précision"
     },
     {
       "id": "pl_msg_00000551_00007",
-      "en_US": "evasiveness"
+      "en_US": "evasiveness",
+      "fr_FR": "esquive"
     },
     {
       "id": "pl_msg_00000551_00008",
-      "en_US": "Max. HP"
+      "en_US": "Max. HP",
+      "fr_FR": "PV MAX."
     }
   ]
 }

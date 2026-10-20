@@ -7,6 +7,11 @@
         "Welcome to the Battle Frontier!\r",
         "This is your first visit?\n",
         "Right this way, please!\r"
+      ],
+      "fr_FR": [
+        "Bienvenue à la Zone de Combat!\r",
+        "C’est votre première visite?\n",
+        "Par ici, s’il vous plaît!\r"
       ]
     },
     {
@@ -21,6 +26,17 @@
         "and ticka-tacka-kachunk there!\r",
         "All done!\n",
         "Here you go.\r"
+      ],
+      "fr_FR": [
+        "Oh, super! Je vois que vous avez\n",
+        "un Magnéto VS!\r",
+        "Comme c’est votre première visite,\n",
+        "nous devons le mettre à jour.\r",
+        "Je vous l’emprunte une minute.\r",
+        "Voyons... Je fais glisser cette\n",
+        "partie-là et tic tac clic!\r",
+        "Et voilà!\n",
+        "Tenez, je vous le rends.\r"
       ]
     },
     {
@@ -28,6 +44,10 @@
       "en_US": [
         "{STRVAR_1 3, 0, 0}’s Vs. Recorder was\n",
         "upgraded."
+      ],
+      "fr_FR": [
+        "{STRVAR_1 3, 0, 0} reprend son Magnéto VS\n",
+        "mis à jour."
       ]
     },
     {
@@ -38,11 +58,19 @@
         "of the Battle Frontier operate.\r",
         "I can go over general topics.\n",
         "Do you have any questions?"
+      ],
+      "fr_FR": [
+        "Mes collègues se feront un plaisir de\n",
+        "vous expliquer le fonctionnement de\f",
+        "chaque bâtiment de la Zone de Combat.\r",
+        "Quant à moi, je peux vous parler des\n",
+        "règles de base. Des questions?"
       ]
     },
     {
       "id": "BattleFrontierGateToFightArea_Text_ExplainWhichTopic",
-      "en_US": "Which topic should I explain?"
+      "en_US": "Which topic should I explain?",
+      "fr_FR": "Quel sujet dois-je aborder?"
     },
     {
       "id": "BattleFrontierGateToFightArea_Text_ExplainBattleFrontier",
@@ -59,6 +87,21 @@
         "manage Castle Points to advance.\r",
         "And finally, the Battle Arcade is where\n",
         "random luck triggers events.\r"
+      ],
+      "fr_FR": [
+        "La Zone de Combat dispose de cinq\n",
+        "bâtiments, tous dédiés au combat.\r",
+        "A la Tour de Combat, l’objectif est de\n",
+        "vaincre sept Dresseurs de suite.\r",
+        "A la Scène de Combat, chaque Pokémon\n",
+        "peut battre son record de victoires\f",
+        "consécutives.\r",
+        "A l’Usine de Combat, vous devez vous\n",
+        "battre avec des Pokémon de location.\r",
+        "Au Castel de Combat, gérez au mieux vos\n",
+        "Points Castel pour progresser.\r",
+        "Pour finir, à l’Arcade de Combat, le\n",
+        "hasard décide des aléas du combat.\r"
       ]
     },
     {
@@ -75,6 +118,19 @@
         "temporarily reduced to Lv. 50.\r",
         "Pokémon under Lv. 50 will be entered\n",
         "without an upward level adjustment.\r"
+      ],
+      "fr_FR": [
+        "Certaines règles générales s’appliquent\n",
+        "à tous les bâtiments de la zone.\r",
+        "D’abord, on ne gagne pas de Points Exp.\n",
+        "en combattant.\r",
+        "Par conséquent, aucune chance que vos\n",
+        "Pokémon ne montent en niveau.\r",
+        "Si vous choisissez la règle niveau 50,\n",
+        "les Pokémon ayant un niveau supérieur\f",
+        "auront un niveau 50.\r",
+        "Les Pokémon ayant un niveau inférieur\n",
+        "garderont leur niveau de départ.\r"
       ]
     },
     {
@@ -89,6 +145,15 @@
         "Battle Frontier facilities.\r",
         "BP can be exchanged for prizes at\n",
         "the Exchange Service Corner.\r"
+      ],
+      "fr_FR": [
+        "Les Points de Combat, ou PCo, sont\n",
+        "une exclusivité de la Zone de Combat.\r",
+        "Ils vous sont décernés lorsque vous\n",
+        "gagnez des combats en remplissant\f",
+        "certaines conditions.\r",
+        "Adressez-vous au Service d’Echange\n",
+        "pour les troquer contre des prix.\r"
       ]
     },
     {
@@ -99,6 +164,13 @@
         "There, you may exchange your BP for\n",
         "a wide variety of prizes.\r",
         "Please do visit it!\r"
+      ],
+      "fr_FR": [
+        "Vous trouverez un Service d’Echange\n",
+        "auprès des deux stands tout droit.\r",
+        "Vous pourrez y échanger vos PCo\n",
+        "contre des prix.\r",
+        "N’hésitez pas à y faire un tour!\r"
       ]
     },
     {
@@ -109,35 +181,49 @@
         "the best record to date.\r",
         "You will find one near the reception\n",
         "counter in each facility.\r"
+      ],
+      "fr_FR": [
+        "Cet écran affiche des données relatives\n",
+        "aux Dresseurs, comme le résultat\f",
+        "précédent ou le record absolu.\r",
+        "Il y en a un à côté de la réception\n",
+        "dans chaque bâtiment.\r"
       ]
     },
     {
       "id": "BattleFrontierGateToFightArea_Text_EnjoyYourVisit",
-      "en_US": "We hope you enjoy your visit!"
+      "en_US": "We hope you enjoy your visit!",
+      "fr_FR": "Amusez-vous bien!"
     },
     {
       "id": "BattleFrontierGateToFightArea_Text_BattleFrontier",
-      "en_US": "BATTLE FRONTIER"
+      "en_US": "BATTLE FRONTIER",
+      "fr_FR": "ZONE DE COMBAT"
     },
     {
       "id": "BattleFrontierGateToFightArea_Text_BattlePoints",
-      "en_US": "BATTLE POINTS"
+      "en_US": "BATTLE POINTS",
+      "fr_FR": "POINTS DE COMBAT"
     },
     {
       "id": "BattleFrontierGateToFightArea_Text_ExchangeServiceCorner",
-      "en_US": "EXCHANGE SERVICE CORNER"
+      "en_US": "EXCHANGE SERVICE CORNER",
+      "fr_FR": "SERVICE D’ECHANGE"
     },
     {
       "id": "BattleFrontierGateToFightArea_Text_PerformanceMonitor",
-      "en_US": "PERFORMANCE MONITOR"
+      "en_US": "PERFORMANCE MONITOR",
+      "fr_FR": "ECRAN DES PERFORMANCES"
     },
     {
       "id": "BattleFrontierGateToFightArea_Text_Exit",
-      "en_US": "EXIT"
+      "en_US": "EXIT",
+      "fr_FR": "ANNULER"
     },
     {
       "id": "BattleFrontierGateToFightArea_Text_BasicRules",
-      "en_US": "BASIC RULES"
+      "en_US": "BASIC RULES",
+      "fr_FR": "REGLES DE BASE"
     },
     {
       "id": "BattleFrontierGateToFightArea_Text_ShouldIExplainBattleTower",
@@ -145,6 +231,11 @@
         "Welcome to the Battle Frontier!\r",
         "Should I explain how the Battle Tower\n",
         "works?"
+      ],
+      "fr_FR": [
+        "Bienvenue à la Zone de Combat!\r",
+        "Désirez-vous en savoir plus sur le\n",
+        "fonctionnement de la Tour de Combat?"
       ]
     },
     {
@@ -155,11 +246,20 @@
         "The object is to enter a team of\n",
         "different Pokémon and battle on until\f",
         "you lose.\r"
+      ],
+      "fr_FR": [
+        "La Tour de Combat est le bâtiment situé\n",
+        "tout au fond de la Zone de Combat.\r",
+        "Inscrivez-y une équipe de Pokémon tous\n",
+        "différents les uns des autres et\r",
+        "enchaînez les combats jusqu’à\n",
+        "la défaite.\r"
       ]
     },
     {
       "id": "BattleFrontierGateToFightArea_Text_EnjoyVisitBattleTower",
-      "en_US": "We hope you enjoy your visit!"
+      "en_US": "We hope you enjoy your visit!",
+      "fr_FR": "Amusez-vous bien!"
     },
     {
       "id": "BattleFrontierGateToFightArea_Text_ShouldIExplainBattleFactory",
@@ -167,6 +267,11 @@
         "Welcome to the Battle Frontier!\r",
         "Should I explain how the Battle Factory\n",
         "works?"
+      ],
+      "fr_FR": [
+        "Bienvenue à la Zone de Combat!\r",
+        "Désirez-vous en savoir plus sur le\n",
+        "fonctionnement de l’Usine de Combat?"
       ]
     },
     {
@@ -181,11 +286,23 @@
         "Every time you win a match, you may\n",
         "trade one of your Pokémon for one of\f",
         "the opponent’s Pokémon.\r"
+      ],
+      "fr_FR": [
+        "L’Usine de Combat se trouve au fond à\n",
+        "droite de la Zone de Combat.\r",
+        "Le tournoi se déroule avec des Pokémon\n",
+        "de location.\r",
+        "Le but est d’enchaîner le plus de\n",
+        "victoires possible.\r",
+        "A chaque victoire, on vous proposera\n",
+        "d’échanger un Pokémon avec votre\f",
+        "adversaire.\r"
       ]
     },
     {
       "id": "BattleFrontierGateToFightArea_Text_EnjoyVisitBattleFactory",
-      "en_US": "We hope you enjoy your visit!"
+      "en_US": "We hope you enjoy your visit!",
+      "fr_FR": "Amusez-vous bien!"
     },
     {
       "id": "BattleFrontierGateToFightArea_Text_ShouldIExplainBattleHall",
@@ -193,6 +310,11 @@
         "Welcome to the Battle Frontier!\r",
         "Should I explain how the Battle Hall\n",
         "works?"
+      ],
+      "fr_FR": [
+        "Bienvenue à la Zone de Combat!\r",
+        "Dois-je expliquer le fonctionnement de\n",
+        "la Scène de Combat?"
       ]
     },
     {
@@ -204,11 +326,20 @@
         "choosing for one-on-one battles.\r",
         "The objective is to keep your winning\n",
         "streak going as long as possible.\r"
+      ],
+      "fr_FR": [
+        "La Scène de Combat se trouve au fond\n",
+        "à gauche de la Zone de Combat.\r",
+        "Choisissez un Pokémon et enchaînez\n",
+        "les combats en un contre un.\r",
+        "L’objectif est de remporter la plus\n",
+        "longue série de victoires possible.\r"
       ]
     },
     {
       "id": "BattleFrontierGateToFightArea_Text_EnjoyVisitBattleHall",
-      "en_US": "We hope you enjoy your visit!"
+      "en_US": "We hope you enjoy your visit!",
+      "fr_FR": "Amusez-vous bien!"
     },
     {
       "id": "BattleFrontierGateToFightArea_Text_ShouldIExplainBattleCastle",
@@ -216,6 +347,11 @@
         "Welcome to the Battle Frontier!\r",
         "Should I explain how the Battle Castle\n",
         "works?"
+      ],
+      "fr_FR": [
+        "Bienvenue à la Zone de Combat!\r",
+        "Dois-je expliquer le fonctionnement du\n",
+        "Castel de Combat?"
       ]
     },
     {
@@ -229,11 +365,23 @@
         "renting items or Berries, and so on.\r",
         "The objective is to keep a winning\n",
         "streak alive while managing your CP.\r"
+      ],
+      "fr_FR": [
+        "Le Castel de Combat se trouve en bas à\n",
+        "gauche de la Zone de Combat.\r",
+        "On vous y fournira des Points Castel\n",
+        "(PCa) qu’il vous faudra gérer au mieux.\r",
+        "Les PCa peuvent servir à soigner vos\n",
+        "Pokémon, à louer des objets ou des\f",
+        "Baies, etc.\r",
+        "Le but est de gagner autant de combats\n",
+        "que possible tout en gérant vos PCa.\r"
       ]
     },
     {
       "id": "BattleFrontierGateToFightArea_Text_EnjoyVisitBattleCastle",
-      "en_US": "We hope you enjoy your visit!"
+      "en_US": "We hope you enjoy your visit!",
+      "fr_FR": "Amusez-vous bien!"
     },
     {
       "id": "BattleFrontierGateToFightArea_Text_ShouldIExplainBattleArcade",
@@ -241,6 +389,11 @@
         "Welcome to the Battle Frontier!\r",
         "Should I explain how the Battle Arcade\n",
         "works?"
+      ],
+      "fr_FR": [
+        "Bienvenue à la Zone de Combat!\r",
+        "Dois-je expliquer le fonctionnement de\n",
+        "l’Arcade de Combat?"
       ]
     },
     {
@@ -258,11 +411,25 @@
         "to battle at all.\r",
         "The objective is to keep a winning\n",
         "streak alive as long as possible.\r"
+      ],
+      "fr_FR": [
+        "L’Arcade de Combat est le premier\n",
+        "bâtiment à droite de la Zone de Combat.\r",
+        "Avant chaque match, un tableau de jeu\n",
+        "décide aléatoirement des conditions\f",
+        "du combat à venir.\r",
+        "Celles-ci peuvent s’avérer favorables\n",
+        "au candidat, ou l’inverse.\r",
+        "Parfois, il arrive que ce dernier n’ait\n",
+        "même pas à se battre.\r",
+        "Le but est d’enchaîner autant de\n",
+        "victoires consécutives que possible.\r"
       ]
     },
     {
       "id": "BattleFrontierGateToFightArea_Text_EnjoyVisitBattleArcade",
-      "en_US": "We hope you enjoy your visit!"
+      "en_US": "We hope you enjoy your visit!",
+      "fr_FR": "Amusez-vous bien!"
     },
     {
       "id": "BattleFrontierGateToFightArea_Text_FrontierUpAhead",
@@ -271,6 +438,12 @@
         "What kinds of Trainers will I see?\n",
         "What battles will I experience?\r",
         "It’s a whole new adventure for me!"
+      ],
+      "fr_FR": [
+        "C’est parti pour la Zone de Combat!\r",
+        "Quels types de Dresseurs vais-je y\n",
+        "croiser? Comment seront les combats?\r",
+        "En route pour de nouvelles aventures!"
       ]
     },
     {
@@ -289,6 +462,20 @@
         "FATCH! CHAFT!\r",
         "...Nope! Nothing works!\n",
         "Didn’t anyone think of this?!"
+      ],
+      "fr_FR": [
+        "Les cinq bâtiments de la Zone de Combat\n",
+        "sont:\r",
+        "La Tour.\r",
+        "La Scène.\r",
+        "Le Castel.\r",
+        "L’Usine.\r",
+        "Et l’Arcade.\r",
+        "Ce qui donne l’acronyme... TSCUA!\r",
+        "Et si on change l’ordre des lettres...\n",
+        "TUSCA! CASTU!\r",
+        "Arf, ça ne veut rien dire!\n",
+        "Personne n’a pensé à ça?!"
       ]
     },
     {
@@ -297,6 +484,11 @@
         "The Vs. Recorder is sure nifty!\r",
         "Touching the screen shows you how\n",
         "much BP you have."
+      ],
+      "fr_FR": [
+        "Le Magnéto VS, c’est la classe!\r",
+        "Touche l’écran pour voir le nombre de\n",
+        "PCo que tu as gagné."
       ]
     },
     {
@@ -308,6 +500,14 @@
         "my Vs. Recorder.\r",
         "But I’m not good enough to battle my\n",
         "way to see Palmer... I’m heartbroken!"
+      ],
+      "fr_FR": [
+        "Je rêve de battre Koner, de la Tour de\n",
+        "Combat.\r",
+        "Avec mon Magnéto VS, j’enregistrerai le\n",
+        "match pour qu’il passe à la postérité.\r",
+        "Le hic: je n’arriverai jamais jusqu’à\n",
+        "Koner. Ça me fend le cœur!"
       ]
     }
   ]

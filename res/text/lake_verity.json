@@ -9,6 +9,13 @@
         "Those Team Galactic scoundrels are\n",
         "after the legendary Pokémon!\r",
         "You’ve got to help Dawn!"
+      ],
+      "fr_FR": [
+        "Sorbier: Ah, {STRVAR_1 3, 0, 0}!\n",
+        "Tu tombes à pic!\r",
+        "Ces voyous de la Team Galaxie \n",
+        "poursuivent le Pokémon légendaire!\r",
+        "Tu dois aider Aurore!"
       ]
     },
     {
@@ -20,6 +27,13 @@
         "after the legendary Pokémon!\r",
         "{STRVAR_1 3, 0, 0}, help us!\n",
         "You’ve got to help Lucas!"
+      ],
+      "fr_FR": [
+        "Sorbier: Ah, {STRVAR_1 3, 0, 0}!\n",
+        "Tu tombes à pic!\r",
+        "Ces voyous de la Team Galaxie \n",
+        "poursuivent le Pokémon légendaire!\r",
+        "Tu dois aider Louka!"
       ]
     },
     {
@@ -27,6 +41,10 @@
       "en_US": [
         "Rowan: How dare you!\n",
         "You misguided thugs!\r"
+      ],
+      "fr_FR": [
+        "Sorbier: Comment osez-vous, \n",
+        "fripouilles incultes!\r"
       ]
     },
     {
@@ -34,6 +52,10 @@
       "en_US": [
         "{STRVAR_1 3, 0, 0}!\n",
         "Dawn needs your help!"
+      ],
+      "fr_FR": [
+        "{STRVAR_1 3, 0, 0}!\n",
+        "Aurore a besoin de ton aide!"
       ]
     },
     {
@@ -41,6 +63,10 @@
       "en_US": [
         "Rowan: How dare you!\n",
         "You misguided thugs!\r"
+      ],
+      "fr_FR": [
+        "Sorbier: Comment osez-vous, \n",
+        "fripouilles incultes!\r"
       ]
     },
     {
@@ -48,6 +74,10 @@
       "en_US": [
         "{STRVAR_1 3, 0, 0}!\n",
         "Lucas needs your help!"
+      ],
+      "fr_FR": [
+        "{STRVAR_1 3, 0, 0}!\n",
+        "Louka a besoin de ton aide!"
       ]
     },
     {
@@ -55,7 +85,8 @@
       "en_US": [
         "Ow! Ouch!\n",
         "What’s with this old-timer?"
-      ]
+      ],
+      "fr_FR": "Aïe, ouille! Doucement, grand-père!"
     },
     {
       "id": "LakeVerity_Text_DawnICouldntBeatThisPerson",
@@ -66,6 +97,12 @@
         "lake...\r",
         "I...\n",
         "I couldn’t beat this person..."
+      ],
+      "fr_FR": [
+        "Aurore: {STRVAR_1 3, 0, 0}!\n",
+        "C’est... c’est la Team Galaxie!\r",
+        "Ils ont capturé le Pokémon du lac...\n",
+        "Je... je n’ai rien pu faire..."
       ]
     },
     {
@@ -75,6 +112,12 @@
         "They took the Pokémon of the lake...\r",
         "This woman...\n",
         "I lost to her, but just barely!"
+      ],
+      "fr_FR": [
+        "Louka: C’est la Team Galaxie!\n",
+        "Ils ont capturé le Pokémon du lac...\r",
+        "Et dire que j’étais à deux doigts de\n",
+        "battre cette harpie!"
       ]
     },
     {
@@ -95,6 +138,23 @@
         "lovey-dovey couple to the rescue?\r",
         "Not a chance! Not even a teeny one!\n",
         "You’re all going down!\r"
+      ],
+      "fr_FR": [
+        "Mars: Ce visage...!\n",
+        "Ça me rappelle de mauvais souvenirs!\r",
+        "Je parle des Eoliennes!\r",
+        "J’ai eu pas mal d’ennuis \n",
+        "après cet incident!\r",
+        "Pourquoi tu fais cette tête? \n",
+        "Tu ne te souviens pas?\r",
+        "Bah, peu importe.\n",
+        "Je vais te rappeler qui je suis!\r",
+        "Je suis Mars, un des Commandants \n",
+        "de la Team Galaxie.\r",
+        "Alors, vous nous faites quoi? Le joli \n",
+        "petit couple qui vient à la rescousse?\r",
+        "Aucune chance! Vous pouvez toujours \n",
+        "rêver! Je vais vous donner une leçon!\r"
       ]
     },
     {
@@ -111,6 +171,19 @@
         "lake’s Pokémon to our HQ...\r",
         "...That’s right! I accomplished my\n",
         "mission without a problem!\r"
+      ],
+      "fr_FR": [
+        "Et voilà, j’ai encore perdu...\r",
+        "D’abord les Eoliennes, et \n",
+        "maintenant le Lac Vérité!\r",
+        "Je suis quand même le \n",
+        "Commandant Mars quoi, zut!\r",
+        "Calme-toi, Mars, calme-toi...\n",
+        "Tu as rempli ta mission...\r",
+        "Le Pokémon du lac a été \n",
+        "transporté au QG...\r",
+        "Mais oui! Je m’en fiche, la \n",
+        "mission est un succès total!\r"
       ]
     },
     {
@@ -118,6 +191,10 @@
       "en_US": [
         "Team! We’re pulling out!\n",
         "The boss is waiting at the HQ!\r"
+      ],
+      "fr_FR": [
+        "Allez! On y va!\n",
+        "Le chef nous attend au QG!\r"
       ]
     },
     {
@@ -140,6 +217,25 @@
         "Now that we have them all...\r",
         "You can look forward to what plans\n",
         "Team Galactic has for them!\r"
+      ],
+      "fr_FR": [
+        "Un lien unit les Pokémon\n",
+        "des trois lacs.\r",
+        "Grâce à l’action de Saturne au Lac \n",
+        "Courage, une caverne est apparue ici.\r",
+        "C’était la tanière du \n",
+        "Pokémon CREFOLLET.\r",
+        "Quand CREFOLLET est apparu pour aider \n",
+        "ses amis, nous l’avons attrapé.\r",
+        "Ça n’a pas été bien dur, tout a marché \n",
+        "comme sur des roulettes.\r",
+        "Maintenant, nous les avons tous:\n",
+        "CREFOLLET, “être de l’émotion”.\f",
+        "CREFADET, “être de la volonté”.\f",
+        "CREHELF, “être du savoir”.\r",
+        "Maintenant qu’ils sont à nous...\r",
+        "La Team Galaxie va pouvoir \n",
+        "mettre son plan à exécution!\r"
       ]
     },
     {
@@ -156,6 +252,18 @@
         "...But what about {STRVAR_1 3, 0, 0}?\r",
         "What is happening at Lake Acuity?\n",
         "Is {STRVAR_1 3, 0, 0} safe?"
+      ],
+      "fr_FR": [
+        "Sorbier: Je vois... Il est arrivé la\n",
+        "même chose au Lac Courage...\r",
+        "Un autre Pokémon légendaire a \n",
+        "été capturé par la Team Galaxie...\r",
+        "Vous vous êtes tous les deux \n",
+        "mesurés à de vrais criminels...\r",
+        "Vous êtes sains et saufs, c’est\n",
+        "le principal.\r",
+        "Mais qu’en est-il du Lac Savoir?\n",
+        "Est-ce que {STRVAR_1 3, 0, 0} va bien?"
       ]
     },
     {
@@ -164,6 +272,11 @@
         "Rowan: {STRVAR_1 3, 0, 0}, I need you to\n",
         "go to Lake Acuity right away.\r",
         "I’m worried about {STRVAR_1 3, 1, 0}."
+      ],
+      "fr_FR": [
+        "Sorbier: {STRVAR_1 3, 0, 0}, tu dois te \n",
+        "rendre au Lac Savoir tout de suite.\r",
+        "Je m’inquiète pour {STRVAR_1 3, 1, 0}."
       ]
     },
     {
@@ -173,6 +286,12 @@
         "Galactic up to?\r",
         "Are the abducted Pokémon of the\n",
         "lakes going to be OK?"
+      ],
+      "fr_FR": [
+        "Aurore: {STRVAR_1 3, 0, 0}, que prépare \n",
+        "la Team Galaxie?\r",
+        "Tu crois qu’ils vont faire du mal \n",
+        "aux Pokémon légendaires?"
       ]
     },
     {
@@ -182,6 +301,12 @@
         "Galactic up to?\r",
         "They’d better not harm the Pokémon\n",
         "they took from the lakes..."
+      ],
+      "fr_FR": [
+        "Louka: {STRVAR_1 3, 0, 0}, que prépare \n",
+        "la Team Galaxie?\r",
+        "Ils ont intérêt à ne faire aucun mal \n",
+        "aux Pokémon légendaires, sinon..."
       ]
     }
   ]

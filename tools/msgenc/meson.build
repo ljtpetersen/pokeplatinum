@@ -6,6 +6,8 @@ elif get_option('version') == 'us_rev1'
     msgenc_version_arg = '-DPOKEPLATINUM_VERSION=1'
 elif get_option('version') == 'eu'
     msgenc_version_arg = '-DPOKEPLATINUM_VERSION=2'
+elif get_option('version') == 'fr'
+    msgenc_version_arg = '-DPOKEPLATINUM_VERSION=3'
 endif
 
 msgenc_exe = executable('msgenc',

@@ -39,5 +39,13 @@
     "bitterness": 10,
     "sourness": 20,
     "smoothness": 35
-  }
+  },
+  "name_fr": "Baie Lampou",
+  "description_fr": [
+    "Ingrédient pour Poffin. Tenue, cette\n",
+    "Baie affaiblit une attaque ennemie super\n",
+    "efficace de type Ténèbres."
+  ],
+  "plural_fr": "Baie Lampou",
+  "article_fr": null
 }

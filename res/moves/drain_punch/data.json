@@ -27,5 +27,13 @@
     "contest": {
         "effect": "CONTEST_EFFECT_TWO_VOLTAGE_IN_A_ROW_ADVANTAGE",
         "type": "CONTEST_TYPE_BEAUTY"
-    }
+    },
+    "name_fr": "Vampipoing",
+    "description_fr": [
+        "Un coup de poing qui\n",
+        "draine l’énergie.\n",
+        "Convertit la moitié\n",
+        "des dégâts infligés en\n",
+        "PV pour le lanceur."
+    ]
 }

@@ -26,5 +26,13 @@
   "battlePocket": "BATTLE_POCKET_MASK_NONE",
   "fieldUseFunc": "ITEM_USE_FUNC_GOOD_ROD",
   "battleUseCategory": "BATTLE_USE_CATEGORY_NONE",
-  "itemUseParams": null
+  "itemUseParams": null,
+  "name_fr": "Super Canne",
+  "description_fr": [
+    "Une canne neuve et de bonne qualité.\n",
+    "Utilisez-la pour pêcher des Pokémon\n",
+    "sauvages dans les points d’eau."
+  ],
+  "plural_fr": "Super Canne",
+  "article_fr": null
 }

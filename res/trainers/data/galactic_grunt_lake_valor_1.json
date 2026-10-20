@@ -23,6 +23,10 @@
             "en_US": [
                 "We set off the Galactic Bomb!\n",
                 "Its blast force was phenomenal!\r"
+            ],
+            "fr_FR": [
+                "On a déclenché la Bombe Galaxie!\n",
+                "Sa puissance était dévastatrice!\r"
             ]
         },
         {
@@ -30,6 +34,10 @@
             "en_US": [
                 "Your Pokémon attack with phenomenal\n",
                 "power...\n"
+            ],
+            "fr_FR": [
+                "La puissance d’attaque de tes\n",
+                "Pokémon est phénoménale...\n"
             ]
         },
         {
@@ -43,7 +51,18 @@
                 "be near Twinleaf Town.\r",
                 "That’s right, they’re on the way to\n",
                 "Lake Verity!\n"
+            ],
+            "fr_FR": [
+                "Alors quoi? Tu as l’intention de tous\n",
+                "nous affronter? Par toi-même?\r",
+                "Tu peux toujours rêver! La Team\n",
+                "Galaxie compte de nombreux membres.\r",
+                "En ce moment même, nous avons une\n",
+                "autre équipe près de Bonaugure.\r",
+                "Exactement! Ils sont en route vers\n",
+                "le Lac Vérité!\n"
             ]
         }
-    ]
+    ],
+    "name_fr": "Sbire"
 }

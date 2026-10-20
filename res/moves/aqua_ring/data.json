@@ -22,5 +22,12 @@
     "contest": {
         "effect": "CONTEST_EFFECT_VOLTAGE",
         "type": "CONTEST_TYPE_BEAUTY"
-    }
+    },
+    "name_fr": "Anneau Hydro",
+    "description_fr": [
+        "Un voile liquide\n",
+        "enveloppe le lanceur.\n",
+        "Il récupère des PV\n",
+        "à chaque tour."
+    ]
 }

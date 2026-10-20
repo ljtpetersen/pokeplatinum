@@ -26,5 +26,12 @@
   "battlePocket": "BATTLE_POCKET_MASK_NONE",
   "fieldUseFunc": "ITEM_USE_FUNC_NONE",
   "battleUseCategory": "BATTLE_USE_CATEGORY_NONE",
-  "itemUseParams": null
+  "itemUseParams": null,
+  "name_fr": "Foul. Bleu",
+  "description_fr": [
+    "Objet à tenir. Augmente la “Beauté”\n",
+    "dans les Concours."
+  ],
+  "plural_fr": "Foul. Bleu",
+  "article_fr": null
 }

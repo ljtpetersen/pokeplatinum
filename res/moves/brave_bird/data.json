@@ -28,5 +28,13 @@
     "contest": {
         "effect": "CONTEST_EFFECT_FINAL_PERFORMANCE_ADVANTAGE",
         "type": "CONTEST_TYPE_CUTE"
-    }
+    },
+    "name_fr": "Rapace",
+    "description_fr": [
+        "Le lanceur replie ses\n",
+        "ailes et charge en\n",
+        "rase-mottes. Le\n",
+        "lanceur subit de\n",
+        "graves dégâts aussi."
+    ]
 }

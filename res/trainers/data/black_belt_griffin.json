@@ -44,17 +44,27 @@
                 "I have meditated under a waterfall\n",
                 "to temper my spirit.\r",
                 "Allow me to demonstrate its strength!\r"
+            ],
+            "fr_FR": [
+                "J’ai médité sous une cascade pour\n",
+                "aguerrir mon esprit.\r",
+                "Permets-moi de te démontrer sa force!\r"
             ]
         },
         {
             "type": "TRMSG_DEFEAT",
-            "en_US": "Ha-choo! Sniffle...\n"
+            "en_US": "Ha-choo! Sniffle...\n",
+            "fr_FR": "At-choum! Snif...\n"
         },
         {
             "type": "TRMSG_POST_BATTLE",
             "en_US": [
                 "All that time under the waterfall...\n",
                 "Seems I’ve caught a cold.\n"
+            ],
+            "fr_FR": [
+                "Tout ce temps passé sous la cascade...\n",
+                "Je crois que j’ai attrapé froid.\n"
             ]
         },
         {
@@ -62,7 +72,12 @@
             "en_US": [
                 "Since the day I lost to you, I’ve\n",
                 "meditated under a waterfall!\r"
+            ],
+            "fr_FR": [
+                "Depuis le jour où j’ai perdu contre toi,\n",
+                "j’ai médité sous une cascade!\r"
             ]
         }
-    ]
+    ],
+    "name_fr": "Willy"
 }

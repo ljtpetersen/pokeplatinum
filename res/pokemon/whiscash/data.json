@@ -7,7 +7,10 @@
         "special_attack": 76,
         "special_defense": 71
     },
-    "types": [ "TYPE_WATER", "TYPE_GROUND" ],
+    "types": [
+        "TYPE_WATER",
+        "TYPE_GROUND"
+    ],
     "catch_rate": 75,
     "base_exp_reward": 158,
     "ev_yields": {
@@ -26,32 +29,92 @@
     "hatch_cycles": 20,
     "base_friendship": 70,
     "exp_rate": "EXP_RATE_MEDIUM_FAST",
-    "egg_groups": [ "EGG_GROUP_WATER_2", "EGG_GROUP_WATER_2" ],
-    "abilities": [ "ABILITY_OBLIVIOUS", "ABILITY_ANTICIPATION" ],
+    "egg_groups": [
+        "EGG_GROUP_WATER_2",
+        "EGG_GROUP_WATER_2"
+    ],
+    "abilities": [
+        "ABILITY_OBLIVIOUS",
+        "ABILITY_ANTICIPATION"
+    ],
     "safari_flee_rate": 0,
     "body_color": "MON_COLOR_BLUE",
     "flip_sprite": false,
     "icon_palette": 0,
     "learnset": {
         "by_level": [
-            [ 1, "MOVE_ZEN_HEADBUTT" ],
-            [ 1, "MOVE_TICKLE" ],
-            [ 1, "MOVE_MUD_SLAP" ],
-            [ 1, "MOVE_MUD_SPORT" ],
-            [ 1, "MOVE_WATER_SPORT" ],
-            [ 6, "MOVE_MUD_SPORT" ],
-            [ 6, "MOVE_WATER_SPORT" ],
-            [ 10, "MOVE_WATER_GUN" ],
-            [ 14, "MOVE_MUD_BOMB" ],
-            [ 18, "MOVE_AMNESIA" ],
-            [ 22, "MOVE_WATER_PULSE" ],
-            [ 26, "MOVE_MAGNITUDE" ],
-            [ 33, "MOVE_REST" ],
-            [ 33, "MOVE_SNORE" ],
-            [ 39, "MOVE_AQUA_TAIL" ],
-            [ 45, "MOVE_EARTHQUAKE" ],
-            [ 51, "MOVE_FUTURE_SIGHT" ],
-            [ 57, "MOVE_FISSURE" ]
+            [
+                1,
+                "MOVE_ZEN_HEADBUTT"
+            ],
+            [
+                1,
+                "MOVE_TICKLE"
+            ],
+            [
+                1,
+                "MOVE_MUD_SLAP"
+            ],
+            [
+                1,
+                "MOVE_MUD_SPORT"
+            ],
+            [
+                1,
+                "MOVE_WATER_SPORT"
+            ],
+            [
+                6,
+                "MOVE_MUD_SPORT"
+            ],
+            [
+                6,
+                "MOVE_WATER_SPORT"
+            ],
+            [
+                10,
+                "MOVE_WATER_GUN"
+            ],
+            [
+                14,
+                "MOVE_MUD_BOMB"
+            ],
+            [
+                18,
+                "MOVE_AMNESIA"
+            ],
+            [
+                22,
+                "MOVE_WATER_PULSE"
+            ],
+            [
+                26,
+                "MOVE_MAGNITUDE"
+            ],
+            [
+                33,
+                "MOVE_REST"
+            ],
+            [
+                33,
+                "MOVE_SNORE"
+            ],
+            [
+                39,
+                "MOVE_AQUA_TAIL"
+            ],
+            [
+                45,
+                "MOVE_EARTHQUAKE"
+            ],
+            [
+                51,
+                "MOVE_FUTURE_SIGHT"
+            ],
+            [
+                57,
+                "MOVE_FISSURE"
+            ]
         ],
         "by_tm": [
             "TM03",
@@ -98,7 +161,7 @@
             "MOVE_BOUNCE"
         ]
     },
-    "evolutions": [  ],
+    "evolutions": [],
     "offspring": "SPECIES_BARBOACH",
     "footprint": {
         "has": false,
@@ -121,9 +184,9 @@
             "name": "WHISCASH",
             "category": "Whiskers Pokémon",
             "entry_text": [
-                "It is extremely protective of its\n",
-                "territory. If any foe approaches,\n",
-                "it attacks using vicious tremors."
+                "It is very territorial. It repels\n",
+                "foes by setting off tremors that\n",
+                "extend over a three-mile radius."
             ]
         },
         "fr": {
@@ -169,6 +232,18 @@
                 "なわばり　いしきが　とても　つよい。\n",
                 "しゅうい　５キロの　はんいで\n",
                 "じしんを　おこし　げきたいする。"
+            ]
+        },
+        "local_version": {
+            "entry_text": [
+                "It is extremely protective of its\n",
+                "territory. If any foe approaches,\n",
+                "it attacks using vicious tremors."
+            ],
+            "entry_text_fr": [
+                "Il défend férocement son territoire\n",
+                "en déclenchant des secousses\n",
+                "terribles."
             ]
         }
     },

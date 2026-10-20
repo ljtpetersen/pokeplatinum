@@ -26,5 +26,12 @@
   "battlePocket": "BATTLE_POCKET_MASK_POKE_BALLS",
   "fieldUseFunc": "ITEM_USE_FUNC_NONE",
   "battleUseCategory": "BATTLE_USE_CATEGORY_POKE_BALL",
-  "itemUseParams": null
+  "itemUseParams": null,
+  "name_fr": "Honor Ball",
+  "description_fr": [
+    "Une Poké Ball assez rare qui fut créée\n",
+    "pour un événement particulier."
+  ],
+  "plural_fr": "Honor Ball",
+  "article_fr": null
 }

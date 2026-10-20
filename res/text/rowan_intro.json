@@ -7,6 +7,11 @@
         "Hello there!\n",
         "It’s so very nice to meet you!\r",
         "Welcome to the world of Pokémon!\r"
+      ],
+      "fr_FR": [
+        "Bonjour!\n",
+        "Quelle joie de te rencontrer!\r",
+        "Bienvenue dans le monde des Pokémon!\r"
       ]
     },
     {
@@ -19,6 +24,15 @@
         "your first adventure?\r",
         "If you need advice, I’m certainly\n",
         "capable of giving it.\r"
+      ],
+      "fr_FR": [
+        "Mon nom est Sorbier.\r",
+        "Mais tout le monde m’appelle\n",
+        "simplement le Professeur Pokémon.\r",
+        "Avant de commencer, est-ce ta première\n",
+        "aventure?\r",
+        "Si tu as besoin de conseils, je suis tout\n",
+        "à fait apte à t’en donner.\r"
       ]
     },
     {
@@ -33,6 +47,17 @@
         "\n",
         "Used to exit, cancel a choice,\n",
         "and cancel a mode."
+      ],
+      "fr_FR": [
+        "Déplacer le personnage.\n",
+        "Faire une sélection.\n",
+        "\n",
+        "\n",
+        "Confirmer un choix, examiner,\n",
+        "parler et faire défiler le texte.\n",
+        "\n",
+        "Quitter, annuler un choix ou\n",
+        "un mode."
       ]
     },
     {
@@ -43,6 +68,13 @@
         "Press to use an item, such\n",
         "as a Bicycle, that has been\n",
         "registered in advance."
+      ],
+      "fr_FR": [
+        "Appuyer pour ouvrir le menu.\n",
+        "\n",
+        "Appuyer pour utiliser un objet,\n",
+        "tel que la Bicyclette, ayant été\n",
+        "enregistré."
       ]
     },
     {
@@ -54,6 +86,14 @@
         "The Touch Screen will display\n",
         "a variety of touch buttons\n",
         "depending on the situation."
+      ],
+      "fr_FR": [
+        "L’écran du bas est appelé\n",
+        "l’écran tactile.\n",
+        "\n",
+        "L’écran tactile affichera toutes\n",
+        "sortes de boutons tactiles selon\n",
+        "la situation."
       ]
     },
     {
@@ -63,17 +103,28 @@
         "message window, there are active\n",
         "buttons you can touch on the\n",
         "Touch Screen below."
+      ],
+      "fr_FR": [
+        "Si ce symbole apparaît dans la\n",
+        "fenêtre de message, cela signifie\n",
+        "qu’il y a des boutons qu’on peut\n",
+        "toucher sur l’écran tactile."
       ]
     },
     {
       "id": "RowanIntro_Text_ControlInfoDsIcon",
-      "en_US": "{YESNO 0}"
+      "en_US": "{YESNO 0}",
+      "fr_FR": "{YESNO 0}"
     },
     {
       "id": "RowanIntro_Text_ControlInfoUnderstood",
       "en_US": [
         "Do you understand everything\n",
         "so far?{YESNO 0}"
+      ],
+      "fr_FR": [
+        "Tout te semble clair pour le\n",
+        "moment?{YESNO 0}"
       ]
     },
     {
@@ -81,6 +132,10 @@
       "en_US": [
         "Please touch a button on the\n",
         "Touch Screen below.{YESNO 0}"
+      ],
+      "fr_FR": [
+        "Touche un bouton de l’écran\n",
+        "tactile ci-dessous.{YESNO 0}"
       ]
     },
     {
@@ -88,7 +143,8 @@
       "en_US": [
         "Would you like to know more about\n",
         "anything else?\r"
-      ]
+      ],
+      "fr_FR": "Souhaites-tu savoir autre chose?\r"
     },
     {
       "id": "RowanIntro_Text_AdventureInfo0",
@@ -96,6 +152,11 @@
         "You are about to enter a world\n",
         "where you will embark on a grand\n",
         "adventure of your very own."
+      ],
+      "fr_FR": [
+        "Prépare-toi à te lancer dans une\n",
+        "grande aventure, à la découverte\n",
+        "d’un nouveau monde."
       ]
     },
     {
@@ -106,6 +167,13 @@
         "roads, or caves.\n",
         "Gather information and hints from\n",
         "every possible source."
+      ],
+      "fr_FR": [
+        "Tu vas faire de nouvelles\n",
+        "rencontres et découvrir de\n",
+        "nouvelles villes.\n",
+        "Profites-en pour récolter autant\n",
+        "d’informations que possible."
       ]
     },
     {
@@ -114,6 +182,11 @@
         "New paths will open to you when\n",
         "you help people in need, overcome\n",
         "challenges, and solve mysteries."
+      ],
+      "fr_FR": [
+        "En résolvant des mystères et en\n",
+        "aidant les gens, tu pourras ouvrir\n",
+        "de nouvelles voies."
       ]
     },
     {
@@ -126,6 +199,15 @@
         "\n",
         "By overcoming such hurdles,\n",
         "you will gain great power."
+      ],
+      "fr_FR": [
+        "Attends-toi à te faire défier par\n",
+        "de nombreux Dresseurs et à\n",
+        "affronter des créatures sauvages.\n",
+        "Sois brave et ne perds pas espoir.\n",
+        "\n",
+        "En surmontant de telles épreuves,\n",
+        "tu gagneras en puissance."
       ]
     },
     {
@@ -133,6 +215,10 @@
       "en_US": [
         "However, your adventure is not\n",
         "solely about becoming powerful."
+      ],
+      "fr_FR": [
+        "Mais tu t’apercevras que ce n’est\n",
+        "pas une simple question de force."
       ]
     },
     {
@@ -145,6 +231,14 @@
         "\n",
         "This is the most important\n",
         "objective of this adventure."
+      ],
+      "fr_FR": [
+        "Nous espérons que tu rencontreras\n",
+        "toutes sortes de gens pendant ce\n",
+        "voyage et que tu apprendras à\n",
+        "mieux te connaître.\n",
+        "\n",
+        "C’est notre objectif principal."
       ]
     },
     {
@@ -152,6 +246,10 @@
       "en_US": [
         "This world is widely inhabited by\n",
         "creatures known as Pokémon.\r"
+      ],
+      "fr_FR": [
+        "Ce monde est peuplé de créatures\n",
+        "appelées Pokémon!\r"
       ]
     },
     {
@@ -160,6 +258,11 @@
         "Here, I have a Poké Ball.\r",
         "Touch the button on the middle of\n",
         "the Poké Ball, if you’d please.{YESNO 0}"
+      ],
+      "fr_FR": [
+        "Tiens, voilà une Poké Ball.\r",
+        "Touche le bouton au milieu de la\n",
+        "Poké Ball, s’il te plaît.{YESNO 0}"
       ]
     },
     {
@@ -167,6 +270,10 @@
       "en_US": [
         "No, no! Not that button!\n",
         "The button on the Poké Ball.{YESNO 0}"
+      ],
+      "fr_FR": [
+        "Non, pas ce bouton!\n",
+        "Le bouton sur la Poké Ball.{YESNO 0}"
       ]
     },
     {
@@ -183,6 +290,19 @@
         "What do I do?\r",
         "I conduct research so that we may\n",
         "learn more about Pokémon.\r"
+      ],
+      "fr_FR": [
+        "Nous, les humains, vivons avec les\n",
+        "Pokémon.\r",
+        "Il nous arrive de jouer\n",
+        "ou de travailler ensemble.\r",
+        "Certaines personnes utilisent les\n",
+        "Pokémon pour combattre et créent\f",
+        "un lien très fort avec eux.\r",
+        "Moi?\r",
+        "Je me contente de faire des\n",
+        "recherches, pour que nous en\f",
+        "sachions plus sur les Pokémon.\r"
       ]
     },
     {
@@ -190,6 +310,10 @@
       "en_US": [
         "Now, why don’t you tell me\n",
         "a little bit about yourself?\r"
+      ],
+      "fr_FR": [
+        "Mais avant tout, parle-moi\n",
+        "un peu de toi.\r"
       ]
     },
     {
@@ -197,27 +321,36 @@
       "en_US": [
         "Are you a boy?\n",
         "Or are you a girl?\r"
+      ],
+      "fr_FR": [
+        "Es-tu un garçon?\n",
+        "Ou bien une fille?\r"
       ]
     },
     {
       "id": "RowanIntro_Text_ConfirmBoy",
-      "en_US": "All right, so you’re a boy?\r"
+      "en_US": "All right, so you’re a boy?\r",
+      "fr_FR": "Tu es donc un garçon?\r"
     },
     {
       "id": "RowanIntro_Text_ConfirmGirl",
-      "en_US": "All right, so you’re a girl?\r"
+      "en_US": "All right, so you’re a girl?\r",
+      "fr_FR": "Tu es donc une fille?\r"
     },
     {
       "id": "RowanIntro_Text_NameDialogue",
-      "en_US": "Tell me, what is your name?\r"
+      "en_US": "Tell me, what is your name?\r",
+      "fr_FR": "Comment t’appelles-tu?\r"
     },
     {
       "id": "RowanIntro_Text_ConfirmNameMale",
-      "en_US": "Your name is {STRVAR_1 3, 0, 0}?\r"
+      "en_US": "Your name is {STRVAR_1 3, 0, 0}?\r",
+      "fr_FR": "Tu t’appelles {STRVAR_1 3, 0, 0}?\r"
     },
     {
       "id": "RowanIntro_Text_ConfirmNameFemale",
-      "en_US": "Your name is {STRVAR_1 3, 0, 0}?\r"
+      "en_US": "Your name is {STRVAR_1 3, 0, 0}?\r",
+      "fr_FR": "Tu t’appelles {STRVAR_1 3, 0, 0}?\r"
     },
     {
       "id": "RowanIntro_Text_SoYoure",
@@ -227,17 +360,29 @@
         "A fine name that is!\r",
         "Now, this boy here...\n",
         "I believe he’s your friend.\r"
+      ],
+      "fr_FR": [
+        "OK...\n",
+        "Donc, tu t’appelles {STRVAR_1 3, 0, 0}?\r",
+        "Quel beau nom tu as!\r",
+        "Alors, ce garçon, là...\n",
+        "fait partie de tes amis.\r"
       ]
     },
     {
       "id": "RowanIntro_Text_RivalNameDialogue",
-      "en_US": "What might his name be?\r"
+      "en_US": "What might his name be?\r",
+      "fr_FR": "Quel est son nom?\r"
     },
     {
       "id": "RowanIntro_Text_ConfirmRivalName",
       "en_US": [
         "{STRVAR_1 3, 1, 0}, is it?\n",
         "That’s your friend’s name?\r"
+      ],
+      "fr_FR": [
+        "{STRVAR_1 3, 1, 0}?\n",
+        "C’est ainsi que ton ami s’appelle?\r"
       ]
     },
     {
@@ -254,63 +399,90 @@
         "something about yourself.\r",
         "Now, go on, leap into the world of\n",
         "Pokémon!\r"
+      ],
+      "fr_FR": [
+        "Le moment est venu, {STRVAR_1 3, 0, 0}!\r",
+        "Bon, comment te sens-tu?\n",
+        "Tu es sur le point d’embarquer\f",
+        "pour une aventure unique.\r",
+        "Tu rencontreras une multitude de\n",
+        "gens et de Pokémon en cours de route.\r",
+        "Tu vas découvrir un tas de choses,\n",
+        "tu apprendras aussi certainement\f",
+        "des choses sur toi-même.\r",
+        "Allez, plonge dans le monde des\n",
+        "Pokémon!\r"
       ]
     },
     {
       "id": "RowanIntro_Text_ChoiceControlInfo",
-      "en_US": "CONTROL INFO"
+      "en_US": "CONTROL INFO",
+      "fr_FR": "INFOS COMMANDES"
     },
     {
       "id": "RowanIntro_Text_ChoiceAdventureInfo",
-      "en_US": "ADVENTURE INFO"
+      "en_US": "ADVENTURE INFO",
+      "fr_FR": "INFOS AVENTURE"
     },
     {
       "id": "RowanIntro_Text_ChoiceNoInfo",
-      "en_US": "NO INFO NEEDED"
+      "en_US": "NO INFO NEEDED",
+      "fr_FR": "NON MERCI"
     },
     {
       "id": "RowanIntro_Text_ChoiceYes",
-      "en_US": "YES"
+      "en_US": "YES",
+      "fr_FR": "OUI"
     },
     {
       "id": "RowanIntro_Text_ChoiceNo",
-      "en_US": "NO"
+      "en_US": "NO",
+      "fr_FR": "NON"
     },
     {
       "id": "RowanIntro_Text_RivalChoiceNew",
-      "en_US": "New name!"
+      "en_US": "New name!",
+      "fr_FR": "Nouveau nom!"
     },
     {
       "id": "RowanIntro_Text_RivalChoiceBarry",
-      "en_US": "Barry"
+      "en_US": "Barry",
+      "fr_FR": "Enzo"
     },
     {
       "id": "RowanIntro_Text_RivalChoiceNolan",
-      "en_US": "Nolan"
+      "en_US": "Nolan",
+      "fr_FR": "Théo"
     },
     {
       "id": "RowanIntro_Text_RivalChoiceRoy",
-      "en_US": "Roy"
+      "en_US": "Roy",
+      "fr_FR": "Cédric"
     },
     {
       "id": "RowanIntro_Text_RivalChoiceGavin",
-      "en_US": "Gavin"
+      "en_US": "Gavin",
+      "fr_FR": "Jacob"
     },
     {
       "id": "RowanIntro_Text_RivalChoiceClint",
-      "en_US": "Clint"
+      "en_US": "Clint",
+      "fr_FR": "Romain"
     },
     {
       "id": "RowanIntro_Text_RivalChoiceRalph",
-      "en_US": "Ralph"
+      "en_US": "Ralph",
+      "fr_FR": "Quentin"
     },
     {
       "id": "RowanIntro_Text_RivalChoiceLewis",
-      "en_US": "Lewis"
+      "en_US": "Lewis",
+      "fr_FR": "Mattéo"
     },
     {
       "id": "RowanIntro_Text_RivalChoiceTommy",
-      "en_US": "Tommy"
+      "en_US": "Tommy",
+      "fr_FR": "Alexis"
     }
   ]
 }

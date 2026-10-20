@@ -11,6 +11,15 @@
         "be called a craftsman.\r",
         "Something like that, n’est ce pas?\n",
         "Comprendo?\r"
+      ],
+      "fr_FR": [
+        "Hé, konnichiwa!\n",
+        "Ravi de te rencontrer, guten Tag!\r",
+        "Je suis le Meister.\r",
+        "Dans ta langue, on m’appellerait \n",
+        "l’artisan des mots.\r",
+        "Quelque chose comme ça, isn’t it?\n",
+        "Capito?\r"
       ]
     },
     {
@@ -35,6 +44,26 @@
         "Now, you may read the descriptions\n",
         "of the Meister’s Pokémon favorites\f",
         "in other languages. How uber!"
+      ],
+      "fr_FR": [
+        "Well, snif, snif, je te sens bien!\n",
+        "Je sens que tu as quelque chose!\r",
+        "No doubt! Tu aimes les Pokémon avec \n",
+        "ton cœur, comme moi!\r",
+        "C’est wunderbar!\n",
+        "Voilà ce que je vais faire.\r",
+        "Je vais améliorer ton Pokédex pour que \n",
+        "tu puisses lire les descrizione des\f",
+        "Pokémon dans d’autres langues!\r",
+        "Mais sorry, pas dans toutes les\n",
+        "langues.\r",
+        "Seulement celles des pays que moi, \n",
+        "le Meister, j’ai visités, capito?\r",
+        "Allez, passe-moi ton Pokédex...\n",
+        "Alors... changer ce réglage,\f",
+        "bidouiller ce truc... Et voilà!\r",
+        "Now, tu peux lire les descriptions\n",
+        "dans d’autres langues! Wonderful!"
       ]
     },
     {
@@ -46,6 +75,14 @@
         "C’est un Pokémon fish-style?\r",
         "If you will be so kind, trade it will\n",
         "you for my precious MAGIKARP?"
+      ],
+      "fr_FR": [
+        "Hé, konnichiwa!\n",
+        "Hello, buongiorno et guten Tag!\r",
+        "As-tu un Pokémon nommé ECAYON?\n",
+        "C’est un Pokémon fish-style.\r",
+        "Please, échange-le-moi contre \n",
+        "mon précieux MAGICARPE!"
       ]
     },
     {
@@ -56,6 +93,12 @@
         "That MAGIKARP, it accompanied me from\n",
         "the country of my birth.\r",
         "Be good to it, I beseech you!"
+      ],
+      "fr_FR": [
+        "Danke schön, arigato, gracias, grazie!\r",
+        "Ce MAGICARPE, je l’avais déjà avant de \n",
+        "quitter mon pays natal.\r",
+        "Traite-le bien, please!"
       ]
     },
     {
@@ -64,6 +107,11 @@
         "Oh, non, non! That is no FINNEON!\n",
         "What I want is a FINNEON!\f",
         "You have made the Meister melancholy!"
+      ],
+      "fr_FR": [
+        "Oh, no, nein! Ce n’est pas un ECAYON!\n",
+        "Ce que je veux, c’est uno ECAYON!\f",
+        "Tu rends le Meister very sad!"
       ]
     },
     {
@@ -75,6 +123,14 @@
         "the Pokémon I want!\r",
         "The Meister knows this because I have\n",
         "traveled the world!"
+      ],
+      "fr_FR": [
+        "Oh! This is a tragedy!\n",
+        "Una tragedia, je te dis!\r",
+        "Mais je sais qu’un jour, tu vas\n",
+        "m’échanger le Pokémon que je veux!\r",
+        "Le Meister le sait, le Meister a \n",
+        "voyagé all around the world!"
       ]
     },
     {
@@ -84,6 +140,12 @@
         "make friends anywhere in the world.\r",
         "It so inspires me knowing that.\n",
         "It’s so wonderful in a wonderful way!"
+      ],
+      "fr_FR": [
+        "Thanks to Pokémon, je peux me faire \n",
+        "des amis dans le monde entier.\r",
+        "I love it. C’est wunderbar, \n",
+        "wonderful, maravilloso!"
       ]
     },
     {
@@ -94,6 +156,12 @@
         "“The world-traveling Meister has\n",
         "visited over 150 countries!\r",
         "“But the world remains as big as ever!”"
+      ],
+      "fr_FR": [
+        "L’affiche porte l’inscription qui suit.\r",
+        "“Le Meister globe-trotter a visité\n",
+        "beaucoup de pays!\r",
+        "Mais le monde reste un mystère!”"
       ]
     }
   ]

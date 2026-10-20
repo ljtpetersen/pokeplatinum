@@ -35,6 +35,10 @@
             "en_US": [
                 "I’m afraid I got cursed on our last\n",
                 "exploration of ancient ruins. Ehehe."
+            ],
+            "fr_FR": [
+                "Je crois que je suis victime d’une\n",
+                "ancienne malédiction!"
             ]
         },
         {
@@ -42,6 +46,10 @@
             "en_US": [
                 "Even just now, I have no idea how I won.\n",
                 "Heeheehee.\r"
+            ],
+            "fr_FR": [
+                "Malgré cette malédiction, j’ai réussi à\n",
+                "gagner! Ouah!\r"
             ]
         },
         {
@@ -49,7 +57,12 @@
             "en_US": [
                 "I may be cursed, but this is fun.\n",
                 "It is all so very good. Heeheehee.\r"
+            ],
+            "fr_FR": [
+                "Je suis peut-être maudit, mais je\n",
+                "me suis bien amusé. Bien... amusé...\r"
             ]
         }
-    ]
+    ],
+    "name_fr": "Enrique"
 }

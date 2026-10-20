@@ -27,5 +27,13 @@
     "contest": {
         "effect": "CONTEST_EFFECT_BASIC",
         "type": "CONTEST_TYPE_BEAUTY"
-    }
+    },
+    "name_fr": "Tranche-Nuit",
+    "description_fr": [
+        "Le lanceur lacère\n",
+        "l’ennemi à la\n",
+        "première occasion.\n",
+        "Taux de critiques\n",
+        "élevé."
+    ]
 }

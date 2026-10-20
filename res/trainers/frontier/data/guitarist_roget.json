@@ -65,6 +65,10 @@
             "en_US": [
                 "Battles, I’m good at.\n",
                 "But musical aptitude? Forget it."
+            ],
+            "fr_FR": [
+                "Au combat, je ne suis pas trop mauvais.\n",
+                "En musique? Je suis une catastrophe."
             ]
         },
         {
@@ -72,6 +76,10 @@
             "en_US": [
                 "This whole battling thing is good, but\n",
                 "I wish I could play music as well.\r"
+            ],
+            "fr_FR": [
+                "C’est bien beau tout ça, mais j’aimerais\n",
+                "tellement être meilleur à la guitare...\r"
             ]
         },
         {
@@ -79,7 +87,12 @@
             "en_US": [
                 "Music or Pokémon...\n",
                 "It’s a tough choice.\r"
+            ],
+            "fr_FR": [
+                "Je n’arrive pas à choisir entre la\n",
+                "musique et les Pokémon.\r"
             ]
         }
-    ]
+    ],
+    "name_fr": "King"
 }

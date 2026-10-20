@@ -25,11 +25,19 @@
                 "Too incredible for me to understand!\r",
                 "I’ll fight blindly to defend them,\n",
                 "and your intrusion won’t be forgiven!\r"
+            ],
+            "fr_FR": [
+                "Nos objectifs sont incroyables!\n",
+                "Trop pour que je puisse les comprendre!\r",
+                "Je lutterai aveuglément pour les\n",
+                "défendre, et je ne te pardonnerai pas\f",
+                "ton intrusion!\r"
             ]
         },
         {
             "type": "TRMSG_DEFEAT",
-            "en_US": "What was I fighting for, again?"
+            "en_US": "What was I fighting for, again?",
+            "fr_FR": "Je luttais pour quoi, déjà?"
         },
         {
             "type": "TRMSG_POST_BATTLE",
@@ -38,7 +46,14 @@
                 "Pokémon from others?\r",
                 "Look in any field or forest!\n",
                 "Those things aren’t exactly rare!\n"
+            ],
+            "fr_FR": [
+                "Pourquoi es-tu contre le fait de\n",
+                "prendre les Pokémon des autres?\r",
+                "Regarde dans les champs ou dans les\n",
+                "forêts! Il y en a partout!\n"
             ]
         }
-    ]
+    ],
+    "name_fr": "Sbire"
 }

@@ -34,6 +34,12 @@
                 "everything!\r",
                 "You can try all you want, but you\n",
                 "can’t do anything alone!\r"
+            ],
+            "fr_FR": [
+                "La Team Galaxie va prendre le\n",
+                "contrôle de tout!\r",
+                "Tu auras beau essayer, un individu isolé\n",
+                "n’est pas de taille contre nous!\r"
             ]
         },
         {
@@ -41,6 +47,10 @@
             "en_US": [
                 "All you gave me was the taste of\n",
                 "defeat...\n"
+            ],
+            "fr_FR": [
+                "Tout ce que tu m’as fait connaître,\n",
+                "c’est le goût de la défaite...\n"
             ]
         },
         {
@@ -48,7 +58,12 @@
             "en_US": [
                 "...Is our boss about to ditch us\n",
                 "and claim everything for himself?"
+            ],
+            "fr_FR": [
+                "... Est-ce que notre chef va nous\n",
+                "plaquer et tout garder pour lui?"
             ]
         }
-    ]
+    ],
+    "name_fr": "Sbire"
 }

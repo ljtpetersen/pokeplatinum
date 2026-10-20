@@ -41,6 +41,10 @@
             "en_US": [
                 "Waah! Now! Just now!\n",
                 "I was just about to reel it in!\r"
+            ],
+            "fr_FR": [
+                "Argh! Pourquoi maintenant? J’étais à\n",
+                "deux doigts de remonter cette prise!\r"
             ]
         },
         {
@@ -48,6 +52,10 @@
             "en_US": [
                 "You need to have more respect for\n",
                 "a grown-up...\n"
+            ],
+            "fr_FR": [
+                "Tu dois faire preuve de plus de\n",
+                "respect envers tes aînés...\n"
             ]
         },
         {
@@ -56,6 +64,12 @@
                 "Go on. Don’t be shy about going up to\n",
                 "people to hear what they have to say...\r",
                 "Just don’t you talk to me.\n"
+            ],
+            "fr_FR": [
+                "Non mais c’est bon. Rien ne t’empêche\n",
+                "de parler aux gens...\r",
+                "J’aimerais juste que tu ne me\n",
+                "parles pas à moi, si possible.\n"
             ]
         },
         {
@@ -64,7 +78,13 @@
                 "Waah! Now! Just now!\n",
                 "I was just about to reel it in!\r",
                 "...Right. You again!\r"
+            ],
+            "fr_FR": [
+                "Argh! Pourquoi maintenant? J’étais à\n",
+                "deux doigts de remonter cette prise!\r",
+                "Evidemment... Encore toi...\r"
             ]
         }
-    ]
+    ],
+    "name_fr": "Fabio"
 }

@@ -26,5 +26,13 @@
   "battlePocket": "BATTLE_POCKET_MASK_NONE",
   "fieldUseFunc": "ITEM_USE_FUNC_NONE",
   "battleUseCategory": "BATTLE_USE_CATEGORY_NONE",
-  "itemUseParams": null
+  "itemUseParams": null,
+  "name_fr": "Grain Miracl",
+  "description_fr": [
+    "Objet à tenir. Graine remplie de vie qui\n",
+    "monte la puissance des capacités de\n",
+    "type Plante."
+  ],
+  "plural_fr": "Grain Miracl",
+  "article_fr": null
 }

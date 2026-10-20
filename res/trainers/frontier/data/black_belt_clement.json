@@ -57,6 +57,10 @@
             "en_US": [
                 "Let the curtains rise on the festivities\n",
                 "of muscles and Pokémon!"
+            ],
+            "fr_FR": [
+                "Le rideau se lève sur un festival de\n",
+                "muscles et de Pokémon!"
             ]
         },
         {
@@ -64,6 +68,10 @@
             "en_US": [
                 "Did you enjoy our demonstration of\n",
                 "muscle and Pokémon?\r"
+            ],
+            "fr_FR": [
+                "Qu’est-ce que tu préfères, toi?\n",
+                "Les muscles ou les Pokémon?\r"
             ]
         },
         {
@@ -71,7 +79,12 @@
             "en_US": [
                 "Though I’ve lost, my muscles and\n",
                 "Pokémon are seared into your mind.\r"
+            ],
+            "fr_FR": [
+                "Oui, j’ai perdu, mais c’était un beau\n",
+                "déploiement de muscles et de Pokémon.\r"
             ]
         }
-    ]
+    ],
+    "name_fr": "Manuel"
 }

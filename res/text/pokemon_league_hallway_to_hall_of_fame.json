@@ -6,6 +6,10 @@
       "en_US": [
         "Cynthia: The room ahead is the Hall\n",
         "of Fame...\r"
+      ],
+      "fr_FR": [
+        "Cynthia: Nous allons entrer dans le \n",
+        "Panthéon des Dresseurs...\r"
       ]
     },
     {
@@ -13,11 +17,19 @@
       "en_US": [
         "Rowan: {STRVAR_1 3, 0, 0}!\n",
         "Your last battle was splendid!\r"
+      ],
+      "fr_FR": [
+        "Sorbier: {STRVAR_1 3, 0, 0}!\n",
+        "Ton dernier combat était magnifique!\r"
       ]
     },
     {
       "id": "PokemonLeagueHallwayToHallOfFame_Text_HelloProfessorRowan",
-      "en_US": "Cynthia: Oh, hello, Professor Rowan.\r"
+      "en_US": "Cynthia: Oh, hello, Professor Rowan.\r",
+      "fr_FR": [
+        "Cynthia: Oh! Bonjour, \n",
+        "Professeur Sorbier.\r"
+      ]
     },
     {
       "id": "PokemonLeagueHallwayToHallOfFame_Text_GrownIntoRealChampion",
@@ -30,6 +42,17 @@
         "{STRVAR_1 3, 0, 0}!\n",
         "I shouldn’t call you a child anymore.\f",
         "You’ve grown into a real Champion!\r"
+      ],
+      "fr_FR": [
+        "Sorbier: Hum!\r",
+        "Une jeune personne que j’ai engagée\n",
+        "dans mon projet de Pokédex arrive\f",
+        "jusqu’ici...\r",
+        "Pour rien au monde je ne \n",
+        "manquerais son couronnement!\r",
+        "{STRVAR_1 3, 0, 0}!\n",
+        "Je crois que tu as beaucoup mûri...\f",
+        "Tu es maintenant un vrai Maître!\r"
       ]
     },
     {
@@ -38,6 +61,11 @@
         "Cynthia: Professor, you still enjoy\n",
         "the enthusiasm kids bring to your\f",
         "research, don’t you?\r"
+      ],
+      "fr_FR": [
+        "Cynthia: Professeur, je vois que vous \n",
+        "appréciez toujours la spontanéité et \f",
+        "l’enthousiasme des jeunes Dresseurs.\r"
       ]
     },
     {
@@ -45,6 +73,10 @@
       "en_US": [
         "{STRVAR_1 3, 0, 0}, step this way,\n",
         "please.\r"
+      ],
+      "fr_FR": [
+        "{STRVAR_1 3, 0, 0}, suis-moi,\n",
+        "s’il te plaît.\r"
       ]
     },
     {
@@ -52,11 +84,16 @@
       "en_US": [
         "{STRVAR_1 3, 0, 0}, step this way,\n",
         "please.\r"
+      ],
+      "fr_FR": [
+        "{STRVAR_1 3, 0, 0}, suis-moi,\n",
+        "s’il te plaît.\r"
       ]
     },
     {
       "id": "PokemonLeagueHallwayToHallOfFame_Text_ProfessorPleaseJoinUs",
-      "en_US": "Professor Rowan, please join us.\r"
+      "en_US": "Professor Rowan, please join us.\r",
+      "fr_FR": "Accompagnez-nous, Professeur Sorbier.\r"
     },
     {
       "id": "PokemonLeagueHallwayToHallOfFame_Text_Dummy_00008",

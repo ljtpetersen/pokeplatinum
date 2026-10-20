@@ -44,11 +44,17 @@
                 "We go on patrol to make sure there’s\n",
                 "nothing strange going on.\r",
                 "And occasionally, we battle!\r"
+            ],
+            "fr_FR": [
+                "On patrouille pour être sûrs qu’il ne se\n",
+                "passe rien d’étrange.\r",
+                "Et parfois, on fait des combats!\r"
             ]
         },
         {
             "type": "TRMSG_DEFEAT",
-            "en_US": "Thanks much!\n"
+            "en_US": "Thanks much!\n",
+            "fr_FR": "Merci beaucoup!\n"
         },
         {
             "type": "TRMSG_POST_BATTLE",
@@ -57,6 +63,12 @@
                 "gathering dropped items is a good thing.\r",
                 "I think it’s ecological, even.\n",
                 "I am cleaning up the environment!\n"
+            ],
+            "fr_FR": [
+                "Utiliser la capacité spéciale Ramassage\n",
+                "pour obtenir des objets est idéal.\r",
+                "C’est utile aux Dresseurs, et ça permet\n",
+                "de recycler!\n"
             ]
         },
         {
@@ -64,7 +76,12 @@
             "en_US": [
                 "Patrols day in and day out!\n",
                 "And the occasional battle!\r"
+            ],
+            "fr_FR": [
+                "Des patrouilles jour et nuit!\n",
+                "Et de temps en temps, des combats!\r"
             ]
         }
-    ]
+    ],
+    "name_fr": "Gauthier"
 }

@@ -26,5 +26,13 @@
   "battlePocket": "BATTLE_POCKET_MASK_NONE",
   "fieldUseFunc": "ITEM_USE_FUNC_NONE",
   "battleUseCategory": "BATTLE_USE_CATEGORY_NONE",
-  "itemUseParams": {}
+  "itemUseParams": {},
+  "name_fr": "Morc. Etoile",
+  "description_fr": [
+    "Fragment de gemme qui brille d’un éclat\n",
+    "rouge. Peut se vendre à bon prix aux\n",
+    "magasins."
+  ],
+  "plural_fr": "Morc. Etoile",
+  "article_fr": null
 }

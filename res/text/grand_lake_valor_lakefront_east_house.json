@@ -6,6 +6,10 @@
       "en_US": [
         "Thanks for helping me out.\n",
         "Here’s something for your trouble!\r"
+      ],
+      "fr_FR": [
+        "Merci d’avoir volé à mon secours.\n",
+        "Voilà pour ta peine!\r"
       ]
     },
     {
@@ -15,6 +19,12 @@
         "attract more wild Pokémon.\r",
         "It’s a rare glass flute you can only\n",
         "get in the Hoenn region."
+      ],
+      "fr_FR": [
+        "Sers-toi de la Flûteblanche pour\n",
+        "attirer plus de Pokémon sauvages.\r",
+        "Elle est en verre et on ne la trouve\n",
+        "qu’à Hoenn."
       ]
     }
   ]

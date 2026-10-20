@@ -8,6 +8,12 @@
         "It was a wonderful dream!\r",
         "I dreamt that a Trainer would bring\n",
         "me a giant REMORAID!"
+      ],
+      "fr_FR": [
+        "J’ai fait un rêve!\n",
+        "Un rêve merveilleux!\r",
+        "J’ai rêvé qu’un Dresseur m’apportait\n",
+        "un REMORAID géant!"
       ]
     },
     {
@@ -21,6 +27,16 @@
         "That dream was no dream!\r",
         "H-how big of a REMORAID did you\n",
         "bring me?!\r"
+      ],
+      "fr_FR": [
+        "J’ai fait un rêve!\n",
+        "Un rêve merveilleux!\r",
+        "J’ai rêvé qu’un Dresseur m’apportait\n",
+        "un REMORAID géant!\r",
+        "Oh là là!\n",
+        "C’était un rêve prémonitoire?!\r",
+        "Il est gros comment le REMORAID que\n",
+        "tu m’as apporté?!\r"
       ]
     },
     {
@@ -31,6 +47,13 @@
         "...I think you did better than in\n",
         "my dream!\r",
         "I’d like you to have this.\r"
+      ],
+      "fr_FR": [
+        "{STRVAR_1 52, 0, 0},{STRVAR_1 50, 1, 0} cm...\n",
+        "Ce REMORAID fait {STRVAR_1 52, 0, 0},{STRVAR_1 50, 1, 0} cm...\r",
+        "... Je crois que c’est encore plus gros\n",
+        "que dans mon rêve!\r",
+        "J’aimerais que tu prennes ceci.\r"
       ]
     },
     {
@@ -40,6 +63,12 @@
         "I really enjoyed this.\r",
         "I think I’ll dream of an even bigger\n",
         "REMORAID tonight."
+      ],
+      "fr_FR": [
+        "Merci!\n",
+        "Ça m’a vraiment plu.\r",
+        "Je crois que je rêverai d’un\n",
+        "REMORAID encore plus grand, ce soir."
       ]
     },
     {
@@ -48,6 +77,11 @@
         "{STRVAR_1 52, 0, 0}.{STRVAR_1 50, 1, 0} inches...\n",
         "Am I experiencing deja vu?\f",
         "I distinctly remember this size..."
+      ],
+      "fr_FR": [
+        "{STRVAR_1 52, 0, 0},{STRVAR_1 50, 1, 0} cm...\n",
+        "J’ai comme une impression de déjà-vu...\f",
+        "Je me souviens de cette taille..."
       ]
     },
     {
@@ -56,6 +90,11 @@
         "This REMORAID was {STRVAR_1 52, 0, 0}.{STRVAR_1 50, 1, 0} inches.\r",
         "I know a genius who brought me\n",
         "a REMORAID that was {STRVAR_1 52, 2, 0}.{STRVAR_1 50, 3, 0} inches..."
+      ],
+      "fr_FR": [
+        "Ce REMORAID mesure {STRVAR_1 52, 0, 0},{STRVAR_1 50, 1, 0} cm.\r",
+        "Je connais un génie qui m’a apporté un\n",
+        "REMORAID de {STRVAR_1 52, 2, 0},{STRVAR_1 50, 3, 0} cm..."
       ]
     },
     {
@@ -65,6 +104,11 @@
         "What do you think you’re showing me?\r",
         "Did you even listen to what I had\n",
         "to say?"
+      ],
+      "fr_FR": [
+        "Qu...\n",
+        "Qu’est-ce que tu me montres, là?\r",
+        "Tu écoutes seulement ce que je dis?"
       ]
     },
     {
@@ -72,6 +116,10 @@
       "en_US": [
         "Your Bag’s jammed full...\n",
         "I can’t give you this..."
+      ],
+      "fr_FR": [
+        "Ton Sac est plein à craquer...\n",
+        "Je ne peux pas te donner ceci..."
       ]
     },
     {
@@ -79,6 +127,10 @@
       "en_US": [
         "Oh, what? Why would you deny me\n",
         "the chance to measure your REMORAID?"
+      ],
+      "fr_FR": [
+        "Oh, quoi? Tu me priverais du plaisir de\n",
+        "mesurer ton REMORAID?"
       ]
     }
   ]

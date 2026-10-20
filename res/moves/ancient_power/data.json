@@ -25,5 +25,13 @@
     "contest": {
         "effect": "CONTEST_EFFECT_FINAL_PERFORMANCE_ADVANTAGE",
         "type": "CONTEST_TYPE_TOUGH"
-    }
+    },
+    "name_fr": "Pouv.Antique",
+    "description_fr": [
+        "Une attaque \n",
+        "préhistorique qui peut\n",
+        "augmenter toutes\n",
+        "les stats du lanceur\n",
+        "d’un seul coup."
+    ]
 }

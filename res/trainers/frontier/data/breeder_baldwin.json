@@ -59,6 +59,10 @@
             "en_US": [
                 "Everyone, it’s showtime!\n",
                 "Get out and do some clobbering!"
+            ],
+            "fr_FR": [
+                "Je suis prêt à t’éblouir!\n",
+                "Attention les yeux!"
             ]
         },
         {
@@ -66,14 +70,20 @@
             "en_US": [
                 "Oh, bravo!\n",
                 "Nicely won!\r"
-            ]
+            ],
+            "fr_FR": "Une victoire éclatante! Excellent!\r"
         },
         {
             "type": "TRMSG_DEFEAT",
             "en_US": [
                 "Arrgh! How humiliating!\n",
                 "Quick! Out of the spotlight!\r"
+            ],
+            "fr_FR": [
+                "Argh! Quelle humiliation!\n",
+                "Je retourne dans l’ombre.\r"
             ]
         }
-    ]
+    ],
+    "name_fr": "Alec"
 }

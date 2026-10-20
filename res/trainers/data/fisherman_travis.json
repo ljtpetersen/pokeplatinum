@@ -50,6 +50,10 @@
             "en_US": [
                 "Water Pokémon sure get happy when\n",
                 "it rains. So do I!\r"
+            ],
+            "fr_FR": [
+                "Les Pokémon Eau sont heureux quand il\n",
+                "pleut. Et moi aussi!\r"
             ]
         },
         {
@@ -57,6 +61,10 @@
             "en_US": [
                 "Oof. Just got trampled right under\n",
                 "your feet that time!\n"
+            ],
+            "fr_FR": [
+                "Ouf. Pour le coup, tu m’as vraiment\n",
+                "piétiné!\n"
             ]
         },
         {
@@ -64,6 +72,10 @@
             "en_US": [
                 "Yup, a kid like you should be running\n",
                 "around outside, rain or shine.\n"
+            ],
+            "fr_FR": [
+                "Oui, les mômes comme toi sont mieux\n",
+                "à jouer dehors, qu’il pleuve ou non.\n"
             ]
         },
         {
@@ -71,7 +83,12 @@
             "en_US": [
                 "I’ve been fishing here ever since\n",
                 "I lost to you.\r"
+            ],
+            "fr_FR": [
+                "Je suis resté ici à pêcher depuis\n",
+                "que j’ai perdu contre toi.\r"
             ]
         }
-    ]
+    ],
+    "name_fr": "Logan"
 }

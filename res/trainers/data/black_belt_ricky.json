@@ -30,6 +30,11 @@
                 "Steel represents an unbending spirit!\r",
                 "If one refuses to accept defeat,\n",
                 "the path to victory reveals itself!\r"
+            ],
+            "fr_FR": [
+                "L’acier symbolise une volonté de fer!\r",
+                "La voie vers la victoire n’apparaît que\n",
+                "lorsqu’on refuse d’accepter la défaite!\r"
             ]
         },
         {
@@ -37,6 +42,10 @@
             "en_US": [
                 "I never gave up, but still I failed to\n",
                 "win...\n"
+            ],
+            "fr_FR": [
+                "Je n’ai jamais baissé les bras, \n",
+                "pourtant j’ai perdu...\n"
             ]
         },
         {
@@ -44,7 +53,12 @@
             "en_US": [
                 "If you give up, well, that’s when\n",
                 "everything ends for you!\n"
+            ],
+            "fr_FR": [
+                "Si tu abandonnes, eh bien,\n",
+                "tout sera fini pour toi!\n"
             ]
         }
-    ]
+    ],
+    "name_fr": "Ignace"
 }

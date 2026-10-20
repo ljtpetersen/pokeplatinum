@@ -25,5 +25,12 @@
   "battlePocket": "BATTLE_POCKET_MASK_NONE",
   "fieldUseFunc": "ITEM_USE_FUNC_POFFIN_CASE",
   "battleUseCategory": "BATTLE_USE_CATEGORY_NONE",
-  "itemUseParams": null
+  "itemUseParams": null,
+  "name_fr": "Boîte Poffin",
+  "description_fr": [
+    "Boîte pour ranger les Poffins faits\n",
+    "à partir de Baies."
+  ],
+  "plural_fr": "Boîte Poffin",
+  "article_fr": null
 }

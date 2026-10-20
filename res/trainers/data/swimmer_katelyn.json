@@ -56,17 +56,29 @@
             "en_US": [
                 "I may not look it now, but I’m a\n",
                 "star. I’m always with my Pokémon.\r"
+            ],
+            "fr_FR": [
+                "On ne dirait pas, mais je suis connue.\n",
+                "Je ne quitte jamais mes Pokémon.\r"
             ]
         },
         {
             "type": "TRMSG_DEFEAT",
-            "en_US": "I lost, but at least I had fun.\n"
+            "en_US": "I lost, but at least I had fun.\n",
+            "fr_FR": [
+                "J’ai perdu, mais au moins, je me suis\n",
+                "bien amusée.\n"
+            ]
         },
         {
             "type": "TRMSG_POST_BATTLE",
             "en_US": [
                 "If it were an underwater Pokémon\n",
                 "show, I would have shined.\n"
+            ],
+            "fr_FR": [
+                "Si c’était un spectacle de Pokémon\n",
+                "aquatiques, j’aurais vraiment brillé.\n"
             ]
         },
         {
@@ -74,7 +86,12 @@
             "en_US": [
                 "Oh, hi! Are you back to see our\n",
                 "Pokémon show again?\r"
+            ],
+            "fr_FR": [
+                "Oh, salut! Tu reviens voir notre\n",
+                "spectacle de Pokémon aquatiques?\r"
             ]
         }
-    ]
+    ],
+    "name_fr": "Aurélia"
 }

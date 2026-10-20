@@ -77,6 +77,10 @@
             "en_US": [
                 "So, I lead with this... Then, counter...\n",
                 "Ugh, I can’t get our strategy right!"
+            ],
+            "fr_FR": [
+                "Donc, je commence par utiliser... ou...\n",
+                "Argh! Quelle stratégie choisir?"
             ]
         },
         {
@@ -84,6 +88,10 @@
             "en_US": [
                 "To overanalyze can be a bad thing,\n",
                 "I guess.\r"
+            ],
+            "fr_FR": [
+                "J’imagine qu’il faut parfois faire\n",
+                "confiance à ses instincts.\r"
             ]
         },
         {
@@ -91,7 +99,12 @@
             "en_US": [
                 "Waaah! Couldn’t you have waited?\n",
                 "Until I’m ready at least?\r"
+            ],
+            "fr_FR": [
+                "Hééé! Tu aurais au moins pu\n",
+                "attendre que je sois prête!\r"
             ]
         }
-    ]
+    ],
+    "name_fr": "Evita"
 }

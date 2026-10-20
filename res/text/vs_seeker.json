@@ -7,6 +7,11 @@
         "The battery isn’t charged enough.\r",
         "Number of steps required to fully\n",
         "charge the battery: {STRVAR_1 51, 0, 0}"
+      ],
+      "fr_FR": [
+        "La batterie n’est pas assez chargée.\r",
+        "Il faut faire {STRVAR_1 51, 0, 0} pas pour la\n",
+        "recharger complètement."
       ]
     },
     {
@@ -15,6 +20,11 @@
         "There are no Trainers within range\n",
         "who can battle...\r",
         "Let’s try using it somewhere else."
+      ],
+      "fr_FR": [
+        "Il n’y a pas de Dresseur aux alentours\n",
+        "pour combattre...\r",
+        "Il va falloir essayer ailleurs."
       ]
     },
     {
@@ -23,6 +33,11 @@
         "The other Trainers don’t appear\n",
         "to be ready for battle.\r",
         "Let’s wait till later."
+      ],
+      "fr_FR": [
+        "Les autres Dresseurs ne sont pas\n",
+        "prêts à se battre.\r",
+        "Il va falloir patienter un peu."
       ]
     }
   ]

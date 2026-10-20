@@ -7,7 +7,10 @@
         "special_attack": 60,
         "special_defense": 49
     },
-    "types": [ "TYPE_ELECTRIC", "TYPE_ELECTRIC" ],
+    "types": [
+        "TYPE_ELECTRIC",
+        "TYPE_ELECTRIC"
+    ],
     "catch_rate": 120,
     "base_exp_reward": 117,
     "ev_yields": {
@@ -26,26 +29,68 @@
     "hatch_cycles": 20,
     "base_friendship": 100,
     "exp_rate": "EXP_RATE_MEDIUM_SLOW",
-    "egg_groups": [ "EGG_GROUP_FIELD", "EGG_GROUP_FIELD" ],
-    "abilities": [ "ABILITY_RIVALRY", "ABILITY_INTIMIDATE" ],
+    "egg_groups": [
+        "EGG_GROUP_FIELD",
+        "EGG_GROUP_FIELD"
+    ],
+    "abilities": [
+        "ABILITY_RIVALRY",
+        "ABILITY_INTIMIDATE"
+    ],
     "safari_flee_rate": 0,
     "body_color": "MON_COLOR_BLUE",
     "flip_sprite": false,
     "icon_palette": 0,
     "learnset": {
         "by_level": [
-            [ 1, "MOVE_TACKLE" ],
-            [ 1, "MOVE_LEER" ],
-            [ 5, "MOVE_LEER" ],
-            [ 9, "MOVE_CHARGE" ],
-            [ 13, "MOVE_SPARK" ],
-            [ 18, "MOVE_BITE" ],
-            [ 23, "MOVE_ROAR" ],
-            [ 28, "MOVE_SWAGGER" ],
-            [ 33, "MOVE_THUNDER_FANG" ],
-            [ 38, "MOVE_CRUNCH" ],
-            [ 43, "MOVE_SCARY_FACE" ],
-            [ 48, "MOVE_DISCHARGE" ]
+            [
+                1,
+                "MOVE_TACKLE"
+            ],
+            [
+                1,
+                "MOVE_LEER"
+            ],
+            [
+                5,
+                "MOVE_LEER"
+            ],
+            [
+                9,
+                "MOVE_CHARGE"
+            ],
+            [
+                13,
+                "MOVE_SPARK"
+            ],
+            [
+                18,
+                "MOVE_BITE"
+            ],
+            [
+                23,
+                "MOVE_ROAR"
+            ],
+            [
+                28,
+                "MOVE_SWAGGER"
+            ],
+            [
+                33,
+                "MOVE_THUNDER_FANG"
+            ],
+            [
+                38,
+                "MOVE_CRUNCH"
+            ],
+            [
+                43,
+                "MOVE_SCARY_FACE"
+            ],
+            [
+                48,
+                "MOVE_DISCHARGE"
+            ]
         ],
         "by_tm": [
             "TM05",
@@ -115,9 +160,9 @@
             "name": "LUXIO",
             "category": "Spark Pokémon",
             "entry_text": [
-                "Strong electricity courses through\n",
-                "the tips of its sharp claws. A light\n",
-                "scratch causes fainting in foes."
+                "Its claws loose electricity with\n",
+                "enough amperage to cause fainting.\n",
+                "They live in small groups."
             ]
         },
         "fr": {
@@ -163,6 +208,18 @@
                 "いっぱつで　きぜつさせるほどの\n",
                 "でんりゅうを　ツメから　ながす。\n",
                 "すうひきの　グル－プで　くらす。"
+            ]
+        },
+        "local_version": {
+            "entry_text": [
+                "Strong electricity courses through\n",
+                "the tips of its sharp claws. A light\n",
+                "scratch causes fainting in foes."
+            ],
+            "entry_text_fr": [
+                "Le courant qui circule à la pointe\n",
+                "de ses griffes est capable de faire\n",
+                "perdre connaissance à ses proies."
             ]
         }
     },

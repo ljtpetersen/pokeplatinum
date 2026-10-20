@@ -24,5 +24,13 @@
     "contest": {
         "effect": "CONTEST_EFFECT_VOLTAGE",
         "type": "CONTEST_TYPE_BEAUTY"
-    }
+    },
+    "name_fr": "Danse-Lune",
+    "description_fr": [
+        "Le lanceur tombe\n",
+        "K.O. pour soigner le\n",
+        "statut et les PV du\n",
+        "Pokémon qui passe\n",
+        "après lui."
+    ]
 }

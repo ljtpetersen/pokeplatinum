@@ -23,6 +23,10 @@
             "en_US": [
                 "I’ll beat you with the MAGIKARP my dad\n",
                 "gave me!\r"
+            ],
+            "fr_FR": [
+                "Je vais gagner grâce au MAGICARPE\n",
+                "que mon papa m’a donné!\r"
             ]
         },
         {
@@ -30,6 +34,10 @@
             "en_US": [
                 "But they’re Pokémon I got from my\n",
                 "dad...\n"
+            ],
+            "fr_FR": [
+                "Mais, c’est mon père qui m’avait \n",
+                "donné ce Pokémon...\n"
             ]
         },
         {
@@ -38,6 +46,11 @@
                 "Who gave you your first Pokémon?\r",
                 "Your first Pokémon is the one with\n",
                 "the most fond memories, I think.\n"
+            ],
+            "fr_FR": [
+                "Qui t’a donné ton premier Pokémon?\r",
+                "Le premier Pokémon a toujours une place\n",
+                "à part dans le cœur d’un Dresseur."
             ]
         },
         {
@@ -45,7 +58,12 @@
             "en_US": [
                 "This time, I’ll beat you with the\n",
                 "Pokémon my dad gave me!\r"
+            ],
+            "fr_FR": [
+                "Cette fois, je vais gagner grâce au\n",
+                "Pokémon que mon papa m’a donné!\r"
             ]
         }
-    ]
+    ],
+    "name_fr": "Eduin"
 }

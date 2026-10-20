@@ -8,6 +8,12 @@
         "This experiment went too far...\r",
         "I’m not sure if I can stomach what\n",
         "Master Cyrus plans..."
+      ],
+      "fr_FR": [
+        "J’ai honte de ce que nous avons fait...\n",
+        "L’expérience est allée trop loin...\r",
+        "Je ne suis pas sûr de pouvoir digérer ce\n",
+        "qu’Hélio s’apprête à faire..."
       ]
     },
     {
@@ -17,6 +23,12 @@
         "I feel too sickened to say anything...\r",
         "But that thing we made...\n",
         "What is it going to be used for?"
+      ],
+      "fr_FR": [
+        "Beuuuh... Une horrible envie de vomir\n",
+        "m’empêche de dire quoi que ce soit...\r",
+        "Mais cette chose qu’on a fabriquée...\n",
+        "A quoi va-t-elle servir?"
       ]
     },
     {
@@ -24,6 +36,10 @@
       "en_US": [
         "There is something suspended in\n",
         "a green fluid..."
+      ],
+      "fr_FR": [
+        "Quelque chose flotte en suspension\n",
+        "dans un fluide verdâtre..."
       ]
     }
   ]

@@ -25,5 +25,12 @@
     "contest": {
         "effect": "CONTEST_EFFECT_NO_VOLTAGE_DOWN",
         "type": "CONTEST_TYPE_TOUGH"
-    }
+    },
+    "name_fr": "Intimidation",
+    "description_fr": [
+        "Le lanceur intimide\n",
+        "l’ennemi grâce au\n",
+        "motif sur son ventre\n",
+        "pour le paralyser."
+    ]
 }

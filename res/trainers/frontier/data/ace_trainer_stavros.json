@@ -74,13 +74,18 @@
     "messages": [
         {
             "type": "TRMSG_PRE_BATTLE",
-            "en_US": "Fwah? You mean to challenge me?"
+            "en_US": "Fwah? You mean to challenge me?",
+            "fr_FR": "Gné? Tu veux m’affronter?"
         },
         {
             "type": "TRMSG_WIN",
             "en_US": [
                 "Fwahaha! I win!\n",
                 "Better luck next time, punk!\r"
+            ],
+            "fr_FR": [
+                "Gné, hé, hé! J’ai gagné!\n",
+                "Bah, tu feras mieux la prochaine fois!\r"
             ]
         },
         {
@@ -88,7 +93,12 @@
             "en_US": [
                 "Fwaah?! You defeated me?\n",
                 "Who are you to do that?!\r"
+            ],
+            "fr_FR": [
+                "Gné? Tu as gagné?\n",
+                "Pour qui tu te prends?\r"
             ]
         }
-    ]
+    ],
+    "name_fr": "Costa"
 }

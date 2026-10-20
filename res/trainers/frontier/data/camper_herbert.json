@@ -59,6 +59,10 @@
             "en_US": [
                 "The most natural Trainer is...\n",
                 "Oh, why hide it? None other than me!"
+            ],
+            "fr_FR": [
+                "Je suis le Dresseur de Pokémon le plus\n",
+                "proche de la nature... Si, si!"
             ]
         },
         {
@@ -66,14 +70,20 @@
             "en_US": [
                 "This is the natural outcome.\n",
                 "It was inevitable!\r"
-            ]
+            ],
+            "fr_FR": "On ne peut aller contre la nature!\r"
         },
         {
             "type": "TRMSG_DEFEAT",
             "en_US": [
                 "I was battling naturally, and ended up\n",
                 "with the loss.\r"
+            ],
+            "fr_FR": [
+                "J’imagine que c’est ce que\n",
+                "voulait la nature.\r"
             ]
         }
-    ]
+    ],
+    "name_fr": "Hector"
 }

@@ -3,119 +3,148 @@
   "messages": [
     {
       "id": "pl_msg_00000465_00000",
-      "en_US": "Spicy Poffin"
+      "en_US": "Spicy Poffin",
+      "fr_FR": "Poffin Epicé"
     },
     {
       "id": "pl_msg_00000465_00001",
-      "en_US": "Spicy-Dry Poffin"
+      "en_US": "Spicy-Dry Poffin",
+      "fr_FR": "Poffin Epicé Sec"
     },
     {
       "id": "pl_msg_00000465_00002",
-      "en_US": "Spicy-Sweet Poffin"
+      "en_US": "Spicy-Sweet Poffin",
+      "fr_FR": "Poffin Epicé Sucré"
     },
     {
       "id": "pl_msg_00000465_00003",
-      "en_US": "Spicy-Bitter Poffin"
+      "en_US": "Spicy-Bitter Poffin",
+      "fr_FR": "Poffin Epicé Amer"
     },
     {
       "id": "pl_msg_00000465_00004",
-      "en_US": "Spicy-Sour Poffin"
+      "en_US": "Spicy-Sour Poffin",
+      "fr_FR": "Poffin Epicé Acide"
     },
     {
       "id": "pl_msg_00000465_00005",
-      "en_US": "Dry-Spicy Poffin"
+      "en_US": "Dry-Spicy Poffin",
+      "fr_FR": "Poffin Sec Epicé"
     },
     {
       "id": "pl_msg_00000465_00006",
-      "en_US": "Dry Poffin"
+      "en_US": "Dry Poffin",
+      "fr_FR": "Poffin Sec"
     },
     {
       "id": "pl_msg_00000465_00007",
-      "en_US": "Dry-Sweet Poffin"
+      "en_US": "Dry-Sweet Poffin",
+      "fr_FR": "Poffin Sec Sucré"
     },
     {
       "id": "pl_msg_00000465_00008",
-      "en_US": "Dry-Bitter Poffin"
+      "en_US": "Dry-Bitter Poffin",
+      "fr_FR": "Poffin Sec Amer"
     },
     {
       "id": "pl_msg_00000465_00009",
-      "en_US": "Dry-Sour Poffin"
+      "en_US": "Dry-Sour Poffin",
+      "fr_FR": "Poffin Sec Acide"
     },
     {
       "id": "pl_msg_00000465_00010",
-      "en_US": "Sweet-Spicy Poffin"
+      "en_US": "Sweet-Spicy Poffin",
+      "fr_FR": "Poffin Sucré Epicé"
     },
     {
       "id": "pl_msg_00000465_00011",
-      "en_US": "Sweet-Dry Poffin"
+      "en_US": "Sweet-Dry Poffin",
+      "fr_FR": "Poffin Sucré Sec"
     },
     {
       "id": "pl_msg_00000465_00012",
-      "en_US": "Sweet Poffin"
+      "en_US": "Sweet Poffin",
+      "fr_FR": "Poffin Sucré"
     },
     {
       "id": "pl_msg_00000465_00013",
-      "en_US": "Sweet-Bitter Poffin"
+      "en_US": "Sweet-Bitter Poffin",
+      "fr_FR": "Poffin Sucré Amer"
     },
     {
       "id": "pl_msg_00000465_00014",
-      "en_US": "Sweet-Sour Poffin"
+      "en_US": "Sweet-Sour Poffin",
+      "fr_FR": "Poffin Sucré Acide"
     },
     {
       "id": "pl_msg_00000465_00015",
-      "en_US": "Bitter-Spicy Poffin"
+      "en_US": "Bitter-Spicy Poffin",
+      "fr_FR": "Poffin Amer Epicé"
     },
     {
       "id": "pl_msg_00000465_00016",
-      "en_US": "Bitter-Dry Poffin"
+      "en_US": "Bitter-Dry Poffin",
+      "fr_FR": "Poffin Amer Sec"
     },
     {
       "id": "pl_msg_00000465_00017",
-      "en_US": "Bitter-Sweet Poffin"
+      "en_US": "Bitter-Sweet Poffin",
+      "fr_FR": "Poffin Amer Sucré"
     },
     {
       "id": "pl_msg_00000465_00018",
-      "en_US": "Bitter Poffin"
+      "en_US": "Bitter Poffin",
+      "fr_FR": "Poffin Amer"
     },
     {
       "id": "pl_msg_00000465_00019",
-      "en_US": "Bitter-Sour Poffin"
+      "en_US": "Bitter-Sour Poffin",
+      "fr_FR": "Poffin Amer Acide"
     },
     {
       "id": "pl_msg_00000465_00020",
-      "en_US": "Sour-Spicy Poffin"
+      "en_US": "Sour-Spicy Poffin",
+      "fr_FR": "Poffin Acide Epicé"
     },
     {
       "id": "pl_msg_00000465_00021",
-      "en_US": "Sour-Dry Poffin"
+      "en_US": "Sour-Dry Poffin",
+      "fr_FR": "Poffin Acide Sec"
     },
     {
       "id": "pl_msg_00000465_00022",
-      "en_US": "Sour-Sweet Poffin"
+      "en_US": "Sour-Sweet Poffin",
+      "fr_FR": "Poffin Acide Sucré"
     },
     {
       "id": "pl_msg_00000465_00023",
-      "en_US": "Sour-Bitter Poffin"
+      "en_US": "Sour-Bitter Poffin",
+      "fr_FR": "Poffin Acide Amer"
     },
     {
       "id": "pl_msg_00000465_00024",
-      "en_US": "Sour Poffin"
+      "en_US": "Sour Poffin",
+      "fr_FR": "Poffin Acide"
     },
     {
       "id": "pl_msg_00000465_00025",
-      "en_US": "Rich Poffin"
+      "en_US": "Rich Poffin",
+      "fr_FR": "Poffin Succulent"
     },
     {
       "id": "pl_msg_00000465_00026",
-      "en_US": "Overripe Poffin"
+      "en_US": "Overripe Poffin",
+      "fr_FR": "Poffin Bourratif"
     },
     {
       "id": "pl_msg_00000465_00027",
-      "en_US": "Foul Poffin"
+      "en_US": "Foul Poffin",
+      "fr_FR": "Poffin Infect"
     },
     {
       "id": "pl_msg_00000465_00028",
-      "en_US": "Mild Poffin"
+      "en_US": "Mild Poffin",
+      "fr_FR": "Poffin Doux"
     }
   ]
 }

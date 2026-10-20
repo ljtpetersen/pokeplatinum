@@ -39,6 +39,10 @@
             "en_US": [
                 "What’s that? I smell dusty?\n",
                 "Don’t you know the aroma of soil?"
+            ],
+            "fr_FR": [
+                "Je sens la poussière, non?\n",
+                "Tu vas vite comprendre pourquoi."
             ]
         },
         {
@@ -46,6 +50,10 @@
             "en_US": [
                 "See, that’s what you get!\n",
                 "Your team had to eat dirt, get it?\r"
+            ],
+            "fr_FR": [
+                "La poussière que tu sentais...\n",
+                "c’est celle que je t’ai fait mordre!\r"
             ]
         },
         {
@@ -53,7 +61,12 @@
             "en_US": [
                 "Dropped in the dirt by some kid who\n",
                 "doesn’t know the smell of soil!\r"
+            ],
+            "fr_FR": [
+                "Euh... C’est moi qui devais te faire\n",
+                "mordre la poussière...\r"
             ]
         }
-    ]
+    ],
+    "name_fr": "Juste"
 }

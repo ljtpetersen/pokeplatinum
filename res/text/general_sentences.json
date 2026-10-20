@@ -6,17 +6,26 @@
       "en_US": [
         "Hello!\n",
         "{STRVAR_1 28, 0, 0}!"
+      ],
+      "fr_FR": [
+        "Salut!\n",
+        "{STRVAR_1 28, 0, 0}!"
       ]
     },
     {
       "id": "GeneralSentences_Text_ILoveBlank",
-      "en_US": "I love {STRVAR_1 28, 0, 0}!"
+      "en_US": "I love {STRVAR_1 28, 0, 0}!",
+      "fr_FR": "J’adore {STRVAR_1 28, 0, 0}!"
     },
     {
       "id": "GeneralSentences_Text_ILoveBlankILoveBlankToo",
       "en_US": [
         "I love {STRVAR_1 28, 0, 0}!\n",
         "I love {STRVAR_1 28, 1, 0}, too!"
+      ],
+      "fr_FR": [
+        "J’adore {STRVAR_1 28, 0, 0}!\n",
+        "J’adore {STRVAR_1 28, 1, 0}, aussi!"
       ]
     },
     {
@@ -24,12 +33,20 @@
       "en_US": [
         "This {STRVAR_1 28, 0, 0} is\n",
         "{STRVAR_1 28, 1, 0}, isn’t it?"
+      ],
+      "fr_FR": [
+        "Ce {STRVAR_1 28, 0, 0} est\n",
+        "{STRVAR_1 28, 1, 0}, n’est-ce pas?"
       ]
     },
     {
       "id": "GeneralSentences_Text_ICanDoAnythingForBlank",
       "en_US": [
         "I can do anything for\n",
+        "{STRVAR_1 28, 0, 0}!"
+      ],
+      "fr_FR": [
+        "Je ferais n’importe quoi pour\n",
         "{STRVAR_1 28, 0, 0}!"
       ]
     },
@@ -38,6 +55,10 @@
       "en_US": [
         "This {STRVAR_1 28, 0, 0} is\n",
         "{STRVAR_1 28, 1, 0}!"
+      ],
+      "fr_FR": [
+        "Ce {STRVAR_1 28, 0, 0} est\n",
+        "{STRVAR_1 28, 1, 0}!"
       ]
     },
     {
@@ -45,17 +66,29 @@
       "en_US": [
         "{STRVAR_1 28, 0, 0} is the real\n",
         "{STRVAR_1 28, 1, 0}!"
+      ],
+      "fr_FR": [
+        "{STRVAR_1 28, 0, 0} est vraiment\n",
+        "{STRVAR_1 28, 1, 0}!"
       ]
     },
     {
       "id": "GeneralSentences_Text_ItMightBeBlank",
-      "en_US": "It might be {STRVAR_1 28, 0, 0}..."
+      "en_US": "It might be {STRVAR_1 28, 0, 0}...",
+      "fr_FR": [
+        "Ce pourrait bien être \n",
+        "{STRVAR_1 28, 0, 0}..."
+      ]
     },
     {
       "id": "GeneralSentences_Text_TheresOnlyBlankLeft",
       "en_US": [
         "There’s only {STRVAR_1 28, 0, 0}\n",
         "left!"
+      ],
+      "fr_FR": [
+        "Il ne reste plus \n",
+        "que {STRVAR_1 28, 0, 0}!"
       ]
     },
     {
@@ -63,6 +96,10 @@
       "en_US": [
         "It’s {STRVAR_1 28, 0, 0}!\n",
         "It’s {STRVAR_1 28, 1, 0}!"
+      ],
+      "fr_FR": [
+        "C’est {STRVAR_1 28, 0, 0}!\n",
+        "C’est {STRVAR_1 28, 1, 0}!"
       ]
     },
     {
@@ -70,6 +107,10 @@
       "en_US": [
         "I prefer {STRVAR_1 28, 0, 0}\n",
         "after all!"
+      ],
+      "fr_FR": [
+        "Finalement, je préfère\n",
+        "{STRVAR_1 28, 0, 0}!"
       ]
     },
     {
@@ -77,16 +118,25 @@
       "en_US": [
         "Is {STRVAR_1 28, 0, 0}\n",
         "{STRVAR_1 28, 1, 0}?"
+      ],
+      "fr_FR": [
+        "Est-ce que {STRVAR_1 28, 0, 0} est\n",
+        "{STRVAR_1 28, 1, 0}?"
       ]
     },
     {
       "id": "GeneralSentences_Text_DoYouLikeBlank",
-      "en_US": "Do you like {STRVAR_1 28, 0, 0}?"
+      "en_US": "Do you like {STRVAR_1 28, 0, 0}?",
+      "fr_FR": "Tu aimes {STRVAR_1 28, 0, 0}?"
     },
     {
       "id": "GeneralSentences_Text_WhatDoYouThinkOfBlank",
       "en_US": [
         "What do you think of\n",
+        "{STRVAR_1 28, 0, 0}?"
+      ],
+      "fr_FR": [
+        "Qu’est-ce que tu penses de\n",
         "{STRVAR_1 28, 0, 0}?"
       ]
     },
@@ -95,6 +145,10 @@
       "en_US": [
         "{STRVAR_1 28, 0, 0} is so\n",
         "{STRVAR_1 28, 1, 0}!"
+      ],
+      "fr_FR": [
+        "{STRVAR_1 28, 0, 0} est tellement\n",
+        "{STRVAR_1 28, 1, 0}!"
       ]
     },
     {
@@ -102,17 +156,26 @@
       "en_US": [
         "{STRVAR_1 28, 0, 0} are\n",
         "{STRVAR_1 28, 1, 0}!"
+      ],
+      "fr_FR": [
+        "Les {STRVAR_1 28, 0, 0} sont\n",
+        "{STRVAR_1 28, 1, 0}!"
       ]
     },
     {
       "id": "GeneralSentences_Text_BlankRight",
-      "en_US": "{STRVAR_1 28, 0, 0}, right?"
+      "en_US": "{STRVAR_1 28, 0, 0}, right?",
+      "fr_FR": "{STRVAR_1 28, 0, 0}, non?"
     },
     {
       "id": "GeneralSentences_Text_DidYouKnowBlankItsBlank",
       "en_US": [
         "Did you know {STRVAR_1 28, 0, 0}?\n",
         "It’s {STRVAR_1 28, 1, 0}!"
+      ],
+      "fr_FR": [
+        "Tu connais {STRVAR_1 28, 0, 0}?\n",
+        "Il est {STRVAR_1 28, 1, 0}!"
       ]
     },
     {
@@ -120,12 +183,20 @@
       "en_US": [
         "Excuse me...\n",
         "It’s {STRVAR_1 28, 0, 0}!"
+      ],
+      "fr_FR": [
+        "Excuse-moi...\n",
+        "C’est {STRVAR_1 28, 0, 0}!"
       ]
     },
     {
       "id": "GeneralSentences_Text_BlankRightBlank",
       "en_US": [
         "{STRVAR_1 28, 0, 0}, right?\n",
+        "{STRVAR_1 28, 1, 0}!"
+      ],
+      "fr_FR": [
+        "{STRVAR_1 28, 0, 0}, d’accord?\n",
         "{STRVAR_1 28, 1, 0}!"
       ]
     }

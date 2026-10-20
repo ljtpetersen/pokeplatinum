@@ -26,5 +26,13 @@
   "battlePocket": "BATTLE_POCKET_MASK_NONE",
   "fieldUseFunc": "ITEM_USE_FUNC_NONE",
   "battleUseCategory": "BATTLE_USE_CATEGORY_NONE",
-  "itemUseParams": null
+  "itemUseParams": null,
+  "name_fr": "Lunet.Noires",
+  "description_fr": [
+    "Objet à tenir. Paire de lunettes à\n",
+    "l’aspect louche qui monte la puissance\n",
+    "des capacités de type Ténèbres."
+  ],
+  "plural_fr": "Lunet.Noires",
+  "article_fr": null
 }

@@ -24,5 +24,13 @@
     "contest": {
         "effect": "CONTEST_EFFECT_SUPPRESS_VOLTAGE",
         "type": "CONTEST_TYPE_BEAUTY"
-    }
+    },
+    "name_fr": "Grêle",
+    "description_fr": [
+        "Invoque une tempête\n",
+        "de grêle qui dure 5\n",
+        "tours. Ne blesse pas\n",
+        "les Pokémon de type\n",
+        "Glace."
+    ]
 }

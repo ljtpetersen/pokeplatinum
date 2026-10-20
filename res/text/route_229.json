@@ -10,6 +10,14 @@
         "to share with you, but alas, I don’t!\r",
         "So, I’ll have to make it up to you\n",
         "with this!\r"
+      ],
+      "fr_FR": [
+        "Tu me cherchais?\n",
+        "Je t’ai manqué?\r",
+        "J’aurais voulu te donner un conseil \n",
+        "en or, mais j’ai rien en stock!\r",
+        "Du coup, je vais me rattraper \n",
+        "en te donnant ceci!\r"
       ]
     },
     {
@@ -17,6 +25,10 @@
       "en_US": [
         "Oh, why not? Take another!\n",
         "It makes up for the wisdom I lack!\r"
+      ],
+      "fr_FR": [
+        "Tiens, prends-en une autre!\n",
+        "Ça compense mon manque de sagesse!\r"
       ]
     },
     {
@@ -26,6 +38,12 @@
         "Try to spend them wisely!\r",
         "Nuggets of gold have to be worth\n",
         "more than nuggets of my wisdom!"
+      ],
+      "fr_FR": [
+        "Ce sont des Pépites.\n",
+        "Ne les dépense pas n’importe comment!\r",
+        "Une Pépite d’or vaut bien plus \n",
+        "qu’un conseil en or!"
       ]
     },
     {
@@ -33,6 +51,10 @@
       "en_US": [
         "Rt. 229\n",
         "Resort Area"
+      ],
+      "fr_FR": [
+        "Route 229\n",
+        "Aire de Détente"
       ]
     }
   ]

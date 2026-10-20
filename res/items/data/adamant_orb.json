@@ -26,5 +26,13 @@
   "battlePocket": "BATTLE_POCKET_MASK_NONE",
   "fieldUseFunc": "ITEM_USE_FUNC_NONE",
   "battleUseCategory": "BATTLE_USE_CATEGORY_NONE",
-  "itemUseParams": null
+  "itemUseParams": null,
+  "name_fr": "Orbe Adamant",
+  "description_fr": [
+    "Orbe très brillant destiné à DIALGA.\n",
+    "Augmente la puissance des capacités de\n",
+    "type Dragon ou Acier."
+  ],
+  "plural_fr": "Orbe Adamant",
+  "article_fr": null
 }

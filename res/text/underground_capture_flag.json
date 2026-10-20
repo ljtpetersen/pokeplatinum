@@ -8,6 +8,12 @@
         "You can’t deal with this now!\r",
         "Or, would you like to throw away\n",
         "the Flag you’re holding?"
+      ],
+      "fr_FR": [
+        "Vous ne pouvez pas faire ça!\n",
+        "Vous tenez un Drapeau!\r",
+        "Voulez-vous vous débarrasser\n",
+        "de ce Drapeau?"
       ]
     },
     {
@@ -16,7 +22,8 @@
     },
     {
       "id": "UndergroundCaptureFlag_Text_DiscardedFlag",
-      "en_US": "Discarded the Flag."
+      "en_US": "Discarded the Flag.",
+      "fr_FR": "Vous jetez le Drapeau."
     },
     {
       "id": "UndergroundCaptureFlag_Text_Dummy_00003",
@@ -31,6 +38,10 @@
       "en_US": [
         "Something is buried in front of you.\n",
         "But you’re holding a Flag!"
+      ],
+      "fr_FR": [
+        "Il y a quelque chose d’enterré, ici.\n",
+        "Mais vous tenez un Drapeau!"
       ]
     },
     {
@@ -38,13 +49,18 @@
       "en_US": [
         "You don’t have the time to stop\n",
         "and chat!"
-      ]
+      ],
+      "fr_FR": "Ce n’est pas le moment de discuter!"
     },
     {
       "id": "UndergroundCaptureFlag_Text_ObtainedFlagWasRegistered",
       "en_US": [
         "The obtained Flag was registered\n",
         "on the PC!"
+      ],
+      "fr_FR": [
+        "Vous enregistrez le Drapeau obtenu\n",
+        "sur le PC!"
       ]
     },
     {
@@ -52,27 +68,36 @@
       "en_US": [
         "You’ve obtained the Flag\n",
         "from {STRVAR_1 1, 0, 0}’s Base!"
+      ],
+      "fr_FR": [
+        "Vous obtenez le Drapeau de la Base\n",
+        "contrôlée par {STRVAR_1 1, 0, 0}!"
       ]
     },
     {
       "id": "UndergroundCaptureFlag_Text_YouAlreadyHaveFlag",
-      "en_US": "You already have a Flag!"
+      "en_US": "You already have a Flag!",
+      "fr_FR": "Vous avez déjà un Drapeau!"
     },
     {
       "id": "UndergroundCaptureFlag_Text_PlayerTookAwayYourFlag",
-      "en_US": "{STRVAR_1 1, 0, 0} took away your Flag!"
+      "en_US": "{STRVAR_1 1, 0, 0} took away your Flag!",
+      "fr_FR": "{STRVAR_1 1, 0, 0} prend votre Drapeau!"
     },
     {
       "id": "UndergroundCaptureFlag_Text_PlayerTookBackTheFlag",
-      "en_US": "{STRVAR_1 1, 0, 0} took back the Flag!"
+      "en_US": "{STRVAR_1 1, 0, 0} took back the Flag!",
+      "fr_FR": "{STRVAR_1 1, 0, 0} récupère son Drapeau!"
     },
     {
       "id": "UndergroundCaptureFlag_Text_TookAFlagFromPlayer",
-      "en_US": "Took a Flag from {STRVAR_1 1, 0, 0}!"
+      "en_US": "Took a Flag from {STRVAR_1 1, 0, 0}!",
+      "fr_FR": "Vous prenez un Drapeau à {STRVAR_1 1, 0, 0}!"
     },
     {
       "id": "UndergroundCaptureFlag_Text_YouTookBackTheFlag",
-      "en_US": "Took back the Flag!"
+      "en_US": "Took back the Flag!",
+      "fr_FR": "Vous récupérez votre Drapeau!"
     },
     {
       "id": "UndergroundCaptureFlag_Text_FlagBecameBronze",
@@ -84,6 +109,15 @@
         "decoration goods.\r",
         "You may also put away one Big\n",
         "Boulder."
+      ],
+      "fr_FR": [
+        "...\r",
+        "Un Drapeau enregistré!\n",
+        "Vous passez Drapeau de Bronze!\r",
+        "Vous pouvez désormais exposer jusqu’à\n",
+        "douze articles de décoration.\r",
+        "Vous pouvez également retirer\n",
+        "un Gros Rocher."
       ]
     },
     {
@@ -96,6 +130,15 @@
         "decoration goods.\r",
         "You may also put away five Big\n",
         "Boulders."
+      ],
+      "fr_FR": [
+        "...\r",
+        "Trois Drapeaux enregistrés!\n",
+        "Vous passez Drapeau d’Argent!\r",
+        "Vous pouvez désormais exposer jusqu’à\n",
+        "quinze articles de décoration.\r",
+        "Vous pouvez également retirer\n",
+        "cinq Gros Rochers."
       ]
     },
     {
@@ -108,6 +151,15 @@
         "Boulders.\r",
         "You may now also use the Radar from\n",
         "your PC."
+      ],
+      "fr_FR": [
+        "...\r",
+        "Dix Drapeaux enregistrés!\n",
+        "Vous passez Drapeau d’Or!\r",
+        "Vous pouvez désormais retirer\n",
+        "dix Gros Rochers.\r",
+        "Vous pouvez également utiliser\n",
+        "le Radar depuis le PC."
       ]
     },
     {
@@ -118,6 +170,13 @@
         "so your Flag became a Platinum Flag!\r",
         "You may now put away any number\n",
         "of Big Boulders."
+      ],
+      "fr_FR": [
+        "...\r",
+        "Cinquante Drapeaux enregistrés!\n",
+        "Vous passez Drapeau de Platine!\r",
+        "Vous pouvez désormais retirer autant\n",
+        "de Gros Rochers que vous le voulez."
       ]
     }
   ]

@@ -58,11 +58,16 @@
             "en_US": [
                 "Have you any knowledge of levels\n",
                 "or the stats of Pokémon? Well, I do!\r"
+            ],
+            "fr_FR": [
+                "As-tu des connaissances sur les niveaux\n",
+                "ou les stats des Pokémon? Moi, oui!\r"
             ]
         },
         {
             "type": "TRMSG_DEFEAT",
-            "en_US": "Hmm. I like how you attack.\n"
+            "en_US": "Hmm. I like how you attack.\n",
+            "fr_FR": "Hum. J’aime ta façon d’attaquer.\n"
         },
         {
             "type": "TRMSG_POST_BATTLE",
@@ -71,6 +76,12 @@
                 "Who cares about that stuff?\r",
                 "Winning is what’s important.\n",
                 "Numbers aren’t everything.\n"
+            ],
+            "fr_FR": [
+                "Les Pokémon et les chiffres...\n",
+                "Qui s’intéresse à ça?\r",
+                "Le plus important, c’est de gagner.\n",
+                "Les chiffres ne font pas tout.\n"
             ]
         },
         {
@@ -80,7 +91,14 @@
                 "numbers.\r",
                 "It’s the bond you share with your\n",
                 "Pokémon that decides outcomes!\r"
+            ],
+            "fr_FR": [
+                "L’issue d’un combat n’est pas une\n",
+                "question de chiffres.\r",
+                "C’est le lien qui unit un Pokémon à\n",
+                "son Dresseur qui fait la différence!\r"
             ]
         }
-    ]
+    ],
+    "name_fr": "Bertrand"
 }

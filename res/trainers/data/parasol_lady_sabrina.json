@@ -29,13 +29,18 @@
     "messages": [
         {
             "type": "TRMSG_PRE_BATTLE",
-            "en_US": "When it rains, I get more tense!\r"
+            "en_US": "When it rains, I get more tense!\r",
+            "fr_FR": "Quand il pleut, je deviens nerveuse!\r"
         },
         {
             "type": "TRMSG_DEFEAT",
             "en_US": [
                 "It’s not very easy trying to battle\n",
                 "while holding an umbrella.\n"
+            ],
+            "fr_FR": [
+                "Ce n’est pas très facile de se \n",
+                "battre en tenant un parapluie.\n"
             ]
         },
         {
@@ -43,6 +48,10 @@
             "en_US": [
                 "If it rained every day, I could have\n",
                 "my umbrella open all the time.\n"
+            ],
+            "fr_FR": [
+                "S’il pleuvait tous les jours, je pourrais\n",
+                "tout le temps sortir mon parapluie.\n"
             ]
         },
         {
@@ -50,7 +59,12 @@
             "en_US": [
                 "It’s not because it’s raining.\n",
                 "I just love umbrellas!\r"
+            ],
+            "fr_FR": [
+                "Ça n’est pas parce qu’il pleut.\n",
+                "Simplement, j’adore les parapluies!\r"
             ]
         }
-    ]
+    ],
+    "name_fr": "Lila"
 }

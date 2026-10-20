@@ -77,6 +77,10 @@
             "en_US": [
                 "I’d like to introduce you to my\n",
                 "cherished partners."
+            ],
+            "fr_FR": [
+                "Tu vas assister à une superbe\n",
+                "démonstration de technique."
             ]
         },
         {
@@ -84,6 +88,10 @@
             "en_US": [
                 "Good, good. Good going, gang.\n",
                 "You guys all did great.\r"
+            ],
+            "fr_FR": [
+                "Et voilà. C’est pratiquement\n",
+                "digne d’un Maître Pokémon.\r"
             ]
         },
         {
@@ -91,7 +99,12 @@
             "en_US": [
                 "Wheeze... Wheeze...\n",
                 "I’m feeling faint...\r"
+            ],
+            "fr_FR": [
+                "Argh... Je ne me sens pas\n",
+                "très bien, là...\r"
             ]
         }
-    ]
+    ],
+    "name_fr": "Peyo"
 }

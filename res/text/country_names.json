@@ -3,939 +3,1173 @@
   "messages": [
     {
       "id": "Country_Text_None",
-      "en_US": "None"
+      "en_US": "None",
+      "fr_FR": "Aucun"
     },
     {
       "id": "Country_Text_Afghanistan",
-      "en_US": "Afghanistan"
+      "en_US": "Afghanistan",
+      "fr_FR": "Afghanistan"
     },
     {
       "id": "Country_Text_Albania",
-      "en_US": "Albania"
+      "en_US": "Albania",
+      "fr_FR": "Albanie"
     },
     {
       "id": "Country_Text_Algeria",
-      "en_US": "Algeria"
+      "en_US": "Algeria",
+      "fr_FR": "Algérie"
     },
     {
       "id": "Country_Text_AmericanSamoa",
-      "en_US": "American Samoa"
+      "en_US": "American Samoa",
+      "fr_FR": "Samoa américaines"
     },
     {
       "id": "Country_Text_Andorra",
-      "en_US": "Andorra"
+      "en_US": "Andorra",
+      "fr_FR": "Andorre"
     },
     {
       "id": "Country_Text_Angola",
-      "en_US": "Angola"
+      "en_US": "Angola",
+      "fr_FR": "Angola"
     },
     {
       "id": "Country_Text_Anguilla",
-      "en_US": "Anguilla"
+      "en_US": "Anguilla",
+      "fr_FR": "Anguilla"
     },
     {
       "id": "Country_Text_AntiguaAndBarbuda",
-      "en_US": "Antigua and Barbuda"
+      "en_US": "Antigua and Barbuda",
+      "fr_FR": "Antigua-et-Barbuda"
     },
     {
       "id": "Country_Text_Argentina",
-      "en_US": "Argentina"
+      "en_US": "Argentina",
+      "fr_FR": "Argentine"
     },
     {
       "id": "Country_Text_Armenia",
-      "en_US": "Armenia"
+      "en_US": "Armenia",
+      "fr_FR": "Arménie"
     },
     {
       "id": "Country_Text_Aruba",
-      "en_US": "Aruba"
+      "en_US": "Aruba",
+      "fr_FR": "Aruba"
     },
     {
       "id": "Country_Text_Australia",
-      "en_US": "Australia"
+      "en_US": "Australia",
+      "fr_FR": "Australie"
     },
     {
       "id": "Country_Text_Austria",
-      "en_US": "Austria"
+      "en_US": "Austria",
+      "fr_FR": "Autriche"
     },
     {
       "id": "Country_Text_Azerbaijan",
-      "en_US": "Azerbaijan"
+      "en_US": "Azerbaijan",
+      "fr_FR": "Azerbaïdjan"
     },
     {
       "id": "Country_Text_Bahamas",
-      "en_US": "Bahamas"
+      "en_US": "Bahamas",
+      "fr_FR": "Bahamas"
     },
     {
       "id": "Country_Text_Bahrain",
-      "en_US": "Bahrain"
+      "en_US": "Bahrain",
+      "fr_FR": "Bahreïn"
     },
     {
       "id": "Country_Text_Bangladesh",
-      "en_US": "Bangladesh"
+      "en_US": "Bangladesh",
+      "fr_FR": "Bangladesh"
     },
     {
       "id": "Country_Text_Barbados",
-      "en_US": "Barbados"
+      "en_US": "Barbados",
+      "fr_FR": "La Barbade"
     },
     {
       "id": "Country_Text_Belarus",
-      "en_US": "Belarus"
+      "en_US": "Belarus",
+      "fr_FR": "Biélorussie"
     },
     {
       "id": "Country_Text_Belgium",
-      "en_US": "Belgium"
+      "en_US": "Belgium",
+      "fr_FR": "Belgique"
     },
     {
       "id": "Country_Text_Belize",
-      "en_US": "Belize"
+      "en_US": "Belize",
+      "fr_FR": "Belize"
     },
     {
       "id": "Country_Text_Benin",
-      "en_US": "Benin"
+      "en_US": "Benin",
+      "fr_FR": "Bénin"
     },
     {
       "id": "Country_Text_Bermuda",
-      "en_US": "Bermuda"
+      "en_US": "Bermuda",
+      "fr_FR": "Les Bermudes"
     },
     {
       "id": "Country_Text_Bhutan",
-      "en_US": "Bhutan"
+      "en_US": "Bhutan",
+      "fr_FR": "Bhoutan"
     },
     {
       "id": "Country_Text_Bolivia",
-      "en_US": "Bolivia"
+      "en_US": "Bolivia",
+      "fr_FR": "Bolivie"
     },
     {
       "id": "Country_Text_BosniaAndHerzegovina",
-      "en_US": "Bosnia and Herzegovina"
+      "en_US": "Bosnia and Herzegovina",
+      "fr_FR": "Bosnie-Herzégovine"
     },
     {
       "id": "Country_Text_Botswana",
-      "en_US": "Botswana"
+      "en_US": "Botswana",
+      "fr_FR": "Botswana"
     },
     {
       "id": "Country_Text_Brazil",
-      "en_US": "Brazil"
+      "en_US": "Brazil",
+      "fr_FR": "Brésil"
     },
     {
       "id": "Country_Text_BritishVirginIslands",
-      "en_US": "British Virgin Islands"
+      "en_US": "British Virgin Islands",
+      "fr_FR": "Iles Vierges britanniques"
     },
     {
       "id": "Country_Text_Brunei",
-      "en_US": "Brunei Darussalam"
+      "en_US": "Brunei Darussalam",
+      "fr_FR": "Sultanat du Brunei"
     },
     {
       "id": "Country_Text_Bulgaria",
-      "en_US": "Bulgaria"
+      "en_US": "Bulgaria",
+      "fr_FR": "Bulgarie"
     },
     {
       "id": "Country_Text_BurkinaFaso",
-      "en_US": "Burkina Faso"
+      "en_US": "Burkina Faso",
+      "fr_FR": "Burkina Faso"
     },
     {
       "id": "Country_Text_Burundi",
-      "en_US": "Burundi"
+      "en_US": "Burundi",
+      "fr_FR": "Burundi"
     },
     {
       "id": "Country_Text_Cambodia",
-      "en_US": "Cambodia"
+      "en_US": "Cambodia",
+      "fr_FR": "Cambodge"
     },
     {
       "id": "Country_Text_Cameroon",
-      "en_US": "Cameroon"
+      "en_US": "Cameroon",
+      "fr_FR": "Cameroun"
     },
     {
       "id": "Country_Text_Canada",
-      "en_US": "Canada"
+      "en_US": "Canada",
+      "fr_FR": "Canada"
     },
     {
       "id": "Country_Text_CapeVerde",
-      "en_US": "Cape Verde"
+      "en_US": "Cape Verde",
+      "fr_FR": "Cap-Vert"
     },
     {
       "id": "Country_Text_CaymanIslands",
-      "en_US": "Cayman Islands"
+      "en_US": "Cayman Islands",
+      "fr_FR": "Iles Caïmans"
     },
     {
       "id": "Country_Text_CAR",
-      "en_US": "Central African Republic"
+      "en_US": "Central African Republic",
+      "fr_FR": "République centrafricaine"
     },
     {
       "id": "Country_Text_Chad",
-      "en_US": "Chad"
+      "en_US": "Chad",
+      "fr_FR": "Tchad"
     },
     {
       "id": "Country_Text_ChannelIslands",
-      "en_US": "Channel Islands"
+      "en_US": "Channel Islands",
+      "fr_FR": "Iles du Détroit"
     },
     {
       "id": "Country_Text_Chile",
-      "en_US": "Chile"
+      "en_US": "Chile",
+      "fr_FR": "Chili"
     },
     {
       "id": "Country_Text_China",
-      "en_US": "China"
+      "en_US": "China",
+      "fr_FR": "Chine"
     },
     {
       "id": "Country_Text_ChristmasIsland",
-      "en_US": "Christmas Island"
+      "en_US": "Christmas Island",
+      "fr_FR": "Iles Christmas"
     },
     {
       "id": "Country_Text_Colombia",
-      "en_US": "Colombia"
+      "en_US": "Colombia",
+      "fr_FR": "Colombie"
     },
     {
       "id": "Country_Text_Comoros",
-      "en_US": "Comoros"
+      "en_US": "Comoros",
+      "fr_FR": "Les Comores"
     },
     {
       "id": "Country_Text_DemocraticCongo",
-      "en_US": "Democratic Republic of the Congo"
+      "en_US": "Democratic Republic of the Congo",
+      "fr_FR": "République démocratique du Congo"
     },
     {
       "id": "Country_Text_Congo",
-      "en_US": "Congo"
+      "en_US": "Congo",
+      "fr_FR": "Congo"
     },
     {
       "id": "Country_Text_CookIslands",
-      "en_US": "Cook Islands"
+      "en_US": "Cook Islands",
+      "fr_FR": "Iles Cook"
     },
     {
       "id": "Country_Text_CostaRica",
-      "en_US": "Costa Rica"
+      "en_US": "Costa Rica",
+      "fr_FR": "Costa Rica"
     },
     {
       "id": "Country_Text_IvoryCoast",
-      "en_US": "Cote d’Ivoire"
+      "en_US": "Cote d’Ivoire",
+      "fr_FR": "Côte d’Ivoire"
     },
     {
       "id": "Country_Text_Croatia",
-      "en_US": "Croatia"
+      "en_US": "Croatia",
+      "fr_FR": "Croatie"
     },
     {
       "id": "Country_Text_Cuba",
-      "en_US": "Cuba"
+      "en_US": "Cuba",
+      "fr_FR": "Cuba"
     },
     {
       "id": "Country_Text_Cyprus",
-      "en_US": "Cyprus"
+      "en_US": "Cyprus",
+      "fr_FR": "Chypre"
     },
     {
       "id": "Country_Text_CzechRepublic",
-      "en_US": "Czech Republic"
+      "en_US": "Czech Republic",
+      "fr_FR": "République tchèque"
     },
     {
       "id": "Country_Text_Denmark",
-      "en_US": "Denmark"
+      "en_US": "Denmark",
+      "fr_FR": "Danemark"
     },
     {
       "id": "Country_Text_Djibouti",
-      "en_US": "Djibouti"
+      "en_US": "Djibouti",
+      "fr_FR": "Djibouti"
     },
     {
       "id": "Country_Text_Dominica",
-      "en_US": "Dominica"
+      "en_US": "Dominica",
+      "fr_FR": "Dominique"
     },
     {
       "id": "Country_Text_DominicanRepublic",
-      "en_US": "Dominican Republic"
+      "en_US": "Dominican Republic",
+      "fr_FR": "République dominicaine"
     },
     {
       "id": "Country_Text_Ecuador",
-      "en_US": "Ecuador"
+      "en_US": "Ecuador",
+      "fr_FR": "Equateur"
     },
     {
       "id": "Country_Text_Egypt",
-      "en_US": "Egypt"
+      "en_US": "Egypt",
+      "fr_FR": "Egypte"
     },
     {
       "id": "Country_Text_ElSalvador",
-      "en_US": "El Salvador"
+      "en_US": "El Salvador",
+      "fr_FR": "Salvador"
     },
     {
       "id": "Country_Text_EquatorialGuinea",
-      "en_US": "Equatorial Guinea"
+      "en_US": "Equatorial Guinea",
+      "fr_FR": "Guinée équatoriale"
     },
     {
       "id": "Country_Text_Eritrea",
-      "en_US": "Eritrea"
+      "en_US": "Eritrea",
+      "fr_FR": "Erythrée"
     },
     {
       "id": "Country_Text_Estonia",
-      "en_US": "Estonia"
+      "en_US": "Estonia",
+      "fr_FR": "Estonie"
     },
     {
       "id": "Country_Text_Ethiopia",
-      "en_US": "Ethiopia"
+      "en_US": "Ethiopia",
+      "fr_FR": "Ethiopie"
     },
     {
       "id": "Country_Text_FaroeIslands",
-      "en_US": "Faroe Islands"
+      "en_US": "Faroe Islands",
+      "fr_FR": "Iles Féroé"
     },
     {
       "id": "Country_Text_FalklandIslands",
-      "en_US": "Falkland Islands"
+      "en_US": "Falkland Islands",
+      "fr_FR": "Iles Malouines"
     },
     {
       "id": "Country_Text_Fiji",
-      "en_US": "Fiji"
+      "en_US": "Fiji",
+      "fr_FR": "Fidji"
     },
     {
       "id": "Country_Text_Finland",
-      "en_US": "Finland"
+      "en_US": "Finland",
+      "fr_FR": "Finlande"
     },
     {
       "id": "Country_Text_France",
-      "en_US": "France"
+      "en_US": "France",
+      "fr_FR": "France"
     },
     {
       "id": "Country_Text_FrenchGuiana",
-      "en_US": "French Guiana"
+      "en_US": "French Guiana",
+      "fr_FR": "Guyane française"
     },
     {
       "id": "Country_Text_FrenchPolynesia",
-      "en_US": "French Polynesia"
+      "en_US": "French Polynesia",
+      "fr_FR": "Polynésie française"
     },
     {
       "id": "Country_Text_Gabon",
-      "en_US": "Gabon"
+      "en_US": "Gabon",
+      "fr_FR": "Gabon"
     },
     {
       "id": "Country_Text_Gambia",
-      "en_US": "Gambia"
+      "en_US": "Gambia",
+      "fr_FR": "Gambie"
     },
     {
       "id": "Country_Text_Georgia",
-      "en_US": "Georgia"
+      "en_US": "Georgia",
+      "fr_FR": "Géorgie"
     },
     {
       "id": "Country_Text_Germany",
-      "en_US": "Germany"
+      "en_US": "Germany",
+      "fr_FR": "Allemagne"
     },
     {
       "id": "Country_Text_Ghana",
-      "en_US": "Ghana"
+      "en_US": "Ghana",
+      "fr_FR": "Ghana"
     },
     {
       "id": "Country_Text_Gibraltar",
-      "en_US": "Gibraltar"
+      "en_US": "Gibraltar",
+      "fr_FR": "Gibraltar"
     },
     {
       "id": "Country_Text_Greece",
-      "en_US": "Greece"
+      "en_US": "Greece",
+      "fr_FR": "Grèce"
     },
     {
       "id": "Country_Text_Greenland",
-      "en_US": "Greenland"
+      "en_US": "Greenland",
+      "fr_FR": "Groenland"
     },
     {
       "id": "Country_Text_Grenada",
-      "en_US": "Grenada"
+      "en_US": "Grenada",
+      "fr_FR": "Grenade"
     },
     {
       "id": "Country_Text_Guadeloupe",
-      "en_US": "Guadeloupe"
+      "en_US": "Guadeloupe",
+      "fr_FR": "Guadeloupe"
     },
     {
       "id": "Country_Text_Guam",
-      "en_US": "Guam"
+      "en_US": "Guam",
+      "fr_FR": "Guam"
     },
     {
       "id": "Country_Text_Guatemala",
-      "en_US": "Guatemala"
+      "en_US": "Guatemala",
+      "fr_FR": "Guatemala"
     },
     {
       "id": "Country_Text_Guinea",
-      "en_US": "Guinea"
+      "en_US": "Guinea",
+      "fr_FR": "Guinée"
     },
     {
       "id": "Country_Text_GuineaBissau",
-      "en_US": "Guinea-Bissau"
+      "en_US": "Guinea-Bissau",
+      "fr_FR": "Guinée-Bissau"
     },
     {
       "id": "Country_Text_Guyana",
-      "en_US": "Guyana"
+      "en_US": "Guyana",
+      "fr_FR": "Guyana"
     },
     {
       "id": "Country_Text_Haiti",
-      "en_US": "Haiti"
+      "en_US": "Haiti",
+      "fr_FR": "Haïti"
     },
     {
       "id": "Country_Text_Honduras",
-      "en_US": "Honduras"
+      "en_US": "Honduras",
+      "fr_FR": "Honduras"
     },
     {
       "id": "Country_Text_HongKong",
-      "en_US": "Hong Kong"
+      "en_US": "Hong Kong",
+      "fr_FR": "Hong Kong"
     },
     {
       "id": "Country_Text_Hungary",
-      "en_US": "Hungary"
+      "en_US": "Hungary",
+      "fr_FR": "Hongrie"
     },
     {
       "id": "Country_Text_Iceland",
-      "en_US": "Iceland"
+      "en_US": "Iceland",
+      "fr_FR": "Islande"
     },
     {
       "id": "Country_Text_India",
-      "en_US": "India"
+      "en_US": "India",
+      "fr_FR": "Inde"
     },
     {
       "id": "Country_Text_Indonesia",
-      "en_US": "Indonesia"
+      "en_US": "Indonesia",
+      "fr_FR": "Indonésie"
     },
     {
       "id": "Country_Text_Iran",
-      "en_US": "Iran"
+      "en_US": "Iran",
+      "fr_FR": "Iran"
     },
     {
       "id": "Country_Text_Iraq",
-      "en_US": "Iraq"
+      "en_US": "Iraq",
+      "fr_FR": "Irak"
     },
     {
       "id": "Country_Text_Ireland",
-      "en_US": "Ireland"
+      "en_US": "Ireland",
+      "fr_FR": "Irlande"
     },
     {
       "id": "Country_Text_IsleOfMan",
-      "en_US": "Isle of Man "
+      "en_US": "Isle of Man ",
+      "fr_FR": "Ile de Man"
     },
     {
       "id": "Country_Text_Israel",
-      "en_US": "Israel"
+      "en_US": "Israel",
+      "fr_FR": "Israël"
     },
     {
       "id": "Country_Text_Italy",
-      "en_US": "Italy"
+      "en_US": "Italy",
+      "fr_FR": "Italie"
     },
     {
       "id": "Country_Text_Jamaica",
-      "en_US": "Jamaica"
+      "en_US": "Jamaica",
+      "fr_FR": "Jamaïque"
     },
     {
       "id": "Country_Text_Japan",
-      "en_US": "Japan"
+      "en_US": "Japan",
+      "fr_FR": "Japon"
     },
     {
       "id": "Country_Text_Jordan",
-      "en_US": "Jordan"
+      "en_US": "Jordan",
+      "fr_FR": "Jordanie"
     },
     {
       "id": "Country_Text_Kashmir",
-      "en_US": "Kashmir"
+      "en_US": "Kashmir",
+      "fr_FR": "Cachemire"
     },
     {
       "id": "Country_Text_Kazakhstan",
-      "en_US": "Kazakhstan"
+      "en_US": "Kazakhstan",
+      "fr_FR": "Kazakhstan"
     },
     {
       "id": "Country_Text_Kenya",
-      "en_US": "Kenya"
+      "en_US": "Kenya",
+      "fr_FR": "Kenya"
     },
     {
       "id": "Country_Text_Kiribati",
-      "en_US": "Kiribati"
+      "en_US": "Kiribati",
+      "fr_FR": "Kiribati"
     },
     {
       "id": "Country_Text_NorthKorea",
-      "en_US": "D.P. Republic of Korea"
+      "en_US": "D.P. Republic of Korea",
+      "fr_FR": "Corée du Nord"
     },
     {
       "id": "Country_Text_SouthKorea",
-      "en_US": "Republic of Korea"
+      "en_US": "Republic of Korea",
+      "fr_FR": "Corée du Sud"
     },
     {
       "id": "Country_Text_Kuwait",
-      "en_US": "Kuwait"
+      "en_US": "Kuwait",
+      "fr_FR": "Koweït"
     },
     {
       "id": "Country_Text_Kyrgyzstan",
-      "en_US": "Kyrgyzstan"
+      "en_US": "Kyrgyzstan",
+      "fr_FR": "Kirghizistan"
     },
     {
       "id": "Country_Text_Laos",
-      "en_US": "Lao People’s Democratic Republic"
+      "en_US": "Lao People’s Democratic Republic",
+      "fr_FR": "Laos"
     },
     {
       "id": "Country_Text_Latvia",
-      "en_US": "Latvia"
+      "en_US": "Latvia",
+      "fr_FR": "Lettonie"
     },
     {
       "id": "Country_Text_Lebanon",
-      "en_US": "Lebanon"
+      "en_US": "Lebanon",
+      "fr_FR": "Liban"
     },
     {
       "id": "Country_Text_Lesotho",
-      "en_US": "Lesotho"
+      "en_US": "Lesotho",
+      "fr_FR": "Lesotho"
     },
     {
       "id": "Country_Text_Liberia",
-      "en_US": "Liberia"
+      "en_US": "Liberia",
+      "fr_FR": "Libéria"
     },
     {
       "id": "Country_Text_Libya",
-      "en_US": "Libyan Arab Jamahiriya"
+      "en_US": "Libyan Arab Jamahiriya",
+      "fr_FR": "Lybie"
     },
     {
       "id": "Country_Text_Liechtenstein",
-      "en_US": "Liechtenstein"
+      "en_US": "Liechtenstein",
+      "fr_FR": "Liechtenstein"
     },
     {
       "id": "Country_Text_Lithuania",
-      "en_US": "Lithuania"
+      "en_US": "Lithuania",
+      "fr_FR": "Lituanie"
     },
     {
       "id": "Country_Text_Luxembourg",
-      "en_US": "Luxembourg"
+      "en_US": "Luxembourg",
+      "fr_FR": "Luxembourg"
     },
     {
       "id": "Country_Text_Macau",
-      "en_US": "Macau"
+      "en_US": "Macau",
+      "fr_FR": "Macao"
     },
     {
       "id": "Country_Text_MacedoniaFYROM",
-      "en_US": "Macedonia (FYROM)"
+      "en_US": "Macedonia (FYROM)",
+      "fr_FR": "Macédoine (ARYM)"
     },
     {
       "id": "Country_Text_Madagascar",
-      "en_US": "Madagascar"
+      "en_US": "Madagascar",
+      "fr_FR": "Madagascar"
     },
     {
       "id": "Country_Text_Malawi",
-      "en_US": "Malawi"
+      "en_US": "Malawi",
+      "fr_FR": "Malawi"
     },
     {
       "id": "Country_Text_Malaysia",
-      "en_US": "Malaysia"
+      "en_US": "Malaysia",
+      "fr_FR": "Malaisie"
     },
     {
       "id": "Country_Text_Maldives",
-      "en_US": "Maldives"
+      "en_US": "Maldives",
+      "fr_FR": "Maldives"
     },
     {
       "id": "Country_Text_Mali",
-      "en_US": "Mali"
+      "en_US": "Mali",
+      "fr_FR": "Mali"
     },
     {
       "id": "Country_Text_Malta",
-      "en_US": "Malta"
+      "en_US": "Malta",
+      "fr_FR": "Malte"
     },
     {
       "id": "Country_Text_MarshallIslands",
-      "en_US": "Marshall Islands"
+      "en_US": "Marshall Islands",
+      "fr_FR": "Iles Marshall"
     },
     {
       "id": "Country_Text_Martinique",
-      "en_US": "Martinique"
+      "en_US": "Martinique",
+      "fr_FR": "Martinique"
     },
     {
       "id": "Country_Text_Mauritania",
-      "en_US": "Mauritania"
+      "en_US": "Mauritania",
+      "fr_FR": "Mauritanie"
     },
     {
       "id": "Country_Text_Mauritius",
-      "en_US": "Mauritius"
+      "en_US": "Mauritius",
+      "fr_FR": "Maurice"
     },
     {
       "id": "Country_Text_Mayotte",
-      "en_US": "Mayotte"
+      "en_US": "Mayotte",
+      "fr_FR": "Mayotte"
     },
     {
       "id": "Country_Text_Mexico",
-      "en_US": "Mexico"
+      "en_US": "Mexico",
+      "fr_FR": "Mexique"
     },
     {
       "id": "Country_Text_Micronesia",
-      "en_US": "Micronesia"
+      "en_US": "Micronesia",
+      "fr_FR": "Micronésie"
     },
     {
       "id": "Country_Text_Moldova",
-      "en_US": "Republic of Moldova"
+      "en_US": "Republic of Moldova",
+      "fr_FR": "Moldavie"
     },
     {
       "id": "Country_Text_Monaco",
-      "en_US": "Monaco"
+      "en_US": "Monaco",
+      "fr_FR": "Monaco"
     },
     {
       "id": "Country_Text_Mongolia",
-      "en_US": "Mongolia"
+      "en_US": "Mongolia",
+      "fr_FR": "Mongolie"
     },
     {
       "id": "Country_Text_Morocco",
-      "en_US": "Morocco"
+      "en_US": "Morocco",
+      "fr_FR": "Maroc"
     },
     {
       "id": "Country_Text_Mozambique",
-      "en_US": "Mozambique"
+      "en_US": "Mozambique",
+      "fr_FR": "Mozambique"
     },
     {
       "id": "Country_Text_Myanmar",
-      "en_US": "Myanmar"
+      "en_US": "Myanmar",
+      "fr_FR": "Myanmar"
     },
     {
       "id": "Country_Text_Namibia",
-      "en_US": "Namibia"
+      "en_US": "Namibia",
+      "fr_FR": "Namibie"
     },
     {
       "id": "Country_Text_Nauru",
-      "en_US": "Nauru"
+      "en_US": "Nauru",
+      "fr_FR": "Nauru"
     },
     {
       "id": "Country_Text_Nepal",
-      "en_US": "Nepal"
+      "en_US": "Nepal",
+      "fr_FR": "Népal"
     },
     {
       "id": "Country_Text_Netherlands",
-      "en_US": "Netherlands"
+      "en_US": "Netherlands",
+      "fr_FR": "Pays-Bas"
     },
     {
       "id": "Country_Text_NetherlandsAntilles",
-      "en_US": "Netherlands Antilles"
+      "en_US": "Netherlands Antilles",
+      "fr_FR": "Antilles néerlandaises"
     },
     {
       "id": "Country_Text_NewCaledonia",
-      "en_US": "New Caledonia"
+      "en_US": "New Caledonia",
+      "fr_FR": "Nouvelle-Calédonie"
     },
     {
       "id": "Country_Text_NewZealand",
-      "en_US": "New Zealand"
+      "en_US": "New Zealand",
+      "fr_FR": "Nouvelle-Zélande"
     },
     {
       "id": "Country_Text_Nicaragua",
-      "en_US": "Nicaragua"
+      "en_US": "Nicaragua",
+      "fr_FR": "Nicaragua"
     },
     {
       "id": "Country_Text_Niger",
-      "en_US": "Niger"
+      "en_US": "Niger",
+      "fr_FR": "Niger"
     },
     {
       "id": "Country_Text_Nigeria",
-      "en_US": "Nigeria"
+      "en_US": "Nigeria",
+      "fr_FR": "Nigéria"
     },
     {
       "id": "Country_Text_Niue",
-      "en_US": "Niue"
+      "en_US": "Niue",
+      "fr_FR": "Niue"
     },
     {
       "id": "Country_Text_NorfolkIsland",
-      "en_US": "Norfolk Island"
+      "en_US": "Norfolk Island",
+      "fr_FR": "Ile Norfolk"
     },
     {
       "id": "Country_Text_NorthernMarianaIslands",
-      "en_US": "Northern Mariana Islands"
+      "en_US": "Northern Mariana Islands",
+      "fr_FR": "Iles Mariannes du Nord"
     },
     {
       "id": "Country_Text_Norway",
-      "en_US": "Norway"
+      "en_US": "Norway",
+      "fr_FR": "Norvège"
     },
     {
       "id": "Country_Text_Oman",
-      "en_US": "Oman"
+      "en_US": "Oman",
+      "fr_FR": "Oman"
     },
     {
       "id": "Country_Text_Pakistan",
-      "en_US": "Pakistan"
+      "en_US": "Pakistan",
+      "fr_FR": "Pakistan"
     },
     {
       "id": "Country_Text_Palau",
-      "en_US": "Palau"
+      "en_US": "Palau",
+      "fr_FR": "Palaos"
     },
     {
       "id": "Country_Text_Panama",
-      "en_US": "Panama"
+      "en_US": "Panama",
+      "fr_FR": "Panamá"
     },
     {
       "id": "Country_Text_PapuaNewGuinea",
-      "en_US": "Papua New Guinea"
+      "en_US": "Papua New Guinea",
+      "fr_FR": "Papouasie-Nouvelle-Guinée"
     },
     {
       "id": "Country_Text_Paraguay",
-      "en_US": "Paraguay"
+      "en_US": "Paraguay",
+      "fr_FR": "Paraguay"
     },
     {
       "id": "Country_Text_Peru",
-      "en_US": "Peru"
+      "en_US": "Peru",
+      "fr_FR": "Pérou"
     },
     {
       "id": "Country_Text_Philippines",
-      "en_US": "Philippines"
+      "en_US": "Philippines",
+      "fr_FR": "Philippines"
     },
     {
       "id": "Country_Text_PitcairnIslands",
-      "en_US": "Pitcairn Islands"
+      "en_US": "Pitcairn Islands",
+      "fr_FR": "Iles Pitcairn"
     },
     {
       "id": "Country_Text_Poland",
-      "en_US": "Poland"
+      "en_US": "Poland",
+      "fr_FR": "Pologne"
     },
     {
       "id": "Country_Text_Portugal",
-      "en_US": "Portugal"
+      "en_US": "Portugal",
+      "fr_FR": "Portugal"
     },
     {
       "id": "Country_Text_PuertoRico",
-      "en_US": "Puerto Rico"
+      "en_US": "Puerto Rico",
+      "fr_FR": "Porto Rico"
     },
     {
       "id": "Country_Text_Qatar",
-      "en_US": "Qatar"
+      "en_US": "Qatar",
+      "fr_FR": "Qatar"
     },
     {
       "id": "Country_Text_Reunion",
-      "en_US": "Reunion"
+      "en_US": "Reunion",
+      "fr_FR": "Ile de la Réunion"
     },
     {
       "id": "Country_Text_Romania",
-      "en_US": "Romania"
+      "en_US": "Romania",
+      "fr_FR": "Roumanie"
     },
     {
       "id": "Country_Text_Russia",
-      "en_US": "Russian Federation"
+      "en_US": "Russian Federation",
+      "fr_FR": "Russie"
     },
     {
       "id": "Country_Text_Rwanda",
-      "en_US": "Rwanda"
+      "en_US": "Rwanda",
+      "fr_FR": "Rwanda"
     },
     {
       "id": "Country_Text_StHelena",
-      "en_US": "Saint Helena"
+      "en_US": "Saint Helena",
+      "fr_FR": "Sainte-Hélène"
     },
     {
       "id": "Country_Text_StKittsAndNevis",
-      "en_US": "Saint Kitts and Nevis"
+      "en_US": "Saint Kitts and Nevis",
+      "fr_FR": "Saint-Christophe-et-Niévès"
     },
     {
       "id": "Country_Text_StLucia",
-      "en_US": "Saint Lucia"
+      "en_US": "Saint Lucia",
+      "fr_FR": "Sainte-Lucie"
     },
     {
       "id": "Country_Text_StPierreAndMiquelon",
-      "en_US": "Saint-Pierre and Miquelon"
+      "en_US": "Saint-Pierre and Miquelon",
+      "fr_FR": "Saint-Pierre et Miquelon"
     },
     {
       "id": "Country_Text_StVincentAndGrenadines",
-      "en_US": "Saint Vincent and the Grenadines"
+      "en_US": "Saint Vincent and the Grenadines",
+      "fr_FR": "Saint-Vincent et les Grenadines"
     },
     {
       "id": "Country_Text_Samoa",
-      "en_US": "Samoa"
+      "en_US": "Samoa",
+      "fr_FR": "Samoa"
     },
     {
       "id": "Country_Text_SanMarino",
-      "en_US": "San Marino"
+      "en_US": "San Marino",
+      "fr_FR": "Saint-Marin"
     },
     {
       "id": "Country_Text_SaoTomeAndPrincipe",
-      "en_US": "Sao Tome and Principe"
+      "en_US": "Sao Tome and Principe",
+      "fr_FR": "Sao Tomé-et-Principe"
     },
     {
       "id": "Country_Text_SaudiArabia",
-      "en_US": "Saudi Arabia"
+      "en_US": "Saudi Arabia",
+      "fr_FR": "Arabie saoudite"
     },
     {
       "id": "Country_Text_Senegal",
-      "en_US": "Senegal"
+      "en_US": "Senegal",
+      "fr_FR": "Sénégal"
     },
     {
       "id": "Country_Text_SerbiaAndMontenegro",
-      "en_US": "Serbia and Montenegro"
+      "en_US": "Serbia and Montenegro",
+      "fr_FR": "Serbie-et-Monténegro"
     },
     {
       "id": "Country_Text_Seychelles",
-      "en_US": "Seychelles"
+      "en_US": "Seychelles",
+      "fr_FR": "Seychelles"
     },
     {
       "id": "Country_Text_SierraLeone",
-      "en_US": "Sierra Leone"
+      "en_US": "Sierra Leone",
+      "fr_FR": "Sierra Leone"
     },
     {
       "id": "Country_Text_Singapore",
-      "en_US": "Singapore"
+      "en_US": "Singapore",
+      "fr_FR": "Singapour"
     },
     {
       "id": "Country_Text_Slovakia",
-      "en_US": "Slovakia"
+      "en_US": "Slovakia",
+      "fr_FR": "Slovaquie"
     },
     {
       "id": "Country_Text_Slovenia",
-      "en_US": "Slovenia"
+      "en_US": "Slovenia",
+      "fr_FR": "Slovénie"
     },
     {
       "id": "Country_Text_SolomonIslands",
-      "en_US": "Solomon Islands"
+      "en_US": "Solomon Islands",
+      "fr_FR": "Iles Salomon"
     },
     {
       "id": "Country_Text_Somalia",
-      "en_US": "Somalia"
+      "en_US": "Somalia",
+      "fr_FR": "Somalie"
     },
     {
       "id": "Country_Text_SouthAfrica",
-      "en_US": "South Africa"
+      "en_US": "South Africa",
+      "fr_FR": "Afrique du Sud"
     },
     {
       "id": "Country_Text_Spain",
-      "en_US": "Spain"
+      "en_US": "Spain",
+      "fr_FR": "Espagne"
     },
     {
       "id": "Country_Text_SriLanka",
-      "en_US": "Sri Lanka"
+      "en_US": "Sri Lanka",
+      "fr_FR": "Sri Lanka"
     },
     {
       "id": "Country_Text_Sudan",
-      "en_US": "Sudan"
+      "en_US": "Sudan",
+      "fr_FR": "Soudan"
     },
     {
       "id": "Country_Text_Suriname",
-      "en_US": "Suriname"
+      "en_US": "Suriname",
+      "fr_FR": "Suriname"
     },
     {
       "id": "Country_Text_JanMayenIsland",
-      "en_US": "Jan Mayen Island"
+      "en_US": "Jan Mayen Island",
+      "fr_FR": "Ile Jan Mayen"
     },
     {
       "id": "Country_Text_Swaziland",
-      "en_US": "Swaziland"
+      "en_US": "Swaziland",
+      "fr_FR": "Swaziland"
     },
     {
       "id": "Country_Text_Sweden",
-      "en_US": "Sweden"
+      "en_US": "Sweden",
+      "fr_FR": "Suède"
     },
     {
       "id": "Country_Text_Switzerland",
-      "en_US": "Swiss Confederation"
+      "en_US": "Swiss Confederation",
+      "fr_FR": "Suisse"
     },
     {
       "id": "Country_Text_Syria",
-      "en_US": "Syrian Arab Republic"
+      "en_US": "Syrian Arab Republic",
+      "fr_FR": "Syrie"
     },
     {
       "id": "Country_Text_Taiwan",
-      "en_US": "Taiwan"
+      "en_US": "Taiwan",
+      "fr_FR": "Taïwan"
     },
     {
       "id": "Country_Text_Tajikistan",
-      "en_US": "Tajikistan"
+      "en_US": "Tajikistan",
+      "fr_FR": "Tadjikistan"
     },
     {
       "id": "Country_Text_Tanzania",
-      "en_US": "United Republic of Tanzania"
+      "en_US": "United Republic of Tanzania",
+      "fr_FR": "Tanzanie"
     },
     {
       "id": "Country_Text_Thailand",
-      "en_US": "Thailand"
+      "en_US": "Thailand",
+      "fr_FR": "Thaïlande"
     },
     {
       "id": "Country_Text_EastTimor",
-      "en_US": "Democratic Republic of Timor-Leste"
+      "en_US": "Democratic Republic of Timor-Leste",
+      "fr_FR": "Timor oriental"
     },
     {
       "id": "Country_Text_Togo",
-      "en_US": "Togo"
+      "en_US": "Togo",
+      "fr_FR": "Togo"
     },
     {
       "id": "Country_Text_Tokelau",
-      "en_US": "Tokelau"
+      "en_US": "Tokelau",
+      "fr_FR": "Tokelau"
     },
     {
       "id": "Country_Text_Tonga",
-      "en_US": "Tonga"
+      "en_US": "Tonga",
+      "fr_FR": "Tonga"
     },
     {
       "id": "Country_Text_TrinidadAndTobago",
-      "en_US": "Trinidad and Tobago"
+      "en_US": "Trinidad and Tobago",
+      "fr_FR": "Trinité-et-Tobago"
     },
     {
       "id": "Country_Text_Tunisia",
-      "en_US": "Tunisia"
+      "en_US": "Tunisia",
+      "fr_FR": "Tunisie"
     },
     {
       "id": "Country_Text_Turkey",
-      "en_US": "Turkey"
+      "en_US": "Turkey",
+      "fr_FR": "Turquie"
     },
     {
       "id": "Country_Text_Turkmenistan",
-      "en_US": "Turkmenistan"
+      "en_US": "Turkmenistan",
+      "fr_FR": "Turkménistan"
     },
     {
       "id": "Country_Text_TurksAndCaicosIslands",
-      "en_US": "Turks and Caicos Islands"
+      "en_US": "Turks and Caicos Islands",
+      "fr_FR": "Iles Turques et Caïques"
     },
     {
       "id": "Country_Text_Tuvalu",
-      "en_US": "Tuvalu"
+      "en_US": "Tuvalu",
+      "fr_FR": "Tuvalu"
     },
     {
       "id": "Country_Text_Uganda",
-      "en_US": "Uganda"
+      "en_US": "Uganda",
+      "fr_FR": "Ouganda"
     },
     {
       "id": "Country_Text_Ukraine",
-      "en_US": "Ukraine"
+      "en_US": "Ukraine",
+      "fr_FR": "Ukraine"
     },
     {
       "id": "Country_Text_UAE",
-      "en_US": "United Arab Emirates"
+      "en_US": "United Arab Emirates",
+      "fr_FR": "Emirats arabes unis"
     },
     {
       "id": "Country_Text_UK",
-      "en_US": "United Kingdom"
+      "en_US": "United Kingdom",
+      "fr_FR": "Royaume-Uni"
     },
     {
       "id": "Country_Text_USA",
-      "en_US": "United States of America"
+      "en_US": "United States of America",
+      "fr_FR": "Etats-Unis"
     },
     {
       "id": "Country_Text_USVirginIslands",
-      "en_US": "United States Virgin Islands"
+      "en_US": "United States Virgin Islands",
+      "fr_FR": "Iles Vierges américaines"
     },
     {
       "id": "Country_Text_Uruguay",
-      "en_US": "Uruguay"
+      "en_US": "Uruguay",
+      "fr_FR": "Uruguay"
     },
     {
       "id": "Country_Text_Uzbekistan",
-      "en_US": "Uzbekistan"
+      "en_US": "Uzbekistan",
+      "fr_FR": "Ouzbékistan"
     },
     {
       "id": "Country_Text_Vanuatu",
-      "en_US": "Vanuatu"
+      "en_US": "Vanuatu",
+      "fr_FR": "Vanuatu"
     },
     {
       "id": "Country_Text_VaticanCity",
-      "en_US": "Vatican City"
+      "en_US": "Vatican City",
+      "fr_FR": "Vatican"
     },
     {
       "id": "Country_Text_Venezuela",
-      "en_US": "Venezuela"
+      "en_US": "Venezuela",
+      "fr_FR": "Venezuela"
     },
     {
       "id": "Country_Text_Vietnam",
-      "en_US": "Vietnam"
+      "en_US": "Vietnam",
+      "fr_FR": "Viêt Nam"
     },
     {
       "id": "Country_Text_WallisAndFutuna",
-      "en_US": "Wallis and Futuna"
+      "en_US": "Wallis and Futuna",
+      "fr_FR": "Wallis et Futuna"
     },
     {
       "id": "Country_Text_Palestine",
-      "en_US": "Palestine"
+      "en_US": "Palestine",
+      "fr_FR": "Palestine"
     },
     {
       "id": "Country_Text_WesternSahara",
-      "en_US": "Western Sahara"
+      "en_US": "Western Sahara",
+      "fr_FR": "Sahara occidental"
     },
     {
       "id": "Country_Text_Yemen",
-      "en_US": "Yemen"
+      "en_US": "Yemen",
+      "fr_FR": "République du Yémen"
     },
     {
       "id": "Country_Text_Zambia",
-      "en_US": "Zambia"
+      "en_US": "Zambia",
+      "fr_FR": "Zambie"
     },
     {
       "id": "Country_Text_Zimbabwe",
-      "en_US": "Zimbabwe"
+      "en_US": "Zimbabwe",
+      "fr_FR": "Zimbabwe"
     }
   ]
 }

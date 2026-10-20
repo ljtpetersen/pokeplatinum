@@ -26,5 +26,13 @@
   "battlePocket": "BATTLE_POCKET_MASK_NONE",
   "fieldUseFunc": "ITEM_USE_FUNC_AZURE_FLUTE",
   "battleUseCategory": "BATTLE_USE_CATEGORY_NONE",
-  "itemUseParams": null
+  "itemUseParams": null,
+  "name_fr": "Flûte Azur",
+  "description_fr": [
+    "Flûte produisant des sons qui semblent\n",
+    "provenir d’un autre monde. On ne sait\n",
+    "pas qui l’a fabriquée."
+  ],
+  "plural_fr": "Flûte Azur",
+  "article_fr": null
 }

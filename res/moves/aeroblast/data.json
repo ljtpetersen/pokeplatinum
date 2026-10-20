@@ -27,5 +27,13 @@
     "contest": {
         "effect": "CONTEST_EFFECT_MAX_VOLTAGE_ADVANTAGE",
         "type": "CONTEST_TYPE_COOL"
-    }
+    },
+    "name_fr": "Aéroblast",
+    "description_fr": [
+        "Le lanceur projette\n",
+        "une tornade sur\n",
+        "l’ennemi pour infliger\n",
+        "des dégâts. Taux de\n",
+        "critiques élevé."
+    ]
 }

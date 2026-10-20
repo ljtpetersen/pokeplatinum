@@ -23,6 +23,11 @@
             "en_US": [
                 "You’re a Pokémon Trainer, and so am I!\n",
                 "Our eyes met, so battle we must!\r"
+            ],
+            "fr_FR": [
+                "Tu es un Dresseur, et moi aussi!\n",
+                "Nos regards se sont croisés, nous\f",
+                "devons combattre, maintenant!\r"
             ]
         },
         {
@@ -30,6 +35,10 @@
             "en_US": [
                 "Too strong!\n",
                 "Too strong!"
+            ],
+            "fr_FR": [
+                "Je ne fais pas le poids!\n",
+                "Je ne fais pas le poids!"
             ]
         },
         {
@@ -39,6 +48,12 @@
                 "Trainers you’d like to battle.\r",
                 "Pokémon grow stronger and stronger\n",
                 "from battling."
+            ],
+            "fr_FR": [
+                "N’aie pas peur de parler aux Dresseurs \n",
+                "que tu voudrais affronter.\r",
+                "Les Pokémon deviennent \n",
+                "plus forts à chaque combat."
             ]
         },
         {
@@ -46,7 +61,13 @@
             "en_US": [
                 "Did you get better since we met?\n",
                 "I... Well, here, just look!\r"
+            ],
+            "fr_FR": [
+                "Est-ce que ton niveau s’est amélioré \n",
+                "depuis notre dernière rencontre?\r",
+                "Moi... eh bien... vois par toi-même! \r"
             ]
         }
-    ]
+    ],
+    "name_fr": "Rachid"
 }

@@ -28,5 +28,12 @@
   "battleUseCategory": "BATTLE_USE_CATEGORY_HEALING",
   "itemUseParams": {
     "healBurn": true
-  }
+  },
+  "name_fr": "Anti-Brûle",
+  "description_fr": [
+    "Un médicament sous forme de spray.\n",
+    "Soigne les brûlures d’un Pokémon."
+  ],
+  "plural_fr": "Anti-Brûle",
+  "article_fr": null
 }

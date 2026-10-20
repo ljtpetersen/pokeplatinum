@@ -32,11 +32,16 @@
             "en_US": [
                 "Well? Does it look like I’m swimming\n",
                 "gracefully?\r"
+            ],
+            "fr_FR": [
+                "Alors? Est-ce que j’ai l’air\n",
+                "gracieux quand je nage?\r"
             ]
         },
         {
             "type": "TRMSG_DEFEAT",
-            "en_US": "I’m finally feeling fatigued...\n"
+            "en_US": "I’m finally feeling fatigued...\n",
+            "fr_FR": "La fatigue commence à se faire sentir...\n"
         },
         {
             "type": "TRMSG_POST_BATTLE",
@@ -44,6 +49,11 @@
                 "I may look like I’m swimming\n",
                 "gracefully, but beneath the surface\f",
                 "I’m kicking furiously.\n"
+            ],
+            "fr_FR": [
+                "J’ai l’air de nager gracieusement,\n",
+                "comme ça, mais en fait, sous l’eau,\f",
+                "je bats des pieds comme un fou.\n"
             ]
         },
         {
@@ -51,7 +61,12 @@
             "en_US": [
                 "You were attracted by my graceful\n",
                 "swimming again, weren’t you?\r"
+            ],
+            "fr_FR": [
+                "Allez, avoue, ma nage gracile\n",
+                "t’impressionne?\r"
             ]
         }
-    ]
+    ],
+    "name_fr": "Vince"
 }

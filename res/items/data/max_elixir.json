@@ -29,5 +29,12 @@
   "itemUseParams": {
     "restorePPAllMoves": true,
     "ppRestored": -1
-  }
+  },
+  "name_fr": "Max Elixir",
+  "description_fr": [
+    "Restaure tous les PP de toutes\n",
+    "les capacités d’un Pokémon."
+  ],
+  "plural_fr": "Max Elixir",
+  "article_fr": null
 }

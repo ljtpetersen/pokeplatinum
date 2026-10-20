@@ -6,28 +6,39 @@
       "en_US": [
         "Welcome!\n",
         "How may I serve you?"
+      ],
+      "fr_FR": [
+        "Bienvenue!\n",
+        "En quoi puis-je vous aider?"
       ]
     },
     {
       "id": "pl_msg_00000543_00001",
-      "en_US": "Please come again!"
+      "en_US": "Please come again!",
+      "fr_FR": "Nous espérons vous revoir bientôt!"
     },
     {
       "id": "pl_msg_00000543_00002",
       "en_US": [
         "Is there anything else I may do\n",
         "for you?"
-      ]
+      ],
+      "fr_FR": "Souhaitez-vous autre chose?"
     },
     {
       "id": "pl_msg_00000543_00003",
-      "en_US": "You don’t have enough money."
+      "en_US": "You don’t have enough money.",
+      "fr_FR": "Vous n’avez pas assez d’argent."
     },
     {
       "id": "pl_msg_00000543_00004",
       "en_US": [
         "{STRVAR_1 8, 0, 0}? Certainly.\n",
         "How many would you like?"
+      ],
+      "fr_FR": [
+        "{STRVAR_1 8, 0, 0}? Bien sûr.\n",
+        "Combien en voulez-vous?"
       ]
     },
     {
@@ -35,6 +46,10 @@
       "en_US": [
         "{STRVAR_1 8, 0, 0}, and you want {STRVAR_1 51, 1, 0}.\n",
         "That will be ${STRVAR_1 55, 2, 0}. OK?"
+      ],
+      "fr_FR": [
+        "{STRVAR_1 8, 0, 0}, et vous en voulez {STRVAR_1 51, 1, 0}.\n",
+        "Ça fait {STRVAR_1 55, 2, 0} $. OK?"
       ]
     },
     {
@@ -44,6 +59,12 @@
         "Thank you!\r",
         "You put away the {STRVAR_1 8, 0, 0}\n",
         "in the {STRVAR_1 27, 1, 0} Pocket."
+      ],
+      "fr_FR": [
+        "Voilà!\n",
+        "Merci beaucoup!\r",
+        "Vous placez votre achat\n",
+        "dans la Poche {STRVAR_1 27, 1, 0}."
       ]
     },
     {
@@ -51,21 +72,28 @@
       "en_US": [
         "You have no more room for this\n",
         "item."
-      ]
+      ],
+      "fr_FR": "Vous n’avez plus de place pour cela."
     },
     {
       "id": "pl_msg_00000543_00008",
-      "en_US": "CANCEL"
+      "en_US": "CANCEL",
+      "fr_FR": "RETOUR"
     },
     {
       "id": "pl_msg_00000543_00009",
-      "en_US": "${STRVAR_1 53, 0, 0}"
+      "en_US": "${STRVAR_1 53, 0, 0}",
+      "fr_FR": "{STRVAR_1 53, 0, 0} $"
     },
     {
       "id": "pl_msg_00000543_00010",
       "en_US": [
         "You also get a Premier Ball as\n",
         "an added bonus."
+      ],
+      "fr_FR": [
+        "Vous obtenez une Honor Ball en\n",
+        "cadeau."
       ]
     },
     {
@@ -73,6 +101,10 @@
       "en_US": [
         "Thank you! We’ll send\n",
         "the {STRVAR_1 10, 0, 0} to your PC."
+      ],
+      "fr_FR": [
+        "Merci beaucoup! Nous transférons\n",
+        "votre achat sur votre PC."
       ]
     },
     {
@@ -80,6 +112,10 @@
       "en_US": [
         "Your PC is full.\n",
         "You have no more room for goods."
+      ],
+      "fr_FR": [
+        "Votre PC est plein.\n",
+        "Vous n’avez plus de place."
       ]
     },
     {
@@ -87,6 +123,10 @@
       "en_US": [
         "You placed the {STRVAR_1 10, 0, 0}\n",
         "in the Seal Case."
+      ],
+      "fr_FR": [
+        "Vous placez votre achat\n",
+        "dans la Boîte Sceaux."
       ]
     },
     {
@@ -94,53 +134,71 @@
       "en_US": [
         "The Seal Case is full.\n",
         "You have no more room for Seals."
+      ],
+      "fr_FR": [
+        "La Boîte Sceaux est pleine.\n",
+        "Vous n’avez plus de place."
       ]
     },
     {
       "id": "pl_msg_00000543_00015",
-      "en_US": "BUY"
+      "en_US": "BUY",
+      "fr_FR": "ACHETER"
     },
     {
       "id": "pl_msg_00000543_00016",
-      "en_US": "SELL"
+      "en_US": "SELL",
+      "fr_FR": "VENDRE"
     },
     {
       "id": "pl_msg_00000543_00017",
-      "en_US": "SEE YA!"
+      "en_US": "SEE YA!",
+      "fr_FR": "QUITTER"
     },
     {
       "id": "pl_msg_00000543_00018",
-      "en_US": "Money"
+      "en_US": "Money",
+      "fr_FR": "Argent"
     },
     {
       "id": "pl_msg_00000543_00019",
-      "en_US": "${STRVAR_1 55, 0, 0}"
+      "en_US": "${STRVAR_1 55, 0, 0}",
+      "fr_FR": "{STRVAR_1 55, 0, 0} $"
     },
     {
       "id": "pl_msg_00000543_00020",
-      "en_US": "In Bag: {STRVAR_1 52, 0, 0}"
+      "en_US": "In Bag: {STRVAR_1 52, 0, 0}",
+      "fr_FR": "Sac: {STRVAR_1 52, 0, 0}"
     },
     {
       "id": "pl_msg_00000543_00021",
-      "en_US": "x{STRVAR_1 51, 0, 0}"
+      "en_US": "x{STRVAR_1 51, 0, 0}",
+      "fr_FR": "x{STRVAR_1 51, 0, 0}"
     },
     {
       "id": "pl_msg_00000543_00022",
-      "en_US": "${STRVAR_1 55, 0, 0}"
+      "en_US": "${STRVAR_1 55, 0, 0}",
+      "fr_FR": "{STRVAR_1 55, 0, 0} $"
     },
     {
       "id": "pl_msg_00000543_00023",
-      "en_US": "YES"
+      "en_US": "YES",
+      "fr_FR": "OUI"
     },
     {
       "id": "pl_msg_00000543_00024",
-      "en_US": "NO"
+      "en_US": "NO",
+      "fr_FR": "NON"
     },
     {
       "id": "pl_msg_00000543_00025",
       "en_US": [
         "Welcome! Are you shopping for\n",
         "Technical Machines?"
+      ],
+      "fr_FR": [
+        "Bienvenue! Vous recherchez des\n",
+        "Capsules Techniques?"
       ]
     },
     {
@@ -152,6 +210,10 @@
       "en_US": [
         "{STRVAR_1 8, 0, 0} {STRVAR_1 6, 3, 0} will\n",
         "be ${STRVAR_1 55, 2, 0} for {STRVAR_1 51, 1, 0}. Is that OK?"
+      ],
+      "fr_FR": [
+        "{STRVAR_1 8, 0, 0} {STRVAR_1 6, 3, 0}? {STRVAR_1 51, 1, 0}\n",
+        "pour {STRVAR_1 55, 2, 0} $. Vous êtes d’accord?"
       ]
     },
     {
@@ -161,43 +223,65 @@
         "This is the Point Exchange Corner.\r",
         "Would you like to exchange your BP\n",
         "for prizes?"
+      ],
+      "fr_FR": [
+        "Bienvenue! Vous êtes au\n",
+        "Service d’Echange!\r",
+        "Voulez-vous échanger vos Points\n",
+        "de Combat contre des prix?"
       ]
     },
     {
       "id": "pl_msg_00000543_00029",
-      "en_US": "YES"
+      "en_US": "YES",
+      "fr_FR": "OUI"
     },
     {
       "id": "pl_msg_00000543_00030",
-      "en_US": "NO"
+      "en_US": "NO",
+      "fr_FR": "NON"
     },
     {
       "id": "pl_msg_00000543_00031",
       "en_US": [
         "Please save some BP and come see us\n",
         "again."
+      ],
+      "fr_FR": [
+        "Revenez nous voir quand vous\n",
+        "le souhaitez!"
       ]
     },
     {
       "id": "pl_msg_00000543_00032",
-      "en_US": "{STRVAR_1 51, 0, 0} BP"
+      "en_US": "{STRVAR_1 51, 0, 0} BP",
+      "fr_FR": "{STRVAR_1 51, 0, 0} PCo"
     },
     {
       "id": "pl_msg_00000543_00033",
       "en_US": [
         "{STRVAR_1 8, 0, 0}? OK.\n",
         "How many would you like?"
+      ],
+      "fr_FR": [
+        "{STRVAR_1 8, 0, 0}? Bien sûr.\n",
+        "Combien en voulez-vous?"
       ]
     },
     {
       "id": "pl_msg_00000543_00034",
-      "en_US": "{STRVAR_1 53, 0, 0} BP"
+      "en_US": "{STRVAR_1 53, 0, 0} BP",
+      "fr_FR": "{STRVAR_1 53, 0, 0} PCo"
     },
     {
       "id": "pl_msg_00000543_00035",
       "en_US": [
         "{STRVAR_1 8, 0, 0} will be {STRVAR_1 53, 2, 0} BP\n",
         "for {STRVAR_1 51, 1, 0}. Is that OK?"
+      ],
+      "fr_FR": [
+        "{STRVAR_1 8, 0, 0}, et vous en voulez {STRVAR_1 51, 1, 0}.\n",
+        "Ça fera {STRVAR_1 53, 2, 0} PCo. OK?"
       ]
     },
     {
@@ -205,6 +289,10 @@
       "en_US": [
         "{STRVAR_1 8, 0, 0} {STRVAR_1 6, 3, 0} will be\n",
         "{STRVAR_1 53, 2, 0} BP for {STRVAR_1 51, 1, 0}. Is that OK?"
+      ],
+      "fr_FR": [
+        "{STRVAR_1 8, 0, 0} {STRVAR_1 6, 3, 0}? {STRVAR_1 51, 1, 0}\n",
+        "pour {STRVAR_1 53, 2, 0} PCo. Vous êtes d’accord?"
       ]
     },
     {
@@ -212,11 +300,16 @@
       "en_US": [
         "I’m sorry.\n",
         "You don’t have enough BP."
+      ],
+      "fr_FR": [
+        "Je suis désolée, mais vous n’avez\n",
+        "pas assez de PCo."
       ]
     },
     {
       "id": "pl_msg_00000543_00038",
-      "en_US": "{STRVAR_1 53, 0, 0} BP"
+      "en_US": "{STRVAR_1 53, 0, 0} BP",
+      "fr_FR": "{STRVAR_1 53, 0, 0} PCo"
     }
   ]
 }

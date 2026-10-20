@@ -26,6 +26,12 @@
                 "I ate some wild mushrooms...\r",
                 "They gave me gas, and now I can’t\n",
                 "stop burping! Bluurrf!\r"
+            ],
+            "fr_FR": [
+                "Quand je me promène, j’ai faim, alors\n",
+                "je mange des champignons sauvages...\r",
+                "Ils me donnent des gaz et à présent, je\n",
+                "ne peux plus arrêter de roter! Burp!\r"
             ]
         },
         {
@@ -33,6 +39,10 @@
             "en_US": [
                 "Bleff! Hurk!\n",
                 "I think...I’m getting better...\n"
+            ],
+            "fr_FR": [
+                "Beuh! Heurk!\n",
+                "Je crois... que je me sens mieux...\n"
             ]
         },
         {
@@ -42,7 +52,14 @@
                 "mushrooms growing on its back.\r",
                 "Not around here, somewhere far away.\n",
                 "I wonder if they taste any good?"
+            ],
+            "fr_FR": [
+                "On dit qu’il y a un Pokémon qui a des\n",
+                "champignons sur le dos.\r",
+                "Pas par ici, quelque part ailleurs.\n",
+                "Je me demande s’ils ont bon goût..."
             ]
         }
-    ]
+    ],
+    "name_fr": "Jérome"
 }

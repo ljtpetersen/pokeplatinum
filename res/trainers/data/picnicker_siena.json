@@ -34,6 +34,10 @@
             "en_US": [
                 "What kinds of Pokémon live around\n",
                 "here, I wonder?\r"
+            ],
+            "fr_FR": [
+                "Je me demande quels Pokémon \n",
+                "vivent dans cette région.\r"
             ]
         },
         {
@@ -41,6 +45,10 @@
             "en_US": [
                 "I’m shocked!\n",
                 "How did I lose?\n"
+            ],
+            "fr_FR": [
+                "Comment ai-je pu perdre? \n",
+                "Je suis sous le choc!\n"
             ]
         },
         {
@@ -50,6 +58,13 @@
                 "Pokémon!\r",
                 "Let’s see... There are males and\n",
                 "females, and some aren’t either!\n"
+            ],
+            "fr_FR": [
+                "Je sais plein de choses sur les\n",
+                "Pokémon!\r",
+                "Par exemple, il y a des Pokémon mâles,\n",
+                "des femelles et d’autres qui ne sont\f",
+                "ni l’un ni l’autre!\n"
             ]
         },
         {
@@ -57,7 +72,12 @@
             "en_US": [
                 "Oh, hi! We meet again!\n",
                 "Have you seen any rare Pokémon?\r"
+            ],
+            "fr_FR": [
+                "Oh, bonjour! Est-ce que tu as vu \n",
+                "des Pokémon rares?\r"
             ]
         }
-    ]
+    ],
+    "name_fr": "Anastacia"
 }

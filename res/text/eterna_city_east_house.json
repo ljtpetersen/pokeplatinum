@@ -10,6 +10,13 @@
         "what is important has not.\r",
         "I hope it remains that way forever\n",
         "more..."
+      ],
+      "fr_FR": [
+        "Vestigion fut bâtie il y a longtemps\n",
+        "en l’honneur des anciens Pokémon.\r",
+        "Le temps passe, le monde tourne et\n",
+        "tout change, sauf le plus important.\r",
+        "J’espère qu’il en sera toujours ainsi..."
       ]
     },
     {
@@ -18,6 +25,11 @@
         "Have you seen the Pokémon statue?\r",
         "When I was a wee child, it used to be\n",
         "the centerpiece of many festivals..."
+      ],
+      "fr_FR": [
+        "As-tu vu la statue de Pokémon?\r",
+        "Quand j’étais petite, c’était la pièce\n",
+        "centrale de nombreux festivals..."
       ]
     },
     {
@@ -30,6 +42,16 @@
         "Now no one can read the inscription!\n",
         "Why would someone do that?\f",
         "Actually, want to know what it said?"
+      ],
+      "fr_FR": [
+        "Bigre!\n",
+        "Mais où va-t-on?!\r",
+        "La plaque descriptive de la statue\n",
+        "de Pokémon a été arrachée!\r",
+        "Maintenant, plus personne ne peut lire\n",
+        "les inscriptions!\r",
+        "Qui a bien pu faire ça? Au fait, tu veux\n",
+        "savoir ce qu’elles disaient?"
       ]
     },
     {
@@ -46,6 +68,20 @@
         "Yikes...\n",
         "I’ve forgotten big chunks of it.\r",
         "Want to hear about the other\n",
+        "inscription?"
+      ],
+      "fr_FR": [
+        "Grosso modo, la première inscription\n",
+        "disait ceci:\r",
+        "“... création de DIA...\n",
+        "... maître du temps...\r",
+        "Dans le rire, il y a les larmes...\n",
+        "Et, pareillement...\r",
+        "Le même temps s’écoule...\n",
+        "... la bénédiction de DIA...”\r",
+        "Oups...\n",
+        "Je ne me rappelle pas tout.\r",
+        "Tu veux savoir ce que disait l’autre\n",
         "inscription?"
       ]
     },
@@ -68,6 +104,24 @@
         "control time and space?\r",
         "There couldn’t possibly be a Pokémon\n",
         "that mighty."
+      ],
+      "fr_FR": [
+        "La deuxième inscription disait à peu\n",
+        "près ceci:\r",
+        "“... naissance de PAL...\n",
+        "... créateur des mondes parallèles...\r",
+        "Vivant et non-vivant...\n",
+        "... gouffres dans l’espace...\r",
+        "Arriver dans le même uni...\n",
+        "... la bénédiction de PAL...”\r",
+        "J’ai entendu dire qu’il y avait eu une\n",
+        "troisième inscription.\r",
+        "Mais j’en doute.\n",
+        "C’est vrai, quoi, réfléchis.\r",
+        "Un troisième Pokémon en plus de ceux\n",
+        "qui contrôlent le temps et l’espace?\r",
+        "Un Pokémon aussi puissant, moi je n’y\n",
+        "crois pas."
       ]
     },
     {
@@ -75,6 +129,10 @@
       "en_US": [
         "Well, if you’re not interested, don’t\n",
         "feel obligated or anything."
+      ],
+      "fr_FR": [
+        "Tu sais, si ça ne t’intéresse pas, ce\n",
+        "n’est pas moi qui vais te forcer."
       ]
     }
   ]

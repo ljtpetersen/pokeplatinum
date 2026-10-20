@@ -32,11 +32,20 @@
             "en_US": [
                 "I knew you were headed back here.\n",
                 "I felt it with the soles of my feet!\r"
+            ],
+            "fr_FR": [
+                "Je savais que tu venais par ici.\n",
+                "Je l’ai senti sous mes pieds!\r"
             ]
         },
         {
             "type": "TRMSG_DEFEAT",
-            "en_US": "I got a good taste of your power!\n"
+            "en_US": "I got a good taste of your power!\n",
+            "fr_FR": [
+                "Tu m’as fait une belle démonstration de\n",
+                "tes talents!\n"
+            ]
         }
-    ]
+    ],
+    "name_fr": "Natan"
 }

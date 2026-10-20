@@ -19,6 +19,11 @@
         "Welcome to the Contest Hall.\r",
         "I can help you with registering\n",
         "for a Super Contest.\r"
+      ],
+      "fr_FR": [
+        "Bienvenue à la Salle de Concours.\r",
+        "Nous prenons les inscriptions\n",
+        "pour les Super Concours.\r"
       ]
     },
     {
@@ -26,11 +31,16 @@
       "en_US": [
         "Would you like to enter a Pokémon\n",
         "in a Contest?"
+      ],
+      "fr_FR": [
+        "Voulez-vous inscrire un Pokémon\n",
+        "à un Concours?"
       ]
     },
     {
       "id": "ContestCommon_Text_WhatWouldYouLikeToKnow1",
-      "en_US": "What would you like to know about?"
+      "en_US": "What would you like to know about?",
+      "fr_FR": "Que souhaitez-vous savoir?"
     },
     {
       "id": "ContestCommon_Text_Dummy6",
@@ -45,25 +55,40 @@
         "You may join a group of friends to\n",
         "enter your Pokémon in the same\f",
         "Super Contest over a link.\r"
+      ],
+      "fr_FR": [
+        "Bienvenue à la Salle de Concours!\r",
+        "Vous êtes à la réception des Super\n",
+        "Concours Link.\r",
+        "Vous pouvez vous joindre à des amis\n",
+        "pour inscrire vos Pokémon dans le même\f",
+        "Super Concours Link.\r"
       ]
     },
     {
       "id": "ContestCommon_Text_ContestEnter",
-      "en_US": "ENTER"
+      "en_US": "ENTER",
+      "fr_FR": "INSCRIRE"
     },
     {
       "id": "ContestCommon_Text_ContestInfo",
-      "en_US": "INFO"
+      "en_US": "INFO",
+      "fr_FR": "INFOS"
     },
     {
       "id": "ContestCommon_Text_ContestExit",
-      "en_US": "EXIT"
+      "en_US": "EXIT",
+      "fr_FR": "QUITTER"
     },
     {
       "id": "ContestCommon_Text_LookForwardToParticipation",
       "en_US": [
         "We look forward to your participation\n",
         "another time!"
+      ],
+      "fr_FR": [
+        "Nous espérons vous compter parmi nos\n",
+        "participants une prochaine fois!"
       ]
     },
     {
@@ -71,6 +96,10 @@
       "en_US": [
         "Would you like to\n",
         "enter a link Contest?"
+      ],
+      "fr_FR": [
+        "Voulez-vous participer à un\n",
+        "Concours Link?"
       ]
     },
     {
@@ -88,6 +117,20 @@
         "After that, the Contest starts in\n",
         "the usual way.\r",
         "We hope you’ll try it out.\r"
+      ],
+      "fr_FR": [
+        "La communication sans fil permet à\n",
+        "deux à quatre joueurs de s’affronter.\r",
+        "D’abord, choisissez le Concours auquel\n",
+        "vous voulez participer.\r",
+        "Puis, assurez-vous que vos amis\n",
+        "choisissent le même Concours que vous.\r",
+        "Ensuite, chaque joueur choisit le\n",
+        "Pokémon qui participera au Concours,\f",
+        "et l’inscription est terminée!\r",
+        "Après cela, le Concours commence\n",
+        "comme d’habitude.\r",
+        "Nous espérons que vous essaierez.\r"
       ]
     },
     {
@@ -107,6 +150,22 @@
         "sessions before entering a Contest.\r",
         "The registration counter for practice\n",
         "sessions is at the far right.\r"
+      ],
+      "fr_FR": [
+        "Un Super Concours Pokémon implique\n",
+        "quatre Dresseurs.\r",
+        "Chacun inscrit un Pokémon qui\n",
+        "affrontera les autres.\r",
+        "Le jugement se fait selon trois\n",
+        "épreuves: Style, Danse et Comédie.\r",
+        "Le Pokémon avec le meilleur score dans\n",
+        "les trois épreuves gagne.\r",
+        "Si c’est votre premier Concours, nous\n",
+        "vous recommandons de vous entraîner\f",
+        "avant de vous inscrire.\r",
+        "La réception des séances\n",
+        "d’entraînement se trouve tout au\f",
+        "bout à droite.\r"
       ]
     },
     {
@@ -118,6 +177,13 @@
         "the audience.\r",
         "For details, please inquire at the\n",
         "practice counter on the right.\r"
+      ],
+      "fr_FR": [
+        "Pendant l’Epreuve de Style, les\n",
+        "Pokémon sont notés sur leur apparence.\r",
+        "La note est basée sur le vote du public.\r",
+        "Pour plus de détails, veuillez vous\n",
+        "renseigner au guichet de droite.\r"
       ]
     },
     {
@@ -129,6 +195,14 @@
         "performances with everyone!\r",
         "For details, please inquire at the\n",
         "practice counter on the right.\r"
+      ],
+      "fr_FR": [
+        "Pendant l’Epreuve de Danse, les\n",
+        "Pokémon montrent leur jeu de jambes.\r",
+        "Essayez de danser en rythme avec\n",
+        "tout le monde!\r",
+        "Pour plus de détails, veuillez vous\n",
+        "informer au guichet de droite.\r"
       ]
     },
     {
@@ -142,6 +216,16 @@
         "rest of the pack!\r",
         "For details, please inquire at the\n",
         "practice counter on the right.\r"
+      ],
+      "fr_FR": [
+        "Pendant l’Epreuve de Comédie, les\n",
+        "Pokémon sont jugés pour les capacités\f",
+        "exécutées devant les Juges.\r",
+        "Essayez de faire faire à votre Pokémon\n",
+        "des performances qui se distinguent de\f",
+        "celles du reste de la bande!\r",
+        "Pour plus de détails, veuillez vous\n",
+        "informer au guichet de droite.\r"
       ]
     },
     {
@@ -152,6 +236,14 @@
         "Be sure to choose the Contest that\n",
         "best suits the Pokémon you want to\f",
         "enter with.\r"
+      ],
+      "fr_FR": [
+        "Il y a cinq Concours en tout:\n",
+        "Sang-froid, Beauté, Grâce, Intelligence\f",
+        "et Robustesse.\r",
+        "Choisissez le Concours qui correspond\n",
+        "le mieux au Pokémon que vous\f",
+        "souhaitez inscrire.\r"
       ]
     },
     {
@@ -173,6 +265,25 @@
         "A Master Rank winner may enter\n",
         "Master Rank Contests as often as\f",
         "the Trainer wishes.\r"
+      ],
+      "fr_FR": [
+        "Il y a quatre catégories différentes de\n",
+        "Super Concours Pokémon.\r",
+        "Ces quatre catégories sont: Normal,\n",
+        "Méga, Ultra et Master.\r",
+        "La catégorie Normal est ouverte\n",
+        "à tous les Pokémon.\r",
+        "Un Pokémon gagnant le Concours\n",
+        "catégorie Normal peut tenter la\f",
+        "catégorie Méga du même Concours.\r",
+        "De même, gagner la catégorie Méga\n",
+        "permet de participer à la catégorie\f",
+        "Ultra.\r",
+        "Gagner la catégorie Ultra permet de\n",
+        "participer au Concours Master.\r",
+        "Un gagnant catégorie Master peut\n",
+        "participer à des Concours Master\f",
+        "aussi souvent qu’il le souhaite.\r"
       ]
     },
     {
@@ -180,6 +291,10 @@
       "en_US": [
         "Which Pokémon would you like to\n",
         "enter?\r"
+      ],
+      "fr_FR": [
+        "Quel Pokémon souhaitez-vous\n",
+        "inscrire?\r"
       ]
     },
     {
@@ -187,6 +302,10 @@
       "en_US": [
         "Please choose\n",
         "a Pokémon.\r"
+      ],
+      "fr_FR": [
+        "Veuillez choisir un\n",
+        "Pokémon.\r"
       ]
     },
     {
@@ -195,6 +314,10 @@
         "OK! Your Pokémon has been accepted\n",
         "for entry!\r",
         "Your entry number is {STRVAR_1 50, 0, 0}!\r"
+      ],
+      "fr_FR": [
+        "OK! Votre Pokémon a été inscrit!\r",
+        "Votre numéro d’inscription est le {STRVAR_1 50, 0, 0}!\r"
       ]
     },
     {
@@ -202,25 +325,36 @@
       "en_US": [
         "We look forward to your participation\n",
         "another time!"
+      ],
+      "fr_FR": [
+        "Nous espérons vous compter parmi nos\n",
+        "participants une prochaine fois!"
       ]
     },
     {
       "id": "ContestCommon_Text_00024",
-      "en_US": "ENTER"
+      "en_US": "ENTER",
+      "fr_FR": "INSCRIRE"
     },
     {
       "id": "ContestCommon_Text_00025",
-      "en_US": "INFO"
+      "en_US": "INFO",
+      "fr_FR": "INFOS"
     },
     {
       "id": "ContestCommon_Text_00026",
-      "en_US": "EXIT"
+      "en_US": "EXIT",
+      "fr_FR": "QUITTER"
     },
     {
       "id": "ContestCommon_Text_SelectRank",
       "en_US": [
         "Which rank would you like to\n",
         "challenge?"
+      ],
+      "fr_FR": [
+        "A quelle catégorie souhaitez-vous vous\n",
+        "inscrire?"
       ]
     },
     {
@@ -228,99 +362,126 @@
       "en_US": [
         "Which Contest would you like to\n",
         "challenge?"
+      ],
+      "fr_FR": [
+        "A quel Concours souhaitez-vous vous\n",
+        "inscrire?"
       ]
     },
     {
       "id": "ContestCommon_Text_00029",
-      "en_US": "Would you like to cancel your entry?"
+      "en_US": "Would you like to cancel your entry?",
+      "fr_FR": "Voulez-vous annuler votre inscription?"
     },
     {
       "id": "ContestCommon_Text_00030",
-      "en_US": "YES"
+      "en_US": "YES",
+      "fr_FR": "OUI"
     },
     {
       "id": "ContestCommon_Text_00031",
-      "en_US": "NO"
+      "en_US": "NO",
+      "fr_FR": "NON"
     },
     {
       "id": "ContestCommon_Text_00032",
-      "en_US": "CONTEST BASICS"
+      "en_US": "CONTEST BASICS",
+      "fr_FR": "INFOS CONCOURS"
     },
     {
       "id": "ContestCommon_Text_00033",
-      "en_US": "TYPES OF CONTESTS"
+      "en_US": "TYPES OF CONTESTS",
+      "fr_FR": "TYPES DE CONCOURS"
     },
     {
       "id": "ContestCommon_Text_00034",
-      "en_US": "CONTEST RANKS"
+      "en_US": "CONTEST RANKS",
+      "fr_FR": "CATEGORIES"
     },
     {
       "id": "ContestCommon_Text_00035",
-      "en_US": "CANCEL"
+      "en_US": "CANCEL",
+      "fr_FR": "RETOUR"
     },
     {
       "id": "ContestCommon_Text_WhatsAContest",
-      "en_US": "WHAT’S A CONTEST?"
+      "en_US": "WHAT’S A CONTEST?",
+      "fr_FR": "LES CONCOURS"
     },
     {
       "id": "ContestCommon_Text_VisualCompetition",
-      "en_US": "VISUAL COMPETITION"
+      "en_US": "VISUAL COMPETITION",
+      "fr_FR": "EPREUVE DE STYLE"
     },
     {
       "id": "ContestCommon_Text_DanceCompetition",
-      "en_US": "DANCE COMPETITION"
+      "en_US": "DANCE COMPETITION",
+      "fr_FR": "EPREUVE DE DANSE"
     },
     {
       "id": "ContestCommon_Text_ActingCompetition",
-      "en_US": "ACTING COMPETITION"
+      "en_US": "ACTING COMPETITION",
+      "fr_FR": "EPREUVE DE COMEDIE"
     },
     {
       "id": "ContestCommon_Text_CancelCompetition",
-      "en_US": "CANCEL"
+      "en_US": "CANCEL",
+      "fr_FR": "RETOUR"
     },
     {
       "id": "ContestCommon_Text_00041",
-      "en_US": "NORMAL RANK"
+      "en_US": "NORMAL RANK",
+      "fr_FR": "CATEGORIE NORMAL"
     },
     {
       "id": "ContestCommon_Text_00042",
-      "en_US": "GREAT RANK"
+      "en_US": "GREAT RANK",
+      "fr_FR": "CATEGORIE MEGA"
     },
     {
       "id": "ContestCommon_Text_00043",
-      "en_US": "ULTRA RANK"
+      "en_US": "ULTRA RANK",
+      "fr_FR": "CATEGORIE ULTRA"
     },
     {
       "id": "ContestCommon_Text_00044",
-      "en_US": "MASTER RANK"
+      "en_US": "MASTER RANK",
+      "fr_FR": "CATEGORIE MASTER"
     },
     {
       "id": "ContestCommon_Text_00045",
-      "en_US": "EXIT"
+      "en_US": "EXIT",
+      "fr_FR": "QUITTER"
     },
     {
       "id": "ContestCommon_Text_00046",
-      "en_US": "COOL CONTEST"
+      "en_US": "COOL CONTEST",
+      "fr_FR": "SANG-FROID"
     },
     {
       "id": "ContestCommon_Text_00047",
-      "en_US": "BEAUTY CONTEST"
+      "en_US": "BEAUTY CONTEST",
+      "fr_FR": "BEAUTE"
     },
     {
       "id": "ContestCommon_Text_00048",
-      "en_US": "CUTE CONTEST"
+      "en_US": "CUTE CONTEST",
+      "fr_FR": "GRACE"
     },
     {
       "id": "ContestCommon_Text_00049",
-      "en_US": "SMART CONTEST"
+      "en_US": "SMART CONTEST",
+      "fr_FR": "INTELLIGENCE"
     },
     {
       "id": "ContestCommon_Text_00050",
-      "en_US": "TOUGH CONTEST"
+      "en_US": "TOUGH CONTEST",
+      "fr_FR": "ROBUSTESSE"
     },
     {
       "id": "ContestCommon_Text_00051",
-      "en_US": "EXIT"
+      "en_US": "EXIT",
+      "fr_FR": "QUITTER"
     },
     {
       "id": "ContestCommon_Text_Dummy52",
@@ -375,6 +536,10 @@
       "en_US": [
         "The Contest will start right away.\n",
         "This way, please!\r"
+      ],
+      "fr_FR": [
+        "Le Concours va bientôt débuter.\n",
+        "Par ici, s’il vous plaît!\r"
       ]
     },
     {
@@ -383,17 +548,23 @@
     },
     {
       "id": "ContestCommon_Text_PlayerChangedIntoTuxedo",
-      "en_US": "{STRVAR_1 3, 0, 0} changed into the tuxedo.\r"
+      "en_US": "{STRVAR_1 3, 0, 0} changed into the tuxedo.\r",
+      "fr_FR": "{STRVAR_1 3, 0, 0} a mis son beau smoking!\r"
     },
     {
       "id": "ContestCommon_Text_PlayerChangedIntoDress",
-      "en_US": "{STRVAR_1 3, 0, 0} changed into the dress.\r"
+      "en_US": "{STRVAR_1 3, 0, 0} changed into the dress.\r",
+      "fr_FR": "{STRVAR_1 3, 0, 0} a mis sa belle robe!\r"
     },
     {
       "id": "ContestCommon_Text_RightThisWayPlease1",
       "en_US": [
         "Right this way, please!\n",
         "Good luck!\r"
+      ],
+      "fr_FR": [
+        "Veuillez entrer, s’il vous plaît!\n",
+        "Bonne chance!\r"
       ]
     },
     {
@@ -406,6 +577,14 @@
         "the MC and as one of the Judges!\r",
         "The results will be announced at the\n",
         "end, so please bear with me!\r"
+      ],
+      "fr_FR": [
+        "Animateur: Le {STRVAR_1 34, 1, 0}\n",
+        "{STRVAR_1 35, 0, 0} va commencer!\r",
+        "Je suis Denis et je serai à la fois\n",
+        "Animateur et Juge!\r",
+        "Les résultats seront annoncés\n",
+        "à la fin, patience!\r"
       ]
     },
     {
@@ -414,12 +593,22 @@
         "Let me introduce our contestants!\r",
         "Entry number 1!\n",
         "Here’s {STRVAR_1 3, 0, 0}!\r"
+      ],
+      "fr_FR": [
+        "Laissez-moi vous présenter nos\n",
+        "participants!\r",
+        "Concurrent numéro 1!\n",
+        "Voici {STRVAR_1 3, 0, 0}!\r"
       ]
     },
     {
       "id": "ContestCommon_Text_IntroduceSecondContestant",
       "en_US": [
         "Next, it’s entry number 2!\n",
+        "{STRVAR_1 3, 0, 0}!\r"
+      ],
+      "fr_FR": [
+        "Ensuite, le concurrent numéro 2!\n",
         "{STRVAR_1 3, 0, 0}!\r"
       ]
     },
@@ -428,6 +617,10 @@
       "en_US": [
         "Entry number 3!\n",
         "{STRVAR_1 3, 0, 0}!\r"
+      ],
+      "fr_FR": [
+        "Le concurrent numéro 3!\n",
+        "{STRVAR_1 3, 0, 0}!\r"
       ]
     },
     {
@@ -435,6 +628,10 @@
       "en_US": [
         "And last but not least, entry\n",
         "number 4! {STRVAR_1 3, 0, 0}!\r"
+      ],
+      "fr_FR": [
+        "Et enfin, le concurrent numéro 4!\n",
+        "{STRVAR_1 3, 0, 0}!\r"
       ]
     },
     {
@@ -444,6 +641,12 @@
         "proper attire for evaluations.\r",
         "Contestants, dress up your Pokémon\n",
         "for the Visual Competition!\r"
+      ],
+      "fr_FR": [
+        "Nous allons laisser les Pokémon\n",
+        "s’habiller pour les évaluations.\r",
+        "Chers concurrents, habillez vos\n",
+        "Pokémon pour l’Epreuve de Style!\r"
       ]
     },
     {
@@ -452,7 +655,8 @@
     },
     {
       "id": "ContestCommon_Text_Congratulations",
-      "en_US": "Dexter: Congratulations!\r"
+      "en_US": "Dexter: Congratulations!\r",
+      "fr_FR": "Denis: Félicitations!\r"
     },
     {
       "id": "ContestCommon_Text_LetsRecognizeOurWinner",
@@ -461,6 +665,12 @@
         "{STRVAR_1 3, 0, 0}’s {STRVAR_1 1, 1, 0}!\r",
         "Our winner is awarded the\n",
         "{STRVAR_1 39, 2, 0}!\r"
+      ],
+      "fr_FR": [
+        "Découvrons notre gagnant!\n",
+        "{STRVAR_1 1, 1, 0} de {STRVAR_1 3, 0, 0}!\r",
+        "Notre vainqueur gagne le\n",
+        "{STRVAR_1 39, 2, 0}!\r"
       ]
     },
     {
@@ -468,6 +678,10 @@
       "en_US": [
         "We look forward to your next\n",
         "Contest challenge!\r"
+      ],
+      "fr_FR": [
+        "Nous attendons avec impatience le\n",
+        "prochain Concours!\r"
       ]
     },
     {
@@ -476,6 +690,11 @@
         "We expect great things from the\n",
         "winning team of {STRVAR_1 3, 0, 0} and\f",
         "{STRVAR_1 1, 1, 0}!\r"
+      ],
+      "fr_FR": [
+        "Nous espérons de grandes choses de\n",
+        "l’équipe gagnante, {STRVAR_1 3, 0, 0} et\f",
+        "{STRVAR_1 1, 1, 0}!\r"
       ]
     },
     {
@@ -483,6 +702,10 @@
       "en_US": [
         "Congratulations!\n",
         "Here is your prize!\r"
+      ],
+      "fr_FR": [
+        "Félicitations!\n",
+        "Voici votre récompense!\r"
       ]
     },
     {
@@ -494,6 +717,10 @@
       "en_US": [
         "Thank you for participating.\n",
         "We look forward to your next visit!"
+      ],
+      "fr_FR": [
+        "Merci de votre participation.\n",
+        "Nous espérons vous revoir bientôt!"
       ]
     },
     {
@@ -615,6 +842,12 @@
         "for practice sessions.\r",
         "You may practice in the categories\n",
         "of Visual, Dance, and Acting.\r"
+      ],
+      "fr_FR": [
+        "Bonjour! Vous êtes à la réception des\n",
+        "séances d’entraînement.\r",
+        "Vous pouvez vous entraîner aux\n",
+        "épreuves: Style, Danse et Comédie.\r"
       ]
     },
     {
@@ -622,51 +855,66 @@
       "en_US": [
         "Would you like to join a practice\n",
         "session?"
+      ],
+      "fr_FR": [
+        "Souhaitez-vous participer à une séance\n",
+        "d’entraînement?"
       ]
     },
     {
       "id": "ContestCommon_Text_Practice",
-      "en_US": "PRACTICE"
+      "en_US": "PRACTICE",
+      "fr_FR": "ENTRAINEMENT"
     },
     {
       "id": "ContestCommon_Text_Info2",
-      "en_US": "INFO"
+      "en_US": "INFO",
+      "fr_FR": "INFOS"
     },
     {
       "id": "ContestCommon_Text_Exit2",
-      "en_US": "EXIT"
+      "en_US": "EXIT",
+      "fr_FR": "QUITTER"
     },
     {
       "id": "ContestCommon_Text_LookForwardToNextVisit1",
-      "en_US": "We look forward to your next visit!"
+      "en_US": "We look forward to your next visit!",
+      "fr_FR": "Nous espérons vous revoir bientôt!"
     },
     {
       "id": "ContestCommon_Text_WhatWouldYouLikeToKnow2",
-      "en_US": "What would you like to know about?"
+      "en_US": "What would you like to know about?",
+      "fr_FR": "Quelles infos souhaitez-vous lire?"
     },
     {
       "id": "ContestCommon_Text_Visual",
-      "en_US": "VISUAL"
+      "en_US": "VISUAL",
+      "fr_FR": "STYLE"
     },
     {
       "id": "ContestCommon_Text_Dance",
-      "en_US": "DANCE"
+      "en_US": "DANCE",
+      "fr_FR": "DANSE"
     },
     {
       "id": "ContestCommon_Text_Acting",
-      "en_US": "ACTING"
+      "en_US": "ACTING",
+      "fr_FR": "COMEDIE"
     },
     {
       "id": "ContestCommon_Text_Practice1",
-      "en_US": "PRACTICE"
+      "en_US": "PRACTICE",
+      "fr_FR": "ENTRAINEMENT"
     },
     {
       "id": "ContestCommon_Text_Cancel",
-      "en_US": "CANCEL"
+      "en_US": "CANCEL",
+      "fr_FR": "RETOUR"
     },
     {
       "id": "ContestCommon_Text_LookForwardToNextVisit2",
-      "en_US": "We look forward to your next visit!"
+      "en_US": "We look forward to your next visit!",
+      "fr_FR": "Nous espérons vous revoir bientôt!"
     },
     {
       "id": "ContestCommon_Text_ExplainPracticeContest",
@@ -680,19 +928,33 @@
         "must know at least two moves.\r",
         "Otherwise, it will not qualify for our\n",
         "Super Contests.\r"
+      ],
+      "fr_FR": [
+        "Trois épreuves sont notées dans un\n",
+        "Concours: Style, Danse et Comédie.\r",
+        "Vous pouvez vous entraîner ici à\n",
+        "chacune de ces épreuves avant de\f",
+        "participer à un vrai Concours.\r",
+        "Juste une chose. Votre Pokémon doit\n",
+        "connaître au moins deux capacités.\r",
+        "Sinon il ne pourra pas participer à nos\n",
+        "Super Concours.\r"
       ]
     },
     {
       "id": "ContestCommon_Text_OverallFlowVisual",
-      "en_US": "OVERALL FLOW"
+      "en_US": "OVERALL FLOW",
+      "fr_FR": "VUE D’ENSEMBLE"
     },
     {
       "id": "ContestCommon_Text_ConditionPoints",
-      "en_US": "CONDITION POINTS"
+      "en_US": "CONDITION POINTS",
+      "fr_FR": "POINTS CONDITION"
     },
     {
       "id": "ContestCommon_Text_DressUpPoints",
-      "en_US": "DRESS-UP POINTS"
+      "en_US": "DRESS-UP POINTS",
+      "fr_FR": "POINTS HABILLAGE"
     },
     {
       "id": "ContestCommon_Text_Dummy128",
@@ -700,7 +962,8 @@
     },
     {
       "id": "ContestCommon_Text_CancelVisual",
-      "en_US": "CANCEL"
+      "en_US": "CANCEL",
+      "fr_FR": "RETOUR"
     },
     {
       "id": "ContestCommon_Text_ExplainVisualOverallFlow",
@@ -714,6 +977,17 @@
         "The Pokémon are scored in two\n",
         "categories: Condition Points and\f",
         "Dress-Up Points.\r"
+      ],
+      "fr_FR": [
+        "Le jugement est ici basé sur l’attrait\n",
+        "visuel du Pokémon.\r",
+        "La notation est basée sur le vote du\n",
+        "public.\r",
+        "Plus un Pokémon est populaire, plus\n",
+        "sa note est élevée!\r",
+        "Les Pokémon sont notés selon deux\n",
+        "catégories: Points Condition et\f",
+        "Points Habillage.\r"
       ]
     },
     {
@@ -730,6 +1004,19 @@
         "{COLOR 1}♡{COLOR 0} marks will appear.\r",
         "Obviously, the more {COLOR 1}♡{COLOR 0} marks there\n",
         "are, the more popular the Pokémon.\r"
+      ],
+      "fr_FR": [
+        "Les Points Condition sont obtenus selon\n",
+        "la condition du Pokémon dans l’un des\f",
+        "cinq types de Concours.\r",
+        "Ceux-ci sont: Sang-froid, Beauté,\n",
+        "Grâce, Intelligence et Robustesse.\r",
+        "Vous pouvez améliorer la condition des\n",
+        "Pokémon en les nourrissant de Poffins.\r",
+        "Si le public aime ce qu’il voit, des {COLOR 1}♡\n",
+        "{COLOR 0}apparaîtront.\r",
+        "Evidemment, plus il y a de {COLOR 1}♡{COLOR 0}, plus le\n",
+        "Pokémon est apprécié.\r"
       ]
     },
     {
@@ -751,6 +1038,23 @@
         "There is a time limit of 60 seconds.\r",
         "Get your Pokémon dressed up within\n",
         "that time.\r"
+      ],
+      "fr_FR": [
+        "Les Points Habillage sont attribués\n",
+        "pour les Accessoires placés sur vos\f",
+        "Pokémon.\r",
+        "Avant de commencer, on vous donne\n",
+        "un thème.\r",
+        "Vos Pokémon seront notés sur la façon\n",
+        "dont leurs Accessoires reflètent le\f",
+        "thème choisi.\r",
+        "Le public marque son approbation avec\n",
+        "des {COLOR 1}♡{COLOR 0} roses.\r",
+        "Assurez-vous de bien positionner les\n",
+        "Accessoires et attachez-les fermement.\f",
+        "Sinon, ils ne tiendront pas.\r",
+        "Vous n’avez que 60 secondes pour\n",
+        "accessoiriser votre Pokémon.\r"
       ]
     },
     {
@@ -759,27 +1063,33 @@
     },
     {
       "id": "ContestCommon_Text_00134",
-      "en_US": "We look forward to your next visit!"
+      "en_US": "We look forward to your next visit!",
+      "fr_FR": "Nous espérons vous revoir bientôt!"
     },
     {
       "id": "ContestCommon_Text_OverallFlowDance",
-      "en_US": "OVERALL FLOW"
+      "en_US": "OVERALL FLOW",
+      "fr_FR": "VUE D’ENSEMBLE"
     },
     {
       "id": "ContestCommon_Text_BackupDancer",
-      "en_US": "BACKUP DANCER"
+      "en_US": "BACKUP DANCER",
+      "fr_FR": "DANSEUR ARRIERE"
     },
     {
       "id": "ContestCommon_Text_MainDancer",
-      "en_US": "MAIN DANCER"
+      "en_US": "MAIN DANCER",
+      "fr_FR": "PREMIER DANSEUR"
     },
     {
       "id": "ContestCommon_Text_Panel",
-      "en_US": "PANEL"
+      "en_US": "PANEL",
+      "fr_FR": "PANNEAU"
     },
     {
       "id": "ContestCommon_Text_CancelDance",
-      "en_US": "CANCEL"
+      "en_US": "CANCEL",
+      "fr_FR": "RETOUR"
     },
     {
       "id": "ContestCommon_Text_ExplainDanceOverallFlow",
@@ -794,6 +1104,20 @@
         "The backup dancers earn high scores\n",
         "by duplicating the dance steps\f",
         "laid down by the main dancer.\r"
+      ],
+      "fr_FR": [
+        "Pendant l’Epreuve de Danse, les\n",
+        "quatre concurrents ont différents\f",
+        "rôles.\r",
+        "L’un d’eux devient premier danseur, et\n",
+        "les trois autres sont danseurs\f",
+        "arrière.\r",
+        "Le premier danseur gagne des points en\n",
+        "effectuant des pas de danse inspirés\f",
+        "que les autres ont du mal à copier.\r",
+        "Les danseurs arrière font de bons\n",
+        "scores s’ils copient les pas du premier\f",
+        "danseur.\r"
       ]
     },
     {
@@ -806,6 +1130,15 @@
         "Use the castanets to show your\n",
         "Pokémon which direction the main\f",
         "dancer turned.\r"
+      ],
+      "fr_FR": [
+        "Votre Pokémon reste d’abord en\n",
+        "arrière.\r",
+        "Faites-le danser en suivant le rythme\n",
+        "du premier danseur.\r",
+        "Utilisez les boutons pour indiquer à\n",
+        "votre Pokémon dans quelle direction\f",
+        "le premier danseur a bougé.\r"
       ]
     },
     {
@@ -816,6 +1149,13 @@
         "a turn.\r",
         "When your Pokémon is the main dancer,\n",
         "show it how to dance!\r"
+      ],
+      "fr_FR": [
+        "Le premier danseur laisse sa place à un\n",
+        "danseur arrière de façon à ce que\f",
+        "chacun puisse passer.\r",
+        "Quand votre Pokémon est le premier\n",
+        "danseur, montrez-lui comment danser!\r"
       ]
     },
     {
@@ -832,31 +1172,50 @@
         "The dancers must perform the\n",
         "required number of dance steps\f",
         "during their time slots.\r"
+      ],
+      "fr_FR": [
+        "La musique apparaît sur des panneaux\n",
+        "rouges et bleus.\r",
+        "La couleur des panneaux indique qui\n",
+        "doit danser.\r",
+        "Le premier danseur peut danser quand\n",
+        "la musique est sur le panneau bleu.\r",
+        "Les danseurs arrière dansent quand\n",
+        "la musique est sur le panneau rouge.\r",
+        "Les danseurs doivent effectuer le\n",
+        "nombre de pas requis pendant le temps\f",
+        "qui leur est imparti.\r"
       ]
     },
     {
       "id": "ContestCommon_Text_00144",
-      "en_US": "We look forward to your next visit!"
+      "en_US": "We look forward to your next visit!",
+      "fr_FR": "Nous espérons vous revoir bientôt!"
     },
     {
       "id": "ContestCommon_Text_OverallFlowActing",
-      "en_US": "OVERALL FLOW"
+      "en_US": "OVERALL FLOW",
+      "fr_FR": "VUE D’ENSEMBLE"
     },
     {
       "id": "ContestCommon_Text_ContestMoves",
-      "en_US": "CONTEST MOVES"
+      "en_US": "CONTEST MOVES",
+      "fr_FR": "CAPACITES CONCOURS"
     },
     {
       "id": "ContestCommon_Text_Judges",
-      "en_US": "JUDGES"
+      "en_US": "JUDGES",
+      "fr_FR": "JUGES"
     },
     {
       "id": "ContestCommon_Text_Voltage",
-      "en_US": "VOLTAGE"
+      "en_US": "VOLTAGE",
+      "fr_FR": "VOLTAGE"
     },
     {
       "id": "ContestCommon_Text_CancelActing",
-      "en_US": "CANCEL"
+      "en_US": "CANCEL",
+      "fr_FR": "RETOUR"
     },
     {
       "id": "ContestCommon_Text_ExplainActingOverallFlow",
@@ -868,6 +1227,15 @@
         "higher it scores.\r",
         "Each Pokémon will get the chance to\n",
         "perform four times.\r"
+      ],
+      "fr_FR": [
+        "Pendant l’Epreuve de Comédie, quatre\n",
+        "Pokémon effectuent leurs capacités\f",
+        "pour les Juges.\r",
+        "Plus un Pokémon se démarque, plus il\n",
+        "obtient de points.\r",
+        "Chaque Pokémon a l’occasion de passer\n",
+        "quatre fois.\r"
       ]
     },
     {
@@ -880,6 +1248,15 @@
         "However, Pokémon are not permitted\n",
         "to perform the same move two turns\f",
         "in a row.\r"
+      ],
+      "fr_FR": [
+        "Chaque capacité a un ou plusieurs {COLOR 1}♡{COLOR 0} \n",
+        "qui indiquent le score de la capacité.\r",
+        "Plus on obtient de {COLOR 1}♡{COLOR 0}, plus le Pokémon\n",
+        "marque de points.\r",
+        "Cependant, les Pokémon ne peuvent pas\n",
+        "répéter la même capacité deux tours de\f",
+        "suite.\r"
       ]
     },
     {
@@ -894,6 +1271,17 @@
         "If your Pokémon leaves a strong\n",
         "impression, it will be rated highly,\f",
         "earning it more {COLOR 1}♡{COLOR 0} marks.\r"
+      ],
+      "fr_FR": [
+        "Il y a trois Juges en tout.\r",
+        "Vous devez choisir celui qui notera\n",
+        "votre Pokémon.\r",
+        "Essayez de choisir un Juge différent\n",
+        "des autres Pokémon pour que le vôtre\f",
+        "se démarque plus.\r",
+        "Si votre Pokémon fait forte impression,\n",
+        "il sera très bien noté et gagnera plus\f",
+        "de {COLOR 1}♡{COLOR 0}.\r"
       ]
     },
     {
@@ -912,66 +1300,99 @@
         "awarded when the Voltage peaks.\r",
         "For the other Judges, 5 bonus points\n",
         "are awarded.\r"
+      ],
+      "fr_FR": [
+        "Le Voltage montre le niveau d’intérêt\n",
+        "des Juges.\r",
+        "Dans un Concours Sang-froid, si un\n",
+        "Pokémon utilise une capacité\f",
+        "Sang-froid, le Voltage monte.\r",
+        "Si une capacité Grâce ou Intelligence\f",
+        "est utilisée, le Voltage baisse.\r",
+        "Si le Voltage atteint 5 points, le\n",
+        "Pokémon obtient des points bonus.\r",
+        "Si le Juge Spécial au centre avait été\n",
+        "choisi, 8 points bonus sont attribués\f",
+        "quand le Voltage est au max.\r",
+        "Pour les autres Juges, seuls 5 points\n",
+        "bonus sont attribués.\r"
       ]
     },
     {
       "id": "ContestCommon_Text_00154",
-      "en_US": "We look forward to your next visit!"
+      "en_US": "We look forward to your next visit!",
+      "fr_FR": "Nous espérons vous revoir bientôt!"
     },
     {
       "id": "ContestCommon_Text_VisualPractice",
-      "en_US": "VISUAL PRACTICE"
+      "en_US": "VISUAL PRACTICE",
+      "fr_FR": "ENTRAINEMENT STYLE"
     },
     {
       "id": "ContestCommon_Text_DancePractice",
-      "en_US": "DANCE PRACTICE"
+      "en_US": "DANCE PRACTICE",
+      "fr_FR": "ENTRAINEMENT DANSE"
     },
     {
       "id": "ContestCommon_Text_ActingPractice",
-      "en_US": "ACTING PRACTICE"
+      "en_US": "ACTING PRACTICE",
+      "fr_FR": "ENTRAINEMENT COMEDIE"
     },
     {
       "id": "ContestCommon_Text_CancelPractice",
-      "en_US": "CANCEL"
+      "en_US": "CANCEL",
+      "fr_FR": "QUITTER"
     },
     {
       "id": "ContestCommon_Text_LookForwardToNextVisit3",
-      "en_US": "We look forward to your next visit!"
+      "en_US": "We look forward to your next visit!",
+      "fr_FR": "Nous espérons vous revoir bientôt!"
     },
     {
       "id": "ContestCommon_Text_ChallengeWhichContest",
       "en_US": [
         "Which Contest would you like to\n",
         "challenge?"
+      ],
+      "fr_FR": [
+        "A quel Concours souhaitez-vous vous\n",
+        "inscrire?"
       ]
     },
     {
       "id": "ContestCommon_Text_Cool",
-      "en_US": "COOL"
+      "en_US": "COOL",
+      "fr_FR": "SANG-FROID"
     },
     {
       "id": "ContestCommon_Text_Beauty",
-      "en_US": "BEAUTY"
+      "en_US": "BEAUTY",
+      "fr_FR": "BEAUTE"
     },
     {
       "id": "ContestCommon_Text_Cute",
-      "en_US": "CUTE"
+      "en_US": "CUTE",
+      "fr_FR": "GRACE"
     },
     {
       "id": "ContestCommon_Text_Smart",
-      "en_US": "SMART"
+      "en_US": "SMART",
+      "fr_FR": "INTELLIGENCE"
     },
     {
       "id": "ContestCommon_Text_Tough",
-      "en_US": "TOUGH"
+      "en_US": "TOUGH",
+      "fr_FR": "ROBUSTESSE"
     },
     {
       "id": "ContestCommon_Text_Exit3",
-      "en_US": "EXIT"
+      "en_US": "EXIT",
+      "fr_FR": "QUITTER"
     },
     {
       "id": "ContestCommon_Text_LookForwardToNextVisit4",
-      "en_US": "We look forward to your next visit!"
+      "en_US": "We look forward to your next visit!",
+      "fr_FR": "Nous espérons vous revoir bientôt!"
     },
     {
       "id": "ContestCommon_Text_Unused",
@@ -1006,11 +1427,16 @@
       "en_US": [
         "Which Pokémon would you like to\n",
         "enter?\r"
+      ],
+      "fr_FR": [
+        "Quel Pokémon souhaitez-vous\n",
+        "inscrire?\r"
       ]
     },
     {
       "id": "ContestCommon_Text_PleaseChoosePokemonPractice",
-      "en_US": "Please choose a Pokémon.\r"
+      "en_US": "Please choose a Pokémon.\r",
+      "fr_FR": "Veuillez choisir un Pokémon.\r"
     },
     {
       "id": "ContestCommon_Text_RegisteredForPractice",
@@ -1019,6 +1445,12 @@
         "for a practice session.\r",
         "Its entry number is {STRVAR_1 50, 0, 0}.\n",
         "The practice will start right away.\r"
+      ],
+      "fr_FR": [
+        "OK, votre Pokémon a été inscrit pour\n",
+        "une séance d’entraînement.\r",
+        "Son numéro d’inscription est le {STRVAR_1 50, 0, 0}.\n",
+        "L’entraînement va bientôt débuter.\r"
       ]
     },
     {
@@ -1026,6 +1458,10 @@
       "en_US": [
         "Right this way, please.\n",
         "Good luck!\r"
+      ],
+      "fr_FR": [
+        "Veuillez entrer, s’il vous plaît.\n",
+        "Bonne chance!\r"
       ]
     },
     {
@@ -1039,25 +1475,42 @@
         "Pokémon using Accessories.\r",
         "Would you like to enter a practice\n",
         "session?"
+      ],
+      "fr_FR": [
+        "Votre Pokémon va être évalué par le\n",
+        "public.\r",
+        "Vous pouvez améliorer sa condition en\n",
+        "le nourrissant de Poffins.\r",
+        "Vous devrez aussi accessoiriser\n",
+        "votre Pokémon.\r",
+        "Souhaitez-vous vous inscrire à une\n",
+        "séance d’entraînement?"
       ]
     },
     {
       "id": "ContestCommon_Text_00180",
-      "en_US": "YES"
+      "en_US": "YES",
+      "fr_FR": "OUI"
     },
     {
       "id": "ContestCommon_Text_00181",
-      "en_US": "NO"
+      "en_US": "NO",
+      "fr_FR": "NON"
     },
     {
       "id": "ContestCommon_Text_00182",
-      "en_US": "We look forward to your next visit!"
+      "en_US": "We look forward to your next visit!",
+      "fr_FR": "Nous espérons vous revoir bientôt!"
     },
     {
       "id": "ContestCommon_Text_00183",
       "en_US": [
         "OK, let me show you in.\n",
         "Right this way, please.\r"
+      ],
+      "fr_FR": [
+        "OK, suivez-moi, s’il vous plaît.\n",
+        "Veuillez entrer.\r"
       ]
     },
     {
@@ -1067,6 +1520,13 @@
         "Your Pokémon was quite popular!\f",
         "It’s ready for a real Contest!\r",
         "Or, would you like to practice again?"
+      ],
+      "fr_FR": [
+        "Merci de votre participation!\n",
+        "Votre Pokémon a été très apprécié!\f",
+        "Il est prêt pour un vrai Concours!\r",
+        "Ou souhaitez-vous vous entraîner un\n",
+        "peu plus?"
       ]
     },
     {
@@ -1080,19 +1540,34 @@
         "matched to the dress-up themes to\f",
         "boost your Pokémon’s appeal.\r",
         "Would you like to practice again?"
+      ],
+      "fr_FR": [
+        "Merci de votre participation!\n",
+        "Dommage que ça n’ait pas bien marché...\r",
+        "Puis-je vous suggérer de faire manger\n",
+        "des Poffins à votre Pokémon pour\f",
+        "améliorer sa condition?\r",
+        "Vous devriez aussi utiliser les\n",
+        "Accessoires selon le thème choisi pour\f",
+        "booster l’attrait de votre Pokémon.\r",
+        "Souhaitez-vous continuer à vous\n",
+        "entraîner?"
       ]
     },
     {
       "id": "ContestCommon_Text_00186",
-      "en_US": "YES"
+      "en_US": "YES",
+      "fr_FR": "OUI"
     },
     {
       "id": "ContestCommon_Text_00187",
-      "en_US": "NO"
+      "en_US": "NO",
+      "fr_FR": "NON"
     },
     {
       "id": "ContestCommon_Text_00188",
-      "en_US": "We look forward to your next visit!"
+      "en_US": "We look forward to your next visit!",
+      "fr_FR": "Nous espérons vous revoir bientôt!"
     },
     {
       "id": "ContestCommon_Text_Dummy189",
@@ -1122,6 +1597,13 @@
         "It’s ready for a real Contest!\r",
         "Or, would you like to practice dancing\n",
         "again?"
+      ],
+      "fr_FR": [
+        "Merci de votre participation!\n",
+        "Votre Pokémon a très bien dansé!\f",
+        "Il est prêt pour un vrai Concours!\r",
+        "Ou souhaitez-vous continuer à vous\n",
+        "entraîner?"
       ]
     },
     {
@@ -1134,19 +1616,31 @@
         "the same moves at the same time.\r",
         "Would you like to practice dancing\n",
         "again?"
+      ],
+      "fr_FR": [
+        "Merci de votre participation!\n",
+        "Dommage que ça se soit mal passé...\r",
+        "Vous devez vous rappeler de quel côté\n",
+        "le premier danseur tourne, puis faire la\f",
+        "même chose au même moment.\r",
+        "Souhaitez-vous continuer à vous\n",
+        "entraîner à la danse?"
       ]
     },
     {
       "id": "ContestCommon_Text_00196",
-      "en_US": "YES"
+      "en_US": "YES",
+      "fr_FR": "OUI"
     },
     {
       "id": "ContestCommon_Text_00197",
-      "en_US": "NO"
+      "en_US": "NO",
+      "fr_FR": "NON"
     },
     {
       "id": "ContestCommon_Text_00198",
-      "en_US": "We look forward to your next visit!"
+      "en_US": "We look forward to your next visit!",
+      "fr_FR": "Nous espérons vous revoir bientôt!"
     },
     {
       "id": "ContestCommon_Text_Dummy199",
@@ -1182,6 +1676,19 @@
         "Try getting your Pokémon to stand\n",
         "out in these Contests!\r",
         "Would you like to practice again?"
+      ],
+      "fr_FR": [
+        "Merci de votre participation!\r",
+        "Votre Pokémon a beaucoup attiré\n",
+        "l’attention!\r",
+        "Souvenez-vous, il y a cinq types de\n",
+        "Concours: Sang-froid, Beauté, Grâce,\f",
+        "Intelligence et Robustesse.\r",
+        "Vous pouvez inscrire vos Pokémon aux\n",
+        "Concours qui leur sont le mieux\f",
+        "adaptés. Ils doivent se démarquer!\r",
+        "Souhaitez-vous continuer à vous\n",
+        "entraîner?"
       ]
     },
     {
@@ -1198,6 +1705,20 @@
         "Pick a Judge who will look only\n",
         "at your Pokémon... Aim for that!\r",
         "Would you like to practice again?"
+      ],
+      "fr_FR": [
+        "Merci de votre participation!\n",
+        "Dommage que ça se soit mal passé...\r",
+        "Une des choses les plus importantes est\n",
+        "le choix du Juge qui devra noter la\f",
+        "performance de votre Pokémon.\r",
+        "Si votre Pokémon passe devant un Juge\n",
+        "qui n’a pas été choisi pour un autre\f",
+        "Pokémon, il marquera plus de points.\r",
+        "Essayez de choisir un Juge qui ne\n",
+        "regardera que votre Pokémon!\r",
+        "Souhaitez-vous continuer à vous\n",
+        "entraîner?"
       ]
     },
     {
@@ -1214,17 +1735,23 @@
     },
     {
       "id": "ContestCommon_Text_00209",
-      "en_US": "What would you like to know about?"
+      "en_US": "What would you like to know about?",
+      "fr_FR": "Quelles infos souhaitez-vous lire?"
     },
     {
       "id": "ContestCommon_Text_CommunicatingStandBy",
-      "en_US": "Communicating. Please stand by..."
+      "en_US": "Communicating. Please stand by...",
+      "fr_FR": "Communication en cours..."
     },
     {
       "id": "ContestCommon_Text_RightThisWayPlease2",
       "en_US": [
         "Right this way, please!\n",
         "Good luck!\r"
+      ],
+      "fr_FR": [
+        "Veuillez entrer, s’il vous plaît!\n",
+        "Bonne chance!\r"
       ]
     },
     {
@@ -1232,31 +1759,41 @@
       "en_US": [
         "DS Wireless Communications will\n",
         "be launched."
+      ],
+      "fr_FR": [
+        "La communication sans fil DS va\n",
+        "démarrer."
       ]
     },
     {
       "id": "ContestCommon_Text_00213",
-      "en_US": "YES"
+      "en_US": "YES",
+      "fr_FR": "OUI"
     },
     {
       "id": "ContestCommon_Text_00214",
-      "en_US": "NO"
+      "en_US": "NO",
+      "fr_FR": "NON"
     },
     {
       "id": "ContestCommon_Text_CancelEntry",
-      "en_US": "Would you like to cancel your entry?"
+      "en_US": "Would you like to cancel your entry?",
+      "fr_FR": "Annuler la participation?"
     },
     {
       "id": "ContestCommon_Text_00216",
-      "en_US": "YES"
+      "en_US": "YES",
+      "fr_FR": "OUI"
     },
     {
       "id": "ContestCommon_Text_00217",
-      "en_US": "NO"
+      "en_US": "NO",
+      "fr_FR": "NON"
     },
     {
       "id": "ContestCommon_Text_00218",
-      "en_US": "We look forward to your next visit!"
+      "en_US": "We look forward to your next visit!",
+      "fr_FR": "Nous espérons vous revoir bientôt!"
     },
     {
       "id": "ContestCommon_Text_OnePersonMustBeLeader",
@@ -1265,6 +1802,12 @@
         "choose “BECOME LEADER.”\r",
         "Everyone else must choose\n",
         "“JOIN GROUP.”"
+      ],
+      "fr_FR": [
+        "Une personne du groupe doit choisir\n",
+        "de devenir “MENEUR”.\r",
+        "Tous les autres doivent choisir\n",
+        "“JOINDRE”."
       ]
     }
   ]

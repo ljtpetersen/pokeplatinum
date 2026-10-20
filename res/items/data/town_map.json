@@ -26,5 +26,13 @@
   "battlePocket": "BATTLE_POCKET_MASK_NONE",
   "fieldUseFunc": "ITEM_USE_FUNC_TOWN_MAP",
   "battleUseCategory": "BATTLE_USE_CATEGORY_NONE",
-  "itemUseParams": null
+  "itemUseParams": null,
+  "name_fr": "Carte",
+  "description_fr": [
+    "Une carte très pratique pouvant\n",
+    "être consultée n’importe quand. Elle\n",
+    "indique votre position actuelle."
+  ],
+  "plural_fr": "Carte",
+  "article_fr": null
 }

@@ -77,6 +77,10 @@
             "en_US": [
                 "Cue battle music, please!\n",
                 "I want to trumpet my victory!"
+            ],
+            "fr_FR": [
+                "Faites entrer la fanfare!\n",
+                "Célébrons ma victoire!"
             ]
         },
         {
@@ -84,6 +88,10 @@
             "en_US": [
                 "I love the battle music.\n",
                 "It sets my heart racing.\r"
+            ],
+            "fr_FR": [
+                "J’adore combattre en musique.\n",
+                "Cela rend mon cœur plus léger.\r"
             ]
         },
         {
@@ -91,7 +99,12 @@
             "en_US": [
                 "Fine, that will do.\n",
                 "Back to the regular theme music.\r"
+            ],
+            "fr_FR": [
+                "Très bien, ça suffit.\n",
+                "Oublions la fanfare.\r"
             ]
         }
-    ]
+    ],
+    "name_fr": "Joliane"
 }

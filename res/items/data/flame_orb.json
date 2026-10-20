@@ -26,5 +26,12 @@
   "battlePocket": "BATTLE_POCKET_MASK_NONE",
   "fieldUseFunc": "ITEM_USE_FUNC_NONE",
   "battleUseCategory": "BATTLE_USE_CATEGORY_NONE",
-  "itemUseParams": null
+  "itemUseParams": null,
+  "name_fr": "Orbe Flamme",
+  "description_fr": [
+    "Objet à tenir. Orbe bizarre brûlant son\n",
+    "porteur durant le combat."
+  ],
+  "plural_fr": "Orbe Flamme",
+  "article_fr": null
 }

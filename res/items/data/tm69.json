@@ -27,5 +27,13 @@
   "fieldUseFunc": "ITEM_USE_FUNC_TM_HM",
   "battleUseCategory": "BATTLE_USE_CATEGORY_NONE",
   "itemUseParams": null,
-  "teachesMove": "MOVE_ROCK_POLISH"
+  "teachesMove": "MOVE_ROCK_POLISH",
+  "name_fr": "CT69",
+  "description_fr": [
+    "Le lanceur polit son corps pour diminuer\n",
+    "sa résistance au vent. Peut augmenter\n",
+    "fortement la Vitesse."
+  ],
+  "plural_fr": "CT69",
+  "article_fr": null
 }

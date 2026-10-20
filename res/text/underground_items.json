@@ -3,257 +3,323 @@
   "messages": [
     {
       "id": "UndergroundItems_Text_ItemZero_Unused",
-      "en_US": "Prism Sphere"
+      "en_US": "Prism Sphere",
+      "fr_FR": "Sphère Prisme"
     },
     {
       "id": "UndergroundItems_Text_PrismSphere",
-      "en_US": "Prism Sphere"
+      "en_US": "Prism Sphere",
+      "fr_FR": "Sphère Prisme"
     },
     {
       "id": "UndergroundItems_Text_PaleSphere",
-      "en_US": "{COLOR 4}Pale Sphere{COLOR 0}"
+      "en_US": "{COLOR 4}Pale Sphere{COLOR 0}",
+      "fr_FR": "{COLOR 4}Sphère Pâle{COLOR 0}"
     },
     {
       "id": "UndergroundItems_Text_RedSphere",
-      "en_US": "{COLOR 1}Red Sphere{COLOR 0}"
+      "en_US": "{COLOR 1}Red Sphere{COLOR 0}",
+      "fr_FR": "{COLOR 1}Sphère Rouge{COLOR 0}"
     },
     {
       "id": "UndergroundItems_Text_BlueSphere",
-      "en_US": "{COLOR 2}Blue Sphere{COLOR 0}"
+      "en_US": "{COLOR 2}Blue Sphere{COLOR 0}",
+      "fr_FR": "{COLOR 2}Sphère Bleue{COLOR 0}"
     },
     {
       "id": "UndergroundItems_Text_GreenSphere",
-      "en_US": "{COLOR 3}Green Sphere{COLOR 0}"
+      "en_US": "{COLOR 3}Green Sphere{COLOR 0}",
+      "fr_FR": "{COLOR 3}Sphère Verte{COLOR 0}"
     },
     {
       "id": "UndergroundItems_Text_LargePrismSphere_Unused",
-      "en_US": "Prism Sphere"
+      "en_US": "Prism Sphere",
+      "fr_FR": "Sphère Prisme"
     },
     {
       "id": "UndergroundItems_Text_LargePaleSphere_Unused",
-      "en_US": "{COLOR 4}Pale Sphere{COLOR 0}"
+      "en_US": "{COLOR 4}Pale Sphere{COLOR 0}",
+      "fr_FR": "{COLOR 4}Sphère Pâle{COLOR 0}"
     },
     {
       "id": "UndergroundItems_Text_LargeRedSphere_Unused",
-      "en_US": "{COLOR 1}Red Sphere{COLOR 0}"
+      "en_US": "{COLOR 1}Red Sphere{COLOR 0}",
+      "fr_FR": "{COLOR 1}Sphère Rouge{COLOR 0}"
     },
     {
       "id": "UndergroundItems_Text_LargeBlueSphere_Unused",
-      "en_US": "{COLOR 2}Blue Sphere{COLOR 0}"
+      "en_US": "{COLOR 2}Blue Sphere{COLOR 0}",
+      "fr_FR": "{COLOR 2}Sphère Bleue{COLOR 0}"
     },
     {
       "id": "UndergroundItems_Text_LargeGreenSphere_Unused",
-      "en_US": "{COLOR 3}Green Sphere{COLOR 0}"
+      "en_US": "{COLOR 3}Green Sphere{COLOR 0}",
+      "fr_FR": "{COLOR 3}Sphère Verte{COLOR 0}"
     },
     {
       "id": "UndergroundItems_Text_OvalStone_Unused",
-      "en_US": "Oval Stone"
+      "en_US": "Oval Stone",
+      "fr_FR": "Pierre Ovale"
     },
     {
       "id": "UndergroundItems_Text_OddKeystone",
-      "en_US": "Odd Keystone"
+      "en_US": "Odd Keystone",
+      "fr_FR": "Clé de Voûte"
     },
     {
       "id": "UndergroundItems_Text_SunStone",
-      "en_US": "Sun Stone"
+      "en_US": "Sun Stone",
+      "fr_FR": "Pierresoleil"
     },
     {
       "id": "UndergroundItems_Text_StarPiece",
-      "en_US": "Star Piece"
+      "en_US": "Star Piece",
+      "fr_FR": "Morc. Etoile"
     },
     {
       "id": "UndergroundItems_Text_MoonStone",
-      "en_US": "Moon Stone"
+      "en_US": "Moon Stone",
+      "fr_FR": "Pierre Lune"
     },
     {
       "id": "UndergroundItems_Text_HardStone",
-      "en_US": "Hard Stone"
+      "en_US": "Hard Stone",
+      "fr_FR": "Pierre Dure"
     },
     {
       "id": "UndergroundItems_Text_Thunderstone",
-      "en_US": "Thunderstone"
+      "en_US": "Thunderstone",
+      "fr_FR": "Pierrefoudre"
     },
     {
       "id": "UndergroundItems_Text_Everstone",
-      "en_US": "Everstone"
+      "en_US": "Everstone",
+      "fr_FR": "Pierre Stase"
     },
     {
       "id": "UndergroundItems_Text_FireStone",
-      "en_US": "Fire Stone"
+      "en_US": "Fire Stone",
+      "fr_FR": "Pierre Feu"
     },
     {
       "id": "UndergroundItems_Text_WaterStone",
-      "en_US": "Water Stone"
+      "en_US": "Water Stone",
+      "fr_FR": "Pierre Eau"
     },
     {
       "id": "UndergroundItems_Text_LeafStone",
-      "en_US": "Leaf Stone"
+      "en_US": "Leaf Stone",
+      "fr_FR": "Pierreplante"
     },
     {
       "id": "UndergroundItems_Text_Nugget",
-      "en_US": "Nugget"
+      "en_US": "Nugget",
+      "fr_FR": "Pépite"
     },
     {
       "id": "UndergroundItems_Text_HelixFossil",
-      "en_US": "Helix Fossil"
+      "en_US": "Helix Fossil",
+      "fr_FR": "Nautile"
     },
     {
       "id": "UndergroundItems_Text_DomeFossil",
-      "en_US": "Dome Fossil"
+      "en_US": "Dome Fossil",
+      "fr_FR": "Fossile Dôme"
     },
     {
       "id": "UndergroundItems_Text_ClawFossil",
-      "en_US": "Claw Fossil"
+      "en_US": "Claw Fossil",
+      "fr_FR": "Foss. Griffe"
     },
     {
       "id": "UndergroundItems_Text_RootFossil",
-      "en_US": "Root Fossil"
+      "en_US": "Root Fossil",
+      "fr_FR": "Foss. Racine"
     },
     {
       "id": "UndergroundItems_Text_OldAmber",
-      "en_US": "Old Amber"
+      "en_US": "Old Amber",
+      "fr_FR": "Vieil Ambre"
     },
     {
       "id": "UndergroundItems_Text_RareBone",
-      "en_US": "Rare Bone"
+      "en_US": "Rare Bone",
+      "fr_FR": "Os Rare"
     },
     {
       "id": "UndergroundItems_Text_Revive",
-      "en_US": "Revive"
+      "en_US": "Revive",
+      "fr_FR": "Rappel"
     },
     {
       "id": "UndergroundItems_Text_MaxRevive",
-      "en_US": "Max Revive"
+      "en_US": "Max Revive",
+      "fr_FR": "Rappel Max"
     },
     {
       "id": "UndergroundItems_Text_RedShard",
-      "en_US": "Red Shard"
+      "en_US": "Red Shard",
+      "fr_FR": "Tesson Rouge"
     },
     {
       "id": "UndergroundItems_Text_BlueShard",
-      "en_US": "Blue Shard"
+      "en_US": "Blue Shard",
+      "fr_FR": "Tesson Bleu"
     },
     {
       "id": "UndergroundItems_Text_YellowShard",
-      "en_US": "Yellow Shard"
+      "en_US": "Yellow Shard",
+      "fr_FR": "Tesson Jaune"
     },
     {
       "id": "UndergroundItems_Text_GreenShard",
-      "en_US": "Green Shard"
+      "en_US": "Green Shard",
+      "fr_FR": "Tesson Vert"
     },
     {
       "id": "UndergroundItems_Text_HeartScale",
-      "en_US": "Heart Scale"
+      "en_US": "Heart Scale",
+      "fr_FR": "Ecaillecoeur"
     },
     {
       "id": "UndergroundItems_Text_ArmorFossil",
-      "en_US": "Armor Fossil"
+      "en_US": "Armor Fossil",
+      "fr_FR": "Foss. Armure"
     },
     {
       "id": "UndergroundItems_Text_SkullFossil",
-      "en_US": "Skull Fossil"
+      "en_US": "Skull Fossil",
+      "fr_FR": "Foss. Crâne"
     },
     {
       "id": "UndergroundItems_Text_LightClay",
-      "en_US": "Light Clay"
+      "en_US": "Light Clay",
+      "fr_FR": "Lumargile"
     },
     {
       "id": "UndergroundItems_Text_IronBall",
-      "en_US": "Iron Ball"
+      "en_US": "Iron Ball",
+      "fr_FR": "Balle Fer"
     },
     {
       "id": "UndergroundItems_Text_IcyRock",
-      "en_US": "Icy Rock"
+      "en_US": "Icy Rock",
+      "fr_FR": "Roche Glace"
     },
     {
       "id": "UndergroundItems_Text_SmoothRock",
-      "en_US": "Smooth Rock"
+      "en_US": "Smooth Rock",
+      "fr_FR": "Roche Lisse"
     },
     {
       "id": "UndergroundItems_Text_HeatRock",
-      "en_US": "Heat Rock"
+      "en_US": "Heat Rock",
+      "fr_FR": "Roche Chaude"
     },
     {
       "id": "UndergroundItems_Text_DampRock",
-      "en_US": "Damp Rock"
+      "en_US": "Damp Rock",
+      "fr_FR": "Roche Humide"
     },
     {
       "id": "UndergroundItems_Text_FlamePlate",
-      "en_US": "Flame Plate"
+      "en_US": "Flame Plate",
+      "fr_FR": "Plaque Flam"
     },
     {
       "id": "UndergroundItems_Text_SplashPlate",
-      "en_US": "Splash Plate"
+      "en_US": "Splash Plate",
+      "fr_FR": "Plaque Hydro"
     },
     {
       "id": "UndergroundItems_Text_ZapPlate",
-      "en_US": "Zap Plate"
+      "en_US": "Zap Plate",
+      "fr_FR": "Plaque Volt"
     },
     {
       "id": "UndergroundItems_Text_MeadowPlate",
-      "en_US": "Meadow Plate"
+      "en_US": "Meadow Plate",
+      "fr_FR": "Plaque Herbe"
     },
     {
       "id": "UndergroundItems_Text_IciclePlate",
-      "en_US": "Icicle Plate"
+      "en_US": "Icicle Plate",
+      "fr_FR": "Plaque Glace"
     },
     {
       "id": "UndergroundItems_Text_FistPlate",
-      "en_US": "Fist Plate"
+      "en_US": "Fist Plate",
+      "fr_FR": "Plaque Poing"
     },
     {
       "id": "UndergroundItems_Text_ToxicPlate",
-      "en_US": "Toxic Plate"
+      "en_US": "Toxic Plate",
+      "fr_FR": "Plaque Toxic"
     },
     {
       "id": "UndergroundItems_Text_EarthPlate",
-      "en_US": "Earth Plate"
+      "en_US": "Earth Plate",
+      "fr_FR": "Plaque Terre"
     },
     {
       "id": "UndergroundItems_Text_SkyPlate",
-      "en_US": "Sky Plate"
+      "en_US": "Sky Plate",
+      "fr_FR": "Plaque Ciel"
     },
     {
       "id": "UndergroundItems_Text_MindPlate",
-      "en_US": "Mind Plate"
+      "en_US": "Mind Plate",
+      "fr_FR": "Plaquesprit"
     },
     {
       "id": "UndergroundItems_Text_InsectPlate",
-      "en_US": "Insect Plate"
+      "en_US": "Insect Plate",
+      "fr_FR": "Plaquinsect"
     },
     {
       "id": "UndergroundItems_Text_StonePlate",
-      "en_US": "Stone Plate"
+      "en_US": "Stone Plate",
+      "fr_FR": "Plaque Roc"
     },
     {
       "id": "UndergroundItems_Text_SpookyPlate",
-      "en_US": "Spooky Plate"
+      "en_US": "Spooky Plate",
+      "fr_FR": "Plaque Fantô"
     },
     {
       "id": "UndergroundItems_Text_DracoPlate",
-      "en_US": "Draco Plate"
+      "en_US": "Draco Plate",
+      "fr_FR": "Plaque Draco"
     },
     {
       "id": "UndergroundItems_Text_DreadPlate",
-      "en_US": "Dread Plate"
+      "en_US": "Dread Plate",
+      "fr_FR": "Plaque Ombre"
     },
     {
       "id": "UndergroundItems_Text_IronPlate",
-      "en_US": "Iron Plate"
+      "en_US": "Iron Plate",
+      "fr_FR": "Plaque Fer"
     },
     {
       "id": "UndergroundItems_Text_Close",
-      "en_US": "CLOSE"
+      "en_US": "CLOSE",
+      "fr_FR": "Fermer"
     },
     {
       "id": "UndergroundItems_Text_CloseDescription",
-      "en_US": "Close the Bag."
+      "en_US": "Close the Bag.",
+      "fr_FR": "Fermer le Sac."
     },
     {
       "id": "UndergroundItems_Text_ItemZeroDescription_Unused",
       "en_US": [
         "A crystal clear, hard sphere.\n",
         "It slowly grows when buried."
+      ],
+      "fr_FR": [
+        "Sphère blanche aux reflets arc-en-ciel.\n",
+        "Pousse lentement quand on l’enterre."
       ]
     },
     {
@@ -261,6 +327,10 @@
       "en_US": [
         "A crystal clear, hard sphere.\n",
         "It slowly grows when buried."
+      ],
+      "fr_FR": [
+        "Sphère blanche aux reflets arc-en-ciel.\n",
+        "Pousse lentement quand on l’enterre."
       ]
     },
     {
@@ -268,6 +338,10 @@
       "en_US": [
         "A white sphere that glows in seven\n",
         "colors. It slowly grows when buried."
+      ],
+      "fr_FR": [
+        "Sphère de cristal transparente. Pousse\n",
+        "lentement quand on l’enterre."
       ]
     },
     {
@@ -275,6 +349,10 @@
       "en_US": [
         "A red sphere that glows like fire.\n",
         "It slowly grows when buried."
+      ],
+      "fr_FR": [
+        "Sphère rouge feu. Pousse lentement\n",
+        "quand on l’enterre."
       ]
     },
     {
@@ -282,6 +360,10 @@
       "en_US": [
         "A blue sphere that glistens like ice.\n",
         "It slowly grows when buried."
+      ],
+      "fr_FR": [
+        "Sphère bleu glacier. Pousse lentement\n",
+        "quand on l’enterre."
       ]
     },
     {
@@ -289,6 +371,10 @@
       "en_US": [
         "A green sphere glowing like sunlight in\n",
         "leaves. It slowly grows when buried."
+      ],
+      "fr_FR": [
+        "Sphère vert feuille. Pousse lentement\n",
+        "quand on l’enterre."
       ]
     },
     {
@@ -296,6 +382,10 @@
       "en_US": [
         "A crystal clear, hard sphere.\n",
         "It slowly grows when buried."
+      ],
+      "fr_FR": [
+        "Sphère blanche aux reflets arc-en-ciel.\n",
+        "Pousse lentement quand on l’enterre."
       ]
     },
     {
@@ -303,6 +393,10 @@
       "en_US": [
         "A white sphere that glows in seven\n",
         "colors. It slowly grows when buried."
+      ],
+      "fr_FR": [
+        "Sphère de cristal transparente. Pousse\n",
+        "lentement quand on l’enterre."
       ]
     },
     {
@@ -310,6 +404,10 @@
       "en_US": [
         "A red sphere that glows like fire.\n",
         "It slowly grows when buried."
+      ],
+      "fr_FR": [
+        "Sphère rouge feu. Pousse lentement\n",
+        "quand on l’enterre."
       ]
     },
     {
@@ -317,6 +415,10 @@
       "en_US": [
         "A blue sphere that glistens like ice.\n",
         "It slowly grows when buried."
+      ],
+      "fr_FR": [
+        "Sphère bleu glacier. Pousse lentement\n",
+        "quand on l’enterre."
       ]
     },
     {
@@ -324,6 +426,10 @@
       "en_US": [
         "A green sphere glowing like sunlight in\n",
         "leaves. It slowly grows when buried."
+      ],
+      "fr_FR": [
+        "Sphère vert feuille. Pousse lentement\n",
+        "quand on l’enterre."
       ]
     },
     {
@@ -331,13 +437,18 @@
       "en_US": [
         "A pretty white stone that is shaped\n",
         "like an egg."
-      ]
+      ],
+      "fr_FR": "Jolie pierre blanche en forme d’œuf."
     },
     {
       "id": "UndergroundItems_Text_OddKeystoneDescription",
       "en_US": [
         "A vital item that is needed to keep a\n",
         "stone tower from collapsing."
+      ],
+      "fr_FR": [
+        "Un objet très important qui empêche une\n",
+        "tour en pierre de s’écrouler."
       ]
     },
     {
@@ -345,6 +456,10 @@
       "en_US": [
         "An odd stone needed for evolution.\n",
         "It is as red as the sun."
+      ],
+      "fr_FR": [
+        "Etrange pierre nécessaire pour l’évo-\n",
+        "lution. Elle est rouge comme le soleil."
       ]
     },
     {
@@ -352,6 +467,10 @@
       "en_US": [
         "A shard of a pretty, glowing gem.\n",
         "It can be sold at a high price."
+      ],
+      "fr_FR": [
+        "Fragment d’une gemme brillante. Peut se\n",
+        "vendre à bon prix."
       ]
     },
     {
@@ -359,6 +478,10 @@
       "en_US": [
         "An odd stone needed for evolution.\n",
         "It is as black as the night sky."
+      ],
+      "fr_FR": [
+        "Etrange pierre nécessaire pour l’évo-\n",
+        "lution. Elle est noire comme la nuit."
       ]
     },
     {
@@ -366,6 +489,10 @@
       "en_US": [
         "A hold item that raises the power of\n",
         "Rock-type moves."
+      ],
+      "fr_FR": [
+        "Objet à tenir montant la puissance des\n",
+        "capacités de type Roche."
       ]
     },
     {
@@ -373,6 +500,10 @@
       "en_US": [
         "An odd stone needed for evolution.\n",
         "It has a thunderbolt pattern."
+      ],
+      "fr_FR": [
+        "Etrange pierre nécessaire pour l’évo-\n",
+        "lution. Un éclair est dessiné dessus."
       ]
     },
     {
@@ -380,13 +511,18 @@
       "en_US": [
         "A hold item that prevents the\n",
         "holding Pokémon from evolving."
-      ]
+      ],
+      "fr_FR": "Objet à tenir qui empêche l’évolution. "
     },
     {
       "id": "UndergroundItems_Text_FireStoneDescription",
       "en_US": [
         "An odd stone needed for evolution.\n",
         "It is colored orange."
+      ],
+      "fr_FR": [
+        "Etrange pierre nécessaire pour\n",
+        "l’évolution. Elle est jaune et orange."
       ]
     },
     {
@@ -394,6 +530,10 @@
       "en_US": [
         "An odd stone needed for evolution.\n",
         "It is a clear light blue."
+      ],
+      "fr_FR": [
+        "Etrange pierre nécessaire pour\n",
+        "l’évolution. Elle est de couleur bleue."
       ]
     },
     {
@@ -401,6 +541,10 @@
       "en_US": [
         "An odd stone needed for evolution.\n",
         "It has a leaf pattern."
+      ],
+      "fr_FR": [
+        "Etrange pierre nécessaire pour l’évo-\n",
+        "lution. Une feuille est dessinée dessus."
       ]
     },
     {
@@ -408,6 +552,10 @@
       "en_US": [
         "A nugget of pure, gleaming gold.\n",
         "It can be sold for a high price."
+      ],
+      "fr_FR": [
+        "Pépite d’or pur. Peut être vendue à\n",
+        "bon prix."
       ]
     },
     {
@@ -415,6 +563,10 @@
       "en_US": [
         "A fossil of an ancient, seafloor-\n",
         "dwelling Pokémon’s seashell."
+      ],
+      "fr_FR": [
+        "Fossile du coquillage d’un ancien\n",
+        "Pokémon aquatique."
       ]
     },
     {
@@ -422,6 +574,10 @@
       "en_US": [
         "A fossil of an ancient, seafloor-\n",
         "dwelling Pokémon’s shell."
+      ],
+      "fr_FR": [
+        "Fossile de la carapace d’un ancien\n",
+        "Pokémon aquatique."
       ]
     },
     {
@@ -429,6 +585,10 @@
       "en_US": [
         "A fossil of an ancient, seafloor-\n",
         "dwelling Pokémon’s claw."
+      ],
+      "fr_FR": [
+        "Fossile d’une griffe d’un ancien\n",
+        "Pokémon aquatique."
       ]
     },
     {
@@ -436,6 +596,10 @@
       "en_US": [
         "A fossil of an ancient, seafloor-\n",
         "dwelling Pokémon’s root."
+      ],
+      "fr_FR": [
+        "Fossile de la racine d’un ancien\n",
+        "Pokémon aquatique."
       ]
     },
     {
@@ -443,6 +607,10 @@
       "en_US": [
         "A piece of amber that contains\n",
         "the genes of an ancient Pokémon."
+      ],
+      "fr_FR": [
+        "Morceau d’ambre contenant l’ADN\n",
+        "d’un ancien Pokémon."
       ]
     },
     {
@@ -450,6 +618,10 @@
       "en_US": [
         "An archaeologically important bone.\n",
         "It can be sold for a high price."
+      ],
+      "fr_FR": [
+        "Os important pour l’archéologie.\n",
+        "Peut être vendu à bon prix."
       ]
     },
     {
@@ -457,6 +629,10 @@
       "en_US": [
         "A medicine that revives a fainted\n",
         "Pokémon, restoring half its max HP."
+      ],
+      "fr_FR": [
+        "Médicament qui ranime un Pokémon K.O.\n",
+        "et restaure la moitié de ses PV max."
       ]
     },
     {
@@ -464,6 +640,10 @@
       "en_US": [
         "A medicine that revives a fainted\n",
         "Pokémon, restoring HP fully."
+      ],
+      "fr_FR": [
+        "Médicament qui ranime un Pokémon K.O.\n",
+        "et restaure tous ses PV."
       ]
     },
     {
@@ -471,6 +651,10 @@
       "en_US": [
         "It appears to be from some sort of\n",
         "a tool made long ago."
+      ],
+      "fr_FR": [
+        "Il semble provenir d’un outil très\n",
+        "ancien."
       ]
     },
     {
@@ -478,6 +662,10 @@
       "en_US": [
         "It appears to be from some sort of\n",
         "a tool made long ago."
+      ],
+      "fr_FR": [
+        "Il semble provenir d’un outil très\n",
+        "ancien."
       ]
     },
     {
@@ -485,6 +673,10 @@
       "en_US": [
         "It appears to be from some sort of\n",
         "a tool made long ago."
+      ],
+      "fr_FR": [
+        "Il semble provenir d’un outil très\n",
+        "ancien."
       ]
     },
     {
@@ -492,6 +684,10 @@
       "en_US": [
         "It appears to be from some sort of\n",
         "a tool made long ago."
+      ],
+      "fr_FR": [
+        "Il semble provenir d’un outil très\n",
+        "ancien."
       ]
     },
     {
@@ -499,6 +695,10 @@
       "en_US": [
         "A pretty, heart-shaped scale that\n",
         "is extremely rare. "
+      ],
+      "fr_FR": [
+        "Une jolie écaille en forme de cœur qui\n",
+        "est très rare."
       ]
     },
     {
@@ -506,6 +706,10 @@
       "en_US": [
         "A fossil from a prehistoric Pokémon.\n",
         "It appears to be part of a collar."
+      ],
+      "fr_FR": [
+        "Fossile d’un Pokémon préhistorique.\n",
+        "On dirait une partie d’un collier."
       ]
     },
     {
@@ -513,6 +717,10 @@
       "en_US": [
         "A fossil from a prehistoric Pokémon.\n",
         "It appears to be part of a skull."
+      ],
+      "fr_FR": [
+        "Fossile d’un Pokémon préhistorique.\n",
+        "On dirait une partie d’un crâne."
       ]
     },
     {
@@ -520,6 +728,10 @@
       "en_US": [
         "A hold item that extends the duration\n",
         "of Light Screen and Reflect."
+      ],
+      "fr_FR": [
+        "Objet à tenir augmentant la durée de\n",
+        "Mur Lumière et Protection."
       ]
     },
     {
@@ -527,6 +739,10 @@
       "en_US": [
         "A heavy hold item that cuts Speed.\n",
         "It prevents flying and levitation."
+      ],
+      "fr_FR": [
+        "Objet à tenir lourd réduisant la\n",
+        "Vitesse. Empêche de voler et léviter."
       ]
     },
     {
@@ -534,6 +750,10 @@
       "en_US": [
         "A hold item that extends the duration\n",
         "of the holder’s Hail move."
+      ],
+      "fr_FR": [
+        "Objet à tenir augmentant la durée de\n",
+        "la capacité Grêle du porteur."
       ]
     },
     {
@@ -541,6 +761,10 @@
       "en_US": [
         "A hold item that extends the duration\n",
         "of the holder’s Sandstorm move."
+      ],
+      "fr_FR": [
+        "Objet à tenir augmentant la durée de\n",
+        "la capacité Tempêtesable du porteur."
       ]
     },
     {
@@ -548,6 +772,10 @@
       "en_US": [
         "A hold item that extends the duration\n",
         "of the holder’s Sunny Day move."
+      ],
+      "fr_FR": [
+        "Objet à tenir augmentant la durée de\n",
+        "la capacité Zénith du porteur."
       ]
     },
     {
@@ -555,6 +783,10 @@
       "en_US": [
         "A hold item that extends the duration\n",
         "of the holder’s Rain Dance move."
+      ],
+      "fr_FR": [
+        "Objet à tenir augmentant la durée de\n",
+        "la capacité Danse Pluie du porteur."
       ]
     },
     {
@@ -562,6 +794,10 @@
       "en_US": [
         "A hold item that raises the power of\n",
         "Fire-type moves."
+      ],
+      "fr_FR": [
+        "Objet à tenir augmentant la puissance\n",
+        "des capacités de type Feu."
       ]
     },
     {
@@ -569,6 +805,10 @@
       "en_US": [
         "A hold item that raises the power of\n",
         "Water-type moves."
+      ],
+      "fr_FR": [
+        "Objet à tenir augmentant la puissance\n",
+        "des capacités de type Eau."
       ]
     },
     {
@@ -576,6 +816,10 @@
       "en_US": [
         "A hold item that raises the power of\n",
         "Electric-type moves."
+      ],
+      "fr_FR": [
+        "Objet à tenir augmentant la puissance\n",
+        "des capacités de type Electrik."
       ]
     },
     {
@@ -583,6 +827,10 @@
       "en_US": [
         "A hold item that raises the power of\n",
         "Grass-type moves."
+      ],
+      "fr_FR": [
+        "Objet à tenir augmentant la puissance\n",
+        "des capacités de type Plante."
       ]
     },
     {
@@ -590,6 +838,10 @@
       "en_US": [
         "A hold item that raises the power of\n",
         "Ice-type moves."
+      ],
+      "fr_FR": [
+        "Objet à tenir augmentant la puissance\n",
+        "des capacités de type Glace."
       ]
     },
     {
@@ -597,6 +849,10 @@
       "en_US": [
         "A hold item that raises the power of\n",
         "Fighting-type moves."
+      ],
+      "fr_FR": [
+        "Objet à tenir augmentant la puissance\n",
+        "des capacités de type Combat."
       ]
     },
     {
@@ -604,6 +860,10 @@
       "en_US": [
         "A hold item that raises the power of\n",
         "Poison-type moves."
+      ],
+      "fr_FR": [
+        "Objet à tenir augmentant la puissance\n",
+        "des capacités de type Poison."
       ]
     },
     {
@@ -611,6 +871,10 @@
       "en_US": [
         "A hold item that raises the power of\n",
         "Ground-type moves."
+      ],
+      "fr_FR": [
+        "Objet à tenir augmentant la puissance\n",
+        "des capacités de type Sol."
       ]
     },
     {
@@ -618,6 +882,10 @@
       "en_US": [
         "A hold item that raises the power of\n",
         "Flying-type moves."
+      ],
+      "fr_FR": [
+        "Objet à tenir augmentant la puissance\n",
+        "des capacités de type Vol."
       ]
     },
     {
@@ -625,6 +893,10 @@
       "en_US": [
         "A hold item that raises the power of\n",
         "Psychic-type moves."
+      ],
+      "fr_FR": [
+        "Objet à tenir augmentant la puissance\n",
+        "des capacités de type Psy."
       ]
     },
     {
@@ -632,6 +904,10 @@
       "en_US": [
         "A hold item that raises the power of\n",
         "Bug-type moves."
+      ],
+      "fr_FR": [
+        "Objet à tenir augmentant la puissance\n",
+        "des capacités de type Insecte."
       ]
     },
     {
@@ -639,6 +915,10 @@
       "en_US": [
         "A hold item that raises the power of\n",
         "Rock-type moves."
+      ],
+      "fr_FR": [
+        "Objet à tenir augmentant la puissance\n",
+        "des capacités de type Roche."
       ]
     },
     {
@@ -646,6 +926,10 @@
       "en_US": [
         "A hold item that raises the power of\n",
         "Ghost-type moves."
+      ],
+      "fr_FR": [
+        "Objet à tenir augmentant la puissance\n",
+        "des capacités de type Spectre."
       ]
     },
     {
@@ -653,6 +937,10 @@
       "en_US": [
         "A hold item that raises the power of\n",
         "Dragon-type moves."
+      ],
+      "fr_FR": [
+        "Objet à tenir augmentant la puissance\n",
+        "des capacités de type Dragon."
       ]
     },
     {
@@ -660,6 +948,10 @@
       "en_US": [
         "A hold item that raises the power of\n",
         "Dark-type moves."
+      ],
+      "fr_FR": [
+        "Objet à tenir augmentant la puissance\n",
+        "des capacités de type Ténèbres."
       ]
     },
     {
@@ -667,6 +959,10 @@
       "en_US": [
         "A hold item that raises the power of\n",
         "Steel-type moves."
+      ],
+      "fr_FR": [
+        "Objet à tenir augmentant la puissance\n",
+        "des capacités de type Acier."
       ]
     }
   ]

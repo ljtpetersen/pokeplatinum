@@ -26,5 +26,13 @@
   "battlePocket": "BATTLE_POCKET_MASK_NONE",
   "fieldUseFunc": "ITEM_USE_FUNC_OLD_ROD",
   "battleUseCategory": "BATTLE_USE_CATEGORY_NONE",
-  "itemUseParams": null
+  "itemUseParams": null,
+  "name_fr": "Canne",
+  "description_fr": [
+    "Une vieille canne usée. Utilisez-la pour\n",
+    "pêcher des Pokémon sauvages dans\n",
+    "les points d’eau."
+  ],
+  "plural_fr": "Canne",
+  "article_fr": null
 }

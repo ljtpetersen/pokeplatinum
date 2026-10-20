@@ -26,5 +26,12 @@
     "contest": {
         "effect": "CONTEST_EFFECT_FIRST_PERFORMANCE_ADVANTAGE",
         "type": "CONTEST_TYPE_COOL"
-    }
+    },
+    "name_fr": "Poing-Eclair",
+    "description_fr": [
+        "Un coup de poing\n",
+        "électrique vient\n",
+        "frapper l’ennemi. Peut\n",
+        "le paralyser."
+    ]
 }

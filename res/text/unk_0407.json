@@ -3,7 +3,11 @@
   "messages": [
     {
       "id": "pl_msg_00000407_00000",
-      "en_US": "Throw Berries into SWALOT’s big mouth!"
+      "en_US": "Throw Berries into SWALOT’s big mouth!",
+      "fr_FR": [
+        "Jetez des Baies dans la bouche\n",
+        "d’AVALTOUT."
+      ]
     },
     {
       "id": "pl_msg_00000407_00001",

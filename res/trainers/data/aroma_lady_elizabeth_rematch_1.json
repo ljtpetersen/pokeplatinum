@@ -24,6 +24,10 @@
             "en_US": [
                 "Sniff... Oh?\n",
                 "Your Pokémon smells nice!\r"
+            ],
+            "fr_FR": [
+                "Snif... Oh?\n",
+                "Ton Pokémon sent bon!\r"
             ]
         },
         {
@@ -31,7 +35,12 @@
             "en_US": [
                 "Did you understand what I meant?\n",
                 "Didn’t my Pokémon smell nice?\n"
+            ],
+            "fr_FR": [
+                "Tu as compris ce que je voulais dire?\n",
+                "Mon Pokémon ne sentait pas bon?\n"
             ]
         }
-    ]
+    ],
+    "name_fr": "Lorna"
 }

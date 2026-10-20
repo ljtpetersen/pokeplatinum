@@ -27,5 +27,13 @@
   "fieldUseFunc": "ITEM_USE_FUNC_TM_HM",
   "battleUseCategory": "BATTLE_USE_CATEGORY_NONE",
   "itemUseParams": null,
-  "teachesMove": "MOVE_RECYCLE"
+  "teachesMove": "MOVE_RECYCLE",
+  "name_fr": "CT67",
+  "description_fr": [
+    "Recycle un objet à usage unique déjà\n",
+    "utilisé lors du combat pour pouvoir\n",
+    "l’utiliser à nouveau."
+  ],
+  "plural_fr": "CT67",
+  "article_fr": null
 }

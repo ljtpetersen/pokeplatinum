@@ -23,11 +23,17 @@
             "en_US": [
                 "I’ve been lounging here all this\n",
                 "time!\r"
+            ],
+            "fr_FR": [
+                "J’ai traîné dans le coin tout ce\n",
+                "temps!\r"
             ]
         },
         {
             "type": "TRMSG_DEFEAT",
-            "en_US": "I lost, and now I feel hungry.\n"
+            "en_US": "I lost, and now I feel hungry.\n",
+            "fr_FR": "J’ai perdu, et maintenant j’ai faim.\n"
         }
-    ]
+    ],
+    "name_fr": "Angelina"
 }

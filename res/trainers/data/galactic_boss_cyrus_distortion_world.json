@@ -89,6 +89,10 @@
             "en_US": [
                 "I admit that you have pushed me\n",
                 "to this extreme.\n"
+            ],
+            "fr_FR": [
+                "J’admets que tu m’as poussé dans\n",
+                "mes derniers retranchements."
             ]
         },
         {
@@ -96,6 +100,10 @@
             "en_US": [
                 "This... This cannot be!\n",
                 "It’s not possible that I lose!\n"
+            ],
+            "fr_FR": [
+                "Ce... ce n’est pas possible!\n",
+                "Je ne peux pas perdre! Impossible!\n"
             ]
         },
         {
@@ -109,7 +117,18 @@
                 "Of my new galaxy?!\r",
                 "Was this all a dream to be swept away\n",
                 "by your reality?!\n"
+            ],
+            "fr_FR": [
+                "C’est inacceptable!\n",
+                "C’est impossible!\r",
+                "Après tous les sacrifices auxquels\n",
+                "j’ai consenti pour en arriver là!\r",
+                "Où est le monde nouveau dont je rêvais?\n",
+                "Où est cette galaxie nouvelle?\r",
+                "Mon rêve doit-il mourir sur l’autel\n",
+                "de ta réalité?\n"
             ]
         }
-    ]
+    ],
+    "name_fr": "Hélio"
 }

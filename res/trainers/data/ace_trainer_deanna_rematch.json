@@ -46,6 +46,12 @@
                 "we met, but they were all weak...\r",
                 "I relish the tough resistance that\n",
                 "only you can provide!\r"
+            ],
+            "fr_FR": [
+                "Nous avons affronté beaucoup de\n",
+                "Dresseurs depuis notre dernier combat.\r",
+                "Mais aucun ne t’arrivait à la\n",
+                "cheville!\r"
             ]
         },
         {
@@ -53,7 +59,12 @@
             "en_US": [
                 "I’ve found a tough adversary in\n",
                 "you...\n"
+            ],
+            "fr_FR": [
+                "Ta pugnacité n’a d’égale que\n",
+                "ta valeur...\n"
             ]
         }
-    ]
+    ],
+    "name_fr": "Gaëlle"
 }

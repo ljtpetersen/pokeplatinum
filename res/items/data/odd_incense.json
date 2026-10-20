@@ -26,5 +26,13 @@
   "battlePocket": "BATTLE_POCKET_MASK_NONE",
   "fieldUseFunc": "ITEM_USE_FUNC_NONE",
   "battleUseCategory": "BATTLE_USE_CATEGORY_NONE",
-  "itemUseParams": null
+  "itemUseParams": null,
+  "name_fr": "Bizar.Encens",
+  "description_fr": [
+    "Objet à tenir. Encens au parfum\n",
+    "exotique augmentant la puissance des\n",
+    "attaques de type Psy."
+  ],
+  "plural_fr": "Bizar.Encens",
+  "article_fr": null
 }

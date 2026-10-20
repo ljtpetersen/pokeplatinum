@@ -27,5 +27,13 @@
     "contest": {
         "effect": "CONTEST_EFFECT_LOW_VOLTAGE_ADVANTAGE",
         "type": "CONTEST_TYPE_TOUGH"
-    }
+    },
+    "name_fr": "Léchouille",
+    "description_fr": [
+        "Un grand coup de\n",
+        "langue qui inflige des\n",
+        "dégâts à l’ennemi.\n",
+        "Peut aussi le\n",
+        "paralyser."
+    ]
 }

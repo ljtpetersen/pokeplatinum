@@ -3,99 +3,123 @@
   "messages": [
     {
       "id": "pl_msg_00000344_00000",
-      "en_US": "Start debug"
+      "en_US": "Start debug",
+      "fr_FR": "Start debug"
     },
     {
       "id": "pl_msg_00000344_00001",
-      "en_US": "Select Name"
+      "en_US": "Select Name",
+      "fr_FR": "Select Name"
     },
     {
       "id": "pl_msg_00000344_00002",
-      "en_US": "Continue"
+      "en_US": "Continue",
+      "fr_FR": "Continue"
     },
     {
       "id": "pl_msg_00000344_00003",
-      "en_US": "Opening"
+      "en_US": "Opening",
+      "fr_FR": "Opening"
     },
     {
       "id": "pl_msg_00000344_00004",
-      "en_US": "Sound test"
+      "en_US": "Sound test",
+      "fr_FR": "Sound test"
     },
     {
       "id": "pl_msg_00000344_00005",
-      "en_US": "Pokémon graphics"
+      "en_US": "Pokémon graphics",
+      "fr_FR": "Pokémon graphics"
     },
     {
       "id": "pl_msg_00000344_00006",
-      "en_US": "Back"
+      "en_US": "Back",
+      "fr_FR": "Back"
     },
     {
       "id": "pl_msg_00000344_00007",
-      "en_US": "Debug Fight"
+      "en_US": "Debug Fight",
+      "fr_FR": "Debug Fight"
     },
     {
       "id": "pl_msg_00000344_00008",
-      "en_US": "Wi-Fi settings"
+      "en_US": "Wi-Fi settings",
+      "fr_FR": "Wi-Fi settings"
     },
     {
       "id": "pl_msg_00000344_00009",
-      "en_US": "Wi-Fi Test"
+      "en_US": "Wi-Fi Test",
+      "fr_FR": "Wi-Fi Test"
     },
     {
       "id": "pl_msg_00000344_00010",
-      "en_US": "Trainer graphics"
+      "en_US": "Trainer graphics",
+      "fr_FR": "Trainer graphics"
     },
     {
       "id": "pl_msg_00000344_00011",
-      "en_US": "Save data corrupted"
+      "en_US": "Save data corrupted",
+      "fr_FR": "Save data corrupted"
     },
     {
       "id": "pl_msg_00000344_00012",
-      "en_US": "Modify RTC"
+      "en_US": "Modify RTC",
+      "fr_FR": "Modify RTC"
     },
     {
       "id": "pl_msg_00000344_00013",
-      "en_US": "{STRVAR_1 74, 0, 0} {STRVAR_1 51, 1, 0} Time: {STRVAR_1 51, 2, 0}:{STRVAR_1 51, 3, 0}"
+      "en_US": "{STRVAR_1 74, 0, 0} {STRVAR_1 51, 1, 0} Time: {STRVAR_1 51, 2, 0}:{STRVAR_1 51, 3, 0}",
+      "fr_FR": "{STRVAR_1 74, 0, 0} {STRVAR_1 51, 1, 0} Time: {STRVAR_1 51, 2, 0}:{STRVAR_1 51, 3, 0}"
     },
     {
       "id": "pl_msg_00000344_00014",
-      "en_US": "Animation Editor"
+      "en_US": "Animation Editor",
+      "fr_FR": "Animation Editor"
     },
     {
       "id": "pl_msg_00000344_00015",
-      "en_US": "Ball Capsule Editor"
+      "en_US": "Ball Capsule Editor",
+      "fr_FR": "Ball Capsule Editor"
     },
     {
       "id": "pl_msg_00000344_00016",
-      "en_US": "Contest"
+      "en_US": "Contest",
+      "fr_FR": "Contest"
     },
     {
       "id": "pl_msg_00000344_00017",
-      "en_US": "Destroy the outside saved file"
+      "en_US": "Destroy the outside saved file",
+      "fr_FR": "Destroy the outside saved file"
     },
     {
       "id": "pl_msg_00000344_00018",
-      "en_US": "Font Viewer"
+      "en_US": "Font Viewer",
+      "fr_FR": "Font Viewer"
     },
     {
       "id": "pl_msg_00000344_00019",
-      "en_US": "SYSTEM (CARD)"
+      "en_US": "SYSTEM (CARD)",
+      "fr_FR": "SYSTEM (CARD)"
     },
     {
       "id": "pl_msg_00000344_00020",
-      "en_US": "TALK (CARD)"
+      "en_US": "TALK (CARD)",
+      "fr_FR": "TALK (CARD)"
     },
     {
       "id": "pl_msg_00000344_00021",
-      "en_US": "BUTTON (CARD)"
+      "en_US": "BUTTON (CARD)",
+      "fr_FR": "BUTTON (CARD)"
     },
     {
       "id": "pl_msg_00000344_00022",
-      "en_US": "SYSTEM (MEMORY)"
+      "en_US": "SYSTEM (MEMORY)",
+      "fr_FR": "SYSTEM (MEMORY)"
     },
     {
       "id": "pl_msg_00000344_00023",
-      "en_US": "TALK (MEMORY)"
+      "en_US": "TALK (MEMORY)",
+      "fr_FR": "TALK (MEMORY)"
     }
   ]
 }

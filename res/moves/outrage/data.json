@@ -28,5 +28,13 @@
     "contest": {
         "effect": "CONTEST_EFFECT_CONSECUTIVE_USE",
         "type": "CONTEST_TYPE_COOL"
-    }
+    },
+    "name_fr": "Colère",
+    "description_fr": [
+        "Le lanceur laisse\n",
+        "éclater sa rage et\n",
+        "attaque pendant 2 à\n",
+        "3 tours avant de\n",
+        "céder à la confusion."
+    ]
 }

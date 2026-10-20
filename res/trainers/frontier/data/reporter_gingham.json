@@ -59,6 +59,10 @@
             "en_US": [
                 "This microphone is what made me a star.\n",
                 "It’s my all and everything."
+            ],
+            "fr_FR": [
+                "C’est grâce à ce micro que je suis\n",
+                "devenue célèbre. J’y tiens beaucoup."
             ]
         },
         {
@@ -66,11 +70,17 @@
             "en_US": [
                 "Even for a battle, I don’t let this\n",
                 "microphone leave my hand.\r"
+            ],
+            "fr_FR": [
+                "Même en plein combat, je ne me sépare\n",
+                "jamais de ce micro.\r"
             ]
         },
         {
             "type": "TRMSG_DEFEAT",
-            "en_US": "...Thud. Bzzzzt...\r"
+            "en_US": "...Thud. Bzzzzt...\r",
+            "fr_FR": "Boum! Bzzzz...\r"
         }
-    ]
+    ],
+    "name_fr": "Ginger"
 }

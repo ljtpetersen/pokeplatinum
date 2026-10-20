@@ -51,13 +51,18 @@
             "en_US": [
                 "I’ll have you know that I’m an Internet\n",
                 "detective."
-            ]
+            ],
+            "fr_FR": "Je travaille comme cyberdétective."
         },
         {
             "type": "TRMSG_WIN",
             "en_US": [
                 "My powers of observation and logic\n",
                 "prevailed!\r"
+            ],
+            "fr_FR": [
+                "Le pouvoir de l’observation et de la\n",
+                "logique a triomphé!\r"
             ]
         },
         {
@@ -65,7 +70,12 @@
             "en_US": [
                 "Think you’ve outsmarted me?\n",
                 "Maybe this was just a sting operation!\r"
+            ],
+            "fr_FR": [
+                "Tu te crois plus habile que moi?\n",
+                "Peut-être que je t’ai tendu un piège...\r"
             ]
         }
-    ]
+    ],
+    "name_fr": "Terence"
 }

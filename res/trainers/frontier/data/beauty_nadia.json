@@ -109,6 +109,10 @@
             "en_US": [
                 "How much longer do I have to wait for a\n",
                 "Trainer that’s any good?"
+            ],
+            "fr_FR": [
+                "Combien de temps vais-je devoir\n",
+                "attendre un Dresseur compétent?"
             ]
         },
         {
@@ -116,6 +120,10 @@
             "en_US": [
                 "I’m so bored by the weak competition.\n",
                 "Maybe I’ll just retire.\r"
+            ],
+            "fr_FR": [
+                "Je suis lasse de tous ces incompétents.\n",
+                "Je devrais prendre ma retraite...\r"
             ]
         },
         {
@@ -123,7 +131,12 @@
             "en_US": [
                 "Oh, hello, there.\n",
                 "Now, you’re a little special.\r"
+            ],
+            "fr_FR": [
+                "Contente d’avoir fait ta connaissance.\n",
+                "Tu n’es pas n’importe qui.\r"
             ]
         }
-    ]
+    ],
+    "name_fr": "Suzon"
 }

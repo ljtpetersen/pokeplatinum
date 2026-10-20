@@ -11,11 +11,21 @@
         "leads to new discoveries?\r",
         "It’s the same for parents and kids.\n",
         "I’m always learning from my kids."
+      ],
+      "fr_FR": [
+        "Eh bien, tu es un Dresseur?\r",
+        "Tu es à la fois le papa et la\n",
+        "maman de tes Pokémon.\r",
+        "Chaque jour, tu apprends quelque chose\n",
+        "auprès de tes Pokémon, pas vrai?\r",
+        "C’est pareil avec les enfants.\n",
+        "Ils m’apprennent beaucoup de choses."
       ]
     },
     {
       "id": "HearthomeCityNortheastHouse1F_Text_KuufuFuu",
-      "en_US": "Kuufu fuu!"
+      "en_US": "Kuufu fuu!",
+      "fr_FR": "Agah agah!"
     },
     {
       "id": "HearthomeCityNortheastHouse1F_Text_BabiesAndPokemonGetAlong",
@@ -24,6 +34,12 @@
         "perfectly together.\r",
         "When babies take naps, Pokémon go\n",
         "to sleep right next to them."
+      ],
+      "fr_FR": [
+        "Les bébés et les Pokémon s’entendent\n",
+        "à merveille.\r",
+        "Quand les bébés font une sieste, les \n",
+        "Pokémon s’endorment juste à côté."
       ]
     },
     {
@@ -31,6 +47,10 @@
       "en_US": [
         "When I get bigger, I’m going to be\n",
         "a Trainer, too!"
+      ],
+      "fr_FR": [
+        "Quand je serai grand, moi aussi je serai\n",
+        "un Dresseur!"
       ]
     },
     {
@@ -38,6 +58,10 @@
       "en_US": [
         "When I grow up, I want to become\n",
         "a Pokémon coordinator."
+      ],
+      "fr_FR": [
+        "Quand je serai grande, je veux devenir\n",
+        "coordinatrice de Pokémon."
       ]
     },
     {
@@ -45,6 +69,10 @@
       "en_US": [
         "...My sisters make so much noise, no\n",
         "one even notices me."
+      ],
+      "fr_FR": [
+        "Mes sœurs sont si bruyantes qu’on me\n",
+        "remarque à peine."
       ]
     },
     {
@@ -55,6 +83,12 @@
         "a lot of responsibility.\r",
         "But that also comes with a lot\n",
         "of fun!"
+      ],
+      "fr_FR": [
+        "Oh, waouh, t’es un Dresseur Pokémon.\r",
+        "C’est une énorme responsabilité\n",
+        "d’avoir autant de Pokémon.\r",
+        "Mais c’est aussi très amusant!"
       ]
     },
     {
@@ -63,7 +97,8 @@
     },
     {
       "id": "HearthomeCityNortheastHouse1F_Text_PikachuCryPikapii",
-      "en_US": "PIKACHU: Pikapii?"
+      "en_US": "PIKACHU: Pikapii?",
+      "fr_FR": "PIKACHU: Pikapii?"
     }
   ]
 }

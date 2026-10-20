@@ -43,18 +43,31 @@
             "en_US": [
                 "Dragons and a fiery mountain...\n",
                 "It’s a totally classic setup!\r"
+            ],
+            "fr_FR": [
+                "Des Dragons et une montagne ardente...\n",
+                "C’est un scénario classique!\r"
             ]
         },
         {
             "type": "TRMSG_DEFEAT",
-            "en_US": "Losing isn’t a happy occasion...\n"
+            "en_US": "Losing isn’t a happy occasion...\n",
+            "fr_FR": [
+                "Une défaite n’est pas une occasion\n",
+                "heureuse...\n"
+            ]
         },
         {
             "type": "TRMSG_POST_BATTLE",
             "en_US": [
                 "My Pokémon seem to like it here\n",
                 "a lot.\n"
+            ],
+            "fr_FR": [
+                "Mes Pokémon ont l’air de beaucoup aimer\n",
+                "cet endroit.\n"
             ]
         }
-    ]
+    ],
+    "name_fr": "Sasha"
 }

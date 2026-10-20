@@ -17,6 +17,22 @@
         "learn about the Fighting type.\r",
         "It’s because the Ice type matches up\n",
         "badly against the Fighting type.\n"
+      ],
+      "fr_FR": [
+        "Mélina: Brrr...\r",
+        "Oh, salut, {STRVAR_1 3, 0, 0}!\n",
+        "Tu vas défier le Champion d’Arène?\r",
+        "Moi aussi, j’ai l’intention d’affronter\n",
+        "Gladys bientôt, mais pas avant de\f",
+        "m’être échauffée un peu.\r",
+        "A ce propos, tu dois savoir que Gladys\n",
+        "utilise des Pokémon de type Glace.\r",
+        "Je suis en admiration devant son\n",
+        "application et son sérieux.\r",
+        "Elle a insisté pour s’entraîner contre\n",
+        "mes Pokémon de type Combat.\r",
+        "Tu comprends, le type Glace est\n",
+        "désavantagé face au type Combat."
       ]
     },
     {
@@ -28,6 +44,13 @@
         "use the hidden move Rock Climb?\r",
         "Rock Climb can be learned by Rock-type\n",
         "or Fighting-type Pokémon, I think."
+      ],
+      "fr_FR": [
+        "Mélina: Oh! C’est le Badge Glaçon!\r",
+        "Il te permet d’utiliser la capacité\n",
+        "secrète Escalade hors combat, non?\r",
+        "Je crois que seuls les Pokémon de type\n",
+        "Roche ou Combat peuvent l’apprendre."
       ]
     },
     {
@@ -36,6 +59,11 @@
         "You know how there are many Ice-type\n",
         "Pokémon around Snowpoint City?\f",
         "I wonder if they also live in the temple?"
+      ],
+      "fr_FR": [
+        "Tu sais qu’il y a beaucoup de Pokémon\n",
+        "de type Glace autour de Frimapic?\f",
+        "Je me demande s’ils vivent au temple."
       ]
     },
     {
@@ -43,11 +71,16 @@
       "en_US": [
         "Sound gets swallowed up by the snow.\n",
         "That’s why it’s very quiet here."
+      ],
+      "fr_FR": [
+        "La neige absorbe les sons. C’est pour\n",
+        "ça que cet endroit est si silencieux."
       ]
     },
     {
       "id": "SnowpointCityPokecenter1F_Text_PsyduckCry",
-      "en_US": "PSYDUCK: Gaga guwawa!"
+      "en_US": "PSYDUCK: Gaga guwawa!",
+      "fr_FR": "PSYKOKWAK: Psyko... Psykokwak!"
     },
     {
       "id": "SnowpointCityPokecenter1F_Text_GraceIntro_Unused",
@@ -56,6 +89,12 @@
         "show in Snowpoint!\r",
         "I’m so happy you came to see me!\n",
         "I’ll battle you as my thank-you!"
+      ],
+      "fr_FR": [
+        "Merci d’être là pour le concert de\n",
+        "Romane, en direct live à Frimapic!\r",
+        "Je suis si contente de te voir, public\n",
+        "adoré! Battons-nous pour fêter ça!"
       ]
     },
     {
@@ -63,6 +102,10 @@
       "en_US": [
         "I’ll let you join my fan club if you can\n",
         "beat me!\r"
+      ],
+      "fr_FR": [
+        "Si tu arrives à me battre, tu pourras\n",
+        "faire partie de mon fan-club!\r"
       ]
     },
     {
@@ -70,6 +113,10 @@
       "en_US": [
         "But my song!\n",
         "It’s nicer than that Crasher Wake’s!"
+      ],
+      "fr_FR": [
+        "Et ma chanson? Elle est mieux que celle\n",
+        "de Lovis le Teigneux!"
       ]
     },
     {
@@ -80,6 +127,14 @@
         "heart out in snowy Snowpoint!\r",
         "...To a crowd of none.\n",
         "...This is Grace. Thanks for listening..."
+      ],
+      "fr_FR": [
+        "Mon rêve, c’est d’être une super Star!\r",
+        "Je ferai fondre les cœurs en\n",
+        "chantant à tue-tête depuis les\f",
+        "hauteurs enneigées de Frimapic!\r",
+        "Où le public se fait rare... C’était\n",
+        "Romane, merci de votre attention..."
       ]
     }
   ]

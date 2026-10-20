@@ -27,5 +27,13 @@
   "fieldUseFunc": "ITEM_USE_FUNC_TM_HM",
   "battleUseCategory": "BATTLE_USE_CATEGORY_NONE",
   "itemUseParams": null,
-  "teachesMove": "MOVE_ROCK_CLIMB"
+  "teachesMove": "MOVE_ROCK_CLIMB",
+  "name_fr": "CS08",
+  "description_fr": [
+    "Charge pouvant rendre l’ennemi confus.\n",
+    "Permet aussi d’escalader des parois\n",
+    "rocheuses."
+  ],
+  "plural_fr": "CS08",
+  "article_fr": null
 }

@@ -26,5 +26,13 @@
     "contest": {
         "effect": "CONTEST_EFFECT_MAX_VOLTAGE_ADVANTAGE",
         "type": "CONTEST_TYPE_BEAUTY"
-    }
+    },
+    "name_fr": "Rafale Feu",
+    "description_fr": [
+        "Une explosion ardente\n",
+        "souffle l’adversaire.\n",
+        "Le lanceur doit\n",
+        "se reposer au\n",
+        "tour suivant."
+    ]
 }

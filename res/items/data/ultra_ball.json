@@ -26,5 +26,13 @@
   "battlePocket": "BATTLE_POCKET_MASK_POKE_BALLS",
   "fieldUseFunc": "ITEM_USE_FUNC_NONE",
   "battleUseCategory": "BATTLE_USE_CATEGORY_POKE_BALL",
-  "itemUseParams": null
+  "itemUseParams": null,
+  "name_fr": "Hyper Ball",
+  "description_fr": [
+    "Une Ball ultraperformante dont le taux\n",
+    "de réussite est supérieur à celui de la\n",
+    "Super Ball."
+  ],
+  "plural_fr": "Hyper Ball",
+  "article_fr": null
 }

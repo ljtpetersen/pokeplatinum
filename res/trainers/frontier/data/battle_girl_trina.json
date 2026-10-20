@@ -57,18 +57,31 @@
             "en_US": [
                 "...To get this far, I had to make\n",
                 "sacrifices. Many, many sacrifices."
+            ],
+            "fr_FR": [
+                "Pour arriver à ce niveau, j’ai dû faire\n",
+                "des sacrifices. Beaucoup de sacrifices."
             ]
         },
         {
             "type": "TRMSG_WIN",
-            "en_US": "It’s for this one moment that I live.\r"
+            "en_US": "It’s for this one moment that I live.\r",
+            "fr_FR": [
+                "Je ne vis que pour des moments\n",
+                "comme celui-ci.\r"
+            ]
         },
         {
             "type": "TRMSG_DEFEAT",
             "en_US": [
                 "What else do I have to give up so I can\n",
                 "beat you?\r"
+            ],
+            "fr_FR": [
+                "Qu’est-ce que je peux sacrifier d’autre\n",
+                "pour te battre, hein?\r"
             ]
         }
-    ]
+    ],
+    "name_fr": "Manuela"
 }

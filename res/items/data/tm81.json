@@ -27,5 +27,13 @@
   "fieldUseFunc": "ITEM_USE_FUNC_TM_HM",
   "battleUseCategory": "BATTLE_USE_CATEGORY_NONE",
   "itemUseParams": null,
-  "teachesMove": "MOVE_X_SCISSOR"
+  "teachesMove": "MOVE_X_SCISSOR",
+  "name_fr": "CT81",
+  "description_fr": [
+    "Le lanceur taillade l’ennemi en utilisant\n",
+    "ses faux ou ses griffes comme une\n",
+    "paire de ciseaux."
+  ],
+  "plural_fr": "CT81",
+  "article_fr": null
 }

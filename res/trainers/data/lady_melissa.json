@@ -25,6 +25,10 @@
             "en_US": [
                 "I’d like to begin now.\n",
                 "Are you quite prepared?\r"
+            ],
+            "fr_FR": [
+                "J’aimerais commencer, maintenant.\n",
+                "As-tu fini de te préparer?\r"
             ]
         },
         {
@@ -32,13 +36,18 @@
             "en_US": [
                 "Oh!\n",
                 "How terrible of you...\n"
-            ]
+            ],
+            "fr_FR": "Oh, voilà qui est fort cavalier.\n"
         },
         {
             "type": "TRMSG_POST_BATTLE",
             "en_US": [
                 "You... You must have one fantastic\n",
                 "teacher to be so good.\n"
+            ],
+            "fr_FR": [
+                "Tu... tu dois avoir un excellent\n",
+                "professeur! Donne-moi son nom!"
             ]
         },
         {
@@ -46,7 +55,12 @@
             "en_US": [
                 "We meet again.\n",
                 "Are you quite prepared?\r"
+            ],
+            "fr_FR": [
+                "Oh, nous nous rencontrons à nouveau.\n",
+                "As-tu fini de te préparer?\r"
             ]
         }
-    ]
+    ],
+    "name_fr": "Sandrine"
 }

@@ -8,6 +8,12 @@
         "The professor told me something.\r",
         "It’s possible that either DIALGA or\n",
         "PALKIA will appear at the Spear Pillar!"
+      ],
+      "fr_FR": [
+        "Aurore: Hé, {STRVAR_1 3, 0, 0}!\n",
+        "Le professeur m’a dit une chose.\r",
+        "Il pense que DIALGA ou PALKIA va\n",
+        "apparaître aux Colonnes Lances..."
       ]
     },
     {
@@ -18,6 +24,13 @@
         "Celestic Town, aren’t you?\r",
         "She told me that she had something\n",
         "important to tell you."
+      ],
+      "fr_FR": [
+        "Aurore: Bonjour, {STRVAR_1 3, 0, 0}!\r",
+        "Tu es ami avec la doyenne de Célestia,\n",
+        "n’est-ce pas?\r",
+        "Elle m’a dit qu’elle avait quelque chose\n",
+        "d’important à te dire."
       ]
     },
     {
@@ -30,6 +43,15 @@
         "of Pokémon in Sinnoh!\r",
         "Hey, let’s go show your Pokédex to\n",
         "Prof. Rowan!"
+      ],
+      "fr_FR": [
+        "Aurore: Bonjour, {STRVAR_1 3, 0, 0}!\n",
+        "Je peux voir ton Pokédex?\r",
+        "...\r",
+        "Oh, incroyable! Tu as vu toutes les\n",
+        "espèces de Pokémon de Sinnoh!\r",
+        "Hé, si on allait montrer ton Pokédex\n",
+        "au Professeur Sorbier?"
       ]
     },
     {
@@ -37,6 +59,10 @@
       "en_US": [
         "Dawn: Hey, {STRVAR_1 3, 0, 0}, have you\n",
         "ever chatted with my kid sister?"
+      ],
+      "fr_FR": [
+        "Aurore: Hé, {STRVAR_1 3, 0, 0}, as-tu déjà\n",
+        "discuté avec ma petite sœur?"
       ]
     },
     {
@@ -50,6 +76,16 @@
         "She’s the administrator of the Pokémon\n",
         "Storage System.\r",
         "She’s awesome!"
+      ],
+      "fr_FR": [
+        "Aurore: Oh, {STRVAR_1 3, 0, 0}, as-tu déjà\n",
+        "rencontré Amelle?\r",
+        "Elle vit à Unionpolis.\r",
+        "Tous les Dresseurs devraient aller\n",
+        "lui rendre visite.\r",
+        "Elle a beaucoup travaillé au système\n",
+        "de Gestion de Stocks de Pokémon.\r",
+        "Elle est vraiment géniale!"
       ]
     },
     {
@@ -60,6 +96,13 @@
         "I’ve got one, too!\r",
         "I’ll show you how to use it.\n",
         "Come with me to Rt. 202!\r"
+      ],
+      "fr_FR": [
+        "Aurore: Hé! {STRVAR_1 3, 0, 0}, tu as un\n",
+        "Poké Radar, n’est-ce pas?\r",
+        "J’en ai un moi aussi.\r",
+        "Je vais te montrer comment ça marche.\n",
+        "Viens avec moi sur la Route 202!\r"
       ]
     },
     {
@@ -73,6 +116,16 @@
         "I’ve heard that patches farther away\n",
         "give you a better chance of seeing\f",
         "the same kind of Pokémon in a row."
+      ],
+      "fr_FR": [
+        "Aurore: Bonjour, {STRVAR_1 3, 0, 0}!\n",
+        "Tu te sers de ton Poké Radar?\r",
+        "Quand tu l’utilises, vois-tu parfois\n",
+        "plusieurs endroits dans les hautes\f",
+        "herbes qui remuent en même temps?\r",
+        "L’endroit le plus éloigné augmente tes\n",
+        "chances de voir le même type de\f",
+        "Pokémon plusieurs fois d’affilée."
       ]
     },
     {
@@ -83,6 +136,13 @@
         "People say a different-colored\n",
         "Pokémon is hiding there!\r",
         "Could that be true?"
+      ],
+      "fr_FR": [
+        "Aurore: Parfois, une touffe d’herbe\n",
+        "brille quand on utilise le Poké Radar.\r",
+        "On dit que c’est parce qu’un Pokémon de\n",
+        "couleur différente s’y cache!\r",
+        "Tu crois que c’est vrai?"
       ]
     },
     {
@@ -94,6 +154,14 @@
         "Catching Pokémon can be really\n",
         "challenging, can’t it?\r",
         "But, it’s also so much fun!"
+      ],
+      "fr_FR": [
+        "Aurore: Hé, {STRVAR_1 3, 0, 0}.\r",
+        "J’aide également le professeur à\n",
+        "compléter le Pokédex National.\r",
+        "Attraper des Pokémon peut être parfois\n",
+        "assez difficile, n’est-ce pas?\r",
+        "Mais c’est aussi tellement amusant!"
       ]
     },
     {
@@ -104,6 +172,13 @@
         "{STRVAR_1 3, 0, 0}!\r",
         "Congratulations for completing\n",
         "the National Pokédex!"
+      ],
+      "fr_FR": [
+        "Aurore: {STRVAR_1 3, 0, 0}!\r",
+        "{STRVAR_1 3, 0, 0}, {STRVAR_1 3, 0, 0},\n",
+        "{STRVAR_1 3, 0, 0}!\r",
+        "Félicitations! Tu as complété le\n",
+        "Pokédex National!"
       ]
     },
     {
@@ -111,6 +186,10 @@
       "en_US": [
         "Dawn: Is today maybe...\n",
         "Your birthday, {STRVAR_1 3, 0, 0}?"
+      ],
+      "fr_FR": [
+        "Aurore: Est-ce qu’aujourd’hui, c’est...\n",
+        "ton anniversaire, {STRVAR_1 3, 0, 0}?"
       ]
     },
     {
@@ -119,6 +198,11 @@
         "Dawn: Giggle...\n",
         "Congratulations, {STRVAR_1 3, 0, 0}!\f",
         "And many more happy returns!"
+      ],
+      "fr_FR": [
+        "Aurore: Hi, hi, hi...\n",
+        "Joyeux anniversaire, {STRVAR_1 3, 0, 0}!\f",
+        "Et tous mes vœux de bonheur!"
       ]
     },
     {
@@ -127,6 +211,11 @@
         "Dawn: Oh, it isn’t?\r",
         "I wonder what made me think that\n",
         "today was your birthday?"
+      ],
+      "fr_FR": [
+        "Aurore: Ah, non?\r",
+        "Je me demande pourquoi je pensais que\n",
+        "ton anniversaire était aujourd’hui..."
       ]
     },
     {
@@ -135,6 +224,11 @@
         "Dawn: {STRVAR_1 3, 0, 0}!\n",
         "I heard from the professor!\r",
         "Congratulations, Champ!"
+      ],
+      "fr_FR": [
+        "Aurore: {STRVAR_1 3, 0, 0}!\n",
+        "Félicitations!\r",
+        "Tu as été super!"
       ]
     },
     {
@@ -144,6 +238,12 @@
         "The prof told me something cool.\r",
         "He thinks that either DIALGA or\n",
         "PALKIA will appear at the Spear Pillar!"
+      ],
+      "fr_FR": [
+        "Louka: Hé, {STRVAR_1 3, 0, 0}!\n",
+        "Le prof m’a appris un truc cool.\r",
+        "Il pense que DIALGA ou PALKIA va\n",
+        "apparaître aux Colonnes Lances..."
       ]
     },
     {
@@ -154,6 +254,13 @@
         "right?\r",
         "She told me she had something\n",
         "to tell you."
+      ],
+      "fr_FR": [
+        "Louka: Bonjour, {STRVAR_1 3, 0, 0}!\r",
+        "Tu connais la doyenne de Célestia,\n",
+        "pas vrai?\r",
+        "Elle m’a dit qu’elle avait quelque chose\n",
+        "d’important à te dire."
       ]
     },
     {
@@ -166,6 +273,15 @@
         "of Pokémon in Sinnoh!\r",
         "You have to show this Pokédex to\n",
         "Prof. Rowan!"
+      ],
+      "fr_FR": [
+        "Louka: Hé, {STRVAR_1 3, 0, 0}!\n",
+        "Laisse-moi jeter un œil à ton Pokédex.\r",
+        "...\r",
+        "Incroyable! Tu as vu toutes les\n",
+        "espèces de Pokémon de Sinnoh!\r",
+        "Il faut que tu montres ce Pokédex\n",
+        "au Professeur Sorbier!"
       ]
     },
     {
@@ -173,6 +289,10 @@
       "en_US": [
         "Lucas: Hey, {STRVAR_1 3, 0, 0}, have you\n",
         "ever seen my kid sister?"
+      ],
+      "fr_FR": [
+        "Louka: Hé, {STRVAR_1 3, 0, 0}, tu as déjà\n",
+        "rencontré ma petite sœur?"
       ]
     },
     {
@@ -185,6 +305,15 @@
         "yourself to visit her.\r",
         "After all, she’s the administrator of\n",
         "the Pokémon Storage System."
+      ],
+      "fr_FR": [
+        "Louka: Hé, {STRVAR_1 3, 0, 0}, tu as déjà\n",
+        "rencontré Amelle?\r",
+        "Elle vit à Unionpolis.\r",
+        "Tous les Dresseurs doivent lui rendre\n",
+        "visite au moins une fois.\r",
+        "Elle a beaucoup travaillé au système de\n",
+        "Gestion de Stocks de Pokémon, tu sais!"
       ]
     },
     {
@@ -195,6 +324,13 @@
         "Cool!\n",
         "I’ll teach you how to use it!\f",
         "Come out to Rt. 202!\r"
+      ],
+      "fr_FR": [
+        "Louka: Hé! {STRVAR_1 3, 0, 0}, tu as aussi\n",
+        "obtenu un Poké Radar?\r",
+        "Cool!\n",
+        "Je vais te montrer comment t’en servir!\f",
+        "Viens avec moi sur la Route 202!\r"
       ]
     },
     {
@@ -209,6 +345,17 @@
         "away give you a better chance\f",
         "of seeing the same kind of Pokémon\r",
         "in a row?"
+      ],
+      "fr_FR": [
+        "Louka: Salut, {STRVAR_1 3, 0, 0}!\n",
+        "Il marche bien, ce Poké Radar?\r",
+        "Quand tu t’en sers, vois-tu parfois\n",
+        "plusieurs zones d’herbe haute qui\f",
+        "bougent en même temps?\r",
+        "L’endroit le plus éloigné augmente tes\n",
+        "chances de voir le même type de\f",
+        "Pokémon plusieurs fois d’affilée.\r",
+        "Tu avais remarqué?"
       ]
     },
     {
@@ -219,6 +366,13 @@
         "They say a different-colored\n",
         "Pokémon is hiding there!\r",
         "I wonder if that’s true?"
+      ],
+      "fr_FR": [
+        "Louka: Parfois, une zone d’herbe brille\n",
+        "quand le Poké Radar est utilisé.\r",
+        "On dit qu’un Pokémon de couleur\n",
+        "différente s’y cacherait!\r",
+        "Je me demande si c’est vrai..."
       ]
     },
     {
@@ -230,6 +384,14 @@
         "Catching Pokémon can be really\n",
         "challenging, can’t it?\r",
         "But I also have a ton of fun doing it!"
+      ],
+      "fr_FR": [
+        "Louka: Hé, {STRVAR_1 3, 0, 0}.\r",
+        "Moi aussi, j’aide le professeur à\n",
+        "compléter le Pokédex National.\r",
+        "C’est difficile d’attraper des Pokémon,\n",
+        "pas vrai?\r",
+        "Mais c’est tellement marrant!"
       ]
     },
     {
@@ -240,6 +402,13 @@
         "I mean, it’s so awesome and all...\r",
         "Sincerely, congratulations for\n",
         "completing the National Pokédex!"
+      ],
+      "fr_FR": [
+        "Louka: {STRVAR_1 3, 0, 0}!\r",
+        "Oh là là! Je ne sais pas quoi dire!\n",
+        "Enfin, c’est tellement incroyable...\r",
+        "Sincèrement, toutes mes félicitations!\n",
+        "Tu as complété le Pokédex National!"
       ]
     },
     {
@@ -247,6 +416,10 @@
       "en_US": [
         "Lucas: Hey, {STRVAR_1 3, 0, 0}?\n",
         "Is it maybe your birthday today?"
+      ],
+      "fr_FR": [
+        "Louka: Hé, {STRVAR_1 3, 0, 0}!\n",
+        "C’est ton anniversaire aujourd’hui?"
       ]
     },
     {
@@ -255,6 +428,12 @@
         "Lucas: I thought so!\n",
         "Congratulations, {STRVAR_1 3, 0, 0}!\f",
         "You know, I’m glad we’re friends!"
+      ],
+      "fr_FR": [
+        "Louka: C’est bien ce que je pensais!\n",
+        "Joyeux anniv’, {STRVAR_1 3, 0, 0}!\r",
+        "Tu sais, je suis content qu’on soit\n",
+        "amis!"
       ]
     },
     {
@@ -264,6 +443,12 @@
         "It isn’t?\r",
         "Now, what made me think it was\n",
         "your birthday? Freaky weird."
+      ],
+      "fr_FR": [
+        "Louka: Hein?!\n",
+        "C’est pas aujourd’hui?\r",
+        "Mais pourquoi j’ai cru que c’était ton\n",
+        "anniversaire? Trop bizarre."
       ]
     },
     {
@@ -272,6 +457,11 @@
         "Lucas: {STRVAR_1 3, 0, 0}!\n",
         "The professor told me the news!\r",
         "Congratulations, Champ!"
+      ],
+      "fr_FR": [
+        "Louka: {STRVAR_1 3, 0, 0}!\n",
+        "Félicitations!\r",
+        "Tu as été super!"
       ]
     },
     {
@@ -281,6 +471,13 @@
         "Those Pokémon you met, {STRVAR_1 3, 0, 0}...\r",
         "Were they the ones said to be the\n",
         "creators of the Sinnoh region?"
+      ],
+      "fr_FR": [
+        "Aurore: Dis, {STRVAR_1 3, 0, 0}...\n",
+        "Je me demandais...\r",
+        "Ces Pokémon que tu as rencontrés...\n",
+        "Tu crois que ce sont eux qui ont créé\f",
+        "Sinnoh, comme le dit la légende?"
       ]
     },
     {
@@ -290,6 +487,13 @@
         "Those Pokémon you met, {STRVAR_1 3, 0, 0}...\r",
         "Were they the ones said to be the\n",
         "creators of the Sinnoh region?"
+      ],
+      "fr_FR": [
+        "Louka: Dis, {STRVAR_1 3, 0, 0}...\n",
+        "Je me demandais...\r",
+        "Ces Pokémon que tu as rencontrés...\n",
+        "Tu crois que ce sont eux qui ont créé\f",
+        "Sinnoh, comme le dit la légende?"
       ]
     }
   ]

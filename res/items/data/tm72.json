@@ -27,5 +27,13 @@
   "fieldUseFunc": "ITEM_USE_FUNC_TM_HM",
   "battleUseCategory": "BATTLE_USE_CATEGORY_NONE",
   "itemUseParams": null,
-  "teachesMove": "MOVE_AVALANCHE"
+  "teachesMove": "MOVE_AVALANCHE",
+  "name_fr": "CT72",
+  "description_fr": [
+    "Une attaque deux fois plus puissante\n",
+    "si le lanceur a été blessé par l’ennemi\n",
+    "durant le tour."
+  ],
+  "plural_fr": "CT72",
+  "article_fr": null
 }

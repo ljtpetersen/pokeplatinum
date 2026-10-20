@@ -6,18 +6,21 @@
       "en_US": [
         "Which facility would you like to\n",
         "challenge?"
-      ]
+      ],
+      "fr_FR": "Quel défi souhaitez-vous relever?"
     },
     {
       "id": "WFCFacilitySelector_Text_PlayerDroppedOut",
-      "en_US": "{STRVAR_1 3, 0, 0} has dropped out.\r"
+      "en_US": "{STRVAR_1 3, 0, 0} has dropped out.\r",
+      "fr_FR": "{STRVAR_1 3, 0, 0} a abandonné.\r"
     },
     {
       "id": "WFCFacilitySelector_Text_ChoosePokemon",
       "en_US": [
         "Please choose the Pokémon you wish to\n",
         "enter with."
-      ]
+      ],
+      "fr_FR": "Veuillez choisir qui vous inscrivez."
     },
     {
       "id": "WFCFacilitySelector_Text_DifferentFacilitiesChosen",
@@ -25,11 +28,17 @@
         "You have chosen a different facility\n",
         "and/or level setting from your friend.\f",
         "Please choose again.\r"
+      ],
+      "fr_FR": [
+        "Votre ami(e) et vous n’avez pas choisi\n",
+        "le même bâtiment ou le même niveau.\f",
+        "Veuillez choisir à nouveau.\r"
       ]
     },
     {
       "id": "WFCFacilitySelector_Text_PleaseWait",
-      "en_US": "Please wait a moment."
+      "en_US": "Please wait a moment.",
+      "fr_FR": "Veuillez patienter."
     },
     {
       "id": "WFCFacilitySelector_Text_WinStreaksDontMatch",
@@ -38,6 +47,11 @@
         "your friend’s record.\r",
         "Your challenge will start from the\n",
         "beginning.\r"
+      ],
+      "fr_FR": [
+        "Votre ami(e) et vous avez des records\n",
+        "différents pour ce défi.\r",
+        "Le défi commencera tout au début.\r"
       ]
     },
     {
@@ -47,6 +61,12 @@
         "{STRVAR_1 0, 0, 0}.\r",
         "Please confer with your friend and\n",
         "choose different Pokémon.\r"
+      ],
+      "fr_FR": [
+        "Votre ami(e) et vous avez choisi le\n",
+        "Pokémon {STRVAR_1 0, 0, 0}.\r",
+        "Veuillez discuter avec votre ami(e) et\n",
+        "inscrire des Pokémon différents.\r"
       ]
     },
     {
@@ -56,6 +76,12 @@
         "{STRVAR_1 0, 0, 0} and {STRVAR_1 0, 1, 0}.\r",
         "Please confer with your friend and\n",
         "choose different Pokémon.\r"
+      ],
+      "fr_FR": [
+        "Votre ami(e) et vous avez choisi les\n",
+        "Pokémon {STRVAR_1 0, 0, 0} et {STRVAR_1 0, 1, 0}.\r",
+        "Veuillez discuter avec votre ami(e) et\n",
+        "inscrire des Pokémon différents.\r"
       ]
     },
     {
@@ -69,6 +95,12 @@
         "{STRVAR_1 0, 0, 0}.\r",
         "Please confer with your friend and\n",
         "choose different Pokémon.\r"
+      ],
+      "fr_FR": [
+        "Votre ami(e) et vous avez choisi le\n",
+        "Pokémon {STRVAR_1 0, 0, 0}.\r",
+        "Veuillez discuter avec votre ami(e) et\n",
+        "inscrire des Pokémon différents.\r"
       ]
     },
     {
@@ -78,6 +110,12 @@
         "{STRVAR_1 0, 0, 0} and {STRVAR_1 0, 1, 0}.\r",
         "Please confer with your friend and\n",
         "choose different Pokémon.\r"
+      ],
+      "fr_FR": [
+        "Votre ami(e) et vous avez choisi les\n",
+        "Pokémon {STRVAR_1 0, 0, 0} et {STRVAR_1 0, 1, 0}.\r",
+        "Veuillez discuter avec votre ami(e) et\n",
+        "inscrire des Pokémon différents.\r"
       ]
     },
     {
@@ -85,6 +123,10 @@
       "en_US": [
         "You and your friend must choose the\n",
         "same kind of Pokémon to battle.\r"
+      ],
+      "fr_FR": [
+        "Votre ami(e) et vous devez choisir des\n",
+        "Pokémon de la même espèce pour ce défi.\r"
       ]
     },
     {
@@ -100,6 +142,10 @@
       "en_US": [
         "Which would you like to challenge,\n",
         "Level 50 cap or Open Level?"
+      ],
+      "fr_FR": [
+        "Voulez-vous participer à la compétition\n",
+        "de niveau 50 ou à celle de niveau libre?"
       ]
     },
     {
@@ -110,36 +156,54 @@
         "Would you like to delete that record\n",
         "and start a new challenge with\f",
         "{STRVAR_1 0, 1, 0}?"
+      ],
+      "fr_FR": [
+        "{STRVAR_1 0, 0, 0} a remporté un certain\n",
+        "nombre de victoires d’affilée.\r",
+        "Voulez-vous effacer ce record et\n",
+        "recommencer le défi avec {STRVAR_1 0, 1, 0}?"
       ]
     },
     {
       "id": "WFCFacilitySelector_Text_Yes",
-      "en_US": "YES"
+      "en_US": "YES",
+      "fr_FR": "OUI"
     },
     {
       "id": "WFCFacilitySelector_Text_No",
-      "en_US": "NO"
+      "en_US": "NO",
+      "fr_FR": "NON"
     },
     {
       "id": "WFCFacilitySelector_Text_RemakeSelection",
-      "en_US": "Please make your selection again.\r"
+      "en_US": "Please make your selection again.\r",
+      "fr_FR": "Veuillez choisir à nouveau.\r"
     },
     {
       "id": "WFCFacilitySelector_Text_Saving",
       "en_US": [
         "Saving...\n",
         "Don’t turn off the power."
+      ],
+      "fr_FR": [
+        "Sauvegarde en cours...\n",
+        "Ne pas éteindre."
       ]
     },
     {
       "id": "WFCFacilitySelector_Text_GoodLuck",
-      "en_US": "Good luck!"
+      "en_US": "Good luck!",
+      "fr_FR": "Bonne chance!"
     },
     {
       "id": "WFCFacilitySelector_Text_PlayAgain",
       "en_US": [
         "Would you like to play with {STRVAR_1 3, 0, 0}\n",
         "again?"
+      ],
+      "fr_FR": [
+        "Voulez-vous jouer avec {STRVAR_1 3, 0, 0}\n",
+        "une nouvelle fois?"
       ]
     },
     {
@@ -155,43 +219,56 @@
       "en_US": [
         "Awaiting your friend’s selection.\n",
         "Please wait a moment."
+      ],
+      "fr_FR": [
+        "En attente d’une réponse de votre ami.\n",
+        "Veuillez patienter."
       ]
     },
     {
       "id": "WFCFacilitySelector_Text_PlayerDroppedOut2",
-      "en_US": "{STRVAR_1 3, 0, 0} has dropped out.\r"
+      "en_US": "{STRVAR_1 3, 0, 0} has dropped out.\r",
+      "fr_FR": "{STRVAR_1 3, 0, 0} a abandonné.\r"
     },
     {
       "id": "WFCFacilitySelector_Text_BattleTower",
-      "en_US": "BATTLE TOWER"
+      "en_US": "BATTLE TOWER",
+      "fr_FR": "TOUR DE COMBAT"
     },
     {
       "id": "WFCFacilitySelector_Text_BattleFactory",
-      "en_US": "BATTLE FACTORY"
+      "en_US": "BATTLE FACTORY",
+      "fr_FR": "USINE DE COMBAT"
     },
     {
       "id": "WFCFacilitySelector_Text_BattleCastle",
-      "en_US": "BATTLE CASTLE"
+      "en_US": "BATTLE CASTLE",
+      "fr_FR": "CASTEL DE COMBAT"
     },
     {
       "id": "WFCFacilitySelector_Text_BattleHall",
-      "en_US": "BATTLE HALL"
+      "en_US": "BATTLE HALL",
+      "fr_FR": "SCENE DE COMBAT"
     },
     {
       "id": "WFCFacilitySelector_Text_BattleArcade",
-      "en_US": "BATTLE ARCADE"
+      "en_US": "BATTLE ARCADE",
+      "fr_FR": "ARCADE DE COMBAT"
     },
     {
       "id": "WFCFacilitySelector_Text_Cancel",
-      "en_US": "CANCEL"
+      "en_US": "CANCEL",
+      "fr_FR": "ANNULER"
     },
     {
       "id": "WFCFacilitySelector_Text_Level50",
-      "en_US": "LEVEL 50"
+      "en_US": "LEVEL 50",
+      "fr_FR": "NIVEAU 50"
     },
     {
       "id": "WFCFacilitySelector_Text_OpenLevel",
-      "en_US": "OPEN LEVEL"
+      "en_US": "OPEN LEVEL",
+      "fr_FR": "NIVEAU LIBRE"
     }
   ]
 }

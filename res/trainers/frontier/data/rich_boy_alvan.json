@@ -59,18 +59,31 @@
             "en_US": [
                 "My father’s wealthy.\n",
                 "There’s nothing he can’t afford."
+            ],
+            "fr_FR": [
+                "Mon père est super riche.\n",
+                "Il m’achète tout ce que je veux."
             ]
         },
         {
             "type": "TRMSG_WIN",
-            "en_US": "My father’s money bought my Pokémon.\r"
+            "en_US": "My father’s money bought my Pokémon.\r",
+            "fr_FR": [
+                "Mon père m’a acheté mon tout\n",
+                "premier Pokémon.\r"
+            ]
         },
         {
             "type": "TRMSG_DEFEAT",
             "en_US": [
                 "There are things that money can’t buy.\n",
                 "I know that...\r"
+            ],
+            "fr_FR": [
+                "L’argent ne peut pas tout acheter,\n",
+                "malheureusement...\r"
             ]
         }
-    ]
+    ],
+    "name_fr": "Aldric"
 }

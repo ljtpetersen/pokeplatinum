@@ -6,6 +6,10 @@
       "en_US": [
         "Where departed Pokémon sleep...\n",
         "This is the Lost Tower."
+      ],
+      "fr_FR": [
+        "La Tour Perdue... L’endroit où\n",
+        "reposent les Pokémon disparus."
       ]
     },
     {
@@ -13,6 +17,10 @@
       "en_US": [
         "There is a broken, crumbling tower\n",
         "made of stone..."
+      ],
+      "fr_FR": [
+        "Vous faites face à une tour de pierre \n",
+        "brisée, sur le point de s’écrouler..."
       ]
     },
     {
@@ -24,6 +32,14 @@
         "be a perfect fit for the Odd Keystone.\r",
         "Would you like to use the Odd\n",
         "Keystone?"
+      ],
+      "fr_FR": [
+        "Vous faites face à une tour de pierre \n",
+        "brisée, sur le point de s’écrouler...\r",
+        "Vous remarquez une cavité qui semble\n",
+        "correspondre à la Clé de Voûte.\r",
+        "Souhaitez-vous utiliser la\n",
+        "Clé de Voûte?"
       ]
     },
     {
@@ -33,6 +49,12 @@
         "into the stone tower.\r",
         "The stone tower has been restored!\n",
         "“Hallowed Tower” is written on it."
+      ],
+      "fr_FR": [
+        "{STRVAR_1 3, 0, 0} a placé la Clé de Voûte\n",
+        "dans la tour de pierre.\r",
+        "La tour de pierre est réparée! On peut\n",
+        "y lire l’inscription “Tour Sacrée”."
       ]
     },
     {
@@ -41,6 +63,11 @@
         "It’s the Hallowed Tower.\r",
         "It appears to have been built\n",
         "many years ago."
+      ],
+      "fr_FR": [
+        "C’est la Tour Sacrée.\r",
+        "Elle semble avoir été construite\n",
+        "il y a très longtemps."
       ]
     },
     {
@@ -48,6 +75,10 @@
       "en_US": [
         "It’s the Hallowed Tower.\r",
         "Its stones appear to have shifted..."
+      ],
+      "fr_FR": [
+        "C’est la Tour Sacrée.\r",
+        "On dirait que ses pierres ont bougé..."
       ]
     },
     {
@@ -56,6 +87,11 @@
         "It’s the Hallowed Tower.\r",
         "...Is that crying coming from inside\n",
         "the tower?"
+      ],
+      "fr_FR": [
+        "C’est la Tour Sacrée.\r",
+        "... Est-ce un cri qui semble\n",
+        "s’échapper de la tour?"
       ]
     },
     {
@@ -64,6 +100,11 @@
         "It’s the Hallowed Tower.\r",
         "...Is the tower shaking ever so\n",
         "slightly?"
+      ],
+      "fr_FR": [
+        "C’est la Tour Sacrée.\r",
+        "... On dirait qu’elle est parcourue\n",
+        "d’un léger tremblement!"
       ]
     },
     {
@@ -72,11 +113,17 @@
         "It’s the Hallowed Tower.\r",
         "There is some sort of presence...\n",
         "It appears ready to emerge!"
+      ],
+      "fr_FR": [
+        "C’est la Tour Sacrée.\r",
+        "Vous sentez une présence...\n",
+        "Elle semble sur le point d’émerger!"
       ]
     },
     {
       "id": "Route209_Text_SpiritombCry",
-      "en_US": "Yulaaah!\r"
+      "en_US": "Yulaaah!\r",
+      "fr_FR": "Spiritoooo!\r"
     },
     {
       "id": "Route209_Text_GoodRodIsReallyGood",
@@ -84,6 +131,11 @@
         "Hmm!\n",
         "{STRVAR_1 8, 0, 0} is really good!\r",
         "Wouldn’t you agree?"
+      ],
+      "fr_FR": [
+        "Hum!\n",
+        "J’adore la {STRVAR_1 8, 0, 0}!\r",
+        "Et toi, tu es du même avis?"
       ]
     },
     {
@@ -93,6 +145,12 @@
         "We’re of identical minds!\r",
         "Hmm!\n",
         "Take this {STRVAR_1 8, 0, 0}!\r"
+      ],
+      "fr_FR": [
+        "Hum!\n",
+        "On pense exactement la même chose!\r",
+        "Hum!\n",
+        "Prends cette {STRVAR_1 8, 0, 0}!\r"
       ]
     },
     {
@@ -102,11 +160,18 @@
         "a body of water.\r",
         "Oh, incidentally, do you need me to\n",
         "explain how to use that fishing rod?"
+      ],
+      "fr_FR": [
+        "Essaie de pêcher à chaque fois que\n",
+        "tu croises un point d’eau.\r",
+        "Tant qu’on y est, tu veux que\n",
+        "je t’apprenne à utiliser cette canne?"
       ]
     },
     {
       "id": "Route209_Text_YouDontLikeToFish",
-      "en_US": "You don’t like to fish?"
+      "en_US": "You don’t like to fish?",
+      "fr_FR": "Tu n’aimes pas pêcher?"
     },
     {
       "id": "Route209_Text_ExplainHowToFish",
@@ -116,6 +181,13 @@
         "Next, you must focus!\n",
         "If a Pokémon bites, “!” appears.\f",
         "That’s your cue to reel it in!"
+      ],
+      "fr_FR": [
+        "D’abord, tu fais face au point d’eau,\n",
+        "et tu utilises ta canne à pêche.\r",
+        "Ensuite, tu dois te concentrer!\n",
+        "Si un Pokémon mord, “!” apparaît.\f",
+        "C’est le moment où tu dois tirer!"
       ]
     },
     {
@@ -126,6 +198,14 @@
         "When you start to reel that Pokémon\n",
         "in, you’ve got to battle it.\r",
         "So, fishing gives you twice the fun!"
+      ],
+      "fr_FR": [
+        "Pour pêcher des Pokémon, il faut déjà\n",
+        "avoir une touche.\r",
+        "Ensuite, il faut se battre pour\n",
+        "remonter le Pokémon.\r",
+        "Deux étapes, pour deux\n",
+        "fois plus de sport!"
       ]
     },
     {
@@ -133,6 +213,10 @@
       "en_US": [
         "Do you jog every morning?\n",
         "Well, I do!"
+      ],
+      "fr_FR": [
+        "Tu fais ton jogging tous les matins?\n",
+        "Moi oui!"
       ]
     },
     {
@@ -142,6 +226,12 @@
         "a wild Pokémon chased after me.\r",
         "I swear, I ran on top of the water!\n",
         "I was so freaked out!"
+      ],
+      "fr_FR": [
+        "L’autre jour, pendant mon jogging, un\n",
+        "Pokémon sauvage a voulu me mordre.\r",
+        "J’ai couru si vite, sans rire, qu’à\n",
+        "la fin je marchais sur l’eau!"
       ]
     },
     {
@@ -149,6 +239,10 @@
       "en_US": [
         "Rt. 209\n",
         "Hearthome City"
+      ],
+      "fr_FR": [
+        "Route 209\n",
+        "Unionpolis"
       ]
     },
     {
@@ -156,6 +250,10 @@
       "en_US": [
         "Rt. 209\n",
         "Solaceon Town"
+      ],
+      "fr_FR": [
+        "Route 209\n",
+        "Bonville"
       ]
     },
     {
@@ -166,6 +264,13 @@
         "Items in your Bag for instant use.\r",
         "Simply press the Y Button to use the\n",
         "registered item instantly."
+      ],
+      "fr_FR": [
+        "Conseils aux Dresseurs\r",
+        "Vous pouvez sélectionner un Objet Rare\n",
+        "dans le Sac pour l’avoir à disposition.\r",
+        "Il vous suffit d’appuyer sur le bouton Y\n",
+        "pour l’utiliser instantanément."
       ]
     }
   ]

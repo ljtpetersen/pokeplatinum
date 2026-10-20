@@ -26,5 +26,13 @@
   "battlePocket": "BATTLE_POCKET_MASK_NONE",
   "fieldUseFunc": "ITEM_USE_FUNC_NONE",
   "battleUseCategory": "BATTLE_USE_CATEGORY_NONE",
-  "itemUseParams": null
+  "itemUseParams": null,
+  "name_fr": "Chaîne Rouge",
+  "description_fr": [
+    "Chaîne mystique qui serait reliée au\n",
+    "Pokémon légendaire ayant créé la\n",
+    "région de Sinnoh."
+  ],
+  "plural_fr": "Chaîne Rouge",
+  "article_fr": null
 }

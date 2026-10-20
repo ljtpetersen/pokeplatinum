@@ -26,5 +26,13 @@
   "battlePocket": "BATTLE_POCKET_MASK_NONE",
   "fieldUseFunc": "ITEM_USE_FUNC_EVO_STONE",
   "battleUseCategory": "BATTLE_USE_CATEGORY_NONE",
-  "itemUseParams": {}
+  "itemUseParams": {},
+  "name_fr": "Pierre Aube",
+  "description_fr": [
+    "Pierre étrange qui fait évoluer\n",
+    "certaines espèces de Pokémon.\n",
+    "Elle brille comme un œil."
+  ],
+  "plural_fr": "Pierre Aube",
+  "article_fr": null
 }

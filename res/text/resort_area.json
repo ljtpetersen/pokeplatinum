@@ -8,6 +8,11 @@
         "beloved Pokémon even more beautiful.\r",
         "That will make it love me even more.\n",
         "Giggle!"
+      ],
+      "fr_FR": [
+        "Je fais des pieds et des mains pour \n",
+        "que mon Pokémon soit le plus beau.\r",
+        "Comme ça, il m’aimera deux fois plus."
       ]
     },
     {
@@ -16,6 +21,10 @@
         "Nothing is too good for my Pokémon.\n",
         "There’s no mountain too high to climb.\f",
         "That’s how I look at it."
+      ],
+      "fr_FR": [
+        "Rien n’est trop beau pour mes Pokémon.\n",
+        "Pour eux, je décrocherais la lune."
       ]
     },
     {
@@ -25,6 +34,12 @@
         "the Ribbon Syndicate.\r",
         "My dearest Pokémon will be treated to\n",
         "dreamy experiences!"
+      ],
+      "fr_FR": [
+        "Oh, je rêve de faire partie du Club\n",
+        "Rubans.\r",
+        "Mes Pokémon adorés y connaîtraient des\n",
+        "délices qui leur sont encore inconnus!"
       ]
     },
     {
@@ -34,6 +49,12 @@
         "You are? Really?\r",
         "How did you manage to collect so many\n",
         "Pokémon Ribbons?"
+      ],
+      "fr_FR": [
+        "Tu es membre du Club Rubans?\n",
+        "Vraiment?\r",
+        "Comment as-tu réussi à accumuler\n",
+        "autant de Rubans Pokémon?"
       ]
     },
     {
@@ -43,6 +64,12 @@
         "stuff in the Underground?\r",
         "People are saying they’re digging up\n",
         "new, different stuff."
+      ],
+      "fr_FR": [
+        "Tu sais qu’on peut trouver \n",
+        "des trucs cool sous terre?\r",
+        "J’ai entendu dire qu’on pouvait \n",
+        "déterrer des objets originaux."
       ]
     },
     {
@@ -56,6 +83,17 @@
         "Super Rod and go fishing.\r",
         "Who knows, you may just catch the\n",
         "mind-blowing ruler!"
+      ],
+      "fr_FR": [
+        "Personne ne veut me croire, mais\n",
+        "quelque chose rôde dans l’Aire\f",
+        "de Détente.\r",
+        "Une sorte d’éminence grise tapie\n",
+        "quelque part! Il faut me croire!\r",
+        "Va donc à la pêche avec ta Méga\n",
+        "Canne et tu verras.\r",
+        "Qui sait? Tu attraperas peut-être\n",
+        "ce mystérieux résident!"
       ]
     },
     {
@@ -71,6 +109,18 @@
         "be honest, I don’t need it, either.\r",
         "So don’t say a word.\n",
         "Just nod and this Villa is yours!"
+      ],
+      "fr_FR": [
+        "Psst, hé, globe-trotter! Toi, oui, toi!\n",
+        "Tiens, je te confie cette Villa!\r",
+        "Oh, attends! Ne pars pas, non!\n",
+        "C’est pas ce que tu crois!\r",
+        "Je ne cherche pas à t’arnaquer.\n",
+        "En fait, ça me rendrait service!\r",
+        "Tu vois, on m’a donné cette Villa, mais\n",
+        "je n’en ai pas besoin, pour être franc.\r",
+        "Ne dis rien. Il te suffit de hocher\n",
+        "la tête pour qu’elle t’appartienne."
       ]
     },
     {
@@ -87,6 +137,19 @@
         "will think of next.\r",
         "Still, I thank you for helping me out.\n",
         "Come with me, will you?\r"
+      ],
+      "fr_FR": [
+        "Pfiou, quel soulagement!\r",
+        "Son premier propriétaire était\n",
+        "originaire de Hoenn.\r",
+        "Il a collectionné toutes les pierres\n",
+        "rares de Sinnoh, puis il est reparti.\r",
+        "Et il m’a collé sa maison sur les bras\n",
+        "comme si c’était un cadeau.\r",
+        "Ah, ces riches... Qu’est-ce qu’ils ne\n",
+        "vont pas inventer!\r",
+        "Enfin, je te remercie beaucoup de\n",
+        "m’aider. Suis-moi.\r"
       ]
     },
     {
@@ -96,6 +159,12 @@
         "I daresay I can’t blame you, though.\r",
         "An offer to get a Villa for free...\n",
         "That does throw up red flags, I agree.\r"
+      ],
+      "fr_FR": [
+        "Tu ne me fais toujours pas confiance?\n",
+        "Arf, je ne peux pas t’en vouloir.\r",
+        "Recevoir une Villa gratuitement...\n",
+        "Il y a de quoi éveiller les soupçons.\r"
       ]
     },
     {
@@ -103,6 +172,10 @@
       "en_US": [
         "None too shabby, you have to agree.\n",
         "Step inside for a look-see.\r"
+      ],
+      "fr_FR": [
+        "Pas vraiment un taudis, faut avouer.\n",
+        "Entre et fais le tour du propriétaire.\r"
       ]
     },
     {
@@ -111,6 +184,11 @@
         "Rowan: Hm! I happened to be in the\n",
         "area on a small errand.\f",
         "I’d like to take a rest if you’d allow it."
+      ],
+      "fr_FR": [
+        "Sorbier: Hum! J’avais une course à\n",
+        "faire dans le coin.\f",
+        "Je voudrais me reposer, si tu permets."
       ]
     },
     {
@@ -118,6 +196,10 @@
       "en_US": [
         "Rowan: Hm!\n",
         "I appreciate your hospitality.\r"
+      ],
+      "fr_FR": [
+        "Sorbier: Hum!\n",
+        "Merci de ton hospitalité.\r"
       ]
     },
     {
@@ -125,6 +207,10 @@
       "en_US": [
         "Rowan: Hmm...\n",
         "Do you have something to hide?"
+      ],
+      "fr_FR": [
+        "Sorbier: Hum...\n",
+        "Tu as quelque chose à cacher?"
       ]
     },
     {
@@ -132,17 +218,26 @@
       "en_US": [
         "Roark: Hi! Could I take a peek inside\n",
         "your Villa?"
+      ],
+      "fr_FR": [
+        "Pierrick: Salut! Je peux jeter un coup\n",
+        "d’œil à ta Villa?"
       ]
     },
     {
       "id": "ResortArea_Text_RoarkAcceptedVisit",
-      "en_US": "Roark: Thanks!\r"
+      "en_US": "Roark: Thanks!\r",
+      "fr_FR": "Pierrick: Merci!\r"
     },
     {
       "id": "ResortArea_Text_RoarkDeclinedVisit",
       "en_US": [
         "Roark: ...Oh, sorry.\n",
         "Am I intruding on something?"
+      ],
+      "fr_FR": [
+        "Pierrick: Oh, excuse-moi...\n",
+        "Je tombe au mauvais moment, peut-être?"
       ]
     },
     {
@@ -150,6 +245,10 @@
       "en_US": [
         "Gardenia: Listen, listen!\n",
         "I came for a visit! Can I go in?"
+      ],
+      "fr_FR": [
+        "Flo: Salut! Je suis venue te rendre\n",
+        "une petite visite. Je peux entrer?"
       ]
     },
     {
@@ -157,6 +256,10 @@
       "en_US": [
         "Gardenia: Yes!\n",
         "No time to waste!\r"
+      ],
+      "fr_FR": [
+        "Flo: Super!\n",
+        "Pas une seconde à perdre!\r"
       ]
     },
     {
@@ -164,6 +267,10 @@
       "en_US": [
         "Gardenia: Oh, right.\n",
         "You must have plans already."
+      ],
+      "fr_FR": [
+        "Flo: Oh, d’accord. Tu dois avoir autre\n",
+        "chose à faire."
       ]
     },
     {
@@ -171,17 +278,26 @@
       "en_US": [
         "Maylene: ...Um, your Villa...\n",
         "Would it be OK if I took a look around?"
+      ],
+      "fr_FR": [
+        "Mélina: Euh, dis, ta Villa...\n",
+        "Je peux la visiter?"
       ]
     },
     {
       "id": "ResortArea_Text_MayleneAcceptedVisit",
-      "en_US": "Maylene: Oh, thank you.\r"
+      "en_US": "Maylene: Oh, thank you.\r",
+      "fr_FR": "Mélina: Oh, merci.\r"
     },
     {
       "id": "ResortArea_Text_MayleneDeclinedVisit",
       "en_US": [
         "Maylene: Oh...\n",
         "It makes me a little sad..."
+      ],
+      "fr_FR": [
+        "Mélina: Oh...\n",
+        "Je suis un peu déçue."
       ]
     },
     {
@@ -190,6 +306,11 @@
         "Byron: Guhahahaha!\r",
         "How’s your Villa?\n",
         "Can you give me a tour?"
+      ],
+      "fr_FR": [
+        "Charles: Gwa, ah, ah!\r",
+        "Comment elle est, ta Villa?\n",
+        "Tu me fais visiter?"
       ]
     },
     {
@@ -197,6 +318,10 @@
       "en_US": [
         "Byron: All right!\n",
         "Let’s have a look, then!\r"
+      ],
+      "fr_FR": [
+        "Charles: Super!\n",
+        "Allons y faire un tour, alors!\r"
       ]
     },
     {
@@ -204,6 +329,10 @@
       "en_US": [
         "Byron: Well!\n",
         "How cold can you be?"
+      ],
+      "fr_FR": [
+        "Charles: Eh bien, je ne te croyais pas\n",
+        "aussi antipathique!"
       ]
     },
     {
@@ -211,6 +340,10 @@
       "en_US": [
         "Resort Area\n",
         "Relax & Play!"
+      ],
+      "fr_FR": [
+        "Aire de Détente\n",
+        "Pour se reposer et s’amuser"
       ]
     },
     {
@@ -218,11 +351,16 @@
       "en_US": [
         "The Ribbon Syndicate\n",
         "Members Only"
+      ],
+      "fr_FR": [
+        "Le Club Rubans\n",
+        "Réservé aux membres."
       ]
     },
     {
       "id": "ResortArea_Text_SignVilla",
-      "en_US": "A Somewhat Impressive Villa"
+      "en_US": "A Somewhat Impressive Villa",
+      "fr_FR": "Une Villa qui en jette"
     }
   ]
 }

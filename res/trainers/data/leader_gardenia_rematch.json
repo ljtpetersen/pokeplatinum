@@ -89,6 +89,10 @@
             "en_US": [
                 "Are you saying something?\n",
                 "You think you have me cornered?\n"
+            ],
+            "fr_FR": [
+                "Tu disais?\n",
+                "Tu crois que je me sens menacée?\n"
             ]
         },
         {
@@ -96,7 +100,12 @@
             "en_US": [
                 "Amazing!\n",
                 "You’re very good, aren’t you?\n"
+            ],
+            "fr_FR": [
+                "Fantastique!\n",
+                "Tu as beaucoup de talent!\n"
             ]
         }
-    ]
+    ],
+    "name_fr": "Flo"
 }

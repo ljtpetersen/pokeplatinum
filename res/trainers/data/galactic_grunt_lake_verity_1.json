@@ -23,6 +23,10 @@
             "en_US": [
                 "It is our mission to stall you.\n",
                 "Sorry, but we gotta do our job.\r"
+            ],
+            "fr_FR": [
+                "Notre mission est de te ralentir.\n",
+                "Désolé, mais on doit faire notre travail.\r"
             ]
         },
         {
@@ -30,6 +34,10 @@
             "en_US": [
                 "Losing was a part of my job, too.\n",
                 "...I feel better by saying that.\n"
+            ],
+            "fr_FR": [
+                "Perdre fait aussi partie de mon travail.\n",
+                "... Voilà, je l’ai dit, quel soulagement.\n"
             ]
         },
         {
@@ -38,7 +46,14 @@
                 "From three lakes, we must secure three\n",
                 "Pokémon.\r",
                 "You simply mustn’t interfere!\n"
+            ],
+            "fr_FR": [
+                "Trois lacs, trois Pokémon. Nous devons\n",
+                "nous emparer des trois!\r",
+                "Je ne peux pas te laisser\n",
+                "t’interposer!\n"
             ]
         }
-    ]
+    ],
+    "name_fr": "Sbire"
 }

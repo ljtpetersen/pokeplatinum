@@ -3,107 +3,133 @@
   "messages": [
     {
       "id": "pl_msg_00000452_00000",
-      "en_US": "{STRVAR_1 52, 0, 0}　{STRVAR_1 0, 1, 0}　{STRVAR_1 0, 2, 0}　{STRVAR_1 0, 3, 0}"
+      "en_US": "{STRVAR_1 52, 0, 0}　{STRVAR_1 0, 1, 0}　{STRVAR_1 0, 2, 0}　{STRVAR_1 0, 3, 0}",
+      "fr_FR": "{STRVAR_1 52, 0, 0}　{STRVAR_1 0, 1, 0}　{STRVAR_1 0, 2, 0}　{STRVAR_1 0, 3, 0}"
     },
     {
       "id": "pl_msg_00000452_00001",
-      "en_US": "Male"
+      "en_US": "Male",
+      "fr_FR": "Male"
     },
     {
       "id": "pl_msg_00000452_00002",
-      "en_US": "Female"
+      "en_US": "Female",
+      "fr_FR": "Female"
     },
     {
       "id": "pl_msg_00000452_00003",
-      "en_US": "None"
+      "en_US": "None",
+      "fr_FR": "None"
     },
     {
       "id": "pl_msg_00000452_00004",
-      "en_US": "Normal"
+      "en_US": "Normal",
+      "fr_FR": "Normal"
     },
     {
       "id": "pl_msg_00000452_00005",
-      "en_US": "Rare"
+      "en_US": "Rare",
+      "fr_FR": "Rare"
     },
     {
       "id": "pl_msg_00000452_00006",
-      "en_US": "－"
+      "en_US": "－",
+      "fr_FR": "－"
     },
     {
       "id": "pl_msg_00000452_00007",
-      "en_US": "Loop"
+      "en_US": "Loop",
+      "fr_FR": "Loop"
     },
     {
       "id": "pl_msg_00000452_00008",
-      "en_US": "→"
+      "en_US": "→",
+      "fr_FR": "→"
     },
     {
       "id": "pl_msg_00000452_00009",
-      "en_US": "Start loading."
+      "en_US": "Start loading.",
+      "fr_FR": "Start loading."
     },
     {
       "id": "pl_msg_00000452_00010",
-      "en_US": "Start saving."
+      "en_US": "Start saving.",
+      "fr_FR": "Start saving."
     },
     {
       "id": "pl_msg_00000452_00011",
-      "en_US": "YES"
+      "en_US": "YES",
+      "fr_FR": "YES"
     },
     {
       "id": "pl_msg_00000452_00012",
-      "en_US": "NO"
+      "en_US": "NO",
+      "fr_FR": "NO"
     },
     {
       "id": "pl_msg_00000452_00013",
-      "en_US": "Ｌ１"
+      "en_US": "Ｌ１",
+      "fr_FR": "Ｌ１"
     },
     {
       "id": "pl_msg_00000452_00014",
-      "en_US": "Ｌ２"
+      "en_US": "Ｌ２",
+      "fr_FR": "Ｌ２"
     },
     {
       "id": "pl_msg_00000452_00015",
-      "en_US": "Ｌ３"
+      "en_US": "Ｌ３",
+      "fr_FR": "Ｌ３"
     },
     {
       "id": "pl_msg_00000452_00016",
-      "en_US": "Ｌ４"
+      "en_US": "Ｌ４",
+      "fr_FR": "Ｌ４"
     },
     {
       "id": "pl_msg_00000452_00017",
-      "en_US": "Ｌ５"
+      "en_US": "Ｌ５",
+      "fr_FR": "Ｌ５"
     },
     {
       "id": "pl_msg_00000452_00018",
-      "en_US": "Ｌ６"
+      "en_US": "Ｌ６",
+      "fr_FR": "Ｌ６"
     },
     {
       "id": "pl_msg_00000452_00019",
-      "en_US": "Ｌ７"
+      "en_US": "Ｌ７",
+      "fr_FR": "Ｌ７"
     },
     {
       "id": "pl_msg_00000452_00020",
-      "en_US": "Ｌ８"
+      "en_US": "Ｌ８",
+      "fr_FR": "Ｌ８"
     },
     {
       "id": "pl_msg_00000452_00021",
-      "en_US": "Ｌ９"
+      "en_US": "Ｌ９",
+      "fr_FR": "Ｌ９"
     },
     {
       "id": "pl_msg_00000452_00022",
-      "en_US": "Ｐｏｓ（{STRVAR_1 52, 4, 0}、{STRVAR_1 52, 5, 0}）"
+      "en_US": "Ｐｏｓ（{STRVAR_1 52, 4, 0}、{STRVAR_1 52, 5, 0}）",
+      "fr_FR": "Ｐｏｓ（{STRVAR_1 52, 4, 0}、{STRVAR_1 52, 5, 0}）"
     },
     {
       "id": "pl_msg_00000452_00023",
-      "en_US": "Play cries"
+      "en_US": "Play cries",
+      "fr_FR": "Play cries"
     },
     {
       "id": "pl_msg_00000452_00024",
-      "en_US": "Edit front"
+      "en_US": "Edit front",
+      "fr_FR": "Edit front"
     },
     {
       "id": "pl_msg_00000452_00025",
-      "en_US": "Edit back"
+      "en_US": "Edit back",
+      "fr_FR": "Edit back"
     }
   ]
 }

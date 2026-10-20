@@ -6,6 +6,10 @@
       "en_US": [
         "{STRVAR_1 3, 0, 0}: Hey, {STRVAR_1 3, 1, 0}!\n",
         "Over here! This way!\r"
+      ],
+      "fr_FR": [
+        "{STRVAR_1 3, 0, 0}: Salut, {STRVAR_1 3, 1, 0}!\n",
+        "Hé, par ici!\r"
       ]
     },
     {
@@ -14,12 +18,25 @@
         "{STRVAR_1 3, 0, 0}: OK, gramps!\n",
         "I brought {STRVAR_1 3, 1, 0} like I said!\r",
         "All right, I’ll be outta here!\r"
+      ],
+      "fr_FR": [
+        "{STRVAR_1 3, 0, 0}: Voilà, pépé!\n",
+        "J’amène {STRVAR_1 3, 1, 0}, comme convenu!\r",
+        "Allez, je mets les voiles!\r"
       ]
     },
     {
       "id": "CanalaveLibrary3F_Text_Ellipses",
       "en_US": [
         "Rowan: ...\n",
+        "...\r",
+        "...\n",
+        "...\r",
+        "...\n",
+        "...\r"
+      ],
+      "fr_FR": [
+        "Sorbier: ...\n",
         "...\r",
         "...\n",
         "...\r",
@@ -32,6 +49,10 @@
       "en_US": [
         "{STRVAR_1 3, 0, 0}: ...OK...\n",
         "I get it...\r"
+      ],
+      "fr_FR": [
+        "{STRVAR_1 3, 0, 0}: ... OK...\n",
+        "Je vois...\r"
       ]
     },
     {
@@ -41,6 +62,12 @@
         "{STRVAR_1 3, 0, 0}, everyone, listen.\r",
         "You may have forgotten already, but\n",
         "I study the evolution of Pokémon.\r"
+      ],
+      "fr_FR": [
+        "Sorbier: Hum! Tout le monde est là.\n",
+        "{STRVAR_1 3, 0, 0}, tout le monde, écoutez.\r",
+        "Vous l’avez peut-être oublié, mais\n",
+        "j’étudie l’évolution des Pokémon.\r"
       ]
     },
     {
@@ -58,6 +85,20 @@
         "legendary Pokémon that don’t evolve?\r",
         "Are we to assume that the legendary\n",
         "Pokémon are complete as creatures?\r"
+      ],
+      "fr_FR": [
+        "Mais plus je les étudie et plus le\n",
+        "mystère s’épaissit.\r",
+        "Certains Pokémon évoluent et\n",
+        "d’autres pas...\r",
+        "Qu’est-ce qui les rend si différents\n",
+        "les uns des autres?\r",
+        "Sont-ils des êtres imparfaits forcés\n",
+        "d’évoluer pour survivre?\r",
+        "Si c’est le cas, que penser des Pokémon\n",
+        "légendaires qui n’évoluent pas?\r",
+        "Doit-on en déduire que les Pokémon\n",
+        "légendaires sont parfaits?\r"
       ]
     },
     {
@@ -73,6 +114,18 @@
         "on this grand undertaking.\r",
         "Help me find these Pokémon that are\n",
         "considered to be mirages.\r"
+      ],
+      "fr_FR": [
+        "C’est là que vous entrez en jeu.\r",
+        "On dit que des Pokémon mirages\n",
+        "vivent dans les trois lacs de Sinnoh.\r",
+        "Si nous pouvions obtenir leurs données,\n",
+        "nous pourrions peut-être faire la\f",
+        "lumière sur l’évolution des Pokémon.\r",
+        "C’est un travail titanesque, j’ai besoin\n",
+        "de l’aide de chacun d’entre vous.\r",
+        "Aidez-moi à trouver ces Pokémon que\n",
+        "l’on considère comme des mirages.\r"
       ]
     },
     {
@@ -80,6 +133,10 @@
       "en_US": [
         "{STRVAR_1 3, 0, 0}: What are you saying?\n",
         "I didn’t get a Pokédex!\r"
+      ],
+      "fr_FR": [
+        "{STRVAR_1 3, 0, 0}: Eh, mais minute!\n",
+        "Je n’ai pas eu de Pokédex, moi!\r"
       ]
     },
     {
@@ -92,6 +149,15 @@
         "Seeing Pokémon with your own eyes is\n",
         "important for you in becoming a better\f",
         "Trainer, too.\r"
+      ],
+      "fr_FR": [
+        "Sorbier: ... A qui la faute? C’est toi\n",
+        "qui as quitté le labo sans me laisser\f",
+        "le temps de te donner un Pokédex!\r",
+        "Mais peu importe!\r",
+        "Voir des Pokémon de tes propres yeux\n",
+        "contribue aussi au développement de\f",
+        "tes talents de Dresseur.\r"
       ]
     },
     {
@@ -101,6 +167,12 @@
         "It will help with my Pokédex, too.\r",
         "{STRVAR_1 3, 0, 0}, you’ll go, too,\n",
         "won’t you?\r"
+      ],
+      "fr_FR": [
+        "Aurore: Je n’y manquerai pas!\n",
+        "Et puis, ça sera bon pour mon Pokédex.\r",
+        "{STRVAR_1 3, 0, 0}, tu viens aussi,\n",
+        "n’est-ce pas?\r"
       ]
     },
     {
@@ -110,6 +182,12 @@
         "This will add to the Pokédex\n",
         "database and help advance your\f",
         "research.\r"
+      ],
+      "fr_FR": [
+        "Louka: Pour sûr, professeur!\r",
+        "Cela permettra d’étendre la base de\n",
+        "données Pokémon pour faire avancer\f",
+        "vos recherches.\r"
       ]
     },
     {
@@ -121,23 +199,35 @@
         "Fortuitously, there are three of you.\r",
         "You should therefore split up and\n",
         "investigate the lakes individually.\r"
+      ],
+      "fr_FR": [
+        "Sorbier: Hum! C’est une chance car j’ai\n",
+        "besoin de tout le monde. Bref.\r",
+        "Il y a trois lacs. Le hasard veut que\n",
+        "vous soyez trois.\r",
+        "Par conséquent, vous allez vous\n",
+        "séparer pour visiter un lac chacun.\r"
       ]
     },
     {
       "id": "CanalaveLibrary3F_Text_DawnToLakeVerity",
-      "en_US": "Rowan: Dawn, you go to Lake Verity.\r"
+      "en_US": "Rowan: Dawn, you go to Lake Verity.\r",
+      "fr_FR": "Sorbier: Aurore, tu iras au Lac Vérité.\r"
     },
     {
       "id": "CanalaveLibrary3F_Text_DawnWillDo",
-      "en_US": "Dawn: Will do!\r"
+      "en_US": "Dawn: Will do!\r",
+      "fr_FR": "Aurore: Bien reçu!\r"
     },
     {
       "id": "CanalaveLibrary3F_Text_LucasToLakeVerity",
-      "en_US": "Rowan: Lucas, you go to Lake Verity.\r"
+      "en_US": "Rowan: Lucas, you go to Lake Verity.\r",
+      "fr_FR": "Sorbier: Louka, tu iras au Lac Vérité.\r"
     },
     {
       "id": "CanalaveLibrary3F_Text_LucasYesSir",
-      "en_US": "Lucas: Yes, sir!\r"
+      "en_US": "Lucas: Yes, sir!\r",
+      "fr_FR": "Louka: Oui, monsieur!\r"
     },
     {
       "id": "CanalaveLibrary3F_Text_RivalToLakeAcuity",
@@ -148,6 +238,14 @@
         "Snowpoint City.\r",
         "The road there is harsh. I need\n",
         "a tough Trainer to go.\r"
+      ],
+      "fr_FR": [
+        "Sorbier: {STRVAR_1 3, 0, 0}, je veux que tu\n",
+        "enquêtes sur le Lac Savoir.\r",
+        "C’est loin d’ici, quasiment\n",
+        "à Frimapic.\r",
+        "La route ne sera pas facile. Il faudra\n",
+        "être un sacré Dresseur pour y arriver.\r"
       ]
     },
     {
@@ -162,6 +260,18 @@
         "Pokémon back on Route 201.\r",
         "...Even though I forgot completely\n",
         "about it until just now.\r"
+      ],
+      "fr_FR": [
+        "{STRVAR_1 3, 0, 0}: Euh... Pas de problème,\n",
+        "pépé, tu me connais!\f",
+        "Tu sais bien que je suis le meilleur!\r",
+        "Et tu sais quoi? J’avais justement\n",
+        "l’intention d’attraper ces Pokémon\f",
+        "pour toi.\r",
+        "Pour te remercier de nous avoir donné\n",
+        "nos premiers Pokémon, sur la Route 201.\r",
+        "Même si je viens juste de m’en\n",
+        "souvenir...\r"
       ]
     },
     {
@@ -173,11 +283,20 @@
         "Lake Valor.\r",
         "The lake is between Veilstone\n",
         "and Pastoria, if memory serves...\r"
+      ],
+      "fr_FR": [
+        "Sorbier: Très bien.\n",
+        "Je compte sur vous.\r",
+        "Ainsi donc, {STRVAR_1 3, 0, 0}, il te reste\n",
+        "le Lac Courage.\r",
+        "Il se trouve entre Voilaroc et\n",
+        "Verchamps, si ma mémoire est bonne...\r"
       ]
     },
     {
       "id": "CanalaveLibrary3F_Text_BigExplosion",
-      "en_US": "{SIZE 200}DDDOOOMMM!!"
+      "en_US": "{SIZE 200}DDDOOOMMM!!",
+      "fr_FR": "{SIZE 200}BOUUUMMM!!"
     },
     {
       "id": "CanalaveLibrary3F_Text_AreYouUnharmed",
@@ -185,6 +304,11 @@
         "Rowan: ...\n",
         "...Has it stopped?\r",
         "Are all of you unharmed?\r"
+      ],
+      "fr_FR": [
+        "Sorbier: ...\n",
+        "... C’est fini?\r",
+        "Personne n’est blessé?\r"
       ]
     },
     {
@@ -193,6 +317,12 @@
         "{STRVAR_1 3, 0, 0}: What was that about?!\r",
         "No, wait, I mean, TV! The TV!\n",
         "News! Anything!\r"
+      ],
+      "fr_FR": [
+        "{STRVAR_1 3, 0, 0}: Mais qu’est-ce qui s’est\n",
+        "passé?!\r",
+        "La télé! Allumez la télé! Les infos!\n",
+        "Faites quelque chose! N’importe quoi!\r"
       ]
     },
     {
@@ -205,6 +335,14 @@
         "Newscaster: It’s certainly impressive.\r",
         "Who knows what the explosion could\n",
         "expose at the lake?\r"
+      ],
+      "fr_FR": [
+        "Présentateur: La vidéo que vous venez\n",
+        "de voir a été enregistrée par un témoin\f",
+        "sur place.\r",
+        "Journaliste: Impressionnant!\r",
+        "Qui sait ce qui pourrait être révélé\n",
+        "après cette explosion au lac?\r"
       ]
     },
     {
@@ -212,6 +350,11 @@
       "en_US": [
         "{STRVAR_1 3, 0, 0}: Gramps!\n",
         "They said it was an explosion?!\r"
+      ],
+      "fr_FR": [
+        "{STRVAR_1 3, 0, 0}: Pépé!\r",
+        "Ils ont bien dit que c’était\n",
+        "une explosion?!\r"
       ]
     },
     {
@@ -223,6 +366,14 @@
         "I’m concerned about the town.\r",
         "You kids, be careful going down the\n",
         "stairs.\r"
+      ],
+      "fr_FR": [
+        "Sorbier: Hum...\n",
+        "Mais pourquoi au Lac Courage...?\r",
+        "Sortons.\n",
+        "Je m’inquiète pour la ville.\r",
+        "Prudence en descendant les escaliers,\n",
+        "les enfants.\r"
       ]
     },
     {
@@ -232,6 +383,13 @@
         "You should leave now, too.\r",
         "...There may be aftershocks, however.\n",
         "Be alert always.\r"
+      ],
+      "fr_FR": [
+        "Sorbier: {STRVAR_1 3, 1, 0}.\n",
+        "Tu devrais partir maintenant.\r",
+        "Cependant, il pourrait y avoir des\n",
+        "répliques...\r",
+        "Reste sur tes gardes.\r"
       ]
     },
     {
@@ -243,6 +401,14 @@
         "books are kept, you know.\r",
         "They’re where different places\n",
         "and times are gathered together."
+      ],
+      "fr_FR": [
+        "Chaque livre contient la mémoire\n",
+        "d’un individu, les lieux qu’il a connus.\r",
+        "Les bibliothèques ne sont pas seulement\n",
+        "des endroits où l’on garde des livres.\r",
+        "Elles sont le lieu où convergent\n",
+        "plusieurs époques et réalités."
       ]
     },
     {
@@ -250,6 +416,10 @@
       "en_US": [
         "W-was that an earthquake?\n",
         "I didn’t imagine it?"
+      ],
+      "fr_FR": [
+        "C... c’était un tremblement de terre?\n",
+        "Ou seulement mon imagination?"
       ]
     },
     {
@@ -257,6 +427,10 @@
       "en_US": [
         "Someone’s always checked out the\n",
         "book I want to read..."
+      ],
+      "fr_FR": [
+        "Les livres que je cherche sont toujours\n",
+        "empruntés par quelqu’un d’autre..."
       ]
     },
     {
@@ -265,6 +439,11 @@
         "I’m feeling wobbly...\r",
         "Even though the tremor has ended,\n",
         "my knees still feel like jelly..."
+      ],
+      "fr_FR": [
+        "Je me sens patraque...\r",
+        "Même après la secousse, j’ai toujours\n",
+        "les genoux en compote..."
       ]
     },
     {
@@ -272,11 +451,16 @@
       "en_US": [
         "This book is titled “Sinnoh\n",
         "Myth.” Want to read it?"
+      ],
+      "fr_FR": [
+        "Ce livre s’intitule “Mythes de Sinnoh”.\n",
+        "Voulez-vous le lire?"
       ]
     },
     {
       "id": "CanalaveLibrary3F_Text_PutSinnohMythBack",
-      "en_US": "{STRVAR_1 3, 0, 0} put the book back."
+      "en_US": "{STRVAR_1 3, 0, 0} put the book back.",
+      "fr_FR": "{STRVAR_1 3, 0, 0} remet le livre à sa place."
     },
     {
       "id": "CanalaveLibrary3F_Text_SinnohMyth",
@@ -292,6 +476,19 @@
         "of Master ???.\r",
         "Those words were spoken often\n",
         "as customary."
+      ],
+      "fr_FR": [
+        "“Mythes de Sinnoh”\r",
+        "Ne trahissez point votre haine, pour ne\n",
+        "pas précipiter la venue de ???.\r",
+        "Chassez au loin vos sanglots, pour \n",
+        "éviter que ??? ne s’approche.\r",
+        "Lorsque la joie et la célébration seront\n",
+        "pour vous des sentiments naturels,\f",
+        "vous aurez atteint la béatitude.\r",
+        "Ceux-là seront bénis par le Maître ???.\r",
+        "Autrefois, on avait coutume de\n",
+        "prononcer cette formule."
       ]
     },
     {
@@ -299,11 +496,16 @@
       "en_US": [
         "This book is titled “Sinnoh Region’s\n",
         "Mythology.” Want to read it?"
+      ],
+      "fr_FR": [
+        "Ce livre s’intitule “Mythologie de la\n",
+        "région de Sinnoh”. Voulez-vous le lire?"
       ]
     },
     {
       "id": "CanalaveLibrary3F_Text_PutSinnohRegionsMythologyBack",
-      "en_US": "{STRVAR_1 3, 0, 0} put the book back."
+      "en_US": "{STRVAR_1 3, 0, 0} put the book back.",
+      "fr_FR": "{STRVAR_1 3, 0, 0} remet le livre à sa place."
     },
     {
       "id": "CanalaveLibrary3F_Text_SinnohRegionsMythology",
@@ -322,6 +524,23 @@
         "appear before humans always.\r",
         "Thus, to this day, Pokémon appear\n",
         "to us if we venture into tall grass."
+      ],
+      "fr_FR": [
+        "“Mythologie de la région de Sinnoh”\r",
+        "Il y a fort longtemps, peu après la \n",
+        "création de Sinnoh, les gens et les\f",
+        "Pokémon vivaient séparément.\r",
+        "Ce qui ne veut pas dire qu’il n’y avait\n",
+        "aucune entraide, loin de là.\r",
+        "Ils échangeaient de la nourriture et\n",
+        "se soutenaient mutuellement.\r",
+        "Un Pokémon proposa aux siens d’être\n",
+        "toujours prêts à aider les humains.\r",
+        "Il leur demanda d’aller au devant des\n",
+        "humains pour leur proposer leur aide.\r",
+        "Depuis, les Pokémon se montrent à ceux\n",
+        "qui s’aventurent dans les hautes\f",
+        "herbes."
       ]
     },
     {
@@ -329,11 +548,16 @@
       "en_US": [
         "This book is titled “Sinnoh’s\n",
         "Myth.” Want to read it?"
+      ],
+      "fr_FR": [
+        "Ce livre s’intitule “Le Mythe de\n",
+        "Sinnoh”. Voulez-vous le lire?"
       ]
     },
     {
       "id": "CanalaveLibrary3F_Text_PutSinnohsMythBack",
-      "en_US": "{STRVAR_1 3, 0, 0} put the book back."
+      "en_US": "{STRVAR_1 3, 0, 0} put the book back.",
+      "fr_FR": "{STRVAR_1 3, 0, 0} remet le livre à sa place."
     },
     {
       "id": "CanalaveLibrary3F_Text_SinnohsMyth",
@@ -348,6 +572,18 @@
         "From the lake floor they rise.\r",
         "Bearing with them the power to make\n",
         "vast lands, they rise again."
+      ],
+      "fr_FR": [
+        "“Le Mythe de Sinnoh”\r",
+        "Ils étaient trois Pokémon.\r",
+        "Au fond des lacs, ils plongèrent,\n",
+        "au plus profond, sans reprendre d’air.\r",
+        "Au plus profond, ils s’enfoncèrent\n",
+        "jusqu’aux abîmes suffocants.\r",
+        "Et continuèrent jusqu’à toucher le fond\n",
+        "avant d’entamer leur ascension,\r",
+        "pour refaire surface, doués du pouvoir\n",
+        "de révéler les terres immergées."
       ]
     },
     {
@@ -355,11 +591,16 @@
       "en_US": [
         "This book is titled “Veilstone’s\n",
         "Myth.” Want to read it?"
+      ],
+      "fr_FR": [
+        "Le livre s’intitule “Le Mythe de\n",
+        "Voilaroc”. Voulez-vous le lire?"
       ]
     },
     {
       "id": "CanalaveLibrary3F_Text_PutVeilstonesMythBack",
-      "en_US": "{STRVAR_1 3, 0, 0} put the book back."
+      "en_US": "{STRVAR_1 3, 0, 0} put the book back.",
+      "fr_FR": "{STRVAR_1 3, 0, 0} remet le livre à sa place."
     },
     {
       "id": "CanalaveLibrary3F_Text_VeilstonesMyth1",
@@ -374,6 +615,18 @@
         "The following year, no Pokémon\n",
         "appeared. Larders grew bare.\r",
         "...Would you like to keep reading?"
+      ],
+      "fr_FR": [
+        "“Le Mythe de Voilaroc”\r",
+        "Un jeune homme, novice autant \n",
+        "qu’innocent, reçut la garde d’une épée.\r",
+        "Ainsi armé, il pourfendit les Pokémon\n",
+        "pour s’en repaître jusqu’à la lie.\r",
+        "Il abandonna sans une pensée les corps\n",
+        "de ceux qu’il ne voulait pas manger.\r",
+        "L’année suivante, aucun Pokémon ne se\n",
+        "montra. Les réserves s’épuisaient.\r",
+        "... Voulez-vous continuer à lire?"
       ]
     },
     {
@@ -393,6 +646,21 @@
         "“Done it must be to guard ourselves\n",
         "and for it, I apologize.”\r",
         "...Would you like to keep reading?"
+      ],
+      "fr_FR": [
+        "Le damoiseau voyagea loin, en quête\n",
+        "des Pokémon disparus.\r",
+        "Il chercha longtemps, épuisant les\n",
+        "terriers, jusqu’à enfin en rencontrer.\r",
+        "“Pourquoi vous cacher?”, demanda-t-il.\n",
+        "Ce à quoi le Pokémon répondit...\r",
+        "“Si tu sors ta lame pour nous frapper,\f",
+        "nos griffes et nos crocs te puniront.\r",
+        "Nous punirons les tiens sans hésiter,\n",
+        "car c’est pour nous la seule solution.\r",
+        "La seule solution pour nous protéger,\n",
+        "et je suis contraint de m’en excuser.”\r",
+        "... Voulez-vous continuer à lire?"
       ]
     },
     {
@@ -412,6 +680,22 @@
         "sword to the ground, snapping it.\r",
         "Seeing this, the Pokémon disappeared\n",
         "to a place beyond seeing..."
+      ],
+      "fr_FR": [
+        "Le jeune homme implora les cieux,\n",
+        "criant son désarroi.\r",
+        "“En gagnant cette épée, \n",
+        "j’ai perdu la raison.\r",
+        "Ivre de puissance, j’ai méprisé\n",
+        "la vie des Pokémon.\r",
+        "Je rejette cette épée et renonce\n",
+        "à jamais à la sauvagerie.\r",
+        "J’implore votre pardon,\n",
+        "je n’étais qu’un imbécile.”\r",
+        "Et sur ces mots, le jeune homme abattit\n",
+        "son épée vers le sol et la brisa.\r",
+        "Voyant cela, les Pokémon s’enfuirent\n",
+        "en un lieu à l’abri des regards..."
       ]
     },
     {
@@ -419,11 +703,16 @@
       "en_US": [
         "This ancient book is titled “The\n",
         "Original Story.” Want to read it?"
+      ],
+      "fr_FR": [
+        "Ce livre ancien est intitulé “L’Histoire\n",
+        "Originelle”. Voulez-vous le lire?"
       ]
     },
     {
       "id": "CanalaveLibrary3F_Text_PutTheOriginalStoryBack",
-      "en_US": "{STRVAR_1 3, 0, 0} put the book back."
+      "en_US": "{STRVAR_1 3, 0, 0} put the book back.",
+      "fr_FR": "{STRVAR_1 3, 0, 0} remet le livre à sa place."
     },
     {
       "id": "CanalaveLibrary3F_Text_TheOriginalStory1",
@@ -435,6 +724,15 @@
         "Having tumbled from the vortex, the\n",
         "Egg gave rise to the Original One.\r",
         "...Would you like to keep reading?"
+      ],
+      "fr_FR": [
+        "Au départ, il n’y avait qu’un\n",
+        "tourbillon de chaos bouillonnant.\r",
+        "Et au cœur du chaos, où toutes choses\n",
+        "ne font plus qu’une, un Oeuf apparut.\r",
+        "Echappé du vortex, l’Oeuf donna\n",
+        "naissance à l’Etre Originel.\r",
+        "... Voulez-vous continuer à lire?"
       ]
     },
     {
@@ -447,6 +745,15 @@
         "From itself again, three living things\n",
         "the Original One did make.\r",
         "...Would you like to keep reading?"
+      ],
+      "fr_FR": [
+        "Puis l’Etre Originel se sépara\n",
+        "en deux entités distinctes.\r",
+        "Le temps se mit en branle.\n",
+        "L’espace commença à s’étendre.\r",
+        "Puis l’Etre Originel se sépara à \n",
+        "nouveau, pour fonder trois entités.\r",
+        "... Voulez-vous continuer à lire?"
       ]
     },
     {
@@ -458,6 +765,14 @@
         "from them, spirit came to be.\r",
         "The world created, the Original One\n",
         "took to unyielding sleep..."
+      ],
+      "fr_FR": [
+        "Les deux entités firent le vœu de\n",
+        "donner naissance à la matière.\r",
+        "Les trois entités firent le vœu de\n",
+        "donner naissance à l’âme.\r",
+        "Une fois le monde créé, l’Etre Originel\n",
+        "plongea dans un sommeil profond..."
       ]
     },
     {
@@ -465,11 +780,16 @@
       "en_US": [
         "This book is titled “A Horrific\n",
         "Myth.” Want to read it?"
+      ],
+      "fr_FR": [
+        "Ce livre s’intitule “Un Mythe\n",
+        "Terrifiant”. Voulez-vous le lire?"
       ]
     },
     {
       "id": "CanalaveLibrary3F_Text_PutHorrificMythBack",
-      "en_US": "{STRVAR_1 3, 0, 0} put the book back."
+      "en_US": "{STRVAR_1 3, 0, 0} put the book back.",
+      "fr_FR": "{STRVAR_1 3, 0, 0} remet le livre à sa place."
     },
     {
       "id": "CanalaveLibrary3F_Text_HorrificMyth",
@@ -486,6 +806,21 @@
         "the Pokémon.\r",
         "In a scant five days, the offender\n",
         "will grow immobile in entirety."
+      ],
+      "fr_FR": [
+        "Ne regardez jamais ce Pokémon\n",
+        "droit dans les yeux.\r",
+        "Il suffirait d’un instant pour\n",
+        "oublier votre identité.\r",
+        "Comment faire pour rentrer chez soi\n",
+        "quand il n’y a rien dont on se souvient?\r",
+        "Evitez tout contact avec ce Pokémon.\r",
+        "Il suffirait de trois jours pour perdre\n",
+        "vos émotions.\r",
+        "Et surtout, surtout, ne portez jamais\n",
+        "la main sur ce Pokémon.\r",
+        "Au bout de cinq jours, l’agresseur\n",
+        "serait paralysé pour l’éternité."
       ]
     },
     {
@@ -493,15 +828,21 @@
       "en_US": [
         "This book is titled “Sinnoh Folk\n",
         "Stories.”\r"
+      ],
+      "fr_FR": [
+        "Ce livre s’intitule “Contes Populaires\n",
+        "de Sinnoh”.\r"
       ]
     },
     {
       "id": "CanalaveLibrary3F_Text_ReadWhichStory",
-      "en_US": "Which story would you like to read?"
+      "en_US": "Which story would you like to read?",
+      "fr_FR": "Quelle histoire souhaitez-vous lire?"
     },
     {
       "id": "CanalaveLibrary3F_Text_PutSinnohFolkStoriesBack",
-      "en_US": "{STRVAR_1 3, 0, 0} put the book back."
+      "en_US": "{STRVAR_1 3, 0, 0} put the book back.",
+      "fr_FR": "{STRVAR_1 3, 0, 0} remet le livre à sa place."
     },
     {
       "id": "CanalaveLibrary3F_Text_SinnohFolkStory1",
@@ -516,6 +857,18 @@
         "which they came.\r",
         "The Pokémon will return, fully\n",
         "fleshed, and it begins anew."
+      ],
+      "fr_FR": [
+        "“Conte populaire de Sinnoh 1”\r",
+        "Régalez-vous d’un Pokémon\n",
+        "attrapé dans une mare ou un ruisseau.\r",
+        "Remerciez-le pour ce repas,\n",
+        "et ne laissez pas de restes.\r",
+        "Quand ses os sont blancs comme\n",
+        "l’albâtre, déposez-les au point d’eau\f",
+        "qui a vu naître ce Pokémon.\r",
+        "Le Pokémon réapparaîtra, bien en\n",
+        "chair, pour commencer une nouvelle vie."
       ]
     },
     {
@@ -527,6 +880,15 @@
         "hide to sleep as a human.\r",
         "Awakened, the human dons the\n",
         "Pokémon hide to roam villages."
+      ],
+      "fr_FR": [
+        "“Conte Populaire de Sinnoh 2”\r",
+        "Il était une fois un Pokémon\n",
+        "vivant en forêt.\r",
+        "En forêt, le Pokémon retirait son pelage\n",
+        "pour s’endormir sous sa forme humaine.\r",
+        "A son réveil, l’humain enfilait le pelage\n",
+        "du Pokémon pour arpenter les villages."
       ]
     },
     {
@@ -539,6 +901,15 @@
         "that ate together at the same table.\r",
         "It was a time when there existed no\n",
         "differences to distinguish the two."
+      ],
+      "fr_FR": [
+        "“Conte Populaire de Sinnoh 3”\r",
+        "Il fut un temps où certains Pokémon\n",
+        "étaient très proches des humains.\r",
+        "Un temps où humains et Pokémon \n",
+        "mangeaient à la même table.\r",
+        "Un temps où aucune différence ne\n",
+        "permettait de les distinguer."
       ]
     },
     {
@@ -547,6 +918,11 @@
         "On this floor, you will find many\n",
         "books on the myths and legends of\f",
         "the Sinnoh region."
+      ],
+      "fr_FR": [
+        "A cet étage, vous trouverez des\n",
+        "livres concernant les mythes et\f",
+        "légendes de la région de Sinnoh."
       ]
     }
   ]

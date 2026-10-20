@@ -32,6 +32,10 @@
             "en_US": [
                 "Fine, all righty then.\n",
                 "Just a quick battle on my break!\r"
+            ],
+            "fr_FR": [
+                "D’accord, très bien. Juste un petit\n",
+                "combat, pendant ma pause!\r"
             ]
         },
         {
@@ -39,6 +43,10 @@
             "en_US": [
                 "Wahaha!\n",
                 "Mercy, I cry mercy!\n"
+            ],
+            "fr_FR": [
+                "Ouiiiin!\n",
+                "Pitié, je dis “pouce”!\n"
             ]
         },
         {
@@ -47,7 +55,13 @@
                 "I’d better get on back to work...\r",
                 "You know, I’d rather be traveling\n",
                 "around with Pokémon the way you do.\n"
+            ],
+            "fr_FR": [
+                "Je devrais retourner au travail...\r",
+                "Tu sais, je préfèrerais faire comme toi\n",
+                "et voyager avec des Pokémon.\n"
             ]
         }
-    ]
+    ],
+    "name_fr": "Ugo"
 }

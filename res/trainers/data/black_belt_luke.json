@@ -42,17 +42,26 @@
             "en_US": [
                 "I dress light wherever I go.\n",
                 "Hiyah!\r"
+            ],
+            "fr_FR": [
+                "Je m’habille toujours léger.\n",
+                "Yahaa!\r"
             ]
         },
         {
             "type": "TRMSG_DEFEAT",
-            "en_US": "Achoo!\n"
+            "en_US": "Achoo!\n",
+            "fr_FR": "Atchoum!\n"
         },
         {
             "type": "TRMSG_POST_BATTLE",
             "en_US": [
                 "Maybe I’ll dress warm and come back.\n",
                 "Hiyah!\n"
+            ],
+            "fr_FR": [
+                "Je devrais peut-être m’habiller plus\n",
+                "chaudement. Ou pas! Yahaa!"
             ]
         },
         {
@@ -60,7 +69,12 @@
             "en_US": [
                 "Lightly dressed like always.\n",
                 "Hiyah!\r"
+            ],
+            "fr_FR": [
+                "Je suis habillé léger, comme toujours!\n",
+                "Yahaa!\r"
             ]
         }
-    ]
+    ],
+    "name_fr": "Arnaud"
 }

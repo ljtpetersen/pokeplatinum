@@ -6,6 +6,10 @@
       "en_US": [
         "...\n",
         "...\r"
+      ],
+      "fr_FR": [
+        "...\n",
+        "...\r"
       ]
     },
     {
@@ -13,7 +17,8 @@
       "en_US": [
         "DARKRAI melted away into the\n",
         "darkness...\r"
-      ]
+      ],
+      "fr_FR": "DARKRAI a disparu dans les ténèbres...\r"
     },
     {
       "id": "NewmoonIslandForest_Text_VoiceFromSomewhere",
@@ -31,6 +36,23 @@
         "your nightmare...\r",
         "If anyone were to fall into a nightmare,\n",
         "the Fullmoon Island is close by...\r",
+        "...\n",
+        "...\r"
+      ],
+      "fr_FR": [
+        "Au loin, une voix se fait entendre...\r",
+        "???: DARKRAI...\n",
+        "Grand est ton pouvoir.\r",
+        "Sans le vouloir, tu plonges les gens et\n",
+        "les Pokémon qui te côtoient dans\f",
+        "d’affreux cauchemars...\r",
+        "C’est pourquoi tu t’es exilé ici...\r",
+        "Sur l’Ile Nouvellune...\n",
+        "Une terre inhabitée...\r",
+        "Où personne ne risque de tomber dans\n",
+        "un cauchemar sans fin...\r",
+        "Et si jamais cela devait arriver,\n",
+        "l’Ile Pleine Lune est proche...\r",
         "...\n",
         "...\r"
       ]
@@ -51,6 +73,23 @@
         "your nightmare...\r",
         "If anyone were to fall into a nightmare,\n",
         "the Fullmoon Island is close by...\r",
+        "...\n",
+        "..."
+      ],
+      "fr_FR": [
+        "Au loin, une voix se fait entendre...\r",
+        "???: DARKRAI...\n",
+        "Grand est ton pouvoir.\r",
+        "Sans le vouloir, tu plonges les gens et\n",
+        "les Pokémon qui te côtoient dans\f",
+        "d’affreux cauchemars...\r",
+        "C’est pourquoi tu t’es exilé ici...\r",
+        "Sur l’Ile Nouvellune...\n",
+        "Une terre inhabitée...\r",
+        "Où personne ne risque de tomber dans\n",
+        "un cauchemar sans fin...\r",
+        "Et si jamais cela devait arriver,\n",
+        "l’Ile Pleine Lune est proche...\r",
         "...\n",
         "..."
       ]

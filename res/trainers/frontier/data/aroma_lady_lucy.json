@@ -51,6 +51,10 @@
             "en_US": [
                 "Snivel! Hnurrff! Snort!\n",
                 "This hay fever is a wicked misery..."
+            ],
+            "fr_FR": [
+                "Je suis balade. J’ai le rhube des\n",
+                "foins, et j’en ai barre..."
             ]
         },
         {
@@ -58,6 +62,10 @@
             "en_US": [
                 "Hnurrff! Snivel! Snivel! Snivel!\n",
                 "I won, but the misery continues!\r"
+            ],
+            "fr_FR": [
+                "Snif! J’ai gagné, c’est suber, bais ça\n",
+                "b’aide bas à soigner mon rhube!\r"
             ]
         },
         {
@@ -65,7 +73,12 @@
             "en_US": [
                 "Sniffle. Snivel. Snort.\n",
                 "I’m not crying. My nose is running.\r"
+            ],
+            "fr_FR": [
+                "Snif! Bais non, je bleure bas barce que\n",
+                "je suis driste! Je suis balade, j’ai dit!\r"
             ]
         }
-    ]
+    ],
+    "name_fr": "Lucille"
 }

@@ -27,5 +27,13 @@
     "contest": {
         "effect": "CONTEST_EFFECT_FINAL_PERFORMANCE_ADVANTAGE",
         "type": "CONTEST_TYPE_COOL"
-    }
+    },
+    "name_fr": "Dynamopoing",
+    "description_fr": [
+        "Le lanceur rassemble\n",
+        "ses forces et envoie\n",
+        "un coup de poing à\n",
+        "l’ennemi. S’il est\n",
+        "touché, il est confus."
+    ]
 }

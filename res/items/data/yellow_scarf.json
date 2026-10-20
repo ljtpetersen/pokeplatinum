@@ -26,5 +26,12 @@
   "battlePocket": "BATTLE_POCKET_MASK_NONE",
   "fieldUseFunc": "ITEM_USE_FUNC_NONE",
   "battleUseCategory": "BATTLE_USE_CATEGORY_NONE",
-  "itemUseParams": null
+  "itemUseParams": null,
+  "name_fr": "Foul. Jaune",
+  "description_fr": [
+    "Objet à tenir. Augmente la\n",
+    "“Robustesse” dans les Concours."
+  ],
+  "plural_fr": "Foul. Jaune",
+  "article_fr": null
 }

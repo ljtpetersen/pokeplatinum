@@ -41,6 +41,10 @@
             "en_US": [
                 "I only live to swim. Teach me what’s\n",
                 "so fun about Pokémon!\r"
+            ],
+            "fr_FR": [
+                "Je suis fan de natation. Explique-moi\n",
+                "ce que les Pokémon ont de si amusant!\r"
             ]
         },
         {
@@ -48,6 +52,10 @@
             "en_US": [
                 "Oh, yeah, that was fun!\n",
                 "I learned something good!\n"
+            ],
+            "fr_FR": [
+                "D’accord, c’était amusant!\n",
+                "J’ai appris quelque chose!\n"
             ]
         },
         {
@@ -55,7 +63,8 @@
             "en_US": [
                 "It’s what I live for!\n",
                 "Pokémon!\n"
-            ]
+            ],
+            "fr_FR": "Les Pokémon, c’est ma vie!\n"
         },
         {
             "type": "TRMSG_REMATCH",
@@ -64,7 +73,14 @@
                 "about Pokémon?\r",
                 "Teach me more.\n",
                 "I’m eager to learn!\r"
+            ],
+            "fr_FR": [
+                "Hé, c’est toi qui m’as montré à quel\n",
+                "point les Pokémon sont amusants, non?\r",
+                "Montre-m’en plus!\n",
+                "Je suis impatient!\r"
             ]
         }
-    ]
+    ],
+    "name_fr": "Régis"
 }

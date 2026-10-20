@@ -23,18 +23,28 @@
             "en_US": [
                 "I’m gonna let you in on a secret...\n",
                 "I snuck my Pokémon to work!\r"
+            ],
+            "fr_FR": [
+                "Je vais te confier un secret... Je cache\n",
+                "mon Pokémon pour l’amener au travail!\r"
             ]
         },
         {
             "type": "TRMSG_DEFEAT",
-            "en_US": "Well, now aren’t you something!\n"
+            "en_US": "Well, now aren’t you something!\n",
+            "fr_FR": "Eh bien, tu es un phénomène, toi!\n"
         },
         {
             "type": "TRMSG_POST_BATTLE",
             "en_US": [
                 "OK, OK, time for work! I’ll work up\n",
                 "a thirst with my Pokémon!\n"
+            ],
+            "fr_FR": [
+                "OK, OK, c’est l’heure du boulot!\n",
+                "Je pars au turbin avec mon Pokémon!\n"
             ]
         }
-    ]
+    ],
+    "name_fr": "Manfred"
 }

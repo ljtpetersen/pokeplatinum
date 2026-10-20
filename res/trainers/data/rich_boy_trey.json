@@ -25,6 +25,10 @@
             "en_US": [
                 "I need to escape these doldrums...\n",
                 "You can keep me company.\r"
+            ],
+            "fr_FR": [
+                "J’ai le cafard... Toi! Fais quelque\n",
+                "chose. Tout de suite.\r"
             ]
         },
         {
@@ -33,6 +37,10 @@
                 "That did liberate me from the doldrums,\n",
                 "but at what price...\n",
                 "\n"
+            ],
+            "fr_FR": [
+                "Bien, je n’ai plus le cafard... mais cela\n",
+                "m’a coûté plus que je pensais."
             ]
         },
         {
@@ -40,6 +48,10 @@
             "en_US": [
                 "I’m going back to the hotel to rest!\n",
                 "I find you exceedingly tiresome!\n"
+            ],
+            "fr_FR": [
+                "Je retourne à l’hôtel, c’est décidé.\n",
+                "Je ne veux plus te voir!\n"
             ]
         },
         {
@@ -47,7 +59,12 @@
             "en_US": [
                 "I’m afraid I’m in the doldrums again.\n",
                 "You shall keep me company again!\r"
+            ],
+            "fr_FR": [
+                "J’ai le cafard... Encore...\n",
+                "Fais quelque chose!\r"
             ]
         }
-    ]
+    ],
+    "name_fr": "Emilien"
 }

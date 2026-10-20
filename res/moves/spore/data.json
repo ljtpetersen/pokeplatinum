@@ -25,5 +25,11 @@
     "contest": {
         "effect": "CONTEST_EFFECT_LOWERS_VOLTAGE",
         "type": "CONTEST_TYPE_BEAUTY"
-    }
+    },
+    "name_fr": "Spore",
+    "description_fr": [
+        "Le lanceur répand un\n",
+        "nuage de spores qui\n",
+        "endort."
+    ]
 }

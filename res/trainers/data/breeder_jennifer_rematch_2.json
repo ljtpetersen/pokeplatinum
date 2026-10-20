@@ -52,6 +52,12 @@
                 "people who don’t treat Pokémon nice!\r",
                 "But I know you treat yours kindly.\n",
                 "I’ll battle you anytime!\r"
+            ],
+            "fr_FR": [
+                "Je ne veux pas me battre contre des\n",
+                "gens qui traitent mal les Pokémon!\r",
+                "Mais je sais que tu les traites bien.\n",
+                "Je me bats contre toi quand tu veux!\r"
             ]
         },
         {
@@ -59,7 +65,12 @@
             "en_US": [
                 "Giggle...\n",
                 "They’re raised with a lot of care!\n"
+            ],
+            "fr_FR": [
+                "Hi, hi, hi...\n",
+                "Tu les élèves avec beaucoup de soin!\n"
             ]
         }
-    ]
+    ],
+    "name_fr": "Ludivine"
 }

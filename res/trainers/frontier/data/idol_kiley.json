@@ -41,6 +41,10 @@
             "en_US": [
                 "My profile’s riding high now, so my\n",
                 "schedule’s filled solid!"
+            ],
+            "fr_FR": [
+                "Je suis très populaire, et j’ai un\n",
+                "emploi du temps extrêmement chargé!"
             ]
         },
         {
@@ -48,6 +52,10 @@
             "en_US": [
                 "Oh, no! It’s this late already?\n",
                 "I’d better check my timetable!\r"
+            ],
+            "fr_FR": [
+                "Oh, non! Il est déjà si tard? Je suis en\n",
+                "retard, non? Vite, mon agenda!\r"
             ]
         },
         {
@@ -55,7 +63,12 @@
             "en_US": [
                 "Talent manager!\n",
                 "Do I have time for a rematch?\r"
+            ],
+            "fr_FR": [
+                "J’appelle mon agent! Je dois savoir si\n",
+                "j’ai le temps pour une revanche.\r"
             ]
         }
-    ]
+    ],
+    "name_fr": "Kendra"
 }

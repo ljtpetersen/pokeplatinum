@@ -26,5 +26,13 @@
   "battlePocket": "BATTLE_POCKET_MASK_NONE",
   "fieldUseFunc": "ITEM_USE_FUNC_MAIL",
   "battleUseCategory": "BATTLE_USE_CATEGORY_NONE",
-  "itemUseParams": null
+  "itemUseParams": null,
+  "name_fr": "Lettre Mine",
+  "description_fr": [
+    "Un papier à lettres représentant une\n",
+    "mine de charbon peu éclairée.\n",
+    "Peut être tenu et livré par un Pokémon."
+  ],
+  "plural_fr": "Lettre Mine",
+  "article_fr": null
 }

@@ -26,5 +26,13 @@
     "contest": {
         "effect": "CONTEST_EFFECT_BASIC",
         "type": "CONTEST_TYPE_CUTE"
-    }
+    },
+    "name_fr": "Ronflement",
+    "description_fr": [
+        "Une attaque qui ne\n",
+        "fonctionne que si le\n",
+        "lanceur est endormi.\n",
+        "Le boucan peut aussi\n",
+        "apeurer l’ennemi."
+    ]
 }

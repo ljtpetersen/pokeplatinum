@@ -23,6 +23,10 @@
             "en_US": [
                 "Can’t you see I’m fishing?\n",
                 "Don’t talk! You’ll spook the fish!\r"
+            ],
+            "fr_FR": [
+                "Tu ne vois pas que je pêche?\n",
+                "Pas un mot! Tu vas effrayer le poisson!\r"
             ]
         },
         {
@@ -30,6 +34,10 @@
             "en_US": [
                 "How do you like that?\n",
                 "Both my catch and the win got away!\n"
+            ],
+            "fr_FR": [
+                "Et voilà! A cause de toi, j’ai perdu ma\n",
+                "prise ET notre combat! Bravo!"
             ]
         },
         {
@@ -37,6 +45,10 @@
             "en_US": [
                 "Fishing and battling are delicate\n",
                 "things--as am I. Is that wrong?\n"
+            ],
+            "fr_FR": [
+                "La pêche et le combat sont deux choses\n",
+                "délicates, comme moi. N’est-ce pas?\n"
             ]
         },
         {
@@ -44,7 +56,12 @@
             "en_US": [
                 "You can see I’m fishing, can’t you?\n",
                 "Then don’t talk to me! Geez!\r"
+            ],
+            "fr_FR": [
+                "Tu vois bien que je pêche, non? Alors,\n",
+                "ne viens pas me parler! Non mais oh!\r"
             ]
         }
-    ]
+    ],
+    "name_fr": "Xavier"
 }

@@ -58,7 +58,9 @@
     "messages": [
         {
             "type": "TRMSG_DEFEAT",
-            "en_US": "...\n"
+            "en_US": "...\n",
+            "fr_FR": "..."
         }
-    ]
+    ],
+    "name_fr": "Adrien"
 }

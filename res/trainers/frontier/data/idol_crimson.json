@@ -45,6 +45,10 @@
             "en_US": [
                 "You’re ever so lucky to get the chance\n",
                 "to battle with me."
+            ],
+            "fr_FR": [
+                "Tu te rends compte de la chance que tu\n",
+                "as de te battre contre moi?"
             ]
         },
         {
@@ -52,6 +56,10 @@
             "en_US": [
                 "You’re super lucky to even battle\n",
                 "an Idol like me. Don’t you get it?\r"
+            ],
+            "fr_FR": [
+                "Tu as vraiment de la chance de m’avoir\n",
+                "approchée d’aussi près, tu sais.\r"
             ]
         },
         {
@@ -59,7 +67,12 @@
             "en_US": [
                 "Huh? Huh? Now, why did you win?\n",
                 "You know I’m supposed to win?\r"
+            ],
+            "fr_FR": [
+                "Comment? Comment? On va la refaire!\n",
+                "Ce n’est pas ce qui était prévu!\r"
             ]
         }
-    ]
+    ],
+    "name_fr": "Cléa"
 }

@@ -26,5 +26,11 @@
     "contest": {
         "effect": "CONTEST_EFFECT_FIRST_PERFORMANCE_ADVANTAGE",
         "type": "CONTEST_TYPE_COOL"
-    }
+    },
+    "name_fr": "Lame-Feuille",
+    "description_fr": [
+        "Une feuille coupante\n",
+        "entaille l’ennemi. Taux\n",
+        "de critiques élevé."
+    ]
 }

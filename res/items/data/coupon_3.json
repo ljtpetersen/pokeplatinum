@@ -26,5 +26,12 @@
   "battlePocket": "BATTLE_POCKET_MASK_NONE",
   "fieldUseFunc": "ITEM_USE_FUNC_NONE",
   "battleUseCategory": "BATTLE_USE_CATEGORY_NONE",
-  "itemUseParams": null
+  "itemUseParams": null,
+  "name_fr": "Bon 3",
+  "description_fr": [
+    "Un des trois bons à échanger contre\n",
+    "une Pokémontre. "
+  ],
+  "plural_fr": "Bon 3",
+  "article_fr": null
 }

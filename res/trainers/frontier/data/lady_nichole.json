@@ -59,6 +59,10 @@
             "en_US": [
                 "If I were Honey, then you would be\n",
                 "Gooey Mulch, I would think."
+            ],
+            "fr_FR": [
+                "Si nous étions des objets, je serais du\n",
+                "Miel et tu serais du Repousse."
             ]
         },
         {
@@ -66,6 +70,10 @@
             "en_US": [
                 "Do you see now?\n",
                 "How different we are in level and class?\r"
+            ],
+            "fr_FR": [
+                "Et voilà. C’est toute la différence\n",
+                "entre toi et moi.\r"
             ]
         },
         {
@@ -73,7 +81,12 @@
             "en_US": [
                 "How dare you!\n",
                 "I won’t forget this humiliation ever!\r"
+            ],
+            "fr_FR": [
+                "Comment oses-tu!\n",
+                "Je n’oublierai pas cet affront!\r"
             ]
         }
-    ]
+    ],
+    "name_fr": "Nolwenn"
 }

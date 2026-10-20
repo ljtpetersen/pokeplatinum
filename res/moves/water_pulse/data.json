@@ -27,5 +27,13 @@
     "contest": {
         "effect": "CONTEST_EFFECT_FIRST_PERFORMANCE_ADVANTAGE",
         "type": "CONTEST_TYPE_BEAUTY"
-    }
+    },
+    "name_fr": "Vibraqua",
+    "description_fr": [
+        "Le lanceur envoie\n",
+        "de puissants jets\n",
+        "d’eau sur l’ennemi.\n",
+        "Peut rendre l’ennemi\n",
+        "confus."
+    ]
 }

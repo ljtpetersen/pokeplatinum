@@ -45,6 +45,10 @@
             "en_US": [
                 "The bugs are my minions, and I’m the\n",
                 "boss. Are you prepared to lose?"
+            ],
+            "fr_FR": [
+                "Je peux commander aux insectes, et\n",
+                "je viens d’ordonner ta défaite!"
             ]
         },
         {
@@ -52,6 +56,10 @@
             "en_US": [
                 "Wahaha!\n",
                 "Well done, my minions!\r"
+            ],
+            "fr_FR": [
+                "Hahahaha!\n",
+                "Incline-toi devant ma puissance!\r"
             ]
         },
         {
@@ -59,7 +67,12 @@
             "en_US": [
                 "We were mowed down...\n",
                 "My minions have learned the hard way!\r"
+            ],
+            "fr_FR": [
+                "Non! Ça t’amuse tant que ça d’écraser\n",
+                "des insectes innocents?\r"
             ]
         }
-    ]
+    ],
+    "name_fr": "Chris"
 }

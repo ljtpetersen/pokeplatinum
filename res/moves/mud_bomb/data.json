@@ -26,5 +26,13 @@
     "contest": {
         "effect": "CONTEST_EFFECT_FINAL_PERFORMANCE_ADVANTAGE",
         "type": "CONTEST_TYPE_SMART"
-    }
+    },
+    "name_fr": "Boue-Bombe",
+    "description_fr": [
+        "Le lanceur attaque à\n",
+        "l’aide d’une boule de\n",
+        "boue solidifiée. Peut\n",
+        "aussi baisser la\n",
+        "précision de l’ennemi."
+    ]
 }

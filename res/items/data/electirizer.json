@@ -26,5 +26,13 @@
   "battlePocket": "BATTLE_POCKET_MASK_NONE",
   "fieldUseFunc": "ITEM_USE_FUNC_NONE",
   "battleUseCategory": "BATTLE_USE_CATEGORY_NONE",
-  "itemUseParams": null
+  "itemUseParams": null,
+  "name_fr": "Electiriseur",
+  "description_fr": [
+    "Une boîte remplie d’une énorme quantité\n",
+    "d’énergie électrique. Appréciée d’un\n",
+    "certain Pokémon."
+  ],
+  "plural_fr": "Electiriseur",
+  "article_fr": null
 }

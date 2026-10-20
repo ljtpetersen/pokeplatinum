@@ -65,6 +65,10 @@
             "en_US": [
                 "I’m feeling cranky today!\n",
                 "Help me get my mind off it!"
+            ],
+            "fr_FR": [
+                "Je ne me sens pas très bien.\n",
+                "Aide-moi à oublier ma migraine!"
             ]
         },
         {
@@ -72,6 +76,10 @@
             "en_US": [
                 "Whew... A battle is the perfect\n",
                 "stress reliever!\r"
+            ],
+            "fr_FR": [
+                "Pfiou... Rien de tel qu’un combat\n",
+                "pour évacuer le stress!\r"
             ]
         },
         {
@@ -79,7 +87,12 @@
             "en_US": [
                 "Eeeeeeeeh!\n",
                 "You’ve pushed me over to furious!\r"
+            ],
+            "fr_FR": [
+                "Héééééé! Je ne me sens pas mieux\n",
+                "du tout, au contraire!\r"
             ]
         }
-    ]
+    ],
+    "name_fr": "Rosie"
 }

@@ -13,6 +13,17 @@
         "Pokémon.\r",
         "Well, would you show this old lady\n",
         "how much you’ve learned?\r"
+      ],
+      "fr_FR": [
+        "Mais regardez-moi ça!\r",
+        "Quel Dresseur adorable! Mais qui a \n",
+        "également l’air redoutable...\r",
+        "Ha, ha, ha!\n",
+        "Je suis Terry.\r",
+        "Mon domaine, c’est les \n",
+        "Pokémon de type Sol.\r",
+        "Et si tu montrais à une vieille dame \n",
+        "ce dont la nouvelle garde est capable?\r"
       ]
     },
     {
@@ -24,6 +35,16 @@
         "That’s what makes you so strong.\r",
         "Ahahaha! I think that you can\n",
         "go as far as you want."
+      ],
+      "fr_FR": [
+        "Tu es vraiment redoutable, \n",
+        "jeune Dresseur.\r",
+        "J’admire le lien très fort \n",
+        "qui t’unit à tes Pokémon.\r",
+        "C’est ce qui fait ta force, et \n",
+        "te mènera vers les sommets.\r",
+        "Ha, ha, ha! Je suis sûre que tu y seras\n",
+        "en un rien de temps, au sommet."
       ]
     },
     {
@@ -35,6 +56,14 @@
         "about you.\r",
         "However, I think you can go as far\n",
         "as you desire. Ahahaha!"
+      ],
+      "fr_FR": [
+        "Mais je te préviens, le Dresseur qui \n",
+        "t’attend dans la prochaine salle\f",
+        "est une autre paire de manches.\r",
+        "Ta concentration devra être parfaite.\r",
+        "Mais entre nous, je pense que tu es \n",
+        "capable de nous battre tous! Ha, ha!"
       ]
     }
   ]

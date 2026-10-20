@@ -26,5 +26,13 @@
   "battlePocket": "BATTLE_POCKET_MASK_NONE",
   "fieldUseFunc": "ITEM_USE_FUNC_NONE",
   "battleUseCategory": "BATTLE_USE_CATEGORY_NONE",
-  "itemUseParams": null
+  "itemUseParams": null,
+  "name_fr": "Band. Muscle",
+  "description_fr": [
+    "Objet à tenir. Bandeau augmentant\n",
+    "légèrement la puissance des attaques\n",
+    "physiques."
+  ],
+  "plural_fr": "Band. Muscle",
+  "article_fr": null
 }

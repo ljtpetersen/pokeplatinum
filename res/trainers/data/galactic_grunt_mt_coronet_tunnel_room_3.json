@@ -43,6 +43,12 @@
                 "breaking hearts by being successful?\r",
                 "It’s your fault that Team Galactic\n",
                 "members are in so much pain...\r"
+            ],
+            "fr_FR": [
+                "Tu réalises le mal que tu causes\n",
+                "par ta réussite?\r",
+                "C’est de ta faute si les membres de la\n",
+                "Team Galaxie souffrent autant...\r"
             ]
         },
         {
@@ -50,7 +56,8 @@
             "en_US": [
                 "See? You’ve left me brokenhearted,\n",
                 "too...\n"
-            ]
+            ],
+            "fr_FR": "Tu vois? Moi aussi, tu me fais souffrir...\n"
         },
         {
             "type": "TRMSG_POST_BATTLE",
@@ -61,7 +68,16 @@
                 "How ridiculous!\r",
                 "Team Galactic should be doing all the\n",
                 "laughing!\n"
+            ],
+            "fr_FR": [
+                "Le bonheur des uns fait le malheur des\n",
+                "autres...\r",
+                "Vouloir que tout le monde soit heureux\n",
+                "et souriant? C’est ridicule!\r",
+                "La Team Galaxie devrait être la seule à\n",
+                "sourire!\n"
             ]
         }
-    ]
+    ],
+    "name_fr": "Sbire"
 }

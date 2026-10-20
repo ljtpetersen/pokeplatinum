@@ -23,6 +23,10 @@
             "en_US": [
                 "I’m never apart from my SHINX.\n",
                 "Our bond is strong!\r"
+            ],
+            "fr_FR": [
+                "Je ne me sépare jamais de mon LIXY.\n",
+                "Nous sommes très liés!\r"
             ]
         },
         {
@@ -30,6 +34,10 @@
             "en_US": [
                 "So sad...\n",
                 "And so crushed...\n"
+            ],
+            "fr_FR": [
+                "Je suis tellement triste...\n",
+                "J’ai perdu...\n"
             ]
         },
         {
@@ -37,6 +45,10 @@
             "en_US": [
                 "I don’t bear grudges over losing.\n",
                 "But I promise I’ll get tougher!\n"
+            ],
+            "fr_FR": [
+                "Je ne garde aucune rancœur après une \n",
+                "défaite. Mais j’aurai ma revanche!\n"
             ]
         },
         {
@@ -45,7 +57,12 @@
                 "I’m always with my Pokémon.\r",
                 "Actually, you’re always with your\n",
                 "Pokémon too, aren’t you?\r"
+            ],
+            "fr_FR": [
+                "Je ne sors jamais sans Pokémon!\n",
+                "Mais je suis sûr que tu en fais autant.\r"
             ]
         }
-    ]
+    ],
+    "name_fr": "Gavin"
 }

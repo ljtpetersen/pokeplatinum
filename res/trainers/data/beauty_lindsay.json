@@ -27,6 +27,10 @@
             "en_US": [
                 "Giggle! You found me!\n",
                 "Of course, let’s battle!\r"
+            ],
+            "fr_FR": [
+                "Hi, hi, hi! Tu m’as trouvée!\n",
+                "Très bien, battons-nous!\r"
             ]
         },
         {
@@ -34,6 +38,10 @@
             "en_US": [
                 "Aww, boo!\n",
                 "Look, you’ve beaten me!\n"
+            ],
+            "fr_FR": [
+                "Oh, bouh!\n",
+                "Regarde, tu m’as battue!\n"
             ]
         },
         {
@@ -41,7 +49,12 @@
             "en_US": [
                 "Giggle! There’s only our Gym Leader\n",
                 "left. Go on, don’t be afraid!\n"
+            ],
+            "fr_FR": [
+                "Hi, hi, hi! Il ne reste plus que notre\n",
+                "Champion d’Arène. Allez, n’aie pas peur!\n"
             ]
         }
-    ]
+    ],
+    "name_fr": "Amélia"
 }

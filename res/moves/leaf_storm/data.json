@@ -27,5 +27,13 @@
     "contest": {
         "effect": "CONTEST_EFFECT_MAX_VOLTAGE_ADVANTAGE",
         "type": "CONTEST_TYPE_CUTE"
-    }
+    },
+    "name_fr": "Tempêteverte",
+    "description_fr": [
+        "Invoque une tempête\n",
+        "de feuilles acérées.\n",
+        "Le contrecoup réduit\n",
+        "fortement l’Atq.\n",
+        "Spé. du lanceur."
+    ]
 }

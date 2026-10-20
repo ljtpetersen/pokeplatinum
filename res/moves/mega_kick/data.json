@@ -27,5 +27,12 @@
     "contest": {
         "effect": "CONTEST_EFFECT_FINAL_PERFORMANCE_ADVANTAGE",
         "type": "CONTEST_TYPE_COOL"
-    }
+    },
+    "name_fr": "Ultimawashi",
+    "description_fr": [
+        "Un coup de pied\n",
+        "superpuissant et\n",
+        "intense qui frappe\n",
+        "l’ennemi."
+    ]
 }

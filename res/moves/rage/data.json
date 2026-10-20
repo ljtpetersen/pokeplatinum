@@ -26,5 +26,13 @@
     "contest": {
         "effect": "CONTEST_EFFECT_DOUBLE_NEXT_TURN",
         "type": "CONTEST_TYPE_COOL"
-    }
+    },
+    "name_fr": "Frénésie",
+    "description_fr": [
+        "Une fois activée,\n",
+        "cette capacité gagne\n",
+        "en efficacité à mesure\n",
+        "que le lanceur subit\n",
+        "des dégâts."
+    ]
 }

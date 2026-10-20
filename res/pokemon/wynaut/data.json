@@ -7,7 +7,10 @@
         "special_attack": 23,
         "special_defense": 48
     },
-    "types": [ "TYPE_PSYCHIC", "TYPE_PSYCHIC" ],
+    "types": [
+        "TYPE_PSYCHIC",
+        "TYPE_PSYCHIC"
+    ],
     "catch_rate": 125,
     "base_exp_reward": 44,
     "ev_yields": {
@@ -26,24 +29,51 @@
     "hatch_cycles": 20,
     "base_friendship": 70,
     "exp_rate": "EXP_RATE_MEDIUM_FAST",
-    "egg_groups": [ "EGG_GROUP_UNDISCOVERED", "EGG_GROUP_UNDISCOVERED" ],
-    "abilities": [ "ABILITY_SHADOW_TAG", "ABILITY_NONE" ],
+    "egg_groups": [
+        "EGG_GROUP_UNDISCOVERED",
+        "EGG_GROUP_UNDISCOVERED"
+    ],
+    "abilities": [
+        "ABILITY_SHADOW_TAG",
+        "ABILITY_NONE"
+    ],
     "safari_flee_rate": 0,
     "body_color": "MON_COLOR_BLUE",
     "flip_sprite": false,
     "icon_palette": 0,
     "learnset": {
         "by_level": [
-            [ 1, "MOVE_SPLASH" ],
-            [ 1, "MOVE_CHARM" ],
-            [ 1, "MOVE_ENCORE" ],
-            [ 15, "MOVE_COUNTER" ],
-            [ 15, "MOVE_MIRROR_COAT" ],
-            [ 15, "MOVE_SAFEGUARD" ],
-            [ 15, "MOVE_DESTINY_BOND" ]
+            [
+                1,
+                "MOVE_SPLASH"
+            ],
+            [
+                1,
+                "MOVE_CHARM"
+            ],
+            [
+                1,
+                "MOVE_ENCORE"
+            ],
+            [
+                15,
+                "MOVE_COUNTER"
+            ],
+            [
+                15,
+                "MOVE_MIRROR_COAT"
+            ],
+            [
+                15,
+                "MOVE_SAFEGUARD"
+            ],
+            [
+                15,
+                "MOVE_DESTINY_BOND"
+            ]
         ],
-        "by_tm": [  ],
-        "by_tutor": [  ]
+        "by_tm": [],
+        "by_tutor": []
     },
     "evolutions": [
         [
@@ -122,6 +152,18 @@
                 "なかまたちと　おしくらまんじゅうを\n",
                 "やることで　がまんづよく　そだつ。\n",
                 "あまい　くだものが　だいこうぶつ。"
+            ]
+        },
+        "local_version": {
+            "entry_text": [
+                "It grows strong by pushing up\n",
+                "against others en masse.\n",
+                "It loves eating sweet fruit."
+            ],
+            "entry_text_fr": [
+                "Il se muscle en bousculant ses\n",
+                "semblables lors de mêlées. Il\n",
+                "raffole des fruits sucrés."
             ]
         }
     },

@@ -7,323 +7,403 @@
     },
     {
       "id": "pl_msg_00000013_00001",
-      "en_US": "Heart Seal As"
+      "en_US": "Heart Seal As",
+      "fr_FR": "Sc. Cœur A"
     },
     {
       "id": "pl_msg_00000013_00002",
-      "en_US": "Heart Seal Bs"
+      "en_US": "Heart Seal Bs",
+      "fr_FR": "Sc. Cœur B"
     },
     {
       "id": "pl_msg_00000013_00003",
-      "en_US": "Heart Seal Cs"
+      "en_US": "Heart Seal Cs",
+      "fr_FR": "Sc. Cœur C"
     },
     {
       "id": "pl_msg_00000013_00004",
-      "en_US": "Heart Seal Ds"
+      "en_US": "Heart Seal Ds",
+      "fr_FR": "Sc. Cœur D"
     },
     {
       "id": "pl_msg_00000013_00005",
-      "en_US": "Heart Seal Es"
+      "en_US": "Heart Seal Es",
+      "fr_FR": "Sc. Cœur E"
     },
     {
       "id": "pl_msg_00000013_00006",
-      "en_US": "Heart Seal Fs"
+      "en_US": "Heart Seal Fs",
+      "fr_FR": "Sc. Cœur F"
     },
     {
       "id": "pl_msg_00000013_00007",
-      "en_US": "Star Seal As"
+      "en_US": "Star Seal As",
+      "fr_FR": "Sc. Etoile A"
     },
     {
       "id": "pl_msg_00000013_00008",
-      "en_US": "Star Seal Bs"
+      "en_US": "Star Seal Bs",
+      "fr_FR": "Sc. Etoile B"
     },
     {
       "id": "pl_msg_00000013_00009",
-      "en_US": "Star Seal Cs"
+      "en_US": "Star Seal Cs",
+      "fr_FR": "Sc. Etoile C"
     },
     {
       "id": "pl_msg_00000013_00010",
-      "en_US": "Star Seal Ds"
+      "en_US": "Star Seal Ds",
+      "fr_FR": "Sc. Etoile D"
     },
     {
       "id": "pl_msg_00000013_00011",
-      "en_US": "Star Seal Es"
+      "en_US": "Star Seal Es",
+      "fr_FR": "Sc. Etoile E"
     },
     {
       "id": "pl_msg_00000013_00012",
-      "en_US": "Star Seal Fs"
+      "en_US": "Star Seal Fs",
+      "fr_FR": "Sc. Etoile F"
     },
     {
       "id": "pl_msg_00000013_00013",
-      "en_US": "Line Seal As"
+      "en_US": "Line Seal As",
+      "fr_FR": "Sc. Trait A"
     },
     {
       "id": "pl_msg_00000013_00014",
-      "en_US": "Line Seal Bs"
+      "en_US": "Line Seal Bs",
+      "fr_FR": "Sc. Trait B"
     },
     {
       "id": "pl_msg_00000013_00015",
-      "en_US": "Line Seal Cs"
+      "en_US": "Line Seal Cs",
+      "fr_FR": "Sc. Trait C"
     },
     {
       "id": "pl_msg_00000013_00016",
-      "en_US": "Smoke Seal As"
+      "en_US": "Smoke Seal As",
+      "fr_FR": "Sc. Fumée A"
     },
     {
       "id": "pl_msg_00000013_00017",
-      "en_US": "Smoke Seal Bs"
+      "en_US": "Smoke Seal Bs",
+      "fr_FR": "Sc. Fumée B"
     },
     {
       "id": "pl_msg_00000013_00018",
-      "en_US": "Smoke Seal Cs"
+      "en_US": "Smoke Seal Cs",
+      "fr_FR": "Sc. Fumée C"
     },
     {
       "id": "pl_msg_00000013_00019",
-      "en_US": "Smoke Seal Ds"
+      "en_US": "Smoke Seal Ds",
+      "fr_FR": "Sc. Fumée D"
     },
     {
       "id": "pl_msg_00000013_00020",
-      "en_US": "Ele-Seal As"
+      "en_US": "Ele-Seal As",
+      "fr_FR": "Sc. Eclair A"
     },
     {
       "id": "pl_msg_00000013_00021",
-      "en_US": "Ele-Seal Bs"
+      "en_US": "Ele-Seal Bs",
+      "fr_FR": "Sc. Eclair B"
     },
     {
       "id": "pl_msg_00000013_00022",
-      "en_US": "Ele-Seal Cs"
+      "en_US": "Ele-Seal Cs",
+      "fr_FR": "Sc. Eclair C"
     },
     {
       "id": "pl_msg_00000013_00023",
-      "en_US": "Ele-Seal Ds"
+      "en_US": "Ele-Seal Ds",
+      "fr_FR": "Sc. Eclair D"
     },
     {
       "id": "pl_msg_00000013_00024",
-      "en_US": "Foamy Seal As"
+      "en_US": "Foamy Seal As",
+      "fr_FR": "Sc. Bulle A"
     },
     {
       "id": "pl_msg_00000013_00025",
-      "en_US": "Foamy Seal Bs"
+      "en_US": "Foamy Seal Bs",
+      "fr_FR": "Sc. Bulle B"
     },
     {
       "id": "pl_msg_00000013_00026",
-      "en_US": "Foamy Seal Cs"
+      "en_US": "Foamy Seal Cs",
+      "fr_FR": "Sc. Bulle C"
     },
     {
       "id": "pl_msg_00000013_00027",
-      "en_US": "Foamy Seal Ds"
+      "en_US": "Foamy Seal Ds",
+      "fr_FR": "Sc. Bulle D"
     },
     {
       "id": "pl_msg_00000013_00028",
-      "en_US": "Fire Seal As"
+      "en_US": "Fire Seal As",
+      "fr_FR": "Sc. Feu A"
     },
     {
       "id": "pl_msg_00000013_00029",
-      "en_US": "Fire Seal Bs"
+      "en_US": "Fire Seal Bs",
+      "fr_FR": "Sc. Feu B"
     },
     {
       "id": "pl_msg_00000013_00030",
-      "en_US": "Fire Seal Cs"
+      "en_US": "Fire Seal Cs",
+      "fr_FR": "Sc. Feu C"
     },
     {
       "id": "pl_msg_00000013_00031",
-      "en_US": "Fire Seal Ds"
+      "en_US": "Fire Seal Ds",
+      "fr_FR": "Sc. Feu D"
     },
     {
       "id": "pl_msg_00000013_00032",
-      "en_US": "Party Seal As"
+      "en_US": "Party Seal As",
+      "fr_FR": "Sc. Fête A"
     },
     {
       "id": "pl_msg_00000013_00033",
-      "en_US": "Party Seal Bs"
+      "en_US": "Party Seal Bs",
+      "fr_FR": "Sc. Fête B"
     },
     {
       "id": "pl_msg_00000013_00034",
-      "en_US": "Party Seal Cs"
+      "en_US": "Party Seal Cs",
+      "fr_FR": "Sc. Fête C"
     },
     {
       "id": "pl_msg_00000013_00035",
-      "en_US": "Party Seal Ds"
+      "en_US": "Party Seal Ds",
+      "fr_FR": "Sc. Fête D"
     },
     {
       "id": "pl_msg_00000013_00036",
-      "en_US": "Flora Seal As"
+      "en_US": "Flora Seal As",
+      "fr_FR": "Sc. Fleur A"
     },
     {
       "id": "pl_msg_00000013_00037",
-      "en_US": "Flora Seal Bs"
+      "en_US": "Flora Seal Bs",
+      "fr_FR": "Sc. Fleur B"
     },
     {
       "id": "pl_msg_00000013_00038",
-      "en_US": "Flora Seal Cs"
+      "en_US": "Flora Seal Cs",
+      "fr_FR": "Sc. Fleur C"
     },
     {
       "id": "pl_msg_00000013_00039",
-      "en_US": "Flora Seal Ds"
+      "en_US": "Flora Seal Ds",
+      "fr_FR": "Sc. Fleur D"
     },
     {
       "id": "pl_msg_00000013_00040",
-      "en_US": "Flora Seal Es"
+      "en_US": "Flora Seal Es",
+      "fr_FR": "Sc. Fleur E"
     },
     {
       "id": "pl_msg_00000013_00041",
-      "en_US": "Flora Seal Fs"
+      "en_US": "Flora Seal Fs",
+      "fr_FR": "Sc. Fleur F"
     },
     {
       "id": "pl_msg_00000013_00042",
-      "en_US": "Song Seal As"
+      "en_US": "Song Seal As",
+      "fr_FR": "Sc. Chant A"
     },
     {
       "id": "pl_msg_00000013_00043",
-      "en_US": "Song Seal Bs"
+      "en_US": "Song Seal Bs",
+      "fr_FR": "Sc. Chant B"
     },
     {
       "id": "pl_msg_00000013_00044",
-      "en_US": "Song Seal Cs"
+      "en_US": "Song Seal Cs",
+      "fr_FR": "Sc. Chant C"
     },
     {
       "id": "pl_msg_00000013_00045",
-      "en_US": "Song Seal Ds"
+      "en_US": "Song Seal Ds",
+      "fr_FR": "Sc. Chant D"
     },
     {
       "id": "pl_msg_00000013_00046",
-      "en_US": "Song Seal Es"
+      "en_US": "Song Seal Es",
+      "fr_FR": "Sc. Chant E"
     },
     {
       "id": "pl_msg_00000013_00047",
-      "en_US": "Song Seal Fs"
+      "en_US": "Song Seal Fs",
+      "fr_FR": "Sc. Chant F"
     },
     {
       "id": "pl_msg_00000013_00048",
-      "en_US": "Song Seal Gs"
+      "en_US": "Song Seal Gs",
+      "fr_FR": "Sc. Chant G"
     },
     {
       "id": "pl_msg_00000013_00049",
-      "en_US": "A Seals"
+      "en_US": "A Seals",
+      "fr_FR": "Sceau A"
     },
     {
       "id": "pl_msg_00000013_00050",
-      "en_US": "B Seals"
+      "en_US": "B Seals",
+      "fr_FR": "Sceau B"
     },
     {
       "id": "pl_msg_00000013_00051",
-      "en_US": "C Seals"
+      "en_US": "C Seals",
+      "fr_FR": "Sceau C"
     },
     {
       "id": "pl_msg_00000013_00052",
-      "en_US": "D Seals"
+      "en_US": "D Seals",
+      "fr_FR": "Sceau D"
     },
     {
       "id": "pl_msg_00000013_00053",
-      "en_US": "E Seals"
+      "en_US": "E Seals",
+      "fr_FR": "Sceau E"
     },
     {
       "id": "pl_msg_00000013_00054",
-      "en_US": "F Seals"
+      "en_US": "F Seals",
+      "fr_FR": "Sceau F"
     },
     {
       "id": "pl_msg_00000013_00055",
-      "en_US": "G Seals"
+      "en_US": "G Seals",
+      "fr_FR": "Sceau G"
     },
     {
       "id": "pl_msg_00000013_00056",
-      "en_US": "H Seals"
+      "en_US": "H Seals",
+      "fr_FR": "Sceau H"
     },
     {
       "id": "pl_msg_00000013_00057",
-      "en_US": "I Seals"
+      "en_US": "I Seals",
+      "fr_FR": "Sceau I"
     },
     {
       "id": "pl_msg_00000013_00058",
-      "en_US": "J Seals"
+      "en_US": "J Seals",
+      "fr_FR": "Sceau J"
     },
     {
       "id": "pl_msg_00000013_00059",
-      "en_US": "K Seals"
+      "en_US": "K Seals",
+      "fr_FR": "Sceau K"
     },
     {
       "id": "pl_msg_00000013_00060",
-      "en_US": "L Seals"
+      "en_US": "L Seals",
+      "fr_FR": "Sceau L"
     },
     {
       "id": "pl_msg_00000013_00061",
-      "en_US": "M Seals"
+      "en_US": "M Seals",
+      "fr_FR": "Sceau M"
     },
     {
       "id": "pl_msg_00000013_00062",
-      "en_US": "N Seals"
+      "en_US": "N Seals",
+      "fr_FR": "Sceau N"
     },
     {
       "id": "pl_msg_00000013_00063",
-      "en_US": "O Seals"
+      "en_US": "O Seals",
+      "fr_FR": "Sceau O"
     },
     {
       "id": "pl_msg_00000013_00064",
-      "en_US": "P Seals"
+      "en_US": "P Seals",
+      "fr_FR": "Sceau P"
     },
     {
       "id": "pl_msg_00000013_00065",
-      "en_US": "Q Seals"
+      "en_US": "Q Seals",
+      "fr_FR": "Sceau Q"
     },
     {
       "id": "pl_msg_00000013_00066",
-      "en_US": "R Seals"
+      "en_US": "R Seals",
+      "fr_FR": "Sceau R"
     },
     {
       "id": "pl_msg_00000013_00067",
-      "en_US": "S Seals"
+      "en_US": "S Seals",
+      "fr_FR": "Sceau S"
     },
     {
       "id": "pl_msg_00000013_00068",
-      "en_US": "T Seals"
+      "en_US": "T Seals",
+      "fr_FR": "Sceau T"
     },
     {
       "id": "pl_msg_00000013_00069",
-      "en_US": "U Seals"
+      "en_US": "U Seals",
+      "fr_FR": "Sceau U"
     },
     {
       "id": "pl_msg_00000013_00070",
-      "en_US": "V Seals"
+      "en_US": "V Seals",
+      "fr_FR": "Sceau V"
     },
     {
       "id": "pl_msg_00000013_00071",
-      "en_US": "W Seals"
+      "en_US": "W Seals",
+      "fr_FR": "Sceau W"
     },
     {
       "id": "pl_msg_00000013_00072",
-      "en_US": "X Seals"
+      "en_US": "X Seals",
+      "fr_FR": "Sceau X"
     },
     {
       "id": "pl_msg_00000013_00073",
-      "en_US": "Y Seals"
+      "en_US": "Y Seals",
+      "fr_FR": "Sceau Y"
     },
     {
       "id": "pl_msg_00000013_00074",
-      "en_US": "Z Seals"
+      "en_US": "Z Seals",
+      "fr_FR": "Sceau Z"
     },
     {
       "id": "pl_msg_00000013_00075",
-      "en_US": "Shock Seals"
+      "en_US": "Shock Seals",
+      "fr_FR": "Sceau Choc"
     },
     {
       "id": "pl_msg_00000013_00076",
-      "en_US": "Mystery Seals"
+      "en_US": "Mystery Seals",
+      "fr_FR": "Sc. Mystère"
     },
     {
       "id": "pl_msg_00000013_00077",
-      "en_US": "Line Seal Ds"
+      "en_US": "Line Seal Ds",
+      "fr_FR": "Sc. Trait D"
     },
     {
       "id": "pl_msg_00000013_00078",
-      "en_US": "Liquid Seals"
+      "en_US": "Liquid Seals",
+      "fr_FR": "Sc. Liquide"
     },
     {
       "id": "pl_msg_00000013_00079",
-      "en_US": "Burst Seals"
+      "en_US": "Burst Seals",
+      "fr_FR": "Sceau Boom"
     },
     {
       "id": "pl_msg_00000013_00080",
-      "en_US": "Twinkle Seals"
+      "en_US": "Twinkle Seals",
+      "fr_FR": "Sc. Brille"
     }
   ]
 }

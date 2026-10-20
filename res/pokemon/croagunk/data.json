@@ -7,7 +7,10 @@
         "special_attack": 61,
         "special_defense": 40
     },
-    "types": [ "TYPE_POISON", "TYPE_FIGHTING" ],
+    "types": [
+        "TYPE_POISON",
+        "TYPE_FIGHTING"
+    ],
     "catch_rate": 140,
     "base_exp_reward": 83,
     "ev_yields": {
@@ -26,28 +29,76 @@
     "hatch_cycles": 10,
     "base_friendship": 100,
     "exp_rate": "EXP_RATE_MEDIUM_FAST",
-    "egg_groups": [ "EGG_GROUP_HUMAN_LIKE", "EGG_GROUP_HUMAN_LIKE" ],
-    "abilities": [ "ABILITY_ANTICIPATION", "ABILITY_DRY_SKIN" ],
+    "egg_groups": [
+        "EGG_GROUP_HUMAN_LIKE",
+        "EGG_GROUP_HUMAN_LIKE"
+    ],
+    "abilities": [
+        "ABILITY_ANTICIPATION",
+        "ABILITY_DRY_SKIN"
+    ],
     "safari_flee_rate": 150,
     "body_color": "MON_COLOR_BLUE",
     "flip_sprite": false,
     "icon_palette": 0,
     "learnset": {
         "by_level": [
-            [ 1, "MOVE_ASTONISH" ],
-            [ 3, "MOVE_MUD_SLAP" ],
-            [ 8, "MOVE_POISON_STING" ],
-            [ 10, "MOVE_TAUNT" ],
-            [ 15, "MOVE_PURSUIT" ],
-            [ 17, "MOVE_FAINT_ATTACK" ],
-            [ 22, "MOVE_REVENGE" ],
-            [ 24, "MOVE_SWAGGER" ],
-            [ 29, "MOVE_MUD_BOMB" ],
-            [ 31, "MOVE_SUCKER_PUNCH" ],
-            [ 36, "MOVE_NASTY_PLOT" ],
-            [ 38, "MOVE_POISON_JAB" ],
-            [ 43, "MOVE_SLUDGE_BOMB" ],
-            [ 45, "MOVE_FLATTER" ]
+            [
+                1,
+                "MOVE_ASTONISH"
+            ],
+            [
+                3,
+                "MOVE_MUD_SLAP"
+            ],
+            [
+                8,
+                "MOVE_POISON_STING"
+            ],
+            [
+                10,
+                "MOVE_TAUNT"
+            ],
+            [
+                15,
+                "MOVE_PURSUIT"
+            ],
+            [
+                17,
+                "MOVE_FAINT_ATTACK"
+            ],
+            [
+                22,
+                "MOVE_REVENGE"
+            ],
+            [
+                24,
+                "MOVE_SWAGGER"
+            ],
+            [
+                29,
+                "MOVE_MUD_BOMB"
+            ],
+            [
+                31,
+                "MOVE_SUCKER_PUNCH"
+            ],
+            [
+                36,
+                "MOVE_NASTY_PLOT"
+            ],
+            [
+                38,
+                "MOVE_POISON_JAB"
+            ],
+            [
+                43,
+                "MOVE_SLUDGE_BOMB"
+            ],
+            [
+                45,
+                "MOVE_FLATTER"
+            ]
         ],
         "by_tm": [
             "TM01",
@@ -150,9 +201,9 @@
             "name": "CROAGUNK",
             "category": "Toxic Mouth Pokémon",
             "entry_text": [
-                "It rarely fights fairly, but that is\n",
-                "strictly to ensure survival. It is\n",
-                "popular as a mascot."
+                "Its cheeks hold poison sacs.\n",
+                "It tries to catch foes off guard\n",
+                "to jab them with toxic fingers."
             ]
         },
         "fr": {
@@ -198,6 +249,18 @@
                 "ほっぺたに　どくぶくろを　もつ。\n",
                 "あいての　すきを　ついて　もうどくを\n",
                 "にじませている　ゆびを　つきさす。"
+            ]
+        },
+        "local_version": {
+            "entry_text": [
+                "It rarely fights fairly, but that is\n",
+                "strictly to ensure survival. It is\n",
+                "popular as a mascot."
+            ],
+            "entry_text_fr": [
+                "Son instinct de survie le pousse à\n",
+                "ne pas se battre dans les règles.\n",
+                "C’est une mascotte populaire."
             ]
         }
     },

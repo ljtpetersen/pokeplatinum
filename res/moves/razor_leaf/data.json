@@ -26,5 +26,13 @@
     "contest": {
         "effect": "CONTEST_EFFECT_BASIC",
         "type": "CONTEST_TYPE_COOL"
-    }
+    },
+    "name_fr": "Tranch’Herbe",
+    "description_fr": [
+        "Des feuilles aiguisées\n",
+        "comme des rasoirs\n",
+        "entaillent l’ennemi.\n",
+        "Taux de critiques\n",
+        "élevé."
+    ]
 }

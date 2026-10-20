@@ -27,5 +27,13 @@
   "fieldUseFunc": "ITEM_USE_FUNC_TM_HM",
   "battleUseCategory": "BATTLE_USE_CATEGORY_NONE",
   "itemUseParams": null,
-  "teachesMove": "MOVE_ATTRACT"
+  "teachesMove": "MOVE_ATTRACT",
+  "name_fr": "CT45",
+  "description_fr": [
+    "Si l’ennemi est du sexe opposé, il\n",
+    "tombe amoureux et rechigne alors\n",
+    "à attaquer."
+  ],
+  "plural_fr": "CT45",
+  "article_fr": null
 }

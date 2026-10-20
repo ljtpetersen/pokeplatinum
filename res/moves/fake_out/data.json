@@ -26,5 +26,13 @@
     "contest": {
         "effect": "CONTEST_EFFECT_FIRST_PERFORMANCE_ADVANTAGE",
         "type": "CONTEST_TYPE_CUTE"
-    }
+    },
+    "name_fr": "Bluff",
+    "description_fr": [
+        "Permet de frapper en\n",
+        "premier et apeure\n",
+        "l’ennemi. Elle ne\n",
+        "fonctionne qu’au\n",
+        "premier tour."
+    ]
 }

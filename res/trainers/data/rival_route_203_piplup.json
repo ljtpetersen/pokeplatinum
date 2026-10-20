@@ -40,13 +40,18 @@
             "en_US": [
                 "Forget it!\n",
                 "This isn’t over yet!\n"
-            ]
+            ],
+            "fr_FR": "Ne rêve pas, ce n’est pas encore fini!\n"
         },
         {
             "type": "TRMSG_LAST_BATTLER_HALF_HP",
             "en_US": [
                 "My Pokémon’s getting low on HP...\n",
                 "Things could be tight here.\n"
+            ],
+            "fr_FR": [
+                "Mon Pokémon n’a plus beaucoup de PV...\n",
+                "Les choses se corsent...\n"
             ]
         },
         {
@@ -54,7 +59,12 @@
             "en_US": [
                 "What’s going on here?\n",
                 "What, I lost?!\n"
+            ],
+            "fr_FR": [
+                "Mais qu’est-ce qui se passe ici?\n",
+                "J’ai perdu?!\n"
             ]
         }
-    ]
+    ],
+    "name_fr": "Eddy"
 }

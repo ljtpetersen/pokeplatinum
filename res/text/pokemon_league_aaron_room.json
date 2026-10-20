@@ -17,6 +17,20 @@
         "It’s because I want to become\n",
         "perfect, just like my bug Pokémon!\r",
         "OK! Let me take you on!\r"
+      ],
+      "fr_FR": [
+        "Bonjour et bienvenue \n",
+        "à la Ligue Pokémon!\r",
+        "Je suis Aaron, du Conseil 4.\n",
+        "Ravi de te rencontrer enfin.\r",
+        "Je te préviens, je suis un grand \n",
+        "fan des Pokémon de type Insecte.\r",
+        "Ils sont à la fois redoutables \n",
+        "et magnifiques...\r",
+        "Tu sais pourquoi je suis dans cette \n",
+        "pièce, toujours prêt à relever un défi?\r",
+        "Je veux devenir parfait, comme mes \n",
+        "Pokémon! Que le duel commence!\r"
       ]
     },
     {
@@ -32,6 +46,19 @@
         "Go on to the next room!\r",
         "Three Trainers are waiting for you.\n",
         "They’re all tougher than me."
+      ],
+      "fr_FR": [
+        "Mes Pokémon de type Insecte étaient\n",
+        "les plus forts et les plus beaux du\f",
+        "genre...\r",
+        "Si nous avons perdu, ça ne peut être\n",
+        "que de ma faute...\r",
+        "J’ai compris la leçon! Retour à la case \n",
+        "entraînement. Tous avec moi!\r",
+        "Euh... Bon, bref...\n",
+        "Ton prochain défi t’attend!\r",
+        "Trois Dresseurs, tous plus forts \n",
+        "que moi... Donne le maximum!"
       ]
     },
     {
@@ -41,6 +68,13 @@
         "I’m going to become a top-level\n",
         "Trainer who can’t be outclassed with\f",
         "my beautiful and tough bug Pokémon!"
+      ],
+      "fr_FR": [
+        "Allez, tu peux passer à la \n",
+        "prochaine salle.\r",
+        "Moi, je vais devenir un Dresseur \n",
+        "invincible avec mes Pokémon de type\f",
+        "Insecte magnifiques et redoutables!"
       ]
     }
   ]

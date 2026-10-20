@@ -27,5 +27,13 @@
   "fieldUseFunc": "ITEM_USE_FUNC_TM_HM",
   "battleUseCategory": "BATTLE_USE_CATEGORY_NONE",
   "itemUseParams": null,
-  "teachesMove": "MOVE_FACADE"
+  "teachesMove": "MOVE_FACADE",
+  "name_fr": "CT42",
+  "description_fr": [
+    "Une attaque dont la puissance double\n",
+    "lorsque le lanceur est empoisonné,\n",
+    "paralysé ou brûlé."
+  ],
+  "plural_fr": "CT42",
+  "article_fr": null
 }

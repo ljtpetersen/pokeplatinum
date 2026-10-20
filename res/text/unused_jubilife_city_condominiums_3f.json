@@ -8,6 +8,13 @@
         "using Nintendo WFC...\r",
         "Just hearing that name gets my heart\n",
         "racing!"
+      ],
+      "fr_FR": [
+        "Je peux échanger des Pokémon avec des\n",
+        "gens du monde entier grâce à la\f",
+        "CWF Nintendo...\r",
+        "Mon cœur bat la chamade rien qu’à\n",
+        "entendre ce nom!"
       ]
     },
     {
@@ -16,6 +23,11 @@
         "The world you can reach with\n",
         "Nintendo WFC...\f",
         "I can’t tell if it’s huge or small."
+      ],
+      "fr_FR": [
+        "Tous les gens que tu peux contacter\n",
+        "avec la CWF Nintendo...\f",
+        "J’ai du mal à me rendre compte."
       ]
     }
   ]

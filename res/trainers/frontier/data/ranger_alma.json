@@ -65,6 +65,10 @@
             "en_US": [
                 "I will battle. It’s not likely I will lose.\n",
                 "I’m tough."
+            ],
+            "fr_FR": [
+                "Je vais t’affronter. Et je vais\n",
+                "certainement gagner. Je suis douée."
             ]
         },
         {
@@ -72,6 +76,10 @@
             "en_US": [
                 "I win.\n",
                 "I could do a dance right now.\r"
+            ],
+            "fr_FR": [
+                "J’ai gagné.\n",
+                "Et j’ai envie de danser.\r"
             ]
         },
         {
@@ -79,7 +87,12 @@
             "en_US": [
                 "What is the matter?\n",
                 "Why couldn’t I win?\r"
+            ],
+            "fr_FR": [
+                "Et alors? Je n’ai pas pu\n",
+                "gagner?\r"
             ]
         }
-    ]
+    ],
+    "name_fr": "Anouck"
 }

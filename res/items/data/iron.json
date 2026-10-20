@@ -31,5 +31,12 @@
     "friendshipLow": 5,
     "friendshipMed": 3,
     "friendshipHigh": 2
-  }
+  },
+  "name_fr": "Fer",
+  "description_fr": [
+    "Une boisson très nutritive qui monte la\n",
+    "Défense d’un Pokémon."
+  ],
+  "plural_fr": "Fer",
+  "article_fr": null
 }

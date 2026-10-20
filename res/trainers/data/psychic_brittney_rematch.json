@@ -45,6 +45,12 @@
                 "You’ve come back again.\r",
                 "There must be something that draws\n",
                 "you here...\r"
+            ],
+            "fr_FR": [
+                "Tu vois?\n",
+                "Tu reviens encore.\r",
+                "Il y a quelque chose qui doit t’attirer\n",
+                "ici...\r"
             ]
         },
         {
@@ -52,7 +58,12 @@
             "en_US": [
                 "The power that slumbers within you...\n",
                 "It is rather marvelous...\n"
+            ],
+            "fr_FR": [
+                "Ce pouvoir qui sommeille en toi...\n",
+                "Il est plutôt merveilleux...\n"
             ]
         }
-    ]
+    ],
+    "name_fr": "Samantha"
 }

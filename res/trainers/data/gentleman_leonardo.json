@@ -31,7 +31,13 @@
                 "Ack! I lost...\n",
                 "Check, please!\n",
                 "\n"
+            ],
+            "fr_FR": [
+                "Argh! J’ai perdu...\n",
+                "La note, s’il vous plaît!\n",
+                "\n"
             ]
         }
-    ]
+    ],
+    "name_fr": "Walid"
 }

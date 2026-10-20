@@ -59,6 +59,10 @@
             "en_US": [
                 "Fwo-fwo-fwo. Youngster, what’s most\n",
                 "important is to never give up."
+            ],
+            "fr_FR": [
+                "Le plus important, c’est de ne jamais\n",
+                "baisser les bras. Souviens-toi de ça!"
             ]
         },
         {
@@ -66,6 +70,10 @@
             "en_US": [
                 "If you give up, that’s it.\n",
                 "The game’s over.\r"
+            ],
+            "fr_FR": [
+                "Si tu baisses les bras, je n’ai\n",
+                "plus rien à te dire.\r"
             ]
         },
         {
@@ -73,7 +81,12 @@
             "en_US": [
                 "Fwo-fwo-fwo.\n",
                 "You’re an admirable Trainer already.\r"
+            ],
+            "fr_FR": [
+                "Excellent. Voilà ce que j’aime voir\n",
+                "chez les jeunes Dresseurs.\r"
             ]
         }
-    ]
+    ],
+    "name_fr": "Edwin"
 }

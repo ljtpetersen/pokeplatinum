@@ -31,5 +31,13 @@
     "friendshipLow": 5,
     "friendshipMed": 3,
     "friendshipHigh": 2
-  }
+  },
+  "name_fr": "Zinc",
+  "description_fr": [
+    "Une boisson très nutritive qui monte la\n",
+    "Déf. Spé. (Défense Spéciale) d’un\n",
+    "Pokémon."
+  ],
+  "plural_fr": "Zinc",
+  "article_fr": null
 }

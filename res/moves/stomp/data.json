@@ -26,5 +26,11 @@
     "contest": {
         "effect": "CONTEST_EFFECT_BASIC",
         "type": "CONTEST_TYPE_TOUGH"
-    }
+    },
+    "name_fr": "Ecrasement",
+    "description_fr": [
+        "Ecrase l’ennemi avec\n",
+        "un énorme pied. Peut\n",
+        "aussi l’apeurer."
+    ]
 }

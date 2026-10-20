@@ -44,6 +44,13 @@
                 "energy when surrounded by boulders!\r",
                 "Wrooooar! Coming at you!\n",
                 "Let me blow off some steam!\r"
+            ],
+            "fr_FR": [
+                "Tout bon Montagnard a une flambée\n",
+                "d’énergie quand il est entouré de\f",
+                "rochers!\r",
+                "Vrooooar! Je vais m’occuper de toi!\n",
+                "Il faut que j’évacue cette énergie!\r"
             ]
         },
         {
@@ -51,6 +58,10 @@
             "en_US": [
                 "Whew... Crazy, delicious sugar!\n",
                 "I think I’ve calmed down now...\n"
+            ],
+            "fr_FR": [
+                "Waouh... Nom d’un petit bonhomme!\n",
+                "Je crois que je me suis calmé...\n"
             ]
         },
         {
@@ -60,7 +71,14 @@
                 "be sure I’ll be climbing it.\r",
                 "Even if it’s a mountain of food, I’ll\n",
                 "still be stickin’ my flag on top!\n"
+            ],
+            "fr_FR": [
+                "Si ça porte le nom de montagne, je\n",
+                "t’assure que j’y grimperai.\r",
+                "Même si c’est une montagne de\n",
+                "nourriture, j’y planterai mon drapeau!\n"
             ]
         }
-    ]
+    ],
+    "name_fr": "Tomy"
 }

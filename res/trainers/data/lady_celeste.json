@@ -27,7 +27,9 @@
     "messages": [
         {
             "type": "TRMSG_DEFEAT",
-            "en_US": "Oh, dear me!\n"
+            "en_US": "Oh, dear me!\n",
+            "fr_FR": "Oh, pauvre de moi!"
         }
-    ]
+    ],
+    "name_fr": "Salomé"
 }

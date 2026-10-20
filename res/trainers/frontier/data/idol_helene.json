@@ -35,6 +35,10 @@
             "en_US": [
                 "We’re not here for a long time, so let’s\n",
                 "make it a good time!"
+            ],
+            "fr_FR": [
+                "On n’a pas beaucoup de temps, alors\n",
+                "essayons de nous amuser au maximum!"
             ]
         },
         {
@@ -42,6 +46,10 @@
             "en_US": [
                 "Thank you! That was soooo fun!\n",
                 "I really hope we can battle again!\r"
+            ],
+            "fr_FR": [
+                "Merci! C’était très amusant!\n",
+                "J’espère qu’on se reverra.\r"
             ]
         },
         {
@@ -49,7 +57,12 @@
             "en_US": [
                 "It makes me sad having to say\n",
                 "good-bye... Please come see me again!\r"
+            ],
+            "fr_FR": [
+                "Je suis triste de devoir partir\n",
+                "si tôt. J’espère qu’on se reverra.\r"
             ]
         }
-    ]
+    ],
+    "name_fr": "Hilary"
 }

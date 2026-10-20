@@ -24,5 +24,13 @@
     "contest": {
         "effect": "CONTEST_EFFECT_SUPPRESS_VOLTAGE",
         "type": "CONTEST_TYPE_CUTE"
-    }
+    },
+    "name_fr": "Anti-Soin",
+    "description_fr": [
+        "Le lanceur empêche\n",
+        "l’ennemi d’utiliser des\n",
+        "capacités de \n",
+        "récupération de PV\n",
+        "pendant 5 tours."
+    ]
 }

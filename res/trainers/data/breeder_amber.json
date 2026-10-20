@@ -32,6 +32,10 @@
             "en_US": [
                 "I’m a rookie breeder, but I’ll do\n",
                 "my very best!\r"
+            ],
+            "fr_FR": [
+                "Je débute tout juste en élevage, \n",
+                "mais je ferai de mon mieux!\r"
             ]
         },
         {
@@ -39,6 +43,10 @@
             "en_US": [
                 "It’s all right!\n",
                 "I’m still a rookie!\n"
+            ],
+            "fr_FR": [
+                "C’est pas grave!\n",
+                "Je suis encore une débutante!\n"
             ]
         },
         {
@@ -47,6 +55,12 @@
                 "The best way to raise Pokémon?\r",
                 "...Hmm, when it comes right down to it,\n",
                 "isn’t it all about love?\n"
+            ],
+            "fr_FR": [
+                "La meilleure manière d’élever des\n",
+                "Pokémon?\r",
+                "Euh... le plus important, c’est de\n",
+                "leur donner beaucoup d’amour, non?"
             ]
         },
         {
@@ -54,7 +68,12 @@
             "en_US": [
                 "I can’t be a rookie forever.\n",
                 "I’ve learned a lot since we last met.\r"
+            ],
+            "fr_FR": [
+                "On ne peut pas être une débutante \n",
+                "toute sa vie, j’ai beaucoup progressé.\r"
             ]
         }
-    ]
+    ],
+    "name_fr": "Eulalie"
 }

@@ -29,7 +29,9 @@
     "messages": [
         {
             "type": "TRMSG_DEFEAT",
-            "en_US": "I was with my daddy, too...\n"
+            "en_US": "I was with my daddy, too...\n",
+            "fr_FR": "J’étais aussi avec mon papa...\n"
         }
-    ]
+    ],
+    "name_fr": "Camille"
 }

@@ -3,22 +3,29 @@
   "messages": [
     {
       "id": "EggHatch_Text_MonHatched",
-      "en_US": "{STRVAR_1 0, 0, 0} hatched from the Egg!"
+      "en_US": "{STRVAR_1 0, 0, 0} hatched from the Egg!",
+      "fr_FR": "{STRVAR_1 0, 0, 0} vient de sortir de l’Oeuf!"
     },
     {
       "id": "EggHatch_Text_WantToNickname",
       "en_US": [
         "Would you like to nickname the newly\n",
         "hatched {STRVAR_1 0, 0, 0}?"
+      ],
+      "fr_FR": [
+        "Voulez-vous donner un surnom\n",
+        "au {STRVAR_1 0, 0, 0} nouveau-né?"
       ]
     },
     {
       "id": "EggHatch_Text_Yes",
-      "en_US": "Yes"
+      "en_US": "Yes",
+      "fr_FR": "Oui"
     },
     {
       "id": "EggHatch_Text_No",
-      "en_US": "No"
+      "en_US": "No",
+      "fr_FR": "Non"
     }
   ]
 }

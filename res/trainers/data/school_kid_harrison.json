@@ -28,7 +28,12 @@
             "en_US": [
                 "Ugh...\n",
                 "I didn’t use items effectively.\n"
+            ],
+            "fr_FR": [
+                "Argh...\n",
+                "J’aurais dû utiliser mes objets..."
             ]
         }
-    ]
+    ],
+    "name_fr": "Yanis"
 }

@@ -26,5 +26,13 @@
   "battlePocket": "BATTLE_POCKET_MASK_NONE",
   "fieldUseFunc": "ITEM_USE_FUNC_NONE",
   "battleUseCategory": "BATTLE_USE_CATEGORY_NONE",
-  "itemUseParams": null
+  "itemUseParams": null,
+  "name_fr": "Rune Purif.",
+  "description_fr": [
+    "Objet à tenir. Aide à repousser les\n",
+    "Pokémon sauvages si le porteur est le\n",
+    "premier Pokémon de l’équipe."
+  ],
+  "plural_fr": "Rune Purif.",
+  "article_fr": null
 }

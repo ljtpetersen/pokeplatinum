@@ -8,6 +8,11 @@
         "change the world?\r",
         "Do a headstand, and the world turns\n",
         "upside down!"
+      ],
+      "fr_FR": [
+        "Changer le monde?\n",
+        "Rien de plus simple!\r",
+        "Fais le poirier et tu verras!"
       ]
     },
     {
@@ -17,6 +22,12 @@
         "Whoever it is in the world!\r",
         "Everyone knows Pokémon!\n",
         "That’s fabulously fantastic!"
+      ],
+      "fr_FR": [
+        "Où que tu te trouves dans le monde!\r",
+        "Qui que soit ton interlocuteur!\r",
+        "Tout le monde connaît les Pokémon!\n",
+        "C’est absolument fantastique!"
       ]
     },
     {
@@ -25,15 +36,22 @@
         "Po-Po-Pokémon!\r",
         "I want to become more like a PIKACHU!\n",
         "Will you battle me?"
+      ],
+      "fr_FR": [
+        "Po-Po-Pokémon!\r",
+        "Ressembler à un PIKACHU, c’est mon\n",
+        "rêve! Allez, un petit combat?"
       ]
     },
     {
       "id": "ResortAreaPokecenter1F_Text_ArielBattleAccepted_Unused",
-      "en_US": "Pi-Pikachu!\r"
+      "en_US": "Pi-Pikachu!\r",
+      "fr_FR": "Pi-Pikachu!\r"
     },
     {
       "id": "ResortAreaPokecenter1F_Text_ArielBattleDeclined_Unused",
-      "en_US": "Pi-Pikachu!"
+      "en_US": "Pi-Pikachu!",
+      "fr_FR": "Pikachu!"
     },
     {
       "id": "ResortAreaPokecenter1F_Text_ArielPostBattle_Unused",
@@ -42,6 +60,12 @@
         "Ribbon Syndicate!\r",
         "I have to get more into the character\n",
         "of a Pokémon..."
+      ],
+      "fr_FR": [
+        "Et dire que je reviens tout juste du\n",
+        "Club Rubans avec mon équipe!\r",
+        "Il faut que j’arrive à me mettre dans\n",
+        "la peau d’un Pokémon..."
       ]
     }
   ]

@@ -6,6 +6,10 @@
       "en_US": [
         "The Day-Care Man was saying Pokémon\n",
         "grow at different rates."
+      ],
+      "fr_FR": [
+        "L’Hôte de la Pension disait que les\n",
+        "Pokémon évoluent tous à leur rythme."
       ]
     },
     {
@@ -15,6 +19,12 @@
         "Veilstone City.\r",
         "There’s a café along the way where\n",
         "you can get some rest, though."
+      ],
+      "fr_FR": [
+        "Il y a une trotte entre Bonville et\n",
+        "Voilaroc.\r",
+        "Mais il y a un café où te reposer\n",
+        "sur la route."
       ]
     },
     {
@@ -26,6 +36,13 @@
         "move.\r",
         "I’m going to give the ruins a miss, this\n",
         "time."
+      ],
+      "fr_FR": [
+        "On peut trouver la Capsule Secrète\n",
+        "Anti-Brume dans les Ruines Bonville.\r",
+        "Le hic, c’est qu’aucun de mes Pokémon\n",
+        "ne peut apprendre cette capacité.\r",
+        "Je vais éviter les ruines, cette fois-ci."
       ]
     },
     {
@@ -34,15 +51,22 @@
         "Pikachu!\r",
         "I want to become more like a PIKACHU!\n",
         "Will you battle me?"
+      ],
+      "fr_FR": [
+        "Pikachu!\r",
+        "Ressembler à un PIKACHU, c’est mon\n",
+        "rêve! Allez, un petit combat?"
       ]
     },
     {
       "id": "SolaceonTownPokecenter1F_Text_ArielBattleAccepted_Unused",
-      "en_US": "Pi-Pikachu!\r"
+      "en_US": "Pi-Pikachu!\r",
+      "fr_FR": "Pi-Pikachu!\r"
     },
     {
       "id": "SolaceonTownPokecenter1F_Text_ArielBattleDeclined_Unused",
-      "en_US": "Pi-Pikachu!"
+      "en_US": "Pi-Pikachu!",
+      "fr_FR": "Pikachu!"
     },
     {
       "id": "SolaceonTownPokecenter1F_Text_ArielPostBattle_Unused",
@@ -51,6 +75,12 @@
         "the character of a Pokémon...\r",
         "Maybe I should get the Day Care to\n",
         "raise me?"
+      ],
+      "fr_FR": [
+        "Il faut que j’arrive à me mettre dans\n",
+        "la peau d’un Pokémon...\r",
+        "Et si je demandais à la Pension Pokémon\n",
+        "de m’élever?"
       ]
     }
   ]

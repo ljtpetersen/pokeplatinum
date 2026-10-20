@@ -25,6 +25,11 @@
                 "I spy, with my little eye...\n",
                 "A Trainer!\r",
                 "A battle, please!\r"
+            ],
+            "fr_FR": [
+                "D’un œil vif, j’observe les alentours...\n",
+                "Dresseur en vue! \r",
+                "Un combat, s’il te plaît!\r"
             ]
         },
         {
@@ -32,13 +37,18 @@
             "en_US": [
                 "Oh, boo!\n",
                 "I can’t win!"
-            ]
+            ],
+            "fr_FR": "Oh, non! J’ai perdu!"
         },
         {
             "type": "TRMSG_POST_BATTLE",
             "en_US": [
                 "My Pokémon are all tuckered out!\n",
                 "I need to go to a Pokémon Center!"
+            ],
+            "fr_FR": [
+                "Mon Pokémon est à bout de forces!\n",
+                "Je dois l’amener au Centre Pokémon!"
             ]
         },
         {
@@ -47,7 +57,13 @@
                 "Oh, hi!\n",
                 "I remember you, Trainer!\r",
                 "A battle, please!\r"
+            ],
+            "fr_FR": [
+                "Hé, bonjour!\n",
+                "Je me souviens de toi, Dresseur!\r",
+                "Accorde-moi un combat, s’il te plaît!\r"
             ]
         }
-    ]
+    ],
+    "name_fr": "Yolène"
 }

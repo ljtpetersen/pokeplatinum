@@ -27,5 +27,13 @@
   "fieldUseFunc": "ITEM_USE_FUNC_TM_HM",
   "battleUseCategory": "BATTLE_USE_CATEGORY_NONE",
   "itemUseParams": null,
-  "teachesMove": "MOVE_THIEF"
+  "teachesMove": "MOVE_THIEF",
+  "name_fr": "CT46",
+  "description_fr": [
+    "Le lanceur attaque l’ennemi et vole son\n",
+    "objet. Le lanceur ne peut rien voler\n",
+    "s’il tient déjà un objet."
+  ],
+  "plural_fr": "CT46",
+  "article_fr": null
 }

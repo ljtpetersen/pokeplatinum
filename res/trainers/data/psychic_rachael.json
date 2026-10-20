@@ -28,6 +28,10 @@
             "en_US": [
                 "This forest is strange, you know...\n",
                 "It seems to fill me with energy...\r"
+            ],
+            "fr_FR": [
+                "Cette forêt est mystérieuse, tu sais...\n",
+                "Elle me donne beaucoup d’énergie...\r"
             ]
         },
         {
@@ -35,6 +39,10 @@
             "en_US": [
                 "Your victory...\n",
                 "There is nothing strange about it."
+            ],
+            "fr_FR": [
+                "Ta victoire...\n",
+                "Elle n’a rien d’un mystère."
             ]
         },
         {
@@ -42,7 +50,12 @@
             "en_US": [
                 "Forests are mystifying... They seem\n",
                 "to gather such unexplainable energy."
+            ],
+            "fr_FR": [
+                "Les forêts sont déconcertantes. Elles\n",
+                "regorgent d’une énergie inexplicable..."
             ]
         }
-    ]
+    ],
+    "name_fr": "Andréa"
 }

@@ -102,13 +102,21 @@
     "messages": [
         {
             "type": "TRMSG_PRE_BATTLE",
-            "en_US": "Will you give me an interview if you win?"
+            "en_US": "Will you give me an interview if you win?",
+            "fr_FR": [
+                "Tu m’accorderas une interview\n",
+                "si tu gagnes?"
+            ]
         },
         {
             "type": "TRMSG_WIN",
             "en_US": [
                 "You made my job too easy.\n",
                 "You need to buckle down.\r"
+            ],
+            "fr_FR": [
+                "C’était bien trop facile.\n",
+                "Tu devrais faire plus d’efforts.\r"
             ]
         },
         {
@@ -116,7 +124,12 @@
             "en_US": [
                 "Your feelings now, in a word!\n",
                 "Shout it into the mike, please!\r"
+            ],
+            "fr_FR": [
+                "Tes impressions en un mot?\n",
+                "Parle bien dans le micro!\r"
             ]
         }
-    ]
+    ],
+    "name_fr": "Sabrina"
 }

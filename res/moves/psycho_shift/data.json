@@ -25,5 +25,13 @@
     "contest": {
         "effect": "CONTEST_EFFECT_LOW_VOLTAGE_ADVANTAGE",
         "type": "CONTEST_TYPE_COOL"
-    }
+    },
+    "name_fr": "Echange Psy",
+    "description_fr": [
+        "Le lanceur transfère\n",
+        "ses problèmes de\n",
+        "statut à l’ennemi\n",
+        "grâce à son pouvoir\n",
+        "de suggestion."
+    ]
 }

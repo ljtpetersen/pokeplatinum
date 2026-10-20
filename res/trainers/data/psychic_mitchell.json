@@ -33,17 +33,26 @@
             "en_US": [
                 "I’d sensed the presence of a\n",
                 "Trainer for a while. It was you!\r"
+            ],
+            "fr_FR": [
+                "Ça faisait longtemps que je sentais la\n",
+                "présence d’un Dresseur. C’était toi!\r"
             ]
         },
         {
             "type": "TRMSG_DEFEAT",
-            "en_US": "Defeating you will be no easy matter.\n"
+            "en_US": "Defeating you will be no easy matter.\n",
+            "fr_FR": "Ça ne va pas être facile de te battre.\n"
         },
         {
             "type": "TRMSG_POST_BATTLE",
             "en_US": [
                 "Is it possible to become more\n",
                 "powerful by understanding Pokémon?\n"
+            ],
+            "fr_FR": [
+                "C’est possible de devenir plus\n",
+                "puissant en comprenant les Pokémon?\n"
             ]
         },
         {
@@ -51,7 +60,12 @@
             "en_US": [
                 "I was certain that you’d return.\n",
                 "I sensed your presence, you see.\r"
+            ],
+            "fr_FR": [
+                "Je savais bien que tu reviendrais.\n",
+                "J’ai senti ta présence, vois-tu.\r"
             ]
         }
-    ]
+    ],
+    "name_fr": "Michael"
 }

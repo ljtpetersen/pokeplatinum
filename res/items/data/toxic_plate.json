@@ -26,5 +26,13 @@
   "battlePocket": "BATTLE_POCKET_MASK_NONE",
   "fieldUseFunc": "ITEM_USE_FUNC_NONE",
   "battleUseCategory": "BATTLE_USE_CATEGORY_NONE",
-  "itemUseParams": null
+  "itemUseParams": null,
+  "name_fr": "Plaque Toxic",
+  "description_fr": [
+    "Objet à tenir. Tablette en pierre\n",
+    "augmentant la puissance des capacités\n",
+    "de type Poison."
+  ],
+  "plural_fr": "Plaque Toxic",
+  "article_fr": null
 }

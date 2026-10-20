@@ -3,199 +3,248 @@
   "messages": [
     {
       "id": "UndergroundAnswers_Text_Red",
-      "en_US": "Red"
+      "en_US": "Red",
+      "fr_FR": "Le rouge"
     },
     {
       "id": "UndergroundAnswers_Text_Blue",
-      "en_US": "Blue"
+      "en_US": "Blue",
+      "fr_FR": "Le bleu"
     },
     {
       "id": "UndergroundAnswers_Text_Yellow",
-      "en_US": "Yellow"
+      "en_US": "Yellow",
+      "fr_FR": "Le jaune"
     },
     {
       "id": "UndergroundAnswers_Text_Green",
-      "en_US": "Green"
+      "en_US": "Green",
+      "fr_FR": "Le vert"
     },
     {
       "id": "UndergroundAnswers_Text_Baseball",
-      "en_US": "Baseball"
+      "en_US": "Baseball",
+      "fr_FR": "Le baseball"
     },
     {
       "id": "UndergroundAnswers_Text_Soccer",
-      "en_US": "Soccer"
+      "en_US": "Soccer",
+      "fr_FR": "Le football"
     },
     {
       "id": "UndergroundAnswers_Text_Swimming",
-      "en_US": "Swimming"
+      "en_US": "Swimming",
+      "fr_FR": "La natation"
     },
     {
       "id": "UndergroundAnswers_Text_Marathon",
-      "en_US": "Marathon"
+      "en_US": "Marathon",
+      "fr_FR": "Le marathon"
     },
     {
       "id": "UndergroundAnswers_Text_TheSea",
-      "en_US": "The sea"
+      "en_US": "The sea",
+      "fr_FR": "La mer"
     },
     {
       "id": "UndergroundAnswers_Text_Mountains",
-      "en_US": "Mountains"
+      "en_US": "Mountains",
+      "fr_FR": "La montagne"
     },
     {
       "id": "UndergroundAnswers_Text_Fields",
-      "en_US": "Fields"
+      "en_US": "Fields",
+      "fr_FR": "La campagne"
     },
     {
       "id": "UndergroundAnswers_Text_Towns",
-      "en_US": "Towns"
+      "en_US": "Towns",
+      "fr_FR": "La ville"
     },
     {
       "id": "UndergroundAnswers_Text_Language_FavoriteClass",
-      "en_US": "Language"
+      "en_US": "Language",
+      "fr_FR": "Les langues vivantes"
     },
     {
       "id": "UndergroundAnswers_Text_Math_FavoriteClass",
-      "en_US": "Math"
+      "en_US": "Math",
+      "fr_FR": "Les maths"
     },
     {
       "id": "UndergroundAnswers_Text_Science_FavoriteClass",
-      "en_US": "Science"
+      "en_US": "Science",
+      "fr_FR": "Les sciences"
     },
     {
       "id": "UndergroundAnswers_Text_SocialStudies_FavoriteClass",
-      "en_US": "Social Studies"
+      "en_US": "Social Studies",
+      "fr_FR": "Les sciences humaines"
     },
     {
       "id": "UndergroundAnswers_Text_Language_LeastFavoriteClass",
-      "en_US": "Language"
+      "en_US": "Language",
+      "fr_FR": "Les langues vivantes"
     },
     {
       "id": "UndergroundAnswers_Text_Math_LeastFavoriteClass",
-      "en_US": "Math"
+      "en_US": "Math",
+      "fr_FR": "Les maths"
     },
     {
       "id": "UndergroundAnswers_Text_Science_LeastFavoriteClass",
-      "en_US": "Science"
+      "en_US": "Science",
+      "fr_FR": "Les sciences"
     },
     {
       "id": "UndergroundAnswers_Text_SocialStudies_LeastFavoriteClass",
-      "en_US": "Social Studies"
+      "en_US": "Social Studies",
+      "fr_FR": "Les sciences humaines"
     },
     {
       "id": "UndergroundAnswers_Text_PokemonCollecting",
-      "en_US": "Pokémon collecting"
+      "en_US": "Pokémon collecting",
+      "fr_FR": "La collec de Pokémon"
     },
     {
       "id": "UndergroundAnswers_Text_PokemonBattles",
-      "en_US": "Pokémon battles"
+      "en_US": "Pokémon battles",
+      "fr_FR": "Les combats Pokémon"
     },
     {
       "id": "UndergroundAnswers_Text_Contests",
-      "en_US": "Contests"
+      "en_US": "Contests",
+      "fr_FR": "Les Concours"
     },
     {
       "id": "UndergroundAnswers_Text_GoingUnderground",
-      "en_US": "Going underground"
+      "en_US": "Going underground",
+      "fr_FR": "Explorer les grottes"
     },
     {
       "id": "UndergroundAnswers_Text_KindPeople",
-      "en_US": "Kind people"
+      "en_US": "Kind people",
+      "fr_FR": "Les gentils"
     },
     {
       "id": "UndergroundAnswers_Text_StrongPeople",
-      "en_US": "Strong people"
+      "en_US": "Strong people",
+      "fr_FR": "Les costauds"
     },
     {
       "id": "UndergroundAnswers_Text_FunnyPeople",
-      "en_US": "Funny people"
+      "en_US": "Funny people",
+      "fr_FR": "Les marrants"
     },
     {
       "id": "UndergroundAnswers_Text_SmartPeople",
-      "en_US": "Smart people"
+      "en_US": "Smart people",
+      "fr_FR": "Les intellos"
     },
     {
       "id": "UndergroundAnswers_Text_Clothes",
-      "en_US": "Clothes"
+      "en_US": "Clothes",
+      "fr_FR": "Les vêtements"
     },
     {
       "id": "UndergroundAnswers_Text_Books",
-      "en_US": "Books"
+      "en_US": "Books",
+      "fr_FR": "Les livres"
     },
     {
       "id": "UndergroundAnswers_Text_Food",
-      "en_US": "Food"
+      "en_US": "Food",
+      "fr_FR": "La nourriture"
     },
     {
       "id": "UndergroundAnswers_Text_Games",
-      "en_US": "Games"
+      "en_US": "Games",
+      "fr_FR": "Les jeux"
     },
     {
       "id": "UndergroundAnswers_Text_GetHappy",
-      "en_US": "Get happy"
+      "en_US": "Get happy",
+      "fr_FR": "Trouver le bonheur"
     },
     {
       "id": "UndergroundAnswers_Text_GetRich",
-      "en_US": "Get rich"
+      "en_US": "Get rich",
+      "fr_FR": "Devenir riche"
     },
     {
       "id": "UndergroundAnswers_Text_GetFamous",
-      "en_US": "Get famous"
+      "en_US": "Get famous",
+      "fr_FR": "Devenir célèbre"
     },
     {
       "id": "UndergroundAnswers_Text_BecomeNo1",
-      "en_US": "Become no. 1"
+      "en_US": "Become no. 1",
+      "fr_FR": "Etre numéro 1"
     },
     {
       "id": "UndergroundAnswers_Text_SweetFood",
-      "en_US": "Sweet food"
+      "en_US": "Sweet food",
+      "fr_FR": "Les plats sucrés"
     },
     {
       "id": "UndergroundAnswers_Text_SpicyFood",
-      "en_US": "Spicy food"
+      "en_US": "Spicy food",
+      "fr_FR": "Les plats épicés"
     },
     {
       "id": "UndergroundAnswers_Text_SaltyFood",
-      "en_US": "Salty food"
+      "en_US": "Salty food",
+      "fr_FR": "Les plats salés"
     },
     {
       "id": "UndergroundAnswers_Text_SourFood",
-      "en_US": "Sour food"
+      "en_US": "Sour food",
+      "fr_FR": "Les plats acides"
     },
     {
       "id": "UndergroundAnswers_Text_CutePokemon",
-      "en_US": "Cute Pokémon"
+      "en_US": "Cute Pokémon",
+      "fr_FR": "Les Pokémon gracieux"
     },
     {
       "id": "UndergroundAnswers_Text_StrongPokemon",
-      "en_US": "Strong Pokémon"
+      "en_US": "Strong Pokémon",
+      "fr_FR": "Les Pokémon robustes"
     },
     {
       "id": "UndergroundAnswers_Text_CoolPokemon",
-      "en_US": "Cool Pokémon"
+      "en_US": "Cool Pokémon",
+      "fr_FR": "Ceux de Sang-froid"
     },
     {
       "id": "UndergroundAnswers_Text_WeakPokemon",
-      "en_US": "Weak Pokémon"
+      "en_US": "Weak Pokémon",
+      "fr_FR": "Les Pokémon faiblards"
     },
     {
       "id": "UndergroundAnswers_Text_PlayOutside",
-      "en_US": "Play outside"
+      "en_US": "Play outside",
+      "fr_FR": "Jouer dehors"
     },
     {
       "id": "UndergroundAnswers_Text_GoShopping",
-      "en_US": "Go shopping"
+      "en_US": "Go shopping",
+      "fr_FR": "Faire du shopping"
     },
     {
       "id": "UndergroundAnswers_Text_Study",
-      "en_US": "Study"
+      "en_US": "Study",
+      "fr_FR": "Etudier"
     },
     {
       "id": "UndergroundAnswers_Text_Sleep",
-      "en_US": "Sleep"
+      "en_US": "Sleep",
+      "fr_FR": "Dormir"
     },
     {
       "id": "UndergroundAnswers_Text_DontKnow",
-      "en_US": "Don’t know"
+      "en_US": "Don’t know",
+      "fr_FR": "Aucune idée"
     }
   ]
 }

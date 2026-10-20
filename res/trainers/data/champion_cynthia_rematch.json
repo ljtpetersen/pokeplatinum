@@ -105,6 +105,10 @@
             "en_US": [
                 "I can’t remember the last time I\n",
                 "was put in a corner like this!\n"
+            ],
+            "fr_FR": [
+                "Je ne me rappelle pas la dernière fois\n",
+                "que l’on m’a coincée comme ça!\n"
             ]
         },
         {
@@ -112,6 +116,10 @@
             "en_US": [
                 "I won’t let this end yet! This match\n",
                 "is too fun to let it end this easily!\n"
+            ],
+            "fr_FR": [
+                "Ce n’est pas encore fini! Ce combat est\n",
+                "trop amusant pour se terminer si vite!\n"
             ]
         },
         {
@@ -122,7 +130,15 @@
                 "And just now, you became the most\n",
                 "powerful of all the Trainers.\r",
                 "You are now our newest Champion!\n"
+            ],
+            "fr_FR": [
+                "... Il y a quelques minutes, tu étais\n",
+                "simplement un adversaire de taille.\r",
+                "Mais maintenant, tu es le plus puissant\n",
+                "des Dresseurs.\r",
+                "Tu es le nouveau Maître!\n"
             ]
         }
-    ]
+    ],
+    "name_fr": "Cynthia"
 }

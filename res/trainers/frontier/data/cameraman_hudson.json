@@ -59,6 +59,10 @@
             "en_US": [
                 "Yes, yes, looking good!\n",
                 "I need a smile now. Can you do that?"
+            ],
+            "fr_FR": [
+                "Très bien. Très, très bien.\n",
+                "Souris à la caméra, s’il te plaît!"
             ]
         },
         {
@@ -66,6 +70,10 @@
             "en_US": [
                 "No, no, no. I need a smile from you.\n",
                 "Let’s see those teeth sparkle!\r"
+            ],
+            "fr_FR": [
+                "Fais un effort! Je t’ai demandé de\n",
+                "sourire! Allez, quoi!\r"
             ]
         },
         {
@@ -73,7 +81,12 @@
             "en_US": [
                 "Yes, that’s a good smile!\n",
                 "Now tilt your head toward me.\r"
+            ],
+            "fr_FR": [
+                "Ah, voilà un beau sourire!\n",
+                "Maintenant, prends l’air sérieux.\r"
             ]
         }
-    ]
+    ],
+    "name_fr": "Harry"
 }

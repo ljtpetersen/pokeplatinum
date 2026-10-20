@@ -27,5 +27,13 @@
     "contest": {
         "effect": "CONTEST_EFFECT_CONSECUTIVE_USE",
         "type": "CONTEST_TYPE_TOUGH"
-    }
+    },
+    "name_fr": "Roulade",
+    "description_fr": [
+        "Un rocher roule sur\n",
+        "l’ennemi pendant 5\n",
+        "tours. L’attaque \n",
+        "gagne en puissance\n",
+        "à chaque coup."
+    ]
 }

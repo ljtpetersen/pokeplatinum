@@ -3,7 +3,8 @@
   "messages": [
     {
       "id": "WifiPlazaEntrance_Text_HaveAGoodTime",
-      "en_US": "Have a good time!"
+      "en_US": "Have a good time!",
+      "fr_FR": "Amusez-vous bien!"
     }
   ]
 }

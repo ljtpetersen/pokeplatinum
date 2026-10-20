@@ -25,5 +25,13 @@
     "contest": {
         "effect": "CONTEST_EFFECT_VOLTAGE",
         "type": "CONTEST_TYPE_CUTE"
-    }
+    },
+    "name_fr": "Repos",
+    "description_fr": [
+        "Le lanceur dort\n",
+        "pendant 2 tours. Il\n",
+        "regagne tous ses PV\n",
+        "et n’a plus de\n",
+        "problèmes de statut."
+    ]
 }

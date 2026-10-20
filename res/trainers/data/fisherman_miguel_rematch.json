@@ -41,6 +41,10 @@
             "en_US": [
                 "Super outdoor fishing!\n",
                 "Shouting still doesn’t help!\r"
+            ],
+            "fr_FR": [
+                "La pêche, c’est trop super!\n",
+                "Eh oui, je continue de crier!\r"
             ]
         },
         {
@@ -48,7 +52,12 @@
             "en_US": [
                 "Gwaaah!\n",
                 "This is hurting!\n"
+            ],
+            "fr_FR": [
+                "Aaaaaargh!\n",
+                "Ça fait mal!\n"
             ]
         }
-    ]
+    ],
+    "name_fr": "Renaud"
 }

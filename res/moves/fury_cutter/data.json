@@ -28,5 +28,13 @@
     "contest": {
         "effect": "CONTEST_EFFECT_CONSECUTIVE_USE",
         "type": "CONTEST_TYPE_COOL"
-    }
+    },
+    "name_fr": "Taillade",
+    "description_fr": [
+        "Un coup de faux ou de\n",
+        "griffe dont la force\n",
+        "augmente quand il\n",
+        "touche plusieurs fois\n",
+        "d’affilée."
+    ]
 }

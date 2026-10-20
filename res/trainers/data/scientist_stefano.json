@@ -31,6 +31,10 @@
             "en_US": [
                 "I find it reassuring to be on this\n",
                 "damp soil...\r"
+            ],
+            "fr_FR": [
+                "Je trouve ça rassurant, de combattre\n",
+                "dans une telle moiteur... Mufufufufu...\r"
             ]
         },
         {
@@ -38,6 +42,10 @@
             "en_US": [
                 "Ufufufufu...\n",
                 "You had to beat me...\n"
+            ],
+            "fr_FR": [
+                "Mufufufufu... Je n’y crois pas...\n",
+                "Il a fallu que tu me battes...\n"
             ]
         },
         {
@@ -45,6 +53,10 @@
             "en_US": [
                 "It feels good to mope here after a\n",
                 "loss... Ufufufufu...\n"
+            ],
+            "fr_FR": [
+                "Ça fait du bien de rester ici à bouder\n",
+                "après une défaite... Mufufufufu...\n"
             ]
         },
         {
@@ -52,7 +64,12 @@
             "en_US": [
                 "Is Damp my favorite Pokémon ability?\n",
                 "Fufufu... Anything will do...\r"
+            ],
+            "fr_FR": [
+                "Moiteur est-elle ma capacité spéciale\n",
+                "favorite? Mufufu... Tout me va, à moi.\r"
             ]
         }
-    ]
+    ],
+    "name_fr": "Kévin"
 }

@@ -26,5 +26,13 @@
   "battlePocket": "BATTLE_POCKET_MASK_NONE",
   "fieldUseFunc": "ITEM_USE_FUNC_NONE",
   "battleUseCategory": "BATTLE_USE_CATEGORY_NONE",
-  "itemUseParams": null
+  "itemUseParams": null,
+  "name_fr": "Poudre Arg.",
+  "description_fr": [
+    "Objet à tenir. Poudre d’argent\n",
+    "brillante qui monte la puissance des\n",
+    "capacités de type Insecte."
+  ],
+  "plural_fr": "Poudre Arg.",
+  "article_fr": null
 }

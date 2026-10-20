@@ -25,6 +25,10 @@
             "en_US": [
                 "I travel all over the world in search of\n",
                 "mysteries.\r"
+            ],
+            "fr_FR": [
+                "Je parcours le monde pour en découvrir\n",
+                "tous les mystères.\r"
             ]
         },
         {
@@ -32,6 +36,10 @@
             "en_US": [
                 "Gasp... One more... Gasp...\n",
                 "It’s like I went on a diet...\n"
+            ],
+            "fr_FR": [
+                "Argh! Encore une défaite...\n",
+                "Certaines choses ne changent pas...\n"
             ]
         },
         {
@@ -41,6 +49,12 @@
                 "to investigate around the world.\r",
                 "This is no time to be feeling sorry\n",
                 "for myself.\n"
+            ],
+            "fr_FR": [
+                "Il me reste bien des mystères à\n",
+                "élucider dans ce monde.\r",
+                "Je n’ai pas le temps de m’apitoyer\n",
+                "sur mon sort.\n"
             ]
         },
         {
@@ -50,7 +64,14 @@
                 "mysteries around the world.\r",
                 "Running into you here just happens\n",
                 "to be one such mystery!\r"
+            ],
+            "fr_FR": [
+                "Ce ne sont pas les mystères qui\n",
+                "manquent en ce bas monde.\r",
+                "Notre rencontre ici, par exemple...\n",
+                "Ça, c’est un sacré mystère!\r"
             ]
         }
-    ]
+    ],
+    "name_fr": "Evan"
 }

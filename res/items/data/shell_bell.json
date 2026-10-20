@@ -26,5 +26,13 @@
   "battlePocket": "BATTLE_POCKET_MASK_NONE",
   "fieldUseFunc": "ITEM_USE_FUNC_NONE",
   "battleUseCategory": "BATTLE_USE_CATEGORY_NONE",
-  "itemUseParams": null
+  "itemUseParams": null,
+  "name_fr": "Grelot Coque",
+  "description_fr": [
+    "Objet à tenir. Restaure un peu les PV\n",
+    "du porteur à chaque fois qu’il inflige\n",
+    "des dégâts."
+  ],
+  "plural_fr": "Grelot Coque",
+  "article_fr": null
 }

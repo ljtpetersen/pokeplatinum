@@ -7,6 +7,11 @@
         "Hello!\r",
         "Here you may cook Berries and\n",
         "turn them into Poffins.\r"
+      ],
+      "fr_FR": [
+        "Bonjour!\r",
+        "Ici, vous pouvez cuisiner vos Baies\n",
+        "pour en faire des Poffins.\r"
       ]
     },
     {
@@ -14,6 +19,10 @@
       "en_US": [
         "Would you like to cook alone or with\n",
         "other people?"
+      ],
+      "fr_FR": [
+        "Voulez-vous cuisiner en solo ou\n",
+        "en groupe?"
       ]
     },
     {
@@ -21,15 +30,21 @@
       "en_US": [
         "DS Wireless Communications will\n",
         "be launched."
+      ],
+      "fr_FR": [
+        "La communication sans fil DS va\n",
+        "démarrer."
       ]
     },
     {
       "id": "PoffinCommon_Text_Yes",
-      "en_US": "YES"
+      "en_US": "YES",
+      "fr_FR": "OUI"
     },
     {
       "id": "PoffinCommon_Text_No",
-      "en_US": "NO"
+      "en_US": "NO",
+      "fr_FR": "NON"
     },
     {
       "id": "PoffinCommon_Text_Dummy5",
@@ -37,34 +52,44 @@
     },
     {
       "id": "PoffinCommon_Text_NoBerryToCook",
-      "en_US": "There isn’t a Berry to cook!\r"
+      "en_US": "There isn’t a Berry to cook!\r",
+      "fr_FR": "Vous n’avez pas de Baie pour cuisiner!\r"
     },
     {
       "id": "PoffinCommon_Text_PoffinCaseIsFull",
-      "en_US": "The Poffin Case is full.\r"
+      "en_US": "The Poffin Case is full.\r",
+      "fr_FR": "La Boîte Poffin est pleine.\r"
     },
     {
       "id": "PoffinCommon_Text_MustHavePoffinCase",
       "en_US": [
         "Sorry, you must have a Poffin Case\n",
         "if you want to cook some Berries."
+      ],
+      "fr_FR": [
+        "Désolée, vous devez avoir une Boîte\n",
+        "Poffin si vous voulez cuisiner des Baies."
       ]
     },
     {
       "id": "PoffinCommon_Text_Alone",
-      "en_US": "ALONE"
+      "en_US": "ALONE",
+      "fr_FR": "EN SOLO"
     },
     {
       "id": "PoffinCommon_Text_InAGroup",
-      "en_US": "IN A GROUP"
+      "en_US": "IN A GROUP",
+      "fr_FR": "EN GROUPE"
     },
     {
       "id": "PoffinCommon_Text_Info",
-      "en_US": "INFO"
+      "en_US": "INFO",
+      "fr_FR": "INFOS"
     },
     {
       "id": "PoffinCommon_Text_Exit",
-      "en_US": "EXIT"
+      "en_US": "EXIT",
+      "fr_FR": "RETOUR"
     },
     {
       "id": "PoffinCommon_Text_BecomeLeaderOrJoinGroup",
@@ -73,6 +98,12 @@
         "choose “BECOME LEADER.”\r",
         "Everyone else must choose\n",
         "“JOIN GROUP.”"
+      ],
+      "fr_FR": [
+        "Veuillez choisir lequel d’entre\n",
+        "vous sera le “MENEUR” du groupe.\r",
+        "Les autres joueurs devront\n",
+        "choisir “JOINDRE”."
       ]
     },
     {
@@ -164,6 +195,22 @@
         "of up to four people.\r",
         "With more cooks stirring, everyone will\n",
         "get more Poffins!"
+      ],
+      "fr_FR": [
+        "Mettez la Baie dans le pot et\n",
+        "préparez-vous à tourner!\r",
+        "Attendez de voir la flèche pour savoir\n",
+        "dans quelle direction touiller.\r",
+        "Soyez rapide! Si vous tournez trop\n",
+        "lentement, la pâte va brûler.\r",
+        "Mais si vous tournez trop vite,\n",
+        "la pâte va déborder.\r",
+        "Si vous vous en sortez bien, vous\n",
+        "obtiendrez un délicieux Poffin!\r",
+        "Vous pouvez cuisiner en solo ou bien\n",
+        "en groupe de 2 à 4 personnes.\r",
+        "Quand il y a plusieurs cuisiniers, tout\n",
+        "le monde obtient plus de Poffins!"
       ]
     },
     {
@@ -171,6 +218,10 @@
       "en_US": [
         "Please visit again whenever you get\n",
         "the urge to cook!"
+      ],
+      "fr_FR": [
+        "N’hésitez pas à revenir nous voir si\n",
+        "l’envie de cuisiner vous reprend!"
       ]
     },
     {

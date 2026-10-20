@@ -25,5 +25,12 @@
     "contest": {
         "effect": "CONTEST_EFFECT_FIRST_PERFORMANCE_ADVANTAGE",
         "type": "CONTEST_TYPE_BEAUTY"
-    }
+    },
+    "name_fr": "Canicule",
+    "description_fr": [
+        "Le lanceur provoque\n",
+        "une vague de\n",
+        "chaleur. Peut aussi\n",
+        "brûler l’ennemi."
+    ]
 }

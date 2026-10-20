@@ -36,6 +36,11 @@
                 "abilities!\r",
                 "I’ve been looking forward to seeing\n",
                 "you again!\r"
+            ],
+            "fr_FR": [
+                "J’ai boosté le potentiel de mes Pokémon\n",
+                "de type Dragon!\r",
+                "Il me tardait de te revoir!\r"
             ]
         },
         {
@@ -43,7 +48,12 @@
             "en_US": [
                 "Raising abilities alone doesn’t mean\n",
                 "I can win either...\n"
+            ],
+            "fr_FR": [
+                "J’ai boosté mes capacités, mais ça ne\n",
+                "veut pas dire que je peux te vaincre...\n"
             ]
         }
-    ]
+    ],
+    "name_fr": "Florian"
 }

@@ -34,6 +34,10 @@
             "en_US": [
                 "In the embrace of Mother Nature,\n",
                 "people and Pokémon grow strong!\r"
+            ],
+            "fr_FR": [
+                "Dans les bras de Mère Nature, les gens\n",
+                "et les Pokémon deviennent forts!\r"
             ]
         },
         {
@@ -41,6 +45,10 @@
             "en_US": [
                 "Your Pokémon are so muscular.\n",
                 "It makes me sigh seeing them...\n"
+            ],
+            "fr_FR": [
+                "Waouh, quel Dresseur!\n",
+                "C’est très impressionnant...\n"
             ]
         },
         {
@@ -49,6 +57,12 @@
                 "It doesn’t matter where they grow.\r",
                 "Pokémon can be made tougher\n",
                 "anywhere if you set your mind to it.\n"
+            ],
+            "fr_FR": [
+                "Le lieu d’entraînement n’a pas\n",
+                "d’importance.\r",
+                "Un Pokémon peut être élevé n’importe\n",
+                "où s’il croit en son Dresseur.\n"
             ]
         },
         {
@@ -56,7 +70,12 @@
             "en_US": [
                 "By battling tough opponents, both\n",
                 "Trainers and Pokémon grow tough!\r"
+            ],
+            "fr_FR": [
+                "En affrontant des adversaires habiles,\n",
+                "Pokémon et Dresseurs deviennent forts!\r"
             ]
         }
-    ]
+    ],
+    "name_fr": "Maud"
 }

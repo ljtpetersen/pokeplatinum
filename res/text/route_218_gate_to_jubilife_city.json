@@ -6,6 +6,10 @@
       "en_US": [
         "Route 218 up ahead is a great fishing\n",
         "hole that’s almost unknown to people."
+      ],
+      "fr_FR": [
+        "La Route 218 est un bon coin pour la\n",
+        "pêche, mais peu de gens le savent."
       ]
     },
     {
@@ -14,6 +18,11 @@
         "Yes, sir!\n",
         "An Old Rod is a good thing!\r",
         "You think so too, am I right?"
+      ],
+      "fr_FR": [
+        "Hum!\n",
+        "Une Canne, c’est vraiment bien!\r",
+        "Tu penses la même chose, pas vrai?"
       ]
     },
     {
@@ -23,6 +32,12 @@
         "We can be friends!\r",
         "Here you go.\n",
         "That’s my {STRVAR_1 8, 0, 0}!\r"
+      ],
+      "fr_FR": [
+        "Hum!\n",
+        "On est sur la même longueur d’onde!\r",
+        "Tiens!\n",
+        "Prends cette {STRVAR_1 8, 0, 0}!\r"
       ]
     },
     {
@@ -32,6 +47,12 @@
         "a body of water.\r",
         "Oh, and by the way, did you need\n",
         "any tips on using that fishing rod?"
+      ],
+      "fr_FR": [
+        "Lance ta Canne partout où il y a de\n",
+        "l’eau. On ne sait jamais!\r",
+        "Ah, au fait, as-tu besoin de conseils\n",
+        "sur la façon d’utiliser cette Canne?"
       ]
     },
     {
@@ -39,6 +60,10 @@
       "en_US": [
         "Oh, really?\n",
         "You don’t like to fish?"
+      ],
+      "fr_FR": [
+        "Quoi, vraiment?\n",
+        "Tu n’aimes pas pêcher?"
       ]
     },
     {
@@ -49,6 +74,13 @@
         "Next, you focus!\n",
         "If a Pokémon bites, “!” appears.\f",
         "That’s your cue to reel it in!"
+      ],
+      "fr_FR": [
+        "Tu dois d’abord te placer face au point\n",
+        "d’eau et ensuite utiliser la Canne.\r",
+        "Concentre-toi...\n",
+        "Si ça mord, un “!” apparaît.\f",
+        "Remonte vite ta prise!"
       ]
     },
     {
@@ -59,6 +91,13 @@
         "When you reel the Pokémon in, you’ve\n",
         "got to battle it.\r",
         "So, fishing gives you twice the fun!"
+      ],
+      "fr_FR": [
+        "Quand tu pêches des Pokémon, il faut\n",
+        "d’abord que ça morde.\r",
+        "Quand tu remontes le Pokémon, tu dois\n",
+        "l’affronter.\r",
+        "Comme ça, la pêche est bien plus drôle!"
       ]
     }
   ]

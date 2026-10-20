@@ -8,6 +8,12 @@
         "you here.\r",
         "If you don’t mind, let’s team up.\n",
         "The Pokémon seem to be restless.\r"
+      ],
+      "fr_FR": [
+        "Armand: Content de te voir ici,\n",
+        "{STRVAR_1 3, 0, 0}.\r",
+        "Faisons équipe, les Pokémon ont l’air\n",
+        "agités ici.\r"
       ]
     },
     {
@@ -15,6 +21,10 @@
       "en_US": [
         "{STRVAR_1 3, 0, 0} decided to go with\n",
         "Riley!"
+      ],
+      "fr_FR": [
+        "{STRVAR_1 3, 0, 0} décide d’accompagner \n",
+        "Armand!"
       ]
     },
     {
@@ -22,6 +32,10 @@
       "en_US": [
         "Riley: If your Pokémon get hurt,\n",
         "I’ll heal them up."
+      ],
+      "fr_FR": [
+        "Armand: Si tes Pokémon se font \n",
+        "blesser, je les soignerai."
       ]
     },
     {
@@ -30,6 +44,11 @@
         "Riley: Hi, {STRVAR_1 3, 0, 0}.\n",
         "Let’s team up.\f",
         "The Pokémon seem to be restless.\r"
+      ],
+      "fr_FR": [
+        "Armand: Salut, {STRVAR_1 3, 0, 0}.\n",
+        "Faisons équipe, d’accord?\f",
+        "Les Pokémon sont agités par ici.\r"
       ]
     },
     {
@@ -38,6 +57,11 @@
         "Riley: ...Are you going back?\r",
         "I’ll be hanging around here.\n",
         "It would be good if you came back.\r"
+      ],
+      "fr_FR": [
+        "Armand: Tu fais demi-tour?\r",
+        "Je vais rester dans le coin en \n",
+        "attendant ton retour. Ne m’oublie pas!\r"
       ]
     },
     {
@@ -48,6 +72,14 @@
         "I don’t care what good reason you may\n",
         "have, but I don’t want you bringing\f",
         "any trouble into the mine.\r"
+      ],
+      "fr_FR": [
+        "Armand: Je comprends maintenant. \n",
+        "Si les Pokémon sont agités,\f",
+        "c’est à cause de vous!\r",
+        "Je me fiche des raisons de votre \n",
+        "présence ici, je veux juste que\f",
+        "vous laissiez ma mine tranquille!\r"
       ]
     },
     {
@@ -56,6 +88,11 @@
         "Grunt 1: We’re Team Galactic!\n",
         "We’ll take all the Pokémon we want!\f",
         "Isn’t that right, partner?\r"
+      ],
+      "fr_FR": [
+        "Sbire 1: Nous sommes la Team Galaxie!\n",
+        "On peut prendre tous les Pokémon qu’on\f",
+        "veut! Pas vrai, partenaire?\r"
       ]
     },
     {
@@ -65,6 +102,12 @@
         "So that’s what we’re gonna do!\r",
         "We’re abducting all the Pokémon from\n",
         "this rusted-out Iron Island!\r"
+      ],
+      "fr_FR": [
+        "Sbire 2: Et comment qu’on peut!\n",
+        "Et c’est bien ce qu’on va faire!\r",
+        "Tous les Pokémon de cette vieille \n",
+        "Ile de Fer rouillée sont à nous!\r"
       ]
     },
     {
@@ -78,6 +121,16 @@
         "code of ethics!\r",
         "Come on, {STRVAR_1 3, 0, 0}!\n",
         "This is one battle we can’t lose!\r"
+      ],
+      "fr_FR": [
+        "Armand: Ensemble, dans la joie \n",
+        "comme dans la peine...\r",
+        "Voilà comment vivent les Pokémon \n",
+        "et les Dresseurs de Sinnoh!\r",
+        "Je ne vous laisserai pas \n",
+        "piétiner ce grand principe!\r",
+        "Avec moi, {STRVAR_1 3, 0, 0}!\n",
+        "Donnons-leur une leçon!\r"
       ]
     },
     {
@@ -87,6 +140,12 @@
         "Your combination is so sick!\f",
         "The both of you, and your Pokémon...\r",
         "Let’s beat it, partner!\r"
+      ],
+      "fr_FR": [
+        "Sbire 1: Stop! Pitié!\n",
+        "Votre équipe est trop forte!\f",
+        "Vous deux et vos Pokémon...\r",
+        "On se tire, partenaire!\r"
       ]
     },
     {
@@ -95,6 +154,11 @@
         "Grunt 2: You said it, brother!\r",
         "We don’t even know what Team \n",
         "Galactic’s big plan is anyway!\r"
+      ],
+      "fr_FR": [
+        "Sbire 2: Ouais, et vite!\r",
+        "On sait rien des plans de la \n",
+        "Team Galaxie de toute façon!\r"
       ]
     },
     {
@@ -105,6 +169,11 @@
         "Listen, I have a Pokémon Egg\n",
         "here.\r",
         "Would you take it with you?"
+      ],
+      "fr_FR": [
+        "Armand: Je te dois une fière chandelle.\r",
+        "Ecoute, j’ai un Oeuf de Pokémon ici.\n",
+        "Tu voudrais bien le prendre avec toi?"
       ]
     },
     {
@@ -114,6 +183,12 @@
         "I’d like you to show the Pokémon\n",
         "that’s inside the Egg all sorts\f",
         "of new places.\r"
+      ],
+      "fr_FR": [
+        "Armand: Super!\r",
+        "Je voudrais que tu fasses découvrir le \n",
+        "monde au Pokémon qui sortira de cet\f",
+        "Oeuf. Occupe-toi bien de lui.\r"
       ]
     },
     {
@@ -124,6 +199,12 @@
         "another Pokémon.\r",
         "All right, then.\n",
         "I’ll wait here for you."
+      ],
+      "fr_FR": [
+        "Armand: C’est gentil mais...\r",
+        "Tu n’as plus assez de place \n",
+        "pour un autre Pokémon.\r",
+        "C’est pas grave, je vais t’attendre ici."
       ]
     },
     {
@@ -131,6 +212,10 @@
       "en_US": [
         "Riley: I hope you’ll accept it as\n",
         "a token of our friendship.\r"
+      ],
+      "fr_FR": [
+        "Armand: J’aurais espéré que tu \n",
+        "acceptes, en gage de notre amitié...\r"
       ]
     },
     {
@@ -142,6 +227,12 @@
         "places from now on.\r",
         "Let’s meet again!\n",
         "Take care on the way out."
+      ],
+      "fr_FR": [
+        "Armand: On a bien assuré tous les deux.\r",
+        "Mais je voudrais voir du pays.\r",
+        "On se reverra peut-être! Fais \n",
+        "attention à toi sur le chemin du retour."
       ]
     },
     {
@@ -158,6 +249,11 @@
         "Riley: Haha, I’d have to agree.\r",
         "People training here would be those\n",
         "with too much time on their hands."
+      ],
+      "fr_FR": [
+        "Armand: Ha, ha, je suis bien d’accord.\r",
+        "Les gens qui s’entraînent ici \n",
+        "ont vraiment du temps à perdre."
       ]
     },
     {
@@ -167,6 +263,12 @@
         "thriving ore mine once upon a time.\r",
         "I guess the steel ore’s played out.\n",
         "There’s only Pokémon here now."
+      ],
+      "fr_FR": [
+        "Armand: Il y avait une mine très \n",
+        "importante ici il y a longtemps.\r",
+        "Les ressources ont dû finir par \n",
+        "s’épuiser. Il ne reste que des Pokémon."
       ]
     },
     {
@@ -176,6 +278,13 @@
         "The Leader of Canalave Gym?\r",
         "He’s asked me to become a Gym Leader,\n",
         "but there’s his son Roark to consider."
+      ],
+      "fr_FR": [
+        "Armand: Tu as déjà rencontré Charles?\n",
+        "Le Champion de l’Arène de Joliberges?\r",
+        "Il m’a demandé de devenir Champion \n",
+        "d’Arène, mais son fils Pierrick\f",
+        "est aussi bien placé pour le poste."
       ]
     },
     {
@@ -188,6 +297,15 @@
         "I wonder?\r",
         "I mean, it’s a lot harder to defeat\n",
         "one’s self than anyone else."
+      ],
+      "fr_FR": [
+        "Armand: Imagine un combat entre \n",
+        "deux Dresseurs qui utilisent des\f",
+        "Pokémon de type Acier.\r",
+        "Est-ce que ça serait un peu comme \n",
+        "combattre contre soi-même?\r",
+        "Je veux dire, c’est toujours plus \n",
+        "difficile de se vaincre soi-même."
       ]
     },
     {
@@ -197,6 +315,11 @@
         "The native Pokémon are restless...\r",
         "I don’t like this...\n",
         "Let’s hurry."
+      ],
+      "fr_FR": [
+        "Armand: Il se passe quelque chose.\n",
+        "Les Pokémon semblent agités...\r",
+        "Je n’aime pas ça... Dépêchons-nous."
       ]
     }
   ]

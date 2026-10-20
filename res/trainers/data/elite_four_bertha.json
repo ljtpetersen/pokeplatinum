@@ -89,6 +89,10 @@
             "en_US": [
                 "Dear child, don’t assume for an\n",
                 "instant that you’ve won.\n"
+            ],
+            "fr_FR": [
+                "Mon chou, ne crois pas un instant\n",
+                "que tu peux gagner.\n"
             ]
         },
         {
@@ -100,7 +104,16 @@
                 "their best to earn you the win.\r",
                 "Even though I’ve lost, I find myself\n",
                 "with this silly grin!\n"
+            ],
+            "fr_FR": [
+                "Eh bien! Mon chou, je dois dire que\n",
+                "je suis impressionnée.\r",
+                "Tes Pokémon croient en toi et font de\n",
+                "leur mieux pour remporter la victoire.\r",
+                "Malgré ma défaite, je ne peux\n",
+                "m’empêcher de sourire bêtement!"
             ]
         }
-    ]
+    ],
+    "name_fr": "Terry"
 }

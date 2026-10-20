@@ -45,6 +45,10 @@
             "en_US": [
                 "This is going out to all the ladies.\n",
                 "Babes, I sing and battle for you!"
+            ],
+            "fr_FR": [
+                "Je dédie ce combat à toutes mes fans.\n",
+                "Les filles, je vais gagner pour vous!"
             ]
         },
         {
@@ -52,6 +56,10 @@
             "en_US": [
                 "My ladies, my babes, I won for you.\n",
                 "Your love is my power, right?\r"
+            ],
+            "fr_FR": [
+                "Et voilà les filles, j’ai gagné.\n",
+                "Tout ça, c’est grâce à votre amour!\r"
             ]
         },
         {
@@ -59,7 +67,12 @@
             "en_US": [
                 "I lost, but my love for the babes can’t\n",
                 "be beat, maybe.\r"
+            ],
+            "fr_FR": [
+                "J’ai peut-être perdu, mais j’ai le\n",
+                "soutien de toutes mes fans!\r"
             ]
         }
-    ]
+    ],
+    "name_fr": "Teddy"
 }

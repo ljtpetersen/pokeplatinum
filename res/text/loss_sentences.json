@@ -6,6 +6,10 @@
       "en_US": [
         "You win...\n",
         "{STRVAR_1 28, 0, 0}!"
+      ],
+      "fr_FR": [
+        "Tu gagnes...\n",
+        "{STRVAR_1 28, 0, 0}!"
       ]
     },
     {
@@ -13,11 +17,19 @@
       "en_US": [
         "{STRVAR_1 28, 0, 0}  was the one\n",
         "thing I wanted to avoid..."
+      ],
+      "fr_FR": [
+        "{STRVAR_1 28, 0, 0}... \n",
+        "Exactement ce que je voulais éviter!"
       ]
     },
     {
       "id": "LossSentences_Text_WaaahBlank",
       "en_US": [
+        "Waaah!\n",
+        "{STRVAR_1 28, 0, 0}!"
+      ],
+      "fr_FR": [
         "Waaah!\n",
         "{STRVAR_1 28, 0, 0}!"
       ]
@@ -27,11 +39,19 @@
       "en_US": [
         "I want to go home with\n",
         "{STRVAR_1 28, 0, 0}..."
+      ],
+      "fr_FR": [
+        "Je veux rentrer à la maison avec\n",
+        "{STRVAR_1 28, 0, 0}..."
       ]
     },
     {
       "id": "LossSentences_Text_BlankBlank",
       "en_US": [
+        "{STRVAR_1 28, 0, 0}!\n",
+        "{STRVAR_1 28, 1, 0}!"
+      ],
+      "fr_FR": [
         "{STRVAR_1 28, 0, 0}!\n",
         "{STRVAR_1 28, 1, 0}!"
       ]
@@ -41,6 +61,10 @@
       "en_US": [
         "Could it be...?\n",
         "{STRVAR_1 28, 0, 0}...?"
+      ],
+      "fr_FR": [
+        "Est-ce possible...?\n",
+        "{STRVAR_1 28, 0, 0}...?"
       ]
     },
     {
@@ -48,6 +72,10 @@
       "en_US": [
         "{STRVAR_1 28, 0, 0}!\n",
         "How awful!"
+      ],
+      "fr_FR": [
+        "{STRVAR_1 28, 0, 0}!\n",
+        "Vraiment horrible!"
       ]
     },
     {
@@ -55,6 +83,10 @@
       "en_US": [
         "I was confident about\n",
         "{STRVAR_1 28, 0, 0}, too."
+      ],
+      "fr_FR": [
+        "{STRVAR_1 28, 0, 0}, voilà ce qui m’a \n",
+        "donné confiance."
       ]
     },
     {
@@ -62,6 +94,10 @@
       "en_US": [
         "You’re {STRVAR_1 28, 0, 0},\n",
         "aren’t you?"
+      ],
+      "fr_FR": [
+        "Tu es {STRVAR_1 28, 0, 0}, \n",
+        "n’est-ce pas?"
       ]
     },
     {
@@ -69,6 +105,10 @@
       "en_US": [
         "{STRVAR_1 28, 0, 0}!\n",
         "Can’t be anything else but."
+      ],
+      "fr_FR": [
+        "{STRVAR_1 28, 0, 0}!\n",
+        "Voilà ce que c’est!"
       ]
     },
     {
@@ -76,16 +116,28 @@
       "en_US": [
         "I feel so helplessly angry...\n",
         "It’s {STRVAR_1 28, 0, 0}!"
+      ],
+      "fr_FR": [
+        "Je n’ai rien pu faire, ça m’énerve!\n",
+        "C’est {STRVAR_1 28, 0, 0}!"
       ]
     },
     {
       "id": "LossSentences_Text_BlankMakesMeSad",
-      "en_US": "{STRVAR_1 28, 0, 0} makes me sad..."
+      "en_US": "{STRVAR_1 28, 0, 0} makes me sad...",
+      "fr_FR": [
+        "{STRVAR_1 28, 0, 0}...\n",
+        "Ça me rend triste."
+      ]
     },
     {
       "id": "LossSentences_Text_IFeelSorryForBlank",
       "en_US": [
         "I feel sorry for\n",
+        "{STRVAR_1 28, 0, 0}!"
+      ],
+      "fr_FR": [
+        "Je m’excuse pour\n",
         "{STRVAR_1 28, 0, 0}!"
       ]
     },
@@ -94,6 +146,10 @@
       "en_US": [
         "The way I feel now is\n",
         "{STRVAR_1 28, 0, 0}..."
+      ],
+      "fr_FR": [
+        "Je me sens...\n",
+        "{STRVAR_1 28, 0, 0}..."
       ]
     },
     {
@@ -101,6 +157,10 @@
       "en_US": [
         "I lost, but I won at\n",
         "{STRVAR_1 28, 0, 0}!"
+      ],
+      "fr_FR": [
+        "J’ai perdu, mais pour ce qui est de\n",
+        "{STRVAR_1 28, 0, 0}, j’ai gagné!"
       ]
     },
     {
@@ -108,6 +168,10 @@
       "en_US": [
         "I would’ve won if this\n",
         "were {STRVAR_1 28, 0, 0}..."
+      ],
+      "fr_FR": [
+        "Si ça avait été {STRVAR_1 28, 0, 0}, \n",
+        "j’aurais gagné."
       ]
     },
     {
@@ -115,6 +179,10 @@
       "en_US": [
         "My head’s filled with only\n",
         "{STRVAR_1 28, 0, 0} now!"
+      ],
+      "fr_FR": [
+        "{STRVAR_1 28, 0, 0}, voilà tout ce que\n",
+        "j’ai à l’esprit!"
       ]
     },
     {
@@ -122,6 +190,10 @@
       "en_US": [
         "The way I lost...\n",
         "It’s like {STRVAR_1 28, 0, 0}..."
+      ],
+      "fr_FR": [
+        "La façon dont j’ai perdu...\n",
+        "C’est {STRVAR_1 28, 0, 0}..."
       ]
     },
     {
@@ -129,12 +201,20 @@
       "en_US": [
         "Isn’t {STRVAR_1 28, 0, 0}\n",
         "{STRVAR_1 28, 1, 0}?"
+      ],
+      "fr_FR": [
+        "{STRVAR_1 28, 0, 0} est\n",
+        "{STRVAR_1 28, 1, 0}, non?"
       ]
     },
     {
       "id": "LossSentences_Text_AwwThatsReallyBlank",
       "en_US": [
         "Aww... That’s really\n",
+        "{STRVAR_1 28, 0, 0}..."
+      ],
+      "fr_FR": [
+        "Oh, c’est vraiment\n",
         "{STRVAR_1 28, 0, 0}..."
       ]
     }

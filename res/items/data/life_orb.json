@@ -26,5 +26,13 @@
   "battlePocket": "BATTLE_POCKET_MASK_NONE",
   "fieldUseFunc": "ITEM_USE_FUNC_NONE",
   "battleUseCategory": "BATTLE_USE_CATEGORY_NONE",
-  "itemUseParams": null
+  "itemUseParams": null,
+  "name_fr": "Orbe Vie",
+  "description_fr": [
+    "Objet à tenir augmentant la puissance\n",
+    "des capacités, mais qui dépense des\n",
+    "PV à chaque coup."
+  ],
+  "plural_fr": "Orbe Vie",
+  "article_fr": null
 }

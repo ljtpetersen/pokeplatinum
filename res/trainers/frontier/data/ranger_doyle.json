@@ -77,6 +77,10 @@
             "en_US": [
                 "Woohoo! Here comes a cool Trainer!\n",
                 "Let’s see what you can bring!"
+            ],
+            "fr_FR": [
+                "Tiens! Voilà un Dresseur à l’œil vif!\n",
+                "Voyons ce que tu vaux!"
             ]
         },
         {
@@ -84,6 +88,10 @@
             "en_US": [
                 "Yes! Bravo!\n",
                 "You have some good attacks, Trainer!\r"
+            ],
+            "fr_FR": [
+                "Victoire! Malgré tout, tu as de bons\n",
+                "réflexes, Dresseur.\r"
             ]
         },
         {
@@ -91,7 +99,12 @@
             "en_US": [
                 "Whaaaaat?! Nooooo!\n",
                 "I can’t get over how tough you are!\r"
+            ],
+            "fr_FR": [
+                "Comment? Nooooon!\n",
+                "Tu es franchement coriace!\r"
             ]
         }
-    ]
+    ],
+    "name_fr": "Bobby"
 }

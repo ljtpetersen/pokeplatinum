@@ -59,6 +59,10 @@
             "en_US": [
                 "You there. Yes, you.\n",
                 "I’m feeling rather bored."
+            ],
+            "fr_FR": [
+                "Toi, là-bas. Oui, toi.\n",
+                "Je m’ennuie."
             ]
         },
         {
@@ -66,6 +70,10 @@
             "en_US": [
                 "I suppose that was enjoyable for what\n",
                 "it was. I’ll thank you for it.\r"
+            ],
+            "fr_FR": [
+                "C’était agréable le temps que ça a\n",
+                "duré. Je te remercie.\r"
             ]
         },
         {
@@ -73,7 +81,12 @@
             "en_US": [
                 "You are rather good.\n",
                 "Quite remarkable, even.\r"
+            ],
+            "fr_FR": [
+                "Tu as du talent. Tu es un Dresseur\n",
+                "remarquable, c’est certain.\r"
             ]
         }
-    ]
+    ],
+    "name_fr": "Aude"
 }

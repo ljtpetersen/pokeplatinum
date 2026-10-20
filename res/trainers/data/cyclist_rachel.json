@@ -33,11 +33,17 @@
                 "Some people compete over speed, and\n",
                 "some compete over technique.\r",
                 "Which kind are you?\r"
+            ],
+            "fr_FR": [
+                "Certains misent tout sur la vitesse, \n",
+                "d’autres sur la technique.\r",
+                "Tu fais partie de quelle catégorie?\r"
             ]
         },
         {
             "type": "TRMSG_DEFEAT",
-            "en_US": "You’re a speedy technician!\n"
+            "en_US": "You’re a speedy technician!\n",
+            "fr_FR": "Tu es à la fois rapide et technique!"
         },
         {
             "type": "TRMSG_POST_BATTLE",
@@ -45,6 +51,11 @@
                 "I enjoy the scenery.\r",
                 "Don’t you think the area below\n",
                 "Cycling Road looks nice?\n"
+            ],
+            "fr_FR": [
+                "J’admire le panorama.\r",
+                "Tu ne trouves pas que la vue est\n",
+                "magnifique le long de la Piste Cyclable?\n"
             ]
         },
         {
@@ -52,7 +63,12 @@
             "en_US": [
                 "I polished up both my speed and\n",
                 "techniques. Can you beat me now?\r"
+            ],
+            "fr_FR": [
+                "J’ai amélioré ma technique et ma \n",
+                "vitesse. Pourras-tu encore me battre?\r"
             ]
         }
-    ]
+    ],
+    "name_fr": "Delphine"
 }

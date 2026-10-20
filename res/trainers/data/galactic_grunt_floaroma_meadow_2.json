@@ -32,7 +32,13 @@
             "en_US": [
                 "...I want a promotion so I can get some\n",
                 "tougher Pokémon...\n"
+            ],
+            "fr_FR": [
+                "Qu’on me donne une promotion, par\n",
+                "pitié... Et de meilleurs Pokémon,\f",
+                "par la même occasion!\n"
             ]
         }
-    ]
+    ],
+    "name_fr": "Sbire"
 }

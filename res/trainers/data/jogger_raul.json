@@ -23,17 +23,26 @@
             "en_US": [
                 "Jogging is about rhythm.\n",
                 "Battling is about rhythm, too!\r"
+            ],
+            "fr_FR": [
+                "Au jogging comme au combat, si t’as pas\n",
+                "le rythme, tu t’en sors pas!\r"
             ]
         },
         {
             "type": "TRMSG_DEFEAT",
-            "en_US": "It’s a goal of sorts, I’d say!\n"
+            "en_US": "It’s a goal of sorts, I’d say!\n",
+            "fr_FR": "Tout est dit!\n"
         },
         {
             "type": "TRMSG_POST_BATTLE",
             "en_US": [
                 "If I get out of rhythm, I can’t get my\n",
                 "act together.\n"
+            ],
+            "fr_FR": [
+                "J’ai le rythme dans la peau,\n",
+                "ça ne s’arrêtera pas de sitôt!\n"
             ]
         },
         {
@@ -43,6 +52,12 @@
                 "a wild Pokémon came after me.\r",
                 "I ran so fast, I was on top of the\n",
                 "waves, I swear!"
+            ],
+            "fr_FR": [
+                "L’autre jour, pendant mon jogging, un\n",
+                "Pokémon sauvage a voulu me mordre.\r",
+                "J’ai couru si vite, sans rire, qu’à\n",
+                "la fin je marchais sur l’eau!"
             ]
         },
         {
@@ -51,7 +66,14 @@
                 "Jogging is about rhythm.\n",
                 "Battling is about rhythm, too.\f",
                 "Our rematch is also about rhythm!\r"
+            ],
+            "fr_FR": [
+                "Au jogging comme au combat, si t’as pas\n",
+                "le rythme, tu t’en sors pas.\r",
+                "Et pour cette revanche, crois-moi,\n",
+                "seul le rythme nous départagera!\r"
             ]
         }
-    ]
+    ],
+    "name_fr": "Oliver"
 }

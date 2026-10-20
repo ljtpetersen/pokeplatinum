@@ -17,6 +17,10 @@
             "en_US": [
                 "Ah, wonderful! That was fantastic!\n",
                 "Do come again!\r"
+            ],
+            "fr_FR": [
+                "Ah, excellent! C’était fantastique!\n",
+                "J’espère que tu reviendras!\r"
             ]
         },
         {
@@ -24,7 +28,12 @@
             "en_US": [
                 "I have no problem with losing to a\n",
                 "spectacular Trainer like you!\r"
+            ],
+            "fr_FR": [
+                "C’est un honneur de perdre face\n",
+                "à un Dresseur de si grand talent!\r"
             ]
         }
-    ]
+    ],
+    "name_fr": "Koner"
 }

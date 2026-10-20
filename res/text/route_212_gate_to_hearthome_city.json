@@ -6,6 +6,10 @@
       "en_US": [
         "The Contests are interesting, but the\n",
         "ruins of Solaceon Town are as well..."
+      ],
+      "fr_FR": [
+        "Les Concours sont intéressants, mais\n",
+        "les ruines de Bonville aussi..."
       ]
     },
     {
@@ -13,6 +17,10 @@
       "en_US": [
         "Sorry, the gate’s closed for a while.\n",
         "We’re on location for a TV shoot."
+      ],
+      "fr_FR": [
+        "Désolé, c’est fermé.\n",
+        "On est en plein tournage."
       ]
     },
     {
@@ -20,6 +28,10 @@
       "en_US": [
         "I traveled a long way to take part\n",
         "in these Contests."
+      ],
+      "fr_FR": [
+        "Je viens de loin pour participer\n",
+        "à ces Concours."
       ]
     },
     {
@@ -32,6 +44,11 @@
         "I’ve given my Pokémon lots of Poffins.\r",
         "I’m confident that we’ll win our share\n",
         "of Contests."
+      ],
+      "fr_FR": [
+        "J’ai gavé mes Pokémon de Poffins.\r",
+        "Je suis confiante, on va remporter\n",
+        "plein de Concours."
       ]
     },
     {
@@ -39,6 +56,10 @@
       "en_US": [
         "There’s a Day Care in Solaceon Town\n",
         "that raises Pokémon for you."
+      ],
+      "fr_FR": [
+        "A Bonville, il existe une Pension\n",
+        "qui se charge d’élever tes Pokémon."
       ]
     }
   ]

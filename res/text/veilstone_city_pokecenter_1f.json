@@ -7,6 +7,11 @@
         "If you use the hidden move Fly,\n",
         "you’ll be instantly whisked to any\f",
         "town you’ve visited before."
+      ],
+      "fr_FR": [
+        "En utilisant la capacité secrète Vol,\n",
+        "tu peux rejoindre instantanément\f",
+        "une ville que tu as déjà visitée."
       ]
     },
     {
@@ -16,6 +21,12 @@
         "girl.\r",
         "But don’t let her looks fool you.\n",
         "Even grown-ups have trouble with her."
+      ],
+      "fr_FR": [
+        "Mélina, le Champion d’Arène, est une\n",
+        "fille adorable.\r",
+        "Mais ne te fie pas aux apparences. \n",
+        "Même les adultes ont du mal à la battre."
       ]
     },
     {
@@ -23,6 +34,10 @@
       "en_US": [
         "Two Pokémon! If you had two Pokémon,\n",
         "we’d get a great shot here."
+      ],
+      "fr_FR": [
+        "Si tu avais deux Pokémon, on pourrait\n",
+        "tourner une séquence du tonnerre!"
       ]
     },
     {
@@ -30,6 +45,10 @@
       "en_US": [
         "Oh! You’re ready for a battle\n",
         "with us?"
+      ],
+      "fr_FR": [
+        "Oh! Toi et ton équipe êtes prêts à\n",
+        "combattre?"
       ]
     },
     {
@@ -37,6 +56,10 @@
       "en_US": [
         "You’re live on camera, but try to act\n",
         "natural, OK?\r"
+      ],
+      "fr_FR": [
+        "Bon, on est en direct, mais essaie\n",
+        "d’avoir l’air naturel, OK?\r"
       ]
     },
     {
@@ -44,13 +67,18 @@
       "en_US": [
         "OK, that’s how it is, huh.\n",
         "Can’t do anything about that."
-      ]
+      ],
+      "fr_FR": "Bien... je ne peux pas te forcer."
     },
     {
       "id": "VeilstoneCityPokecenter1F_Text_OliPostBattle_Unused",
       "en_US": [
         "I’d like to take that footage and\n",
         "broadcast it worldwide."
+      ],
+      "fr_FR": [
+        "Je rêve de faire cette prise pour la\n",
+        "diffuser dans le monde entier."
       ]
     },
     {
@@ -58,6 +86,10 @@
       "en_US": [
         "Oh, no. What we really want to see\n",
         "is you battling using two Pokémon!"
+      ],
+      "fr_FR": [
+        "Oh non! Ce qu’on veut, c’est te filmer\n",
+        "en plein combat avec deux Pokémon!"
       ]
     },
     {
@@ -65,6 +97,10 @@
       "en_US": [
         "Giggle!\n",
         "Will you have a battle with us?"
+      ],
+      "fr_FR": [
+        "Hi, hi, hi!\n",
+        "Acceptes-tu de te battre contre nous?"
       ]
     },
     {
@@ -72,6 +108,10 @@
       "en_US": [
         "We’ll thoroughly check out your\n",
         "abilities as a Trainer!\r"
+      ],
+      "fr_FR": [
+        "On va étudier ton cas de très près,\n",
+        "Dresseur!\r"
       ]
     },
     {
@@ -79,6 +119,10 @@
       "en_US": [
         "Oh, too bad!\n",
         "I wanted to check out your Pokémon!"
+      ],
+      "fr_FR": [
+        "Oh, quel dommage! J’aurais tant aimé\n",
+        "voir ton équipe à l’œuvre!"
       ]
     },
     {
@@ -86,6 +130,10 @@
       "en_US": [
         "I lost but I’m totally thrilled!\n",
         "We made a wonderful spectacle!"
+      ],
+      "fr_FR": [
+        "J’ai perdu mais je ne suis pas déçue\n",
+        "du voyage! Ça, c’est du spectacle!"
       ]
     }
   ]

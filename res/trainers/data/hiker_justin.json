@@ -33,6 +33,11 @@
             "en_US": [
                 "I just got through Mt. Coronet, but\n",
                 "I’ve still got energy to burn!\r"
+            ],
+            "fr_FR": [
+                "Je viens de traverser le Mont\n",
+                "Couronné, mais j’ai encore de\f",
+                "l’énergie!\r"
             ]
         },
         {
@@ -40,6 +45,10 @@
             "en_US": [
                 "Whoops!\n",
                 "Taken down easily!\n"
+            ],
+            "fr_FR": [
+                "Oups!\n",
+                "Tu nous as battus sans problème!\n"
             ]
         },
         {
@@ -47,6 +56,11 @@
             "en_US": [
                 "We need to rest up in Oreburgh City\n",
                 "before heading to Mt. Coronet again.\n"
+            ],
+            "fr_FR": [
+                "Nous nous reposerons à Charbourg\n",
+                "avant de retourner vers le\f",
+                "Mont Couronné.\n"
             ]
         },
         {
@@ -55,7 +69,14 @@
                 "I just got through Mt. Coronet,\n",
                 "and who do I see?\r",
                 "A Trainer who we’ve battled before!\r"
+            ],
+            "fr_FR": [
+                "Je viens de traverser le Mont\n",
+                "Couronné, et que vois-je?\r",
+                "Un Dresseur que nous \n",
+                "avons déjà affronté!\r"
             ]
         }
-    ]
+    ],
+    "name_fr": "Hervé"
 }

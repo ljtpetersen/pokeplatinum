@@ -133,10 +133,10 @@ int main(int argc, char **argv) {
             declare_dep(filepath);
 
             if (dp_load(&df, filepath) == 0) {
-                datanode_t name    = dp_get(&df, ".name");
-                datanode_t plural  = dp_get(&df, ".plural");
-                datanode_t article = dp_get(&df, ".article");
-                datanode_t desc    = dp_get(&df, ".description");
+                datanode_t name    = dp_get(&df, ".name" ATTRIBUTE_EXTENSION);
+                datanode_t plural  = dp_get(&df, ".plural" ATTRIBUTE_EXTENSION);
+                datanode_t article = dp_get(&df, ".article" ATTRIBUTE_EXTENSION);
+                datanode_t desc    = dp_get(&df, ".description" ATTRIBUTE_EXTENSION);
 
                 proc_item(&df, items.members[i].name);
                 proc_text(stem, dp_string(name), dp_string(plural), &article, &desc);

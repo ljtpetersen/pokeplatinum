@@ -3,84 +3,117 @@
   "messages": [
     {
       "id": "UndergroundPC_Text_Decorate",
-      "en_US": "DECORATE"
+      "en_US": "DECORATE",
+      "fr_FR": "DECORER"
     },
     {
       "id": "UndergroundPC_Text_StoreGoods",
-      "en_US": "STORE GOODS"
+      "en_US": "STORE GOODS",
+      "fr_FR": "DEPOSER ARTICLES"
     },
     {
       "id": "UndergroundPC_Text_ReceiveGoods",
-      "en_US": "RECEIVE GOODS"
+      "en_US": "RECEIVE GOODS",
+      "fr_FR": "PRENDRE ARTICLES"
     },
     {
       "id": "UndergroundPC_Text_CheckFlags",
-      "en_US": "CHECK FLAGS"
+      "en_US": "CHECK FLAGS",
+      "fr_FR": "VOIR DRAPEAUX"
     },
     {
       "id": "UndergroundPC_Text_UseRadar",
-      "en_US": "USE RADAR"
+      "en_US": "USE RADAR",
+      "fr_FR": "UTILISER RADAR"
     },
     {
       "id": "UndergroundPC_Text_Exit",
-      "en_US": "EXIT"
+      "en_US": "EXIT",
+      "fr_FR": "QUITTER"
     },
     {
       "id": "UndergroundPC_Text_DecorateDescription",
       "en_US": [
         "Decoration goods stored on the PC\n",
         "can be brought out and displayed."
+      ],
+      "fr_FR": [
+        "Les articles de décoration stockés sur\n",
+        "le PC peuvent être pris et exposés."
       ]
     },
     {
       "id": "UndergroundPC_Text_StoreGoodsDescription",
-      "en_US": "Store decoration goods on the PC."
+      "en_US": "Store decoration goods on the PC.",
+      "fr_FR": [
+        "Stocker des articles de décoration\n",
+        "dans le PC."
+      ]
     },
     {
       "id": "UndergroundPC_Text_ReceiveGoodsDescription",
       "en_US": [
         "Take out stored decoration goods\n",
         "from the PC."
+      ],
+      "fr_FR": [
+        "Prendre des objets de décoration\n",
+        "stockés dans le PC."
       ]
     },
     {
       "id": "UndergroundPC_Text_CheckFlagsDescription",
-      "en_US": "Check your collection of Flags."
+      "en_US": "Check your collection of Flags.",
+      "fr_FR": [
+        "Consulter la collection de\n",
+        "Drapeaux."
+      ]
     },
     {
       "id": "UndergroundPC_Text_UseRadarDescription",
       "en_US": [
         "Search for hidden things in the\n",
         "underground passages."
+      ],
+      "fr_FR": [
+        "Chercher des choses cachées dans les\n",
+        "passages souterrains."
       ]
     },
     {
       "id": "UndergroundPC_Text_ExitDescription",
-      "en_US": "Switch off the PC."
+      "en_US": "Switch off the PC.",
+      "fr_FR": "Eteindre le PC."
     },
     {
       "id": "UndergroundPC_Text_PlayersBase",
-      "en_US": "{STRVAR_1 1, 1, 0}’s Base"
+      "en_US": "{STRVAR_1 1, 1, 0}’s Base",
+      "fr_FR": "Base de {STRVAR_1 1, 1, 0}"
     },
     {
       "id": "UndergroundPC_Text_FlagsObtained",
-      "en_US": "Flags obtained:"
+      "en_US": "Flags obtained:",
+      "fr_FR": "Drapeaux obtenus:"
     },
     {
       "id": "UndergroundPC_Text_FlagsObtainedTemplate",
-      "en_US": "{STRVAR_1 55, 6, 0}"
+      "en_US": "{STRVAR_1 55, 6, 0}",
+      "fr_FR": "{STRVAR_1 55, 6, 0}"
     },
     {
       "id": "UndergroundPC_Text_MostRecentFlag",
-      "en_US": "Most recent Flag:"
+      "en_US": "Most recent Flag:",
+      "fr_FR": "Drapeaux les plus récents:"
     },
     {
       "id": "UndergroundPC_Text_PlayersFlag",
-      "en_US": "{STRVAR_1 1, 0, 0}’s Flag"
+      "en_US": "{STRVAR_1 1, 0, 0}’s Flag",
+      "fr_FR": "Drapeau {STRVAR_1 1, 0, 0}"
     },
     {
       "id": "UndergroundPC_Text_IDTemplate",
-      "en_US": "ID: {STRVAR_1 54, 5, 0}"
+      "en_US": "ID: {STRVAR_1 54, 5, 0}",
+      "fr_FR": "ID: {STRVAR_1 54, 5, 0}"
     },
     {
       "id": "UndergroundPC_Text_Dummy_00018",
@@ -127,6 +160,10 @@
       "en_US": [
         "Goods on\n",
         "hand"
+      ],
+      "fr_FR": [
+        "Articles\n",
+        "dispo."
       ]
     },
     {
@@ -134,6 +171,10 @@
       "en_US": [
         "Treasures\n",
         "on hand"
+      ],
+      "fr_FR": [
+        "Trésors\n",
+        "dispo."
       ]
     },
     {
@@ -141,6 +182,10 @@
       "en_US": [
         "Traps on\n",
         "hand"
+      ],
+      "fr_FR": [
+        "Pièges\n",
+        "dispo."
       ]
     },
     {
@@ -148,6 +193,10 @@
       "en_US": [
         "Spheres\n",
         "on hand"
+      ],
+      "fr_FR": [
+        "Sphères\n",
+        "dispo."
       ]
     },
     {
@@ -155,6 +204,10 @@
       "en_US": [
         "Goods in\n",
         "PC"
+      ],
+      "fr_FR": [
+        "Articles\n",
+        "dans le PC"
       ]
     },
     {
@@ -162,6 +215,10 @@
       "en_US": [
         "Treasures\n",
         "in PC"
+      ],
+      "fr_FR": [
+        "Trésors\n",
+        "dans le PC"
       ]
     },
     {
@@ -169,6 +226,10 @@
       "en_US": [
         "Traps in\n",
         "PC"
+      ],
+      "fr_FR": [
+        "Pièges\n",
+        "dans le PC"
       ]
     },
     {
@@ -176,6 +237,10 @@
       "en_US": [
         "Spheres\n",
         "in PC"
+      ],
+      "fr_FR": [
+        "Sphères\n",
+        "dans le PC"
       ]
     },
     {
@@ -183,6 +248,10 @@
       "en_US": [
         "The {STRVAR_1 25, 2, 0} was withdrawn\n",
         "from the PC."
+      ],
+      "fr_FR": [
+        "Vous retirez l’article {STRVAR_1 25, 2, 0}\n",
+        "du PC."
       ]
     },
     {
@@ -190,40 +259,57 @@
       "en_US": [
         "The {STRVAR_1 25, 2, 0} was stored\n",
         "on the PC."
+      ],
+      "fr_FR": [
+        "Vous déposez l’article {STRVAR_1 25, 2, 0}\n",
+        "dans le PC."
       ]
     },
     {
       "id": "UndergroundPC_Text_PCIsFull",
-      "en_US": "Your PC is full."
+      "en_US": "Your PC is full.",
+      "fr_FR": "Votre PC est plein."
     },
     {
       "id": "UndergroundPC_Text_BagIsFull",
       "en_US": [
         "You can’t carry any more\n",
         "goods with you."
+      ],
+      "fr_FR": [
+        "Vous ne pouvez pas porter\n",
+        "plus d’articles sur vous."
       ]
     },
     {
       "id": "UndergroundPC_Text_TreasureSearch",
-      "en_US": "TREASURE SEARCH"
+      "en_US": "TREASURE SEARCH",
+      "fr_FR": "RECHERCHE TRESORS"
     },
     {
       "id": "UndergroundPC_Text_SphereSearch",
-      "en_US": "SPHERE SEARCH"
+      "en_US": "SPHERE SEARCH",
+      "fr_FR": "RECHERCHE SPHERES"
     },
     {
       "id": "UndergroundPC_Text_TrapSearch",
-      "en_US": "TRAP SEARCH"
+      "en_US": "TRAP SEARCH",
+      "fr_FR": "RECHERCHE PIEGES"
     },
     {
       "id": "UndergroundPC_Text_Cancel",
-      "en_US": "CANCEL"
+      "en_US": "CANCEL",
+      "fr_FR": "QUITTER"
     },
     {
       "id": "UndergroundPC_Text_TreasureSearchDescription",
       "en_US": [
         "Scan for Treasure hidden in the\n",
         "underground passages."
+      ],
+      "fr_FR": [
+        "Détecter les Trésors cachés dans\n",
+        "les passages souterrains."
       ]
     },
     {
@@ -231,6 +317,10 @@
       "en_US": [
         "Scan for Spheres you buried\n",
         "yourself."
+      ],
+      "fr_FR": [
+        "Détecter les Sphères que vous\n",
+        "avez enterrées."
       ]
     },
     {
@@ -238,11 +328,16 @@
       "en_US": [
         "Scan for Traps hidden in the\n",
         "underground passages."
+      ],
+      "fr_FR": [
+        "Détecter les Pièges cachés dans\n",
+        "les passages souterrains."
       ]
     },
     {
       "id": "UndergroundPC_Text_CancelDescription",
-      "en_US": "Turns off the Radar."
+      "en_US": "Turns off the Radar.",
+      "fr_FR": "Eteindre le Radar."
     },
     {
       "id": "UndergroundPC_Text_TreasureRadarBootedUp",
@@ -251,6 +346,11 @@
         "booted up.\r",
         "The Radar is now scanning for\n",
         "Treasure and Spheres."
+      ],
+      "fr_FR": [
+        "Le Détecteur de Trésors est allumé.\r",
+        "Le Radar détecte maintenant les\n",
+        "Trésors et les Sphères."
       ]
     },
     {
@@ -260,6 +360,11 @@
         "booted up.\r",
         "The Radar is now scanning for\n",
         "Spheres you buried yourself."
+      ],
+      "fr_FR": [
+        "Le Détecteur de Sphères est allumé.\r",
+        "Le Radar détecte maintenant les\n",
+        "Sphères que vous avez enterrées."
       ]
     },
     {
@@ -269,15 +374,22 @@
         "booted up.\r",
         "The Radar is now scanning for\n",
         "Traps."
+      ],
+      "fr_FR": [
+        "Le Détecteur de Pièges est allumé.\r",
+        "Le Radar détecte maintenant les\n",
+        "Pièges."
       ]
     },
     {
       "id": "UndergroundPC_Text_Blank",
-      "en_US": "-------"
+      "en_US": "-------",
+      "fr_FR": "-------"
     },
     {
       "id": "UndergroundPC_Text_IDBlank",
-      "en_US": "ID:-------"
+      "en_US": "ID:-------",
+      "fr_FR": "ID:-------"
     },
     {
       "id": "UndergroundPC_Text_Dummy_00053",
@@ -292,6 +404,10 @@
       "en_US": [
         "Displayed decoration goods can’t\n",
         "be withdrawn."
+      ],
+      "fr_FR": [
+        "Les articles de décoration disposés\n",
+        "ne peuvent pas être retirés."
       ]
     },
     {
@@ -300,6 +416,11 @@
         "It’s unsafe if you get a visitor\n",
         "while you are decorating.\r",
         "Please keep the entrance closed."
+      ],
+      "fr_FR": [
+        "Il serait dangereux de recevoir un\n",
+        "visiteur pendant que vous décorez.\r",
+        "Veuillez garder l’entrée fermée."
       ]
     },
     {
@@ -310,6 +431,12 @@
         "...\r",
         "Nothing showed up on the Radar\n",
         "because the entrance is closed."
+      ],
+      "fr_FR": [
+        "Le Détecteur de Trésors est allumé.\r",
+        "...\r",
+        "Le Radar ne montre rien car\n",
+        "l’entrée est fermée."
       ]
     },
     {
@@ -320,6 +447,12 @@
         "...\r",
         "Nothing showed up on the Radar\n",
         "because the entrance is closed."
+      ],
+      "fr_FR": [
+        "Le Détecteur de Sphères est allumé.\r",
+        "...\r",
+        "Le Radar ne montre rien car\n",
+        "l’entrée est fermée."
       ]
     },
     {
@@ -330,6 +463,12 @@
         "...\r",
         "Nothing showed up on the Radar\n",
         "because the entrance is closed."
+      ],
+      "fr_FR": [
+        "Le Détecteur de Pièges est allumé.\r",
+        "...\r",
+        "Le Radar ne montre rien car\n",
+        "l’entrée est fermée."
       ]
     },
     {
@@ -337,6 +476,10 @@
       "en_US": [
         "Please store goods in the PC before\n",
         "decorating."
+      ],
+      "fr_FR": [
+        "Veuillez déposer des articles dans\n",
+        "le PC avant de décorer."
       ]
     }
   ]

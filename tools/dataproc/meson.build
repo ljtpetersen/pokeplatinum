@@ -9,6 +9,23 @@ dataproc_cflags = [
     '-Wno-unused-result',
     '-Wno-stringop-overflow',
 ]
+if get_option('version') == 'us_rev0'
+    dataproc_cflags += [
+        '-DPOKEPLATINUM_VERSION=0'
+    ]
+elif get_option('version') == 'us_rev1'
+    dataproc_cflags += [
+        '-DPOKEPLATINUM_VERSION=1'
+    ]
+elif get_option('version') == 'eu'
+    dataproc_cflags += [
+        '-DPOKEPLATINUM_VERSION=2'
+    ]
+elif get_option('version') == 'fr'
+    dataproc_cflags += [
+        '-DPOKEPLATINUM_VERSION=3'
+    ]
+endif
 
 dataproc_dep = declare_dependency(
     include_directories: include_directories('lib/include'),

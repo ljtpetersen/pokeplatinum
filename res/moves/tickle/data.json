@@ -26,5 +26,12 @@
     "contest": {
         "effect": "CONTEST_EFFECT_NO_VOLTAGE_DOWN",
         "type": "CONTEST_TYPE_CUTE"
-    }
+    },
+    "name_fr": "Chatouille",
+    "description_fr": [
+        "Le lanceur chatouille\n",
+        "l’ennemi, ce qui baisse\n",
+        "son Attaque et sa\n",
+        "Défense."
+    ]
 }

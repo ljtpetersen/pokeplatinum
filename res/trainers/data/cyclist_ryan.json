@@ -24,17 +24,27 @@
                 "A bike will carry you a long way.\r",
                 "The only thing that limits you is your\n",
                 "own endurance!\r"
+            ],
+            "fr_FR": [
+                "En vélo, on peut voyager loin.\r",
+                "C’est notre propre fatigue qui limite\n",
+                "les distances parcourues!\r"
             ]
         },
         {
             "type": "TRMSG_DEFEAT",
-            "en_US": "Gasp... Gasp... Gasp...\n"
+            "en_US": "Gasp... Gasp... Gasp...\n",
+            "fr_FR": "Pfou... Pfou... Pfou...\n"
         },
         {
             "type": "TRMSG_POST_BATTLE",
             "en_US": [
                 "My Pokémon and I are plumb worn out.\n",
                 "We should be getting home to rest...\n"
+            ],
+            "fr_FR": [
+                "Mon Pokémon et moi, on est épuisés. On\n",
+                "devrait peut-être rentrer se reposer.\n"
             ]
         },
         {
@@ -42,7 +52,12 @@
             "en_US": [
                 "We took a recuperative rest.\n",
                 "We’re not losing this time!\r"
+            ],
+            "fr_FR": [
+                "On a fait une petite sieste.\n",
+                "Cette fois, on va gagner!\r"
             ]
         }
-    ]
+    ],
+    "name_fr": "Imbert"
 }

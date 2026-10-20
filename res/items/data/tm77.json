@@ -27,5 +27,13 @@
   "fieldUseFunc": "ITEM_USE_FUNC_TM_HM",
   "battleUseCategory": "BATTLE_USE_CATEGORY_NONE",
   "itemUseParams": null,
-  "teachesMove": "MOVE_PSYCH_UP"
+  "teachesMove": "MOVE_PSYCH_UP",
+  "name_fr": "CT77",
+  "description_fr": [
+    "Une autohypnose qui permet au lanceur\n",
+    "de copier les changements de stats de\n",
+    "l’ennemi."
+  ],
+  "plural_fr": "CT77",
+  "article_fr": null
 }

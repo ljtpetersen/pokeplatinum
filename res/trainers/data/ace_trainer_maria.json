@@ -59,6 +59,11 @@
                 "To be ready to answer any call!\n",
                 "To be ready to accept any challenge!\r",
                 "That is the way of a Trainer!\r"
+            ],
+            "fr_FR": [
+                "Toujours répondre à l’appel!\n",
+                "Etre prêt à relever un défi!\r",
+                "C’est la voie du Dresseur!\r"
             ]
         },
         {
@@ -66,6 +71,10 @@
             "en_US": [
                 "Oh, yeah?\n",
                 "Eat snowball, punk!\n"
+            ],
+            "fr_FR": [
+                "Alors c’est comme ça?\n",
+                "Je te souhaite de geler sur place!\n"
             ]
         },
         {
@@ -74,6 +83,11 @@
                 "You can make all the preparations in\n",
                 "the world, but if it doesn’t work, it\f",
                 "doesn’t work.\n"
+            ],
+            "fr_FR": [
+                "On peut faire tous les préparatifs du\n",
+                "monde, quand ça veut pas,\f",
+                "ça veut pas.\n"
             ]
         },
         {
@@ -81,7 +95,12 @@
             "en_US": [
                 "I got everything ready so we could\n",
                 "have a rematch whenever you come.\r"
+            ],
+            "fr_FR": [
+                "J’ai tout préparé pour prendre ma \n",
+                "revanche, au cas où tu passerais.\r"
             ]
         }
-    ]
+    ],
+    "name_fr": "Madeleine"
 }

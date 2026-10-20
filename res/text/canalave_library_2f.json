@@ -8,6 +8,12 @@
         "easy to read.\r",
         "The ones down here are all too tough\n",
         "for me to understand..."
+      ],
+      "fr_FR": [
+        "Les livres du deuxième étage sont \n",
+        "faciles à lire.\r",
+        "Mais ceux du bas sont trop durs pour\n",
+        "moi, je n’y comprends rien..."
       ]
     },
     {
@@ -17,6 +23,12 @@
         "It was wicked!\r",
         "I scrambled to find the book\n",
         "“Disaster Strikes Survival Guide!”"
+      ],
+      "fr_FR": [
+        "Cette secousse...\n",
+        "C’était terrible!\r",
+        "J’ai enfin trouvé le “Guide de Survie\n",
+        "aux Catastrophes Naturelles”!"
       ]
     },
     {
@@ -24,6 +36,10 @@
       "en_US": [
         "The ceiling-high bookshelves are\n",
         "crammed with books."
+      ],
+      "fr_FR": [
+        "Les rayons remplis de livres\n",
+        "montent jusqu’au plafond."
       ]
     },
     {
@@ -31,6 +47,10 @@
       "en_US": [
         "The shelves are lined with books\n",
         "worn from being read by many people."
+      ],
+      "fr_FR": [
+        "Les étagères sont remplies de livres \n",
+        "usés par des années de lecture."
       ]
     },
     {
@@ -38,6 +58,10 @@
       "en_US": [
         "Please refrain from bringing food\n",
         "or beverages into the library."
+      ],
+      "fr_FR": [
+        "Interdiction de manger et de boire\n",
+        "dans la bibliothèque."
       ]
     },
     {
@@ -55,6 +79,21 @@
         "“The origin of Sinnoh.”\r",
         "I learned many things on my journey.\n",
         "Would you like to hear about them?"
+      ],
+      "fr_FR": [
+        "Bien le bonjour!\n",
+        "Ravi de te revoir!\r",
+        "Quand nous nous sommes quittés, je suis\n",
+        "parti pour Unionpolis, puis Célestia et\f",
+        "enfin Vestigion.\r",
+        "Bref, toutes les villes situées à\n",
+        "proximité du Mont Couronné.\r",
+        "Tu dois te demander pourquoi une telle\n",
+        "fascination pour le Mont Couronné.\r",
+        "Eh bien, on dit du Mont Couronné que\n",
+        "c’est “l’origine de Sinnoh”.\r",
+        "J’ai appris bien des choses au cours de\n",
+        "mon périple. Ça t’intéresse?"
       ]
     },
     {
@@ -62,6 +101,10 @@
       "en_US": [
         "Whoa, now let’s not be hasty!\n",
         "I really want to share this with you!"
+      ],
+      "fr_FR": [
+        "Ah bon? Mais je veux vraiment\n",
+        "partager ça avec toi!"
       ]
     },
     {
@@ -79,6 +122,20 @@
         "shared the spirit and awareness.\r",
         "They should have understood and\n",
         "accepted each other then.\r"
+      ],
+      "fr_FR": [
+        "D’après moi, notre monde est né quand\n",
+        "l’esprit s’est éveillé chez l’humanité.\r",
+        "C’est alors que les gens ont pris\n",
+        "conscience du monde alentour.\r",
+        "C’est au cœur de cet esprit naissant\n",
+        "que se sont liés le temps et l’espace.\r",
+        "De même que les Pokémon et les humains,\n",
+        "qui ont partagé cet esprit et cette\f",
+        "conscience.\r",
+        "C’est alors qu’ils auraient dû\n",
+        "s’accepter et se comprendre\f",
+        "mutuellement.\r"
       ]
     },
     {
@@ -103,6 +160,29 @@
         "Pokémon that made them arise.\r",
         "Isn’t this interesting?\n",
         "Would you like to hear some more?"
+      ],
+      "fr_FR": [
+        "Parce qu’ils partageaient un seul et\n",
+        "même esprit, les gens et les Pokémon\f",
+        "se sont mélangés.\r",
+        "Des humains ont pris la place de Pokémon\n",
+        "et vice versa.\r",
+        "Une telle interprétation ouvre des\n",
+        "perspectives sur la façon dont le monde\f",
+        "est apparu.\r",
+        "On raconte que c’est un Pokémon qui a\n",
+        "créé notre monde...\r",
+        "Se pourrait-il que ce Pokémon soit\n",
+        "l’incarnation de l’esprit originel?\r",
+        "Hum... D’abord l’esprit est apparu, et\n",
+        "dans son sillage, le temps et l’espace.\r",
+        "Tout porte à croire qu’il s’agit de\n",
+        "DIALGA, le Pokémon du temps, et\f",
+        "PALKIA, le Pokémon de l’espace...\r",
+        "Qui eux-mêmes nous renvoient à ARCEUS,\n",
+        "le Pokémon qui les a créés.\r",
+        "N’est-ce pas fascinant?\n",
+        "Désires-tu en savoir plus?"
       ]
     },
     {
@@ -110,6 +190,10 @@
       "en_US": [
         "Whoa, please don’t tease me!\n",
         "I really want to share this with you!"
+      ],
+      "fr_FR": [
+        "Hé, ne te moque pas de moi!\n",
+        "Je veux vraiment partager ça avec toi!"
       ]
     },
     {
@@ -126,6 +210,22 @@
         "spirit to the world, shaping it.\r",
         "But it all starts with ARCEUS, the\n",
         "first. It is known as the Original One.\r"
+      ],
+      "fr_FR": [
+        "Oh, et il y a aussi les Plaques,\n",
+        "n’est-ce pas?\r",
+        "L’une d’elles raconte que “Trois êtres\n",
+        "naquirent pour lier le temps et\f",
+        "l’espace.”\r",
+        "Ces trois êtres ne sont autres que\n",
+        "les trois Pokémon lacustres.\r",
+        "Je parle de CREHELF, CREFOLLET et\n",
+        "CREFADET.\r",
+        "Les mythes décrivent la manière dont ils\n",
+        "ont façonné le monde, lui insufflant\f",
+        "l’esprit.\r",
+        "Mais tout commence avec ARCEUS.\n",
+        "On le surnomme l’Etre Originel.\r"
       ]
     },
     {
@@ -137,6 +237,14 @@
         "donated it to this library.\r",
         "There it is in that bookshelf.\n",
         "I’d be pleased if you’d read it.\r"
+      ],
+      "fr_FR": [
+        "Au fait, j’ai recopié les inscriptions\n",
+        "figurant sur ces Plaques.\r",
+        "Tout est résumé dans un livre que j’ai\n",
+        "donné à la bibliothèque.\r",
+        "Il est là, sur cette étagère.\n",
+        "Ça me ferait plaisir que tu le lises.\r"
       ]
     },
     {
@@ -148,6 +256,15 @@
         "of new myths in faraway lands.\r",
         "It would be nice if our paths were to\n",
         "cross again.\r"
+      ],
+      "fr_FR": [
+        "Je dois dire que je me félicite d’être\n",
+        "venu à Sinnoh.\r",
+        "Sur ce, je m’en vais poursuivre ma\n",
+        "quête de nouveaux mythes dans des\f",
+        "contrées lointaines.\r",
+        "Qui sait? Nos chemins se croiseront\n",
+        "peut-être à nouveau.\r"
       ]
     },
     {
@@ -174,6 +291,30 @@
         "draws from the Plate it holds.”\r",
         "{STRVAR_1 3, 0, 0} returned the book to its\n",
         "place."
+      ],
+      "fr_FR": [
+        "”La Naissance de Sinnoh d’après les\n",
+        "Plaques.”\r",
+        "C’est un recueil de gravures figurant\n",
+        "sur d’anciennes Plaques découvertes\f",
+        "à Sinnoh.\r",
+        "“L’Etre Originel respirait seul avant\n",
+        "que l’univers ne soit.”\r",
+        "“Quand l’univers fut créé,\n",
+        "ses fragments formèrent cette Plaque.”\r",
+        "“Cette Plaque contient le pouvoir \n",
+        "de géants vaincus.”\r",
+        "“Deux êtres du temps et de l’espace\n",
+        "libérés par l’Etre Originel.”\r",
+        "“Trois êtres furent créés pour lier le\n",
+        "temps et l’espace.”\r",
+        "“Deux créent la matière et trois créent\n",
+        "l’esprit, façonnant le monde.”\r",
+        "“Les pouvoirs des Plaques sont\n",
+        "partagés entre les Pokémon.”\r",
+        "“Le porteur légitime d’une Plaque\n",
+        "peut en maîtriser le pouvoir.”\r",
+        "{STRVAR_1 3, 0, 0} remet le livre à sa place."
       ]
     }
   ]

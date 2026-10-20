@@ -59,6 +59,10 @@
             "en_US": [
                 "If you prevail, I’ll recount to you a\n",
                 "tale from my youth."
+            ],
+            "fr_FR": [
+                "Si tu gagnes, je te raconterai une\n",
+                "anecdote du temps de ma jeunesse."
             ]
         },
         {
@@ -66,6 +70,10 @@
             "en_US": [
                 "Seeing you brings back a flood of\n",
                 "memories. Ah, yes, indeed...\r"
+            ],
+            "fr_FR": [
+                "Te voir me rappelle bien des souvenirs.\n",
+                "Oh oui... Bien des souvenirs...\r"
             ]
         },
         {
@@ -73,7 +81,9 @@
             "en_US": [
                 "...Hm?\n",
                 "I seem to have forgotten...\r"
-            ]
+            ],
+            "fr_FR": "Je... euh... je crois que j’ai oublié...\r"
         }
-    ]
+    ],
+    "name_fr": "Gil"
 }

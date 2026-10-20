@@ -6,11 +6,17 @@
       "en_US": [
         "The Pokémon you see here are different\n",
         "from day to day. Don’t you think so?"
+      ],
+      "fr_FR": [
+        "Je crois que les Pokémon qu’on trouve\n",
+        "ici varient d’un jour à l’autre.\f",
+        "Tu n’as pas la même impression?"
       ]
     },
     {
       "id": "GreatMarsh2_Text_SignArea2",
-      "en_US": "Great Marsh Area 2"
+      "en_US": "Great Marsh Area 2",
+      "fr_FR": "Grand Marais Parc 2"
     }
   ]
 }

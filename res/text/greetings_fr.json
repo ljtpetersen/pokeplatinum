@@ -3,15 +3,18 @@
   "messages": [
     {
       "id": "pl_msg_00000664_00000",
-      "en_US": "Bonjour."
+      "en_US": "Bonjour.",
+      "fr_FR": "Bonjour."
     },
     {
       "id": "pl_msg_00000664_00001",
-      "en_US": "Bonjour."
+      "en_US": "Bonjour.",
+      "fr_FR": "Bonjour."
     },
     {
       "id": "pl_msg_00000664_00002",
-      "en_US": "Bonsoir."
+      "en_US": "Bonsoir.",
+      "fr_FR": "Bonsoir."
     }
   ]
 }

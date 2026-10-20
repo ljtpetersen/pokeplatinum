@@ -3,11 +3,13 @@
   "messages": [
     {
       "id": "ContestHallLobby_Text_OhMyHero",
-      "en_US": "Keira: Oh! My hero!\r"
+      "en_US": "Keira: Oh! My hero!\r",
+      "fr_FR": "Karine: Oh! Mon ange gardien!\r"
     },
     {
       "id": "ContestHallLobby_Text_OhHiPlayer",
-      "en_US": "Mom: Oh, hi, {STRVAR_1 3, 0, 0}.\r"
+      "en_US": "Mom: Oh, hi, {STRVAR_1 3, 0, 0}.\r",
+      "fr_FR": "Maman: Oh, bonjour, {STRVAR_1 3, 0, 0}.\r"
     },
     {
       "id": "ContestHallLobby_Text_WaitJohannaIsYourMom",
@@ -15,6 +17,11 @@
         "Keira: Wait! No! Really?!\n",
         "Johanna is your mom?\f",
         "So you might be a Contest star?!\r"
+      ],
+      "fr_FR": [
+        "Karine: Attends! Non! Pas possible?!\n",
+        "Ingrid, c’est ta maman?\f",
+        "Tu dois t’y connaître en Concours?!\r"
       ]
     },
     {
@@ -25,6 +32,13 @@
         "about Contests.\r",
         "I’m surprised you two know each\n",
         "other, though.\r"
+      ],
+      "fr_FR": [
+        "Maman: Oh, ça, je n’en sais rien.\r",
+        "Je n’ai jamais parlé des Concours\n",
+        "à {STRVAR_1 3, 0, 0}.\r",
+        "Mais je suis surprise que vous\n",
+        "vous connaissiez.\r"
       ]
     },
     {
@@ -33,6 +47,11 @@
         "Keira: Oh, yes, that’s right!\r",
         "I need to thank you for earlier.\n",
         "Please take this Accessory.\r"
+      ],
+      "fr_FR": [
+        "Karine: Oh, c’est vrai, j’oubliais!\r",
+        "Je dois te remercier pour tout à \n",
+        "l’heure. Prends cet Accessoire.\r"
       ]
     },
     {
@@ -46,11 +65,22 @@
         "for a different kind of fun.\r",
         "If you’re unsure of yourself,\n",
         "we also offer practice sessions.\r"
+      ],
+      "fr_FR": [
+        "Karine: Mets cet Accessoire sur ton\n",
+        "Pokémon avant un Concours.\r",
+        "Il lui donnera un zeste de\n",
+        "sophistication et de glamour.\r",
+        "Je suis Juge de Concours, rejoins-nous,\n",
+        "tu verras, c’est très amusant.\r",
+        "Si tu n’as pas confiance en toi, nous\n",
+        "proposons aussi des entraînements.\r"
       ]
     },
     {
       "id": "ContestHallLobby_Text_JohannaIllSeeYou",
-      "en_US": "OK, Johanna, I’ll see you!\r"
+      "en_US": "OK, Johanna, I’ll see you!\r",
+      "fr_FR": "Très bien, Ingrid. A la prochaine!\r"
     },
     {
       "id": "ContestHallLobby_Text_WereYouSurprised",
@@ -66,6 +96,19 @@
         "When your Pokémon is all dressed up,\n",
         "you can’t be dressed your usual way.\r",
         "Put this on for a little glamour.\r"
+      ],
+      "fr_FR": [
+        "Maman: Ça t’étonne de me voir ici,\n",
+        "{STRVAR_1 3, 0, 0}?\r",
+        "Je m’ennuyais alors j’ai mis les voiles\n",
+        "pour prendre des vacances à Unionpolis.\r",
+        "Je suis vraiment surprise de te voir,\n",
+        "mon poussin!\r",
+        "Si tu comptes vraiment participer aux\n",
+        "Concours, tu dois changer de tenue!\r",
+        "Il faut suivre l’exemple de ton Pokémon\n",
+        "et te pomponner!\r",
+        "Enfile ça pour avoir un peu de style.\r"
       ]
     },
     {
@@ -73,14 +116,16 @@
       "en_US": [
         "{STRVAR_1 3, 0, 0} obtained\n",
         "a Tuxedo!"
-      ]
+      ],
+      "fr_FR": "{STRVAR_1 3, 0, 0} obtient un smoking!"
     },
     {
       "id": "ContestHallLobby_Text_PlayerObtainedADress",
       "en_US": [
         "{STRVAR_1 3, 0, 0} obtained\n",
         "a Dress!"
-      ]
+      ],
+      "fr_FR": "{STRVAR_1 3, 0, 0} obtient une robe!"
     },
     {
       "id": "ContestHallLobby_Text_ImSureItWillLookGoodOnYou",
@@ -92,6 +137,15 @@
         "look at the many charms of Pokémon.\r",
         "It should be an eye-opening\n",
         "experience for you. Bye now!\r"
+      ],
+      "fr_FR": [
+        "Maman: Je parie que ça t’ira à merveille.\n",
+        "C’est moi qui ai choisi cette tenue.\r",
+        "Cours profiter des Concours, poussin!\r",
+        "Tu y découvriras tes Pokémon\n",
+        "sous un nouveau jour.\r",
+        "Cette expérience devrait t’ouvrir\n",
+        "les yeux. A la prochaine!\r"
       ]
     },
     {
@@ -110,6 +164,21 @@
         "You also seem to be très strong.\r",
         "Enfin, so it shall be.\n",
         "I wait for you at the Gym!\r"
+      ],
+      "fr_FR": [
+        "Oui?\n",
+        "Je te demande pardon?\r",
+        "Ah, yes, tu es là pour les Concours?\n",
+        "J’espère que ça te plaira.\r",
+        "A ce propos, Kiméra, le Champion\n",
+        "d’Arène d’Unionpolis, participe\f",
+        "aussi aux Concours.\r",
+        "Elle est, comment dire, très fantastic!\r",
+        "Kiméra, c’est moi, of course!\r",
+        "Mmm, voyons...\n",
+        "Toi aussi, tu as l’air very coriace.\r",
+        "O-well, soit.\n",
+        "J’attendrai pour toi à l’Arène!\r"
       ]
     },
     {
@@ -123,6 +192,16 @@
         "don’t let me stop you.\r",
         "It wouldn’t hurt to get in some\n",
         "practice at the counter on the right.\r"
+      ],
+      "fr_FR": [
+        "Tu comptes t’inscrire aux Concours?\n",
+        "Mais je ne vois pas ta Boîte Poffin.\r",
+        "Tu auras beaucoup de mal à gagner\n",
+        "un Concours sans elle.\r",
+        "Que cela ne t’arrête pas si tu veux\n",
+        "vraiment t’inscrire.\r",
+        "Je te conseille un peu d’entraînement,\n",
+        "c’est au comptoir de droite.\r"
       ]
     },
     {
@@ -132,6 +211,12 @@
         "And, yup, you have a Poffin Case.\r",
         "Let me gift you with this fabulously\n",
         "wonderful Poffin!\r"
+      ],
+      "fr_FR": [
+        "Tu comptes t’inscrire aux Concours?\n",
+        "Tu as ta Boîte Poffin, très bien.\r",
+        "Laisse-moi t’offrir ce Poffin\n",
+        "fabuleusement merveilleux!\r"
       ]
     },
     {
@@ -139,13 +224,18 @@
       "en_US": [
         "{STRVAR_1 3, 0, 0} received\n",
         "a Mild Poffin!"
-      ]
+      ],
+      "fr_FR": "{STRVAR_1 3, 0, 0} obtient un Poffin Doux!"
     },
     {
       "id": "ContestHallLobby_Text_MildPoffinWasPutAway",
       "en_US": [
         "The Mild Poffin was put away\n",
         "in the Poffin Case.\r"
+      ],
+      "fr_FR": [
+        "Vous rangez le Poffin Doux\n",
+        "dans la Boîte Poffin.\r"
       ]
     },
     {
@@ -159,6 +249,16 @@
         "get some practice first.\r",
         "You can take practice sessions at\n",
         "the counter on the right.\r"
+      ],
+      "fr_FR": [
+        "Fais manger ce Poffin à un Pokémon que\n",
+        "tu comptes présenter à un Concours.\r",
+        "Oh, et un petit conseil.\n",
+        "Prépare-toi aux Concours!\r",
+        "La meilleure façon de se préparer,\n",
+        "c’est de s’entraîner.\r",
+        "Les séances d’entraînement sont\n",
+        "accessibles au comptoir de droite.\r"
       ]
     },
     {
@@ -172,6 +272,16 @@
         "is to get some practice first.\r",
         "You can take practice sessions at\n",
         "the counter on the right."
+      ],
+      "fr_FR": [
+        "Fais manger ce Poffin à un Pokémon que\n",
+        "tu comptes présenter à un Concours.\r",
+        "Oh, et un petit conseil.\n",
+        "Prépare-toi aux Concours!\r",
+        "La meilleure façon de se préparer,\n",
+        "c’est de s’entraîner.\r",
+        "Les séances d’entraînement sont\n",
+        "accessibles au comptoir de droite."
       ]
     },
     {
@@ -180,6 +290,12 @@
         "Like everything else, the basics are\n",
         "important.\r",
         "It takes practice to win Contests!"
+      ],
+      "fr_FR": [
+        "Comme avec tout, le plus important, \n",
+        "c’est d’assimiler les bases.\r",
+        "Il faut de l’entraînement pour\n",
+        "briller en Concours!"
       ]
     },
     {
@@ -187,6 +303,10 @@
       "en_US": [
         "Oh, no.\n",
         "Your Poffin Case’s full."
+      ],
+      "fr_FR": [
+        "Oh, non.\n",
+        "Ta Boîte Poffin est pleine."
       ]
     },
     {
@@ -201,6 +321,17 @@
         "You might want some practice first.\r",
         "You can take practice sessions at\n",
         "the counter on the right.\r"
+      ],
+      "fr_FR": [
+        "Oh, non.\n",
+        "Ta Boîte Poffin est pleine.\f",
+        "Je te le donnerai une autre fois.\r",
+        "Oh, et un petit conseil.\n",
+        "Dépêche-toi de tester les Concours!\r",
+        "Euh, niveau stratégie, on a vu mieux...\n",
+        "Il vaut mieux t’entraîner un peu avant.\r",
+        "Les séances d’entraînement sont\n",
+        "accessibles au comptoir de droite.\r"
       ]
     },
     {
@@ -210,6 +341,12 @@
         "better in Visual Evaluations.\r",
         "I’d better learn how to cook\n",
         "delicious Poffins at the Poffin House!"
+      ],
+      "fr_FR": [
+        "Un Pokémon nourri aux Poffins\n",
+        "survolera l’Epreuve de Style.\r",
+        "Je ferais mieux d’apprendre à cuisiner\n",
+        "de délicieux Poffins à la Poffinerie!"
       ]
     },
     {
@@ -219,17 +356,28 @@
         "Dance! And Acting!\r",
         "The Contestants get graded in those\n",
         "categories, dohoho!"
+      ],
+      "fr_FR": [
+        "Un Concours se déroule en trois\n",
+        "épreuves: Style! Danse! Et Comédie!\r",
+        "Les Participants sont notés dans\n",
+        "chacune d’entre elles, dohoho!"
       ]
     },
     {
       "id": "ContestHallLobby_Text_PhotosOfWinners",
-      "en_US": "They put up photos of the winners!"
+      "en_US": "They put up photos of the winners!",
+      "fr_FR": "Ils affichent les photos des gagnants!"
     },
     {
       "id": "ContestHallLobby_Text_ItsAPhotoFrame",
       "en_US": [
         "It’s a photo frame for a Pokémon\n",
         "portrait."
+      ],
+      "fr_FR": [
+        "Un cadre destiné à accueillir le\n",
+        "portrait d’un Pokémon."
       ]
     }
   ]

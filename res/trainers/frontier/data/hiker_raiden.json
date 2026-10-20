@@ -39,6 +39,10 @@
             "en_US": [
                 "Sorry for looking so scruffy and dirty.\n",
                 "I’ve been holed up in the mountains."
+            ],
+            "fr_FR": [
+                "Désolé d’arriver dans cette tenue.\n",
+                "La route a été difficile."
             ]
         },
         {
@@ -46,6 +50,10 @@
             "en_US": [
                 "I wasn’t really holed up, at least not\n",
                 "on purpose. I was lost out there.\r"
+            ],
+            "fr_FR": [
+                "Si tu veux savoir, je me suis perdu. J’ai\n",
+                "passé des heures à tourner en rond.\r"
             ]
         },
         {
@@ -53,7 +61,12 @@
             "en_US": [
                 "It’s better to be holed up in the\n",
                 "mountains than in your room, I say.\r"
+            ],
+            "fr_FR": [
+                "Décidément, “perdue” est le mot\n",
+                "idéal pour qualifier cette journée.\r"
             ]
         }
-    ]
+    ],
+    "name_fr": "Paul"
 }

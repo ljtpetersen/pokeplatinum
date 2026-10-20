@@ -7,7 +7,10 @@
         "special_attack": 125,
         "special_defense": 105
     },
-    "types": [ "TYPE_GRASS", "TYPE_POISON" ],
+    "types": [
+        "TYPE_GRASS",
+        "TYPE_POISON"
+    ],
     "catch_rate": 75,
     "base_exp_reward": 204,
     "ev_yields": {
@@ -26,19 +29,40 @@
     "hatch_cycles": 20,
     "base_friendship": 70,
     "exp_rate": "EXP_RATE_MEDIUM_SLOW",
-    "egg_groups": [ "EGG_GROUP_FAIRY", "EGG_GROUP_GRASS" ],
-    "abilities": [ "ABILITY_NATURAL_CURE", "ABILITY_POISON_POINT" ],
+    "egg_groups": [
+        "EGG_GROUP_FAIRY",
+        "EGG_GROUP_GRASS"
+    ],
+    "abilities": [
+        "ABILITY_NATURAL_CURE",
+        "ABILITY_POISON_POINT"
+    ],
     "safari_flee_rate": 0,
     "body_color": "MON_COLOR_GREEN",
     "flip_sprite": true,
     "icon_palette": 0,
     "learnset": {
         "by_level": [
-            [ 1, "MOVE_WEATHER_BALL" ],
-            [ 1, "MOVE_POISON_STING" ],
-            [ 1, "MOVE_MEGA_DRAIN" ],
-            [ 1, "MOVE_MAGICAL_LEAF" ],
-            [ 1, "MOVE_SWEET_SCENT" ]
+            [
+                1,
+                "MOVE_WEATHER_BALL"
+            ],
+            [
+                1,
+                "MOVE_POISON_STING"
+            ],
+            [
+                1,
+                "MOVE_MEGA_DRAIN"
+            ],
+            [
+                1,
+                "MOVE_MAGICAL_LEAF"
+            ],
+            [
+                1,
+                "MOVE_SWEET_SCENT"
+            ]
         ],
         "by_tm": [
             "TM06",
@@ -83,7 +107,7 @@
             "MOVE_SWIFT"
         ]
     },
-    "evolutions": [  ],
+    "evolutions": [],
     "offspring": "SPECIES_BUDEW",
     "footprint": {
         "has": true,
@@ -106,9 +130,9 @@
             "name": "ROSERADE",
             "category": "Bouquet Pokémon",
             "entry_text": [
-                "Each of its hands contains\n",
-                "different toxins, but both hands\n",
-                "can jab with near-fatal power."
+                "It attracts prey with a sweet\n",
+                "aroma, then downs it with\n",
+                "thorny whips hidden in its arms."
             ]
         },
         "fr": {
@@ -154,6 +178,18 @@
                 "あまい　かおりで　おびきよせて\n",
                 "りょううでの　はなたばの　なかに\n",
                 "ある　トゲの　ムチで　しとめる。"
+            ]
+        },
+        "local_version": {
+            "entry_text": [
+                "Each of its hands contains\n",
+                "different toxins, but both hands\n",
+                "can jab with near-fatal power."
+            ],
+            "entry_text_fr": [
+                "Ses mains contenant chacune des\n",
+                "toxines différentes sont capables\n",
+                "d’asséner de puissants coups."
             ]
         }
     },

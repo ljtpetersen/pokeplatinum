@@ -26,5 +26,13 @@
     "contest": {
         "effect": "CONTEST_EFFECT_SUPPRESS_VOLTAGE",
         "type": "CONTEST_TYPE_BEAUTY"
-    }
+    },
+    "name_fr": "Suc Digestif",
+    "description_fr": [
+        "Le lanceur répand ses\n",
+        "sucs digestifs sur\n",
+        "l’ennemi. Le fluide\n",
+        "annule la capacité\n",
+        "spéciale de l’ennemi."
+    ]
 }

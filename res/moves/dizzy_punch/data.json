@@ -25,5 +25,12 @@
     "contest": {
         "effect": "CONTEST_EFFECT_LOW_VOLTAGE_ADVANTAGE",
         "type": "CONTEST_TYPE_COOL"
-    }
+    },
+    "name_fr": "Uppercut",
+    "description_fr": [
+        "Un enchaînement de\n",
+        "coups de poing \n",
+        "cadencés. Peut\n",
+        "aussi rendre confus."
+    ]
 }

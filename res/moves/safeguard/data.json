@@ -25,5 +25,13 @@
     "contest": {
         "effect": "CONTEST_EFFECT_SUPPRESS_VOLTAGE",
         "type": "CONTEST_TYPE_BEAUTY"
-    }
+    },
+    "name_fr": "Rune Protect",
+    "description_fr": [
+        "Champ protecteur\n",
+        "empêchant les pro-\n",
+        "blèmes de statut tels\n",
+        "que poison, paralysie,\n",
+        "brûlure et sommeil."
+    ]
 }

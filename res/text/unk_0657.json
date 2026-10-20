@@ -3,20 +3,29 @@
   "messages": [
     {
       "id": "pl_msg_00000657_00000",
-      "en_US": "What sort of adventure do you like?"
+      "en_US": "What sort of adventure do you like?",
+      "fr_FR": [
+        "Qu’est-ce qui vous plaît le plus\n",
+        "pendant votre aventure?"
+      ]
     },
     {
       "id": "pl_msg_00000657_00001",
       "en_US": [
         "What type of Trainer would you like\n",
         "to be?"
-      ]
+      ],
+      "fr_FR": "Quel Dresseur rêveriez-vous d’être?"
     },
     {
       "id": "pl_msg_00000657_00002",
       "en_US": [
         "What type of Pokémon did you start\n",
         "your adventure with?"
+      ],
+      "fr_FR": [
+        "Vous avez commencé votre aventure\n",
+        "avec un Pokémon de type..."
       ]
     },
     {
@@ -24,6 +33,10 @@
       "en_US": [
         "When you play with a friend, what do\n",
         "you do?"
+      ],
+      "fr_FR": [
+        "Souvent, lorsque vous jouez avec vos\n",
+        "amis, vous faites..."
       ]
     },
     {
@@ -31,32 +44,53 @@
       "en_US": [
         "Have you ever traded Pokémon over\n",
         "Nintendo Wi-Fi Connection?"
+      ],
+      "fr_FR": [
+        "Avez-vous déjà échangé un Pokémon via\n",
+        "la connexion Wi-Fi Nintendo?"
       ]
     },
     {
       "id": "pl_msg_00000657_00005",
-      "en_US": "Where do you go most often?"
+      "en_US": "Where do you go most often?",
+      "fr_FR": "Où allez-vous le plus souvent?"
     },
     {
       "id": "pl_msg_00000657_00006",
       "en_US": [
         "What do you care about most when\n",
         "it comes to your Pokémon?"
+      ],
+      "fr_FR": [
+        "Quel est le plus important pour vous\n",
+        "chez les Pokémon?"
       ]
     },
     {
       "id": "pl_msg_00000657_00007",
-      "en_US": "Where do you usually play Pokémon?"
+      "en_US": "Where do you usually play Pokémon?",
+      "fr_FR": [
+        "Où jouez-vous le plus souvent à\n",
+        "Pokémon?"
+      ]
     },
     {
       "id": "pl_msg_00000657_00008",
-      "en_US": "What have you done while playing?"
+      "en_US": "What have you done while playing?",
+      "fr_FR": [
+        "Cela vous est déjà arrivé alors que\n",
+        "vous étiez en train de jouer..."
+      ]
     },
     {
       "id": "pl_msg_00000657_00009",
       "en_US": [
         "What status don’t you like your\n",
         "Pokémon to get?"
+      ],
+      "fr_FR": [
+        "En combat, quel changement de statut\n",
+        "vous inquiète le plus?"
       ]
     },
     {
@@ -64,6 +98,10 @@
       "en_US": [
         "What status do you inflict after\n",
         "reducing HP to capture a Pokémon?"
+      ],
+      "fr_FR": [
+        "Quel changement de statut infligez-vous\n",
+        "aux Pokémon avant de les capturer?"
       ]
     },
     {
@@ -71,62 +109,101 @@
       "en_US": [
         "What do you use most on your\n",
         "adventure?"
+      ],
+      "fr_FR": [
+        "Quel objet utilisez-vous le plus\n",
+        "souvent lors de votre aventure?"
       ]
     },
     {
       "id": "pl_msg_00000657_00012",
-      "en_US": "Where do you catch Pokémon most often?"
+      "en_US": "Where do you catch Pokémon most often?",
+      "fr_FR": [
+        "Quel est votre lieu de prédilection\n",
+        "pour la capture de Pokémon sauvages?"
+      ]
     },
     {
       "id": "pl_msg_00000657_00013",
-      "en_US": "When do you play Pokémon?"
+      "en_US": "When do you play Pokémon?",
+      "fr_FR": [
+        "A quel moment de la journée\n",
+        "préférez-vous jouer à Pokémon?"
+      ]
     },
     {
       "id": "pl_msg_00000657_00014",
-      "en_US": "Who are your Pokémon rivals?"
+      "en_US": "Who are your Pokémon rivals?",
+      "fr_FR": [
+        "Qui sont vos plus grands rivaux\n",
+        "en matière de Pokémon?"
+      ]
     },
     {
       "id": "pl_msg_00000657_00015",
       "en_US": [
         "What item would you like to use on\n",
         "yourself?"
+      ],
+      "fr_FR": [
+        "Quel objet aimeriez-vous utiliser sur\n",
+        "vous-même?"
       ]
     },
     {
       "id": "pl_msg_00000657_00016",
-      "en_US": "Which Pokémon’s Plaza Game do you like?"
+      "en_US": "Which Pokémon’s Plaza Game do you like?",
+      "fr_FR": "Quel est votre Jeu du Square préféré?"
     },
     {
       "id": "pl_msg_00000657_00017",
-      "en_US": "What do you watch for in moves?"
+      "en_US": "What do you watch for in moves?",
+      "fr_FR": [
+        "Qu’est-ce qui vous pousse à choisir\n",
+        "une capacité plutôt qu’une autre?"
+      ]
     },
     {
       "id": "pl_msg_00000657_00018",
       "en_US": [
         "Do you let your favorite Pokémon\n",
         "evolve?"
+      ],
+      "fr_FR": [
+        "Faites-vous évoluer vos Pokémon\n",
+        "favoris?"
       ]
     },
     {
       "id": "pl_msg_00000657_00019",
-      "en_US": "Which drink sounds the most delicious?"
+      "en_US": "Which drink sounds the most delicious?",
+      "fr_FR": "Quelle boisson aimeriez-vous commander?"
     },
     {
       "id": "pl_msg_00000657_00020",
       "en_US": [
         "Which item would you most like to wear\n",
         "yourself?"
+      ],
+      "fr_FR": [
+        "De quel objet aimeriez-vous pouvoir\n",
+        "vous équiper?"
       ]
     },
     {
       "id": "pl_msg_00000657_00021",
-      "en_US": "What kind of gift pleases you most?"
+      "en_US": "What kind of gift pleases you most?",
+      "fr_FR": "Quel cadeau vous fait le plus plaisir?"
     },
     {
       "id": "pl_msg_00000657_00022",
       "en_US": [
         "What kind of Pokémon do you enjoy\n",
         "getting the most?"
+      ],
+      "fr_FR": [
+        "De quelle manière préférez-vous\n",
+        "obtenir un Pokémon?"
       ]
     },
     {
@@ -134,6 +211,10 @@
       "en_US": [
         "What kind of Gym Leader do you like\n",
         "best?"
+      ],
+      "fr_FR": [
+        "Quelles qualités admirez-vous le plus\n",
+        "chez un Champion d’Arène?"
       ]
     },
     {
@@ -141,6 +222,10 @@
       "en_US": [
         "What do you see your favorite\n",
         "Pokémon as?"
+      ],
+      "fr_FR": [
+        "Vous considérez votre Pokémon\n",
+        "préféré comme..."
       ]
     },
     {
@@ -148,57 +233,89 @@
       "en_US": [
         "What would you do if you were a\n",
         "Pokémon?"
+      ],
+      "fr_FR": [
+        "Qu’aimeriez-vous faire si vous étiez\n",
+        "un Pokémon?"
       ]
     },
     {
       "id": "pl_msg_00000657_00026",
-      "en_US": "What makes you the angriest?"
+      "en_US": "What makes you the angriest?",
+      "fr_FR": "Qu’est-ce qui vous énerve le plus?"
     },
     {
       "id": "pl_msg_00000657_00027",
       "en_US": [
         "What kind of Pokémon music do you like\n",
         "best?"
+      ],
+      "fr_FR": [
+        "Quelles musiques Pokémon\n",
+        "préférez-vous?"
       ]
     },
     {
       "id": "pl_msg_00000657_00028",
-      "en_US": "What do you do with Technical Machines?"
+      "en_US": "What do you do with Technical Machines?",
+      "fr_FR": [
+        "Les Capsules Techniques, vous êtes\n",
+        "plutôt du genre à les..."
+      ]
     },
     {
       "id": "pl_msg_00000657_00029",
-      "en_US": "What are your PC Boxes like?"
+      "en_US": "What are your PC Boxes like?",
+      "fr_FR": [
+        "Dans quel état sont vos Boîtes\n",
+        "du PC?"
+      ]
     },
     {
       "id": "pl_msg_00000657_00030",
       "en_US": [
         "What are the levels of the six Pokémon\n",
         "in your party?"
+      ],
+      "fr_FR": [
+        "Le niveau des Pokémon de votre\n",
+        "équipe est..."
       ]
     },
     {
       "id": "pl_msg_00000657_00031",
-      "en_US": "What do you let your Pokémon hold?"
+      "en_US": "What do you let your Pokémon hold?",
+      "fr_FR": "Que faites-vous tenir à vos Pokémon?"
     },
     {
       "id": "pl_msg_00000657_00032",
       "en_US": [
         "Do other people know that you like\n",
         "Pokémon?"
+      ],
+      "fr_FR": [
+        "Les gens qui vous entourent savent-ils\n",
+        "que vous jouez à Pokémon?"
       ]
     },
     {
       "id": "pl_msg_00000657_00033",
-      "en_US": "How do you like to get around?"
+      "en_US": "How do you like to get around?",
+      "fr_FR": "Comment aimez-vous vous déplacer?"
     },
     {
       "id": "pl_msg_00000657_00034",
-      "en_US": "What do you like to do in a battle?"
+      "en_US": "What do you like to do in a battle?",
+      "fr_FR": "Au combat, que préférez-vous utiliser?"
     },
     {
       "id": "pl_msg_00000657_00035",
       "en_US": [
         "What do you like most about your\n",
+        "Pokémon?"
+      ],
+      "fr_FR": [
+        "Que préférez-vous chez vos\n",
         "Pokémon?"
       ]
     },
@@ -207,17 +324,26 @@
       "en_US": [
         "What scares you the most about\n",
         "Pokémon?"
+      ],
+      "fr_FR": [
+        "Ce qui vous effraie le plus dans\n",
+        "Pokémon, ce sont..."
       ]
     },
     {
       "id": "pl_msg_00000657_00037",
-      "en_US": "Do you save your money?"
+      "en_US": "Do you save your money?",
+      "fr_FR": "Votre argent, vous avez tendance à..."
     },
     {
       "id": "pl_msg_00000657_00038",
       "en_US": [
         "What would you like to be, \n",
         "out of these choices?"
+      ],
+      "fr_FR": [
+        "Si vous pouviez devenir un personnage\n",
+        "du jeu, lequel choisiriez-vous?"
       ]
     },
     {
@@ -225,6 +351,10 @@
       "en_US": [
         "What do you consider to be the most\n",
         "important in Pokémon?"
+      ],
+      "fr_FR": [
+        "Quelle est la chose la plus importante\n",
+        "chez un Pokémon?"
       ]
     },
     {
@@ -232,6 +362,10 @@
       "en_US": [
         "Were there any Trainers with the same\n",
         "name as you?"
+      ],
+      "fr_FR": [
+        "Avez-vous déjà rencontré un Dresseur\n",
+        "portant le même nom que vous?"
       ]
     },
     {
@@ -239,17 +373,29 @@
       "en_US": [
         "What kind of nicknames do you give your\n",
         "Pokémon?"
+      ],
+      "fr_FR": [
+        "Quel genre de surnoms aimez-vous\n",
+        "donner à vos Pokémon?"
       ]
     },
     {
       "id": "pl_msg_00000657_00042",
-      "en_US": "Which move would you most like to use?"
+      "en_US": "Which move would you most like to use?",
+      "fr_FR": [
+        "Quelle capacité aimeriez-vous\n",
+        "utiliser?"
+      ]
     },
     {
       "id": "pl_msg_00000657_00043",
       "en_US": [
         "What do you do if a Pokémon is\n",
         "poisoned?"
+      ],
+      "fr_FR": [
+        "Si votre Pokémon est empoisonné, quel\n",
+        "sera votre premier réflexe?"
       ]
     },
     {
@@ -257,16 +403,28 @@
       "en_US": [
         "Do you know anyone that looks like\n",
         "a Gym Leader?"
+      ],
+      "fr_FR": [
+        "Connaissez-vous quelqu’un qui\n",
+        "ressemble à un Champion d’Arène?"
       ]
     },
     {
       "id": "pl_msg_00000657_00045",
-      "en_US": "Which move would you most like to use?"
+      "en_US": "Which move would you most like to use?",
+      "fr_FR": [
+        "Quelle capacité aimeriez-vous\n",
+        "utiliser?"
+      ]
     },
     {
       "id": "pl_msg_00000657_00046",
       "en_US": [
         "Have you ever drawn a picture of any\n",
+        "Pokémon?"
+      ],
+      "fr_FR": [
+        "Avez-vous déjà essayé de dessiner un\n",
         "Pokémon?"
       ]
     },
@@ -275,15 +433,21 @@
       "en_US": [
         "What intrigues you about the Trainers\n",
         "visiting the Plaza?"
+      ],
+      "fr_FR": [
+        "Quand vous rencontrez un Dresseur au\n",
+        "Square Wi-Fi, vous vous intéressez à..."
       ]
     },
     {
       "id": "pl_msg_00000657_00048",
-      "en_US": "What do you focus on in battles?"
+      "en_US": "What do you focus on in battles?",
+      "fr_FR": "En combat, vous vous concentrez sur..."
     },
     {
       "id": "pl_msg_00000657_00049",
-      "en_US": "What kind of Pokémon do you like best?"
+      "en_US": "What kind of Pokémon do you like best?",
+      "fr_FR": "Quel genre de Pokémon préférez-vous?"
     }
   ]
 }

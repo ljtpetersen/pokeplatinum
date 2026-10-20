@@ -7,7 +7,10 @@
         "special_attack": 92,
         "special_defense": 108
     },
-    "types": [ "TYPE_GHOST", "TYPE_DARK" ],
+    "types": [
+        "TYPE_GHOST",
+        "TYPE_DARK"
+    ],
     "catch_rate": 100,
     "base_exp_reward": 168,
     "ev_yields": {
@@ -26,27 +29,72 @@
     "hatch_cycles": 30,
     "base_friendship": 70,
     "exp_rate": "EXP_RATE_MEDIUM_FAST",
-    "egg_groups": [ "EGG_GROUP_AMORPHOUS", "EGG_GROUP_AMORPHOUS" ],
-    "abilities": [ "ABILITY_PRESSURE", "ABILITY_NONE" ],
+    "egg_groups": [
+        "EGG_GROUP_AMORPHOUS",
+        "EGG_GROUP_AMORPHOUS"
+    ],
+    "abilities": [
+        "ABILITY_PRESSURE",
+        "ABILITY_NONE"
+    ],
     "safari_flee_rate": 0,
     "body_color": "MON_COLOR_PURPLE",
     "flip_sprite": false,
     "icon_palette": 0,
     "learnset": {
         "by_level": [
-            [ 1, "MOVE_CURSE" ],
-            [ 1, "MOVE_PURSUIT" ],
-            [ 1, "MOVE_CONFUSE_RAY" ],
-            [ 1, "MOVE_SPITE" ],
-            [ 1, "MOVE_SHADOW_SNEAK" ],
-            [ 7, "MOVE_FAINT_ATTACK" ],
-            [ 13, "MOVE_HYPNOSIS" ],
-            [ 19, "MOVE_DREAM_EATER" ],
-            [ 25, "MOVE_OMINOUS_WIND" ],
-            [ 31, "MOVE_SUCKER_PUNCH" ],
-            [ 37, "MOVE_NASTY_PLOT" ],
-            [ 43, "MOVE_MEMENTO" ],
-            [ 49, "MOVE_DARK_PULSE" ]
+            [
+                1,
+                "MOVE_CURSE"
+            ],
+            [
+                1,
+                "MOVE_PURSUIT"
+            ],
+            [
+                1,
+                "MOVE_CONFUSE_RAY"
+            ],
+            [
+                1,
+                "MOVE_SPITE"
+            ],
+            [
+                1,
+                "MOVE_SHADOW_SNEAK"
+            ],
+            [
+                7,
+                "MOVE_FAINT_ATTACK"
+            ],
+            [
+                13,
+                "MOVE_HYPNOSIS"
+            ],
+            [
+                19,
+                "MOVE_DREAM_EATER"
+            ],
+            [
+                25,
+                "MOVE_OMINOUS_WIND"
+            ],
+            [
+                31,
+                "MOVE_SUCKER_PUNCH"
+            ],
+            [
+                37,
+                "MOVE_NASTY_PLOT"
+            ],
+            [
+                43,
+                "MOVE_MEMENTO"
+            ],
+            [
+                49,
+                "MOVE_DARK_PULSE"
+            ]
         ],
         "by_tm": [
             "TM03",
@@ -105,7 +153,7 @@
             "MOVE_SHADOW_SNEAK"
         ]
     },
-    "evolutions": [  ],
+    "evolutions": [],
     "offspring": "SPECIES_SPIRITOMB",
     "footprint": {
         "has": false,
@@ -128,9 +176,9 @@
             "name": "SPIRITOMB",
             "category": "Forbidden Pokémon",
             "entry_text": [
-                "Its constant mischief and misdeeds\n",
-                "resulted in it being bound to an Odd\n",
-                "Keystone by a mysterious spell."
+                "A Pokémon that was formed by 108\n",
+                "spirits. It is bound to a fissure\n",
+                "in an odd keystone."
             ]
         },
         "fr": {
@@ -176,6 +224,18 @@
                 "１０８この　たましいが　あつまって\n",
                 "うまれた　ポケモン。かなめいしの\n",
                 "ひびわれに　つながれている。"
+            ]
+        },
+        "local_version": {
+            "entry_text": [
+                "Its constant mischief and misdeeds\n",
+                "resulted in it being bound to an Odd\n",
+                "Keystone by a mysterious spell."
+            ],
+            "entry_text_fr": [
+                "Son mauvais comportement lui a valu\n",
+                "d’être enchaîné à une Clé de Voûte\n",
+                "par un mystérieux sortilège."
             ]
         }
     },

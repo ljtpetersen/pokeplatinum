@@ -7,6 +7,11 @@
         "Hi, hi!\r",
         "I’m the president of the Pokétch\n",
         "Company!\r"
+      ],
+      "fr_FR": [
+        "Bonjour, bonjour!\r",
+        "Je suis le président de la\n",
+        "Pokémontre S.A.!\r"
       ]
     },
     {
@@ -16,6 +21,13 @@
         "but it’s not quite done.\r",
         "My guess is that it will be ready\n",
         "when you get a Gym Badge."
+      ],
+      "fr_FR": [
+        "Je suis en train de développer un\n",
+        "nouveau logiciel Pokémontre, mais il\f",
+        "n’est pas fini.\r",
+        "Je pense que j’aurai terminé quand tu\n",
+        "auras obtenu un Badge d’Arène."
       ]
     },
     {
@@ -24,6 +36,12 @@
         "Hi, hi!\n",
         "Your patience is rewarded!\r",
         "I’ve developed a new Pokétch app!\r"
+      ],
+      "fr_FR": [
+        "Mais oui, mais oui!\n",
+        "Ta patience va être récompensée!\r",
+        "J’ai mis au point un nouveau logiciel\n",
+        "Pokémontre!\r"
       ]
     },
     {
@@ -31,6 +49,10 @@
       "en_US": [
         "That’s the Memo Pad!\n",
         "It’s... Well, it is what it is!"
+      ],
+      "fr_FR": [
+        "C’est le Carnet!\n",
+        "C’est... Enfin, le nom explique tout!"
       ]
     },
     {
@@ -40,6 +62,13 @@
         "but it’s not quite done.\r",
         "My guess is that it will be ready\n",
         "when you get three Gym Badges."
+      ],
+      "fr_FR": [
+        "Je suis en train de développer un\n",
+        "nouveau logiciel Pokémontre, mais il\f",
+        "n’est pas fini.\r",
+        "Je devrais avoir terminé quand tu\n",
+        "auras trois Badges d’Arène."
       ]
     },
     {
@@ -49,6 +78,12 @@
         "Your patience is rewarded!\r",
         "I’ve developed another new Pokétch\n",
         "app!\r"
+      ],
+      "fr_FR": [
+        "Mais oui, mais oui!\n",
+        "Ta patience va être récompensée!\r",
+        "J’ai mis au point un nouveau logiciel\n",
+        "Pokémontre!\r"
       ]
     },
     {
@@ -58,6 +93,12 @@
         "is convenient, no?\r",
         "You can also mark things, so it’s\n",
         "that much more useful."
+      ],
+      "fr_FR": [
+        "Avoir une carte constamment sous les\n",
+        "yeux est plutôt pratique, non?\r",
+        "Tu peux aussi y marquer des choses,\n",
+        "alors ça la rend encore plus utile."
       ]
     },
     {
@@ -67,6 +108,13 @@
         "but it’s not quite done.\r",
         "My guess is that it will be ready\n",
         "when you get five Gym Badges."
+      ],
+      "fr_FR": [
+        "Je suis en train de développer un\n",
+        "nouveau logiciel Pokémontre, mais il\f",
+        "n’est pas fini.\r",
+        "Je pense que j’aurai terminé quand tu\n",
+        "auras cinq Badges d’Arène."
       ]
     },
     {
@@ -76,6 +124,12 @@
         "Your patience is rewarded!\r",
         "I’ve developed yet another new\n",
         "Pokétch app!\r"
+      ],
+      "fr_FR": [
+        "Mais oui, mais oui!\n",
+        "Ta patience va être récompensée!\r",
+        "J’ai mis au point un nouveau logiciel\n",
+        "Pokémontre!\r"
       ]
     },
     {
@@ -84,6 +138,11 @@
         "I think it will be useful to know how\n",
         "many people are communicating, like\f",
         "in the Union Room."
+      ],
+      "fr_FR": [
+        "J’ai pensé qu’il serait utile de savoir\n",
+        "combien de gens sont connectés, comme\f",
+        "dans la Salle Union."
       ]
     },
     {
@@ -93,6 +152,13 @@
         "but it’s not quite done.\r",
         "My guess is that it will be ready\n",
         "when you get seven Gym Badges."
+      ],
+      "fr_FR": [
+        "Je suis en train de développer un\n",
+        "nouveau logiciel Pokémontre, mais il\f",
+        "n’est pas fini.\r",
+        "Je pense que j’aurai terminé quand tu\n",
+        "auras sept Badges d’Arène."
       ]
     },
     {
@@ -102,6 +168,12 @@
         "Your patience is rewarded!\r",
         "I’ve developed still yet another new\n",
         "Pokétch app!\r"
+      ],
+      "fr_FR": [
+        "Mais oui, mais oui!\n",
+        "Ta patience va être récompensée!\r",
+        "J’ai mis au point un nouveau\n",
+        "logiciel Pokémontre!\r"
       ]
     },
     {
@@ -110,6 +182,12 @@
         "Check type matchups so you can make\n",
         "all your attacks super effective!\r",
         "You’ll become stronger than ever!"
+      ],
+      "fr_FR": [
+        "Vérifie l’efficacité des types pour\n",
+        "effectuer des attaques super\f",
+        "efficaces!\r",
+        "Tu deviendras bien plus coriace!"
       ]
     },
     {
@@ -118,6 +196,11 @@
         "Yup, all sorts of people will give\n",
         "you Pokétch apps.\r",
         "Everyone gets super happy that way!"
+      ],
+      "fr_FR": [
+        "Ouaip, toutes sortes de personnes\n",
+        "donnent des logiciels Pokémontre.\r",
+        "Comme ça, tout le monde est content!"
       ]
     },
     {
@@ -126,6 +209,11 @@
         "So, yup, what to do?\r",
         "Do you think I should solicit new\n",
         "Pokétch ideas?"
+      ],
+      "fr_FR": [
+        "Alors, que faire?\r",
+        "Crois-tu que je devrais trouver de\n",
+        "nouvelles idées pour la Pokémontre?"
       ]
     },
     {
@@ -135,6 +223,12 @@
         "developing Pokétch apps.\r",
         "Just like Pokémon, my Pokétch is\n",
         "something that evolves!"
+      ],
+      "fr_FR": [
+        "Oh, je t’assure que je vais continuer à\n",
+        "développer des logiciels Pokémontre.\r",
+        "Tout comme les Pokémon, ma Pokémontre\n",
+        "connaît des évolutions!"
       ]
     },
     {
@@ -143,6 +237,12 @@
         "Welcome to the Pokétch Company.\r",
         "We’re actually a family-run business,\n",
         "so we’re not very impressive."
+      ],
+      "fr_FR": [
+        "Bienvenue à la Pokémontre S.A.\r",
+        "Nous sommes une petite entreprise\n",
+        "familiale, ne t’attends pas à une\f",
+        "multinationale."
       ]
     },
     {
@@ -152,6 +252,13 @@
         "“Pokétch Detective” is a great show.\r",
         "Seeing that program compels me to use\n",
         "my Pokétch more!"
+      ],
+      "fr_FR": [
+        "Hé, ça t’arrive de regarder la télé?\n",
+        "Moi, j’adore regarder “Inspecteur\f",
+        "Pokémontre”.\r",
+        "Ça me donne envie d’utiliser ma\n",
+        "Pokémontre tout le temps!"
       ]
     }
   ]

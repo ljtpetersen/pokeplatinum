@@ -45,6 +45,10 @@
             "en_US": [
                 "In the next few minutes, you will learn\n",
                 "true terror at my hands!"
+            ],
+            "fr_FR": [
+                "Dans quelques minutes, tu découvriras\n",
+                "le vrai sens du mot “terreur”."
             ]
         },
         {
@@ -52,6 +56,10 @@
             "en_US": [
                 "Hah! Too weak! Too weak!\n",
                 "What pitiful resistance!\r"
+            ],
+            "fr_FR": [
+                "Tu es faible! Si faible!\n",
+                "C’était trop facile.\r"
             ]
         },
         {
@@ -59,7 +67,12 @@
             "en_US": [
                 "Noooo!\n",
                 "I cannot lose!"
+            ],
+            "fr_FR": [
+                "Noooon!\n",
+                "Je ne peux pas perdre!"
             ]
         }
-    ]
+    ],
+    "name_fr": "Léïa"
 }

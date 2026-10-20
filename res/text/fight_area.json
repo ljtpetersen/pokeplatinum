@@ -9,6 +9,13 @@
         "I’m fining you $100 million!\r",
         "Actually, never mind the fine.\n",
         "Come with me, will ya?\r"
+      ],
+      "fr_FR": [
+        "{STRVAR_1 3, 0, 0}: Oh, {STRVAR_1 3, 1, 0}!\n",
+        "Tu en as mis du temps!\f",
+        "T’es en retard, tu me dois 100 000 $!\r",
+        "Bon, laisse tomber les 100 000 $ et\n",
+        "amène-toi!\r"
       ]
     },
     {
@@ -25,6 +32,17 @@
         "So, let’s team up.\r",
         "Like we did at the Spear Pillar.\n",
         "Let’s show those guys how good we are!\r"
+      ],
+      "fr_FR": [
+        "{STRVAR_1 3, 0, 0}: {STRVAR_1 3, 1, 0}, j’ai tenté\n",
+        "d’entrer dans la Zone de Combat mais\f",
+        "ces gars-là m’en ont empêché.\r",
+        "Ils disent qu’ils veulent me tester pour\n",
+        "voir si je suis assez doué et tout ça.\r",
+        "Comme si j’avais quoi que ce soit à\n",
+        "prouver. Bon, faisons équipe!\r",
+        "Comme aux Colonnes Lances. Montrons à\n",
+        "ces types de quel bois on se chauffe!\r"
       ]
     },
     {
@@ -34,6 +52,13 @@
         "talking about!\r",
         "So there’s an Elite Four and a Gym\n",
         "Leader. We can whoop ’em!\r"
+      ],
+      "fr_FR": [
+        "{STRVAR_1 3, 0, 0}: Oui, c’est comme je t’ai\n",
+        "dit!\r",
+        "Il y a un membre du Conseil 4 et un\n",
+        "Champion d’Arène! On va leur mettre\f",
+        "la raclée de leur vie!\r"
       ]
     },
     {
@@ -45,6 +70,12 @@
         "Toss me a bone here!\r",
         "Come on, I’m stuck here.\n",
         "I need your help!"
+      ],
+      "fr_FR": [
+        "{STRVAR_1 3, 0, 0}: Hé, tu débloques ou quoi?\n",
+        "Qu’est-ce que tu me fais, là?\r",
+        "Sans toi, je suis bloqué ici.\n",
+        "Il faut que tu m’aides!"
       ]
     },
     {
@@ -52,6 +83,10 @@
       "en_US": [
         "{STRVAR_1 3, 0, 0}: Come on, let’s show them\n",
         "how tough we really are!"
+      ],
+      "fr_FR": [
+        "{STRVAR_1 3, 0, 0}: Allez, montrons-leur de\n",
+        "quoi on est capables!"
       ]
     },
     {
@@ -68,6 +103,19 @@
         "We’re being kind enough to let you\n",
         "see if you’re up to the challenge!\r",
         "You really ought to be grateful!"
+      ],
+      "fr_FR": [
+        "Adrien: Yo, Dresseur!\n",
+        "Ça fait un bail, amigo!\r",
+        "Je sais pas ce que t’a raconté ton\n",
+        "copain l’excité...\r",
+        "Mais on ne fait pas ça par esprit de\n",
+        "vengeance. Rien de personnel...\r",
+        "La Zone de Combat accueille l’élite\n",
+        "des Dresseurs.\r",
+        "Et on a la bonté de vous laisser passer\n",
+        "le test!\r",
+        "Vous pourriez nous remercier!"
       ]
     },
     {
@@ -77,6 +125,12 @@
         "Frontier, don’t you?\r",
         "I’m sorry about my friend.\n",
         "He’s off on his own thing..."
+      ],
+      "fr_FR": [
+        "Tanguy: Vous voulez juste aller dans\n",
+        "la Zone de Combat, c’est ça?\r",
+        "Excusez mon ami.\n",
+        "Il lui arrive de s’emporter..."
       ]
     },
     {
@@ -87,6 +141,14 @@
         "Flint, the fiery master of fire Pokémon,\n",
         "is going to put you to the test!\f",
         "Let Flint see how hot your spirit burns!\r"
+      ],
+      "fr_FR": [
+        "Adrien: C’est chaud bouillant!\n",
+        "La tension est à son comble!\r",
+        "Adrien, maître des Pokémon de type Feu,\n",
+        "va vous faire passer sur le gril!\r",
+        "Montrez-moi si la flamme du combat\n",
+        "brûle en vous!\r"
       ]
     },
     {
@@ -96,12 +158,26 @@
         "get myself into this, but...\r",
         "Show me the skills that got you through\n",
         "the Pokémon League!\r"
+      ],
+      "fr_FR": [
+        "Tanguy: Je ne sais pas comment j’en\n",
+        "suis arrivé là, mais...\r",
+        "Montre-moi le talent qui t’a permis\n",
+        "de battre la Ligue Pokémon!\r"
       ]
     },
     {
       "id": "FightArea_Text_FlintEllipses",
       "en_US": [
         "Flint: ...\n",
+        "...\r",
+        "...\n",
+        "...\r",
+        "...\n",
+        "...\r"
+      ],
+      "fr_FR": [
+        "Adrien: ...\n",
         "...\r",
         "...\n",
         "...\r",
@@ -114,6 +190,10 @@
       "en_US": [
         "Volkner: Hey! Don’t burn out on us!\n",
         "Now you’re just getting in the way.\r"
+      ],
+      "fr_FR": [
+        "Tanguy: Hé! Tu t’es brûlé les ailes?!\n",
+        "Pousse-toi, t’es dans le passage.\r"
       ]
     },
     {
@@ -125,6 +205,15 @@
         "you’re also a lot tougher as well.\r",
         "Promise me we’ll do this again.\n",
         "I’ll see to taking this husk home.\r"
+      ],
+      "fr_FR": [
+        "Tanguy: Ha, ha, ha!\n",
+        "Quelle dérouillée!\r",
+        "On a essuyé un bel échec, mais il faut\n",
+        "dire que vous êtes coriaces.\r",
+        "Promettez-moi qu’on remettra ça.\n",
+        "D’ici là, je vais ramener cette épave\f",
+        "chez elle.\r"
       ]
     },
     {
@@ -133,21 +222,32 @@
         "{STRVAR_1 3, 0, 0}: See?\n",
         "I got a lot tougher, yeah?\r",
         "OK, I’m off to the Fronti...\r"
+      ],
+      "fr_FR": [
+        "{STRVAR_1 3, 0, 0}: Tu vois?\n",
+        "Je me suis bien amélioré, hein?\r",
+        "OK, je pars pour la Zon...\r"
       ]
     },
     {
       "id": "FightArea_Text_BigThud",
-      "en_US": "{SIZE 200}Thud!!{SIZE 100}\r"
+      "en_US": "{SIZE 200}Thud!!{SIZE 100}\r",
+      "fr_FR": "{SIZE 200}Boum!!{SIZE 100}\r"
     },
     {
       "id": "FightArea_Text_WhatsThisAllAbout",
-      "en_US": "What’s this all about?!\r"
+      "en_US": "What’s this all about?!\r",
+      "fr_FR": "Qu’est-ce qui se passe?!\r"
     },
     {
       "id": "FightArea_Text_WhatTheDaddy",
       "en_US": [
         "{STRVAR_1 3, 0, 0}: What the...\r",
         "{SIZE 200}...Daddy?!{SIZE 100}\r"
+      ],
+      "fr_FR": [
+        "{STRVAR_1 3, 0, 0}: Qu’est-ce que...\r",
+        "{SIZE 200}Papa?!{SIZE 100}\r"
       ]
     },
     {
@@ -158,6 +258,13 @@
         "You’ve grown all sturdy!\r",
         "And {STRVAR_1 3, 1, 0}, too! I haven’t\n",
         "seen you in a long time, either!\r"
+      ],
+      "fr_FR": [
+        "Koner: Hein? Ah!\r",
+        "Mais c’est {STRVAR_1 3, 0, 0}!\n",
+        "Tu as bien grandi!\r",
+        "{STRVAR_1 3, 1, 0} est là aussi!\n",
+        "Ça faisait longtemps!\r"
       ]
     },
     {
@@ -181,6 +288,24 @@
         "Battle Tower.\r",
         "I’ll be looking forward to your\n",
         "challenge.\r"
+      ],
+      "fr_FR": [
+        "{STRVAR_1 3, 0, 0}, quand ta mère m’a dit que\n",
+        "tu allais venir, je me suis précipité\f",
+        "à ta rencontre.\r",
+        "Alors, il paraît que vous voulez relever\n",
+        "le défi de la Zone de Combat?\r",
+        "Sachez qu’elle comprend cinq bâtiments,\n",
+        "tous dédiés au combat.\r",
+        "Chacun dispose de ses propres règles,\n",
+        "ce qui les rend tous différents.\r",
+        "Leur point commun, c’est qu’ils\n",
+        "demandent tous du talent pour gagner.\r",
+        "Enfin bref, je suis content de voir que\n",
+        "tout se passe bien de votre côté.\r",
+        "Je vais regagner mon poste dans la Tour\n",
+        "de Combat où j’attendrai que vous\f",
+        "veniez me défier.\r"
       ]
     },
     {
@@ -194,6 +319,16 @@
         "I want to be cool like my dad!\r",
         "{STRVAR_1 3, 1, 0}, that’s the one reason\n",
         "I decided to become a Trainer!\r"
+      ],
+      "fr_FR": [
+        "{STRVAR_1 3, 0, 0}: Mon père a la classe, \n",
+        "hein? C’est vrai, il suffit de le\f",
+        "regarder, tu crois pas?\r",
+        "Après tout, c’est un des Meneurs de\n",
+        "Zone. L’Aigle Tour!\r",
+        "Je veux devenir aussi cool que lui!\r",
+        "{STRVAR_1 3, 1, 0}, c’est pour ça que j’ai\n",
+        "décidé de devenir Dresseur!\r"
       ]
     },
     {
@@ -202,6 +337,11 @@
         "Ooh, what am I going to do?\r",
         "Should I make the challenge now?\n",
         "Or do I train some more?\r"
+      ],
+      "fr_FR": [
+        "Et maintenant, que faire?\r",
+        "Foncer tête baissée?\n",
+        "Ou m’entraîner encore un peu?\r"
       ]
     },
     {
@@ -211,6 +351,12 @@
         "I’m going to get tougher! By a lot!\r",
         "I finally made it here!\n",
         "There’s no need for haste now.\r"
+      ],
+      "fr_FR": [
+        "OK! C’est décidé! Je vais m’entraîner\n",
+        "pour gagner en force!\r",
+        "Je suis ici, maintenant, alors rien ne\n",
+        "presse.\r"
       ]
     },
     {
@@ -219,6 +365,11 @@
         "Who are you guys?\r",
         "What makes an Elite Four and a Gym\n",
         "Leader want to take you on?"
+      ],
+      "fr_FR": [
+        "Vous êtes qui, vous?\r",
+        "Qu’est-ce qui pousse un membre du\n",
+        "Conseil 4 et un Champion à vous défier?"
       ]
     },
     {
@@ -234,6 +385,19 @@
         "Area or Stark Mountain.\r",
         "You should come up there.\n",
         "You’ll get toughened up for sure!\r"
+      ],
+      "fr_FR": [
+        "Salut, salut.\n",
+        "J’ai bien observé ton combat.\r",
+        "Tu n’es pas un Dresseur ordinaire,\n",
+        "hein? Battre un membre du Conseil 4\f",
+        "comme ça...\r",
+        "Ah oui, au fait, je me présente, Cornil.\r",
+        "Je fais la navette entre l’Aire de\n",
+        "Survie et le Mont Abrupt pour\f",
+        "m’entraîner.\r",
+        "Tu devrais venir!\n",
+        "C’est un excellent exercice!\r"
       ]
     },
     {
@@ -252,6 +416,18 @@
         "I don’t like your chances of getting\n",
         "to the volcano, otherwise.\r",
         "Be seeing you!\r"
+      ],
+      "fr_FR": [
+        "Peu importe. Salut, je suis Cornil. Pff,\n",
+        "ce gars ne pourra jamais me battre.\r",
+        "Tu le connais, cet énergumène?\r",
+        "Tu ferais mieux de le rattraper\n",
+        "et de lui dire que le volcan,\f",
+        "ce n’est pas de la rigolade.\r",
+        "Eh, mais tu sais quoi? Tu devrais déjà\n",
+        "faire un saut à la Tour de Combat.\r",
+        "Sinon, je ne donne pas cher de ta peau \n",
+        "dans ce volcan. A plus!\r"
       ]
     },
     {
@@ -261,6 +437,13 @@
         "Trainers battle.\r",
         "I can’t wait to cast my eyes on a battle\n",
         "with an Elite Four and a Gym Leader!"
+      ],
+      "fr_FR": [
+        "Observer les autres Dresseurs en\n",
+        "combat est très instructif.\r",
+        "Je brûle d’admirer un combat de chefs\n",
+        "vous opposant à un membre du Conseil\f",
+        "4 et à un Champion d’Arène!"
       ]
     },
     {
@@ -271,6 +454,14 @@
         "That’s what I get for living right in\n",
         "front of the Frontier.\r",
         "I must be lucky!"
+      ],
+      "fr_FR": [
+        "Je n’arrive pas à croire que je vais\n",
+        "assister à un combat avec l’élite\f",
+        "des Dresseurs!\r",
+        "C’est l’avantage de vivre juste en face\n",
+        "de la Zone de Combat.\r",
+        "J’en ai de la chance!"
       ]
     },
     {
@@ -280,6 +471,12 @@
         "two-on-two battle.\r",
         "It puts the focus on the Trainer’s\n",
         "knowledge and skills."
+      ],
+      "fr_FR": [
+        "Les combats deux contre deux exigent\n",
+        "de la stratégie.\r",
+        "C’est une mise à l’épreuve des talents\n",
+        "et connaissances des Dresseurs."
       ]
     },
     {
@@ -289,6 +486,12 @@
         "friends?\r",
         "I’ve heard all they ever do is argue\n",
         "and bicker."
+      ],
+      "fr_FR": [
+        "Est-ce vrai que Tanguy et Adrien sont\n",
+        "bons amis?\r",
+        "Il paraît qu’ils n’arrêtent pas de\n",
+        "se chamailler."
       ]
     },
     {
@@ -296,6 +499,10 @@
       "en_US": [
         "An Elite Four and a Gym Leader...\n",
         "That combination’s intriguing!"
+      ],
+      "fr_FR": [
+        "Un membre du Conseil 4 et un Champion\n",
+        "d’Arène... Drôle de combinaison!"
       ]
     },
     {
@@ -305,6 +512,13 @@
         "You have a Pokédex, do you?\r",
         "The person who gave you that must be\n",
         "waiting for you to fill it completely."
+      ],
+      "fr_FR": [
+        "Salut, Dresseur! Tu as une tête \n",
+        "à avoir un Pokédex, je me trompe?\r",
+        "La personne qui te l’a donné doit \n",
+        "attendre de toi que tu le remplisses\f",
+        "entièrement."
       ]
     },
     {
@@ -316,6 +530,14 @@
         "intricacies of battling.\r",
         "Like how certain Pokémon can battle\n",
         "with certain moves and so on."
+      ],
+      "fr_FR": [
+        "Salut, Dresseur!\n",
+        "Tu connais la Zone de Combat?\r",
+        "C’est l’endroit idéal pour apprendre\n",
+        "toutes les subtilités du combat.\r",
+        "Comme la façon d’exploiter au mieux les\n",
+        "diverses capacités, etc."
       ]
     },
     {
@@ -324,6 +546,12 @@
         "The way the Battle Tower looms...\r",
         "It really is a wall that stands\n",
         "before every Trainer."
+      ],
+      "fr_FR": [
+        "Quand on regarde la Tour de Combat \n",
+        "qui nous surplombe d’un air menaçant...\r",
+        "Elle donne vraiment l’impression \n",
+        "d’être un mur infranchissable."
       ]
     },
     {
@@ -339,6 +567,14 @@
         "skill levels, too.\r",
         "But the world is still a huge place.\n",
         "It’s not easy to win in life!"
+      ],
+      "fr_FR": [
+        "J’ai combattu de nombreux \n",
+        "Dresseurs au fil des années.\r",
+        "J’ai gagné pas mal de \n",
+        "combats, je dois dire.\r",
+        "Mais le monde est grand, et on \n",
+        "ne peut pas toujours gagner!"
       ]
     },
     {
@@ -348,6 +584,12 @@
         "around here is craggy.\r",
         "The rough terrain and all the ups\n",
         "and downs make it hard to hike."
+      ],
+      "fr_FR": [
+        "A cause du volcan, les chemins \n",
+        "sont très escarpés par ici.\r",
+        "Les passages difficiles et le relief\n",
+        "compliquent les explorations."
       ]
     },
     {
@@ -355,6 +597,10 @@
       "en_US": [
         "The Pokémon League’s Elite Four\n",
         "come here sometimes!"
+      ],
+      "fr_FR": [
+        "Le Conseil 4 de la Ligue Pokémon passe \n",
+        "dans le coin de temps en temps. "
       ]
     },
     {
@@ -364,6 +610,12 @@
         "aren’t they?\r",
         "They’re not what we’re used to\n",
         "seeing around here."
+      ],
+      "fr_FR": [
+        "Tes Pokémon viennent \n",
+        "de Sinnoh, pas vrai?\r",
+        "Ils ne ressemblent pas à ce qu’on \n",
+        "a l’habitude de voir par ici."
       ]
     },
     {
@@ -372,6 +624,12 @@
         "There’s no end to becoming tough!\r",
         "I just made that up, but it sounds\n",
         "kind of cool, huh?"
+      ],
+      "fr_FR": [
+        "Etre le meilleur est \n",
+        "un combat sans fin!\r",
+        "T’en penses quoi? Je viens d’inventer \n",
+        "cette phrase. Plutôt cool, hein?"
       ]
     },
     {
@@ -379,13 +637,18 @@
       "en_US": [
         "What’s up? Do you want to sail to\n",
         "Snowpoint City?"
-      ]
+      ],
+      "fr_FR": "Salut. Tu veux aller à Frimapic?"
     },
     {
       "id": "FightArea_Text_AnchorsAweigh",
       "en_US": [
         "Aye, right!\n",
         "It’s anchors aweigh, then!\r"
+      ],
+      "fr_FR": [
+        "Ohé, du bateau!\n",
+        "On lève l’ancre!\r"
       ]
     },
     {
@@ -393,6 +656,10 @@
       "en_US": [
         "Oh, right. You’d rather just fly\n",
         "everywhere in some big hurry."
+      ],
+      "fr_FR": [
+        "Comme tu veux, si tu préfères \n",
+        "courir à droite et à gauche..."
       ]
     },
     {
@@ -403,6 +670,13 @@
         "But places I’ve visited before...\r",
         "Even those places thrill me with\n",
         "new discoveries!"
+      ],
+      "fr_FR": [
+        "A chaque fois que je visite un endroit \n",
+        "nouveau, je suis intrigué et curieux.\r",
+        "Mais même les endroits que \n",
+        "je connais déjà peuvent réserver\f",
+        "leur lot de surprises!"
       ]
     },
     {
@@ -411,6 +685,11 @@
         "Hmm!\n",
         "A Super Rod is really good!\r",
         "Wouldn’t you agree?"
+      ],
+      "fr_FR": [
+        "Hum!\n",
+        "Une Méga Canne, c’est vraiment bien!\r",
+        "Pas vrai?"
       ]
     },
     {
@@ -420,6 +699,12 @@
         "We’re of identical minds!\r",
         "Hmm!\n",
         "Take this {STRVAR_1 8, 0, 0}!\r"
+      ],
+      "fr_FR": [
+        "Hum!\n",
+        "On est sur la même longueur d’onde!\r",
+        "Hum!\n",
+        "Prends cette {STRVAR_1 8, 0, 0}!\r"
       ]
     },
     {
@@ -427,11 +712,16 @@
       "en_US": [
         "Wherever there’s water, try your\n",
         "luck at fishing."
+      ],
+      "fr_FR": [
+        "Lance ta Canne partout où il y a de\n",
+        "l’eau. On ne sait jamais!"
       ]
     },
     {
       "id": "FightArea_Text_DontYouLikeToFish",
-      "en_US": "Don’t you like to fish?"
+      "en_US": "Don’t you like to fish?",
+      "fr_FR": "Tu n’aimes pas pêcher?"
     },
     {
       "id": "FightArea_Text_AdviceForFishing",
@@ -440,6 +730,11 @@
         "Any advice for fishing?\r",
         "Well, I’ll tell you.\n",
         "It’s all about the rod and technique!"
+      ],
+      "fr_FR": [
+        "Tu veux un bon conseil sur la pêche?\r",
+        "D’accord, écoute: tout est dans la \n",
+        "canne et dans la technique!"
       ]
     },
     {
@@ -447,6 +742,10 @@
       "en_US": [
         "Fight Area\n",
         "Battles Galore"
+      ],
+      "fr_FR": [
+        "Aire de Combat\n",
+        "Des combats à la pelle"
       ]
     },
     {
@@ -454,6 +753,10 @@
       "en_US": [
         "Battle Frontier Ahead\n",
         "Aim to Win Glory with Pokémon!"
+      ],
+      "fr_FR": [
+        "Vers la Zone de Combat\n",
+        "En route pour la gloire!"
       ]
     },
     {
@@ -461,6 +764,10 @@
       "en_US": [
         "Rt. 225 Ahead\n",
         "A Road of Challenges"
+      ],
+      "fr_FR": [
+        "Route 225 droit devant\n",
+        "Route semée d’embûches"
       ]
     },
     {
@@ -471,6 +778,13 @@
         "tougher, you know!\r",
         "I’ll prove it to you!\n",
         "Get ready to battle!\r"
+      ],
+      "fr_FR": [
+        "{STRVAR_1 3, 0, 0}: Hé, {STRVAR_1 3, 1, 0}!\r",
+        "Moi aussi je suis de plus \n",
+        "en plus fort, tu sais?!\r",
+        "Et je vais te le prouver!\n",
+        "Je te défie!\r"
       ]
     },
     {
@@ -482,6 +796,13 @@
         "the tougher we can get, too.\r",
         "There’s no end to Pokémon.\n",
         "That’s what I’m saying, {STRVAR_1 3, 1, 0}."
+      ],
+      "fr_FR": [
+        "{STRVAR_1 3, 0, 0}: ...!\n",
+        "C’est pas grave.\r",
+        "{STRVAR_1 3, 1, 0}, à mesure que tu\n",
+        "progresses, je m’améliore également.\r",
+        "Les Pokémon et moi, c’est pour la vie!"
       ]
     }
   ]

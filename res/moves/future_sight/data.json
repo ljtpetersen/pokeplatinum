@@ -22,5 +22,13 @@
     "contest": {
         "effect": "CONTEST_EFFECT_FIRST_PERFORMANCE_ADVANTAGE",
         "type": "CONTEST_TYPE_SMART"
-    }
+    },
+    "name_fr": "Prescience",
+    "description_fr": [
+        "De l’énergie psychique\n",
+        "vient frapper l’ennemi\n",
+        "2 tours après\n",
+        "l’utilisation de cette\n",
+        "capacité."
+    ]
 }

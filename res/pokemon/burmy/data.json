@@ -7,7 +7,10 @@
         "special_attack": 29,
         "special_defense": 45
     },
-    "types": [ "TYPE_BUG", "TYPE_BUG" ],
+    "types": [
+        "TYPE_BUG",
+        "TYPE_BUG"
+    ],
     "catch_rate": 120,
     "base_exp_reward": 61,
     "ev_yields": {
@@ -26,25 +29,54 @@
     "hatch_cycles": 15,
     "base_friendship": 70,
     "exp_rate": "EXP_RATE_MEDIUM_FAST",
-    "egg_groups": [ "EGG_GROUP_BUG", "EGG_GROUP_BUG" ],
-    "abilities": [ "ABILITY_SHED_SKIN", "ABILITY_NONE" ],
+    "egg_groups": [
+        "EGG_GROUP_BUG",
+        "EGG_GROUP_BUG"
+    ],
+    "abilities": [
+        "ABILITY_SHED_SKIN",
+        "ABILITY_NONE"
+    ],
     "safari_flee_rate": 0,
     "body_color": "MON_COLOR_GRAY",
     "flip_sprite": false,
     "icon_palette": [
-        [ "base", 1 ],
-        [ "sandy", 1 ],
-        [ "trash", 0 ]
+        [
+            "base",
+            1
+        ],
+        [
+            "sandy",
+            1
+        ],
+        [
+            "trash",
+            0
+        ]
     ],
     "learnset": {
         "by_level": [
-            [ 1, "MOVE_PROTECT" ],
-            [ 10, "MOVE_TACKLE" ],
-            [ 15, "MOVE_BUG_BITE" ],
-            [ 20, "MOVE_HIDDEN_POWER" ]
+            [
+                1,
+                "MOVE_PROTECT"
+            ],
+            [
+                10,
+                "MOVE_TACKLE"
+            ],
+            [
+                15,
+                "MOVE_BUG_BITE"
+            ],
+            [
+                20,
+                "MOVE_HIDDEN_POWER"
+            ]
         ],
-        "by_tm": [  ],
-        "by_tutor": [ "MOVE_SNORE" ]
+        "by_tm": [],
+        "by_tutor": [
+            "MOVE_SNORE"
+        ]
     },
     "evolutions": [
         [
@@ -80,9 +112,9 @@
             "name": "BURMY",
             "category": "Bagworm Pokémon",
             "entry_text": [
-                "Even if it is born where there are\n",
-                "no cocooning materials, it somehow\n",
-                "always ends up with a cloak."
+                "To shelter itself from cold, wintry\n",
+                "winds, it covers itself with a cloak\n",
+                "made of twigs and leaves."
             ]
         },
         "fr": {
@@ -128,6 +160,18 @@
                 "つめたい　こがらしを　ふせぐため\n",
                 "こえだや　おちばを　ざいりょうに\n",
                 "ミノを　つくり　からだを　おおう。"
+            ]
+        },
+        "local_version": {
+            "entry_text": [
+                "Even if it is born where there are\n",
+                "no cocooning materials, it somehow\n",
+                "always ends up with a cloak."
+            ],
+            "entry_text_fr": [
+                "Nul ne sait comment il y parvient,\n",
+                "mais il arrive toujours à se former\n",
+                "une cape, où qu’il soit."
             ]
         }
     },

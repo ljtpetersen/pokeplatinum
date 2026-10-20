@@ -57,6 +57,10 @@
             "en_US": [
                 "Number one worldwide, that’s my dream.\n",
                 "Well, to start, anyway."
+            ],
+            "fr_FR": [
+                "Je vais devenir le numéro un mondial.\n",
+                "Pour commencer..."
             ]
         },
         {
@@ -64,6 +68,10 @@
             "en_US": [
                 "“Number one worldwide,” now doesn’t\n",
                 "that have a good ring to it?\r"
+            ],
+            "fr_FR": [
+                "“Numéro un mondial,” ça sonne vraiment\n",
+                "bien, tu ne trouves pas?\r"
             ]
         },
         {
@@ -71,7 +79,12 @@
             "en_US": [
                 "I can’t quite decide what I should be\n",
                 "number one worldwide at.\r"
+            ],
+            "fr_FR": [
+                "Numéro un mondial, d’accord, mais de\n",
+                "quoi?\r"
             ]
         }
-    ]
+    ],
+    "name_fr": "Charlie"
 }

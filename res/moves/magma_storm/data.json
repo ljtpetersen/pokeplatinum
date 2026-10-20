@@ -27,5 +27,12 @@
     "contest": {
         "effect": "CONTEST_EFFECT_CONSECUTIVE_USE",
         "type": "CONTEST_TYPE_TOUGH"
-    }
+    },
+    "name_fr": "Vortex Magma",
+    "description_fr": [
+        "L’ennemi est pris\n",
+        "dans un tourbillon\n",
+        "de feu qui dure de\n",
+        "2 à 5 tours."
+    ]
 }

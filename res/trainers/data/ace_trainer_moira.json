@@ -55,11 +55,13 @@
     "messages": [
         {
             "type": "TRMSG_PRE_BATTLE",
-            "en_US": "Please don’t hold anything back.\r"
+            "en_US": "Please don’t hold anything back.\r",
+            "fr_FR": "S’il te plaît, ne retiens pas tes coups.\r"
         },
         {
             "type": "TRMSG_DEFEAT",
-            "en_US": "Hmm...\n"
+            "en_US": "Hmm...\n",
+            "fr_FR": "Hum...\n"
         },
         {
             "type": "TRMSG_POST_BATTLE",
@@ -68,6 +70,12 @@
                 "even though we lost.\r",
                 "After all, we gave it everything we\n",
                 "had."
+            ],
+            "fr_FR": [
+                "Ce combat m’a revigorée. Peu importe\n",
+                "qu’on ait perdu.\r",
+                "Après tout, on a donné tout ce qu’on\n",
+                "avait."
             ]
         },
         {
@@ -75,7 +83,12 @@
             "en_US": [
                 "Hello again! Please don’t hold\n",
                 "anything back--just like before.\r"
+            ],
+            "fr_FR": [
+                "Tiens, c’est toi! Ne retiens pas tes\n",
+                "coups, surtout. Comme la dernière fois!\r"
             ]
         }
-    ]
+    ],
+    "name_fr": "Irina"
 }

@@ -12,6 +12,16 @@
         "Four of the Pokémon League.\r",
         "They say the Elite Four are tougher\n",
         "than any Gym Leader by far."
+      ],
+      "fr_FR": [
+        "J’utilise des Capsules Techniques pour\n",
+        "apprendre des capacités à mes Pokémon.\r",
+        "J’essaie de mélanger des capacités\n",
+        "de types différents.\r",
+        "Comme ça, je me prépare à affronter\n",
+        "le Conseil 4 de la Ligue Pokémon.\r",
+        "Ils ont la réputation d’être plus forts\n",
+        "que tous les Champions!"
       ]
     },
     {
@@ -21,6 +31,12 @@
         "thaw out after a while.\r",
         "But if I were you, I’d keep some\n",
         "Ice Heals around."
+      ],
+      "fr_FR": [
+        "Si ton Pokémon est gelé, il finit par\n",
+        "dégeler après quelques tours.\r",
+        "Mais à ta place, j’emmènerais quand\n",
+        "même quelques Antigels."
       ]
     }
   ]

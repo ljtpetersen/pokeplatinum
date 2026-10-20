@@ -30,17 +30,26 @@
             "en_US": [
                 "I’m fully kitted up and equipped!\n",
                 "Anytime will be fine!\r"
+            ],
+            "fr_FR": [
+                "Je suis équipée, j’ai tout préparé!\n",
+                "C’est quand tu voudras!\r"
             ]
         },
         {
             "type": "TRMSG_DEFEAT",
-            "en_US": "Hunh?!\n"
+            "en_US": "Hunh?!\n",
+            "fr_FR": "Hein?!\n"
         },
         {
             "type": "TRMSG_POST_BATTLE",
             "en_US": [
                 "Perhaps I should maybe change into\n",
                 "a more comfy outfit...\n"
+            ],
+            "fr_FR": [
+                "Je devrais peut-être enfiler une\n",
+                "tenue plus confortable...\n"
             ]
         },
         {
@@ -48,7 +57,12 @@
             "en_US": [
                 "I’m fully equipped again today!\n",
                 "Anytime you’re ready will be fine!\r"
+            ],
+            "fr_FR": [
+                "Une fois de plus, je suis tout équipée!\n",
+                "C’est quand tu veux, fais-moi signe!\r"
             ]
         }
-    ]
+    ],
+    "name_fr": "Olivia"
 }

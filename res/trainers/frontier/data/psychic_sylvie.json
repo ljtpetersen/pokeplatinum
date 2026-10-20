@@ -83,6 +83,10 @@
             "en_US": [
                 "Behind you, I see light.\n",
                 "What is its significance?"
+            ],
+            "fr_FR": [
+                "Je vois une lumière autour de toi.\n",
+                "Qu’est-ce que ça signifie?"
             ]
         },
         {
@@ -90,6 +94,10 @@
             "en_US": [
                 "I thought I saw an aura of invincibility.\n",
                 "I must have been mistaken.\r"
+            ],
+            "fr_FR": [
+                "Je croyais que c’était une aura\n",
+                "d’invincibilité. Je me trompais.\r"
             ]
         },
         {
@@ -97,7 +105,12 @@
             "en_US": [
                 "Now I see...\n",
                 "You glow with the light of victory...\r"
+            ],
+            "fr_FR": [
+                "J’ai compris...\n",
+                "C’était l’éclat de la victoire...\r"
             ]
         }
-    ]
+    ],
+    "name_fr": "Sibylle"
 }

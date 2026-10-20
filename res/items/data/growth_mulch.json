@@ -26,5 +26,13 @@
   "battlePocket": "BATTLE_POCKET_MASK_NONE",
   "fieldUseFunc": "ITEM_USE_FUNC_MULCH",
   "battleUseCategory": "BATTLE_USE_CATEGORY_NONE",
-  "itemUseParams": {}
+  "itemUseParams": {},
+  "name_fr": "Fertipousse",
+  "description_fr": [
+    "Un engrais utilisé sur sol meuble.\n",
+    "Les Baies poussent plus vite, mais le sol\n",
+    "s’assèche plus vite."
+  ],
+  "plural_fr": "Fertipousse",
+  "article_fr": null
 }

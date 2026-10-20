@@ -34,17 +34,27 @@
             "en_US": [
                 "Hi, Trainer!\n",
                 "Can you keep up with me?\r"
+            ],
+            "fr_FR": [
+                "Salut, Dresseur!\n",
+                "Seras-tu à la hauteur?\r"
             ]
         },
         {
             "type": "TRMSG_DEFEAT",
-            "en_US": "You’ve got energy to burn!\n"
+            "en_US": "You’ve got energy to burn!\n",
+            "fr_FR": "T’as de l’énergie à revendre!\n"
         },
         {
             "type": "TRMSG_POST_BATTLE",
             "en_US": [
                 "Even if a battle gets heated, don’t\n",
                 "break branches off trees or anything.\n"
+            ],
+            "fr_FR": [
+                "Même si le combat se fait intense,\n",
+                "essaie de respecter les arbres et\f",
+                "de ne pas briser de branches, OK?"
             ]
         },
         {
@@ -52,7 +62,12 @@
             "en_US": [
                 "You’re that energetic Trainer!\n",
                 "I bet you can’t keep up this time!\r"
+            ],
+            "fr_FR": [
+                "Te revoilà, Dresseur!\n",
+                "Cette fois, la victoire est à moi!\r"
             ]
         }
-    ]
+    ],
+    "name_fr": "Jonas"
 }

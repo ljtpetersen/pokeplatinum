@@ -24,22 +24,33 @@
             "en_US": [
                 "Check the sharpness of my fighting\n",
                 "Pokémon’s moves.\r"
+            ],
+            "fr_FR": [
+                "Admire le tranchant de\n",
+                "mon Pokémon.\r"
             ]
         },
         {
             "type": "TRMSG_DEFEAT",
-            "en_US": "You’ve dulled its sharpness...\n"
+            "en_US": "You’ve dulled its sharpness...\n",
+            "fr_FR": "Tu viens d’émousser son tranchant...\n"
         },
         {
             "type": "TRMSG_POST_BATTLE",
-            "en_US": "Back to training for us!\n"
+            "en_US": "Back to training for us!\n",
+            "fr_FR": "Allez, on retourne à l’entraînement!\n"
         },
         {
             "type": "TRMSG_REMATCH",
             "en_US": [
                 "I sharpened my Pokémon’s moves more\n",
                 "for when I saw you again!\r"
+            ],
+            "fr_FR": [
+                "J’ai affûté le tranchant des coups de\n",
+                "mon Pokémon au cas où je te reverrais!\r"
             ]
         }
-    ]
+    ],
+    "name_fr": "Guillaume"
 }

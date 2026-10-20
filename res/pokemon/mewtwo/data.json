@@ -7,7 +7,10 @@
         "special_attack": 154,
         "special_defense": 90
     },
-    "types": [ "TYPE_PSYCHIC", "TYPE_PSYCHIC" ],
+    "types": [
+        "TYPE_PSYCHIC",
+        "TYPE_PSYCHIC"
+    ],
     "catch_rate": 3,
     "base_exp_reward": 220,
     "ev_yields": {
@@ -26,31 +29,88 @@
     "hatch_cycles": 120,
     "base_friendship": 0,
     "exp_rate": "EXP_RATE_SLOW",
-    "egg_groups": [ "EGG_GROUP_UNDISCOVERED", "EGG_GROUP_UNDISCOVERED" ],
-    "abilities": [ "ABILITY_PRESSURE", "ABILITY_NONE" ],
+    "egg_groups": [
+        "EGG_GROUP_UNDISCOVERED",
+        "EGG_GROUP_UNDISCOVERED"
+    ],
+    "abilities": [
+        "ABILITY_PRESSURE",
+        "ABILITY_NONE"
+    ],
     "safari_flee_rate": 0,
     "body_color": "MON_COLOR_PURPLE",
     "flip_sprite": false,
     "icon_palette": 2,
     "learnset": {
         "by_level": [
-            [ 1, "MOVE_CONFUSION" ],
-            [ 1, "MOVE_DISABLE" ],
-            [ 8, "MOVE_BARRIER" ],
-            [ 15, "MOVE_SWIFT" ],
-            [ 22, "MOVE_FUTURE_SIGHT" ],
-            [ 29, "MOVE_PSYCH_UP" ],
-            [ 36, "MOVE_MIRACLE_EYE" ],
-            [ 43, "MOVE_MIST" ],
-            [ 50, "MOVE_PSYCHO_CUT" ],
-            [ 57, "MOVE_AMNESIA" ],
-            [ 64, "MOVE_POWER_SWAP" ],
-            [ 64, "MOVE_GUARD_SWAP" ],
-            [ 71, "MOVE_PSYCHIC" ],
-            [ 79, "MOVE_ME_FIRST" ],
-            [ 86, "MOVE_RECOVER" ],
-            [ 93, "MOVE_SAFEGUARD" ],
-            [ 100, "MOVE_AURA_SPHERE" ]
+            [
+                1,
+                "MOVE_CONFUSION"
+            ],
+            [
+                1,
+                "MOVE_DISABLE"
+            ],
+            [
+                8,
+                "MOVE_BARRIER"
+            ],
+            [
+                15,
+                "MOVE_SWIFT"
+            ],
+            [
+                22,
+                "MOVE_FUTURE_SIGHT"
+            ],
+            [
+                29,
+                "MOVE_PSYCH_UP"
+            ],
+            [
+                36,
+                "MOVE_MIRACLE_EYE"
+            ],
+            [
+                43,
+                "MOVE_MIST"
+            ],
+            [
+                50,
+                "MOVE_PSYCHO_CUT"
+            ],
+            [
+                57,
+                "MOVE_AMNESIA"
+            ],
+            [
+                64,
+                "MOVE_POWER_SWAP"
+            ],
+            [
+                64,
+                "MOVE_GUARD_SWAP"
+            ],
+            [
+                71,
+                "MOVE_PSYCHIC"
+            ],
+            [
+                79,
+                "MOVE_ME_FIRST"
+            ],
+            [
+                86,
+                "MOVE_RECOVER"
+            ],
+            [
+                93,
+                "MOVE_SAFEGUARD"
+            ],
+            [
+                100,
+                "MOVE_AURA_SPHERE"
+            ]
         ],
         "by_tm": [
             "TM01",
@@ -135,7 +195,7 @@
             "MOVE_SWIFT"
         ]
     },
-    "evolutions": [  ],
+    "evolutions": [],
     "offspring": "SPECIES_MEWTWO",
     "footprint": {
         "has": true,
@@ -206,6 +266,18 @@
                 "ミュウの　いでんしを　くみかえて\n",
                 "うみだされた。ポケモンで　いちばん\n",
                 "きょうぼうな　こころを　もつという。"
+            ]
+        },
+        "local_version": {
+            "entry_text": [
+                "A Pokémon created by recombining\n",
+                "MEW’s genes. It’s said to have the\n",
+                "most savage heart among Pokémon."
+            ],
+            "entry_text_fr": [
+                "Un Pokémon conçu en réorganisant\n",
+                "les gènes de MEW. On raconte qu’il\n",
+                "s’agit du Pokémon le plus féroce."
             ]
         }
     },

@@ -28,5 +28,13 @@
     "contest": {
         "effect": "CONTEST_EFFECT_FIRST_NEXT_TURN",
         "type": "CONTEST_TYPE_COOL"
-    }
+    },
+    "name_fr": "Vive-Attaque",
+    "description_fr": [
+        "Le lanceur fonce sur\n",
+        "l’ennemi si rapidement\n",
+        "qu’on parvient à peine\n",
+        "à le discerner. Frappe\n",
+        "en premier."
+    ]
 }

@@ -45,6 +45,10 @@
             "en_US": [
                 "To show you how much this means to me,\n",
                 "I’ll use sound effects from now on."
+            ],
+            "fr_FR": [
+                "A compter de ce moment, je n’utiliserai\n",
+                "plus de mots pour m’exprimer."
             ]
         },
         {
@@ -52,11 +56,17 @@
             "en_US": [
                 "Raaaah! Dun dun! Dun dun!\n",
                 "Oompa-oompa-oompapa!\r"
+            ],
+            "fr_FR": [
+                "Tadaaaa! Ta ta ta ta! TA DAAA!\n",
+                "Bada bada chabadam!\r"
             ]
         },
         {
             "type": "TRMSG_DEFEAT",
-            "en_US": "Blip-bip, blip-bip... Blip... Bweeee...\r"
+            "en_US": "Blip-bip, blip-bip... Blip... Bweeee...\r",
+            "fr_FR": "Bip bip... Bip bip bip bip... Biiiiiiiiiiiiiiiip!\r"
         }
-    ]
+    ],
+    "name_fr": "Curtis"
 }

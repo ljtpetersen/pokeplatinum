@@ -8,6 +8,11 @@
         "say...\r",
         "None of the facilities are cakewalks,\n",
         "that’s for sure."
+      ],
+      "fr_FR": [
+        "La Zone de Combat est aussi dure qu’on \n",
+        "le dit...\r",
+        "C’est vraiment pas du gâteau."
       ]
     },
     {
@@ -17,6 +22,11 @@
         "country...\r",
         "No, the best Trainers from around\n",
         "the world gather at the Battle Zone."
+      ],
+      "fr_FR": [
+        "Les meilleurs Dresseurs du pays...\n",
+        "non, du monde, se regroupent au\f",
+        "Secteur Combat."
       ]
     },
     {
@@ -25,6 +35,11 @@
         "To toughen myself!\n",
         "To toughen my Pokémon!\f",
         "For that alone, I have come!"
+      ],
+      "fr_FR": [
+        "Pour être un meilleur Dresseur!\n",
+        "Pour que mes Pokémon soient meilleurs!\f",
+        "Voilà pourquoi je viens ici!"
       ]
     },
     {
@@ -34,17 +49,31 @@
         "in the Battle Zone.\r",
         "That’s where you come in.\n",
         "We need you to battle us!"
+      ],
+      "fr_FR": [
+        "On fait un reportage sur les Dresseurs\n",
+        "du Secteur Combat.\r",
+        "C’est là que tu interviens.\n",
+        "Bats-toi contre nous!"
       ]
     },
     {
       "id": "FightAreaPokecenter1F_Text_KinseyBattleAccepted_Unused",
-      "en_US": "Reporter Kinsey’s live interview!\r"
+      "en_US": "Reporter Kinsey’s live interview!\r",
+      "fr_FR": [
+        "Interviewer Célia au cœur\n",
+        "de l’action!\r"
+      ]
     },
     {
       "id": "FightAreaPokecenter1F_Text_KinseyBattleDeclined_Unused",
       "en_US": [
         "You don’t have to be shy.\n",
         "We can obscure your face if we have to."
+      ],
+      "fr_FR": [
+        "Ne sois pas timide.\n",
+        "Au besoin, on peut cacher ton visage."
       ]
     },
     {
@@ -54,6 +83,12 @@
         "Pokémon move--I tackle them!\r",
         "Of course, I don’t use Tackle in\n",
         "battles, though."
+      ],
+      "fr_FR": [
+        "Interviews, capacités... même combat!\n",
+        "Il faut y aller au pas de charge!\r",
+        "Même si, bien sûr, je n’utilise jamais la\n",
+        "capacité Charge en combat."
       ]
     },
     {
@@ -61,6 +96,10 @@
       "en_US": [
         "Expert Trainer spotted!\n",
         "Will you let us battle with you?"
+      ],
+      "fr_FR": [
+        "Dresseur d’élite en vue!\n",
+        "Un petit combat, ça te dit?"
       ]
     },
     {
@@ -68,6 +107,10 @@
       "en_US": [
         "Great! Great!\n",
         "You guys are great!\r"
+      ],
+      "fr_FR": [
+        "Super!\n",
+        "Tu es formidable!\r"
       ]
     },
     {
@@ -75,6 +118,11 @@
       "en_US": [
         "Want to see how good you are before\n",
         "you go off to the Battle Frontier?"
+      ],
+      "fr_FR": [
+        "Ça te dit une petite mise à l’épreuve\n",
+        "avant de te lancer dans la Zone de\f",
+        "Combat?"
       ]
     },
     {
@@ -82,6 +130,10 @@
       "en_US": [
         "The combination of you and your Pokémon\n",
         "will tear up the Battle Tower!"
+      ],
+      "fr_FR": [
+        "Toi et ton équipe de Pokémon allez\n",
+        "faire un malheur à la Tour de Combat!"
       ]
     }
   ]

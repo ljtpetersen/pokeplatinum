@@ -32,17 +32,29 @@
             "en_US": [
                 "I can’t swim without my inflatable tube.\n",
                 "But my Pokémon might be strong!\r"
+            ],
+            "fr_FR": [
+                "Moi, je ne peux pas nager sans bouée.\n",
+                "Par contre, mes Pokémon sont forts!\r"
             ]
         },
         {
             "type": "TRMSG_DEFEAT",
-            "en_US": "They weren’t tough, my Pokémon...\n"
+            "en_US": "They weren’t tough, my Pokémon...\n",
+            "fr_FR": [
+                "Ils étaient pas bien forts, \n",
+                "mes Pokémon...\n"
+            ]
         },
         {
             "type": "TRMSG_POST_BATTLE",
             "en_US": [
                 "My mommy said that Professor Rowan\n",
                 "is really kindhearted."
+            ],
+            "fr_FR": [
+                "Ma maman dit que le Professeur Sorbier\n",
+                "a un cœur gros comme ça."
             ]
         },
         {
@@ -52,7 +64,14 @@
                 "with us before!\r",
                 "Can you see if my Pokémon have grown\n",
                 "stronger?\r"
+            ],
+            "fr_FR": [
+                "Oh! Tu es le Dresseur qui jouait avec\n",
+                "nous l’autre fois!\r",
+                "Tu veux bien regarder si mes Pokémon\n",
+                "sont devenus plus forts?\r"
             ]
         }
-    ]
+    ],
+    "name_fr": "Inès"
 }

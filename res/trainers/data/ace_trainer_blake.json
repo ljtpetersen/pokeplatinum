@@ -44,6 +44,10 @@
             "en_US": [
                 "I’m an elite battler, but cold is\n",
                 "my nemesis!\r"
+            ],
+            "fr_FR": [
+                "Je suis un combattant d’élite, mais\n",
+                "j’ai horreur du froid.\r"
             ]
         },
         {
@@ -51,6 +55,10 @@
             "en_US": [
                 "But, how...?\n",
                 "Am I weak at battling, too?\n"
+            ],
+            "fr_FR": [
+                "Mais... comment?\n",
+                "Je suis trop faible?\n"
             ]
         },
         {
@@ -59,6 +67,11 @@
                 "I’d rather be asleep in the lodge’s\n",
                 "bed...\r",
                 "I can’t take this cold...\n"
+            ],
+            "fr_FR": [
+                "Si seulement je pouvais retourner\n",
+                "dormir dans la cabane...\r",
+                "Je ne supporte plus ce froid...\n"
             ]
         },
         {
@@ -66,7 +79,12 @@
             "en_US": [
                 "I’m an elite at battling, but cold is\n",
                 "my nemesis!\r"
+            ],
+            "fr_FR": [
+                "Je suis un combattant d’élite, mais\n",
+                "j’ai horreur du froid.\r"
             ]
         }
-    ]
+    ],
+    "name_fr": "Adam"
 }

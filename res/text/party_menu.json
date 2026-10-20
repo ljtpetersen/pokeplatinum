@@ -3,143 +3,178 @@
   "messages": [
     {
       "id": "PartyMenu_Text_ConfirmButton",
-      "en_US": "CONFIRM"
+      "en_US": "CONFIRM",
+      "fr_FR": "CONFIR."
     },
     {
       "id": "PartyMenu_Text_CancelButton",
-      "en_US": "CANCEL"
+      "en_US": "CANCEL",
+      "fr_FR": "ANNUL."
     },
     {
       "id": "pl_msg_00000453_00002",
-      "en_US": "{STRVAR_1 52, 0, 0}"
+      "en_US": "{STRVAR_1 52, 0, 0}",
+      "fr_FR": "{STRVAR_1 52, 0, 0}"
     },
     {
       "id": "pl_msg_00000453_00003",
-      "en_US": "{STRVAR_1 52, 0, 0}"
+      "en_US": "{STRVAR_1 52, 0, 0}",
+      "fr_FR": "{STRVAR_1 52, 0, 0}"
     },
     {
       "id": "pl_msg_00000453_00004",
-      "en_US": "{STRVAR_1 52, 0, 0}"
+      "en_US": "{STRVAR_1 52, 0, 0}",
+      "fr_FR": "{STRVAR_1 52, 0, 0}"
     },
     {
       "id": "pl_msg_00000453_00005",
-      "en_US": "{STRVAR_1 52, 0, 0}"
+      "en_US": "{STRVAR_1 52, 0, 0}",
+      "fr_FR": "{STRVAR_1 52, 0, 0}"
     },
     {
       "id": "pl_msg_00000453_00006",
-      "en_US": "{STRVAR_1 52, 0, 0}"
+      "en_US": "{STRVAR_1 52, 0, 0}",
+      "fr_FR": "{STRVAR_1 52, 0, 0}"
     },
     {
       "id": "pl_msg_00000453_00007",
-      "en_US": "{STRVAR_1 52, 0, 0}"
+      "en_US": "{STRVAR_1 52, 0, 0}",
+      "fr_FR": "{STRVAR_1 52, 0, 0}"
     },
     {
       "id": "PartyMenu_Text_MemberNickname0",
-      "en_US": "{STRVAR_1 1, 0, 0}"
+      "en_US": "{STRVAR_1 1, 0, 0}",
+      "fr_FR": "{STRVAR_1 1, 0, 0}"
     },
     {
       "id": "PartyMenu_Text_MemberNickname1",
-      "en_US": "{STRVAR_1 1, 0, 0}"
+      "en_US": "{STRVAR_1 1, 0, 0}",
+      "fr_FR": "{STRVAR_1 1, 0, 0}"
     },
     {
       "id": "PartyMenu_Text_MemberNickname2",
-      "en_US": "{STRVAR_1 1, 0, 0}"
+      "en_US": "{STRVAR_1 1, 0, 0}",
+      "fr_FR": "{STRVAR_1 1, 0, 0}"
     },
     {
       "id": "PartyMenu_Text_MemberNickname3",
-      "en_US": "{STRVAR_1 1, 0, 0}"
+      "en_US": "{STRVAR_1 1, 0, 0}",
+      "fr_FR": "{STRVAR_1 1, 0, 0}"
     },
     {
       "id": "PartyMenu_Text_MemberNickname4",
-      "en_US": "{STRVAR_1 1, 0, 0}"
+      "en_US": "{STRVAR_1 1, 0, 0}",
+      "fr_FR": "{STRVAR_1 1, 0, 0}"
     },
     {
       "id": "PartyMenu_Text_MemberNickname5",
-      "en_US": "{STRVAR_1 1, 0, 0}"
+      "en_US": "{STRVAR_1 1, 0, 0}",
+      "fr_FR": "{STRVAR_1 1, 0, 0}"
     },
     {
       "id": "pl_msg_00000453_00014",
-      "en_US": "{STRVAR_1 52, 0, 0}"
+      "en_US": "{STRVAR_1 52, 0, 0}",
+      "fr_FR": "{STRVAR_1 52, 0, 0}"
     },
     {
       "id": "pl_msg_00000453_00015",
-      "en_US": "{STRVAR_1 52, 0, 0}"
+      "en_US": "{STRVAR_1 52, 0, 0}",
+      "fr_FR": "{STRVAR_1 52, 0, 0}"
     },
     {
       "id": "pl_msg_00000453_00016",
-      "en_US": "{STRVAR_1 52, 0, 0}"
+      "en_US": "{STRVAR_1 52, 0, 0}",
+      "fr_FR": "{STRVAR_1 52, 0, 0}"
     },
     {
       "id": "pl_msg_00000453_00017",
-      "en_US": "{STRVAR_1 52, 0, 0}"
+      "en_US": "{STRVAR_1 52, 0, 0}",
+      "fr_FR": "{STRVAR_1 52, 0, 0}"
     },
     {
       "id": "pl_msg_00000453_00018",
-      "en_US": "{STRVAR_1 52, 0, 0}"
+      "en_US": "{STRVAR_1 52, 0, 0}",
+      "fr_FR": "{STRVAR_1 52, 0, 0}"
     },
     {
       "id": "pl_msg_00000453_00019",
-      "en_US": "{STRVAR_1 52, 0, 0}"
+      "en_US": "{STRVAR_1 52, 0, 0}",
+      "fr_FR": "{STRVAR_1 52, 0, 0}"
     },
     {
       "id": "pl_msg_00000453_00020",
-      "en_US": "{STRVAR_1 52, 0, 0}"
+      "en_US": "{STRVAR_1 52, 0, 0}",
+      "fr_FR": "{STRVAR_1 52, 0, 0}"
     },
     {
       "id": "pl_msg_00000453_00021",
-      "en_US": "{STRVAR_1 52, 0, 0}"
+      "en_US": "{STRVAR_1 52, 0, 0}",
+      "fr_FR": "{STRVAR_1 52, 0, 0}"
     },
     {
       "id": "pl_msg_00000453_00022",
-      "en_US": "{STRVAR_1 52, 0, 0}"
+      "en_US": "{STRVAR_1 52, 0, 0}",
+      "fr_FR": "{STRVAR_1 52, 0, 0}"
     },
     {
       "id": "pl_msg_00000453_00023",
-      "en_US": "{STRVAR_1 52, 0, 0}"
+      "en_US": "{STRVAR_1 52, 0, 0}",
+      "fr_FR": "{STRVAR_1 52, 0, 0}"
     },
     {
       "id": "pl_msg_00000453_00024",
-      "en_US": "{STRVAR_1 52, 0, 0}"
+      "en_US": "{STRVAR_1 52, 0, 0}",
+      "fr_FR": "{STRVAR_1 52, 0, 0}"
     },
     {
       "id": "pl_msg_00000453_00025",
-      "en_US": "{STRVAR_1 52, 0, 0}"
+      "en_US": "{STRVAR_1 52, 0, 0}",
+      "fr_FR": "{STRVAR_1 52, 0, 0}"
     },
     {
       "id": "pl_msg_00000453_00026",
-      "en_US": "/"
+      "en_US": "/",
+      "fr_FR": "/"
     },
     {
       "id": "PartyMenu_Text_MaleSymbol",
-      "en_US": "♂"
+      "en_US": "♂",
+      "fr_FR": "♂"
     },
     {
       "id": "PartyMenu_Text_FemaleSymbol",
-      "en_US": "♀"
+      "en_US": "♀",
+      "fr_FR": "♀"
     },
     {
       "id": "PartyMenu_Text_ChooseAPokemon",
-      "en_US": "Choose a Pokémon."
+      "en_US": "Choose a Pokémon.",
+      "fr_FR": "Choisissez un Pokémon."
     },
     {
       "id": "PartyMenu_MoveToWhere",
-      "en_US": "Move to where?"
+      "en_US": "Move to where?",
+      "fr_FR": "Le mettre où?"
     },
     {
       "id": "PartyMenu_Text_GiveToWhichMon",
-      "en_US": "Give to which Pokémon?"
+      "en_US": "Give to which Pokémon?",
+      "fr_FR": "Donner à quel Pokémon?"
     },
     {
       "id": "PartyMenu_Text_UseOnWhichMon",
-      "en_US": "Use on which Pokémon?"
+      "en_US": "Use on which Pokémon?",
+      "fr_FR": "Utiliser sur quel Pokémon?"
     },
     {
       "id": "PartyMenu_Text_TeachWhichMon",
-      "en_US": "Teach which Pokémon?"
+      "en_US": "Teach which Pokémon?",
+      "fr_FR": "Enseigner à quel Pokémon?"
     },
     {
       "id": "PartyMenu_Text_ChooseMonAndConfirm",
-      "en_US": "Choose Pokémon and confirm."
+      "en_US": "Choose Pokémon and confirm.",
+      "fr_FR": "Choisir un Pokémon."
     },
     {
       "id": "pl_msg_00000453_00035",
@@ -147,12 +182,17 @@
     },
     {
       "id": "PartyMenu_Text_UseOnWhichPokemon",
-      "en_US": "Use on which Pokémon?"
+      "en_US": "Use on which Pokémon?",
+      "fr_FR": "Utiliser sur quel Pokémon?"
     },
     {
       "id": "PartyMenu_Text_PromptPokemon",
       "en_US": [
         "Do what with\n",
+        "{STRVAR_1 1, 0, 0}?"
+      ],
+      "fr_FR": [
+        "Que faire avec\n",
         "{STRVAR_1 1, 0, 0}?"
       ]
     },
@@ -161,6 +201,10 @@
       "en_US": [
         "Do what with\n",
         "an item?"
+      ],
+      "fr_FR": [
+        "Que faire avec un\n",
+        "objet?"
       ]
     },
     {
@@ -168,6 +212,10 @@
       "en_US": [
         "Do what with\n",
         "the Mail?"
+      ],
+      "fr_FR": [
+        "Que faire avec la\n",
+        "Lettre?"
       ]
     },
     {
@@ -175,6 +223,10 @@
       "en_US": [
         "Restore\n",
         "which move?"
+      ],
+      "fr_FR": [
+        "Restaurer quelle\n",
+        "capacité?"
       ]
     },
     {
@@ -182,6 +234,10 @@
       "en_US": [
         "Boost the PP\n",
         "of which move?"
+      ],
+      "fr_FR": [
+        "Augmenter quels\n",
+        "PP?"
       ]
     },
     {
@@ -189,6 +245,10 @@
       "en_US": [
         "Set this\n",
         "customized Ball?"
+      ],
+      "fr_FR": [
+        "Appliquer cette\n",
+        "Capsule Ball?"
       ]
     },
     {
@@ -196,45 +256,60 @@
       "en_US": [
         "Send the removed Mail to\n",
         "your PC?"
+      ],
+      "fr_FR": [
+        "Envoyer la Lettre enlevée sur votre\n",
+        "PC?"
       ]
     },
     {
       "id": "pl_msg_00000453_00044",
-      "en_US": "Yes"
+      "en_US": "Yes",
+      "fr_FR": "Oui"
     },
     {
       "id": "pl_msg_00000453_00045",
-      "en_US": "No"
+      "en_US": "No",
+      "fr_FR": "Non"
     },
     {
       "id": "PartyMenu_Text_MailWasSentToYourPC",
-      "en_US": "The Mail was sent to your PC."
+      "en_US": "The Mail was sent to your PC.",
+      "fr_FR": "La Lettre a été envoyée sur votre PC."
     },
     {
       "id": "PartyMenu_Text_IfMailIsRemovedMessageWillBeLostConfirm",
       "en_US": [
         "If the Mail is removed, its written\n",
         "message will be lost. Is that OK?"
+      ],
+      "fr_FR": [
+        "Si la Lettre est enlevée, le message\n",
+        "sera perdu. D’accord?"
       ]
     },
     {
       "id": "pl_msg_00000453_00048",
-      "en_US": "Yes"
+      "en_US": "Yes",
+      "fr_FR": "Oui"
     },
     {
       "id": "pl_msg_00000453_00049",
-      "en_US": "No"
+      "en_US": "No",
+      "fr_FR": "Non"
     },
     {
       "id": "PartyMenu_Text_MailboxIsFull",
-      "en_US": "Your PC’s Mailbox is full."
+      "en_US": "Your PC’s Mailbox is full.",
+      "fr_FR": "La Boîte aux Lettres du PC est pleine."
     },
     {
       "id": "PartyMenu_Text_MailWasTakenFromMon",
       "en_US": [
         "Mail was taken from the\n",
         "Pokémon."
-      ]
+      ],
+      "fr_FR": "La Lettre a été prise au Pokémon."
     },
     {
       "id": "PartyMenu_Text_MonWantsToLearnMove",
@@ -245,36 +320,56 @@
         "knows four moves.\r",
         "Should a move be deleted and\n",
         "replaced with {STRVAR_1 6, 1, 0}?"
+      ],
+      "fr_FR": [
+        "{STRVAR_1 1, 0, 0} veut apprendre\n",
+        "{STRVAR_1 6, 1, 0}.\r",
+        "Mais {STRVAR_1 1, 0, 0} connaît déjà\n",
+        "quatre capacités.\r",
+        "Remplacer une capacité\n",
+        "par {STRVAR_1 6, 1, 0}?"
       ]
     },
     {
       "id": "pl_msg_00000453_00053",
-      "en_US": "Yes"
+      "en_US": "Yes",
+      "fr_FR": "Oui"
     },
     {
       "id": "pl_msg_00000453_00054",
-      "en_US": "No"
+      "en_US": "No",
+      "fr_FR": "Non"
     },
     {
       "id": "PartyMenu_Text_StopTryingToTeachMove",
       "en_US": [
         "Stop trying to teach\n",
         "{STRVAR_1 6, 1, 0}?"
+      ],
+      "fr_FR": [
+        "Arrêter d’enseigner\n",
+        "{STRVAR_1 6, 1, 0}?"
       ]
     },
     {
       "id": "pl_msg_00000453_00056",
-      "en_US": "Yes"
+      "en_US": "Yes",
+      "fr_FR": "Oui"
     },
     {
       "id": "pl_msg_00000453_00057",
-      "en_US": "No"
+      "en_US": "No",
+      "fr_FR": "Non"
     },
     {
       "id": "PartyMenu_Text_MonDidNotLearnMove",
       "en_US": [
         "{STRVAR_1 1, 0, 0} did not learn the\n",
         "move {STRVAR_1 6, 1, 0}."
+      ],
+      "fr_FR": [
+        "{STRVAR_1 1, 0, 0} n’a pas appris la\n",
+        "capacité {STRVAR_1 6, 1, 0}."
       ]
     },
     {
@@ -282,7 +377,8 @@
       "en_US": [
         "Which move should be\n",
         "forgotten?"
-      ]
+      ],
+      "fr_FR": "Oublier quelle capacité?"
     },
     {
       "id": "PartyMenu_Text_MonForgotMove",
@@ -291,12 +387,22 @@
         "{STRVAR_1 1, 0, 0} forgot how to\n",
         "use {STRVAR_1 6, 1, 0}.\r",
         "And..."
+      ],
+      "fr_FR": [
+        "1, {PAUSE 20}2, et{PAUSE 20}... {PAUSE 20}... {PAUSE 20}... Tadaa!{WAIT 3}{WAIT 5}\r",
+        "{STRVAR_1 1, 0, 0} ne sait plus\n",
+        "comment utiliser {STRVAR_1 6, 1, 0}.\r",
+        "Et..."
       ]
     },
     {
       "id": "PartyMenu_Text_MonLearnedMove",
       "en_US": [
         "{STRVAR_1 1, 0, 0} learned\n",
+        "{STRVAR_1 6, 1, 0}!{WAIT 4}{WAIT 2}"
+      ],
+      "fr_FR": [
+        "{STRVAR_1 1, 0, 0} apprend\n",
         "{STRVAR_1 6, 1, 0}!{WAIT 4}{WAIT 2}"
       ]
     },
@@ -306,12 +412,21 @@
         "{STRVAR_1 1, 0, 0} and {STRVAR_1 6, 1, 0}\n",
         "are not compatible.\r",
         "{STRVAR_1 6, 1, 0} can’t be learned."
+      ],
+      "fr_FR": [
+        "{STRVAR_1 1, 0, 0} et {STRVAR_1 6, 1, 0}\n",
+        "ne sont pas compatibles.\r",
+        "Impossible de l’enseigner."
       ]
     },
     {
       "id": "PartyMenu_Text_MonAlreadyKnowsMove",
       "en_US": [
         "{STRVAR_1 1, 0, 0} already knows\n",
+        "{STRVAR_1 6, 1, 0}."
+      ],
+      "fr_FR": [
+        "{STRVAR_1 1, 0, 0} connaît déjà\n",
         "{STRVAR_1 6, 1, 0}."
       ]
     },
@@ -320,13 +435,18 @@
       "en_US": [
         "{STRVAR_1 1, 0, 0}’s HP was restored\n",
         "by {STRVAR_1 52, 1, 0} point(s)."
-      ]
+      ],
+      "fr_FR": "{STRVAR_1 1, 0, 0} récupère {STRVAR_1 52, 1, 0} PV."
     },
     {
       "id": "PartyMenu_Text_MonWasCuredOfPoison",
       "en_US": [
         "{STRVAR_1 1, 0, 0} was cured of its\n",
         "poisoning."
+      ],
+      "fr_FR": [
+        "{STRVAR_1 1, 0, 0} n’est plus\n",
+        "empoisonné."
       ]
     },
     {
@@ -334,6 +454,10 @@
       "en_US": [
         "{STRVAR_1 1, 0, 0} was cured of\n",
         "paralysis."
+      ],
+      "fr_FR": [
+        "{STRVAR_1 1, 0, 0} n’est plus\n",
+        "paralysé."
       ]
     },
     {
@@ -341,38 +465,47 @@
       "en_US": [
         "{STRVAR_1 1, 0, 0}’s\n",
         "burn was healed."
-      ]
+      ],
+      "fr_FR": "{STRVAR_1 1, 0, 0} n’est plus brûlé."
     },
     {
       "id": "PartyMenu_Text_MonWasThawedOut",
       "en_US": [
         "{STRVAR_1 1, 0, 0} was\n",
         "thawed out."
-      ]
+      ],
+      "fr_FR": "{STRVAR_1 1, 0, 0} est dégelé."
     },
     {
       "id": "PartyMenu_Text_PPWasRestored",
-      "en_US": "PP was restored."
+      "en_US": "PP was restored.",
+      "fr_FR": "Les PP sont restaurés."
     },
     {
       "id": "PartyMenu_Text_MonRegainedHealth",
       "en_US": [
         "{STRVAR_1 1, 0, 0}\n",
         "regained health."
-      ]
+      ],
+      "fr_FR": "{STRVAR_1 1, 0, 0} récupère son énergie."
     },
     {
       "id": "PartyMenu_Text_MonBecameHealthy",
       "en_US": [
         "{STRVAR_1 1, 0, 0}\n",
         "became healthy."
-      ]
+      ],
+      "fr_FR": "{STRVAR_1 1, 0, 0} retrouve la forme."
     },
     {
       "id": "PartyMenu_Text_MovesPPIncreased",
       "en_US": [
         "{STRVAR_1 6, 0, 0}’s PP\n",
         "increased."
+      ],
+      "fr_FR": [
+        "Les PP de {STRVAR_1 6, 0, 0}\n",
+        "augmentent."
       ]
     },
     {
@@ -380,13 +513,18 @@
       "en_US": [
         "{STRVAR_1 1, 0, 0} snapped out of its\n",
         "confusion."
-      ]
+      ],
+      "fr_FR": "{STRVAR_1 1, 0, 0} n’est plus confus."
     },
     {
       "id": "PartyMenu_Text_MonGotOverInfatuation",
       "en_US": [
         "{STRVAR_1 1, 0, 0} got over its\n",
         "infatuation."
+      ],
+      "fr_FR": [
+        "{STRVAR_1 1, 0, 0} n’est plus\n",
+        "amoureux."
       ]
     },
     {
@@ -394,6 +532,10 @@
       "en_US": [
         "{STRVAR_1 1, 0, 0}’s base {STRVAR_1 13, 1, 0}\n",
         "rose!"
+      ],
+      "fr_FR": [
+        "{STRVAR_1 13, 1, 0} de {STRVAR_1 1, 0, 0}\n",
+        "augmente."
       ]
     },
     {
@@ -401,6 +543,10 @@
       "en_US": [
         "This can’t be used until a new\n",
         "Badge is obtained."
+      ],
+      "fr_FR": [
+        "Impossible de l’utiliser jusqu’à\n",
+        "l’obtention du prochain Badge."
       ]
     },
     {
@@ -408,6 +554,10 @@
       "en_US": [
         "Must remove Mail before the\n",
         "Pokémon is allowed to hold an item."
+      ],
+      "fr_FR": [
+        "Il faut enlever la Lettre pour \n",
+        "pouvoir tenir autre chose."
       ]
     },
     {
@@ -417,39 +567,56 @@
         "{STRVAR_1 8, 1, 0}.\r",
         "Would you like to switch the\n",
         "two items?"
+      ],
+      "fr_FR": [
+        "{STRVAR_1 1, 0, 0} tient déjà\n",
+        "l’objet {STRVAR_1 8, 1, 0}!\r",
+        "Echanger les deux objets?"
       ]
     },
     {
       "id": "pl_msg_00000453_00079",
-      "en_US": "Yes"
+      "en_US": "Yes",
+      "fr_FR": "Oui"
     },
     {
       "id": "pl_msg_00000453_00080",
-      "en_US": "No"
+      "en_US": "No",
+      "fr_FR": "Non"
     },
     {
       "id": "PartyMenu_Text_MonIsntHoldingAnything",
       "en_US": [
         "{STRVAR_1 1, 0, 0} isn’t holding\n",
         "anything."
-      ]
+      ],
+      "fr_FR": "{STRVAR_1 1, 0, 0} ne tient rien."
     },
     {
       "id": "PartyMenu_Text_ReceivedItemFromMon",
       "en_US": [
         "Received the {STRVAR_1 8, 1, 0}\n",
         "from {STRVAR_1 1, 0, 0}."
+      ],
+      "fr_FR": [
+        "Obtenu {STRVAR_1 8, 1, 0} de\n",
+        "{STRVAR_1 1, 0, 0}."
       ]
     },
     {
       "id": "PartyMenu_Text_BagIsFull",
-      "en_US": "The Bag is full."
+      "en_US": "The Bag is full.",
+      "fr_FR": "Le Sac est plein."
     },
     {
       "id": "PartyMenu_Text_ItemWasTakenAndReplacedWithItem",
       "en_US": [
         "The {STRVAR_1 8, 1, 0} was taken and\n",
         "replaced with the {STRVAR_1 8, 2, 0}."
+      ],
+      "fr_FR": [
+        "{STRVAR_1 8, 2, 0} a remplacé\n",
+        "{STRVAR_1 8, 1, 0}!"
       ]
     },
     {
@@ -481,7 +648,8 @@
       "en_US": [
         "{STRVAR_1 1, 0, 0}\n",
         "woke up."
-      ]
+      ],
+      "fr_FR": "{STRVAR_1 1, 0, 0} se réveille."
     },
     {
       "id": "pl_msg_00000453_00092",
@@ -520,6 +688,10 @@
       "en_US": [
         "No more than two Pokémon\n",
         "may enter."
+      ],
+      "fr_FR": [
+        "Seuls deux Pokémon\n",
+        "peuvent participer."
       ]
     },
     {
@@ -528,7 +700,8 @@
     },
     {
       "id": "PartyMenu_Text_YoureAlreadySurfing",
-      "en_US": "You’re already surfing."
+      "en_US": "You’re already surfing.",
+      "fr_FR": "Vous surfez déjà."
     },
     {
       "id": "pl_msg_00000453_00103",
@@ -536,11 +709,13 @@
     },
     {
       "id": "PartyMenu_Text_CantUseThatHere",
-      "en_US": "You can’t use that here."
+      "en_US": "You can’t use that here.",
+      "fr_FR": "Impossible ici."
     },
     {
       "id": "PartyMenu_Text_ItWontHaveAnyEffect",
-      "en_US": "It won’t have any effect."
+      "en_US": "It won’t have any effect.",
+      "fr_FR": "Ça n’aura aucun effet."
     },
     {
       "id": "pl_msg_00000453_00106",
@@ -548,7 +723,8 @@
     },
     {
       "id": "PartyMenu_Text_TwoMonAreNeeded",
-      "en_US": "Two Pokémon are needed."
+      "en_US": "Two Pokémon are needed.",
+      "fr_FR": "Il faut deux Pokémon."
     },
     {
       "id": "pl_msg_00000453_00108",
@@ -563,6 +739,10 @@
       "en_US": [
         "{STRVAR_1 1, 0, 0} became more friendly.\r",
         "However, its base {STRVAR_1 13, 1, 0} fell!"
+      ],
+      "fr_FR": [
+        "{STRVAR_1 1, 0, 0} est devenu amical.\r",
+        "{STRVAR_1 13, 1, 0} de base en baisse!"
       ]
     },
     {
@@ -570,6 +750,10 @@
       "en_US": [
         "{STRVAR_1 1, 0, 0} adores you!\r",
         "Its base {STRVAR_1 13, 1, 0} fell!"
+      ],
+      "fr_FR": [
+        "{STRVAR_1 1, 0, 0} vous adore!\r",
+        "{STRVAR_1 13, 1, 0} de base en baisse!"
       ]
     },
     {
@@ -577,32 +761,50 @@
       "en_US": [
         "{STRVAR_1 1, 0, 0} became more friendly.\r",
         "Its base {STRVAR_1 13, 1, 0} can’t go lower."
+      ],
+      "fr_FR": [
+        "{STRVAR_1 1, 0, 0} est devenu amical.\r",
+        "{STRVAR_1 13, 1, 0} de base ne peut pas baisser!"
       ]
     },
     {
       "id": "pl_msg_00000453_00113",
-      "en_US": "{STRVAR_1 1, 0, 0} is already in battle!"
+      "en_US": "{STRVAR_1 1, 0, 0} is already in battle!",
+      "fr_FR": "{STRVAR_1 1, 0, 0} est déjà au combat!"
     },
     {
       "id": "pl_msg_00000453_00114",
       "en_US": [
         "{STRVAR_1 1, 0, 0} has no energy left\n",
         "to battle!"
+      ],
+      "fr_FR": [
+        "{STRVAR_1 1, 0, 0} n’a plus d’énergie pour\n",
+        "combattre!"
       ]
     },
     {
       "id": "pl_msg_00000453_00115",
-      "en_US": "{STRVAR_1 1, 0, 0} can’t be switched out!"
+      "en_US": "{STRVAR_1 1, 0, 0} can’t be switched out!",
+      "fr_FR": [
+        "{STRVAR_1 1, 0, 0} ne peut pas être\n",
+        "échangé!"
+      ]
     },
     {
       "id": "pl_msg_00000453_00116",
-      "en_US": "An Egg can’t battle!"
+      "en_US": "An Egg can’t battle!",
+      "fr_FR": "Un Oeuf ne se bat pas, voyons!"
     },
     {
       "id": "pl_msg_00000453_00117",
       "en_US": [
         "You can’t switch {STRVAR_1 3, 0, 0}’s\n",
         "Pokémon with one of yours!"
+      ],
+      "fr_FR": [
+        "Impossible d’échanger un Pokémon\n",
+        "de {STRVAR_1 3, 0, 0} avec un des vôtres!"
       ]
     },
     {
@@ -610,43 +812,57 @@
       "en_US": [
         "{STRVAR_1 1, 0, 0} was given the\n",
         "{STRVAR_1 8, 1, 0} to hold."
+      ],
+      "fr_FR": [
+        "{STRVAR_1 1, 0, 0} tient\n",
+        "{STRVAR_1 8, 1, 0}!"
       ]
     },
     {
       "id": "PartyMenu_Text_ThreeMonAreNeeded",
-      "en_US": "Three Pokémon are needed."
+      "en_US": "Three Pokémon are needed.",
+      "fr_FR": "Il faut trois Pokémon."
     },
     {
       "id": "PartyMenu_Text_FourMonAreNeeded",
-      "en_US": "Four Pokémon are needed."
+      "en_US": "Four Pokémon are needed.",
+      "fr_FR": "Il faut quatre Pokémon."
     },
     {
       "id": "PartyMenu_Text_FiveMonAreNeeded",
-      "en_US": "Five Pokémon are needed."
+      "en_US": "Five Pokémon are needed.",
+      "fr_FR": "Il faut cinq Pokémon."
     },
     {
       "id": "PartyMenu_Text_SixMonAreNeeded",
-      "en_US": "Six Pokémon are needed."
+      "en_US": "Six Pokémon are needed.",
+      "fr_FR": "Il faut six Pokémon."
     },
     {
       "id": "PartyMenu_Text_NoMoreThanOneMon",
       "en_US": [
         "No more than one Pokémon\n",
         "may enter."
-      ]
+      ],
+      "fr_FR": "Seul un Pokémon peut participer."
     },
     {
       "id": "PartyMenu_Text_NoMoreThanThreeMon",
       "en_US": [
         "No more than three Pokémon\n",
         "may enter."
-      ]
+      ],
+      "fr_FR": "Seuls trois Pokémon peuvent participer."
     },
     {
       "id": "PartyMenu_Text_NoMoreThanFourMon",
       "en_US": [
         "No more than four Pokémon\n",
         "may enter."
+      ],
+      "fr_FR": [
+        "Seuls quatre Pokémon peuvent\n",
+        "participer."
       ]
     },
     {
@@ -654,13 +870,18 @@
       "en_US": [
         "No more than five Pokémon\n",
         "may enter."
-      ]
+      ],
+      "fr_FR": "Seuls cinq Pokémon peuvent participer."
     },
     {
       "id": "PartyMenu_Text_MailWasTransferredFromMailbox",
       "en_US": [
         "Mail was transferred from\n",
         "the Mailbox."
+      ],
+      "fr_FR": [
+        "La Lettre est retirée de la Boîte aux\n",
+        "Lettres."
       ]
     },
     {
@@ -668,22 +889,32 @@
       "en_US": [
         "This Pokémon is holding an item.\n",
         "It cannot hold Mail."
+      ],
+      "fr_FR": [
+        "Ce Pokémon tient un objet.\n",
+        "Il ne peut pas tenir cette Lettre."
       ]
     },
     {
       "id": "PartyMenu_Text_BallCapsuleWasSet",
-      "en_US": "The Ball Capsule was set."
+      "en_US": "The Ball Capsule was set.",
+      "fr_FR": "La Capsule Ball a été appliquée."
     },
     {
       "id": "PartyMenu_Text_TwoCapsulsesCantBeSet",
-      "en_US": "Two capsules can’t be set."
+      "en_US": "Two capsules can’t be set.",
+      "fr_FR": [
+        "Impossible d’appliquer deux\n",
+        "Capsules Ball."
+      ]
     },
     {
       "id": "PartyMenu_Text_ThisCantBeUsedOnThatPokemon",
       "en_US": [
         "This can’t be used on\n",
         "that Pokémon."
-      ]
+      ],
+      "fr_FR": "C’est inutilisable sur ce Pokémon."
     },
     {
       "id": "pl_msg_00000453_00132",
@@ -711,7 +942,8 @@
     },
     {
       "id": "PartyMenu_Text_NotEnoughHP",
-      "en_US": "Not enough HP..."
+      "en_US": "Not enough HP...",
+      "fr_FR": "Pas assez de PV..."
     },
     {
       "id": "pl_msg_00000453_00139",
@@ -739,35 +971,43 @@
     },
     {
       "id": "PartyMenu_Text_Switch",
-      "en_US": "SWITCH"
+      "en_US": "SWITCH",
+      "fr_FR": "ORDRE"
     },
     {
       "id": "PartyMenu_Text_Summary",
-      "en_US": "SUMMARY"
+      "en_US": "SUMMARY",
+      "fr_FR": "RESUME"
     },
     {
       "id": "PartyMenu_Text_Item",
-      "en_US": "ITEM"
+      "en_US": "ITEM",
+      "fr_FR": "OBJET"
     },
     {
       "id": "PartyMenu_Text_Mail",
-      "en_US": "MAIL"
+      "en_US": "MAIL",
+      "fr_FR": "LETTRE"
     },
     {
       "id": "PartyMenu_Text_MailRead",
-      "en_US": "READ"
+      "en_US": "READ",
+      "fr_FR": "LIRE"
     },
     {
       "id": "PartyMenu_Text_MailTake",
-      "en_US": "TAKE"
+      "en_US": "TAKE",
+      "fr_FR": "PRENDRE"
     },
     {
       "id": "PartyMenu_Text_MailStore",
-      "en_US": "STORE"
+      "en_US": "STORE",
+      "fr_FR": "DEPOSER"
     },
     {
       "id": "PartyMenu_Text_ContextCancel",
-      "en_US": "CANCEL"
+      "en_US": "CANCEL",
+      "fr_FR": "ANNULER"
     },
     {
       "id": "PartyMenu_Text_Separator",
@@ -775,125 +1015,158 @@
     },
     {
       "id": "PartyMenu_Text_Enter",
-      "en_US": "ENTER"
+      "en_US": "ENTER",
+      "fr_FR": "INSCRIRE"
     },
     {
       "id": "PartyMenu_Text_NoEntry",
-      "en_US": "NO ENTRY"
+      "en_US": "NO ENTRY",
+      "fr_FR": "RETIRER"
     },
     {
       "id": "PartyMenu_Text_FieldMove0",
-      "en_US": "{COLOR 1}{STRVAR_1 6, 0, 0}{COLOR 0}"
+      "en_US": "{COLOR 1}{STRVAR_1 6, 0, 0}{COLOR 0}",
+      "fr_FR": "{COLOR 1}{STRVAR_1 6, 0, 0}{COLOR 0}"
     },
     {
       "id": "PartyMenu_Text_FieldMove1",
-      "en_US": "{COLOR 1}{STRVAR_1 6, 0, 0}{COLOR 0}"
+      "en_US": "{COLOR 1}{STRVAR_1 6, 0, 0}{COLOR 0}",
+      "fr_FR": "{COLOR 1}{STRVAR_1 6, 0, 0}{COLOR 0}"
     },
     {
       "id": "PartyMenu_Text_FieldMove2",
-      "en_US": "{COLOR 1}{STRVAR_1 6, 0, 0}{COLOR 0}"
+      "en_US": "{COLOR 1}{STRVAR_1 6, 0, 0}{COLOR 0}",
+      "fr_FR": "{COLOR 1}{STRVAR_1 6, 0, 0}{COLOR 0}"
     },
     {
       "id": "PartyMenu_Text_FieldMove3",
-      "en_US": "{COLOR 1}{STRVAR_1 6, 0, 0}{COLOR 0}"
+      "en_US": "{COLOR 1}{STRVAR_1 6, 0, 0}{COLOR 0}",
+      "fr_FR": "{COLOR 1}{STRVAR_1 6, 0, 0}{COLOR 0}"
     },
     {
       "id": "PartyMenu_Text_ItemGive",
-      "en_US": "GIVE"
+      "en_US": "GIVE",
+      "fr_FR": "DONNER"
     },
     {
       "id": "PartyMenu_Text_ItemTake",
-      "en_US": "TAKE"
+      "en_US": "TAKE",
+      "fr_FR": "PRENDRE"
     },
     {
       "id": "PartyMenu_Text_MoveSlot0",
-      "en_US": "{STRVAR_1 6, 0, 0}"
+      "en_US": "{STRVAR_1 6, 0, 0}",
+      "fr_FR": "{STRVAR_1 6, 0, 0}"
     },
     {
       "id": "PartyMenu_Text_MoveSlot1",
-      "en_US": "{STRVAR_1 6, 0, 0}"
+      "en_US": "{STRVAR_1 6, 0, 0}",
+      "fr_FR": "{STRVAR_1 6, 0, 0}"
     },
     {
       "id": "PartyMenu_Text_MoveSlot2",
-      "en_US": "{STRVAR_1 6, 0, 0}"
+      "en_US": "{STRVAR_1 6, 0, 0}",
+      "fr_FR": "{STRVAR_1 6, 0, 0}"
     },
     {
       "id": "PartyMenu_Text_MoveSlot3",
-      "en_US": "{STRVAR_1 6, 0, 0}"
+      "en_US": "{STRVAR_1 6, 0, 0}",
+      "fr_FR": "{STRVAR_1 6, 0, 0}"
     },
     {
       "id": "PartyMenu_Text_Set",
-      "en_US": "SET"
+      "en_US": "SET",
+      "fr_FR": "APPLIQUER"
     },
     {
       "id": "PartyMenu_Text_NotEntered",
-      "en_US": "NOT ENTERED"
+      "en_US": "NOT ENTERED",
+      "fr_FR": "APTE"
     },
     {
       "id": "PartyMenu_Text_Banned",
-      "en_US": "BANNED"
+      "en_US": "BANNED",
+      "fr_FR": "INTERDIT"
     },
     {
       "id": "PartyMenu_Text_EnteredFirst",
-      "en_US": "FIRST"
+      "en_US": "FIRST",
+      "fr_FR": "PREMIER"
     },
     {
       "id": "PartyMenu_Text_EnteredSecond",
-      "en_US": "SECOND"
+      "en_US": "SECOND",
+      "fr_FR": "DEUXIEME"
     },
     {
       "id": "PartyMenu_Text_EnteredThird",
-      "en_US": "THIRD"
+      "en_US": "THIRD",
+      "fr_FR": "TROISIEME"
     },
     {
       "id": "PartyMenu_Text_EnteredFourth",
-      "en_US": "FOURTH"
+      "en_US": "FOURTH",
+      "fr_FR": "QUATRIEME"
     },
     {
       "id": "PartyMenu_Text_EnteredFifth",
-      "en_US": "FIFTH"
+      "en_US": "FIFTH",
+      "fr_FR": "CINQUIEME"
     },
     {
       "id": "PartyMenu_Text_EnteredSixth",
-      "en_US": "SIXTH"
+      "en_US": "SIXTH",
+      "fr_FR": "SIXIEME"
     },
     {
       "id": "PartyMenu_Text_AbleToLearn",
-      "en_US": "ABLE!"
+      "en_US": "ABLE!",
+      "fr_FR": "APTE"
     },
     {
       "id": "PartyMenu_Text_UnableToLearn",
-      "en_US": "UNABLE!"
+      "en_US": "UNABLE!",
+      "fr_FR": "PAS APTE"
     },
     {
       "id": "PartyMenu_Text_AlreadyLearned",
-      "en_US": "LEARNED"
+      "en_US": "LEARNED",
+      "fr_FR": "APPRIS"
     },
     {
       "id": "PartyMenu_Text_AbleToEvolve",
-      "en_US": "ABLE!"
+      "en_US": "ABLE!",
+      "fr_FR": "APTE"
     },
     {
       "id": "PartyMenu_Text_UnableToEvolve",
-      "en_US": "UNABLE!"
+      "en_US": "UNABLE!",
+      "fr_FR": "PAS APTE"
     },
     {
       "id": "PartyMenu_Text_EligibleForContest",
-      "en_US": "ABLE!"
+      "en_US": "ABLE!",
+      "fr_FR": "APTE"
     },
     {
       "id": "PartyMenu_Text_IneligibleForContest",
-      "en_US": "UNABLE!"
+      "en_US": "UNABLE!",
+      "fr_FR": "PAS APTE"
     },
     {
       "id": "PartyMenu_Text_IdenticalMonNotPermitted",
-      "en_US": "Identical Pokémon are not permitted."
+      "en_US": "Identical Pokémon are not permitted.",
+      "fr_FR": "Les Pokémon identiques sont interdits."
     },
     {
       "id": "PartyMenu_Text_SomeMonHoldingIdenticalItems",
       "en_US": [
         "Some Pokémon are holding identical\n",
         "items."
+      ],
+      "fr_FR": [
+        "Les objets tenus par les Pokémon\n",
+        "doivent être différents."
       ]
     },
     {
@@ -901,51 +1174,71 @@
       "en_US": [
         "The total of all party members’\n",
         "levels has gone over {STRVAR_1 52, 0, 0}."
+      ],
+      "fr_FR": [
+        "Le total des niveaux de tous les\n",
+        "membres de l’équipe dépasse {STRVAR_1 52, 0, 0}."
       ]
     },
     {
       "id": "PartyMenu_Text_LevelUpMaxHP",
-      "en_US": "MAX HP"
+      "en_US": "MAX HP",
+      "fr_FR": "PV MAX."
     },
     {
       "id": "PartyMenu_Text_LevelUpAttack",
-      "en_US": "ATTACK"
+      "en_US": "ATTACK",
+      "fr_FR": "ATTAQUE"
     },
     {
       "id": "PartyMenu_Text_LevelUpDefense",
-      "en_US": "DEFENSE"
+      "en_US": "DEFENSE",
+      "fr_FR": "DEFENSE"
     },
     {
       "id": "PartyMenu_Text_LevelUpSpAttack",
-      "en_US": "SP. ATK"
+      "en_US": "SP. ATK",
+      "fr_FR": "ATQ. SPE."
     },
     {
       "id": "PartyMenu_Text_LevelUpSpDefense",
-      "en_US": "SP. DEF"
+      "en_US": "SP. DEF",
+      "fr_FR": "DEF. SPE."
     },
     {
       "id": "PartyMenu_Text_LevelUpSpeed",
-      "en_US": "SPEED"
+      "en_US": "SPEED",
+      "fr_FR": "VITESSE"
     },
     {
       "id": "PartyMenu_Text_LevelUpStatIncrease",
-      "en_US": "+ {STRVAR_1 52, 0, 0}"
+      "en_US": "+ {STRVAR_1 52, 0, 0}",
+      "fr_FR": "+ {STRVAR_1 52, 0, 0}"
     },
     {
       "id": "PartyMenu_Text_LevelUpNewStatValue",
-      "en_US": "{STRVAR_1 52, 0, 0}"
+      "en_US": "{STRVAR_1 52, 0, 0}",
+      "fr_FR": "{STRVAR_1 52, 0, 0}"
     },
     {
       "id": "PartyMenu_Text_LevelUp",
       "en_US": [
         "{STRVAR_1 1, 0, 0} was elevated to\n",
         "Lv. {STRVAR_1 52, 1, 0}.{WAIT 4}{WAIT 2}"
+      ],
+      "fr_FR": [
+        "{STRVAR_1 1, 0, 0} monte au\n",
+        "N. {STRVAR_1 52, 1, 0}!{WAIT 4}{WAIT 2}"
       ]
     },
     {
       "id": "PartyMenu_Text_MonLearnedMove2",
       "en_US": [
         "{STRVAR_1 1, 0, 0} learned\n",
+        "{STRVAR_1 6, 1, 0}!{WAIT 4}{WAIT 2}"
+      ],
+      "fr_FR": [
+        "{STRVAR_1 1, 0, 0} apprend\n",
         "{STRVAR_1 6, 1, 0}!{WAIT 4}{WAIT 2}"
       ]
     },
@@ -954,6 +1247,10 @@
       "en_US": [
         "The Ball Capsule will be detached.\n",
         "Will that be OK?"
+      ],
+      "fr_FR": [
+        "La Capsule Ball va être détachée.\n",
+        "Continuer?"
       ]
     },
     {
@@ -961,17 +1258,26 @@
       "en_US": [
         "You can’t use that when you have\n",
         "someone with you."
+      ],
+      "fr_FR": [
+        "Inutilisable quand quelqu’un\n",
+        "est avec vous."
       ]
     },
     {
       "id": "PartyMenu_Text_SelectEgg",
-      "en_US": "Please select an Egg."
+      "en_US": "Please select an Egg.",
+      "fr_FR": "Veuillez choisir un Oeuf."
     },
     {
       "id": "PartyMenu_Text_PromptEgg",
       "en_US": [
         "What will you do\n",
         "with the Egg?"
+      ],
+      "fr_FR": [
+        "Voulez-vous\n",
+        "échanger l’Oeuf?"
       ]
     },
     {
@@ -980,24 +1286,34 @@
     },
     {
       "id": "PartyMenu_Text_ContextConfirm",
-      "en_US": "CONFIRM"
+      "en_US": "CONFIRM",
+      "fr_FR": "CONFIRMER"
     },
     {
       "id": "PartyMenu_Text_MustUseSameKindOfMon",
       "en_US": [
         "You must use the same kind\n",
         "of Pokémon."
+      ],
+      "fr_FR": [
+        "Vous devez sélectionner un\n",
+        "Pokémon de la même espèce!"
       ]
     },
     {
       "id": "PartyMenu_Text_ChangedForm",
-      "en_US": "{STRVAR_1 0, 0, 0} changed Forme!"
+      "en_US": "{STRVAR_1 0, 0, 0} changed Forme!",
+      "fr_FR": "{STRVAR_1 0, 0, 0} a changé de forme!"
     },
     {
       "id": "PartyMenu_Text_MonCannotHoldItem",
       "en_US": [
         "{STRVAR_1 1, 0, 0} cannot hold\n",
         "{STRVAR_1 8, 1, 0}!"
+      ],
+      "fr_FR": [
+        "Impossible de faire tenir\n",
+        "{STRVAR_1 8, 1, 0} à {STRVAR_1 1, 0, 0}!"
       ]
     },
     {
@@ -1005,6 +1321,10 @@
       "en_US": [
         "The {STRVAR_1 8, 0, 0} cannot be\n",
         "given here.\n"
+      ],
+      "fr_FR": [
+        "Impossible de donner {STRVAR_1 8, 0, 0}\n",
+        "ici."
       ]
     }
   ]

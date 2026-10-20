@@ -50,6 +50,10 @@
             "en_US": [
                 "I’ll punish you in place of our\n",
                 "boss for defying Team Galactic!\r"
+            ],
+            "fr_FR": [
+                "Je vais te punir au nom du chef\n",
+                "pour avoir défié la Team Galaxie!\r"
             ]
         },
         {
@@ -57,6 +61,10 @@
             "en_US": [
                 "Grr...\n",
                 "I took the punishment...\n"
+            ],
+            "fr_FR": [
+                "Grr...\n",
+                "C’est moi qui ai reçu une punition...\n"
             ]
         },
         {
@@ -65,7 +73,13 @@
                 "We’re Team Galactic!\n",
                 "The no. 1 syndicate in the world!\r",
                 "To defy us is to defy the universe!\n"
+            ],
+            "fr_FR": [
+                "Nous sommes la Team Galaxie!\n",
+                "Le gang numéro un du monde!\r",
+                "Que dis-je... de l’univers!\n"
             ]
         }
-    ]
+    ],
+    "name_fr": "Sbire"
 }

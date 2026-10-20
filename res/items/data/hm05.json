@@ -27,5 +27,13 @@
   "fieldUseFunc": "ITEM_USE_FUNC_TM_HM",
   "battleUseCategory": "BATTLE_USE_CATEGORY_NONE",
   "itemUseParams": null,
-  "teachesMove": "MOVE_DEFOG"
+  "teachesMove": "MOVE_DEFOG",
+  "name_fr": "CS05",
+  "description_fr": [
+    "Dégage les obstacles pour baisser\n",
+    "l’esquive de l’ennemi. Permet aussi de\n",
+    "chasser le brouillard."
+  ],
+  "plural_fr": "CS05",
+  "article_fr": null
 }

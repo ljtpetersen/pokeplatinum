@@ -23,7 +23,12 @@
             "en_US": [
                 "Yeah, like I’m really supposed to\n",
                 "win with a Pokémon like this..."
+            ],
+            "fr_FR": [
+                "Ouais, comme si je pouvais gagner avec\n",
+                "un tel Pokémon..."
             ]
         }
-    ]
+    ],
+    "name_fr": "Sbire"
 }

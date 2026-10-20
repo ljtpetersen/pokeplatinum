@@ -26,5 +26,13 @@
     "contest": {
         "effect": "CONTEST_EFFECT_FINAL_PERFORMANCE_ADVANTAGE",
         "type": "CONTEST_TYPE_TOUGH"
-    }
+    },
+    "name_fr": "Eclate-Roc",
+    "description_fr": [
+        "Le lanceur porte un\n",
+        "coup dévastateur à\n",
+        "l’ennemi. Permet aussi\n",
+        "de briser des rochers\n",
+        "fissurés."
+    ]
 }

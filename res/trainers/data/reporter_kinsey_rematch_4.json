@@ -29,7 +29,12 @@
     "messages": [
         {
             "type": "TRMSG_DEFEAT",
-            "en_US": "The press is the victim!\n"
+            "en_US": "The press is the victim!\n",
+            "fr_FR": [
+                "Pourquoi tout le monde s’en\n",
+                "prend toujours à la presse?"
+            ]
         }
-    ]
+    ],
+    "name_fr": "Célia"
 }

@@ -8,6 +8,11 @@
         "the Snowpoint Temple.\r",
         "I’m sorry, but you will have to\n",
         "leave.\r"
+      ],
+      "fr_FR": [
+        "Seuls les êtres élus peuvent pénétrer\n",
+        "dans le Temple Frimapic.\r",
+        "Je m’excuse, mais tu dois partir.\r"
       ]
     },
     {
@@ -17,6 +22,11 @@
         "the Snowpoint Temple.\r",
         "I’m sorry, but you will have to\n",
         "leave."
+      ],
+      "fr_FR": [
+        "Seuls les êtres élus peuvent pénétrer\n",
+        "dans le Temple Frimapic.\r",
+        "Je m’excuse, mais tu dois partir."
       ]
     },
     {
@@ -27,6 +37,14 @@
         "It pays homage to the Pokémon of rock,\n",
         "ice, and steel that shape the land.\r",
         "So it is told."
+      ],
+      "fr_FR": [
+        "On raconte que le temple a été\n",
+        "construit dans les temps anciens.\r",
+        "Il rend hommage aux Pokémon de\n",
+        "roche, de glace et de fer qui ont\f",
+        "façonné cette terre.\r",
+        "Enfin, c’est la légende."
       ]
     },
     {
@@ -34,6 +52,10 @@
       "en_US": [
         "Candice: It’s OK!\n",
         "You can let that person in.\r"
+      ],
+      "fr_FR": [
+        "Gladys: C’est bon!\n",
+        "Tu peux laisser entrer cette personne.\r"
       ]
     },
     {
@@ -45,6 +67,14 @@
         "There should be many rare Pokémon\n",
         "in the temple.\r",
         "Enjoy your exploring!"
+      ],
+      "fr_FR": [
+        "Cynthia m’a prévenue.\r",
+        "Tu travailles sur ton Pokédex,\n",
+        "n’est-ce pas?\r",
+        "Tu devrais trouver de nombreux\n",
+        "Pokémon rares dans ce temple.\r",
+        "Amuse-toi bien en explorant!"
       ]
     },
     {
@@ -55,6 +85,13 @@
         "But the spirits of the Trainers and\n",
         "their Pokémon burn hot and bright.\r",
         "Especially the Gym Leader."
+      ],
+      "fr_FR": [
+        "Brrr... Cette ville enneigée est\n",
+        "toujours froide comme un glaçon.\r",
+        "Mais l’esprit des Dresseurs et des\n",
+        "Pokémon y brûle d’une belle ardeur.\r",
+        "Surtout celui du Champion d’Arène."
       ]
     },
     {
@@ -62,6 +99,10 @@
       "en_US": [
         "Your scarf looks nice and warm.\n",
         "I wish I had one like it."
+      ],
+      "fr_FR": [
+        "Ton écharpe a l’air bien chaude. Et\n",
+        "élégante avec ça! Je t’envie!"
       ]
     },
     {
@@ -71,6 +112,12 @@
         "Snowpoint Temple.\r",
         "But only really tough Trainers are\n",
         "allowed inside."
+      ],
+      "fr_FR": [
+        "J’aimerais bien visiter le Temple\n",
+        "Frimapic.\r",
+        "Mais seule l’élite des Dresseurs a le\n",
+        "droit d’y entrer."
       ]
     },
     {
@@ -80,6 +127,12 @@
         "Snowpoint City here.\r",
         "The Snowpoint Temple is their resting\n",
         "place, they say."
+      ],
+      "fr_FR": [
+        "On raconte que ce sont des Pokémon qui\n",
+        "ont amené la ville de Frimapic jusqu’ici.\r",
+        "Il paraît que le Temple Frimapic est\n",
+        "leur sanctuaire."
       ]
     },
     {
@@ -88,6 +141,12 @@
         "Candice is teaching me about Pokémon.\r",
         "She says I have to start by making\n",
         "friends with Pokémon."
+      ],
+      "fr_FR": [
+        "Gladys m’apprend des choses sur\n",
+        "les Pokémon.\r",
+        "Elle dit que je dois commencer par\n",
+        "me lier d’amitié avec eux."
       ]
     },
     {
@@ -95,6 +154,10 @@
       "en_US": [
         "What is it? Do you want to sail\n",
         "to the Battle Zone?"
+      ],
+      "fr_FR": [
+        "Qu’y a-t-il? Veux-tu naviguer vers\n",
+        "le Secteur Combat?"
       ]
     },
     {
@@ -102,6 +165,10 @@
       "en_US": [
         "Aye, aye, then!\n",
         "Let’s set sail!\r"
+      ],
+      "fr_FR": [
+        "D’acc, dans ce cas!\n",
+        "On met les voiles!\r"
       ]
     },
     {
@@ -113,6 +180,14 @@
         "with choppy waves.\r",
         "You can’t go there using Surf,\n",
         "that’s for sure."
+      ],
+      "fr_FR": [
+        "Qu’y a-t-il? Ce n’est pas facile de\n",
+        "rejoindre le Secteur Combat.\r",
+        "La mer est toujours agitée dans les\n",
+        "environs, les vagues sont énormes.\r",
+        "Une chose est sûre, n’imagine pas\n",
+        "te rendre là-bas avec Surf."
       ]
     },
     {
@@ -122,6 +197,12 @@
         "the Pokémon League...\r",
         "I look forward to carrying someone\n",
         "like that on this ship!"
+      ],
+      "fr_FR": [
+        "Un grand Dresseur reconnu par\n",
+        "la Ligue Pokémon...\r",
+        "J’aimerais tellement avoir une telle\n",
+        "célébrité sur le pont!"
       ]
     },
     {
@@ -131,6 +212,12 @@
         "That makes Snowpoint unique.\r",
         "There’s nothing exceptional about me.\n",
         "That’s what makes me stand out!"
+      ],
+      "fr_FR": [
+        "Il n’y a rien d’exceptionnel à Frimapic.\n",
+        "C’est ce qui en fait un lieu unique.\r",
+        "Comme moi. Je n’ai rien d’exceptionnel,\n",
+        "ce qui fait de moi un être à part."
       ]
     },
     {
@@ -138,6 +225,10 @@
       "en_US": [
         "Cynthia: I thought you would come.\n",
         "I’m glad I waited for you!\r"
+      ],
+      "fr_FR": [
+        "Cynthia: Je savais que tu viendrais.\n",
+        "J’ai bien fait de t’attendre!\r"
       ]
     },
     {
@@ -157,6 +248,22 @@
         "where everyone is smiling.\r",
         "The world could be so much better\n",
         "if we all tried to make it that way.\r"
+      ],
+      "fr_FR": [
+        "Cynthia: Notre monde est en perpétuelle\n",
+        "mutation et c’est une bonne chose.\r",
+        "C’est moche de chercher à le plier à\n",
+        "nos désirs personnels.\r",
+        "Personne ne voudrait d’un monde tel\n",
+        "qu’Hélio l’envisage.\r",
+        "Mon rêve à moi, c’est qu’on puisse tous\n",
+        "vivre heureux ensemble.\r",
+        "Que les Pokémon et les gens cohabitent\n",
+        "et s’entraident.\r",
+        "Je veux un monde où les sourires\n",
+        "s’épanouissent sur chaque visage.\r",
+        "Les choses iraient tellement mieux si on\n",
+        "adoptait tous cette optique.\r"
       ]
     },
     {
@@ -171,6 +278,15 @@
         "Your horizons will expand again if you\n",
         "visit the Fight Area as well.\r",
         "I hope our paths cross again!\r"
+      ],
+      "fr_FR": [
+        "Je compte sur toi pour continuer à\n",
+        "sillonner le monde à la rencontre de\f",
+        "toutes sortes de gens et de Pokémon.\r",
+        "Je suis venue ici exprès pour te le dire.\r",
+        "L’Aire de Combat contribuera à élargir\n",
+        "ton horizon, elle aussi.\r",
+        "A un de ces jours, j’espère!\r"
       ]
     },
     {
@@ -178,6 +294,10 @@
       "en_US": [
         "Snowpoint City\n",
         "City of Snow"
+      ],
+      "fr_FR": [
+        "Frimapic\n",
+        "Cité de neige"
       ]
     },
     {
@@ -186,6 +306,11 @@
         "Snowpoint City Pokémon Gym\n",
         "Leader: Candice\f",
         "The Diamond Dust Girl!"
+      ],
+      "fr_FR": [
+        "Arène Pokémon de Frimapic\n",
+        "Champion: Gladys\f",
+        "La poussière de diamant!"
       ]
     }
   ]

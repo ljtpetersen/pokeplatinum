@@ -33,6 +33,10 @@
             "en_US": [
                 "OK, OK!\n",
                 "Let’s be quick about this!\r"
+            ],
+            "fr_FR": [
+                "OK, OK!\n",
+                "Finissons-en au plus vite!\r"
             ]
         },
         {
@@ -40,6 +44,10 @@
             "en_US": [
                 "Oh, yeah? Let’s do this again!\n",
                 "...Oops. I’m out of Pokémon!\n"
+            ],
+            "fr_FR": [
+                "Attends un peu! Ce n’est pas fini!\n",
+                "Oups... Je n’ai plus de Pokémon!\n"
             ]
         },
         {
@@ -47,6 +55,10 @@
             "en_US": [
                 "Yup! Good going!\n",
                 "I like the way you battle!\n"
+            ],
+            "fr_FR": [
+                "Oui! Excellent!\n",
+                "J’aime ta façon de combattre!\n"
             ]
         },
         {
@@ -55,7 +67,13 @@
                 "What took you so long?\r",
                 "We’ve waited here a long time for\n",
                 "a rematch with you!\r"
+            ],
+            "fr_FR": [
+                "Qu’est-ce qui t’a pris tout ce temps?\n",
+                "Ça fait longtemps qu’on attend notre\f",
+                "revanche contre toi!\r"
             ]
         }
-    ]
+    ],
+    "name_fr": "Jennifer"
 }

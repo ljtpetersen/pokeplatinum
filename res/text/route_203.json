@@ -10,6 +10,13 @@
         "Of course I got tougher!\r",
         "Come on!\n",
         "I’ll demonstrate it to you!\r"
+      ],
+      "fr_FR": [
+        "{STRVAR_1 3, 0, 0}: Hé! {STRVAR_1 3, 1, 0}!\n",
+        "Alors, tu as fait des progrès?\r",
+        "Moi? Quelle question!\n",
+        "Bien sûr que je me suis amélioré!\r",
+        "D’ailleurs... je vais te montrer!\r"
       ]
     },
     {
@@ -25,6 +32,19 @@
         "the Oreburgh City Pokémon Gym!\r",
         "I’m gonna toughen up for that,\n",
         "totally!\r"
+      ],
+      "fr_FR": [
+        "{STRVAR_1 3, 0, 0}: Quoi?\n",
+        "Comment ça, j’ai perdu?!\r",
+        "OK, ça suffit, maintenant!\n",
+        "C’est la dernière fois que je perds!\r",
+        "Je vais devenir le Dresseur le plus fort\n",
+        "du monde et tu le sais!\r",
+        "La première chose à faire, c’est\n",
+        "d’affronter le Champion d’Arène\f",
+        "de Charbourg!\r",
+        "Je vais faire ce qu’il faut pour\n",
+        "m’endurcir dans ce but!\r"
       ]
     },
     {
@@ -34,6 +54,12 @@
         "at the top left of your party list.\r",
         "That way, it will be the first to go out\n",
         "in a battle."
+      ],
+      "fr_FR": [
+        "Tu devrais placer ton Pokémon préféré\n",
+        "en haut à gauche dans ton équipe.\r",
+        "Comme ça, c’est lui qui apparaîtra le\n",
+        "premier en combat."
       ]
     },
     {
@@ -41,6 +67,10 @@
       "en_US": [
         "Rt. 203\n",
         "Jubilife City"
+      ],
+      "fr_FR": [
+        "Route 203\n",
+        "Féli-Cité"
       ]
     },
     {
@@ -48,6 +78,10 @@
       "en_US": [
         "Rt. 203\n",
         "Oreburgh City"
+      ],
+      "fr_FR": [
+        "Route 203\n",
+        "Charbourg"
       ]
     },
     {
@@ -60,6 +94,15 @@
         "to startle the Pokémon into stopping.\r",
         "That is how evolution can be\n",
         "canceled."
+      ],
+      "fr_FR": [
+        "Conseils aux Dresseurs\r",
+        "Si vous voulez empêcher un Pokémon\n",
+        "d’évoluer, appuyez sur le bouton B au\f",
+        "moment où il commence à évoluer.\r",
+        "Le Pokémon, effrayé, arrêtera\n",
+        "d’évoluer. C’est une cessation\f",
+        "d’évolution."
       ]
     },
     {
@@ -70,6 +113,14 @@
         "Power Points, or PP for short.\r",
         "If the PP of moves runs low, head for\n",
         "any Pokémon Center."
+      ],
+      "fr_FR": [
+        "Conseils aux Dresseurs\r",
+        "Les attaques sont limitées par des\n",
+        "PP (Points de Pouvoir).\r",
+        "Pour disposer de tous les PP,\n",
+        "faites soigner vos Pokémon dans\f",
+        "un Centre Pokémon!"
       ]
     }
   ]

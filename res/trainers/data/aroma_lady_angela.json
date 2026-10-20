@@ -28,6 +28,10 @@
             "en_US": [
                 "Even concealed, there is no hiding\n",
                 "the aroma of flowers.\r"
+            ],
+            "fr_FR": [
+                "Même quand on se cache, on ne peut\n",
+                "pas dissimuler le parfum des fleurs.\r"
             ]
         },
         {
@@ -35,6 +39,10 @@
             "en_US": [
                 "Just like your inability to conceal\n",
                 "your abundant skill.\n"
+            ],
+            "fr_FR": [
+                "Et toi, tu as vraiment du mal\n",
+                "à dissimuler l’étendue de ton talent.\n"
             ]
         },
         {
@@ -42,7 +50,12 @@
             "en_US": [
                 "Your next opponent is under four\n",
                 "flowers.\n"
+            ],
+            "fr_FR": [
+                "Tu trouveras ton prochain adversaire\n",
+                "sous quatre fleurs.\n"
             ]
         }
-    ]
+    ],
+    "name_fr": "Reine"
 }

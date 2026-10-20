@@ -25,5 +25,12 @@
     "contest": {
         "effect": "CONTEST_EFFECT_TWO_VOLTAGE_IN_A_ROW_ADVANTAGE",
         "type": "CONTEST_TYPE_CUTE"
-    }
+    },
+    "name_fr": "Encore",
+    "description_fr": [
+        "Oblige l’ennemi à\n",
+        "répéter sa dernière\n",
+        "capacité durant 3 à 7\n",
+        "tours."
+    ]
 }

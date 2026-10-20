@@ -89,6 +89,10 @@
             "en_US": [
                 "It is too difficult, but...\n",
                 "Never give up, never surrender!\n"
+            ],
+            "fr_FR": [
+                "C’est difficult, mais... je n’abandonne\n",
+                "jamais! Never!"
             ]
         },
         {
@@ -96,7 +100,12 @@
             "en_US": [
                 "You are so fantastically strong.\n",
                 "I know why I have lost.\n"
+            ],
+            "fr_FR": [
+                "Ta puissance est phénoménale.\n",
+                "Ta victoire n’est pas une surprise."
             ]
         }
-    ]
+    ],
+    "name_fr": "Kiméra"
 }

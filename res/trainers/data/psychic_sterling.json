@@ -34,18 +34,29 @@
                 "I had a revelation this morning.\r",
                 "I knew that I would have a wonderful\n",
                 "encounter here today.\r"
+            ],
+            "fr_FR": [
+                "J’ai eu une révélation ce matin.\r",
+                "Je savais que je ferais une merveilleuse\n",
+                "rencontre ici, aujourd’hui.\r"
             ]
         },
         {
             "type": "TRMSG_DEFEAT",
-            "en_US": "There’s nothing wonderful about this!\n"
+            "en_US": "There’s nothing wonderful about this!\n",
+            "fr_FR": "Elle n’a rien de merveilleux!\n"
         },
         {
             "type": "TRMSG_POST_BATTLE",
             "en_US": [
                 "Is my sense of premonition nothing\n",
                 "to write home about?\n"
+            ],
+            "fr_FR": [
+                "Mes prémonitions ne sont plus ce\n",
+                "qu’elles étaient."
             ]
         }
-    ]
+    ],
+    "name_fr": "Antonin"
 }

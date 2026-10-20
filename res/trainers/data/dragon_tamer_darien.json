@@ -22,11 +22,16 @@
     "messages": [
         {
             "type": "TRMSG_PRE_BATTLE",
-            "en_US": "My Pokémon and I seek only victory!\r"
+            "en_US": "My Pokémon and I seek only victory!\r",
+            "fr_FR": [
+                "Mon Pokémon et moi n’avons qu’un seul\n",
+                "objectif! La victoire!\r"
+            ]
         },
         {
             "type": "TRMSG_DEFEAT",
-            "en_US": "Arrrgh! My Pokémon...\n"
+            "en_US": "Arrrgh! My Pokémon...\n",
+            "fr_FR": "Arrrgh! Mon Pokémon...\n"
         },
         {
             "type": "TRMSG_POST_BATTLE",
@@ -35,6 +40,12 @@
                 "I wasn’t prepared enough to lead it!\r",
                 "I don’t ever want my precious Pokémon\n",
                 "to be humiliated again!\n"
+            ],
+            "fr_FR": [
+                "J’ai trahi mon Pokémon!\n",
+                "Je ne suis pas digne de lui!\r",
+                "Grr! Jamais plus je ne laisserai mon\n",
+                "Pokémon se faire humilier comme ça!"
             ]
         },
         {
@@ -42,7 +53,12 @@
             "en_US": [
                 "You’ve beaten us once before, but we\n",
                 "won’t make the same mistake!\r"
+            ],
+            "fr_FR": [
+                "Tu nous as battus une fois, mais on ne\n",
+                "fera pas deux fois la même erreur!\r"
             ]
         }
-    ]
+    ],
+    "name_fr": "Nicolas"
 }

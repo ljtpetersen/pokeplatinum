@@ -26,5 +26,13 @@
   "battlePocket": "BATTLE_POCKET_MASK_NONE",
   "fieldUseFunc": "ITEM_USE_FUNC_NONE",
   "battleUseCategory": "BATTLE_USE_CATEGORY_NONE",
-  "itemUseParams": null
+  "itemUseParams": null,
+  "name_fr": "Pic Venin",
+  "description_fr": [
+    "Objet à tenir. Petit pic empoisonné\n",
+    "montant la puissance des capacités de\n",
+    "type Poison."
+  ],
+  "plural_fr": "Pic Venin",
+  "article_fr": null
 }

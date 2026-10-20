@@ -26,5 +26,13 @@
     "contest": {
         "effect": "CONTEST_EFFECT_LOWERS_VOLTAGE",
         "type": "CONTEST_TYPE_CUTE"
-    }
+    },
+    "name_fr": "Brouhaha",
+    "description_fr": [
+        "Le lanceur attaque\n",
+        "en rugissant durant\n",
+        "2 à 5 tours. Pendant\n",
+        "ce temps, personne\n",
+        "ne peut s’endormir."
+    ]
 }

@@ -7,6 +7,10 @@
         "Hello, thank you for visiting us\n",
         "today.\r",
         "To which floor may I take you?"
+      ],
+      "fr_FR": [
+        "Bonjour, et merci pour votre visite.\r",
+        "A quel étage voulez-vous aller?"
       ]
     },
     {
@@ -14,6 +18,10 @@
       "en_US": [
         "Certainly.\n",
         "Elevator going up.\r"
+      ],
+      "fr_FR": [
+        "Certainement.\n",
+        "Nous montons tout de suite.\r"
       ]
     },
     {
@@ -21,15 +29,21 @@
       "en_US": [
         "Certainly.\n",
         "Elevator going down.\r"
+      ],
+      "fr_FR": [
+        "Certainement.\n",
+        "Nous descendons tout de suite.\r"
       ]
     },
     {
       "id": "ResortAreaRibbonSyndicateElevator_Text_SameFloor",
-      "en_US": "Uh... We are already on that floor?"
+      "en_US": "Uh... We are already on that floor?",
+      "fr_FR": "Euh... Nous sommes déjà à cet étage."
     },
     {
       "id": "ResortAreaRibbonSyndicateElevator_Text_HereWeAre",
-      "en_US": "Here we are!"
+      "en_US": "Here we are!",
+      "fr_FR": "Nous y sommes!"
     }
   ]
 }

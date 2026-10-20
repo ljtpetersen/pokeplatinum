@@ -25,5 +25,13 @@
     "contest": {
         "effect": "CONTEST_EFFECT_DOUBLE_NEXT_TURN",
         "type": "CONTEST_TYPE_TOUGH"
-    }
+    },
+    "name_fr": "Acidarmure",
+    "description_fr": [
+        "Le lanceur modifie sa\n",
+        "structure moléculaire\n",
+        "pour se liquéfier et\n",
+        "augmenter fortement\n",
+        "sa Défense."
+    ]
 }

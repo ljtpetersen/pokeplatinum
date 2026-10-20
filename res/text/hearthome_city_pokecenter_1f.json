@@ -8,6 +8,12 @@
         "Terminal in Jubilife City?\r",
         "It uses Nintendo Wi-Fi Connection!\n",
         "I can’t explain it, but it’s wicked!"
+      ],
+      "fr_FR": [
+        "Tu as vu le Terminal Mondial à Féli-Cité?\r",
+        "Il utilise la connexion Wi-Fi Nintendo!\n",
+        "Je sais pas comment ça marche, \f",
+        "mais c’est vraiment trop cool!"
       ]
     },
     {
@@ -16,6 +22,11 @@
         "Hello, do you have a Poffin Case?\r",
         "If you haven’t got one, you really\n",
         "must visit the Pokémon Fan Club."
+      ],
+      "fr_FR": [
+        "Salut, tu as une Boîte Poffin?\r",
+        "Si c’est pas le cas, tu ferais bien de\n",
+        "faire un saut au Fan Club Pokémon."
       ]
     },
     {
@@ -24,6 +35,11 @@
         "If you feed your Pokémon Poffins\n",
         "routinely, you’ll be able to enter\f",
         "Contests whenever you like."
+      ],
+      "fr_FR": [
+        "Si tu donnes régulièrement des Poffins\n",
+        "à tes Pokémon, tu pourras participer à\f",
+        "autant de Concours que tu veux."
       ]
     },
     {
@@ -33,6 +49,12 @@
         "Contests, too.\r",
         "That lady has a huge appetite for\n",
         "experiencing everything in life!"
+      ],
+      "fr_FR": [
+        "Kiméra, le Champion d’Arène, aime aussi\n",
+        "les Concours.\r",
+        "Cette femme-là est vraiment une\n",
+        "touche-à-tout!"
       ]
     },
     {
@@ -42,6 +64,12 @@
         "Contests, too.\r",
         "That lady has a huge appetite for\n",
         "experiencing everything in life!"
+      ],
+      "fr_FR": [
+        "Kiméra, le Champion d’Arène, aime aussi\n",
+        "les Concours.\r",
+        "Cette femme-là est vraiment une\n",
+        "touche-à-tout!"
       ]
     },
     {
@@ -49,17 +77,30 @@
       "en_US": [
         "We’re doing a news piece on Trainers.\n",
         "Can we get you to participate?"
+      ],
+      "fr_FR": [
+        "On fait un reportage sur les Dresseurs.\n",
+        "Acceptes-tu d’y participer?"
       ]
     },
     {
       "id": "HearthomeCityPokecenter1F_Text_KinseyBattleAccepted_Unused",
-      "en_US": "Reporter Kinsey’s live interview!\r"
+      "en_US": "Reporter Kinsey’s live interview!\r",
+      "fr_FR": [
+        "Interviewer Célia au cœur\n",
+        "de l’action!\r"
+      ]
     },
     {
       "id": "HearthomeCityPokecenter1F_Text_KinseyBattleDeclined_Unused",
       "en_US": [
         "...Are you one of those contrary\n",
         "people who reply “No” first thing?"
+      ],
+      "fr_FR": [
+        "... Fais-tu partie de ces gens qui\n",
+        "disent toujours “Non” par esprit de\f",
+        "contradiction?"
       ]
     },
     {
@@ -68,6 +109,12 @@
         "Why Trainers choose certain kinds of\n",
         "Pokémon and their feelings about it...\r",
         "That’s what we’re investigating."
+      ],
+      "fr_FR": [
+        "Les raisons qui poussent les Dresseurs\n",
+        "à choisir certaines espèces de Pokémon\f",
+        "et ce qu’ils en pensent...\r",
+        "C’est le sujet de notre enquête."
       ]
     },
     {
@@ -77,6 +124,12 @@
         "eyes on you.\r",
         "I’d really love to capture you on\n",
         "camera while you’re battling."
+      ],
+      "fr_FR": [
+        "Dès que j’ai posé les yeux sur toi,\n",
+        "l’inspiration m’est venue.\r",
+        "J’aimerais vraiment te filmer en plein\n",
+        "combat."
       ]
     },
     {
@@ -84,6 +137,11 @@
       "en_US": [
         "For close-ups, I need to get in tight.\n",
         "You don’t mind, do you?\r"
+      ],
+      "fr_FR": [
+        "J’ai besoin de me coller à toi pour\n",
+        "les gros plans.\r",
+        "Ça ne te dérange pas, j’espère?\r"
       ]
     },
     {
@@ -92,6 +150,12 @@
         "That’s a downer...\r",
         "I thought I’d found a Trainer and\n",
         "Pokémon who’d shine on camera."
+      ],
+      "fr_FR": [
+        "Quelle déception...\r",
+        "Moi qui pensais avoir déniché un\n",
+        "Dresseur et une équipe de Pokémon\f",
+        "susceptibles de crever l’écran."
       ]
     },
     {
@@ -99,6 +163,10 @@
       "en_US": [
         "So, did you come to Hearthome to\n",
         "compete in Contests?"
+      ],
+      "fr_FR": [
+        "Alors? Tu es à Unionpolis pour\n",
+        "participer aux Concours?"
       ]
     }
   ]

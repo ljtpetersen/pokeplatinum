@@ -3,35 +3,48 @@
   "messages": [
     {
       "id": "NamingScreen_Text_PlayerPrompt",
-      "en_US": "Your name?{YESNO 0}"
+      "en_US": "Your name?{YESNO 0}",
+      "fr_FR": "Votre nom?{YESNO 0}"
     },
     {
       "id": "NamingScreen_Text_PokemonPrompt",
-      "en_US": "{STRVAR_1 1, 0, 0}’s nickname?{YESNO 0}"
+      "en_US": "{STRVAR_1 1, 0, 0}’s nickname?{YESNO 0}",
+      "fr_FR": "Le surnom de {STRVAR_1 1, 0, 0}?{YESNO 0}"
     },
     {
       "id": "NamingScreen_Text_BoxPrompt",
-      "en_US": "Box name?{YESNO 0}"
+      "en_US": "Box name?{YESNO 0}",
+      "fr_FR": "Le nom de la Boîte?{YESNO 0}"
     },
     {
       "id": "NamingScreen_Text_FriendNamePrompt",
-      "en_US": "Your friend’s name?{YESNO 0}"
+      "en_US": "Your friend’s name?{YESNO 0}",
+      "fr_FR": "Le nom de votre ami?{YESNO 0}"
     },
     {
       "id": "NamingScreen_Text_FriendCodePrompt",
-      "en_US": "Enter the Friend Code.{YESNO 0}"
+      "en_US": "Enter the Friend Code.{YESNO 0}",
+      "fr_FR": "Entrez le code ami.{YESNO 0}"
     },
     {
       "id": "NamingScreen_Text_GroupPrompt",
-      "en_US": "Group name?{YESNO 0}"
+      "en_US": "Group name?{YESNO 0}",
+      "fr_FR": "Le nom du groupe?{YESNO 0}"
     },
     {
       "id": "NamingScreen_Text_ThanksPrompt",
-      "en_US": "Thank who?{YESNO 0}"
+      "en_US": "Thank who?{YESNO 0}",
+      "fr_FR": "Remercier qui?{YESNO 0}"
     },
     {
       "id": "NamingScreen_Text_Group",
       "en_US": "Group"
+    },
+    {
+      "id": "NamingScreen_Text_Group",
+      "en_US": null,
+      "en_GB": null,
+      "garbage": 0
     },
     {
       "id": "NamingScreen_Text_Xs",

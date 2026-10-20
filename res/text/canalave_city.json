@@ -12,6 +12,16 @@
         "ready for this challenge!\r",
         "That someone is me!\n",
         "With my brand-new Gym Badge!\r"
+      ],
+      "fr_FR": [
+        "{STRVAR_1 3, 0, 0}: Oups!\n",
+        "Hé, {STRVAR_1 3, 1, 0}!\r",
+        "Tu comptes défier le Champion d’Arène\n",
+        "du coin, hein?\r",
+        "Quelqu’un devrait évaluer ta force,\n",
+        "au cas où tu n’aurais pas le niveau!\r",
+        "D’ailleurs, on va s’en occuper!\n",
+        "Moi et mon Badge d’Arène flambant neuf!\r"
       ]
     },
     {
@@ -29,6 +39,19 @@
         "and toughen up some more.\r",
         "Yeah, train at Iron Island! That’s what\n",
         "I did before going to the Gym!\r"
+      ],
+      "fr_FR": [
+        "{STRVAR_1 3, 0, 0}: Ouais, ouais, tu es juste\n",
+        "un peu en avance sur moi, comme d’hab.\r",
+        "Mais écoute bien!\r",
+        "Devine qui va défier la Ligue Pokémon et\n",
+        "en devenir le Maître...\r",
+        "Exact! Bien vu!\n",
+        "Ce sera moi!\r",
+        "Bref, tu devrais aller sur l’Ile de Fer\n",
+        "pour t’entraîner.\r",
+        "Ouais, vas-y! C’est ce que j’ai fait\n",
+        "avant de défier le Champion d’Arène!\r"
       ]
     },
     {
@@ -42,6 +65,16 @@
         "not going to actually happen.\r",
         "Anyway, {STRVAR_1 3, 1, 0}, come with\n",
         "me to the library.\r"
+      ],
+      "fr_FR": [
+        "{STRVAR_1 3, 0, 0}: Hé! C’est le Badge\n",
+        "Mine! Bien joué!\r",
+        "Tu es assez coriace pour envisager de\n",
+        "devenir le prochain Maître Pokémon.\r",
+        "Bien sûr, ça n’arrivera pas étant\n",
+        "donné que je suis toujours numéro un.\r",
+        "Enfin bref... Accompagne-moi à la \n",
+        "bibliothèque, {STRVAR_1 3, 1, 0}.\r"
       ]
     },
     {
@@ -56,6 +89,17 @@
         "you?\r",
         "Aww, sheesh! I’ll wait here for you!\n",
         "Hurry up and go already!"
+      ],
+      "fr_FR": [
+        "{STRVAR_1 3, 0, 0}: Tiens, te voilà!\n",
+        "Enfin!\r",
+        "Oh, mais qu’est-ce que...\r",
+        "Oooh, toi, tu n’as pas fait un tour sur\n",
+        "l’Ile de Fer!\r",
+        "Et tu n’as pas récupéré la CS Force!\r",
+        "Rhoo, mince alors! Bon, vas-y, moi je\n",
+        "t’attendrai ici! Mais ne traîne pas en\f",
+        "route!"
       ]
     },
     {
@@ -64,6 +108,11 @@
         "{STRVAR_1 3, 0, 0}: Too slow!\r",
         "Come on!\n",
         "Let’s move it!\r"
+      ],
+      "fr_FR": [
+        "{STRVAR_1 3, 0, 0}: Quel traîne-savate!\r",
+        "Allez!\n",
+        "Dépêche-toi un peu!\r"
       ]
     },
     {
@@ -71,6 +120,10 @@
       "en_US": [
         "Rowan: ...That tremor...\n",
         "That wasn’t a natural occurrence.\r"
+      ],
+      "fr_FR": [
+        "Sorbier: ... Cette secousse...\n",
+        "Elle n’avait rien de naturel.\r"
       ]
     },
     {
@@ -82,6 +135,15 @@
         "explosion at Lake Valor!\r",
         "But, I hear everything’s fine now.\n",
         "I guess it was just a lot of noise.\r"
+      ],
+      "fr_FR": [
+        "Hé, hé! Papi! Les enfants!\n",
+        "Vous avez entendu ça?!\r",
+        "On raconte qu’il y a eu une énorme\n",
+        "explosion au Lac Courage!\r",
+        "Mais il paraît que tout est rentré dans\n",
+        "l’ordre. Beaucoup de bruit pour rien,\f",
+        "j’imagine.\r"
       ]
     },
     {
@@ -90,6 +152,11 @@
         "{STRVAR_1 3, 0, 0}: Gramps!\r",
         "I’m going!\n",
         "I have a bad feeling about this!\r"
+      ],
+      "fr_FR": [
+        "{STRVAR_1 3, 0, 0}: Pépé!\r",
+        "J’y vais!\n",
+        "J’ai un mauvais pressentiment!\r"
       ]
     },
     {
@@ -107,6 +174,20 @@
         "don’t get in over your head.\r",
         "We will try to join you as soon as\n",
         "we inspect Lake Verity.\r"
+      ],
+      "fr_FR": [
+        "Sorbier: ... Ce {STRVAR_1 3, 0, 0}...\n",
+        "Il ne tient pas en place...\r",
+        "{STRVAR_1 3, 1, 0}, je n’aime pas m’imposer,\n",
+        "mais j’ai besoin de toi au Lac Courage.\r",
+        "Il y a forcément quelque chose qui\n",
+        "cloche après une explosion pareille.\r",
+        "Quant à savoir de quoi il s’agit, c’est\n",
+        "une autre paire de manches...\r",
+        "Mais avant que tu partes, je t’avertis:\n",
+        "ne prends pas de risques inutiles.\r",
+        "Nous te rejoindrons dès que nous en\n",
+        "aurons fini au Lac Vérité.\r"
       ]
     },
     {
@@ -114,6 +195,10 @@
       "en_US": [
         "Dawn: ...{STRVAR_1 3, 0, 0}, you’ll be OK,\n",
         "no matter what, right?"
+      ],
+      "fr_FR": [
+        "Aurore: {STRVAR_1 3, 0, 0}, ça ira,\n",
+        "quoi qu’il arrive, pas vrai?"
       ]
     },
     {
@@ -121,6 +206,10 @@
       "en_US": [
         "Lucas: Lake Valor...\n",
         "I wonder what happened?"
+      ],
+      "fr_FR": [
+        "Louka: Le Lac Courage...\n",
+        "Je me demande ce qui s’est passé."
       ]
     },
     {
@@ -130,6 +219,12 @@
         "first...\r",
         "Don’t do anything rash if something\n",
         "does happen."
+      ],
+      "fr_FR": [
+        "Aurore: Nous allons inspecter le Lac\n",
+        "Vérité avant de te rejoindre.\r",
+        "Ne tente rien d’insensé s’il arrive\n",
+        "quelque chose."
       ]
     },
     {
@@ -139,6 +234,12 @@
         "Lake Verity before we join you.\r",
         "Don’t try to be a hero if anything\n",
         "crazy happens."
+      ],
+      "fr_FR": [
+        "Louka: Nous allons d’abord au Lac\n",
+        "Vérité...\r",
+        "S’il y a du grabuge, ne tente rien\n",
+        "d’imprudent."
       ]
     },
     {
@@ -151,6 +252,15 @@
         "don’t get in over your head.\r",
         "We will try to join you as soon as\n",
         "we inspect Lake Verity."
+      ],
+      "fr_FR": [
+        "Sorbier: Hum...\r",
+        "Il se passe quelque chose au\n",
+        "Lac Courage... Tu dois mener l’enquête!\r",
+        "Mais avant que tu partes, écoute bien:\n",
+        "n’essaie pas d’en faire trop.\r",
+        "Nous te rejoindrons dès que nous\n",
+        "aurons inspecté le Lac Vérité."
       ]
     },
     {
@@ -160,6 +270,13 @@
         "Your clothes look damp.\r",
         "Maybe you took the boat to Iron Island\n",
         "to get a Hidden Machine, right?"
+      ],
+      "fr_FR": [
+        "Qu’est-ce qui se passe?\n",
+        "Tes habits sont tout mouillés.\r",
+        "J’imagine que tu as pris le bateau pour\n",
+        "l’Ile de Fer histoire de récupérer\f",
+        "une CS, je me trompe?"
       ]
     },
     {
@@ -167,6 +284,12 @@
       "en_US": [
         "The tremor earlier was no quake.\n",
         "It seems it was a mysterious explosion!"
+      ],
+      "fr_FR": [
+        "La secousse de tout à l’heure...\n",
+        "Rien à voir avec un séisme.\r",
+        "On aurait dit une mystérieuse\n",
+        "explosion!"
       ]
     },
     {
@@ -176,6 +299,12 @@
         "City!\r",
         "In the old days, this port used to\n",
         "be a hub of cargo transportation."
+      ],
+      "fr_FR": [
+        "Bienvenue à Joliberges, la ville\n",
+        "du grand canal!\r",
+        "Dans l’ancien temps, ce port était\n",
+        "au centre du commerce maritime."
       ]
     },
     {
@@ -183,6 +312,10 @@
       "en_US": [
         "What was that tremor?\n",
         "I thought Mt. Coronet erupted!"
+      ],
+      "fr_FR": [
+        "C’était quoi, cette secousse? J’ai cru\n",
+        "que le Mont Couronné s’était réveillé!"
       ]
     },
     {
@@ -192,6 +325,13 @@
         "hanging out in front of the library.\r",
         "He’s so jittery, just seeing him makes\n",
         "me feel twitchy."
+      ],
+      "fr_FR": [
+        "Il y a un garçon à l’air très impatient\n",
+        "en train de faire les cent pas devant\f",
+        "la bibliothèque.\r",
+        "Il est si agité que sa seule présence\n",
+        "me rend nerveux."
       ]
     },
     {
@@ -200,6 +340,11 @@
         "I’m going to study at the library.\r",
         "I’ve taken an interest in the subject\n",
         "of time and space."
+      ],
+      "fr_FR": [
+        "Je m’en vais étudier à la bibliothèque.\r",
+        "Ces derniers temps, je dévore tout ce\n",
+        "qui a trait au temps et à l’espace."
       ]
     },
     {
@@ -207,6 +352,10 @@
       "en_US": [
         "An explosion at Lake Valor?\n",
         "But there isn’t anything there?"
+      ],
+      "fr_FR": [
+        "Une explosion au Lac Courage?\n",
+        "Mais il n’y a rien là-bas!"
       ]
     },
     {
@@ -214,6 +363,11 @@
       "en_US": [
         "My PSYDUCK is very close to me.\n",
         "That makes its Return move powerful!"
+      ],
+      "fr_FR": [
+        "Mon PSYKOKWAK et moi sommes très liés.\n",
+        "Du coup, sa capacité Retour est encore\f",
+        "plus puissante!"
       ]
     },
     {
@@ -221,17 +375,26 @@
       "en_US": [
         "E-even PS-PSYDUCK’s Future Sight\n",
         "couldn’t foretell that tremor!"
+      ],
+      "fr_FR": [
+        "M-Même la P-Prescience de PSYKOKWAK\n",
+        "n’aurait pu prédire cette secousse!"
       ]
     },
     {
       "id": "CanalaveCity_Text_PsyduckCryGua",
-      "en_US": "PSYDUCK: Gua?"
+      "en_US": "PSYDUCK: Gua?",
+      "fr_FR": "PSYKOKWAK: Kwak?"
     },
     {
       "id": "CanalaveCity_Text_PsyduckCryGuaagwa",
       "en_US": [
         "PSYDUCK: Gua! Gua! Gwa?\n",
         "Guaa! Guuagwa?!"
+      ],
+      "fr_FR": [
+        "PSYKOKWAK: Kwak! Kwak! Kwaaaak?\n",
+        "Kwak! Psykokwak?!"
       ]
     },
     {
@@ -241,6 +404,12 @@
         "often go out to Iron Island.\r",
         "They not only train their Pokémon,\n",
         "but they work out as well."
+      ],
+      "fr_FR": [
+        "Les Champions d’Arène et les Dresseurs\n",
+        "se rendent souvent sur l’Ile de Fer.\r",
+        "Ils y entraînent leurs Pokémon, mais\n",
+        "aussi leur corps."
       ]
     },
     {
@@ -248,21 +417,31 @@
       "en_US": [
         "I’m flabbergasted!\n",
         "What could explode at Lake Valor?"
+      ],
+      "fr_FR": [
+        "Je suis stupéfait! Qu’est-ce qui peut\n",
+        "bien avoir explosé au Lac Courage?"
       ]
     },
     {
       "id": "CanalaveCity_Text_DoYouWannaSetSail",
-      "en_US": "Do you wanna set sail?"
+      "en_US": "Do you wanna set sail?",
+      "fr_FR": "Tu veux mettre les voiles?"
     },
     {
       "id": "CanalaveCity_Text_AnchorsAweigh",
-      "en_US": "Anchors aweigh!\r"
+      "en_US": "Anchors aweigh!\r",
+      "fr_FR": "On lève l’ancre!\r"
     },
     {
       "id": "CanalaveCity_Text_TellWheneverSetSail",
       "en_US": [
         "You just tell me whenever you need\n",
         "to set sail!"
+      ],
+      "fr_FR": [
+        "Viens me voir si jamais tu veux\n",
+        "prendre la mer!"
       ]
     },
     {
@@ -270,6 +449,10 @@
       "en_US": [
         "Ahoy! You just go on and tell me\n",
         "whenever you want to set sail again!"
+      ],
+      "fr_FR": [
+        "Ohé, du bateau! Préviens-moi quand tu\n",
+        "veux reprendre la mer!"
       ]
     },
     {
@@ -277,6 +460,10 @@
       "en_US": [
         "...You....\n",
         "You’re going to Fullmoon Island for us?"
+      ],
+      "fr_FR": [
+        "Tu... tu vas te rendre sur\n",
+        "l’Ile Pleine Lune pour nous?"
       ]
     },
     {
@@ -288,6 +475,15 @@
         "Please, I need the Lunar Wing from\n",
         "Fullmoon Island to awaken him!\r",
         "I went, but I failed to find it...\r"
+      ],
+      "fr_FR": [
+        "On compte tous les deux sur toi!\r",
+        "Personne d’autre ne peut tirer mon\n",
+        "fils de cet horrible cauchemar...\r",
+        "Nous avons besoin de la Lun’Aile de\n",
+        "l’Ile Pleine Lune pour le réveiller!\r",
+        "Mes recherches personnelles se sont\n",
+        "soldées par un échec...\r"
       ]
     },
     {
@@ -296,6 +492,11 @@
         "Do you need to get ready?\r",
         "I’ll be waiting here.\n",
         "We’re desperate for your help."
+      ],
+      "fr_FR": [
+        "Tu dois te préparer?\r",
+        "Je t’attendrai ici.\n",
+        "On a vraiment besoin de ton aide."
       ]
     },
     {
@@ -303,6 +504,10 @@
       "en_US": [
         "That Lunar Wing...\n",
         "Please! Take it to my son..."
+      ],
+      "fr_FR": [
+        "Cette Lun’Aile...\n",
+        "S’il te plaît! Apporte-la à mon fils..."
       ]
     },
     {
@@ -312,6 +517,12 @@
         "long time... What happened to you?\r",
         "And what were you doing here?\n",
         "No one’s lived here for fifty years.\r"
+      ],
+      "fr_FR": [
+        "Tu dors depuis si longtemps...\n",
+        "Qu’est-ce qui t’est arrivé?\r",
+        "Que faisais-tu là-dedans? Plus personne\n",
+        "n’y vit depuis cinquante ans.\r"
       ]
     },
     {
@@ -319,6 +530,10 @@
       "en_US": [
         "Canalave City\n",
         "Cargo Port"
+      ],
+      "fr_FR": [
+        "Joliberges\n",
+        "Port marchand"
       ]
     },
     {
@@ -327,25 +542,37 @@
         "Canalave City Pokémon Gym\n",
         "Leader: Byron\f",
         "The Man with the Steel Body!"
+      ],
+      "fr_FR": [
+        "Arène Pokémon de Joliberges\n",
+        "Champion: Charles\f",
+        "L’Homme au corps d’acier!"
       ]
     },
     {
       "id": "CanalaveCity_Text_SignCanalaveLibrary",
-      "en_US": "Canalave Library"
+      "en_US": "Canalave Library",
+      "fr_FR": "Bibliothèque de Joliberges"
     },
     {
       "id": "CanalaveCity_Text_SignSailorEldritchsHouse",
-      "en_US": "Sailor Eldritch’s House"
+      "en_US": "Sailor Eldritch’s House",
+      "fr_FR": "Maison d’Edern le Marin"
     },
     {
       "id": "CanalaveCity_Text_SignCanalaveDock",
-      "en_US": "Canalave Dock"
+      "en_US": "Canalave Dock",
+      "fr_FR": "Quai Joliberges"
     },
     {
       "id": "CanalaveCity_Text_SignHarborInnFaded",
       "en_US": [
         "Harbor Inn...\n",
         "The text is too faded to read."
+      ],
+      "fr_FR": [
+        "Auberge du Port...\n",
+        "Le temps a effacé l’inscription."
       ]
     },
     {
@@ -355,6 +582,12 @@
         "A Roost for Restless Sailors\r",
         "“Enjoy sweet dreams in our\n",
         "sumptuous beds!”"
+      ],
+      "fr_FR": [
+        "Auberge du Port\n",
+        "La tanière des braves marins\r",
+        "“Faites de doux rêves dans\n",
+        "nos lits somptueux!”"
       ]
     },
     {
@@ -362,6 +595,10 @@
       "en_US": [
         "The door is tightly shut.\n",
         "It appears impossible to open."
+      ],
+      "fr_FR": [
+        "La porte est fermée à double tour.\n",
+        "Vous allez avoir du mal à l’ouvrir."
       ]
     }
   ]

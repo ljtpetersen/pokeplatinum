@@ -22,5 +22,12 @@
     "contest": {
         "effect": "CONTEST_EFFECT_SUPPRESS_VOLTAGE",
         "type": "CONTEST_TYPE_CUTE"
-    }
+    },
+    "name_fr": "Lance-Boue",
+    "description_fr": [
+        "Le lanceur se couvre\n",
+        "de boue pour affaiblir\n",
+        "les capacités Electrik\n",
+        "quand il combat."
+    ]
 }

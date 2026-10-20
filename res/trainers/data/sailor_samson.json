@@ -54,6 +54,11 @@
                 "Like the raging sea, I crash down\n",
                 "and wash away everything before me!\r",
                 "That’s just how I roll!\r"
+            ],
+            "fr_FR": [
+                "Comme une mer déchaînée, je submerge\n",
+                "et balaye tout ce qui me résiste!\r",
+                "C’est comme ça que ça marche!\r"
             ]
         },
         {
@@ -61,6 +66,10 @@
             "en_US": [
                 "That wave didn’t even wash\n",
                 "my hands...\n"
+            ],
+            "fr_FR": [
+                "Tu parles d’une mer déchaînée. Même\n",
+                "pas de quoi se laver les mains...\n"
             ]
         },
         {
@@ -68,7 +77,12 @@
             "en_US": [
                 "I’m now becalmed like a waveless\n",
                 "sea...\n"
+            ],
+            "fr_FR": [
+                "Maintenant, je suis calme comme la\n",
+                "mer après la tempête...\n"
             ]
         }
-    ]
+    ],
+    "name_fr": "Akim"
 }

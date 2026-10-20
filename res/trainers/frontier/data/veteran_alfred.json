@@ -77,6 +77,10 @@
             "en_US": [
                 "You need to be taught what wisdom of\n",
                 "age means in battle!"
+            ],
+            "fr_FR": [
+                "Grâce à ce combat, tu apprendras que\n",
+                "la sagesse vient avec l’expérience."
             ]
         },
         {
@@ -84,6 +88,10 @@
             "en_US": [
                 "I’ll have you know that no child can\n",
                 "hope to defeat me!\r"
+            ],
+            "fr_FR": [
+                "Il faudra plus qu’un enfant pour\n",
+                "me terrasser!\r"
             ]
         },
         {
@@ -91,7 +99,12 @@
             "en_US": [
                 "That did not happen! Unfair!\n",
                 "I demand a rematch right now!\r"
+            ],
+            "fr_FR": [
+                "C’est pas juste! Je proteste!\n",
+                "J’exige une revanche!\r"
             ]
         }
-    ]
+    ],
+    "name_fr": "Alfred"
 }

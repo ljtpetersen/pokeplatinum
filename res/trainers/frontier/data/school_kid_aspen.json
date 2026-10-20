@@ -59,6 +59,10 @@
             "en_US": [
                 "I can do this...\n",
                 "I can shine here, too!"
+            ],
+            "fr_FR": [
+                "Je peux le faire...\n",
+                "Je peux être la meilleure!"
             ]
         },
         {
@@ -66,6 +70,10 @@
             "en_US": [
                 "Yes! I won!\n",
                 "I’m going to be a star!\r"
+            ],
+            "fr_FR": [
+                "Super! J’ai gagné!\n",
+                "Je vais finir par être une star!\r"
             ]
         },
         {
@@ -73,7 +81,12 @@
             "en_US": [
                 "One day, I’m going to shine as the\n",
                 "brightest star in the world!\r"
+            ],
+            "fr_FR": [
+                "Un jour, je serai la plus grande\n",
+                "star que le monde ait connue!\r"
             ]
         }
-    ]
+    ],
+    "name_fr": "Aimée"
 }

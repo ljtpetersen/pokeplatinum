@@ -27,5 +27,13 @@
   "fieldUseFunc": "ITEM_USE_FUNC_TM_HM",
   "battleUseCategory": "BATTLE_USE_CATEGORY_NONE",
   "itemUseParams": null,
-  "teachesMove": "MOVE_EMBARGO"
+  "teachesMove": "MOVE_EMBARGO",
+  "name_fr": "CT63",
+  "description_fr": [
+    "Empêche l’ennemi d’utiliser un objet\n",
+    "tenu et son Dresseur d’utiliser un\n",
+    "objet sur lui."
+  ],
+  "plural_fr": "CT63",
+  "article_fr": null
 }

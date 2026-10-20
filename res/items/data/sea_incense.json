@@ -26,5 +26,13 @@
   "battlePocket": "BATTLE_POCKET_MASK_NONE",
   "fieldUseFunc": "ITEM_USE_FUNC_NONE",
   "battleUseCategory": "BATTLE_USE_CATEGORY_NONE",
-  "itemUseParams": null
+  "itemUseParams": null,
+  "name_fr": "Encens Mer",
+  "description_fr": [
+    "Objet à tenir. Encens au parfum curieux\n",
+    "qui augmente la puissance des capacités\n",
+    "de type Eau."
+  ],
+  "plural_fr": "Encens Mer",
+  "article_fr": null
 }

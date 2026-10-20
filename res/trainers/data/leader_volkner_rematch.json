@@ -89,6 +89,10 @@
             "en_US": [
                 "You methodically corner me!\n",
                 "Just like before!\n"
+            ],
+            "fr_FR": [
+                "J’ai l’impression d’avoir déjà vécu ça...\n",
+                "Mais la victoire n’est pas acquise!"
             ]
         },
         {
@@ -97,7 +101,13 @@
                 "I even felt thrilled during our\n",
                 "match.\r",
                 "That was a very good battle.\n"
+            ],
+            "fr_FR": [
+                "Chacun de nos combats me procure une\n",
+                "sorte de poussée d’adrénaline.\r",
+                "Je te remercie.\n"
             ]
         }
-    ]
+    ],
+    "name_fr": "Tanguy"
 }

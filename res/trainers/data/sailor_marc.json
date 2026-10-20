@@ -25,6 +25,12 @@
                 "in a boat, just you and me!\r",
                 "That’s the way of the Sailor!\n",
                 "Way of the Sailor. Sing it!\r"
+            ],
+            "fr_FR": [
+                "Ohé, on partira, toi et moi,\n",
+                "sur mon bateau!\r",
+                "C’est ça, le destin du Marin!\n",
+                "Le destin du Marin. Tous en chœur!\r"
             ]
         },
         {
@@ -32,7 +38,8 @@
             "en_US": [
                 "Your Pokémon...\n",
                 "They’re looking good!\n"
-            ]
+            ],
+            "fr_FR": "Waouh, tu tiens une super forme!\n"
         },
         {
             "type": "TRMSG_POST_BATTLE",
@@ -41,6 +48,12 @@
                 "a Sailor yourself.\r",
                 "It’s been great to be able to visit\n",
                 "different places around the world.\n"
+            ],
+            "fr_FR": [
+                "Toi aussi, tu devrais penser à\n",
+                "partir en mer.\r",
+                "Ça m’a donné l’opportunité de visiter\n",
+                "les quatre coins du monde.\n"
             ]
         },
         {
@@ -50,7 +63,14 @@
                 "in a boat, just you and me!\r",
                 "That’s the way of the Sailor!\n",
                 "Way of the Sailor. You sing, too!\r"
+            ],
+            "fr_FR": [
+                "Ohé, on partira, toi et moi,\n",
+                "sur mon bateau!\r",
+                "C’est ça, le destin du Marin!\n",
+                "Le destin du Marin. Allez, à toi!\r"
             ]
         }
-    ]
+    ],
+    "name_fr": "Lorens"
 }

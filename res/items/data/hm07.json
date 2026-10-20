@@ -27,5 +27,13 @@
   "fieldUseFunc": "ITEM_USE_FUNC_TM_HM",
   "battleUseCategory": "BATTLE_USE_CATEGORY_NONE",
   "itemUseParams": null,
-  "teachesMove": "MOVE_WATERFALL"
+  "teachesMove": "MOVE_WATERFALL",
+  "name_fr": "CS07",
+  "description_fr": [
+    "Le lanceur charge l’ennemi à une\n",
+    "vitesse remarquable. Permet aussi\n",
+    "de franchir une cascade."
+  ],
+  "plural_fr": "CS07",
+  "article_fr": null
 }

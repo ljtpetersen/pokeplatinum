@@ -26,5 +26,13 @@
   "battlePocket": "BATTLE_POCKET_MASK_NONE",
   "fieldUseFunc": "ITEM_USE_FUNC_NONE",
   "battleUseCategory": "BATTLE_USE_CATEGORY_NONE",
-  "itemUseParams": null
+  "itemUseParams": null,
+  "name_fr": "Noeud Destin",
+  "description_fr": [
+    "Un long fil rouge vif à faire tenir à un\n",
+    "Pokémon. Si le porteur succombe à\n",
+    "l’attirance, l’ennemi aussi."
+  ],
+  "plural_fr": "Noeud Destin",
+  "article_fr": null
 }

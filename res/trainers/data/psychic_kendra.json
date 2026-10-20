@@ -57,6 +57,10 @@
             "en_US": [
                 "I see it!\n",
                 "I see a victory for me!\r"
+            ],
+            "fr_FR": [
+                "Je la vois!\n",
+                "Je vois une victoire en ma faveur!\r"
             ]
         },
         {
@@ -64,6 +68,10 @@
             "en_US": [
                 "The future...is different!\n",
                 "Why?!\n"
+            ],
+            "fr_FR": [
+                "Le futur... est différent!\n",
+                "Pourquoi?!\n"
             ]
         },
         {
@@ -71,7 +79,9 @@
             "en_US": [
                 "Your efforts have altered the very\n",
                 "path of the future!\n"
-            ]
+            ],
+            "fr_FR": "Tes efforts ont changé le futur!\n"
         }
-    ]
+    ],
+    "name_fr": "Katy"
 }

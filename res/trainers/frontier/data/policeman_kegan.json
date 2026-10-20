@@ -97,15 +97,22 @@
             "en_US": [
                 "Hands up! Put ’em where I can see ’em!\n",
                 "You’re all under arrest!"
+            ],
+            "fr_FR": [
+                "Les mains en l’air! Pas de geste\n",
+                "brusque! Tu es en état d’arrestation."
             ]
         },
         {
             "type": "TRMSG_WIN",
-            "en_US": "Case closed!\r"
+            "en_US": "Case closed!\r",
+            "fr_FR": "Affaire classée!\r"
         },
         {
             "type": "TRMSG_DEFEAT",
-            "en_US": "This is a gross miscarriage of justice!\r"
+            "en_US": "This is a gross miscarriage of justice!\r",
+            "fr_FR": "C’est une grotesque erreur judiciaire!\r"
         }
-    ]
+    ],
+    "name_fr": "Jocelin"
 }

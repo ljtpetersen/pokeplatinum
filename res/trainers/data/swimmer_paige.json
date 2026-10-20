@@ -41,6 +41,10 @@
             "en_US": [
                 "Deep breathing before battle!\n",
                 "Breathe in...and out!\r"
+            ],
+            "fr_FR": [
+                "On respire bien fort avant un combat!\n",
+                "Inspirer... Expirer...\r"
             ]
         },
         {
@@ -48,6 +52,10 @@
             "en_US": [
                 "Breathe in...and out.\n",
                 "Breathe in...and out!\n"
+            ],
+            "fr_FR": [
+                "Inspirer... Expirer...\n",
+                "Inspirer... Expirer...\n"
             ]
         },
         {
@@ -55,6 +63,10 @@
             "en_US": [
                 "Deep breathing after battle, too!\n",
                 "Breathe in...and out!\n"
+            ],
+            "fr_FR": [
+                "On respire bien fort après un combat!\n",
+                "Inspirer... Expirer..."
             ]
         },
         {
@@ -62,7 +74,12 @@
             "en_US": [
                 "Deep breathing always!\n",
                 "Breathe in...and out!\r"
+            ],
+            "fr_FR": [
+                "On respire bien fort, toujours!\n",
+                "Inspirer... Expirer...\r"
             ]
         }
-    ]
+    ],
+    "name_fr": "Patricia"
 }

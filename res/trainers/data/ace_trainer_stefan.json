@@ -34,6 +34,10 @@
             "en_US": [
                 "Let me ask to see if you know.\n",
                 "What is time?\r"
+            ],
+            "fr_FR": [
+                "Voyons voir si tu as compris.\n",
+                "Qu’est-ce que le temps?\r"
             ]
         },
         {
@@ -41,6 +45,10 @@
             "en_US": [
                 "Another memory...\n",
                 "In a chain of memories.\n"
+            ],
+            "fr_FR": [
+                "Un nouveau souvenir vient s’ajouter\n",
+                "à la toile de ma mémoire...\n"
             ]
         },
         {
@@ -48,7 +56,12 @@
             "en_US": [
                 "For me, time is the fabric woven by\n",
                 "memories, one after another...\n"
+            ],
+            "fr_FR": [
+                "Moi, je dirais que le temps est le voile\n",
+                "tissé par tous nos souvenirs...\n"
             ]
         }
-    ]
+    ],
+    "name_fr": "Virgile"
 }

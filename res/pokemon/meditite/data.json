@@ -7,7 +7,10 @@
         "special_attack": 40,
         "special_defense": 55
     },
-    "types": [ "TYPE_FIGHTING", "TYPE_PSYCHIC" ],
+    "types": [
+        "TYPE_FIGHTING",
+        "TYPE_PSYCHIC"
+    ],
     "catch_rate": 180,
     "base_exp_reward": 91,
     "ev_yields": {
@@ -26,28 +29,76 @@
     "hatch_cycles": 20,
     "base_friendship": 70,
     "exp_rate": "EXP_RATE_MEDIUM_FAST",
-    "egg_groups": [ "EGG_GROUP_HUMAN_LIKE", "EGG_GROUP_HUMAN_LIKE" ],
-    "abilities": [ "ABILITY_PURE_POWER", "ABILITY_NONE" ],
+    "egg_groups": [
+        "EGG_GROUP_HUMAN_LIKE",
+        "EGG_GROUP_HUMAN_LIKE"
+    ],
+    "abilities": [
+        "ABILITY_PURE_POWER",
+        "ABILITY_NONE"
+    ],
     "safari_flee_rate": 0,
     "body_color": "MON_COLOR_BLUE",
     "flip_sprite": false,
     "icon_palette": 0,
     "learnset": {
         "by_level": [
-            [ 1, "MOVE_BIDE" ],
-            [ 4, "MOVE_MEDITATE" ],
-            [ 8, "MOVE_CONFUSION" ],
-            [ 11, "MOVE_DETECT" ],
-            [ 15, "MOVE_HIDDEN_POWER" ],
-            [ 18, "MOVE_MIND_READER" ],
-            [ 22, "MOVE_FEINT" ],
-            [ 25, "MOVE_CALM_MIND" ],
-            [ 29, "MOVE_FORCE_PALM" ],
-            [ 32, "MOVE_HI_JUMP_KICK" ],
-            [ 36, "MOVE_PSYCH_UP" ],
-            [ 39, "MOVE_POWER_TRICK" ],
-            [ 43, "MOVE_REVERSAL" ],
-            [ 46, "MOVE_RECOVER" ]
+            [
+                1,
+                "MOVE_BIDE"
+            ],
+            [
+                4,
+                "MOVE_MEDITATE"
+            ],
+            [
+                8,
+                "MOVE_CONFUSION"
+            ],
+            [
+                11,
+                "MOVE_DETECT"
+            ],
+            [
+                15,
+                "MOVE_HIDDEN_POWER"
+            ],
+            [
+                18,
+                "MOVE_MIND_READER"
+            ],
+            [
+                22,
+                "MOVE_FEINT"
+            ],
+            [
+                25,
+                "MOVE_CALM_MIND"
+            ],
+            [
+                29,
+                "MOVE_FORCE_PALM"
+            ],
+            [
+                32,
+                "MOVE_HI_JUMP_KICK"
+            ],
+            [
+                36,
+                "MOVE_PSYCH_UP"
+            ],
+            [
+                39,
+                "MOVE_POWER_TRICK"
+            ],
+            [
+                43,
+                "MOVE_REVERSAL"
+            ],
+            [
+                46,
+                "MOVE_RECOVER"
+            ]
         ],
         "by_tm": [
             "TM01",
@@ -146,9 +197,9 @@
             "name": "MEDITITE",
             "category": "Meditate Pokémon",
             "entry_text": [
-                "It always trains deep in mountains.\n",
-                "It levitates when it heightens its\n",
-                "spiritual power through meditation."
+                "It eats just one berry a day.\n",
+                "By enduring hunger, its spirit is\n",
+                "tempered and made sharper."
             ]
         },
         "fr": {
@@ -194,6 +245,18 @@
                 "１にち　１こだけ　きのみを　たべる。\n",
                 "くうふくに　たえることで\n",
                 "こころが　とぎすまされていく。"
+            ]
+        },
+        "local_version": {
+            "entry_text": [
+                "It always trains deep in mountains.\n",
+                "It levitates when it heightens its\n",
+                "spiritual power through meditation."
+            ],
+            "entry_text_fr": [
+                "Son entraînement d’ermite lui\n",
+                "permet de léviter par le seul\n",
+                "pouvoir de la méditation."
             ]
         }
     },

@@ -42,6 +42,10 @@
             "en_US": [
                 "Pat: It’s a doubles team of aces!\n",
                 "We’re gonna overwhelm you!\r"
+            ],
+            "fr_FR": [
+                "Joe: On est une équipe de Dresseurs!\n",
+                "On va t’écraser!\r"
             ]
         },
         {
@@ -49,6 +53,10 @@
             "en_US": [
                 "Pat: You and your Pokémon will gain\n",
                 "power by helping each other out.\n"
+            ],
+            "fr_FR": [
+                "Joe: Toi et tes Pokémon, vous\n",
+                "deviendrez plus fort en vous épaulant.\n"
             ]
         },
         {
@@ -57,6 +65,11 @@
                 "Pat: The combination of you and\n",
                 "your awesome Pokémon...\r",
                 "It’s the ultimate tag team!\n"
+            ],
+            "fr_FR": [
+                "Joe: La combinaison que tu\n",
+                "formes avec tes super Pokémon...\r",
+                "C’est l’équipe ultime!\n"
             ]
         },
         {
@@ -64,6 +77,10 @@
             "en_US": [
                 "Pat: If you don’t mind, we’re hoping\n",
                 "for some two-on-two battle action.\n"
+            ],
+            "fr_FR": [
+                "Joe: Nous cherchons des partenaires\n",
+                "de combats deux contre deux.\n"
             ]
         },
         {
@@ -72,6 +89,11 @@
                 "Jo: We form a combination that’s\n",
                 "in perfect sync!\r",
                 "How do you expect to counter that?\r"
+            ],
+            "fr_FR": [
+                "Pati: Nous formons une combinaison\n",
+                "parfaite, totalement synchro!\r",
+                "Que comptes-tu faire contre ça?\r"
             ]
         },
         {
@@ -79,6 +101,10 @@
             "en_US": [
                 "Jo: You and your Pokémon make\n",
                 "a beautiful combination!\n"
+            ],
+            "fr_FR": [
+                "Pati: Toi et tes Pokémon formez\n",
+                "une belle combinaison!\n"
             ]
         },
         {
@@ -88,6 +114,12 @@
                 "fantastic!\r",
                 "You should try to take the Elite Four\n",
                 "right now--not later!\n"
+            ],
+            "fr_FR": [
+                "Pati: Ouaip, ton style de combat est\n",
+                "vraiment fantastique!\r",
+                "Tu devrais défier le Conseil 4, vas-y\n",
+                "tout de suite, n’attends pas!\n"
             ]
         },
         {
@@ -97,7 +129,14 @@
                 "without an advantage.\r",
                 "Please come back when you have\n",
                 "at least two Pokémon!\n"
+            ],
+            "fr_FR": [
+                "Pati: Nous ne voulons pas que tu\n",
+                "combattes avec un handicap.\r",
+                "Reviens quand tu auras au moins\n",
+                "deux Pokémon!\n"
             ]
         }
-    ]
+    ],
+    "name_fr": "Pati & Joe"
 }

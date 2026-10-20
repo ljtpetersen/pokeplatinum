@@ -23,11 +23,16 @@
             "en_US": [
                 "Let’s see how good this Pokémon is!\n",
                 "I stole it from some weak Trainer.\r"
+            ],
+            "fr_FR": [
+                "Voyons si ce Pokémon est doué!\n",
+                "Je l’ai chipé à un Dresseur.\r"
             ]
         },
         {
             "type": "TRMSG_DEFEAT",
-            "en_US": "What is this?!\n"
+            "en_US": "What is this?!\n",
+            "fr_FR": "De quoi?!\n"
         },
         {
             "type": "TRMSG_POST_BATTLE",
@@ -35,7 +40,13 @@
                 "Wimpy little Pokémon...\r",
                 "When I get promoted, I’ll demand\n",
                 "better stolen Pokémon.\n"
+            ],
+            "fr_FR": [
+                "Quelle mauviette, ce Pokémon...\r",
+                "Quand je serai promue, j’exigerai qu’on\n",
+                "m’en vole des meilleurs.\n"
             ]
         }
-    ]
+    ],
+    "name_fr": "Sbire"
 }

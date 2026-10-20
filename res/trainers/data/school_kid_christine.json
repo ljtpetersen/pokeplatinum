@@ -26,7 +26,12 @@
             "en_US": [
                 "I like to study a lot...\n",
                 "I thought I could win...\n"
+            ],
+            "fr_FR": [
+                "J’aime beaucoup étudier...\n",
+                "Je croyais que je te vaincrais...\n"
             ]
         }
-    ]
+    ],
+    "name_fr": "Ally"
 }

@@ -6,6 +6,10 @@
       "en_US": [
         "Oak: Ah, {STRVAR_1 3, 0, 0}!\n",
         "This is it! This is Pal Park!\r"
+      ],
+      "fr_FR": [
+        "Chen: Ah, {STRVAR_1 3, 0, 0}!\n",
+        "Nous y voilà! C’est le Parc des Amis!\r"
       ]
     },
     {
@@ -13,6 +17,10 @@
       "en_US": [
         "Oak: Ah, {STRVAR_1 3, 0, 0}!\n",
         "This is it! This is Pal Park!\r"
+      ],
+      "fr_FR": [
+        "Chen: Ah, {STRVAR_1 3, 0, 0}!\n",
+        "Nous y voilà! C’est le Parc des Amis!\r"
       ]
     },
     {
@@ -25,6 +33,15 @@
         "This place also happens to be where\n",
         "you compete to see how quickly you\f",
         "can catch those Pokémon!\r"
+      ],
+      "fr_FR": [
+        "On peut apporter des Pokémon de tout\n",
+        "le pays, ici.\r",
+        "En d’autres termes, les Pokémon\n",
+        "provenant de Kanto ou de Hoenn.\r",
+        "Tu peux également concourir ici pour \n",
+        "voir qui pourra attraper\f",
+        "ces Pokémon en premier!\r"
       ]
     },
     {
@@ -34,6 +51,12 @@
         "to join us for a visit.\r",
         "Let me make a gift of this Trainer\n",
         "Counter app for your Pokétch.\r"
+      ],
+      "fr_FR": [
+        "Je suis ravi que tu viennes\n",
+        "nous rendre visite.\r",
+        "Laisse-moi t’offrir ce Compteur Poké\n",
+        "Radar pour ta Pokémontre.\r"
       ]
     },
     {
@@ -44,6 +67,12 @@
         "Being here, I should make the best\n",
         "of my time studying the Pokémon of\f",
         "the Sinnoh region.\r"
+      ],
+      "fr_FR": [
+        "Chen: Je pense rester quelque temps\n",
+        "à Vestigion.\r",
+        "Je devrais vraiment en profiter pour \n",
+        "étudier les Pokémon de Sinnoh.\r"
       ]
     },
     {
@@ -52,6 +81,11 @@
         "Pal Park is so scintillating!\r",
         "Trainers and Pokémon are so full of\n",
         "intensity here!\r"
+      ],
+      "fr_FR": [
+        "Le Parc des Amis est vraiment féerique!\r",
+        "Les Dresseurs et les Pokémon y sont\n",
+        "pleins d’ardeur!\r"
       ]
     },
     {
@@ -59,6 +93,10 @@
       "en_US": [
         "I’ve never seen some Pokémon.\n",
         "Would you show me if you had one?\r"
+      ],
+      "fr_FR": [
+        "Il y a certains Pokémon que je n’ai \n",
+        "jamais vus. Tu pourrais me les montrer?\r"
       ]
     },
     {
@@ -79,6 +117,11 @@
         "Let me see...\r",
         "A Pokémon that does nothing but\n",
         "eat and sleep.\r"
+      ],
+      "fr_FR": [
+        "Voyons voir...\r",
+        "Un Pokémon qui ne fait rien à part\n",
+        "manger et dormir.\r"
       ]
     },
     {
@@ -90,6 +133,14 @@
         "a SNORLAX motif.\r",
         "You can have it for showing me\n",
         "a real SNORLAX!\r"
+      ],
+      "fr_FR": [
+        "Oh, un RONFLEX?\n",
+        "Il a l’air d’avoir un sacré estomac!\r",
+        "J’ai un logiciel Pokémontre orné\n",
+        "d’un motif RONFLEX.\r",
+        "Je te le donne, puisque tu m’as montré\n",
+        "un RONFLEX en chair et en os!\r"
       ]
     },
     {
@@ -97,6 +148,10 @@
       "en_US": [
         "Doesn’t that {STRVAR_1 24, 0, 0}\n",
         "make you want to cook something?\n"
+      ],
+      "fr_FR": [
+        "Ce {STRVAR_1 24, 0, 0} ne te donne \n",
+        "pas envie de cuisiner?"
       ]
     },
     {
@@ -105,6 +160,11 @@
         "Let me see...\r",
         "A Pokémon that changes color\n",
         "whenever something happens.\r"
+      ],
+      "fr_FR": [
+        "Voyons voir...\r",
+        "Un Pokémon qui change de couleur\n",
+        "dès que quelque chose se produit.\r"
       ]
     },
     {
@@ -116,6 +176,14 @@
         "a KECLEON design.\r",
         "You can have it for showing me\n",
         "a real KECLEON!\r"
+      ],
+      "fr_FR": [
+        "Oh, un KECLEON!\n",
+        "Il est tellement coloré!\r",
+        "J’ai un logiciel Pokémontre orné\n",
+        "d’un motif KECLEON.\r",
+        "Je te le donne, puisque tu m’as montré\n",
+        "un KECLEON en chair et en os!\r"
       ]
     },
     {
@@ -123,6 +191,10 @@
       "en_US": [
         "Changing colors can change your\n",
         "mood, too."
+      ],
+      "fr_FR": [
+        "Changer de couleur peut également\n",
+        "influencer ton humeur."
       ]
     },
     {
@@ -142,6 +214,10 @@
       "en_US": [
         "What was that Pokémon’s name now...?\n",
         "Oh, it’s on the tip of my tongue!"
+      ],
+      "fr_FR": [
+        "Quel est le nom de ce Pokémon, déjà...?\n",
+        "Ah, je l’ai sur le bout de la langue!"
       ]
     },
     {
@@ -151,6 +227,12 @@
         "Trainers and Pokémon are so full of\n",
         "intensity here!\r",
         "Are you taking the challenge, too?"
+      ],
+      "fr_FR": [
+        "Le Parc des Amis est vraiment féerique!\r",
+        "Les Dresseurs et les Pokémon y sont\n",
+        "pleins d’ardeur!\r",
+        "Toi aussi, tu comptes relever le défi?"
       ]
     },
     {
@@ -167,6 +249,19 @@
         "Word is, you’re a hotshot Trainer?!\r",
         "We’d be honored if you would\n",
         "participate in our Catching Shows."
+      ],
+      "fr_FR": [
+        "Bienvenue au Parc des Amis!\r",
+        "C’est le lieu où les Dresseurs de\n",
+        "haut niveau viennent montrer leurs\f",
+        "techniques de capture à leurs pairs.\r",
+        "... Oh?\r",
+        "Vous ne seriez pas...\n",
+        "Ah, vous êtes {STRVAR_1 3, 0, 0}!\r",
+        "Il y a beaucoup de rumeurs sur vous!\n",
+        "On vous tient pour un grand Dresseur?!\r",
+        "Nous serions honorés de vous voir\n",
+        "participer à un Show Capture."
       ]
     },
     {
@@ -183,6 +278,19 @@
         "Word is, you’re a hotshot Trainer?!\r",
         "We’d be honored if you would\n",
         "participate in our Catching Shows."
+      ],
+      "fr_FR": [
+        "Bienvenue au Parc des Amis!\r",
+        "C’est le lieu où les Dresseurs de\n",
+        "haut niveau viennent montrer leurs\f",
+        "techniques de capture à leurs pairs.\r",
+        "... Oh?\r",
+        "Vous ne seriez pas...\n",
+        "Ah, vous êtes {STRVAR_1 3, 0, 0}!\r",
+        "Il y a beaucoup de rumeurs sur vous!\n",
+        "On vous tient pour un grand Dresseur?!\r",
+        "Nous serions honorés de vous voir\n",
+        "participer à un Show Capture."
       ]
     },
     {
@@ -195,6 +303,15 @@
         "I wrote the Pal Park manual for\n",
         "situations just like this.\r",
         "What should I explain?"
+      ],
+      "fr_FR": [
+        "Oui! Vous acceptez de participer!\n",
+        "C’est un grand jour pour moi!\r",
+        "Ne perdons pas de temps! Je vais vous\n",
+        "présenter le Parc des Amis.\r",
+        "C’est pour ce type d’occasions que j’ai\n",
+        "écrit le manuel du Parc des Amis.\r",
+        "Que voudriez-vous savoir?"
       ]
     },
     {
@@ -212,6 +329,19 @@
         "the Catching Show.\r",
         "...Do you want me to explain anything\n",
         "else?"
+      ],
+      "fr_FR": [
+        "Le Parc des Amis vous propose \n",
+        "d’attraper six Pokémon en temps limité.\r",
+        "Pour ce faire, on vous fournit\n",
+        "six Poké Balls spéciales.\r",
+        "Les Dresseurs qui participent doivent\n",
+        "fournir les six Pokémon à capturer.\r",
+        "Vous ne pouvez pas participer\n",
+        "au Show Capture si vous ne\f",
+        "fournissez pas les six Pokémon.\r",
+        "... Voulez-vous de plus\n",
+        "amples explications?"
       ]
     },
     {
@@ -223,6 +353,14 @@
         "six Pokémon you provide.\r",
         "...Do you want me to explain anything\n",
         "else?"
+      ],
+      "fr_FR": [
+        "On vous fournit six Parc Balls au début\n",
+        "du Show Capture.\r",
+        "Utilisez-les pour attraper les six\n",
+        "Pokémon fournis.\r",
+        "... Voulez-vous de plus\n",
+        "amples explications?"
       ]
     },
     {
@@ -239,6 +377,20 @@
         "the Game Pak to the DS Game Card.\r",
         "...Do you want me to explain anything\n",
         "else?"
+      ],
+      "fr_FR": [
+        "Vous devez faire migrer des Pokémon\n",
+        "de Kanto ou de Hoenn pour\f",
+        "participer au Show Capture.\r",
+        "Insérez une cartouche de jeu\n",
+        "Game Boy Advance Pokémon\r",
+        "Rubis, Saphir, Emeraude, Rouge Feu\n",
+        "ou Vert Feuille dans le port cartouche.\r",
+        "Lorsque la DS est allumée, les Pokémon\n",
+        "actuellement capturés peuvent migrer\f",
+        "du port cartouche vers la carte DS.\r",
+        "... Voulez-vous que j’explique autre \n",
+        "chose?"
       ]
     },
     {
@@ -250,6 +402,14 @@
         "in charge of stocking Pokémon.\r",
         "...Do you want me to explain anything\n",
         "else?"
+      ],
+      "fr_FR": [
+        "Les Pokémon de Sinnoh peuvent aussi\n",
+        "servir pour le Show Capture.\r",
+        "Veuillez vous adresser à l’homme à côté\n",
+        "de moi, il est responsable des stocks.\r",
+        "... Voulez-vous que j’explique autre\n",
+        "chose?"
       ]
     },
     {
@@ -257,6 +417,10 @@
       "en_US": [
         "Would you like to take part in\n",
         "a Catching Show now?"
+      ],
+      "fr_FR": [
+        "Voulez-vous participer \n",
+        "au Show Capture?"
       ]
     },
     {
@@ -265,6 +429,11 @@
         "Aww, that’s too bad.\r",
         "Well, just give me a shout if you’d\n",
         "like to participate."
+      ],
+      "fr_FR": [
+        "Oooh, quel dommage.\r",
+        "Eh bien, vous n’aurez qu’à m’appeler\n",
+        "si vous voulez participer."
       ]
     },
     {
@@ -273,6 +442,11 @@
         "Hi there, {STRVAR_1 3, 0, 0}!\r",
         "Did you come to participate in\n",
         "a Catching Show?"
+      ],
+      "fr_FR": [
+        "Salut, {STRVAR_1 3, 0, 0}!\r",
+        "Vous êtes ici pour participer\n",
+        "au Show Capture?"
       ]
     },
     {
@@ -281,6 +455,11 @@
         "Hi there, {STRVAR_1 3, 0, 0}!\r",
         "Did you come to participate in\n",
         "a Catching Show?"
+      ],
+      "fr_FR": [
+        "Bien le bonjour, {STRVAR_1 3, 0, 0}!\r",
+        "Vous êtes ici pour participer au\n",
+        "Show Capture?"
       ]
     },
     {
@@ -294,6 +473,16 @@
         "OK, off you go, {STRVAR_1 3, 0, 0}.\r",
         "Dazzle us with a masterful display\n",
         "of Pokémon catching!\r"
+      ],
+      "fr_FR": [
+        "Très bien, voici vos Parc Balls!\r",
+        "{STRVAR_1 3, 0, 0} obtient\n",
+        "six Parc Balls.\r",
+        "Le record actuel est détenu par\n",
+        "{STRVAR_1 3, 1, 0} avec {STRVAR_1 53, 2, 0} points.\r",
+        "Très bien, allez-y, {STRVAR_1 3, 0, 0}.\r",
+        "Eblouissez-nous par votre maîtrise\n",
+        "de la capture de Pokémon!\r"
       ]
     },
     {
@@ -307,6 +496,16 @@
         "OK, off you go, {STRVAR_1 3, 0, 0}.\r",
         "Dazzle us with a masterful display\n",
         "of Pokémon catching!\r"
+      ],
+      "fr_FR": [
+        "Très bien, voici vos Parc Balls!\r",
+        "{STRVAR_1 3, 0, 0} obtient\n",
+        "six Parc Balls.\r",
+        "Le record actuel est détenu par\n",
+        "{STRVAR_1 3, 1, 0} avec {STRVAR_1 53, 2, 0} points.\r",
+        "Très bien, allez-y, {STRVAR_1 3, 0, 0}.\r",
+        "Eblouissez-nous par votre maîtrise de\n",
+        "la capture des Pokémon!\r"
       ]
     },
     {
@@ -318,6 +517,14 @@
         "Pokémon to participate.\r",
         "You should make some Pokémon migrate\n",
         "from Kanto or Hoenn!"
+      ],
+      "fr_FR": [
+        "Oh, un instant. Vous n’avez pas assez\n",
+        "de Pokémon pour un Show Capture.\r",
+        "Vous devez nous fournir au moins six\n",
+        "Pokémon pour pouvoir participer.\r",
+        "Vous devriez en faire migrer\n",
+        "quelques-uns de Kanto ou de Hoenn!"
       ]
     },
     {
@@ -327,6 +534,12 @@
         "work around here.\r",
         "I’ll read to you from the Pal Park\n",
         "manual I wrote."
+      ],
+      "fr_FR": [
+        "Très bien, laissez-moi vous expliquer\n",
+        "comment cela fonctionne.\r",
+        "Je vais vous lire le mode d’emploi\n",
+        "du Parc des Amis que j’ai écrit."
       ]
     },
     {
@@ -338,6 +551,16 @@
         "have left.\r",
         "Next time, please do stay to catch\n",
         "all six Pokémon."
+      ],
+      "fr_FR": [
+        "Quel dommage que vous ayez dû \n",
+        "abandonner.\r",
+        "Nous espérons que vous\n",
+        "ferez mieux la prochaine fois.\r",
+        "Je vais prendre les Parc Balls qui\n",
+        "vous restent.\r",
+        "La prochaine fois, restez ici pour\n",
+        "attraper les six Pokémon."
       ]
     },
     {
@@ -349,6 +572,14 @@
         "even if you do catch them.\r",
         "Make enough room in a PC Box and\n",
         "come back for your Catching Show."
+      ],
+      "fr_FR": [
+        "Oh, les Boîtes du PC sont pleines, vous\n",
+        "n’avez pas de place pour six Pokémon.\r",
+        "Vous ne pourriez pas les accepter,\n",
+        "même si vous les attrapiez.\r",
+        "Faites de la place dans les Boîtes du PC\n",
+        "et revenez pour le Show Capture."
       ]
     },
     {
@@ -369,6 +600,23 @@
         "...\n",
         "...\r",
         "{STRVAR_1 53, 3, 0} points!\r"
+      ],
+      "fr_FR": [
+        "Félicitations!\n",
+        "Vous avez attrapé six Pokémon!\r",
+        "Le public a véritablement apprécié\n",
+        "votre prestation au Show Capture.\r",
+        "Très bien, passons au plus important,\n",
+        "votre score pour ce Show!\r",
+        "...\n",
+        "...\r",
+        "Points de Capture: {STRVAR_1 53, 0, 0}!\r",
+        "Points de Temps: {STRVAR_1 53, 1, 0}!\r",
+        "Points de Type: {STRVAR_1 53, 2, 0}!\r",
+        "Ce qui nous donne un total de...\r",
+        "...\n",
+        "...\r",
+        "{STRVAR_1 53, 3, 0} points!\r"
       ]
     },
     {
@@ -376,6 +624,10 @@
       "en_US": [
         "Wow! That’s an outstanding record!\n",
         "Kudos to you!\r"
+      ],
+      "fr_FR": [
+        "Waouh! Un record ahurissant!\n",
+        "Je vous tire mon chapeau!\r"
       ]
     },
     {
@@ -383,6 +635,10 @@
       "en_US": [
         "Good! That’s a decent record.\n",
         "Props to you!\r"
+      ],
+      "fr_FR": [
+        "Bien! C’est un record très honnête.\n",
+        "Je vous félicite!\r"
       ]
     },
     {
@@ -390,6 +646,10 @@
       "en_US": [
         "Would you like to put all the Pokémon\n",
         "you’ve caught in PC Boxes?"
+      ],
+      "fr_FR": [
+        "Voulez-vous placer tous vos Pokémon\n",
+        "capturés dans les Boîtes du PC?"
       ]
     },
     {
@@ -398,6 +658,11 @@
         "Done!\n",
         "Your Pokémon have been boxed away.\r",
         "You’ll now have to save the game.\r"
+      ],
+      "fr_FR": [
+        "C’est fait!\n",
+        "Vos Pokémon ont été rangés.\r",
+        "Vous devez sauvegarder votre partie.\r"
       ]
     },
     {
@@ -408,6 +673,13 @@
         "trying to catch these six again.\r",
         "If you want to do another Catching\n",
         "Show, just come see us!"
+      ],
+      "fr_FR": [
+        "Oh, ça serait peut-être amusant\n",
+        "d’essayer d’améliorer votre score\f",
+        "en capturant à nouveau ces Pokémon.\r",
+        "Revenez nous voir pour participer\n",
+        "à un nouveau Show Capture!"
       ]
     },
     {
@@ -415,6 +687,10 @@
       "en_US": [
         "If you want to do another Catching\n",
         "Show, come see us again!"
+      ],
+      "fr_FR": [
+        "Revenez nous voir pour participer\n",
+        "à un nouveau Show Capture!"
       ]
     },
     {
@@ -422,6 +698,10 @@
       "en_US": [
         "It’s time for your prize!\n",
         "Here you are!\r"
+      ],
+      "fr_FR": [
+        "C’est l’heure de votre récompense!\n",
+        "Tenez!\r"
       ]
     },
     {
@@ -429,6 +709,10 @@
       "en_US": [
         "Would you like to do another Catching\n",
         "Show with the same Pokémon?"
+      ],
+      "fr_FR": [
+        "Vous voulez garder ces Pokémon pour\n",
+        "le prochain Show Capture?"
       ]
     },
     {
@@ -457,6 +741,11 @@
         "I came to see {STRVAR_1 3, 0, 0}’s Catching\n",
         "Show with Daddy.\r",
         "I hope it starts soon..."
+      ],
+      "fr_FR": [
+        "{STRVAR_1 3, 0, 0}, je suis ici avec papa pour\n",
+        "te voir au Show Capture.\r",
+        "J’espère que ça commence bientôt..."
       ]
     },
     {
@@ -466,6 +755,12 @@
         "Your Catching Show was fantastic!\r",
         "I hope I can become an expert\n",
         "Trainer like you one day!"
+      ],
+      "fr_FR": [
+        "Hiii! {STRVAR_1 3, 0, 0}! Ce Show Capture\n",
+        "était fantastique!\r",
+        "J’espère pouvoir un jour devenir\n",
+        "un Dresseur de ton niveau!"
       ]
     },
     {
@@ -473,6 +768,10 @@
       "en_US": [
         "Oh, {STRVAR_1 3, 0, 0}!\n",
         "I hope you do better next time."
+      ],
+      "fr_FR": [
+        "Oh, {STRVAR_1 3, 0, 0}! J’espère que tu\n",
+        "feras mieux la prochaine fois."
       ]
     },
     {
@@ -482,6 +781,12 @@
         "fan of yours.\r",
         "A day doesn’t go by without her\n",
         "demanding we come see Catching Shows."
+      ],
+      "fr_FR": [
+        "{STRVAR_1 3, 0, 0}, ma fille est l’une de\n",
+        "tes plus grandes fans.\r",
+        "Pas un jour ne passe sans qu’elle ne\n",
+        "demande à voir un Show Capture."
       ]
     },
     {
@@ -492,6 +797,13 @@
         "We get to see rare and exotic\n",
         "Pokémon on top of the catches.\r",
         "The excitement gets me all jacked up!"
+      ],
+      "fr_FR": [
+        "Les gens ne viennent pas seulement ici\n",
+        "pour voir des Shows Capture.\r",
+        "Au-delà de ça, c’est l’occasion de\n",
+        "voir des Pokémon rares et exotiques.\r",
+        "Je trépigne d’excitation!"
       ]
     },
     {
@@ -500,6 +812,11 @@
         "The current record holder is\n",
         "{STRVAR_1 3, 1, 0} with {STRVAR_1 53, 2, 0} points.\f",
         "Can you top that?"
+      ],
+      "fr_FR": [
+        "Le record actuel est détenu par\n",
+        "{STRVAR_1 3, 1, 0} avec {STRVAR_1 53, 2, 0} points.\f",
+        "Tu penses pouvoir faire mieux?"
       ]
     },
     {
@@ -507,6 +824,10 @@
       "en_US": [
         "Oh! You’ve topped 2,000 points!\n",
         "You’ve earned this, then!\r"
+      ],
+      "fr_FR": [
+        "Oh! Tu as atteint les 2 000 points!\n",
+        "Tu mérites une récompense!\r"
       ]
     },
     {
@@ -514,6 +835,10 @@
       "en_US": [
         "Keep working on getting a higher\n",
         "score!"
+      ],
+      "fr_FR": [
+        "Continue de t’entraîner pour\n",
+        "améliorer ton score!"
       ]
     },
     {
@@ -521,6 +846,10 @@
       "en_US": [
         "Oh! You’ve topped 2,500 points!\n",
         "You’ve earned this, then!\r"
+      ],
+      "fr_FR": [
+        "Oh! Tu as atteint les 2 500 points!\n",
+        "Tu mérites une récompense!\r"
       ]
     },
     {
@@ -528,6 +857,10 @@
       "en_US": [
         "Oh! You’ve topped 3,000 points!\n",
         "You’ve earned this, then!\r"
+      ],
+      "fr_FR": [
+        "Oh! Tu as atteint les 3 000 points!\n",
+        "Tu mérites une récompense!\r"
       ]
     },
     {
@@ -535,6 +868,10 @@
       "en_US": [
         "Oh! You’ve earned 3,500 points!\n",
         "You’ve earned this, then!\r"
+      ],
+      "fr_FR": [
+        "Oh! Tu as atteint les 3 500 points!\n",
+        "Tu mérites une récompense!\r"
       ]
     },
     {
@@ -542,6 +879,10 @@
       "en_US": [
         "You’ve set an incredible record!\n",
         "There’s nothing left to say!"
+      ],
+      "fr_FR": [
+        "Tu as établi un record incroyable!\n",
+        "Il n’y a rien d’autre à dire!"
       ]
     },
     {
@@ -549,6 +890,10 @@
       "en_US": [
         "Your Bag is full.\n",
         "You should come back later."
+      ],
+      "fr_FR": [
+        "Ton Sac est plein.\n",
+        "Tu devrais revenir plus tard."
       ]
     },
     {
@@ -558,6 +903,13 @@
         "rare Pokémon take longer to appear.\r",
         "Is it easier to start with common\n",
         "Pokémon?"
+      ],
+      "fr_FR": [
+        "J’ai entendu des Dresseurs se plaindre\n",
+        "que les Pokémon rares apparaissaient\f",
+        "moins fréquemment.\r",
+        "C’est plus facile de commencer par des\n",
+        "Pokémon communs?"
       ]
     },
     {
@@ -570,6 +922,15 @@
         "Pokémon from Kanto and Hoenn.\r",
         "But it tugs at my heartstrings to\n",
         "know they’re so far away from home."
+      ],
+      "fr_FR": [
+        "Le Show Capture...\r",
+        "Une lutte de volonté et de ruse\n",
+        "entre Dresseurs et Pokémon.\r",
+        "J’ai particulièrement hâte de voir des\n",
+        "Pokémon de Kanto et de Hoenn.\r",
+        "Mais je trouve ça déchirant de savoir\n",
+        "qu’ils sont si loin de chez eux."
       ]
     },
     {
@@ -581,6 +942,13 @@
         "Crown.\r",
         "Oh, before you get the wrong idea,\n",
         "it’s an Accessory for Pokémon.\r"
+      ],
+      "fr_FR": [
+        "Tu m’as coupé le souffle!\r",
+        "Je me dois de te couronner en t’offrant\n",
+        "cette... Couronne.\r",
+        "Oh, et ne te monte pas la tête,\n",
+        "c’est un Accessoire pour Pokémon.\r"
       ]
     },
     {
@@ -592,6 +960,13 @@
         "Tiara.\r",
         "Oh, before you get the wrong idea,\n",
         "it’s an Accessory for Pokémon.\r"
+      ],
+      "fr_FR": [
+        "Tu m’as coupé le souffle!\r",
+        "Je me dois de te remettre cette\n",
+        "Tiare.\r",
+        "Oh, et ne te monte pas la tête,\n",
+        "c’est un Accessoire pour Pokémon.\r"
       ]
     },
     {
@@ -603,6 +978,13 @@
         "“Seafloor” Backdrop.\r",
         "Please try using it when dressing up\n",
         "your Pokémon with Accessories.\r"
+      ],
+      "fr_FR": [
+        "Tu m’as coupé le souffle!\r",
+        "J’aimerais que tu prennes ce Décor\n",
+        "“Fonds Marins”.\r",
+        "Essaie de l’utiliser lorsque tu habilles\n",
+        "tes Pokémon avec des Accessoires.\r"
       ]
     },
     {
@@ -614,6 +996,13 @@
         "“Underground” Backdrop.\r",
         "Please try using it when dressing up\n",
         "your Pokémon with Accessories.\r"
+      ],
+      "fr_FR": [
+        "Tu m’as coupé le souffle!\r",
+        "J’aimerais que tu prennes ce Décor\n",
+        "“Souterrain”.\r",
+        "Essaie de l’utiliser lorsque tu habilles\n",
+        "tes Pokémon avec des Accessoires.\r"
       ]
     },
     {
@@ -625,6 +1014,13 @@
         "“Sky” Backdrop.\r",
         "Please try using it when dressing up\n",
         "your Pokémon with Accessories.\r"
+      ],
+      "fr_FR": [
+        "Tu m’as coupé le souffle!\r",
+        "J’aimerais que tu prennes ce Décor\n",
+        "“Ciel”.\r",
+        "Essaie de l’utiliser lorsque tu habilles\n",
+        "tes Pokémon avec des Accessoires.\r"
       ]
     },
     {
@@ -634,6 +1030,12 @@
         "there are also Pokémon Contests...\r",
         "It’s so dreamy...\n",
         "Sinnoh sets my heart aflutter."
+      ],
+      "fr_FR": [
+        "Il y a des Shows Capture, mais aussi\n",
+        "des Concours Pokémon...\r",
+        "C’est vraiment le rêve...\n",
+        "Sinnoh fait vibrer mon cœur."
       ]
     },
     {

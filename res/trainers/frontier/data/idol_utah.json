@@ -41,6 +41,10 @@
             "en_US": [
                 "Are you another of my fans? I can give\n",
                 "you an autograph if you’d lose?"
+            ],
+            "fr_FR": [
+                "Tu fais partie de mon fan-club? Je te\n",
+                "donnerai un autographe si tu perds."
             ]
         },
         {
@@ -48,6 +52,10 @@
             "en_US": [
                 "Here’s your autograph! Cherish it!\n",
                 "Oh, sorry! I don’t do handshakes.\r"
+            ],
+            "fr_FR": [
+                "Voilà ton autographe! Prends-en soin.\n",
+                "Ah non, désolée. Pas de photo!\r"
             ]
         },
         {
@@ -55,7 +63,12 @@
             "en_US": [
                 "I’m sorry, I was acting GASTLY!\n",
                 "It was very DELCATTY of me!\r"
+            ],
+            "fr_FR": [
+                "Pas très DELiCATTY de ta part.\n",
+                "Je dirais même FANTOMINable.\r"
             ]
         }
-    ]
+    ],
+    "name_fr": "Uranie"
 }

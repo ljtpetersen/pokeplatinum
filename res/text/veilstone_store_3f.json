@@ -6,6 +6,10 @@
       "en_US": [
         "Hello.\n",
         "May I help you with anything?"
+      ],
+      "fr_FR": [
+        "Bonjour.\n",
+        "Je peux vous renseigner?"
       ]
     },
     {
@@ -13,11 +17,16 @@
       "en_US": [
         "Hello, {STRVAR_1 3, 0, 0}.\n",
         "May I help you with anything?"
+      ],
+      "fr_FR": [
+        "Bonjour, {STRVAR_1 3, 0, 0}.\n",
+        "Je peux vous aider?"
       ]
     },
     {
       "id": "VeilstoneStore3F_Text_PleaseEnjoyYourself",
-      "en_US": "Please enjoy yourself."
+      "en_US": "Please enjoy yourself.",
+      "fr_FR": "Faites comme chez vous."
     },
     {
       "id": "VeilstoneStore3F_Text_FalseSwipeMakesCatchingEasier",
@@ -26,6 +35,12 @@
         "to catch.\r",
         "Many customers have confided that to\n",
         "me recently."
+      ],
+      "fr_FR": [
+        "Faux-Chage permet d’attraper plus \n",
+        "facilement les Pokémon sauvages.\r",
+        "C’est ce que m’ont confié de nombreux\n",
+        "clients ces derniers temps."
       ]
     },
     {
@@ -33,6 +48,10 @@
       "en_US": [
         "For Fire-type Pokémon, may I suggest\n",
         "Fire Blast?"
+      ],
+      "fr_FR": [
+        "Puis-je suggérer Déflagration\n",
+        "pour les Pokémon de type Feu?"
       ]
     },
     {
@@ -42,6 +61,12 @@
         "solution for dodging attacks.\r",
         "Please be aware that overuse can\n",
         "result in failure."
+      ],
+      "fr_FR": [
+        "La capacité Abri est la solution\n",
+        "idéale pour esquiver les attaques.\r",
+        "N’oubliez pas, plus vous l’utilisez et\n",
+        "plus elle a de chances d’échouer."
       ]
     },
     {
@@ -51,6 +76,12 @@
         "of Thunder becomes precise.\r",
         "Please do be careful about\n",
         "the weather."
+      ],
+      "fr_FR": [
+        "La précision de Fatal-Foudre augmente\n",
+        "par temps de pluie.\r",
+        "S’il vous plaît, gardez un œil \n",
+        "sur la météo."
       ]
     },
     {
@@ -60,6 +91,12 @@
         "DS Wireless Communications.\r",
         "But instead of a MACHOKE, I got\n",
         "a different Pokémon!"
+      ],
+      "fr_FR": [
+        "Un ami a voulu m’échanger un MACHOPEUR\n",
+        "avec la communication sans fil DS.\r",
+        "Bizarrement, je n’ai pas reçu un\n",
+        "MACHOPEUR mais un autre Pokémon!"
       ]
     },
     {
@@ -69,6 +106,12 @@
         "as a reminder...\r",
         "If someone reads it...\n",
         "I’m in deep trouble."
+      ],
+      "fr_FR": [
+        "J’ai noté des secrets dans une\n",
+        "Lettre pour ne pas les oublier...\r",
+        "Si quelqu’un la lit...\n",
+        "Je suis dans de beaux draps."
       ]
     },
     {
@@ -77,6 +120,10 @@
         "I would love to buy up all the\n",
         "merchandise here.\r",
         "Even once would do!"
+      ],
+      "fr_FR": [
+        "J’ai une folle envie de tout acheter.\r",
+        "Juste une fois, ça suffirait!"
       ]
     },
     {
@@ -88,6 +135,14 @@
         "3F: TM Corner\r",
         "4F: Poké Dolls & Goods\r",
         "5F: Rooftop Plaza"
+      ],
+      "fr_FR": [
+        "-1: Alimentation\r",
+        "RC: Espace Dresseurs\r",
+        "1¹: Fournitures de Combat\r",
+        "2⁴: Centre CT\r",
+        "3⁴: Poupées Pokémon et articles\r",
+        "4⁴: Terrasse"
       ]
     }
   ]

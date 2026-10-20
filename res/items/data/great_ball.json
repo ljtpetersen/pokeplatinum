@@ -26,5 +26,13 @@
   "battlePocket": "BATTLE_POCKET_MASK_POKE_BALLS",
   "fieldUseFunc": "ITEM_USE_FUNC_NONE",
   "battleUseCategory": "BATTLE_USE_CATEGORY_POKE_BALL",
-  "itemUseParams": null
+  "itemUseParams": null,
+  "name_fr": "Super Ball",
+  "description_fr": [
+    "Une Ball très performante dont le taux\n",
+    "de réussite est supérieur à celui de la\n",
+    "Poké Ball."
+  ],
+  "plural_fr": "Super Ball",
+  "article_fr": null
 }

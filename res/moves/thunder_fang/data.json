@@ -27,5 +27,13 @@
     "contest": {
         "effect": "CONTEST_EFFECT_BASIC",
         "type": "CONTEST_TYPE_SMART"
-    }
+    },
+    "name_fr": "Crocs Eclair",
+    "description_fr": [
+        "Le lanceur utilise\n",
+        "une morsure\n",
+        "électrifiée. Peut\n",
+        "aussi paralyser ou\n",
+        "apeurer l’ennemi."
+    ]
 }

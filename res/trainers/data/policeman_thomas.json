@@ -32,6 +32,10 @@
             "en_US": [
                 "Who’s there?!\n",
                 "What do you think you’re doing?!\r"
+            ],
+            "fr_FR": [
+                "Qui va là?! \n",
+                "Qu’est-ce que tu fais, au juste?!\r"
             ]
         },
         {
@@ -39,6 +43,10 @@
             "en_US": [
                 "I happen to be rather jumpy, so\n",
                 "everyone looks suspicious to me.\n"
+            ],
+            "fr_FR": [
+                "Je suis un grand nerveux, pour moi,\n",
+                "tout le monde a l’air suspect.\n"
             ]
         },
         {
@@ -46,6 +54,10 @@
             "en_US": [
                 "I’m easy to scare, and yet here I am\n",
                 "on patrol. Funny how things go.\n"
+            ],
+            "fr_FR": [
+                "Je suis un trouillard, et pourtant, me \n",
+                "voilà en patrouille. C’est fou, la vie...\n"
             ]
         },
         {
@@ -53,6 +65,10 @@
             "en_US": [
                 "At night, I get tense and nervous.\n",
                 "I don’t know why.\n"
+            ],
+            "fr_FR": [
+                "La nuit, je suis tout tendu et nerveux.\n",
+                "Je ne sais pas pourquoi.\n"
             ]
         },
         {
@@ -60,7 +76,12 @@
             "en_US": [
                 "I’ll repeat myself! Who’s there?!\n",
                 "What do you think you’re doing?!\r"
+            ],
+            "fr_FR": [
+                "Je répète! Qui va là?!\n",
+                "Qu’est-ce que tu fais, au juste?!\r"
             ]
         }
-    ]
+    ],
+    "name_fr": "Edmond"
 }

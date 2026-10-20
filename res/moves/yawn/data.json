@@ -26,5 +26,12 @@
     "contest": {
         "effect": "CONTEST_EFFECT_NO_VOLTAGE_DOWN",
         "type": "CONTEST_TYPE_CUTE"
-    }
+    },
+    "name_fr": "Bâillement",
+    "description_fr": [
+        "Fait bâiller\n",
+        "l’ennemi qui\n",
+        "s’endort au tour\n",
+        "suivant."
+    ]
 }

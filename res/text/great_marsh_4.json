@@ -8,11 +8,18 @@
         "sometimes you get sucked down.\r",
         "Pokémon may appear while you’re\n",
         "struggling to get out, too."
+      ],
+      "fr_FR": [
+        "Quand on marche dans la tourbe,\n",
+        "il arrive qu’on s’enlise.\r",
+        "Mais parfois, quand on se débat pour en\n",
+        "sortir, des Pokémon apparaissent."
       ]
     },
     {
       "id": "GreatMarsh4_Text_SignArea4",
-      "en_US": "Great Marsh Area 4"
+      "en_US": "Great Marsh Area 4",
+      "fr_FR": "Grand Marais Parc 4"
     }
   ]
 }

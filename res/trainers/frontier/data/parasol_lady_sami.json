@@ -77,6 +77,10 @@
             "en_US": [
                 "My, you’re very eager to go. I’d better\n",
                 "take the tension up a notch, too!"
+            ],
+            "fr_FR": [
+                "Eh bien, quelle impatience! Je devrais\n",
+                "m’affoler un peu moi aussi!"
             ]
         },
         {
@@ -84,6 +88,10 @@
             "en_US": [
                 "I had a lot of fun with that match!\n",
                 "Wouldn’t it be nice to see you again!\r"
+            ],
+            "fr_FR": [
+                "Je me suis beaucoup amusée!\n",
+                "J’espère qu’on se reverra.\r"
             ]
         },
         {
@@ -91,7 +99,12 @@
             "en_US": [
                 "You’re so full of energy!\n",
                 "Why, I feel energized, too!\r"
+            ],
+            "fr_FR": [
+                "Quelle fougue! Quelle énergie!\n",
+                "Je me sens pleine de vie!\r"
             ]
         }
-    ]
+    ],
+    "name_fr": "Shania"
 }

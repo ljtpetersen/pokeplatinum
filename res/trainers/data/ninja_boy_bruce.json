@@ -25,17 +25,28 @@
                 "Being discovered means I must battle!\r",
                 "But how did you discover me?\n",
                 "Don’t tell me you’re a ninja, too!\r"
+            ],
+            "fr_FR": [
+                "Je fais partie du Trio Ninja! \n",
+                "Quand on me débusque, je combats!\r",
+                "Mais comment m’as-tu découvert?\n",
+                "Toi aussi, tu fais partie des ninjas?!\r"
             ]
         },
         {
             "type": "TRMSG_DEFEAT",
-            "en_US": "I concede defeat...\n"
+            "en_US": "I concede defeat...\n",
+            "fr_FR": "J’admets ma défaite..."
         },
         {
             "type": "TRMSG_POST_BATTLE",
             "en_US": [
                 "A Pokémon Trainer’s good at finding\n",
                 "stuff, I guess.\n"
+            ],
+            "fr_FR": [
+                "Les Dresseurs ont le chic pour\n",
+                "fouiner dans tous les recoins.\n"
             ]
         },
         {
@@ -44,7 +55,14 @@
                 "You should join us so we can form\n",
                 "the Ninja Quartet!\r",
                 "Anyway, let’s battle!\r"
+            ],
+            "fr_FR": [
+                "Tu devrais nous rejoindre, on\n",
+                "formerait le Quartet Ninja!\r",
+                "Enfin bref, c’est l’heure de\n",
+                "combattre!\r"
             ]
         }
-    ]
+    ],
+    "name_fr": "Steven"
 }

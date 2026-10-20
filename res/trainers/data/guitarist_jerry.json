@@ -43,6 +43,12 @@
                 "That desire I pour into my guitar!\r",
                 "I want to win!\n",
                 "That passion compels my Pokémon!\r"
+            ],
+            "fr_FR": [
+                "Je veux gagner!\n",
+                "Que ma guitare en soit témoin!\r",
+                "Je veux gagner!\n",
+                "Mes Pokémon vont te le prouver!\r"
             ]
         },
         {
@@ -50,6 +56,10 @@
             "en_US": [
                 "We couldn’t win...\n",
                 "No encores for us...\n"
+            ],
+            "fr_FR": [
+                "On a perdu...\n",
+                "Pas de rappel pour nous...\n"
             ]
         },
         {
@@ -58,7 +68,13 @@
                 "The Trainer’s desire to win!\r",
                 "If you don’t lose that, there’s\n",
                 "no limit on what you can become!\n"
+            ],
+            "fr_FR": [
+                "Le désir de victoire du Dresseur!\r",
+                "Ne le perds surtout pas, il t’ouvrira\n",
+                "bien des portes!\n"
             ]
         }
-    ]
+    ],
+    "name_fr": "Johnny"
 }

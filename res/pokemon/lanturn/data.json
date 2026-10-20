@@ -7,7 +7,10 @@
         "special_attack": 76,
         "special_defense": 76
     },
-    "types": [ "TYPE_WATER", "TYPE_ELECTRIC" ],
+    "types": [
+        "TYPE_WATER",
+        "TYPE_ELECTRIC"
+    ],
     "catch_rate": 75,
     "base_exp_reward": 156,
     "ev_yields": {
@@ -26,32 +29,92 @@
     "hatch_cycles": 20,
     "base_friendship": 70,
     "exp_rate": "EXP_RATE_SLOW",
-    "egg_groups": [ "EGG_GROUP_WATER_2", "EGG_GROUP_WATER_2" ],
-    "abilities": [ "ABILITY_VOLT_ABSORB", "ABILITY_ILLUMINATE" ],
+    "egg_groups": [
+        "EGG_GROUP_WATER_2",
+        "EGG_GROUP_WATER_2"
+    ],
+    "abilities": [
+        "ABILITY_VOLT_ABSORB",
+        "ABILITY_ILLUMINATE"
+    ],
     "safari_flee_rate": 0,
     "body_color": "MON_COLOR_BLUE",
     "flip_sprite": false,
     "icon_palette": 0,
     "learnset": {
         "by_level": [
-            [ 1, "MOVE_BUBBLE" ],
-            [ 1, "MOVE_SUPERSONIC" ],
-            [ 1, "MOVE_THUNDER_WAVE" ],
-            [ 6, "MOVE_THUNDER_WAVE" ],
-            [ 9, "MOVE_FLAIL" ],
-            [ 12, "MOVE_WATER_GUN" ],
-            [ 17, "MOVE_CONFUSE_RAY" ],
-            [ 20, "MOVE_SPARK" ],
-            [ 23, "MOVE_TAKE_DOWN" ],
-            [ 27, "MOVE_STOCKPILE" ],
-            [ 27, "MOVE_SWALLOW" ],
-            [ 27, "MOVE_SPIT_UP" ],
-            [ 30, "MOVE_BUBBLE_BEAM" ],
-            [ 35, "MOVE_SIGNAL_BEAM" ],
-            [ 40, "MOVE_DISCHARGE" ],
-            [ 47, "MOVE_AQUA_RING" ],
-            [ 52, "MOVE_HYDRO_PUMP" ],
-            [ 57, "MOVE_CHARGE" ]
+            [
+                1,
+                "MOVE_BUBBLE"
+            ],
+            [
+                1,
+                "MOVE_SUPERSONIC"
+            ],
+            [
+                1,
+                "MOVE_THUNDER_WAVE"
+            ],
+            [
+                6,
+                "MOVE_THUNDER_WAVE"
+            ],
+            [
+                9,
+                "MOVE_FLAIL"
+            ],
+            [
+                12,
+                "MOVE_WATER_GUN"
+            ],
+            [
+                17,
+                "MOVE_CONFUSE_RAY"
+            ],
+            [
+                20,
+                "MOVE_SPARK"
+            ],
+            [
+                23,
+                "MOVE_TAKE_DOWN"
+            ],
+            [
+                27,
+                "MOVE_STOCKPILE"
+            ],
+            [
+                27,
+                "MOVE_SWALLOW"
+            ],
+            [
+                27,
+                "MOVE_SPIT_UP"
+            ],
+            [
+                30,
+                "MOVE_BUBBLE_BEAM"
+            ],
+            [
+                35,
+                "MOVE_SIGNAL_BEAM"
+            ],
+            [
+                40,
+                "MOVE_DISCHARGE"
+            ],
+            [
+                47,
+                "MOVE_AQUA_RING"
+            ],
+            [
+                52,
+                "MOVE_HYDRO_PUMP"
+            ],
+            [
+                57,
+                "MOVE_CHARGE"
+            ]
         ],
         "by_tm": [
             "TM03",
@@ -97,7 +160,7 @@
             "MOVE_SUCKER_PUNCH"
         ]
     },
-    "evolutions": [  ],
+    "evolutions": [],
     "offspring": "SPECIES_CHINCHOU",
     "footprint": {
         "has": false,
@@ -168,6 +231,18 @@
                 "しんかいを　およぐ　ランタ－ンの\n",
                 "あかりは　すいめんまで　とどく。\n",
                 "しんかいのほし　と　よばれている。"
+            ]
+        },
+        "local_version": {
+            "entry_text": [
+                "LANTURN’s light can shine up from\n",
+                "great depths. It is nicknamed\n",
+                "“The Deep-Sea Star.”"
+            ],
+            "entry_text_fr": [
+                "La lumière de LANTURN surgit des\n",
+                "profondeurs. On le surnomme\n",
+                "“étoile des profondeurs”."
             ]
         }
     },

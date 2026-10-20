@@ -6,6 +6,10 @@
       "en_US": [
         "Mr. Backlot is the master of this\n",
         "mansion. This is his office."
+      ],
+      "fr_FR": [
+        "M. Décorum est le maître des lieux.\n",
+        "Voici son bureau."
       ]
     },
     {
@@ -17,6 +21,13 @@
         "to enjoy.\r",
         "However, please beware--wild Pokémon\n",
         "may appear in the garden."
+      ],
+      "fr_FR": [
+        "C’est la sortie vers le Jardin\n",
+        "Trophée.\r",
+        "Il est ouvert à tous les visiteurs.\r",
+        "Mais attention, des Pokémon sauvages\n",
+        "viennent parfois dans le jardin."
       ]
     },
     {
@@ -37,6 +48,23 @@
         "Pokémon use a move, using an item, or\f",
         "switching a Pokémon.\r",
         "And now...\r"
+      ],
+      "fr_FR": [
+        "Bienvenue. Ici, tu peux te mesurer à\n",
+        "la fierté du manoir: les cinq\f",
+        "Gouvernantes.\r",
+        "Le but est de nous battre toutes les\n",
+        "cinq d’affilée.\r",
+        "En plus, si tu nous bats en un\n",
+        "certain nombre de tours, tu\f",
+        "recevras un cadeau spécial.\r",
+        "A propos, un tour correspond au temps\n",
+        "que mettent un Dresseur et son\f",
+        "adversaire pour faire une action.\r",
+        "Par action, j’entends utiliser une\n",
+        "capacité ou un objet ou changer le\f",
+        "Pokémon au combat.\r",
+        "Et maintenant...\r"
       ]
     },
     {
@@ -46,6 +74,11 @@
         "Challenge!\r",
         "Today’s targeted number of turns is\n",
         "{STRVAR_1 52, 0, 0}! Would you like to try?"
+      ],
+      "fr_FR": [
+        "Place au Défi des Cinq Gouvernantes!\r",
+        "Aujourd’hui, il faut viser {STRVAR_1 52, 0, 0} tours!\n",
+        "Tu tentes ta chance?"
       ]
     },
     {
@@ -53,6 +86,10 @@
       "en_US": [
         "Oh, how disappointing...\n",
         "Please take the challenge sometime."
+      ],
+      "fr_FR": [
+        "Oh, comme c’est décevant...\n",
+        "N’hésite pas à revenir nous voir."
       ]
     },
     {
@@ -60,6 +97,10 @@
       "en_US": [
         "Very well!\n",
         "Our first maid, please!\r"
+      ],
+      "fr_FR": [
+        "Très bien!\n",
+        "Première Gouvernante, en position!\r"
       ]
     },
     {
@@ -69,6 +110,12 @@
         "You have defeated four maids so far.\r",
         "You have taken {STRVAR_1 52, 1, 0} turns up to now.\n",
         "The target is {STRVAR_1 52, 0, 0} turns.\r"
+      ],
+      "fr_FR": [
+        "Félicitations!\r",
+        "Tu as vaincu quatre Gouvernantes en\n",
+        "{STRVAR_1 52, 1, 0} tours.\r",
+        "Il faut viser {STRVAR_1 52, 0, 0} tours.\r"
       ]
     },
     {
@@ -78,6 +125,11 @@
         "The targeted number of turns was {STRVAR_1 52, 0, 0}.\r",
         "The number of turns you needed to\n",
         "defeat the maids was {STRVAR_1 52, 1, 0}.\r"
+      ],
+      "fr_FR": [
+        "Félicitations pour cette belle victoire.\n",
+        "Il fallait nous battre en {STRVAR_1 52, 0, 0} tours.\r",
+        "Il t’en a fallu {STRVAR_1 52, 1, 0}.\r"
       ]
     },
     {
@@ -89,6 +141,14 @@
         "number of turns, a special gift!\r",
         "The chance to battle our very own\n",
         "prodigy, Master Liam!\r"
+      ],
+      "fr_FR": [
+        "Magnifique! Tu as atteint le nombre\n",
+        "exact de tours qu’il fallait!\r",
+        "En récompense, nous t’offrons ce\n",
+        "cadeau spécial!\r",
+        "L’honneur de te battre contre notre\n",
+        "prodige, le maître Valérian!\r"
       ]
     },
     {
@@ -100,6 +160,14 @@
         "number of turns, a special gift!\r",
         "The chance to battle our very own\n",
         "prodigy, Lady Celeste!\r"
+      ],
+      "fr_FR": [
+        "Magnifique! Tu as atteint le nombre\n",
+        "exact de tours qu’il fallait!\r",
+        "En récompense, nous t’offrons ce\n",
+        "cadeau spécial!\r",
+        "L’honneur de te battre contre notre\n",
+        "prodige, la grande Salomé!\r"
       ]
     },
     {
@@ -110,6 +178,13 @@
         "wasn’t enough for you, oh no!\r",
         "Why, to think you would triumph over\n",
         "even our Master Liam!\r"
+      ],
+      "fr_FR": [
+        "Ton talent force l’admiration!\r",
+        "Balayer les cinq Gouvernantes ne\n",
+        "t’a pas suffi, non!\r",
+        "En plus, tu triomphes de notre révéré\n",
+        "maître! Qui l’eût cru?\r"
       ]
     },
     {
@@ -120,6 +195,13 @@
         "wasn’t enough for you, oh no!\r",
         "Why, to think you would triumph over\n",
         "even our Lady Celeste!\r"
+      ],
+      "fr_FR": [
+        "Ton talent force l’admiration!\r",
+        "Balayer les cinq Gouvernantes ne\n",
+        "t’a pas suffi, non!\r",
+        "En plus, tu triomphes de notre révérée\n",
+        "Salomé! Qui l’eût cru?\r"
       ]
     },
     {
@@ -129,11 +211,19 @@
         "How disappointing for you.\r",
         "That said, you swept the five maids.\n",
         "That’s plenty to be proud of!\r"
+      ],
+      "fr_FR": [
+        "Ooh...\n",
+        "Ça me désole pour toi.\r",
+        "Cela dit, tu as balayé les cinq\n",
+        "Gouvernantes.\r",
+        "Il y a de quoi être fier!\r"
       ]
     },
     {
       "id": "PokemonMansion_Text_VisitAgainTomorrow",
-      "en_US": "Please visit again tomorrow."
+      "en_US": "Please visit again tomorrow.",
+      "fr_FR": "Reviens nous voir demain."
     },
     {
       "id": "PokemonMansion_Text_StrictlyOffLimits",
@@ -142,6 +232,12 @@
         "point is strictly off-limits.\r",
         "Please, you really mustn’t.\n",
         "Mr. Backlot will be so cross with me!"
+      ],
+      "fr_FR": [
+        "Toutes nos excuses, cette partie\n",
+        "du manoir est interdite au public.\r",
+        "Non, il ne faut pas y aller.\n",
+        "M. Décorum serait furieux contre moi!"
       ]
     },
     {
@@ -149,6 +245,10 @@
       "en_US": [
         "First up! My favorite color is blue!\n",
         "I will open the proceedings!\r"
+      ],
+      "fr_FR": [
+        "Prems! Ma couleur préférée est le\n",
+        "bleu! A moi d’ouvrir les hostilités!\r"
       ]
     },
     {
@@ -156,6 +256,10 @@
       "en_US": [
         "The next person up is quite strong,\n",
         "really.\r"
+      ],
+      "fr_FR": [
+        "La prochaine combattante est très\n",
+        "forte.\r"
       ]
     },
     {
@@ -163,6 +267,10 @@
       "en_US": [
         "I’m pleased to meet you in battle.\n",
         "My best color is green!\r"
+      ],
+      "fr_FR": [
+        "Ravie de te combattre.\n",
+        "Ma couleur préférée est le vert!\r"
       ]
     },
     {
@@ -170,6 +278,11 @@
       "en_US": [
         "I was no. 2, and a little bit tough!\n",
         "The next maid is even tougher!\r"
+      ],
+      "fr_FR": [
+        "Deuxième sur la liste, je suis assez\n",
+        "coriace! Mais ce n’est rien par rapport\f",
+        "à la suivante!\r"
       ]
     },
     {
@@ -177,6 +290,10 @@
       "en_US": [
         "My lucky color is yellow!\n",
         "The sunshine girl! That’s me!\r"
+      ],
+      "fr_FR": [
+        "Ma couleur porte-bonheur est le jaune!\n",
+        "Je brille comme le soleil!\r"
       ]
     },
     {
@@ -184,6 +301,10 @@
       "en_US": [
         "The next maid is a wee bit stronger\n",
         "than I am.\r"
+      ],
+      "fr_FR": [
+        "La prochaine est encore plus forte que\n",
+        "moi.\r"
       ]
     },
     {
@@ -191,17 +312,26 @@
       "en_US": [
         "Pink is the color I can’t do without!\n",
         "I’m the fourth in line!\r"
+      ],
+      "fr_FR": [
+        "Moi, je vois la vie en rose!\n",
+        "Prépare-toi au quatrième combat!\r"
       ]
     },
     {
       "id": "PokemonMansion_Text_Maid4Defeat",
-      "en_US": "Th-the next maid up is really strong!\r"
+      "en_US": "Th-the next maid up is really strong!\r",
+      "fr_FR": "La prochaine est surpuissante!\r"
     },
     {
       "id": "PokemonMansion_Text_Maid5Intro",
       "en_US": [
         "My symbolic color is red!\n",
         "Prepare for no. 5!\r"
+      ],
+      "fr_FR": [
+        "Le rouge est ma couleur!\n",
+        "En garde, cinquième round!\r"
       ]
     },
     {
@@ -209,6 +339,10 @@
       "en_US": [
         "You knocked out the five of us!\n",
         "You have to be splendid!\r"
+      ],
+      "fr_FR": [
+        "Tu nous as battues toutes les cinq!\n",
+        "Quel talent!\r"
       ]
     },
     {
@@ -218,6 +352,12 @@
         "into a battle...?\r",
         "I never expected this, but I may as\n",
         "well enjoy it, don’t you think?\r"
+      ],
+      "fr_FR": [
+        "Un Dresseur assez audacieux pour venir\n",
+        "me défier jusqu’ici...?\r",
+        "Voilà qui est inattendu...\n",
+        "Fichtre, autant en profiter!\r"
       ]
     },
     {
@@ -229,6 +369,15 @@
         "I’m doing in the back of the mansion.\r",
         "This knowing wink is all you’ll get out\n",
         "of me.\r"
+      ],
+      "fr_FR": [
+        "Incroyable!\n",
+        "Quelle merveille de Dresseur!\r",
+        "Je te prierai de ne pas chercher à\n",
+        "savoir ce que je fais à l’arrière du\f",
+        "manoir.\r",
+        "Ce clin d’œil de connivence est tout ce\n",
+        "que tu tireras de moi.\r"
       ]
     },
     {
@@ -236,6 +385,10 @@
       "en_US": [
         "Oh, my... You must show me how good\n",
         "you are for the ladies to call me out.\r"
+      ],
+      "fr_FR": [
+        "Oh là là... Pour que ces dames\n",
+        "m’appellent, tu dois avoir du talent.\r"
       ]
     },
     {
@@ -245,6 +398,12 @@
         "Your technique was most enchanting.\r",
         "I will take my leave now.\n",
         "Giggle...\r"
+      ],
+      "fr_FR": [
+        "Oh là là! Mince alors!\n",
+        "Ta technique m’a ensorcelée.\r",
+        "Je vais prendre congé maintenant.\n",
+        "Hi, hi, hi...\r"
       ]
     },
     {
@@ -252,6 +411,11 @@
       "en_US": [
         "The expensive-looking book Mr. Backlot\n",
         "has... It tugs at my attention."
+      ],
+      "fr_FR": [
+        "Le somptueux livre que M. Décorum\n",
+        "garde précieusement... Il éveille\f",
+        "ma curiosité."
       ]
     }
   ]

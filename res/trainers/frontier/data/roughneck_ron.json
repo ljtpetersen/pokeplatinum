@@ -97,6 +97,10 @@
             "en_US": [
                 "Are you challenging me? ...You are.\n",
                 "Kids these days..."
+            ],
+            "fr_FR": [
+                "Tu veux te battre? Contre moi?\n",
+                "Tsk, vous les jeunes..."
             ]
         },
         {
@@ -104,6 +108,10 @@
             "en_US": [
                 "Now run along home, and go help your\n",
                 "mommy with her chores!\r"
+            ],
+            "fr_FR": [
+                "Maintenant, rentre chez toi, et va\n",
+                "aider ta maman à faire la vaisselle!\r"
             ]
         },
         {
@@ -111,7 +119,12 @@
             "en_US": [
                 "Hey, you... If you think playtime will\n",
                 "last forever, you’ll end up like me.\r"
+            ],
+            "fr_FR": [
+                "La vie n’est pas un jeu. Souviens-toi\n",
+                "de ça ou tu finiras comme moi.\r"
             ]
         }
-    ]
+    ],
+    "name_fr": "Ron"
 }

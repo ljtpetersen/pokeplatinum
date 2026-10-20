@@ -14,6 +14,18 @@
         "Pokémon that travel around.\r",
         "...I’ve never met any traveling\n",
         "Pokémon, but I’ve heard about them."
+      ],
+      "fr_FR": [
+        "Tant que j’ai ma télé, je suis \n",
+        "heureux. Il ne m’en faut pas plus.\r",
+        "On peut apprendre des tas de \n",
+        "choses en restant chez soi!\r",
+        "J’ai entendu parler du logiciel\n",
+        "Pokémontre Carte Repères.\r",
+        "Ils disaient que ce logiciel pouvait \n",
+        "suivre la trace des Pokémon voyageurs.\r",
+        "Je n’ai jamais rencontré de Pokémon \n",
+        "voyageurs mais j’en ai entendu parler."
       ]
     },
     {
@@ -22,6 +34,12 @@
         "There’s big trouble!\n",
         "They’re saying the volcano’ll erupt!\r",
         "I might even have to leave here!"
+      ],
+      "fr_FR": [
+        "C’est une catastrophe! Ils ont dit que \n",
+        "le volcan allait entrer en éruption!\r",
+        "Peut-être même que je vais\n",
+        "devoir bouger d’ici!"
       ]
     },
     {
@@ -33,6 +51,14 @@
         "It must be a happy achievement to\n",
         "be able to win there with your favorite\f",
         "Pokémon you’ve caught yourself."
+      ],
+      "fr_FR": [
+        "Les meilleurs Dresseurs du monde\n",
+        "se rassemblent à la Zone de Combat.\r",
+        "Pas seulement ceux de Sinnoh.\r",
+        "Ce doit être terriblement gratifiant\n",
+        "d’y gagner des combats avec les\f",
+        "Pokémon qu’on a attrapés soi-même."
       ]
     },
     {
@@ -42,6 +68,12 @@
         "That is so cool!\r",
         "I’m going to travel with Pokémon when\n",
         "I get bigger!"
+      ],
+      "fr_FR": [
+        "Tu as vu tous les Pokémon de Sinnoh!\n",
+        "La classe!\r",
+        "Quand je serai grand, je voyagerai\n",
+        "avec des Pokémon, comme toi!"
       ]
     },
     {
@@ -51,6 +83,12 @@
         "That is so cool!\r",
         "I’m going to travel with Pokémon when\n",
         "I get bigger!"
+      ],
+      "fr_FR": [
+        "Tu as vu tous les Pokémon de Sinnoh!\n",
+        "La classe!\r",
+        "Quand je serai grand, je voyagerai\n",
+        "avec des Pokémon, comme toi!"
       ]
     }
   ]

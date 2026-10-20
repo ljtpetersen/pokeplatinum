@@ -45,15 +45,22 @@
             "en_US": [
                 "I have made my choice.\n",
                 "When I fall, it shall be forward!"
+            ],
+            "fr_FR": [
+                "Je ne peux pas perdre.\n",
+                "Je ne tomberai pas. Jamais."
             ]
         },
         {
             "type": "TRMSG_WIN",
-            "en_US": "You lack conviction.\r"
+            "en_US": "You lack conviction.\r",
+            "fr_FR": "Tu ne crois pas assez en toi.\r"
         },
         {
             "type": "TRMSG_DEFEAT",
-            "en_US": "...Thud.\r"
+            "en_US": "...Thud.\r",
+            "fr_FR": "Bam...\r"
         }
-    ]
+    ],
+    "name_fr": "Zakaria"
 }

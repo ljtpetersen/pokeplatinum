@@ -8,6 +8,12 @@
         "there were some Pokémon in the way.\r",
         "Who knows why they’re there, but\n",
         "they’re not budging."
+      ],
+      "fr_FR": [
+        "Je voulais me rendre à Célestia, mais\n",
+        "des Pokémon bloquent la route.\r",
+        "Qui sait ce qu’ils font là? En tout cas,\n",
+        "ils n’ont pas l’air décidés à bouger."
       ]
     },
     {
@@ -16,6 +22,11 @@
         "There was a group of Pokémon blocking\n",
         "the way up to Celestic Town.\r",
         "I think they’re gone now."
+      ],
+      "fr_FR": [
+        "Un groupe de Pokémon bloquait\n",
+        "l’accès à la route de Célestia.\r",
+        "Je crois bien qu’ils sont partis."
       ]
     }
   ]

@@ -26,18 +26,28 @@
             "en_US": [
                 "I need to shake off my sorrow...\n",
                 "Please, battle with me!\r"
+            ],
+            "fr_FR": [
+                "Je dois oublier ma peine...\n",
+                "S’il te plaît, bats-toi contre moi!\r"
             ]
         },
         {
             "type": "TRMSG_DEFEAT",
-            "en_US": "My sorrow has deepened...\n"
+            "en_US": "My sorrow has deepened...\n",
+            "fr_FR": "Ma peine est plus profonde...\n"
         },
         {
             "type": "TRMSG_POST_BATTLE",
             "en_US": [
                 "I won’t ever forget the Pokémon that\n",
                 "I’ve spent time with, however fleeting.\n"
+            ],
+            "fr_FR": [
+                "Je ne pourrai jamais oublier le temps\n",
+                "passé avec mon Pokémon... Jamais...\n"
             ]
         }
-    ]
+    ],
+    "name_fr": "Vanessa"
 }

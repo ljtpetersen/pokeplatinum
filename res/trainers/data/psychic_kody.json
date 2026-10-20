@@ -28,6 +28,10 @@
             "en_US": [
                 "A strange presence has been felt...\n",
                 "It is emanating from...you!\r"
+            ],
+            "fr_FR": [
+                "Une étrange présence est apparue...\n",
+                "Elle émane... de toi!\r"
             ]
         },
         {
@@ -35,6 +39,10 @@
             "en_US": [
                 "Oh, no!\n",
                 "My MEDITITE!"
+            ],
+            "fr_FR": [
+                "Oh non!\n",
+                "MEDITIKKA!"
             ]
         },
         {
@@ -42,7 +50,12 @@
             "en_US": [
                 "The Old Chateau... I sense...\n",
                 "a particularly strong presence there."
+            ],
+            "fr_FR": [
+                "Le Vieux Château... Je sens...\n",
+                "une présence très forte là-bas."
             ]
         }
-    ]
+    ],
+    "name_fr": "Mehdi"
 }

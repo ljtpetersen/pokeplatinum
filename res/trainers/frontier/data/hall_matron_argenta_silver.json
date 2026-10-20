@@ -8,6 +8,10 @@
             "en_US": [
                 "What Pokémon do you want up on stage?\n",
                 "I can’t wait!"
+            ],
+            "fr_FR": [
+                "Quels atouts as-tu dans ta manche?\n",
+                "Je suis impatiente de les découvrir."
             ]
         },
         {
@@ -15,6 +19,10 @@
             "en_US": [
                 "That was a most enjoyable time!\n",
                 "Thank you! Come again, please.\r"
+            ],
+            "fr_FR": [
+                "Tout à fait remarquable! Merci.\n",
+                "Reviens quand tu le souhaites.\r"
             ]
         },
         {
@@ -22,7 +30,12 @@
             "en_US": [
                 "Oh... I detest how fun times seem to\n",
                 "end so quickly.\r"
+            ],
+            "fr_FR": [
+                "Toutes les bonnes choses ont une fin,\n",
+                "malheureusement.\r"
             ]
         }
-    ]
+    ],
+    "name_fr": "Célosia"
 }

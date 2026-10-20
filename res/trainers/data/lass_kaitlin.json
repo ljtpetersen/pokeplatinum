@@ -51,22 +51,36 @@
             "en_US": [
                 "I found a Trainer while looking for\n",
                 "some Pokémon!\r"
+            ],
+            "fr_FR": [
+                "Oh, j’ai trouvé un Dresseur alors \n",
+                "que je cherchais des Pokémon!\r"
             ]
         },
         {
             "type": "TRMSG_DEFEAT",
-            "en_US": "Hunh? You’re finished so soon?\n"
+            "en_US": "Hunh? You’re finished so soon?\n",
+            "fr_FR": "Hein? C’est déjà fini?\n"
         },
         {
             "type": "TRMSG_POST_BATTLE",
             "en_US": [
                 "I walk through tall grass until I\n",
                 "find the Pokémon I want.\n"
+            ],
+            "fr_FR": [
+                "Je marche dans ces hautes herbes \n",
+                "pour trouver le Pokémon que je veux.\n"
             ]
         },
         {
             "type": "TRMSG_REMATCH",
-            "en_US": "I found a familiar-looking Trainer!\r"
+            "en_US": "I found a familiar-looking Trainer!\r",
+            "fr_FR": [
+                "Tiens, voilà un Dresseur qui m’est\n",
+                "familier!\r"
+            ]
         }
-    ]
+    ],
+    "name_fr": "Vanina"
 }

@@ -25,5 +25,13 @@
     "contest": {
         "effect": "CONTEST_EFFECT_PITY_POINTS",
         "type": "CONTEST_TYPE_TOUGH"
-    }
+    },
+    "name_fr": "Dégommage",
+    "description_fr": [
+        "Le lanceur envoie\n",
+        "l’objet qu’il tient sur\n",
+        "l’ennemi. La puissance\n",
+        "et les effets\n",
+        "dépendent de l’objet."
+    ]
 }

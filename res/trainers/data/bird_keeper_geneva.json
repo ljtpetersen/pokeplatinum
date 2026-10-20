@@ -32,6 +32,10 @@
             "en_US": [
                 "My Pokémon grew up in the arms of\n",
                 "Mother Nature. They’re tough!\r"
+            ],
+            "fr_FR": [
+                "Mes Pokémon ont grandi avec Mère\n",
+                "Nature. Ils sont forts!\r"
             ]
         },
         {
@@ -39,6 +43,10 @@
             "en_US": [
                 "How could you be tougher than\n",
                 "Mother Nature?\n"
+            ],
+            "fr_FR": [
+                "Comment ta puissance peut-elle\n",
+                "surpasser celle de Mère Nature?\n"
             ]
         },
         {
@@ -48,6 +56,12 @@
                 "to their Poké Balls right away.\r",
                 "But sometimes, they just fall asleep\n",
                 "on top of my head. That gets messy."
+            ],
+            "fr_FR": [
+                "En général, mes Pokémon retournent\n",
+                "dans leur Poké Ball immédiatement.\r",
+                "Mais parfois, ils s’endorment sur ma\n",
+                "tête. Ce n’est pas pratique pour moi!"
             ]
         },
         {
@@ -55,7 +69,12 @@
             "en_US": [
                 "The desire to win... That should be\n",
                 "evident in every Trainer!\r"
+            ],
+            "fr_FR": [
+                "La volonté de gagner... Tous les\n",
+                "Dresseurs devraient l’avoir!\r"
             ]
         }
-    ]
+    ],
+    "name_fr": "Louise"
 }

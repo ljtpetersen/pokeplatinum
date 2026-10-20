@@ -8,6 +8,14 @@
         "are a measure of a Trainer’s worth.\r",
         "By getting more Badges, you get to\n",
         "buy more items in Poké Marts."
+      ],
+      "fr_FR": [
+        "Les Badges des Arènes Pokémon donnent\n",
+        "la mesure des compétences d’un\f",
+        "Dresseur.\r",
+        "Plus tu obtiens de Badges, plus\n",
+        "tu peux acheter d’objets dans les\f",
+        "Boutiques Pokémon."
       ]
     },
     {
@@ -17,6 +25,12 @@
         "a young fellow.\r",
         "They offer different kinds of\n",
         "merchandise. Did you know?"
+      ],
+      "fr_FR": [
+        "La Boutique Pokémon est tenue par une\n",
+        "dame et un jeune homme.\r",
+        "Ils ne proposent pas le même type\n",
+        "d’articles, tu le savais?"
       ]
     }
   ]

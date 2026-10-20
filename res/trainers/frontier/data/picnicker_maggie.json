@@ -59,18 +59,28 @@
             "en_US": [
                 "It’s hard to keep the streak alive,\n",
                 "but the battles are fun."
+            ],
+            "fr_FR": [
+                "Obtenir des victoires en série n’est\n",
+                "pas facile, mais c’est amusant!"
             ]
         },
         {
             "type": "TRMSG_WIN",
-            "en_US": "It’s more fun to win, of course!\r"
+            "en_US": "It’s more fun to win, of course!\r",
+            "fr_FR": "Eh oui! Gagner, c’est amusant!\r"
         },
         {
             "type": "TRMSG_DEFEAT",
             "en_US": [
                 "Even losing is fun.\n",
                 "It’s the wonder of Pokémon!\r"
+            ],
+            "fr_FR": [
+                "Perdre, c’est amusant aussi.\n",
+                "Un peu.\r"
             ]
         }
-    ]
+    ],
+    "name_fr": "Maëlle"
 }

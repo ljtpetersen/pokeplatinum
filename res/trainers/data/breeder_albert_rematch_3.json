@@ -50,6 +50,10 @@
             "en_US": [
                 "I’ve raised my Pokémon since we met.\n",
                 "How much have you raised yours?\r"
+            ],
+            "fr_FR": [
+                "J’ai fait progresser mes Pokémon depuis\n",
+                "la dernière fois. Et toi?\r"
             ]
         },
         {
@@ -57,7 +61,12 @@
             "en_US": [
                 "Good stuff! Your Pokémon are in\n",
                 "impeccable condition.\n"
+            ],
+            "fr_FR": [
+                "Beau boulot! Tu as du talent pour\n",
+                "élever les Pokémon.\n"
             ]
         }
-    ]
+    ],
+    "name_fr": "Richard"
 }

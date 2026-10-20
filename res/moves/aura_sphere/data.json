@@ -27,5 +27,12 @@
     "contest": {
         "effect": "CONTEST_EFFECT_FIRST_PERFORMANCE_ADVANTAGE",
         "type": "CONTEST_TYPE_BEAUTY"
-    }
+    },
+    "name_fr": "Aurasphère",
+    "description_fr": [
+        "Le lanceur dégage une\n",
+        "aura et projette de\n",
+        "l’énergie. N’échoue\n",
+        "jamais."
+    ]
 }

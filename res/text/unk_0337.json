@@ -3,339 +3,423 @@
   "messages": [
     {
       "id": "pl_msg_00000337_00000",
-      "en_US": "Play in reverse"
+      "en_US": "Play in reverse",
+      "fr_FR": "Play in reverse"
     },
     {
       "id": "pl_msg_00000337_00001",
-      "en_US": "reverb"
+      "en_US": "reverb",
+      "fr_FR": "reverb"
     },
     {
       "id": "pl_msg_00000337_00002",
-      "en_US": "Fading Track"
+      "en_US": "Fading Track",
+      "fr_FR": "Fading Track"
     },
     {
       "id": "pl_msg_00000337_00003",
-      "en_US": "Volume of Field BGM"
+      "en_US": "Volume of Field BGM",
+      "fr_FR": "Volume of Field BGM"
     },
     {
       "id": "pl_msg_00000337_00004",
-      "en_US": "Cry Patterns"
+      "en_US": "Cry Patterns",
+      "fr_FR": "Cry Patterns"
     },
     {
       "id": "pl_msg_00000337_00005",
-      "en_US": "As is"
+      "en_US": "As is",
+      "fr_FR": "As is"
     },
     {
       "id": "pl_msg_00000337_00006",
-      "en_US": "Short"
+      "en_US": "Short",
+      "fr_FR": "Short"
     },
     {
       "id": "pl_msg_00000337_00007",
-      "en_US": "Angry"
+      "en_US": "Angry",
+      "fr_FR": "Angry"
     },
     {
       "id": "pl_msg_00000337_00008",
-      "en_US": "W howling"
+      "en_US": "W howling",
+      "fr_FR": "W howling"
     },
     {
       "id": "pl_msg_00000337_00009",
-      "en_US": "W hyper V1"
+      "en_US": "W hyper V1",
+      "fr_FR": "W hyper V1"
     },
     {
       "id": "pl_msg_00000337_00010",
-      "en_US": "Fainted"
+      "en_US": "Fainted",
+      "fr_FR": "Fainted"
     },
     {
       "id": "pl_msg_00000337_00011",
-      "en_US": "W hyper V2"
+      "en_US": "W hyper V2",
+      "fr_FR": "W hyper V2"
     },
     {
       "id": "pl_msg_00000337_00012",
-      "en_US": "W howling 1"
+      "en_US": "W howling 1",
+      "fr_FR": "W howling 1"
     },
     {
       "id": "pl_msg_00000337_00013",
-      "en_US": "W howling 2"
+      "en_US": "W howling 2",
+      "fr_FR": "W howling 2"
     },
     {
       "id": "pl_msg_00000337_00014",
-      "en_US": "W cry 1"
+      "en_US": "W cry 1",
+      "fr_FR": "W cry 1"
     },
     {
       "id": "pl_msg_00000337_00015",
-      "en_US": "W cry 2"
+      "en_US": "W cry 2",
+      "fr_FR": "W cry 2"
     },
     {
       "id": "pl_msg_00000337_00016",
-      "en_US": "downcast"
+      "en_US": "downcast",
+      "fr_FR": "downcast"
     },
     {
       "id": "pl_msg_00000337_00017",
-      "en_US": "downcast and short"
+      "en_US": "downcast and short",
+      "fr_FR": "downcast and short"
     },
     {
       "id": "pl_msg_00000337_00018",
-      "en_US": "Output EFF"
+      "en_US": "Output EFF",
+      "fr_FR": "Output EFF"
     },
     {
       "id": "pl_msg_00000337_00019",
-      "en_US": "Stereo"
+      "en_US": "Stereo",
+      "fr_FR": "Stereo"
     },
     {
       "id": "pl_msg_00000337_00020",
-      "en_US": "Monaural"
+      "en_US": "Monaural",
+      "fr_FR": "Monaural"
     },
     {
       "id": "pl_msg_00000337_00021",
-      "en_US": "Surround"
+      "en_US": "Surround",
+      "fr_FR": "Surround"
     },
     {
       "id": "pl_msg_00000337_00022",
-      "en_US": "headphones"
+      "en_US": "headphones",
+      "fr_FR": "headphones"
     },
     {
       "id": "pl_msg_00000337_00023",
-      "en_US": "Chatot"
+      "en_US": "Chatot",
+      "fr_FR": "Chatot"
     },
     {
       "id": "pl_msg_00000337_00024",
-      "en_US": "Start recording"
+      "en_US": "Start recording",
+      "fr_FR": "Start recording"
     },
     {
       "id": "pl_msg_00000337_00025",
-      "en_US": "Stop recording"
+      "en_US": "Stop recording",
+      "fr_FR": "Stop recording"
     },
     {
       "id": "pl_msg_00000337_00026",
-      "en_US": "Play"
+      "en_US": "Play",
+      "fr_FR": "Play"
     },
     {
       "id": "pl_msg_00000337_00027",
-      "en_US": "Stop"
+      "en_US": "Stop",
+      "fr_FR": "Stop"
     },
     {
       "id": "pl_msg_00000337_00028",
-      "en_US": "Save"
+      "en_US": "Save",
+      "fr_FR": "Save"
     },
     {
       "id": "pl_msg_00000337_00029",
-      "en_US": "Boot on scripts"
+      "en_US": "Boot on scripts",
+      "fr_FR": "Boot on scripts"
     },
     {
       "id": "pl_msg_00000337_00030",
-      "en_US": "Field BGM Tempo"
+      "en_US": "Field BGM Tempo",
+      "fr_FR": "Field BGM Tempo"
     },
     {
       "id": "pl_msg_00000337_00031",
-      "en_US": "Test Script"
+      "en_US": "Test Script",
+      "fr_FR": "Test Script"
     },
     {
       "id": "pl_msg_00000337_00032",
-      "en_US": "None"
+      "en_US": "None",
+      "fr_FR": "None"
     },
     {
       "id": "pl_msg_00000337_00033",
-      "en_US": "Debug Scrpt"
+      "en_US": "Debug Scrpt",
+      "fr_FR": "Debug Scrpt"
     },
     {
       "id": "pl_msg_00000337_00034",
-      "en_US": "Shaymin & Marley"
+      "en_US": "Shaymin & Marley",
+      "fr_FR": "Shaymin & Marley"
     },
     {
       "id": "pl_msg_00000337_00035",
-      "en_US": "3 Lakes"
+      "en_US": "3 Lakes",
+      "fr_FR": "3 Lakes"
     },
     {
       "id": "pl_msg_00000337_00036",
-      "en_US": "Pokemon Center B1F"
+      "en_US": "Pokemon Center B1F",
+      "fr_FR": "Pokemon Center B1F"
     },
     {
       "id": "pl_msg_00000337_00037",
-      "en_US": "None"
+      "en_US": "None",
+      "fr_FR": "None"
     },
     {
       "id": "pl_msg_00000337_00038",
-      "en_US": "None"
+      "en_US": "None",
+      "fr_FR": "None"
     },
     {
       "id": "pl_msg_00000337_00039",
-      "en_US": "Sound Effect"
+      "en_US": "Sound Effect",
+      "fr_FR": "Sound Effect"
     },
     {
       "id": "pl_msg_00000337_00040",
-      "en_US": "Wave pattern test"
+      "en_US": "Wave pattern test",
+      "fr_FR": "Wave pattern test"
     },
     {
       "id": "pl_msg_00000337_00041",
-      "en_US": "Set scenario flags"
+      "en_US": "Set scenario flags",
+      "fr_FR": "Set scenario flags"
     },
     {
       "id": "pl_msg_00000337_00042",
-      "en_US": "Set all Badges"
+      "en_US": "Set all Badges",
+      "fr_FR": "Set all Badges"
     },
     {
       "id": "pl_msg_00000337_00043",
-      "en_US": "Hidden items"
+      "en_US": "Hidden items",
+      "fr_FR": "Hidden items"
     },
     {
       "id": "pl_msg_00000337_00044",
-      "en_US": "Check captures"
+      "en_US": "Check captures",
+      "fr_FR": "Check captures"
     },
     {
       "id": "pl_msg_00000337_00045",
-      "en_US": "Play the recorded data"
+      "en_US": "Play the recorded data",
+      "fr_FR": "Play the recorded data"
     },
     {
       "id": "pl_msg_00000337_00046",
-      "en_US": "Jump"
+      "en_US": "Jump",
+      "fr_FR": "Jump"
     },
     {
       "id": "pl_msg_00000337_00047",
-      "en_US": "Poketch wave pattens"
+      "en_US": "Poketch wave pattens",
+      "fr_FR": "Poketch wave pattens"
     },
     {
       "id": "pl_msg_00000337_00048",
-      "en_US": "None"
+      "en_US": "None",
+      "fr_FR": "None"
     },
     {
       "id": "pl_msg_00000337_00049",
-      "en_US": "Battle Searcher"
+      "en_US": "Battle Searcher",
+      "fr_FR": "Battle Searcher"
     },
     {
       "id": "pl_msg_00000337_00050",
-      "en_US": "Battery Max"
+      "en_US": "Battery Max",
+      "fr_FR": "Battery Max"
     },
     {
       "id": "pl_msg_00000337_00051",
-      "en_US": "Battery Clear"
+      "en_US": "Battery Clear",
+      "fr_FR": "Battery Clear"
     },
     {
       "id": "pl_msg_00000337_00052",
-      "en_US": "Clear Max"
+      "en_US": "Clear Max",
+      "fr_FR": "Clear Max"
     },
     {
       "id": "pl_msg_00000337_00053",
-      "en_US": "Clear CLR"
+      "en_US": "Clear CLR",
+      "fr_FR": "Clear CLR"
     },
     {
       "id": "pl_msg_00000337_00054",
-      "en_US": "Script ON"
+      "en_US": "Script ON",
+      "fr_FR": "Script ON"
     },
     {
       "id": "pl_msg_00000337_00055",
-      "en_US": "Set Lv.1"
+      "en_US": "Set Lv.1",
+      "fr_FR": "Set Lv.1"
     },
     {
       "id": "pl_msg_00000337_00056",
-      "en_US": "Set Lv.2"
+      "en_US": "Set Lv.2",
+      "fr_FR": "Set Lv.2"
     },
     {
       "id": "pl_msg_00000337_00057",
-      "en_US": "Set Lv.3"
+      "en_US": "Set Lv.3",
+      "fr_FR": "Set Lv.3"
     },
     {
       "id": "pl_msg_00000337_00058",
-      "en_US": "Set Lv.4"
+      "en_US": "Set Lv.4",
+      "fr_FR": "Set Lv.4"
     },
     {
       "id": "pl_msg_00000337_00059",
-      "en_US": "Set Lv.5"
+      "en_US": "Set Lv.5",
+      "fr_FR": "Set Lv.5"
     },
     {
       "id": "pl_msg_00000337_00060",
-      "en_US": "{STRVAR_1 53, 1, 0}"
+      "en_US": "{STRVAR_1 53, 1, 0}",
+      "fr_FR": "{STRVAR_1 53, 1, 0}"
     },
     {
       "id": "pl_msg_00000337_00061",
-      "en_US": "BGM OFF"
+      "en_US": "BGM OFF",
+      "fr_FR": "BGM OFF"
     },
     {
       "id": "pl_msg_00000337_00062",
-      "en_US": "BGM ON"
+      "en_US": "BGM ON",
+      "fr_FR": "BGM ON"
     },
     {
       "id": "pl_msg_00000337_00063",
-      "en_US": "2 cries ON"
+      "en_US": "2 cries ON",
+      "fr_FR": "2 cries ON"
     },
     {
       "id": "pl_msg_00000337_00064",
-      "en_US": "2 cries OFF"
+      "en_US": "2 cries OFF",
+      "fr_FR": "2 cries OFF"
     },
     {
       "id": "pl_msg_00000337_00065",
-      "en_US": "Cry with wait"
+      "en_US": "Cry with wait",
+      "fr_FR": "Cry with wait"
     },
     {
       "id": "pl_msg_00000337_00066",
-      "en_US": "Monitor"
+      "en_US": "Monitor",
+      "fr_FR": "Monitor"
     },
     {
       "id": "pl_msg_00000337_00067",
-      "en_US": "9999 CPs"
+      "en_US": "9999 CPs",
+      "fr_FR": "9999 CPs"
     },
     {
       "id": "pl_msg_00000337_00068",
-      "en_US": "5 HP"
+      "en_US": "5 HP",
+      "fr_FR": "5 HP"
     },
     {
       "id": "pl_msg_00000337_00069",
-      "en_US": "Frontier"
+      "en_US": "Frontier",
+      "fr_FR": "Frontier"
     },
     {
       "id": "pl_msg_00000337_00070",
-      "en_US": "Factory"
+      "en_US": "Factory",
+      "fr_FR": "Factory"
     },
     {
       "id": "pl_msg_00000337_00071",
-      "en_US": "Hall"
+      "en_US": "Hall",
+      "fr_FR": "Hall"
     },
     {
       "id": "pl_msg_00000337_00072",
-      "en_US": "Castle"
+      "en_US": "Castle",
+      "fr_FR": "Castle"
     },
     {
       "id": "pl_msg_00000337_00073",
-      "en_US": "Arcade"
+      "en_US": "Arcade",
+      "fr_FR": "Arcade"
     },
     {
       "id": "pl_msg_00000337_00074",
-      "en_US": "Single"
+      "en_US": "Single",
+      "fr_FR": "Single"
     },
     {
       "id": "pl_msg_00000337_00075",
-      "en_US": "Double"
+      "en_US": "Double",
+      "fr_FR": "Double"
     },
     {
       "id": "pl_msg_00000337_00076",
-      "en_US": "Multi"
+      "en_US": "Multi",
+      "fr_FR": "Multi"
     },
     {
       "id": "pl_msg_00000337_00077",
-      "en_US": "Wi-Fi Multi"
+      "en_US": "Wi-Fi Multi",
+      "fr_FR": "Wi-Fi Multi"
     },
     {
       "id": "pl_msg_00000337_00078",
-      "en_US": "Tower"
+      "en_US": "Tower",
+      "fr_FR": "Tower"
     },
     {
       "id": "pl_msg_00000337_00079",
-      "en_US": "Switch villa event"
+      "en_US": "Switch villa event",
+      "fr_FR": "Switch villa event"
     },
     {
       "id": "pl_msg_00000337_00080",
-      "en_US": "Open the Factory"
+      "en_US": "Open the Factory",
+      "fr_FR": "Open the Factory"
     },
     {
       "id": "pl_msg_00000337_00081",
-      "en_US": "Arrival at the Frontier"
+      "en_US": "Arrival at the Frontier",
+      "fr_FR": "Arrival at the Frontier"
     },
     {
       "id": "pl_msg_00000337_00082",
-      "en_US": "Check the Hall bonus"
+      "en_US": "Check the Hall bonus",
+      "fr_FR": "Check the Hall bonus"
     },
     {
       "id": "pl_msg_00000337_00083",
-      "en_US": "Test effort values"
+      "en_US": "Test effort values",
+      "fr_FR": "Test effort values"
     }
   ]
 }

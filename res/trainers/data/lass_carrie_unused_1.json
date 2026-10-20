@@ -41,6 +41,12 @@
                 "have with you?\r",
                 "I’ll show you my Pokémon while we\n",
                 "have a battle.\r"
+            ],
+            "fr_FR": [
+                "Salut, quels types de Pokémon as-tu\n",
+                "avec toi?\r",
+                "Je vais te montrer mes Pokémon pendant\n",
+                "le combat.\r"
             ]
         },
         {
@@ -48,6 +54,10 @@
             "en_US": [
                 "Huh? It’s over already?!\n",
                 "I thought I’d win for sure!\n"
+            ],
+            "fr_FR": [
+                "Hein? C’est déjà fini?!\n",
+                "J’étais certaine de gagner!\n"
             ]
         },
         {
@@ -57,7 +67,14 @@
                 "I won’t battle you again!\r",
                 "Just joking! I’ll challenge you again\n",
                 "when I level up my Pokémon.\n"
+            ],
+            "fr_FR": [
+                "Tu es trop balèze!\n",
+                "Je ne me battrai plus contre toi!\r",
+                "Je blague! Je t’affronterai à nouveau\n",
+                "quand mes Pokémon seront plus forts.\n"
             ]
         }
-    ]
+    ],
+    "name_fr": "Fiona"
 }

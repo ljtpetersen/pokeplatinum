@@ -26,5 +26,12 @@
     "contest": {
         "effect": "CONTEST_EFFECT_NO_VOLTAGE_DOWN",
         "type": "CONTEST_TYPE_SMART"
-    }
+    },
+    "name_fr": "Hypnose",
+    "description_fr": [
+        "Le lanceur hypnotise\n",
+        "l’ennemi pour le\n",
+        "plonger dans un\n",
+        "profond sommeil."
+    ]
 }

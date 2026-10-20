@@ -8,11 +8,18 @@
         "rails are used for transportation.\r",
         "They prevent damage to the Great\n",
         "Marsh’s ecosystem."
+      ],
+      "fr_FR": [
+        "Dans le Grand Marais, on utilise le\n",
+        "Tram Eclair pour se déplacer.\r",
+        "Il est étudié pour ne pas \n",
+        "perturber l’écosystème."
       ]
     },
     {
       "id": "PastoriaCityNorthHouse_Text_PsyduckCry",
-      "en_US": "PSYDUCK: Gwah?!"
+      "en_US": "PSYDUCK: Gwah?!",
+      "fr_FR": "PSYKOKWAK: Psykokwak?!"
     },
     {
       "id": "PastoriaCityNorthHouse_Text_QuickTramsAreSlow",
@@ -21,6 +28,12 @@
         "movements are anything but!\r",
         "They’re the Quick Trams that traverse\n",
         "the Great Marsh."
+      ],
+      "fr_FR": [
+        "Il a beau s’appeler “Eclair”, il est\n",
+        "tout sauf rapide!\r",
+        "Tram Eclair, Tram Eclair... Tu parles\n",
+        "d’une publicité mensongère."
       ]
     }
   ]

@@ -27,5 +27,13 @@
   "fieldUseFunc": "ITEM_USE_FUNC_TM_HM",
   "battleUseCategory": "BATTLE_USE_CATEGORY_NONE",
   "itemUseParams": null,
-  "teachesMove": "MOVE_ENERGY_BALL"
+  "teachesMove": "MOVE_ENERGY_BALL",
+  "name_fr": "CT53",
+  "description_fr": [
+    "Utilise les pouvoirs de la nature pour\n",
+    "attaquer l’ennemi. Peut aussi baisser\n",
+    "la Déf. Spé. de l’ennemi."
+  ],
+  "plural_fr": "CT53",
+  "article_fr": null
 }

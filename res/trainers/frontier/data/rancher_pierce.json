@@ -59,6 +59,10 @@
             "en_US": [
                 "Pokémon are like family to me.\n",
                 "...Nah, they are family."
+            ],
+            "fr_FR": [
+                "Chaque Pokémon que j’élève a une place\n",
+                "particulière dans ma famille, tu sais."
             ]
         },
         {
@@ -66,6 +70,10 @@
             "en_US": [
                 "Yes! My family, you did it!\n",
                 "We knocked off that mean Trainer!\r"
+            ],
+            "fr_FR": [
+                "Super! Gagné! Allez, à la revoyure!\n",
+                "Ma famille m’attend.\r"
             ]
         },
         {
@@ -73,7 +81,12 @@
             "en_US": [
                 "Fwaaaah! That’s cruel!\n",
                 "My family’s hurting!\r"
+            ],
+            "fr_FR": [
+                "Argh! C’est cruel!\n",
+                "Ma famille sera déçue!\r"
             ]
         }
-    ]
+    ],
+    "name_fr": "Pat"
 }

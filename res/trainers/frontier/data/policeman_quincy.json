@@ -47,6 +47,10 @@
             "en_US": [
                 "I’m a Policeman. But on holidays, I’m\n",
                 "an entirely different kind of guy."
+            ],
+            "fr_FR": [
+                "Je suis un Agent. J’ai l’air sérieux,\n",
+                "mais seulement quand je suis en service."
             ]
         },
         {
@@ -54,6 +58,10 @@
             "en_US": [
                 "Usually, I chase after bad guys as a\n",
                 "Policeman.\r"
+            ],
+            "fr_FR": [
+                "En tant qu’Agent, je passe beaucoup de\n",
+                "temps à poursuivre des malfaiteurs.\r"
             ]
         },
         {
@@ -61,7 +69,12 @@
             "en_US": [
                 "On my days off, I chase after the waves\n",
                 "and the ladies as a Swimmer.\r"
+            ],
+            "fr_FR": [
+                "Après le travail, je me change en\n",
+                "Nageur pour me détendre!\r"
             ]
         }
-    ]
+    ],
+    "name_fr": "Quintus"
 }

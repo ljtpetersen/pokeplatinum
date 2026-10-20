@@ -56,13 +56,18 @@
     "messages": [
         {
             "type": "TRMSG_PRE_BATTLE",
-            "en_US": "My precious Pokémon will set you right!"
+            "en_US": "My precious Pokémon will set you right!",
+            "fr_FR": "Je vais te remettre à ta place!"
         },
         {
             "type": "TRMSG_WIN",
             "en_US": [
                 "My Pokémon have no flaws that you can\n",
                 "exploit!\r"
+            ],
+            "fr_FR": [
+                "Je n’ai aucun point faible que tu\n",
+                "puisses exploiter!\r"
             ]
         },
         {
@@ -70,7 +75,12 @@
             "en_US": [
                 "I apologize, my dear Pokémon...\n",
                 "I was caught unprepared...\r"
+            ],
+            "fr_FR": [
+                "Non! J’aurais dû me préparer\n",
+                "davantage pour cette rencontre...\r"
             ]
         }
-    ]
+    ],
+    "name_fr": "Roberto"
 }

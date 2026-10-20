@@ -14,6 +14,19 @@
         "explained, but we have things to do.\r",
         "Let’s split up.\n",
         "We have to find the right way.\r"
+      ],
+      "fr_FR": [
+        "Cynthia: Rares sont ceux qui se\n",
+        "souviennent du mythe de GIRATINA...\r",
+        "Il évoque un monde situé de l’autre\n",
+        "côté du nôtre. Nous sommes en plein\f",
+        "dedans.\r",
+        "Comment expliquer son existence?\n",
+        "Que fait GIRATINA ici tout seul?\r",
+        "Tant de mystères à déchiffrer, et\n",
+        "si peu de temps.\r",
+        "Séparons-nous. Ça doublera nos\n",
+        "chances de trouver le bon chemin.\r"
       ]
     },
     {
@@ -21,6 +34,10 @@
       "en_US": [
         "We don’t need to go together now.\n",
         "Let’s keep looking for the way down."
+      ],
+      "fr_FR": [
+        "Inutile de rester ensemble.\n",
+        "Continuons à chercher le bon chemin."
       ]
     }
   ]

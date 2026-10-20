@@ -7,7 +7,10 @@
         "special_attack": 90,
         "special_defense": 75
     },
-    "types": [ "TYPE_BUG", "TYPE_POISON" ],
+    "types": [
+        "TYPE_BUG",
+        "TYPE_POISON"
+    ],
     "catch_rate": 75,
     "base_exp_reward": 138,
     "ev_yields": {
@@ -26,32 +29,92 @@
     "hatch_cycles": 20,
     "base_friendship": 70,
     "exp_rate": "EXP_RATE_MEDIUM_FAST",
-    "egg_groups": [ "EGG_GROUP_BUG", "EGG_GROUP_BUG" ],
-    "abilities": [ "ABILITY_SHIELD_DUST", "ABILITY_TINTED_LENS" ],
+    "egg_groups": [
+        "EGG_GROUP_BUG",
+        "EGG_GROUP_BUG"
+    ],
+    "abilities": [
+        "ABILITY_SHIELD_DUST",
+        "ABILITY_TINTED_LENS"
+    ],
     "safari_flee_rate": 0,
     "body_color": "MON_COLOR_PURPLE",
     "flip_sprite": false,
     "icon_palette": 2,
     "learnset": {
         "by_level": [
-            [ 1, "MOVE_SILVER_WIND" ],
-            [ 1, "MOVE_TACKLE" ],
-            [ 1, "MOVE_DISABLE" ],
-            [ 1, "MOVE_FORESIGHT" ],
-            [ 1, "MOVE_SUPERSONIC" ],
-            [ 5, "MOVE_SUPERSONIC" ],
-            [ 11, "MOVE_CONFUSION" ],
-            [ 13, "MOVE_POISON_POWDER" ],
-            [ 17, "MOVE_LEECH_LIFE" ],
-            [ 23, "MOVE_STUN_SPORE" ],
-            [ 25, "MOVE_PSYBEAM" ],
-            [ 29, "MOVE_SLEEP_POWDER" ],
-            [ 31, "MOVE_GUST" ],
-            [ 37, "MOVE_SIGNAL_BEAM" ],
-            [ 41, "MOVE_ZEN_HEADBUTT" ],
-            [ 47, "MOVE_POISON_FANG" ],
-            [ 55, "MOVE_PSYCHIC" ],
-            [ 59, "MOVE_BUG_BUZZ" ]
+            [
+                1,
+                "MOVE_SILVER_WIND"
+            ],
+            [
+                1,
+                "MOVE_TACKLE"
+            ],
+            [
+                1,
+                "MOVE_DISABLE"
+            ],
+            [
+                1,
+                "MOVE_FORESIGHT"
+            ],
+            [
+                1,
+                "MOVE_SUPERSONIC"
+            ],
+            [
+                5,
+                "MOVE_SUPERSONIC"
+            ],
+            [
+                11,
+                "MOVE_CONFUSION"
+            ],
+            [
+                13,
+                "MOVE_POISON_POWDER"
+            ],
+            [
+                17,
+                "MOVE_LEECH_LIFE"
+            ],
+            [
+                23,
+                "MOVE_STUN_SPORE"
+            ],
+            [
+                25,
+                "MOVE_PSYBEAM"
+            ],
+            [
+                29,
+                "MOVE_SLEEP_POWDER"
+            ],
+            [
+                31,
+                "MOVE_GUST"
+            ],
+            [
+                37,
+                "MOVE_SIGNAL_BEAM"
+            ],
+            [
+                41,
+                "MOVE_ZEN_HEADBUTT"
+            ],
+            [
+                47,
+                "MOVE_POISON_FANG"
+            ],
+            [
+                55,
+                "MOVE_PSYCHIC"
+            ],
+            [
+                59,
+                "MOVE_BUG_BUZZ"
+            ]
         ],
         "by_tm": [
             "TM06",
@@ -97,7 +160,7 @@
             "MOVE_SWIFT"
         ]
     },
-    "evolutions": [  ],
+    "evolutions": [],
     "offspring": "SPECIES_VENONAT",
     "footprint": {
         "has": true,
@@ -168,6 +231,18 @@
                 "はばたいて　りんぷんを　まきちらす。\n",
                 "りんぷんが　からだに　つくと　どくの\n",
                 "せいぶんが　ひふに　しみこんでくる。"
+            ]
+        },
+        "local_version": {
+            "entry_text": [
+                "It flutters its wings to scatter\n",
+                "dustlike scales. The scales leach\n",
+                "toxins if they contact skin."
+            ],
+            "entry_text_fr": [
+                "Il répand ses écailles poudreuses\n",
+                "en battant des ailes. Elles sont\n",
+                "toxiques au toucher."
             ]
         }
     },

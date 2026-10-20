@@ -29,6 +29,11 @@
                 "Whether you’re a Trainer or a\n",
                 "Guitarist, it takes dedication to\f",
                 "improve your mad skills!\r"
+            ],
+            "fr_FR": [
+                "Que tu sois un Dresseur ou un\n",
+                "Guitariste, il faut beaucoup de travail\f",
+                "pour améliorer tes compétences!\r"
             ]
         },
         {
@@ -36,6 +41,10 @@
             "en_US": [
                 "My skills seem to have let me down.\n",
                 "I must have been out of tune!\n"
+            ],
+            "fr_FR": [
+                "On dirait que mes dons m’ont laissé\n",
+                "tomber. Je dois être désaccordé!\n"
             ]
         },
         {
@@ -45,7 +54,14 @@
                 "very heart of rock and roll.\r",
                 "Tell me, are you maybe a fan of\n",
                 "rocking out?\n"
+            ],
+            "fr_FR": [
+                "A ta façon de combattre, je sens que tu\n",
+                "es très rock-and-roll.\r",
+                "Dis-moi, c’est quoi ton style de\n",
+                "musique?\n"
             ]
         }
-    ]
+    ],
+    "name_fr": "John"
 }

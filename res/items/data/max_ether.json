@@ -28,5 +28,12 @@
   "battleUseCategory": "BATTLE_USE_CATEGORY_HEALING",
   "itemUseParams": {
     "ppRestored": -1
-  }
+  },
+  "name_fr": "Huile Max",
+  "description_fr": [
+    "Restaure tous les PP d’une capacité\n",
+    "sélectionnée."
+  ],
+  "plural_fr": "Huile Max",
+  "article_fr": null
 }

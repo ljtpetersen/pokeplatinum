@@ -7,7 +7,10 @@
         "special_attack": 79,
         "special_defense": 105
     },
-    "types": [ "TYPE_BUG", "TYPE_GRASS" ],
+    "types": [
+        "TYPE_BUG",
+        "TYPE_GRASS"
+    ],
     "catch_rate": 45,
     "base_exp_reward": 159,
     "ev_yields": {
@@ -26,27 +29,72 @@
     "hatch_cycles": 15,
     "base_friendship": 70,
     "exp_rate": "EXP_RATE_MEDIUM_FAST",
-    "egg_groups": [ "EGG_GROUP_BUG", "EGG_GROUP_BUG" ],
-    "abilities": [ "ABILITY_ANTICIPATION", "ABILITY_NONE" ],
+    "egg_groups": [
+        "EGG_GROUP_BUG",
+        "EGG_GROUP_BUG"
+    ],
+    "abilities": [
+        "ABILITY_ANTICIPATION",
+        "ABILITY_NONE"
+    ],
     "safari_flee_rate": 0,
     "body_color": "MON_COLOR_GRAY",
     "flip_sprite": false,
     "icon_palette": 1,
     "learnset": {
         "by_level": [
-            [ 1, "MOVE_TACKLE" ],
-            [ 10, "MOVE_PROTECT" ],
-            [ 15, "MOVE_BUG_BITE" ],
-            [ 20, "MOVE_HIDDEN_POWER" ],
-            [ 23, "MOVE_CONFUSION" ],
-            [ 26, "MOVE_RAZOR_LEAF" ],
-            [ 29, "MOVE_GROWTH" ],
-            [ 32, "MOVE_PSYBEAM" ],
-            [ 35, "MOVE_CAPTIVATE" ],
-            [ 38, "MOVE_FLAIL" ],
-            [ 41, "MOVE_ATTRACT" ],
-            [ 44, "MOVE_PSYCHIC" ],
-            [ 47, "MOVE_LEAF_STORM" ]
+            [
+                1,
+                "MOVE_TACKLE"
+            ],
+            [
+                10,
+                "MOVE_PROTECT"
+            ],
+            [
+                15,
+                "MOVE_BUG_BITE"
+            ],
+            [
+                20,
+                "MOVE_HIDDEN_POWER"
+            ],
+            [
+                23,
+                "MOVE_CONFUSION"
+            ],
+            [
+                26,
+                "MOVE_RAZOR_LEAF"
+            ],
+            [
+                29,
+                "MOVE_GROWTH"
+            ],
+            [
+                32,
+                "MOVE_PSYBEAM"
+            ],
+            [
+                35,
+                "MOVE_CAPTIVATE"
+            ],
+            [
+                38,
+                "MOVE_FLAIL"
+            ],
+            [
+                41,
+                "MOVE_ATTRACT"
+            ],
+            [
+                44,
+                "MOVE_PSYCHIC"
+            ],
+            [
+                47,
+                "MOVE_LEAF_STORM"
+            ]
         ],
         "by_tm": [
             "TM06",
@@ -93,7 +141,7 @@
             "MOVE_UPROAR"
         ]
     },
-    "evolutions": [  ],
+    "evolutions": [],
     "offspring": "SPECIES_BURMY",
     "footprint": {
         "has": false,
@@ -116,9 +164,9 @@
             "name": "WORMADAM",
             "category": "Bagworm Pokémon",
             "entry_text": [
-                "When evolving, its body takes in\n",
-                "surrounding materials. As a result,\n",
-                "there are many body variations."
+                "When BURMY evolved, its cloak\n",
+                "became a part of this Pokémon’s\n",
+                "body. The cloak is never shed."
             ]
         },
         "fr": {
@@ -164,6 +212,18 @@
                 "ミノムッチから　しんかしたとき\n",
                 "ミノが　からだの　いちぶに　なった。\n",
                 "いっしょう　ミノを　ぬぐことはない。"
+            ]
+        },
+        "local_version": {
+            "entry_text": [
+                "When evolving, its body takes in\n",
+                "surrounding materials. As a result,\n",
+                "there are many body variations."
+            ],
+            "entry_text_fr": [
+                "A l’évolution, son corps absorbe\n",
+                "les matériaux à proximité et peut\n",
+                "ainsi présenter divers aspects."
             ]
         }
     },

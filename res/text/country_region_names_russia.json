@@ -3,35 +3,43 @@
   "messages": [
     {
       "id": "pl_msg_00000691_00000",
-      "en_US": "None"
+      "en_US": "None",
+      "fr_FR": "Aucun"
     },
     {
       "id": "pl_msg_00000691_00001",
-      "en_US": "Central Federal District"
+      "en_US": "Central Federal District",
+      "fr_FR": "District fédéral central"
     },
     {
       "id": "pl_msg_00000691_00002",
-      "en_US": "Far Eastern Federal District "
+      "en_US": "Far Eastern Federal District ",
+      "fr_FR": "District fédéral extrême-oriental"
     },
     {
       "id": "pl_msg_00000691_00003",
-      "en_US": "Northwestern Federal District"
+      "en_US": "Northwestern Federal District",
+      "fr_FR": "District fédéral du Nord-Ouest"
     },
     {
       "id": "pl_msg_00000691_00004",
-      "en_US": "Volga Federal District "
+      "en_US": "Volga Federal District ",
+      "fr_FR": "District fédéral de la Volga"
     },
     {
       "id": "pl_msg_00000691_00005",
-      "en_US": "Siberian Federal District"
+      "en_US": "Siberian Federal District",
+      "fr_FR": "District fédéral Sibérien"
     },
     {
       "id": "pl_msg_00000691_00006",
-      "en_US": "Southern Federal District"
+      "en_US": "Southern Federal District",
+      "fr_FR": "District fédéral du Sud"
     },
     {
       "id": "pl_msg_00000691_00007",
-      "en_US": "Urals Federal District "
+      "en_US": "Urals Federal District ",
+      "fr_FR": "District fédéral de l’Oural"
     }
   ]
 }

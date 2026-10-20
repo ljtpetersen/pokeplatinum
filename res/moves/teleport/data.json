@@ -22,5 +22,13 @@
     "contest": {
         "effect": "CONTEST_EFFECT_FIRST_NEXT_TURN",
         "type": "CONTEST_TYPE_COOL"
-    }
+    },
+    "name_fr": "Téléport",
+    "description_fr": [
+        "Permet de fuir un\n",
+        "Pokémon sauvage.\n",
+        "Permet aussi de\n",
+        "revenir au dernier\n",
+        "Centre Pokémon."
+    ]
 }

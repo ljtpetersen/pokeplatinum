@@ -25,5 +25,12 @@
     "contest": {
         "effect": "CONTEST_EFFECT_FIRST_PERFORMANCE_ADVANTAGE",
         "type": "CONTEST_TYPE_BEAUTY"
-    }
+    },
+    "name_fr": "Poinglace",
+    "description_fr": [
+        "Un coup de poing glacé\n",
+        "vient frapper\n",
+        "l’ennemi. Peut le\n",
+        "geler."
+    ]
 }

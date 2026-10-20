@@ -13,6 +13,17 @@
         "Pokémon of Sinnoh.\r",
         "Would you like me to teach that\n",
         "move to one of your Pokémon?"
+      ],
+      "fr_FR": [
+        "Hohoho...\n",
+        "On m’appelle Mamie Bertille.\r",
+        "Je suis venue ici toute seule, en\n",
+        "quittant ma ville de Dracologues.\r",
+        "Je peux apprendre la plus puissante\n",
+        "des capacités de type Dragon aux\f",
+        "Pokémon de Sinnoh.\r",
+        "Veux-tu que j’enseigne cette capacité\n",
+        "à l’un de tes Pokémon?"
       ]
     },
     {
@@ -22,6 +33,12 @@
         "Would you like me to teach the best\n",
         "Dragon-type move I know to one of\f",
         "your Pokémon?"
+      ],
+      "fr_FR": [
+        "Ah, c’est encore toi...\r",
+        "Veux-tu que j’enseigne ma meilleure\n",
+        "capacité de type Dragon à l’un de tes\f",
+        "Pokémon?"
       ]
     },
     {
@@ -29,6 +46,10 @@
       "en_US": [
         "Well, perhaps if you change your\n",
         "mind, do come back."
+      ],
+      "fr_FR": [
+        "Eh bien, si tu changes d’avis, n’hésite\n",
+        "pas à revenir."
       ]
     },
     {
@@ -38,6 +59,12 @@
         "I like your sense of adventure.\r",
         "However, none of the Pokémon with\n",
         "you now can learn the move."
+      ],
+      "fr_FR": [
+        "Je vois...\n",
+        "Tu n’as pas froid aux yeux, j’aime ça.\r",
+        "Malheureusement, aucun de tes Pokémon\n",
+        "ne peut apprendre cette capacité."
       ]
     },
     {
@@ -45,6 +72,10 @@
       "en_US": [
         "Fine, fine, now pick the Pokémon\n",
         "I should teach the move to.\r"
+      ],
+      "fr_FR": [
+        "Bien, bien, choisis le Pokémon auquel\n",
+        "je dois apprendre cette capacité.\r"
       ]
     },
     {
@@ -56,6 +87,14 @@
         "you fully yet...\r",
         "Until then, I can’t make it learn\n",
         "this move."
+      ],
+      "fr_FR": [
+        "Désolée de te décevoir...\r",
+        "Ton Pokémon est capable d’apprendre\n",
+        "cette capacité, mais votre lien n’est\f",
+        "pas encore assez fort...\r",
+        "Je ne pourrai pas la lui apprendre tant \n",
+        "que vous ne serez pas plus proches."
       ]
     },
     {
@@ -63,6 +102,10 @@
       "en_US": [
         "Sorry to disappoint you...\n",
         "That Pokémon can’t learn this move."
+      ],
+      "fr_FR": [
+        "Désolée de te décevoir... Ce Pokémon\n",
+        "ne peut pas apprendre cette capacité."
       ]
     },
     {
@@ -71,12 +114,21 @@
         "Hmmmm...\r",
         "Teaching a move to an Egg is\n",
         "a challenge that’s beyond me."
+      ],
+      "fr_FR": [
+        "Hummm...\r",
+        "Je ne peux pas apprendre\n",
+        "cette capacité à un Oeuf."
       ]
     },
     {
       "id": "Route210GrandmaWilmaHouse_Text_AlreadyKnowsDracoMeteor",
       "en_US": [
         "Oh? That Pokémon already knows\n",
+        "{STRVAR_1 6, 0, 0}."
+      ],
+      "fr_FR": [
+        "Oh? Ce Pokémon connaît déjà\n",
         "{STRVAR_1 6, 0, 0}."
       ]
     },
@@ -115,6 +167,12 @@
         "is awe inspiring.\r",
         "However, using it will also lower\n",
         "the Pokémon’s Special Attack."
+      ],
+      "fr_FR": [
+        "La puissance destructrice de Draco\n",
+        "Météor est terrifiante.\r",
+        "Mais son emploi réduit également\n",
+        "l’Attaque Spéciale du Pokémon."
       ]
     }
   ]

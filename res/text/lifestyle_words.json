@@ -3,419 +3,523 @@
   "messages": [
     {
       "id": "LifestyleWords_Text_Idol",
-      "en_US": "IDOL"
+      "en_US": "IDOL",
+      "fr_FR": "IDOLE"
     },
     {
       "id": "LifestyleWords_Text_Tomorrow",
-      "en_US": "TOMORROW"
+      "en_US": "TOMORROW",
+      "fr_FR": "DEMAIN"
     },
     {
       "id": "LifestyleWords_Text_Playing",
-      "en_US": "PLAYING"
+      "en_US": "PLAYING",
+      "fr_FR": "JOUER"
     },
     {
       "id": "LifestyleWords_Text_Anime",
-      "en_US": "ANIME"
+      "en_US": "ANIME",
+      "fr_FR": "DESSIN ANIME"
     },
     {
       "id": "LifestyleWords_Text_Job",
-      "en_US": "JOB"
+      "en_US": "JOB",
+      "fr_FR": "PETIT BOULOT"
     },
     {
       "id": "LifestyleWords_Text_Song",
-      "en_US": "SONG"
+      "en_US": "SONG",
+      "fr_FR": "CHANSON"
     },
     {
       "id": "LifestyleWords_Text_Home",
-      "en_US": "HOME"
+      "en_US": "HOME",
+      "fr_FR": "MAISON"
     },
     {
       "id": "LifestyleWords_Text_Movie",
-      "en_US": "MOVIE"
+      "en_US": "MOVIE",
+      "fr_FR": "FILM"
     },
     {
       "id": "LifestyleWords_Text_Sweets",
-      "en_US": "SWEETS"
+      "en_US": "SWEETS",
+      "fr_FR": "BONBONS"
     },
     {
       "id": "LifestyleWords_Text_Money",
-      "en_US": "MONEY"
+      "en_US": "MONEY",
+      "fr_FR": "ARGENT"
     },
     {
       "id": "LifestyleWords_Text_PocketMoney",
-      "en_US": "POCKET MONEY"
+      "en_US": "POCKET MONEY",
+      "fr_FR": "ARGENT POCHE"
     },
     {
       "id": "LifestyleWords_Text_ChitChat",
-      "en_US": "CHIT-CHAT"
+      "en_US": "CHIT-CHAT",
+      "fr_FR": "DISCUTER"
     },
     {
       "id": "LifestyleWords_Text_Talk",
-      "en_US": "TALK"
+      "en_US": "TALK",
+      "fr_FR": "DIALOGUE"
     },
     {
       "id": "LifestyleWords_Text_Bath",
-      "en_US": "BATH"
+      "en_US": "BATH",
+      "fr_FR": "BAIN"
     },
     {
       "id": "LifestyleWords_Text_PlayHouse",
-      "en_US": "PLAY HOUSE"
+      "en_US": "PLAY HOUSE",
+      "fr_FR": "JEU D’ENFANT"
     },
     {
       "id": "LifestyleWords_Text_Toys",
-      "en_US": "TOYS"
+      "en_US": "TOYS",
+      "fr_FR": "JOUETS"
     },
     {
       "id": "LifestyleWords_Text_Music",
-      "en_US": "MUSIC"
+      "en_US": "MUSIC",
+      "fr_FR": "MUSIQUE"
     },
     {
       "id": "LifestyleWords_Text_Cards",
-      "en_US": "CARDS"
+      "en_US": "CARDS",
+      "fr_FR": "CARTES"
     },
     {
       "id": "LifestyleWords_Text_Shopping",
-      "en_US": "SHOPPING"
+      "en_US": "SHOPPING",
+      "fr_FR": "SHOPPING"
     },
     {
       "id": "LifestyleWords_Text_Conversation",
-      "en_US": "CONVERSATION"
+      "en_US": "CONVERSATION",
+      "fr_FR": "CONVERSATION"
     },
     {
       "id": "LifestyleWords_Text_School",
-      "en_US": "SCHOOL"
+      "en_US": "SCHOOL",
+      "fr_FR": "ECOLE"
     },
     {
       "id": "LifestyleWords_Text_Camera",
-      "en_US": "CAMERA"
+      "en_US": "CAMERA",
+      "fr_FR": "PHOTO"
     },
     {
       "id": "LifestyleWords_Text_Viewing",
-      "en_US": "VIEWING"
+      "en_US": "VIEWING",
+      "fr_FR": "VISIONNER"
     },
     {
       "id": "LifestyleWords_Text_Spectate",
-      "en_US": "SPECTATE"
+      "en_US": "SPECTATE",
+      "fr_FR": "REGARDER"
     },
     {
       "id": "LifestyleWords_Text_Anniversary",
-      "en_US": "ANNIVERSARY"
+      "en_US": "ANNIVERSARY",
+      "fr_FR": "COMMEMORER"
     },
     {
       "id": "LifestyleWords_Text_Yesterday",
-      "en_US": "YESTERDAY"
+      "en_US": "YESTERDAY",
+      "fr_FR": "HIER"
     },
     {
       "id": "LifestyleWords_Text_Today",
-      "en_US": "TODAY"
+      "en_US": "TODAY",
+      "fr_FR": "AUJOURD’HUI"
     },
     {
       "id": "LifestyleWords_Text_Habit",
-      "en_US": "HABIT"
+      "en_US": "HABIT",
+      "fr_FR": "HABITUDE"
     },
     {
       "id": "LifestyleWords_Text_Group",
-      "en_US": "GROUP"
+      "en_US": "GROUP",
+      "fr_FR": "GROUPE"
     },
     {
       "id": "LifestyleWords_Text_Gourmet",
-      "en_US": "GOURMET"
+      "en_US": "GOURMET",
+      "fr_FR": "GOURMET"
     },
     {
       "id": "LifestyleWords_Text_Game",
-      "en_US": "GAME"
+      "en_US": "GAME",
+      "fr_FR": "JEU"
     },
     {
       "id": "LifestyleWords_Text_Word",
-      "en_US": "WORD"
+      "en_US": "WORD",
+      "fr_FR": "MOT"
     },
     {
       "id": "LifestyleWords_Text_Collection",
-      "en_US": "COLLECTION"
+      "en_US": "COLLECTION",
+      "fr_FR": "COLLECTION"
     },
     {
       "id": "LifestyleWords_Text_Store",
-      "en_US": "STORE"
+      "en_US": "STORE",
+      "fr_FR": "MAGASIN"
     },
     {
       "id": "LifestyleWords_Text_Complete",
-      "en_US": "COMPLETE"
+      "en_US": "COMPLETE",
+      "fr_FR": "COMPLET"
     },
     {
       "id": "LifestyleWords_Text_Service",
-      "en_US": "SERVICE"
+      "en_US": "SERVICE",
+      "fr_FR": "SERVICE"
     },
     {
       "id": "LifestyleWords_Text_Magazine",
-      "en_US": "MAGAZINE"
+      "en_US": "MAGAZINE",
+      "fr_FR": "MAGAZINE"
     },
     {
       "id": "LifestyleWords_Text_Walk",
-      "en_US": "WALK"
+      "en_US": "WALK",
+      "fr_FR": "PROMENADE"
     },
     {
       "id": "LifestyleWords_Text_Work",
-      "en_US": "WORK"
+      "en_US": "WORK",
+      "fr_FR": "TRAVAIL"
     },
     {
       "id": "LifestyleWords_Text_System",
-      "en_US": "SYSTEM"
+      "en_US": "SYSTEM",
+      "fr_FR": "SYSTEME"
     },
     {
       "id": "LifestyleWords_Text_Bicycle",
-      "en_US": "BICYCLE"
+      "en_US": "BICYCLE",
+      "fr_FR": "VELO"
     },
     {
       "id": "LifestyleWords_Text_Training",
-      "en_US": "TRAINING"
+      "en_US": "TRAINING",
+      "fr_FR": "ENTRAINEMENT"
     },
     {
       "id": "LifestyleWords_Text_Class",
-      "en_US": "CLASS"
+      "en_US": "CLASS",
+      "fr_FR": "CLASSE"
     },
     {
       "id": "LifestyleWords_Text_Lessons",
-      "en_US": "LESSONS"
+      "en_US": "LESSONS",
+      "fr_FR": "COURS PRIVES"
     },
     {
       "id": "LifestyleWords_Text_Hobby",
-      "en_US": "HOBBY"
+      "en_US": "HOBBY",
+      "fr_FR": "HOBBY"
     },
     {
       "id": "LifestyleWords_Text_Information",
-      "en_US": "INFORMATION"
+      "en_US": "INFORMATION",
+      "fr_FR": "INFORMATIONS"
     },
     {
       "id": "LifestyleWords_Text_Sports",
-      "en_US": "SPORTS"
+      "en_US": "SPORTS",
+      "fr_FR": "SPORT"
     },
     {
       "id": "LifestyleWords_Text_DailyLife",
-      "en_US": "DAILY LIFE"
+      "en_US": "DAILY LIFE",
+      "fr_FR": "QUOTIDIEN"
     },
     {
       "id": "LifestyleWords_Text_Teacher",
-      "en_US": "TEACHER"
+      "en_US": "TEACHER",
+      "fr_FR": "PROFESSEUR"
     },
     {
       "id": "LifestyleWords_Text_Software",
-      "en_US": "SOFTWARE"
+      "en_US": "SOFTWARE",
+      "fr_FR": "LOGICIEL"
     },
     {
       "id": "LifestyleWords_Text_Songs",
-      "en_US": "SONGS"
+      "en_US": "SONGS",
+      "fr_FR": "CHANSONS"
     },
     {
       "id": "LifestyleWords_Text_Diet",
-      "en_US": "DIET"
+      "en_US": "DIET",
+      "fr_FR": "REGIME"
     },
     {
       "id": "LifestyleWords_Text_Tournament",
-      "en_US": "TOURNAMENT"
+      "en_US": "TOURNAMENT",
+      "fr_FR": "TOURNOI"
     },
     {
       "id": "LifestyleWords_Text_Treasure",
-      "en_US": "TREASURE"
+      "en_US": "TREASURE",
+      "fr_FR": "TRESOR"
     },
     {
       "id": "LifestyleWords_Text_Travel",
-      "en_US": "TRAVEL"
+      "en_US": "TRAVEL",
+      "fr_FR": "VOYAGES"
     },
     {
       "id": "LifestyleWords_Text_Birthday",
-      "en_US": "BIRTHDAY"
+      "en_US": "BIRTHDAY",
+      "fr_FR": "ANNIVERSAIRE"
     },
     {
       "id": "LifestyleWords_Text_Dance",
-      "en_US": "DANCE"
+      "en_US": "DANCE",
+      "fr_FR": "DANSE"
     },
     {
       "id": "LifestyleWords_Text_Channel",
-      "en_US": "CHANNEL"
+      "en_US": "CHANNEL",
+      "fr_FR": "CHAINE"
     },
     {
       "id": "LifestyleWords_Text_Fishing",
-      "en_US": "FISHING"
+      "en_US": "FISHING",
+      "fr_FR": "PECHE"
     },
     {
       "id": "LifestyleWords_Text_Date",
-      "en_US": "DATE"
+      "en_US": "DATE",
+      "fr_FR": "RENDEZ-VOUS"
     },
     {
       "id": "LifestyleWords_Text_Letter",
-      "en_US": "LETTER"
+      "en_US": "LETTER",
+      "fr_FR": "LETTRE"
     },
     {
       "id": "LifestyleWords_Text_Event",
-      "en_US": "EVENT"
+      "en_US": "EVENT",
+      "fr_FR": "EVENEMENT"
     },
     {
       "id": "LifestyleWords_Text_Design",
-      "en_US": "DESIGN"
+      "en_US": "DESIGN",
+      "fr_FR": "DESSINER"
     },
     {
       "id": "LifestyleWords_Text_Digital",
-      "en_US": "DIGITAL"
+      "en_US": "DIGITAL",
+      "fr_FR": "NUMERIQUE"
     },
     {
       "id": "LifestyleWords_Text_Test",
-      "en_US": "TEST"
+      "en_US": "TEST",
+      "fr_FR": "CONTROLE"
     },
     {
       "id": "LifestyleWords_Text_DeptStore",
-      "en_US": "DEPT. STORE"
+      "en_US": "DEPT. STORE",
+      "fr_FR": "EPICERIE"
     },
     {
       "id": "LifestyleWords_Text_Television",
-      "en_US": "TELEVISION"
+      "en_US": "TELEVISION",
+      "fr_FR": "TELEVISION"
     },
     {
       "id": "LifestyleWords_Text_Train",
-      "en_US": "TRAIN"
+      "en_US": "TRAIN",
+      "fr_FR": "TRAIN"
     },
     {
       "id": "LifestyleWords_Text_Phone",
-      "en_US": "PHONE"
+      "en_US": "PHONE",
+      "fr_FR": "TELEPHONE"
     },
     {
       "id": "LifestyleWords_Text_Item",
-      "en_US": "ITEM"
+      "en_US": "ITEM",
+      "fr_FR": "OBJET"
     },
     {
       "id": "LifestyleWords_Text_Name",
-      "en_US": "NAME"
+      "en_US": "NAME",
+      "fr_FR": "NOM"
     },
     {
       "id": "LifestyleWords_Text_News",
-      "en_US": "NEWS"
+      "en_US": "NEWS",
+      "fr_FR": "NOUVELLES"
     },
     {
       "id": "LifestyleWords_Text_Popularity",
-      "en_US": "POPULARITY"
+      "en_US": "POPULARITY",
+      "fr_FR": "CELEBRITE"
     },
     {
       "id": "LifestyleWords_Text_StuffedToy",
-      "en_US": "STUFFED TOY"
+      "en_US": "STUFFED TOY",
+      "fr_FR": "PELUCHE"
     },
     {
       "id": "LifestyleWords_Text_Party",
-      "en_US": "PARTY"
+      "en_US": "PARTY",
+      "fr_FR": "FETE"
     },
     {
       "id": "LifestyleWords_Text_Computer",
-      "en_US": "COMPUTER"
+      "en_US": "COMPUTER",
+      "fr_FR": "ORDINATEUR"
     },
     {
       "id": "LifestyleWords_Text_Flowers",
-      "en_US": "FLOWERS"
+      "en_US": "FLOWERS",
+      "fr_FR": "FLEURS"
     },
     {
       "id": "LifestyleWords_Text_Hero",
-      "en_US": "HERO"
+      "en_US": "HERO",
+      "fr_FR": "HEROS"
     },
     {
       "id": "LifestyleWords_Text_Nap",
-      "en_US": "NAP"
+      "en_US": "NAP",
+      "fr_FR": "SIESTE"
     },
     {
       "id": "LifestyleWords_Text_Heroine",
-      "en_US": "HEROINE"
+      "en_US": "HEROINE",
+      "fr_FR": "CHAMPIONNE"
     },
     {
       "id": "LifestyleWords_Text_Fashion",
-      "en_US": "FASHION"
+      "en_US": "FASHION",
+      "fr_FR": "MODE"
     },
     {
       "id": "LifestyleWords_Text_Study",
-      "en_US": "STUDY"
+      "en_US": "STUDY",
+      "fr_FR": "ETUDIER"
     },
     {
       "id": "LifestyleWords_Text_Adventure",
-      "en_US": "ADVENTURE"
+      "en_US": "ADVENTURE",
+      "fr_FR": "AVENTURE"
     },
     {
       "id": "LifestyleWords_Text_Board",
-      "en_US": "BOARD"
+      "en_US": "BOARD",
+      "fr_FR": "PLANCHE"
     },
     {
       "id": "LifestyleWords_Text_Ball",
-      "en_US": "BALL"
+      "en_US": "BALL",
+      "fr_FR": "BALLE"
     },
     {
       "id": "LifestyleWords_Text_Book",
-      "en_US": "BOOK"
+      "en_US": "BOOK",
+      "fr_FR": "LIVRE"
     },
     {
       "id": "LifestyleWords_Text_Machine",
-      "en_US": "MACHINE"
+      "en_US": "MACHINE",
+      "fr_FR": "MACHINE"
     },
     {
       "id": "LifestyleWords_Text_Festival",
-      "en_US": "FESTIVAL"
+      "en_US": "FESTIVAL",
+      "fr_FR": "FESTIVAL"
     },
     {
       "id": "LifestyleWords_Text_Comics",
-      "en_US": "COMICS"
+      "en_US": "COMICS",
+      "fr_FR": "BD"
     },
     {
       "id": "LifestyleWords_Text_Mail",
-      "en_US": "MAIL"
+      "en_US": "MAIL",
+      "fr_FR": "COURRIER"
     },
     {
       "id": "LifestyleWords_Text_Message",
-      "en_US": "MESSAGE"
+      "en_US": "MESSAGE",
+      "fr_FR": "MESSAGE"
     },
     {
       "id": "LifestyleWords_Text_Story",
-      "en_US": "STORY"
+      "en_US": "STORY",
+      "fr_FR": "HISTOIRE"
     },
     {
       "id": "LifestyleWords_Text_Promise",
-      "en_US": "PROMISE"
+      "en_US": "PROMISE",
+      "fr_FR": "PROMESSE"
     },
     {
       "id": "LifestyleWords_Text_Holiday",
-      "en_US": "HOLIDAY"
+      "en_US": "HOLIDAY",
+      "fr_FR": "VACANCES"
     },
     {
       "id": "LifestyleWords_Text_Dream",
-      "en_US": "DREAM"
+      "en_US": "DREAM",
+      "fr_FR": "REVE"
     },
     {
       "id": "LifestyleWords_Text_Kindergarten",
-      "en_US": "KINDERGARTEN"
+      "en_US": "KINDERGARTEN",
+      "fr_FR": "MATERNELLE"
     },
     {
       "id": "LifestyleWords_Text_Plans",
-      "en_US": "PLANS"
+      "en_US": "PLANS",
+      "fr_FR": "PLANS"
     },
     {
       "id": "LifestyleWords_Text_Life",
-      "en_US": "LIFE"
+      "en_US": "LIFE",
+      "fr_FR": "VIE"
     },
     {
       "id": "LifestyleWords_Text_Radio",
-      "en_US": "RADIO"
+      "en_US": "RADIO",
+      "fr_FR": "RADIO"
     },
     {
       "id": "LifestyleWords_Text_Craze",
-      "en_US": "CRAZE"
+      "en_US": "CRAZE",
+      "fr_FR": "A LA MODE"
     },
     {
       "id": "LifestyleWords_Text_Vacation",
-      "en_US": "VACATION"
+      "en_US": "VACATION",
+      "fr_FR": "TOURISME"
     },
     {
       "id": "LifestyleWords_Text_Looks",
-      "en_US": "LOOKS"
+      "en_US": "LOOKS",
+      "fr_FR": "REGARDE"
     },
     {
       "id": "LifestyleWords_Text_Rental",
-      "en_US": "RENTAL"
+      "en_US": "RENTAL",
+      "fr_FR": "LOCATION"
     },
     {
       "id": "LifestyleWords_Text_World",
-      "en_US": "WORLD"
+      "en_US": "WORLD",
+      "fr_FR": "MONDE"
     }
   ]
 }

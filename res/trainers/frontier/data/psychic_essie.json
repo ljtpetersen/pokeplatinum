@@ -45,6 +45,10 @@
             "en_US": [
                 "I can use psychic power, but I prefer\n",
                 "ordinary sleight-of-hand magic tricks."
+            ],
+            "fr_FR": [
+                "J’ai des pouvoirs psychiques, mais je\n",
+                "préfère les tours de passe-passe."
             ]
         },
         {
@@ -52,6 +56,10 @@
             "en_US": [
                 "It’s my opinion that psychic power\n",
                 "should be left to the Pokémon.\r"
+            ],
+            "fr_FR": [
+                "Je préfère laisser les pouvoirs\n",
+                "psychiques aux Pokémon...\r"
             ]
         },
         {
@@ -59,7 +67,12 @@
             "en_US": [
                 "I’m a Psychic, but I’m also a student\n",
                 "of a magician’s school.\r"
+            ],
+            "fr_FR": [
+                "Je suis un Kinésiste, mais je prends des\n",
+                "cours dans une école de magie.\r"
             ]
         }
-    ]
+    ],
+    "name_fr": "Gamma"
 }

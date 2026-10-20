@@ -26,5 +26,13 @@
   "battlePocket": "BATTLE_POCKET_MASK_NONE",
   "fieldUseFunc": "ITEM_USE_FUNC_NONE",
   "battleUseCategory": "BATTLE_USE_CATEGORY_NONE",
-  "itemUseParams": null
+  "itemUseParams": null,
+  "name_fr": "Band. Choix",
+  "description_fr": [
+    "Objet à tenir. Ce bandeau monte\n",
+    "l’Attaque, mais ne permet d’utiliser\n",
+    "qu’une sorte de capacité."
+  ],
+  "plural_fr": "Band. Choix",
+  "article_fr": null
 }

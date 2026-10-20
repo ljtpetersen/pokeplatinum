@@ -3,7 +3,8 @@
   "messages": [
     {
       "id": "EternaCity_Text_BigThud",
-      "en_US": "{SIZE 200}Thud!!{SIZE 100}\r"
+      "en_US": "{SIZE 200}Thud!!{SIZE 100}\r",
+      "fr_FR": "{SIZE 200}Boum!!!{SIZE 100}\r"
     },
     {
       "id": "EternaCity_Text_YouCameToSeeStatue",
@@ -11,11 +12,17 @@
         "{STRVAR_1 3, 0, 0}: Hey, {STRVAR_1 3, 1, 0}!\r",
         "You came to see the Pokémon statue,\n",
         "right? I’ll take you there!\r"
+      ],
+      "fr_FR": [
+        "{STRVAR_1 3, 0, 0}: Hé, {STRVAR_1 3, 1, 0}!\r",
+        "Tu es là pour voir la statue de\n",
+        "Pokémon, pas vrai? Je vais te montrer!\r"
       ]
     },
     {
       "id": "EternaCity_Text_WhatThe",
-      "en_US": "{STRVAR_1 3, 0, 0}: What the...\r"
+      "en_US": "{STRVAR_1 3, 0, 0}: What the...\r",
+      "fr_FR": "{STRVAR_1 3, 0, 0}: Qu’est-ce que...\r"
     },
     {
       "id": "EternaCity_Text_SoThisIsEternasStatue",
@@ -28,6 +35,16 @@
         "time and space...\r",
         "Sinnoh’s myth...\n",
         "Its truth needs investigation...\r"
+      ],
+      "fr_FR": [
+        "Hélio: Voici donc la fameuse statue\n",
+        "de Pokémon de Vestigion...\r",
+        "Le temps et l’espace, intimement liés,\n",
+        "façonnent notre monde.\r",
+        "Dans tout Sinnoh, on vénère les\n",
+        "Pokémon du temps et de l’espace...\r",
+        "Le mythe de Sinnoh...\n",
+        "Sa véracité reste à prouver...\r"
       ]
     },
     {
@@ -35,6 +52,10 @@
       "en_US": [
         "...Pardon me.\n",
         "Stand aside.\r"
+      ],
+      "fr_FR": [
+        "Veuillez m’excuser...\n",
+        "Dégagez le passage.\r"
       ]
     },
     {
@@ -53,6 +74,22 @@
         "You’d be the invincible Trainer!\r",
         "Anyway, go check out the Pokémon\n",
         "statue. See you around!\r"
+      ],
+      "fr_FR": [
+        "{STRVAR_1 3, 0, 0}: Au fait!\r",
+        "Quand on s’est rentrés dedans tout à\n",
+        "l’heure, j’ai eu une idée de génie!\r",
+        "Un moyen facile de devenir un grand\n",
+        "Dresseur! Eh oui!\r",
+        "Je t’explique.\n",
+        "Ecoute bien...\r",
+        "Assure-toi que toutes tes attaques\n",
+        "atteignent leur cible!\r",
+        "Evite les attaques adverses!\r",
+        "Fais ça et tu gagneras à tous les\n",
+        "coups! Tu seras un Dresseur invincible!\r",
+        "Enfin bref, va donc jeter un coup\n",
+        "d’œil à la statue! A la prochaine!\r"
       ]
     },
     {
@@ -69,6 +106,19 @@
         "I’m a Trainer just like you.\r",
         "I’ve been studying Pokémon mythology\n",
         "lately, just out of curiosity.\r"
+      ],
+      "fr_FR": [
+        "Oh, cet appareil...\r",
+        "C’est un Pokédex?\n",
+        "Waouh, ça ravive des souvenirs.\r",
+        "Comment tu t’appelles?\r",
+        "...\r",
+        "Très bien, enchantée, {STRVAR_1 3, 0, 0}.\n",
+        "Je n’oublierai pas ton nom!\r",
+        "Moi, c’est Cynthia.\n",
+        "Je suis Dresseur, comme toi.\r",
+        "Ces temps-ci, j’étudie la mythologie\n",
+        "Pokémon pour satisfaire ma curiosité.\r"
       ]
     },
     {
@@ -84,6 +134,18 @@
         "Pokédex.\r",
         "Oh, I know! Try using this.\n",
         "It should be helpful.\r"
+      ],
+      "fr_FR": [
+        "On a érigé la statue d’un ancien\n",
+        "Pokémon, ici, à Vestigion.\r",
+        "Tu l’as déjà vue?\r",
+        "Selon les mythes, il s’agissait d’un\n",
+        "Pokémon incroyablement puissant.\r",
+        "Qui sait? Tu rencontreras peut-être\n",
+        "une créature de ce genre en voyageant\f",
+        "avec ton Pokédex.\r",
+        "Oh, j’y pense! Essaie d’utiliser ceci.\n",
+        "Ça devrait t’être utile.\r"
       ]
     },
     {
@@ -98,6 +160,19 @@
         "Then luck be with you, young Trainer!\r",
         "Oh, there’s one last thing!\n",
         "Please give my regards to Prof. Rowan.\r"
+      ],
+      "fr_FR": [
+        "Cynthia: N’oublie pas, tu peux utiliser\n",
+        "la capacité secrète Coupe sur le\f",
+        "terrain.\r",
+        "Elle te permettra d’atteindre des\n",
+        "endroits auparavant inaccessibles.\r",
+        "C’est important pour remplir ton\n",
+        "Pokédex, pas vrai?\r",
+        "Que la chance t’accompagne,\n",
+        "jeune Dresseur!\r",
+        "Oh, une dernière chose... Salue le\n",
+        "Professeur Sorbier de ma part!\r"
       ]
     },
     {
@@ -108,6 +183,13 @@
         "I’ve got something nice.\r",
         "I wanted you to have this Pokémon Egg.\n",
         "Will you accept it?"
+      ],
+      "fr_FR": [
+        "Cynthia: Ah, te voilà!\r",
+        "Je te cherchais.\n",
+        "J’ai quelque chose pour toi.\r",
+        "Je voulais te confier cet Oeuf de\n",
+        "Pokémon. Tu le veux bien?"
       ]
     },
     {
@@ -116,6 +198,11 @@
         "Cynthia: That’s wonderful!\r",
         "The Pokémon inside the Egg is\n",
         "happy, too. I’m sure of it!\r"
+      ],
+      "fr_FR": [
+        "Cynthia: Merveilleux!\r",
+        "Je suis sûre que le Pokémon qui est\n",
+        "dans l’Oeuf est content, lui aussi!\r"
       ]
     },
     {
@@ -129,6 +216,17 @@
         "I’ll give you this Egg when you’ve made\n",
         "room for it.\r",
         "I’ll be waiting right here."
+      ],
+      "fr_FR": [
+        "Cynthia: Oh?\n",
+        "Il y a déjà six Pokémon dans ton équipe.\f",
+        "Tu n’as pas de place pour cet Oeuf.\r",
+        "Tu dois d’abord déposer un de tes\n",
+        "Pokémon dans une Boîte du PC au\f",
+        "Centre Pokémon.\r",
+        "Je te donnerai cet Oeuf quand tu auras\n",
+        "fait de la place pour lui.\r",
+        "Je t’attends ici."
       ]
     },
     {
@@ -140,6 +238,14 @@
         "Pokédex, isn’t it?\r",
         "I only want to lend you a little hand,\n",
         "that’s all."
+      ],
+      "fr_FR": [
+        "Cynthia: Oh...?\n",
+        "Rien ne t’y oblige.\r",
+        "Ce n’est pas facile de remplir les pages\n",
+        "du Pokédex, pas vrai?\r",
+        "Je voulais juste te donner un petit\n",
+        "coup de main."
       ]
     },
     {
@@ -148,6 +254,12 @@
         "Cynthia: Oh, wait!\r",
         "Don’t leave without this Pokémon Egg.\n",
         "Please? I want you to have it.\r"
+      ],
+      "fr_FR": [
+        "Cynthia: Oh, attends!\n",
+        "Ne pars pas sans avoir pris cet Oeuf.\r",
+        "Qu’en penses-tu? J’aimerais te\n",
+        "le confier.\r"
       ]
     },
     {
@@ -155,6 +267,11 @@
       "en_US": [
         "Cynthia: Well?\n",
         "Will you accept this Pokémon Egg?"
+      ],
+      "fr_FR": [
+        "Cynthia: Eh bien?\r",
+        "Acceptes-tu de prendre soin de\n",
+        "cet Oeuf de Pokémon?"
       ]
     },
     {
@@ -171,6 +288,15 @@
         "I would be happy to know that it will\n",
         "help fill another page of your Pokédex.\r",
         "See you again!\r"
+      ],
+      "fr_FR": [
+        "Cynthia: Garde cet Oeuf dans ton\n",
+        "équipe Pokémon.\r",
+        "Il éclora et un Pokémon en sortira\n",
+        "pendant que tu voyages.\r",
+        "Je serais ravie si ça pouvait t’aider à\n",
+        "remplir une page de ton Pokédex.\r",
+        "A la prochaine!\r"
       ]
     },
     {
@@ -190,6 +316,22 @@
         "other Gym Trainers first.\r",
         "I’ll be waiting for you in the back,\n",
         "Trainer. Don’t disappoint me!\r"
+      ],
+      "fr_FR": [
+        "Salut! Moi, c’est Flo, le Champion\n",
+        "d’Arène de cette ville!\r",
+        "Mon dernier challenger était un jeune\n",
+        "homme terriblement impatient.\r",
+        "Un garçon du nom de {STRVAR_1 3, 0, 0}...\n",
+        "D’ailleurs, il m’a parlé de toi.\r",
+        "Il m’a prévenue qu’un autre adversaire\n",
+        "était en route. Ça m’a rendue\f",
+        "nerveuse!\r",
+        "Dans mon Arène, il faut d’abord en\n",
+        "passer par les autres Dresseurs avant\f",
+        "de pouvoir se mesurer à moi.\r",
+        "Je t’attendrai au fond.\n",
+        "Ne me déçois pas!\r"
       ]
     },
     {
@@ -199,6 +341,12 @@
         "Stay away from that Pokémon statue!\r",
         "Team Galactic is conducting an\n",
         "official investigation here!"
+      ],
+      "fr_FR": [
+        "Hé! Toi là, minus! T’approche pas de\n",
+        "la statue de Pokémon!\r",
+        "La Team Galaxie mène une enquête\n",
+        "officielle dans le coin!"
       ]
     },
     {
@@ -209,6 +357,13 @@
         "It’s OK. Never mind. You look tough.\r",
         "I won’t take... Um, I’ll just let you\n",
         "keep your Pokémon. Carry on!"
+      ],
+      "fr_FR": [
+        "Hé, toi! Ouais, toi, le Dresseur!\r",
+        "Euh...\n",
+        "Non, oublie ça, t’as l’air coriace.\r",
+        "Je ne volerai pas... Enfin, tu peux\n",
+        "garder tes Pokémon. Allez, on circule!"
       ]
     },
     {
@@ -217,6 +372,11 @@
         "Have you seen our building?\r",
         "Team Galactic is so stinking rich\n",
         "that we can have one built instantly!"
+      ],
+      "fr_FR": [
+        "T’as vu notre bâtiment?\r",
+        "La Team Galaxie est si riche qu’elle peut\n",
+        "les construire en claquant des doigts!"
       ]
     },
     {
@@ -227,6 +387,13 @@
         "all creepy and tense.\r",
         "I don’t know what those people are\n",
         "doing up in that place..."
+      ],
+      "fr_FR": [
+        "Depuis que la Team Galaxie a construit\n",
+        "ce bâtiment, la tension est palpable\f",
+        "en ville. C’est à vous filer le cafard.\r",
+        "Je ne sais pas ce qu’ils fabriquent\n",
+        "là-dedans..."
       ]
     },
     {
@@ -234,6 +401,10 @@
       "en_US": [
         "With Team Galactic gone, what’s going\n",
         "to happen to their building?"
+      ],
+      "fr_FR": [
+        "Maintenant que la Team Galaxie est \n",
+        "partie, que va devenir leur bâtiment?"
       ]
     },
     {
@@ -244,6 +415,13 @@
         "I don’t think he’s telling the truth.\n",
         "Team Galactic looks so cool.\f",
         "They don’t look like common thugs."
+      ],
+      "fr_FR": [
+        "Mon ami prétend que la Team Galaxie lui a\n",
+        "pris son Pokémon préféré.\r",
+        "Mais j’ai du mal à y croire...\n",
+        "La Team Galaxie est trop cool pour ça.\f",
+        "Ils n’ont pas des têtes de filous."
       ]
     },
     {
@@ -252,6 +430,11 @@
         "Do you use your Bike’s kickstand?\r",
         "It looks cool to hop off your Bike and\n",
         "then snap it into place in one motion!"
+      ],
+      "fr_FR": [
+        "Tu te sers de la béquille?\r",
+        "C’est top de sauter de sa Bicyclette et\n",
+        "de la garer en un claquement de doigts!"
       ]
     },
     {
@@ -260,6 +443,11 @@
         "If you’re visiting Eterna, you need to\n",
         "get yourself a Bicycle and take a\f",
         "ride down the Cycling Road."
+      ],
+      "fr_FR": [
+        "Si tu visites Vestigion, tu dois\n",
+        "absolument te dégoter une Bicyclette\f",
+        "pour pédaler sur la Piste Cyclable."
       ]
     },
     {
@@ -268,6 +456,11 @@
         "Oh, your Pokémon are rather fetching.\r",
         "Why, they look ready for Contests in\n",
         "Hearthome City!"
+      ],
+      "fr_FR": [
+        "Oh, tes Pokémon ont la classe.\r",
+        "On dirait bien qu’ils sont prêts pour\n",
+        "les Concours d’Unionpolis!"
       ]
     },
     {
@@ -276,6 +469,11 @@
         "They say this is an old city.\r",
         "It doesn’t look it, though.\n",
         "Not with all these tall buildings."
+      ],
+      "fr_FR": [
+        "Il paraît que cette ville est ancienne.\r",
+        "C’est plutôt étonnant, quand on\n",
+        "voit le nombre de gratte-ciels..."
       ]
     },
     {
@@ -283,6 +481,10 @@
       "en_US": [
         "Eterna City’s not anything like it\n",
         "was before, way back in the day."
+      ],
+      "fr_FR": [
+        "Vestigion, c’était mieux avant.\n",
+        "Ah, c’était le bon temps..."
       ]
     },
     {
@@ -290,6 +492,10 @@
       "en_US": [
         "They say this is an awesome Pokémon\n",
         "that people saw long ago."
+      ],
+      "fr_FR": [
+        "On raconte que ce magnifique Pokémon\n",
+        "vivait dans les temps anciens."
       ]
     },
     {
@@ -299,6 +505,13 @@
         "an Explorer Kit?\r",
         "You should have a word with the man\n",
         "next door to the Pokémon Center.\r"
+      ],
+      "fr_FR": [
+        "Oh, ne me dis pas que tu n’as pas\n",
+        "d’Explorakit!\r",
+        "Tu devrais en toucher deux mots à\n",
+        "l’homme qui habite à côté du Centre\f",
+        "Pokémon.\r"
       ]
     },
     {
@@ -308,6 +521,13 @@
         "an Explorer Kit?\r",
         "You should have a word with the man\n",
         "next door to the Pokémon Center."
+      ],
+      "fr_FR": [
+        "Oh, ne me dis pas que tu n’as pas\n",
+        "d’Explorakit!\r",
+        "Tu devrais en toucher deux mots à\n",
+        "l’homme qui habite à côté du Centre\f",
+        "Pokémon."
       ]
     },
     {
@@ -315,6 +535,10 @@
       "en_US": [
         "Going underground with the Explorer\n",
         "Kit is a blast, isn’t it?"
+      ],
+      "fr_FR": [
+        "C’est génial d’arpenter le Souterrain\n",
+        "avec l’Explorakit, pas vrai?"
       ]
     },
     {
@@ -326,6 +550,14 @@
         "and end up in Hearthome City.\r",
         "It’s a fast and fun ride.\n",
         "You should check it out!\r"
+      ],
+      "fr_FR": [
+        "Oh, waouh!\n",
+        "T’as une Bicyclette!\r",
+        "Tu peux dévaler la Piste Cyclable\n",
+        "pour rejoindre Unionpolis.\r",
+        "C’est génial de pédaler à toute\n",
+        "vitesse. Tu devrais essayer!\r"
       ]
     },
     {
@@ -337,6 +569,14 @@
         "and end up in Hearthome City.\r",
         "It’s a fast and fun ride.\n",
         "You should check it out!"
+      ],
+      "fr_FR": [
+        "Oh, waouh!\n",
+        "T’as une Bicyclette!\r",
+        "Tu peux dévaler la Piste Cyclable\n",
+        "pour rejoindre Unionpolis.\r",
+        "C’est génial de pédaler à toute\n",
+        "vitesse. Tu devrais essayer!"
       ]
     },
     {
@@ -344,6 +584,10 @@
       "en_US": [
         "It feels great riding a Bike with the\n",
         "wind in your face, doesn’t it?"
+      ],
+      "fr_FR": [
+        "C’est super de faire du vélo avec le\n",
+        "vent qui te fouette le visage, pas vrai?"
       ]
     },
     {
@@ -351,6 +595,10 @@
       "en_US": [
         "Eterna City\n",
         "History Living"
+      ],
+      "fr_FR": [
+        "Vestigion\n",
+        "Ville mémoire"
       ]
     },
     {
@@ -359,6 +607,12 @@
         "Eterna City Pokémon Gym\n",
         "Leader: Gardenia\f",
         "Master of Vivid Plant Pokémon!"
+      ],
+      "fr_FR": [
+        "Arène Pokémon de Vestigion\n",
+        "Champion: Flo\r",
+        "Maîtresse des vifs Pokémon\n",
+        "de type Plante!"
       ]
     },
     {
@@ -366,6 +620,10 @@
       "en_US": [
         "Rad Rickshaw’s Cycle Shop\n",
         "Get On and Ride!"
+      ],
+      "fr_FR": [
+        "Boutique de Vélo de Rad Rickshaw\n",
+        "Tous en selle!"
       ]
     },
     {
@@ -373,6 +631,10 @@
       "en_US": [
         "Team Galactic Eterna Building\n",
         "We Want Your Pokémon!"
+      ],
+      "fr_FR": [
+        "Bâtiment de Vestigion de la Team Galaxie\n",
+        "Vos Pokémon nous intéressent!"
       ]
     },
     {
@@ -380,6 +642,10 @@
       "en_US": [
         "Underground Man’s House\n",
         "Goin’ Down for Adventure!"
+      ],
+      "fr_FR": [
+        "Maison de l’Homme du Souterrain\n",
+        "Le fondu des profondeurs!"
       ]
     },
     {
@@ -387,6 +653,10 @@
       "en_US": [
         "Eterna Condominiums\n",
         "Name-Rating Services Available"
+      ],
+      "fr_FR": [
+        "Résidence de Vestigion\n",
+        "Nous évaluons vos surnoms!"
       ]
     },
     {
@@ -395,6 +665,11 @@
         "It’s Eterna City’s Pokémon statue.\r",
         "There seems to have been a descriptive\n",
         "plate, but it appears it was torn off."
+      ],
+      "fr_FR": [
+        "La statue de Pokémon de Vestigion.\r",
+        "Il y avait une plaque descriptive\n",
+        "en dessous, mais elle a été arrachée."
       ]
     }
   ]

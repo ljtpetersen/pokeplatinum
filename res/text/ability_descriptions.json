@@ -3,13 +3,18 @@
   "messages": [
     {
       "id": "pl_msg_00000612_00000",
-      "en_US": " -"
+      "en_US": " -",
+      "fr_FR": " -"
     },
     {
       "id": "pl_msg_00000612_00001",
       "en_US": [
         "The stench helps keep\n",
         "wild Pokémon away."
+      ],
+      "fr_FR": [
+        "La puanteur peut repous-\n",
+        "ser les Pokémon sauvages."
       ]
     },
     {
@@ -17,6 +22,10 @@
       "en_US": [
         "The Pokémon makes it rain\n",
         "if it appears in battle."
+      ],
+      "fr_FR": [
+        "Le Pokémon invoque la pluie\n",
+        "quand il entre au combat."
       ]
     },
     {
@@ -24,6 +33,10 @@
       "en_US": [
         "The Pokémon’s Speed stat\n",
         "is gradually boosted."
+      ],
+      "fr_FR": [
+        "La Vitesse du Pokémon\n",
+        "augmente progressivement."
       ]
     },
     {
@@ -31,6 +44,10 @@
       "en_US": [
         "The Pokémon is protected\n",
         "against critical hits."
+      ],
+      "fr_FR": [
+        "Le Pokémon est protégé\n",
+        "des coups critiques."
       ]
     },
     {
@@ -38,6 +55,10 @@
       "en_US": [
         "The Pokémon is protected\n",
         "against 1-hit KO attacks."
+      ],
+      "fr_FR": [
+        "Protège des capacités\n",
+        "mettant K.O. en un coup."
       ]
     },
     {
@@ -45,6 +66,10 @@
       "en_US": [
         "Prevents combatants from\n",
         "self destructing."
+      ],
+      "fr_FR": [
+        "Empêche les combattants\n",
+        "de s’autodétruire."
       ]
     },
     {
@@ -52,6 +77,10 @@
       "en_US": [
         "The Pokémon is protected\n",
         "from paralysis."
+      ],
+      "fr_FR": [
+        "Protège le Pokémon de\n",
+        "la paralysie."
       ]
     },
     {
@@ -59,6 +88,10 @@
       "en_US": [
         "Boosts the Pokémon’s\n",
         "evasion in a sandstorm."
+      ],
+      "fr_FR": [
+        "Augmente l’esquive lors\n",
+        "des tempêtes de sable."
       ]
     },
     {
@@ -66,6 +99,10 @@
       "en_US": [
         "Contact with the Pokémon\n",
         "may cause paralysis."
+      ],
+      "fr_FR": [
+        "Un contact avec le\n",
+        "Pokémon peut paralyser."
       ]
     },
     {
@@ -73,6 +110,10 @@
       "en_US": [
         "Restores HP if hit by an\n",
         "Electric-type move."
+      ],
+      "fr_FR": [
+        "Récupère des PV si touché\n",
+        "par une capacité Electrik."
       ]
     },
     {
@@ -80,6 +121,10 @@
       "en_US": [
         "Restores HP if hit by a\n",
         "Water-type move."
+      ],
+      "fr_FR": [
+        "Récupère des PV si touché\n",
+        "par une capacité Eau."
       ]
     },
     {
@@ -87,6 +132,10 @@
       "en_US": [
         "Prevents the Pokémon\n",
         "from becoming infatuated."
+      ],
+      "fr_FR": [
+        "Empêche le Pokémon de\n",
+        "tomber amoureux."
       ]
     },
     {
@@ -94,6 +143,10 @@
       "en_US": [
         "Eliminates the effects of\n",
         "weather."
+      ],
+      "fr_FR": [
+        "Annule les effets du\n",
+        "climat."
       ]
     },
     {
@@ -101,6 +154,10 @@
       "en_US": [
         "The Pokémon’s accuracy is\n",
         "boosted."
+      ],
+      "fr_FR": [
+        "Augmente la précision du\n",
+        "Pokémon."
       ]
     },
     {
@@ -108,6 +165,10 @@
       "en_US": [
         "Prevents the Pokémon\n",
         "from falling asleep."
+      ],
+      "fr_FR": [
+        "Empêche le Pokémon de\n",
+        "s’endormir."
       ]
     },
     {
@@ -115,6 +176,10 @@
       "en_US": [
         "Changes the Pokémon’s\n",
         "type to the foe’s move."
+      ],
+      "fr_FR": [
+        "Le Pokémon adopte le type\n",
+        "de la capacité ennemie."
       ]
     },
     {
@@ -122,6 +187,10 @@
       "en_US": [
         "Prevents the Pokémon\n",
         "from getting poisoned."
+      ],
+      "fr_FR": [
+        "Empêche le Pokémon d’être\n",
+        "empoisonné."
       ]
     },
     {
@@ -129,6 +198,10 @@
       "en_US": [
         "Powers up Fire-type moves\n",
         "if hit by a fire move."
+      ],
+      "fr_FR": [
+        "Booste capacités Feu si\n",
+        "touché par attaques Feu."
       ]
     },
     {
@@ -136,6 +209,10 @@
       "en_US": [
         "Blocks the added effects\n",
         "of attacks taken."
+      ],
+      "fr_FR": [
+        "Annule les effets cumulés\n",
+        "d’une attaque ennemie."
       ]
     },
     {
@@ -143,13 +220,18 @@
       "en_US": [
         "Prevents the Pokémon\n",
         "from becoming confused."
-      ]
+      ],
+      "fr_FR": "Empêche la confusion."
     },
     {
       "id": "pl_msg_00000612_00021",
       "en_US": [
         "Negates moves that\n",
         "force switching out."
+      ],
+      "fr_FR": [
+        "Annule les cap. forçant\n",
+        "à changer de Pokémon."
       ]
     },
     {
@@ -157,13 +239,18 @@
       "en_US": [
         "Lowers the foe’s Attack\n",
         "stat."
-      ]
+      ],
+      "fr_FR": "Baisse l’Attaque ennemie."
     },
     {
       "id": "pl_msg_00000612_00023",
       "en_US": [
         "Prevents the foe from\n",
         "escaping."
+      ],
+      "fr_FR": [
+        "Empêche le Pokémon ennemi\n",
+        "de quitter le combat."
       ]
     },
     {
@@ -171,6 +258,10 @@
       "en_US": [
         "Inflicts damage to the\n",
         "foe on contact."
+      ],
+      "fr_FR": [
+        "Le Pokémon blesse\n",
+        "l’ennemi qui le touche."
       ]
     },
     {
@@ -178,6 +269,10 @@
       "en_US": [
         "Only supereffective\n",
         "moves will hit."
+      ],
+      "fr_FR": [
+        "Seules capacités “super\n",
+        "efficaces” l’atteignent."
       ]
     },
     {
@@ -185,6 +280,10 @@
       "en_US": [
         "Gives full immunity to all\n",
         "Ground-type moves."
+      ],
+      "fr_FR": [
+        "Immunise contre toutes\n",
+        "les capacités de type Sol."
       ]
     },
     {
@@ -192,6 +291,10 @@
       "en_US": [
         "Contact may paralyze,\n",
         "poison, or cause sleep."
+      ],
+      "fr_FR": [
+        "Peut paralyser, empoison-\n",
+        "ner, endormir au contact."
       ]
     },
     {
@@ -199,6 +302,10 @@
       "en_US": [
         "Passes on a burn, poison,\n",
         "or paralysis to the foe."
+      ],
+      "fr_FR": [
+        "Transmet brûlure, poison\n",
+        "ou paralysie à l’ennemi."
       ]
     },
     {
@@ -206,6 +313,10 @@
       "en_US": [
         "Prevents the Pokémon’s\n",
         "stats from being lowered."
+      ],
+      "fr_FR": [
+        "Peut empêcher les stats\n",
+        "du Pokémon de baisser."
       ]
     },
     {
@@ -213,6 +324,10 @@
       "en_US": [
         "All status problems are\n",
         "healed upon switching out."
+      ],
+      "fr_FR": [
+        "Quitter le combat soigne\n",
+        "les problèmes de statut."
       ]
     },
     {
@@ -220,6 +335,10 @@
       "en_US": [
         "The Pokémon draws in all\n",
         "Electric-type moves."
+      ],
+      "fr_FR": [
+        "Le Pokémon attire les\n",
+        "capacités Electrik."
       ]
     },
     {
@@ -227,6 +346,10 @@
       "en_US": [
         "Boosts the likelihood of\n",
         "added effects appearing."
+      ],
+      "fr_FR": [
+        "Augmente la fréquence\n",
+        "du cumul d’effets."
       ]
     },
     {
@@ -234,6 +357,10 @@
       "en_US": [
         "Boosts the Pokémon’s\n",
         "Speed in rain."
+      ],
+      "fr_FR": [
+        "Augmente la Vitesse du\n",
+        "Pokémon s’il pleut."
       ]
     },
     {
@@ -241,6 +368,10 @@
       "en_US": [
         "Boosts the Pokémon’s\n",
         "Speed in sunshine."
+      ],
+      "fr_FR": [
+        "Augmente la Vitesse du\n",
+        "Pokémon s’il y a du soleil."
       ]
     },
     {
@@ -248,6 +379,10 @@
       "en_US": [
         "Raises the likelihood of\n",
         "meeting wild Pokémon."
+      ],
+      "fr_FR": [
+        "Augmente les rencontres\n",
+        "avec Pokémon sauvages."
       ]
     },
     {
@@ -255,6 +390,10 @@
       "en_US": [
         "The Pokémon copies the\n",
         "foe’s ability."
+      ],
+      "fr_FR": [
+        "Imite la capacité spéciale\n",
+        "de l’ennemi."
       ]
     },
     {
@@ -262,6 +401,10 @@
       "en_US": [
         "Raises the Pokémon’s\n",
         "Attack stat."
+      ],
+      "fr_FR": [
+        "Augmente l’Attaque du\n",
+        "Pokémon."
       ]
     },
     {
@@ -269,6 +412,10 @@
       "en_US": [
         "Contact with the Pokémon\n",
         "may poison the foe."
+      ],
+      "fr_FR": [
+        "Peut empoisonner l’ennemi\n",
+        "s’il y a contact."
       ]
     },
     {
@@ -276,6 +423,10 @@
       "en_US": [
         "The Pokémon is protected\n",
         "from flinching."
+      ],
+      "fr_FR": [
+        "Empêche le Pokémon\n",
+        "d’avoir peur."
       ]
     },
     {
@@ -283,6 +434,10 @@
       "en_US": [
         "Prevents the Pokémon\n",
         "from becoming frozen."
+      ],
+      "fr_FR": [
+        "Protège le Pokémon\n",
+        "contre le gel."
       ]
     },
     {
@@ -290,6 +445,10 @@
       "en_US": [
         "Prevents the Pokémon\n",
         "from getting a burn."
+      ],
+      "fr_FR": [
+        "Protège le Pokémon\n",
+        "des brûlures."
       ]
     },
     {
@@ -297,6 +456,10 @@
       "en_US": [
         "Prevents Steel-type\n",
         "Pokémon from escaping."
+      ],
+      "fr_FR": [
+        "Empêche les Pokémon Acier\n",
+        "de fuir."
       ]
     },
     {
@@ -304,6 +467,10 @@
       "en_US": [
         "Gives full immunity to all\n",
         "sound-based moves."
+      ],
+      "fr_FR": [
+        "Protège de toutes les\n",
+        "capacités sonores."
       ]
     },
     {
@@ -311,6 +478,10 @@
       "en_US": [
         "The Pokémon gradually\n",
         "recovers HP in rain."
+      ],
+      "fr_FR": [
+        "Récupère progressivement\n",
+        "des PV par temps de pluie."
       ]
     },
     {
@@ -318,6 +489,10 @@
       "en_US": [
         "The Pokémon summons a\n",
         "sandstorm in battle."
+      ],
+      "fr_FR": [
+        "Le Pokémon invoque une\n",
+        "tempête de sable."
       ]
     },
     {
@@ -325,6 +500,10 @@
       "en_US": [
         "The Pokémon raises the\n",
         "foe’s PP usage."
+      ],
+      "fr_FR": [
+        "Force l’ennemi à\n",
+        "dépenser plus de PP."
       ]
     },
     {
@@ -332,6 +511,10 @@
       "en_US": [
         "Raises resistance to Fire-\n",
         "and Ice-type moves."
+      ],
+      "fr_FR": [
+        "Augmente la résistance\n",
+        "aux cap. Feu et Glace."
       ]
     },
     {
@@ -339,6 +522,10 @@
       "en_US": [
         "The Pokémon awakens\n",
         "quickly from sleep."
+      ],
+      "fr_FR": [
+        "Le Pokémon se réveille\n",
+        "plus rapidement."
       ]
     },
     {
@@ -346,6 +533,10 @@
       "en_US": [
         "Contact with the Pokémon\n",
         "may burn the foe."
+      ],
+      "fr_FR": [
+        "Peut brûler l’ennemi s’il y\n",
+        "a contact."
       ]
     },
     {
@@ -353,6 +544,10 @@
       "en_US": [
         "Enables sure getaway from\n",
         "wild Pokémon."
+      ],
+      "fr_FR": [
+        "Permet de fuir n’importe\n",
+        "quel Pokémon sauvage."
       ]
     },
     {
@@ -360,6 +555,10 @@
       "en_US": [
         "Prevents the Pokémon\n",
         "from losing accuracy."
+      ],
+      "fr_FR": [
+        "Empêche le Pokémon de\n",
+        "perdre en précision."
       ]
     },
     {
@@ -367,6 +566,10 @@
       "en_US": [
         "Prevents the Attack stat\n",
         "from being lowered."
+      ],
+      "fr_FR": [
+        "Empêche la réduction de\n",
+        "l’Attaque."
       ]
     },
     {
@@ -374,6 +577,10 @@
       "en_US": [
         "The Pokémon may pick up\n",
         "items."
+      ],
+      "fr_FR": [
+        "Permet parfois au Pokémon\n",
+        "de ramasser des objets."
       ]
     },
     {
@@ -381,6 +588,10 @@
       "en_US": [
         "The Pokémon can’t attack\n",
         "on consecutive turns."
+      ],
+      "fr_FR": [
+        "Le Pokémon ne frappe\n",
+        "qu’un tour sur deux."
       ]
     },
     {
@@ -388,6 +599,10 @@
       "en_US": [
         "Boosts the Attack stat,\n",
         "but lowers accuracy."
+      ],
+      "fr_FR": [
+        "Améliore l’Attaque mais\n",
+        "diminue la précision."
       ]
     },
     {
@@ -395,6 +610,10 @@
       "en_US": [
         "Contact with the Pokémon\n",
         "may cause infatuation."
+      ],
+      "fr_FR": [
+        "Séduit parfois l’ennemi\n",
+        "au contact."
       ]
     },
     {
@@ -402,6 +621,10 @@
       "en_US": [
         "Boosts Sp. Atk if another\n",
         "Pokémon has Minus."
+      ],
+      "fr_FR": [
+        "Améliore l’Atq. Spé. si un\n",
+        "autre Pokémon a Minus."
       ]
     },
     {
@@ -409,6 +632,10 @@
       "en_US": [
         "Boosts Sp. Atk if another\n",
         "Pokémon has Plus."
+      ],
+      "fr_FR": [
+        "Améliore l’Atq. Spé. si un\n",
+        "autre Pokémon a Plus."
       ]
     },
     {
@@ -416,6 +643,10 @@
       "en_US": [
         "CASTFORM transforms with\n",
         "the weather."
+      ],
+      "fr_FR": [
+        "MORPHEO change de forme\n",
+        "selon le climat."
       ]
     },
     {
@@ -423,6 +654,10 @@
       "en_US": [
         "Protects the Pokémon\n",
         "from item theft."
+      ],
+      "fr_FR": [
+        "Protège le Pokémon\n",
+        "contre le vol d’objets."
       ]
     },
     {
@@ -430,6 +665,10 @@
       "en_US": [
         "The Pokémon may heal its\n",
         "own status problems."
+      ],
+      "fr_FR": [
+        "Le Pokémon soigne parfois\n",
+        "ses problèmes de statut."
       ]
     },
     {
@@ -437,6 +676,10 @@
       "en_US": [
         "Boosts Attack if there is\n",
         "a status problem."
+      ],
+      "fr_FR": [
+        "Augmente l’Attaque s’il y\n",
+        "a un problème de statut."
       ]
     },
     {
@@ -444,6 +687,10 @@
       "en_US": [
         "Boosts Defense if there is\n",
         "a status problem."
+      ],
+      "fr_FR": [
+        "Augmente la Défense s’il y\n",
+        "a un problème de statut."
       ]
     },
     {
@@ -451,6 +698,10 @@
       "en_US": [
         "Inflicts damage on foes\n",
         "using any draining move."
+      ],
+      "fr_FR": [
+        "Blesse l’ennemi qui draine\n",
+        "l’énergie du Pokémon."
       ]
     },
     {
@@ -458,6 +709,10 @@
       "en_US": [
         "Powers up Grass-type\n",
         "moves in a pinch."
+      ],
+      "fr_FR": [
+        "Booste les capacités\n",
+        "Plante en cas de besoin."
       ]
     },
     {
@@ -465,6 +720,10 @@
       "en_US": [
         "Powers up Fire-type\n",
         "moves in a pinch."
+      ],
+      "fr_FR": [
+        "Booste les capacités\n",
+        "Feu en cas de besoin."
       ]
     },
     {
@@ -472,6 +731,10 @@
       "en_US": [
         "Powers up Water-type\n",
         "moves in a pinch."
+      ],
+      "fr_FR": [
+        "Booste les capacités\n",
+        "Eau en cas de besoin."
       ]
     },
     {
@@ -479,6 +742,10 @@
       "en_US": [
         "Powers up Bug-type\n",
         "moves in a pinch."
+      ],
+      "fr_FR": [
+        "Booste les capacités\n",
+        "Insecte en cas de besoin."
       ]
     },
     {
@@ -486,6 +753,10 @@
       "en_US": [
         "Protects the Pokémon\n",
         "from recoil damage."
+      ],
+      "fr_FR": [
+        "Protège le Pokémon des\n",
+        "dégâts de contrecoups."
       ]
     },
     {
@@ -493,6 +764,10 @@
       "en_US": [
         "The Pokémon makes it\n",
         "sunny if it is in battle."
+      ],
+      "fr_FR": [
+        "Invoque le soleil quand il\n",
+        "est au combat."
       ]
     },
     {
@@ -500,6 +775,10 @@
       "en_US": [
         "Prevents the foe from\n",
         "fleeing."
+      ],
+      "fr_FR": [
+        "Empêche l’ennemi de\n",
+        "s’enfuir."
       ]
     },
     {
@@ -507,6 +786,10 @@
       "en_US": [
         "Prevents the Pokémon\n",
         "from falling asleep."
+      ],
+      "fr_FR": [
+        "Empêche le Pokémon\n",
+        "de s’endormir."
       ]
     },
     {
@@ -514,6 +797,10 @@
       "en_US": [
         "Prevents the Pokémon’s\n",
         "stats from being lowered."
+      ],
+      "fr_FR": [
+        "Empêche la réduction des\n",
+        "stats du Pokémon."
       ]
     },
     {
@@ -521,6 +808,10 @@
       "en_US": [
         "Boosts the power of\n",
         "physical attacks."
+      ],
+      "fr_FR": [
+        "Augmente la puissance des\n",
+        "attaques physiques."
       ]
     },
     {
@@ -528,6 +819,10 @@
       "en_US": [
         "The Pokémon is protected\n",
         "against critical hits."
+      ],
+      "fr_FR": [
+        "Protège le Pokémon contre\n",
+        "les coups critiques."
       ]
     },
     {
@@ -535,6 +830,10 @@
       "en_US": [
         "Eliminates the effects of\n",
         "weather."
+      ],
+      "fr_FR": [
+        "Annule les effets du\n",
+        "climat."
       ]
     },
     {
@@ -542,6 +841,10 @@
       "en_US": [
         "Raises evasion if the\n",
         "Pokémon is confused."
+      ],
+      "fr_FR": [
+        "Augmente l’esquive si le\n",
+        "Pokémon est confus."
       ]
     },
     {
@@ -549,6 +852,10 @@
       "en_US": [
         "Raises Speed if hit by an\n",
         "Electric-type move."
+      ],
+      "fr_FR": [
+        "Augmente la Vit. si touché\n",
+        "par une cap. Electrik."
       ]
     },
     {
@@ -556,6 +863,10 @@
       "en_US": [
         "Raises Attack if the foe\n",
         "is of the same gender."
+      ],
+      "fr_FR": [
+        "Augmente l’Attaque si\n",
+        "l’ennemi est du même sexe."
       ]
     },
     {
@@ -563,6 +874,10 @@
       "en_US": [
         "Raises Speed each time\n",
         "the Pokémon flinches."
+      ],
+      "fr_FR": [
+        "Augmente la Vitesse quand\n",
+        "le Pokémon a peur."
       ]
     },
     {
@@ -570,6 +885,10 @@
       "en_US": [
         "Raises evasion in a\n",
         "hailstorm."
+      ],
+      "fr_FR": [
+        "Augmente l’esquive durant\n",
+        "les tempêtes de grêle."
       ]
     },
     {
@@ -577,6 +896,10 @@
       "en_US": [
         "Encourages the early use\n",
         "of a held Berry."
+      ],
+      "fr_FR": [
+        "Encourage l’utilisation\n",
+        "d’une Baie tenue."
       ]
     },
     {
@@ -584,6 +907,10 @@
       "en_US": [
         "Raises Attack upon taking\n",
         "a critical hit."
+      ],
+      "fr_FR": [
+        "Monte l’Attaque au max.\n",
+        "après un coup critique."
       ]
     },
     {
@@ -591,6 +918,10 @@
       "en_US": [
         "Raises Speed if a held\n",
         "item is used."
+      ],
+      "fr_FR": [
+        "Augmente la Vit. si l’objet\n",
+        "tenu est utilisé ou perdu."
       ]
     },
     {
@@ -598,6 +929,10 @@
       "en_US": [
         "Weakens the power of\n",
         "Fire-type moves."
+      ],
+      "fr_FR": [
+        "Réduit la puissance des\n",
+        "capacités de type Feu."
       ]
     },
     {
@@ -605,6 +940,10 @@
       "en_US": [
         "The Pokémon is prone to\n",
         "wild stat changes."
+      ],
+      "fr_FR": [
+        "Le Pokémon est sujet à\n",
+        "des variations de stats."
       ]
     },
     {
@@ -612,6 +951,10 @@
       "en_US": [
         "Reduces HP if it is hot.\n",
         "Water restores HP."
+      ],
+      "fr_FR": [
+        "Perd des PV à la chaleur.\n",
+        "L’eau les restaure."
       ]
     },
     {
@@ -619,6 +962,10 @@
       "en_US": [
         "Adjusts power according\n",
         "to the foe’s ability."
+      ],
+      "fr_FR": [
+        "Ajuste la puissance selon\n",
+        "l’ennemi."
       ]
     },
     {
@@ -626,6 +973,10 @@
       "en_US": [
         "Boosts the power of\n",
         "punching moves."
+      ],
+      "fr_FR": [
+        "Augmente la puissance des\n",
+        "capacités coups de poing."
       ]
     },
     {
@@ -633,6 +984,10 @@
       "en_US": [
         "Restores HP if the\n",
         "Pokémon is poisoned."
+      ],
+      "fr_FR": [
+        "Restaure des PV si le\n",
+        "Pokémon est empoisonné."
       ]
     },
     {
@@ -640,6 +995,10 @@
       "en_US": [
         "Powers up moves of the\n",
         "same type."
+      ],
+      "fr_FR": [
+        "Augmente la puissance des\n",
+        "capacités de même type."
       ]
     },
     {
@@ -647,6 +1006,10 @@
       "en_US": [
         "Increases the frequency\n",
         "of multi-strike moves."
+      ],
+      "fr_FR": [
+        "Augmente la fréquence des\n",
+        "attaques multiples."
       ]
     },
     {
@@ -654,6 +1017,10 @@
       "en_US": [
         "Heals status problems if\n",
         "it is raining."
+      ],
+      "fr_FR": [
+        "Soigne les problèmes de\n",
+        "statut s’il pleut."
       ]
     },
     {
@@ -661,6 +1028,10 @@
       "en_US": [
         "Boosts Sp. Atk, but\n",
         "lowers HP in sunshine."
+      ],
+      "fr_FR": [
+        "Augmente l’Atq. Spé. mais\n",
+        "baisse les PV au soleil."
       ]
     },
     {
@@ -668,6 +1039,10 @@
       "en_US": [
         "Boosts Speed if there is a\n",
         "status problem."
+      ],
+      "fr_FR": [
+        "Augmente la Vitesse s’il y\n",
+        "a un problème de statut."
       ]
     },
     {
@@ -675,6 +1050,10 @@
       "en_US": [
         "All the Pokémon’s moves\n",
         "become the Normal type."
+      ],
+      "fr_FR": [
+        "Toutes les capacités sont\n",
+        "de type Normal."
       ]
     },
     {
@@ -682,6 +1061,10 @@
       "en_US": [
         "Powers up moves if they\n",
         "become critical hits."
+      ],
+      "fr_FR": [
+        "Booste les capacités qui\n",
+        "sont des coups critiques."
       ]
     },
     {
@@ -689,6 +1072,10 @@
       "en_US": [
         "The Pokémon only takes\n",
         "damage from attacks."
+      ],
+      "fr_FR": [
+        "Seule une attaque directe\n",
+        "peut blesser le Pokémon."
       ]
     },
     {
@@ -696,6 +1083,10 @@
       "en_US": [
         "Ensures the Pokémon and\n",
         "its foe’s attacks land."
+      ],
+      "fr_FR": [
+        "Attaques du Pokémon et\n",
+        "de l’ennemi réussissent."
       ]
     },
     {
@@ -703,6 +1094,10 @@
       "en_US": [
         "The Pokémon moves after\n",
         "even slower foes."
+      ],
+      "fr_FR": [
+        "Attaque toujours après \n",
+        "l’ennemi, même plus lent."
       ]
     },
     {
@@ -710,6 +1105,10 @@
       "en_US": [
         "Powers up the Pokémon’s\n",
         "weaker moves."
+      ],
+      "fr_FR": [
+        "Augmente la puissance des\n",
+        "capacités les plus faibles."
       ]
     },
     {
@@ -717,6 +1116,10 @@
       "en_US": [
         "Prevents status problems\n",
         "in sunny weather."
+      ],
+      "fr_FR": [
+        "Empêche les problèmes\n",
+        "de statut au soleil."
       ]
     },
     {
@@ -724,6 +1127,10 @@
       "en_US": [
         "The Pokémon can’t use\n",
         "any held items."
+      ],
+      "fr_FR": [
+        "Le Pokémon ne peut\n",
+        "utiliser aucun objet tenu."
       ]
     },
     {
@@ -731,6 +1138,10 @@
       "en_US": [
         "Moves can be used\n",
         "regardless of abilities."
+      ],
+      "fr_FR": [
+        "Cap. utilisables quelles\n",
+        "que soient les cap. spé."
       ]
     },
     {
@@ -738,6 +1149,10 @@
       "en_US": [
         "Heightens the critical-hit\n",
         "ratios of moves."
+      ],
+      "fr_FR": [
+        "Augmente la fréquence\n",
+        "des coups critiques."
       ]
     },
     {
@@ -745,6 +1160,10 @@
       "en_US": [
         "Damages the foe landing\n",
         "the finishing hit."
+      ],
+      "fr_FR": [
+        "Blesse l’ennemi qui \n",
+        "porte le coup de grâce."
       ]
     },
     {
@@ -752,6 +1171,10 @@
       "en_US": [
         "Senses the foe’s\n",
         "dangerous moves."
+      ],
+      "fr_FR": [
+        "Prévoit les capacités\n",
+        "ennemies dangereuses."
       ]
     },
     {
@@ -759,6 +1182,10 @@
       "en_US": [
         "Determines what moves\n",
         "the foe has."
+      ],
+      "fr_FR": [
+        "Découvre la capacité\n",
+        "ennemie la plus puissante."
       ]
     },
     {
@@ -766,6 +1193,10 @@
       "en_US": [
         "Ignores any change in\n",
         "ability by the foe."
+      ],
+      "fr_FR": [
+        "Ignore les changements de\n",
+        "stats de l’ennemi."
       ]
     },
     {
@@ -773,6 +1204,10 @@
       "en_US": [
         "Powers up “not very\n",
         "effective” moves."
+      ],
+      "fr_FR": [
+        "Améliore les capacités\n",
+        "“pas très efficaces”."
       ]
     },
     {
@@ -780,6 +1215,10 @@
       "en_US": [
         "Powers down super-\n",
         "effective moves."
+      ],
+      "fr_FR": [
+        "Affaiblit les capacités\n",
+        "“super efficaces”."
       ]
     },
     {
@@ -787,6 +1226,10 @@
       "en_US": [
         "Temporarily halves Attack\n",
         "and Speed."
+      ],
+      "fr_FR": [
+        "Divise temporairement\n",
+        "Vitesse et Attaque par 2."
       ]
     },
     {
@@ -794,6 +1237,10 @@
       "en_US": [
         "Enables moves to hit\n",
         "Ghost-type foes."
+      ],
+      "fr_FR": [
+        "Les capacités touchent\n",
+        "les Pokémon Spectre."
       ]
     },
     {
@@ -801,6 +1248,10 @@
       "en_US": [
         "The Pokémon draws in all\n",
         "Water-type moves."
+      ],
+      "fr_FR": [
+        "Attire les attaques Eau\n",
+        "visant un Pokémon."
       ]
     },
     {
@@ -808,6 +1259,10 @@
       "en_US": [
         "The Pokémon regains HP in\n",
         "a hailstorm."
+      ],
+      "fr_FR": [
+        "Récupère des PV lors des\n",
+        "tempêtes de grêle."
       ]
     },
     {
@@ -815,6 +1270,10 @@
       "en_US": [
         "Powers down super-\n",
         "effective moves."
+      ],
+      "fr_FR": [
+        "Affaiblit les capacités\n",
+        "“super efficaces”."
       ]
     },
     {
@@ -822,6 +1281,10 @@
       "en_US": [
         "The Pokémon summons a\n",
         "hailstorm in battle."
+      ],
+      "fr_FR": [
+        "Déclenche une tempête de\n",
+        "grêle pendant le combat."
       ]
     },
     {
@@ -829,6 +1292,10 @@
       "en_US": [
         "The Pokémon may gather\n",
         "Honey from somewhere."
+      ],
+      "fr_FR": [
+        "Le Pokémon peut parfois\n",
+        "trouver du Miel."
       ]
     },
     {
@@ -836,6 +1303,10 @@
       "en_US": [
         "The Pokémon can check\n",
         "the foe’s held item."
+      ],
+      "fr_FR": [
+        "Permet de connaître\n",
+        "l’objet tenu par l’ennemi."
       ]
     },
     {
@@ -843,6 +1314,10 @@
       "en_US": [
         "Powers up moves that\n",
         "have recoil damage."
+      ],
+      "fr_FR": [
+        "Booste les cap. ayant des\n",
+        "dégâts de contrecoups."
       ]
     },
     {
@@ -850,6 +1325,10 @@
       "en_US": [
         "Changes type to match\n",
         "the held Plate."
+      ],
+      "fr_FR": [
+        "Modifie le type en fonction\n",
+        "de la Plaque tenue."
       ]
     },
     {
@@ -857,6 +1336,10 @@
       "en_US": [
         "Powers up party Pokémon\n",
         "when it is sunny."
+      ],
+      "fr_FR": [
+        "Pokémon de l’équipe plus\n",
+        "puissants au soleil."
       ]
     },
     {
@@ -864,6 +1347,10 @@
       "en_US": [
         "Reduces a sleeping foe’s\n",
         "HP."
+      ],
+      "fr_FR": [
+        "Réduit les PV d’un ennemi\n",
+        "endormi."
       ]
     }
   ]

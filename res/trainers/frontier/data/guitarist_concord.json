@@ -45,6 +45,10 @@
             "en_US": [
                 "This is no guitar I have here.\n",
                 "It’s traditional and Japanese."
+            ],
+            "fr_FR": [
+                "Non, ce n’est pas une guitare. C’est un\n",
+                "instrument traditionnel japonais."
             ]
         },
         {
@@ -52,11 +56,17 @@
             "en_US": [
                 "It has only three strings.\n",
                 "Can you tell what this is?\r"
+            ],
+            "fr_FR": [
+                "C’est un instrument à trois cordes,\n",
+                "tu sais comment ça s’appelle?\r"
             ]
         },
         {
             "type": "TRMSG_DEFEAT",
-            "en_US": "My instrument, it’s called a shamisen.\r"
+            "en_US": "My instrument, it’s called a shamisen.\r",
+            "fr_FR": "Mon instrument, c’est un shamisen.\r"
         }
-    ]
+    ],
+    "name_fr": "Caleb"
 }

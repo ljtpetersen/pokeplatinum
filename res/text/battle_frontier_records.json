@@ -3,74 +3,94 @@
   "messages": [
     {
       "id": "BattleFrontierRecords_Text_WhichRecord",
-      "en_US": "Which record would you like to see?"
+      "en_US": "Which record would you like to see?",
+      "fr_FR": "Quel record voulez-vous consulter?"
     },
     {
       "id": "BattleFrontierRecords_Text_Single",
-      "en_US": "SINGLE"
+      "en_US": "SINGLE",
+      "fr_FR": "SOLO"
     },
     {
       "id": "BattleFrontierRecords_Text_Double",
-      "en_US": "DOUBLE"
+      "en_US": "DOUBLE",
+      "fr_FR": "DUO"
     },
     {
       "id": "BattleFrontierRecords_Text_Multi",
-      "en_US": "MULTI"
+      "en_US": "MULTI",
+      "fr_FR": "MULTI"
     },
     {
       "id": "BattleFrontierRecords_Text_Cancel",
-      "en_US": "CANCEL"
+      "en_US": "CANCEL",
+      "fr_FR": "ANNULER"
     },
     {
       "id": "BattleFrontierRecords_Text_Exit",
-      "en_US": "EXIT"
+      "en_US": "EXIT",
+      "fr_FR": "QUITTER"
     },
     {
       "id": "BattleFrontierRecords_Text_WhichPokemon",
       "en_US": [
         "Which Pokémon’s record would you like\n",
         "to see?\r"
-      ]
+      ],
+      "fr_FR": "Consulter le record de quel Pokémon?\r"
     },
     {
       "id": "BattleFrontierRecords_Text_OnChallengeNow",
-      "en_US": "{STRVAR_1 0, 0, 0} is on a challenge now!"
+      "en_US": "{STRVAR_1 0, 0, 0} is on a challenge now!",
+      "fr_FR": [
+        "Le record de {STRVAR_1 0, 0, 0} n’est pas\n",
+        "définitif!"
+      ]
     },
     {
       "id": "BattleFrontierRecords_Text_ABC",
-      "en_US": "ABC"
+      "en_US": "ABC",
+      "fr_FR": "ABC"
     },
     {
       "id": "BattleFrontierRecords_Text_DEF",
-      "en_US": "DEF"
+      "en_US": "DEF",
+      "fr_FR": "DEF"
     },
     {
       "id": "BattleFrontierRecords_Text_GHI",
-      "en_US": "GHI"
+      "en_US": "GHI",
+      "fr_FR": "GHI"
     },
     {
       "id": "BattleFrontierRecords_Text_JKL",
-      "en_US": "JKL"
+      "en_US": "JKL",
+      "fr_FR": "JKL"
     },
     {
       "id": "BattleFrontierRecords_Text_MNO",
-      "en_US": "MNO"
+      "en_US": "MNO",
+      "fr_FR": "MNO"
     },
     {
       "id": "BattleFrontierRecords_Text_PQR",
-      "en_US": "PQR"
+      "en_US": "PQR",
+      "fr_FR": "PQR"
     },
     {
       "id": "BattleFrontierRecords_Text_STU",
-      "en_US": "STU"
+      "en_US": "STU",
+      "fr_FR": "STU"
     },
     {
       "id": "BattleFrontierRecords_Text_VWX",
-      "en_US": "VWX"
+      "en_US": "VWX",
+      "fr_FR": "VWX"
     },
     {
       "id": "BattleFrontierRecords_Text_YZ",
-      "en_US": "YZ"
+      "en_US": "YZ",
+      "fr_FR": "YZ"
     },
     {
       "id": "BattleFrontierRecords_Text_Dummy1",
@@ -78,7 +98,8 @@
     },
     {
       "id": "BattleFrontierRecords_Text_Cancel2",
-      "en_US": "CANCEL"
+      "en_US": "CANCEL",
+      "fr_FR": "ANNULER"
     },
     {
       "id": "BattleFrontierRecords_Text_Dummy3",
@@ -90,95 +111,118 @@
     },
     {
       "id": "BattleFrontierRecords_Text_BattleTower",
-      "en_US": "Battle Tower"
+      "en_US": "Battle Tower",
+      "fr_FR": "Tour de Combat"
     },
     {
       "id": "BattleFrontierRecords_Text_BattleFactory",
-      "en_US": "Battle Factory"
+      "en_US": "Battle Factory",
+      "fr_FR": "Usine de Combat"
     },
     {
       "id": "BattleFrontierRecords_Text_BattleCastle",
-      "en_US": "Battle Castle"
+      "en_US": "Battle Castle",
+      "fr_FR": "Castel de Combat"
     },
     {
       "id": "BattleFrontierRecords_Text_BattleHall",
-      "en_US": "Battle Hall"
+      "en_US": "Battle Hall",
+      "fr_FR": "Scène de Combat"
     },
     {
       "id": "BattleFrontierRecords_Text_BattleArcade",
-      "en_US": "Battle Arcade"
+      "en_US": "Battle Arcade",
+      "fr_FR": "Arcade de Combat"
     },
     {
       "id": "BattleFrontierRecords_Text_SingleRecord",
-      "en_US": "Single Record"
+      "en_US": "Single Record",
+      "fr_FR": "Record Solo"
     },
     {
       "id": "BattleFrontierRecords_Text_DoubleRecord",
-      "en_US": "Double Record"
+      "en_US": "Double Record",
+      "fr_FR": "Record Duo"
     },
     {
       "id": "BattleFrontierRecords_Text_MultiRecord",
-      "en_US": "Multi Record"
+      "en_US": "Multi Record",
+      "fr_FR": "Record Multi"
     },
     {
       "id": "BattleFrontierRecords_Text_Prev",
-      "en_US": "PREV"
+      "en_US": "PREV",
+      "fr_FR": "PRECEDENT"
     },
     {
       "id": "BattleFrontierRecords_Text_Current",
-      "en_US": "CURRENT"
+      "en_US": "CURRENT",
+      "fr_FR": "ACTUEL"
     },
     {
       "id": "BattleFrontierRecords_Text_Record",
-      "en_US": "RECORD"
+      "en_US": "RECORD",
+      "fr_FR": "RECORD"
     },
     {
       "id": "BattleFrontierRecords_Text_MultiWithTrainer",
-      "en_US": "Multi w/Trainer"
+      "en_US": "Multi w/Trainer",
+      "fr_FR": "Multi avec Dres."
     },
     {
       "id": "BattleFrontierRecords_Text_MultiWithFriend",
-      "en_US": "Multi w/friend"
+      "en_US": "Multi w/friend",
+      "fr_FR": "Multi avec un ami"
     },
     {
       "id": "BattleFrontierRecords_Text_Level50",
-      "en_US": "Level 50"
+      "en_US": "Level 50",
+      "fr_FR": "Niveau 50"
     },
     {
       "id": "BattleFrontierRecords_Text_OpenLevel",
-      "en_US": "Open Level"
+      "en_US": "Open Level",
+      "fr_FR": "Niveau libre"
     },
     {
       "id": "BattleFrontierRecords_Text_RentalTrade",
-      "en_US": "Rental/Trade"
+      "en_US": "Rental/Trade",
+      "fr_FR": "Location/Echange"
     },
     {
       "id": "BattleFrontierRecords_Text_CastlePoints",
-      "en_US": "Castle Points"
+      "en_US": "Castle Points",
+      "fr_FR": "Points Castel"
     },
     {
       "id": "BattleFrontierRecords_Text_WinStreak",
-      "en_US": "Win streak: {STRVAR_1 53, 0, 0}"
+      "en_US": "Win streak: {STRVAR_1 53, 0, 0}",
+      "fr_FR": "Victoires: {STRVAR_1 53, 0, 0}"
     },
     {
       "id": "BattleFrontierRecords_Text_MonsRecord",
-      "en_US": "{STRVAR_1 0, 0, 0}’s record"
+      "en_US": "{STRVAR_1 0, 0, 0}’s record",
+      "fr_FR": "Record de {STRVAR_1 0, 0, 0}"
     },
     {
       "id": "BattleFrontierRecords_Text_Number",
-      "en_US": "{STRVAR_1 53, 0, 0}"
+      "en_US": "{STRVAR_1 53, 0, 0}",
+      "fr_FR": "{STRVAR_1 53, 0, 0}"
     },
     {
       "id": "BattleFrontierRecords_Text_CP",
-      "en_US": "{STRVAR_1 53, 0, 0} CP"
+      "en_US": "{STRVAR_1 53, 0, 0} CP",
+      "fr_FR": "{STRVAR_1 53, 0, 0} PCa"
     },
     {
       "id": "BattleFrontierRecords_Text_WinStreakTemplate",
-      "en_US": "Win streak: {STRVAR_1 53, 0, 0}"
+      "en_US": "Win streak: {STRVAR_1 53, 0, 0}",
+      "fr_FR": "Victoires: {STRVAR_1 53, 0, 0}"
     },
     {
       "id": "BattleFrontierRecords_Text_GamesCleared",
-      "en_US": "Games cleared: {STRVAR_1 53, 0, 0}"
+      "en_US": "Games cleared: {STRVAR_1 53, 0, 0}",
+      "fr_FR": "Victoires: {STRVAR_1 53, 0, 0}"
     }
   ]
 }

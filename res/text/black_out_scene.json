@@ -20,6 +20,12 @@
         "a Pokémon Center, protecting\n",
         "the exhausted and fainted\n",
         "Pokémon from further harm..."
+      ],
+      "fr_FR": [
+        "{STRVAR_1 3, 0, 0} se hâte vers un\n",
+        "Centre Pokémon pour éviter que\n",
+        "ses pauvres Pokémon ne souffrent\n",
+        "davantage."
       ]
     },
     {
@@ -29,6 +35,11 @@
         "home, protecting the exhausted\n",
         "and fainted Pokémon from further\n",
         "harm..."
+      ],
+      "fr_FR": [
+        "{STRVAR_1 3, 0, 0} se hâte vers sa\n",
+        "maison pour éviter que son pauvre\n",
+        "Pokémon ne souffre davantage."
       ]
     }
   ]

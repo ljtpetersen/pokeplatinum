@@ -27,5 +27,13 @@
     "contest": {
         "effect": "CONTEST_EFFECT_NO_VOLTAGE_DOWN",
         "type": "CONTEST_TYPE_CUTE"
-    }
+    },
+    "name_fr": "Mimi-Queue",
+    "description_fr": [
+        "Le lanceur remue son\n",
+        "adorable queue pour\n",
+        "tromper la vigilance\n",
+        "de l’ennemi et baisser\n",
+        "sa Défense."
+    ]
 }

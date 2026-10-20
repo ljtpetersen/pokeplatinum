@@ -77,6 +77,10 @@
             "en_US": [
                 "I’ve been ensconced in the lab.\n",
                 "My shoulders are all knotted up."
+            ],
+            "fr_FR": [
+                "Mon labo est trop petit.\n",
+                "J’ai un terrible mal de dos."
             ]
         },
         {
@@ -84,6 +88,10 @@
             "en_US": [
                 "What a refreshing break!\n",
                 "I’m feeling loose and relaxed now.\r"
+            ],
+            "fr_FR": [
+                "Merci pour cette petite pause!\n",
+                "Je suis beaucoup plus détendu!\r"
             ]
         },
         {
@@ -91,7 +99,12 @@
             "en_US": [
                 "My Pokémon and I, we all need to get\n",
                 "outside and exercise more.\r"
+            ],
+            "fr_FR": [
+                "Je devrais prendre un peu plus\n",
+                "l’air et faire de l’exercice.\r"
             ]
         }
-    ]
+    ],
+    "name_fr": "Jamy"
 }

@@ -34,6 +34,12 @@
                 "champion of a swimsuit contest!\r",
                 "So now, I’m trying to win a title\n",
                 "at a Pokémon Contest!\r"
+            ],
+            "fr_FR": [
+                "Tu savais que j’avais remporté\n",
+                "un concours de natation?\r",
+                "Désormais, j’essaie de remporter\n",
+                "un Concours Pokémon!\r"
             ]
         },
         {
@@ -41,6 +47,10 @@
             "en_US": [
                 "I’m speechless!\n",
                 "I never lose when I’m in my swimsuit!\n"
+            ],
+            "fr_FR": [
+                "Impossible!\n",
+                "J’avais mis mon maillot porte-bonheur!\n"
             ]
         },
         {
@@ -50,6 +60,12 @@
                 "to wear.\r",
                 "The first thing to do is consider what\n",
                 "Pokémon I should be using!\n"
+            ],
+            "fr_FR": [
+                "Je n’aurais pas dû passer autant de\n",
+                "temps à choisir mon maillot de bain.\r",
+                "J’aurais dû me concentrer sur les\n",
+                "Pokémon à utiliser pour ce combat!\n"
             ]
         },
         {
@@ -59,7 +75,14 @@
                 "contest.\r",
                 "I’m going to take you on so that I can\n",
                 "win a Pokémon Contest!\r"
+            ],
+            "fr_FR": [
+                "Je suis géniale! J’ai déjà gagné un\n",
+                "concours de beauté.\r",
+                "Je vais gagner contre toi, et puis j’irai\n",
+                "participer à un Concours Pokémon!\r"
             ]
         }
-    ]
+    ],
+    "name_fr": "Sylviane"
 }

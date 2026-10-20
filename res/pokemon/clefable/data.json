@@ -7,7 +7,10 @@
         "special_attack": 85,
         "special_defense": 90
     },
-    "types": [ "TYPE_NORMAL", "TYPE_NORMAL" ],
+    "types": [
+        "TYPE_NORMAL",
+        "TYPE_NORMAL"
+    ],
     "catch_rate": 25,
     "base_exp_reward": 129,
     "ev_yields": {
@@ -26,18 +29,36 @@
     "hatch_cycles": 10,
     "base_friendship": 140,
     "exp_rate": "EXP_RATE_FAST",
-    "egg_groups": [ "EGG_GROUP_FAIRY", "EGG_GROUP_FAIRY" ],
-    "abilities": [ "ABILITY_CUTE_CHARM", "ABILITY_MAGIC_GUARD" ],
+    "egg_groups": [
+        "EGG_GROUP_FAIRY",
+        "EGG_GROUP_FAIRY"
+    ],
+    "abilities": [
+        "ABILITY_CUTE_CHARM",
+        "ABILITY_MAGIC_GUARD"
+    ],
     "safari_flee_rate": 0,
     "body_color": "MON_COLOR_PINK",
     "flip_sprite": false,
     "icon_palette": 0,
     "learnset": {
         "by_level": [
-            [ 1, "MOVE_SING" ],
-            [ 1, "MOVE_DOUBLE_SLAP" ],
-            [ 1, "MOVE_MINIMIZE" ],
-            [ 1, "MOVE_METRONOME" ]
+            [
+                1,
+                "MOVE_SING"
+            ],
+            [
+                1,
+                "MOVE_DOUBLE_SLAP"
+            ],
+            [
+                1,
+                "MOVE_MINIMIZE"
+            ],
+            [
+                1,
+                "MOVE_METRONOME"
+            ]
         ],
         "by_tm": [
             "TM01",
@@ -112,7 +133,7 @@
             "MOVE_KNOCK_OFF"
         ]
     },
-    "evolutions": [  ],
+    "evolutions": [],
     "offspring": "SPECIES_CLEFFA",
     "footprint": {
         "has": true,
@@ -135,9 +156,9 @@
             "name": "CLEFABLE",
             "category": "Fairy Pokémon",
             "entry_text": [
-                "It is very wary and rarely shows\n",
-                "itself to people. Its ears can hear\n",
-                "a pin drop over half a mile away."
+                "Rarely seen by people, it is\n",
+                "said to be drawn by the full\n",
+                "moon to play at deserted lakes."
             ]
         },
         "fr": {
@@ -183,6 +204,18 @@
                 "めったに　すがたを　あらわさない。\n",
                 "まんげつに　さそわれて　ひとけのない\n",
                 "みずうみで　あそぶと　いわれている。"
+            ]
+        },
+        "local_version": {
+            "entry_text": [
+                "It is very wary and rarely shows\n",
+                "itself to people. Its ears can hear\n",
+                "a pin drop over half a mile away."
+            ],
+            "entry_text_fr": [
+                "Il est très farouche et se laisse\n",
+                "rarement approcher. De plus, il\n",
+                "détecte les sons à plus d’1 km."
             ]
         }
     },

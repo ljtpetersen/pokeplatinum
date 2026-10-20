@@ -26,11 +26,18 @@
                 "You again?\r",
                 "You must really like that dragon\n",
                 "Pokémon I use.\r"
+            ],
+            "fr_FR": [
+                "Encore toi?\r",
+                "Tu dois vraiment adorer mon\n",
+                "Pokémon Dragon.\r"
             ]
         },
         {
             "type": "TRMSG_DEFEAT",
-            "en_US": "Oh... My... Gosh...\n"
+            "en_US": "Oh... My... Gosh...\n",
+            "fr_FR": "Nom... d’un... Pokémon...\n"
         }
-    ]
+    ],
+    "name_fr": "Joël"
 }

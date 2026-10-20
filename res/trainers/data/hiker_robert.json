@@ -25,6 +25,11 @@
                 "Gahahaha! You’re just a little kid!\r",
                 "How’re you supposed to beat a big\n",
                 "man like me?\r"
+            ],
+            "fr_FR": [
+                "Bouahahaha! Tu es si jeune!\r",
+                "Tu te crois vraiment capable de battre\n",
+                "un gaillard comme moi?\r"
             ]
         },
         {
@@ -32,6 +37,10 @@
             "en_US": [
                 "Oh my, a big man like me got schooled\n",
                 "by a little kid like you!\n"
+            ],
+            "fr_FR": [
+                "Waouh, j’ai beau être un adulte, tu\n",
+                "m’as donné une bonne leçon!"
             ]
         },
         {
@@ -40,6 +49,11 @@
                 "Wow, you’re sure impressive!\r",
                 "I guess it makes no difference if\n",
                 "you’re young or old in battles.\n"
+            ],
+            "fr_FR": [
+                "Waouh, c’est impressionnant!\r",
+                "Finalement, adulte ou enfant, ça ne fait\n",
+                "aucune différence dans un combat.\n"
             ]
         },
         {
@@ -47,7 +61,12 @@
             "en_US": [
                 "Hey, you, tough little kid!\n",
                 "Throw us a rematch, will you?\r"
+            ],
+            "fr_FR": [
+                "Eh, toi, l’enfant prodige!\n",
+                "Accorde-moi une revanche, d’accord?\r"
             ]
         }
-    ]
+    ],
+    "name_fr": "Désiré"
 }

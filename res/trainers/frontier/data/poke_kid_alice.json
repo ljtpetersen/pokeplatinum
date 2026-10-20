@@ -59,6 +59,10 @@
             "en_US": [
                 "I’ve been wearing these clothes for a\n",
                 "long time. Bathing is for the birds!"
+            ],
+            "fr_FR": [
+                "Je porte les mêmes vêtements depuis\n",
+                "six semaines. Et j’ai horreur des bains."
             ]
         },
         {
@@ -66,6 +70,10 @@
             "en_US": [
                 "Changing clothes takes too much effort.\n",
                 "Taking a bath is even worse!\r"
+            ],
+            "fr_FR": [
+                "Je suis trop fainéante pour me changer.\n",
+                "Et je n’ai aucune envie de me laver!\r"
             ]
         },
         {
@@ -73,7 +81,12 @@
             "en_US": [
                 "No, no, no!\n",
                 "I won’t take a bath!\r"
+            ],
+            "fr_FR": [
+                "N’insiste pas! Défaite ou pas, je\n",
+                "ne veux pas prendre de bain!\r"
             ]
         }
-    ]
+    ],
+    "name_fr": "Alicia"
 }

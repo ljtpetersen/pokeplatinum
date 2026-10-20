@@ -55,17 +55,26 @@
             "en_US": [
                 "Really? So you think you can beat me?\n",
                 "I’m an Ace Trainer, you do realize?\r"
+            ],
+            "fr_FR": [
+                "Euh... tu veux vraiment m’affronter?\n",
+                "Tu sais que je suis un Topdresseur?\r"
             ]
         },
         {
             "type": "TRMSG_DEFEAT",
-            "en_US": "I admit defeat...\n"
+            "en_US": "I admit defeat...\n",
+            "fr_FR": "Je reconnais ma défaite."
         },
         {
             "type": "TRMSG_POST_BATTLE",
             "en_US": [
                 "Beaten in battle, but not in spirit.\n",
                 "That’s the mark of a real Ace Trainer.\n"
+            ],
+            "fr_FR": [
+                "J’ai perdu ce combat, mais pas le moral.\n",
+                "Je suis un Topdresseur après tout.\n"
             ]
         },
         {
@@ -73,7 +82,12 @@
             "en_US": [
                 "Ace Trainers always work to improve\n",
                 "their natural-born talents.\r"
+            ],
+            "fr_FR": [
+                "Les Topdresseurs s’entraînent sans \n",
+                "cesse pour améliorer leur don naturel.\r"
             ]
         }
-    ]
+    ],
+    "name_fr": "Valéria"
 }

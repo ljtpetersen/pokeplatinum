@@ -28,5 +28,13 @@
   "battleUseCategory": "BATTLE_USE_CATEGORY_NONE",
   "itemUseParams": {
     "spdefStages": 1
-  }
+  },
+  "name_fr": "Déf. Spé. +",
+  "description_fr": [
+    "Monte la Déf. Spé. pendant un combat.\n",
+    "L’effet s’estompe si le Pokémon se\n",
+    "retire."
+  ],
+  "plural_fr": "Déf. Spé. +",
+  "article_fr": null
 }

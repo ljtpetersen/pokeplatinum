@@ -26,5 +26,13 @@
   "battlePocket": "BATTLE_POCKET_MASK_POKE_BALLS",
   "fieldUseFunc": "ITEM_USE_FUNC_NONE",
   "battleUseCategory": "BATTLE_USE_CATEGORY_POKE_BALL",
-  "itemUseParams": null
+  "itemUseParams": null,
+  "name_fr": "Chrono Ball",
+  "description_fr": [
+    "Une Poké Ball un peu spéciale qui\n",
+    "fonctionne de mieux en mieux à mesure\n",
+    "que le combat s’éternise."
+  ],
+  "plural_fr": "Chrono Ball",
+  "article_fr": null
 }

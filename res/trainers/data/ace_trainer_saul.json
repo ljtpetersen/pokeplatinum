@@ -30,6 +30,10 @@
             "en_US": [
                 "I’ve got the urge to battle with you.\n",
                 "Hope you’re willing to oblige!\r"
+            ],
+            "fr_FR": [
+                "Je meurs d’envie de me battre contre\n",
+                "toi. J’espère que tu es d’accord!\r"
             ]
         },
         {
@@ -37,13 +41,18 @@
             "en_US": [
                 "I shouldn’t have paid attention\n",
                 "to my urge...\n"
-            ]
+            ],
+            "fr_FR": "Je devrais résister à mes envies...\n"
         },
         {
             "type": "TRMSG_POST_BATTLE",
             "en_US": [
                 "So long as my partner’s alongside me,\n",
                 "I’m willing to take on the world!\n"
+            ],
+            "fr_FR": [
+                "Aussi longtemps que mon partenaire sera\n",
+                "avec moi, rien ne m’arrêtera!\n"
             ]
         },
         {
@@ -51,7 +60,12 @@
             "en_US": [
                 "The urge to battle you again has\n",
                 "struck me. Want to humor me?\r"
+            ],
+            "fr_FR": [
+                "L’envie de te combattre me démange à\n",
+                "nouveau. Ça te tente?\r"
             ]
         }
-    ]
+    ],
+    "name_fr": "Yann"
 }

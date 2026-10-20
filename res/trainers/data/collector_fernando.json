@@ -23,6 +23,10 @@
             "en_US": [
                 "We were having a heated discussion\n",
                 "over Pokémon the way Collectors do.\r"
+            ],
+            "fr_FR": [
+                "Quand deux Collec parlent Pokémon,\n",
+                "la discussion est très animée.\r"
             ]
         },
         {
@@ -30,6 +34,10 @@
             "en_US": [
                 "Knowledge alone isn’t everything,\n",
                 "you know...\n"
+            ],
+            "fr_FR": [
+                "La connaissance ne fait pas tout,\n",
+                "tu sais...\n"
             ]
         },
         {
@@ -40,7 +48,14 @@
                 "I have a rare Pokémon!\r",
                 "But, I’m weak at battling...\n",
                 "That’s a Pokémon Collector for you..."
+            ],
+            "fr_FR": [
+                "Mon savoir est immense!\r",
+                "Et j’élève un Pokémon rare!\r",
+                "Mais... je ne suis pas doué pour les\n",
+                "combats! Pas facile d’être un Collec..."
             ]
         }
-    ]
+    ],
+    "name_fr": "Albin"
 }

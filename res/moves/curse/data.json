@@ -23,5 +23,12 @@
     "contest": {
         "effect": "CONTEST_EFFECT_HIGH_SCORE_LATER_TURN",
         "type": "CONTEST_TYPE_TOUGH"
-    }
+    },
+    "name_fr": "Malédiction",
+    "description_fr": [
+        "Une capacité qui\n",
+        "fonctionne \n",
+        "différemment pour\n",
+        "les Pokémon Spectre."
+    ]
 }

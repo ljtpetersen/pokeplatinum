@@ -7,7 +7,10 @@
         "special_attack": 130,
         "special_defense": 95
     },
-    "types": [ "TYPE_PSYCHIC", "TYPE_PSYCHIC" ],
+    "types": [
+        "TYPE_PSYCHIC",
+        "TYPE_PSYCHIC"
+    ],
     "catch_rate": 45,
     "base_exp_reward": 197,
     "ev_yields": {
@@ -26,28 +29,76 @@
     "hatch_cycles": 35,
     "base_friendship": 70,
     "exp_rate": "EXP_RATE_MEDIUM_FAST",
-    "egg_groups": [ "EGG_GROUP_FIELD", "EGG_GROUP_FIELD" ],
-    "abilities": [ "ABILITY_SYNCHRONIZE", "ABILITY_SYNCHRONIZE" ],
+    "egg_groups": [
+        "EGG_GROUP_FIELD",
+        "EGG_GROUP_FIELD"
+    ],
+    "abilities": [
+        "ABILITY_SYNCHRONIZE",
+        "ABILITY_SYNCHRONIZE"
+    ],
     "safari_flee_rate": 0,
     "body_color": "MON_COLOR_PURPLE",
     "flip_sprite": false,
     "icon_palette": 2,
     "learnset": {
         "by_level": [
-            [ 1, "MOVE_TAIL_WHIP" ],
-            [ 1, "MOVE_TACKLE" ],
-            [ 1, "MOVE_HELPING_HAND" ],
-            [ 8, "MOVE_SAND_ATTACK" ],
-            [ 15, "MOVE_CONFUSION" ],
-            [ 22, "MOVE_QUICK_ATTACK" ],
-            [ 29, "MOVE_SWIFT" ],
-            [ 36, "MOVE_PSYBEAM" ],
-            [ 43, "MOVE_FUTURE_SIGHT" ],
-            [ 50, "MOVE_LAST_RESORT" ],
-            [ 57, "MOVE_PSYCH_UP" ],
-            [ 64, "MOVE_PSYCHIC" ],
-            [ 71, "MOVE_MORNING_SUN" ],
-            [ 78, "MOVE_POWER_SWAP" ]
+            [
+                1,
+                "MOVE_TAIL_WHIP"
+            ],
+            [
+                1,
+                "MOVE_TACKLE"
+            ],
+            [
+                1,
+                "MOVE_HELPING_HAND"
+            ],
+            [
+                8,
+                "MOVE_SAND_ATTACK"
+            ],
+            [
+                15,
+                "MOVE_CONFUSION"
+            ],
+            [
+                22,
+                "MOVE_QUICK_ATTACK"
+            ],
+            [
+                29,
+                "MOVE_SWIFT"
+            ],
+            [
+                36,
+                "MOVE_PSYBEAM"
+            ],
+            [
+                43,
+                "MOVE_FUTURE_SIGHT"
+            ],
+            [
+                50,
+                "MOVE_LAST_RESORT"
+            ],
+            [
+                57,
+                "MOVE_PSYCH_UP"
+            ],
+            [
+                64,
+                "MOVE_PSYCHIC"
+            ],
+            [
+                71,
+                "MOVE_MORNING_SUN"
+            ],
+            [
+                78,
+                "MOVE_POWER_SWAP"
+            ]
         ],
         "by_tm": [
             "TM04",
@@ -96,7 +147,7 @@
             "MOVE_SWIFT"
         ]
     },
-    "evolutions": [  ],
+    "evolutions": [],
     "offspring": "SPECIES_EEVEE",
     "footprint": {
         "has": true,
@@ -119,9 +170,9 @@
             "name": "ESPEON",
             "category": "Sun Pokémon",
             "entry_text": [
-                "Its fur is so sensitive, it can\n",
-                "sense minute shifts in the air\n",
-                "and predict the weather."
+                "Its fur has the look and feel of\n",
+                "velvet. The orb on its forehead\n",
+                "glows when it uses psycho-power."
             ]
         },
         "fr": {
@@ -167,6 +218,18 @@
                 "たいもうは　ビロ－ドの　つやと\n",
                 "はだざわり。サイコパワ－を　つかう\n",
                 "とき　ひたいの　たまが　かがやく。"
+            ]
+        },
+        "local_version": {
+            "entry_text": [
+                "Its fur is so sensitive, it can\n",
+                "sense minute shifts in the air\n",
+                "and predict the weather."
+            ],
+            "entry_text_fr": [
+                "Sa fourrure est si sensible qu’il\n",
+                "peut détecter les vibrations de\n",
+                "l’air et prédire le temps qu’il fera."
             ]
         }
     },

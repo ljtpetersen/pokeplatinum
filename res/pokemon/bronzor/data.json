@@ -7,7 +7,10 @@
         "special_attack": 24,
         "special_defense": 86
     },
-    "types": [ "TYPE_STEEL", "TYPE_PSYCHIC" ],
+    "types": [
+        "TYPE_STEEL",
+        "TYPE_PSYCHIC"
+    ],
     "catch_rate": 255,
     "base_exp_reward": 72,
     "ev_yields": {
@@ -26,27 +29,72 @@
     "hatch_cycles": 20,
     "base_friendship": 70,
     "exp_rate": "EXP_RATE_MEDIUM_FAST",
-    "egg_groups": [ "EGG_GROUP_MINERAL", "EGG_GROUP_MINERAL" ],
-    "abilities": [ "ABILITY_LEVITATE", "ABILITY_HEATPROOF" ],
+    "egg_groups": [
+        "EGG_GROUP_MINERAL",
+        "EGG_GROUP_MINERAL"
+    ],
+    "abilities": [
+        "ABILITY_LEVITATE",
+        "ABILITY_HEATPROOF"
+    ],
     "safari_flee_rate": 0,
     "body_color": "MON_COLOR_GREEN",
     "flip_sprite": false,
     "icon_palette": 0,
     "learnset": {
         "by_level": [
-            [ 1, "MOVE_TACKLE" ],
-            [ 1, "MOVE_CONFUSION" ],
-            [ 7, "MOVE_HYPNOSIS" ],
-            [ 12, "MOVE_IMPRISON" ],
-            [ 14, "MOVE_CONFUSE_RAY" ],
-            [ 19, "MOVE_EXTRASENSORY" ],
-            [ 26, "MOVE_IRON_DEFENSE" ],
-            [ 30, "MOVE_SAFEGUARD" ],
-            [ 35, "MOVE_GYRO_BALL" ],
-            [ 37, "MOVE_FUTURE_SIGHT" ],
-            [ 41, "MOVE_FAINT_ATTACK" ],
-            [ 49, "MOVE_PAYBACK" ],
-            [ 52, "MOVE_HEAL_BLOCK" ]
+            [
+                1,
+                "MOVE_TACKLE"
+            ],
+            [
+                1,
+                "MOVE_CONFUSION"
+            ],
+            [
+                7,
+                "MOVE_HYPNOSIS"
+            ],
+            [
+                12,
+                "MOVE_IMPRISON"
+            ],
+            [
+                14,
+                "MOVE_CONFUSE_RAY"
+            ],
+            [
+                19,
+                "MOVE_EXTRASENSORY"
+            ],
+            [
+                26,
+                "MOVE_IRON_DEFENSE"
+            ],
+            [
+                30,
+                "MOVE_SAFEGUARD"
+            ],
+            [
+                35,
+                "MOVE_GYRO_BALL"
+            ],
+            [
+                37,
+                "MOVE_FUTURE_SIGHT"
+            ],
+            [
+                41,
+                "MOVE_FAINT_ATTACK"
+            ],
+            [
+                49,
+                "MOVE_PAYBACK"
+            ],
+            [
+                52,
+                "MOVE_HEAL_BLOCK"
+            ]
         ],
         "by_tm": [
             "TM04",
@@ -127,9 +175,9 @@
             "name": "BRONZOR",
             "category": "Bronze Pokémon",
             "entry_text": [
-                "There are researchers who believe\n",
-                "this Pokémon reflected like a mirror\n",
-                "in the distant past."
+                "Implements shaped like it were\n",
+                "discovered in ancient tombs. It is\n",
+                "unknown if they are related."
             ]
         },
         "fr": {
@@ -175,6 +223,18 @@
                 "ふるい　おはかから　ド－ミラ－に\n",
                 "そっくりな　どうぐが　ほりだされたが\n",
                 "かんけいは　わかっていない。"
+            ]
+        },
+        "local_version": {
+            "entry_text": [
+                "There are researchers who believe\n",
+                "this Pokémon reflected like a mirror\n",
+                "in the distant past."
+            ],
+            "entry_text_fr": [
+                "Certains scientifiques soutiennent\n",
+                "que ce Pokémon était jadis aussi\n",
+                "réfléchissant qu’un miroir."
             ]
         }
     },

@@ -25,5 +25,11 @@
     "contest": {
         "effect": "CONTEST_EFFECT_FINAL_PERFORMANCE_ADVANTAGE",
         "type": "CONTEST_TYPE_TOUGH"
-    }
+    },
+    "name_fr": "Bomb-Beurk",
+    "description_fr": [
+        "Envoie des détritus\n",
+        "sur l’ennemi. Peut\n",
+        "aussi l’empoisonner."
+    ]
 }

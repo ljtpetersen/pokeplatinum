@@ -44,11 +44,17 @@
                 "What it means to win battles...\n",
                 "That is what I seek.\f",
                 "Teach me if you will!\r"
+            ],
+            "fr_FR": [
+                "Quel est l’intérêt de gagner un combat?\n",
+                "C’est ce que je veux savoir.\f",
+                "Apprends-moi si tu peux!\r"
             ]
         },
         {
             "type": "TRMSG_DEFEAT",
-            "en_US": "I grow less certain still...\n"
+            "en_US": "I grow less certain still...\n",
+            "fr_FR": "Je suis encore plus troublé...\n"
         },
         {
             "type": "TRMSG_POST_BATTLE",
@@ -56,7 +62,13 @@
                 "Perhaps there is no meaning to\n",
                 "victory, but still I will battle!\r",
                 "That is what makes me a Trainer!\n"
+            ],
+            "fr_FR": [
+                "Il n’y a peut-être aucun intérêt dans\n",
+                "la victoire, mais je me battrai!\r",
+                "C’est ce qui fait de moi un Dresseur!\n"
             ]
         }
-    ]
+    ],
+    "name_fr": "Léon"
 }

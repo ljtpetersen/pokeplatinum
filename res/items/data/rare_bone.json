@@ -26,5 +26,13 @@
   "battlePocket": "BATTLE_POCKET_MASK_NONE",
   "fieldUseFunc": "ITEM_USE_FUNC_NONE",
   "battleUseCategory": "BATTLE_USE_CATEGORY_NONE",
-  "itemUseParams": {}
+  "itemUseParams": {},
+  "name_fr": "Os Rare",
+  "description_fr": [
+    "Un os d’une grande valeur pour\n",
+    "l’archéologie Pokémon. Peut être vendu\n",
+    "à bon prix aux magasins."
+  ],
+  "plural_fr": "Os Rare",
+  "article_fr": null
 }

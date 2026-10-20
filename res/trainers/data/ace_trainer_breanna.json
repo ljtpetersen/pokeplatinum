@@ -56,11 +56,17 @@
                 "By focusing on only one type, you can\n",
                 "really see the strengths and\f",
                 "weaknesses of that Pokémon.\r"
+            ],
+            "fr_FR": [
+                "En se spécialisant dans un seul type\n",
+                "de Pokémon, on voit vraiment ses\f",
+                "forces et ses faiblesses.\r"
             ]
         },
         {
             "type": "TRMSG_DEFEAT",
-            "en_US": "My focus was too narrow minded..."
+            "en_US": "My focus was too narrow minded...",
+            "fr_FR": "J’avais l’esprit trop étroit..."
         },
         {
             "type": "TRMSG_POST_BATTLE",
@@ -69,7 +75,14 @@
                 "Pokémon. I mean really friendly.\r",
                 "If you do that, you’ll learn naturally\n",
                 "how you should battle with it.\n"
+            ],
+            "fr_FR": [
+                "Tu dois bâtir une amitié avec ton\n",
+                "Pokémon. Une véritable amitié.\r",
+                "Si tu suis mon conseil, tu comprendras\n",
+                "naturellement sa façon de se battre.\n"
             ]
         }
-    ]
+    ],
+    "name_fr": "Constance"
 }

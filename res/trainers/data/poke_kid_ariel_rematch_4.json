@@ -38,7 +38,9 @@
     "messages": [
         {
             "type": "TRMSG_DEFEAT",
-            "en_US": "Pi-Pikachu!\n"
+            "en_US": "Pi-Pikachu!\n",
+            "fr_FR": "Pi-Pikachu!\n"
         }
-    ]
+    ],
+    "name_fr": "Catherine"
 }

@@ -35,6 +35,10 @@
             "en_US": [
                 "How do you like my cape?\n",
                 "I had it specially made!"
+            ],
+            "fr_FR": [
+                "Comment tu trouves ma cape?\n",
+                "Elle a été faite sur mesure!"
             ]
         },
         {
@@ -42,6 +46,10 @@
             "en_US": [
                 "What is my cape made of?\n",
                 "I’m afraid I can’t tell you.\r"
+            ],
+            "fr_FR": [
+                "Le tissu de ma cape?\n",
+                "C’est un secret.\r"
             ]
         },
         {
@@ -49,7 +57,12 @@
             "en_US": [
                 "Rip... Riiiiiiiiiiiipppppp!\n",
                 "...What?! My cape! Waaaaah!\r"
+            ],
+            "fr_FR": [
+                "Hé! C’est... une tache? Sur ma\n",
+                "belle cape? Nooooooooooon!\r"
             ]
         }
-    ]
+    ],
+    "name_fr": "Haroun"
 }

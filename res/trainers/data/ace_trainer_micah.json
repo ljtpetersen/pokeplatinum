@@ -45,6 +45,12 @@
                 "When Trainers lock eyes...\r",
                 "That’s right! It’s time to let\n",
                 "their Pokémon go wild!\r"
+            ],
+            "fr_FR": [
+                "Lorsque les regards de deux Dresseurs\n",
+                "se croisent...\r",
+                "Eh oui, c’est à leurs Pokémon\n",
+                "de s’exprimer!\r"
             ]
         },
         {
@@ -52,6 +58,10 @@
             "en_US": [
                 "Your Pokémon have a real peppy feel to\n",
                 "them!\n"
+            ],
+            "fr_FR": [
+                "Toi et ton équipe, vous avez une\n",
+                "sacrée pêche!\n"
             ]
         },
         {
@@ -60,7 +70,13 @@
                 "Whether you’re talking to people or\n",
                 "Pokémon, it’s important to always look\f",
                 "them square in the eyes.\n"
+            ],
+            "fr_FR": [
+                "Lorsque tu parles à quelqu’un, humain\n",
+                "ou Pokémon, regarde toujours ton\f",
+                "interlocuteur dans les yeux."
             ]
         }
-    ]
+    ],
+    "name_fr": "Bilal"
 }

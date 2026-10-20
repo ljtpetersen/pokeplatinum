@@ -27,5 +27,13 @@
   "fieldUseFunc": "ITEM_USE_FUNC_TM_HM",
   "battleUseCategory": "BATTLE_USE_CATEGORY_NONE",
   "itemUseParams": null,
-  "teachesMove": "MOVE_SAFEGUARD"
+  "teachesMove": "MOVE_SAFEGUARD",
+  "name_fr": "CT20",
+  "description_fr": [
+    "Champ protecteur empêchant les\n",
+    "problèmes de statut comme poison,\n",
+    "paralysie, brûlure et sommeil."
+  ],
+  "plural_fr": "CT20",
+  "article_fr": null
 }

@@ -24,5 +24,13 @@
     "contest": {
         "effect": "CONTEST_EFFECT_DOUBLE_NEXT_TURN",
         "type": "CONTEST_TYPE_BEAUTY"
-    }
+    },
+    "name_fr": "Lumiqueue",
+    "description_fr": [
+        "Le lanceur regarde\n",
+        "un flash lumineux\n",
+        "fixement. Augmente\n",
+        "considérablement son\n",
+        "Atq. Spé."
+    ]
 }

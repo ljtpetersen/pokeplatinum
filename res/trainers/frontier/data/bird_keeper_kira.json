@@ -83,6 +83,10 @@
             "en_US": [
                 "The loser has to pretend to be a\n",
                 "STUNKY, OK?"
+            ],
+            "fr_FR": [
+                "Le Dresseur qui perd le combat devra\n",
+                "imiter MOUFOUETTE, d’accord?"
             ]
         },
         {
@@ -90,6 +94,10 @@
             "en_US": [
                 "Giggle, you lose.\n",
                 "I want to see your STUNKY impression!\r"
+            ],
+            "fr_FR": [
+                "Hi hi, tu as perdu!\n",
+                "Tu dois imiter MOUFOUETTE!\r"
             ]
         },
         {
@@ -97,7 +105,12 @@
             "en_US": [
                 "OK, here’s my STUNKY impression!\n",
                 "Three, two, one...\r"
+            ],
+            "fr_FR": [
+                "Bien, voilà mon imitation de MOUFOUETTE!\n",
+                "Trois, deux, un...\r"
             ]
         }
-    ]
+    ],
+    "name_fr": "Malika"
 }

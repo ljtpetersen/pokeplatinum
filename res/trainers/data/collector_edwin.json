@@ -20,7 +20,8 @@
     "messages": [
         {
             "type": "TRMSG_PRE_BATTLE",
-            "en_US": "I’m a Collector, and I love Honey!\r"
+            "en_US": "I’m a Collector, and I love Honey!\r",
+            "fr_FR": "Je suis un Collec qui adore le Miel!\r"
         },
         {
             "type": "TRMSG_DEFEAT",
@@ -28,6 +29,11 @@
                 "What’ve you done to my Pokémon?!\r",
                 "It took me forever to catch it using\n",
                 "Honey!\n"
+            ],
+            "fr_FR": [
+                "Non! Mon pauvre Pokémon!\r",
+                "Tu sais quelle quantité de Miel il\n",
+                "m’a fallu sacrifier pour le capturer?\n"
             ]
         },
         {
@@ -37,7 +43,14 @@
                 "my Pokémon.\r",
                 "But since I’ve not raised it, it’s\n",
                 "as weak as when I caught it.\n"
+            ],
+            "fr_FR": [
+                "Capturer mon Pokémon n’a pas été\n",
+                "une partie de plaisir.\r",
+                "Depuis je n’ai pas pris le temps de\n",
+                "l’entraîner, et voilà le résultat..."
             ]
         }
-    ]
+    ],
+    "name_fr": "Florent"
 }

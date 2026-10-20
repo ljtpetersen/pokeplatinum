@@ -3,423 +3,528 @@
   "messages": [
     {
       "id": "pl_msg_00000620_00000",
-      "en_US": "a ₧₦ Trainer"
+      "en_US": "a ₧₦ Trainer",
+      "fr_FR": "Dresseur"
     },
     {
       "id": "pl_msg_00000620_00001",
-      "en_US": "a ₧₦ Trainer"
+      "en_US": "a ₧₦ Trainer",
+      "fr_FR": "Dresseur"
     },
     {
       "id": "pl_msg_00000620_00002",
-      "en_US": "a Youngster"
+      "en_US": "a Youngster",
+      "fr_FR": "Gamin"
     },
     {
       "id": "pl_msg_00000620_00003",
-      "en_US": "a Lass"
+      "en_US": "a Lass",
+      "fr_FR": "Fillette"
     },
     {
       "id": "pl_msg_00000620_00004",
-      "en_US": "a Camper"
+      "en_US": "a Camper",
+      "fr_FR": "Campeur"
     },
     {
       "id": "pl_msg_00000620_00005",
-      "en_US": "a Picnicker"
+      "en_US": "a Picnicker",
+      "fr_FR": "Pique-Nique"
     },
     {
       "id": "pl_msg_00000620_00006",
-      "en_US": "a Bug Catcher"
+      "en_US": "a Bug Catcher",
+      "fr_FR": "Scout"
     },
     {
       "id": "pl_msg_00000620_00007",
-      "en_US": "an Aroma Lady"
+      "en_US": "an Aroma Lady",
+      "fr_FR": "Aroma"
     },
     {
       "id": "pl_msg_00000620_00008",
-      "en_US": "the Twins"
+      "en_US": "the Twins",
+      "fr_FR": "Jumelles"
     },
     {
       "id": "pl_msg_00000620_00009",
-      "en_US": "a Hiker"
+      "en_US": "a Hiker",
+      "fr_FR": "Montagnard"
     },
     {
       "id": "pl_msg_00000620_00010",
-      "en_US": "a Battle Girl"
+      "en_US": "a Battle Girl",
+      "fr_FR": "Combattante"
     },
     {
       "id": "pl_msg_00000620_00011",
-      "en_US": "a Fisherman"
+      "en_US": "a Fisherman",
+      "fr_FR": "Pêcheur"
     },
     {
       "id": "pl_msg_00000620_00012",
-      "en_US": "a Cyclist"
+      "en_US": "a Cyclist",
+      "fr_FR": "Cycliste"
     },
     {
       "id": "pl_msg_00000620_00013",
-      "en_US": "a Cyclist"
+      "en_US": "a Cyclist",
+      "fr_FR": "Cycliste"
     },
     {
       "id": "pl_msg_00000620_00014",
-      "en_US": "a Black Belt"
+      "en_US": "a Black Belt",
+      "fr_FR": "Karatéka"
     },
     {
       "id": "pl_msg_00000620_00015",
-      "en_US": "an Artist"
+      "en_US": "an Artist",
+      "fr_FR": "Peintre"
     },
     {
       "id": "pl_msg_00000620_00016",
-      "en_US": "a ₧₦ Breeder"
+      "en_US": "a ₧₦ Breeder",
+      "fr_FR": "Eleveur"
     },
     {
       "id": "pl_msg_00000620_00017",
-      "en_US": "a ₧₦ Breeder"
+      "en_US": "a ₧₦ Breeder",
+      "fr_FR": "Eleveuse"
     },
     {
       "id": "pl_msg_00000620_00018",
-      "en_US": "a Cowgirl"
+      "en_US": "a Cowgirl",
+      "fr_FR": "Cowgirl"
     },
     {
       "id": "pl_msg_00000620_00019",
-      "en_US": "a Jogger"
+      "en_US": "a Jogger",
+      "fr_FR": "Joggeur"
     },
     {
       "id": "pl_msg_00000620_00020",
-      "en_US": "a Pokéfan"
+      "en_US": "a Pokéfan",
+      "fr_FR": "Pokéfan"
     },
     {
       "id": "pl_msg_00000620_00021",
-      "en_US": "a Pokéfan"
+      "en_US": "a Pokéfan",
+      "fr_FR": "Pokéfan"
     },
     {
       "id": "pl_msg_00000620_00022",
-      "en_US": "a Poké Kid"
+      "en_US": "a Poké Kid",
+      "fr_FR": "Poké Enfant"
     },
     {
       "id": "pl_msg_00000620_00023",
-      "en_US": "a Young Couple"
+      "en_US": "a Young Couple",
+      "fr_FR": "Jeune Couple"
     },
     {
       "id": "pl_msg_00000620_00024",
-      "en_US": "an Ace Trainer"
+      "en_US": "an Ace Trainer",
+      "fr_FR": "Topdresseur"
     },
     {
       "id": "pl_msg_00000620_00025",
-      "en_US": "an Ace Trainer"
+      "en_US": "an Ace Trainer",
+      "fr_FR": "Topdresseur"
     },
     {
       "id": "pl_msg_00000620_00026",
-      "en_US": "a Waitress"
+      "en_US": "a Waitress",
+      "fr_FR": "Serveuse"
     },
     {
       "id": "pl_msg_00000620_00027",
-      "en_US": "a Veteran"
+      "en_US": "a Veteran",
+      "fr_FR": "Vénérable"
     },
     {
       "id": "pl_msg_00000620_00028",
-      "en_US": "a Ninja Boy"
+      "en_US": "a Ninja Boy",
+      "fr_FR": "Ninja Fan"
     },
     {
       "id": "pl_msg_00000620_00029",
-      "en_US": "a Dragon Tamer"
+      "en_US": "a Dragon Tamer",
+      "fr_FR": "Dracologue"
     },
     {
       "id": "pl_msg_00000620_00030",
-      "en_US": "a Bird Keeper"
+      "en_US": "a Bird Keeper",
+      "fr_FR": "Ornithologue"
     },
     {
       "id": "pl_msg_00000620_00031",
-      "en_US": "a Double Team"
+      "en_US": "a Double Team",
+      "fr_FR": "Duo"
     },
     {
       "id": "pl_msg_00000620_00032",
-      "en_US": "a Rich Boy"
+      "en_US": "a Rich Boy",
+      "fr_FR": "Richard"
     },
     {
       "id": "pl_msg_00000620_00033",
-      "en_US": "a Lady"
+      "en_US": "a Lady",
+      "fr_FR": "Mademoiselle"
     },
     {
       "id": "pl_msg_00000620_00034",
-      "en_US": "a Gentleman"
+      "en_US": "a Gentleman",
+      "fr_FR": "Gentleman"
     },
     {
       "id": "pl_msg_00000620_00035",
-      "en_US": "a Socialite"
+      "en_US": "a Socialite",
+      "fr_FR": "Mondaine"
     },
     {
       "id": "pl_msg_00000620_00036",
-      "en_US": "a Beauty"
+      "en_US": "a Beauty",
+      "fr_FR": "Canon"
     },
     {
       "id": "pl_msg_00000620_00037",
-      "en_US": "a Collector"
+      "en_US": "a Collector",
+      "fr_FR": "Collec"
     },
     {
       "id": "pl_msg_00000620_00038",
-      "en_US": "a Policeman"
+      "en_US": "a Policeman",
+      "fr_FR": "Agent"
     },
     {
       "id": "pl_msg_00000620_00039",
-      "en_US": "a ₧₦ Ranger"
+      "en_US": "a ₧₦ Ranger",
+      "fr_FR": "₧₦ Ranger"
     },
     {
       "id": "pl_msg_00000620_00040",
-      "en_US": "a ₧₦ Ranger"
+      "en_US": "a ₧₦ Ranger",
+      "fr_FR": "₧₦ Ranger"
     },
     {
       "id": "pl_msg_00000620_00041",
-      "en_US": "a Scientist"
+      "en_US": "a Scientist",
+      "fr_FR": "Scientifique"
     },
     {
       "id": "pl_msg_00000620_00042",
-      "en_US": "a Swimmer♂"
+      "en_US": "a Swimmer♂",
+      "fr_FR": "Nageur"
     },
     {
       "id": "pl_msg_00000620_00043",
-      "en_US": "a Swimmer♀"
+      "en_US": "a Swimmer♀",
+      "fr_FR": "Nageuse"
     },
     {
       "id": "pl_msg_00000620_00044",
-      "en_US": "a Tuber"
+      "en_US": "a Tuber",
+      "fr_FR": "Flotteur"
     },
     {
       "id": "pl_msg_00000620_00045",
-      "en_US": "a Tuber"
+      "en_US": "a Tuber",
+      "fr_FR": "Flotteur"
     },
     {
       "id": "pl_msg_00000620_00046",
-      "en_US": "a Sailor"
+      "en_US": "a Sailor",
+      "fr_FR": "Marin"
     },
     {
       "id": "pl_msg_00000620_00047",
-      "en_US": "a Sis and Bro"
+      "en_US": "a Sis and Bro",
+      "fr_FR": "Frère & Sœur"
     },
     {
       "id": "pl_msg_00000620_00048",
-      "en_US": "a Ruin Maniac"
+      "en_US": "a Ruin Maniac",
+      "fr_FR": "Ruinemaniac"
     },
     {
       "id": "pl_msg_00000620_00049",
-      "en_US": "a Psychic"
+      "en_US": "a Psychic",
+      "fr_FR": "Kinésiste"
     },
     {
       "id": "pl_msg_00000620_00050",
-      "en_US": "a Psychic"
+      "en_US": "a Psychic",
+      "fr_FR": "Kinésiste"
     },
     {
       "id": "pl_msg_00000620_00051",
-      "en_US": "a PI"
+      "en_US": "a PI",
+      "fr_FR": "Croupier"
     },
     {
       "id": "pl_msg_00000620_00052",
-      "en_US": "a Guitarist"
+      "en_US": "a Guitarist",
+      "fr_FR": "Guitariste"
     },
     {
       "id": "pl_msg_00000620_00053",
-      "en_US": "an Ace Trainer"
+      "en_US": "an Ace Trainer",
+      "fr_FR": "Topdresseur"
     },
     {
       "id": "pl_msg_00000620_00054",
-      "en_US": "an Ace Trainer"
+      "en_US": "an Ace Trainer",
+      "fr_FR": "Topdresseur"
     },
     {
       "id": "pl_msg_00000620_00055",
-      "en_US": "a Skier"
+      "en_US": "a Skier",
+      "fr_FR": "Skieur"
     },
     {
       "id": "pl_msg_00000620_00056",
-      "en_US": "a Skier"
+      "en_US": "a Skier",
+      "fr_FR": "Skieuse"
     },
     {
       "id": "pl_msg_00000620_00057",
-      "en_US": "a Roughneck"
+      "en_US": "a Roughneck",
+      "fr_FR": "Loubard"
     },
     {
       "id": "pl_msg_00000620_00058",
-      "en_US": "a Clown"
+      "en_US": "a Clown",
+      "fr_FR": "Bouffon"
     },
     {
       "id": "pl_msg_00000620_00059",
-      "en_US": "a Worker"
+      "en_US": "a Worker",
+      "fr_FR": "Ouvrier"
     },
     {
       "id": "pl_msg_00000620_00060",
-      "en_US": "a School Kid"
+      "en_US": "a School Kid",
+      "fr_FR": "Elève"
     },
     {
       "id": "pl_msg_00000620_00061",
-      "en_US": "a School Kid"
+      "en_US": "a School Kid",
+      "fr_FR": "Elève"
     },
     {
       "id": "pl_msg_00000620_00062",
-      "en_US": "a Leader"
+      "en_US": "a Leader",
+      "fr_FR": "Champion"
     },
     {
       "id": "pl_msg_00000620_00063",
-      "en_US": "a ₧₦ Trainer"
+      "en_US": "a ₧₦ Trainer",
+      "fr_FR": "Dresseur"
     },
     {
       "id": "pl_msg_00000620_00064",
-      "en_US": "a Leader"
+      "en_US": "a Leader",
+      "fr_FR": "Champion"
     },
     {
       "id": "pl_msg_00000620_00065",
-      "en_US": "an Elite Four"
+      "en_US": "an Elite Four",
+      "fr_FR": "Conseil 4"
     },
     {
       "id": "pl_msg_00000620_00066",
-      "en_US": "an Elite Four"
+      "en_US": "an Elite Four",
+      "fr_FR": "Conseil 4"
     },
     {
       "id": "pl_msg_00000620_00067",
-      "en_US": "an Elite Four"
+      "en_US": "an Elite Four",
+      "fr_FR": "Conseil 4"
     },
     {
       "id": "pl_msg_00000620_00068",
-      "en_US": "an Elite Four"
+      "en_US": "an Elite Four",
+      "fr_FR": "Conseil 4"
     },
     {
       "id": "pl_msg_00000620_00069",
-      "en_US": "a Champion"
+      "en_US": "a Champion",
+      "fr_FR": "Maître"
     },
     {
       "id": "pl_msg_00000620_00070",
-      "en_US": "a Belle & Pa"
+      "en_US": "a Belle & Pa",
+      "fr_FR": "Fille & Père"
     },
     {
       "id": "pl_msg_00000620_00071",
-      "en_US": "a Rancher"
+      "en_US": "a Rancher",
+      "fr_FR": "Fermier"
     },
     {
       "id": "pl_msg_00000620_00072",
-      "en_US": "a Commander"
+      "en_US": "a Commander",
+      "fr_FR": "Commandant"
     },
     {
       "id": "pl_msg_00000620_00073",
-      "en_US": "a Galactic"
+      "en_US": "a Galactic",
+      "fr_FR": "Galaxie"
     },
     {
       "id": "pl_msg_00000620_00074",
-      "en_US": "a Leader"
+      "en_US": "a Leader",
+      "fr_FR": "Champion"
     },
     {
       "id": "pl_msg_00000620_00075",
-      "en_US": "a Leader"
+      "en_US": "a Leader",
+      "fr_FR": "Champion"
     },
     {
       "id": "pl_msg_00000620_00076",
-      "en_US": "a Leader"
+      "en_US": "a Leader",
+      "fr_FR": "Champion"
     },
     {
       "id": "pl_msg_00000620_00077",
-      "en_US": "a Leader"
+      "en_US": "a Leader",
+      "fr_FR": "Champion"
     },
     {
       "id": "pl_msg_00000620_00078",
-      "en_US": "a Leader"
+      "en_US": "a Leader",
+      "fr_FR": "Champion"
     },
     {
       "id": "pl_msg_00000620_00079",
-      "en_US": "a Leader"
+      "en_US": "a Leader",
+      "fr_FR": "Champion"
     },
     {
       "id": "pl_msg_00000620_00080",
-      "en_US": "a Parasol Lady"
+      "en_US": "a Parasol Lady",
+      "fr_FR": "Sœur Parasol"
     },
     {
       "id": "pl_msg_00000620_00081",
-      "en_US": "a Waiter"
+      "en_US": "a Waiter",
+      "fr_FR": "Serveur"
     },
     {
       "id": "pl_msg_00000620_00082",
-      "en_US": "the Interviewers"
+      "en_US": "the Interviewers",
+      "fr_FR": "Journalistes"
     },
     {
       "id": "pl_msg_00000620_00083",
-      "en_US": "a Cameraman"
+      "en_US": "a Cameraman",
+      "fr_FR": "Caméraman"
     },
     {
       "id": "pl_msg_00000620_00084",
-      "en_US": "a Reporter"
+      "en_US": "a Reporter",
+      "fr_FR": "Interviewer"
     },
     {
       "id": "pl_msg_00000620_00085",
-      "en_US": "an Idol"
+      "en_US": "an Idol",
+      "fr_FR": "Star"
     },
     {
       "id": "pl_msg_00000620_00086",
-      "en_US": "a Galactic Boss"
+      "en_US": "a Galactic Boss",
+      "fr_FR": "Chef Galaxie"
     },
     {
       "id": "pl_msg_00000620_00087",
-      "en_US": "a Commander"
+      "en_US": "a Commander",
+      "fr_FR": "Commandant"
     },
     {
       "id": "pl_msg_00000620_00088",
-      "en_US": "a Commander"
+      "en_US": "a Commander",
+      "fr_FR": "Commandant"
     },
     {
       "id": "pl_msg_00000620_00089",
-      "en_US": "a Galactic"
+      "en_US": "a Galactic",
+      "fr_FR": "Galaxie"
     },
     {
       "id": "pl_msg_00000620_00090",
-      "en_US": "a ₧₦ Trainer"
+      "en_US": "a ₧₦ Trainer",
+      "fr_FR": "Dresseur"
     },
     {
       "id": "pl_msg_00000620_00091",
-      "en_US": "a ₧₦ Trainer"
+      "en_US": "a ₧₦ Trainer",
+      "fr_FR": "Dresseur"
     },
     {
       "id": "pl_msg_00000620_00092",
-      "en_US": "a ₧₦ Trainer"
+      "en_US": "a ₧₦ Trainer",
+      "fr_FR": "Dresseur"
     },
     {
       "id": "pl_msg_00000620_00093",
-      "en_US": "a ₧₦ Trainer"
+      "en_US": "a ₧₦ Trainer",
+      "fr_FR": "Dresseur"
     },
     {
       "id": "pl_msg_00000620_00094",
-      "en_US": "a ₧₦ Trainer"
+      "en_US": "a ₧₦ Trainer",
+      "fr_FR": "Dresseur"
     },
     {
       "id": "pl_msg_00000620_00095",
-      "en_US": "a ₧₦ Trainer"
+      "en_US": "a ₧₦ Trainer",
+      "fr_FR": "Dresseur"
     },
     {
       "id": "pl_msg_00000620_00096",
-      "en_US": "a ₧₦ Trainer"
+      "en_US": "a ₧₦ Trainer",
+      "fr_FR": "Dresseur"
     },
     {
       "id": "pl_msg_00000620_00097",
-      "en_US": "a Tower Tycoon"
+      "en_US": "a Tower Tycoon",
+      "fr_FR": "Aigle Tour"
     },
     {
       "id": "pl_msg_00000620_00098",
-      "en_US": "a Maid"
+      "en_US": "a Maid",
+      "fr_FR": "Gouvernante"
     },
     {
       "id": "pl_msg_00000620_00099",
-      "en_US": "a Hall Matron"
+      "en_US": "a Hall Matron",
+      "fr_FR": "Lady Scène"
     },
     {
       "id": "pl_msg_00000620_00100",
-      "en_US": "a Factory Head"
+      "en_US": "a Factory Head",
+      "fr_FR": "Chef d’Usine"
     },
     {
       "id": "pl_msg_00000620_00101",
-      "en_US": "an Arcade Star"
+      "en_US": "an Arcade Star",
+      "fr_FR": "Diva Arcade"
     },
     {
       "id": "pl_msg_00000620_00102",
-      "en_US": "a Castle Valet"
+      "en_US": "a Castle Valet",
+      "fr_FR": "Chambellan"
     },
     {
       "id": "pl_msg_00000620_00103",
-      "en_US": "a ₧₦ Trainer"
+      "en_US": "a ₧₦ Trainer",
+      "fr_FR": "Dresseur"
     },
     {
       "id": "pl_msg_00000620_00104",
-      "en_US": "a ₧₦ Trainer"
+      "en_US": "a ₧₦ Trainer",
+      "fr_FR": "Dresseur"
     }
   ]
 }

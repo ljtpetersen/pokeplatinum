@@ -27,5 +27,13 @@
   "fieldUseFunc": "ITEM_USE_FUNC_TM_HM",
   "battleUseCategory": "BATTLE_USE_CATEGORY_NONE",
   "itemUseParams": null,
-  "teachesMove": "MOVE_POISON_JAB"
+  "teachesMove": "MOVE_POISON_JAB",
+  "name_fr": "CT84",
+  "description_fr": [
+    "Attaque l’ennemi avec un tentacule ou\n",
+    "un bras plein de poison. Peut aussi\n",
+    "l’empoisonner."
+  ],
+  "plural_fr": "CT84",
+  "article_fr": null
 }

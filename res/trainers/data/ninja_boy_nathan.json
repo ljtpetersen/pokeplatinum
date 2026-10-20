@@ -32,17 +32,27 @@
             "en_US": [
                 "We ninjas appear where you least\n",
                 "expect us!\r"
+            ],
+            "fr_FR": [
+                "Nous, les ninjas, on surgit quand\n",
+                "on s’y attend le moins!\r"
             ]
         },
         {
             "type": "TRMSG_DEFEAT",
-            "en_US": "I didn’t expect to lose...\n"
+            "en_US": "I didn’t expect to lose...\n",
+            "fr_FR": "Je ne m’attendais pas à perdre...\n"
         },
         {
             "type": "TRMSG_POST_BATTLE",
             "en_US": [
                 "While hiding, I think about what Pokémon\n",
                 "must be thinking inside their Poké Balls.\n"
+            ],
+            "fr_FR": [
+                "Quand je me cache, je réfléchis à ce que\n",
+                "les Pokémon se disent lorsqu’ils sont\f",
+                "dans une Poké Ball."
             ]
         },
         {
@@ -50,7 +60,12 @@
             "en_US": [
                 "Wah! Another chance encounter with\n",
                 "a foe who defeated me before!\r"
+            ],
+            "fr_FR": [
+                "Ouah! Encore un combat imprévu contre\n",
+                "un adversaire qui m’a déjà vaincu!\r"
             ]
         }
-    ]
+    ],
+    "name_fr": "Rémy"
 }

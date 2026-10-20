@@ -12,6 +12,15 @@
         "awfully strong, too.\r",
         "She evolved from my bride to the\n",
         "mother of our kids."
+      ],
+      "fr_FR": [
+        "Les APITRINI sont de curieux Pokémon.\r",
+        "Seule la femelle évolue et gagne en\n",
+        "force. Pas le mâle.\r",
+        "D’ailleurs, ma femme aussi est\n",
+        "sacrément forte.\r",
+        "Au début, elle était mon épouse, et elle\n",
+        "a évolué en mère de famille."
       ]
     },
     {
@@ -23,6 +32,14 @@
         "them together.\r",
         "I’ll give you a Macho Brace if you do\n",
         "that for me. Deal?"
+      ],
+      "fr_FR": [
+        "Hé, tu as attrapé un APITRINI mâle et\n",
+        "un APITRINI femelle?\r",
+        "Si c’est le cas, je voudrais les voir\n",
+        "ensemble.\r",
+        "Je te donnerai un Brac. Macho pour te\n",
+        "remercier. OK?"
       ]
     },
     {
@@ -36,6 +53,15 @@
         "together, OK?\r",
         "I’ll give you a Macho Brace if you do\n",
         "that for me."
+      ],
+      "fr_FR": [
+        "Ooh, tu n’as pas un seul APITRINI?\r",
+        "C’est si mignon la façon dont ils sont\n",
+        "attirés par l’odeur du Miel.\r",
+        "Reviens avec un APITRINI mâle et un\n",
+        "femelle, d’accord?\r",
+        "Si tu fais ça pour moi, je te donnerai\n",
+        "un Brac. Macho."
       ]
     },
     {
@@ -51,6 +77,17 @@
         "female at the same time.\r",
         "I’ll give you a Macho Brace if you do\n",
         "that for me."
+      ],
+      "fr_FR": [
+        "C’en est un! Un APITRINI!\r",
+        "Cela dit, ce serait encore mieux si tu en\n",
+        "avais aussi un du sexe opposé.\r",
+        "A ce propos, les APITRINI femelles sont\n",
+        "aussi rares que recherchés.\r",
+        "Ce serait vraiment super de voir un mâle\n",
+        "et une femelle en même temps.\r",
+        "Si tu me les amènes, je te donnerai un\n",
+        "Brac. Macho."
       ]
     },
     {
@@ -60,6 +97,12 @@
         "I feel giddy!\r",
         "Here’s your reward like I promised.\n",
         "Go ahead, take it!\r"
+      ],
+      "fr_FR": [
+        "Cool! Un APITRINI mâle et un femelle.\n",
+        "Je me sens tout chose!\r",
+        "Voilà ta récompense, comme promis.\n",
+        "Attrape!\r"
       ]
     },
     {
@@ -67,6 +110,10 @@
       "en_US": [
         "Whoops, your Bag is crammed full!\n",
         "I’ll give this to you later."
+      ],
+      "fr_FR": [
+        "Oups, ton Sac est plein à craquer!\n",
+        "Je t’offrirai ça plus tard."
       ]
     },
     {
@@ -74,6 +121,10 @@
       "en_US": [
         "You’re good!\n",
         "You’d make an awesome Bug Maniac!"
+      ],
+      "fr_FR": [
+        "T’as du talent!\n",
+        "Tu ferais un Entomomaniac d’exception!"
       ]
     }
   ]

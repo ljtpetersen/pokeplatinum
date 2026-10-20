@@ -8,6 +8,12 @@
         "in a word, it’d be...\r",
         "Shockingly electric!\r",
         "Whoops, that’s two words!"
+      ],
+      "fr_FR": [
+        "Si je devais décrire l’Arène de\n",
+        "Rivamar en un mot, ce serait...\r",
+        "Du tonnerre!\r",
+        "Ah mince, ça fait deux mots!"
       ]
     },
     {
@@ -19,6 +25,14 @@
         "he doesn’t get bored.\r",
         "People get up to no good if they have\n",
         "too much time on their hands."
+      ],
+      "fr_FR": [
+        "Il paraît que Tanguy, le Champion\n",
+        "d’Arène de Rivamar, s’ennuie\f",
+        "ces temps-ci.\r",
+        "Il lui faudrait des adversaires\n",
+        "à sa taille.\r",
+        "L’ennui est le pire ennemi de l’homme."
       ]
     }
   ]

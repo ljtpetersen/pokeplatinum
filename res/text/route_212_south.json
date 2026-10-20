@@ -6,6 +6,10 @@
       "en_US": [
         "You can zip across fallen logs like\n",
         "bridges on your Bike."
+      ],
+      "fr_FR": [
+        "Avec ta Bicyclette, tu peux rouler sur\n",
+        "les rondins comme sur des ponts."
       ]
     },
     {
@@ -16,6 +20,13 @@
         "This is a full-body mud pack.\r",
         "If it weren’t, I would be squirming\n",
         "and struggling to get out!"
+      ],
+      "fr_FR": [
+        "Si je suis coincée dans la tourbe?\r",
+        "Bien sûr que non, quelle sottise!\n",
+        "Je prends un bain de boue!\r",
+        "Sinon tu me verrais me débattre\n",
+        "pour essayer d’en sortir!"
       ]
     },
     {
@@ -27,6 +38,14 @@
         "different Pokémon.\r",
         "I feel so privileged and happy about\n",
         "that."
+      ],
+      "fr_FR": [
+        "Tu connais le Grand Marais?\n",
+        "Et le Manoir Pokémon?\r",
+        "Où que j’aille, je rencontre de\n",
+        "nouveaux Pokémon.\r",
+        "C’est un véritable honneur, je suis\n",
+        "comblé."
       ]
     },
     {
@@ -34,6 +53,10 @@
       "en_US": [
         "We’re on constant patrol.\n",
         "It’s safe here, even at night."
+      ],
+      "fr_FR": [
+        "On patrouille constamment.\n",
+        "Même la nuit, les gens sont en sécurité."
       ]
     },
     {
@@ -41,6 +64,10 @@
       "en_US": [
         "Rt. 212\n",
         "Pastoria City"
+      ],
+      "fr_FR": [
+        "Route 212\n",
+        "Verchamps"
       ]
     },
     {
@@ -48,7 +75,8 @@
       "en_US": [
         "Shards Wanted\n",
         "Pokémon Moves Taught"
-      ]
+      ],
+      "fr_FR": "Enseigne capacités contre Tessons"
     },
     {
       "id": "Route212South_Text_TrainerTipsBog",
@@ -60,6 +88,15 @@
         "Just struggle and squirm for a bit.\r",
         "Bicycles cannot be ridden on marshy\n",
         "ground, incidentally."
+      ],
+      "fr_FR": [
+        "Conseils aux Dresseurs\r",
+        "Si vous tombez dans la tourbe, il vous\n",
+        "faudra un bout de temps pour en sortir.\r",
+        "Inutile de paniquer, vous n’avez qu’à\n",
+        "gigoter pour vous extirper.\r",
+        "Par contre, vous ne pouvez pas faire de\n",
+        "Bicyclette en sol marécageux."
       ]
     }
   ]

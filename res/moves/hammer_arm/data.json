@@ -27,5 +27,13 @@
     "contest": {
         "effect": "CONTEST_EFFECT_LAST_NEXT_TURN",
         "type": "CONTEST_TYPE_COOL"
-    }
+    },
+    "name_fr": "Marto-Poing",
+    "description_fr": [
+        "Le lanceur lâche un\n",
+        "puissant coup de poing\n",
+        "sur l’ennemi. Mais\n",
+        "réduit la Vitesse du\n",
+        "lanceur."
+    ]
 }

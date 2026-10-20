@@ -27,11 +27,17 @@
                 "I see it...\n",
                 "I see it...\r",
                 "I see you going down in defeat...\r"
+            ],
+            "fr_FR": [
+                "Je la vois...\n",
+                "Je la vois...\r",
+                "Je vois ta défaite imminente...\r"
             ]
         },
         {
             "type": "TRMSG_DEFEAT",
-            "en_US": "It is I that has gone down in defeat."
+            "en_US": "It is I that has gone down in defeat.",
+            "fr_FR": "C’est moi qui ai connu la défaite."
         },
         {
             "type": "TRMSG_POST_BATTLE",
@@ -40,7 +46,14 @@
                 "There should be none alive in it...\r",
                 "And yet there is a pervasive sense of\n",
                 "a presence..."
+            ],
+            "fr_FR": [
+                "Le Vieux Château...\n",
+                "Personne ne vit là-bas...\r",
+                "Et pourtant, impossible de ne\n",
+                "pas y sentir une présence..."
             ]
         }
-    ]
+    ],
+    "name_fr": "Jessica"
 }

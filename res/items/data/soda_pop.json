@@ -28,5 +28,12 @@
   "battleUseCategory": "BATTLE_USE_CATEGORY_HEALING",
   "itemUseParams": {
     "hpRestored": 60
-  }
+  },
+  "name_fr": "Soda Cool",
+  "description_fr": [
+    "Une boisson pétillante.\n",
+    "Restaure 60 PV à un Pokémon."
+  ],
+  "plural_fr": "Soda Cool",
+  "article_fr": null
 }

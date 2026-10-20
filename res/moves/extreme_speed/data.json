@@ -28,5 +28,13 @@
     "contest": {
         "effect": "CONTEST_EFFECT_FIRST_NEXT_TURN",
         "type": "CONTEST_TYPE_COOL"
-    }
+    },
+    "name_fr": "Vit.Extrême",
+    "description_fr": [
+        "Le lanceur charge\n",
+        "à une vitesse\n",
+        "renversante.\n",
+        "Cette attaque a\n",
+        "l’initiative."
+    ]
 }

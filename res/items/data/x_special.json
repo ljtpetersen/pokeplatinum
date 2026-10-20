@@ -30,5 +30,13 @@
     "spatkStages": 1,
     "friendshipLow": 1,
     "friendshipMed": 1
-  }
+  },
+  "name_fr": "Spécial +",
+  "description_fr": [
+    "Monte l’Atq. Spé. pendant un combat.\n",
+    "L’effet s’estompe si le Pokémon se\n",
+    "retire."
+  ],
+  "plural_fr": "Spécial +",
+  "article_fr": null
 }

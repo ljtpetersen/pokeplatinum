@@ -9,6 +9,13 @@
         "2\n",
         "1\n",
         "0"
+      ],
+      "fr_FR": [
+        "4\n",
+        "3\n",
+        "2\n",
+        "1\n",
+        "0"
       ]
     },
     {
@@ -19,58 +26,80 @@
         "7\n",
         "6\n",
         "5"
+      ],
+      "fr_FR": [
+        "9\n",
+        "8\n",
+        "7\n",
+        "6\n",
+        "5"
       ]
     },
     {
       "id": "pl_msg_00000009_00002",
-      "en_US": "cc"
+      "en_US": "cc",
+      "fr_FR": " ml"
     },
     {
       "id": "pl_msg_00000009_00003",
       "en_US": [
         "Press the WOBBUFFET pump and pop\n",
         "balloons together!"
+      ],
+      "fr_FR": [
+        "Utilisez la pompe QULBUTOKE pour\n",
+        "faire éclater des ballons."
       ]
     },
     {
       "id": "pl_msg_00000009_00004",
-      "en_US": "0"
+      "en_US": "0",
+      "fr_FR": "0"
     },
     {
       "id": "pl_msg_00000009_00005",
-      "en_US": "1"
+      "en_US": "1",
+      "fr_FR": "1"
     },
     {
       "id": "pl_msg_00000009_00006",
-      "en_US": "2"
+      "en_US": "2",
+      "fr_FR": "2"
     },
     {
       "id": "pl_msg_00000009_00007",
-      "en_US": "3"
+      "en_US": "3",
+      "fr_FR": "3"
     },
     {
       "id": "pl_msg_00000009_00008",
-      "en_US": "4"
+      "en_US": "4",
+      "fr_FR": "4"
     },
     {
       "id": "pl_msg_00000009_00009",
-      "en_US": "5"
+      "en_US": "5",
+      "fr_FR": "5"
     },
     {
       "id": "pl_msg_00000009_00010",
-      "en_US": "6"
+      "en_US": "6",
+      "fr_FR": "6"
     },
     {
       "id": "pl_msg_00000009_00011",
-      "en_US": "7"
+      "en_US": "7",
+      "fr_FR": "7"
     },
     {
       "id": "pl_msg_00000009_00012",
-      "en_US": "8"
+      "en_US": "8",
+      "fr_FR": "8"
     },
     {
       "id": "pl_msg_00000009_00013",
-      "en_US": "9"
+      "en_US": "9",
+      "fr_FR": "9"
     }
   ]
 }

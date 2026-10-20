@@ -28,5 +28,13 @@
     "contest": {
         "effect": "CONTEST_EFFECT_MAX_VOLTAGE_ADVANTAGE",
         "type": "CONTEST_TYPE_TOUGH"
-    }
+    },
+    "name_fr": "Fracass’Tête",
+    "description_fr": [
+        "Le lanceur assène\n",
+        "un coup de tête\n",
+        "désespéré. Blesse\n",
+        "aussi gravement le\n",
+        "lanceur."
+    ]
 }

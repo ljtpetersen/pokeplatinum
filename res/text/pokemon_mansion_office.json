@@ -16,6 +16,22 @@
         "the garden!\r",
         "You’re welcome to join them and\n",
         "marvel at my garden!"
+      ],
+      "fr_FR": [
+        "M. Décorum: Bonjour, bonjour!\n",
+        "Bienvenue dans mon manoir opulent!\r",
+        "J’ai de nombreuses raisons d’être fier,\n",
+        "qu’il s’agisse du manoir ou du reste...\r",
+        "Mais ma plus grande fierté, c’est\n",
+        "mon Jardin Trophée, qui se trouve\f",
+        "derrière le manoir!\r",
+        "Pourquoi me fatiguer à voyager quand\n",
+        "les Pokémon viennent directement\f",
+        "dans mon jardin?\r",
+        "Ils l’adorent, ils viennent exprès\n",
+        "pour ça!\r",
+        "Je t’invite à les rejoindre et à\n",
+        "profiter de ce site exceptionnel!"
       ]
     },
     {
@@ -40,6 +56,20 @@
         "the garden!\r",
         "Well, doesn’t that make you envious?\n",
         "You are envious, yes?"
+      ],
+      "fr_FR": [
+        "M. Décorum: Hum, hum!\r",
+        "J’ai de nombreuses raisons d’être fier,\n",
+        "qu’il s’agisse du manoir ou du reste...\r",
+        "Mais ce dont je suis le plus fier, c’est\n",
+        "mon Jardin Trophée!\r",
+        "Pourquoi me fatiguer à voyager quand\n",
+        "les Pokémon viennent directement\f",
+        "dans mon jardin?\r",
+        "Ils l’adorent, ils viennent exprès\n",
+        "pour ça!\r",
+        "Tu aimerais bien avoir ma chance, hein?\n",
+        "Allez, avoue!"
       ]
     },
     {
@@ -47,6 +77,10 @@
       "en_US": [
         "I know you’re really envious...\n",
         "You’re not fooling anyone..."
+      ],
+      "fr_FR": [
+        "Je sais bien que tu m’envies...\n",
+        "Ne me prends pas pour un imbécile..."
       ]
     },
     {
@@ -62,6 +96,18 @@
         "be to see me!\r",
         "Well? Doesn’t that make you envious?\n",
         "You are envious, yes?"
+      ],
+      "fr_FR": [
+        "M. Décorum: Muhohoho... Je m’en\n",
+        "doutais! J’en étais sûûûûûûûr!\r",
+        "Ah, ne t’en fais pas! Je suis content\n",
+        "de te faire partager mes histoires!\r",
+        "Donc! Quand je sors dans mon jardin\n",
+        "chéri, les Pokémon accourent.\r",
+        "Ils se faufilent jusqu’à moi avec\n",
+        "un air enjoué!\r",
+        "Alors? La jalousie te dévore, hein?\n",
+        "Tu voudrais bien être à ma place!"
       ]
     },
     {
@@ -77,6 +123,18 @@
         "which joyously ran over to me.\r",
         "The {STRVAR_1 0, 0, 0} ran up and gave me\n",
         "a smooch on my cheek...\r"
+      ],
+      "fr_FR": [
+        "M. Décorum: Muhohoho... Je l’aurais\n",
+        "parié! Je le savais!\r",
+        "Ah, ne t’en fais pas! Ça me fait plaisir\n",
+        "de partager ça avec toi!\r",
+        "Donc! Voici ce qui s’est passé quand je\n",
+        "suis allé dans mon jardin ce matin.\r",
+        "Un {STRVAR_1 0, 0, 0} aux yeux de biche s’est\n",
+        "approché de moi l’air guilleret.\r",
+        "Le {STRVAR_1 0, 0, 0} a couru jusqu’à moi\n",
+        "pour me faire un bisou sur la joue...\r"
       ]
     },
     {
@@ -85,6 +143,11 @@
         "Butler: M-Master!\n",
         "Th-that Pokémon you mentioned...\f",
         "It doesn’t exist in the garden...\r"
+      ],
+      "fr_FR": [
+        "Valet: Si je puis me permettre... Ce\n",
+        "Pokémon dont vous parlez, Monsieur...\f",
+        "Il n’existe pas dans le jardin...\r"
       ]
     },
     {
@@ -96,6 +159,14 @@
         "I’m no blowhard!\r",
         "Listen... Mutter, mutter...\n",
         "Whisper, whisper...\r"
+      ],
+      "fr_FR": [
+        "M. Décorum: Que...\r",
+        "...\r",
+        "Qu’est-ce que tu racontes?\n",
+        "Je n’ai rien d’un menteur!\r",
+        "Ecoute... pss... pss...\n",
+        "Compris?\r"
       ]
     },
     {
@@ -103,6 +174,10 @@
       "en_US": [
         "Butler: Yes, Master!\n",
         "Right away, sir!\r"
+      ],
+      "fr_FR": [
+        "Valet: Oui, Monsieur!\n",
+        "Tout de suite!\r"
       ]
     },
     {
@@ -112,6 +187,12 @@
         "No lies ever leave these lips!\r",
         "There really are cute {STRVAR_1 0, 0, 0}\n",
         "in my trophy garden! Honest truth!"
+      ],
+      "fr_FR": [
+        "M. Décorum: ... C’est vrai, je le jure!\n",
+        "Je n’ai jamais menti de ma vie!\r",
+        "Il y a de mignons {STRVAR_1 0, 0, 0} dans mon\n",
+        "Jardin Trophée!"
       ]
     },
     {
@@ -122,6 +203,13 @@
         "It’s on his orders that the garden,\n",
         "his pride and joy, is open to all,\f",
         "even Trainers."
+      ],
+      "fr_FR": [
+        "Valet: Monsieur est une personne\n",
+        "merveilleuse et généreuse!\r",
+        "Il a donné l’ordre que le jardin,\n",
+        "qui fait sa joie et sa fierté, soit\f",
+        "ouvert à tous, même aux Dresseurs."
       ]
     },
     {
@@ -130,6 +218,11 @@
         "Butler: Master actually quite enjoys\n",
         "showing his prized garden to strong\f",
         "Trainers."
+      ],
+      "fr_FR": [
+        "Valet: A vrai dire, Monsieur adore\n",
+        "montrer son jardin fétiche aux\f",
+        "Dresseurs de talent."
       ]
     },
     {
@@ -137,6 +230,10 @@
       "en_US": [
         "Butler: Master took a stroll in his\n",
         "trophy garden today, like usual."
+      ],
+      "fr_FR": [
+        "Valet: Comme toujours, Monsieur s’est\n",
+        "promené dans son jardin aujourd’hui."
       ]
     },
     {
@@ -146,6 +243,12 @@
         "some {STRVAR_1 0, 0, 0}, weren’t there?\r",
         "But that’s only to be expected.\n",
         "It’s Master’s trophy garden."
+      ],
+      "fr_FR": [
+        "Valet: Tu les as vus? Tu as croisé\n",
+        "des {STRVAR_1 0, 0, 0}, n’est-ce pas?\r",
+        "Quoi de plus normal...\n",
+        "C’est le Jardin Trophée de Monsieur."
       ]
     },
     {
@@ -157,6 +260,15 @@
         "rare Pokémon, yes?\r",
         "But that’s only to be expected.\n",
         "It’s Master’s trophy garden."
+      ],
+      "fr_FR": [
+        "Valet: Tu le trouves comment? Je parle\n",
+        "du Jardin Trophée de Monsieur.\f",
+        "Il a fait l’objet de réaménagements.\r",
+        "Tu as remarqué l’afflux de\n",
+        "Pokémon rares, non?\r",
+        "Quoi de plus normal...\n",
+        "C’est le Jardin Trophée de Monsieur."
       ]
     },
     {
@@ -164,6 +276,10 @@
       "en_US": [
         "You may look, but please refrain from\n",
         "touching this Pokémon statue."
+      ],
+      "fr_FR": [
+        "Tu peux la regarder, mais évite de\n",
+        "toucher cette statue Pokémon."
       ]
     },
     {
@@ -171,6 +287,10 @@
       "en_US": [
         "I’m very sorry. But please refrain\n",
         "from touching this statue.\r"
+      ],
+      "fr_FR": [
+        "Je suis désolé, mais tu ne dois pas\n",
+        "toucher cette statue.\r"
       ]
     },
     {
@@ -180,6 +300,12 @@
         "statue...\r",
         "...!\n",
         "You got fingerprints on it..."
+      ],
+      "fr_FR": [
+        "Cette statue Pokémon a l’air\n",
+        "hors de prix...\r",
+        "...! Hum, oh... Vous venez d’y \n",
+        "déposer vos empreintes..."
       ]
     },
     {
@@ -188,6 +314,11 @@
         "It’s a very expensive-looking book\n",
         "on Pokémon.\r",
         "Would you like to read it?"
+      ],
+      "fr_FR": [
+        "C’est un livre hors de prix à\n",
+        "propos des Pokémon.\r",
+        "Le lire?"
       ]
     },
     {
@@ -197,6 +328,11 @@
         "An extremely rare Pokémon that has\n",
         "never been seen, let alone captured,\f",
         "in Sinnoh.\r"
+      ],
+      "fr_FR": [
+        "MANAPHY\r",
+        "Pokémon extrêmement rare que personne\n",
+        "n’a jamais vu ni capturé à Sinnoh.\r"
       ]
     },
     {
@@ -204,11 +340,16 @@
       "en_US": [
         "Information on MANAPHY was added to\n",
         "the Pokédex."
+      ],
+      "fr_FR": [
+        "Les données de MANAPHY ont été\n",
+        "ajoutées au Pokédex."
       ]
     },
     {
       "id": "PokemonMansionOffice_Text_PlayerPutBookBack",
-      "en_US": "{STRVAR_1 3, 0, 0} put the book back."
+      "en_US": "{STRVAR_1 3, 0, 0} put the book back.",
+      "fr_FR": "{STRVAR_1 3, 0, 0} remet le livre en place."
     }
   ]
 }

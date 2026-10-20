@@ -83,6 +83,10 @@
             "en_US": [
                 "A good breeze has sprung up...\n",
                 "This is good! I can win this!"
+            ],
+            "fr_FR": [
+                "Le vent s’est levé dehors...\n",
+                "C’est bon signe! Je vais gagner!"
             ]
         },
         {
@@ -90,6 +94,10 @@
             "en_US": [
                 "The tailwind put us over the top!\n",
                 "...As they say!\r"
+            ],
+            "fr_FR": [
+                "Le vent nous a poussés vers la\n",
+                "victoire! Je crois...\r"
             ]
         },
         {
@@ -97,7 +105,12 @@
             "en_US": [
                 "The headwind worked against us!\n",
                 "...As they say!\r"
+            ],
+            "fr_FR": [
+                "Finalement, c’est nous qui avons\n",
+                "pris un vent...\r"
             ]
         }
-    ]
+    ],
+    "name_fr": "Nanou"
 }

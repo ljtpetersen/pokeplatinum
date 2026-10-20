@@ -10,6 +10,14 @@
         "I am the loser in this after all!\r",
         "This is no time for self-pity!\n",
         "I’ve got to alert the Commander!\r"
+      ],
+      "fr_FR": [
+        "Quoi?! Pas possible!\n",
+        "Tu as la clé?\r",
+        "Fermer la porte n’aura servi à rien!\n",
+        "Je suis le perdant de l’histoire!\r",
+        "Pas le temps de m’apitoyer sur mon\n",
+        "sort! Je dois prévenir le Commandant!\r"
       ]
     },
     {
@@ -20,6 +28,13 @@
         "for messing this one up...\r",
         "Humph! Just you wait!\n",
         "Our Commander will smoosh you!"
+      ],
+      "fr_FR": [
+        "Mes Pokémon ne peuvent plus combattre.\r",
+        "Ils vont me les prendre pour me\n",
+        "punir...\r",
+        "Humpf! Attends, tu vas voir!\n",
+        "Notre Commandant va te le faire payer!"
       ]
     },
     {
@@ -41,6 +56,24 @@
         "If I win, you leave.\r",
         "If you win, we, Team Galactic, will\n",
         "leave!\r"
+      ],
+      "fr_FR": [
+        "Je suis l’un des trois Commandants de la\n",
+        "Team Galaxie.\r",
+        "Euh, non attends...\n",
+        "Un des quatre Commandants.\f",
+        "Mon nom est Mars!\r",
+        "Nous essayons de créer un nouveau\n",
+        "monde, meilleur que celui-ci...\r",
+        "Mais les gens ne montrent pas la moindre\n",
+        "compréhension envers ce que l’on fait.\r",
+        "Tu ne comprends pas non plus, hein?\n",
+        "C’est un peu triste...\r",
+        "Bon, battons-nous pour décider de ce\n",
+        "que l’on fera après.\r",
+        "Si je gagne, tu pars.\r",
+        "Si tu gagnes, nous autres, la Team\n",
+        "Galaxie, nous partirons!\r"
       ]
     },
     {
@@ -50,6 +83,12 @@
         "I messed that one up!\r",
         "That’s all right, though.\n",
         "I quite enjoyed our battle.\r"
+      ],
+      "fr_FR": [
+        "Mars: Oups!\n",
+        "J’ai complètement raté mon coup!\r",
+        "Mais ce n’est pas grave.\n",
+        "J’ai bien apprécié notre combat.\r"
       ]
     },
     {
@@ -64,6 +103,17 @@
         "It seems quite obvious to me, Charon,\n",
         "the genius even the boss recognizes.\r",
         "Now, Mars, we should be going.\r"
+      ],
+      "fr_FR": [
+        "Pluton: Mes aïeux. Ce moucheron t’a\n",
+        "battue à plate couture.\r",
+        "Enfin, peu importe.\n",
+        "Nous avons fait le plein d’électricité.\r",
+        "Avec toute cette énergie, nous allons\n",
+        "faire quelque chose de spectaculaire.\r",
+        "C’est l’évidence même pour moi, Pluton,\n",
+        "génie que même le patron révère.\r",
+        "Allons, Mars, il est temps de partir.\r"
       ]
     },
     {
@@ -75,6 +125,13 @@
         "You can keep quiet around me!\n",
         "You only joined us recently.\f",
         "Don’t think you’re important!\r"
+      ],
+      "fr_FR": [
+        "Mars: Tais-toi donc, vieux croûton!\r",
+        "Je n’ai pas d’ordre à recevoir de toi!\r",
+        "Tu ferais mieux de filer doux. Ça fait\n",
+        "peu de temps que tu nous as rejoints.\r",
+        "On peut très bien se passer de toi!\r"
       ]
     },
     {
@@ -82,6 +139,10 @@
       "en_US": [
         "I guess it’s time to say good-bye\n",
         "and leave for the time being!\r"
+      ],
+      "fr_FR": [
+        "Je pense qu’il est temps pour le moment\n",
+        "de nous dire au revoir et de partir!\r"
       ]
     },
     {
@@ -98,6 +159,19 @@
         "you saving me.\r",
         "I can finally see my little daughter\n",
         "again!\r"
+      ],
+      "fr_FR": [
+        "La Team Galaxie...\r",
+        "Ils disaient qu’ils devaient rassembler\n",
+        "les Pokémon et l’énergie à tout prix.\r",
+        "Ils disaient qu’ils voulaient créer un\n",
+        "nouvel univers.\r",
+        "Leurs divagations n’avaient aucun\n",
+        "sens pour moi.\r",
+        "Tu as toute ma gratitude pour m’avoir\n",
+        "sauvé.\r",
+        "Je vais enfin pouvoir revoir ma petite\n",
+        "fille chérie!\r"
       ]
     },
     {
@@ -106,6 +180,11 @@
         "Little girl: Papa!\r",
         "Yuck! Papa, you’re stinky!\n",
         "Go shower now, stinky!\r"
+      ],
+      "fr_FR": [
+        "Petite fille: Papa!\r",
+        "Beurk! Papa, tu sens mauvais!\n",
+        "T’as vraiment besoin d’une douche!\r"
       ]
     },
     {
@@ -113,6 +192,10 @@
       "en_US": [
         "Papa: Oh, sorry! Ahaha!\n",
         "They had me working nonstop!\r"
+      ],
+      "fr_FR": [
+        "Papa: Oh, désolé! Ah, ah, ah!\n",
+        "Ils m’ont fait travailler non-stop!\r"
       ]
     },
     {
@@ -122,6 +205,12 @@
         "You made those bad people go away!\r",
         "I think the balloon Pokémon will\n",
         "come visiting again!"
+      ],
+      "fr_FR": [
+        "Petite fille: Merci beaucoup!\n",
+        "Vous avez fait partir les méchants!\r",
+        "Je crois que le Pokémon en forme de\n",
+        "ballon reviendra nous voir bientôt!"
       ]
     },
     {
@@ -134,6 +223,16 @@
         "Could its appearance have something\n",
         "to do with this windworks using\f",
         "wind-generated energy?"
+      ],
+      "fr_FR": [
+        "Papa: Ah, oui, un Pokémon en forme\n",
+        "de ballon apparaît devant les\f",
+        "Eoliennes.\r",
+        "C’est toujours le même jour de la\n",
+        "semaine, mais je ne sais plus lequel.\r",
+        "Est-ce que son apparition a quelque\n",
+        "chose à voir avec l’énergie\f",
+        "éolienne?"
       ]
     },
     {
@@ -144,6 +243,14 @@
         "from the mountains in this canyon.\r",
         "We produce energy from the power of\n",
         "nature itself. It’s quite wonderful."
+      ],
+      "fr_FR": [
+        "Les Eoliennes utilisent des turbines\n",
+        "pour capturer l’énergie éolienne\f",
+        "arrivant des montagnes.\r",
+        "Nous produisons de l’énergie grâce au\n",
+        "pouvoir de la nature elle-même.\f",
+        "C’est assez merveilleux."
       ]
     },
     {
@@ -151,6 +258,10 @@
       "en_US": [
         "If the balloon Pokémon came,\n",
         "the wind would blow it away!"
+      ],
+      "fr_FR": [
+        "Si le Pokémon qui ressemble à un\n",
+        "ballon venait, le vent l’emporterait!"
       ]
     },
     {
@@ -167,6 +278,19 @@
         "on today.\r",
         "The dream energy.\n",
         "           Team Galactic"
+      ],
+      "fr_FR": [
+        "Artisan de la guerre...\r",
+        "Ta cible est l’énergie de la centrale\n",
+        "électrique.\r",
+        "Artisan de la plénitude...\r",
+        "Ta cible est la statue de Pokémon\n",
+        "de Vestigion.\r",
+        "Artisan de la vieillesse...\r",
+        "Ta cible est le Pokémon qui sommeille\n",
+        "depuis les temps anciens.\r",
+        "L’énergie de rêve.\n",
+        "           Team Galaxie"
       ]
     },
     {
@@ -175,6 +299,11 @@
         "The PC screen is filled with numbers\n",
         "upon numbers.\r",
         "Better not disturb it."
+      ],
+      "fr_FR": [
+        "L’écran du PC affiche un nombre\n",
+        "incalculable de chiffres.\r",
+        "Mieux vaut ne pas y toucher."
       ]
     }
   ]

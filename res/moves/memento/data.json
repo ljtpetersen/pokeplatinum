@@ -25,5 +25,13 @@
     "contest": {
         "effect": "CONTEST_EFFECT_ALL_SAME_JUDGE",
         "type": "CONTEST_TYPE_TOUGH"
-    }
+    },
+    "name_fr": "Souvenir",
+    "description_fr": [
+        "Le lanceur est mis\n",
+        "K.O., mais l’Attaque\n",
+        "et l’Atq. Spé. de\n",
+        "l’ennemi baissent\n",
+        "beaucoup."
+    ]
 }

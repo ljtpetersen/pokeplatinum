@@ -30,5 +30,13 @@
     "critStages": 1,
     "friendshipLow": 1,
     "friendshipMed": 1
-  }
+  },
+  "name_fr": "Muscle +",
+  "description_fr": [
+    "Monte le taux de critiques pendant\n",
+    "un combat. L’effet s’estompe si le\n",
+    "Pokémon se retire."
+  ],
+  "plural_fr": "Muscle +",
+  "article_fr": null
 }

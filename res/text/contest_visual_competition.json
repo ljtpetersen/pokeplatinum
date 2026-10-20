@@ -6,6 +6,10 @@
       "en_US": [
         "All right, thanks for your patience!\n",
         "Let’s begin the Visual Competition!\r"
+      ],
+      "fr_FR": [
+        "Très bien, merci pour votre patience!\n",
+        "Commençons l’Epreuve de Style!\r"
       ]
     },
     {
@@ -15,6 +19,12 @@
         "{STRVAR_1 3, 0, 0}!\r",
         "{STRVAR_1 3, 0, 0} has entered the Contest\n",
         "with {STRVAR_1 0, 1, 0}!\r"
+      ],
+      "fr_FR": [
+        "Denis: Concurrent numéro 1!\n",
+        "{STRVAR_1 3, 0, 0}!\r",
+        "{STRVAR_1 3, 0, 0} participe au Concours\n",
+        "avec {STRVAR_1 0, 1, 0}!\r"
       ]
     },
     {
@@ -24,6 +34,12 @@
         "{STRVAR_1 3, 0, 0}!\r",
         "{STRVAR_1 3, 0, 0} enters our Contest with\n",
         "{STRVAR_1 0, 1, 0}!\r"
+      ],
+      "fr_FR": [
+        "Denis: Concurrent numéro 2!\n",
+        "{STRVAR_1 3, 0, 0}!\r",
+        "{STRVAR_1 3, 0, 0} participe au Concours\n",
+        "avec {STRVAR_1 0, 1, 0}!\r"
       ]
     },
     {
@@ -33,6 +49,12 @@
         "{STRVAR_1 3, 0, 0}!\r",
         "{STRVAR_1 3, 0, 0} is in the Contest with\n",
         "{STRVAR_1 0, 1, 0}!\r"
+      ],
+      "fr_FR": [
+        "Denis: Concurrent numéro 3!\n",
+        "{STRVAR_1 3, 0, 0}!\r",
+        "{STRVAR_1 3, 0, 0} participe au Concours\n",
+        "avec {STRVAR_1 0, 1, 0}!\r"
       ]
     },
     {
@@ -42,6 +64,12 @@
         "{STRVAR_1 3, 0, 0}!\r",
         "{STRVAR_1 3, 0, 0}’s Contest hopes ride\n",
         "with {STRVAR_1 0, 1, 0}!\r"
+      ],
+      "fr_FR": [
+        "Denis: Concurrent numéro 4!\n",
+        "{STRVAR_1 3, 0, 0}!\r",
+        "{STRVAR_1 3, 0, 0} participe au Concours\n",
+        "avec {STRVAR_1 0, 1, 0}!\r"
       ]
     },
     {
@@ -49,6 +77,10 @@
       "en_US": [
         "The Dance Competition is next!\n",
         "Is everyone up and ready for this?!\r"
+      ],
+      "fr_FR": [
+        "C’est l’heure de l’Epreuve de Danse!\n",
+        "Tout le monde est prêt?\r"
       ]
     },
     {
@@ -104,6 +136,14 @@
         "I’ll pass over the MC duties to\n",
         "Dexter and call this a rehearsal!\f",
         "Dexter: Sure thing! I’ve got it!\r"
+      ],
+      "fr_FR": [
+        "OK, voyons comment les membres du\n",
+        "public réagissent face aux Pokémon\f",
+        "ayant participé à cet entraînement!\r",
+        "Je laisse ma place d’Animateur à Denis\n",
+        "après ce que j’appelle une répétition!\f",
+        "Denis: OK! Je m’en occupe!\r"
       ]
     }
   ]

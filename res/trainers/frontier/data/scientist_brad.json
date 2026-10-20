@@ -59,6 +59,10 @@
             "en_US": [
                 "I developed a special Pokémon drink.\n",
                 "Have some! Bottoms up!"
+            ],
+            "fr_FR": [
+                "J’ai mis au point une boisson Pokémon\n",
+                "au goût unique! Goûte donc!"
             ]
         },
         {
@@ -66,6 +70,10 @@
             "en_US": [
                 "Glug, glug... Belch!\n",
                 "It’ll make you strong! Don’t waste it!\r"
+            ],
+            "fr_FR": [
+                "Glou glou... Berk! Cette boisson te\n",
+                "rendra balèze. Fais-en bon usage!\r"
             ]
         },
         {
@@ -73,7 +81,12 @@
             "en_US": [
                 "My Pokémon drink contains no actual\n",
                 "Pokémon or their byproducts.\r"
+            ],
+            "fr_FR": [
+                "Ma boisson Pokémon est naturelle.\n",
+                "Et elle ne contient pas de Pokémon!\r"
             ]
         }
-    ]
+    ],
+    "name_fr": "Brad"
 }

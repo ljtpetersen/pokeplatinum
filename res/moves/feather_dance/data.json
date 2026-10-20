@@ -26,5 +26,13 @@
     "contest": {
         "effect": "CONTEST_EFFECT_NO_VOLTAGE_DOWN",
         "type": "CONTEST_TYPE_BEAUTY"
-    }
+    },
+    "name_fr": "Danse-Plume",
+    "description_fr": [
+        "Une montagne de\n",
+        "plumes ensevelit\n",
+        "l’ennemi et réduit\n",
+        "considérablement\n",
+        "son Attaque."
+    ]
 }

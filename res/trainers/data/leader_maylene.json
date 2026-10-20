@@ -58,18 +58,28 @@
             "en_US": [
                 "Oh!\n",
                 "But this isn’t the end, my friend!\n"
+            ],
+            "fr_FR": [
+                "Oh!\n",
+                "Mais ce n’est pas encore fini!\n"
             ]
         },
         {
             "type": "TRMSG_LAST_BATTLER_HALF_HP",
-            "en_US": "I’m in a bit of a bind, aren’t I?\n"
+            "en_US": "I’m in a bit of a bind, aren’t I?\n",
+            "fr_FR": "Je suis dans le pétrin, pas vrai?\n"
         },
         {
             "type": "TRMSG_DEFEAT",
             "en_US": [
                 "I shall admit defeat...\n",
                 "You are much too strong.\n"
+            ],
+            "fr_FR": [
+                "Je dois admettre ma défaite...\n",
+                "Je ne suis pas de taille contre toi.\n"
             ]
         }
-    ]
+    ],
+    "name_fr": "Mélina"
 }

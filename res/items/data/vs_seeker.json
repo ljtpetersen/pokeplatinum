@@ -26,5 +26,13 @@
   "battlePocket": "BATTLE_POCKET_MASK_NONE",
   "fieldUseFunc": "ITEM_USE_FUNC_VS_SEEKER",
   "battleUseCategory": "BATTLE_USE_CATEGORY_NONE",
-  "itemUseParams": null
+  "itemUseParams": null,
+  "name_fr": "Cherche VS",
+  "description_fr": [
+    "Un appareil indiquant les Dresseurs\n",
+    "prêts à se battre. La batterie se\n",
+    "recharge quand vous marchez."
+  ],
+  "plural_fr": "Cherche VS",
+  "article_fr": null
 }

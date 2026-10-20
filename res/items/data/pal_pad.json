@@ -26,5 +26,13 @@
   "battlePocket": "BATTLE_POCKET_MASK_NONE",
   "fieldUseFunc": "ITEM_USE_FUNC_PAL_PAD",
   "battleUseCategory": "BATTLE_USE_CATEGORY_NONE",
-  "itemUseParams": null
+  "itemUseParams": null,
+  "name_fr": "Registre Ami",
+  "description_fr": [
+    "Un carnet bien pratique pour\n",
+    "enregistrer vos amis, les codes\n",
+    "ami et des données de jeu."
+  ],
+  "plural_fr": "Registre Ami",
+  "article_fr": null
 }

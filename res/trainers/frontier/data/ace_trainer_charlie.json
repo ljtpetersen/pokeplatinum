@@ -77,6 +77,10 @@
             "en_US": [
                 "I’m an Ace Trainer, so this is for\n",
                 "bragging rights."
+            ],
+            "fr_FR": [
+                "Je suis un Topdresseur, j’ai donc\n",
+                "parfaitement le droit de frimer."
             ]
         },
         {
@@ -84,6 +88,10 @@
             "en_US": [
                 "Yup, you did good.\n",
                 "No, seriously.\r"
+            ],
+            "fr_FR": [
+                "Tu as bien combattu.\n",
+                "Sans rire, je le pense.\r"
             ]
         },
         {
@@ -91,7 +99,12 @@
             "en_US": [
                 "Heh...\n",
                 "I’ve got a long ways to go...\r"
+            ],
+            "fr_FR": [
+                "Euh...\n",
+                "J’ai encore du chemin à faire...\r"
             ]
         }
-    ]
+    ],
+    "name_fr": "Ike"
 }

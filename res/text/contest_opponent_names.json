@@ -3,771 +3,963 @@
   "messages": [
     {
       "id": "pl_msg_00000205_00000",
-      "en_US": "Sparky"
+      "en_US": "Sparky",
+      "fr_FR": "Eclair"
     },
     {
       "id": "pl_msg_00000205_00001",
-      "en_US": "Luis"
+      "en_US": "Luis",
+      "fr_FR": "Lou"
     },
     {
       "id": "pl_msg_00000205_00002",
-      "en_US": "Whiskers"
+      "en_US": "Whiskers",
+      "fr_FR": "Moustaches"
     },
     {
       "id": "pl_msg_00000205_00003",
-      "en_US": "Lacey"
+      "en_US": "Lacey",
+      "fr_FR": "Isabel"
     },
     {
       "id": "pl_msg_00000205_00004",
-      "en_US": "Flappy"
+      "en_US": "Flappy",
+      "fr_FR": "Flapflap"
     },
     {
       "id": "pl_msg_00000205_00005",
-      "en_US": "Connor"
+      "en_US": "Connor",
+      "fr_FR": "Cadroe"
     },
     {
       "id": "pl_msg_00000205_00006",
-      "en_US": "Dots"
+      "en_US": "Dots",
+      "fr_FR": "Taches"
     },
     {
       "id": "pl_msg_00000205_00007",
-      "en_US": "Dakota"
+      "en_US": "Dakota",
+      "fr_FR": "Sabina"
     },
     {
       "id": "pl_msg_00000205_00008",
-      "en_US": "Precious"
+      "en_US": "Precious",
+      "fr_FR": "Choupi"
     },
     {
       "id": "pl_msg_00000205_00009",
-      "en_US": "Gabriel"
+      "en_US": "Gabriel",
+      "fr_FR": "Gaston"
     },
     {
       "id": "pl_msg_00000205_00010",
-      "en_US": "Flick"
+      "en_US": "Flick",
+      "fr_FR": "Rapido"
     },
     {
       "id": "pl_msg_00000205_00011",
-      "en_US": "Tiffany"
+      "en_US": "Tiffany",
+      "fr_FR": "Olga"
     },
     {
       "id": "pl_msg_00000205_00012",
-      "en_US": "Dizzy"
+      "en_US": "Dizzy",
+      "fr_FR": "Linotte"
     },
     {
       "id": "pl_msg_00000205_00013",
-      "en_US": "Westley"
+      "en_US": "Westley",
+      "fr_FR": "Jules"
     },
     {
       "id": "pl_msg_00000205_00014",
-      "en_US": "Sprout"
+      "en_US": "Sprout",
+      "fr_FR": "Pouss"
     },
     {
       "id": "pl_msg_00000205_00015",
-      "en_US": "Anna"
+      "en_US": "Anna",
+      "fr_FR": "Carole"
     },
     {
       "id": "pl_msg_00000205_00016",
-      "en_US": "Hootie"
+      "en_US": "Hootie",
+      "fr_FR": "Houhou"
     },
     {
       "id": "pl_msg_00000205_00017",
-      "en_US": "Corey"
+      "en_US": "Corey",
+      "fr_FR": "Jacquou"
     },
     {
       "id": "pl_msg_00000205_00018",
-      "en_US": "Batty"
+      "en_US": "Batty",
+      "fr_FR": "Souraile"
     },
     {
       "id": "pl_msg_00000205_00019",
-      "en_US": "Sara"
+      "en_US": "Sara",
+      "fr_FR": "Salomée"
     },
     {
       "id": "pl_msg_00000205_00020",
-      "en_US": "Wiggy"
+      "en_US": "Wiggy",
+      "fr_FR": "Tortill"
     },
     {
       "id": "pl_msg_00000205_00021",
-      "en_US": "Ian"
+      "en_US": "Ian",
+      "fr_FR": "Gaétan"
     },
     {
       "id": "pl_msg_00000205_00022",
-      "en_US": "Pit"
+      "en_US": "Pit",
+      "fr_FR": "Floflor"
     },
     {
       "id": "pl_msg_00000205_00023",
-      "en_US": "Heather"
+      "en_US": "Heather",
+      "fr_FR": "Julia"
     },
     {
       "id": "pl_msg_00000205_00024",
-      "en_US": "Merry"
+      "en_US": "Merry",
+      "fr_FR": "Jovial"
     },
     {
       "id": "pl_msg_00000205_00025",
-      "en_US": "Marcus"
+      "en_US": "Marcus",
+      "fr_FR": "Vital"
     },
     {
       "id": "pl_msg_00000205_00026",
-      "en_US": "Weasy"
+      "en_US": "Weasy",
+      "fr_FR": "Fouineur"
     },
     {
       "id": "pl_msg_00000205_00027",
-      "en_US": "Erin"
+      "en_US": "Erin",
+      "fr_FR": "Joanne"
     },
     {
       "id": "pl_msg_00000205_00028",
-      "en_US": "Wheelie"
+      "en_US": "Wheelie",
+      "fr_FR": "Vernail"
     },
     {
       "id": "pl_msg_00000205_00029",
-      "en_US": "Shane"
+      "en_US": "Shane",
+      "fr_FR": "Nunzio"
     },
     {
       "id": "pl_msg_00000205_00030",
-      "en_US": "Choppy"
+      "en_US": "Choppy",
+      "fr_FR": "Castagne"
     },
     {
       "id": "pl_msg_00000205_00031",
-      "en_US": "Marissa"
+      "en_US": "Marissa",
+      "fr_FR": "Justine"
     },
     {
       "id": "pl_msg_00000205_00032",
-      "en_US": "Rocky"
+      "en_US": "Rocky",
+      "fr_FR": "Rocky"
     },
     {
       "id": "pl_msg_00000205_00033",
-      "en_US": "Victor"
+      "en_US": "Victor",
+      "fr_FR": "Jack"
     },
     {
       "id": "pl_msg_00000205_00034",
-      "en_US": "Goldy"
+      "en_US": "Goldy",
+      "fr_FR": "Or"
     },
     {
       "id": "pl_msg_00000205_00035",
-      "en_US": "Brooke"
+      "en_US": "Brooke",
+      "fr_FR": "Pauline"
     },
     {
       "id": "pl_msg_00000205_00036",
-      "en_US": "Buffy"
+      "en_US": "Buffy",
+      "fr_FR": "Bichon"
     },
     {
       "id": "pl_msg_00000205_00037",
-      "en_US": "Tanner"
+      "en_US": "Tanner",
+      "fr_FR": "Frédo"
     },
     {
       "id": "pl_msg_00000205_00038",
-      "en_US": "Bucky"
+      "en_US": "Bucky",
+      "fr_FR": "Buzz"
     },
     {
       "id": "pl_msg_00000205_00039",
-      "en_US": "Renee"
+      "en_US": "Renee",
+      "fr_FR": "Elise"
     },
     {
       "id": "pl_msg_00000205_00040",
-      "en_US": "Chewy"
+      "en_US": "Chewy",
+      "fr_FR": "Mastique"
     },
     {
       "id": "pl_msg_00000205_00041",
-      "en_US": "Isaac"
+      "en_US": "Isaac",
+      "fr_FR": "Ivan"
     },
     {
       "id": "pl_msg_00000205_00042",
-      "en_US": "Hoots"
+      "en_US": "Hoots",
+      "fr_FR": "Coucou"
     },
     {
       "id": "pl_msg_00000205_00043",
-      "en_US": "Alexus"
+      "en_US": "Alexus",
+      "fr_FR": "Alex"
     },
     {
       "id": "pl_msg_00000205_00044",
-      "en_US": "Pebbles"
+      "en_US": "Pebbles",
+      "fr_FR": "Roco"
     },
     {
       "id": "pl_msg_00000205_00045",
-      "en_US": "Jorge"
+      "en_US": "Jorge",
+      "fr_FR": "Francis"
     },
     {
       "id": "pl_msg_00000205_00046",
-      "en_US": "Blaze"
+      "en_US": "Blaze",
+      "fr_FR": "Flami"
     },
     {
       "id": "pl_msg_00000205_00047",
-      "en_US": "Cora"
+      "en_US": "Cora",
+      "fr_FR": "Laure"
     },
     {
       "id": "pl_msg_00000205_00048",
-      "en_US": "Ohm"
+      "en_US": "Ohm",
+      "fr_FR": "Mantra"
     },
     {
       "id": "pl_msg_00000205_00049",
-      "en_US": "Chase"
+      "en_US": "Chase",
+      "fr_FR": "Lionel"
     },
     {
       "id": "pl_msg_00000205_00050",
-      "en_US": "Slappy"
+      "en_US": "Slappy",
+      "fr_FR": "Gnaf"
     },
     {
       "id": "pl_msg_00000205_00051",
-      "en_US": "Katie"
+      "en_US": "Katie",
+      "fr_FR": "Emilie"
     },
     {
       "id": "pl_msg_00000205_00052",
-      "en_US": "Beardy"
+      "en_US": "Beardy",
+      "fr_FR": "Barbu"
     },
     {
       "id": "pl_msg_00000205_00053",
-      "en_US": "Dominic"
+      "en_US": "Dominic",
+      "fr_FR": "Fabrice"
     },
     {
       "id": "pl_msg_00000205_00054",
-      "en_US": "Gnawby"
+      "en_US": "Gnawby",
+      "fr_FR": "Rongeur"
     },
     {
       "id": "pl_msg_00000205_00055",
-      "en_US": "Sierra"
+      "en_US": "Sierra",
+      "fr_FR": "Maeva"
     },
     {
       "id": "pl_msg_00000205_00056",
-      "en_US": "Stripe"
+      "en_US": "Stripe",
+      "fr_FR": "Zébri"
     },
     {
       "id": "pl_msg_00000205_00057",
-      "en_US": "Keith"
+      "en_US": "Keith",
+      "fr_FR": "Enrico"
     },
     {
       "id": "pl_msg_00000205_00058",
-      "en_US": "Sluggo"
+      "en_US": "Sluggo",
+      "fr_FR": "Loche"
     },
     {
       "id": "pl_msg_00000205_00059",
-      "en_US": "Julia"
+      "en_US": "Julia",
+      "fr_FR": "Claudie"
     },
     {
       "id": "pl_msg_00000205_00060",
-      "en_US": "Auric"
+      "en_US": "Auric",
+      "fr_FR": "Dora"
     },
     {
       "id": "pl_msg_00000205_00061",
-      "en_US": "Brendan"
+      "en_US": "Brendan",
+      "fr_FR": "Paulo"
     },
     {
       "id": "pl_msg_00000205_00062",
-      "en_US": "Stinky"
+      "en_US": "Stinky",
+      "fr_FR": "Pouacre"
     },
     {
       "id": "pl_msg_00000205_00063",
-      "en_US": "Amy"
+      "en_US": "Amy",
+      "fr_FR": "Rolande"
     },
     {
       "id": "pl_msg_00000205_00064",
-      "en_US": "Saucy"
+      "en_US": "Saucy",
+      "fr_FR": "Roudor"
     },
     {
       "id": "pl_msg_00000205_00065",
-      "en_US": "Chad"
+      "en_US": "Chad",
+      "fr_FR": "Pascal"
     },
     {
       "id": "pl_msg_00000205_00066",
-      "en_US": "Mimi"
+      "en_US": "Mimi",
+      "fr_FR": "Mimi"
     },
     {
       "id": "pl_msg_00000205_00067",
-      "en_US": "Caitlin"
+      "en_US": "Caitlin",
+      "fr_FR": "Sophia"
     },
     {
       "id": "pl_msg_00000205_00068",
-      "en_US": "Cheri"
+      "en_US": "Cheri",
+      "fr_FR": "Ceriz"
     },
     {
       "id": "pl_msg_00000205_00069",
-      "en_US": "Martin"
+      "en_US": "Martin",
+      "fr_FR": "Julien"
     },
     {
       "id": "pl_msg_00000205_00070",
-      "en_US": "Flex"
+      "en_US": "Flex",
+      "fr_FR": "Filou"
     },
     {
       "id": "pl_msg_00000205_00071",
-      "en_US": "Kathryn"
+      "en_US": "Kathryn",
+      "fr_FR": "Céline"
     },
     {
       "id": "pl_msg_00000205_00072",
-      "en_US": "Missy"
+      "en_US": "Missy",
+      "fr_FR": "Feufo"
     },
     {
       "id": "pl_msg_00000205_00073",
-      "en_US": "Randal"
+      "en_US": "Randal",
+      "fr_FR": "Mathieu"
     },
     {
       "id": "pl_msg_00000205_00074",
-      "en_US": "Happy"
+      "en_US": "Happy",
+      "fr_FR": "Rieur"
     },
     {
       "id": "pl_msg_00000205_00075",
-      "en_US": "Sidney"
+      "en_US": "Sidney",
+      "fr_FR": "Jasmina"
     },
     {
       "id": "pl_msg_00000205_00076",
-      "en_US": "Chimer"
+      "en_US": "Chimer",
+      "fr_FR": "Bing"
     },
     {
       "id": "pl_msg_00000205_00077",
-      "en_US": "Xavier"
+      "en_US": "Xavier",
+      "fr_FR": "Nico"
     },
     {
       "id": "pl_msg_00000205_00078",
-      "en_US": "Glimmer"
+      "en_US": "Glimmer",
+      "fr_FR": "Chatoie"
     },
     {
       "id": "pl_msg_00000205_00079",
-      "en_US": "Monica"
+      "en_US": "Monica",
+      "fr_FR": "Fleur"
     },
     {
       "id": "pl_msg_00000205_00080",
-      "en_US": "Piki"
+      "en_US": "Piki",
+      "fr_FR": "Piki"
     },
     {
       "id": "pl_msg_00000205_00081",
-      "en_US": "Frank"
+      "en_US": "Frank",
+      "fr_FR": "Pierro"
     },
     {
       "id": "pl_msg_00000205_00082",
-      "en_US": "Blingy"
+      "en_US": "Blingy",
+      "fr_FR": "Rosin"
     },
     {
       "id": "pl_msg_00000205_00083",
-      "en_US": "Leah"
+      "en_US": "Leah",
+      "fr_FR": "Véro"
     },
     {
       "id": "pl_msg_00000205_00084",
-      "en_US": "Kata"
+      "en_US": "Kata",
+      "fr_FR": "Kata"
     },
     {
       "id": "pl_msg_00000205_00085",
-      "en_US": "Julian"
+      "en_US": "Julian",
+      "fr_FR": "Amaury"
     },
     {
       "id": "pl_msg_00000205_00086",
-      "en_US": "Flash"
+      "en_US": "Flash",
+      "fr_FR": "Feufeu"
     },
     {
       "id": "pl_msg_00000205_00087",
-      "en_US": "Bianca"
+      "en_US": "Bianca",
+      "fr_FR": "Valérie"
     },
     {
       "id": "pl_msg_00000205_00088",
-      "en_US": "Spooky"
+      "en_US": "Spooky",
+      "fr_FR": "Spectro"
     },
     {
       "id": "pl_msg_00000205_00089",
-      "en_US": "Mario"
+      "en_US": "Mario",
+      "fr_FR": "Maurice"
     },
     {
       "id": "pl_msg_00000205_00090",
-      "en_US": "Gem"
+      "en_US": "Gem",
+      "fr_FR": "Piero"
     },
     {
       "id": "pl_msg_00000205_00091",
-      "en_US": "Lara"
+      "en_US": "Lara",
+      "fr_FR": "Nadège"
     },
     {
       "id": "pl_msg_00000205_00092",
-      "en_US": "Brainy"
+      "en_US": "Brainy",
+      "fr_FR": "Ciboulo"
     },
     {
       "id": "pl_msg_00000205_00093",
-      "en_US": "Alan"
+      "en_US": "Alan",
+      "fr_FR": "Yvan"
     },
     {
       "id": "pl_msg_00000205_00094",
-      "en_US": "Ebony"
+      "en_US": "Ebony",
+      "fr_FR": "Noiraud"
     },
     {
       "id": "pl_msg_00000205_00095",
-      "en_US": "Bria"
+      "en_US": "Bria",
+      "fr_FR": "Emma"
     },
     {
       "id": "pl_msg_00000205_00096",
-      "en_US": "Malice"
+      "en_US": "Malice",
+      "fr_FR": "Roublard"
     },
     {
       "id": "pl_msg_00000205_00097",
-      "en_US": "Collin"
+      "en_US": "Collin",
+      "fr_FR": "Olivier"
     },
     {
       "id": "pl_msg_00000205_00098",
-      "en_US": "Ponder"
+      "en_US": "Ponder",
+      "fr_FR": "Mentalo"
     },
     {
       "id": "pl_msg_00000205_00099",
-      "en_US": "Alexis"
+      "en_US": "Alexis",
+      "fr_FR": "Rejane"
     },
     {
       "id": "pl_msg_00000205_00100",
-      "en_US": "Buddy"
+      "en_US": "Buddy",
+      "fr_FR": "Pote"
     },
     {
       "id": "pl_msg_00000205_00101",
-      "en_US": "Andre"
+      "en_US": "Andre",
+      "fr_FR": "Rapha"
     },
     {
       "id": "pl_msg_00000205_00102",
-      "en_US": "Tweety"
+      "en_US": "Tweety",
+      "fr_FR": "Titi"
     },
     {
       "id": "pl_msg_00000205_00103",
-      "en_US": "Bridget"
+      "en_US": "Bridget",
+      "fr_FR": "Amélie"
     },
     {
       "id": "pl_msg_00000205_00104",
-      "en_US": "Jangle"
+      "en_US": "Jangle",
+      "fr_FR": "Dingding"
     },
     {
       "id": "pl_msg_00000205_00105",
-      "en_US": "Damien"
+      "en_US": "Damien",
+      "fr_FR": "Aldéric"
     },
     {
       "id": "pl_msg_00000205_00106",
-      "en_US": "Bronzy"
+      "en_US": "Bronzy",
+      "fr_FR": "Marou"
     },
     {
       "id": "pl_msg_00000205_00107",
-      "en_US": "Kara"
+      "en_US": "Kara",
+      "fr_FR": "Agatha"
     },
     {
       "id": "pl_msg_00000205_00108",
-      "en_US": "Chokkan"
+      "en_US": "Chokkan",
+      "fr_FR": "Bonsi"
     },
     {
       "id": "pl_msg_00000205_00109",
-      "en_US": "Angus"
+      "en_US": "Angus",
+      "fr_FR": "Laurent"
     },
     {
       "id": "pl_msg_00000205_00110",
-      "en_US": "Midnight"
+      "en_US": "Midnight",
+      "fr_FR": "Minuit"
     },
     {
       "id": "pl_msg_00000205_00111",
-      "en_US": "Kiana"
+      "en_US": "Kiana",
+      "fr_FR": "Kiana"
     },
     {
       "id": "pl_msg_00000205_00112",
-      "en_US": "Sweetie"
+      "en_US": "Sweetie",
+      "fr_FR": "Chouchou"
     },
     {
       "id": "pl_msg_00000205_00113",
-      "en_US": "Jonesy"
+      "en_US": "Jonesy",
+      "fr_FR": "Jehan"
     },
     {
       "id": "pl_msg_00000205_00114",
-      "en_US": "Floppy"
+      "en_US": "Floppy",
+      "fr_FR": "Noreille"
     },
     {
       "id": "pl_msg_00000205_00115",
-      "en_US": "Hayley"
+      "en_US": "Hayley",
+      "fr_FR": "Monique"
     },
     {
       "id": "pl_msg_00000205_00116",
-      "en_US": "Honey"
+      "en_US": "Honey",
+      "fr_FR": "Biquet"
     },
     {
       "id": "pl_msg_00000205_00117",
-      "en_US": "Alfredo"
+      "en_US": "Alfredo",
+      "fr_FR": "Hadrien"
     },
     {
       "id": "pl_msg_00000205_00118",
-      "en_US": "Baby"
+      "en_US": "Baby",
+      "fr_FR": "Bébé"
     },
     {
       "id": "pl_msg_00000205_00119",
-      "en_US": "Bailey"
+      "en_US": "Bailey",
+      "fr_FR": "Sabrina"
     },
     {
       "id": "pl_msg_00000205_00120",
-      "en_US": "Ziggy"
+      "en_US": "Ziggy",
+      "fr_FR": "Foudre"
     },
     {
       "id": "pl_msg_00000205_00121",
-      "en_US": "Josiah"
+      "en_US": "Josiah",
+      "fr_FR": "Léo"
     },
     {
       "id": "pl_msg_00000205_00122",
-      "en_US": "Bumbles"
+      "en_US": "Bumbles",
+      "fr_FR": "Dodu"
     },
     {
       "id": "pl_msg_00000205_00123",
-      "en_US": "Carly"
+      "en_US": "Carly",
+      "fr_FR": "Marina"
     },
     {
       "id": "pl_msg_00000205_00124",
-      "en_US": "Chopper"
+      "en_US": "Chopper",
+      "fr_FR": "Choki"
     },
     {
       "id": "pl_msg_00000205_00125",
-      "en_US": "Bryant"
+      "en_US": "Bryant",
+      "fr_FR": "Ignacio"
     },
     {
       "id": "pl_msg_00000205_00126",
-      "en_US": "Boo"
+      "en_US": "Boo",
+      "fr_FR": "Bouh"
     },
     {
       "id": "pl_msg_00000205_00127",
-      "en_US": "Nancy"
+      "en_US": "Nancy",
+      "fr_FR": "Tania"
     },
     {
       "id": "pl_msg_00000205_00128",
-      "en_US": "Speedy"
+      "en_US": "Speedy",
+      "fr_FR": "Rapitor"
     },
     {
       "id": "pl_msg_00000205_00129",
-      "en_US": "Zackery"
+      "en_US": "Zackery",
+      "fr_FR": "Bastien"
     },
     {
       "id": "pl_msg_00000205_00130",
-      "en_US": "Chimpy"
+      "en_US": "Chimpy",
+      "fr_FR": "Maco"
     },
     {
       "id": "pl_msg_00000205_00131",
-      "en_US": "Tanya"
+      "en_US": "Tanya",
+      "fr_FR": "Mélanie"
     },
     {
       "id": "pl_msg_00000205_00132",
-      "en_US": "Penny"
+      "en_US": "Penny",
+      "fr_FR": "Pinpin"
     },
     {
       "id": "pl_msg_00000205_00133",
-      "en_US": "Elias"
+      "en_US": "Elias",
+      "fr_FR": "Tristan"
     },
     {
       "id": "pl_msg_00000205_00134",
-      "en_US": "Rampy"
+      "en_US": "Rampy",
+      "fr_FR": "Ronchon"
     },
     {
       "id": "pl_msg_00000205_00135",
-      "en_US": "Marisa"
+      "en_US": "Marisa",
+      "fr_FR": "Raoula"
     },
     {
       "id": "pl_msg_00000205_00136",
-      "en_US": "Zippy"
+      "en_US": "Zippy",
+      "fr_FR": "Zipzap"
     },
     {
       "id": "pl_msg_00000205_00137",
-      "en_US": "Kelvin"
+      "en_US": "Kelvin",
+      "fr_FR": "Albert"
     },
     {
       "id": "pl_msg_00000205_00138",
-      "en_US": "Bebop"
+      "en_US": "Bebop",
+      "fr_FR": "Bebop"
     },
     {
       "id": "pl_msg_00000205_00139",
-      "en_US": "Chloe"
+      "en_US": "Chloe",
+      "fr_FR": "Fatia"
     },
     {
       "id": "pl_msg_00000205_00140",
-      "en_US": "Twigs"
+      "en_US": "Twigs",
+      "fr_FR": "Brindille"
     },
     {
       "id": "pl_msg_00000205_00141",
-      "en_US": "Rodney"
+      "en_US": "Rodney",
+      "fr_FR": "Gislain"
     },
     {
       "id": "pl_msg_00000205_00142",
-      "en_US": "Moppet"
+      "en_US": "Moppet",
+      "fr_FR": "Bamboche"
     },
     {
       "id": "pl_msg_00000205_00143",
-      "en_US": "Hailey"
+      "en_US": "Hailey",
+      "fr_FR": "Chloé"
     },
     {
       "id": "pl_msg_00000205_00144",
-      "en_US": "Strix"
+      "en_US": "Strix",
+      "fr_FR": "Hichouette"
     },
     {
       "id": "pl_msg_00000205_00145",
-      "en_US": "Kaleb"
+      "en_US": "Kaleb",
+      "fr_FR": "Maxens"
     },
     {
       "id": "pl_msg_00000205_00146",
-      "en_US": "Murky"
+      "en_US": "Murky",
+      "fr_FR": "Corni"
     },
     {
       "id": "pl_msg_00000205_00147",
-      "en_US": "Ashlyn"
+      "en_US": "Ashlyn",
+      "fr_FR": "Aline"
     },
     {
       "id": "pl_msg_00000205_00148",
-      "en_US": "Noodle"
+      "en_US": "Noodle",
+      "fr_FR": "Caboche"
     },
     {
       "id": "pl_msg_00000205_00149",
-      "en_US": "Alberto"
+      "en_US": "Alberto",
+      "fr_FR": "Paul"
     },
     {
       "id": "pl_msg_00000205_00150",
-      "en_US": "Loony"
+      "en_US": "Loony",
+      "fr_FR": "Barjo"
     },
     {
       "id": "pl_msg_00000205_00151",
-      "en_US": "Fantina"
+      "en_US": "Fantina",
+      "fr_FR": "Kiméra"
     },
     {
       "id": "pl_msg_00000205_00152",
-      "en_US": "Jumpy"
+      "en_US": "Jumpy",
+      "fr_FR": "Sauteur"
     },
     {
       "id": "pl_msg_00000205_00153",
-      "en_US": "Johanna"
+      "en_US": "Johanna",
+      "fr_FR": "Ingrid"
     },
     {
       "id": "pl_msg_00000205_00154",
-      "en_US": "Jolt"
+      "en_US": "Jolt",
+      "fr_FR": "Volt"
     },
     {
       "id": "pl_msg_00000205_00155",
-      "en_US": "Kristin"
+      "en_US": "Kristin",
+      "fr_FR": "Gwenaël"
     },
     {
       "id": "pl_msg_00000205_00156",
-      "en_US": "Pinky"
+      "en_US": "Pinky",
+      "fr_FR": "Bulroz"
     },
     {
       "id": "pl_msg_00000205_00157",
-      "en_US": "Casey"
+      "en_US": "Casey",
+      "fr_FR": "Maryse"
     },
     {
       "id": "pl_msg_00000205_00158",
-      "en_US": "Rusty"
+      "en_US": "Rusty",
+      "fr_FR": "Rouille"
     },
     {
       "id": "pl_msg_00000205_00159",
-      "en_US": "Jasmine"
+      "en_US": "Jasmine",
+      "fr_FR": "Jasmine"
     },
     {
       "id": "pl_msg_00000205_00160",
-      "en_US": "Chuchu"
+      "en_US": "Chuchu",
+      "fr_FR": "Chuchu"
     },
     {
       "id": "pl_msg_00000205_00161",
-      "en_US": "Gage"
+      "en_US": "Gage",
+      "fr_FR": "Pat"
     },
     {
       "id": "pl_msg_00000205_00162",
-      "en_US": "Tootie"
+      "en_US": "Tootie",
+      "fr_FR": "Tootie"
     },
     {
       "id": "pl_msg_00000205_00163",
-      "en_US": "Raven"
+      "en_US": "Raven",
+      "fr_FR": "Kristel"
     },
     {
       "id": "pl_msg_00000205_00164",
-      "en_US": "Iggy"
+      "en_US": "Iggy",
+      "fr_FR": "Gaillard"
     },
     {
       "id": "pl_msg_00000205_00165",
-      "en_US": "Marquis"
+      "en_US": "Marquis",
+      "fr_FR": "Didier"
     },
     {
       "id": "pl_msg_00000205_00166",
-      "en_US": "Punchy"
+      "en_US": "Punchy",
+      "fr_FR": "Peps"
     },
     {
       "id": "pl_msg_00000205_00167",
-      "en_US": "Jocelyn"
+      "en_US": "Jocelyn",
+      "fr_FR": "Nanette"
     },
     {
       "id": "pl_msg_00000205_00168",
-      "en_US": "Quackers"
+      "en_US": "Quackers",
+      "fr_FR": "Couaco"
     },
     {
       "id": "pl_msg_00000205_00169",
-      "en_US": "Carson"
+      "en_US": "Carson",
+      "fr_FR": "Karim"
     },
     {
       "id": "pl_msg_00000205_00170",
-      "en_US": "Juicy"
+      "en_US": "Juicy",
+      "fr_FR": "Cheriz"
     },
     {
       "id": "pl_msg_00000205_00171",
-      "en_US": "Jade"
+      "en_US": "Jade",
+      "fr_FR": "Nina"
     },
     {
       "id": "pl_msg_00000205_00172",
-      "en_US": "Stubby"
+      "en_US": "Stubby",
+      "fr_FR": "Mastoc"
     },
     {
       "id": "pl_msg_00000205_00173",
-      "en_US": "Zane"
+      "en_US": "Zane",
+      "fr_FR": "Billy"
     },
     {
       "id": "pl_msg_00000205_00174",
-      "en_US": "Kiddo"
+      "en_US": "Kiddo",
+      "fr_FR": "Junior"
     },
     {
       "id": "pl_msg_00000205_00175",
-      "en_US": "Kiara"
+      "en_US": "Kiara",
+      "fr_FR": "Suzanne"
     },
     {
       "id": "pl_msg_00000205_00176",
-      "en_US": "Smiley"
+      "en_US": "Smiley",
+      "fr_FR": "Quenotte"
     },
     {
       "id": "pl_msg_00000205_00177",
-      "en_US": "Allan"
+      "en_US": "Allan",
+      "fr_FR": "Costa"
     },
     {
       "id": "pl_msg_00000205_00178",
-      "en_US": "Fluffy"
+      "en_US": "Fluffy",
+      "fr_FR": "Câlin"
     },
     {
       "id": "pl_msg_00000205_00179",
-      "en_US": "Evelyn"
+      "en_US": "Evelyn",
+      "fr_FR": "Chiara"
     },
     {
       "id": "pl_msg_00000205_00180",
-      "en_US": "Chirpy"
+      "en_US": "Chirpy",
+      "fr_FR": "Cuicui"
     },
     {
       "id": "pl_msg_00000205_00181",
-      "en_US": "Celeste"
+      "en_US": "Celeste",
+      "fr_FR": "Céleste"
     },
     {
       "id": "pl_msg_00000205_00182",
-      "en_US": "Zoomer"
+      "en_US": "Zoomer",
+      "fr_FR": "Tortillard"
     },
     {
       "id": "pl_msg_00000205_00183",
-      "en_US": "Jakob"
+      "en_US": "Jakob",
+      "fr_FR": "José"
     },
     {
       "id": "pl_msg_00000205_00184",
-      "en_US": "Zapachu"
+      "en_US": "Zapachu",
+      "fr_FR": "Zapachu"
     },
     {
       "id": "pl_msg_00000205_00185",
-      "en_US": "Reid"
+      "en_US": "Reid",
+      "fr_FR": "Jean"
     },
     {
       "id": "pl_msg_00000205_00186",
-      "en_US": "Blinky"
+      "en_US": "Blinky",
+      "fr_FR": "Cligne"
     },
     {
       "id": "pl_msg_00000205_00187",
-      "en_US": "Anne"
+      "en_US": "Anne",
+      "fr_FR": "Jeanne"
     },
     {
       "id": "pl_msg_00000205_00188",
-      "en_US": "Chip"
+      "en_US": "Chip",
+      "fr_FR": "Balou"
     },
     {
       "id": "pl_msg_00000205_00189",
-      "en_US": "Tylor"
+      "en_US": "Tylor",
+      "fr_FR": "Diego"
     },
     {
       "id": "pl_msg_00000205_00190",
-      "en_US": "Jabber"
+      "en_US": "Jabber",
+      "fr_FR": "Minirocky"
     },
     {
       "id": "pl_msg_00000205_00191",
-      "en_US": "Gina"
+      "en_US": "Gina",
+      "fr_FR": "Briana"
     }
   ]
 }

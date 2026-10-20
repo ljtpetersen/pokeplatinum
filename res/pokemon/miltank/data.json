@@ -7,7 +7,10 @@
         "special_attack": 40,
         "special_defense": 70
     },
-    "types": [ "TYPE_NORMAL", "TYPE_NORMAL" ],
+    "types": [
+        "TYPE_NORMAL",
+        "TYPE_NORMAL"
+    ],
     "catch_rate": 45,
     "base_exp_reward": 200,
     "ev_yields": {
@@ -26,27 +29,72 @@
     "hatch_cycles": 20,
     "base_friendship": 70,
     "exp_rate": "EXP_RATE_SLOW",
-    "egg_groups": [ "EGG_GROUP_FIELD", "EGG_GROUP_FIELD" ],
-    "abilities": [ "ABILITY_THICK_FAT", "ABILITY_SCRAPPY" ],
+    "egg_groups": [
+        "EGG_GROUP_FIELD",
+        "EGG_GROUP_FIELD"
+    ],
+    "abilities": [
+        "ABILITY_THICK_FAT",
+        "ABILITY_SCRAPPY"
+    ],
     "safari_flee_rate": 0,
     "body_color": "MON_COLOR_PINK",
     "flip_sprite": false,
     "icon_palette": 1,
     "learnset": {
         "by_level": [
-            [ 1, "MOVE_TACKLE" ],
-            [ 3, "MOVE_GROWL" ],
-            [ 5, "MOVE_DEFENSE_CURL" ],
-            [ 8, "MOVE_STOMP" ],
-            [ 11, "MOVE_MILK_DRINK" ],
-            [ 15, "MOVE_BIDE" ],
-            [ 19, "MOVE_ROLLOUT" ],
-            [ 24, "MOVE_BODY_SLAM" ],
-            [ 29, "MOVE_ZEN_HEADBUTT" ],
-            [ 35, "MOVE_CAPTIVATE" ],
-            [ 41, "MOVE_GYRO_BALL" ],
-            [ 48, "MOVE_HEAL_BELL" ],
-            [ 55, "MOVE_WAKE_UP_SLAP" ]
+            [
+                1,
+                "MOVE_TACKLE"
+            ],
+            [
+                3,
+                "MOVE_GROWL"
+            ],
+            [
+                5,
+                "MOVE_DEFENSE_CURL"
+            ],
+            [
+                8,
+                "MOVE_STOMP"
+            ],
+            [
+                11,
+                "MOVE_MILK_DRINK"
+            ],
+            [
+                15,
+                "MOVE_BIDE"
+            ],
+            [
+                19,
+                "MOVE_ROLLOUT"
+            ],
+            [
+                24,
+                "MOVE_BODY_SLAM"
+            ],
+            [
+                29,
+                "MOVE_ZEN_HEADBUTT"
+            ],
+            [
+                35,
+                "MOVE_CAPTIVATE"
+            ],
+            [
+                41,
+                "MOVE_GYRO_BALL"
+            ],
+            [
+                48,
+                "MOVE_HEAL_BELL"
+            ],
+            [
+                55,
+                "MOVE_WAKE_UP_SLAP"
+            ]
         ],
         "by_tm": [
             "TM01",
@@ -121,7 +169,7 @@
             "MOVE_PUNISHMENT"
         ]
     },
-    "evolutions": [  ],
+    "evolutions": [],
     "offspring": "SPECIES_MILTANK",
     "footprint": {
         "has": true,
@@ -192,6 +240,18 @@
                 "ミルタンクの　ミルクを　のんで\n",
                 "そだった　こどもは　けんこうで\n",
                 "たくましい　おとなに　なるという。"
+            ]
+        },
+        "local_version": {
+            "entry_text": [
+                "It is said that kids who drink\n",
+                "MILTANK’s milk grow up to become\n",
+                "hearty, healthy adults."
+            ],
+            "entry_text_fr": [
+                "On raconte que les enfants élevés\n",
+                "au lait d’ECREMEUH deviennent des\n",
+                "adultes braves et robustes."
             ]
         }
     },

@@ -3,11 +3,13 @@
   "messages": [
     {
       "id": "HallOfOrigin_Text_ArceusCry",
-      "en_US": "Dodogyuuun!\r"
+      "en_US": "Dodogyuuun!\r",
+      "fr_FR": "Aaaaaarceus!\r"
     },
     {
       "id": "HallOfOrigin_Text_ArceusDisappeared",
-      "en_US": "ARCEUS disappeared from sight..."
+      "en_US": "ARCEUS disappeared from sight...",
+      "fr_FR": "ARCEUS a disparu..."
     }
   ]
 }

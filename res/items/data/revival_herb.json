@@ -32,5 +32,13 @@
     "friendshipLow": -15,
     "friendshipMed": -15,
     "friendshipHigh": -20
-  }
+  },
+  "name_fr": "Herbe Rappel",
+  "description_fr": [
+    "Une herbe médicinale très amère.\n",
+    "Ranime un Pokémon K.O. et restaure\n",
+    "tous ses PV."
+  ],
+  "plural_fr": "Herbe Rappel",
+  "article_fr": null
 }

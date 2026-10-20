@@ -7,6 +7,11 @@
         "OK, stand back and watch this.\r",
         "Using the hidden move Rock Smash,\n",
         "a boulder blocking your way...\r"
+      ],
+      "fr_FR": [
+        "OK, recule et regarde.\r",
+        "J’utilise la CS Eclate-Roc pour dégager\n",
+        "un rocher qui nous bloque le chemin...\r"
       ]
     },
     {
@@ -19,19 +24,31 @@
         "to do this too.\r",
         "Of course, you’d have to beat the\n",
         "Gym Leader first. That’d be me!\r"
+      ],
+      "fr_FR": [
+        "Les rochers doivent être éclatés pour\n",
+        "dégager le passage.\r",
+        "Si tu obtenais le Badge de notre\n",
+        "Arène, tu serais toi aussi capable\f",
+        "de faire de même.\r",
+        "Bien sûr, tu dois d’abord vaincre le\n",
+        "Champion d’Arène. C’est-à-dire moi!\r"
       ]
     },
     {
       "id": "OreburghMineB2F_Text_MachopCryMaaacho",
-      "en_US": "MACHOP: Maaacho!"
+      "en_US": "MACHOP: Maaacho!",
+      "fr_FR": "MACHOC: Maaacho!"
     },
     {
       "id": "OreburghMineB2F_Text_MachopCryChopChop",
-      "en_US": "MACHOP: Chopchop!"
+      "en_US": "MACHOP: Chopchop!",
+      "fr_FR": "MACHOC: Choc-choc!"
     },
     {
       "id": "OreburghMineB2F_Text_MachopCryChopmacho",
-      "en_US": "MACHOP: Chopmacho!"
+      "en_US": "MACHOP: Chopmacho!",
+      "fr_FR": "MACHOC: Chocmacho!"
     },
     {
       "id": "OreburghMineB2F_Text_IMetMachopOnRoute207",
@@ -39,6 +56,12 @@
         "I met these MACHOP on Route 207.\r",
         "They’ve now become my most trusted\n",
         "partners!"
+      ],
+      "fr_FR": [
+        "J’ai rencontré ces MACHOC sur\n",
+        "la Route 207.\r",
+        "Ils sont devenus mes plus chers\n",
+        "partenaires!"
       ]
     }
   ]

@@ -41,6 +41,10 @@
             "en_US": [
                 "Isn’t this nice?\n",
                 "I love my inflatable tube!\r"
+            ],
+            "fr_FR": [
+                "Elle est belle, hein?\n",
+                "J’adore ma bouée!\r"
             ]
         },
         {
@@ -48,6 +52,10 @@
             "en_US": [
                 "It’s not easy trying to move holding\n",
                 "on to this inflatable tube.\n"
+            ],
+            "fr_FR": [
+                "Ce n’est pas facile de contrôler où on\n",
+                "va quand on nage avec une bouée.\n"
             ]
         },
         {
@@ -55,6 +63,10 @@
             "en_US": [
                 "Mom blew up my inflatable tube for me.\n",
                 "I ran out of breath just opening it!\n"
+            ],
+            "fr_FR": [
+                "Maman m’a gonflé ma bouée. Moi je n’ai\n",
+                "pas assez de souffle!\n"
             ]
         },
         {
@@ -62,7 +74,12 @@
             "en_US": [
                 "You can come back all you like, but\n",
                 "you can’t have my inflatable tube!\r"
+            ],
+            "fr_FR": [
+                "Tu peux revenir quand tu veux, mais\n",
+                "je ne te prêterai pas ma bouée! Na!\r"
             ]
         }
-    ]
+    ],
+    "name_fr": "Ed"
 }

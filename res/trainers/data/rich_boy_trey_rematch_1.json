@@ -25,11 +25,17 @@
             "en_US": [
                 "Ah, it’s you. I’m bored yet again.\n",
                 "Care to break the monotony?\r"
+            ],
+            "fr_FR": [
+                "Je m’ennuie vraiment.\n",
+                "Ça te dirait, de briser la routine?\r"
             ]
         },
         {
             "type": "TRMSG_DEFEAT",
-            "en_US": "The monotony was broken, but...\n"
+            "en_US": "The monotony was broken, but...\n",
+            "fr_FR": "La routine a été brisée, mais bon...\n"
         }
-    ]
+    ],
+    "name_fr": "Emilien"
 }

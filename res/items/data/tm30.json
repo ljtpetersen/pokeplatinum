@@ -27,5 +27,13 @@
   "fieldUseFunc": "ITEM_USE_FUNC_TM_HM",
   "battleUseCategory": "BATTLE_USE_CATEGORY_NONE",
   "itemUseParams": null,
-  "teachesMove": "MOVE_SHADOW_BALL"
+  "teachesMove": "MOVE_SHADOW_BALL",
+  "name_fr": "CT30",
+  "description_fr": [
+    "Projette une grande ombre sur\n",
+    "l’ennemi. Peut aussi faire baisser\n",
+    "sa Déf. Spé."
+  ],
+  "plural_fr": "CT30",
+  "article_fr": null
 }

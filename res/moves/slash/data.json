@@ -28,5 +28,12 @@
     "contest": {
         "effect": "CONTEST_EFFECT_BASIC",
         "type": "CONTEST_TYPE_COOL"
-    }
+    },
+    "name_fr": "Tranche",
+    "description_fr": [
+        "Un coup de griffe ou\n",
+        "autre tranche\n",
+        "l’ennemi. Taux de\n",
+        "critiques élevé."
+    ]
 }

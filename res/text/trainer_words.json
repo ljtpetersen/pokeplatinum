@@ -3,155 +3,193 @@
   "messages": [
     {
       "id": "TrainerWords_Text_MatchUp",
-      "en_US": "MATCH UP"
+      "en_US": "MATCH UP",
+      "fr_FR": "AU NIVEAU"
     },
     {
       "id": "TrainerWords_Text_No1",
-      "en_US": "NO. 1"
+      "en_US": "NO. 1",
+      "fr_FR": "Nº1"
     },
     {
       "id": "TrainerWords_Text_Preparation",
-      "en_US": "PREPARATION"
+      "en_US": "PREPARATION",
+      "fr_FR": "PREPARATION"
     },
     {
       "id": "TrainerWords_Text_Wins",
-      "en_US": "WINS"
+      "en_US": "WINS",
+      "fr_FR": "GAGNE"
     },
     {
       "id": "TrainerWords_Text_NoMatch",
-      "en_US": "NO MATCH"
+      "en_US": "NO MATCH",
+      "fr_FR": "TROP NUL"
     },
     {
       "id": "TrainerWords_Text_Spirit",
-      "en_US": "SPIRIT"
+      "en_US": "SPIRIT",
+      "fr_FR": "ESPRIT"
     },
     {
       "id": "TrainerWords_Text_AceCard",
-      "en_US": "ACE CARD"
+      "en_US": "ACE CARD",
+      "fr_FR": "ATOUT"
     },
     {
       "id": "TrainerWords_Text_ComeOn",
-      "en_US": "COME ON"
+      "en_US": "COME ON",
+      "fr_FR": "ALLEZ VIENS"
     },
     {
       "id": "TrainerWords_Text_Attack",
-      "en_US": "ATTACK"
+      "en_US": "ATTACK",
+      "fr_FR": "ATTAQUER"
     },
     {
       "id": "TrainerWords_Text_Surrender",
-      "en_US": "SURRENDER"
+      "en_US": "SURRENDER",
+      "fr_FR": "SE RENDRE"
     },
     {
       "id": "TrainerWords_Text_Courage",
-      "en_US": "COURAGE"
+      "en_US": "COURAGE",
+      "fr_FR": "CRAN"
     },
     {
       "id": "TrainerWords_Text_Talent",
-      "en_US": "TALENT"
+      "en_US": "TALENT",
+      "fr_FR": "TALENT"
     },
     {
       "id": "TrainerWords_Text_Strategy",
-      "en_US": "STRATEGY"
+      "en_US": "STRATEGY",
+      "fr_FR": "STRATEGIE"
     },
     {
       "id": "TrainerWords_Text_Match",
-      "en_US": "MATCH"
+      "en_US": "MATCH",
+      "fr_FR": "MATCH"
     },
     {
       "id": "TrainerWords_Text_Victory",
-      "en_US": "VICTORY"
+      "en_US": "VICTORY",
+      "fr_FR": "VICTOIRE"
     },
     {
       "id": "TrainerWords_Text_Sense",
-      "en_US": "SENSE"
+      "en_US": "SENSE",
+      "fr_FR": "SENSATION"
     },
     {
       "id": "TrainerWords_Text_Versus",
-      "en_US": "VERSUS"
+      "en_US": "VERSUS",
+      "fr_FR": "CONTRE"
     },
     {
       "id": "TrainerWords_Text_Fights",
-      "en_US": "FIGHTS"
+      "en_US": "FIGHTS",
+      "fr_FR": "DISPUTE"
     },
     {
       "id": "TrainerWords_Text_Power",
-      "en_US": "POWER"
+      "en_US": "POWER",
+      "fr_FR": "PUISSANCE"
     },
     {
       "id": "TrainerWords_Text_Challenge",
-      "en_US": "CHALLENGE"
+      "en_US": "CHALLENGE",
+      "fr_FR": "DEFI"
     },
     {
       "id": "TrainerWords_Text_Strong",
-      "en_US": "STRONG"
+      "en_US": "STRONG",
+      "fr_FR": "FORT"
     },
     {
       "id": "TrainerWords_Text_TakeItEasy",
-      "en_US": "TAKE IT EASY"
+      "en_US": "TAKE IT EASY",
+      "fr_FR": "DOUCEMENT"
     },
     {
       "id": "TrainerWords_Text_Foe",
-      "en_US": "FOE"
+      "en_US": "FOE",
+      "fr_FR": "ENNEMI"
     },
     {
       "id": "TrainerWords_Text_Genius",
-      "en_US": "GENIUS"
+      "en_US": "GENIUS",
+      "fr_FR": "GENIE"
     },
     {
       "id": "TrainerWords_Text_Legend",
-      "en_US": "LEGEND"
+      "en_US": "LEGEND",
+      "fr_FR": "LEGENDE"
     },
     {
       "id": "TrainerWords_Text_Battle",
-      "en_US": "BATTLE"
+      "en_US": "BATTLE",
+      "fr_FR": "COMBAT"
     },
     {
       "id": "TrainerWords_Text_Fight",
-      "en_US": "FIGHT"
+      "en_US": "FIGHT",
+      "fr_FR": "COMBATTRE"
     },
     {
       "id": "TrainerWords_Text_Revive",
-      "en_US": "REVIVE"
+      "en_US": "REVIVE",
+      "fr_FR": "RESSUSCITER"
     },
     {
       "id": "TrainerWords_Text_Points",
-      "en_US": "POINTS"
+      "en_US": "POINTS",
+      "fr_FR": "POINTS"
     },
     {
       "id": "TrainerWords_Text_Serious",
-      "en_US": "SERIOUS"
+      "en_US": "SERIOUS",
+      "fr_FR": "SERIEUX"
     },
     {
       "id": "TrainerWords_Text_Loss",
-      "en_US": "LOSS"
+      "en_US": "LOSS",
+      "fr_FR": "DEFAITE"
     },
     {
       "id": "TrainerWords_Text_Partner",
-      "en_US": "PARTNER"
+      "en_US": "PARTNER",
+      "fr_FR": "PARTENAIRE"
     },
     {
       "id": "TrainerWords_Text_Invincible",
-      "en_US": "INVINCIBLE"
+      "en_US": "INVINCIBLE",
+      "fr_FR": "INVINCIBLE"
     },
     {
       "id": "TrainerWords_Text_Easy",
-      "en_US": "EASY"
+      "en_US": "EASY",
+      "fr_FR": "FACILE"
     },
     {
       "id": "TrainerWords_Text_Weak",
-      "en_US": "WEAK"
+      "en_US": "WEAK",
+      "fr_FR": "FAIBLE"
     },
     {
       "id": "TrainerWords_Text_EasyWin",
-      "en_US": "EASY WIN"
+      "en_US": "EASY WIN",
+      "fr_FR": "NULLITE"
     },
     {
       "id": "TrainerWords_Text_Move",
-      "en_US": "MOVE"
+      "en_US": "MOVE",
+      "fr_FR": "CAPACITE"
     },
     {
       "id": "TrainerWords_Text_Trainer",
-      "en_US": "TRAINER"
+      "en_US": "TRAINER",
+      "fr_FR": "DRESSEUR"
     }
   ]
 }

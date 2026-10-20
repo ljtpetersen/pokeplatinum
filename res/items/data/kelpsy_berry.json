@@ -44,5 +44,13 @@
     "bitterness": 10,
     "sourness": 10,
     "smoothness": 20
-  }
+  },
+  "name_fr": "Baie Alga",
+  "description_fr": [
+    "Ingrédient pour Poffin.\n",
+    "Rend les Pokémon plus amicaux, mais\n",
+    "baisse leur stat Attaque de base."
+  ],
+  "plural_fr": "Baie Alga",
+  "article_fr": null
 }

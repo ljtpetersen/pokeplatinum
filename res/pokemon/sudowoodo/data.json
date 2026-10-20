@@ -7,7 +7,10 @@
         "special_attack": 30,
         "special_defense": 65
     },
-    "types": [ "TYPE_ROCK", "TYPE_ROCK" ],
+    "types": [
+        "TYPE_ROCK",
+        "TYPE_ROCK"
+    ],
     "catch_rate": 65,
     "base_exp_reward": 135,
     "ev_yields": {
@@ -26,31 +29,88 @@
     "hatch_cycles": 20,
     "base_friendship": 70,
     "exp_rate": "EXP_RATE_MEDIUM_FAST",
-    "egg_groups": [ "EGG_GROUP_MINERAL", "EGG_GROUP_MINERAL" ],
-    "abilities": [ "ABILITY_STURDY", "ABILITY_ROCK_HEAD" ],
+    "egg_groups": [
+        "EGG_GROUP_MINERAL",
+        "EGG_GROUP_MINERAL"
+    ],
+    "abilities": [
+        "ABILITY_STURDY",
+        "ABILITY_ROCK_HEAD"
+    ],
     "safari_flee_rate": 0,
     "body_color": "MON_COLOR_BROWN",
     "flip_sprite": false,
     "icon_palette": 1,
     "learnset": {
         "by_level": [
-            [ 1, "MOVE_WOOD_HAMMER" ],
-            [ 1, "MOVE_COPYCAT" ],
-            [ 1, "MOVE_FLAIL" ],
-            [ 1, "MOVE_LOW_KICK" ],
-            [ 1, "MOVE_ROCK_THROW" ],
-            [ 6, "MOVE_FLAIL" ],
-            [ 9, "MOVE_LOW_KICK" ],
-            [ 14, "MOVE_ROCK_THROW" ],
-            [ 17, "MOVE_MIMIC" ],
-            [ 22, "MOVE_BLOCK" ],
-            [ 25, "MOVE_FAINT_ATTACK" ],
-            [ 30, "MOVE_ROCK_TOMB" ],
-            [ 33, "MOVE_ROCK_SLIDE" ],
-            [ 38, "MOVE_SLAM" ],
-            [ 41, "MOVE_SUCKER_PUNCH" ],
-            [ 46, "MOVE_DOUBLE_EDGE" ],
-            [ 49, "MOVE_HAMMER_ARM" ]
+            [
+                1,
+                "MOVE_WOOD_HAMMER"
+            ],
+            [
+                1,
+                "MOVE_COPYCAT"
+            ],
+            [
+                1,
+                "MOVE_FLAIL"
+            ],
+            [
+                1,
+                "MOVE_LOW_KICK"
+            ],
+            [
+                1,
+                "MOVE_ROCK_THROW"
+            ],
+            [
+                6,
+                "MOVE_FLAIL"
+            ],
+            [
+                9,
+                "MOVE_LOW_KICK"
+            ],
+            [
+                14,
+                "MOVE_ROCK_THROW"
+            ],
+            [
+                17,
+                "MOVE_MIMIC"
+            ],
+            [
+                22,
+                "MOVE_BLOCK"
+            ],
+            [
+                25,
+                "MOVE_FAINT_ATTACK"
+            ],
+            [
+                30,
+                "MOVE_ROCK_TOMB"
+            ],
+            [
+                33,
+                "MOVE_ROCK_SLIDE"
+            ],
+            [
+                38,
+                "MOVE_SLAM"
+            ],
+            [
+                41,
+                "MOVE_SUCKER_PUNCH"
+            ],
+            [
+                46,
+                "MOVE_DOUBLE_EDGE"
+            ],
+            [
+                49,
+                "MOVE_HAMMER_ARM"
+            ]
         ],
         "by_tm": [
             "TM01",
@@ -110,7 +170,7 @@
             "MOVE_SAND_TOMB"
         ]
     },
-    "evolutions": [  ],
+    "evolutions": [],
     "offspring": "SPECIES_BONSLY",
     "footprint": {
         "has": true,
@@ -133,9 +193,9 @@
             "name": "SUDOWOODO",
             "category": "Imitation Pokémon",
             "entry_text": [
-                "To avoid being attacked, it does\n",
-                "nothing but mimic a tree. It hates\n",
-                "water and flees from rain."
+                "Despite appearing to be a tree,\n",
+                "its body is closer to rocks and\n",
+                "stones. It is very weak to water."
             ]
         },
         "fr": {
@@ -181,6 +241,18 @@
                 "じゅもくの　ように　みえる　からだは\n",
                 "じつは　いわや　いしに　ちかい。\n",
                 "みずには　めっぽう　よわいのだ。"
+            ]
+        },
+        "local_version": {
+            "entry_text": [
+                "To avoid being attacked, it does\n",
+                "nothing but mimic a tree. It hates\n",
+                "water and flees from rain."
+            ],
+            "entry_text_fr": [
+                "Il prend l’apparence d’un arbre\n",
+                "pour éviter les attaques, mais il\n",
+                "déteste l’eau et fuit la pluie."
             ]
         }
     },

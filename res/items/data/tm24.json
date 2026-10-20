@@ -27,5 +27,12 @@
   "fieldUseFunc": "ITEM_USE_FUNC_TM_HM",
   "battleUseCategory": "BATTLE_USE_CATEGORY_NONE",
   "itemUseParams": null,
-  "teachesMove": "MOVE_THUNDERBOLT"
+  "teachesMove": "MOVE_THUNDERBOLT",
+  "name_fr": "CT24",
+  "description_fr": [
+    "Une grosse décharge électrique tombe\n",
+    "sur l’ennemi. Peut aussi le paralyser."
+  ],
+  "plural_fr": "CT24",
+  "article_fr": null
 }

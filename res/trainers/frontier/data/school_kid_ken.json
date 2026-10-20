@@ -59,6 +59,10 @@
             "en_US": [
                 "I’m trying to keep up with my Pokémon\n",
                 "training and my own schooling."
+            ],
+            "fr_FR": [
+                "Je fais toujours mes devoirs avant\n",
+                "d’entraîner mes Pokémon."
             ]
         },
         {
@@ -66,6 +70,10 @@
             "en_US": [
                 "I’d like to think I’ve struck the right\n",
                 "balance of fun and education.\r"
+            ],
+            "fr_FR": [
+                "Comme quoi, on peut bien travailler à\n",
+                "l’école et être doué pour les combats!\r"
             ]
         },
         {
@@ -73,7 +81,12 @@
             "en_US": [
                 "This isn’t going to work?\n",
                 "My grades are the best in class, but...\r"
+            ],
+            "fr_FR": [
+                "J’ai perdu? Mais... je suis le\n",
+                "premier de la classe pourtant!\r"
             ]
         }
-    ]
+    ],
+    "name_fr": "Ken"
 }

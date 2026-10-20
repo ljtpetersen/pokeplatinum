@@ -9,6 +9,14 @@
         "before a match?\r",
         "How you feel when you win or lose?\n",
         "What it would be like to be number one?"
+      ],
+      "fr_FR": [
+        "Bonjour!\r",
+        "Pouvez-vous me dire ce que vous\n",
+        "ressentez juste avant un combat?\r",
+        "Que dites-vous après une victoire,\n",
+        "une défaite? Que ressentiriez-vous\f",
+        "si vous étiez numéro un?"
       ]
     },
     {
@@ -16,6 +24,10 @@
       "en_US": [
         "OK, how do you feel when\n",
         "you’re about to begin a match?\r"
+      ],
+      "fr_FR": [
+        "Quel est votre sentiment quand vous\n",
+        "vous préparez à un combat?\r"
       ]
     },
     {
@@ -23,17 +35,29 @@
       "en_US": [
         "How do you feel when you win\n",
         "a match?\r"
+      ],
+      "fr_FR": [
+        "Que dites-vous quand vous avez\n",
+        "gagné un combat?\r"
       ]
     },
     {
       "id": "pl_msg_00000420_00003",
-      "en_US": "How do you feel when you lose a match?\r"
+      "en_US": "How do you feel when you lose a match?\r",
+      "fr_FR": [
+        "Que dites-vous quand vous avez\n",
+        "perdu un combat?\r"
+      ]
     },
     {
       "id": "pl_msg_00000420_00004",
       "en_US": [
         "Last question: describe how you’d feel\n",
         "if you became number one.\r"
+      ],
+      "fr_FR": [
+        "Quel effet cela vous ferait-il de\n",
+        "devenir numéro un?\r"
       ]
     },
     {
@@ -41,6 +65,10 @@
       "en_US": [
         "Hunh? You changed your mind?\n",
         "I guess you’re fickle."
+      ],
+      "fr_FR": [
+        "Hein? Vous avez changé d’avis?\n",
+        "Vous êtes lunatique, on dirait..."
       ]
     },
     {
@@ -48,46 +76,62 @@
       "en_US": [
         "Thank you!\n",
         "Can you answer another question?"
+      ],
+      "fr_FR": [
+        "Merci!\n",
+        "Puis-je vous poser une autre question?"
       ]
     },
     {
       "id": "pl_msg_00000420_00007",
-      "en_US": "Gotcha! Thanks!"
+      "en_US": "Gotcha! Thanks!",
+      "fr_FR": "Compris! Merci!"
     },
     {
       "id": "pl_msg_00000420_00008",
       "en_US": [
         "Gotcha! Thanks!\n",
         "OK, {STRVAR_1 28, 0, 0}..."
+      ],
+      "fr_FR": [
+        "Compris! Merci!\n",
+        "OK, {STRVAR_1 28, 0, 0}..."
       ]
     },
     {
       "id": "pl_msg_00000420_00009",
-      "en_US": "Before battle"
+      "en_US": "Before battle",
+      "fr_FR": "Avant le combat"
     },
     {
       "id": "pl_msg_00000420_00010",
-      "en_US": "Upon winning"
+      "en_US": "Upon winning",
+      "fr_FR": "Après une victoire"
     },
     {
       "id": "pl_msg_00000420_00011",
-      "en_US": "Upon losing"
+      "en_US": "Upon losing",
+      "fr_FR": "Après une défaite"
     },
     {
       "id": "pl_msg_00000420_00012",
-      "en_US": "Becoming No. 1"
+      "en_US": "Becoming No. 1",
+      "fr_FR": "Devenir numéro 1"
     },
     {
       "id": "pl_msg_00000420_00013",
-      "en_US": "Not saying"
+      "en_US": "Not saying",
+      "fr_FR": "J’dirai rien!"
     },
     {
       "id": "pl_msg_00000420_00014",
-      "en_US": "Yes"
+      "en_US": "Yes",
+      "fr_FR": "Oui"
     },
     {
       "id": "pl_msg_00000420_00015",
-      "en_US": "No"
+      "en_US": "No",
+      "fr_FR": "Non"
     }
   ]
 }

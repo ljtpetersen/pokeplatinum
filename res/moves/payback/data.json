@@ -26,5 +26,13 @@
     "contest": {
         "effect": "CONTEST_EFFECT_UNIQUE_JUDGE",
         "type": "CONTEST_TYPE_COOL"
-    }
+    },
+    "name_fr": "Représailles",
+    "description_fr": [
+        "Le lanceur charge son\n",
+        "énergie, puis attaque.\n",
+        "La puissance est\n",
+        "doublée si cela suit\n",
+        "une capacité ennemie."
+    ]
 }

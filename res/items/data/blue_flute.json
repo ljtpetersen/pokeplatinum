@@ -28,5 +28,13 @@
   "battleUseCategory": "BATTLE_USE_CATEGORY_NONE",
   "itemUseParams": {
     "healSleep": true
-  }
+  },
+  "name_fr": "Flûte Bleue",
+  "description_fr": [
+    "Une flûte en verre soufflé bleu dont\n",
+    "les notes réveillent un Pokémon\n",
+    "endormi."
+  ],
+  "plural_fr": "Flûte Bleue",
+  "article_fr": null
 }

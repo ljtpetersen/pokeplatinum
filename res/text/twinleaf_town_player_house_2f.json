@@ -8,6 +8,13 @@
         "“Let’s Ask Prof. Rowan!”\r",
         "Brought to you by Jubilife TV on\n",
         "Nationwide Net!\r"
+      ],
+      "fr_FR": [
+        "Voilà qui conclut notre émission\n",
+        "spéciale, “Questions au Professeur\f",
+        "Sorbier”!\r",
+        "Diffusée pour vous par Féli-Télé sur\n",
+        "le Réseau National!\r"
       ]
     },
     {
@@ -15,17 +22,26 @@
       "en_US": [
         "See you next week, same time,\n",
         "same channel!"
+      ],
+      "fr_FR": [
+        "A la prochaine fois, même heure, même\n",
+        "chaîne!"
       ]
     },
     {
       "id": "TwinleafTownPlayerHouse2F_Text_MomBoughtTVAsGift",
-      "en_US": "Mom bought this TV as a gift."
+      "en_US": "Mom bought this TV as a gift.",
+      "fr_FR": "Cette télé est un cadeau de maman."
     },
     {
       "id": "TwinleafTownPlayerHouse2F_Text_XButtonOpensMenu",
       "en_US": [
         "The X Button\n",
         "opens the menu!"
+      ],
+      "fr_FR": [
+        "Le bouton X\n",
+        "ouvre le menu."
       ]
     },
     {
@@ -33,6 +49,10 @@
       "en_US": [
         "It’s a Wii!\n",
         "It’s controlled by a Wii Remote!"
+      ],
+      "fr_FR": [
+        "C’est une Wii!\n",
+        "Il y a une télécommande Wii!"
       ]
     },
     {
@@ -44,11 +64,20 @@
         "this world.\r",
         "The people that battle Pokémon are\n",
         "called Pokémon Trainers."
+      ],
+      "fr_FR": [
+        "{STRVAR_1 3, 0, 0} allume le PC.\r",
+        "Infos Pokémon...\r",
+        "Dans ce monde, les gens cohabitent\n",
+        "avec les Pokémon.\r",
+        "Les gens qui font combattre les Pokémon\n",
+        "sont des Dresseurs."
       ]
     },
     {
       "id": "TwinleafTownPlayerHouse2F_Text_ThereYouAre",
-      "en_US": "{STRVAR_1 3, 0, 0}: There you are!\r"
+      "en_US": "{STRVAR_1 3, 0, 0}: There you are!\r",
+      "fr_FR": "{STRVAR_1 3, 0, 0}: Te voilà!\r"
     },
     {
       "id": "TwinleafTownPlayerHouse2F_Text_ProfRowanWouldGivePokemon",
@@ -61,6 +90,16 @@
         "of Pokémon.\r",
         "So, if we ask him, I bet he’d give us\n",
         "some Pokémon!\r"
+      ],
+      "fr_FR": [
+        "Hé, {STRVAR_1 3, 1, 0}!\n",
+        "T’as regardé la télé?\r",
+        "Le Professeur Sorbier, c’est ce grand\n",
+        "savant qui étudie les Pokémon, pas vrai?\r",
+        "Ça veut dire qu’il doit avoir des tonnes\n",
+        "et des tonnes de Pokémon.\r",
+        "Je parie qu’il acceptera de nous en\n",
+        "donner quelques-uns si on lui demande!\r"
       ]
     },
     {
@@ -68,6 +107,10 @@
       "en_US": [
         "Oh, hey!\n",
         "Is this a new PC?!\r"
+      ],
+      "fr_FR": [
+        "Hé!\n",
+        "T’as un nouveau PC?!\r"
       ]
     },
     {
@@ -75,6 +118,10 @@
       "en_US": [
         "{STRVAR_1 3, 0, 0}: Uh...\n",
         "Where was I?\r"
+      ],
+      "fr_FR": [
+        "{STRVAR_1 3, 0, 0}: Euh...\n",
+        "J’en étais où, déjà?\r"
       ]
     },
     {
@@ -85,6 +132,14 @@
         "I’ll be waiting outside.\r",
         "OK, {STRVAR_1 3, 1, 0}? If you’re late, I’m\n",
         "fining you $10 million!\r"
+      ],
+      "fr_FR": [
+        "J’y suis! Allons voir le Professeur\n",
+        "Sorbier pour qu’il nous donne des\f",
+        "Pokémon.\r",
+        "Je t’attends dehors.\r",
+        "OK, {STRVAR_1 3, 1, 0}? Si t’es en retard,\n",
+        "tu me devras 100 000 $!\r"
       ]
     }
   ]

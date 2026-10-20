@@ -26,5 +26,13 @@
     "contest": {
         "effect": "CONTEST_EFFECT_MAX_VOLTAGE_ADVANTAGE",
         "type": "CONTEST_TYPE_BEAUTY"
-    }
+    },
+    "name_fr": "Feu Sacré",
+    "description_fr": [
+        "Un feu mystique\n",
+        "d’une intensité\n",
+        "redoutable attaque\n",
+        "l’ennemi. Peut aussi\n",
+        "le brûler."
+    ]
 }

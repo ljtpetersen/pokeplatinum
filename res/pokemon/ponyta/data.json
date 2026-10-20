@@ -7,7 +7,10 @@
         "special_attack": 65,
         "special_defense": 65
     },
-    "types": [ "TYPE_FIRE", "TYPE_FIRE" ],
+    "types": [
+        "TYPE_FIRE",
+        "TYPE_FIRE"
+    ],
     "catch_rate": 190,
     "base_exp_reward": 152,
     "ev_yields": {
@@ -26,26 +29,68 @@
     "hatch_cycles": 20,
     "base_friendship": 70,
     "exp_rate": "EXP_RATE_MEDIUM_FAST",
-    "egg_groups": [ "EGG_GROUP_FIELD", "EGG_GROUP_FIELD" ],
-    "abilities": [ "ABILITY_RUN_AWAY", "ABILITY_FLASH_FIRE" ],
+    "egg_groups": [
+        "EGG_GROUP_FIELD",
+        "EGG_GROUP_FIELD"
+    ],
+    "abilities": [
+        "ABILITY_RUN_AWAY",
+        "ABILITY_FLASH_FIRE"
+    ],
     "safari_flee_rate": 0,
     "body_color": "MON_COLOR_YELLOW",
     "flip_sprite": false,
     "icon_palette": 0,
     "learnset": {
         "by_level": [
-            [ 1, "MOVE_GROWL" ],
-            [ 1, "MOVE_TACKLE" ],
-            [ 6, "MOVE_TAIL_WHIP" ],
-            [ 10, "MOVE_EMBER" ],
-            [ 15, "MOVE_FLAME_WHEEL" ],
-            [ 19, "MOVE_STOMP" ],
-            [ 24, "MOVE_FIRE_SPIN" ],
-            [ 28, "MOVE_TAKE_DOWN" ],
-            [ 33, "MOVE_AGILITY" ],
-            [ 37, "MOVE_FIRE_BLAST" ],
-            [ 42, "MOVE_BOUNCE" ],
-            [ 46, "MOVE_FLARE_BLITZ" ]
+            [
+                1,
+                "MOVE_GROWL"
+            ],
+            [
+                1,
+                "MOVE_TACKLE"
+            ],
+            [
+                6,
+                "MOVE_TAIL_WHIP"
+            ],
+            [
+                10,
+                "MOVE_EMBER"
+            ],
+            [
+                15,
+                "MOVE_FLAME_WHEEL"
+            ],
+            [
+                19,
+                "MOVE_STOMP"
+            ],
+            [
+                24,
+                "MOVE_FIRE_SPIN"
+            ],
+            [
+                28,
+                "MOVE_TAKE_DOWN"
+            ],
+            [
+                33,
+                "MOVE_AGILITY"
+            ],
+            [
+                37,
+                "MOVE_FIRE_BLAST"
+            ],
+            [
+                42,
+                "MOVE_BOUNCE"
+            ],
+            [
+                46,
+                "MOVE_FLARE_BLITZ"
+            ]
         ],
         "by_tm": [
             "TM06",
@@ -118,9 +163,9 @@
             "name": "PONYTA",
             "category": "Fire Horse Pokémon",
             "entry_text": [
-                "As a newborn, it can barely stand.\n",
-                "However, through galloping, its\n",
-                "legs are made tougher and faster."
+                "About an hour after birth, its\n",
+                "fiery mane and tail grow out,\n",
+                "giving it an impressive appearance."
             ]
         },
         "fr": {
@@ -166,6 +211,18 @@
                 "うまれてから　１じかんも　すると\n",
                 "ほのおの　たてがみや　しっぽが\n",
                 "はえそろい　りっぱな　すがたになる。"
+            ]
+        },
+        "local_version": {
+            "entry_text": [
+                "As a newborn, it can barely stand.\n",
+                "However, through galloping, its\n",
+                "legs are made tougher and faster."
+            ],
+            "entry_text_fr": [
+                "Chancelantes à la naissance, ses\n",
+                "pattes deviennent très vite sûres\n",
+                "et solides à force de galoper."
             ]
         }
     },

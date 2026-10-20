@@ -27,5 +27,11 @@
     "contest": {
         "effect": "CONTEST_EFFECT_CONSECUTIVE_USE",
         "type": "CONTEST_TYPE_TOUGH"
-    }
+    },
+    "name_fr": "Torgnoles",
+    "description_fr": [
+        "Gifle rapidement\n",
+        "l’ennemi de 2 à 5 fois\n",
+        "d’affilée."
+    ]
 }

@@ -55,6 +55,10 @@
             "en_US": [
                 "I want to become a strong Trainer\n",
                 "like Crasher Wake!\r"
+            ],
+            "fr_FR": [
+                "Je veux devenir un Dresseur super\n",
+                "fort comme Lovis le Teigneux!\r"
             ]
         },
         {
@@ -62,6 +66,10 @@
             "en_US": [
                 "Groan...\n",
                 "You’re too much.\n"
+            ],
+            "fr_FR": [
+                "Grrrr...\n",
+                "Tu es vraiment imbattable.\n"
             ]
         },
         {
@@ -70,7 +78,13 @@
                 "Maybe I’ll do like Wake...\r",
                 "I mean, Crasher Wake, and use\n",
                 "the same kinds of Pokémon.\n"
+            ],
+            "fr_FR": [
+                "Je vais peut-être faire comme Lovis.\r",
+                "Tu sais, Lovis le Teigneux, je vais\n",
+                "utiliser les mêmes Pokémon.\n"
             ]
         }
-    ]
+    ],
+    "name_fr": "Angélique"
 }

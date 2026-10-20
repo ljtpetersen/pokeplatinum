@@ -3,111 +3,138 @@
   "messages": [
     {
       "id": "pl_msg_00000652_00000",
-      "en_US": "Bell 01"
+      "en_US": "Bell 01",
+      "fr_FR": "Grelots 01"
     },
     {
       "id": "pl_msg_00000652_00001",
-      "en_US": "Bell 02"
+      "en_US": "Bell 02",
+      "fr_FR": "Grelots 02"
     },
     {
       "id": "pl_msg_00000652_00002",
-      "en_US": "Bell 03"
+      "en_US": "Bell 03",
+      "fr_FR": "Grelots 03"
     },
     {
       "id": "pl_msg_00000652_00003",
-      "en_US": "Drum 01"
+      "en_US": "Drum 01",
+      "fr_FR": "Tambourin 01"
     },
     {
       "id": "pl_msg_00000652_00004",
-      "en_US": "Drum 02"
+      "en_US": "Drum 02",
+      "fr_FR": "Tambourin 02"
     },
     {
       "id": "pl_msg_00000652_00005",
-      "en_US": "Drum 03"
+      "en_US": "Drum 03",
+      "fr_FR": "Tambourin 03"
     },
     {
       "id": "pl_msg_00000652_00006",
-      "en_US": "Cymbal 01"
+      "en_US": "Cymbal 01",
+      "fr_FR": "Cymbales 01"
     },
     {
       "id": "pl_msg_00000652_00007",
-      "en_US": "Cymbal 02"
+      "en_US": "Cymbal 02",
+      "fr_FR": "Cymbales 02"
     },
     {
       "id": "pl_msg_00000652_00008",
-      "en_US": "Cymbal 03"
+      "en_US": "Cymbal 03",
+      "fr_FR": "Cymbales 03"
     },
     {
       "id": "pl_msg_00000652_00009",
-      "en_US": "Ripple 01"
+      "en_US": "Ripple 01",
+      "fr_FR": "Ondes 01"
     },
     {
       "id": "pl_msg_00000652_00010",
-      "en_US": "Ripple 02"
+      "en_US": "Ripple 02",
+      "fr_FR": "Ondes 02"
     },
     {
       "id": "pl_msg_00000652_00011",
-      "en_US": "Ripple 03"
+      "en_US": "Ripple 03",
+      "fr_FR": "Ondes 03"
     },
     {
       "id": "pl_msg_00000652_00012",
-      "en_US": "Signal 01"
+      "en_US": "Signal 01",
+      "fr_FR": "Gyrophare 01"
     },
     {
       "id": "pl_msg_00000652_00013",
-      "en_US": "Signal 02"
+      "en_US": "Signal 02",
+      "fr_FR": "Gyrophare 02"
     },
     {
       "id": "pl_msg_00000652_00014",
-      "en_US": "Signal 03"
+      "en_US": "Signal 03",
+      "fr_FR": "Gyrophare 03"
     },
     {
       "id": "pl_msg_00000652_00015",
-      "en_US": "Whirl 01"
+      "en_US": "Whirl 01",
+      "fr_FR": "Spirale 01"
     },
     {
       "id": "pl_msg_00000652_00016",
-      "en_US": "Whirl 02"
+      "en_US": "Whirl 02",
+      "fr_FR": "Spirale 02"
     },
     {
       "id": "pl_msg_00000652_00017",
-      "en_US": "Whirl 03"
+      "en_US": "Whirl 03",
+      "fr_FR": "Spirale 03"
     },
     {
       "id": "pl_msg_00000652_00018",
-      "en_US": "Pop 01"
+      "en_US": "Pop 01",
+      "fr_FR": "Cotillons 01"
     },
     {
       "id": "pl_msg_00000652_00019",
-      "en_US": "Pop 02"
+      "en_US": "Pop 02",
+      "fr_FR": "Cotillons 02"
     },
     {
       "id": "pl_msg_00000652_00020",
-      "en_US": "Pop 03"
+      "en_US": "Pop 03",
+      "fr_FR": "Cotillons 03"
     },
     {
       "id": "pl_msg_00000652_00021",
-      "en_US": "Sparkle 01"
+      "en_US": "Sparkle 01",
+      "fr_FR": "Strass 01"
     },
     {
       "id": "pl_msg_00000652_00022",
-      "en_US": "Sparkle 02"
+      "en_US": "Sparkle 02",
+      "fr_FR": "Strass 02"
     },
     {
       "id": "pl_msg_00000652_00023",
-      "en_US": "Sparkle 03"
+      "en_US": "Sparkle 03",
+      "fr_FR": "Strass 03"
     },
     {
       "id": "pl_msg_00000652_00024",
-      "en_US": "Balloon 01"
+      "en_US": "Balloon 01",
+      "fr_FR": "Ballon 01"
     },
     {
       "id": "pl_msg_00000652_00025",
-      "en_US": "Balloon 02"
+      "en_US": "Balloon 02",
+      "fr_FR": "Ballon 02"
     },
     {
       "id": "pl_msg_00000652_00026",
-      "en_US": "Balloon 03"
+      "en_US": "Balloon 03",
+      "fr_FR": "Ballon 03"
     }
   ]
 }

@@ -27,5 +27,13 @@
   "fieldUseFunc": "ITEM_USE_FUNC_TM_HM",
   "battleUseCategory": "BATTLE_USE_CATEGORY_NONE",
   "itemUseParams": null,
-  "teachesMove": "MOVE_SURF"
+  "teachesMove": "MOVE_SURF",
+  "name_fr": "CS03",
+  "description_fr": [
+    "Une énorme vague s’abat sur le\n",
+    "champ de bataille. Permet aussi\n",
+    "de voyager sur l’eau."
+  ],
+  "plural_fr": "CS03",
+  "article_fr": null
 }

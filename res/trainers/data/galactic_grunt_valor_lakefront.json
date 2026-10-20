@@ -23,7 +23,12 @@
             "en_US": [
                 "Fweh... If I didn’t run...\n",
                 "I could’ve...battled harder...\n"
+            ],
+            "fr_FR": [
+                "Pfiou... Si je n’avais pas couru...\n",
+                "J’aurais pu... me battre mieux...\n"
             ]
         }
-    ]
+    ],
+    "name_fr": "Sbire"
 }

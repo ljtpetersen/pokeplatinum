@@ -59,6 +59,11 @@
                 "I want my Pokémon to get a taste of\n",
                 "the sweetness that is victory.\r",
                 "I can’t afford to lose this one!\r"
+            ],
+            "fr_FR": [
+                "Je veux que mes Pokémon puissent\n",
+                "goûter à la victoire.\r",
+                "Je ne peux pas me permettre de perdre!\r"
             ]
         },
         {
@@ -66,6 +71,10 @@
             "en_US": [
                 "This defeat has the tang of my bitter\n",
                 "tears..."
+            ],
+            "fr_FR": [
+                "Cette défaite est aussi amère que\n",
+                "mes larmes..."
             ]
         },
         {
@@ -74,7 +83,13 @@
                 "I’m sorry, my Pokémon team...\r",
                 "I promise, I’ll get better at this so\n",
                 "you can get a taste of victory!\n"
+            ],
+            "fr_FR": [
+                "Pardonnez-moi, mes chers Pokémon...\r",
+                "La prochaine fois, je vous promets de\n",
+                "faire mieux! On va gagner... un jour!\n"
             ]
         }
-    ]
+    ],
+    "name_fr": "Al"
 }

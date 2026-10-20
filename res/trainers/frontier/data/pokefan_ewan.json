@@ -85,6 +85,10 @@
             "en_US": [
                 "Krink... Krak... Heheheh.\n",
                 "Let me limber up for this."
+            ],
+            "fr_FR": [
+                "Pourquoi dit-on vainqueur\n",
+                "alors qu’il n’y en a qu’un?"
             ]
         },
         {
@@ -92,6 +96,10 @@
             "en_US": [
                 "Hah!\n",
                 "Weak, even for a joke!\r"
+            ],
+            "fr_FR": [
+                "C’est ce jeu de mots extraordinaire\n",
+                "qui t’a fait perdre tes moyens?\r"
             ]
         },
         {
@@ -99,7 +107,12 @@
             "en_US": [
                 "Gnnrrr...\n",
                 "I have only myself to blame...\r"
+            ],
+            "fr_FR": [
+                "D’ailleurs, pourquoi dire “une défaite”?\n",
+                "C’est “une fête” ou “des fêtes”, non?\r"
             ]
         }
-    ]
+    ],
+    "name_fr": "Elouan"
 }

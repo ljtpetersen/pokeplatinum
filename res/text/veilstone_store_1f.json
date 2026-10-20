@@ -6,6 +6,10 @@
       "en_US": [
         "Welcome to the fabulous Veilstone\n",
         "Department Store."
+      ],
+      "fr_FR": [
+        "Bienvenue au fabuleux\n",
+        "Centre Commercial Voilaroc."
       ]
     },
     {
@@ -15,6 +19,12 @@
         "ensure customer satisfaction.\r",
         "They really look after you once you\n",
         "become a regular customer."
+      ],
+      "fr_FR": [
+        "Ce centre commercial se met en\n",
+        "quatre pour satisfaire la clientèle.\r",
+        "Ils sont aux petits soins avec\n",
+        "leurs clients réguliers."
       ]
     },
     {
@@ -22,6 +32,10 @@
       "en_US": [
         "I like the formal air of a luxury\n",
         "department store."
+      ],
+      "fr_FR": [
+        "J’apprécie le côté solennel de ces\n",
+        "centres commerciaux de luxe."
       ]
     },
     {
@@ -30,6 +44,11 @@
         "I made an Accessory modeled after\n",
         "the Pokémon of a Trainer I met.\r",
         "Would you like one?\r"
+      ],
+      "fr_FR": [
+        "J’ai dessiné un Accessoire inspiré du\n",
+        "Pokémon d’un Dresseur que j’ai croisé.\r",
+        "Tu en veux un exemplaire?\r"
       ]
     },
     {
@@ -38,6 +57,11 @@
         "It’s a {STRVAR_1 31, 0, 0}.\r",
         "It will give your Pokémon a\n",
         "different look for Contests."
+      ],
+      "fr_FR": [
+        "C’est un {STRVAR_1 31, 0, 0}.\r",
+        "Il donnera un look différent à ton\n",
+        "Pokémon durant les Concours."
       ]
     },
     {
@@ -45,6 +69,10 @@
       "en_US": [
         "Discover a new you!\n",
         "Veilstone Department Store"
+      ],
+      "fr_FR": [
+        "Une nouvelle vie vous attend!\n",
+        "Centre Commercial Voilaroc"
       ]
     },
     {
@@ -56,6 +84,14 @@
         "3F: TM Corner\r",
         "4F: Poké Dolls & Goods\r",
         "5F: Rooftop Plaza"
+      ],
+      "fr_FR": [
+        "-1: Alimentation\r",
+        "RC: Espace Dresseurs\r",
+        "1¹: Fournitures de Combat\r",
+        "2⁴: Centre CT\r",
+        "3⁴: Poupées Pokémon et articles\r",
+        "4⁴: Terrasse"
       ]
     }
   ]

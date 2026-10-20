@@ -57,6 +57,10 @@
             "en_US": [
                 "Cute little Trainer!\n",
                 "We’ll squash you flat."
+            ],
+            "fr_FR": [
+                "Salut, jeune Dresseur.\n",
+                "Prépare-toi à affronter la défaite."
             ]
         },
         {
@@ -64,6 +68,10 @@
             "en_US": [
                 "Eheh! You’re so cute when you look\n",
                 "angry and frustrated!\r"
+            ],
+            "fr_FR": [
+                "Ta colère et ta frustration me\n",
+                "comblent de joie, jeune Dresseur!\r"
             ]
         },
         {
@@ -71,7 +79,12 @@
             "en_US": [
                 "What do you think you’re doing?\n",
                 "I hate to lose, I’ll have you know!\r"
+            ],
+            "fr_FR": [
+                "Non mais qu’est-ce qui te prend?\n",
+                "Sache que j’ai horreur de perdre!\r"
             ]
         }
-    ]
+    ],
+    "name_fr": "Agnès"
 }

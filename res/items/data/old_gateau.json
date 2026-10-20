@@ -33,5 +33,13 @@
     "healFreeze": true,
     "healParalysis": true,
     "healConfusion": true
-  }
+  },
+  "name_fr": "Vieux Gâteau",
+  "description_fr": [
+    "Spécialité du Vieux Château. Il\n",
+    "soigne tous les problèmes de statut\n",
+    "d’un Pokémon."
+  ],
+  "plural_fr": "Vieux Gâteau",
+  "article_fr": null
 }

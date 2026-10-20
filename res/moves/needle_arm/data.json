@@ -26,5 +26,12 @@
     "contest": {
         "effect": "CONTEST_EFFECT_BASIC",
         "type": "CONTEST_TYPE_SMART"
-    }
+    },
+    "name_fr": "Poing Dard",
+    "description_fr": [
+        "Le lanceur attaque en\n",
+        "fouettant l’ennemi de\n",
+        "ses bras épineux. \n",
+        "Peut aussi l’apeurer."
+    ]
 }

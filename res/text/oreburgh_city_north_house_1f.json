@@ -8,6 +8,12 @@
         "called MACHOP?\r",
         "Would you be willing to trade your\n",
         "MACHOP for my ABRA?"
+      ],
+      "fr_FR": [
+        "Dis-moi... As-tu un Pokémon appelé\n",
+        "MACHOC?\r",
+        "Veux-tu échanger ton MACHOC\n",
+        "contre mon ABRA?"
       ]
     },
     {
@@ -16,11 +22,17 @@
         "Be nice to my ABRA!\r",
         "I’ll be sure to look after your MACHOP\n",
         "in return!"
+      ],
+      "fr_FR": [
+        "Sois sympa avec mon ABRA!\r",
+        "Et en échange, je m’occuperai bien\n",
+        "de ton MACHOC!"
       ]
     },
     {
       "id": "OreburghCityNorthHouse1F_Text_AskedForMachop",
-      "en_US": "What I asked for was a MACHOP..."
+      "en_US": "What I asked for was a MACHOP...",
+      "fr_FR": "Ce que je veux, c’est un MACHOC..."
     },
     {
       "id": "OreburghCityNorthHouse1F_Text_IllBeWaiting",
@@ -29,6 +41,13 @@
         "Well, I can’t make you trade me.\r",
         "But if you change your mind,\n",
         "I’ll be right here waiting!"
+      ],
+      "fr_FR": [
+        "Oh, OK...\n",
+        "Je ne peux pas te forcer à faire cet\f",
+        "échange.\r",
+        "Mais si tu changes d’avis, je serai\n",
+        "toujours là à attendre!"
       ]
     },
     {
@@ -36,6 +55,10 @@
       "en_US": [
         "Thanks to Pokémon, I got to be\n",
         "friends with you!"
+      ],
+      "fr_FR": [
+        "Grâce aux Pokémon, je suis devenue\n",
+        "ton amie!"
       ]
     },
     {
@@ -47,6 +70,14 @@
         "ignore the Trainer.\r",
         "Of course, it won’t matter if you have\n",
         "lots of Gym Badges."
+      ],
+      "fr_FR": [
+        "Un Pokémon obtenu par un échange avec\n",
+        "un autre Dresseur grandit vite.\r",
+        "Mais s’il grandit trop vite, le Pokémon\n",
+        "est susceptible d’ignorer le Dresseur.\r",
+        "Bien sûr, ce n’est pas un problème\n",
+        "quand on a beaucoup de Badges d’Arène."
       ]
     },
     {
@@ -57,6 +88,13 @@
         "That’s pretty cool, huh?\r",
         "It means you can send an item as a gift\n",
         "along with your Pokémon in a trade!"
+      ],
+      "fr_FR": [
+        "Quand tu échanges un Pokémon, l’objet\n",
+        "qu’il tient est envoyé lui aussi.\r",
+        "Plutôt cool, hein?\r",
+        "Ça te permet d’envoyer un objet en\n",
+        "cadeau en même temps que le Pokémon!"
       ]
     }
   ]

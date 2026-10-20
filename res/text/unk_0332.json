@@ -3,275 +3,343 @@
   "messages": [
     {
       "id": "pl_msg_00000332_00000",
-      "en_US": "Overlay"
+      "en_US": "Overlay",
+      "fr_FR": "Overlay"
     },
     {
       "id": "pl_msg_00000332_00001",
-      "en_US": "Test"
+      "en_US": "Test",
+      "fr_FR": "Test"
     },
     {
       "id": "pl_msg_00000332_00002",
-      "en_US": "Acting"
+      "en_US": "Acting",
+      "fr_FR": "Acting"
     },
     {
       "id": "pl_msg_00000332_00003",
-      "en_US": "Visual"
+      "en_US": "Visual",
+      "fr_FR": "Visual"
     },
     {
       "id": "pl_msg_00000332_00004",
-      "en_US": "Up to Visual evaluation"
+      "en_US": "Up to Visual evaluation",
+      "fr_FR": "Up to Visual evaluation"
     },
     {
       "id": "pl_msg_00000332_00005",
-      "en_US": "Dance"
+      "en_US": "Dance",
+      "fr_FR": "Dance"
     },
     {
       "id": "pl_msg_00000332_00006",
-      "en_US": "Dance: Get a turn as a Main Dancer"
+      "en_US": "Dance: Get a turn as a Main Dancer",
+      "fr_FR": "Dance: Get a turn as a Main Dancer"
     },
     {
       "id": "pl_msg_00000332_00007",
-      "en_US": "Dance: Won’t get a turn as a Main Dancer"
+      "en_US": "Dance: Won’t get a turn as a Main Dancer",
+      "fr_FR": "Dance: Won’t get a turn as a Main Dancer"
     },
     {
       "id": "pl_msg_00000332_00008",
-      "en_US": "Link Contest"
+      "en_US": "Link Contest",
+      "fr_FR": "Link Contest"
     },
     {
       "id": "pl_msg_00000332_00009",
-      "en_US": "Paticles"
+      "en_US": "Paticles",
+      "fr_FR": "Paticles"
     },
     {
       "id": "pl_msg_00000332_00010",
-      "en_US": "Result Annoucement"
+      "en_US": "Result Annoucement",
+      "fr_FR": "Result Annoucement"
     },
     {
       "id": "pl_msg_00000332_00011",
-      "en_US": "Dance: without limitaion"
+      "en_US": "Dance: without limitaion",
+      "fr_FR": "Dance: without limitaion"
     },
     {
       "id": "pl_msg_00000332_00012",
-      "en_US": "Coolness Master ON"
+      "en_US": "Coolness Master ON",
+      "fr_FR": "Coolness Master ON"
     },
     {
       "id": "pl_msg_00000332_00013",
-      "en_US": "Coolness Master OFF"
+      "en_US": "Coolness Master OFF",
+      "fr_FR": "Coolness Master OFF"
     },
     {
       "id": "pl_msg_00000332_00014",
-      "en_US": "Beauty Master ON"
+      "en_US": "Beauty Master ON",
+      "fr_FR": "Beauty Master ON"
     },
     {
       "id": "pl_msg_00000332_00015",
-      "en_US": "Beauty Master OFF"
+      "en_US": "Beauty Master OFF",
+      "fr_FR": "Beauty Master OFF"
     },
     {
       "id": "pl_msg_00000332_00016",
-      "en_US": "Cuteness Master ON"
+      "en_US": "Cuteness Master ON",
+      "fr_FR": "Cuteness Master ON"
     },
     {
       "id": "pl_msg_00000332_00017",
-      "en_US": "Cuteness Master OFF"
+      "en_US": "Cuteness Master OFF",
+      "fr_FR": "Cuteness Master OFF"
     },
     {
       "id": "pl_msg_00000332_00018",
-      "en_US": "Smartness Master ON"
+      "en_US": "Smartness Master ON",
+      "fr_FR": "Smartness Master ON"
     },
     {
       "id": "pl_msg_00000332_00019",
-      "en_US": "Smartness Master OFF"
+      "en_US": "Smartness Master OFF",
+      "fr_FR": "Smartness Master OFF"
     },
     {
       "id": "pl_msg_00000332_00020",
-      "en_US": "Toughness Master ON"
+      "en_US": "Toughness Master ON",
+      "fr_FR": "Toughness Master ON"
     },
     {
       "id": "pl_msg_00000332_00021",
-      "en_US": "Toughness Master OFF"
+      "en_US": "Toughness Master OFF",
+      "fr_FR": "Toughness Master OFF"
     },
     {
       "id": "pl_msg_00000332_00022",
-      "en_US": "Outside saving"
+      "en_US": "Outside saving",
+      "fr_FR": "Outside saving"
     },
     {
       "id": "pl_msg_00000332_00023",
-      "en_US": "Outside loading"
+      "en_US": "Outside loading",
+      "fr_FR": "Outside loading"
     },
     {
       "id": "pl_msg_00000332_00024",
-      "en_US": "Script Test"
+      "en_US": "Script Test",
+      "fr_FR": "Script Test"
     },
     {
       "id": "pl_msg_00000332_00025",
-      "en_US": "Capture"
+      "en_US": "Capture",
+      "fr_FR": "Capture"
     },
     {
       "id": "pl_msg_00000332_00026",
-      "en_US": "Clear an initialized-outside-saving flag"
+      "en_US": "Clear an initialized-outside-saving flag",
+      "fr_FR": "Clear an initialized-outside-saving flag"
     },
     {
       "id": "pl_msg_00000332_00027",
-      "en_US": "Wobbuffet Pop(alone)"
+      "en_US": "Wobbuffet Pop(alone)",
+      "fr_FR": "Wobbuffet Pop(alone)"
     },
     {
       "id": "pl_msg_00000332_00028",
-      "en_US": "Update all the Dress-up data at GDS"
+      "en_US": "Update all the Dress-up data at GDS",
+      "fr_FR": "Update all the Dress-up data at GDS"
     },
     {
       "id": "pl_msg_00000332_00029",
-      "en_US": "Battle Recorder at GDS"
+      "en_US": "Battle Recorder at GDS",
+      "fr_FR": "Battle Recorder at GDS"
     },
     {
       "id": "pl_msg_00000332_00030",
-      "en_US": "Footprint Stamps"
+      "en_US": "Footprint Stamps",
+      "fr_FR": "Footprint Stamps"
     },
     {
       "id": "pl_msg_00000332_00031",
-      "en_US": "Rank:Normal"
+      "en_US": "Rank:Normal",
+      "fr_FR": "Rank:Normal"
     },
     {
       "id": "pl_msg_00000332_00032",
-      "en_US": "Rank:Great"
+      "en_US": "Rank:Great",
+      "fr_FR": "Rank:Great"
     },
     {
       "id": "pl_msg_00000332_00033",
-      "en_US": "Rank:Ultra"
+      "en_US": "Rank:Ultra",
+      "fr_FR": "Rank:Ultra"
     },
     {
       "id": "pl_msg_00000332_00034",
-      "en_US": "Rank:Master"
+      "en_US": "Rank:Master",
+      "fr_FR": "Rank:Master"
     },
     {
       "id": "pl_msg_00000332_00035",
-      "en_US": "Category:Cool"
+      "en_US": "Category:Cool",
+      "fr_FR": "Category:Cool"
     },
     {
       "id": "pl_msg_00000332_00036",
-      "en_US": "Category:Beauty"
+      "en_US": "Category:Beauty",
+      "fr_FR": "Category:Beauty"
     },
     {
       "id": "pl_msg_00000332_00037",
-      "en_US": "Category:Cute"
+      "en_US": "Category:Cute",
+      "fr_FR": "Category:Cute"
     },
     {
       "id": "pl_msg_00000332_00038",
-      "en_US": "Category:Smart"
+      "en_US": "Category:Smart",
+      "fr_FR": "Category:Smart"
     },
     {
       "id": "pl_msg_00000332_00039",
-      "en_US": "Category:Tough"
+      "en_US": "Category:Tough",
+      "fr_FR": "Category:Tough"
     },
     {
       "id": "pl_msg_00000332_00040",
-      "en_US": "Battle Video"
+      "en_US": "Battle Video",
+      "fr_FR": "Battle Video"
     },
     {
       "id": "pl_msg_00000332_00041",
-      "en_US": "Battle Video Ranking"
+      "en_US": "Battle Video Ranking",
+      "fr_FR": "Battle Video Ranking"
     },
     {
       "id": "pl_msg_00000332_00042",
-      "en_US": "Trainer Ranking"
+      "en_US": "Trainer Ranking",
+      "fr_FR": "Trainer Ranking"
     },
     {
       "id": "pl_msg_00000332_00043",
-      "en_US": "Dress-up"
+      "en_US": "Dress-up",
+      "fr_FR": "Dress-up"
     },
     {
       "id": "pl_msg_00000332_00044",
-      "en_US": "Box data"
+      "en_US": "Box data",
+      "fr_FR": "Box data"
     },
     {
       "id": "pl_msg_00000332_00045",
-      "en_US": "Sending {STRVAR_1 0, 0, 0}...　{STRVAR_1 50, 1, 0}"
+      "en_US": "Sending {STRVAR_1 0, 0, 0}...　{STRVAR_1 50, 1, 0}",
+      "fr_FR": "Sending {STRVAR_1 0, 0, 0}...　{STRVAR_1 50, 1, 0}"
     },
     {
       "id": "pl_msg_00000332_00046",
-      "en_US": "An error occurred."
+      "en_US": "An error occurred.",
+      "fr_FR": "An error occurred."
     },
     {
       "id": "pl_msg_00000332_00047",
-      "en_US": "My Video: Destroy the current data"
+      "en_US": "My Video: Destroy the current data",
+      "fr_FR": "My Video: Destroy the current data"
     },
     {
       "id": "pl_msg_00000332_00048",
-      "en_US": "My Video: Destroy the mirror data"
+      "en_US": "My Video: Destroy the mirror data",
+      "fr_FR": "My Video: Destroy the mirror data"
     },
     {
       "id": "pl_msg_00000332_00049",
-      "en_US": "My Video: Change the current key"
+      "en_US": "My Video: Change the current key",
+      "fr_FR": "My Video: Change the current key"
     },
     {
       "id": "pl_msg_00000332_00050",
-      "en_US": "My Video: Change the mirror key"
+      "en_US": "My Video: Change the mirror key",
+      "fr_FR": "My Video: Change the mirror key"
     },
     {
       "id": "pl_msg_00000332_00051",
-      "en_US": "Video 1: Destroy the current data"
+      "en_US": "Video 1: Destroy the current data",
+      "fr_FR": "Video 1: Destroy the current data"
     },
     {
       "id": "pl_msg_00000332_00052",
-      "en_US": "Video 1: Destroy the mirror data"
+      "en_US": "Video 1: Destroy the mirror data",
+      "fr_FR": "Video 1: Destroy the mirror data"
     },
     {
       "id": "pl_msg_00000332_00053",
-      "en_US": "Video 1: Change the current key"
+      "en_US": "Video 1: Change the current key",
+      "fr_FR": "Video 1: Change the current key"
     },
     {
       "id": "pl_msg_00000332_00054",
-      "en_US": "Video 1: Change the mirror key"
+      "en_US": "Video 1: Change the mirror key",
+      "fr_FR": "Video 1: Change the mirror key"
     },
     {
       "id": "pl_msg_00000332_00055",
-      "en_US": "Video 2: Destroy the current data"
+      "en_US": "Video 2: Destroy the current data",
+      "fr_FR": "Video 2: Destroy the current data"
     },
     {
       "id": "pl_msg_00000332_00056",
-      "en_US": "Video 2: Destroy the mirror data"
+      "en_US": "Video 2: Destroy the mirror data",
+      "fr_FR": "Video 2: Destroy the mirror data"
     },
     {
       "id": "pl_msg_00000332_00057",
-      "en_US": "Video 2: Change the current key"
+      "en_US": "Video 2: Change the current key",
+      "fr_FR": "Video 2: Change the current key"
     },
     {
       "id": "pl_msg_00000332_00058",
-      "en_US": "Video 2: Change the mirror key"
+      "en_US": "Video 2: Change the mirror key",
+      "fr_FR": "Video 2: Change the mirror key"
     },
     {
       "id": "pl_msg_00000332_00059",
-      "en_US": "Video 3: Destroy the current data"
+      "en_US": "Video 3: Destroy the current data",
+      "fr_FR": "Video 3: Destroy the current data"
     },
     {
       "id": "pl_msg_00000332_00060",
-      "en_US": "Video 3: Destroy the mirror data"
+      "en_US": "Video 3: Destroy the mirror data",
+      "fr_FR": "Video 3: Destroy the mirror data"
     },
     {
       "id": "pl_msg_00000332_00061",
-      "en_US": "Video 3: Change the current key"
+      "en_US": "Video 3: Change the current key",
+      "fr_FR": "Video 3: Change the current key"
     },
     {
       "id": "pl_msg_00000332_00062",
-      "en_US": "Video 3: Change the mirror key"
+      "en_US": "Video 3: Change the mirror key",
+      "fr_FR": "Video 3: Change the mirror key"
     },
     {
       "id": "pl_msg_00000332_00063",
-      "en_US": "Video 3: Destroy the current data"
+      "en_US": "Video 3: Destroy the current data",
+      "fr_FR": "Video 3: Destroy the current data"
     },
     {
       "id": "pl_msg_00000332_00064",
-      "en_US": "Hall: Destroy the mirror data"
+      "en_US": "Hall: Destroy the mirror data",
+      "fr_FR": "Hall: Destroy the mirror data"
     },
     {
       "id": "pl_msg_00000332_00065",
-      "en_US": "Hall: Change the current key"
+      "en_US": "Hall: Change the current key",
+      "fr_FR": "Hall: Change the current key"
     },
     {
       "id": "pl_msg_00000332_00066",
-      "en_US": "Hall: Change the mirror key"
+      "en_US": "Hall: Change the mirror key",
+      "fr_FR": "Hall: Change the mirror key"
     },
     {
       "id": "pl_msg_00000332_00067",
-      "en_US": "Desroy the regular saved file"
+      "en_US": "Desroy the regular saved file",
+      "fr_FR": "Desroy the regular saved file"
     }
   ]
 }

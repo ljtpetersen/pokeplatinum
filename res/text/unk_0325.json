@@ -3,183 +3,228 @@
   "messages": [
     {
       "id": "pl_msg_00000325_00000",
-      "en_US": "Moves’ secondary effects OFF"
+      "en_US": "Moves’ secondary effects OFF",
+      "fr_FR": "Moves’ secondary effects OFF"
     },
     {
       "id": "pl_msg_00000325_00001",
-      "en_US": "Moves’ secondary effects ON"
+      "en_US": "Moves’ secondary effects ON",
+      "fr_FR": "Moves’ secondary effects ON"
     },
     {
       "id": "pl_msg_00000325_00002",
-      "en_US": "Activate ability OFF"
+      "en_US": "Activate ability OFF",
+      "fr_FR": "Activate ability OFF"
     },
     {
       "id": "pl_msg_00000325_00003",
-      "en_US": "Activate ability ON"
+      "en_US": "Activate ability ON",
+      "fr_FR": "Activate ability ON"
     },
     {
       "id": "pl_msg_00000325_00004",
-      "en_US": "Held item’s effects OFF"
+      "en_US": "Held item’s effects OFF",
+      "fr_FR": "Held item’s effects OFF"
     },
     {
       "id": "pl_msg_00000325_00005",
-      "en_US": "Held item’s effects ON"
+      "en_US": "Held item’s effects ON",
+      "fr_FR": "Held item’s effects ON"
     },
     {
       "id": "pl_msg_00000325_00006",
-      "en_US": "No random damage OFF"
+      "en_US": "No random damage OFF",
+      "fr_FR": "No random damage OFF"
     },
     {
       "id": "pl_msg_00000325_00007",
-      "en_US": "No random damage ON"
+      "en_US": "No random damage ON",
+      "fr_FR": "No random damage ON"
     },
     {
       "id": "pl_msg_00000325_00008",
-      "en_US": "Switch Pokémon OFF"
+      "en_US": "Switch Pokémon OFF",
+      "fr_FR": "Switch Pokémon OFF"
     },
     {
       "id": "pl_msg_00000325_00009",
-      "en_US": "Switch Pokémon ON"
+      "en_US": "Switch Pokémon ON",
+      "fr_FR": "Switch Pokémon ON"
     },
     {
       "id": "pl_msg_00000325_00010",
-      "en_US": "Chatter Rank Fix OFF"
+      "en_US": "Chatter Rank Fix OFF",
+      "fr_FR": "Chatter Rank Fix OFF"
     },
     {
       "id": "pl_msg_00000325_00011",
-      "en_US": "Chatter Rank Fix 1"
+      "en_US": "Chatter Rank Fix 1",
+      "fr_FR": "Chatter Rank Fix 1"
     },
     {
       "id": "pl_msg_00000325_00012",
-      "en_US": "Chatter Rank Fix 2"
+      "en_US": "Chatter Rank Fix 2",
+      "fr_FR": "Chatter Rank Fix 2"
     },
     {
       "id": "pl_msg_00000325_00013",
-      "en_US": "Chatter Rank Fix 3"
+      "en_US": "Chatter Rank Fix 3",
+      "fr_FR": "Chatter Rank Fix 3"
     },
     {
       "id": "pl_msg_00000325_00014",
-      "en_US": "Critical hit OFF"
+      "en_US": "Critical hit OFF",
+      "fr_FR": "Critical hit OFF"
     },
     {
       "id": "pl_msg_00000325_00015",
-      "en_US": "Critical hit ON"
+      "en_US": "Critical hit ON",
+      "fr_FR": "Critical hit ON"
     },
     {
       "id": "pl_msg_00000325_00016",
-      "en_US": "Metronome OFF"
+      "en_US": "Metronome OFF",
+      "fr_FR": "Metronome OFF"
     },
     {
       "id": "pl_msg_00000325_00017",
-      "en_US": "Set Metronome"
+      "en_US": "Set Metronome",
+      "fr_FR": "Set Metronome"
     },
     {
       "id": "pl_msg_00000325_00018",
-      "en_US": "Set Metronome range"
+      "en_US": "Set Metronome range",
+      "fr_FR": "Set Metronome range"
     },
     {
       "id": "pl_msg_00000325_00019",
-      "en_US": "Memory left"
+      "en_US": "Memory left",
+      "fr_FR": "Memory left"
     },
     {
       "id": "pl_msg_00000325_00020",
-      "en_US": "→"
+      "en_US": "→",
+      "fr_FR": "→"
     },
     {
       "id": "pl_msg_00000325_00021",
-      "en_US": "A"
+      "en_US": "A",
+      "fr_FR": "A"
     },
     {
       "id": "pl_msg_00000325_00022",
-      "en_US": "B"
+      "en_US": "B",
+      "fr_FR": "B"
     },
     {
       "id": "pl_msg_00000325_00023",
-      "en_US": "A"
+      "en_US": "A",
+      "fr_FR": "A"
     },
     {
       "id": "pl_msg_00000325_00024",
-      "en_US": "B"
+      "en_US": "B",
+      "fr_FR": "B"
     },
     {
       "id": "pl_msg_00000325_00025",
-      "en_US": "C"
+      "en_US": "C",
+      "fr_FR": "C"
     },
     {
       "id": "pl_msg_00000325_00026",
-      "en_US": "D"
+      "en_US": "D",
+      "fr_FR": "D"
     },
     {
       "id": "pl_msg_00000325_00027",
-      "en_US": "Attack"
+      "en_US": "Attack",
+      "fr_FR": "Attack"
     },
     {
       "id": "pl_msg_00000325_00028",
-      "en_US": "Defense"
+      "en_US": "Defense",
+      "fr_FR": "Defense"
     },
     {
       "id": "pl_msg_00000325_00029",
-      "en_US": "Speed"
+      "en_US": "Speed",
+      "fr_FR": "Speed"
     },
     {
       "id": "pl_msg_00000325_00030",
-      "en_US": "Sp. Attack"
+      "en_US": "Sp. Attack",
+      "fr_FR": "Sp. Attack"
     },
     {
       "id": "pl_msg_00000325_00031",
-      "en_US": "Sp. Defense"
+      "en_US": "Sp. Defense",
+      "fr_FR": "Sp. Defense"
     },
     {
       "id": "pl_msg_00000325_00032",
-      "en_US": "Accuracy"
+      "en_US": "Accuracy",
+      "fr_FR": "Accuracy"
     },
     {
       "id": "pl_msg_00000325_00033",
-      "en_US": "Evasiveness"
+      "en_US": "Evasiveness",
+      "fr_FR": "Evasiveness"
     },
     {
       "id": "pl_msg_00000325_00034",
-      "en_US": "Command"
+      "en_US": "Command",
+      "fr_FR": "Command"
     },
     {
       "id": "pl_msg_00000325_00035",
-      "en_US": "Fight"
+      "en_US": "Fight",
+      "fr_FR": "Fight"
     },
     {
       "id": "pl_msg_00000325_00036",
-      "en_US": "Bag"
+      "en_US": "Bag",
+      "fr_FR": "Bag"
     },
     {
       "id": "pl_msg_00000325_00037",
-      "en_US": "Pokémon"
+      "en_US": "Pokémon",
+      "fr_FR": "Pokémon"
     },
     {
       "id": "pl_msg_00000325_00038",
-      "en_US": "Run"
+      "en_US": "Run",
+      "fr_FR": "Run"
     },
     {
       "id": "pl_msg_00000325_00039",
-      "en_US": "Move"
+      "en_US": "Move",
+      "fr_FR": "Move"
     },
     {
       "id": "pl_msg_00000325_00040",
-      "en_US": "Foe"
+      "en_US": "Foe",
+      "fr_FR": "Foe"
     },
     {
       "id": "pl_msg_00000325_00041",
-      "en_US": "Item"
+      "en_US": "Item",
+      "fr_FR": "Item"
     },
     {
       "id": "pl_msg_00000325_00042",
-      "en_US": "Pokémon"
+      "en_US": "Pokémon",
+      "fr_FR": "Pokémon"
     },
     {
       "id": "pl_msg_00000325_00043",
-      "en_US": "Random Seeds"
+      "en_US": "Random Seeds",
+      "fr_FR": "Random Seeds"
     },
     {
       "id": "pl_msg_00000325_00044",
-      "en_US": "Check Booted AI"
+      "en_US": "Check Booted AI",
+      "fr_FR": "Check Booted AI"
     }
   ]
 }

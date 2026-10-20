@@ -28,5 +28,13 @@
     "contest": {
         "effect": "CONTEST_EFFECT_MAX_VOLTAGE_ADVANTAGE",
         "type": "CONTEST_TYPE_BEAUTY"
-    }
+    },
+    "name_fr": "Giga Impact",
+    "description_fr": [
+        "Le lanceur charge\n",
+        "l’ennemi de toute sa\n",
+        "puissance. Il doit\n",
+        "ensuite se reposer\n",
+        "au tour suivant."
+    ]
 }

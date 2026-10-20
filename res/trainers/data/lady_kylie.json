@@ -34,7 +34,12 @@
             "en_US": [
                 "Ohh... How could I lose at dear\n",
                 "Papa’s restaurant?\n"
+            ],
+            "fr_FR": [
+                "Ohh... Comment ai-je pu perdre au\n",
+                "restaurant de papa?\n"
             ]
         }
-    ]
+    ],
+    "name_fr": "Anaïs"
 }

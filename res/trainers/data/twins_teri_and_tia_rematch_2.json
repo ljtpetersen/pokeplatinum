@@ -32,22 +32,39 @@
             "en_US": [
                 "Teri: Yay! We’re gonna battle with\n",
                 "lots of Pokémon again!\r"
+            ],
+            "fr_FR": [
+                "Taïs: Yahou! On va encore se\n",
+                "battre avec plein de Pokémon!\r"
             ]
         },
         {
             "type": "TRMSG_DOUBLE_BATTLE_DEFEAT_1",
-            "en_US": "Teri: Even with both of us we lost.\n"
+            "en_US": "Teri: Even with both of us we lost.\n",
+            "fr_FR": [
+                "Taïs: On avait beau être deux,\n",
+                "on a quand même perdu.\n"
+            ]
         },
         {
             "type": "TRMSG_DOUBLE_BATTLE_REMATCH_2",
             "en_US": [
                 "Tia: Yay! We’re gonna have another\n",
                 "battle with three Trainers!\r"
+            ],
+            "fr_FR": [
+                "Tia: Yahou! On va encore se battre\n",
+                "à trois Dresseurs!\r"
             ]
         },
         {
             "type": "TRMSG_DOUBLE_BATTLE_DEFEAT_2",
-            "en_US": "Tia: We two couldn’t win.\n"
+            "en_US": "Tia: We two couldn’t win.\n",
+            "fr_FR": [
+                "Tia: Nous deux, on ne pouvait pas\n",
+                "gagner.\n"
+            ]
         }
-    ]
+    ],
+    "name_fr": "Taïs & Tia"
 }

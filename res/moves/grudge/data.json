@@ -22,5 +22,13 @@
     "contest": {
         "effect": "CONTEST_EFFECT_LOWERS_VOLTAGE",
         "type": "CONTEST_TYPE_TOUGH"
-    }
+    },
+    "name_fr": "Rancune",
+    "description_fr": [
+        "Si le lanceur est mis\n",
+        "K.O., sa rancune\n",
+        "épuise les PP de la \n",
+        "capacité utilisée pour\n",
+        "le mettre K.O."
+    ]
 }

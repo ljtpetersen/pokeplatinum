@@ -27,5 +27,12 @@
   "fieldUseFunc": "ITEM_USE_FUNC_TM_HM",
   "battleUseCategory": "BATTLE_USE_CATEGORY_NONE",
   "itemUseParams": null,
-  "teachesMove": "MOVE_SHADOW_CLAW"
+  "teachesMove": "MOVE_SHADOW_CLAW",
+  "name_fr": "CT65",
+  "description_fr": [
+    "Attaque avec une griffe puissante\n",
+    "faite d’ombres. Taux de critiques élevé."
+  ],
+  "plural_fr": "CT65",
+  "article_fr": null
 }

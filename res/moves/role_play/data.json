@@ -21,5 +21,11 @@
     "contest": {
         "effect": "CONTEST_EFFECT_PITY_POINTS",
         "type": "CONTEST_TYPE_CUTE"
-    }
+    },
+    "name_fr": "Imitation",
+    "description_fr": [
+        "Imite l’ennemi et\n",
+        "copie sa capacité\n",
+        "spéciale."
+    ]
 }

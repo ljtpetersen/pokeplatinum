@@ -6,17 +6,26 @@
       "en_US": [
         "{STRVAR_1 3, 0, 0} obtained\n",
         "the {STRVAR_1 8, 1, 0}!"
+      ],
+      "fr_FR": [
+        "{STRVAR_1 3, 0, 0} obtient\n",
+        "{STRVAR_1 8, 1, 0}!"
       ]
     },
     {
       "id": "VisibleItems_Text_TheBagIsFull",
-      "en_US": "The Bag is full..."
+      "en_US": "The Bag is full...",
+      "fr_FR": "Le Sac est plein..."
     },
     {
       "id": "VisibleItems_Text_PlayerPutItemInItemPocket1",
       "en_US": [
         "{STRVAR_1 3, 0, 0} put the {STRVAR_1 8, 1, 0}\n",
         "in the {STRVAR_1 8, 2, 0} Pocket."
+      ],
+      "fr_FR": [
+        "{STRVAR_1 3, 0, 0} met {STRVAR_1 8, 1, 0} dans\n",
+        "la Poche {STRVAR_1 8, 2, 0}."
       ]
     },
     {
@@ -24,7 +33,8 @@
       "en_US": [
         "{STRVAR_1 3, 0, 0} found\n",
         "{STRVAR_1 8, 1, 0}!"
-      ]
+      ],
+      "fr_FR": "{STRVAR_1 3, 0, 0} trouve {STRVAR_1 8, 1, 0}!"
     },
     {
       "id": "VisibleItems_Text_ObtainedItemBagIsFull",
@@ -32,6 +42,11 @@
         "Obtained the {STRVAR_1 8, 0, 0}!\r",
         "Too bad!\n",
         "The Bag is full..."
+      ],
+      "fr_FR": [
+        "Obtenu: {STRVAR_1 8, 0, 0}!\r",
+        "Dommage!\n",
+        "Le Sac est plein."
       ]
     },
     {
@@ -39,12 +54,20 @@
       "en_US": [
         "{STRVAR_1 3, 0, 0} put the {STRVAR_1 8, 1, 0}\n",
         "in the Bag."
+      ],
+      "fr_FR": [
+        "{STRVAR_1 3, 0, 0} met {STRVAR_1 8, 1, 0} dans\n",
+        "le Sac."
       ]
     },
     {
       "id": "VisibleItems_Text_PlayerFoundTMMove",
       "en_US": [
         "{STRVAR_1 3, 0, 0} found\n",
+        "{STRVAR_1 8, 1, 0} {STRVAR_1 6, 2, 0}!"
+      ],
+      "fr_FR": [
+        "{STRVAR_1 3, 0, 0} trouve la\n",
         "{STRVAR_1 8, 1, 0} {STRVAR_1 6, 2, 0}!"
       ]
     },
@@ -53,6 +76,10 @@
       "en_US": [
         "{STRVAR_1 3, 0, 0} obtained\n",
         "the {COLOR 2}{STRVAR_1 8, 1, 0}{COLOR 0}!"
+      ],
+      "fr_FR": [
+        "{STRVAR_1 3, 0, 0} obtient\n",
+        "{COLOR 2}{STRVAR_1 8, 1, 0}{COLOR 0}!"
       ]
     },
     {
@@ -60,6 +87,10 @@
       "en_US": [
         "{STRVAR_1 3, 0, 0} obtained\n",
         "the {STRVAR_1 8, 1, 0}!"
+      ],
+      "fr_FR": [
+        "{STRVAR_1 3, 0, 0} obtient\n",
+        "{COLOR 1}{STRVAR_1 8, 1, 0}{COLOR 0}!"
       ]
     },
     {
@@ -67,6 +98,10 @@
       "en_US": [
         "{STRVAR_1 3, 0, 0} put the {STRVAR_1 8, 1, 0}\n",
         "in the {COLOR 2}{STRVAR_1 31, 2, 0}{COLOR 0} Pocket."
+      ],
+      "fr_FR": [
+        "{STRVAR_1 3, 0, 0} met {STRVAR_1 8, 1, 0} dans\n",
+        "la Poche {STRVAR_1 31, 2, 0}."
       ]
     }
   ]

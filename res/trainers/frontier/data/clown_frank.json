@@ -89,6 +89,10 @@
             "en_US": [
                 "Outstanding athleticism and a great\n",
                 "sense of humor; that’s a clown!"
+            ],
+            "fr_FR": [
+                "Une souplesse légendaire et un sens de\n",
+                "l’humour éprouvé: je suis un Bouffon!"
             ]
         },
         {
@@ -96,6 +100,10 @@
             "en_US": [
                 "A clown is a job of greatness.\n",
                 "Only the chosen can become one!\r"
+            ],
+            "fr_FR": [
+                "Etre Bouffon exige des qualités uniques.\n",
+                "C’est une fonction réservée à l’élite.\r"
             ]
         },
         {
@@ -103,7 +111,12 @@
             "en_US": [
                 "The ability to laugh off disappointment\n",
                 "is another requirement for a clown!\r"
+            ],
+            "fr_FR": [
+                "Savoir rire de ses défaites est une\n",
+                "qualité indispensable au Bouffon!\r"
             ]
         }
-    ]
+    ],
+    "name_fr": "Mikail"
 }

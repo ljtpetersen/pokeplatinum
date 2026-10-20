@@ -28,5 +28,12 @@
     "contest": {
         "effect": "CONTEST_EFFECT_CONSECUTIVE_USE",
         "type": "CONTEST_TYPE_TOUGH"
-    }
+    },
+    "name_fr": "Cogne",
+    "description_fr": [
+        "Un déluge de coups\n",
+        "adressés avec la\n",
+        "paume qui frappe de\n",
+        "2 à 5 fois d’affilée."
+    ]
 }

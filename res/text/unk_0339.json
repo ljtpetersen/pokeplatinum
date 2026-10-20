@@ -3,239 +3,298 @@
   "messages": [
     {
       "id": "pl_msg_00000339_00000",
-      "en_US": "Script Battle"
+      "en_US": "Script Battle",
+      "fr_FR": "Script Battle"
     },
     {
       "id": "pl_msg_00000339_00001",
-      "en_US": "Script Contest"
+      "en_US": "Script Contest",
+      "fr_FR": "Script Contest"
     },
     {
       "id": "pl_msg_00000339_00002",
-      "en_US": "Add 99 Spheres to the Bag"
+      "en_US": "Add 99 Spheres to the Bag",
+      "fr_FR": "Add 99 Spheres to the Bag"
     },
     {
       "id": "pl_msg_00000339_00003",
-      "en_US": "Add 1 treasure to the Bag"
+      "en_US": "Add 1 treasure to the Bag",
+      "fr_FR": "Add 1 treasure to the Bag"
     },
     {
       "id": "pl_msg_00000339_00004",
-      "en_US": "Add 2 treasures to the Bag"
+      "en_US": "Add 2 treasures to the Bag",
+      "fr_FR": "Add 2 treasures to the Bag"
     },
     {
       "id": "pl_msg_00000339_00005",
-      "en_US": "Friends Max"
+      "en_US": "Friends Max",
+      "fr_FR": "Friends Max"
     },
     {
       "id": "pl_msg_00000339_00006",
-      "en_US": "Record Max"
+      "en_US": "Record Max",
+      "fr_FR": "Record Max"
     },
     {
       "id": "pl_msg_00000339_00007",
-      "en_US": "Friends Max"
+      "en_US": "Friends Max",
+      "fr_FR": "Friends Max"
     },
     {
       "id": "pl_msg_00000339_00008",
-      "en_US": "High odds to dig"
+      "en_US": "High odds to dig",
+      "fr_FR": "High odds to dig"
     },
     {
       "id": "pl_msg_00000339_00009",
-      "en_US": "Channel"
+      "en_US": "Channel",
+      "fr_FR": "Channel"
     },
     {
       "id": "pl_msg_00000339_00010",
-      "en_US": "Mystery"
+      "en_US": "Mystery",
+      "fr_FR": "Mystery"
     },
     {
       "id": "pl_msg_00000339_00011",
-      "en_US": "Quick Battle Client"
+      "en_US": "Quick Battle Client",
+      "fr_FR": "Quick Battle Client"
     },
     {
       "id": "pl_msg_00000339_00012",
-      "en_US": "Single Client"
+      "en_US": "Single Client",
+      "fr_FR": "Single Client"
     },
     {
       "id": "pl_msg_00000339_00013",
-      "en_US": "Double Client"
+      "en_US": "Double Client",
+      "fr_FR": "Double Client"
     },
     {
       "id": "pl_msg_00000339_00014",
-      "en_US": "Mix Client"
+      "en_US": "Mix Client",
+      "fr_FR": "Mix Client"
     },
     {
       "id": "pl_msg_00000339_00015",
-      "en_US": "Multi Client"
+      "en_US": "Multi Client",
+      "fr_FR": "Multi Client"
     },
     {
       "id": "pl_msg_00000339_00016",
-      "en_US": "Multi 2 Client"
+      "en_US": "Multi 2 Client",
+      "fr_FR": "Multi 2 Client"
     },
     {
       "id": "pl_msg_00000339_00017",
-      "en_US": "Quick Battle Host"
+      "en_US": "Quick Battle Host",
+      "fr_FR": "Quick Battle Host"
     },
     {
       "id": "pl_msg_00000339_00018",
-      "en_US": "Single Host"
+      "en_US": "Single Host",
+      "fr_FR": "Single Host"
     },
     {
       "id": "pl_msg_00000339_00019",
-      "en_US": "Double Host"
+      "en_US": "Double Host",
+      "fr_FR": "Double Host"
     },
     {
       "id": "pl_msg_00000339_00020",
-      "en_US": "Mix Host"
+      "en_US": "Mix Host",
+      "fr_FR": "Mix Host"
     },
     {
       "id": "pl_msg_00000339_00021",
-      "en_US": "Multi Host"
+      "en_US": "Multi Host",
+      "fr_FR": "Multi Host"
     },
     {
       "id": "pl_msg_00000339_00022",
-      "en_US": "Multi 2 Host"
+      "en_US": "Multi 2 Host",
+      "fr_FR": "Multi 2 Host"
     },
     {
       "id": "pl_msg_00000339_00023",
-      "en_US": "Quick Contest Client"
+      "en_US": "Quick Contest Client",
+      "fr_FR": "Quick Contest Client"
     },
     {
       "id": "pl_msg_00000339_00024",
-      "en_US": "Quick Contest Host"
+      "en_US": "Quick Contest Host",
+      "fr_FR": "Quick Contest Host"
     },
     {
       "id": "pl_msg_00000339_00025",
-      "en_US": "Coolness"
+      "en_US": "Coolness",
+      "fr_FR": "Coolness"
     },
     {
       "id": "pl_msg_00000339_00026",
-      "en_US": "Beauty"
+      "en_US": "Beauty",
+      "fr_FR": "Beauty"
     },
     {
       "id": "pl_msg_00000339_00027",
-      "en_US": "Cuteness"
+      "en_US": "Cuteness",
+      "fr_FR": "Cuteness"
     },
     {
       "id": "pl_msg_00000339_00028",
-      "en_US": "Toughness"
+      "en_US": "Toughness",
+      "fr_FR": "Toughness"
     },
     {
       "id": "pl_msg_00000339_00029",
-      "en_US": "Smartness"
+      "en_US": "Smartness",
+      "fr_FR": "Smartness"
     },
     {
       "id": "pl_msg_00000339_00030",
-      "en_US": "Normal"
+      "en_US": "Normal",
+      "fr_FR": "Normal"
     },
     {
       "id": "pl_msg_00000339_00031",
-      "en_US": "Super"
+      "en_US": "Super",
+      "fr_FR": "Super"
     },
     {
       "id": "pl_msg_00000339_00032",
-      "en_US": "Hard"
+      "en_US": "Hard",
+      "fr_FR": "Hard"
     },
     {
       "id": "pl_msg_00000339_00033",
-      "en_US": "Master"
+      "en_US": "Master",
+      "fr_FR": "Master"
     },
     {
       "id": "pl_msg_00000339_00034",
-      "en_US": "Underground debug"
+      "en_US": "Underground debug",
+      "fr_FR": "Underground debug"
     },
     {
       "id": "pl_msg_00000339_00035",
-      "en_US": "communication traffic"
+      "en_US": "communication traffic",
+      "fr_FR": "communication traffic"
     },
     {
       "id": "pl_msg_00000339_00036",
-      "en_US": "{STRVAR_1 52, 0, 0} bytes are being sent every time."
+      "en_US": "{STRVAR_1 52, 0, 0} bytes are being sent every time.",
+      "fr_FR": "{STRVAR_1 52, 0, 0} bytes are being sent every time."
     },
     {
       "id": "pl_msg_00000339_00037",
-      "en_US": ":"
+      "en_US": ":",
+      "fr_FR": ":"
     },
     {
       "id": "pl_msg_00000339_00038",
-      "en_US": "Delivery debug"
+      "en_US": "Delivery debug",
+      "fr_FR": "Delivery debug"
     },
     {
       "id": "pl_msg_00000339_00039",
-      "en_US": "Add Items to PC"
+      "en_US": "Add Items to PC",
+      "fr_FR": "Add Items to PC"
     },
     {
       "id": "pl_msg_00000339_00040",
-      "en_US": "Nullify goods penalty"
+      "en_US": "Nullify goods penalty",
+      "fr_FR": "Nullify goods penalty"
     },
     {
       "id": "pl_msg_00000339_00041",
-      "en_US": "Add a Trap to BAG"
+      "en_US": "Add a Trap to BAG",
+      "fr_FR": "Add a Trap to BAG"
     },
     {
       "id": "pl_msg_00000339_00042",
-      "en_US": "Bury fossil(undergroud)"
+      "en_US": "Bury fossil(undergroud)",
+      "fr_FR": "Bury fossil(undergroud)"
     },
     {
       "id": "pl_msg_00000339_00043",
-      "en_US": "Underground"
+      "en_US": "Underground",
+      "fr_FR": "Underground"
     },
     {
       "id": "pl_msg_00000339_00044",
-      "en_US": "Underground 1"
+      "en_US": "Underground 1",
+      "fr_FR": "Underground 1"
     },
     {
       "id": "pl_msg_00000339_00045",
-      "en_US": "Underground 2"
+      "en_US": "Underground 2",
+      "fr_FR": "Underground 2"
     },
     {
       "id": "pl_msg_00000339_00046",
-      "en_US": "To be Host"
+      "en_US": "To be Host",
+      "fr_FR": "To be Host"
     },
     {
       "id": "pl_msg_00000339_00047",
-      "en_US": "To be Client"
+      "en_US": "To be Client",
+      "fr_FR": "To be Client"
     },
     {
       "id": "pl_msg_00000339_00048",
-      "en_US": "Back to switching Host/Client option"
+      "en_US": "Back to switching Host/Client option",
+      "fr_FR": "Back to switching Host/Client option"
     },
     {
       "id": "pl_msg_00000339_00049",
-      "en_US": "Flag level"
+      "en_US": "Flag level",
+      "fr_FR": "Flag level"
     },
     {
       "id": "pl_msg_00000339_00050",
-      "en_US": "Bronze"
+      "en_US": "Bronze",
+      "fr_FR": "Bronze"
     },
     {
       "id": "pl_msg_00000339_00051",
-      "en_US": "Silver"
+      "en_US": "Silver",
+      "fr_FR": "Silver"
     },
     {
       "id": "pl_msg_00000339_00052",
-      "en_US": "Gold"
+      "en_US": "Gold",
+      "fr_FR": "Gold"
     },
     {
       "id": "pl_msg_00000339_00053",
-      "en_US": "Platinum"
+      "en_US": "Platinum",
+      "fr_FR": "Platinum"
     },
     {
       "id": "pl_msg_00000339_00054",
-      "en_US": "Default"
+      "en_US": "Default",
+      "fr_FR": "Default"
     },
     {
       "id": "pl_msg_00000339_00055",
-      "en_US": "Wi-Fi Match"
+      "en_US": "Wi-Fi Match",
+      "fr_FR": "Wi-Fi Match"
     },
     {
       "id": "pl_msg_00000339_00056",
-      "en_US": "Register friends"
+      "en_US": "Register friends",
+      "fr_FR": "Register friends"
     },
     {
       "id": "pl_msg_00000339_00057",
-      "en_US": "Take a Flag (2 players needed)"
+      "en_US": "Take a Flag (2 players needed)",
+      "fr_FR": "Take a Flag (2 players needed)"
     },
     {
       "id": "pl_msg_00000339_00058",
-      "en_US": "Bury 99 Fossils"
+      "en_US": "Bury 99 Fossils",
+      "fr_FR": "Bury 99 Fossils"
     }
   ]
 }

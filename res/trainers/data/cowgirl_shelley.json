@@ -23,6 +23,10 @@
             "en_US": [
                 "Say, honey, where’d you come from?\n",
                 "What kinds of Pokémon are you with?\r"
+            ],
+            "fr_FR": [
+                "Hé, toi. D’où tu viens? Tu me montres\n",
+                "ton équipe de Pokémon?\r"
             ]
         },
         {
@@ -30,6 +34,10 @@
             "en_US": [
                 "Fancy folks like you have fancy\n",
                 "Pokémon too, it looks like.\n"
+            ],
+            "fr_FR": [
+                "On dirait que les Pokémon sont\n",
+                "bien différents là d’où tu viens.\n"
             ]
         },
         {
@@ -38,6 +46,11 @@
                 "While working the ranch, I get to raise\n",
                 "my Pokémon, too.\r",
                 "I’d say it’s the best of both worlds!\n"
+            ],
+            "fr_FR": [
+                "En travaillant à la ferme, mon Pokémon\n",
+                "devient plus fort.\r",
+                "On fait d’une pierre deux coups!\n"
             ]
         },
         {
@@ -45,7 +58,12 @@
             "en_US": [
                 "Oh, howdy! Come visiting again?\n",
                 "What kinds of Pokémon’d you bring?\r"
+            ],
+            "fr_FR": [
+                "Oh, te revoilà? Quel genre de Pokémon \n",
+                "bizarres tu ramènes cette fois-ci?\r"
             ]
         }
-    ]
+    ],
+    "name_fr": "Danielle"
 }

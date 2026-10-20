@@ -26,5 +26,12 @@
   "battlePocket": "BATTLE_POCKET_MASK_NONE",
   "fieldUseFunc": "ITEM_USE_FUNC_NONE",
   "battleUseCategory": "BATTLE_USE_CATEGORY_NONE",
-  "itemUseParams": null
+  "itemUseParams": null,
+  "name_fr": "Ecailleocéan",
+  "description_fr": [
+    "Objet à faire tenir à COQUIPERL. Ecaille\n",
+    "de couleur rose montant sa Déf. Spé."
+  ],
+  "plural_fr": "Ecailleocéan",
+  "article_fr": null
 }

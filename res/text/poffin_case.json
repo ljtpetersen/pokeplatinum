@@ -3,23 +3,28 @@
   "messages": [
     {
       "id": "PoffinCase_Text_PoffinCase",
-      "en_US": "POFFIN CASE"
+      "en_US": "POFFIN CASE",
+      "fr_FR": "BOITE POFFIN"
     },
     {
       "id": "PoffinCase_Text_Give",
-      "en_US": "GIVE"
+      "en_US": "GIVE",
+      "fr_FR": "DONN."
     },
     {
       "id": "PoffinCase_Text_Trash",
-      "en_US": "TRASH"
+      "en_US": "TRASH",
+      "fr_FR": "JETER"
     },
     {
       "id": "PoffinCase_Text_Back",
-      "en_US": "BACK"
+      "en_US": "BACK",
+      "fr_FR": "RET."
     },
     {
       "id": "PoffinCase_Text_Smooth",
-      "en_US": "SMOOTH / {STRVAR_1 51, 0, 0}"
+      "en_US": "SMOOTH / {STRVAR_1 51, 0, 0}",
+      "fr_FR": "ONCT.: {STRVAR_1 51, 0, 0}"
     },
     {
       "id": "PoffinCase_Text_Dummy",
@@ -27,12 +32,17 @@
     },
     {
       "id": "PoffinCase_Text_Close",
-      "en_US": "CLOSE"
+      "en_US": "CLOSE",
+      "fr_FR": "FERMER"
     },
     {
       "id": "PoffinCase_Text_Discard",
       "en_US": [
         "Discard this\n",
+        "{STRVAR_1 9, 0, 0}?"
+      ],
+      "fr_FR": [
+        "Voulez-vous jeter ce \n",
         "{STRVAR_1 9, 0, 0}?"
       ]
     },
@@ -41,63 +51,78 @@
       "en_US": [
         "The {STRVAR_1 9, 0, 0} was\n",
         "thrown out."
-      ]
+      ],
+      "fr_FR": "Le {STRVAR_1 9, 0, 0} a été jeté."
     },
     {
       "id": "PoffinCase_Text_Yes",
-      "en_US": "YES"
+      "en_US": "YES",
+      "fr_FR": "OUI"
     },
     {
       "id": "PoffinCase_Text_No",
-      "en_US": "NO"
+      "en_US": "NO",
+      "fr_FR": "NON"
     },
     {
       "id": "PoffinCase_Text_Spicy",
-      "en_US": "SPICY"
+      "en_US": "SPICY",
+      "fr_FR": "EPICE"
     },
     {
       "id": "PoffinCase_Text_Dry",
-      "en_US": "DRY"
+      "en_US": "DRY",
+      "fr_FR": "SEC"
     },
     {
       "id": "PoffinCase_Text_Sweet",
-      "en_US": "SWEET"
+      "en_US": "SWEET",
+      "fr_FR": "SUCRE"
     },
     {
       "id": "PoffinCase_Text_Bitter",
-      "en_US": "BITTER"
+      "en_US": "BITTER",
+      "fr_FR": "AMER"
     },
     {
       "id": "PoffinCase_Text_Sour",
-      "en_US": "SOUR"
+      "en_US": "SOUR",
+      "fr_FR": "ACIDE"
     },
     {
       "id": "PoffinCase_Text_All",
-      "en_US": "ALL"
+      "en_US": "ALL",
+      "fr_FR": "TOUT"
     },
     {
       "id": "PoffinCase_Text_RaiseCoolness",
-      "en_US": "Raises coolness."
+      "en_US": "Raises coolness.",
+      "fr_FR": "Augmente le sang-froid."
     },
     {
       "id": "PoffinCase_Text_RaiseBeauty",
-      "en_US": "Raises beauty."
+      "en_US": "Raises beauty.",
+      "fr_FR": "Augmente la beauté."
     },
     {
       "id": "PoffinCase_Text_RaiseCuteness",
-      "en_US": "Raises cuteness."
+      "en_US": "Raises cuteness.",
+      "fr_FR": "Augmente la grâce."
     },
     {
       "id": "PoffinCase_Text_RaiseSmartness",
-      "en_US": "Raises smartness."
+      "en_US": "Raises smartness.",
+      "fr_FR": "Augmente l’intelligence."
     },
     {
       "id": "PoffinCase_Text_RaiseToughness",
-      "en_US": "Raises toughness."
+      "en_US": "Raises toughness.",
+      "fr_FR": "Augmente la robustesse."
     },
     {
       "id": "PoffinCase_Text_ListItem",
-      "en_US": "{STRVAR_1 9, 0, 0}{CURSOR_X 138}Lv. {STRVAR_1 51, 1, 0}"
+      "en_US": "{STRVAR_1 9, 0, 0}{CURSOR_X 138}Lv. {STRVAR_1 51, 1, 0}",
+      "fr_FR": "{STRVAR_1 9, 0, 0}{CURSOR_X 138}N. {STRVAR_1 51, 1, 0}"
     }
   ]
 }

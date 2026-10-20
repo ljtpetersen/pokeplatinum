@@ -26,5 +26,13 @@
   "battlePocket": "BATTLE_POCKET_MASK_NONE",
   "fieldUseFunc": "ITEM_USE_FUNC_NONE",
   "battleUseCategory": "BATTLE_USE_CATEGORY_NONE",
-  "itemUseParams": null
+  "itemUseParams": null,
+  "name_fr": "Eau Mystique",
+  "description_fr": [
+    "Objet à tenir. Gemme en forme de goutte\n",
+    "d’eau montant la puissance des\n",
+    "capacités de type Eau."
+  ],
+  "plural_fr": "Eau Mystique",
+  "article_fr": null
 }

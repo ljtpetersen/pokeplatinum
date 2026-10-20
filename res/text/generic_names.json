@@ -3,363 +3,453 @@
   "messages": [
     {
       "id": "GenericNames_PlayerMale_First",
-      "en_US": "Plato"
+      "en_US": "Plato",
+      "fr_FR": "Platine"
     },
     {
       "id": "GenericNames_PlayerMale_1",
-      "en_US": "Ash"
+      "en_US": "Ash",
+      "fr_FR": "Dilan"
     },
     {
       "id": "GenericNames_PlayerMale_2",
-      "en_US": "Nic"
+      "en_US": "Nic",
+      "fr_FR": "Gurvan"
     },
     {
       "id": "GenericNames_PlayerMale_3",
-      "en_US": "Jimmy"
+      "en_US": "Jimmy",
+      "fr_FR": "Gabriel"
     },
     {
       "id": "GenericNames_PlayerMale_4",
-      "en_US": "Duncan"
+      "en_US": "Duncan",
+      "fr_FR": "Allane"
     },
     {
       "id": "GenericNames_PlayerMale_5",
-      "en_US": "Todd"
+      "en_US": "Todd",
+      "fr_FR": "Zack"
     },
     {
       "id": "GenericNames_PlayerMale_6",
-      "en_US": "Ross"
+      "en_US": "Ross",
+      "fr_FR": "Marc"
     },
     {
       "id": "GenericNames_PlayerMale_7",
-      "en_US": "Steven"
+      "en_US": "Steven",
+      "fr_FR": "Loris"
     },
     {
       "id": "GenericNames_PlayerMale_8",
-      "en_US": "Darrell"
+      "en_US": "Darrell",
+      "fr_FR": "Max"
     },
     {
       "id": "GenericNames_PlayerMale_9",
-      "en_US": "Reed"
+      "en_US": "Reed",
+      "fr_FR": "Damien"
     },
     {
       "id": "GenericNames_PlayerMale_10",
-      "en_US": "Chris"
+      "en_US": "Chris",
+      "fr_FR": "Tom"
     },
     {
       "id": "GenericNames_PlayerMale_11",
-      "en_US": "Brad"
+      "en_US": "Brad",
+      "fr_FR": "Greg"
     },
     {
       "id": "GenericNames_PlayerMale_12",
-      "en_US": "Dwight"
+      "en_US": "Dwight",
+      "fr_FR": "Kamel"
     },
     {
       "id": "GenericNames_PlayerMale_13",
-      "en_US": "Randy"
+      "en_US": "Randy",
+      "fr_FR": "Franck"
     },
     {
       "id": "GenericNames_PlayerMale_14",
-      "en_US": "Andy"
+      "en_US": "Andy",
+      "fr_FR": "Ralph"
     },
     {
       "id": "GenericNames_PlayerMale_15",
-      "en_US": "Joey"
+      "en_US": "Joey",
+      "fr_FR": "Seb"
     },
     {
       "id": "GenericNames_PlayerMale_16",
-      "en_US": "Eric"
+      "en_US": "Eric",
+      "fr_FR": "Daniel"
     },
     {
       "id": "GenericNames_PlayerMale_Last",
-      "en_US": "Mark"
+      "en_US": "Mark",
+      "fr_FR": "Thomas"
     },
     {
       "id": "GenericNames_PlayerFemale_First",
-      "en_US": "Plato"
+      "en_US": "Plato",
+      "fr_FR": "Platine"
     },
     {
       "id": "GenericNames_PlayerFemale_1",
-      "en_US": "Joelle"
+      "en_US": "Joelle",
+      "fr_FR": "Louane"
     },
     {
       "id": "GenericNames_PlayerFemale_2",
-      "en_US": "Britney"
+      "en_US": "Britney",
+      "fr_FR": "Lucie"
     },
     {
       "id": "GenericNames_PlayerFemale_3",
-      "en_US": "Kelli"
+      "en_US": "Kelli",
+      "fr_FR": "Edith"
     },
     {
       "id": "GenericNames_PlayerFemale_4",
-      "en_US": "Nina"
+      "en_US": "Nina",
+      "fr_FR": "Sophie"
     },
     {
       "id": "GenericNames_PlayerFemale_5",
-      "en_US": "Heidi"
+      "en_US": "Heidi",
+      "fr_FR": "Claire"
     },
     {
       "id": "GenericNames_PlayerFemale_6",
-      "en_US": "Miriam"
+      "en_US": "Miriam",
+      "fr_FR": "Audrey"
     },
     {
       "id": "GenericNames_PlayerFemale_7",
-      "en_US": "Teresa"
+      "en_US": "Teresa",
+      "fr_FR": "Marion"
     },
     {
       "id": "GenericNames_PlayerFemale_8",
-      "en_US": "Aubrey"
+      "en_US": "Aubrey",
+      "fr_FR": "Sayaka"
     },
     {
       "id": "GenericNames_PlayerFemale_9",
-      "en_US": "Kelly"
+      "en_US": "Kelly",
+      "fr_FR": "Noémie"
     },
     {
       "id": "GenericNames_PlayerFemale_10",
-      "en_US": "Naomi"
+      "en_US": "Naomi",
+      "fr_FR": "Linda"
     },
     {
       "id": "GenericNames_PlayerFemale_11",
-      "en_US": "Abby"
+      "en_US": "Abby",
+      "fr_FR": "Suzie"
     },
     {
       "id": "GenericNames_PlayerFemale_12",
-      "en_US": "Denise"
+      "en_US": "Denise",
+      "fr_FR": "Yuki"
     },
     {
       "id": "GenericNames_PlayerFemale_13",
-      "en_US": "Tamara"
+      "en_US": "Tamara",
+      "fr_FR": "Carmen"
     },
     {
       "id": "GenericNames_PlayerFemale_14",
-      "en_US": "Linda"
+      "en_US": "Linda",
+      "fr_FR": "Coralie"
     },
     {
       "id": "GenericNames_PlayerFemale_15",
-      "en_US": "Faith"
+      "en_US": "Faith",
+      "fr_FR": "Nadia"
     },
     {
       "id": "GenericNames_PlayerFemale_16",
-      "en_US": "Mari"
+      "en_US": "Mari",
+      "fr_FR": "Hélène"
     },
     {
       "id": "GenericNames_PlayerFemale_Last",
-      "en_US": "Maggie"
+      "en_US": "Maggie",
+      "fr_FR": "Caro"
     },
     {
       "id": "pl_msg_00000427_00036",
-      "en_US": "Enter Name"
+      "en_US": "Enter Name",
+      "fr_FR": "Nom"
     },
     {
       "id": "pl_msg_00000427_00037",
-      "en_US": "Barry"
+      "en_US": "Barry",
+      "fr_FR": "Enzo"
     },
     {
       "id": "pl_msg_00000427_00038",
-      "en_US": "Nolan"
+      "en_US": "Nolan",
+      "fr_FR": "Théo"
     },
     {
       "id": "pl_msg_00000427_00039",
-      "en_US": "Roy"
+      "en_US": "Roy",
+      "fr_FR": "Cédric"
     },
     {
       "id": "pl_msg_00000427_00040",
-      "en_US": "Gavin"
+      "en_US": "Gavin",
+      "fr_FR": "Jacob"
     },
     {
       "id": "pl_msg_00000427_00041",
-      "en_US": "Pearl"
+      "en_US": "Pearl",
+      "fr_FR": "Perlo"
     },
     {
       "id": "pl_msg_00000427_00042",
-      "en_US": "Lucas"
+      "en_US": "Lucas",
+      "fr_FR": "Louka"
     },
     {
       "id": "pl_msg_00000427_00043",
-      "en_US": "Dawn"
+      "en_US": "Dawn",
+      "fr_FR": "Aurore"
     },
     {
       "id": "pl_msg_00000427_00044",
-      "en_US": "Pearl"
+      "en_US": "Pearl",
+      "fr_FR": "Perlo"
     },
     {
       "id": "pl_msg_00000427_00045",
-      "en_US": "Ash"
+      "en_US": "Ash",
+      "fr_FR": "Dilan"
     },
     {
       "id": "pl_msg_00000427_00046",
-      "en_US": "Nic"
+      "en_US": "Nic",
+      "fr_FR": "Gurvan"
     },
     {
       "id": "pl_msg_00000427_00047",
-      "en_US": "Jimmy"
+      "en_US": "Jimmy",
+      "fr_FR": "Gabriel"
     },
     {
       "id": "pl_msg_00000427_00048",
-      "en_US": "Duncan"
+      "en_US": "Duncan",
+      "fr_FR": "Allane"
     },
     {
       "id": "pl_msg_00000427_00049",
-      "en_US": "Todd"
+      "en_US": "Todd",
+      "fr_FR": "Zack"
     },
     {
       "id": "pl_msg_00000427_00050",
-      "en_US": "Ross"
+      "en_US": "Ross",
+      "fr_FR": "Marc"
     },
     {
       "id": "pl_msg_00000427_00051",
-      "en_US": "Steven"
+      "en_US": "Steven",
+      "fr_FR": "Loris"
     },
     {
       "id": "pl_msg_00000427_00052",
-      "en_US": "Darrell"
+      "en_US": "Darrell",
+      "fr_FR": "Max"
     },
     {
       "id": "pl_msg_00000427_00053",
-      "en_US": "Reed"
+      "en_US": "Reed",
+      "fr_FR": "Damien"
     },
     {
       "id": "pl_msg_00000427_00054",
-      "en_US": "Chris"
+      "en_US": "Chris",
+      "fr_FR": "Tom"
     },
     {
       "id": "pl_msg_00000427_00055",
-      "en_US": "Brad"
+      "en_US": "Brad",
+      "fr_FR": "Greg"
     },
     {
       "id": "pl_msg_00000427_00056",
-      "en_US": "Dwight"
+      "en_US": "Dwight",
+      "fr_FR": "Kamel"
     },
     {
       "id": "pl_msg_00000427_00057",
-      "en_US": "Randy"
+      "en_US": "Randy",
+      "fr_FR": "Franck"
     },
     {
       "id": "pl_msg_00000427_00058",
-      "en_US": "Andy"
+      "en_US": "Andy",
+      "fr_FR": "Ralph"
     },
     {
       "id": "pl_msg_00000427_00059",
-      "en_US": "Joey"
+      "en_US": "Joey",
+      "fr_FR": "Seb"
     },
     {
       "id": "pl_msg_00000427_00060",
-      "en_US": "Eric"
+      "en_US": "Eric",
+      "fr_FR": "Daniel"
     },
     {
       "id": "pl_msg_00000427_00061",
-      "en_US": "Mark"
+      "en_US": "Mark",
+      "fr_FR": "Thomas"
     },
     {
       "id": "pl_msg_00000427_00062",
-      "en_US": "Pearl"
+      "en_US": "Pearl",
+      "fr_FR": "Perle"
     },
     {
       "id": "pl_msg_00000427_00063",
-      "en_US": "Karla"
+      "en_US": "Karla",
+      "fr_FR": "Joanna"
     },
     {
       "id": "pl_msg_00000427_00064",
-      "en_US": "Britney"
+      "en_US": "Britney",
+      "fr_FR": "Lucie"
     },
     {
       "id": "pl_msg_00000427_00065",
-      "en_US": "Kelli"
+      "en_US": "Kelli",
+      "fr_FR": "Edith"
     },
     {
       "id": "pl_msg_00000427_00066",
-      "en_US": "Nina"
+      "en_US": "Nina",
+      "fr_FR": "Sophie"
     },
     {
       "id": "pl_msg_00000427_00067",
-      "en_US": "Heidi"
+      "en_US": "Heidi",
+      "fr_FR": "Claire"
     },
     {
       "id": "pl_msg_00000427_00068",
-      "en_US": "Miriam"
+      "en_US": "Miriam",
+      "fr_FR": "Audrey"
     },
     {
       "id": "pl_msg_00000427_00069",
-      "en_US": "Teresa"
+      "en_US": "Teresa",
+      "fr_FR": "Marion"
     },
     {
       "id": "pl_msg_00000427_00070",
-      "en_US": "Aubrey"
+      "en_US": "Aubrey",
+      "fr_FR": "Sayaka"
     },
     {
       "id": "pl_msg_00000427_00071",
-      "en_US": "Kelly"
+      "en_US": "Kelly",
+      "fr_FR": "Noémie"
     },
     {
       "id": "pl_msg_00000427_00072",
-      "en_US": "Naomi"
+      "en_US": "Naomi",
+      "fr_FR": "Linda"
     },
     {
       "id": "pl_msg_00000427_00073",
-      "en_US": "Abby"
+      "en_US": "Abby",
+      "fr_FR": "Suzie"
     },
     {
       "id": "pl_msg_00000427_00074",
-      "en_US": "Denise"
+      "en_US": "Denise",
+      "fr_FR": "Yuki"
     },
     {
       "id": "pl_msg_00000427_00075",
-      "en_US": "Tamara"
+      "en_US": "Tamara",
+      "fr_FR": "Carmen"
     },
     {
       "id": "pl_msg_00000427_00076",
-      "en_US": "Linda"
+      "en_US": "Linda",
+      "fr_FR": "Coralie"
     },
     {
       "id": "pl_msg_00000427_00077",
-      "en_US": "Faith"
+      "en_US": "Faith",
+      "fr_FR": "Nadia"
     },
     {
       "id": "pl_msg_00000427_00078",
-      "en_US": "Mari"
+      "en_US": "Mari",
+      "fr_FR": "Hélène"
     },
     {
       "id": "pl_msg_00000427_00079",
-      "en_US": "Maggie"
+      "en_US": "Maggie",
+      "fr_FR": "Caro"
     },
     {
       "id": "pl_msg_00000427_00080",
-      "en_US": "Enter Name"
+      "en_US": "Enter Name",
+      "fr_FR": "Nom"
     },
     {
       "id": "pl_msg_00000427_00081",
-      "en_US": "Lewis"
+      "en_US": "Lewis",
+      "fr_FR": "Mattéo"
     },
     {
       "id": "pl_msg_00000427_00082",
-      "en_US": "Clint"
+      "en_US": "Clint",
+      "fr_FR": "Romain"
     },
     {
       "id": "pl_msg_00000427_00083",
-      "en_US": "Ralph"
+      "en_US": "Ralph",
+      "fr_FR": "Quentin"
     },
     {
       "id": "pl_msg_00000427_00084",
-      "en_US": "Tommy"
+      "en_US": "Tommy",
+      "fr_FR": "Alexis"
     },
     {
       "id": "pl_msg_00000427_00085",
-      "en_US": "Diamond"
+      "en_US": "Diamond",
+      "fr_FR": "Diamant"
     },
     {
       "id": "pl_msg_00000427_00086",
-      "en_US": "Lucas"
+      "en_US": "Lucas",
+      "fr_FR": "Louka"
     },
     {
       "id": "pl_msg_00000427_00087",
-      "en_US": "Dawn"
+      "en_US": "Dawn",
+      "fr_FR": "Aurore"
     },
     {
       "id": "GenericNames_Rival_First",
-      "en_US": "Pearl"
+      "en_US": "Pearl",
+      "fr_FR": "Perlo"
     },
     {
       "id": "GenericNames_Rival_Last",
-      "en_US": "Diamond"
+      "en_US": "Diamond",
+      "fr_FR": "Diamant"
     }
   ]
 }

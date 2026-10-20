@@ -42,11 +42,17 @@
                 "How much stronger did your Pokémon\n",
                 "become?\r",
                 "Let me check for you, OK?\r"
+            ],
+            "fr_FR": [
+                "Alors, tu as bien progressé? Laisse-moi\n",
+                "vérifier, d’accord?\r"
             ]
         },
         {
             "type": "TRMSG_DEFEAT",
-            "en_US": "I’ve had my fill...\n"
+            "en_US": "I’ve had my fill...\n",
+            "fr_FR": "J’en ai assez...\n"
         }
-    ]
+    ],
+    "name_fr": "Edwige"
 }

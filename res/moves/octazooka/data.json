@@ -25,5 +25,13 @@
     "contest": {
         "effect": "CONTEST_EFFECT_2_HEARTS_WHEN_VOLTAGE_UP",
         "type": "CONTEST_TYPE_TOUGH"
-    }
+    },
+    "name_fr": "Octazooka",
+    "description_fr": [
+        "Le lanceur attaque en\n",
+        "projetant de l’encre \n",
+        "au visage de l’ennemi.\n",
+        "Peut aussi baisser la\n",
+        "précision de l’ennemi."
+    ]
 }

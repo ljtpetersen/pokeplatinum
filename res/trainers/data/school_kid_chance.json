@@ -31,6 +31,10 @@
             "en_US": [
                 "Are you lost?\n",
                 "Are you enjoying yourself?\r"
+            ],
+            "fr_FR": [
+                "Tu as perdu ton chemin?\n",
+                "Ou tu te balades pour le plaisir?\r"
             ]
         },
         {
@@ -38,6 +42,10 @@
             "en_US": [
                 "Let me guess.\n",
                 "You are enjoying yourself.\n"
+            ],
+            "fr_FR": [
+                "Laisse-moi deviner.\n",
+                "Tu fais ça pour le plaisir.\n"
             ]
         },
         {
@@ -47,7 +55,14 @@
                 "try to enjoy it the best one can.\r",
                 "Being in the dark here, I came to\n",
                 "realize that.\n"
+            ],
+            "fr_FR": [
+                "Quels que soient les défis que la vie\n",
+                "nous impose, il faut voir le bon côté.\r",
+                "Réfléchir dans le noir m’a permis de\n",
+                "comprendre cette vérité profonde.\n"
             ]
         }
-    ]
+    ],
+    "name_fr": "Loïc"
 }

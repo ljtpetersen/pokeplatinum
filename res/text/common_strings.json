@@ -9,6 +9,12 @@
         "We restore your tired Pokémon\n",
         "to full health.\r",
         "Would you like to rest your Pokémon?"
+      ],
+      "fr_FR": [
+        "Bonjour! Bienvenue au \n",
+        "Centre Pokémon.\r",
+        "Nous pouvons soigner vos Pokémon.\r",
+        "Voulez-vous les soigner?"
       ]
     },
     {
@@ -16,6 +22,10 @@
       "en_US": [
         "OK, I’ll take your Pokémon for a few\n",
         "seconds."
+      ],
+      "fr_FR": [
+        "OK, je prends vos Pokémon un\n",
+        "instant."
       ]
     },
     {
@@ -24,11 +34,17 @@
         "Thank you for waiting.\r",
         "We’ve restored your Pokémon to full\n",
         "health.\r"
+      ],
+      "fr_FR": [
+        "Merci d’avoir attendu.\r",
+        "Vos Pokémon sont en super\n",
+        "forme maintenant.\r"
       ]
     },
     {
       "id": "CommonStrings_Text_PokecenterHopeToSeeYouAgain1",
-      "en_US": "We hope to see you again!"
+      "en_US": "We hope to see you again!",
+      "fr_FR": "A une prochaine fois peut-être!"
     },
     {
       "id": "CommonStrings_Text_PokecenterGreeting_Interrupted",
@@ -38,6 +54,12 @@
         "We restore your tired Pokémon\n",
         "to full health.\r",
         "Would you like to...\r"
+      ],
+      "fr_FR": [
+        "Bonjour! Bienvenue au \n",
+        "Centre Pokémon.\r",
+        "Nous pouvons soigner vos Pokémon.\r",
+        "Voulez-vous les...\r"
       ]
     },
     {
@@ -52,6 +74,17 @@
         "with that Trainer Card.\r",
         "Please, {STRVAR_1 3, 0, 0}, may I have\n",
         "the honor of healing your Pokémon?"
+      ],
+      "fr_FR": [
+        "Cette... Carte de Dresseur!\r",
+        "Quelle couleur!\n",
+        "Et toutes ces étoiles!\r",
+        "J’ai déjà vu plusieurs Dresseurs avec \n",
+        "une Carte de Dresseur Argent...\r",
+        "Mais vous les surpassez \n",
+        "tous avec cette carte.\r",
+        "S’il vous plaît, {STRVAR_1 3, 0, 0}, puis-je \n",
+        "avoir l’honneur de soigner vos Pokémon?"
       ]
     },
     {
@@ -59,6 +92,10 @@
       "en_US": [
         "It’s great to see you, {STRVAR_1 3, 0, 0}!\n",
         "You want the usual, am I right?"
+      ],
+      "fr_FR": [
+        "Contente de vous revoir, {STRVAR_1 3, 0, 0}!\n",
+        "La même chose que la dernière fois?"
       ]
     },
     {
@@ -66,15 +103,18 @@
       "en_US": [
         "I will be pleased to take your\n",
         "Pokémon for a few seconds."
-      ]
+      ],
+      "fr_FR": "OK, je prends vos Pokémon un instant."
     },
     {
       "id": "CommonStrings_Text_PokecenterThankYouForWaiting",
-      "en_US": "Thank you for waiting."
+      "en_US": "Thank you for waiting.",
+      "fr_FR": "Merci d’avoir patienté."
     },
     {
       "id": "CommonStrings_Text_PokecenterHopeToSeeYouAgain2",
-      "en_US": "We hope to see you again!"
+      "en_US": "We hope to see you again!",
+      "fr_FR": "Encore merci et à bientôt!"
     },
     {
       "id": "CommonStrings_Text_PokecenterPokemonMayBeInfected",
@@ -86,6 +126,16 @@
         "life-forms that attach to Pokémon.\r",
         "While infected, Pokémon are said to\n",
         "grow exceptionally well."
+      ],
+      "fr_FR": [
+        "Ton Pokémon a peut-être attrapé\n",
+        "le Pokérus.\r",
+        "On sait peu de choses sur les Pokérus,\n",
+        "si ce n’est qu’il s’agit d’organismes\f",
+        "vivants microscopiques se fixant sur\f",
+        "les Pokémon.\r",
+        "Il paraît que les Pokémon contaminés\n",
+        "se développent incroyablement bien."
       ]
     },
     {
@@ -94,6 +144,11 @@
         "{STRVAR_1 3, 0, 0} is out of battle-ready\n",
         "Pokémon!\r",
         "{STRVAR_1 3, 0, 0}’s vision dimmed!"
+      ],
+      "fr_FR": [
+        "{STRVAR_1 3, 0, 0} n’a plus de \n",
+        "Pokémon en forme!\r",
+        "{STRVAR_1 3, 0, 0} est hors-jeu!"
       ]
     },
     {
@@ -102,13 +157,18 @@
     },
     {
       "id": "CommonStrings_Text_WouldYouLikeToSave",
-      "en_US": "Would you like to save the game?"
+      "en_US": "Would you like to save the game?",
+      "fr_FR": "Voulez-vous sauvegarder la partie?"
     },
     {
       "id": "CommonStrings_Text_OKToOverwriteSavedFile",
       "en_US": [
         "There is already a saved file.\n",
         "Is it OK to overwrite it?"
+      ],
+      "fr_FR": [
+        "Il y a déjà une sauvegarde.\n",
+        "Voulez-vous la remplacer?"
       ]
     },
     {
@@ -116,11 +176,16 @@
       "en_US": [
         "Saving...\n",
         "Don’t turn off the power."
+      ],
+      "fr_FR": [
+        "Sauvegarde en cours...\n",
+        "Ne pas éteindre."
       ]
     },
     {
       "id": "CommonStrings_Text_PlayerSavedTheGame",
-      "en_US": "{STRVAR_1 3, 0, 0} saved the game."
+      "en_US": "{STRVAR_1 3, 0, 0} saved the game.",
+      "fr_FR": "{STRVAR_1 3, 0, 0} a sauvegardé la partie."
     },
     {
       "id": "CommonStrings_Text_00017",
@@ -132,17 +197,31 @@
         "Pokémon, will be entirely lost.\r",
         "Are you sure you want to save now\n",
         "and overwrite the other save file?"
+      ],
+      "fr_FR": [
+        "Attention!\n",
+        "Une autre partie est déjà sauvegardée.\r",
+        "Si vous sauvegardez maintenant,\n",
+        "l’aventure, les objets et les Pokémon\f",
+        "de l’autre fichier seront perdus.\r",
+        "Etes-vous sûr de vouloir écraser\n",
+        "l’autre fichier?"
       ]
     },
     {
       "id": "CommonStrings_Text_SaveError",
-      "en_US": "Save error."
+      "en_US": "Save error.",
+      "fr_FR": "Erreur de sauvegarde."
     },
     {
       "id": "CommonStrings_Text_00019",
       "en_US": [
         "Saving...\n",
         "Don’t turn off the power."
+      ],
+      "fr_FR": [
+        "Sauvegarde en cours...\n",
+        "Ne pas éteindre."
       ]
     },
     {
@@ -155,6 +234,15 @@
         "Press Up + SELECT + B Button on\n",
         "the title screen if you want to erase\f",
         "the current saved game file."
+      ],
+      "fr_FR": [
+        "Une autre partie est déjà sauvegardée.\n",
+        "Sauvegarde impossible.\r",
+        "Veuillez vous référer au \n",
+        "manuel pour plus d’informations.\r",
+        "Appuyez sur haut, SELECT et le\n",
+        "bouton B à l’écran titre pour effacer\f",
+        "la sauvegarde actuelle."
       ]
     },
     {
@@ -162,6 +250,10 @@
       "en_US": [
         "Saving a lot of data...\n",
         "Don’t turn off the power."
+      ],
+      "fr_FR": [
+        "Sauvegarde de beaucoup de données...\n",
+        "Ne pas éteindre."
       ]
     },
     {
@@ -169,6 +261,10 @@
       "en_US": [
         "Want to give a nickname to the\n",
         "{STRVAR_1 0, 0, 0}?"
+      ],
+      "fr_FR": [
+        "Voulez-vous donner un surnom\n",
+        "au {STRVAR_1 0, 0, 0}?"
       ]
     },
     {
@@ -180,17 +276,26 @@
       "en_US": [
         "{STRVAR_1 3, 0, 0} obtained the Pokétch\n",
         "app {STRVAR_1 24, 1, 0}."
+      ],
+      "fr_FR": [
+        "{STRVAR_1 3, 0, 0} reçoit le logiciel\n",
+        "Pokémontre {STRVAR_1 24, 1, 0}."
       ]
     },
     {
       "id": "CommonStrings_Text_ObtainedItem",
-      "en_US": "Obtained the {STRVAR_1 8, 0, 0}!"
+      "en_US": "Obtained the {STRVAR_1 8, 0, 0}!",
+      "fr_FR": "Obtenu: {STRVAR_1 8, 0, 0}!"
     },
     {
       "id": "CommonStrings_Text_InstalledPoketchApp",
       "en_US": [
         "{STRVAR_1 3, 0, 0} installed the app on\n",
         "the Pokétch.\r"
+      ],
+      "fr_FR": [
+        "{STRVAR_1 3, 0, 0} a installé \n",
+        "le logiciel Pokémontre.\r"
       ]
     },
     {
@@ -198,6 +303,10 @@
       "en_US": [
         "Too bad!\n",
         "The Bag is full..."
+      ],
+      "fr_FR": [
+        "Dommage!\n",
+        "Le Sac est plein."
       ]
     },
     {
@@ -205,20 +314,27 @@
       "en_US": [
         "{STRVAR_1 3, 0, 0} obtained\n",
         "the {COLOR 2}{STRVAR_1 8, 1, 0}{COLOR 0}!"
-      ]
+      ],
+      "fr_FR": "{STRVAR_1 3, 0, 0} reçoit: {COLOR 2}{STRVAR_1 8, 1, 0}{COLOR 0}!"
     },
     {
       "id": "CommonStrings_Text_00029",
       "en_US": [
         "{STRVAR_1 3, 0, 0} obtained\n",
         "the {COLOR 1}{STRVAR_1 8, 1, 0}{COLOR 0}!"
-      ]
+      ],
+      "fr_FR": "{STRVAR_1 3, 0, 0} reçoit: {COLOR 1}{STRVAR_1 8, 1, 0}{COLOR 0}!\n"
     },
     {
       "id": "CommonStrings_Text_PutItemInPocket",
       "en_US": [
         "{STRVAR_1 3, 0, 0} put the {STRVAR_1 8, 1, 0}\n",
         "in the {COLOR 2}{STRVAR_1 31, 2, 0}{COLOR 0} Pocket."
+      ],
+      "fr_FR": [
+        "{STRVAR_1 3, 0, 0} a mis l’objet\n",
+        "{STRVAR_1 8, 1, 0} dans la Poche\f",
+        "{STRVAR_1 31, 2, 0}."
       ]
     },
     {
@@ -226,26 +342,37 @@
       "en_US": [
         "{STRVAR_1 3, 0, 0} put away the\n",
         "{STRVAR_1 31, 1, 0} in the Fashion Case."
+      ],
+      "fr_FR": [
+        "{STRVAR_1 3, 0, 0} a rangé \n",
+        "{STRVAR_1 31, 1, 0} dans le Coffret Mode."
       ]
     },
     {
       "id": "CommonStrings_Text_BootedUpThePC",
-      "en_US": "{STRVAR_1 3, 0, 0} booted up the PC.\r"
+      "en_US": "{STRVAR_1 3, 0, 0} booted up the PC.\r",
+      "fr_FR": "{STRVAR_1 3, 0, 0} allume le PC.\r"
     },
     {
       "id": "CommonStrings_Text_AccessWhichPC",
-      "en_US": "Which PC should be accessed?"
+      "en_US": "Which PC should be accessed?",
+      "fr_FR": "Accéder à quel PC?"
     },
     {
       "id": "CommonStrings_Text_AccessedPokemonStorage",
       "en_US": [
         "The Pokémon Storage System\n",
         "was accessed.\r"
+      ],
+      "fr_FR": [
+        "Gestion de Stocks de Pokémon\n",
+        "en ligne.\r"
       ]
     },
     {
       "id": "CommonStrings_Text_AccessedPlayersPC",
-      "en_US": "Accessed {STRVAR_1 3, 0, 0}’s PC.\r"
+      "en_US": "Accessed {STRVAR_1 3, 0, 0}’s PC.\r",
+      "fr_FR": "Accès au PC de {STRVAR_1 3, 0, 0}.\r"
     },
     {
       "id": "CommonStrings_Text_CantDoThatRightNow",
@@ -253,6 +380,11 @@
         "Rowan’s words echoed...\n",
         "{STRVAR_1 3, 0, 0}! There’s a time and\f",
         "place for everything! But not now."
+      ],
+      "fr_FR": [
+        "Conseil du professeur...\n",
+        "{STRVAR_1 3, 0, 0}, chaque chose\f",
+        "en son temps!"
       ]
     },
     {
@@ -260,7 +392,8 @@
       "en_US": [
         "Welcome!\n",
         "What do you need?"
-      ]
+      ],
+      "fr_FR": "Bienvenue!"
     },
     {
       "id": "CommonStrings_Text_Dummy38",
@@ -271,6 +404,11 @@
       "en_US": [
         "There! All happy and healthy!\n",
         "Good luck and take care!"
+      ],
+      "fr_FR": [
+        "Vos Pokémon ont été soignés.\r",
+        "Nous vous souhaitons\n",
+        "bonne chance."
       ]
     },
     {
@@ -282,6 +420,16 @@
         "experience out there.\r",
         "Maybe you should take a quick\n",
         "rest so you can relax.\r",
+        "...\n",
+        "..."
+      ],
+      "fr_FR": [
+        "Maman: Bienvenue à la maison, \n",
+        "{STRVAR_1 3, 0, 0}. Tout va bien?\r",
+        "Tu as dû vivre des \n",
+        "aventures épuisantes.\r",
+        "Tu devrais te reposer et \n",
+        "faire une bonne sieste.\r",
         "...\n",
         "..."
       ]
@@ -303,6 +451,22 @@
         "Potions at the Pokémon Mart.\r",
         "Make me proud, honey!\n",
         "Take care!"
+      ],
+      "fr_FR": [
+        "Maman: Eh bien, toi et ton\n",
+        "Pokémon avez l’air d’aller mieux.\r",
+        "Je viens d’avoir des nouvelles\n",
+        "du Professeur Sorbier.\r",
+        "Il dit que l’énergie d’un Pokémon\n",
+        "se mesure en PV (Points de Vie).\r",
+        "Si ton Pokémon manque de PV, tu\n",
+        "peux les restaurer en allant\f",
+        "dans un Centre Pokémon.\r",
+        "Et si tu prévois de voyager loin,\n",
+        "n’oublie pas d’acheter des Potions\f",
+        "dans une Boutique Pokémon.\r",
+        "Rends-moi fière, mon bouchon.\n",
+        "Fais attention à toi!"
       ]
     },
     {
@@ -318,6 +482,18 @@
         "taking a rest.\r",
         "Well, honey, make me proud!\n",
         "Take care!"
+      ],
+      "fr_FR": [
+        "Maman: Eh bien, toi et ton\n",
+        "Pokémon avez l’air d’aller mieux.\r",
+        "Fais attention, ton Pokémon sera\n",
+        "K.O. s’il perd tous ses PV.\r",
+        "Si ton Pokémon perd des PV, \n",
+        "reviens à la maison avant qu’il soit K.O.\r",
+        "Il retrouvera tous ses PV \n",
+        "après un peu de repos.\r",
+        "Maman est fière de toi, mon bouchon.\n",
+        "Fais attention à toi!"
       ]
     },
     {
@@ -325,6 +501,10 @@
       "en_US": [
         "First, let’s restore your Pokémon\n",
         "to full health."
+      ],
+      "fr_FR": [
+        "Avant toute chose, vous devriez\n",
+        "faire soigner vos Pokémon."
       ]
     },
     {
@@ -332,7 +512,8 @@
       "en_US": [
         "Your Pokémon have been healed\n",
         "to perfect health."
-      ]
+      ],
+      "fr_FR": "Vos Pokémon ont été soignés."
     },
     {
       "id": "CommonStrings_Text_PokecenterGoodLuckTrainer",
@@ -343,58 +524,85 @@
         "distance, you should stock up on\f",
         "Potions at a Pokémon Mart.\r",
         "Good luck, Trainer!"
+      ],
+      "fr_FR": [
+        "Si les PV de vos Pokémon sont\n",
+        "faibles, venez nous voir.\r",
+        "Si vous prévoyez de partir loin,\n",
+        "vous devriez acheter des Potions\f",
+        "dans une Boutique Pokémon.\r",
+        "Nous vous souhaitons\n",
+        "bonne chance."
       ]
     },
     {
       "id": "CommonStrings_Text_HoneyTreeSweetScentNoHoney",
-      "en_US": "There is a sweet scent in the air..."
+      "en_US": "There is a sweet scent in the air...",
+      "fr_FR": "Un doux parfum flotte dans l’air..."
     },
     {
       "id": "CommonStrings_Text_HoneyTreeSweetScent",
-      "en_US": "There is a sweet scent in the air...\r"
+      "en_US": "There is a sweet scent in the air...\r",
+      "fr_FR": "Un doux parfum flotte dans l’air...\r"
     },
     {
       "id": "CommonStrings_Text_HoneyTreeSlatheredNoHoney",
-      "en_US": "The bark is slathered with Honey..."
+      "en_US": "The bark is slathered with Honey...",
+      "fr_FR": "L’arbre est couvert de Miel..."
     },
     {
       "id": "CommonStrings_Text_HoneyTreeSlathered",
-      "en_US": "The bark is slathered with Honey...\r"
+      "en_US": "The bark is slathered with Honey...\r",
+      "fr_FR": "L’arbre est couvert de Miel...\r"
     },
     {
       "id": "CommonStrings_Text_SlatherBarkWithHoney",
-      "en_US": "Slather the bark with Honey?"
+      "en_US": "Slather the bark with Honey?",
+      "fr_FR": "Etaler du Miel sur l’arbre?"
     },
     {
       "id": "CommonStrings_Text_BarkWasSlathered",
-      "en_US": "The bark was slathered with Honey."
+      "en_US": "The bark was slathered with Honey.",
+      "fr_FR": "Du Miel a été étalé sur l’arbre."
     },
     {
       "id": "CommonStrings_Text_NoMailInMailbox",
-      "en_US": "There’s no Mail in the Mailbox.\r"
+      "en_US": "There’s no Mail in the Mailbox.\r",
+      "fr_FR": [
+        "Il n’y a pas de Lettre dans la \n",
+        "Boîte aux Lettres.\r"
+      ]
     },
     {
       "id": "CommonStrings_Text_00053",
       "en_US": [
         "The Mail’s content will be lost.\n",
         "Take it back anyway?"
+      ],
+      "fr_FR": [
+        "Le contenu de la Lettre sera perdu.\n",
+        "Continuer?"
       ]
     },
     {
       "id": "CommonStrings_Text_NotEvenANibble",
-      "en_US": "Not even a nibble..."
+      "en_US": "Not even a nibble...",
+      "fr_FR": "Rien de rien..."
     },
     {
       "id": "CommonStrings_Text_ThePokemonGotAway",
-      "en_US": "The Pokémon got away..."
+      "en_US": "The Pokémon got away...",
+      "fr_FR": "Il s’est enfui..."
     },
     {
       "id": "CommonStrings_Text_ReeledItInTooQuickly",
-      "en_US": "Reeled it in too quickly..."
+      "en_US": "Reeled it in too quickly...",
+      "fr_FR": "La ligne a été remontée trop vite..."
     },
     {
       "id": "CommonStrings_Text_LandedAPokemon",
-      "en_US": "Landed a Pokémon!"
+      "en_US": "Landed a Pokémon!",
+      "fr_FR": "Un Pokémon a mordu à l’hameçon!"
     },
     {
       "id": "CommonStrings_Text_Dummy58",
@@ -433,6 +641,10 @@
       "en_US": [
         "{STRVAR_1 1, 0, 0} survived the poisoning.\n",
         "The poison faded away!\r"
+      ],
+      "fr_FR": [
+        "{STRVAR_1 1, 0, 0} a survécu au poison.\n",
+        "Le poison s’est dissipé!\r"
       ]
     },
     {
@@ -440,26 +652,34 @@
       "en_US": [
         "It’s an air vent that exchanges\n",
         "the underground tunnels’ air."
+      ],
+      "fr_FR": [
+        "C’est une aération qui fait circuler \n",
+        "l’air entre la surface et le Souterrain."
       ]
     },
     {
       "id": "CommonStrings_Text_GenderSymbolMale",
-      "en_US": "♂"
+      "en_US": "♂",
+      "fr_FR": "♂"
     },
     {
       "id": "CommonStrings_Text_GenderSymbolFemale",
-      "en_US": "♀"
+      "en_US": "♀",
+      "fr_FR": "♀"
     },
     {
       "id": "CommonStrings_Text_SweetScentNothingHere",
-      "en_US": "There appears to be nothing here..."
+      "en_US": "There appears to be nothing here...",
+      "fr_FR": "Apparemment, il n’y a rien ici..."
     },
     {
       "id": "CommonStrings_Text_SweetScentFaded",
       "en_US": [
         "The sweet scent faded for some\n",
         "reason..."
-      ]
+      ],
+      "fr_FR": "Le doux parfum semble s’être dissipé..."
     },
     {
       "id": "CommonStrings_Text_Dummy72",
@@ -467,11 +687,13 @@
     },
     {
       "id": "CommonStrings_Text_RideYourBike",
-      "en_US": "Ride your Bike?"
+      "en_US": "Ride your Bike?",
+      "fr_FR": "Monter sur la Bicyclette?"
     },
     {
       "id": "CommonStrings_Text_GetOffYourBike",
-      "en_US": "Get off your Bike?"
+      "en_US": "Get off your Bike?",
+      "fr_FR": "Descendre de la Bicyclette?"
     },
     {
       "id": "CommonStrings_Text_Dummy75",
@@ -479,30 +701,39 @@
     },
     {
       "id": "CommonStrings_Text_Oh",
-      "en_US": "Oh?"
+      "en_US": "Oh?",
+      "fr_FR": "Hein?"
     },
     {
       "id": "CommonStrings_Text_00077",
-      "en_US": "{STRVAR_1 0, 0, 0} hatched from the Egg!"
+      "en_US": "{STRVAR_1 0, 0, 0} hatched from the Egg!",
+      "fr_FR": "{STRVAR_1 0, 0, 0} vient de sortir de l’Oeuf!"
     },
     {
       "id": "CommonStrings_Text_00078",
       "en_US": [
         "Would you like to nickname the newly\n",
         "hatched {STRVAR_1 0, 0, 0}?"
+      ],
+      "fr_FR": [
+        "Voulez-vous donner un surnom\n",
+        "au {STRVAR_1 0, 0, 0} nouveau-né?"
       ]
     },
     {
       "id": "CommonStrings_Text_RepelsEffectWoreOff",
-      "en_US": "Repel’s effect wore off..."
+      "en_US": "Repel’s effect wore off...",
+      "fr_FR": "L’effet de Repousse se dissipe..."
     },
     {
       "id": "CommonStrings_Text_ObtainedTheUndergroundTrap",
-      "en_US": "Obtained the {STRVAR_1 8, 0, 0}!"
+      "en_US": "Obtained the {STRVAR_1 8, 0, 0}!",
+      "fr_FR": "Obtenu: {STRVAR_1 8, 0, 0}!"
     },
     {
       "id": "CommonStrings_Text_ObtainedTheUndergroundSphere",
-      "en_US": "Obtained the {STRVAR_1 8, 0, 0} {STRVAR_1 51, 1, 0}!"
+      "en_US": "Obtained the {STRVAR_1 8, 0, 0} {STRVAR_1 51, 1, 0}!",
+      "fr_FR": "Obtenu: {STRVAR_1 8, 0, 0} {STRVAR_1 51, 1, 0}!"
     },
     {
       "id": "CommonStrings_Text_UndergroundOffLimits",
@@ -511,6 +742,12 @@
         "We are working underground right now.\n",
         "It’s off-limits to the public.\r",
         "Please try later on."
+      ],
+      "fr_FR": [
+        "Je suis vraiment désolée.\r",
+        "Nous travaillons au sous-sol.\n",
+        "L’accès est interdit au public.\r",
+        "Veuillez revenir plus tard."
       ]
     },
     {
@@ -518,13 +755,18 @@
       "en_US": [
         "The {COLOR 2}Digital Watch{COLOR 0} app displays\n",
         "the current time.\r"
-      ]
+      ],
+      "fr_FR": "La {COLOR 2}Montre Digitale {COLOR 0}affiche l’heure.\r"
     },
     {
       "id": "CommonStrings_Text_ObtainedPoketchCalculator",
       "en_US": [
         "The {COLOR 2}Calculator{COLOR 0} app can handle\n",
         "calculations up to ten digits.\r"
+      ],
+      "fr_FR": [
+        "La {COLOR 2}Calculatrice{COLOR 0} peut afficher jusqu’à\n",
+        "dix chiffres.\r"
       ]
     },
     {
@@ -532,6 +774,10 @@
       "en_US": [
         "The {COLOR 2}Memo Pad{COLOR 0} app can be used for\n",
         "jotting down quick notes.\r"
+      ],
+      "fr_FR": [
+        "Le {COLOR 2}Carnet{COLOR 0} peut être utilisé pour\n",
+        "prendre des notes.\r"
       ]
     },
     {
@@ -539,6 +785,10 @@
       "en_US": [
         "The {COLOR 2}Pedometer{COLOR 0} app counts the number\n",
         "of steps you’ve walked.\r"
+      ],
+      "fr_FR": [
+        "Le {COLOR 2}Podomètre{COLOR 0} compte le nombre de pas\n",
+        "que vous faites.\r"
       ]
     },
     {
@@ -546,6 +796,10 @@
       "en_US": [
         "The {COLOR 2}Pokémon List{COLOR 0} app lets you\n",
         "check on the status of your team.\r"
+      ],
+      "fr_FR": [
+        "L’{COLOR 2}Equipe Pokémon{COLOR 0} indique le statut des\n",
+        "Pokémon de votre équipe.\r"
       ]
     },
     {
@@ -553,6 +807,10 @@
       "en_US": [
         "The {COLOR 2}Friendship Checker{COLOR 0} app identifies\n",
         "the Pokémon that like you."
+      ],
+      "fr_FR": [
+        "Le {COLOR 2}Contrôleur d’Amitié{COLOR 0} indique l’amitié\n",
+        "que vos Pokémon vous portent."
       ]
     },
     {
@@ -560,6 +818,10 @@
       "en_US": [
         "The {COLOR 2}Dowsing Machine{COLOR 0} app locates\n",
         "unseeable items.\r"
+      ],
+      "fr_FR": [
+        "Le {COLOR 2}Radar à Objet{COLOR 0} détecte les objets\n",
+        "cachés ou difficiles à trouver.\r"
       ]
     },
     {
@@ -567,6 +829,10 @@
       "en_US": [
         "The {COLOR 2}Berry Searcher{COLOR 0} app indicates\n",
         "the locations of ripe Berries."
+      ],
+      "fr_FR": [
+        "Le {COLOR 2}Contrôleur de Baie{COLOR 0} signale\n",
+        "les Baies mûres sur une carte."
       ]
     },
     {
@@ -574,6 +840,10 @@
       "en_US": [
         "The {COLOR 2}Day-Care Checker{COLOR 0} app shows\n",
         "the Pokémon left with the Day Care."
+      ],
+      "fr_FR": [
+        "Le {COLOR 2}Contrôleur Pension{COLOR 0} vous montre les\n",
+        "Pokémon laissés à la Pension."
       ]
     },
     {
@@ -581,6 +851,10 @@
       "en_US": [
         "The {COLOR 2}Pokémon History{COLOR 0} app shows\n",
         "the most recently obtained Pokémon."
+      ],
+      "fr_FR": [
+        "L’{COLOR 2}Historique Pokémon{COLOR 0} montre les\n",
+        "derniers Pokémon attrapés."
       ]
     },
     {
@@ -588,6 +862,10 @@
       "en_US": [
         "The {COLOR 2}Counter{COLOR 0} app can be used\n",
         "to count up to 9,999."
+      ],
+      "fr_FR": [
+        "Le {COLOR 2}Compteur{COLOR 0} peut être utilisé pour\n",
+        "compter jusqu’à 9 999."
       ]
     },
     {
@@ -595,13 +873,18 @@
       "en_US": [
         "The {COLOR 2}Analog Watch{COLOR 0} app displays\n",
         "the current time."
-      ]
+      ],
+      "fr_FR": "La {COLOR 2}Montre Analogique{COLOR 0} affiche l’heure."
     },
     {
       "id": "CommonStrings_Text_ObtainedPoketchMarkingMap",
       "en_US": [
         "The {COLOR 2}Marking Map{COLOR 0} app allows the\n",
         "placement of markers.\r"
+      ],
+      "fr_FR": [
+        "La {COLOR 2}Carte Repères{COLOR 0} permet de\n",
+        "marquer les endroits intéressants.\r"
       ]
     },
     {
@@ -609,6 +892,10 @@
       "en_US": [
         "The {COLOR 2}Link Searcher{COLOR 0} app determines\n",
         "the availability of wireless hot spots.\r"
+      ],
+      "fr_FR": [
+        "Le {COLOR 2}Cherche-Connexion{COLOR 0} indique la\n",
+        "présence de bornes Wi-Fi disponibles.\r"
       ]
     },
     {
@@ -616,6 +903,10 @@
       "en_US": [
         "The {COLOR 2}Coin Toss{COLOR 0} app can be used\n",
         "to make fair decisions."
+      ],
+      "fr_FR": [
+        "Le logiciel {COLOR 2}Pile ou Face{COLOR 0} peut être utilisé\n",
+        "pour prendre des décisions justes."
       ]
     },
     {
@@ -623,6 +914,10 @@
       "en_US": [
         "The {COLOR 2}Move Tester{COLOR 0} app is used to check\n",
         "how moves match up.\r"
+      ],
+      "fr_FR": [
+        "Le {COLOR 2}Testeur de Capacités{COLOR 0} indique\n",
+        "l’efficacité des capacités par type.\r"
       ]
     },
     {
@@ -630,6 +925,10 @@
       "en_US": [
         "The {COLOR 2}Calendar{COLOR 0} app is a monthly\n",
         "calendar with date reminders."
+      ],
+      "fr_FR": [
+        "Le {COLOR 2}Calendrier{COLOR 0} est un calendrier mensuel\n",
+        "avec pense-bêtes."
       ]
     },
     {
@@ -637,6 +936,10 @@
       "en_US": [
         "The {COLOR 2}Dot Artist{COLOR 0} app gives players\n",
         "free reign to their creativity."
+      ],
+      "fr_FR": [
+        "Le {COLOR 2}Dessinateur{COLOR 0} laisse toute liberté au\n",
+        "joueur pour exprimer sa créativité."
       ]
     },
     {
@@ -644,6 +947,10 @@
       "en_US": [
         "The {COLOR 2}Roulette{COLOR 0} app can be customized\n",
         "to make an original roulette."
+      ],
+      "fr_FR": [
+        "La {COLOR 2}Roulette{COLOR 0} peut être personnalisée\n",
+        "pour en faire une roulette originale."
       ]
     },
     {
@@ -651,6 +958,10 @@
       "en_US": [
         "The {COLOR 2}Trainer Counter{COLOR 0} app tracks\n",
         "the Pokémon Radar’s rankings.\r"
+      ],
+      "fr_FR": [
+        "Le {COLOR 2}Compteur Poké Radar{COLOR 0} conserve les\n",
+        "performances du Poké Radar.\r"
       ]
     },
     {
@@ -658,6 +969,10 @@
       "en_US": [
         "The {COLOR 2}Kitchen Timer{COLOR 0} app is a 99-minute\n",
         "timer."
+      ],
+      "fr_FR": [
+        "Le {COLOR 2}Minuteur{COLOR 0} peut décompter jusqu’à 99\n",
+        "minutes."
       ]
     },
     {
@@ -665,6 +980,10 @@
       "en_US": [
         "The {COLOR 2}Color Changer{COLOR 0} app can change\n",
         "the Pokétch display color."
+      ],
+      "fr_FR": [
+        "Le {COLOR 2}Changeur de Couleur{COLOR 0} change la\n",
+        "couleur d’affichage de la Pokémontre."
       ]
     },
     {
@@ -672,6 +991,10 @@
       "en_US": [
         "The {COLOR 2}Matchup Checker{COLOR 0} app shows the\n",
         "affinity of Pokémon to each other.\r"
+      ],
+      "fr_FR": [
+        "Le {COLOR 2}Testeur d’Affinités{COLOR 0} teste les\n",
+        "affinités entre Pokémon.\r"
       ]
     },
     {
@@ -679,6 +1002,10 @@
       "en_US": [
         "The {COLOR 2}Stopwatch{COLOR 0} app keeps precise\n",
         "time.\r"
+      ],
+      "fr_FR": [
+        "Le {COLOR 2}Chronomètre{COLOR 0} est utilisé pour\n",
+        "mesurer le temps avec précision.\r"
       ]
     },
     {
@@ -686,17 +1013,26 @@
       "en_US": [
         "The {COLOR 2}Alarm Clock{COLOR 0} app operates\n",
         "on a 24-hour system.\r"
+      ],
+      "fr_FR": [
+        "Le {COLOR 2}Réveil{COLOR 0} peut être programmé pour\n",
+        "sonner toutes les 24 heures.\r"
       ]
     },
     {
       "id": "CommonStrings_Text_ObtainedUndergroundItem",
-      "en_US": "Obtained {STRVAR_1 25, 0, 0}."
+      "en_US": "Obtained {STRVAR_1 25, 0, 0}.",
+      "fr_FR": "Vous obtenez {STRVAR_1 25, 0, 0}!"
     },
     {
       "id": "CommonStrings_Text_ItemWasSentToUndergroundPC",
       "en_US": [
         "The {STRVAR_1 25, 0, 0} was sent to\n",
         "the underground PC."
+      ],
+      "fr_FR": [
+        "L’article {STRVAR_1 25, 0, 0} a été\n",
+        "transféré sur le PC Souterrain."
       ]
     },
     {
@@ -706,6 +1042,12 @@
         "of the obtained Plate...\r",
         "“When the universe was created,\n",
         "its shards became this Plate.”\r"
+      ],
+      "fr_FR": [
+        "Il y a quelque chose d’écrit au dos de\n",
+        "la Plaque obtenue...\r",
+        "“Quand l’univers fut créé,\n",
+        "ses fragments formèrent cette Plaque.”\r"
       ]
     },
     {
@@ -715,6 +1057,12 @@
         "of the obtained Plate...\r",
         "“The power of defeated giants\n",
         "infuses this Plate.”\r"
+      ],
+      "fr_FR": [
+        "Il y a quelque chose d’écrit au dos de\n",
+        "la Plaque obtenue...\r",
+        "“Cette Plaque contient le pouvoir \n",
+        "de géants vaincus.”\r"
       ]
     },
     {
@@ -724,6 +1072,12 @@
         "of the obtained Plate...\r",
         "“Two beings of time and space set\n",
         "free from the Original One.”\r"
+      ],
+      "fr_FR": [
+        "Il y a quelque chose d’écrit au dos de\n",
+        "la Plaque obtenue...\r",
+        "“Deux êtres du temps et de l’espace\n",
+        "libérés par l’Etre Originel.”\r"
       ]
     },
     {
@@ -733,6 +1087,12 @@
         "of the obtained Plate...\r",
         "“Three beings were born to bind\n",
         "time and space.”\r"
+      ],
+      "fr_FR": [
+        "Il y a quelque chose d’écrit au dos de\n",
+        "la Plaque obtenue...\r",
+        "“Trois êtres furent créés pour lier le\n",
+        "temps et l’espace.”\r"
       ]
     },
     {
@@ -742,6 +1102,12 @@
         "of the obtained Plate...\r",
         "“Two make matter, and three make\n",
         "spirit, shaping the world.”\r"
+      ],
+      "fr_FR": [
+        "Il y a quelque chose d’écrit au dos de\n",
+        "la Plaque obtenue...\r",
+        "“Deux créent la matière et trois créent\n",
+        "l’esprit, façonnant le monde.”\r"
       ]
     },
     {
@@ -751,6 +1117,12 @@
         "of the obtained Plate...\r",
         "“The Original One breathed alone\n",
         "before the universe came.”\r"
+      ],
+      "fr_FR": [
+        "Il y a quelque chose d’écrit au dos de\n",
+        "la Plaque obtenue...\r",
+        "“L’Etre Originel respirait seul avant\n",
+        "que l’univers ne soit.”\r"
       ]
     },
     {
@@ -760,6 +1132,12 @@
         "of the obtained Plate...\r",
         "“The powers of Plates are shared\n",
         "among Pokémon.”\r"
+      ],
+      "fr_FR": [
+        "Il y a quelque chose d’écrit au dos de\n",
+        "la Plaque obtenue...\r",
+        "“Les pouvoirs des Plaques sont\n",
+        "partagés entre les Pokémon.”\r"
       ]
     },
     {
@@ -769,6 +1147,12 @@
         "of the obtained Plate...\r",
         "“The rightful bearer of a Plate\n",
         "draws from the Plate it holds.”\r"
+      ],
+      "fr_FR": [
+        "Il y a quelque chose d’écrit au dos de\n",
+        "la Plaque obtenue...\r",
+        "“Le porteur légitime d’une Plaque\n",
+        "peut en maîtriser le pouvoir.”\r"
       ]
     },
     {
@@ -776,6 +1160,10 @@
       "en_US": [
         "Ball Capsules can’t be used because\n",
         "you don’t have any Seals.\r"
+      ],
+      "fr_FR": [
+        "Les Capsules Ball ne peuvent être\n",
+        "utilisées car vous n’avez pas de Sceau.\r"
       ]
     },
     {
@@ -783,6 +1171,10 @@
       "en_US": [
         "Saving the game again...\n",
         "Don’t turn off the power."
+      ],
+      "fr_FR": [
+        "Sauvegarde en cours...\n",
+        "Ne pas éteindre."
       ]
     },
     {
@@ -793,6 +1185,12 @@
         "We restore your tired Pokémon\n",
         "to full health.\r",
         "Would you like to rest your Pokémon?"
+      ],
+      "fr_FR": [
+        "Bonjour! Bienvenue au \n",
+        "Centre Pokémon.\r",
+        "Nous pouvons soigner vos Pokémon.\r",
+        "Voulez-vous les soigner?"
       ]
     },
     {
@@ -803,6 +1201,12 @@
         "We restore your tired Pokémon\n",
         "to full health.\r",
         "Would you like to rest your Pokémon?"
+      ],
+      "fr_FR": [
+        "Bonjour! Bienvenue au \n",
+        "Centre Pokémon.\r",
+        "Nous pouvons soigner vos Pokémon.\r",
+        "Voulez-vous les soigner?"
       ]
     },
     {
@@ -812,15 +1216,26 @@
         "a sound!\r",
         "Would you like to blow into the\n",
         "Azure Flute?"
+      ],
+      "fr_FR": [
+        "La Flûte Azur appartenant à\n",
+        "{STRVAR_1 3, 0, 0} émet un son!\r",
+        "Voulez-vous souffler dans la\n",
+        "Flûte Azur?"
       ]
     },
     {
       "id": "CommonStrings_Text_PlayerBlewAzureFlute",
-      "en_US": "{STRVAR_1 3, 0, 0} blew the Azure Flute.\r"
+      "en_US": "{STRVAR_1 3, 0, 0} blew the Azure Flute.\r",
+      "fr_FR": [
+        "{STRVAR_1 3, 0, 0} souffle dans la\n",
+        "Flûte Azur.\r"
+      ]
     },
     {
       "id": "CommonStrings_Text_GlowingStairwayAppeared",
-      "en_US": "A glowing stairway appeared!"
+      "en_US": "A glowing stairway appeared!",
+      "fr_FR": "Un escalier de lumière apparaît!"
     },
     {
       "id": "CommonStrings_Text_MeaninglessUsingAzureFlute",
@@ -828,6 +1243,11 @@
         "The Azure Flute echoed hollowly...\r",
         "It appears to be meaningless using\n",
         "the Azure Flute here..."
+      ],
+      "fr_FR": [
+        "Une morne mélodie s’échappe de\n",
+        "la Flûte Azur...\r",
+        "Elle ne fonctionne pas ici..."
       ]
     },
     {
@@ -835,6 +1255,10 @@
       "en_US": [
         "{STRVAR_1 3, 0, 0} put the {STRVAR_1 8, 1, 0}\n",
         "in the {COLOR 2}{STRVAR_1 27, 2, 0}{COLOR 0} Pocket.\r"
+      ],
+      "fr_FR": [
+        "{STRVAR_1 3, 0, 0} met {STRVAR_1 8, 1, 0}\n",
+        "dans la Poche {COLOR 2}{STRVAR_1 27, 2, 0}{COLOR 0}.\r"
       ]
     },
     {
@@ -842,6 +1266,10 @@
       "en_US": [
         "{STRVAR_1 3, 0, 0} put away the\n",
         "{STRVAR_1 31, 1, 0} in the Fashion Case.\r"
+      ],
+      "fr_FR": [
+        "{STRVAR_1 3, 0, 0} range l’Accessoire\n",
+        "{STRVAR_1 31, 1, 0} dans le Coffret Mode.\r"
       ]
     },
     {
@@ -849,6 +1277,10 @@
       "en_US": [
         "The {STRVAR_1 25, 0, 0} was sent to\n",
         "the underground PC.\r"
+      ],
+      "fr_FR": [
+        "L’article {STRVAR_1 25, 0, 0} a été\n",
+        "transféré au PC Souterrain.\r"
       ]
     },
     {
@@ -856,6 +1288,11 @@
       "en_US": [
         "Check the move you want taught to\n",
         "see what Shards are needed."
+      ],
+      "fr_FR": [
+        "Vérifiez que vous avez les Tessons\n",
+        "requis pour apprendre la capacité\f",
+        "désirée."
       ]
     },
     {
@@ -864,6 +1301,11 @@
         "Your Bag is full.\r",
         "The Griseous Orb could not be removed,\n",
         "so you cannot enter."
+      ],
+      "fr_FR": [
+        "Votre Sac est plein.\r",
+        "Impossible d’y ranger l’Orbe Platiné.\n",
+        "Vous ne pouvez pas entrer."
       ]
     },
     {
@@ -872,6 +1314,11 @@
         "Your Hall of Fame data is corrupted.\r",
         "It will be fixed if you enter the\n",
         "Hall of Fame again.\r"
+      ],
+      "fr_FR": [
+        "Les données du Panthéon des Dresseurs\n",
+        "sont corrompues.\r",
+        "Veuillez sortir puis entrer à nouveau.\r"
       ]
     }
   ]

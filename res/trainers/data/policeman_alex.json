@@ -32,6 +32,10 @@
             "en_US": [
                 "I’m keeping my eyes open for crime.\n",
                 "Anyone arousing suspicion here?\r"
+            ],
+            "fr_FR": [
+                "Contre le crime, je veille au grain.\n",
+                "Rien à signaler par ici?\r"
             ]
         },
         {
@@ -39,6 +43,10 @@
             "en_US": [
                 "Now, just hold on. I didn’t say that\n",
                 "you were shady looking!\n"
+            ],
+            "fr_FR": [
+                "Minute, minute... Je n’ai jamais dit\n",
+                "que je te trouvais louche!\n"
             ]
         },
         {
@@ -46,6 +54,10 @@
             "en_US": [
                 "Don’t go hanging out with any\n",
                 "shady-looking characters! You hear?\n"
+            ],
+            "fr_FR": [
+                "Et que je ne te voie pas traîner avec\n",
+                "des individus louches! Tu m’entends?\n"
             ]
         },
         {
@@ -53,6 +65,10 @@
             "en_US": [
                 "Patrolling night and day sure is\n",
                 "exhausting... Yawn...\n"
+            ],
+            "fr_FR": [
+                "C’est fatiguant de patrouiller jour\n",
+                "et nuit... Mwaaaaaah...\n"
             ]
         },
         {
@@ -62,7 +78,14 @@
                 "I’m always on the lookout for punks.\r",
                 "Expecting some shady dude to actually\n",
                 "pop up... Does that make me weird?\r"
+            ],
+            "fr_FR": [
+                "T’as vu des individus louches, par ici?\n",
+                "Je suis toujours à l’affût de bandits.\r",
+                "Tu trouves ça bizarre... d’espérer\n",
+                "qu’un individu louche déboule ici?\r"
             ]
         }
-    ]
+    ],
+    "name_fr": "Stéphane"
 }

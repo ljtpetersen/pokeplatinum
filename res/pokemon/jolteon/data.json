@@ -7,7 +7,10 @@
         "special_attack": 110,
         "special_defense": 95
     },
-    "types": [ "TYPE_ELECTRIC", "TYPE_ELECTRIC" ],
+    "types": [
+        "TYPE_ELECTRIC",
+        "TYPE_ELECTRIC"
+    ],
     "catch_rate": 45,
     "base_exp_reward": 197,
     "ev_yields": {
@@ -26,28 +29,76 @@
     "hatch_cycles": 35,
     "base_friendship": 70,
     "exp_rate": "EXP_RATE_MEDIUM_FAST",
-    "egg_groups": [ "EGG_GROUP_FIELD", "EGG_GROUP_FIELD" ],
-    "abilities": [ "ABILITY_VOLT_ABSORB", "ABILITY_VOLT_ABSORB" ],
+    "egg_groups": [
+        "EGG_GROUP_FIELD",
+        "EGG_GROUP_FIELD"
+    ],
+    "abilities": [
+        "ABILITY_VOLT_ABSORB",
+        "ABILITY_VOLT_ABSORB"
+    ],
     "safari_flee_rate": 0,
     "body_color": "MON_COLOR_YELLOW",
     "flip_sprite": false,
     "icon_palette": 0,
     "learnset": {
         "by_level": [
-            [ 1, "MOVE_TAIL_WHIP" ],
-            [ 1, "MOVE_TACKLE" ],
-            [ 1, "MOVE_HELPING_HAND" ],
-            [ 8, "MOVE_SAND_ATTACK" ],
-            [ 15, "MOVE_THUNDER_SHOCK" ],
-            [ 22, "MOVE_QUICK_ATTACK" ],
-            [ 29, "MOVE_DOUBLE_KICK" ],
-            [ 36, "MOVE_PIN_MISSILE" ],
-            [ 43, "MOVE_THUNDER_FANG" ],
-            [ 50, "MOVE_LAST_RESORT" ],
-            [ 57, "MOVE_THUNDER_WAVE" ],
-            [ 64, "MOVE_AGILITY" ],
-            [ 71, "MOVE_THUNDER" ],
-            [ 78, "MOVE_DISCHARGE" ]
+            [
+                1,
+                "MOVE_TAIL_WHIP"
+            ],
+            [
+                1,
+                "MOVE_TACKLE"
+            ],
+            [
+                1,
+                "MOVE_HELPING_HAND"
+            ],
+            [
+                8,
+                "MOVE_SAND_ATTACK"
+            ],
+            [
+                15,
+                "MOVE_THUNDER_SHOCK"
+            ],
+            [
+                22,
+                "MOVE_QUICK_ATTACK"
+            ],
+            [
+                29,
+                "MOVE_DOUBLE_KICK"
+            ],
+            [
+                36,
+                "MOVE_PIN_MISSILE"
+            ],
+            [
+                43,
+                "MOVE_THUNDER_FANG"
+            ],
+            [
+                50,
+                "MOVE_LAST_RESORT"
+            ],
+            [
+                57,
+                "MOVE_THUNDER_WAVE"
+            ],
+            [
+                64,
+                "MOVE_AGILITY"
+            ],
+            [
+                71,
+                "MOVE_THUNDER"
+            ],
+            [
+                78,
+                "MOVE_DISCHARGE"
+            ]
         ],
         "by_tm": [
             "TM05",
@@ -94,7 +145,7 @@
             "MOVE_SWIFT"
         ]
     },
-    "evolutions": [  ],
+    "evolutions": [],
     "offspring": "SPECIES_EEVEE",
     "footprint": {
         "has": true,
@@ -117,9 +168,9 @@
             "name": "JOLTEON",
             "category": "Lightning Pokémon",
             "entry_text": [
-                "If agitated, it uses electricity to\n",
-                "straighten out its fur and launch\n",
-                "it in small bunches."
+                "It controls 10,000-volt power\n",
+                "and can raise all the fur on its\n",
+                "body as if it were sharp needles."
             ]
         },
         "fr": {
@@ -165,6 +216,18 @@
                 "１まんボルトの　でんきを　あやつる。\n",
                 "ぜんしんの　たいもうが　さかだつと\n",
                 "ハリのように　するどく　とがる。"
+            ]
+        },
+        "local_version": {
+            "entry_text": [
+                "If agitated, it uses electricity to\n",
+                "straighten out its fur and launch\n",
+                "it in small bunches."
+            ],
+            "entry_text_fr": [
+                "Face au danger, il fait appel à\n",
+                "l’électricité pour dresser ses\n",
+                "poils et lancer des décharges."
             ]
         }
     },

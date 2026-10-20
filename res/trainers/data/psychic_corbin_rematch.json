@@ -33,6 +33,10 @@
             "en_US": [
                 "You’re going to win again!\n",
                 "That’s the future I saw!\r"
+            ],
+            "fr_FR": [
+                "Tu vas encore gagner!\n",
+                "C’est ce que j’ai vu dans le futur!\r"
             ]
         },
         {
@@ -40,7 +44,12 @@
             "en_US": [
                 "What I saw in the future turned out\n",
                 "to be true...\n"
+            ],
+            "fr_FR": [
+                "Ce que j’ai vu dans le futur s’est\n",
+                "révélé exact...\n"
             ]
         }
-    ]
+    ],
+    "name_fr": "Lorenzo"
 }

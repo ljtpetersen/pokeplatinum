@@ -27,5 +27,13 @@
   "fieldUseFunc": "ITEM_USE_FUNC_TM_HM",
   "battleUseCategory": "BATTLE_USE_CATEGORY_NONE",
   "itemUseParams": null,
-  "teachesMove": "MOVE_BULLET_SEED"
+  "teachesMove": "MOVE_BULLET_SEED",
+  "name_fr": "CT09",
+  "description_fr": [
+    "Le lanceur mitraille l’ennemi avec\n",
+    "une rafale de graines. De 2 à 5\n",
+    "rafales sont lancées à la suite."
+  ],
+  "plural_fr": "CT09",
+  "article_fr": null
 }

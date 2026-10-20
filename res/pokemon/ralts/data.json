@@ -7,7 +7,10 @@
         "special_attack": 45,
         "special_defense": 35
     },
-    "types": [ "TYPE_PSYCHIC", "TYPE_PSYCHIC" ],
+    "types": [
+        "TYPE_PSYCHIC",
+        "TYPE_PSYCHIC"
+    ],
     "catch_rate": 235,
     "base_exp_reward": 70,
     "ev_yields": {
@@ -26,27 +29,72 @@
     "hatch_cycles": 20,
     "base_friendship": 35,
     "exp_rate": "EXP_RATE_SLOW",
-    "egg_groups": [ "EGG_GROUP_AMORPHOUS", "EGG_GROUP_AMORPHOUS" ],
-    "abilities": [ "ABILITY_SYNCHRONIZE", "ABILITY_TRACE" ],
+    "egg_groups": [
+        "EGG_GROUP_AMORPHOUS",
+        "EGG_GROUP_AMORPHOUS"
+    ],
+    "abilities": [
+        "ABILITY_SYNCHRONIZE",
+        "ABILITY_TRACE"
+    ],
     "safari_flee_rate": 0,
     "body_color": "MON_COLOR_WHITE",
     "flip_sprite": false,
     "icon_palette": 1,
     "learnset": {
         "by_level": [
-            [ 1, "MOVE_GROWL" ],
-            [ 6, "MOVE_CONFUSION" ],
-            [ 10, "MOVE_DOUBLE_TEAM" ],
-            [ 12, "MOVE_TELEPORT" ],
-            [ 17, "MOVE_LUCKY_CHANT" ],
-            [ 21, "MOVE_MAGICAL_LEAF" ],
-            [ 23, "MOVE_CALM_MIND" ],
-            [ 28, "MOVE_PSYCHIC" ],
-            [ 32, "MOVE_IMPRISON" ],
-            [ 34, "MOVE_FUTURE_SIGHT" ],
-            [ 39, "MOVE_CHARM" ],
-            [ 43, "MOVE_HYPNOSIS" ],
-            [ 45, "MOVE_DREAM_EATER" ]
+            [
+                1,
+                "MOVE_GROWL"
+            ],
+            [
+                6,
+                "MOVE_CONFUSION"
+            ],
+            [
+                10,
+                "MOVE_DOUBLE_TEAM"
+            ],
+            [
+                12,
+                "MOVE_TELEPORT"
+            ],
+            [
+                17,
+                "MOVE_LUCKY_CHANT"
+            ],
+            [
+                21,
+                "MOVE_MAGICAL_LEAF"
+            ],
+            [
+                23,
+                "MOVE_CALM_MIND"
+            ],
+            [
+                28,
+                "MOVE_PSYCHIC"
+            ],
+            [
+                32,
+                "MOVE_IMPRISON"
+            ],
+            [
+                34,
+                "MOVE_FUTURE_SIGHT"
+            ],
+            [
+                39,
+                "MOVE_CHARM"
+            ],
+            [
+                43,
+                "MOVE_HYPNOSIS"
+            ],
+            [
+                45,
+                "MOVE_DREAM_EATER"
+            ]
         ],
         "by_tm": [
             "TM04",
@@ -143,9 +191,9 @@
             "name": "RALTS",
             "category": "Feeling Pokémon",
             "entry_text": [
-                "If its horns capture the warm\n",
-                "feelings of people or Pokémon,\n",
-                "its body warms up slightly."
+                "It uses the horns on its head to\n",
+                "sense human emotions. It is said to\n",
+                "appear in front of cheerful people."
             ]
         },
         "fr": {
@@ -191,6 +239,18 @@
                 "あたまの　ツノで　ひとの　きもちを\n",
                 "かんじとる。あかるい　きぶんの\n",
                 "ひとの　まえに　あらわれるという。"
+            ]
+        },
+        "local_version": {
+            "entry_text": [
+                "If its horns capture the warm\n",
+                "feelings of people or Pokémon,\n",
+                "its body warms up slightly."
+            ],
+            "entry_text_fr": [
+                "Quand ses cornes captent les ondes\n",
+                "positives d’un Pokémon ou d’un\n",
+                "humain, son corps se réchauffe."
             ]
         }
     },

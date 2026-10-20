@@ -25,5 +25,12 @@
     "contest": {
         "effect": "CONTEST_EFFECT_BASIC",
         "type": "CONTEST_TYPE_BEAUTY"
-    }
+    },
+    "name_fr": "Poudreuse",
+    "description_fr": [
+        "Le lanceur projette \n",
+        "de la neige poudreuse.\n",
+        "Peut aussi geler\n",
+        "l’ennemi."
+    ]
 }

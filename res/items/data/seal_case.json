@@ -26,5 +26,13 @@
   "battlePocket": "BATTLE_POCKET_MASK_NONE",
   "fieldUseFunc": "ITEM_USE_FUNC_BAG_MESSAGE",
   "battleUseCategory": "BATTLE_USE_CATEGORY_NONE",
-  "itemUseParams": null
+  "itemUseParams": null,
+  "name_fr": "Boîte Sceaux",
+  "description_fr": [
+    "Boîte contenant les Sceaux pouvant\n",
+    "être placés sur les capsules des\n",
+    "Poké Balls."
+  ],
+  "plural_fr": "Boîte Sceaux",
+  "article_fr": null
 }

@@ -26,5 +26,13 @@
   "battlePocket": "BATTLE_POCKET_MASK_NONE",
   "fieldUseFunc": "ITEM_USE_FUNC_NONE",
   "battleUseCategory": "BATTLE_USE_CATEGORY_NONE",
-  "itemUseParams": null
+  "itemUseParams": null,
+  "name_fr": "Sac Butin",
+  "description_fr": [
+    "Grand sac robuste utilisé pour\n",
+    "transporter le butin obtenu dans la\n",
+    "mine de charbon."
+  ],
+  "plural_fr": "Sac Butin",
+  "article_fr": null
 }

@@ -33,6 +33,11 @@
                 "It makes no difference where we are.\r",
                 "If you have Pokémon with you,\n",
                 "I reckon you ought to battle.\r"
+            ],
+            "fr_FR": [
+                "Peu importe l’endroit où nous sommes.\r",
+                "Si tu as des Pokémon avec toi, tu vas\n",
+                "devoir te battre.\r"
             ]
         },
         {
@@ -40,7 +45,8 @@
             "en_US": [
                 "You’ve got a lot of giddyap and go\n",
                 "in you!\n"
-            ]
+            ],
+            "fr_FR": "Tu as beaucoup d’énergie en toi!\n"
         },
         {
             "type": "TRMSG_POST_DOUBLE_BATTLE_1",
@@ -49,6 +55,12 @@
                 "to have some sad farewells.\r",
                 "But I reckon there are also some\n",
                 "new beginnings.\n"
+            ],
+            "fr_FR": [
+                "Une vie, aussi belle soit-elle, est\n",
+                "forcément parsemée de tristes adieux.\r",
+                "Heureusement, elle est aussi jalonnée\n",
+                "de nouveaux départs.\n"
             ]
         },
         {
@@ -56,6 +68,10 @@
             "en_US": [
                 "Hahaha! I’m afraid y’all are no match\n",
                 "for us with jus’ one of them Pokémon!"
+            ],
+            "fr_FR": [
+                "Ha, ha, ha! Je crains que tu ne sois pas\n",
+                "de taille contre nous avec ton Pokémon!"
             ]
         },
         {
@@ -63,11 +79,16 @@
             "en_US": [
                 "My Pokémon is a lively one.\n",
                 "Lemme show you how much!\r"
+            ],
+            "fr_FR": [
+                "Mon Pokémon est très fougueux.\n",
+                "Laisse-moi te montrer à quel point!\r"
             ]
         },
         {
             "type": "TRMSG_DOUBLE_BATTLE_DEFEAT_2",
-            "en_US": "Well! Aren’t you the lively one!"
+            "en_US": "Well! Aren’t you the lively one!",
+            "fr_FR": "Eh bien! Quelle fougue!"
         },
         {
             "type": "TRMSG_POST_DOUBLE_BATTLE_2",
@@ -76,6 +97,12 @@
                 "Right’n here, inside my heart...\r",
                 "Those are the places where my\n",
                 "Pokémon remain...\n"
+            ],
+            "fr_FR": [
+                "Ces tombes ici à la Tour Perdue...\n",
+                "Dans mon cœur, juste là...\r",
+                "Voilà l’endroit où mes Pokémon\n",
+                "demeurent...\n"
             ]
         },
         {
@@ -83,7 +110,12 @@
             "en_US": [
                 "You haven’t got yerself two\n",
                 "Pokémon?\n"
+            ],
+            "fr_FR": [
+                "Tu n’as pas encore attrapé deux\n",
+                "Pokémon?\n"
             ]
         }
-    ]
+    ],
+    "name_fr": "Eve & Gaël"
 }

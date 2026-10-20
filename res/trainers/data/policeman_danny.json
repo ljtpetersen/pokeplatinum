@@ -32,17 +32,26 @@
             "en_US": [
                 "Your whole atmosphere is shady.\n",
                 "Cooperate in this investigation!\r"
+            ],
+            "fr_FR": [
+                "Toi! Tu as un air suspect. J’aimerais\n",
+                "que tu répondes à quelques questions!\r"
             ]
         },
         {
             "type": "TRMSG_DEFEAT",
-            "en_US": "Defeated by sneakiness...\n"
+            "en_US": "Defeated by sneakiness...\n",
+            "fr_FR": "La fourberie a eu le dernier mot...\n"
         },
         {
             "type": "TRMSG_POST_BATTLE",
             "en_US": [
                 "I mistook your toughness as shadiness!\n",
                 "It’s an honest mistake!\n"
+            ],
+            "fr_FR": [
+                "Tu avais un air plus redoutable que\n",
+                "suspect, finalement! Au temps pour moi!\n"
             ]
         },
         {
@@ -50,6 +59,10 @@
             "en_US": [
                 "We’re constantly on patrol.\n",
                 "That way, it’s safe even at night.\n"
+            ],
+            "fr_FR": [
+                "On patrouille tout le temps. Ainsi,\n",
+                "même la nuit, les gens sont en sécurité.\n"
             ]
         },
         {
@@ -57,7 +70,12 @@
             "en_US": [
                 "Whoa! Hold it right there!\n",
                 "I’ve spotted a sneaky Trainer!\r"
+            ],
+            "fr_FR": [
+                "Hop, hop, hop! Un instant!\n",
+                "J’ai repéré un Dresseur fourbe!\r"
             ]
         }
-    ]
+    ],
+    "name_fr": "Melvin"
 }

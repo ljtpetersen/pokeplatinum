@@ -27,5 +27,13 @@
   "fieldUseFunc": "ITEM_USE_FUNC_TM_HM",
   "battleUseCategory": "BATTLE_USE_CATEGORY_NONE",
   "itemUseParams": null,
-  "teachesMove": "MOVE_DRAGON_PULSE"
+  "teachesMove": "MOVE_DRAGON_PULSE",
+  "name_fr": "CT59",
+  "description_fr": [
+    "Le lanceur ouvre la bouche pour\n",
+    "envoyer une onde de choc qui frappe\n",
+    "l’ennemi."
+  ],
+  "plural_fr": "CT59",
+  "article_fr": null
 }

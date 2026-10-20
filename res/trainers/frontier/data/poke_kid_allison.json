@@ -59,6 +59,10 @@
             "en_US": [
                 "Pikapika pikaah!\n",
                 "Pikka! Pikachuuuh!"
+            ],
+            "fr_FR": [
+                "Pikapika pikaa!\n",
+                "Pikaaa! Pikachuuu!"
             ]
         },
         {
@@ -66,11 +70,17 @@
             "en_US": [
                 "Piika pikapikka!\n",
                 "Pikka pikkachuuh!\r"
+            ],
+            "fr_FR": [
+                "Piika pikapika!\n",
+                "Pika pikachuuuuu!\r"
             ]
         },
         {
             "type": "TRMSG_DEFEAT",
-            "en_US": "Pikka ppi pi piii...\r"
+            "en_US": "Pikka ppi pi piii...\r",
+            "fr_FR": "Pika pika piiika...\r"
         }
-    ]
+    ],
+    "name_fr": "Allison"
 }

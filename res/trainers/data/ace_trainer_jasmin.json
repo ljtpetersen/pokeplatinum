@@ -30,6 +30,10 @@
             "en_US": [
                 "Can you answer this for me?\n",
                 "What is space?\r"
+            ],
+            "fr_FR": [
+                "Sauras-tu répondre à cette question?\n",
+                "Qu’est-ce que l’espace?\r"
             ]
         },
         {
@@ -37,6 +41,10 @@
             "en_US": [
                 "And another...\n",
                 "A new memory was born.\n"
+            ],
+            "fr_FR": [
+                "Et voilà...\n",
+                "Un souvenir se crée..."
             ]
         },
         {
@@ -44,7 +52,13 @@
             "en_US": [
                 "For me, space is where memories are\n",
                 "made...\n"
+            ],
+            "fr_FR": [
+                "Moi, je dirais que l’espace est le\n",
+                "lieu où se créent les souvenirs...\n",
+                "\n"
             ]
         }
-    ]
+    ],
+    "name_fr": "Christiane"
 }

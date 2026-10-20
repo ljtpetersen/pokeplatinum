@@ -26,5 +26,13 @@
     "contest": {
         "effect": "CONTEST_EFFECT_RANDOM_ORDER",
         "type": "CONTEST_TYPE_SMART"
-    }
+    },
+    "name_fr": "Jugement",
+    "description_fr": [
+        "Le lanceur libère une\n",
+        "myriade de rayons de\n",
+        "lumière. Le type\n",
+        "varie selon la Plaque\n",
+        "que tient le lanceur."
+    ]
 }

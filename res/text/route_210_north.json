@@ -9,6 +9,14 @@
         "How does Defog work?\r",
         "Don’t bird and bug Pokémon flap their\n",
         "wings to blow the fog away?"
+      ],
+      "fr_FR": [
+        "Si je pouvais utiliser la capacité\n",
+        "Anti-Brume, je dissiperais le brouillard.\r",
+        "Comment marche-t-elle, cette capacité?\r",
+        "Ce sont les Pokémon Oiseaux ou ceux de\n",
+        "type Insecte qui battent des ailes pour\f",
+        "disperser le brouillard?"
       ]
     },
     {
@@ -16,11 +24,16 @@
       "en_US": [
         "Rt. 210\n",
         "Celestic Town"
+      ],
+      "fr_FR": [
+        "Route 210\n",
+        "Célestia"
       ]
     },
     {
       "id": "Route210North_Text_SignGrandmaWilmasHouse",
-      "en_US": "Grandma Wilma’s House"
+      "en_US": "Grandma Wilma’s House",
+      "fr_FR": "Maison de Mamie Bertille"
     }
   ]
 }

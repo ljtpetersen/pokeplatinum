@@ -7,7 +7,10 @@
         "special_attack": 15,
         "special_defense": 65
     },
-    "types": [ "TYPE_NORMAL", "TYPE_NORMAL" ],
+    "types": [
+        "TYPE_NORMAL",
+        "TYPE_NORMAL"
+    ],
     "catch_rate": 130,
     "base_exp_reward": 255,
     "ev_yields": {
@@ -26,19 +29,40 @@
     "hatch_cycles": 40,
     "base_friendship": 140,
     "exp_rate": "EXP_RATE_FAST",
-    "egg_groups": [ "EGG_GROUP_UNDISCOVERED", "EGG_GROUP_UNDISCOVERED" ],
-    "abilities": [ "ABILITY_NATURAL_CURE", "ABILITY_SERENE_GRACE" ],
+    "egg_groups": [
+        "EGG_GROUP_UNDISCOVERED",
+        "EGG_GROUP_UNDISCOVERED"
+    ],
+    "abilities": [
+        "ABILITY_NATURAL_CURE",
+        "ABILITY_SERENE_GRACE"
+    ],
     "safari_flee_rate": 0,
     "body_color": "MON_COLOR_PINK",
     "flip_sprite": false,
     "icon_palette": 0,
     "learnset": {
         "by_level": [
-            [ 1, "MOVE_POUND" ],
-            [ 1, "MOVE_CHARM" ],
-            [ 5, "MOVE_COPYCAT" ],
-            [ 9, "MOVE_REFRESH" ],
-            [ 12, "MOVE_SWEET_KISS" ]
+            [
+                1,
+                "MOVE_POUND"
+            ],
+            [
+                1,
+                "MOVE_CHARM"
+            ],
+            [
+                5,
+                "MOVE_COPYCAT"
+            ],
+            [
+                9,
+                "MOVE_REFRESH"
+            ],
+            [
+                12,
+                "MOVE_SWEET_KISS"
+            ]
         ],
         "by_tm": [
             "TM03",
@@ -130,9 +154,9 @@
             "name": "HAPPINY",
             "category": "Playhouse Pokémon",
             "entry_text": [
-                "It likes to carry around a small\n",
-                "rock. It may wander around others’\n",
-                "feet and cause them to stumble."
+                "It loves round white things.\n",
+                "It carries an egg-shaped rock in\n",
+                "imitation of CHANSEY."
             ]
         },
         "fr": {
@@ -178,6 +202,18 @@
                 "しろくて　まるいものが　だいすき。\n",
                 "ラッキ－の　まねをして　タマゴに\n",
                 "そっくりな　いしを　かかえている。"
+            ]
+        },
+        "local_version": {
+            "entry_text": [
+                "It likes to carry around a small\n",
+                "rock. It may wander around others’\n",
+                "feet and cause them to stumble."
+            ],
+            "entry_text_fr": [
+                "Ce Pokémon ne se sépare jamais de\n",
+                "son petit caillou et a tendance à\n",
+                "traîner dans les pieds des gens."
             ]
         }
     },

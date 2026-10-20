@@ -39,5 +39,13 @@
     "bitterness": 10,
     "sourness": 30,
     "smoothness": 50
-  }
+  },
+  "name_fr": "Baie Frista",
+  "description_fr": [
+    "Ingrédient pour Poffin.\n",
+    "Tenue, cette Baie monte beaucoup une\n",
+    "des stats si nécessaire."
+  ],
+  "plural_fr": "Baie Frista",
+  "article_fr": null
 }

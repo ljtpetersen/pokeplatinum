@@ -10,6 +10,13 @@
         "happened up there, but I did.\r",
         "But I don’t know what took place\n",
         "exactly, or anything like that."
+      ],
+      "fr_FR": [
+        "D’ici, on peut voir le Mont Couronné.\r",
+        "La plupart des gens n’ont pas fait \n",
+        "attention, mais moi j’ai bien vu que\f",
+        "quelque chose s’était passé là-bas.\r",
+        "Mais je ne sais pas du tout quoi!"
       ]
     },
     {
@@ -17,7 +24,8 @@
       "en_US": [
         "Everyone’s fanatical about battling\n",
         "here."
-      ]
+      ],
+      "fr_FR": "Tout le monde adore les combats."
     },
     {
       "id": "FightAreaMiddleHouse_Text_CheckOutGlobalTerminal",
@@ -28,6 +36,14 @@
         "things about yourself sometimes, too.\r",
         "That’s why you should check out the\n",
         "Global Terminal in Jubilife City."
+      ],
+      "fr_FR": [
+        "Je suis ce que je suis, point barre. Je\n",
+        "déteste qu’on me compare aux autres.\r",
+        "Mais parfois, la comparaison permet\n",
+        "d’en apprendre plus sur soi-même.\r",
+        "Je te conseille de consulter le\n",
+        "Terminal Mondial de Féli-Cité."
       ]
     }
   ]

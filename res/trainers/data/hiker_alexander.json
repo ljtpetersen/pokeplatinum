@@ -33,6 +33,10 @@
             "en_US": [
                 "They call me the Echo Man!\n",
                 "Battle with me! Yahoo!\r"
+            ],
+            "fr_FR": [
+                "On m’appelle l’Homme Echo!\n",
+                "Combats contre moi! Lalalaïtou!\r"
             ]
         },
         {
@@ -40,6 +44,10 @@
             "en_US": [
                 "Ohh... Yo...\n",
                 "Yodelay...\n"
+            ],
+            "fr_FR": [
+                "Ohh... Lala...\n",
+                "Lai... tou!\n"
             ]
         },
         {
@@ -48,6 +56,12 @@
                 "Here’s good advice from the Echo Man!\r",
                 "If you’re at a loss as to where you\n",
                 "should be going, check the Town Map!\n"
+            ],
+            "fr_FR": [
+                "Laisse l’Homme Echo te donner un bon\n",
+                "conseil.\r",
+                "Si tu ne sais pas où aller, jette \n",
+                "un coup d’œil à la Carte.\n"
             ]
         },
         {
@@ -57,7 +71,14 @@
                 "I’m the Echo Man!\r",
                 "Let’s have another battle!\n",
                 "Yahoo!\r"
+            ],
+            "fr_FR": [
+                "Oh, salut! Tu te souviens de moi?\n",
+                "Je suis l’Homme Echo!\r",
+                "Faisons un autre combat!\n",
+                "Lalalaïtou!\r"
             ]
         }
-    ]
+    ],
+    "name_fr": "Marcel"
 }

@@ -27,5 +27,12 @@
   "fieldUseFunc": "ITEM_USE_FUNC_TM_HM",
   "battleUseCategory": "BATTLE_USE_CATEGORY_NONE",
   "itemUseParams": null,
-  "teachesMove": "MOVE_SUNNY_DAY"
+  "teachesMove": "MOVE_SUNNY_DAY",
+  "name_fr": "CT11",
+  "description_fr": [
+    "Fait briller le soleil pendant 5 tours et\n",
+    "améliore les capacités de type Feu."
+  ],
+  "plural_fr": "CT11",
+  "article_fr": null
 }

@@ -32,6 +32,10 @@
             "en_US": [
                 "Muhihi...\n",
                 "I’ll haul you up and out!\r"
+            ],
+            "fr_FR": [
+                "Mouh, hi, hi...\n",
+                "Je vais te pêcher et te remonter!\r"
             ]
         },
         {
@@ -39,6 +43,11 @@
             "en_US": [
                 "Restraint is my favorite word.\n",
                 "Like...from crushing my opponents.\n"
+            ],
+            "fr_FR": [
+                "Mon mot préféré est “modération”.\n",
+                "J’essaie d’éviter de détruire mes\f",
+                "adversaires. Le plus souvent.\n"
             ]
         },
         {
@@ -46,6 +55,10 @@
             "en_US": [
                 "You need a Good Rod if you want to\n",
                 "catch good Pokémon.\n"
+            ],
+            "fr_FR": [
+                "Tu as besoin d’une Super Canne si \n",
+                "tu veux pêcher de bons Pokémon.\n"
             ]
         },
         {
@@ -53,7 +66,12 @@
             "en_US": [
                 "Muhihi... There won’t be any\n",
                 "restraint this time, OK?\r"
+            ],
+            "fr_FR": [
+                "Bon... Cette fois-ci, j’oublie la \n",
+                "modération! Enfin... je vais essayer!\r"
             ]
         }
-    ]
+    ],
+    "name_fr": "Ludovic"
 }

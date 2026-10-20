@@ -8,6 +8,12 @@
         "official mascot.\r",
         "CROAGUNK sure is purdy--we’re hopin’\n",
         "it’ll get popular ’round the world."
+      ],
+      "fr_FR": [
+        "La mascotte officielle de cette ville\n",
+        "est le CRADOPAUD.\r",
+        "Le CRADOPAUD est très mignon. On veut\n",
+        "qu’il soit célèbre dans le monde entier."
       ]
     },
     {
@@ -19,6 +25,14 @@
         "me! It’s one of a kind!\r",
         "Giggle...\n",
         "Are you using Ball Capsules?"
+      ],
+      "fr_FR": [
+        "Mettre les Sceaux sur la Capsule avant\n",
+        "de la mettre sur une Poké Ball...\r",
+        "Et voilà! J’ai encore fabriqué\n",
+        "une Poké Ball! Elle est unique!\r",
+        "Hi, hi, hi...\n",
+        "Tu te sers de Capsules Ball?"
       ]
     },
     {
@@ -28,6 +42,11 @@
         "CROAGUNK.\r",
         "Even though it’s made of wood, it\n",
         "looks like it’s seeping poison..."
+      ],
+      "fr_FR": [
+        "C’est une sculpture de CRADOPAUD.\r",
+        "Bien qu’elle soit en bois, on\n",
+        "croirait voir du poison suinter..."
       ]
     }
   ]

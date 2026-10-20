@@ -41,11 +41,16 @@
             "en_US": [
                 "Traveling alone, are you? That’s\n",
                 "impressive! How about we battle?\r"
+            ],
+            "fr_FR": [
+                "Tu voyages en solitaire? Epatant!\n",
+                "Que dirais-tu d’un petit combat?\r"
             ]
         },
         {
             "type": "TRMSG_DEFEAT",
-            "en_US": "You’re good, pip-squeak!\n"
+            "en_US": "You’re good, pip-squeak!\n",
+            "fr_FR": "Tu te défends bien, minus!\n"
         },
         {
             "type": "TRMSG_POST_BATTLE",
@@ -54,6 +59,12 @@
                 "restaurant again.\r",
                 "That place gets different people in\n",
                 "every day, and they all like battles.\n"
+            ],
+            "fr_FR": [
+                "Je retournerai peut-être m’entraîner\n",
+                "au restaurant.\r",
+                "Il y a des nouveaux clients chaque jour\n",
+                "et ils aiment tous les combats.\n"
             ]
         },
         {
@@ -61,7 +72,12 @@
             "en_US": [
                 "Hey, lonesome traveler! Let’s break\n",
                 "the monotony with another battle!\r"
+            ],
+            "fr_FR": [
+                "Hé, Dresseur solitaire! On pourrait\n",
+                "tromper l’ennui avec un autre combat!\r"
             ]
         }
-    ]
+    ],
+    "name_fr": "Louis"
 }

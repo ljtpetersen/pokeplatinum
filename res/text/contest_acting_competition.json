@@ -6,6 +6,10 @@
       "en_US": [
         "{STRVAR_1 1, 0, 0} will perform\n",
         "first the next turn."
+      ],
+      "fr_FR": [
+        "{STRVAR_1 1, 0, 0} passera en\n",
+        "premier au tour suivant."
       ]
     },
     {
@@ -13,6 +17,10 @@
       "en_US": [
         "{STRVAR_1 1, 0, 0} will perform\n",
         "before {STRVAR_1 1, 1, 0}."
+      ],
+      "fr_FR": [
+        "{STRVAR_1 1, 0, 0} passera avant\n",
+        "{STRVAR_1 1, 1, 0}."
       ]
     },
     {
@@ -20,6 +28,10 @@
       "en_US": [
         "{STRVAR_1 1, 0, 0} will perform\n",
         "last in the next turn."
+      ],
+      "fr_FR": [
+        "{STRVAR_1 1, 0, 0} passera en\n",
+        "dernier au tour suivant."
       ]
     },
     {
@@ -27,6 +39,10 @@
       "en_US": [
         "{STRVAR_1 1, 0, 0} will perform\n",
         "after {STRVAR_1 1, 1, 0}."
+      ],
+      "fr_FR": [
+        "{STRVAR_1 1, 0, 0} passera après\n",
+        "{STRVAR_1 1, 1, 0}."
       ]
     },
     {
@@ -35,6 +51,11 @@
         "{STRVAR_1 1, 0, 0} didn’t choose\n",
         "the same Judge as anyone\f",
         "else! {COLOR 1}+0{COLOR 0}!"
+      ],
+      "fr_FR": [
+        "{STRVAR_1 1, 0, 0} a choisi un Juge\n",
+        "différent de tout le monde!\f",
+        "{COLOR 1}+0{COLOR 0}!"
       ]
     },
     {
@@ -42,6 +63,11 @@
       "en_US": [
         "{STRVAR_1 1, 0, 0} chose the same\n",
         "Judge as another Pokémon!\f",
+        "{COLOR 1}+2{COLOR 0}!"
+      ],
+      "fr_FR": [
+        "{STRVAR_1 1, 0, 0} a choisi le même\n",
+        "Juge qu’un autre Pokémon!\f",
         "{COLOR 1}+2{COLOR 0}!"
       ]
     },
@@ -51,6 +77,11 @@
         "{STRVAR_1 1, 0, 0} chose the same\n",
         "Judge as two other\f",
         "Pokémon! {COLOR 1}+4{COLOR 0}!"
+      ],
+      "fr_FR": [
+        "{STRVAR_1 1, 0, 0} a choisi le même\n",
+        "Juge que deux autres\f",
+        "Pokémon! {COLOR 1}+4{COLOR 0}!"
       ]
     },
     {
@@ -58,6 +89,10 @@
       "en_US": [
         "{STRVAR_1 1, 0, 0} chose the same\n",
         "Judge as everyone else! {COLOR 1}+6{COLOR 0}!"
+      ],
+      "fr_FR": [
+        "{STRVAR_1 1, 0, 0} a choisi le même\n",
+        "Juge que tout le monde! {COLOR 1}+6{COLOR 0}!"
       ]
     },
     {
@@ -66,6 +101,12 @@
         "{STRVAR_1 1, 0, 0} performed\n",
         "{STRVAR_1 6, 1, 0}!\r",
         "It excited the audience!\n",
+        "{COLOR 1}+2{COLOR 0}!"
+      ],
+      "fr_FR": [
+        "{STRVAR_1 1, 0, 0} a exécuté\n",
+        "{STRVAR_1 6, 1, 0}!\r",
+        "Il a enflammé le public!\n",
         "{COLOR 1}+2{COLOR 0}!"
       ]
     },
@@ -76,6 +117,12 @@
         "same Judge as anyone else!\r",
         "The performance stood out!\n",
         "{COLOR 1}+3{COLOR 0}!"
+      ],
+      "fr_FR": [
+        "{STRVAR_1 1, 0, 0} n’a pas choisi\n",
+        "le même Juge que les autres!\r",
+        "Sa performance sort du lot!\n",
+        "{COLOR 1}+3{COLOR 0}!"
       ]
     },
     {
@@ -85,6 +132,12 @@
         "Judge as another Pokémon!\r",
         "The performance didn’t\n",
         "stand out! {COLOR 1}+0{COLOR 0}!\r"
+      ],
+      "fr_FR": [
+        "{STRVAR_1 1, 0, 0} a choisi le même\n",
+        "Juge qu’un autre Pokémon!\r",
+        "Sa performance est passable!\n",
+        " {COLOR 1}+0{COLOR 0}!\r"
       ]
     },
     {
@@ -94,6 +147,12 @@
         "stands out and doesn’t\r",
         "share the same Judge with\n",
         "another Pokémon: {COLOR 1}+3{COLOR 0}!\r"
+      ],
+      "fr_FR": [
+        "Si la capacité de\n",
+        "{STRVAR_1 1, 0, 0} sort du lot et\r",
+        "que personne ne choisit le\n",
+        "même Juge: {COLOR 1}+3{COLOR 0}!\r"
       ]
     },
     {
@@ -101,6 +160,10 @@
       "en_US": [
         "{STRVAR_1 1, 0, 0} can perform\n",
         "the same move twice!"
+      ],
+      "fr_FR": [
+        "{STRVAR_1 1, 0, 0} peut exécuter\n",
+        "cette capacité deux fois!"
       ]
     },
     {
@@ -108,6 +171,10 @@
       "en_US": [
         "The Voltage score is added\n",
         "on! {COLOR 1}+{STRVAR_1 50, 0, 0}{COLOR 0}!"
+      ],
+      "fr_FR": [
+        "Le score du Voltage\n",
+        "est ajouté! {COLOR 1}+{STRVAR_1 50, 0, 0}{COLOR 0}!"
       ]
     },
     {
@@ -115,6 +182,10 @@
       "en_US": [
         "{STRVAR_1 1, 0, 0} chose the same\n",
         "Judge as everyone! {COLOR 1}+15{COLOR 0}!"
+      ],
+      "fr_FR": [
+        "{STRVAR_1 1, 0, 0} a choisi le même\n",
+        "Juge que tout le monde! {COLOR 1}+15{COLOR 0}!"
       ]
     },
     {
@@ -123,6 +194,11 @@
         "{STRVAR_1 1, 0, 0} didn’t choose\n",
         "the same Judge as all the\f",
         "others! {COLOR 1}+0{COLOR 0}!\r"
+      ],
+      "fr_FR": [
+        "{STRVAR_1 1, 0, 0} n’a pas choisi\n",
+        "le même Juge que tous les\f",
+        "autres! {COLOR 1}+0{COLOR 0}!\r"
       ]
     },
     {
@@ -131,6 +207,11 @@
         "If {STRVAR_1 1, 0, 0} chooses the\n",
         "same Judge as everyone\f",
         "else: {COLOR 1}+15{COLOR 0}!\r"
+      ],
+      "fr_FR": [
+        "Si tout le monde choisit le\n",
+        "même Juge que {STRVAR_1 1, 0, 0}:\f",
+        "{COLOR 1}+15{COLOR 0}!\r"
       ]
     },
     {
@@ -138,6 +219,10 @@
       "en_US": [
         "The Voltage of all the\n",
         "Judges went down!"
+      ],
+      "fr_FR": [
+        "Le Voltage de tous les\n",
+        "Juges diminue."
       ]
     },
     {
@@ -145,6 +230,10 @@
       "en_US": [
         "From the previous turn,\n",
         "{STRVAR_1 1, 0, 0} gets {COLOR 1}+{STRVAR_1 50, 1, 0}{COLOR 0}!"
+      ],
+      "fr_FR": [
+        "{STRVAR_1 1, 0, 0} obtient {COLOR 1}+{STRVAR_1 50, 1, 0}{COLOR 0}\n",
+        "grâce au tour précédent!"
       ]
     },
     {
@@ -153,6 +242,11 @@
         "{STRVAR_1 1, 0, 0} got the same\n",
         "rating as {STRVAR_1 1, 1, 0}, who\f",
         "went before!"
+      ],
+      "fr_FR": [
+        "{STRVAR_1 1, 0, 0} obtient la même\n",
+        "notation que {STRVAR_1 1, 1, 0}\f",
+        "qui l’a précédé!"
       ]
     },
     {
@@ -160,6 +254,10 @@
       "en_US": [
         "The Voltage is prevented\n",
         "from rising!"
+      ],
+      "fr_FR": [
+        "Le Voltage ne peut pas\n",
+        "monter!"
       ]
     },
     {
@@ -167,6 +265,10 @@
       "en_US": [
         "The next turn’s order has\n",
         "been scrambled!"
+      ],
+      "fr_FR": [
+        "Le passage au tour suivant\n",
+        "est chamboulé!"
       ]
     },
     {
@@ -174,6 +276,10 @@
       "en_US": [
         "{STRVAR_1 1, 0, 0} performed\n",
         "last! {COLOR 1}+{STRVAR_1 50, 1, 0}{COLOR 0}!"
+      ],
+      "fr_FR": [
+        "{STRVAR_1 1, 0, 0} est passé en\n",
+        "dernier! {COLOR 1}+{STRVAR_1 50, 1, 0}{COLOR 0}!"
       ]
     },
     {
@@ -181,21 +287,31 @@
       "en_US": [
         "Higher score earned for low\n",
         "Voltage! {COLOR 1}+{STRVAR_1 50, 0, 0}{COLOR 0}!"
+      ],
+      "fr_FR": [
+        "Score plus élevé car le\n",
+        "Voltage est bas! {COLOR 1}+{STRVAR_1 50, 0, 0}{COLOR 0}!"
       ]
     },
     {
       "id": "pl_msg_00000211_00024",
-      "en_US": "First performance! {COLOR 1}+2{COLOR 0}!"
+      "en_US": "First performance! {COLOR 1}+2{COLOR 0}!",
+      "fr_FR": "Passé en premier! {COLOR 1}+2{COLOR 0}!"
     },
     {
       "id": "pl_msg_00000211_00025",
-      "en_US": "Last performance! {COLOR 1}+2{COLOR 0}!"
+      "en_US": "Last performance! {COLOR 1}+2{COLOR 0}!",
+      "fr_FR": "Passé en dernier! {COLOR 1}+2{COLOR 0}!"
     },
     {
       "id": "pl_msg_00000211_00026",
       "en_US": [
         "The Voltage is prevented\n",
         "from falling!"
+      ],
+      "fr_FR": [
+        "Le Voltage ne peut pas\n",
+        "baisser!"
       ]
     },
     {
@@ -203,6 +319,10 @@
       "en_US": [
         "The Voltage went up\n",
         "consecutively! {COLOR 1}+3{COLOR 0}!"
+      ],
+      "fr_FR": [
+        "Le Voltage a augmenté de\n",
+        "manière consécutive! {COLOR 1}+3{COLOR 0}!"
       ]
     },
     {
@@ -210,6 +330,10 @@
       "en_US": [
         "{STRVAR_1 1, 0, 0}’s performance\n",
         "is first! {COLOR 1}+1{COLOR 0}!"
+      ],
+      "fr_FR": [
+        "{STRVAR_1 1, 0, 0} passe en\n",
+        "premier! {COLOR 1}+1{COLOR 0}!"
       ]
     },
     {
@@ -217,6 +341,10 @@
       "en_US": [
         "{STRVAR_1 1, 0, 0}’s performance\n",
         "is second! {COLOR 1}+2{COLOR 0}!"
+      ],
+      "fr_FR": [
+        "{STRVAR_1 1, 0, 0} passe en\n",
+        "deuxième! {COLOR 1}+2{COLOR 0}!"
       ]
     },
     {
@@ -224,6 +352,10 @@
       "en_US": [
         "{STRVAR_1 1, 0, 0}’s performance\n",
         "is third! {COLOR 1}+3{COLOR 0}!"
+      ],
+      "fr_FR": [
+        "{STRVAR_1 1, 0, 0} passe en\n",
+        "troisième! {COLOR 1}+3{COLOR 0}!"
       ]
     },
     {
@@ -231,6 +363,10 @@
       "en_US": [
         "{STRVAR_1 1, 0, 0}’s performance\n",
         "is last! {COLOR 1}+4{COLOR 0}!"
+      ],
+      "fr_FR": [
+        "{STRVAR_1 1, 0, 0} passe en\n",
+        "dernier! {COLOR 1}+4{COLOR 0}!"
       ]
     },
     {
@@ -238,6 +374,10 @@
       "en_US": [
         "The performance came after\n",
         "the Voltage peaked! {COLOR 1}+3{COLOR 0}!"
+      ],
+      "fr_FR": [
+        "La performance a eu lieu\n",
+        "après le Voltage max.! {COLOR 1}+3{COLOR 0}!"
       ]
     },
     {
@@ -245,6 +385,10 @@
       "en_US": [
         "{STRVAR_1 1, 0, 0} has the lowest\n",
         "score! {COLOR 1}+3{COLOR 0}!"
+      ],
+      "fr_FR": [
+        "{STRVAR_1 1, 0, 0} a le score le\n",
+        "plus faible! {COLOR 1}+3{COLOR 0}!"
       ]
     }
   ]

@@ -57,17 +57,26 @@
             "en_US": [
                 "I’m taking the Veilstone Gym\n",
                 "challenge. But first...\r"
+            ],
+            "fr_FR": [
+                "Je compte passer le défi de l’Arène de\n",
+                "Voilaroc. Mais avant cela...\r"
             ]
         },
         {
             "type": "TRMSG_DEFEAT",
-            "en_US": "...My confidence is crushed.\n"
+            "en_US": "...My confidence is crushed.\n",
+            "fr_FR": "Ma confiance en moi... Envolée..."
         },
         {
             "type": "TRMSG_POST_BATTLE",
             "en_US": [
                 "I think about Pokémon all day long.\n",
                 "I was confident, you know.\n"
+            ],
+            "fr_FR": [
+                "Toute la journée, je pense Pokémon.\n",
+                "J’avais vraiment confiance en moi...\n"
             ]
         },
         {
@@ -76,7 +85,13 @@
                 "Oh, it’s you again!\r",
                 "I’ve regained my confidence.\n",
                 "Let’s have another battle!\r"
+            ],
+            "fr_FR": [
+                "Oh, te revoilà!\r",
+                "J’ai retrouvé ma confiance.\n",
+                "Combattons à nouveau!\r"
             ]
         }
-    ]
+    ],
+    "name_fr": "Martina"
 }

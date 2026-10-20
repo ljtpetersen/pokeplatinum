@@ -27,5 +27,13 @@
   "fieldUseFunc": "ITEM_USE_FUNC_TM_HM",
   "battleUseCategory": "BATTLE_USE_CATEGORY_NONE",
   "itemUseParams": null,
-  "teachesMove": "MOVE_CUT"
+  "teachesMove": "MOVE_CUT",
+  "name_fr": "CS01",
+  "description_fr": [
+    "Coupe l’ennemi avec des lames ou des\n",
+    "griffes. Hors combat, permet de couper\n",
+    "des arbres fins."
+  ],
+  "plural_fr": "CS01",
+  "article_fr": null
 }

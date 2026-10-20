@@ -83,18 +83,28 @@
             "en_US": [
                 "Hi-yah! Hah! Hah!\n",
                 "One more! Hah! Hah!"
+            ],
+            "fr_FR": [
+                "Haa-yaa! Haa! Haa!\n",
+                "Encore une fois! Haa! Haaaaa!"
             ]
         },
         {
             "type": "TRMSG_WIN",
-            "en_US": "Boo-yah!\r"
+            "en_US": "Boo-yah!\r",
+            "fr_FR": "Bouh-ya!\r"
         },
         {
             "type": "TRMSG_DEFEAT",
             "en_US": [
                 "Hi-yah! ...No, wait!\n",
                 "No!\r"
+            ],
+            "fr_FR": [
+                "Haa-ya! Euh... attends un peu!\n",
+                "Noooon!\r"
             ]
         }
-    ]
+    ],
+    "name_fr": "Ramsès"
 }

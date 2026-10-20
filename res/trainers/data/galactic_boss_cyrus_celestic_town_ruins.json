@@ -57,14 +57,23 @@
     "messages": [
         {
             "type": "TRMSG_LAST_BATTLER",
-            "en_US": "You’ve forced my hand this time!\n"
+            "en_US": "You’ve forced my hand this time!\n",
+            "fr_FR": [
+                "Tu ne me laisses pas le choix.\n",
+                "Je dois sortir mon joker."
+            ]
         },
         {
             "type": "TRMSG_DEFEAT",
             "en_US": [
                 "Impressive.\n",
                 "Your prowess is notable.\n"
+            ],
+            "fr_FR": [
+                "Impressionnant.\n",
+                "Ta victoire est remarquable.\n"
             ]
         }
-    ]
+    ],
+    "name_fr": "Hélio"
 }

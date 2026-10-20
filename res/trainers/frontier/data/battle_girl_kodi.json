@@ -57,6 +57,10 @@
             "en_US": [
                 "Hwoaaah...\n",
                 "Hwoaaah..."
+            ],
+            "fr_FR": [
+                "Hayaaaa...\n",
+                "Hayaaaa..."
             ]
         },
         {
@@ -64,6 +68,10 @@
             "en_US": [
                 "Howatchah!\n",
                 "Howaaatchaah!\r"
+            ],
+            "fr_FR": [
+                "Haya... Tcha!\n",
+                "Yakata... Tcha tcha!\r"
             ]
         },
         {
@@ -71,7 +79,9 @@
             "en_US": [
                 "Fweeeh...\n",
                 "Fweeehhh...\r"
-            ]
+            ],
+            "fr_FR": "Euh...\r"
         }
-    ]
+    ],
+    "name_fr": "Madison"
 }

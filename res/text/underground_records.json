@@ -3,59 +3,73 @@
   "messages": [
     {
       "id": "UndergroundRecords_Text_Name",
-      "en_US": "NAME"
+      "en_US": "NAME",
+      "fr_FR": "NOM:"
     },
     {
       "id": "UndergroundRecords_Text_BaseFlag",
-      "en_US": "BASE FLAG"
+      "en_US": "BASE FLAG",
+      "fr_FR": "DRAPEAU:"
     },
     {
       "id": "UndergroundRecords_Text_ID",
-      "en_US": "ID"
+      "en_US": "ID",
+      "fr_FR": "ID"
     },
     {
       "id": "UndergroundRecords_Text_Colon_Unused",
-      "en_US": ":"
+      "en_US": ":",
+      "fr_FR": ":"
     },
     {
       "id": "UndergroundRecords_Text_NameTemplate",
-      "en_US": "{STRVAR_1 1, 0, 0}"
+      "en_US": "{STRVAR_1 1, 0, 0}",
+      "fr_FR": "{STRVAR_1 1, 0, 0}"
     },
     {
       "id": "UndergroundRecords_Text_IDTemplate",
-      "en_US": "{STRVAR_1 54, 6, 0}"
+      "en_US": "{STRVAR_1 54, 6, 0}",
+      "fr_FR": "{STRVAR_1 54, 6, 0}"
     },
     {
       "id": "UndergroundRecords_Text_Score",
-      "en_US": "SCORE"
+      "en_US": "SCORE",
+      "fr_FR": "SCORE:"
     },
     {
       "id": "UndergroundRecords_Text_PeopleMet",
-      "en_US": "No. of people met:"
+      "en_US": "No. of people met:",
+      "fr_FR": "Nb de Dresseurs croisés:"
     },
     {
       "id": "UndergroundRecords_Text_GiftsGiven",
-      "en_US": "No. of gifts given:"
+      "en_US": "No. of gifts given:",
+      "fr_FR": "Nb de cadeaux offerts:"
     },
     {
       "id": "UndergroundRecords_Text_FlagsObtained",
-      "en_US": "No. of Flags obtained:"
+      "en_US": "No. of Flags obtained:",
+      "fr_FR": "Nb de Drapeaux obtenus:"
     },
     {
       "id": "UndergroundRecords_Text_SpheresDug",
-      "en_US": "No. of Spheres dug:"
+      "en_US": "No. of Spheres dug:",
+      "fr_FR": "Nb de Sphères déterrées:"
     },
     {
       "id": "UndergroundRecords_Text_FossilsDug",
-      "en_US": "No. of Fossils dug:"
+      "en_US": "No. of Fossils dug:",
+      "fr_FR": "Nb de Fossiles déterrés:"
     },
     {
       "id": "UndergroundRecords_Text_TrapHits",
-      "en_US": "No. of Trap hits:"
+      "en_US": "No. of Trap hits:",
+      "fr_FR": "Nb de Pièges déclenchés:"
     },
     {
       "id": "UndergroundRecords_Text_EntryTemplate",
-      "en_US": "{STRVAR_1 57, 6, 0}"
+      "en_US": "{STRVAR_1 57, 6, 0}",
+      "fr_FR": "{STRVAR_1 57, 6, 0}"
     },
     {
       "id": "UndergroundRecords_Text_Dummy_00014",
@@ -83,57 +97,74 @@
     },
     {
       "id": "UndergroundRecords_Text_NormalFlag",
-      "en_US": "Normal Flag"
+      "en_US": "Normal Flag",
+      "fr_FR": "Drapeau Normal"
     },
     {
       "id": "UndergroundRecords_Text_BronzeFlag",
-      "en_US": "Bronze Flag"
+      "en_US": "Bronze Flag",
+      "fr_FR": "Drapeau de Bronze"
     },
     {
       "id": "UndergroundRecords_Text_SilverFlag",
-      "en_US": "Silver Flag"
+      "en_US": "Silver Flag",
+      "fr_FR": "Drapeau d’Argent"
     },
     {
       "id": "UndergroundRecords_Text_GoldFlag",
-      "en_US": "Gold Flag"
+      "en_US": "Gold Flag",
+      "fr_FR": "Drapeau d’Or"
     },
     {
       "id": "UndergroundRecords_Text_PlatinumFlag",
-      "en_US": "Platinum Flag"
+      "en_US": "Platinum Flag",
+      "fr_FR": "Drapeau de Platine"
     },
     {
       "id": "UndergroundRecords_Text_PlatinumFlag2_Unused",
-      "en_US": "Platinum Flag"
+      "en_US": "Platinum Flag",
+      "fr_FR": "Drapeau de Platine"
     },
     {
       "id": "UndergroundRecords_Text_PlatinumFlag3_Unused",
-      "en_US": "Platinum Flag"
+      "en_US": "Platinum Flag",
+      "fr_FR": "Drapeau de Platine"
     },
     {
       "id": "UndergroundRecords_Text_PlatinumFlag4_Unused",
-      "en_US": "Platinum Flag"
+      "en_US": "Platinum Flag",
+      "fr_FR": "Drapeau de Platine"
     },
     {
       "id": "UndergroundRecords_Text_PlatinumFlag5_Unused",
-      "en_US": "Platinum Flag"
+      "en_US": "Platinum Flag",
+      "fr_FR": "Drapeau de Platine"
     },
     {
       "id": "UndergroundRecords_Text_PlatinumFlag6_Unused",
-      "en_US": "Platinum Flag"
+      "en_US": "Platinum Flag",
+      "fr_FR": "Drapeau de Platine"
     },
     {
       "id": "UndergroundRecords_Text_PlatinumFlag7_Unused",
-      "en_US": "Platinum Flag"
+      "en_US": "Platinum Flag",
+      "fr_FR": "Drapeau de Platine"
     },
     {
       "id": "UndergroundRecords_Text_PlatinumFlag8_Unused",
-      "en_US": "Platinum Flag"
+      "en_US": "Platinum Flag",
+      "fr_FR": "Drapeau de Platine"
     },
     {
       "id": "UndergroundRecords_Text_SomethingWrittenTotalScore",
       "en_US": [
         "There’s something written here...\r",
         "The total score so far:\n",
+        "{STRVAR_1 57, 6, 0}"
+      ],
+      "fr_FR": [
+        "Il y a quelque chose d’écrit ici...\r",
+        "Score total jusqu’à maintenant:\n",
         "{STRVAR_1 57, 6, 0}"
       ]
     },
@@ -143,6 +174,11 @@
         "There’s something written here...\r",
         "Number of people met\n",
         "underground so far: {STRVAR_1 55, 6, 0}"
+      ],
+      "fr_FR": [
+        "Il y a quelque chose d’écrit ici...\r",
+        "Nombre de personnes rencontrées\n",
+        "jusqu’à maintenant: {STRVAR_1 55, 6, 0}"
       ]
     },
     {
@@ -151,6 +187,11 @@
         "There’s something written here...\r",
         "Number of goods given away as\n",
         "gifts so far: {STRVAR_1 55, 6, 0}"
+      ],
+      "fr_FR": [
+        "Il y a quelque chose d’écrit ici...\r",
+        "Nombre d’articles offerts en cadeau\n",
+        "jusqu’à maintenant: {STRVAR_1 55, 6, 0}"
       ]
     },
     {
@@ -159,6 +200,11 @@
         "There’s something written here...\r",
         "Number of Secret Base Flags\n",
         "obtained so far: {STRVAR_1 55, 6, 0}"
+      ],
+      "fr_FR": [
+        "Il y a quelque chose d’écrit ici...\r",
+        "Nombre de Drapeaux de Base Secrète\n",
+        "obtenus jusqu’à maintenant: {STRVAR_1 55, 6, 0}"
       ]
     },
     {
@@ -167,6 +213,11 @@
         "There’s something written here...\r",
         "Number of Spheres dug so far:\n",
         "{STRVAR_1 55, 6, 0}"
+      ],
+      "fr_FR": [
+        "Il y a quelque chose d’écrit ici...\r",
+        "Nombre de Sphères déterrées\n",
+        "jusqu’à maintenant: {STRVAR_1 55, 6, 0}"
       ]
     },
     {
@@ -175,6 +226,11 @@
         "There’s something written here...\r",
         "Number of Fossils dug so far:\n",
         "{STRVAR_1 55, 6, 0}"
+      ],
+      "fr_FR": [
+        "Il y a quelque chose d’écrit ici...\r",
+        "Nombre de Fossiles déterrés\n",
+        "jusqu’à maintenant: {STRVAR_1 55, 6, 0}"
       ]
     },
     {
@@ -183,6 +239,11 @@
         "There’s something written here...\r",
         "Number of times other people\n",
         "triggered my Traps: {STRVAR_1 55, 6, 0}"
+      ],
+      "fr_FR": [
+        "Il y a quelque chose d’écrit ici...\r",
+        "Nombre de fois où des joueurs\n",
+        "ont déclenché mes Pièges: {STRVAR_1 55, 6, 0}"
       ]
     },
     {
@@ -191,6 +252,11 @@
         "There’s something written here...\r",
         "Number of times I triggered\n",
         "Traps: {STRVAR_1 55, 6, 0}"
+      ],
+      "fr_FR": [
+        "Il y a quelque chose d’écrit ici...\r",
+        "Nombre de fois où j’ai déclenché\n",
+        "des Pièges: {STRVAR_1 55, 6, 0}"
       ]
     },
     {
@@ -199,6 +265,11 @@
         "There’s something written here...\r",
         "Number of times others were helped\n",
         "while underground: {STRVAR_1 55, 6, 0}"
+      ],
+      "fr_FR": [
+        "Il y a quelque chose d’écrit ici...\r",
+        "Nombre de fois où des joueurs ont été\n",
+        "aidés dans le Souterrain: {STRVAR_1 55, 6, 0}"
       ]
     },
     {
@@ -207,6 +278,11 @@
         "There’s something written here...\r",
         "Number of gifts received while\n",
         "underground: {STRVAR_1 55, 6, 0}"
+      ],
+      "fr_FR": [
+        "Il y a quelque chose d’écrit ici...\r",
+        "Nombre de cadeaux reçus dans\n",
+        "le Souterrain: {STRVAR_1 55, 6, 0}"
       ]
     },
     {
@@ -215,6 +291,11 @@
         "There’s something written here...\r",
         "Number of times my own Flag was\n",
         "taken from the Secret Base: {STRVAR_1 55, 6, 0}"
+      ],
+      "fr_FR": [
+        "Il y a quelque chose d’écrit ici...\r",
+        "Nombre de fois où mon Drapeau a été\n",
+        "dérobé dans ma Base Secrète: {STRVAR_1 55, 6, 0}"
       ]
     },
     {
@@ -222,6 +303,11 @@
       "en_US": [
         "There’s something written here...\r",
         "Number of recovered Flags:\n",
+        "{STRVAR_1 55, 6, 0}"
+      ],
+      "fr_FR": [
+        "Il y a quelque chose d’écrit ici...\r",
+        "Nombre de Drapeaux récupérés:\n",
         "{STRVAR_1 55, 6, 0}"
       ]
     },
@@ -231,6 +317,11 @@
         "There’s something written here...\r",
         "Number of times the Secret Base\n",
         "was moved: {STRVAR_1 55, 6, 0}"
+      ],
+      "fr_FR": [
+        "Il y a quelque chose d’écrit ici...\r",
+        "Nombre de fois où la Base Secrète\n",
+        "a été déplacée: {STRVAR_1 55, 6, 0}"
       ]
     },
     {
@@ -239,6 +330,11 @@
         "There’s something written here...\r",
         "Number of captured Flags registered\n",
         "on the PC: {STRVAR_1 55, 6, 0}"
+      ],
+      "fr_FR": [
+        "Il y a quelque chose d’écrit ici...\r",
+        "Nombre de Drapeaux capturés\n",
+        "enregistrés sur le PC: {STRVAR_1 55, 6, 0}"
       ]
     }
   ]

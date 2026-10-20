@@ -34,6 +34,11 @@
                 "For some reason I was drawn here,\n",
                 "and it is here that I met you...\r",
                 "I want to know what all this means!\r"
+            ],
+            "fr_FR": [
+                "J’ai été attiré ici pour une raison,\n",
+                "et c’est là que nous nous sommes vus...\r",
+                "Je veux savoir ce que ça signifie!\r"
             ]
         },
         {
@@ -41,6 +46,10 @@
             "en_US": [
                 "I see...\r",
                 "So that’s what it means...\n"
+            ],
+            "fr_FR": [
+                "Je vois...\r",
+                "Alors c’est ça que ça veut dire...\n"
             ]
         },
         {
@@ -48,6 +57,10 @@
             "en_US": [
                 "I feel... I feel some sort of a mystic\n",
                 "presence emanating from here...\n"
+            ],
+            "fr_FR": [
+                "Je sens... Je sens comme une présence\n",
+                "mystique qui émane d’ici...\n"
             ]
         },
         {
@@ -55,7 +68,12 @@
             "en_US": [
                 "Why have you come back to this spot?\n",
                 "I want to know what all this means!\r"
+            ],
+            "fr_FR": [
+                "Pourquoi es-tu de retour ici?\n",
+                "Je veux savoir ce que ça signifie!\r"
             ]
         }
-    ]
+    ],
+    "name_fr": "Olaf"
 }

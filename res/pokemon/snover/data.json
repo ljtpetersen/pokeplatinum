@@ -7,7 +7,10 @@
         "special_attack": 62,
         "special_defense": 60
     },
-    "types": [ "TYPE_GRASS", "TYPE_ICE" ],
+    "types": [
+        "TYPE_GRASS",
+        "TYPE_ICE"
+    ],
     "catch_rate": 120,
     "base_exp_reward": 131,
     "ev_yields": {
@@ -26,26 +29,68 @@
     "hatch_cycles": 20,
     "base_friendship": 70,
     "exp_rate": "EXP_RATE_SLOW",
-    "egg_groups": [ "EGG_GROUP_MONSTER", "EGG_GROUP_GRASS" ],
-    "abilities": [ "ABILITY_SNOW_WARNING", "ABILITY_NONE" ],
+    "egg_groups": [
+        "EGG_GROUP_MONSTER",
+        "EGG_GROUP_GRASS"
+    ],
+    "abilities": [
+        "ABILITY_SNOW_WARNING",
+        "ABILITY_NONE"
+    ],
     "safari_flee_rate": 0,
     "body_color": "MON_COLOR_WHITE",
     "flip_sprite": false,
     "icon_palette": 1,
     "learnset": {
         "by_level": [
-            [ 1, "MOVE_POWDER_SNOW" ],
-            [ 1, "MOVE_LEER" ],
-            [ 5, "MOVE_RAZOR_LEAF" ],
-            [ 9, "MOVE_ICY_WIND" ],
-            [ 13, "MOVE_GRASS_WHISTLE" ],
-            [ 17, "MOVE_SWAGGER" ],
-            [ 21, "MOVE_MIST" ],
-            [ 26, "MOVE_ICE_SHARD" ],
-            [ 31, "MOVE_INGRAIN" ],
-            [ 36, "MOVE_WOOD_HAMMER" ],
-            [ 41, "MOVE_BLIZZARD" ],
-            [ 46, "MOVE_SHEER_COLD" ]
+            [
+                1,
+                "MOVE_POWDER_SNOW"
+            ],
+            [
+                1,
+                "MOVE_LEER"
+            ],
+            [
+                5,
+                "MOVE_RAZOR_LEAF"
+            ],
+            [
+                9,
+                "MOVE_ICY_WIND"
+            ],
+            [
+                13,
+                "MOVE_GRASS_WHISTLE"
+            ],
+            [
+                17,
+                "MOVE_SWAGGER"
+            ],
+            [
+                21,
+                "MOVE_MIST"
+            ],
+            [
+                26,
+                "MOVE_ICE_SHARD"
+            ],
+            [
+                31,
+                "MOVE_INGRAIN"
+            ],
+            [
+                36,
+                "MOVE_WOOD_HAMMER"
+            ],
+            [
+                41,
+                "MOVE_BLIZZARD"
+            ],
+            [
+                46,
+                "MOVE_SHEER_COLD"
+            ]
         ],
         "by_tm": [
             "TM03",
@@ -129,9 +174,9 @@
             "name": "SNOVER",
             "category": "Frost Tree Pokémon",
             "entry_text": [
-                "Seemingly curious about people,\n",
-                "they gather around footsteps they\n",
-                "find on snowy mountains."
+                "It lives on snowy mountains.\n",
+                "Having had little contact with\n",
+                "humans, it is boldly inquisitive."
             ]
         },
         "fr": {
@@ -177,6 +222,18 @@
                 "ゆきやまで　くらしている。\n",
                 "めったに　であわない　にんげんを\n",
                 "めずらしがって　ちかよってくる。"
+            ]
+        },
+        "local_version": {
+            "entry_text": [
+                "Seemingly curious about people,\n",
+                "they gather around footsteps they\n",
+                "find on snowy mountains."
+            ],
+            "entry_text_fr": [
+                "Curieux de rencontrer des gens, ils\n",
+                "se rassemblent autour des traces\n",
+                "de pas trouvées dans la montagne."
             ]
         }
     },

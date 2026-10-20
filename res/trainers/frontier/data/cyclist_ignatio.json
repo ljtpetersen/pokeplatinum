@@ -59,6 +59,10 @@
             "en_US": [
                 "This bike has become an extension of\n",
                 "my very being."
+            ],
+            "fr_FR": [
+                "Ce vélo est comme une partie\n",
+                "de moi-même."
             ]
         },
         {
@@ -66,6 +70,10 @@
             "en_US": [
                 "Any damage to my bike, I feel the pain\n",
                 "as if it were mine to bear.\r"
+            ],
+            "fr_FR": [
+                "Si mon vélo s’abîme, je sens la douleur\n",
+                "comme si c’est moi qui étais blessé.\r"
             ]
         },
         {
@@ -73,7 +81,12 @@
             "en_US": [
                 "Please! I’ll ask you to keep your filthy\n",
                 "hands off my bike.\r"
+            ],
+            "fr_FR": [
+                "J’apprécierais que tu enlèves tes sales\n",
+                "pattes de mon vélo, merci.\r"
             ]
         }
-    ]
+    ],
+    "name_fr": "Pedro"
 }

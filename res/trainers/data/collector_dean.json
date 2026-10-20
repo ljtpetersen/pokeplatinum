@@ -32,6 +32,10 @@
             "en_US": [
                 "I’m proud of my Pokémon!\n",
                 "Here, I’ll show you why!\r"
+            ],
+            "fr_FR": [
+                "Je suis fier de mes Pokémon!\n",
+                "Tiens, je vais te montrer pourquoi!\r"
             ]
         },
         {
@@ -39,6 +43,10 @@
             "en_US": [
                 "Youch! You sure showed me how tough\n",
                 "you were.\n"
+            ],
+            "fr_FR": [
+                "Waouh! D’accord, tu m’as prouvé\n",
+                "que tu étais coriace.\n"
             ]
         },
         {
@@ -51,6 +59,16 @@
                 "I heard you can move the sun or\n",
                 "moon icon to check the Pokémon\f",
                 "habitat map by time of day!\n"
+            ],
+            "fr_FR": [
+                "Oh, qu’avons-nous là?\n",
+                "C’est un Pokédex!\r",
+                "Il sauvegarde les données des Pokémon\n",
+                "rencontrés? Je n’en avais jamais vu!\r",
+                "Il paraît qu’on peut déplacer l’icône\n",
+                "de la lune ou du soleil...\r",
+                "Ça permet de localiser les tanières\n",
+                "de Pokémon selon l’heure de la journée!\n"
             ]
         },
         {
@@ -60,7 +78,14 @@
                 "about Pokémon I’ve battled.\r",
                 "I’ll write more data down about your\n",
                 "Pokémon!\r"
+            ],
+            "fr_FR": [
+                "Je prends des notes sur les Pokémon\n",
+                "que j’ai combattus dans mon carnet.\r",
+                "Je vais pouvoir compléter ça avec\n",
+                "notre combat!\r"
             ]
         }
-    ]
+    ],
+    "name_fr": "Flavien"
 }

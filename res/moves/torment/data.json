@@ -26,5 +26,13 @@
     "contest": {
         "effect": "CONTEST_EFFECT_LOW_VOLTAGE_ADVANTAGE",
         "type": "CONTEST_TYPE_TOUGH"
-    }
+    },
+    "name_fr": "Tourmente",
+    "description_fr": [
+        "Le lanceur irrite\n",
+        "l’ennemi pour\n",
+        "l’empêcher d’utiliser\n",
+        "la même capacité\n",
+        "2 fois de suite."
+    ]
 }

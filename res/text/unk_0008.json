@@ -3,74 +3,94 @@
   "messages": [
     {
       "id": "pl_msg_00000008_00000",
-      "en_US": "EDIT"
+      "en_US": "EDIT",
+      "fr_FR": "MODIFIER"
     },
     {
       "id": "pl_msg_00000008_00001",
-      "en_US": "QUIT"
+      "en_US": "QUIT",
+      "fr_FR": "RETOUR"
     },
     {
       "id": "pl_msg_00000008_00002",
-      "en_US": "SET"
+      "en_US": "SET",
+      "fr_FR": "APPLIQUER"
     },
     {
       "id": "pl_msg_00000008_00003",
-      "en_US": "REMOVE"
+      "en_US": "REMOVE",
+      "fr_FR": "RETIRER"
     },
     {
       "id": "pl_msg_00000008_00004",
-      "en_US": "SHIFT"
+      "en_US": "SHIFT",
+      "fr_FR": "ECHANGER"
     },
     {
       "id": "pl_msg_00000008_00005",
-      "en_US": "CONFIRM"
+      "en_US": "CONFIRM",
+      "fr_FR": "CONFIRM."
     },
     {
       "id": "pl_msg_00000008_00006",
-      "en_US": "CANCEL"
+      "en_US": "CANCEL",
+      "fr_FR": "ANNULER"
     },
     {
       "id": "pl_msg_00000008_00007",
-      "en_US": "Choose a capsule."
+      "en_US": "Choose a capsule.",
+      "fr_FR": "Choisissez une capsule."
     },
     {
       "id": "pl_msg_00000008_00008",
-      "en_US": "What would you like to do?"
+      "en_US": "What would you like to do?",
+      "fr_FR": "Que voulez-vous faire?"
     },
     {
       "id": "pl_msg_00000008_00009",
-      "en_US": "The capsule was removed."
+      "en_US": "The capsule was removed.",
+      "fr_FR": "La capsule a été retirée."
     },
     {
       "id": "pl_msg_00000008_00010",
-      "en_US": "Switch with which capsule?"
+      "en_US": "Switch with which capsule?",
+      "fr_FR": "Echanger avec quelle capsule?"
     },
     {
       "id": "pl_msg_00000008_00011",
-      "en_US": "The capsules were switched."
+      "en_US": "The capsules were switched.",
+      "fr_FR": "Les capsules ont été échangées."
     },
     {
       "id": "pl_msg_00000008_00012",
-      "en_US": "Finished editing the capsule."
+      "en_US": "Finished editing the capsule.",
+      "fr_FR": "Modification de la capsule terminée."
     },
     {
       "id": "pl_msg_00000008_00013",
-      "en_US": "Confirming..."
+      "en_US": "Confirming...",
+      "fr_FR": "Visualisation en cours..."
     },
     {
       "id": "pl_msg_00000008_00014",
       "en_US": [
         "Quit without changing the capsule\n",
         "design?"
+      ],
+      "fr_FR": [
+        "Quitter sans modifier cette\n",
+        "capsule?"
       ]
     },
     {
       "id": "pl_msg_00000008_00015",
-      "en_US": "There’s no more room!"
+      "en_US": "There’s no more room!",
+      "fr_FR": "Il n’y a plus de place!"
     },
     {
       "id": "pl_msg_00000008_00016",
-      "en_US": "There are no Seals left."
+      "en_US": "There are no Seals left.",
+      "fr_FR": "Il n’y a plus de Sceaux."
     }
   ]
 }

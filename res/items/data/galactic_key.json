@@ -26,5 +26,13 @@
   "battlePocket": "BATTLE_POCKET_MASK_NONE",
   "fieldUseFunc": "ITEM_USE_FUNC_NONE",
   "battleUseCategory": "BATTLE_USE_CATEGORY_NONE",
-  "itemUseParams": null
+  "itemUseParams": null,
+  "name_fr": "Clé Galaxie",
+  "description_fr": [
+    "Clé magnétique servant à désactiver les\n",
+    "systèmes de sécurité du QG Galaxie.\n",
+    "La perdre entraîne une punition."
+  ],
+  "plural_fr": "Clé Galaxie",
+  "article_fr": null
 }

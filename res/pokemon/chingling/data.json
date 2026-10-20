@@ -7,7 +7,10 @@
         "special_attack": 65,
         "special_defense": 50
     },
-    "types": [ "TYPE_PSYCHIC", "TYPE_PSYCHIC" ],
+    "types": [
+        "TYPE_PSYCHIC",
+        "TYPE_PSYCHIC"
+    ],
     "catch_rate": 120,
     "base_exp_reward": 74,
     "ev_yields": {
@@ -26,20 +29,44 @@
     "hatch_cycles": 25,
     "base_friendship": 70,
     "exp_rate": "EXP_RATE_FAST",
-    "egg_groups": [ "EGG_GROUP_UNDISCOVERED", "EGG_GROUP_UNDISCOVERED" ],
-    "abilities": [ "ABILITY_LEVITATE", "ABILITY_NONE" ],
+    "egg_groups": [
+        "EGG_GROUP_UNDISCOVERED",
+        "EGG_GROUP_UNDISCOVERED"
+    ],
+    "abilities": [
+        "ABILITY_LEVITATE",
+        "ABILITY_NONE"
+    ],
     "safari_flee_rate": 0,
     "body_color": "MON_COLOR_YELLOW",
     "flip_sprite": false,
     "icon_palette": 0,
     "learnset": {
         "by_level": [
-            [ 1, "MOVE_WRAP" ],
-            [ 6, "MOVE_GROWL" ],
-            [ 9, "MOVE_ASTONISH" ],
-            [ 14, "MOVE_CONFUSION" ],
-            [ 17, "MOVE_UPROAR" ],
-            [ 22, "MOVE_LAST_RESORT" ]
+            [
+                1,
+                "MOVE_WRAP"
+            ],
+            [
+                6,
+                "MOVE_GROWL"
+            ],
+            [
+                9,
+                "MOVE_ASTONISH"
+            ],
+            [
+                14,
+                "MOVE_CONFUSION"
+            ],
+            [
+                17,
+                "MOVE_UPROAR"
+            ],
+            [
+                22,
+                "MOVE_LAST_RESORT"
+            ]
         ],
         "by_tm": [
             "TM04",
@@ -104,7 +131,10 @@
         ]
     },
     "evolutions": [
-        [ "EVO_LEVEL_HAPPINESS_NIGHT", "SPECIES_CHIMECHO" ]
+        [
+            "EVO_LEVEL_HAPPINESS_NIGHT",
+            "SPECIES_CHIMECHO"
+        ]
     ],
     "offspring": "SPECIES_CHINGLING",
     "footprint": {
@@ -128,9 +158,9 @@
             "name": "CHINGLING",
             "category": "Bell Pokémon",
             "entry_text": [
-                "There is an orb inside its mouth.\n",
-                "When it hops, the orb bounces all\n",
-                "over and makes a ringing sound."
+                "It emits cries by agitating an orb\n",
+                "at the back of its throat.\n",
+                "It moves with flouncing hops."
             ]
         },
         "fr": {
@@ -176,6 +206,18 @@
                 "のどの　おくで　まるい　たまを\n",
                 "ふるわせて　なきごえを　だす。\n",
                 "ふわりと　はずんで　いどうする。"
+            ]
+        },
+        "local_version": {
+            "entry_text": [
+                "There is an orb inside its mouth.\n",
+                "When it hops, the orb bounces all\n",
+                "over and makes a ringing sound."
+            ],
+            "entry_text_fr": [
+                "Quand il sautille, l’orbe qu’il a\n",
+                "dans la bouche s’agite et tinte\n",
+                "comme une cloche."
             ]
         }
     },

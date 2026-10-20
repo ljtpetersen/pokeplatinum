@@ -27,5 +27,13 @@
   "fieldUseFunc": "ITEM_USE_FUNC_TM_HM",
   "battleUseCategory": "BATTLE_USE_CATEGORY_NONE",
   "itemUseParams": null,
-  "teachesMove": "MOVE_GIGA_IMPACT"
+  "teachesMove": "MOVE_GIGA_IMPACT",
+  "name_fr": "CT68",
+  "description_fr": [
+    "Le lanceur charge l’ennemi de toute sa\n",
+    "puissance. Il doit ensuite se reposer\n",
+    "au tour suivant."
+  ],
+  "plural_fr": "CT68",
+  "article_fr": null
 }

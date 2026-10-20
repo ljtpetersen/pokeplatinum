@@ -10,6 +10,14 @@
         "International Police.\r",
         "It is only natural that I be a master of\n",
         "disguise.\r"
+      ],
+      "fr_FR": [
+        "Beladonis: Salut! C’est moi! Oui, moi!\n",
+        "Haha! Tu ne m’avais pas reconnu, hein?\r",
+        "Après tout, je suis un agent des Forces\n",
+        "de Police Internationales.\r",
+        "Alors, les déguisements, forcément,\n",
+        "c’est une seconde nature chez moi.\r"
       ]
     },
     {
@@ -26,6 +34,20 @@
         "do not appear, how shall I say, smart.\r",
         "There should be an easy way to tell\n",
         "the stairs apart!\r"
+      ],
+      "fr_FR": [
+        "A propos... tu es un Dresseur de\n",
+        "premier ordre. Ça ne m’a pas échappé.\r",
+        "Tu devrais t’en sortir sans problème,\n",
+        "mais prudence, tout de même.\r",
+        "Au fait, j’ai un tuyau pour toi.\r",
+        "Il y a deux cages d’escalier ici.\n",
+        "L’une d’elles doit être un leurre.\r",
+        "Mais ces bandits de la Team Galaxie, ils\n",
+        "ne m’ont pas l’air... euh, disons\f",
+        "très fins.\r",
+        "Il y a forcément un moyen très simple\n",
+        "d’identifier les bons escaliers!\r"
       ]
     },
     {
@@ -44,6 +66,22 @@
         "do not appear, how shall I say, smart.\r",
         "There should be an easy way to tell\n",
         "the stairs apart!"
+      ],
+      "fr_FR": [
+        "Beladonis: J’ai fait ma petite enquête\n",
+        "sur la Team Galaxie.\r",
+        "Mais j’ignore encore tout de leur\n",
+        "identité et de leurs intentions.\r",
+        "D’après moi, les sous-fifres ne savent\n",
+        "rien des manigances de leurs patrons.\r",
+        "Au fait, j’ai un tuyau pour toi.\r",
+        "Il y a deux cages d’escalier ici.\n",
+        "L’une d’elles doit être un leurre.\r",
+        "Mais ces bandits de la Team Galaxie, ils\n",
+        "ne m’ont pas l’air... euh, disons\f",
+        "très fins.\r",
+        "Il y a forcément un moyen très simple\n",
+        "d’identifier les bons escaliers!"
       ]
     },
     {
@@ -55,6 +93,14 @@
         "Then kindly get off our property!\r",
         "Do we have to bring the pain like we\n",
         "did with the Cycle Shop manager?"
+      ],
+      "fr_FR": [
+        "Bienvenue à la Team Galaxie. Es-tu\n",
+        "ici pour faire un don de Pokémon?\r",
+        "Quoi? Tu n’es pas là pour ça?\n",
+        "Alors fais-moi le plaisir de décamper!\r",
+        "A moins que tu ne préfères subir le\n",
+        "sort du gérant de la Boutique de Vélo?"
       ]
     },
     {
@@ -62,19 +108,32 @@
       "en_US": [
         "As a group, Team Galactic has its sights\n",
         "set on the stars, not on this world!"
+      ],
+      "fr_FR": [
+        "La Team Galaxie se moque bien de ce\n",
+        "monde! C’est l’univers qui l’intéresse!"
       ]
     },
     {
       "id": "TeamGalacticEternaBuilding1F_Text_PathLeadsToGlory",
-      "en_US": "The path you chose leads to glory."
+      "en_US": "The path you chose leads to glory.",
+      "fr_FR": [
+        "Ce chemin vous assure un avenir\n",
+        "glorieux."
+      ]
     },
     {
       "id": "TeamGalacticEternaBuilding1F_Text_PlayerUsedTheSecretKey",
-      "en_US": "{STRVAR_1 3, 0, 0} used the {STRVAR_1 8, 1, 0}!\r"
+      "en_US": "{STRVAR_1 3, 0, 0} used the {STRVAR_1 8, 1, 0}!\r",
+      "fr_FR": [
+        "{STRVAR_1 3, 0, 0} utilise l’objet\n",
+        "{STRVAR_1 8, 1, 0}!\r"
+      ]
     },
     {
       "id": "TeamGalacticEternaBuilding1F_Text_EntranceToASecretRoom",
-      "en_US": "It’s the entrance to a secret room!"
+      "en_US": "It’s the entrance to a secret room!",
+      "fr_FR": "C’est l’entrée d’une salle secrète!"
     }
   ]
 }

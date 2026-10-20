@@ -23,303 +23,378 @@
     },
     {
       "id": "pl_msg_00000018_00005",
-      "en_US": "{STRVAR_1 11, 0, 0}"
+      "en_US": "{STRVAR_1 11, 0, 0}",
+      "fr_FR": "{STRVAR_1 11, 0, 0}"
     },
     {
       "id": "PokemonStorageSystem_Text_Box1",
-      "en_US": "BOX 1"
+      "en_US": "BOX 1",
+      "fr_FR": "BOITE 1"
     },
     {
       "id": "pl_msg_00000018_00007",
-      "en_US": "BOX 2"
+      "en_US": "BOX 2",
+      "fr_FR": "BOITE 2"
     },
     {
       "id": "pl_msg_00000018_00008",
-      "en_US": "BOX 3"
+      "en_US": "BOX 3",
+      "fr_FR": "BOITE 3"
     },
     {
       "id": "pl_msg_00000018_00009",
-      "en_US": "BOX 4"
+      "en_US": "BOX 4",
+      "fr_FR": "BOITE 4"
     },
     {
       "id": "pl_msg_00000018_00010",
-      "en_US": "BOX 5"
+      "en_US": "BOX 5",
+      "fr_FR": "BOITE 5"
     },
     {
       "id": "pl_msg_00000018_00011",
-      "en_US": "BOX 6"
+      "en_US": "BOX 6",
+      "fr_FR": "BOITE 6"
     },
     {
       "id": "pl_msg_00000018_00012",
-      "en_US": "BOX 7"
+      "en_US": "BOX 7",
+      "fr_FR": "BOITE 7"
     },
     {
       "id": "pl_msg_00000018_00013",
-      "en_US": "BOX 8"
+      "en_US": "BOX 8",
+      "fr_FR": "BOITE 8"
     },
     {
       "id": "pl_msg_00000018_00014",
-      "en_US": "BOX 9"
+      "en_US": "BOX 9",
+      "fr_FR": "BOITE 9"
     },
     {
       "id": "pl_msg_00000018_00015",
-      "en_US": "BOX 10"
+      "en_US": "BOX 10",
+      "fr_FR": "BOITE 10"
     },
     {
       "id": "pl_msg_00000018_00016",
-      "en_US": "BOX 11"
+      "en_US": "BOX 11",
+      "fr_FR": "BOITE 11"
     },
     {
       "id": "pl_msg_00000018_00017",
-      "en_US": "BOX 12"
+      "en_US": "BOX 12",
+      "fr_FR": "BOITE 12"
     },
     {
       "id": "pl_msg_00000018_00018",
-      "en_US": "BOX 13"
+      "en_US": "BOX 13",
+      "fr_FR": "BOITE 13"
     },
     {
       "id": "pl_msg_00000018_00019",
-      "en_US": "BOX 14"
+      "en_US": "BOX 14",
+      "fr_FR": "BOITE 14"
     },
     {
       "id": "pl_msg_00000018_00020",
-      "en_US": "BOX 15"
+      "en_US": "BOX 15",
+      "fr_FR": "BOITE 15"
     },
     {
       "id": "pl_msg_00000018_00021",
-      "en_US": "BOX 16"
+      "en_US": "BOX 16",
+      "fr_FR": "BOITE 16"
     },
     {
       "id": "pl_msg_00000018_00022",
-      "en_US": "BOX 17"
+      "en_US": "BOX 17",
+      "fr_FR": "BOITE 17"
     },
     {
       "id": "pl_msg_00000018_00023",
-      "en_US": "BOX 18"
+      "en_US": "BOX 18",
+      "fr_FR": "BOITE 18"
     },
     {
       "id": "pl_msg_00000018_00024",
-      "en_US": "JUMP"
+      "en_US": "JUMP",
+      "fr_FR": "AUTRE"
     },
     {
       "id": "pl_msg_00000018_00025",
-      "en_US": "WALLPAPER"
+      "en_US": "WALLPAPER",
+      "fr_FR": "FONDS"
     },
     {
       "id": "pl_msg_00000018_00026",
-      "en_US": "NAME"
+      "en_US": "NAME",
+      "fr_FR": "NOM"
     },
     {
       "id": "pl_msg_00000018_00027",
-      "en_US": "CANCEL"
+      "en_US": "CANCEL",
+      "fr_FR": "ANNULER"
     },
     {
       "id": "pl_msg_00000018_00028",
-      "en_US": "SCENERY 1"
+      "en_US": "SCENERY 1",
+      "fr_FR": "PAYSAGES 1"
     },
     {
       "id": "pl_msg_00000018_00029",
-      "en_US": "SCENERY 2"
+      "en_US": "SCENERY 2",
+      "fr_FR": "PAYSAGES 2"
     },
     {
       "id": "pl_msg_00000018_00030",
-      "en_US": "SCENERY 3"
+      "en_US": "SCENERY 3",
+      "fr_FR": "PAYSAGES 3"
     },
     {
       "id": "pl_msg_00000018_00031",
-      "en_US": "ETCETERA"
+      "en_US": "ETCETERA",
+      "fr_FR": "AUTRES"
     },
     {
       "id": "pl_msg_00000018_00032",
-      "en_US": "FRIENDS 1"
+      "en_US": "FRIENDS 1",
+      "fr_FR": "AMIS 1"
     },
     {
       "id": "pl_msg_00000018_00033",
-      "en_US": "FRIENDS 2"
+      "en_US": "FRIENDS 2",
+      "fr_FR": "AMIS 2"
     },
     {
       "id": "pl_msg_00000018_00034",
-      "en_US": "FOREST"
+      "en_US": "FOREST",
+      "fr_FR": "FORET"
     },
     {
       "id": "pl_msg_00000018_00035",
-      "en_US": "CITY"
+      "en_US": "CITY",
+      "fr_FR": "VILLE"
     },
     {
       "id": "pl_msg_00000018_00036",
-      "en_US": "DESERT"
+      "en_US": "DESERT",
+      "fr_FR": "DESERT"
     },
     {
       "id": "pl_msg_00000018_00037",
-      "en_US": "SAVANNA"
+      "en_US": "SAVANNA",
+      "fr_FR": "SAVANE"
     },
     {
       "id": "pl_msg_00000018_00038",
-      "en_US": "CRAG"
+      "en_US": "CRAG",
+      "fr_FR": "ROCHERS"
     },
     {
       "id": "pl_msg_00000018_00039",
-      "en_US": "VOLCANO"
+      "en_US": "VOLCANO",
+      "fr_FR": "VOLCAN"
     },
     {
       "id": "pl_msg_00000018_00040",
-      "en_US": "SNOW"
+      "en_US": "SNOW",
+      "fr_FR": "NEIGE"
     },
     {
       "id": "pl_msg_00000018_00041",
-      "en_US": "CAVE"
+      "en_US": "CAVE",
+      "fr_FR": "GROTTE"
     },
     {
       "id": "pl_msg_00000018_00042",
-      "en_US": "BEACH"
+      "en_US": "BEACH",
+      "fr_FR": "PLAGE"
     },
     {
       "id": "pl_msg_00000018_00043",
-      "en_US": "SEAFLOOR"
+      "en_US": "SEAFLOOR",
+      "fr_FR": "MER"
     },
     {
       "id": "pl_msg_00000018_00044",
-      "en_US": "RIVER"
+      "en_US": "RIVER",
+      "fr_FR": "RIVIERE"
     },
     {
       "id": "pl_msg_00000018_00045",
-      "en_US": "SKY"
+      "en_US": "SKY",
+      "fr_FR": "CIEL"
     },
     {
       "id": "pl_msg_00000018_00046",
-      "en_US": "POKé CENTER"
+      "en_US": "POKé CENTER",
+      "fr_FR": "CENTRE PKMN"
     },
     {
       "id": "pl_msg_00000018_00047",
-      "en_US": "MACHINE"
+      "en_US": "MACHINE",
+      "fr_FR": "METAL"
     },
     {
       "id": "pl_msg_00000018_00048",
-      "en_US": "CHECKS"
+      "en_US": "CHECKS",
+      "fr_FR": "VICHY"
     },
     {
       "id": "pl_msg_00000018_00049",
-      "en_US": "SIMPLE"
+      "en_US": "SIMPLE",
+      "fr_FR": "UNI"
     },
     {
       "id": "pl_msg_00000018_00050",
-      "en_US": "DISTORTION"
+      "en_US": "DISTORTION",
+      "fr_FR": "DISTORSION"
     },
     {
       "id": "pl_msg_00000018_00051",
-      "en_US": "CONTEST"
+      "en_US": "CONTEST",
+      "fr_FR": "CONCOURS"
     },
     {
       "id": "pl_msg_00000018_00052",
-      "en_US": "NOSTALGIC"
+      "en_US": "NOSTALGIC",
+      "fr_FR": "NOSTALGIE"
     },
     {
       "id": "pl_msg_00000018_00053",
-      "en_US": "CROAGUNK"
+      "en_US": "CROAGUNK",
+      "fr_FR": "CRADOPAUD"
     },
     {
       "id": "pl_msg_00000018_00054",
-      "en_US": "TRIO"
+      "en_US": "TRIO",
+      "fr_FR": "TROIS"
     },
     {
       "id": "pl_msg_00000018_00055",
-      "en_US": "PIKAPIKA"
+      "en_US": "PIKAPIKA",
+      "fr_FR": "PIKAPIKA"
     },
     {
       "id": "pl_msg_00000018_00056",
-      "en_US": "LEGEND"
+      "en_US": "LEGEND",
+      "fr_FR": "LEGENDE"
     },
     {
       "id": "pl_msg_00000018_00057",
-      "en_US": "TEAM GALACTIC"
+      "en_US": "TEAM GALACTIC",
+      "fr_FR": "TEAM GALAXIE"
     },
     {
       "id": "pl_msg_00000018_00058",
-      "en_US": "MOVE"
+      "en_US": "MOVE",
+      "fr_FR": "DEPLACER"
     },
     {
       "id": "pl_msg_00000018_00059",
-      "en_US": "PLACE"
+      "en_US": "PLACE",
+      "fr_FR": "PLACER"
     },
     {
       "id": "pl_msg_00000018_00060",
-      "en_US": "SHIFT"
+      "en_US": "SHIFT",
+      "fr_FR": "ECHANGER"
     },
     {
       "id": "pl_msg_00000018_00061",
-      "en_US": "SUMMARY"
+      "en_US": "SUMMARY",
+      "fr_FR": "RESUME"
     },
     {
       "id": "pl_msg_00000018_00062",
-      "en_US": "WITHDRAW"
+      "en_US": "WITHDRAW",
+      "fr_FR": "RETIRER"
     },
     {
       "id": "pl_msg_00000018_00063",
-      "en_US": "STORE"
+      "en_US": "STORE",
+      "fr_FR": "DEPOSER"
     },
     {
       "id": "pl_msg_00000018_00064",
-      "en_US": "ITEM"
+      "en_US": "ITEM",
+      "fr_FR": "OBJET"
     },
     {
       "id": "pl_msg_00000018_00065",
-      "en_US": "MARK"
+      "en_US": "MARK",
+      "fr_FR": "MARQUER"
     },
     {
       "id": "pl_msg_00000018_00066",
-      "en_US": "RELEASE"
+      "en_US": "RELEASE",
+      "fr_FR": "RELACHER"
     },
     {
       "id": "pl_msg_00000018_00067",
-      "en_US": "CANCEL"
+      "en_US": "CANCEL",
+      "fr_FR": "ANNULER"
     },
     {
       "id": "pl_msg_00000018_00068",
-      "en_US": "CONFIRM"
+      "en_US": "CONFIRM",
+      "fr_FR": "CONFIRMER"
     },
     {
       "id": "pl_msg_00000018_00069",
-      "en_US": "CANCEL"
+      "en_US": "CANCEL",
+      "fr_FR": "ANNULER"
     },
     {
       "id": "pl_msg_00000018_00070",
-      "en_US": "GIVE"
+      "en_US": "GIVE",
+      "fr_FR": "DONNER"
     },
     {
       "id": "pl_msg_00000018_00071",
-      "en_US": "TAKE"
+      "en_US": "TAKE",
+      "fr_FR": "PRENDRE"
     },
     {
       "id": "pl_msg_00000018_00072",
-      "en_US": "INFO"
+      "en_US": "INFO",
+      "fr_FR": "INFOS"
     },
     {
       "id": "pl_msg_00000018_00073",
-      "en_US": "SWITCH"
+      "en_US": "SWITCH",
+      "fr_FR": "ECHANGER"
     },
     {
       "id": "pl_msg_00000018_00074",
-      "en_US": "BAG"
+      "en_US": "BAG",
+      "fr_FR": "SAC"
     },
     {
       "id": "pl_msg_00000018_00075",
-      "en_US": "CANCEL"
+      "en_US": "CANCEL",
+      "fr_FR": "ANNULER"
     },
     {
       "id": "pl_msg_00000018_00076",
-      "en_US": "SET ON LEFT"
+      "en_US": "SET ON LEFT",
+      "fr_FR": "FIXER GAUCHE"
     },
     {
       "id": "pl_msg_00000018_00077",
-      "en_US": "SET ON RIGHT"
+      "en_US": "SET ON RIGHT",
+      "fr_FR": "FIXER DROITE"
     },
     {
       "id": "pl_msg_00000018_00078",
-      "en_US": "Yes"
+      "en_US": "Yes",
+      "fr_FR": "Oui"
     },
     {
       "id": "pl_msg_00000018_00079",
-      "en_US": "No"
+      "en_US": "No",
+      "fr_FR": "Non"
     }
   ]
 }

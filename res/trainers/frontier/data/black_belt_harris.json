@@ -57,6 +57,10 @@
             "en_US": [
                 "When I close my eyes, I can picture you\n",
                 "being defeated. Come on."
+            ],
+            "fr_FR": [
+                "Si je ferme les yeux, je te vois\n",
+                "perdre contre moi."
             ]
         },
         {
@@ -64,6 +68,10 @@
             "en_US": [
                 "Why be sad?\n",
                 "You knew this was coming.\r"
+            ],
+            "fr_FR": [
+                "Ne sois pas triste.\n",
+                "C’était écrit.\r"
             ]
         },
         {
@@ -71,7 +79,9 @@
             "en_US": [
                 "I berate myself for my own lack of\n",
                 "care...\r"
-            ]
+            ],
+            "fr_FR": "Mais... Et le destin?\r"
         }
-    ]
+    ],
+    "name_fr": "Harvey"
 }

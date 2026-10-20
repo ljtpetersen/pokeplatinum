@@ -29,5 +29,12 @@
   "itemUseParams": {
     "revive": true,
     "hpRestored": -1
-  }
+  },
+  "name_fr": "Rappel Max",
+  "description_fr": [
+    "Un médicament qui ranime un Pokémon\n",
+    "K.O. et restaure tous ses PV."
+  ],
+  "plural_fr": "Rappel Max",
+  "article_fr": null
 }

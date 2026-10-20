@@ -6,6 +6,10 @@
       "en_US": [
         "I win!\n",
         "{STRVAR_1 28, 0, 0}!"
+      ],
+      "fr_FR": [
+        "J’ai gagné!\n",
+        "{STRVAR_1 28, 0, 0}!"
       ]
     },
     {
@@ -13,6 +17,10 @@
       "en_US": [
         "I won!\n",
         "I won with {STRVAR_1 28, 0, 0}!"
+      ],
+      "fr_FR": [
+        "J’ai gagné!\n",
+        "J’ai gagné avec {STRVAR_1 28, 0, 0}!"
       ]
     },
     {
@@ -20,23 +28,33 @@
       "en_US": [
         "{STRVAR_1 28, 0, 0} is strong,\n",
         "isn’t it?"
-      ]
+      ],
+      "fr_FR": "{STRVAR_1 28, 0, 0} est fort, non?"
     },
     {
       "id": "WinSentences_Text_ItsBlankBlankAfterAll",
       "en_US": [
         "It’s {STRVAR_1 28, 0, 0}\n",
         "{STRVAR_1 28, 1, 0} after all!"
+      ],
+      "fr_FR": [
+        "En fait, {STRVAR_1 28, 0, 0} est \n",
+        "{STRVAR_1 28, 1, 0}!"
       ]
     },
     {
       "id": "WinSentences_Text_BlankYay",
-      "en_US": "{STRVAR_1 28, 0, 0}, yay!"
+      "en_US": "{STRVAR_1 28, 0, 0}, yay!",
+      "fr_FR": "{STRVAR_1 28, 0, 0}, yaouh!"
     },
     {
       "id": "WinSentences_Text_YayBlankBlank",
       "en_US": [
         "Yay, {STRVAR_1 28, 0, 0}!\n",
+        "{STRVAR_1 28, 1, 0}!"
+      ],
+      "fr_FR": [
+        "Yaouh, {STRVAR_1 28, 0, 0}!\n",
         "{STRVAR_1 28, 1, 0}!"
       ]
     },
@@ -45,6 +63,10 @@
       "en_US": [
         "Sorry, it’s {STRVAR_1 28, 0, 0}\n",
         "{STRVAR_1 28, 1, 0}."
+      ],
+      "fr_FR": [
+        "Je m’excuse, c’est {STRVAR_1 28, 0, 0},\n",
+        "{STRVAR_1 28, 1, 0}."
       ]
     },
     {
@@ -52,6 +74,10 @@
       "en_US": [
         "{STRVAR_1 28, 0, 0}!\n",
         "Thank you!"
+      ],
+      "fr_FR": [
+        "{STRVAR_1 28, 0, 0}!\n",
+        "Merci!"
       ]
     },
     {
@@ -59,6 +85,10 @@
       "en_US": [
         "The way I feel now is\n",
         "{STRVAR_1 28, 0, 0}!"
+      ],
+      "fr_FR": [
+        "{STRVAR_1 28, 0, 0}... \n",
+        "Voilà comment je me sens!"
       ]
     },
     {
@@ -66,6 +96,10 @@
       "en_US": [
         "I wanted people to look at\n",
         "my {STRVAR_1 28, 0, 0}!"
+      ],
+      "fr_FR": [
+        "Je voulais montrer \n",
+        "{STRVAR_1 28, 0, 0}!"
       ]
     },
     {
@@ -73,6 +107,10 @@
       "en_US": [
         "It’s all thanks to\n",
         "{STRVAR_1 28, 0, 0}."
+      ],
+      "fr_FR": [
+        "Tout ça grâce à quoi?\n",
+        "{STRVAR_1 28, 0, 0}!"
       ]
     },
     {
@@ -80,6 +118,10 @@
       "en_US": [
         "I might have won with\n",
         "{STRVAR_1 28, 0, 0}!"
+      ],
+      "fr_FR": [
+        "Avec {STRVAR_1 28, 0, 0}, \n",
+        "j’aurais pu gagner!"
       ]
     },
     {
@@ -87,13 +129,18 @@
       "en_US": [
         "I get the happiest with\n",
         "{STRVAR_1 28, 0, 0}!"
-      ]
+      ],
+      "fr_FR": "{STRVAR_1 28, 0, 0}, c’est le bonheur!"
     },
     {
       "id": "WinSentences_Text_BlankSecuredTheVictory",
       "en_US": [
         "{STRVAR_1 28, 0, 0} secured\n",
         "the victory!"
+      ],
+      "fr_FR": [
+        "{STRVAR_1 28, 0, 0}, voilà ce \n",
+        "qui m’a donné la victoire."
       ]
     },
     {
@@ -101,6 +148,10 @@
       "en_US": [
         "This {STRVAR_1 28, 0, 0}\n",
         "was really good!"
+      ],
+      "fr_FR": [
+        "Ce {STRVAR_1 28, 0, 0}\n",
+        "était vraiment bien!"
       ]
     },
     {
@@ -108,6 +159,10 @@
       "en_US": [
         "{STRVAR_1 28, 0, 0}\n",
         "was fun, wasn’t it?"
+      ],
+      "fr_FR": [
+        "Ce {STRVAR_1 28, 0, 0} était vraiment \n",
+        "amusant, tu ne trouves pas?"
       ]
     },
     {
@@ -115,23 +170,36 @@
       "en_US": [
         "Huh?\n",
         "{STRVAR_1 28, 0, 0}?!"
+      ],
+      "fr_FR": [
+        "Hein?\n",
+        "{STRVAR_1 28, 0, 0}?!?"
       ]
     },
     {
       "id": "WinSentences_Text_BlankIsToughest",
-      "en_US": "{STRVAR_1 28, 0, 0} is the toughest!"
+      "en_US": "{STRVAR_1 28, 0, 0} is the toughest!",
+      "fr_FR": "{STRVAR_1 28, 0, 0} est le plus fort!"
     },
     {
       "id": "WinSentences_Text_HappyBlankHappy",
       "en_US": [
         "Happy!\n",
         "{STRVAR_1 28, 0, 0} happy!"
+      ],
+      "fr_FR": [
+        "Content!\n",
+        "{STRVAR_1 28, 0, 0} content!"
       ]
     },
     {
       "id": "WinSentences_Text_HowsThatBlank",
       "en_US": [
         "How’s that?!\n",
+        "{STRVAR_1 28, 0, 0}!"
+      ],
+      "fr_FR": [
+        "Qu’est-ce que tu penses de ça?!?\n",
         "{STRVAR_1 28, 0, 0}!"
       ]
     }

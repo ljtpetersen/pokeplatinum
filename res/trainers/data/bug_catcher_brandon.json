@@ -39,6 +39,10 @@
             "en_US": [
                 "Hey, hey, let me show off my bug\n",
                 "Pokémon!\r"
+            ],
+            "fr_FR": [
+                "Hé, hé, laisse-moi t’impressionner avec\n",
+                "mes Pokémon de type Insecte!\r"
             ]
         },
         {
@@ -46,6 +50,11 @@
             "en_US": [
                 "I’m not going to be able to explain\n",
                 "the charms of bug Pokémon this way!\n"
+            ],
+            "fr_FR": [
+                "Ce n’est pas comme ça que tu vas\n",
+                "voir les qualités des Pokémon de\r",
+                "type Insecte!\n"
             ]
         },
         {
@@ -55,6 +64,13 @@
                 "stuff like poison and paralyze, and\f",
                 "they’re cute and yet cool.\r",
                 "You gotta believe me. They’re good!\n"
+            ],
+            "fr_FR": [
+                "Les Pokémon de type Insecte\n",
+                "grandissent vite et ils empoisonnent\f",
+                "et paralysent et ils sont mignons et\f",
+                "super cool et...\r",
+                "Crois-moi, ils assurent!\n"
             ]
         },
         {
@@ -62,7 +78,12 @@
             "en_US": [
                 "So, listen. Tell me you’ve grown to\n",
                 "like bug Pokémon since we last met?\r"
+            ],
+            "fr_FR": [
+                "As-tu appris à aimer les Pokémon de\n",
+                "type Insecte depuis la dernière fois?\r"
             ]
         }
-    ]
+    ],
+    "name_fr": "Hervé"
 }

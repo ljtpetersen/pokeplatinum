@@ -8,6 +8,12 @@
         "performers.\r",
         "In place of a formal introduction,\n",
         "please take this!\r"
+      ],
+      "fr_FR": [
+        "Nous sommes une troupe de\n",
+        "saltimbanques itinérants.\r",
+        "Permets-moi de me présenter\n",
+        "en t’offrant ceci!\r"
       ]
     },
     {
@@ -21,6 +27,15 @@
         "slowest gets to attack!\r",
         "How you use the move is up to\n",
         "you, Trainer..."
+      ],
+      "fr_FR": [
+        "Distorsion est une capacité bizarre\n",
+        "qui perturbe le temps.\r",
+        "Quand on l’utilise, le Pokémon le plus\n",
+        "lent a l’initiative pour quelques tours!\r",
+        "Le plus lent attaque avant que le\n",
+        "plus rapide ait eu le temps de bouger!\r",
+        "A toi de décider comment l’employer..."
       ]
     },
     {
@@ -28,6 +43,11 @@
       "en_US": [
         "Let me gaze into your eyes...\n",
         "I will read your fortune...\r",
+        "...\r"
+      ],
+      "fr_FR": [
+        "Laisse-moi lire dans tes yeux...\n",
+        "Je vais prédire ton avenir...\r",
         "...\r"
       ]
     },
@@ -37,6 +57,11 @@
         "A magical encounter is in the winds...\r",
         "Though I cannot tell whether it be\n",
         "a Pokémon or a Trainer..."
+      ],
+      "fr_FR": [
+        "Une rencontre magique est dans l’air...\r",
+        "Bien que je ne puisse affirmer s’il \n",
+        "s’agit d’un Pokémon ou d’un Dresseur..."
       ]
     },
     {
@@ -45,6 +70,12 @@
         "A brief occasion of joy is imminent...\r",
         "But remember this: the good and the\n",
         "bad are on opposite sides of a coin..."
+      ],
+      "fr_FR": [
+        "Tu auras bientôt l’occasion\n",
+        "de te réjouir...\r",
+        "Mais n’oublie pas: le bien et le mal sont\n",
+        "les deux faces d’une même pièce..."
       ]
     },
     {
@@ -53,6 +84,11 @@
         "An unseeable accident lurks...\r",
         "Whether you succumb to it or rise\n",
         "above, it all depends on you..."
+      ],
+      "fr_FR": [
+        "Un accident imprévisible approche...\r",
+        "Vas-tu le surmonter ou bien y \n",
+        "succomber? Tout dépend de toi..."
       ]
     },
     {
@@ -61,6 +97,11 @@
         "Destiny shall shift...\r",
         "Whether that bodes well or ill is\n",
         "beyond the spectrum of my sight..."
+      ],
+      "fr_FR": [
+        "Les vents du destin vont tourner...\r",
+        "Mon pouvoir ne saurait dire si c’est\n",
+        "en bien ou en mal..."
       ]
     },
     {
@@ -73,6 +114,15 @@
         "strength, joy, sorrow, and more...\r",
         "The ever-shifting colors in your eyes\n",
         "make you difficult to read..."
+      ],
+      "fr_FR": [
+        "Nombreux sont les yeux où j’ai plongé\n",
+        "mon regard au fil des âges, qu’il\f",
+        "s’agisse d’humains ou de Pokémon...\r",
+        "Mais tes yeux sont pleins de compassion,\n",
+        "de force, de joie, de tristesse...\r",
+        "Et plus encore. Leur couleur \n",
+        "changeante les rend difficiles à lire..."
       ]
     },
     {
@@ -85,6 +135,16 @@
         "those things in my life.\r",
         "I hear there are guys like me who go\n",
         "around Pokémon Centers."
+      ],
+      "fr_FR": [
+        "Moi, je ne suis qu’un pauvre hère.\n",
+        "Ma guitare parle pour moi.\r",
+        "Je ne vis que de musique et de Pokémon.\r",
+        "Je serai toujours heureux tant que\n",
+        "j’aurai ça dans ma vie.\r",
+        "Il paraît que je ne suis pas le seul\n",
+        "à me déplacer d’un Centre Pokémon\f",
+        "à l’autre."
       ]
     }
   ]

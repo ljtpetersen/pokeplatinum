@@ -89,6 +89,10 @@
             "en_US": [
                 "Now this!\n",
                 "This is a smoking-hot situation!\n"
+            ],
+            "fr_FR": [
+                "Regardez-moi ça!\n",
+                "Ça chauffe pour mes oreilles!\n"
             ]
         },
         {
@@ -96,7 +100,12 @@
             "en_US": [
                 "Heeheehee!\n",
                 "So hot, you!\n"
+            ],
+            "fr_FR": [
+                "Hé, hé, hé!\n",
+                "Tu mets le feu!\n"
             ]
         }
-    ]
+    ],
+    "name_fr": "Cornil"
 }

@@ -27,5 +27,13 @@
   "fieldUseFunc": "ITEM_USE_FUNC_TM_HM",
   "battleUseCategory": "BATTLE_USE_CATEGORY_NONE",
   "itemUseParams": null,
-  "teachesMove": "MOVE_PAYBACK"
+  "teachesMove": "MOVE_PAYBACK",
+  "name_fr": "CT66",
+  "description_fr": [
+    "Le lanceur charge son énergie, puis\n",
+    "attaque. La puissance est doublée si\n",
+    "cela suit une capacité ennemie."
+  ],
+  "plural_fr": "CT66",
+  "article_fr": null
 }

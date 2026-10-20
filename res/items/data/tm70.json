@@ -27,5 +27,13 @@
   "fieldUseFunc": "ITEM_USE_FUNC_TM_HM",
   "battleUseCategory": "BATTLE_USE_CATEGORY_NONE",
   "itemUseParams": null,
-  "teachesMove": "MOVE_FLASH"
+  "teachesMove": "MOVE_FLASH",
+  "name_fr": "CT70",
+  "description_fr": [
+    "Explosion lumineuse qui fait baisser\n",
+    "la précision de l’ennemi. Permet\n",
+    "aussi d’éclairer les grottes."
+  ],
+  "plural_fr": "CT70",
+  "article_fr": null
 }

@@ -57,6 +57,10 @@
             "en_US": [
                 "I’m running a fever here.\n",
                 "Just so’s you know."
+            ],
+            "fr_FR": [
+                "Je crois que je suis malade.\n",
+                "Je tenais à ce que tu le saches."
             ]
         },
         {
@@ -64,6 +68,10 @@
             "en_US": [
                 "Oogh, my head’s burning up.\n",
                 "It makes me feel more inspired.\r"
+            ],
+            "fr_FR": [
+                "Hum... Ce mal de tête m’a inspiré\n",
+                "de nouvelles stratégies.\r"
             ]
         },
         {
@@ -71,7 +79,12 @@
             "en_US": [
                 "Like I said, I have a cold.\n",
                 "I’m not on top of my game.\r"
+            ],
+            "fr_FR": [
+                "Je te l’ai dit, je suis malade.\n",
+                "Je suis meilleur, d’habitude.\r"
             ]
         }
-    ]
+    ],
+    "name_fr": "Lothar"
 }

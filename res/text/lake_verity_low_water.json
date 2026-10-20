@@ -3,7 +3,11 @@
   "messages": [
     {
       "id": "LakeVerityLowWater_Text_WhatsGoingOn",
-      "en_US": "{STRVAR_1 3, 0, 0}: What’s going on...?\r"
+      "en_US": "{STRVAR_1 3, 0, 0}: What’s going on...?\r",
+      "fr_FR": [
+        "{STRVAR_1 3, 0, 0}: Qu’est-ce qui se \n",
+        "passe...?\r"
+      ]
     },
     {
       "id": "LakeVerityLowWater_Text_MakeTimeAndSpaceMine",
@@ -14,6 +18,14 @@
         "Cyrus is my name. Remember it...\r",
         "Until then, sleep while you can,\n",
         "legendary Pokémon of the lake bed...\r"
+      ],
+      "fr_FR": [
+        "Le temps qui s’écoule...\n",
+        "L’espace en perpétuelle expansion...\r",
+        "Tout ça m’appartiendra, un jour...\n",
+        "Hélio est mon nom. Rappelez-vous-en...\r",
+        "D’ici là, dormez tant que vous le pouvez\n",
+        "encore, Pokémon légendaires des lacs...\r"
       ]
     },
     {
@@ -21,6 +33,10 @@
       "en_US": [
         "Allow me to pass.\n",
         "Step aside.\r"
+      ],
+      "fr_FR": [
+        "Laissez-moi passer.\n",
+        "Hors de mon chemin.\r"
       ]
     },
     {
@@ -28,6 +44,10 @@
       "en_US": [
         "{STRVAR_1 3, 0, 0}: What was that about?\n",
         "Weird guy...\r"
+      ],
+      "fr_FR": [
+        "{STRVAR_1 3, 0, 0}: C’est quoi son problème?\n",
+        "Maboul, va...\r"
       ]
     },
     {
@@ -35,11 +55,16 @@
       "en_US": [
         "OK, {STRVAR_1 3, 1, 0}!\n",
         "Let’s catch that legendary Pokémon!\r"
+      ],
+      "fr_FR": [
+        "OK, {STRVAR_1 3, 1, 0}!\n",
+        "Capturons ce Pokémon légendaire!\r"
       ]
     },
     {
       "id": "LakeVerityLowWater_Text_LegendaryCry",
-      "en_US": "Kyauuun!\r"
+      "en_US": "Kyauuun!\r",
+      "fr_FR": "Follééé!\r"
     },
     {
       "id": "LakeVerityLowWater_Text_ThatWasTheLegendaryCrying",
@@ -50,6 +75,14 @@
         "That had to be it!\r",
         "OK! This is our chance!\n",
         "Let’s catch it!\r"
+      ],
+      "fr_FR": [
+        "{STRVAR_1 3, 0, 0}: !\n",
+        "T’as entendu ça, {STRVAR_1 3, 1, 0}?!\r",
+        "C’était le cri du Pokémon légendaire!\n",
+        "C’est obligé!\r",
+        "OK! C’est le moment ou jamais!\n",
+        "Attrapons-le!\r"
       ]
     },
     {
@@ -72,6 +105,23 @@
         "I’ll race you!\r",
         "First one to the professor’s lab in\n",
         "Sandgem Town rules!\r"
+      ],
+      "fr_FR": [
+        "Attends!\n",
+        "On n’est pas du tout équipés!\r",
+        "Ben oui, on n’a pas de Poké Balls, quoi!\n",
+        "P-O-K-E accent aigu Balls!\r",
+        "Sans Poké Balls, on ne risque pas de\n",
+        "capturer des Pokémon!\r",
+        "Tu crois que le Professeur Sorbier nous\n",
+        "en donnerait quelques-unes?\r",
+        "Tu te rappelles de ce qu’il a dit?\r",
+        "Comme quoi on pouvait venir le voir au\n",
+        "labo en cas de besoin.\r",
+        "OK, {STRVAR_1 3, 1, 0}!\n",
+        "On fait la course!\r",
+        "Le premier arrivé au labo de Littorella\n",
+        "a gagné!\r"
       ]
     },
     {
@@ -84,6 +134,15 @@
         "Anything to report?\r",
         "What? You’re just going there now?\n",
         "You’ve got to move faster than that!"
+      ],
+      "fr_FR": [
+        "Sorbier: Hum...\r",
+        "Pas de Pokémon légendaire, \n",
+        "rien d’inhabituel...\r",
+        "{STRVAR_1 3, 0, 0}, comment ça s’est \n",
+        "passé au Lac Courage?\r",
+        "Quoi? Tu y vas seulement maintenant?\n",
+        "Mais secoue-toi un peu!"
       ]
     },
     {
@@ -93,6 +152,12 @@
         "Valor? Anything to report?\r",
         "What? You’re just going there now?\n",
         "You’ve got to move faster than that!"
+      ],
+      "fr_FR": [
+        "Sorbier: {STRVAR_1 3, 0, 0}, comment ça \n",
+        "s’est passé au Lac Courage?\r",
+        "Quoi? Tu y vas seulement maintenant?\n",
+        "Mais secoue-toi un peu!"
       ]
     },
     {
@@ -104,6 +169,13 @@
         "The lake hasn’t changed at all.\r",
         "We haven’t found a legendary\n",
         "Pokémon, either, though..."
+      ],
+      "fr_FR": [
+        "Aurore: {STRVAR_1 3, 0, 0}, rien à signaler \n",
+        "au Lac Courage?\r",
+        "Il n’y a rien d’inhabituel ici, le lac \n",
+        "n’a pas bougé d’un pouce.\r",
+        "Et pas de Pokémon légendaire en vue..."
       ]
     },
     {
@@ -115,6 +187,14 @@
         "The lake is ordinary, as usual.\r",
         "There’s no legendary Pokémon,\n",
         "either..."
+      ],
+      "fr_FR": [
+        "Louka: Salut, {STRVAR_1 3, 0, 0}!\n",
+        "Comment ça s’est passé au Lac Courage?\r",
+        "Ici, rien à signaler. Le lac est fidèle à \n",
+        "lui-même... C’est un lac, quoi.\r",
+        "Et aucune trace d’un quelconque \n",
+        "Pokémon légendaire."
       ]
     }
   ]

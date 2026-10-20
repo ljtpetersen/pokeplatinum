@@ -32,17 +32,26 @@
             "en_US": [
                 "The fun things about winter!\n",
                 "One, skiing! Two, Pokémon!\r"
+            ],
+            "fr_FR": [
+                "L’hiver a des avantages!\n",
+                "D’un, le ski! De deux, les Pokémon!\r"
             ]
         },
         {
             "type": "TRMSG_DEFEAT",
-            "en_US": "Snivel..."
+            "en_US": "Snivel...",
+            "fr_FR": "Snif..."
         },
         {
             "type": "TRMSG_POST_BATTLE",
             "en_US": [
                 "If it was skiing, I wouldn’t lose.\n",
                 "I should go ski with my Pokémon...\n"
+            ],
+            "fr_FR": [
+                "Au ski, je n’aurais pas perdu.\n",
+                "Je devrais skier avec mes Pokémon...\n"
             ]
         },
         {
@@ -50,7 +59,12 @@
             "en_US": [
                 "You’re a better Trainer than a skier.\n",
                 "But I’ll challenge you again anyway!\r"
+            ],
+            "fr_FR": [
+                "Tu maîtrises mieux les Pokémon que les\n",
+                "skis. Mais je te défie quand même!\r"
             ]
         }
-    ]
+    ],
+    "name_fr": "Marie-Ange"
 }

@@ -11,6 +11,15 @@
         "I need your help to get it back.\r",
         "I’ll be waiting in front of the\n",
         "warehouses. Please come!\r"
+      ],
+      "fr_FR": [
+        "Aurore: Salut, {STRVAR_1 3, 0, 0}!\n",
+        "Tu peux m’aider?\r",
+        "Ces bandits de la Team Galaxie m’ont\n",
+        "volé mon Pokédex.\r",
+        "Aide-moi à le récupérer, s’il te plaît.\r",
+        "Je t’attendrai devant le hangar!\n",
+        "A tout de suite!\r"
       ]
     },
     {
@@ -23,6 +32,16 @@
         "I sure could use your help.\r",
         "I’ll be waiting in front of the\n",
         "warehouses. Please come!\r"
+      ],
+      "fr_FR": [
+        "Louka: Hé! {STRVAR_1 3, 0, 0}!\n",
+        "Ecoute, j’ai besoin de toi...\r",
+        "Des types de la Team Galaxie m’ont pris\n",
+        "mon Pokédex et refusent de me le\f",
+        "rendre.\r",
+        "Aide-moi à le récupérer.\r",
+        "Je t’attendrai devant le hangar!\n",
+        "A tout de suite!\r"
       ]
     },
     {
@@ -36,6 +55,15 @@
         "department store, and...\r",
         "I mean, well, of course I’ve been\n",
         "working on my Pokédex, but...\r"
+      ],
+      "fr_FR": [
+        "Aurore: {STRVAR_1 3, 0, 0}, tu vas tenter\n",
+        "ta chance à l’Arène?\r",
+        "Pfiou, rien n’arrête ton ascension!\r",
+        "Moi? Eh bien, je suis allée faire du\n",
+        "shopping au centre commercial, et...\r",
+        "Oui, bien sûr, je continue à travailler\n",
+        "à mon Pokédex, mais...\r"
       ]
     },
     {
@@ -50,6 +78,16 @@
         "I mean, yeah, of course I’ve been\n",
         "working on my Pokédex, but...\r",
         "Anyway, keep it up!\r"
+      ],
+      "fr_FR": [
+        "Louka: Hé! {STRVAR_1 3, 0, 0}, tu vas\n",
+        "tenter ta chance à l’Arène?\r",
+        "Pfiou, rien n’arrête ton ascension!\r",
+        "Moi? Eh bien, je suis allé faire un tour\n",
+        "au Casino, et...\r",
+        "Oui, bien sûr, je continue à travailler\n",
+        "à mon Pokédex, mais...\r",
+        "Bref, continue sur ta lancée!\r"
       ]
     },
     {
@@ -65,6 +103,19 @@
         "Run from electricity, Crasher Wake!\r",
         "Ah, ah, aaaah!\n",
         "The ring is my sea. ♫\r"
+      ],
+      "fr_FR": [
+        "Sur le ring, pareil à un loup de mer, ♫\n",
+        "les flots ont façonné mon âme\f",
+        "guerrière.\r",
+        "Bang! C’est moi Lovis le Teigneux!\n",
+        "Bang! C’est moi Lovis le Teigneux!\r",
+        "La déferlante toute puissante prête à\n",
+        "vous submerger!\r",
+        "J’éteins les flammes les plus ardentes!\n",
+        "Mais j’évite l’électricité mordante!\r",
+        "Ah, ah, aaaah! Je me déchaîne sur le\n",
+        "ring comme une tempête en mer. ♫\r"
       ]
     },
     {
@@ -77,6 +128,15 @@
         "she’s a born genius.\r",
         "I tried training with her, and I was\n",
         "stunned by how tough she was!\r"
+      ],
+      "fr_FR": [
+        "Salut, les jeunes!\n",
+        "Vous allez défier le Champion d’Arène,\f",
+        "n’est-ce pas?\r",
+        "Je vous préviens, elle est jeune, mais\n",
+        "c’est un génie.\r",
+        "J’ai essayé de m’entraîner à ses côtés,\n",
+        "et sa force m’a laissé sans voix!\r"
       ]
     },
     {
@@ -88,28 +148,46 @@
         "Pokémon, wrestling, and song.\r",
         "I’m Crasher Wake of Pastoria Gym!\n",
         "We’ll meet again!\r"
+      ],
+      "fr_FR": [
+        "Oups!\n",
+        "Je ferais mieux de me présenter!\r",
+        "Je suis Champion d’Arène, et expert en\n",
+        "Pokémon, en catch et en chant.\r",
+        "Lovis le Teigneux, de Verchamps!\n",
+        "On se reverra!\r"
       ]
     },
     {
       "id": "VeilstoneCity_Text_DawnDotDotDot",
-      "en_US": "Dawn: ...\r"
+      "en_US": "Dawn: ...\r",
+      "fr_FR": "Aurore: ...\r"
     },
     {
       "id": "VeilstoneCity_Text_DawnGoodLuck",
       "en_US": [
         "So, uh, {STRVAR_1 3, 0, 0}.\n",
         "Good luck on your Gym challenge.\r"
+      ],
+      "fr_FR": [
+        "Alors, euh, bonne chance à l’Arène,\n",
+        "{STRVAR_1 3, 0, 0}.\r"
       ]
     },
     {
       "id": "VeilstoneCity_Text_LucasDotDotDot",
-      "en_US": "Lucas: ...\r"
+      "en_US": "Lucas: ...\r",
+      "fr_FR": "Louka: ...\r"
     },
     {
       "id": "VeilstoneCity_Text_LucasGoodLuck",
       "en_US": [
         "So, uh, yeah, {STRVAR_1 3, 0, 0}.\n",
         "Good luck with the Pokémon Gym.\r"
+      ],
+      "fr_FR": [
+        "Alors, euh, bonne chance à l’Arène,\n",
+        "{STRVAR_1 3, 0, 0}.\r"
       ]
     },
     {
@@ -119,6 +197,12 @@
         "Yeah, you!\r",
         "This is Team Galactic’s warehouse!\n",
         "It ain’t no playground for kids!\r"
+      ],
+      "fr_FR": [
+        "Sbire 1: Hé, toi!\n",
+        "Ouais, toi là!\r",
+        "C’est le hangar de la Team Galaxie,\n",
+        "pas un terrain de jeu pour gamins!\r"
       ]
     },
     {
@@ -128,6 +212,12 @@
         "Yeah, you!\r",
         "This is Team Galactic’s warehouse!\n",
         "It ain’t no playground for kids!"
+      ],
+      "fr_FR": [
+        "Sbire 1: Hé, toi!\n",
+        "Ouais, toi!\r",
+        "C’est le hangar de la Team Galaxie,\n",
+        "pas un terrain de jeu pour gamins!"
       ]
     },
     {
@@ -139,6 +229,14 @@
         "at the Pokémon Gym.\r",
         "After all, the Gym Leader happens to\n",
         "be a kid just like you!"
+      ],
+      "fr_FR": [
+        "Sbire 2: C’est le méga hangar de la\n",
+        "méga Team Galaxie!\r",
+        "Les minus dans ton genre feraient mieux\n",
+        "d’aller jouer dans une Arène...\r",
+        "Après tout, le Champion n’est encore\n",
+        "qu’un bébé, tout comme toi!"
       ]
     },
     {
@@ -149,6 +247,13 @@
         "Pokédex back?\r",
         "We’ll be just as happy to send both\n",
         "of you crying home to your mommies!"
+      ],
+      "fr_FR": [
+        "Sbire 1: Quoi? Tu as ramené\n",
+        "du renfort pour récupérer\f",
+        "ton Pokédex?\r",
+        "On va se faire un plaisir de vous\n",
+        "renvoyer chez vos mamans!"
       ]
     },
     {
@@ -161,6 +266,15 @@
         "But, OK, guarding the warehouse\n",
         "does get boring!\r",
         "We’ll take you on two-on-two!"
+      ],
+      "fr_FR": [
+        "Sbire 2: Vous avez l’intention\n",
+        "de récupérer le Pokédex?\r",
+        "Allons, vous n’y pensez pas, la Team\n",
+        "Galaxie en fera meilleur usage!\r",
+        "Mais j’admets qu’on s’ennuie\n",
+        "vite à surveiller le hangar!\r",
+        "Nous combattrons en duo!"
       ]
     },
     {
@@ -175,6 +289,17 @@
         "Team Galactic’s going to own\n",
         "all the Pokémon in the world...\f",
         "No, in the universe!\r"
+      ],
+      "fr_FR": [
+        "Sbire 1: Aaaah, c’est nul!\n",
+        "Nos Pokémon sont des mauviettes!\r",
+        "On devrait en prendre de nouveaux\n",
+        "au quartier général.\r",
+        "Pfff! De toute façon, on s’en\n",
+        "fiche bien des Pokédex!\r",
+        "La Team Galaxie aura bientôt tous\n",
+        "les Pokémon du monde à sa botte...\f",
+        "Tous les Pokémon de l’univers, même!\r"
       ]
     },
     {
@@ -182,6 +307,10 @@
       "en_US": [
         "There! Take it!\n",
         "Take your Pokédex!\r"
+      ],
+      "fr_FR": [
+        "Tiens! Prends-le!\n",
+        "Prends ton Pokédex!\r"
       ]
     },
     {
@@ -192,6 +321,13 @@
         "to Pastoria City anyway...\r",
         "So, we’ll say “You’ll get yours!”\n",
         "And run like the grunts we are.\r"
+      ],
+      "fr_FR": [
+        "Sbire 2: Les objets entreposés dans\n",
+        "le hangar ont déjà été acheminés\f",
+        "à Verchamps, de toute façon...\r",
+        "Comme on dit, “Rira bien qui rira\n",
+        "le dernier!”. Les sbires vous saluent!\r"
       ]
     },
     {
@@ -207,6 +343,20 @@
         "Pokédex.\r",
         "Please, I need your help.\n",
         "Team up and battle with me!"
+      ],
+      "fr_FR": [
+        "Aurore: Salut, {STRVAR_1 3, 0, 0}!\n",
+        "Tu veux bien m’aider?\r",
+        "Tu te souviens des immondes scélérats\n",
+        "de la Team Galaxie?\r",
+        "Ceux qui ont essayé de voler les\n",
+        "travaux du Professeur Sorbier à\f",
+        "Féli-Cité?\r",
+        "Je suis tombée sur eux tout à l’heure\n",
+        "et ils m’ont volé mon Pokédex.\r",
+        "Aide-moi à le récupérer, s’il te plaît.\n",
+        "Faisons équipe pour leur mettre\f",
+        "une raclée!"
       ]
     },
     {
@@ -218,6 +368,14 @@
         "has no chance of losing!\r",
         "I’m not letting those bad people get\n",
         "away with their dirty deeds!\r"
+      ],
+      "fr_FR": [
+        "Aurore: Toi et tes Pokémon faisant\n",
+        "équipe avec moi et mes Pokémon...\r",
+        "Si nous unissons nos forces, notre\n",
+        "équipe de rêve ne peut pas perdre!\r",
+        "Je ne laisserai pas ces filous\n",
+        "s’en tirer à si bon compte!\r"
       ]
     },
     {
@@ -225,6 +383,10 @@
       "en_US": [
         "Dawn: I’ll be waiting.\n",
         "Please get ready and come quickly."
+      ],
+      "fr_FR": [
+        "Aurore: J’attendrai ici.\n",
+        "Finis de te préparer et reviens vite."
       ]
     },
     {
@@ -233,6 +395,12 @@
         "Dawn: What’s going on?\r",
         "Why is Team Galactic out in the\n",
         "streets like they own the place?\r"
+      ],
+      "fr_FR": [
+        "Aurore: Que se passe-t-il?\r",
+        "Pourquoi les membres de la Team Galaxie\n",
+        "se comportent comme s’ils étaient les\f",
+        "maîtres ici?\r"
       ]
     },
     {
@@ -250,6 +418,21 @@
         "Mansion on Route 212.\r",
         "I hear they show rare Pokémon to\n",
         "visitors there.\r"
+      ],
+      "fr_FR": [
+        "Aurore: Merci de tout cœur,\n",
+        "{STRVAR_1 3, 0, 0}.\r",
+        "Je ne sais pas ce que j’aurais fait sans\n",
+        "mon Pokédex.\r",
+        "Il m’est indispensable pour assister\n",
+        "le Professeur Sorbier dans ses\f",
+        "recherches.\r",
+        "Alors, {STRVAR_1 3, 0, 0}, qu’est-ce que tu\n",
+        "vas faire maintenant?\r",
+        "Moi, je pense aller faire un tour au\n",
+        "Manoir Pokémon, sur la Route 212.\r",
+        "Il paraît qu’il abrite des Pokémon\n",
+        "rares.\r"
       ]
     },
     {
@@ -264,6 +447,18 @@
         "Pokédex!\r",
         "Will you team up with me to take\n",
         "them on?"
+      ],
+      "fr_FR": [
+        "Louka: Salut, {STRVAR_1 3, 0, 0}!\n",
+        "Tu veux bien m’aider?\r",
+        "Tu te souviens des types de la Team\n",
+        "Galaxie?\r",
+        "Ceux qui ont essayé de voler les\n",
+        "travaux du Professeur Sorbier à\f",
+        "Féli-Cité?\r",
+        "Je suis tombé sur eux tout à l’heure\n",
+        "et ils m’ont volé mon Pokédex.\r",
+        "Faisons équipe pour les affronter!"
       ]
     },
     {
@@ -275,6 +470,14 @@
         "Not with the way we work together!\r",
         "I’m not letting those criminals get\n",
         "away with this!\r"
+      ],
+      "fr_FR": [
+        "Louka: Toi et tes Pokémon faisant\n",
+        "équipe avec moi et mes Pokémon...\r",
+        "Notre duo de rêve ne peut pas perdre.\n",
+        "Unis comme les doigts de la main!\r",
+        "Je ne laisserai pas ces criminels\n",
+        "s’en tirer à si bon compte!\r"
       ]
     },
     {
@@ -282,6 +485,10 @@
       "en_US": [
         "Lucas: I’ll be waiting!\n",
         "Get ready and come quick!"
+      ],
+      "fr_FR": [
+        "Louka: J’attendrai ici!\n",
+        "Dépêche-toi de te préparer!"
       ]
     },
     {
@@ -290,6 +497,11 @@
         "Lucas: What’s going on here?\r",
         "Why is Team Galactic out in the\n",
         "streets like they own the place?\r"
+      ],
+      "fr_FR": [
+        "Louka: Que se passe-t-il, ici?\r",
+        "Pourquoi la Team Galaxie se comporte\n",
+        "comme si cette ville lui appartenait?\r"
       ]
     },
     {
@@ -306,6 +518,21 @@
         "on Route 212.\r",
         "They say they show off rare Pokémon to\n",
         "visitors.\r"
+      ],
+      "fr_FR": [
+        "Louka: Merci de tout cœur,\n",
+        "{STRVAR_1 3, 0, 0}.\r",
+        "Je ne sais pas ce que j’aurais fait sans\n",
+        "mon Pokédex.\r",
+        "Il m’est indispensable pour assister\n",
+        "le Professeur Sorbier dans ses\f",
+        "recherches.\r",
+        "Alors, {STRVAR_1 3, 0, 0}, qu’est-ce que tu\n",
+        "comptes faire maintenant?\r",
+        "Moi, je pense aller faire un tour au\n",
+        "Manoir Pokémon, sur la Route 212.\r",
+        "Il paraît qu’il abrite des Pokémon\n",
+        "rares.\r"
       ]
     },
     {
@@ -316,6 +543,13 @@
         "I heard of children feuding with the\n",
         "Team Galactic.\r",
         "It turns out, of course, to be you.\r"
+      ],
+      "fr_FR": [
+        "Beladonis: Plus aucune crainte à avoir,\n",
+        "je suis là.\r",
+        "J’ai entendu dire que des enfants se\n",
+        "battaient contre la Team Galaxie.\r",
+        "J’aurais dû me douter que c’était vous.\r"
       ]
     },
     {
@@ -323,6 +557,10 @@
       "en_US": [
         "Dawn: Oh...\n",
         "It’s that funny man from Jubilife...\r"
+      ],
+      "fr_FR": [
+        "Aurore: Oh...\n",
+        "C’est le cinglé de Féli-Cité...\r"
       ]
     },
     {
@@ -330,6 +568,10 @@
       "en_US": [
         "Lucas: Hey...\n",
         "It’s that weirdo from Jubilife.\r"
+      ],
+      "fr_FR": [
+        "Louka: Hé...\n",
+        "C’est le cinglé de Féli-Cité.\r"
       ]
     },
     {
@@ -337,6 +579,10 @@
       "en_US": [
         "Looker: You insult me to my face?\n",
         "How very uncouth of you.\r"
+      ],
+      "fr_FR": [
+        "Beladonis: Vous osez vous exprimer ainsi\n",
+        "en ma présence? Quelle grossièreté!\r"
       ]
     },
     {
@@ -348,6 +594,14 @@
         "I just blurted it out...\r",
         "...I should be going now.\n",
         "Be wary of Team Galactic.\r"
+      ],
+      "fr_FR": [
+        "Aurore: Je suis désolée.\r",
+        "La Team Galaxie m’avait volé mon\n",
+        "Pokédex, je suis furieuse...\r",
+        "C’est sorti comme ça...\r",
+        "Bon, je vous laisse.\n",
+        "Méfiez-vous de la Team Galaxie.\r"
       ]
     },
     {
@@ -359,6 +613,14 @@
         "I didn’t even think when I spoke up.\r",
         "I’ll be going now.\n",
         "Uh... Watch out for Team Galactic.\r"
+      ],
+      "fr_FR": [
+        "Louka: Oh, désolé.\r",
+        "J’étais dégoûté que la Team Galaxie\n",
+        "m’ait piqué mon Pokédex.\r",
+        "J’ai parlé sans réfléchir.\r",
+        "Je vous laisse. Et euh...\n",
+        "Méfiez-vous de la Team Galaxie.\r"
       ]
     },
     {
@@ -375,6 +637,20 @@
         "them more sinister, perhaps.\r",
         "Their warehouse needs investigation.\n",
         "Come with me, and we’ll take a look!\r"
+      ],
+      "fr_FR": [
+        "Beladonis: Aucune importance.\r",
+        "Ce qui m’inquiète, par contre, c’est\n",
+        "le comportement de la Team Galaxie.\r",
+        "Tenter de dépouiller des enfants...\n",
+        "Quelle bassesse!\r",
+        "Décidément, ils font de bien piètres\n",
+        "criminels.\r",
+        "Mais la médiocrité de leurs exactions ne\n",
+        "les rend que plus préoccupants.\r",
+        "Il faut examiner le hangar!\n",
+        "Suis-moi, et allons y jeter un coup\f",
+        "d’œil.\r"
       ]
     },
     {
@@ -384,6 +660,12 @@
         "Would you look at those antennae?\r",
         "I don’t know what they do, but those\n",
         "are some mighty impressive antennae!\r"
+      ],
+      "fr_FR": [
+        "Là!\n",
+        "Non mais, regarde un peu ces antennes!\r",
+        "Je ne sais pas à quoi elles servent,\n",
+        "mais elles sont titanesques!\r"
       ]
     },
     {
@@ -399,6 +681,18 @@
         "back to his old country...\r",
         "Waah! I know nothing! I don’t know\n",
         "anything about any Storage Key!\r"
+      ],
+      "fr_FR": [
+        "Hé!\n",
+        "Je te reconnais!\r",
+        "Je parie que tu m’as oublié, mais\n",
+        "je me souviens très bien de toi!\r",
+        "C’est de ta faute, s’ils ont\n",
+        "emporté mon MELOFEE...\r",
+        "Mon partenaire a jeté l’éponge pour\n",
+        "rentrer au pays...\r",
+        "Quoi? Une Clé Stockage?! Je... je ne\n",
+        "suis pas au courant! Allez, à plus!\r"
       ]
     },
     {
@@ -412,6 +706,17 @@
         "But we can enter their hideout.\r",
         "Well? Will you enter the hideout?\n",
         "You have your reasons, yes?"
+      ],
+      "fr_FR": [
+        "Ah, ah!\n",
+        "Laisse-moi faire!\r",
+        "J’ai en ma possession la Clé Stockage\n",
+        "ouvrant le repaire de la Team Galaxie.\r",
+        "Il serait vain d’attaquer de front, mais\n",
+        "nous pouvons au moins fouiller leur\f",
+        "cachette.\r",
+        "Eh bien? Tu m’accompagnes ou pas?\n",
+        "A toi de voir!"
       ]
     },
     {
@@ -422,6 +727,13 @@
         "We will meet there.\r",
         "Prepare the best you can.\n",
         "I shall join you shortly.\r"
+      ],
+      "fr_FR": [
+        "Très bien.\n",
+        "Retrouvons-nous dans le hangar de\f",
+        "la Team Galaxie.\r",
+        "Prépare-toi bien avant d’y aller.\n",
+        "Je te rejoindrai d’ici peu.\r"
       ]
     },
     {
@@ -430,11 +742,17 @@
         "Looker: ...Yes, I see your point.\r",
         "Sneaking into the hideout of the Team\n",
         "Galactic...it is daunting."
+      ],
+      "fr_FR": [
+        "Beladonis: Je vois ce que tu veux dire.\r",
+        "S’infiltrer dans le repaire de la Team\n",
+        "Galaxie n’a rien de rassurant..."
       ]
     },
     {
       "id": "VeilstoneCity_Text_Player",
-      "en_US": "Looker: {STRVAR_1 3, 0, 0}!\r"
+      "en_US": "Looker: {STRVAR_1 3, 0, 0}!\r",
+      "fr_FR": "Beladonis: {STRVAR_1 3, 0, 0}!\r"
     },
     {
       "id": "VeilstoneCity_Text_WeHaveHMFlyInWarehouse",
@@ -443,6 +761,12 @@
         "Fly stored in the warehouse.\r",
         "They said I can use it if I show them\n",
         "that I deserve it."
+      ],
+      "fr_FR": [
+        "Nous gardons la Capsule Secrète qui\n",
+        "permet d’apprendre Vol dans le hangar.\r",
+        "Ils ont dit que je pourrais l’utiliser\n",
+        "si je m’en montrais digne."
       ]
     },
     {
@@ -452,6 +776,12 @@
         "of good stuff in their warehouse.\r",
         "I hear they even have a Hidden\n",
         "Machine in there!"
+      ],
+      "fr_FR": [
+        "Ouais, il y a des trésors entreposés\n",
+        "dans le hangar de la Team Galaxie.\r",
+        "Il paraît même qu’il contient\n",
+        "une Capsule Secrète!"
       ]
     },
     {
@@ -460,6 +790,11 @@
         "The Game Corner is dangerous!\r",
         "Why is it dangerous?\n",
         "It’s so fun, I lose track of time!"
+      ],
+      "fr_FR": [
+        "Le Casino est un endroit dangereux!\r",
+        "Pourquoi? Parce que c’est si amusant\n",
+        "que j’en perds la notion du temps!"
       ]
     },
     {
@@ -468,6 +803,11 @@
         "I got a TM as a prize from the\n",
         "Game Corner.\r",
         "I used it on my Pokémon right away!"
+      ],
+      "fr_FR": [
+        "J’ai obtenu une CT grâce au Casino.\r",
+        "Je l’ai immédiatement utilisée\n",
+        "sur mon Pokémon!"
       ]
     },
     {
@@ -477,6 +817,12 @@
         "Then, there’s Wake in Pastoria...\r",
         "They’re way too tough for me.\n",
         "I can’t even come close to them."
+      ],
+      "fr_FR": [
+        "Mélina est le Champion d’Arène de \n",
+        "Voilaroc. Lovis, celui de Verchamps.\r",
+        "Mais ils sont incroyablement forts.\n",
+        "Je ne leur arrive pas à la cheville."
       ]
     },
     {
@@ -486,6 +832,12 @@
         "go shopping at the department store.\r",
         "But with all these rock walls around,\n",
         "this place feels kind of cold."
+      ],
+      "fr_FR": [
+        "Je suis venue dans cette ville\n",
+        "pour faire mon shopping.\r",
+        "Mais l’atmosphère est plutôt lugubre,\n",
+        "avec tous ces murs en pierre."
       ]
     },
     {
@@ -494,6 +846,11 @@
         "I bought a new parasol.\r",
         "But I don’t want it to get rained on,\n",
         "so I watch the TV weather reports."
+      ],
+      "fr_FR": [
+        "J’ai acheté un nouveau parapluie.\r",
+        "Mais je ne veux pas le mouiller, alors je\n",
+        "me tiens au courant de la météo."
       ]
     },
     {
@@ -503,6 +860,12 @@
         "a Coin Case?\r",
         "I heard that there’s a clown giving\n",
         "’em away, but..."
+      ],
+      "fr_FR": [
+        "Tu ne sais pas où je pourrais\n",
+        "trouver une Boîte Jetons?\r",
+        "Il paraît qu’il y a un bouffon\n",
+        "qui les distribue, mais..."
       ]
     },
     {
@@ -512,6 +875,12 @@
         "We even have meteorites!\r",
         "This has nothing to do with anything,\n",
         "but take this Technical Machine!\r"
+      ],
+      "fr_FR": [
+        "Voilaroc est la capitale de la pierre.\n",
+        "On a même des corps célestes!\r",
+        "Pour changer de sujet, j’ai un cadeau\n",
+        "pour toi, une Capsule Technique!\r"
       ]
     },
     {
@@ -522,6 +891,13 @@
         "use any items on it.\r",
         "Anyway, enjoy your visit to Veilstone,\n",
         "the city of...well, stone."
+      ],
+      "fr_FR": [
+        "Si la capacité Embargo est utilisée sur\n",
+        "un de tes Pokémon, il ne pourra plus\f",
+        "utiliser d’objets.\r",
+        "Enfin, profite bien de ta visite à\n",
+        "Voilaroc, la ville des... euh, rocs."
       ]
     },
     {
@@ -529,6 +905,10 @@
       "en_US": [
         "Salut, Trainer!\n",
         "Tu aimes les Pokémon?"
+      ],
+      "fr_FR": [
+        "Hello, Trainer!\n",
+        "Do you like Pokémon?"
       ]
     },
     {
@@ -536,6 +916,10 @@
       "en_US": [
         "Moi aussi!\n",
         "C’est génial!"
+      ],
+      "fr_FR": [
+        "Excellent!\n",
+        "So do I!"
       ]
     },
     {
@@ -543,6 +927,10 @@
       "en_US": [
         "J’ai du mal à te croire...\n",
         "Il n’y a qu’à vous regarder!"
+      ],
+      "fr_FR": [
+        "I don’t think so!\n",
+        "You like to travel with your Pokémon!"
       ]
     },
     {
@@ -552,6 +940,12 @@
         "He really surprised me!\r",
         "I think he was asking if I liked Pokémon\n",
         "or something."
+      ],
+      "fr_FR": [
+        "Un homme s’est adressé à moi dans une\n",
+        "langue étrangère. Quelle surprise!\r",
+        "Je crois qu’il me demandait si j’aimais\n",
+        "les Pokémon ou quelque chose comme ça."
       ]
     },
     {
@@ -559,6 +953,10 @@
       "en_US": [
         "It’s a mysterious meteorite that\n",
         "fell from the stars..."
+      ],
+      "fr_FR": [
+        "Une étrange météorite tombée\n",
+        "des étoiles..."
       ]
     },
     {
@@ -566,6 +964,10 @@
       "en_US": [
         "Touching the meteorite boosted\n",
         "the Speed of a certain Pokémon."
+      ],
+      "fr_FR": [
+        "Un Pokémon a vu sa Vitesse\n",
+        "augmenter au contact de la météorite."
       ]
     },
     {
@@ -574,6 +976,11 @@
         "Touching the meteorite heightened\n",
         "the defensive capabilities of\f",
         "a certain Pokémon."
+      ],
+      "fr_FR": [
+        "Un Pokémon a vu ses capacités\n",
+        "défensives augmenter au contact\f",
+        "de la météorite."
       ]
     },
     {
@@ -582,6 +989,11 @@
         "Touching the meteorite heightened\n",
         "the offensive capabilities of\f",
         "a certain Pokémon."
+      ],
+      "fr_FR": [
+        "Un Pokémon a vu ses capacités\n",
+        "offensives augmenter au contact\f",
+        "de la météorite."
       ]
     },
     {
@@ -589,6 +1001,10 @@
       "en_US": [
         "Touching the meteorite balanced out\n",
         "the attributes of a certain Pokémon."
+      ],
+      "fr_FR": [
+        "Un Pokémon a vu ses caractéristiques\n",
+        "s’équilibrer au contact de la météorite."
       ]
     },
     {
@@ -596,6 +1012,10 @@
       "en_US": [
         "Veilstone City\n",
         "Hewn from Rock"
+      ],
+      "fr_FR": [
+        "Voilaroc\n",
+        "Ville roche"
       ]
     },
     {
@@ -604,6 +1024,11 @@
         "Veilstone City Pokémon Gym\n",
         "Leader: Maylene\f",
         "The Barefoot, Fighting Genius!"
+      ],
+      "fr_FR": [
+        "Arène Pokémon de Voilaroc\n",
+        "Champion: Mélina\f",
+        "La comtesse du combat aux pieds nus!"
       ]
     },
     {
@@ -611,6 +1036,10 @@
       "en_US": [
         "Galactic Warehouse\n",
         "NO TRESPASSING!"
+      ],
+      "fr_FR": [
+        "Hangar Galaxie\n",
+        "DEFENSE D’ENTRER!"
       ]
     },
     {
@@ -618,6 +1047,10 @@
       "en_US": [
         "Galactic Veilstone Building\n",
         "We Dream of the Universe!"
+      ],
+      "fr_FR": [
+        "Bâtiment Galaxie de Voilaroc\n",
+        "L’univers nous attend!"
       ]
     },
     {
@@ -625,6 +1058,10 @@
       "en_US": [
         "Veilstone Department Store\n",
         "A Shop Full of Dreams!"
+      ],
+      "fr_FR": [
+        "Centre Commercial Voilaroc\n",
+        "Le rêve à portée de bourse!"
       ]
     },
     {
@@ -636,6 +1073,10 @@
       "en_GB": [
         "Veilstone Game Corner\n",
         "The place everyone talks about!"
+      ],
+      "fr_FR": [
+        "Casino de Voilaroc\n",
+        "Une attraction incontournable!"
       ]
     },
     {
@@ -643,6 +1084,10 @@
       "en_US": [
         "Prize Exchange\n",
         "Coins Exchanged for Prizes!"
+      ],
+      "fr_FR": [
+        "Remise des Prix\n",
+        "Echangez vos Jetons contre des prix!"
       ]
     },
     {
@@ -650,6 +1095,10 @@
       "en_US": [
         "Visit Beautiful Lake Valor!\n",
         "Right off Rt. 214!"
+      ],
+      "fr_FR": [
+        "Visitez le superbe Lac Courage!\n",
+        "Juste à côté de la Route 214!"
       ]
     }
   ]

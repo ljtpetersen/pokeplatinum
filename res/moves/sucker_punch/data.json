@@ -28,5 +28,13 @@
     "contest": {
         "effect": "CONTEST_EFFECT_FIRST_NEXT_TURN",
         "type": "CONTEST_TYPE_SMART"
-    }
+    },
+    "name_fr": "Coup Bas",
+    "description_fr": [
+        "Permet au lanceur\n",
+        "de frapper en\n",
+        "premier. Echoue si\n",
+        "l’ennemi ne prépare\n",
+        "pas une attaque."
+    ]
 }

@@ -26,5 +26,13 @@
   "battlePocket": "BATTLE_POCKET_MASK_NONE",
   "fieldUseFunc": "ITEM_USE_FUNC_MAIL",
   "battleUseCategory": "BATTLE_USE_CATEGORY_NONE",
-  "itemUseParams": null
+  "itemUseParams": null,
+  "name_fr": "Lettre Coeur",
+  "description_fr": [
+    "Un papier à lettres orné de cœurs\n",
+    "gigantesques.\n",
+    "Peut être tenu et livré par un Pokémon."
+  ],
+  "plural_fr": "Lettre Coeur",
+  "article_fr": null
 }

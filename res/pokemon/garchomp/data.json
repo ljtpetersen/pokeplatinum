@@ -7,7 +7,10 @@
         "special_attack": 80,
         "special_defense": 85
     },
-    "types": [ "TYPE_DRAGON", "TYPE_GROUND" ],
+    "types": [
+        "TYPE_DRAGON",
+        "TYPE_GROUND"
+    ],
     "catch_rate": 45,
     "base_exp_reward": 218,
     "ev_yields": {
@@ -26,29 +29,80 @@
     "hatch_cycles": 40,
     "base_friendship": 70,
     "exp_rate": "EXP_RATE_SLOW",
-    "egg_groups": [ "EGG_GROUP_MONSTER", "EGG_GROUP_DRAGON" ],
-    "abilities": [ "ABILITY_SAND_VEIL", "ABILITY_NONE" ],
+    "egg_groups": [
+        "EGG_GROUP_MONSTER",
+        "EGG_GROUP_DRAGON"
+    ],
+    "abilities": [
+        "ABILITY_SAND_VEIL",
+        "ABILITY_NONE"
+    ],
     "safari_flee_rate": 0,
     "body_color": "MON_COLOR_BLUE",
     "flip_sprite": false,
     "icon_palette": 0,
     "learnset": {
         "by_level": [
-            [ 1, "MOVE_FIRE_FANG" ],
-            [ 1, "MOVE_TACKLE" ],
-            [ 1, "MOVE_SAND_ATTACK" ],
-            [ 1, "MOVE_DRAGON_RAGE" ],
-            [ 1, "MOVE_SANDSTORM" ],
-            [ 3, "MOVE_SAND_ATTACK" ],
-            [ 7, "MOVE_DRAGON_RAGE" ],
-            [ 13, "MOVE_SANDSTORM" ],
-            [ 15, "MOVE_TAKE_DOWN" ],
-            [ 19, "MOVE_SAND_TOMB" ],
-            [ 28, "MOVE_SLASH" ],
-            [ 33, "MOVE_DRAGON_CLAW" ],
-            [ 40, "MOVE_DIG" ],
-            [ 48, "MOVE_CRUNCH" ],
-            [ 55, "MOVE_DRAGON_RUSH" ]
+            [
+                1,
+                "MOVE_FIRE_FANG"
+            ],
+            [
+                1,
+                "MOVE_TACKLE"
+            ],
+            [
+                1,
+                "MOVE_SAND_ATTACK"
+            ],
+            [
+                1,
+                "MOVE_DRAGON_RAGE"
+            ],
+            [
+                1,
+                "MOVE_SANDSTORM"
+            ],
+            [
+                3,
+                "MOVE_SAND_ATTACK"
+            ],
+            [
+                7,
+                "MOVE_DRAGON_RAGE"
+            ],
+            [
+                13,
+                "MOVE_SANDSTORM"
+            ],
+            [
+                15,
+                "MOVE_TAKE_DOWN"
+            ],
+            [
+                19,
+                "MOVE_SAND_TOMB"
+            ],
+            [
+                28,
+                "MOVE_SLASH"
+            ],
+            [
+                33,
+                "MOVE_DRAGON_CLAW"
+            ],
+            [
+                40,
+                "MOVE_DIG"
+            ],
+            [
+                48,
+                "MOVE_CRUNCH"
+            ],
+            [
+                55,
+                "MOVE_DRAGON_RUSH"
+            ]
         ],
         "by_tm": [
             "TM02",
@@ -109,7 +163,7 @@
             "MOVE_SWIFT"
         ]
     },
-    "evolutions": [  ],
+    "evolutions": [],
     "offspring": "SPECIES_GIBLE",
     "footprint": {
         "has": true,
@@ -132,9 +186,9 @@
             "name": "GARCHOMP",
             "category": "Mach Pokémon",
             "entry_text": [
-                "It is said that when one runs at\n",
-                "high speed, its wings create blades\n",
-                "of wind that can fell nearby trees."
+                "When it folds up its body and\n",
+                "extends its wings, it looks like a\n",
+                "jet plane. It flies at sonic speed."
             ]
         },
         "fr": {
@@ -180,6 +234,18 @@
                 "からだを　おりたたみ　つばさを\n",
                 "のばすと　まるで　ジェットき。\n",
                 "おんそくで　とぶことが　できる。"
+            ]
+        },
+        "local_version": {
+            "entry_text": [
+                "It is said that when one runs at\n",
+                "high speed, its wings create blades\n",
+                "of wind that can fell nearby trees."
+            ],
+            "entry_text_fr": [
+                "On dit que lancé à pleine vitesse,\n",
+                "il crée des lames de vent avec ses\n",
+                "ailes pouvant trancher un arbre."
             ]
         }
     },

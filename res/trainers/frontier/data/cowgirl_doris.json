@@ -59,6 +59,10 @@
             "en_US": [
                 "Go, my Pokémon.\n",
                 "But don’t strain yourselves."
+            ],
+            "fr_FR": [
+                "Allez, c’est parti!\n",
+                "Que le meilleur Dresseur gagne!"
             ]
         },
         {
@@ -66,6 +70,10 @@
             "en_US": [
                 "Oh, wow, I like how tough everyone was.\n",
                 "Our Pokémon and you, yup.\r"
+            ],
+            "fr_FR": [
+                "Oh, super! Je suis d’autant plus ravie\n",
+                "que tout le monde a fait de son mieux!\r"
             ]
         },
         {
@@ -73,7 +81,12 @@
             "en_US": [
                 "OK, nice try, gang.\n",
                 "Thanks much for trying.\r"
+            ],
+            "fr_FR": [
+                "C’est dommage, mais je suis ravie que\n",
+                "tout le monde ait fait de son mieux!\r"
             ]
         }
-    ]
+    ],
+    "name_fr": "Doris"
 }

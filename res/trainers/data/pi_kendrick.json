@@ -24,7 +24,9 @@
     "messages": [
         {
             "type": "TRMSG_DEFEAT",
-            "en_US": "My luck’s run out...\n"
+            "en_US": "My luck’s run out...\n",
+            "fr_FR": "Ma chance m’a abandonné...\n"
         }
-    ]
+    ],
+    "name_fr": "Nino"
 }

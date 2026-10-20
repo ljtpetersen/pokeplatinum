@@ -41,11 +41,16 @@
             "en_US": [
                 "Hey! This is no playground!\n",
                 "If you’re gonna play, battle me!\r"
+            ],
+            "fr_FR": [
+                "Hé! Ce n’est pas un terrain de jeu ici!\n",
+                "Si tu as envie de jouer, bats-toi!\r"
             ]
         },
         {
             "type": "TRMSG_DEFEAT",
-            "en_US": "You played me like an amateur!\n"
+            "en_US": "You played me like an amateur!\n",
+            "fr_FR": "Je me suis fait avoir comme un bleu!\n"
         },
         {
             "type": "TRMSG_POST_BATTLE",
@@ -54,7 +59,14 @@
                 "up so no one could get in.\r",
                 "But, they left it open so people and\n",
                 "Pokémon can get together here."
+            ],
+            "fr_FR": [
+                "Ils voulaient fermer cet endroit pour\n",
+                "que personne n’y entre.\r",
+                "Mais au final, ils l’ont laissé ainsi pour\n",
+                "y réunir les hommes et les Pokémon."
             ]
         }
-    ]
+    ],
+    "name_fr": "Norbert"
 }

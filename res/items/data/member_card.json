@@ -26,5 +26,13 @@
   "battlePocket": "BATTLE_POCKET_MASK_NONE",
   "fieldUseFunc": "ITEM_USE_FUNC_NONE",
   "battleUseCategory": "BATTLE_USE_CATEGORY_NONE",
-  "itemUseParams": null
+  "itemUseParams": null,
+  "name_fr": "Carte Membre",
+  "description_fr": [
+    "Carte nécessaire pour entrer à\n",
+    "l’auberge de Joliberges. Le dernier\n",
+    "tampon date d’il y a 50 ans!"
+  ],
+  "plural_fr": "Carte Membre",
+  "article_fr": null
 }

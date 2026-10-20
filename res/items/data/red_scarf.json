@@ -26,5 +26,12 @@
   "battlePocket": "BATTLE_POCKET_MASK_NONE",
   "fieldUseFunc": "ITEM_USE_FUNC_NONE",
   "battleUseCategory": "BATTLE_USE_CATEGORY_NONE",
-  "itemUseParams": null
+  "itemUseParams": null,
+  "name_fr": "Foul. Rouge",
+  "description_fr": [
+    "Objet à tenir. Augmente le “Sang-froid”\n",
+    "dans les Concours."
+  ],
+  "plural_fr": "Foul. Rouge",
+  "article_fr": null
 }

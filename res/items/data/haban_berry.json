@@ -39,5 +39,13 @@
     "bitterness": 20,
     "sourness": 0,
     "smoothness": 35
-  }
+  },
+  "name_fr": "Baie Fraigo",
+  "description_fr": [
+    "Ingrédient pour Poffin. Tenue, cette\n",
+    "Baie affaiblit une attaque ennemie super\n",
+    "efficace de type Dragon."
+  ],
+  "plural_fr": "Baie Fraigo",
+  "article_fr": null
 }

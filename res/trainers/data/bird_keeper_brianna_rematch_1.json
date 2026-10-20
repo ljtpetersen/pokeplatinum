@@ -32,11 +32,17 @@
             "en_US": [
                 "Are you finally getting the attractive\n",
                 "qualities of bird Pokémon?\r"
+            ],
+            "fr_FR": [
+                "Reconnais-tu enfin les qualités\n",
+                "attachantes des Pokémon Oiseaux?\r"
             ]
         },
         {
             "type": "TRMSG_DEFEAT",
-            "en_US": "Wow. I admit to being surprised.\n"
+            "en_US": "Wow. I admit to being surprised.\n",
+            "fr_FR": "Pfiou! Je l’admets, je suis surprise.\n"
         }
-    ]
+    ],
+    "name_fr": "Nadine"
 }

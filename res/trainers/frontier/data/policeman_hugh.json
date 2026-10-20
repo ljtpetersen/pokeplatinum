@@ -97,6 +97,10 @@
             "en_US": [
                 "Oi, listen! I’m a Policeman, sure, but a\n",
                 "Trainer before that!"
+            ],
+            "fr_FR": [
+                "N’oublie pas, je suis un Agent, certes,\n",
+                "mais je suis avant tout un Dresseur!"
             ]
         },
         {
@@ -104,6 +108,10 @@
             "en_US": [
                 "What?\n",
                 "A Policeman can’t lose his temper?\r"
+            ],
+            "fr_FR": [
+                "Alors quoi? Un Agent ne peut pas\n",
+                "perdre son sang-froid?\r"
             ]
         },
         {
@@ -111,7 +119,12 @@
             "en_US": [
                 "Yes, I’m a Policeman, but I have dreams\n",
                 "and aspirations, and, and... Snivel...\r"
+            ],
+            "fr_FR": [
+                "Je suis un Agent, mais j’ai des rêves...\n",
+                "Et je veux... je vais... Snif...\r"
             ]
         }
-    ]
+    ],
+    "name_fr": "Hugh"
 }

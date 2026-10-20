@@ -42,11 +42,17 @@
                 "Why, thank you!\r",
                 "We love it when people come to us\n",
                 "to donate their Pokémon!\r"
+            ],
+            "fr_FR": [
+                "Eh bien, merci à toi!\r",
+                "J’adore quand les gens viennent nous\n",
+                "donner leurs Pokémon!\r"
             ]
         },
         {
             "type": "TRMSG_DEFEAT",
-            "en_US": "What do you think you’re doing?!\n"
+            "en_US": "What do you think you’re doing?!\n",
+            "fr_FR": "Qu’est-ce que tu fais?!\n"
         },
         {
             "type": "TRMSG_POST_BATTLE",
@@ -55,7 +61,14 @@
                 "What’s so special about them?\r",
                 "Trainers that lose theirs should\n",
                 "quit whining and catch some more!\n"
+            ],
+            "fr_FR": [
+                "Tu peux attraper des Pokémon n’importe\n",
+                "où. Qu’ont-ils de si spécial?\r",
+                "Ceux qui les perdent n’ont qu’à en\n",
+                "attraper au lieu de pleurnicher!\n"
             ]
         }
-    ]
+    ],
+    "name_fr": "Sbire"
 }

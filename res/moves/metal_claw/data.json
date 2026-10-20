@@ -25,5 +25,12 @@
     "contest": {
         "effect": "CONTEST_EFFECT_FINAL_PERFORMANCE_ADVANTAGE",
         "type": "CONTEST_TYPE_COOL"
-    }
+    },
+    "name_fr": "Griffe Acier",
+    "description_fr": [
+        "Attaque avec des\n",
+        "griffes d’acier. Peut\n",
+        "aussi augmenter\n",
+        "l’Attaque du lanceur."
+    ]
 }

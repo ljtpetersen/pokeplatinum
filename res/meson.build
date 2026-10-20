@@ -106,6 +106,8 @@ elif get_option('version') == 'us_rev1'
 version_number = '1'
 elif get_option('version') == 'eu'
 version_number = '2'
+elif get_option('version') == 'fr'
+version_number = '3'
 endif
 
 script_bin_gen = generator(make_script_bin_sh,

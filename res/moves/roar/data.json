@@ -26,5 +26,13 @@
     "contest": {
         "effect": "CONTEST_EFFECT_NO_VOLTAGE_DOWN",
         "type": "CONTEST_TYPE_COOL"
-    }
+    },
+    "name_fr": "Hurlement",
+    "description_fr": [
+        "Effraie le Pokémon\n",
+        "ennemi et le remplace\n",
+        "par un autre. Dans la\n",
+        "nature, met fin au\n",
+        "combat."
+    ]
 }

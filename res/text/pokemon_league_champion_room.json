@@ -19,6 +19,22 @@
         "Let’s get on with why you’re here.\r",
         "As the Pokémon League Champion,\n",
         "I accept your challenge!\r"
+      ],
+      "fr_FR": [
+        "Cynthia: Comment vas-tu\n",
+        "depuis l’autre fois?\r",
+        "Merci pour le Mont Couronné.\n",
+        "Et pour le Monde Distorsion.\r",
+        "Toi et tes Pokémon avez surmonté\n",
+        "toutes les épreuves ensemble.\r",
+        "Tu as beaucoup mûri, ça \n",
+        "se voit tout de suite.\r",
+        "Cette force que tu as accumulée...\n",
+        "Je peux la sentir émaner de toi.\r",
+        "Mais assez parlé, passons \n",
+        "aux choses sérieuses.\r",
+        "Moi, Maître de la Ligue Pokémon, \n",
+        "j’accepte ton défi!\r"
       ]
     },
     {
@@ -39,6 +55,22 @@
         "from our battle.\r",
         "I’m glad I got to take part in the\n",
         "crowning of Sinnoh’s new Champion!\r"
+      ],
+      "fr_FR": [
+        "Cynthia: C’était incroyable. \n",
+        "Quel combat magnifique!\r",
+        "Tu as réussi à donner à tes \n",
+        "Pokémon la force de se dépasser.\r",
+        "Tu les as menés de main \n",
+        "de maître vers la victoire.\r",
+        "Tu as tout: passion, intelligence...\n",
+        "Toi et tes Pokémon, vous êtes capables\f",
+        "de relever tous les défis.\r",
+        "Voilà ce que je ressens \n",
+        "après notre combat.\r",
+        "Je suis heureuse d’avoir joué \n",
+        "un rôle dans le couronnement \f",
+        "du nouveau Maître de Sinnoh!\r"
       ]
     },
     {
@@ -46,7 +78,8 @@
       "en_US": [
         "Come with me.\n",
         "We’ll take the lift.\r"
-      ]
+      ],
+      "fr_FR": "Prends l’ascenseur, je te rejoins.\r"
     },
     {
       "id": "PokemonLeagueChampionRoom_Text_CynthiaGameCompletedIntro",
@@ -65,6 +98,20 @@
         "I, Cynthia, accept your challenge as\n",
         "the Pokémon League Champion!\r",
         "There won’t be any letup from me!\r"
+      ],
+      "fr_FR": [
+        "Cynthia: Rien qu’en te regardant, je \n",
+        "peux en dire beaucoup sur toi.\r",
+        "Toi et tes Pokémon avez surmonté\n",
+        "toutes les épreuves ensemble.\r",
+        "Tu as beaucoup mûri, ça \n",
+        "se voit tout de suite.\r",
+        "Cette force que tu as accumulée...\n",
+        "Je peux la sentir émaner de toi.\r",
+        "Mais assez parlé, passons \n",
+        "aux choses sérieuses.\r",
+        "Moi, Maître de la Ligue \n",
+        "Pokémon, j’accepte ton défi!\r"
       ]
     }
   ]

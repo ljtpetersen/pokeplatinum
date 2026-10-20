@@ -26,5 +26,12 @@
     "contest": {
         "effect": "CONTEST_EFFECT_CONSECUTIVE_USE",
         "type": "CONTEST_TYPE_COOL"
-    }
+    },
+    "name_fr": "Double-Dard",
+    "description_fr": [
+        "Un double coup de\n",
+        "dards qui transperce\n",
+        "l’ennemi. Peut aussi\n",
+        "l’empoisonner."
+    ]
 }

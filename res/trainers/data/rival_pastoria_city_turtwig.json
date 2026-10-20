@@ -72,6 +72,10 @@
             "en_US": [
                 "Yeah, I can tell you raised your\n",
                 "Pokémon to be tough!\n"
+            ],
+            "fr_FR": [
+                "Ouais, je vois que tu as élevé tes\n",
+                "Pokémon pour qu’ils soient forts!\n"
             ]
         },
         {
@@ -79,7 +83,12 @@
             "en_US": [
                 "What just happened?!\n",
                 "You’re telling me I lost?!\n"
+            ],
+            "fr_FR": [
+                "Qu’est-ce qui s’est passé?!\n",
+                "Tu veux dire que j’ai perdu?!\n"
             ]
         }
-    ]
+    ],
+    "name_fr": "Eddy"
 }

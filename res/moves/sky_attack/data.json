@@ -26,5 +26,13 @@
     "contest": {
         "effect": "CONTEST_EFFECT_UNIQUE_JUDGE",
         "type": "CONTEST_TYPE_COOL"
-    }
+    },
+    "name_fr": "Pique",
+    "description_fr": [
+        "Une attaque en 2\n",
+        "tours au taux de\n",
+        "critiques élevé. Peut\n",
+        "aussi apeurer\n",
+        "l’ennemi."
+    ]
 }

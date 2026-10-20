@@ -54,6 +54,11 @@
             "en_US": [
                 "I’ve landed the most fish Pokémon\n",
                 "in the world. I’m next!\r"
+            ],
+            "fr_FR": [
+                "Personne au monde n’a attrapé autant\n",
+                "de Pokémon Poissons que moi.\f",
+                "A mon tour!\r"
             ]
         },
         {
@@ -61,6 +66,10 @@
             "en_US": [
                 "Being number one in the world doesn’t\n",
                 "mean a thing...\n"
+            ],
+            "fr_FR": [
+                "Etre le numéro un mondial, ça ne veut\n",
+                "rien dire, au bout du compte...\n"
             ]
         },
         {
@@ -68,7 +77,12 @@
             "en_US": [
                 "I figure I got too wrapped up in\n",
                 "fishing and neglected training.\n"
+            ],
+            "fr_FR": [
+                "A force de me concentrer sur la pêche,\n",
+                "j’ai fini par négliger mon entraînement.\n"
             ]
         }
-    ]
+    ],
+    "name_fr": "Ian"
 }

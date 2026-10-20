@@ -35,6 +35,12 @@
                 "Dragon Pokémon are sacred beings...\n",
                 "That’s what my master taught me.\r",
                 "And now I’ll prove it to you!\r"
+            ],
+            "fr_FR": [
+                "Les Pokémon de type Dragon sont\n",
+                "sacrés... C’est ce que mon maître\f",
+                "m’a appris.\r",
+                "Et je vais te le prouver maintenant!\r"
             ]
         },
         {
@@ -42,6 +48,10 @@
             "en_US": [
                 "Not good enough!\n",
                 "We’re still not strong enough!\n"
+            ],
+            "fr_FR": [
+                "Pas assez doués!\n",
+                "Nous ne sommes pas encore assez forts!\n"
             ]
         },
         {
@@ -52,6 +62,14 @@
                 "It’s not good enough for a Trainer\n",
                 "to just work hard.\r",
                 "Both have to grow together!"
+            ],
+            "fr_FR": [
+                "Il ne suffit pas qu’un Pokémon soit\n",
+                "fort.\r",
+                "Il ne suffit pas qu’un Dresseur\n",
+                "travaille dur.\r",
+                "Le Pokémon et le Dresseur doivent\n",
+                "être en symbiose!"
             ]
         },
         {
@@ -60,7 +78,13 @@
                 "This time we’ll get it right!\r",
                 "Marvel at the exquisite combination of\n",
                 "my Pokémon and myself!\r"
+            ],
+            "fr_FR": [
+                "Cette fois-ci, c’est la bonne!\r",
+                "Admire la coordination parfaite entre\n",
+                "mes Pokémon et moi!\r"
             ]
         }
-    ]
+    ],
+    "name_fr": "Clint"
 }

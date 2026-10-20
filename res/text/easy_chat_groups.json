@@ -3,59 +3,73 @@
   "messages": [
     {
       "id": "EasyChatGroups_Text_Pokemon",
-      "en_US": "POKéMON"
+      "en_US": "POKéMON",
+      "fr_FR": "POKéMON"
     },
     {
       "id": "EasyChatGroups_Text_Pokemon2",
-      "en_US": "POKéMON 2"
+      "en_US": "POKéMON 2",
+      "fr_FR": "POKéMON 2"
     },
     {
       "id": "EasyChatGroups_Text_Move",
-      "en_US": "MOVE"
+      "en_US": "MOVE",
+      "fr_FR": "CAPACITE"
     },
     {
       "id": "EasyChatGroups_Text_Move2",
-      "en_US": "MOVE 2"
+      "en_US": "MOVE 2",
+      "fr_FR": "CAPACITE 2"
     },
     {
       "id": "EasyChatGroups_Text_Status",
-      "en_US": "STATUS"
+      "en_US": "STATUS",
+      "fr_FR": "STATUT"
     },
     {
       "id": "EasyChatGroups_Text_Trainer",
-      "en_US": "TRAINER"
+      "en_US": "TRAINER",
+      "fr_FR": "DRESSEUR"
     },
     {
       "id": "EasyChatGroups_Text_People",
-      "en_US": "PEOPLE"
+      "en_US": "PEOPLE",
+      "fr_FR": "PERSONNES"
     },
     {
       "id": "EasyChatGroups_Text_Greetings",
-      "en_US": "GREETINGS"
+      "en_US": "GREETINGS",
+      "fr_FR": "POLITESSES"
     },
     {
       "id": "EasyChatGroups_Text_Lifestyle",
-      "en_US": "LIFESTYLE"
+      "en_US": "LIFESTYLE",
+      "fr_FR": "VIE QUOTID."
     },
     {
       "id": "EasyChatGroups_Text_Feelings",
-      "en_US": "FEELINGS"
+      "en_US": "FEELINGS",
+      "fr_FR": "EMOTIONS"
     },
     {
       "id": "EasyChatGroups_Text_ToughWords",
-      "en_US": "TOUGH WORDS"
+      "en_US": "TOUGH WORDS",
+      "fr_FR": "MOTS SAVANTS"
     },
     {
       "id": "EasyChatGroups_Text_Union",
-      "en_US": "UNION"
+      "en_US": "UNION",
+      "fr_FR": "UNION"
     },
     {
       "id": "EasyChatGroups_Text_QuestionMarks",
-      "en_US": "???"
+      "en_US": "???",
+      "fr_FR": "???"
     },
     {
       "id": "EasyChatGroups_Text_Cancel",
-      "en_US": "CANCEL"
+      "en_US": "CANCEL",
+      "fr_FR": "QUITTER"
     }
   ]
 }

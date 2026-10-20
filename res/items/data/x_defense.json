@@ -30,5 +30,13 @@
     "defStages": 1,
     "friendshipLow": 1,
     "friendshipMed": 1
-  }
+  },
+  "name_fr": "Défense +",
+  "description_fr": [
+    "Monte la Défense pendant un combat.\n",
+    "L’effet s’estompe si le Pokémon se\n",
+    "retire."
+  ],
+  "plural_fr": "Défense +",
+  "article_fr": null
 }

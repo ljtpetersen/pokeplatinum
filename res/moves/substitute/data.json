@@ -25,5 +25,13 @@
     "contest": {
         "effect": "CONTEST_EFFECT_PITY_POINTS",
         "type": "CONTEST_TYPE_SMART"
-    }
+    },
+    "name_fr": "Clonage",
+    "description_fr": [
+        "Le lanceur fait une\n",
+        "copie de lui-même en\n",
+        "sacrifiant quelques\n",
+        "PV. La copie sert de\n",
+        "leurre."
+    ]
 }

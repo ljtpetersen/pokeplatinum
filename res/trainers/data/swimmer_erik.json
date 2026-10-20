@@ -23,6 +23,11 @@
             "en_US": [
                 "On your marks, get set, go!\r",
                 "...When I say that, let’s start.\r"
+            ],
+            "fr_FR": [
+                "A vos marques, prêts, partez!\r",
+                "Quand j’aurai dit ça, on commencera le\n",
+                "combat.\r"
             ]
         },
         {
@@ -30,6 +35,10 @@
             "en_US": [
                 "Yow-ow-ow-ow!\n",
                 "My leg’s cramped up!\n"
+            ],
+            "fr_FR": [
+                "Ouille ouille ouille!\n",
+                "J’ai une crampe à la jambe!\n"
             ]
         },
         {
@@ -37,6 +46,10 @@
             "en_US": [
                 "I forgot to do my stretching\n",
                 "exercises...\n"
+            ],
+            "fr_FR": [
+                "J’ai oublié de faire mes\n",
+                "étirements...\n"
             ]
         },
         {
@@ -44,7 +57,12 @@
             "en_US": [
                 "Hi, I was waiting for you!\n",
                 "Ready? On your marks, get set...\r"
+            ],
+            "fr_FR": [
+                "Salut, je t’attendais!\n",
+                "C’est bon? A vos marques, prêts...\r"
             ]
         }
-    ]
+    ],
+    "name_fr": "Théodore"
 }

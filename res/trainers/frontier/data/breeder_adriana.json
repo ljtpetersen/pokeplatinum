@@ -59,6 +59,10 @@
             "en_US": [
                 "I love raising Pokémon.\n",
                 "It’s what I live for!"
+            ],
+            "fr_FR": [
+                "J’adore élever des Pokémon.\n",
+                "C’est toute ma vie!"
             ]
         },
         {
@@ -66,11 +70,17 @@
             "en_US": [
                 "Seeing them try so hard to please...\n",
                 "It’s so unbearably adorable.\r"
+            ],
+            "fr_FR": [
+                "Mon métier m’apporte tellement de\n",
+                "satisfactions...\r"
             ]
         },
         {
             "type": "TRMSG_DEFEAT",
-            "en_US": "Don’t you dare do that again!\r"
+            "en_US": "Don’t you dare do that again!\r",
+            "fr_FR": "Hé! Ne refais jamais ça!\r"
         }
-    ]
+    ],
+    "name_fr": "Adara"
 }

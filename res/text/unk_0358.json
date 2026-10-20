@@ -3,31 +3,38 @@
   "messages": [
     {
       "id": "pl_msg_00000358_00000",
-      "en_US": "Check Wii Number"
+      "en_US": "Check Wii Number",
+      "fr_FR": "Vérifier le code Wii"
     },
     {
       "id": "pl_msg_00000358_00001",
-      "en_US": "Register Wii Number"
+      "en_US": "Register Wii Number",
+      "fr_FR": "Enregistrer le code Wii"
     },
     {
       "id": "pl_msg_00000358_00002",
-      "en_US": "Set Wii Message Reception"
+      "en_US": "Set Wii Message Reception",
+      "fr_FR": "Réception du message Wii"
     },
     {
       "id": "pl_msg_00000358_00003",
-      "en_US": "Delete Wii Message Settings"
+      "en_US": "Delete Wii Message Settings",
+      "fr_FR": "Eff. param. message Wii"
     },
     {
       "id": "pl_msg_00000358_00004",
-      "en_US": "Exit"
+      "en_US": "Exit",
+      "fr_FR": "Quitter"
     },
     {
       "id": "pl_msg_00000358_00005",
-      "en_US": "Enter Registration Code"
+      "en_US": "Enter Registration Code",
+      "fr_FR": "Saisir le code d’inscription"
     },
     {
       "id": "pl_msg_00000358_00006",
-      "en_US": "Enter Wii Number Password"
+      "en_US": "Enter Wii Number Password",
+      "fr_FR": "Entrer le mot de passe lié au code Wii"
     },
     {
       "id": "pl_msg_00000358_00007",
@@ -42,6 +49,10 @@
       "en_US": [
         "Are you in a location where you can\n",
         "connect to Nintendo Wi-Fi Connection?"
+      ],
+      "fr_FR": [
+        "Pouvez-vous vous connecter à la\n",
+        "connexion Wi-Fi Nintendo?"
       ]
     },
     {
@@ -49,6 +60,10 @@
       "en_US": [
         "Please register when you can connect\n",
         "to Nintendo Wi-Fi Connection.\r"
+      ],
+      "fr_FR": [
+        "Pour enregistrer un code Wii, vous\n",
+        "devez avoir accès à la CWF Nintendo.\r"
       ]
     },
     {
@@ -58,6 +73,13 @@
         "system’s Nintendo WFC User Information\f",
         "will be saved.\r",
         "Connect to Nintendo Wi-Fi Connection?"
+      ],
+      "fr_FR": [
+        "Le code Wii et les paramètres de la\n",
+        "configuration CWF Nintendo de cette\r",
+        "console Nintendo DS vont\n",
+        "être sauvegardés.\r",
+        "Se connecter à la CWF Nintendo?"
       ]
     },
     {
@@ -66,6 +88,12 @@
         "Unable to connect to Nintendo Wi-Fi\n",
         "Connection.\r",
         "Please check your connection settings."
+      ],
+      "fr_FR": [
+        "Impossible de se connecter à la\n",
+        "connexion Wi-Fi Nintendo.\r",
+        "Vérifiez les paramètres de la\n",
+        "connexion."
       ]
     },
     {
@@ -74,6 +102,11 @@
         "The Registration Code has been sent to\n",
         "your Wii console.\r",
         "Please enter the Registration Code."
+      ],
+      "fr_FR": [
+        "Un code d’inscription a été envoyé\n",
+        "sur votre console Wii.\r",
+        "Veuillez saisir ce code d’inscription."
       ]
     },
     {
@@ -81,6 +114,10 @@
       "en_US": [
         "Disconnect from Nintendo WFC and\n",
         "cancel registering your Wii number?"
+      ],
+      "fr_FR": [
+        "Se déconnecter de la CWF Nintendo et\n",
+        "annuler l’enregistrement du code Wii?"
       ]
     },
     {
@@ -88,6 +125,10 @@
       "en_US": [
         "Disconnecting from Nintendo Wi-Fi\n",
         "Connection. Please wait..."
+      ],
+      "fr_FR": [
+        "Déconnexion de la connexion \n",
+        "Wi-Fi Nintendo. Veuillez patienter..."
       ]
     },
     {
@@ -95,6 +136,10 @@
       "en_US": [
         "You are now disconnected from Nintendo\n",
         "Wi-Fi Connection."
+      ],
+      "fr_FR": [
+        "Vous avez été déconnecté de \n",
+        "la connexion Wi-Fi Nintendo."
       ]
     },
     {
@@ -103,6 +148,12 @@
         "Please enter the last four digits of\n",
         "the Registration Code from the\f",
         "Wii message.\r"
+      ],
+      "fr_FR": [
+        "Veuillez saisir les quatre derniers\n",
+        "chiffres du code d’inscription\f",
+        "qui vous a été communiqué par\f",
+        "message Wii.\r"
       ]
     },
     {
@@ -110,15 +161,24 @@
       "en_US": [
         "Confirming the Registration Code.\n",
         "Please wait..."
+      ],
+      "fr_FR": [
+        "Confirmation du code d’inscription.\n",
+        "Veuillez patienter..."
       ]
     },
     {
       "id": "pl_msg_00000358_00019",
-      "en_US": "Incorrect Registration Code.\r"
+      "en_US": "Incorrect Registration Code.\r",
+      "fr_FR": "Code d’inscription incorrect.\r"
     },
     {
       "id": "pl_msg_00000358_00020",
-      "en_US": "Your Wii number has been registered.\r"
+      "en_US": "Your Wii number has been registered.\r",
+      "fr_FR": [
+        "Votre code Wii est maintenant\n",
+        "enregistré.\r"
+      ]
     },
     {
       "id": "pl_msg_00000358_00021",
@@ -127,6 +187,14 @@
         "Wii number.\r",
         "Please enter a 4-digit number and make\n",
         "note of it as your Wii number password.\r"
+      ],
+      "fr_FR": [
+        "Un mot de passe est requis pour\n",
+        "confirmer votre code Wii.\r",
+        "Veuillez saisir un nombre à quatre\n",
+        "chiffres et en prendre note.\r",
+        "Ce nombre constituera le mot de passe\n",
+        "lié à votre code Wii.\r"
       ]
     },
     {
@@ -139,7 +207,11 @@
     },
     {
       "id": "pl_msg_00000358_00024",
-      "en_US": "Your Wii number password has been set.\r"
+      "en_US": "Your Wii number password has been set.\r",
+      "fr_FR": [
+        "Le mot de passe lié à votre code Wii\n",
+        "est enregistré.\r"
+      ]
     },
     {
       "id": "pl_msg_00000358_00025",
@@ -149,6 +221,13 @@
         "goes through at the GTS.\r",
         "Would you like to be notified\n",
         "by a Wii message?"
+      ],
+      "fr_FR": [
+        "Vous pouvez choisir de recevoir un\n",
+        "message Wii lorsqu’un échange\f",
+        "est conclu à la GTS.\r",
+        "Voulez-vous activer la notification\n",
+        "par message Wii?"
       ]
     },
     {
@@ -158,6 +237,12 @@
         "Wii messages.\r",
         "The next time you use the GTS, you will\n",
         "be notified of trades by Wii messages.\r"
+      ],
+      "fr_FR": [
+        "Vous avez choisi de recevoir les\n",
+        "messages Wii de confirmation.\r",
+        "Quand vous utiliserez la GTS, tout\n",
+        "échange sera confirmé par message Wii.\r"
       ]
     },
     {
@@ -168,6 +253,13 @@
         "The next time you use the GTS,\n",
         "you will not be notified of trades by\f",
         "Wii messages.\r"
+      ],
+      "fr_FR": [
+        "Vous avez choisi de ne pas recevoir\n",
+        "les messages Wii de confirmation.\r",
+        "Quand vous utiliserez la GTS, les\n",
+        "échanges ne seront donc pas confirmés\f",
+        "par message Wii.\r"
       ]
     },
     {
@@ -175,11 +267,20 @@
       "en_US": [
         "Your Wii message settings and the\n",
         "password will be deleted. Is that OK?"
+      ],
+      "fr_FR": [
+        "Les paramètres des messages Wii et\n",
+        "le mot de passe lié à votre code Wii\f",
+        "seront effacés. Confirmer?"
       ]
     },
     {
       "id": "pl_msg_00000358_00029",
-      "en_US": "All Wii message settings were deleted.\r"
+      "en_US": "All Wii message settings were deleted.\r",
+      "fr_FR": [
+        "Les paramètres des messages Wii ont\n",
+        "été effacés.\r"
+      ]
     },
     {
       "id": "pl_msg_00000358_00030",
@@ -194,36 +295,52 @@
       "en_US": [
         "Saving...\n",
         "Don’t turn off the power."
+      ],
+      "fr_FR": [
+        "Sauvegarde en cours...\n",
+        "Ne pas éteindre."
       ]
     },
     {
       "id": "pl_msg_00000358_00033",
-      "en_US": "{STRVAR_1 3, 0, 0} saved the game."
+      "en_US": "{STRVAR_1 3, 0, 0} saved the game.",
+      "fr_FR": "{STRVAR_1 3, 0, 0} a sauvegardé la partie."
     },
     {
       "id": "pl_msg_00000358_00034",
-      "en_US": "Save error."
+      "en_US": "Save error.",
+      "fr_FR": "Erreur de sauvegarde."
     },
     {
       "id": "pl_msg_00000358_00035",
-      "en_US": "Please enter your Wii number."
+      "en_US": "Please enter your Wii number.",
+      "fr_FR": "Veuillez saisir votre code Wii."
     },
     {
       "id": "pl_msg_00000358_00036",
       "en_US": [
         "Please enter the last four digits of the\n",
         "Registration Code from the Wii message."
+      ],
+      "fr_FR": [
+        "Saisissez les 4 derniers chiffres du code\n",
+        "d’inscription communiqué par message Wii."
       ]
     },
     {
       "id": "pl_msg_00000358_00037",
-      "en_US": "Please enter the 4-digit password."
+      "en_US": "Please enter the 4-digit password.",
+      "fr_FR": "Entrez les 4 chiffres du mot de passe."
     },
     {
       "id": "pl_msg_00000358_00038",
       "en_US": [
         "For confirmation, please reenter your\n",
         "Wii number.\r"
+      ],
+      "fr_FR": [
+        "Pour confirmer, veuillez saisir votre\n",
+        "code Wii une nouvelle fois.\r"
       ]
     },
     {
@@ -231,6 +348,10 @@
       "en_US": [
         "This Wii number does not match.\n",
         "Please reenter it.\r"
+      ],
+      "fr_FR": [
+        "Ce code Wii est différent du précédent.\n",
+        "Veuillez saisir votre code à nouveau.\r"
       ]
     },
     {
@@ -238,6 +359,10 @@
       "en_US": [
         "This password is incorrect.\n",
         "Please reenter it.\r"
+      ],
+      "fr_FR": [
+        "Mot de passe incorrect.\n",
+        "Veuillez le saisir à nouveau.\r"
       ]
     },
     {
@@ -245,15 +370,21 @@
       "en_US": [
         "Your Wii number is:\n",
         "{STRVAR_1 53, 0, 0} {STRVAR_1 53, 1, 0} {STRVAR_1 53, 2, 0} {STRVAR_1 53, 3, 0}\r"
+      ],
+      "fr_FR": [
+        "Votre code Wii:\n",
+        "{STRVAR_1 53, 0, 0} {STRVAR_1 53, 1, 0} {STRVAR_1 53, 2, 0} {STRVAR_1 53, 3, 0}\r"
       ]
     },
     {
       "id": "pl_msg_00000358_00042",
-      "en_US": "Don’t register"
+      "en_US": "Don’t register",
+      "fr_FR": "Ne pas enregistrer"
     },
     {
       "id": "pl_msg_00000358_00043",
-      "en_US": "Register"
+      "en_US": "Register",
+      "fr_FR": "Enregistrer"
     },
     {
       "id": "pl_msg_00000358_00044",
@@ -270,6 +401,19 @@
         "\n",
         "Would you like to register your\n",
         "Wii number?"
+      ],
+      "fr_FR": [
+        "{COLOR 1}Enregistrer un code Wii{COLOR 0}\n",
+        "\n",
+        "Si votre code Wii est enregistré, vous\n",
+        "recevrez un message Wii chaque fois\n",
+        "que vous conclurez un échange à la GTS.\n",
+        "\n",
+        "Pour plus de détails, veuillez\n",
+        "vous référer au mode d’emploi.\n",
+        "\n",
+        "Voulez-vous enregistrer votre\n",
+        "code Wii?"
       ]
     },
     {
@@ -314,6 +458,11 @@
         "Nintendo Wi-Fi Connection is\n",
         "undergoing maintenance.\r",
         "Please try again later.\r"
+      ],
+      "fr_FR": [
+        "La connexion Wi-Fi Nintendo n’est\n",
+        "pas accessible pour le moment.\r",
+        "Veuillez réessayer ultérieurement.\r"
       ]
     },
     {
@@ -322,6 +471,12 @@
         "Nintendo WFC is experiencing high\n",
         "traffic volumes or the service is down.\r",
         "Please try again later.\r"
+      ],
+      "fr_FR": [
+        "Soit la connexion Wi-Fi Nintendo connaît\n",
+        "un trafic trop important, soit le\f",
+        "service est interrompu.\r",
+        "Veuillez réessayer ultérieurement.\r"
       ]
     },
     {
@@ -329,6 +484,10 @@
       "en_US": [
         "Unable to connect to Nintendo Wi-Fi\n",
         "Connection.\r"
+      ],
+      "fr_FR": [
+        "Impossible de se connecter à la\n",
+        "connexion Wi-Fi Nintendo.\r"
       ]
     },
     {
@@ -336,6 +495,11 @@
       "en_US": [
         "Communication error. You have been\n",
         "disconnected from Nintendo WFC.\r"
+      ],
+      "fr_FR": [
+        "Erreur de communication. Vous n’êtes\n",
+        "plus connecté à la connexion Wi-Fi\f",
+        "Nintendo.\r"
       ]
     },
     {

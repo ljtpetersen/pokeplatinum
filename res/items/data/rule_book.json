@@ -26,5 +26,13 @@
   "battlePocket": "BATTLE_POCKET_MASK_NONE",
   "fieldUseFunc": "ITEM_USE_FUNC_NONE",
   "battleUseCategory": "BATTLE_USE_CATEGORY_NONE",
-  "itemUseParams": null
+  "itemUseParams": null,
+  "name_fr": "Livre Règles",
+  "description_fr": [
+    "La liste des règles de combat. Vous\n",
+    "pouvez choisir les règles des combats\n",
+    "en Link."
+  ],
+  "plural_fr": "Livre Règles",
+  "article_fr": null
 }

@@ -24,5 +24,13 @@
     "contest": {
         "effect": "CONTEST_EFFECT_SUPPRESS_VOLTAGE",
         "type": "CONTEST_TYPE_SMART"
-    }
+    },
+    "name_fr": "Pics Toxik",
+    "description_fr": [
+        "Lance des pics autour\n",
+        "de l’ennemi. Ils\n",
+        "empoisonnent les\n",
+        "ennemis qui entrent\n",
+        "au combat. "
+    ]
 }

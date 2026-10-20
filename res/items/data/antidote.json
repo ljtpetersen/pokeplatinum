@@ -28,5 +28,12 @@
   "battleUseCategory": "BATTLE_USE_CATEGORY_HEALING",
   "itemUseParams": {
     "healPoison": true
-  }
+  },
+  "name_fr": "Antidote",
+  "description_fr": [
+    "Un médicament sous forme de spray.\n",
+    "Guérit un Pokémon empoisonné."
+  ],
+  "plural_fr": "Antidote",
+  "article_fr": null
 }

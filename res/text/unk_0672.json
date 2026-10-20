@@ -6,25 +6,36 @@
       "en_US": [
         "Would you like to play\n",
         "{STRVAR_6 0, 0, 0}?"
+      ],
+      "fr_FR": [
+        "Voulez-vous jouer\n",
+        "à {STRVAR_6 0, 0, 0}?"
       ]
     },
     {
       "id": "pl_msg_00000672_00001",
-      "en_US": "JOIN"
+      "en_US": "JOIN",
+      "fr_FR": "PARTICIPER"
     },
     {
       "id": "pl_msg_00000672_00002",
-      "en_US": "RULES"
+      "en_US": "RULES",
+      "fr_FR": "REGLES"
     },
     {
       "id": "pl_msg_00000672_00003",
-      "en_US": "CANCEL"
+      "en_US": "CANCEL",
+      "fr_FR": "ANNULER"
     },
     {
       "id": "pl_msg_00000672_00004",
       "en_US": [
         "You could not join the group playing\n",
         "{STRVAR_6 0, 0, 0}.\r"
+      ],
+      "fr_FR": [
+        "Vous n’avez pas rejoint le groupe\n",
+        "jouant à {STRVAR_6 0, 0, 0}.\r"
       ]
     },
     {
@@ -32,6 +43,10 @@
       "en_US": [
         "A game is in session.\n",
         "You can’t join until it’s over.\r"
+      ],
+      "fr_FR": [
+        "Une partie est en cours. Veuillez\n",
+        "attendre qu’elle se termine.\r"
       ]
     },
     {
@@ -39,6 +54,10 @@
       "en_US": [
         "Registration for {STRVAR_6 0, 0, 0} \n",
         "is now closed.\r"
+      ],
+      "fr_FR": [
+        "Impossible de jouer à\n",
+        "{STRVAR_6 0, 0, 0} maintenant.\r"
       ]
     },
     {
@@ -46,6 +65,10 @@
       "en_US": [
         "Readying the registration system.\n",
         "Please wait.\r"
+      ],
+      "fr_FR": [
+        "Certains préparatifs sont nécessaires.\n",
+        "Veuillez patienter un moment.\r"
       ]
     },
     {
@@ -54,6 +77,10 @@
         "A member had to drop out.\r",
         "Your game of {STRVAR_6 0, 0, 0} has\n",
         "been canceled.\r"
+      ],
+      "fr_FR": [
+        "L’un des participants s’est désisté.\r",
+        "La partie est annulée.\r"
       ]
     },
     {
@@ -65,6 +92,10 @@
       "en_US": [
         "Awaiting other members...\n",
         "B Button: Cancel"
+      ],
+      "fr_FR": [
+        "En attente de participants...\n",
+        "Bouton B: Annuler"
       ]
     },
     {
@@ -72,6 +103,10 @@
       "en_US": [
         "The game will start soon!\n",
         "Please wait."
+      ],
+      "fr_FR": [
+        "La partie va bientôt commencer!\n",
+        "Veuillez patienter..."
       ]
     },
     {
@@ -88,13 +123,18 @@
     },
     {
       "id": "pl_msg_00000672_00015",
-      "en_US": "{STRVAR_1 51, 0, 0} seconds to go"
+      "en_US": "{STRVAR_1 51, 0, 0} seconds to go",
+      "fr_FR": "Début dans {STRVAR_1 51, 0, 0} s."
     },
     {
       "id": "pl_msg_00000672_00016",
       "en_US": [
         "Enough players have gathered.\n",
         "Let the game begin!"
+      ],
+      "fr_FR": [
+        "Quatre joueurs sont réunis.\n",
+        "La partie commence!"
       ]
     },
     {
@@ -102,6 +142,10 @@
       "en_US": [
         "A member had to drop out.\n",
         "Please register from the start again.\r"
+      ],
+      "fr_FR": [
+        "Un des participants s’est désisté.\n",
+        "Veuillez recommencer la procédure.\r"
       ]
     },
     {
@@ -109,6 +153,10 @@
       "en_US": [
         "The waiting time is up.\n",
         "Let the game begin!"
+      ],
+      "fr_FR": [
+        "Le temps d’attente est écoulé.\n",
+        "La partie commence!"
       ]
     },
     {
@@ -117,6 +165,11 @@
         "No members joined during the\n",
         "registration period.\r",
         "Please register from the start again.\r"
+      ],
+      "fr_FR": [
+        "Personne d’autre ne semble vouloir\n",
+        "participer pour le moment.\r",
+        "Veuillez recommencer la procédure.\r"
       ]
     },
     {
@@ -124,6 +177,10 @@
       "en_US": [
         "Sorry, this service is too busy.\n",
         "You may not participate now.\r"
+      ],
+      "fr_FR": [
+        "Le service n’est pas disponible. Vous ne\n",
+        "pouvez pas participer pour le moment.\r"
       ]
     },
     {
@@ -131,11 +188,20 @@
       "en_US": [
         "The time limit is up.\n",
         "The {STRVAR_6 0, 0, 0} will be closed.\r"
+      ],
+      "fr_FR": [
+        "Le temps imparti est écoulé.\r",
+        "Vous ne pouvez plus accéder à\n",
+        "{STRVAR_6 0, 0, 0}.\r"
       ]
     },
     {
       "id": "pl_msg_00000672_00022",
-      "en_US": "The {STRVAR_6 0, 0, 0} is now closed.\r"
+      "en_US": "The {STRVAR_6 0, 0, 0} is now closed.\r",
+      "fr_FR": [
+        "Vous ne pouvez plus accéder à\n",
+        "{STRVAR_6 0, 0, 0}.\r"
+      ]
     },
     {
       "id": "pl_msg_00000672_00023",
@@ -143,11 +209,13 @@
     },
     {
       "id": "pl_msg_00000672_00024",
-      "en_US": "YES"
+      "en_US": "YES",
+      "fr_FR": "OUI"
     },
     {
       "id": "pl_msg_00000672_00025",
-      "en_US": "NO"
+      "en_US": "NO",
+      "fr_FR": "NON"
     },
     {
       "id": "pl_msg_00000672_00026",
@@ -155,25 +223,37 @@
         "You were the first player to join.\r",
         "If you drop out, the group will be\n",
         "disbanded. Is that OK?"
+      ],
+      "fr_FR": [
+        "Vous êtes le premier joueur inscrit.\r",
+        "Si vous vous désistez, le groupe sera\n",
+        "dissous. Continuer?"
       ]
     },
     {
       "id": "pl_msg_00000672_00027",
-      "en_US": "YES"
+      "en_US": "YES",
+      "fr_FR": "OUI"
     },
     {
       "id": "pl_msg_00000672_00028",
-      "en_US": "NO"
+      "en_US": "NO",
+      "fr_FR": "NON"
     },
     {
       "id": "pl_msg_00000672_00029",
-      "en_US": "You chose to drop out.\r"
+      "en_US": "You chose to drop out.\r",
+      "fr_FR": "Vous avez choisi de vous désister.\r"
     },
     {
       "id": "pl_msg_00000672_00030",
       "en_US": [
         "The Parade will be on later.\n",
         "Please wait for it!\r"
+      ],
+      "fr_FR": [
+        "La Parade Pokémon n’a pas encore\n",
+        "commencé! Faites preuve de patience!\r"
       ]
     },
     {
@@ -181,15 +261,24 @@
       "en_US": [
         "Waiting for the Parade to come by...\n",
         "B Button: Cancel"
+      ],
+      "fr_FR": [
+        "En attente d’un Char de la Parade...\n",
+        "Bouton B: Annuler"
       ]
     },
     {
       "id": "pl_msg_00000672_00032",
-      "en_US": "There’s no more room on the Floats...\r"
+      "en_US": "There’s no more room on the Floats...\r",
+      "fr_FR": [
+        "Vous ne pouvez plus monter\n",
+        "sur les Chars...\r"
+      ]
     },
     {
       "id": "pl_msg_00000672_00033",
-      "en_US": "The Parade is over.\r"
+      "en_US": "The Parade is over.\r",
+      "fr_FR": "La Parade Pokémon est terminée.\r"
     },
     {
       "id": "pl_msg_00000672_00034",
@@ -202,6 +291,18 @@
         "Score even more during Fever Time.\r",
         "Take deliberate aim or fire randomly--\n",
         "the choice is yours!\r"
+      ],
+      "fr_FR": [
+        "{STRVAR_6 0, 0, 0}\r",
+        "Jetez des Baies au bon moment\n",
+        "dans la bouche d’AVALTOUT.\r",
+        "Vous obtiendrez des points bonus si\n",
+        "vous lui faites gober plusieurs\f",
+        "Baies à la suite.\r",
+        "Vous obtiendrez encore plus de points\n",
+        "durant le Cycle Bonus.\r",
+        "Trouvez le bon équilibre entre\n",
+        "vitesse et précision!\r"
       ]
     },
     {
@@ -216,6 +317,17 @@
         "the curtains will rise.\r",
         "Try to keep your MIME JR. balanced\n",
         "and on the ball!\r"
+      ],
+      "fr_FR": [
+        "{STRVAR_6 0, 0, 0}\r",
+        "Faites tourner le ballon de MIME JR.\n",
+        "pour l’aider à garder l’équilibre.\r",
+        "Si MIME JR. parvient à ne pas tomber,\n",
+        "les lumières clignotent et des\f",
+        "applaudissements se font entendre.\r",
+        "Si tout le monde parvient à garder\n",
+        "l’équilibre, le rideau se lève.\r",
+        "Ne laissez pas tomber votre MIME JR.!\r"
       ]
     },
     {
@@ -233,6 +345,20 @@
         "boost the air volume, but beware:\r",
         "lining up the pump with a skinny\n",
         "WYNAUT reduces the air volume.\r"
+      ],
+      "fr_FR": [
+        "{STRVAR_6 0, 0, 0}\r",
+        "Pompez bien droit pour insuffler autant\n",
+        "d’air que possible dans le ballon pour\f",
+        "qu’il éclate.\r",
+        "Faites éclater des ballons\n",
+        "jusqu’à la fin de la partie.\r",
+        "Si vous pompez correctement, la pompe\n",
+        "devient rouge et est plus efficace.\r",
+        "Les OKEOKE peuvent aussi vous aider si\n",
+        "vous pompez quand l’un d’eux est sur\f",
+        "l’arrivée d’air.\r",
+        "Méfiez-vous des OKEOKE trop maigres...\r"
       ]
     }
   ]

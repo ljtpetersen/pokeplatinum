@@ -32,6 +32,10 @@
             "en_US": [
                 "Yo, Pokémon-riding Trainer!\n",
                 "How about a rematch?\r"
+            ],
+            "fr_FR": [
+                "Hé, Dresseur à dos de Pokémon!\n",
+                "Que dis-tu d’une revanche?\r"
             ]
         },
         {
@@ -39,7 +43,12 @@
             "en_US": [
                 "Awesome!\n",
                 "You’re a real wild child!\n"
+            ],
+            "fr_FR": [
+                "Incroyable!\n",
+                "Tu es un vrai enfant sauvage!\n"
             ]
         }
-    ]
+    ],
+    "name_fr": "Youssef"
 }

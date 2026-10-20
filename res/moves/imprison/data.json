@@ -22,5 +22,13 @@
     "contest": {
         "effect": "CONTEST_EFFECT_TWO_VOLTAGE_IN_A_ROW_ADVANTAGE",
         "type": "CONTEST_TYPE_SMART"
-    }
+    },
+    "name_fr": "Possessif",
+    "description_fr": [
+        "Si l’ennemi et le\n",
+        "lanceur ont des\n",
+        "capacités en commun,\n",
+        "l’ennemi ne pourra\n",
+        "pas les utiliser."
+    ]
 }

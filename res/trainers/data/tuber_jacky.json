@@ -30,6 +30,12 @@
                 "work on toughening up here.\r",
                 "I also work on my Pokémon and my\n",
                 "spirit!\r"
+            ],
+            "fr_FR": [
+                "Mes abdos ne sont pas la seule chose\n",
+                "que j’ai pour ambition de développer.\r",
+                "Je travaille aussi mon mental et mon\n",
+                "Pokémon!\r"
             ]
         },
         {
@@ -37,6 +43,10 @@
             "en_US": [
                 "Wow, Trainer! You just might be\n",
                 "tougher than our Gym Leader!\n"
+            ],
+            "fr_FR": [
+                "Waouh, Dresseur! Tu es peut-être plus\n",
+                "coriace que notre Champion d’Arène!\n"
             ]
         },
         {
@@ -45,7 +55,13 @@
                 "Maybe I’ll do like Wake,\r",
                 "I mean, Crasher Wake, and wear\n",
                 "the same kind of mask.\n"
+            ],
+            "fr_FR": [
+                "Je vais peut-être faire comme Lovis.\r",
+                "Tu sais, Lovis le Teigneux, je vais\n",
+                "porter le même genre de masque.\n"
             ]
         }
-    ]
+    ],
+    "name_fr": "Benoît"
 }

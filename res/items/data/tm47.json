@@ -27,5 +27,13 @@
   "fieldUseFunc": "ITEM_USE_FUNC_TM_HM",
   "battleUseCategory": "BATTLE_USE_CATEGORY_NONE",
   "itemUseParams": null,
-  "teachesMove": "MOVE_STEEL_WING"
+  "teachesMove": "MOVE_STEEL_WING",
+  "name_fr": "CT47",
+  "description_fr": [
+    "Le lanceur frappe l’ennemi avec des\n",
+    "ailes d’acier. Peut aussi augmenter la\n",
+    "Défense du lanceur."
+  ],
+  "plural_fr": "CT47",
+  "article_fr": null
 }

@@ -3,415 +3,518 @@
   "messages": [
     {
       "id": "pl_msg_00000345_00000",
-      "en_US": "Light ON/OFF"
+      "en_US": "Light ON/OFF",
+      "fr_FR": "Light ON/OFF"
     },
     {
       "id": "pl_msg_00000345_00001",
-      "en_US": "Light Color 1"
+      "en_US": "Light Color 1",
+      "fr_FR": "Light Color 1"
     },
     {
       "id": "pl_msg_00000345_00002",
-      "en_US": "Light Color 2"
+      "en_US": "Light Color 2",
+      "fr_FR": "Light Color 2"
     },
     {
       "id": "pl_msg_00000345_00003",
-      "en_US": "Light Color 3"
+      "en_US": "Light Color 3",
+      "fr_FR": "Light Color 3"
     },
     {
       "id": "pl_msg_00000345_00004",
-      "en_US": "Light Color 4"
+      "en_US": "Light Color 4",
+      "fr_FR": "Light Color 4"
     },
     {
       "id": "pl_msg_00000345_00005",
-      "en_US": "Light Vector 1"
+      "en_US": "Light Vector 1",
+      "fr_FR": "Light Vector 1"
     },
     {
       "id": "pl_msg_00000345_00006",
-      "en_US": "Light Vector 2"
+      "en_US": "Light Vector 2",
+      "fr_FR": "Light Vector 2"
     },
     {
       "id": "pl_msg_00000345_00007",
-      "en_US": "Light Vector 3"
+      "en_US": "Light Vector 3",
+      "fr_FR": "Light Vector 3"
     },
     {
       "id": "pl_msg_00000345_00008",
-      "en_US": "Light Vector 4"
+      "en_US": "Light Vector 4",
+      "fr_FR": "Light Vector 4"
     },
     {
       "id": "pl_msg_00000345_00009",
-      "en_US": "Polygon Color: diffused"
+      "en_US": "Polygon Color: diffused",
+      "fr_FR": "Polygon Color: diffused"
     },
     {
       "id": "pl_msg_00000345_00010",
-      "en_US": "Environment Lighting: ambient"
+      "en_US": "Environment Lighting: ambient",
+      "fr_FR": "Environment Lighting: ambient"
     },
     {
       "id": "pl_msg_00000345_00011",
-      "en_US": "Specular Reflexion: specular"
+      "en_US": "Specular Reflexion: specular",
+      "fr_FR": "Specular Reflexion: specular"
     },
     {
       "id": "pl_msg_00000345_00012",
-      "en_US": "Radiant Light: emitted"
+      "en_US": "Radiant Light: emitted",
+      "fr_FR": "Radiant Light: emitted"
     },
     {
       "id": "pl_msg_00000345_00013",
-      "en_US": "Select debug windows"
+      "en_US": "Select debug windows",
+      "fr_FR": "Select debug windows"
     },
     {
       "id": "pl_msg_00000345_00014",
-      "en_US": "Light: End Frames"
+      "en_US": "Light: End Frames",
+      "fr_FR": "Light: End Frames"
     },
     {
       "id": "pl_msg_00000345_00015",
-      "en_US": "ON"
+      "en_US": "ON",
+      "fr_FR": "ON"
     },
     {
       "id": "pl_msg_00000345_00016",
-      "en_US": "OFF"
+      "en_US": "OFF",
+      "fr_FR": "OFF"
     },
     {
       "id": "pl_msg_00000345_00017",
-      "en_US": "Y"
+      "en_US": "Y",
+      "fr_FR": "Y"
     },
     {
       "id": "pl_msg_00000345_00018",
-      "en_US": "X"
+      "en_US": "X",
+      "fr_FR": "X"
     },
     {
       "id": "pl_msg_00000345_00019",
-      "en_US": "Z"
+      "en_US": "Z",
+      "fr_FR": "Z"
     },
     {
       "id": "pl_msg_00000345_00020",
-      "en_US": "A"
+      "en_US": "A",
+      "fr_FR": "A"
     },
     {
       "id": "pl_msg_00000345_00021",
-      "en_US": "B"
+      "en_US": "B",
+      "fr_FR": "B"
     },
     {
       "id": "pl_msg_00000345_00022",
-      "en_US": "Y up down"
+      "en_US": "Y up down",
+      "fr_FR": "Y up down"
     },
     {
       "id": "pl_msg_00000345_00023",
-      "en_US": "X up down"
+      "en_US": "X up down",
+      "fr_FR": "X up down"
     },
     {
       "id": "pl_msg_00000345_00024",
-      "en_US": "A up down"
+      "en_US": "A up down",
+      "fr_FR": "A up down"
     },
     {
       "id": "pl_msg_00000345_00025",
-      "en_US": "B up down"
+      "en_US": "B up down",
+      "fr_FR": "B up down"
     },
     {
       "id": "pl_msg_00000345_00026",
-      "en_US": "Y left"
+      "en_US": "Y left",
+      "fr_FR": "Y left"
     },
     {
       "id": "pl_msg_00000345_00027",
-      "en_US": "X up"
+      "en_US": "X up",
+      "fr_FR": "X up"
     },
     {
       "id": "pl_msg_00000345_00028",
-      "en_US": "A right"
+      "en_US": "A right",
+      "fr_FR": "A right"
     },
     {
       "id": "pl_msg_00000345_00029",
-      "en_US": "B down"
+      "en_US": "B down",
+      "fr_FR": "B down"
     },
     {
       "id": "pl_msg_00000345_00030",
-      "en_US": "Red"
+      "en_US": "Red",
+      "fr_FR": "Red"
     },
     {
       "id": "pl_msg_00000345_00031",
-      "en_US": "Green"
+      "en_US": "Green",
+      "fr_FR": "Green"
     },
     {
       "id": "pl_msg_00000345_00032",
-      "en_US": "Blue"
+      "en_US": "Blue",
+      "fr_FR": "Blue"
     },
     {
       "id": "pl_msg_00000345_00033",
-      "en_US": "Alpha"
+      "en_US": "Alpha",
+      "fr_FR": "Alpha"
     },
     {
       "id": "pl_msg_00000345_00034",
-      "en_US": "Light 1"
+      "en_US": "Light 1",
+      "fr_FR": "Light 1"
     },
     {
       "id": "pl_msg_00000345_00035",
-      "en_US": "Light 2"
+      "en_US": "Light 2",
+      "fr_FR": "Light 2"
     },
     {
       "id": "pl_msg_00000345_00036",
-      "en_US": "Light 3"
+      "en_US": "Light 3",
+      "fr_FR": "Light 3"
     },
     {
       "id": "pl_msg_00000345_00037",
-      "en_US": "Light 4"
+      "en_US": "Light 4",
+      "fr_FR": "Light 4"
     },
     {
       "id": "pl_msg_00000345_00038",
-      "en_US": "Change template LR"
+      "en_US": "Change template LR",
+      "fr_FR": "Change template LR"
     },
     {
       "id": "pl_msg_00000345_00039",
-      "en_US": "Modes"
+      "en_US": "Modes",
+      "fr_FR": "Modes"
     },
     {
       "id": "pl_msg_00000345_00040",
-      "en_US": "かかりぐあい"
+      "en_US": "かかりぐあい",
+      "fr_FR": "かかりぐあい"
     },
     {
       "id": "pl_msg_00000345_00041",
-      "en_US": "Offset"
+      "en_US": "Offset",
+      "fr_FR": "Offset"
     },
     {
       "id": "pl_msg_00000345_00042",
-      "en_US": "ON OFF"
+      "en_US": "ON OFF",
+      "fr_FR": "ON OFF"
     },
     {
       "id": "pl_msg_00000345_00043",
-      "en_US": "1 B"
+      "en_US": "1 B",
+      "fr_FR": "1 B"
     },
     {
       "id": "pl_msg_00000345_00044",
-      "en_US": "10 A"
+      "en_US": "10 A",
+      "fr_FR": "10 A"
     },
     {
       "id": "pl_msg_00000345_00045",
-      "en_US": "100 X"
+      "en_US": "100 X",
+      "fr_FR": "100 X"
     },
     {
       "id": "pl_msg_00000345_00046",
-      "en_US": "1000 Y"
+      "en_US": "1000 Y",
+      "fr_FR": "1000 Y"
     },
     {
       "id": "pl_msg_00000345_00047",
-      "en_US": "Fog Settings"
+      "en_US": "Fog Settings",
+      "fr_FR": "Fog Settings"
     },
     {
       "id": "pl_msg_00000345_00048",
-      "en_US": "Fog Color"
+      "en_US": "Fog Color",
+      "fr_FR": "Fog Color"
     },
     {
       "id": "pl_msg_00000345_00049",
-      "en_US": "Fog Table"
+      "en_US": "Fog Table",
+      "fr_FR": "Fog Table"
     },
     {
       "id": "pl_msg_00000345_00050",
-      "en_US": "Next data X"
+      "en_US": "Next data X",
+      "fr_FR": "Next data X"
     },
     {
       "id": "pl_msg_00000345_00051",
-      "en_US": "Previous data B"
+      "en_US": "Previous data B",
+      "fr_FR": "Previous data B"
     },
     {
       "id": "pl_msg_00000345_00052",
-      "en_US": "Data"
+      "en_US": "Data",
+      "fr_FR": "Data"
     },
     {
       "id": "pl_msg_00000345_00053",
-      "en_US": "BGめんに　ひょうじ　SELECT"
+      "en_US": "BGめんに　ひょうじ　SELECT",
+      "fr_FR": "BGめんに　ひょうじ　SELECT"
     },
     {
       "id": "pl_msg_00000345_00054",
-      "en_US": "Sunny"
+      "en_US": "Sunny",
+      "fr_FR": "Sunny"
     },
     {
       "id": "pl_msg_00000345_00055",
-      "en_US": "Cloudy"
+      "en_US": "Cloudy",
+      "fr_FR": "Cloudy"
     },
     {
       "id": "pl_msg_00000345_00056",
-      "en_US": "Rain"
+      "en_US": "Rain",
+      "fr_FR": "Rain"
     },
     {
       "id": "pl_msg_00000345_00057",
-      "en_US": "Heavy Rain"
+      "en_US": "Heavy Rain",
+      "fr_FR": "Heavy Rain"
     },
     {
       "id": "pl_msg_00000345_00058",
-      "en_US": "Thunder"
+      "en_US": "Thunder",
+      "fr_FR": "Thunder"
     },
     {
       "id": "pl_msg_00000345_00059",
-      "en_US": "Snow"
+      "en_US": "Snow",
+      "fr_FR": "Snow"
     },
     {
       "id": "pl_msg_00000345_00060",
-      "en_US": "Blizzard"
+      "en_US": "Blizzard",
+      "fr_FR": "Blizzard"
     },
     {
       "id": "pl_msg_00000345_00061",
-      "en_US": "Whiteout"
+      "en_US": "Whiteout",
+      "fr_FR": "Whiteout"
     },
     {
       "id": "pl_msg_00000345_00062",
-      "en_US": "Fog"
+      "en_US": "Fog",
+      "fr_FR": "Fog"
     },
     {
       "id": "pl_msg_00000345_00063",
-      "en_US": "Volcanic Ash"
+      "en_US": "Volcanic Ash",
+      "fr_FR": "Volcanic Ash"
     },
     {
       "id": "pl_msg_00000345_00064",
-      "en_US": "Sandstorm"
+      "en_US": "Sandstorm",
+      "fr_FR": "Sandstorm"
     },
     {
       "id": "pl_msg_00000345_00065",
-      "en_US": "Diamond"
+      "en_US": "Diamond",
+      "fr_FR": "Diamond"
     },
     {
       "id": "pl_msg_00000345_00066",
-      "en_US": "Defog"
+      "en_US": "Defog",
+      "fr_FR": "Defog"
     },
     {
       "id": "pl_msg_00000345_00067",
-      "en_US": "Flash"
+      "en_US": "Flash",
+      "fr_FR": "Flash"
     },
     {
       "id": "pl_msg_00000345_00068",
-      "en_US": "Determination"
+      "en_US": "Determination",
+      "fr_FR": "Determination"
     },
     {
       "id": "pl_msg_00000345_00069",
-      "en_US": "Mystery"
+      "en_US": "Mystery",
+      "fr_FR": "Mystery"
     },
     {
       "id": "pl_msg_00000345_00070",
-      "en_US": "Rainbow"
+      "en_US": "Rainbow",
+      "fr_FR": "Rainbow"
     },
     {
       "id": "pl_msg_00000345_00071",
-      "en_US": "Stop"
+      "en_US": "Stop",
+      "fr_FR": "Stop"
     },
     {
       "id": "pl_msg_00000345_00072",
-      "en_US": "Ambition"
+      "en_US": "Ambition",
+      "fr_FR": "Ambition"
     },
     {
       "id": "pl_msg_00000345_00073",
-      "en_US": "こごれび"
+      "en_US": "こごれび",
+      "fr_FR": "こごれび"
     },
     {
       "id": "pl_msg_00000345_00074",
-      "en_US": "Scary Feel"
+      "en_US": "Scary Feel",
+      "fr_FR": "Scary Feel"
     },
     {
       "id": "pl_msg_00000345_00075",
-      "en_US": "Galactic 00"
+      "en_US": "Galactic 00",
+      "fr_FR": "Galactic 00"
     },
     {
       "id": "pl_msg_00000345_00076",
-      "en_US": "Lost Tower"
+      "en_US": "Lost Tower",
+      "fr_FR": "Lost Tower"
     },
     {
       "id": "pl_msg_00000345_00077",
-      "en_US": "Stark Mt."
+      "en_US": "Stark Mt.",
+      "fr_FR": "Stark Mt."
     },
     {
       "id": "pl_msg_00000345_00078",
-      "en_US": "Cave 02"
+      "en_US": "Cave 02",
+      "fr_FR": "Cave 02"
     },
     {
       "id": "pl_msg_00000345_00079",
-      "en_US": "Cell"
+      "en_US": "Cell",
+      "fr_FR": "Cell"
     },
     {
       "id": "pl_msg_00000345_00080",
-      "en_US": "Image"
+      "en_US": "Image",
+      "fr_FR": "Image"
     },
     {
       "id": "pl_msg_00000345_00081",
-      "en_US": "Wipe"
+      "en_US": "Wipe",
+      "fr_FR": "Wipe"
     },
     {
       "id": "pl_msg_00000345_00082",
-      "en_US": "Material"
+      "en_US": "Material",
+      "fr_FR": "Material"
     },
     {
       "id": "pl_msg_00000345_00083",
-      "en_US": "FOG"
+      "en_US": "FOG",
+      "fr_FR": "FOG"
     },
     {
       "id": "pl_msg_00000345_00084",
-      "en_US": "Weather"
+      "en_US": "Weather",
+      "fr_FR": "Weather"
     },
     {
       "id": "pl_msg_00000345_00085",
-      "en_US": "Light"
+      "en_US": "Light",
+      "fr_FR": "Light"
     },
     {
       "id": "pl_msg_00000345_00086",
-      "en_US": "ライトスピ"
+      "en_US": "ライトスピ",
+      "fr_FR": "ライトスピ"
     },
     {
       "id": "pl_msg_00000345_00087",
-      "en_US": "No. of Pokémon encounter"
+      "en_US": "No. of Pokémon encounter",
+      "fr_FR": "No. of Pokémon encounter"
     },
     {
       "id": "pl_msg_00000345_00088",
-      "en_US": "Close"
+      "en_US": "Close",
+      "fr_FR": "Close"
     },
     {
       "id": "pl_msg_00000345_00089",
-      "en_US": "3D Transfer"
+      "en_US": "3D Transfer",
+      "fr_FR": "3D Transfer"
     },
     {
       "id": "pl_msg_00000345_00090",
-      "en_US": "ON"
+      "en_US": "ON",
+      "fr_FR": "ON"
     },
     {
       "id": "pl_msg_00000345_00091",
-      "en_US": "OFF"
+      "en_US": "OFF",
+      "fr_FR": "OFF"
     },
     {
       "id": "pl_msg_00000345_00092",
-      "en_US": "High"
+      "en_US": "High",
+      "fr_FR": "High"
     },
     {
       "id": "pl_msg_00000345_00093",
-      "en_US": "Low"
+      "en_US": "Low",
+      "fr_FR": "Low"
     },
     {
       "id": "pl_msg_00000345_00094",
-      "en_US": "ST"
+      "en_US": "ST",
+      "fr_FR": "ST"
     },
     {
       "id": "pl_msg_00000345_00095",
-      "en_US": "Test"
+      "en_US": "Test",
+      "fr_FR": "Test"
     },
     {
       "id": "pl_msg_00000345_00096",
-      "en_US": "Pokedex"
+      "en_US": "Pokedex",
+      "fr_FR": "Pokedex"
     },
     {
       "id": "pl_msg_00000345_00097",
-      "en_US": "X　0"
+      "en_US": "X　0",
+      "fr_FR": "X　0"
     },
     {
       "id": "pl_msg_00000345_00098",
-      "en_US": "X 1"
+      "en_US": "X 1",
+      "fr_FR": "X 1"
     },
     {
       "id": "pl_msg_00000345_00099",
-      "en_US": "X 2"
+      "en_US": "X 2",
+      "fr_FR": "X 2"
     },
     {
       "id": "pl_msg_00000345_00100",
-      "en_US": "Y 0"
+      "en_US": "Y 0",
+      "fr_FR": "Y 0"
     },
     {
       "id": "pl_msg_00000345_00101",
-      "en_US": "Y 1"
+      "en_US": "Y 1",
+      "fr_FR": "Y 1"
     },
     {
       "id": "pl_msg_00000345_00102",
-      "en_US": "Y 2"
+      "en_US": "Y 2",
+      "fr_FR": "Y 2"
     },
     {
       "id": "pl_msg_00000345_00103",
@@ -423,255 +526,329 @@
         "R: End to change\n",
         "START: Settings\n",
         "B: Exit from the debug"
+      ],
+      "fr_FR": [
+        "SELECT: Trash all Pokémon data\n",
+        "key   A=1 right=10 up=100\n",
+        "key   Y=-1 left=-10 down=-100\n",
+        "L: Start to change\n",
+        "R: End to change\n",
+        "START: Settings\n",
+        "B: Exit from the debug"
       ]
     },
     {
       "id": "pl_msg_00000345_00104",
-      "en_US": "Pokédex control"
+      "en_US": "Pokédex control",
+      "fr_FR": "Pokédex control"
     },
     {
       "id": "pl_msg_00000345_00105",
-      "en_US": "Begin"
+      "en_US": "Begin",
+      "fr_FR": "Begin"
     },
     {
       "id": "pl_msg_00000345_00106",
-      "en_US": "End"
+      "en_US": "End",
+      "fr_FR": "End"
     },
     {
       "id": "pl_msg_00000345_00107",
-      "en_US": "National Pokédex flag ON"
+      "en_US": "National Pokédex flag ON",
+      "fr_FR": "National Pokédex flag ON"
     },
     {
       "id": "pl_msg_00000345_00108",
-      "en_US": "Set Sinnoh Pokédex"
+      "en_US": "Set Sinnoh Pokédex",
+      "fr_FR": "Set Sinnoh Pokédex"
     },
     {
       "id": "pl_msg_00000345_00109",
-      "en_US": "Set National Pokédex"
+      "en_US": "Set National Pokédex",
+      "fr_FR": "Set National Pokédex"
     },
     {
       "id": "pl_msg_00000345_00110",
-      "en_US": "Seen National Pokédex"
+      "en_US": "Seen National Pokédex",
+      "fr_FR": "Seen National Pokédex"
     },
     {
       "id": "pl_msg_00000345_00111",
-      "en_US": "Seen Sinnoh Pokédex"
+      "en_US": "Seen Sinnoh Pokédex",
+      "fr_FR": "Seen Sinnoh Pokédex"
     },
     {
       "id": "pl_msg_00000345_00112",
-      "en_US": "DEOXYS save data"
+      "en_US": "DEOXYS save data",
+      "fr_FR": "DEOXYS save data"
     },
     {
       "id": "pl_msg_00000345_00113",
-      "en_US": "SHELLOS save data"
+      "en_US": "SHELLOS save data",
+      "fr_FR": "SHELLOS save data"
     },
     {
       "id": "pl_msg_00000345_00114",
-      "en_US": "Pokémon"
+      "en_US": "Pokémon",
+      "fr_FR": "Pokémon"
     },
     {
       "id": "pl_msg_00000345_00115",
-      "en_US": "Poison"
+      "en_US": "Poison",
+      "fr_FR": "Poison"
     },
     {
       "id": "pl_msg_00000345_00116",
-      "en_US": "Climax"
+      "en_US": "Climax",
+      "fr_FR": "Climax"
     },
     {
       "id": "pl_msg_00000345_00117",
-      "en_US": "Grass 00"
+      "en_US": "Grass 00",
+      "fr_FR": "Grass 00"
     },
     {
       "id": "pl_msg_00000345_00118",
-      "en_US": "Grass 01"
+      "en_US": "Grass 01",
+      "fr_FR": "Grass 01"
     },
     {
       "id": "pl_msg_00000345_00119",
-      "en_US": "Water 00"
+      "en_US": "Water 00",
+      "fr_FR": "Water 00"
     },
     {
       "id": "pl_msg_00000345_00120",
-      "en_US": "Water 01"
+      "en_US": "Water 01",
+      "fr_FR": "Water 01"
     },
     {
       "id": "pl_msg_00000345_00121",
-      "en_US": "Sweet Scent"
+      "en_US": "Sweet Scent",
+      "fr_FR": "Sweet Scent"
     },
     {
       "id": "pl_msg_00000345_00122",
-      "en_US": "Trade"
+      "en_US": "Trade",
+      "fr_FR": "Trade"
     },
     {
       "id": "pl_msg_00000345_00123",
-      "en_US": "Image records"
+      "en_US": "Image records",
+      "fr_FR": "Image records"
     },
     {
       "id": "pl_msg_00000345_00124",
-      "en_US": "Accessory Exchange"
+      "en_US": "Accessory Exchange",
+      "fr_FR": "Accessory Exchange"
     },
     {
       "id": "pl_msg_00000345_00125",
-      "en_US": "HM00"
+      "en_US": "HM00",
+      "fr_FR": "HM00"
     },
     {
       "id": "pl_msg_00000345_00126",
-      "en_US": "HM01"
+      "en_US": "HM01",
+      "fr_FR": "HM01"
     },
     {
       "id": "pl_msg_00000345_00127",
-      "en_US": "HM02"
+      "en_US": "HM02",
+      "fr_FR": "HM02"
     },
     {
       "id": "pl_msg_00000345_00128",
-      "en_US": "Mixing teams"
+      "en_US": "Mixing teams",
+      "fr_FR": "Mixing teams"
     },
     {
       "id": "pl_msg_00000345_00129",
-      "en_US": "World Clock"
+      "en_US": "World Clock",
+      "fr_FR": "World Clock"
     },
     {
       "id": "pl_msg_00000345_00130",
-      "en_US": "News"
+      "en_US": "News",
+      "fr_FR": "News"
     },
     {
       "id": "pl_msg_00000345_00131",
-      "en_US": "Early Plaza Events"
+      "en_US": "Early Plaza Events",
+      "fr_FR": "Early Plaza Events"
     },
     {
       "id": "pl_msg_00000345_00132",
-      "en_US": "Plaza Room0"
+      "en_US": "Plaza Room0",
+      "fr_FR": "Plaza Room0"
     },
     {
       "id": "pl_msg_00000345_00133",
-      "en_US": "Plaza Room1"
+      "en_US": "Plaza Room1",
+      "fr_FR": "Plaza Room1"
     },
     {
       "id": "pl_msg_00000345_00134",
-      "en_US": "Plaza Room2"
+      "en_US": "Plaza Room2",
+      "fr_FR": "Plaza Room2"
     },
     {
       "id": "pl_msg_00000345_00135",
-      "en_US": "Plaza: normal"
+      "en_US": "Plaza: normal",
+      "fr_FR": "Plaza: normal"
     },
     {
       "id": "pl_msg_00000345_00136",
-      "en_US": "Plaza: everyone VIP"
+      "en_US": "Plaza: everyone VIP",
+      "fr_FR": "Plaza: everyone VIP"
     },
     {
       "id": "pl_msg_00000345_00137",
-      "en_US": "Plaza: Delay the lock timing"
+      "en_US": "Plaza: Delay the lock timing",
+      "fr_FR": "Plaza: Delay the lock timing"
     },
     {
       "id": "pl_msg_00000345_00138",
-      "en_US": "Dungeon 00"
+      "en_US": "Dungeon 00",
+      "fr_FR": "Dungeon 00"
     },
     {
       "id": "pl_msg_00000345_00139",
-      "en_US": "Dungeon 01"
+      "en_US": "Dungeon 01",
+      "fr_FR": "Dungeon 01"
     },
     {
       "id": "pl_msg_00000345_00140",
-      "en_US": "TR Grass 00"
+      "en_US": "TR Grass 00",
+      "fr_FR": "TR Grass 00"
     },
     {
       "id": "pl_msg_00000345_00141",
-      "en_US": "TR Grass 01"
+      "en_US": "TR Grass 01",
+      "fr_FR": "TR Grass 01"
     },
     {
       "id": "pl_msg_00000345_00142",
-      "en_US": "TR Water 00"
+      "en_US": "TR Water 00",
+      "fr_FR": "TR Water 00"
     },
     {
       "id": "pl_msg_00000345_00143",
-      "en_US": "TR Water 01"
+      "en_US": "TR Water 01",
+      "fr_FR": "TR Water 01"
     },
     {
       "id": "pl_msg_00000345_00144",
-      "en_US": "TR Dungeon 00"
+      "en_US": "TR Dungeon 00",
+      "fr_FR": "TR Dungeon 00"
     },
     {
       "id": "pl_msg_00000345_00145",
-      "en_US": "TR Dungeon 01"
+      "en_US": "TR Dungeon 01",
+      "fr_FR": "TR Dungeon 01"
     },
     {
       "id": "pl_msg_00000345_00146",
-      "en_US": "sp Tower"
+      "en_US": "sp Tower",
+      "fr_FR": "sp Tower"
     },
     {
       "id": "pl_msg_00000345_00147",
-      "en_US": "sp Double"
+      "en_US": "sp Double",
+      "fr_FR": "sp Double"
     },
     {
       "id": "pl_msg_00000345_00148",
-      "en_US": "Galactic 00"
+      "en_US": "Galactic 00",
+      "fr_FR": "Galactic 00"
     },
     {
       "id": "pl_msg_00000345_00149",
-      "en_US": "Galactic 01"
+      "en_US": "Galactic 01",
+      "fr_FR": "Galactic 01"
     },
     {
       "id": "pl_msg_00000345_00150",
-      "en_US": "Legend"
+      "en_US": "Legend",
+      "fr_FR": "Legend"
     },
     {
       "id": "pl_msg_00000345_00151",
-      "en_US": "Package"
+      "en_US": "Package",
+      "fr_FR": "Package"
     },
     {
       "id": "pl_msg_00000345_00152",
-      "en_US": "Gym Oreburgh"
+      "en_US": "Gym Oreburgh",
+      "fr_FR": "Gym Oreburgh"
     },
     {
       "id": "pl_msg_00000345_00153",
-      "en_US": "Gym Eterna"
+      "en_US": "Gym Eterna",
+      "fr_FR": "Gym Eterna"
     },
     {
       "id": "pl_msg_00000345_00154",
-      "en_US": "Gym Pastoria"
+      "en_US": "Gym Pastoria",
+      "fr_FR": "Gym Pastoria"
     },
     {
       "id": "pl_msg_00000345_00155",
-      "en_US": "Gym Veilstone"
+      "en_US": "Gym Veilstone",
+      "fr_FR": "Gym Veilstone"
     },
     {
       "id": "pl_msg_00000345_00156",
-      "en_US": "Gym Hearthome"
+      "en_US": "Gym Hearthome",
+      "fr_FR": "Gym Hearthome"
     },
     {
       "id": "pl_msg_00000345_00157",
-      "en_US": "Gym Snowpoint"
+      "en_US": "Gym Snowpoint",
+      "fr_FR": "Gym Snowpoint"
     },
     {
       "id": "pl_msg_00000345_00158",
-      "en_US": "Gym Canalave"
+      "en_US": "Gym Canalave",
+      "fr_FR": "Gym Canalave"
     },
     {
       "id": "pl_msg_00000345_00159",
-      "en_US": "Gym Sunyshore"
+      "en_US": "Gym Sunyshore",
+      "fr_FR": "Gym Sunyshore"
     },
     {
       "id": "pl_msg_00000345_00160",
-      "en_US": "Point 00"
+      "en_US": "Point 00",
+      "fr_FR": "Point 00"
     },
     {
       "id": "pl_msg_00000345_00161",
-      "en_US": "Point 01"
+      "en_US": "Point 01",
+      "fr_FR": "Point 01"
     },
     {
       "id": "pl_msg_00000345_00162",
-      "en_US": "Point 02"
+      "en_US": "Point 02",
+      "fr_FR": "Point 02"
     },
     {
       "id": "pl_msg_00000345_00163",
-      "en_US": "Point 03"
+      "en_US": "Point 03",
+      "fr_FR": "Point 03"
     },
     {
       "id": "pl_msg_00000345_00164",
-      "en_US": "CHANP"
+      "en_US": "CHANP",
+      "fr_FR": "CHANP"
     },
     {
       "id": "pl_msg_00000345_00165",
       "en_US": [
+        "Horizontal Rotation　A up down　value:{STRVAR_1 59, 0, 0}\n",
+        "　　　　　　　　　　　　　　　angle:{STRVAR_1 59, 5, 0}"
+      ],
+      "fr_FR": [
         "Horizontal Rotation　A up down　value:{STRVAR_1 59, 0, 0}\n",
         "　　　　　　　　　　　　　　　angle:{STRVAR_1 59, 5, 0}"
       ]
@@ -681,6 +858,10 @@
       "en_US": [
         "Vertical Rotation　B up down　value:{STRVAR_1 59, 1, 0}\n",
         "　　　　　　　　　　　　　　　angle:{STRVAR_1 59, 6, 0}"
+      ],
+      "fr_FR": [
+        "Vertical Rotation　B up down　value:{STRVAR_1 59, 1, 0}\n",
+        "　　　　　　　　　　　　　　　angle:{STRVAR_1 59, 6, 0}"
       ]
     },
     {
@@ -688,46 +869,65 @@
       "en_US": [
         "Overall Slope　Y up down　value:{STRVAR_1 59, 2, 0}\n",
         "                              angle:{STRVAR_1 59, 0, 0}"
+      ],
+      "fr_FR": [
+        "Overall Slope　Y up down　value:{STRVAR_1 59, 2, 0}\n",
+        "                              angle:{STRVAR_1 59, 0, 0}"
       ]
     },
     {
       "id": "pl_msg_00000345_00168",
-      "en_US": "Camera Distance A up down　value:{STRVAR_1 59, 3, 0}"
+      "en_US": "Camera Distance A up down　value:{STRVAR_1 59, 3, 0}",
+      "fr_FR": "Camera Distance A up down　value:{STRVAR_1 59, 3, 0}"
     },
     {
       "id": "pl_msg_00000345_00169",
-      "en_US": "Camera Target　B up down　value:{STRVAR_1 59, 4, 0}"
+      "en_US": "Camera Target　B up down　value:{STRVAR_1 59, 4, 0}",
+      "fr_FR": "Camera Target　B up down　value:{STRVAR_1 59, 4, 0}"
     },
     {
       "id": "pl_msg_00000345_00170",
       "en_US": [
         "Stop Timer: START　Switch Control: R\n",
         "Stop Operation: X  End: L   Start drawing: right"
+      ],
+      "fr_FR": [
+        "Stop Timer: START　Switch Control: R\n",
+        "Stop Operation: X  End: L   Start drawing: right"
       ]
     },
     {
       "id": "pl_msg_00000345_00171",
-      "en_US": "Camera Angle　Y up down value:{STRVAR_1 59, 0, 0}"
+      "en_US": "Camera Angle　Y up down value:{STRVAR_1 59, 0, 0}",
+      "fr_FR": "Camera Angle　Y up down value:{STRVAR_1 59, 0, 0}"
     },
     {
       "id": "pl_msg_00000345_00172",
-      "en_US": "Poition　Y up down value:{STRVAR_1 59, 0, 0}"
+      "en_US": "Poition　Y up down value:{STRVAR_1 59, 0, 0}",
+      "fr_FR": "Poition　Y up down value:{STRVAR_1 59, 0, 0}"
     },
     {
       "id": "pl_msg_00000345_00173",
-      "en_US": "Size　A up down value:{STRVAR_1 59, 0, 0}"
+      "en_US": "Size　A up down value:{STRVAR_1 59, 0, 0}",
+      "fr_FR": "Size　A up down value:{STRVAR_1 59, 0, 0}"
     },
     {
       "id": "pl_msg_00000345_00174",
-      "en_US": "Gravity B up down value:{STRVAR_1 59, 0, 0}"
+      "en_US": "Gravity B up down value:{STRVAR_1 59, 0, 0}",
+      "fr_FR": "Gravity B up down value:{STRVAR_1 59, 0, 0}"
     },
     {
       "id": "pl_msg_00000345_00175",
-      "en_US": "Gravity Area　Y up down value:{STRVAR_1 59, 0, 0}"
+      "en_US": "Gravity Area　Y up down value:{STRVAR_1 59, 0, 0}",
+      "fr_FR": "Gravity Area　Y up down value:{STRVAR_1 59, 0, 0}"
     },
     {
       "id": "pl_msg_00000345_00176",
       "en_US": [
+        "Room kind？{STRVAR_1 51, 0, 0} \n",
+        "A...Confirm 　UP DOWN...Select"
+      ],
+      "fr_FR": [
         "Room kind？{STRVAR_1 51, 0, 0} \n",
         "A...Confirm 　UP DOWN...Select"
       ]
@@ -737,11 +937,19 @@
       "en_US": [
         "Season？{STRVAR_1 51, 0, 0}\n",
         "A...Confirm 　UP DOWN...Select"
+      ],
+      "fr_FR": [
+        "Season？{STRVAR_1 51, 0, 0}\n",
+        "A...Confirm 　UP DOWN...Select"
       ]
     },
     {
       "id": "pl_msg_00000345_00178",
       "en_US": [
+        "Which Tap Toy？{STRVAR_6 2, 0, 0}\n",
+        "A...Confirm 　UP DOWN...Select"
+      ],
+      "fr_FR": [
         "Which Tap Toy？{STRVAR_6 2, 0, 0}\n",
         "A...Confirm 　UP DOWN...Select"
       ]

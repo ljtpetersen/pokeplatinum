@@ -26,5 +26,13 @@
   "battlePocket": "BATTLE_POCKET_MASK_NONE",
   "fieldUseFunc": "ITEM_USE_FUNC_EXPLORER_KIT",
   "battleUseCategory": "BATTLE_USE_CATEGORY_NONE",
-  "itemUseParams": null
+  "itemUseParams": null,
+  "name_fr": "Explorakit",
+  "description_fr": [
+    "Sac rempli d’outils utiles pour\n",
+    "l’exploration. Permet d’accéder au\n",
+    "Souterrain."
+  ],
+  "plural_fr": "Explorakit",
+  "article_fr": null
 }

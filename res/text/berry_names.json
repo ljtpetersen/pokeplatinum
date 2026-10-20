@@ -3,259 +3,323 @@
   "messages": [
     {
       "id": "pl_msg_00000424_00000",
-      "en_US": "Cheri"
+      "en_US": "Cheri",
+      "fr_FR": "Ceriz"
     },
     {
       "id": "pl_msg_00000424_00001",
-      "en_US": "Chesto"
+      "en_US": "Chesto",
+      "fr_FR": "Maron"
     },
     {
       "id": "pl_msg_00000424_00002",
-      "en_US": "Pecha"
+      "en_US": "Pecha",
+      "fr_FR": "Pêcha"
     },
     {
       "id": "pl_msg_00000424_00003",
-      "en_US": "Rawst"
+      "en_US": "Rawst",
+      "fr_FR": "Fraive"
     },
     {
       "id": "pl_msg_00000424_00004",
-      "en_US": "Aspear"
+      "en_US": "Aspear",
+      "fr_FR": "Willia"
     },
     {
       "id": "pl_msg_00000424_00005",
-      "en_US": "Leppa"
+      "en_US": "Leppa",
+      "fr_FR": "Mepo"
     },
     {
       "id": "pl_msg_00000424_00006",
-      "en_US": "Oran"
+      "en_US": "Oran",
+      "fr_FR": "Oran"
     },
     {
       "id": "pl_msg_00000424_00007",
-      "en_US": "Persim"
+      "en_US": "Persim",
+      "fr_FR": "Kika"
     },
     {
       "id": "pl_msg_00000424_00008",
-      "en_US": "Lum"
+      "en_US": "Lum",
+      "fr_FR": "Prine"
     },
     {
       "id": "pl_msg_00000424_00009",
-      "en_US": "Sitrus"
+      "en_US": "Sitrus",
+      "fr_FR": "Sitrus"
     },
     {
       "id": "pl_msg_00000424_00010",
-      "en_US": "Figy"
+      "en_US": "Figy",
+      "fr_FR": "Figuy"
     },
     {
       "id": "pl_msg_00000424_00011",
-      "en_US": "Wiki"
+      "en_US": "Wiki",
+      "fr_FR": "Wiki"
     },
     {
       "id": "pl_msg_00000424_00012",
-      "en_US": "Mago"
+      "en_US": "Mago",
+      "fr_FR": "Mago"
     },
     {
       "id": "pl_msg_00000424_00013",
-      "en_US": "Aguav"
+      "en_US": "Aguav",
+      "fr_FR": "Gowav"
     },
     {
       "id": "pl_msg_00000424_00014",
-      "en_US": "Iapapa"
+      "en_US": "Iapapa",
+      "fr_FR": "Papaya"
     },
     {
       "id": "pl_msg_00000424_00015",
-      "en_US": "Razz"
+      "en_US": "Razz",
+      "fr_FR": "Framby"
     },
     {
       "id": "pl_msg_00000424_00016",
-      "en_US": "Bluk"
+      "en_US": "Bluk",
+      "fr_FR": "Remu"
     },
     {
       "id": "pl_msg_00000424_00017",
-      "en_US": "Nanab"
+      "en_US": "Nanab",
+      "fr_FR": "Nanab"
     },
     {
       "id": "pl_msg_00000424_00018",
-      "en_US": "Wepear"
+      "en_US": "Wepear",
+      "fr_FR": "Repoi"
     },
     {
       "id": "pl_msg_00000424_00019",
-      "en_US": "Pinap"
+      "en_US": "Pinap",
+      "fr_FR": "Nanana"
     },
     {
       "id": "pl_msg_00000424_00020",
-      "en_US": "Pomeg"
+      "en_US": "Pomeg",
+      "fr_FR": "Grena"
     },
     {
       "id": "pl_msg_00000424_00021",
-      "en_US": "Kelpsy"
+      "en_US": "Kelpsy",
+      "fr_FR": "Alga"
     },
     {
       "id": "pl_msg_00000424_00022",
-      "en_US": "Qualot"
+      "en_US": "Qualot",
+      "fr_FR": "Qualot"
     },
     {
       "id": "pl_msg_00000424_00023",
-      "en_US": "Hondew"
+      "en_US": "Hondew",
+      "fr_FR": "Lonme"
     },
     {
       "id": "pl_msg_00000424_00024",
-      "en_US": "Grepa"
+      "en_US": "Grepa",
+      "fr_FR": "Résin"
     },
     {
       "id": "pl_msg_00000424_00025",
-      "en_US": "Tamato"
+      "en_US": "Tamato",
+      "fr_FR": "Tamato"
     },
     {
       "id": "pl_msg_00000424_00026",
-      "en_US": "Cornn"
+      "en_US": "Cornn",
+      "fr_FR": "Siam"
     },
     {
       "id": "pl_msg_00000424_00027",
-      "en_US": "Magost"
+      "en_US": "Magost",
+      "fr_FR": "Mangou"
     },
     {
       "id": "pl_msg_00000424_00028",
-      "en_US": "Rabuta"
+      "en_US": "Rabuta",
+      "fr_FR": "Rabuta"
     },
     {
       "id": "pl_msg_00000424_00029",
-      "en_US": "Nomel"
+      "en_US": "Nomel",
+      "fr_FR": "Tronci"
     },
     {
       "id": "pl_msg_00000424_00030",
-      "en_US": "Spelon"
+      "en_US": "Spelon",
+      "fr_FR": "Kiwan"
     },
     {
       "id": "pl_msg_00000424_00031",
-      "en_US": "Pamtre"
+      "en_US": "Pamtre",
+      "fr_FR": "Palma"
     },
     {
       "id": "pl_msg_00000424_00032",
-      "en_US": "Watmel"
+      "en_US": "Watmel",
+      "fr_FR": "Stekpa"
     },
     {
       "id": "pl_msg_00000424_00033",
-      "en_US": "Durin"
+      "en_US": "Durin",
+      "fr_FR": "Durin"
     },
     {
       "id": "pl_msg_00000424_00034",
-      "en_US": "Belue"
+      "en_US": "Belue",
+      "fr_FR": "Myrte"
     },
     {
       "id": "pl_msg_00000424_00035",
-      "en_US": "Occa"
+      "en_US": "Occa",
+      "fr_FR": "Chocco"
     },
     {
       "id": "pl_msg_00000424_00036",
-      "en_US": "Passho"
+      "en_US": "Passho",
+      "fr_FR": "Pocpoc"
     },
     {
       "id": "pl_msg_00000424_00037",
-      "en_US": "Wacan"
+      "en_US": "Wacan",
+      "fr_FR": "Parma"
     },
     {
       "id": "pl_msg_00000424_00038",
-      "en_US": "Rindo"
+      "en_US": "Rindo",
+      "fr_FR": "Ratam"
     },
     {
       "id": "pl_msg_00000424_00039",
-      "en_US": "Yache"
+      "en_US": "Yache",
+      "fr_FR": "Nanone"
     },
     {
       "id": "pl_msg_00000424_00040",
-      "en_US": "Chople"
+      "en_US": "Chople",
+      "fr_FR": "Pomroz"
     },
     {
       "id": "pl_msg_00000424_00041",
-      "en_US": "Kebia"
+      "en_US": "Kebia",
+      "fr_FR": "Kébia"
     },
     {
       "id": "pl_msg_00000424_00042",
-      "en_US": "Shuca"
+      "en_US": "Shuca",
+      "fr_FR": "Jouca"
     },
     {
       "id": "pl_msg_00000424_00043",
-      "en_US": "Coba"
+      "en_US": "Coba",
+      "fr_FR": "Cobaba"
     },
     {
       "id": "pl_msg_00000424_00044",
-      "en_US": "Payapa"
+      "en_US": "Payapa",
+      "fr_FR": "Yapap"
     },
     {
       "id": "pl_msg_00000424_00045",
-      "en_US": "Tanga"
+      "en_US": "Tanga",
+      "fr_FR": "Panga"
     },
     {
       "id": "pl_msg_00000424_00046",
-      "en_US": "Charti"
+      "en_US": "Charti",
+      "fr_FR": "Charti"
     },
     {
       "id": "pl_msg_00000424_00047",
-      "en_US": "Kasib"
+      "en_US": "Kasib",
+      "fr_FR": "Sédra"
     },
     {
       "id": "pl_msg_00000424_00048",
-      "en_US": "Haban"
+      "en_US": "Haban",
+      "fr_FR": "Fraigo"
     },
     {
       "id": "pl_msg_00000424_00049",
-      "en_US": "Colbur"
+      "en_US": "Colbur",
+      "fr_FR": "Lampou"
     },
     {
       "id": "pl_msg_00000424_00050",
-      "en_US": "Babiri"
+      "en_US": "Babiri",
+      "fr_FR": "Babiri"
     },
     {
       "id": "pl_msg_00000424_00051",
-      "en_US": "Chilan"
+      "en_US": "Chilan",
+      "fr_FR": "Zalis"
     },
     {
       "id": "pl_msg_00000424_00052",
-      "en_US": "Liechi"
+      "en_US": "Liechi",
+      "fr_FR": "Lichii"
     },
     {
       "id": "pl_msg_00000424_00053",
-      "en_US": "Ganlon"
+      "en_US": "Ganlon",
+      "fr_FR": "Lingan"
     },
     {
       "id": "pl_msg_00000424_00054",
-      "en_US": "Salac"
+      "en_US": "Salac",
+      "fr_FR": "Sailak"
     },
     {
       "id": "pl_msg_00000424_00055",
-      "en_US": "Petaya"
+      "en_US": "Petaya",
+      "fr_FR": "Pitaye"
     },
     {
       "id": "pl_msg_00000424_00056",
-      "en_US": "Apicot"
+      "en_US": "Apicot",
+      "fr_FR": "Abriko"
     },
     {
       "id": "pl_msg_00000424_00057",
-      "en_US": "Lansat"
+      "en_US": "Lansat",
+      "fr_FR": "Lansat"
     },
     {
       "id": "pl_msg_00000424_00058",
-      "en_US": "Starf"
+      "en_US": "Starf",
+      "fr_FR": "Frista"
     },
     {
       "id": "pl_msg_00000424_00059",
-      "en_US": "Enigma"
+      "en_US": "Enigma",
+      "fr_FR": "Enigma"
     },
     {
       "id": "pl_msg_00000424_00060",
-      "en_US": "Micle"
+      "en_US": "Micle",
+      "fr_FR": "Micle"
     },
     {
       "id": "pl_msg_00000424_00061",
-      "en_US": "Custap"
+      "en_US": "Custap",
+      "fr_FR": "Chérim"
     },
     {
       "id": "pl_msg_00000424_00062",
-      "en_US": "Jaboca"
+      "en_US": "Jaboca",
+      "fr_FR": "Jaboca"
     },
     {
       "id": "pl_msg_00000424_00063",
-      "en_US": "Rowap"
+      "en_US": "Rowap",
+      "fr_FR": "Pommo"
     }
   ]
 }

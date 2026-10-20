@@ -27,5 +27,13 @@
   "fieldUseFunc": "ITEM_USE_FUNC_TM_HM",
   "battleUseCategory": "BATTLE_USE_CATEGORY_NONE",
   "itemUseParams": null,
-  "teachesMove": "MOVE_SWAGGER"
+  "teachesMove": "MOVE_SWAGGER",
+  "name_fr": "CT87",
+  "description_fr": [
+    "Fait enrager l’ennemi et le plonge dans\n",
+    "la confusion, mais augmente fortement\n",
+    "son Attaque."
+  ],
+  "plural_fr": "CT87",
+  "article_fr": null
 }

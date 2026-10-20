@@ -25,5 +25,13 @@
     "contest": {
         "effect": "CONTEST_EFFECT_FIRST_PERFORMANCE_ADVANTAGE",
         "type": "CONTEST_TYPE_COOL"
-    }
+    },
+    "name_fr": "Extrasenseur",
+    "description_fr": [
+        "Le lanceur attaque\n",
+        "avec un pouvoir\n",
+        "étrange et invisible.\n",
+        "Peut aussi apeurer\n",
+        "l’ennemi."
+    ]
 }

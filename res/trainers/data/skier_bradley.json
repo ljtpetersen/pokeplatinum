@@ -41,17 +41,26 @@
             "en_US": [
                 "I’m skiing right now, but OK.\n",
                 "As we Skiers say, “Spur thing!”\r"
+            ],
+            "fr_FR": [
+                "Même si tu me bats, je n’ai pas mon\n",
+                "pareil pour remonter la pente!\r"
             ]
         },
         {
             "type": "TRMSG_DEFEAT",
-            "en_US": "...I’ve hit an ice patch!\n"
+            "en_US": "...I’ve hit an ice patch!\n",
+            "fr_FR": "... Tu es plus rude qu’une piste noire!\n"
         },
         {
             "type": "TRMSG_POST_BATTLE",
             "en_US": [
                 "I quite enjoyed that battle!\n",
                 "Let us meet again. Slalom!\n"
+            ],
+            "fr_FR": [
+                "J’ai apprécié ce combat! J’espère\n",
+                "qu’on se reverra. Slalom!\n"
             ]
         },
         {
@@ -59,7 +68,12 @@
             "en_US": [
                 "We might get snowbound, but why not?\n",
                 "It’s on the “spur” of the moment!\r"
+            ],
+            "fr_FR": [
+                "D’habitude je suis plutôt Super G, mais\n",
+                "je ne dirais pas non à un super jeu!\r"
             ]
         }
-    ]
+    ],
+    "name_fr": "Frédéric"
 }

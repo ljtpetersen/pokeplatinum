@@ -3,51 +3,63 @@
   "messages": [
     {
       "id": "pl_msg_00000414_00000",
-      "en_US": "Jan."
+      "en_US": "Jan.",
+      "fr_FR": "jan."
     },
     {
       "id": "pl_msg_00000414_00001",
-      "en_US": "Feb."
+      "en_US": "Feb.",
+      "fr_FR": "fév."
     },
     {
       "id": "pl_msg_00000414_00002",
-      "en_US": "Mar."
+      "en_US": "Mar.",
+      "fr_FR": "mars"
     },
     {
       "id": "pl_msg_00000414_00003",
-      "en_US": "Apr."
+      "en_US": "Apr.",
+      "fr_FR": "avr."
     },
     {
       "id": "pl_msg_00000414_00004",
-      "en_US": "May"
+      "en_US": "May",
+      "fr_FR": "mai"
     },
     {
       "id": "pl_msg_00000414_00005",
-      "en_US": "Jun."
+      "en_US": "Jun.",
+      "fr_FR": "juin"
     },
     {
       "id": "pl_msg_00000414_00006",
-      "en_US": "Jul."
+      "en_US": "Jul.",
+      "fr_FR": "jui."
     },
     {
       "id": "pl_msg_00000414_00007",
-      "en_US": "Aug."
+      "en_US": "Aug.",
+      "fr_FR": "août"
     },
     {
       "id": "pl_msg_00000414_00008",
-      "en_US": "Sep."
+      "en_US": "Sep.",
+      "fr_FR": "sep."
     },
     {
       "id": "pl_msg_00000414_00009",
-      "en_US": "Oct."
+      "en_US": "Oct.",
+      "fr_FR": "oct."
     },
     {
       "id": "pl_msg_00000414_00010",
-      "en_US": "Nov."
+      "en_US": "Nov.",
+      "fr_FR": "nov."
     },
     {
       "id": "pl_msg_00000414_00011",
-      "en_US": "Dec."
+      "en_US": "Dec.",
+      "fr_FR": "déc."
     }
   ]
 }

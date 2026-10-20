@@ -25,5 +25,12 @@
     "contest": {
         "effect": "CONTEST_EFFECT_VOLTAGE",
         "type": "CONTEST_TYPE_BEAUTY"
-    }
+    },
+    "name_fr": "Glas de Soin",
+    "description_fr": [
+        "Carillon apaisant qui\n",
+        "soigne les problèmes\n",
+        "de statut de tous les\n",
+        "Pokémon de l’équipe."
+    ]
 }

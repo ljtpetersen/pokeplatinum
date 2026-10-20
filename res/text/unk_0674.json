@@ -10,6 +10,10 @@
       "en_US": [
         "Logging on to Nintendo WFC.\n",
         "Please wait..."
+      ],
+      "fr_FR": [
+        "Accès à la connexion Wi-Fi Nintendo...\n",
+        "Veuillez patienter..."
       ]
     },
     {
@@ -17,6 +21,10 @@
       "en_US": [
         "{STRVAR_1 3, 0, 0} is seeking someone\n",
         "to battle."
+      ],
+      "fr_FR": [
+        "{STRVAR_1 3, 0, 0} est à la recherche \n",
+        "d’un adversaire."
       ]
     },
     {
@@ -24,6 +32,10 @@
       "en_US": [
         "{STRVAR_1 3, 0, 0} is seeking someone\n",
         "to trade with."
+      ],
+      "fr_FR": [
+        "{STRVAR_1 3, 0, 0} cherche un Dresseur \n",
+        "avec qui faire un échange."
       ]
     },
     {
@@ -31,6 +43,10 @@
       "en_US": [
         "{STRVAR_1 3, 0, 0} is seeking someone to\n",
         "cook with."
+      ],
+      "fr_FR": [
+        "{STRVAR_1 3, 0, 0} aimerait préparer des\n",
+        "Poffins."
       ]
     },
     {
@@ -38,6 +54,10 @@
       "en_US": [
         "{STRVAR_1 3, 0, 0} is seeking participants\n",
         "for the Battle Frontier."
+      ],
+      "fr_FR": [
+        "{STRVAR_1 3, 0, 0} aimerait relever un\n",
+        "défi de la Zone de Combat."
       ]
     },
     {
@@ -45,33 +65,46 @@
       "en_US": [
         "{STRVAR_1 3, 0, 0} is seeking participants\n",
         "for {STRVAR_6 0, 1, 0}."
+      ],
+      "fr_FR": [
+        "{STRVAR_1 3, 0, 0} aimerait jouer à\n",
+        "{STRVAR_6 0, 1, 0}!"
       ]
     },
     {
       "id": "pl_msg_00000674_00007",
-      "en_US": "{STRVAR_1 3, 0, 0} is on standby."
+      "en_US": "{STRVAR_1 3, 0, 0} is on standby.",
+      "fr_FR": "{STRVAR_1 3, 0, 0} est en attente."
     },
     {
       "id": "pl_msg_00000674_00008",
-      "en_US": "What would you like to seek?"
+      "en_US": "What would you like to seek?",
+      "fr_FR": "Que recherchez-vous?"
     },
     {
       "id": "pl_msg_00000674_00009",
-      "en_US": "Seeking participants..."
+      "en_US": "Seeking participants...",
+      "fr_FR": "Recherche de participants..."
     },
     {
       "id": "pl_msg_00000674_00010",
-      "en_US": "Suspend your invitation?"
+      "en_US": "Suspend your invitation?",
+      "fr_FR": "Annuler votre invitation?"
     },
     {
       "id": "pl_msg_00000674_00011",
-      "en_US": "{STRVAR_1 3, 0, 0} contacted you!"
+      "en_US": "{STRVAR_1 3, 0, 0} contacted you!",
+      "fr_FR": "{STRVAR_1 3, 0, 0} vous a contacté(e)!"
     },
     {
       "id": "pl_msg_00000674_00012",
       "en_US": [
         "Would you like to log out of\n",
         "Nintendo WFC?"
+      ],
+      "fr_FR": [
+        "Voulez-vous interrompre\n",
+        "la connexion Wi-Fi Nintendo?"
       ]
     },
     {
@@ -83,41 +116,61 @@
       "en_US": [
         "{STRVAR_1 3, 0, 0} invites you for\n",
         "a voice chat!"
+      ],
+      "fr_FR": [
+        "{STRVAR_1 3, 0, 0} vous invite \n",
+        "à un tchat vocal!"
       ]
     },
     {
       "id": "pl_msg_00000674_00015",
-      "en_US": "{STRVAR_1 3, 0, 0} appears to be busy..."
+      "en_US": "{STRVAR_1 3, 0, 0} appears to be busy...",
+      "fr_FR": "{STRVAR_1 3, 0, 0} semble être occupé(e)..."
     },
     {
       "id": "pl_msg_00000674_00016",
       "en_US": [
         "You can’t connect with\n",
         "{STRVAR_1 3, 0, 0}."
+      ],
+      "fr_FR": [
+        "Vous ne pouvez pas entrer en contact \n",
+        "avec {STRVAR_1 3, 0, 0}."
       ]
     },
     {
       "id": "pl_msg_00000674_00017",
-      "en_US": "Communicating with {STRVAR_1 3, 0, 0}..."
+      "en_US": "Communicating with {STRVAR_1 3, 0, 0}...",
+      "fr_FR": "Communication avec {STRVAR_1 3, 0, 0}..."
     },
     {
       "id": "pl_msg_00000674_00018",
-      "en_US": "{STRVAR_1 3, 0, 0} failed to respond..."
+      "en_US": "{STRVAR_1 3, 0, 0} failed to respond...",
+      "fr_FR": "{STRVAR_1 3, 0, 0} n’a pas répondu..."
     },
     {
       "id": "pl_msg_00000674_00019",
-      "en_US": "{STRVAR_1 3, 0, 0} ended the voice chat."
+      "en_US": "{STRVAR_1 3, 0, 0} ended the voice chat.",
+      "fr_FR": [
+        "{STRVAR_1 3, 0, 0} a mis fin \n",
+        "au tchat vocal."
+      ]
     },
     {
       "id": "pl_msg_00000674_00020",
       "en_US": [
         "Would you like to end\n",
         "this voice chat?"
+      ],
+      "fr_FR": [
+        "Voulez-vous mettre \n",
+        "fin au tchat vocal?"
       ]
     },
     {
       "id": "pl_msg_00000674_00021",
-      "en_US": "Nintendo Wi-Fi Connection"
+      "en_US": "Nintendo Wi-Fi Connection",
+      "fr_FR": "Connexion Wi-Fi Nintendo"
     },
     {
       "id": "pl_msg_00000674_00022",
@@ -141,43 +194,53 @@
     },
     {
       "id": "pl_msg_00000674_00027",
-      "en_US": "IN BATTLE"
+      "en_US": "IN BATTLE",
+      "fr_FR": "COMBAT"
     },
     {
       "id": "pl_msg_00000674_00028",
-      "en_US": "TRADE"
+      "en_US": "TRADE",
+      "fr_FR": "CHERCHE ECHANGE"
     },
     {
       "id": "pl_msg_00000674_00029",
-      "en_US": "TRADING..."
+      "en_US": "TRADING...",
+      "fr_FR": "ECHANGE"
     },
     {
       "id": "pl_msg_00000674_00030",
-      "en_US": "COOK"
+      "en_US": "COOK",
+      "fr_FR": "CHERCHE CUISINE"
     },
     {
       "id": "pl_msg_00000674_00031",
-      "en_US": "COOKING..."
+      "en_US": "COOKING...",
+      "fr_FR": "CUISINE"
     },
     {
       "id": "pl_msg_00000674_00032",
-      "en_US": "BATTLE FRONTIER"
+      "en_US": "BATTLE FRONTIER",
+      "fr_FR": "ZONE DE COMBAT"
     },
     {
       "id": "pl_msg_00000674_00033",
-      "en_US": "IN CHALLENGE..."
+      "en_US": "IN CHALLENGE...",
+      "fr_FR": "DEFI ZONE DE COMBAT"
     },
     {
       "id": "pl_msg_00000674_00034",
-      "en_US": "PLAZA GAMES"
+      "en_US": "PLAZA GAMES",
+      "fr_FR": "CHERCHE JEUX SQUARE"
     },
     {
       "id": "pl_msg_00000674_00035",
-      "en_US": "IN PLAY..."
+      "en_US": "IN PLAY...",
+      "fr_FR": "JEUX DU SQUARE"
     },
     {
       "id": "pl_msg_00000674_00036",
-      "en_US": "VOICE CHAT"
+      "en_US": "VOICE CHAT",
+      "fr_FR": "TCHAT VOCAL"
     },
     {
       "id": "pl_msg_00000674_00037",
@@ -189,7 +252,8 @@
     },
     {
       "id": "pl_msg_00000674_00039",
-      "en_US": "APPLY"
+      "en_US": "APPLY",
+      "fr_FR": "CONFIRMER"
     },
     {
       "id": "pl_msg_00000674_00040",
@@ -197,139 +261,173 @@
     },
     {
       "id": "pl_msg_00000674_00041",
-      "en_US": "CANCEL"
+      "en_US": "CANCEL",
+      "fr_FR": "ANNULER"
     },
     {
       "id": "pl_msg_00000674_00042",
-      "en_US": "{STRVAR_1 3, 0, 0}"
+      "en_US": "{STRVAR_1 3, 0, 0}",
+      "fr_FR": "{STRVAR_1 3, 0, 0}"
     },
     {
       "id": "pl_msg_00000674_00043",
-      "en_US": "GROUP"
+      "en_US": "GROUP",
+      "fr_FR": "GROUPE"
     },
     {
       "id": "pl_msg_00000674_00044",
-      "en_US": "BATTLE RECORD"
+      "en_US": "BATTLE RECORD",
+      "fr_FR": "DONNEES DE COMBAT"
     },
     {
       "id": "pl_msg_00000674_00045",
-      "en_US": "W: {STRVAR_1 53, 0, 0}"
+      "en_US": "W: {STRVAR_1 53, 0, 0}",
+      "fr_FR": "V: {STRVAR_1 53, 0, 0}"
     },
     {
       "id": "pl_msg_00000674_00046",
-      "en_US": "L: {STRVAR_1 53, 0, 0}"
+      "en_US": "L: {STRVAR_1 53, 0, 0}",
+      "fr_FR": "D: {STRVAR_1 53, 0, 0}"
     },
     {
       "id": "pl_msg_00000674_00047",
-      "en_US": "POKéMON TRADES"
+      "en_US": "POKéMON TRADES",
+      "fr_FR": "ECHANGES DE POKéMON"
     },
     {
       "id": "pl_msg_00000674_00048",
-      "en_US": "{STRVAR_1 53, 0, 0}"
+      "en_US": "{STRVAR_1 53, 0, 0}",
+      "fr_FR": "{STRVAR_1 53, 0, 0} fois"
     },
     {
       "id": "pl_msg_00000674_00049",
-      "en_US": "POFFIN SESSIONS"
+      "en_US": "POFFIN SESSIONS",
+      "fr_FR": "SEANCES POFFINS"
     },
     {
       "id": "pl_msg_00000674_00050",
-      "en_US": "{STRVAR_1 53, 0, 0}"
+      "en_US": "{STRVAR_1 53, 0, 0}",
+      "fr_FR": "{STRVAR_1 53, 0, 0}"
     },
     {
       "id": "pl_msg_00000674_00051",
-      "en_US": "DATE LAST PLAYED"
+      "en_US": "DATE LAST PLAYED",
+      "fr_FR": "DERNIERE RENCONTRE"
     },
     {
       "id": "pl_msg_00000674_00052",
-      "en_US": "BATTLE TOWER"
+      "en_US": "BATTLE TOWER",
+      "fr_FR": "TOUR DE COMBAT"
     },
     {
       "id": "pl_msg_00000674_00053",
-      "en_US": "BATTLE FACTORY"
+      "en_US": "BATTLE FACTORY",
+      "fr_FR": "USINE DE COMBAT"
     },
     {
       "id": "pl_msg_00000674_00054",
-      "en_US": "BATTLE CASTLE"
+      "en_US": "BATTLE CASTLE",
+      "fr_FR": "CASTEL DE COMBAT"
     },
     {
       "id": "pl_msg_00000674_00055",
-      "en_US": "BATTLE HALL"
+      "en_US": "BATTLE HALL",
+      "fr_FR": "SCENE DE COMBAT"
     },
     {
       "id": "pl_msg_00000674_00056",
-      "en_US": "BATTLE ARCADE"
+      "en_US": "BATTLE ARCADE",
+      "fr_FR": "ARCADE DE COMBAT"
     },
     {
       "id": "pl_msg_00000674_00057",
-      "en_US": "PREV"
+      "en_US": "PREV",
+      "fr_FR": "DERNIER"
     },
     {
       "id": "pl_msg_00000674_00058",
-      "en_US": "CURRENT"
+      "en_US": "CURRENT",
+      "fr_FR": "ACTUEL"
     },
     {
       "id": "pl_msg_00000674_00059",
-      "en_US": "RECORD"
+      "en_US": "RECORD",
+      "fr_FR": "MEILLEUR"
     },
     {
       "id": "pl_msg_00000674_00060",
-      "en_US": "LEVEL 50"
+      "en_US": "LEVEL 50",
+      "fr_FR": "NIVEAU 50"
     },
     {
       "id": "pl_msg_00000674_00061",
-      "en_US": "OPEN LEVEL"
+      "en_US": "OPEN LEVEL",
+      "fr_FR": "NIVEAU LIBRE"
     },
     {
       "id": "pl_msg_00000674_00062",
-      "en_US": "RENTAL/TRADE"
+      "en_US": "RENTAL/TRADE",
+      "fr_FR": "LOCATION/ECHANGE"
     },
     {
       "id": "pl_msg_00000674_00063",
-      "en_US": "CASTLE POINTS"
+      "en_US": "CASTLE POINTS",
+      "fr_FR": "POINTS CASTEL"
     },
     {
       "id": "pl_msg_00000674_00064",
-      "en_US": "{STRVAR_1 0, 0, 0}"
+      "en_US": "{STRVAR_1 0, 0, 0}",
+      "fr_FR": "RECORD DE {STRVAR_1 0, 0, 0}"
     },
     {
       "id": "pl_msg_00000674_00065",
-      "en_US": "WIN STREAK: {STRVAR_1 53, 0, 0}"
+      "en_US": "WIN STREAK: {STRVAR_1 53, 0, 0}",
+      "fr_FR": "{STRVAR_1 53, 0, 0} VICTOIRE(S)"
     },
     {
       "id": "pl_msg_00000674_00066",
-      "en_US": "{STRVAR_1 53, 0, 0}"
+      "en_US": "{STRVAR_1 53, 0, 0}",
+      "fr_FR": "{STRVAR_1 53, 0, 0}"
     },
     {
       "id": "pl_msg_00000674_00067",
-      "en_US": "{STRVAR_1 53, 0, 0} CP"
+      "en_US": "{STRVAR_1 53, 0, 0} CP",
+      "fr_FR": "{STRVAR_1 53, 0, 0} PCa"
     },
     {
       "id": "pl_msg_00000674_00068",
-      "en_US": "WIN STREAK: {STRVAR_1 53, 0, 0}"
+      "en_US": "WIN STREAK: {STRVAR_1 53, 0, 0}",
+      "fr_FR": "{STRVAR_1 53, 0, 0} VICTOIRE(S)"
     },
     {
       "id": "pl_msg_00000674_00069",
-      "en_US": "GAMES CLEARED: {STRVAR_1 53, 0, 0}"
+      "en_US": "GAMES CLEARED: {STRVAR_1 53, 0, 0}",
+      "fr_FR": "{STRVAR_1 53, 0, 0} VICTOIRE(S)"
     },
     {
       "id": "pl_msg_00000674_00070",
-      "en_US": "PLAZA GAMES PLAYED"
+      "en_US": "PLAZA GAMES PLAYED",
+      "fr_FR": "PARTICIPATIONS JEUX SQUARE"
     },
     {
       "id": "pl_msg_00000674_00071",
-      "en_US": "{STRVAR_6 0, 0, 0}"
+      "en_US": "{STRVAR_6 0, 0, 0}",
+      "fr_FR": "{STRVAR_6 0, 0, 0}"
     },
     {
       "id": "pl_msg_00000674_00072",
-      "en_US": "{STRVAR_1 53, 0, 0}"
+      "en_US": "{STRVAR_1 53, 0, 0}",
+      "fr_FR": "{STRVAR_1 53, 0, 0}"
     },
     {
       "id": "pl_msg_00000674_00073",
-      "en_US": "CLOSE"
+      "en_US": "CLOSE",
+      "fr_FR": "FERMER"
     },
     {
       "id": "pl_msg_00000674_00074",
-      "en_US": "{STRVAR_1 74, 1, 0} {STRVAR_1 51, 2, 0}, {STRVAR_1 53, 0, 0}"
+      "en_US": "{STRVAR_1 74, 1, 0} {STRVAR_1 51, 2, 0}, {STRVAR_1 53, 0, 0}",
+      "fr_FR": "{STRVAR_1 51, 2, 0} {STRVAR_1 74, 1, 0} {STRVAR_1 53, 0, 0}"
     },
     {
       "id": "pl_msg_00000674_00075",
@@ -337,13 +435,18 @@
     },
     {
       "id": "pl_msg_00000674_00076",
-      "en_US": "{STRVAR_1 3, 0, 0} wants to play with you!"
+      "en_US": "{STRVAR_1 3, 0, 0} wants to play with you!",
+      "fr_FR": "{STRVAR_1 3, 0, 0} veut jouer avec vous!"
     },
     {
       "id": "pl_msg_00000674_00077",
       "en_US": [
         "Would you like to have another\n",
         "battle against {STRVAR_1 3, 0, 0}?"
+      ],
+      "fr_FR": [
+        "Voulez-vous faire un autre combat\n",
+        "contre {STRVAR_1 3, 0, 0}?"
       ]
     },
     {
@@ -351,11 +454,16 @@
       "en_US": [
         "Would you like to do another\n",
         "trade with {STRVAR_1 3, 0, 0}?"
+      ],
+      "fr_FR": [
+        "Voulez-vous faire un autre \n",
+        "échange avec {STRVAR_1 3, 0, 0}?"
       ]
     },
     {
       "id": "pl_msg_00000674_00079",
-      "en_US": "Standing by..."
+      "en_US": "Standing by...",
+      "fr_FR": "En attente..."
     },
     {
       "id": "pl_msg_00000674_00080",
@@ -363,30 +471,42 @@
     },
     {
       "id": "pl_msg_00000674_00081",
-      "en_US": "{STRVAR_1 3, 0, 0} is in a battle."
+      "en_US": "{STRVAR_1 3, 0, 0} is in a battle.",
+      "fr_FR": "{STRVAR_1 3, 0, 0} est en plein combat."
     },
     {
       "id": "pl_msg_00000674_00082",
-      "en_US": "{STRVAR_1 3, 0, 0} is trading."
+      "en_US": "{STRVAR_1 3, 0, 0} is trading.",
+      "fr_FR": "{STRVAR_1 3, 0, 0} est en plein échange."
     },
     {
       "id": "pl_msg_00000674_00083",
-      "en_US": "{STRVAR_1 3, 0, 0} is cooking."
+      "en_US": "{STRVAR_1 3, 0, 0} is cooking.",
+      "fr_FR": "{STRVAR_1 3, 0, 0} est en train de cuisiner."
     },
     {
       "id": "pl_msg_00000674_00084",
       "en_US": [
         "{STRVAR_1 3, 0, 0} is in a Battle Frontier\n",
         "challenge."
+      ],
+      "fr_FR": [
+        "{STRVAR_1 3, 0, 0} relève un défi de la Zone\n",
+        "de Combat."
       ]
     },
     {
       "id": "pl_msg_00000674_00085",
-      "en_US": "{STRVAR_1 3, 0, 0} is playing a Plaza Game."
+      "en_US": "{STRVAR_1 3, 0, 0} is playing a Plaza Game.",
+      "fr_FR": "{STRVAR_1 3, 0, 0} joue à un Jeu du Square."
     },
     {
       "id": "pl_msg_00000674_00086",
-      "en_US": "{STRVAR_1 3, 0, 0} is having a voice chat."
+      "en_US": "{STRVAR_1 3, 0, 0} is having a voice chat.",
+      "fr_FR": [
+        "{STRVAR_1 3, 0, 0} est en \n",
+        "plein tchat vocal."
+      ]
     },
     {
       "id": "pl_msg_00000674_00087",
@@ -394,90 +514,121 @@
     },
     {
       "id": "pl_msg_00000674_00088",
-      "en_US": "Reconnect to Nintendo WFC?"
+      "en_US": "Reconnect to Nintendo WFC?",
+      "fr_FR": [
+        "Se reconnecter à la \n",
+        "connexion Wi-Fi Nintendo?"
+      ]
     },
     {
       "id": "pl_msg_00000674_00089",
       "en_US": [
         "You need at least two Pokémon\n",
         "if you want to trade!"
+      ],
+      "fr_FR": [
+        "Vous devez posséder au moins deux \n",
+        "Pokémon pour faire un échange!"
       ]
     },
     {
       "id": "pl_msg_00000674_00090",
-      "en_US": "Voice chat was turned ON.\r"
+      "en_US": "Voice chat was turned ON.\r",
+      "fr_FR": "Tchat vocal: OUI.\r"
     },
     {
       "id": "pl_msg_00000674_00091",
-      "en_US": "Voice chat was turned OFF.\r"
+      "en_US": "Voice chat was turned OFF.\r",
+      "fr_FR": "Tchat vocal: NON.\r"
     },
     {
       "id": "pl_msg_00000674_00092",
-      "en_US": "???"
+      "en_US": "???",
+      "fr_FR": "???"
     },
     {
       "id": "pl_msg_00000674_00093",
-      "en_US": "SINGLE BATTLE"
+      "en_US": "SINGLE BATTLE",
+      "fr_FR": "COMBAT SOLO"
     },
     {
       "id": "pl_msg_00000674_00094",
-      "en_US": "DOUBLE BATTLE"
+      "en_US": "DOUBLE BATTLE",
+      "fr_FR": "COMBAT DUO"
     },
     {
       "id": "pl_msg_00000674_00095",
-      "en_US": "FREE SINGLE"
+      "en_US": "FREE SINGLE",
+      "fr_FR": "SOLO LIBRE"
     },
     {
       "id": "pl_msg_00000674_00096",
-      "en_US": "LV. 50 SINGLE"
+      "en_US": "LV. 50 SINGLE",
+      "fr_FR": "SOLO N. 50"
     },
     {
       "id": "pl_msg_00000674_00097",
-      "en_US": "LV. 100 SINGLE"
+      "en_US": "LV. 100 SINGLE",
+      "fr_FR": "SOLO N. 100"
     },
     {
       "id": "pl_msg_00000674_00098",
-      "en_US": "FREE DOUBLE"
+      "en_US": "FREE DOUBLE",
+      "fr_FR": "DUO LIBRE"
     },
     {
       "id": "pl_msg_00000674_00099",
-      "en_US": "LV. 50 DOUBLE"
+      "en_US": "LV. 50 DOUBLE",
+      "fr_FR": "DUO N. 50"
     },
     {
       "id": "pl_msg_00000674_00100",
-      "en_US": "LV. 100 DOUBLE"
+      "en_US": "LV. 100 DOUBLE",
+      "fr_FR": "DUO N. 100"
     },
     {
       "id": "pl_msg_00000674_00101",
       "en_US": [
         "Your friend ended the communication\n",
         "battle."
-      ]
+      ],
+      "fr_FR": "Votre ami(e) a mis fin au combat Wi-Fi."
     },
     {
       "id": "pl_msg_00000674_00102",
-      "en_US": "Communicating. Please stand by..."
+      "en_US": "Communicating. Please stand by...",
+      "fr_FR": "Communication en cours..."
     },
     {
       "id": "pl_msg_00000674_00103",
       "en_US": [
         "You can’t have a Double Battle\n",
         "if you only have one Pokémon..."
+      ],
+      "fr_FR": [
+        "Vous ne pouvez pas participer a un \n",
+        "Combat Duo avec un seul Pokémon..."
       ]
     },
     {
       "id": "pl_msg_00000674_00104",
-      "en_US": "You don’t have any Berries..."
+      "en_US": "You don’t have any Berries...",
+      "fr_FR": "Vous n’avez pas de Baie..."
     },
     {
       "id": "pl_msg_00000674_00105",
-      "en_US": "Your Poffin Case is full."
+      "en_US": "Your Poffin Case is full.",
+      "fr_FR": "Votre Boîte Poffin est pleine."
     },
     {
       "id": "pl_msg_00000674_00106",
       "en_US": [
         "You can’t cook Berries if you don’t\n",
         "have a Poffin Case."
+      ],
+      "fr_FR": [
+        "Vous ne pouvez pas cuisiner de Baies\n",
+        "sans Boîte Poffin."
       ]
     },
     {
@@ -485,6 +636,10 @@
       "en_US": [
         "When the group is ready:\n",
         "A Button: Proceed   B Button: Cancel"
+      ],
+      "fr_FR": [
+        "Lorsque tous les joueurs sont prêts...\n",
+        "Bouton A: Confirmer   Bouton B: Annuler"
       ]
     },
     {
@@ -492,6 +647,10 @@
       "en_US": [
         "Someone wishes to join.\n",
         "Accept this Trainer as a member?"
+      ],
+      "fr_FR": [
+        "Une personne souhaite participer.\n",
+        "Accepter ce Dresseur?"
       ]
     },
     {
@@ -504,7 +663,8 @@
     },
     {
       "id": "pl_msg_00000674_00111",
-      "en_US": "Are these members OK?"
+      "en_US": "Are these members OK?",
+      "fr_FR": "Commencer avec ces participants?"
     },
     {
       "id": "pl_msg_00000674_00112",
@@ -516,13 +676,21 @@
     },
     {
       "id": "pl_msg_00000674_00114",
-      "en_US": "Awaiting {STRVAR_1 3, 0, 0}’s response..."
+      "en_US": "Awaiting {STRVAR_1 3, 0, 0}’s response...",
+      "fr_FR": [
+        "En attente d’une réponse\n",
+        "de {STRVAR_1 3, 0, 0}..."
+      ]
     },
     {
       "id": "pl_msg_00000674_00115",
       "en_US": [
         "{STRVAR_1 3, 0, 0} approved your\n",
         "member-registration request."
+      ],
+      "fr_FR": [
+        "{STRVAR_1 3, 0, 0} a accepté votre demande\n",
+        "de participation."
       ]
     },
     {
@@ -530,6 +698,10 @@
       "en_US": [
         "{STRVAR_1 3, 0, 0} turned down your\n",
         "member-registration request...\r"
+      ],
+      "fr_FR": [
+        "{STRVAR_1 3, 0, 0} a rejeté votre demande\n",
+        "de participation.\r"
       ]
     },
     {
@@ -541,64 +713,96 @@
       "en_US": [
         "A member had to drop out.\n",
         "Please register from the start again.\r"
+      ],
+      "fr_FR": [
+        "L’un des participants s’est désisté.\n",
+        "Veuillez recommencer la procédure.\r"
       ]
     },
     {
       "id": "pl_msg_00000674_00119",
-      "en_US": "There aren’t enough members.\r"
+      "en_US": "There aren’t enough members.\r",
+      "fr_FR": [
+        "Le nombre de participants est\n",
+        "insuffisant.\r"
+      ]
     },
     {
       "id": "pl_msg_00000674_00120",
-      "en_US": "Stop looking for members?"
+      "en_US": "Stop looking for members?",
+      "fr_FR": [
+        "Abandonner la recherche de\n",
+        "participants?"
+      ]
     },
     {
       "id": "pl_msg_00000674_00121",
       "en_US": [
         "If the leader drops out, the group will\n",
         "be disbanded. Is that OK?"
+      ],
+      "fr_FR": [
+        "Si le meneur se désiste, le groupe sera\n",
+        "dissous. Continuer?"
       ]
     },
     {
       "id": "pl_msg_00000674_00122",
-      "en_US": "The member invitations will be canceled."
+      "en_US": "The member invitations will be canceled.",
+      "fr_FR": [
+        "Annulation des invitations transmises\n",
+        "aux autres participants..."
+      ]
     },
     {
       "id": "pl_msg_00000674_00123",
-      "en_US": "Awaiting other members."
+      "en_US": "Awaiting other members.",
+      "fr_FR": "En attente de participants..."
     },
     {
       "id": "pl_msg_00000674_00124",
-      "en_US": "Is it OK to turn on the Voice Chat?"
+      "en_US": "Is it OK to turn on the Voice Chat?",
+      "fr_FR": "Activer le Tchat vocal?"
     },
     {
       "id": "pl_msg_00000674_00125",
-      "en_US": "Is it OK to turn off the Voice Chat?"
+      "en_US": "Is it OK to turn off the Voice Chat?",
+      "fr_FR": "Désactiver le Tchat vocal?"
     },
     {
       "id": "pl_msg_00000674_00126",
-      "en_US": "Seeking Poffin cooks!"
+      "en_US": "Seeking Poffin cooks!",
+      "fr_FR": "Cuisiniers recherchés!"
     },
     {
       "id": "pl_msg_00000674_00127",
-      "en_US": "Seeking {STRVAR_6 0, 0, 0} players!"
+      "en_US": "Seeking {STRVAR_6 0, 0, 0} players!",
+      "fr_FR": "Qui veut jouer à {STRVAR_6 0, 0, 0}?"
     },
     {
       "id": "pl_msg_00000674_00128",
-      "en_US": "Voice Chat ON/OFF: X Button"
+      "en_US": "Voice Chat ON/OFF: X Button",
+      "fr_FR": "Bouton X: Tchat vocal OUI/NON"
     },
     {
       "id": "pl_msg_00000674_00129",
-      "en_US": "{STRVAR_1 3, 0, 0}"
+      "en_US": "{STRVAR_1 3, 0, 0}",
+      "fr_FR": "{STRVAR_1 3, 0, 0}"
     },
     {
       "id": "pl_msg_00000674_00130",
-      "en_US": "ID {STRVAR_1 54, 0, 0}"
+      "en_US": "ID {STRVAR_1 54, 0, 0}",
+      "fr_FR": "Nº {STRVAR_1 54, 0, 0}"
     },
     {
       "id": "pl_msg_00000674_00131",
       "en_US": [
         "{STRVAR_1 3, 0, 0}\n",
         "ID {STRVAR_1 54, 1, 0}"
+      ],
+      "fr_FR": [
+        "{STRVAR_1 3, 0, 0}\n",
+        "Nº {STRVAR_1 54, 1, 0}"
       ]
     },
     {
@@ -606,6 +810,10 @@
       "en_US": [
         "The leader appears busy.\n",
         "Please apply again.\r"
+      ],
+      "fr_FR": [
+        "Le meneur est indisponible.\n",
+        "Veuillez réessayer ultérieurement.\r"
       ]
     },
     {
@@ -619,6 +827,12 @@
         "you play with this friend.\r",
         "Would you like to respond to this\n",
         "friend’s invitation?"
+      ],
+      "fr_FR": [
+        "Le tchat vocal sera activé quand \n",
+        "vous jouerez avec cette personne.\r",
+        "Voulez-vous répondre à \n",
+        "l’invitation de cette personne?"
       ]
     },
     {
@@ -628,6 +842,12 @@
         "you play with this friend.\r",
         "Would you like to respond to this\n",
         "friend’s invitation?"
+      ],
+      "fr_FR": [
+        "Le tchat vocal sera désactivé quand \n",
+        "vous jouerez avec cette personne.\r",
+        "Voulez-vous répondre à \n",
+        "l’invitation de cette personne?"
       ]
     },
     {
@@ -643,6 +863,10 @@
       "en_US": [
         "Waiting for the other player to\n",
         "decide. Please wait..."
+      ],
+      "fr_FR": [
+        "En attente de l’autre joueur.\n",
+        "Veuillez patienter..."
       ]
     },
     {
@@ -667,23 +891,28 @@
     },
     {
       "id": "pl_msg_00000674_00144",
-      "en_US": "WALKABOUT"
+      "en_US": "WALKABOUT",
+      "fr_FR": "WALKABOUT"
     },
     {
       "id": "pl_msg_00000674_00145",
-      "en_US": "MULTI BATTLE"
+      "en_US": "MULTI BATTLE",
+      "fr_FR": "MULTI BATTLE"
     },
     {
       "id": "pl_msg_00000674_00146",
-      "en_US": "2BITADPCM"
+      "en_US": "2BITADPCM",
+      "fr_FR": "2BITADPCM"
     },
     {
       "id": "pl_msg_00000674_00147",
-      "en_US": "3BITADPCM"
+      "en_US": "3BITADPCM",
+      "fr_FR": "3BITADPCM"
     },
     {
       "id": "pl_msg_00000674_00148",
-      "en_US": "4BITADPCM"
+      "en_US": "4BITADPCM",
+      "fr_FR": "4BITADPCM"
     },
     {
       "id": "pl_msg_00000674_00149",
@@ -691,7 +920,8 @@
     },
     {
       "id": "pl_msg_00000674_00150",
-      "en_US": "{STRVAR_1 3, 0, 0}"
+      "en_US": "{STRVAR_1 3, 0, 0}",
+      "fr_FR": "{STRVAR_1 3, 0, 0}"
     }
   ]
 }

@@ -60,6 +60,12 @@
                 "so many different Pokémon!\r",
                 "What kinds of Pokémon are with you?\n",
                 "Please, I want to have a look!\r"
+            ],
+            "fr_FR": [
+                "Le monde est immense et il y a tellement\n",
+                "de Pokémon différents!\r",
+                "Quels types de Pokémon as-tu?\n",
+                "S’il te plaît, montre-moi!\r"
             ]
         },
         {
@@ -67,6 +73,10 @@
             "en_US": [
                 "Wow, there are Pokémon that\n",
                 "wonderful!\n"
+            ],
+            "fr_FR": [
+                "Ouh, là, là, il existe des Pokémon\n",
+                "vraiment merveilleux!\n"
             ]
         },
         {
@@ -76,6 +86,12 @@
                 "about any Pokémon.\r",
                 "It’s so hard to decide which ones\n",
                 "I should raise.\n"
+            ],
+            "fr_FR": [
+                "On trouve toujours quelque chose qu’on\n",
+                "aime chez les Pokémon.\r",
+                "J’ai du mal à choisir ceux que je\n",
+                "voudrais élever.\n"
             ]
         },
         {
@@ -83,7 +99,12 @@
             "en_US": [
                 "If I’m having trouble deciding,\n",
                 "I go with my favorites!\r"
+            ],
+            "fr_FR": [
+                "Quand je n’arrive pas à me décider,\n",
+                "je choisis ceux que je préfère!\r"
             ]
         }
-    ]
+    ],
+    "name_fr": "Kelly"
 }

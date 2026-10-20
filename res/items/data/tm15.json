@@ -27,5 +27,13 @@
   "fieldUseFunc": "ITEM_USE_FUNC_TM_HM",
   "battleUseCategory": "BATTLE_USE_CATEGORY_NONE",
   "itemUseParams": null,
-  "teachesMove": "MOVE_HYPER_BEAM"
+  "teachesMove": "MOVE_HYPER_BEAM",
+  "name_fr": "CT15",
+  "description_fr": [
+    "Projette un puissant rayon sur\n",
+    "l’ennemi. Le lanceur doit se reposer\n",
+    "au tour suivant."
+  ],
+  "plural_fr": "CT15",
+  "article_fr": null
 }

@@ -26,5 +26,13 @@
   "battlePocket": "BATTLE_POCKET_MASK_NONE",
   "fieldUseFunc": "ITEM_USE_FUNC_NONE",
   "battleUseCategory": "BATTLE_USE_CATEGORY_NONE",
-  "itemUseParams": null
+  "itemUseParams": null,
+  "name_fr": "Lunet. Choix",
+  "description_fr": [
+    "Objet à tenir augmentant l’Atq. Spé.,\n",
+    "mais ne permettant d’utiliser qu’une\n",
+    "sorte de capacité."
+  ],
+  "plural_fr": "Lunet. Choix",
+  "article_fr": null
 }

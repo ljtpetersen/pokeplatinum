@@ -27,5 +27,13 @@
     "contest": {
         "effect": "CONTEST_EFFECT_BASIC",
         "type": "CONTEST_TYPE_COOL"
-    }
+    },
+    "name_fr": "Lutte",
+    "description_fr": [
+        "Une attaque \n",
+        "désespérée, lancée\n",
+        "quand le lanceur n’a\n",
+        "plus de PP. Le blesse\n",
+        "aussi légèrement."
+    ]
 }

@@ -27,5 +27,13 @@
   "fieldUseFunc": "ITEM_USE_FUNC_TM_HM",
   "battleUseCategory": "BATTLE_USE_CATEGORY_NONE",
   "itemUseParams": null,
-  "teachesMove": "MOVE_TORMENT"
+  "teachesMove": "MOVE_TORMENT",
+  "name_fr": "CT41",
+  "description_fr": [
+    "Le lanceur irrite l’ennemi pour\n",
+    "l’empêcher d’utiliser la même capacité\n",
+    "2 fois de suite."
+  ],
+  "plural_fr": "CT41",
+  "article_fr": null
 }

@@ -26,5 +26,13 @@
   "battlePocket": "BATTLE_POCKET_MASK_NONE",
   "fieldUseFunc": "ITEM_USE_FUNC_NONE",
   "battleUseCategory": "BATTLE_USE_CATEGORY_NONE",
-  "itemUseParams": null
+  "itemUseParams": null,
+  "name_fr": "Ceinture Pro",
+  "description_fr": [
+    "Objet à tenir. Ceinture usée augmentant\n",
+    "légèrement la puissance des capacités\n",
+    "super efficaces."
+  ],
+  "plural_fr": "Ceinture Pro",
+  "article_fr": null
 }

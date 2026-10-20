@@ -59,6 +59,10 @@
             "en_US": [
                 "I have a pack lunch all ready, and of\n",
                 "course I have some snacks."
+            ],
+            "fr_FR": [
+                "J’ai avec moi tout ce qu’il faut pour le\n",
+                "déjeuner, plus quelques extras."
             ]
         },
         {
@@ -66,14 +70,20 @@
             "en_US": [
                 "My favorite Pokémon make winning so\n",
                 "easy!\r"
-            ]
+            ],
+            "fr_FR": "Que la victoire est douce!\r"
         },
         {
             "type": "TRMSG_DEFEAT",
             "en_US": [
                 "Oh, no, no! I forgot to bring my\n",
                 "favorite Pokémon!\r"
+            ],
+            "fr_FR": [
+                "Oh non! J’aurais dû emmener mon\n",
+                "Pokémon préféré!\r"
             ]
         }
-    ]
+    ],
+    "name_fr": "Anne"
 }

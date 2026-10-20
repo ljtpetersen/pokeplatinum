@@ -85,6 +85,10 @@
             "en_US": [
                 "I’m cool, right? So, everywhere I work,\n",
                 "they make me the maitre d’..."
+            ],
+            "fr_FR": [
+                "J’ai l’air cool, non? Normal, j’ai été élu\n",
+                "employé du mois douze fois cette année!"
             ]
         },
         {
@@ -92,6 +96,10 @@
             "en_US": [
                 "I’m a good battler, too. I can’t help it\n",
                 "that the ladies fall for me.\r"
+            ],
+            "fr_FR": [
+                "Je serai peut-être aussi élu\n",
+                "Dresseur du mois maintenant!\r"
             ]
         },
         {
@@ -99,7 +107,12 @@
             "en_US": [
                 "I dream of evolving from a maitre d’ to\n",
                 "a celebrity chef.\r"
+            ],
+            "fr_FR": [
+                "Non! Je ne serai jamais élu Dresseur du\n",
+                "mois si je perds comme ça!\r"
             ]
         }
-    ]
+    ],
+    "name_fr": "Ralf"
 }

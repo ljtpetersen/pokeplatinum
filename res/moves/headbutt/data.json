@@ -27,5 +27,13 @@
     "contest": {
         "effect": "CONTEST_EFFECT_BASIC",
         "type": "CONTEST_TYPE_TOUGH"
-    }
+    },
+    "name_fr": "Coup d’Boule",
+    "description_fr": [
+        "Le lanceur lève la \n",
+        "tête avant d’asséner\n",
+        "un coup vers l’avant.\n",
+        "Peut apeurer\n",
+        "l’ennemi."
+    ]
 }

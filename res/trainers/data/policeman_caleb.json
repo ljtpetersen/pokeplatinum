@@ -33,6 +33,11 @@
                 "Whether there are problems or not, or\n",
                 "if crimes have been committed or not,\f",
                 "I still go out on patrol.\r"
+            ],
+            "fr_FR": [
+                "Peu importe que ce soit le calme plat,\n",
+                "je dois patrouiller quand même pour\f",
+                "décourager les malfaiteurs potentiels!\r"
             ]
         },
         {
@@ -40,6 +45,10 @@
             "en_US": [
                 "Big trouble! Officer in need\n",
                 "of assistance!\n"
+            ],
+            "fr_FR": [
+                "J’ai un sérieux pépin! Agent en\n",
+                "détresse, j’ai besoin d’aide!\n"
             ]
         },
         {
@@ -47,6 +56,10 @@
             "en_US": [
                 "Your toughness is too much!\n",
                 "I’m in serious trouble!\n"
+            ],
+            "fr_FR": [
+                "Ta force est intimidante!\n",
+                "Je suis vraiment dans le pétrin!\n"
             ]
         },
         {
@@ -54,6 +67,10 @@
             "en_US": [
                 "I don’t know how to say this, but\n",
                 "maybe we patrol too much.\n"
+            ],
+            "fr_FR": [
+                "Ça m’ennuie de dire ça, mais on devrait\n",
+                "peut-être réduire les patrouilles...\n"
             ]
         },
         {
@@ -61,7 +78,12 @@
             "en_US": [
                 "Let me ask you a question!\n",
                 "Are you tough enough to take me?\r"
+            ],
+            "fr_FR": [
+                "Laisse-moi te poser une question!\n",
+                "Tu te sens de taille à m’affronter?\r"
             ]
         }
-    ]
+    ],
+    "name_fr": "Davy"
 }

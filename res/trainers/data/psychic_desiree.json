@@ -43,6 +43,10 @@
             "en_US": [
                 "Allow me to demonstrate how a true\n",
                 "Psychic conducts a battle!\r"
+            ],
+            "fr_FR": [
+                "Permets-moi de te montrer comment une\n",
+                "vraie Kinésiste se bat!\r"
             ]
         },
         {
@@ -50,6 +54,10 @@
             "en_US": [
                 "Did I get to show you anything...?\n",
                 "Anything at all?\n"
+            ],
+            "fr_FR": [
+                "Je ne t’ai rien montré... n’est-ce pas?\n",
+                "Rien du tout...\n"
             ]
         },
         {
@@ -62,7 +70,18 @@
                 "either.\r",
                 "Using psychic power leaves me too worn\n",
                 "out!\n"
+            ],
+            "fr_FR": [
+                "A quoi peuvent servir des pouvoirs\n",
+                "psychiques?\r",
+                "En tout cas, ils ne doivent pas\n",
+                "servir à faire le mal.\r",
+                "Personnellement, je ne m’en sers pas\n",
+                "pour faire le bien non plus.\r",
+                "Utiliser mes pouvoirs psychiques est\n",
+                "bien trop fatigant!\n"
             ]
         }
-    ]
+    ],
+    "name_fr": "Katelyn"
 }

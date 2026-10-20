@@ -24,5 +24,12 @@
     "contest": {
         "effect": "CONTEST_EFFECT_SUPPRESS_VOLTAGE",
         "type": "CONTEST_TYPE_COOL"
-    }
+    },
+    "name_fr": "Bouclier",
+    "description_fr": [
+        "Le lanceur érige un\n",
+        "mur solide qui\n",
+        "augmente fortement\n",
+        "sa Défense."
+    ]
 }

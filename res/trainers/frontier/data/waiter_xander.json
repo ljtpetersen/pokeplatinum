@@ -77,18 +77,28 @@
             "en_US": [
                 "I’ll deliver defeat to you elegantly\n",
                 "and speedily."
+            ],
+            "fr_FR": [
+                "Je vais te servir ta défaite\n",
+                "sur un plateau d’argent."
             ]
         },
         {
             "type": "TRMSG_WIN",
-            "en_US": "Thank you for your patience!\r"
+            "en_US": "Thank you for your patience!\r",
+            "fr_FR": "Merci d’avoir patienté!\r"
         },
         {
             "type": "TRMSG_DEFEAT",
             "en_US": [
                 "I’m so terribly sorry.\n",
                 "I ended up with your intended defeat.\r"
+            ],
+            "fr_FR": [
+                "Oups! La défaite a été servie\n",
+                "au mauvais client!\r"
             ]
         }
-    ]
+    ],
+    "name_fr": "Miguel"
 }

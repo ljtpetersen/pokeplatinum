@@ -3,7 +3,8 @@
   "messages": [
     {
       "id": "TwinleafTown_Text_BigThud",
-      "en_US": "{SIZE 200}Thud!!{SIZE 100}\r"
+      "en_US": "{SIZE 200}Thud!!{SIZE 100}\r",
+      "fr_FR": "{SIZE 200}Boum!!!{SIZE 100}\r"
     },
     {
       "id": "TwinleafTown_Text_GoingToSeeProfRowan",
@@ -12,6 +13,12 @@
         "Oh, hey, {STRVAR_1 3, 1, 0}!\r",
         "Hey! I’m going to see Prof. Rowan!\n",
         "You should come, too! And quickly!\r"
+      ],
+      "fr_FR": [
+        "{STRVAR_1 3, 0, 0}: C’était quoi, ça?!\r",
+        "Hé, {STRVAR_1 3, 1, 0}!\r",
+        "Je vais voir le Professeur Sorbier!\n",
+        "Viens avec moi! Et que ça saute!\r"
       ]
     },
     {
@@ -19,6 +26,10 @@
       "en_US": [
         "{STRVAR_1 3, 0, 0}: Oh, jeez!\n",
         "Forgot something!\r"
+      ],
+      "fr_FR": [
+        "{STRVAR_1 3, 0, 0}: Oh, mince!\n",
+        "J’ai oublié un truc!\r"
       ]
     },
     {
@@ -28,6 +39,12 @@
         "{STRVAR_1 3, 1, 0} was looking for you.\r",
         "I think he’s home now.\n",
         "Why don’t you go check it out?\r"
+      ],
+      "fr_FR": [
+        "Salut, {STRVAR_1 3, 0, 0}.\n",
+        "{STRVAR_1 3, 1, 0} te cherchait.\r",
+        "Je crois qu’il est chez lui, maintenant.\n",
+        "Pourquoi tu ne vas pas vérifier?\r"
       ]
     },
     {
@@ -37,6 +54,12 @@
         "{STRVAR_1 3, 1, 0} was looking for you.\r",
         "I think he’s home now.\n",
         "Why don’t you go check it out?"
+      ],
+      "fr_FR": [
+        "Salut, {STRVAR_1 3, 0, 0}.\n",
+        "{STRVAR_1 3, 1, 0} te cherchait.\r",
+        "Je crois qu’il est chez lui, maintenant.\n",
+        "Pourquoi tu ne vas pas vérifier?"
       ]
     },
     {
@@ -48,6 +71,14 @@
         "while ago.\r",
         "He’s probably not gone too far.\n",
         "Why not go chase after him?"
+      ],
+      "fr_FR": [
+        "Salut, {STRVAR_1 3, 0, 0}.\n",
+        "Tu cherches {STRVAR_1 3, 1, 0}?\r",
+        "Il est parti à toute vitesse il y a un\n",
+        "petit moment.\r",
+        "Il n’est probablement pas loin.\n",
+        "Tu veux aller le chercher?"
       ]
     },
     {
@@ -58,6 +89,13 @@
         "...Ouch. He ran right into me earlier.\n",
         "It’s still hurting.\f",
         "That kid’s growing up tough."
+      ],
+      "fr_FR": [
+        "{STRVAR_1 3, 0, 0}? Il est parti à toute\n",
+        "vitesse, il y a un petit moment.\r",
+        "Aïe. Il m’a foncé dedans tout à l’heure.\n",
+        "Ça fait encore mal.\f",
+        "Il devient costaud en grandissant."
       ]
     },
     {
@@ -65,6 +103,10 @@
       "en_US": [
         "Everyone goes off on adventures,\n",
         "and then they gradually grow up..."
+      ],
+      "fr_FR": [
+        "Tout le monde part à l’aventure et\n",
+        "devient peu à peu adulte..."
       ]
     },
     {
@@ -74,6 +116,12 @@
         "people sometimes...\r",
         "But, Pokémon also open their hearts\n",
         "to you, so you can become friends."
+      ],
+      "fr_FR": [
+        "C’est vrai que les Pokémon sauvages\n",
+        "attaquent parfois les gens...\r",
+        "Mais il arrive également qu’ils\n",
+        "leur ouvrent leur cœur."
       ]
     },
     {
@@ -81,6 +129,10 @@
       "en_US": [
         "Oh! A Pokémon!\n",
         "You look good together!"
+      ],
+      "fr_FR": [
+        "Oh! Un Pokémon!\n",
+        "Vous allez bien ensemble!"
       ]
     },
     {
@@ -92,6 +144,13 @@
         "all over the place with Pokémon!\r",
         "That sounds like a lot of fun!\n",
         "I’m a little envious, to be honest!"
+      ],
+      "fr_FR": [
+        "Oh, tu aides à compléter un Pokédex?\r",
+        "Ça veut dire que tu vas voyager par\n",
+        "monts et par vaux avec des Pokémon!\r",
+        "Ça a l’air marrant! Je t’envie un peu,\n",
+        "pour être honnête!"
       ]
     },
     {
@@ -100,6 +159,12 @@
         "Technology just blows me away!\r",
         "I mean, now you can play with people\n",
         "around the world...wirelessly!"
+      ],
+      "fr_FR": [
+        "La technologie me coupe le souffle!\r",
+        "C’est vrai, maintenant, on peut jouer\n",
+        "avec des gens du monde entier...\f",
+        "sans fil!"
       ]
     },
     {
@@ -107,15 +172,21 @@
       "en_US": [
         "Twinleaf Town\n",
         "Fresh and Free!"
+      ],
+      "fr_FR": [
+        "Bonaugure\n",
+        "Jeune et libre"
       ]
     },
     {
       "id": "TwinleafTown_Text_PlayersHouse",
-      "en_US": "{STRVAR_1 3, 0, 0}’s House"
+      "en_US": "{STRVAR_1 3, 0, 0}’s House",
+      "fr_FR": "Chez {STRVAR_1 3, 0, 0}"
     },
     {
       "id": "TwinleafTown_Text_RivalsHouse",
-      "en_US": "{STRVAR_1 3, 0, 0}’s House"
+      "en_US": "{STRVAR_1 3, 0, 0}’s House",
+      "fr_FR": "Chez {STRVAR_1 3, 0, 0}"
     }
   ]
 }

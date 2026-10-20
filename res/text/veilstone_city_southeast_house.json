@@ -6,17 +6,26 @@
       "en_US": [
         "You there.\n",
         "Watch this Coin.\r"
+      ],
+      "fr_FR": [
+        "Toi, là-bas.\n",
+        "Vise un peu ce Jeton.\r"
       ]
     },
     {
       "id": "VeilstoneCitySoutheastHouse_Text_Spin",
-      "en_US": "Spin, spin, spin, spin, spin...\r"
+      "en_US": "Spin, spin, spin, spin, spin...\r",
+      "fr_FR": "Tourne, tourne, tourne...\r"
     },
     {
       "id": "VeilstoneCitySoutheastHouse_Text_LeftOrRightHand",
       "en_US": [
         "Now, which hand is that Coin in?\n",
         "My left or right?"
+      ],
+      "fr_FR": [
+        "Alors, dans quel main est le Jeton?\n",
+        "La gauche ou la droite?"
       ]
     },
     {
@@ -24,6 +33,10 @@
       "en_US": [
         "Boo! Poor show!\n",
         "I challenge you to challenge it again!"
+      ],
+      "fr_FR": [
+        "Bouh! La honte!\n",
+        "Réessaye un peu pour voir!"
       ]
     },
     {
@@ -33,6 +46,12 @@
         "A winner is you!\r",
         "For our winner, I have here...\n",
         "A Coin Case!\r"
+      ],
+      "fr_FR": [
+        "Bravo!\n",
+        "Joli coup!\r",
+        "C’est une bien belle victoire, \n",
+        "tu as mérité cette Boîte Jetons!\r"
       ]
     },
     {
@@ -40,6 +59,10 @@
       "en_US": [
         "Me, I am but a tearful clown.\n",
         "Though I smile, I cry inside."
+      ],
+      "fr_FR": [
+        "Moi, je ne suis qu’un clown triste.\n",
+        "Ce sourire dissimule une âme en peine."
       ]
     },
     {
@@ -49,6 +72,12 @@
         "You know, the performance artists?\r",
         "Don’t you think that maybe, say,\n",
         "five percent are actually psychics?"
+      ],
+      "fr_FR": [
+        "Il y a beaucoup de magiciens dans le \n",
+        "monde. Tu sais, les baguettes, tout ça!\r",
+        "Mais en tout, il n’y en a que 5%\n",
+        "qui ont de vrais pouvoirs, non?"
       ]
     }
   ]

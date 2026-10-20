@@ -10,6 +10,13 @@
         "people worldwide over Nintendo WFC.\r",
         "Would you like to do a global\n",
         "Pokémon trade?"
+      ],
+      "fr_FR": [
+        "Bienvenue à la GTS.\r",
+        "Nous permettons l’échange de Pokémon\n",
+        "à travers le monde via la CWF Nintendo.\r",
+        "Voulez-vous faire un échange de\n",
+        "Pokémon au niveau mondial?"
       ]
     },
     {
@@ -19,6 +26,13 @@
         "Welcome to the GTS!\r",
         "Would you like to do a global\n",
         "Pokémon trade over Nintendo WFC?"
+      ],
+      "fr_FR": [
+        "Bonjour!\n",
+        "Bienvenue à la GTS!\r",
+        "Voulez-vous faire un échange de\n",
+        "Pokémon au niveau mondial via la\f",
+        "CWF Nintendo?"
       ]
     },
     {
@@ -30,6 +44,15 @@
         "or search among offered Pokémon.\r",
         "Should I describe things in greater\n",
         "detail?"
+      ],
+      "fr_FR": [
+        "Vous pouvez faire un échange de\n",
+        "Pokémon de deux façons à la GTS.\r",
+        "Vous pouvez offrir un Pokémon en\n",
+        "échange ou en chercher un parmi ceux\f",
+        "proposés.\r",
+        "Voulez-vous avoir une explication plus\n",
+        "complète?"
       ]
     },
     {
@@ -43,6 +66,16 @@
         "Pokémon in return for your offered\f",
         "Pokémon, the trade will go through.\r",
         "Should I explain anything else?"
+      ],
+      "fr_FR": [
+        "On vous demandera de choisir le\n",
+        "Pokémon que vous voulez échanger.\r",
+        "Puis, on vous demandera quel Pokémon\n",
+        "vous voulez en échange.\r",
+        "Si un autre joueur échange le Pokémon\n",
+        "que vous cherchez contre celui que\f",
+        "vous proposez, l’échange aura lieu.\r",
+        "Voulez-vous savoir autre chose?"
       ]
     },
     {
@@ -56,6 +89,16 @@
         "must provide us with the kind of\f",
         "Pokémon wanted in return.\r",
         "Should I explain anything else?"
+      ],
+      "fr_FR": [
+        "Vous devez chercher parmi les Pokémon\n",
+        "que les autres Dresseurs proposent.\r",
+        "Il est toujours indiqué quel Pokémon\n",
+        "leur Dresseur souhaite recevoir.\r",
+        "Si vous en trouvez un que vous voulez,\n",
+        "vous devez nous fournir le Pokémon\f",
+        "souhaité en échange.\r",
+        "Voulez-vous savoir autre chose?"
       ]
     },
     {
@@ -63,18 +106,24 @@
       "en_US": [
         "Would you like to make a global\n",
         "Pokémon trade?"
+      ],
+      "fr_FR": [
+        "Voulez-vous faire un échange de\n",
+        "Pokémon au niveau mondial?"
       ]
     },
     {
       "id": "pl_msg_00000375_00006",
-      "en_US": "Please do visit again."
+      "en_US": "Please do visit again.",
+      "fr_FR": "J’espère que vous reviendrez."
     },
     {
       "id": "pl_msg_00000375_00007",
       "en_US": [
         "I hope you enjoy your visit\n",
         "to the GTS!"
-      ]
+      ],
+      "fr_FR": "Passez un bon moment à la GTS!"
     },
     {
       "id": "pl_msg_00000375_00008",
@@ -82,6 +131,11 @@
         "That’s a big globe, eh?\r",
         "Where do I live on it now?\n",
         "Let’s see if I can point it out..."
+      ],
+      "fr_FR": [
+        "C’est un grand globe, hein?\r",
+        "Où se trouve l’endroit où je vis?\n",
+        "Voyons si je peux le trouver..."
       ]
     },
     {
@@ -90,6 +144,11 @@
         "They say if you communicate with\n",
         "someone, their location is\f",
         "recorded on this giant globe."
+      ],
+      "fr_FR": [
+        "Il paraît que si on communique avec\n",
+        "quelqu’un, la région où il habite est\f",
+        "enregistrée sur ce globe terrestre."
       ]
     },
     {
@@ -99,6 +158,12 @@
         "here to trade.\r",
         "Who knows, it might be traded while\n",
         "I’m asleep tonight."
+      ],
+      "fr_FR": [
+        "Tout ce que je dois faire, c’est laisser\n",
+        "un Pokémon ici pour un échange.\r",
+        "Qui sait, il sera peut-être échangé\n",
+        "pendant que je dors cette nuit."
       ]
     },
     {
@@ -107,6 +172,12 @@
         "You can easily trade Pokémon with\n",
         "Pokémon fans from around the world.\r",
         "Isn’t that something?"
+      ],
+      "fr_FR": [
+        "On peut facilement échanger des\n",
+        "Pokémon avec des fans de Pokémon du\f",
+        "monde entier.\r",
+        "C’est incroyable, n’est-ce pas?"
       ]
     },
     {
@@ -117,6 +188,13 @@
         "Once you do, your location will\n",
         "be displayed to anyone you\f",
         "communicate with."
+      ],
+      "fr_FR": [
+        "Tu peux enregistrer l’endroit où tu vis\n",
+        "sur ce globe géant.\r",
+        "Ensuite, ceux qui effectueront une\n",
+        "communication avec toi sauront où\f",
+        "tu habites."
       ]
     },
     {
@@ -126,6 +204,12 @@
         "even I can use easily?\r",
         "If it is really that easy, I’d love\n",
         "to trade Pokémon, too!"
+      ],
+      "fr_FR": [
+        "Est-ce que la CWF Nintendo est une\n",
+        "chose que je peux utiliser facilement?\r",
+        "Si c’est vraiment si facile, j’adorerais\n",
+        "échanger des Pokémon, moi aussi!"
       ]
     }
   ]

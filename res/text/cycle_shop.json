@@ -8,6 +8,12 @@
         "This is something to show my thanks!\r",
         "It’s the latest model Bicycle!\n",
         "You must take it. I insist!\r"
+      ],
+      "fr_FR": [
+        "Merci de m’avoir sauvé!\n",
+        "Tiens, en gage de ma gratitude!\r",
+        "C’est le dernier modèle de Bicyclette!\n",
+        "Allez, prends-le, j’insiste!\r"
       ]
     },
     {
@@ -21,11 +27,22 @@
         "fast, but it’s easier to control.\r",
         "In fourth gear, it gets harder to\n",
         "steer and stop, but it’s fast! Really!"
+      ],
+      "fr_FR": [
+        "C’est une Bicyclette dernier cri,\n",
+        "laisse-moi te lire le mode d’emploi.\r",
+        "“Appuyez sur le bouton B pour\n",
+        "changer de vitesse.\r",
+        "En troisième vitesse, la Bicyclette est\n",
+        "maniable mais un peu lente.\r",
+        "En quatrième vitesse, ça va si vite\n",
+        "qu’on a du mal à tourner et à freiner!”"
       ]
     },
     {
       "id": "CycleShop_Text_ClefairyPipPiih",
-      "en_US": "CLEFAIRY: Pip piih!"
+      "en_US": "CLEFAIRY: Pip piih!",
+      "fr_FR": "MELOFEE: Méloooo méloooo!"
     },
     {
       "id": "CycleShop_Text_ManagersGoneOff",
@@ -33,6 +50,11 @@
         "The manager’s gone off to the Team\n",
         "Galactic building and hasn’t returned.\r",
         "I wonder what’s holding him up?"
+      ],
+      "fr_FR": [
+        "Le gérant est entré dans le bâtiment de\n",
+        "la Team Galaxie. Il n’est pas ressorti.\r",
+        "Je me demande ce qui le retient là-bas."
       ]
     },
     {
@@ -40,6 +62,10 @@
       "en_US": [
         "What was Team Galactic trying to do\n",
         "with other people’s Pokémon?"
+      ],
+      "fr_FR": [
+        "Qu’est-ce que la Team Galaxie comptait\n",
+        "faire avec les Pokémon des habitants?"
       ]
     },
     {
@@ -51,6 +77,14 @@
         "Fourth gear for all-out speed!\r",
         "Change gears with the B Button for\n",
         "exhilarating cycling!"
+      ],
+      "fr_FR": [
+        "Il y a le mode d’emploi du dernier\n",
+        "modèle de Bicyclette.\r",
+        "En troisième vitesse pour manœuvrer.\n",
+        "En quatrième vitesse pour foncer!\r",
+        "Changez de vitesse avec le bouton B!\n",
+        "C’est bon, vous pouvez pédaler!"
       ]
     },
     {
@@ -62,6 +96,14 @@
         "for blazing speed!\r",
         "Acro Bike--a folding Bike designed for\n",
         "stunts like jumps and wheelies!"
+      ],
+      "fr_FR": [
+        "Il y a un catalogue de vélos en vogue\n",
+        "dans la région de Hoenn...\r",
+        "Vélo Course: un vélo pliable conçu\n",
+        "exclusivement pour la vitesse!\r",
+        "Vélo Cross: un vélo pliable conçu\n",
+        "exclusivement pour la cascade!"
       ]
     }
   ]

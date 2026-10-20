@@ -37,6 +37,10 @@
             "en_US": [
                 "I’m always ready for the public eye.\n",
                 "You can come at me at your own pace."
+            ],
+            "fr_FR": [
+                "Je suis toujours disponible pour mon\n",
+                "public. N’hésite pas à venir me voir."
             ]
         },
         {
@@ -44,6 +48,10 @@
             "en_US": [
                 "That’s why people consider me the\n",
                 "perfect Idol.\r"
+            ],
+            "fr_FR": [
+                "C’est pour cela que les gens me\n",
+                "considèrent comme une grande Star.\r"
             ]
         },
         {
@@ -51,7 +59,12 @@
             "en_US": [
                 "I didn’t know how bad it feels to lose.\n",
                 "This is a first for me.\r"
+            ],
+            "fr_FR": [
+                "Non! Je n’avais jamais perdu avant.\n",
+                "C’est une grande première pour moi.\r"
             ]
         }
-    ]
+    ],
+    "name_fr": "Darlène"
 }

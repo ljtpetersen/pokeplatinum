@@ -23,11 +23,17 @@
             "en_US": [
                 "Hey, you feisty tyke! I caught me\n",
                 "a big one! Let’s battle again!\r"
+            ],
+            "fr_FR": [
+                "Hé, toi, mioche téméraire! J’ai attrapé\n",
+                "un gros Pokémon! Battons-nous encore!\r"
             ]
         },
         {
             "type": "TRMSG_DEFEAT",
-            "en_US": "I let a big win slip away...\n"
+            "en_US": "I let a big win slip away...\n",
+            "fr_FR": "Une belle victoire m’a échappé...\n"
         }
-    ]
+    ],
+    "name_fr": "Parfait"
 }

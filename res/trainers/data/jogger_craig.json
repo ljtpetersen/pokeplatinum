@@ -32,11 +32,16 @@
             "en_US": [
                 "If I battle now, won’t it mess up my\n",
                 "usual pace?\r"
+            ],
+            "fr_FR": [
+                "Je ne risque pas de perdre mon rythme\n",
+                "en combattant maintenant?\r"
             ]
         },
         {
             "type": "TRMSG_DEFEAT",
-            "en_US": "My pace is completely off...\n"
+            "en_US": "My pace is completely off...\n",
+            "fr_FR": "Mon rythme est complètement décalé...\n"
         },
         {
             "type": "TRMSG_POST_BATTLE",
@@ -45,6 +50,12 @@
                 "important than it seems.\r",
                 "If you match your goal with someone\n",
                 "else, you’ll lose your identity.\n"
+            ],
+            "fr_FR": [
+                "Croire en ses rêves, c’est plus\n",
+                "important qu’il n’y paraît.\r",
+                "Si on s’attache à ceux des autres,\n",
+                "on perd son identité.\n"
             ]
         },
         {
@@ -53,6 +64,11 @@
                 "Well, yes, sometimes I do walk.\n",
                 "I even stop on occasion.\r",
                 "I am human, after all.\n"
+            ],
+            "fr_FR": [
+                "Eh bien oui, ça m’arrive de marcher.\n",
+                "Parfois, je m’arrête, même.\r",
+                "Je suis humain, tu sais.\n"
             ]
         },
         {
@@ -60,7 +76,12 @@
             "en_US": [
                 "Up till now, I’d maintained my pace.\n",
                 "But seeing you threw me off!\r"
+            ],
+            "fr_FR": [
+                "Jusqu’à maintenant, je tenais le \n",
+                "rythme. Et en te voyant, je l’ai perdu!\r"
             ]
         }
-    ]
+    ],
+    "name_fr": "Damian"
 }

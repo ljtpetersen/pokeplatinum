@@ -27,5 +27,13 @@
     "contest": {
         "effect": "CONTEST_EFFECT_NO_VOLTAGE_DOWN",
         "type": "CONTEST_TYPE_CUTE"
-    }
+    },
+    "name_fr": "Rugissement",
+    "description_fr": [
+        "Le lanceur pousse un\n",
+        "cri tout mimi pour\n",
+        "tromper la vigilance \n",
+        "de l’ennemi et baisser\n",
+        "son Attaque."
+    ]
 }

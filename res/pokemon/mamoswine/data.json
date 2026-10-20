@@ -7,7 +7,10 @@
         "special_attack": 70,
         "special_defense": 60
     },
-    "types": [ "TYPE_ICE", "TYPE_GROUND" ],
+    "types": [
+        "TYPE_ICE",
+        "TYPE_GROUND"
+    ],
     "catch_rate": 50,
     "base_exp_reward": 207,
     "ev_yields": {
@@ -26,32 +29,92 @@
     "hatch_cycles": 20,
     "base_friendship": 70,
     "exp_rate": "EXP_RATE_SLOW",
-    "egg_groups": [ "EGG_GROUP_FIELD", "EGG_GROUP_FIELD" ],
-    "abilities": [ "ABILITY_OBLIVIOUS", "ABILITY_SNOW_CLOAK" ],
+    "egg_groups": [
+        "EGG_GROUP_FIELD",
+        "EGG_GROUP_FIELD"
+    ],
+    "abilities": [
+        "ABILITY_OBLIVIOUS",
+        "ABILITY_SNOW_CLOAK"
+    ],
     "safari_flee_rate": 0,
     "body_color": "MON_COLOR_BROWN",
     "flip_sprite": false,
     "icon_palette": 2,
     "learnset": {
         "by_level": [
-            [ 1, "MOVE_ANCIENT_POWER" ],
-            [ 1, "MOVE_PECK" ],
-            [ 1, "MOVE_ODOR_SLEUTH" ],
-            [ 1, "MOVE_MUD_SPORT" ],
-            [ 1, "MOVE_POWDER_SNOW" ],
-            [ 4, "MOVE_MUD_SPORT" ],
-            [ 8, "MOVE_POWDER_SNOW" ],
-            [ 13, "MOVE_MUD_SLAP" ],
-            [ 16, "MOVE_ENDURE" ],
-            [ 20, "MOVE_MUD_BOMB" ],
-            [ 25, "MOVE_HAIL" ],
-            [ 28, "MOVE_ICE_FANG" ],
-            [ 32, "MOVE_TAKE_DOWN" ],
-            [ 33, "MOVE_DOUBLE_HIT" ],
-            [ 40, "MOVE_EARTHQUAKE" ],
-            [ 48, "MOVE_MIST" ],
-            [ 56, "MOVE_BLIZZARD" ],
-            [ 65, "MOVE_SCARY_FACE" ]
+            [
+                1,
+                "MOVE_ANCIENT_POWER"
+            ],
+            [
+                1,
+                "MOVE_PECK"
+            ],
+            [
+                1,
+                "MOVE_ODOR_SLEUTH"
+            ],
+            [
+                1,
+                "MOVE_MUD_SPORT"
+            ],
+            [
+                1,
+                "MOVE_POWDER_SNOW"
+            ],
+            [
+                4,
+                "MOVE_MUD_SPORT"
+            ],
+            [
+                8,
+                "MOVE_POWDER_SNOW"
+            ],
+            [
+                13,
+                "MOVE_MUD_SLAP"
+            ],
+            [
+                16,
+                "MOVE_ENDURE"
+            ],
+            [
+                20,
+                "MOVE_MUD_BOMB"
+            ],
+            [
+                25,
+                "MOVE_HAIL"
+            ],
+            [
+                28,
+                "MOVE_ICE_FANG"
+            ],
+            [
+                32,
+                "MOVE_TAKE_DOWN"
+            ],
+            [
+                33,
+                "MOVE_DOUBLE_HIT"
+            ],
+            [
+                40,
+                "MOVE_EARTHQUAKE"
+            ],
+            [
+                48,
+                "MOVE_MIST"
+            ],
+            [
+                56,
+                "MOVE_BLIZZARD"
+            ],
+            [
+                65,
+                "MOVE_SCARY_FACE"
+            ]
         ],
         "by_tm": [
             "TM05",
@@ -104,7 +167,7 @@
             "MOVE_KNOCK_OFF"
         ]
     },
-    "evolutions": [  ],
+    "evolutions": [],
     "offspring": "SPECIES_SWINUB",
     "footprint": {
         "has": true,
@@ -127,9 +190,9 @@
             "name": "MAMOSWINE",
             "category": "Twin Tusk Pokémon",
             "entry_text": [
-                "A frozen one was dug up from\n",
-                "soil dating back 10,000 years. It\n",
-                "woke up to much amazement."
+                "Its impressive tusks are made of\n",
+                "ice. The population thinned when it\n",
+                "turned warm after the ice age."
             ]
         },
         "fr": {
@@ -175,6 +238,18 @@
                 "こおりで　できた　りっぱな　キバ。\n",
                 "ひょうがきが　おわり　あたたかく\n",
                 "なったため　かずが　へってしまった。"
+            ]
+        },
+        "local_version": {
+            "entry_text": [
+                "A frozen one was dug up from\n",
+                "soil dating back 10,000 years. It\n",
+                "woke up to much amazement."
+            ],
+            "entry_text_fr": [
+                "On a libéré un spécimen de sa prison\n",
+                "glacée au bout de 10 000 ans.\n",
+                "Il n’en revenait pas."
             ]
         }
     },

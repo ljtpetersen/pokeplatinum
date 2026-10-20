@@ -26,5 +26,13 @@
   "battlePocket": "BATTLE_POCKET_MASK_NONE",
   "fieldUseFunc": "ITEM_USE_FUNC_NONE",
   "battleUseCategory": "BATTLE_USE_CATEGORY_NONE",
-  "itemUseParams": null
+  "itemUseParams": null,
+  "name_fr": "Pierre Magma",
+  "description_fr": [
+    "Pierre formée à partir de roche en\n",
+    "fusion solidifiée. Elle contient du\n",
+    "magma."
+  ],
+  "plural_fr": "Pierre Magma",
+  "article_fr": null
 }

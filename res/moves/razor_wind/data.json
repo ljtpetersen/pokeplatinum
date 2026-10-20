@@ -26,5 +26,13 @@
     "contest": {
         "effect": "CONTEST_EFFECT_UNIQUE_JUDGE",
         "type": "CONTEST_TYPE_COOL"
-    }
+    },
+    "name_fr": "Coupe-Vent",
+    "description_fr": [
+        "Attaque en 2 tours.\n",
+        "Des lames de vent\n",
+        "frappent l’ennemi au\n",
+        "2⁴ tour. Taux de\n",
+        "critiques élevé."
+    ]
 }

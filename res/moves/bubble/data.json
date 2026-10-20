@@ -25,5 +25,11 @@
     "contest": {
         "effect": "CONTEST_EFFECT_LAST_NEXT_TURN",
         "type": "CONTEST_TYPE_CUTE"
-    }
+    },
+    "name_fr": "Ecume",
+    "description_fr": [
+        "Des bulles frappent\n",
+        "l’ennemi. Peut réduire\n",
+        "sa Vitesse."
+    ]
 }

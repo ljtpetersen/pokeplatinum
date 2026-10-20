@@ -41,18 +41,28 @@
             "en_US": [
                 "Did you come to play, too?\n",
                 "Wanna play battle with me?\r"
+            ],
+            "fr_FR": [
+                "Tu viens pour jouer, toi aussi?\n",
+                "Tu veux faire un combat?\r"
             ]
         },
         {
             "type": "TRMSG_DEFEAT",
-            "en_US": "You were just toying with me!"
+            "en_US": "You were just toying with me!",
+            "fr_FR": "Tu voulais juste te moquer de moi!"
         },
         {
             "type": "TRMSG_POST_BATTLE",
             "en_US": [
                 "I’m playing hide-and-seek here.\n",
                 "I like some underground tag, too.\n"
+            ],
+            "fr_FR": [
+                "Je joue à cache-cache ici.\n",
+                "J’aime aussi jouer à chat sous terre.\n"
             ]
         }
-    ]
+    ],
+    "name_fr": "Vincent"
 }

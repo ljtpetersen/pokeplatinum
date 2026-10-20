@@ -27,5 +27,12 @@
     "contest": {
         "effect": "CONTEST_EFFECT_FINAL_PERFORMANCE_ADVANTAGE",
         "type": "CONTEST_TYPE_SMART"
-    }
+    },
+    "name_fr": "Feinte",
+    "description_fr": [
+        "Le lanceur s’approche\n",
+        "l’air de rien avant de\n",
+        "frapper par surprise.\n",
+        "N’échoue jamais."
+    ]
 }

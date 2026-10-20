@@ -58,13 +58,18 @@
     "messages": [
         {
             "type": "TRMSG_LAST_BATTLER",
-            "en_US": "My last Pokémon.\n"
+            "en_US": "My last Pokémon.\n",
+            "fr_FR": "Mon dernier Pokémon.\n"
         },
         {
             "type": "TRMSG_LAST_BATTLER_HALF_HP",
             "en_US": [
                 "I see... I may lose if this pace\n",
                 "continues...\n"
+            ],
+            "fr_FR": [
+                "Je vois... Je vais perdre si ça continue\n",
+                "à ce rythme...\n"
             ]
         },
         {
@@ -72,7 +77,12 @@
             "en_US": [
                 "Interesting.\n",
                 "And quite curious.\n"
+            ],
+            "fr_FR": [
+                "Intéressant.\n",
+                "Et très étrange.\n"
             ]
         }
-    ]
+    ],
+    "name_fr": "Hélio"
 }

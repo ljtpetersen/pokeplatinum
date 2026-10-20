@@ -26,5 +26,13 @@
   "battlePocket": "BATTLE_POCKET_MASK_NONE",
   "fieldUseFunc": "ITEM_USE_FUNC_NONE",
   "battleUseCategory": "BATTLE_USE_CATEGORY_NONE",
-  "itemUseParams": null
+  "itemUseParams": null,
+  "name_fr": "Poudre Vite",
+  "description_fr": [
+    "Objet à faire tenir à METAMORPH. Cette\n",
+    "poudre étrange, très fine mais\n",
+    "résistante, augmente sa Vitesse."
+  ],
+  "plural_fr": "Poudre Vite",
+  "article_fr": null
 }

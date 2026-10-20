@@ -33,11 +33,17 @@
                 "Spark!\r",
                 "This is what our Gym Leader did\n",
                 "to the Gym out of boredom!\r"
+            ],
+            "fr_FR": [
+                "Des étincelles!\r",
+                "C’est ce que notre Champion a installé\n",
+                "dans l’Arène pour chasser son ennui!\r"
             ]
         },
         {
             "type": "TRMSG_DEFEAT",
-            "en_US": "Spark...\n"
+            "en_US": "Spark...\n",
+            "fr_FR": "Des étincelles...\n"
         },
         {
             "type": "TRMSG_POST_BATTLE",
@@ -45,7 +51,13 @@
                 "We were lacking energy...\r",
                 "No, we lacked more than that. We\n",
                 "didn’t want the win enough.\n"
+            ],
+            "fr_FR": [
+                "On manquait d’énergie...\r",
+                "Non, il nous manquait autre chose.\n",
+                "La volonté de gagner.\n"
             ]
         }
-    ]
+    ],
+    "name_fr": "Virgile"
 }

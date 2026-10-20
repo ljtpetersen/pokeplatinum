@@ -27,5 +27,12 @@
     "contest": {
         "effect": "CONTEST_EFFECT_CONSECUTIVE_USE",
         "type": "CONTEST_TYPE_TOUGH"
-    }
+    },
+    "name_fr": "Mania",
+    "description_fr": [
+        "Une attaque furieuse\n",
+        "qui dure de 2 à 3\n",
+        "tours. Le lanceur\n",
+        "devient confus."
+    ]
 }

@@ -3,203 +3,253 @@
   "messages": [
     {
       "id": "pl_msg_00000654_00000",
-      "en_US": "Calm & relaxed"
+      "en_US": "Calm & relaxed",
+      "fr_FR": "Le calme"
     },
     {
       "id": "pl_msg_00000654_00001",
-      "en_US": "Idol"
+      "en_US": "Idol",
+      "fr_FR": "Star"
     },
     {
       "id": "pl_msg_00000654_00002",
-      "en_US": "Fire type"
+      "en_US": "Fire type",
+      "fr_FR": "Feu"
     },
     {
       "id": "pl_msg_00000654_00003",
-      "en_US": "Battle"
+      "en_US": "Battle",
+      "fr_FR": "Des combats"
     },
     {
       "id": "pl_msg_00000654_00004",
-      "en_US": "Yes"
+      "en_US": "Yes",
+      "fr_FR": "Oui"
     },
     {
       "id": "pl_msg_00000654_00005",
-      "en_US": "Pokémon Center"
+      "en_US": "Pokémon Center",
+      "fr_FR": "Centre Pokémon"
     },
     {
       "id": "pl_msg_00000654_00006",
-      "en_US": "Appearance"
+      "en_US": "Appearance",
+      "fr_FR": "L’apparence"
     },
     {
       "id": "pl_msg_00000654_00007",
-      "en_US": "Outside"
+      "en_US": "Outside",
+      "fr_FR": "A l’extérieur"
     },
     {
       "id": "pl_msg_00000654_00008",
-      "en_US": "Eaten..."
+      "en_US": "Eaten...",
+      "fr_FR": "Manger"
     },
     {
       "id": "pl_msg_00000654_00009",
-      "en_US": "Paralysis"
+      "en_US": "Paralysis",
+      "fr_FR": "Paralysie"
     },
     {
       "id": "pl_msg_00000654_00010",
-      "en_US": "Frozen"
+      "en_US": "Frozen",
+      "fr_FR": "Gel"
     },
     {
       "id": "pl_msg_00000654_00011",
-      "en_US": "Potion"
+      "en_US": "Potion",
+      "fr_FR": "Les Potions"
     },
     {
       "id": "pl_msg_00000654_00012",
-      "en_US": "On the water"
+      "en_US": "On the water",
+      "fr_FR": "Les points d’eau"
     },
     {
       "id": "pl_msg_00000654_00013",
-      "en_US": "In the morning"
+      "en_US": "In the morning",
+      "fr_FR": "Le matin"
     },
     {
       "id": "pl_msg_00000654_00014",
-      "en_US": "Parents"
+      "en_US": "Parents",
+      "fr_FR": "Mes parents"
     },
     {
       "id": "pl_msg_00000654_00015",
-      "en_US": "Awakening"
+      "en_US": "Awakening",
+      "fr_FR": "Réveil"
     },
     {
       "id": "pl_msg_00000654_00016",
-      "en_US": "SWALOT"
+      "en_US": "SWALOT",
+      "fr_FR": "Gob’Tout"
     },
     {
       "id": "pl_msg_00000654_00017",
-      "en_US": "Power"
+      "en_US": "Power",
+      "fr_FR": "La puissance"
     },
     {
       "id": "pl_msg_00000654_00018",
-      "en_US": "Yes"
+      "en_US": "Yes",
+      "fr_FR": "Oui"
     },
     {
       "id": "pl_msg_00000654_00019",
-      "en_US": "Soda Pop"
+      "en_US": "Soda Pop",
+      "fr_FR": "Soda Cool"
     },
     {
       "id": "pl_msg_00000654_00020",
-      "en_US": "Choice Band"
+      "en_US": "Choice Band",
+      "fr_FR": "Band. Choix"
     },
     {
       "id": "pl_msg_00000654_00021",
-      "en_US": "Technical Machine"
+      "en_US": "Technical Machine",
+      "fr_FR": "Capsule Technique"
     },
     {
       "id": "pl_msg_00000654_00022",
-      "en_US": "One from a trade"
+      "en_US": "One from a trade",
+      "fr_FR": "Echange"
     },
     {
       "id": "pl_msg_00000654_00023",
-      "en_US": "Tough & cool"
+      "en_US": "Tough & cool",
+      "fr_FR": "Sang-froid"
     },
     {
       "id": "pl_msg_00000654_00024",
-      "en_US": "Friend"
+      "en_US": "Friend",
+      "fr_FR": "Un ami"
     },
     {
       "id": "pl_msg_00000654_00025",
-      "en_US": "Live wild & free"
+      "en_US": "Live wild & free",
+      "fr_FR": "Etre libre"
     },
     {
       "id": "pl_msg_00000654_00026",
-      "en_US": "A Pokémon flees"
+      "en_US": "A Pokémon flees",
+      "fr_FR": "Capture ratée"
     },
     {
       "id": "pl_msg_00000654_00027",
-      "en_US": "Battle music"
+      "en_US": "Battle music",
+      "fr_FR": "Thèmes de combat"
     },
     {
       "id": "pl_msg_00000654_00028",
-      "en_US": "Use right away"
+      "en_US": "Use right away",
+      "fr_FR": "Utiliser aussitôt"
     },
     {
       "id": "pl_msg_00000654_00029",
-      "en_US": "Neat & tidy"
+      "en_US": "Neat & tidy",
+      "fr_FR": "Très bien rangées"
     },
     {
       "id": "pl_msg_00000654_00030",
-      "en_US": "About the same"
+      "en_US": "About the same",
+      "fr_FR": "Homogène"
     },
     {
       "id": "pl_msg_00000654_00031",
-      "en_US": "Mostly items"
+      "en_US": "Mostly items",
+      "fr_FR": "Des objets"
     },
     {
       "id": "pl_msg_00000654_00032",
-      "en_US": "Everyone knows"
+      "en_US": "Everyone knows",
+      "fr_FR": "Bien sûr"
     },
     {
       "id": "pl_msg_00000654_00033",
-      "en_US": "Bicycle"
+      "en_US": "Bicycle",
+      "fr_FR": "A Bicyclette"
     },
     {
       "id": "pl_msg_00000654_00034",
-      "en_US": "Physical attacks"
+      "en_US": "Physical attacks",
+      "fr_FR": "Att. physiques"
     },
     {
       "id": "pl_msg_00000654_00035",
-      "en_US": "Cry"
+      "en_US": "Cry",
+      "fr_FR": "Leurs cris"
     },
     {
       "id": "pl_msg_00000654_00036",
-      "en_US": "Ghost Pokémon"
+      "en_US": "Ghost Pokémon",
+      "fr_FR": "Pokémon Spectre"
     },
     {
       "id": "pl_msg_00000654_00037",
-      "en_US": "Spend it shopping"
+      "en_US": "Spend it shopping",
+      "fr_FR": "Le dépenser"
     },
     {
       "id": "pl_msg_00000654_00038",
-      "en_US": "A Pokémon"
+      "en_US": "A Pokémon",
+      "fr_FR": "Un Pokémon"
     },
     {
       "id": "pl_msg_00000654_00039",
-      "en_US": "Attack stats"
+      "en_US": "Attack stats",
+      "fr_FR": "Son Attaque"
     },
     {
       "id": "pl_msg_00000654_00040",
-      "en_US": "Yes"
+      "en_US": "Yes",
+      "fr_FR": "Oui"
     },
     {
       "id": "pl_msg_00000654_00041",
-      "en_US": "People names"
+      "en_US": "People names",
+      "fr_FR": "Noms de gens"
     },
     {
       "id": "pl_msg_00000654_00042",
-      "en_US": "Rock Smash"
+      "en_US": "Rock Smash",
+      "fr_FR": "Eclate-Roc"
     },
     {
       "id": "pl_msg_00000654_00043",
-      "en_US": "Cure with an item"
+      "en_US": "Cure with an item",
+      "fr_FR": "Utiliser un objet"
     },
     {
       "id": "pl_msg_00000654_00044",
-      "en_US": "Yes"
+      "en_US": "Yes",
+      "fr_FR": "Oui"
     },
     {
       "id": "pl_msg_00000654_00045",
-      "en_US": "Cut"
+      "en_US": "Cut",
+      "fr_FR": "Coupe"
     },
     {
       "id": "pl_msg_00000654_00046",
-      "en_US": "Yes"
+      "en_US": "Yes",
+      "fr_FR": "Oui"
     },
     {
       "id": "pl_msg_00000654_00047",
-      "en_US": "Location"
+      "en_US": "Location",
+      "fr_FR": "Où il se trouve"
     },
     {
       "id": "pl_msg_00000654_00048",
-      "en_US": "Fave Pokémon!"
+      "en_US": "Fave Pokémon!",
+      "fr_FR": "Mes Pokémon"
     },
     {
       "id": "pl_msg_00000654_00049",
-      "en_US": "Friendly"
+      "en_US": "Friendly",
+      "fr_FR": "Amicaux"
     }
   ]
 }

@@ -27,5 +27,12 @@
   "fieldUseFunc": "ITEM_USE_FUNC_TM_HM",
   "battleUseCategory": "BATTLE_USE_CATEGORY_NONE",
   "itemUseParams": null,
-  "teachesMove": "MOVE_DRAGON_CLAW"
+  "teachesMove": "MOVE_DRAGON_CLAW",
+  "name_fr": "CT02",
+  "description_fr": [
+    "Le lanceur lacère l’ennemi de ses\n",
+    "grandes griffes aiguisées."
+  ],
+  "plural_fr": "CT02",
+  "article_fr": null
 }

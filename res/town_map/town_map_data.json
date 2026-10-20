@@ -4,11 +4,13 @@
     "messages": [
       {
         "id": "TownMap_Text_FlyToWhere",
-        "en_US": "Fly to where?"
+        "en_US": "Fly to where?",
+        "fr_FR": "Voler où?"
       },
       {
         "id": "TownMap_Text_GuideMap",
-        "en_US": "GUIDE MAP"
+        "en_US": "GUIDE MAP",
+        "fr_FR": "CARTE"
       }
     ]
   },
@@ -20,6 +22,11 @@
           "A small path through a lush, green,\n",
           "wooded area. The densely grown trees\n",
           "give off a thick aroma."
+        ],
+        "fr_FR": [
+          "Un petit chemin traversant une forêt\n",
+          "verte et luxuriante. Des arbres en rangs\n",
+          "serrés se dégage un parfum puissant."
         ]
       }
     },
@@ -30,6 +37,11 @@
           "A winding path that twists through\n",
           "grassy fields. Young Trainers like to\n",
           "test their battle skills here."
+        ],
+        "fr_FR": [
+          "Un chemin tortueux qui serpente à\n",
+          "travers les hautes herbes. Les nouveaux\n",
+          "Dresseurs viennent s’y entraîner."
         ]
       }
     },
@@ -40,6 +52,11 @@
           "Despite being so close to a big town,\n",
           "this path retains its relaxed, natural\n",
           "atmosphere."
+        ],
+        "fr_FR": [
+          "Bien qu’il soit proche d’une grande ville,\n",
+          "ce chemin conserve une atmosphère\n",
+          "relaxante et naturelle."
         ]
       }
     },
@@ -49,6 +66,11 @@
         "en_US": [
           "A charmingly natural path that wanders\n",
           "past many ponds and groves of trees."
+        ],
+        "fr_FR": [
+          "Un chemin avec un charme naturel qui\n",
+          "traverse de nombreux points d’eau et\n",
+          "des bosquets."
         ]
       }
     },
@@ -59,6 +81,11 @@
           "A wide, wooden walkway spans a large\n",
           "pond. Fishermen idle their time away\n",
           "dangling lines from the walkway."
+        ],
+        "fr_FR": [
+          "Une allée large et boisée qui enjambe une\n",
+          "rivière. Les pêcheurs passent le temps\n",
+          "en lançant leur ligne depuis le bord."
         ]
       }
     },
@@ -69,6 +96,11 @@
           "A quietly flowing stream and hilly\n",
           "terrain with one-way ledges make this\n",
           "a fun area for adventure."
+        ],
+        "fr_FR": [
+          "Cette zone est parfaite pour l’aventure\n",
+          "avec son ruisseau paisible, son terrain\n",
+          "vallonné et ses chemins à sens unique."
         ]
       }
     },
@@ -78,6 +110,10 @@
         "en_US": [
           "Smoothly paved in asphalt, the Cycling\n",
           "Road is heavenly for bicycle lovers."
+        ],
+        "fr_FR": [
+          "Recouverte d’asphalte, la Piste Cyclable\n",
+          "est le paradis des amoureux du vélo."
         ]
       }
     },
@@ -88,6 +124,11 @@
           "Located at the foot of Mt. Coronet,\n",
           "this road is carved into the rugged,\n",
           "rocky terrain."
+        ],
+        "fr_FR": [
+          "Située au pied du Mont Couronné, cette\n",
+          "route est construite sur un terrain\n",
+          "rocheux et accidenté."
         ]
       }
     },
@@ -98,6 +139,11 @@
           "A lush field of grass spreads from\n",
           "Mt. Coronet’s sheer rock face,\n",
           "creating a vista of contrasts."
+        ],
+        "fr_FR": [
+          "Un champ d’herbe luxuriant s’étend\n",
+          "depuis la partie rocheuse du Mont\n",
+          "Couronné, créant une vue contrastée."
         ]
       }
     },
@@ -108,6 +154,11 @@
           "The streams forded by this path wind\n",
           "past copses and grassy patches in\n",
           "a serene and soothing manner."
+        ],
+        "fr_FR": [
+          "Les ruisseaux que franchit ce chemin\n",
+          "serpentent entre bosquets et hautes\n",
+          "herbes de façon sereine et apaisante."
         ]
       }
     },
@@ -117,6 +168,10 @@
         "en_US": [
           "A canyon covered in untamed nature.\n",
           "It is always shrouded by a dense fog."
+        ],
+        "fr_FR": [
+          "Un canyon envahi par la végétation. Un\n",
+          "épais brouillard y règne en permanence."
         ]
       }
     },
@@ -127,6 +182,11 @@
           "This narrow route is lined with deep,\n",
           "tall grass that tickles the noses of\n",
           "people straying off the path."
+        ],
+        "fr_FR": [
+          "Cette route étroite est bordée d’herbes\n",
+          "hautes qui chatouillent le nez de ceux\n",
+          "qui s’éloignent du chemin."
         ]
       }
     },
@@ -137,6 +197,11 @@
           "A mountain path that tunnels through\n",
           "Mt. Coronet, one of the tallest\n",
           "mountains in Sinnoh."
+        ],
+        "fr_FR": [
+          "Un chemin de montagne qui passe sous le\n",
+          "Mont Couronné, l’une des plus hautes\n",
+          "montagnes de Sinnoh."
         ]
       }
     },
@@ -147,6 +212,11 @@
           "A tall, sturdy wall surrounds an\n",
           "expansive estate that takes up nearly\n",
           "half of the road space."
+        ],
+        "fr_FR": [
+          "Un mur droit et haut entoure une\n",
+          "propriété luxueuse qui occupe près de\n",
+          "la moitié de l’espace."
         ]
       }
     },
@@ -157,6 +227,11 @@
           "This path weaves among deep puddles\n",
           "made by the unending rainfall. It is\n",
           "wet and miserable for Trainers."
+        ],
+        "fr_FR": [
+          "Ce chemin zigzague entre les flaques\n",
+          "formées par les pluies incessantes. Il\n",
+          "est boueux et ardu pour les Dresseurs."
         ]
       }
     },
@@ -167,6 +242,11 @@
           "Offshore boulders form a jetty that\n",
           "becalms waves reaching the beach.\n",
           "A resort hotel overlooks the water."
+        ],
+        "fr_FR": [
+          "Les rochers au large forment une jetée\n",
+          "qui calme les vagues atteignant la plage.\n",
+          "Un hôtel surplombe l’océan."
         ]
       }
     },
@@ -177,6 +257,11 @@
           "The road joining Veilstone City and a\n",
           "lake is described as either “wildly\n",
           "natural” or simply “a mess.”"
+        ],
+        "fr_FR": [
+          "Ce chemin reliant Voilaroc et un lac\n",
+          "est décrit parfois comme “sauvagement\n",
+          "naturel” ou simplement “en désordre”."
         ]
       }
     },
@@ -187,6 +272,11 @@
           "This area is always inundated by heavy\n",
           "rainfall. Only hardy Trainers that can\n",
           "take the rain gather here."
+        ],
+        "fr_FR": [
+          "Cette zone est toujours balayée par de\n",
+          "fortes pluies. Seuls les Dresseurs\n",
+          "endurcis s’y rassemblent."
         ]
       }
     },
@@ -197,6 +287,11 @@
           "This mountainous road leads from Mt.\n",
           "Coronet. Its constant snowfall and\n",
           "deep snowdrifts impede travelers."
+        ],
+        "fr_FR": [
+          "Cette route de montagne part du Mont\n",
+          "Couronné. De fortes chutes de neige et\n",
+          "des congères ralentissent les voyageurs."
         ]
       }
     },
@@ -207,6 +302,11 @@
           "Snow blows down from Mt. Coronet and\n",
           "grows into a harsh, ceaseless blizzard.\n",
           "Be prepared for the worst."
+        ],
+        "fr_FR": [
+          "La neige tombant sur le Mont Couronné\n",
+          "se transforme ici en blizzard rigoureux\n",
+          "et incessant. Préparez-vous au pire!"
         ]
       }
     },
@@ -217,6 +317,11 @@
           "Despite its shortness, this road is\n",
           "revered by fishing enthusiasts as a\n",
           "great, yet little known, fishing spot."
+        ],
+        "fr_FR": [
+          "Bien que courte, cette route est très\n",
+          "appréciée des amateurs de pêche car elle\n",
+          "mène à des eaux riches en poissons."
         ]
       }
     },
@@ -227,6 +332,11 @@
           "A beautiful white-sand beach only five\n",
           "seconds on foot from Sandgem Town.\n",
           "A pleasant breeze blows from the sea."
+        ],
+        "fr_FR": [
+          "Une belle plage de sable blanc à quelques\n",
+          "secondes à pied de Littorella. Une\n",
+          "brise agréable souffle depuis la mer."
         ]
       }
     },
@@ -237,6 +347,11 @@
           "The sea here is perfect for swimming,\n",
           "with gentle winds and tides. There are\n",
           "sandbars for resting, too."
+        ],
+        "fr_FR": [
+          "Ici, la mer est parfaite pour nager, avec\n",
+          "des vents et des marées calmes. Il y a\n",
+          "même des bancs de sable pour se reposer."
         ]
       }
     },
@@ -246,6 +361,10 @@
         "en_US": [
           "A straight path hemmed by green grass\n",
           "and sparse stands of trees."
+        ],
+        "fr_FR": [
+          "Un chemin rectiligne bordé d’herbe et\n",
+          "de quelques arbres."
         ]
       }
     },
@@ -256,6 +375,11 @@
           "A sandy beach extends from the road.\n",
           "The beach is busy with avid Fishermen\n",
           "happily casting at the water’s edge."
+        ],
+        "fr_FR": [
+          "Au bout de cette route s’étend une plage\n",
+          "sableuse, peuplée de pêcheurs zélés qui\n",
+          "lancent leur ligne depuis le bord."
         ]
       }
     },
@@ -266,6 +390,11 @@
           "A marine route that requires travelers\n",
           "to navigate around jutting rocks and\n",
           "sandbars."
+        ],
+        "fr_FR": [
+          "Sur cette route marine, les voyageurs\n",
+          "doivent naviguer entre les rochers\n",
+          "saillants et les bancs de sable."
         ]
       }
     },
@@ -276,6 +405,11 @@
           "With grass fields, rocky outcroppings,\n",
           "the sea, and sandbars, this area is\n",
           "like a miniature of the Sinnoh region."
+        ],
+        "fr_FR": [
+          "Avec ses champs d’herbe, ses saillies\n",
+          "rocheuses, sa mer et ses bancs de sable,\n",
+          "cette zone est comme une mini-Sinnoh."
         ]
       }
     },
@@ -286,6 +420,11 @@
           "The path makes its way up and down\n",
           "among rocky outcroppings. It is\n",
           "physically challenging."
+        ],
+        "fr_FR": [
+          "Ce chemin monte et descend le long des\n",
+          "affleurements rocheux. C’est un vrai défi\n",
+          "physique."
         ]
       }
     },
@@ -296,6 +435,11 @@
           "A path that winds precariously along\n",
           "sheer cliffs that go right to the edge\n",
           "of the sea’s pounding waves."
+        ],
+        "fr_FR": [
+          "Un chemin qui serpente dangereusement le\n",
+          "long de falaises à pic plongeant tout\n",
+          "droit dans les vagues qui les martèlent."
         ]
       }
     },
@@ -306,6 +450,11 @@
           "A rugged and steep mountain path\n",
           "where vision is limited by steadily\n",
           "falling volcanic ash."
+        ],
+        "fr_FR": [
+          "Un chemin de montagne accidenté où la\n",
+          "vision est limitée par la chute constante\n",
+          "de cendres volcaniques."
         ]
       }
     },
@@ -316,6 +465,11 @@
           "This rough path is harshly raked by\n",
           "a horizontally blowing sandstorm\n",
           "driven by strong winds off the sea."
+        ],
+        "fr_FR": [
+          "Ce chemin difficile est balayé par une\n",
+          "tempête de sable portée par des vents\n",
+          "soufflant à l’horizontale depuis la mer."
         ]
       }
     },
@@ -326,6 +480,11 @@
           "A seaside path that makes its way\n",
           "through wildly growing trees and\n",
           "plants."
+        ],
+        "fr_FR": [
+          "Un chemin en bord de mer qui est bordé\n",
+          "d’arbres et de plantes en pleine\n",
+          "croissance."
         ]
       }
     },
@@ -336,6 +495,11 @@
           "A sea route that stretches from west\n",
           "to east. There is an island that is\n",
           "rich with plant life along the way."
+        ],
+        "fr_FR": [
+          "Une route maritime qui s’étend d’ouest\n",
+          "en est. On y trouve une île à la\n",
+          "végétation luxuriante."
         ]
       }
     },
@@ -346,6 +510,10 @@
           "A straight path bounded by the sea on\n",
           "both sides. It leads to the Flower\n",
           "Paradise."
+        ],
+        "fr_FR": [
+          "Un chemin rectiligne délimité par la mer.\n",
+          "Il mène au Paradis Fleuri."
         ]
       }
     },
@@ -359,6 +527,11 @@
           "A small town with the fresh scent\n",
           "of new leaves in the air. It feels\n",
           "like a place where adventures start."
+        ],
+        "fr_FR": [
+          "Une petite ville où flotte dans l’air une\n",
+          "odeur de jeunes pousses. On dirait le\n",
+          "lieu idéal pour commencer une aventure."
         ]
       }
     },
@@ -372,6 +545,11 @@
           "A sandy town that is located right\n",
           "next to a beach. It is redolent with\n",
           "the salty scent of the sea."
+        ],
+        "fr_FR": [
+          "Une ville située tout à côté d’une plage.\n",
+          "Il y flotte une puissante odeur\n",
+          "d’embruns."
         ]
       }
     },
@@ -385,6 +563,11 @@
           "A town of flower lovers, Floaroma Town\n",
           "is always perfumed with the sweet\n",
           "scent of flowers."
+        ],
+        "fr_FR": [
+          "Ville des amoureux des fleurs, il flotte\n",
+          "toujours dans l’air de Floraville le\n",
+          "parfum sucré des fleurs."
         ]
       }
     },
@@ -398,6 +581,11 @@
           "The temperate climate makes this town\n",
           "a relaxed and casual place for people\n",
           "and Pokémon to live in."
+        ],
+        "fr_FR": [
+          "Un climat tempéré fait de cette ville un\n",
+          "endroit tranquille et décontracté pour\n",
+          "les gens et les Pokémon qui y vivent."
         ]
       }
     },
@@ -410,6 +598,11 @@
         "en_US": [
           "A tiny town that preserves the history\n",
           "of Sinnoh and the old ways of life."
+        ],
+        "fr_FR": [
+          "Une toute petite ville qui préserve\n",
+          "l’histoire de Sinnoh et perpétue les\n",
+          "anciennes traditions."
         ]
       }
     },
@@ -423,6 +616,11 @@
           "A town where hot-blooded Trainers\n",
           "gather to work out and hone their\n",
           "battling skills."
+        ],
+        "fr_FR": [
+          "Une ville où les Dresseurs passionnés se\n",
+          "rassemblent pour s’entraîner et\n",
+          "développer leurs aptitudes au combat."
         ]
       }
     },
@@ -436,6 +634,11 @@
           "A town that attracts Trainers who\n",
           "know there are other ways of enjoying\n",
           "Pokémon than battling."
+        ],
+        "fr_FR": [
+          "Une ville attirant les Dresseurs qui\n",
+          "savent aussi apprécier la compagnie des\n",
+          "Pokémon en dehors des combats."
         ]
       }
     },
@@ -449,6 +652,11 @@
           "The most modernized city in the Sinnoh\n",
           "region. It is bustling with people on\n",
           "the go."
+        ],
+        "fr_FR": [
+          "Sans cesse en mouvement, débordante\n",
+          "d’activité, c’est la ville la plus moderne\n",
+          "de la région de Sinnoh."
         ]
       }
     },
@@ -462,6 +670,11 @@
           "A port city that is bisected by a\n",
           "canal. It has a distinctly exotic air\n",
           "of foreign culture."
+        ],
+        "fr_FR": [
+          "Une ville portuaire qui est coupée en\n",
+          "deux par un canal. Sa culture étrangère\n",
+          "lui donne un air exotique."
         ]
       }
     },
@@ -475,6 +688,11 @@
           "A vibrant and energetic mining town\n",
           "that is blessed with a precious natural\n",
           "resource."
+        ],
+        "fr_FR": [
+          "Une ville minière vibrante et énergique\n",
+          "où l’on exploite une précieuse ressource\n",
+          "naturelle."
         ]
       }
     },
@@ -488,6 +706,11 @@
           "An old city that shows fading and\n",
           "almost-forgotten vestiges of ancient\n",
           "history."
+        ],
+        "fr_FR": [
+          "Une ville ancienne où se trouvent les\n",
+          "vestiges défraîchis d’une histoire\n",
+          "presque oubliée de tous."
         ]
       }
     },
@@ -501,6 +724,11 @@
           "This friendly city started as a place\n",
           "where people and Pokémon gathered,\n",
           "then grew into a center of commerce."
+        ],
+        "fr_FR": [
+          "Jadis, cette ville agréable était un lieu\n",
+          "de communion entre hommes et Pokémon.\n",
+          "C’est aujourd’hui un lieu de commerce."
         ]
       }
     },
@@ -514,6 +742,11 @@
           "This city was originally founded to\n",
           "protect the Great Marsh. It has grown\n",
           "naturally over the years."
+        ],
+        "fr_FR": [
+          "Cette ville fut fondée à l’origine pour\n",
+          "protéger le Grand Marais. Elle s’est bien\n",
+          "développée au fil des années."
         ]
       }
     },
@@ -527,6 +760,11 @@
           "This city was made by carving out\n",
           "steep, rocky mountains. Its isolation\n",
           "limits its contact with other cities."
+        ],
+        "fr_FR": [
+          "Cette ville creusée dans la montagne\n",
+          "est très isolée et entretient très peu\n",
+          "de relations avec les autres cités."
         ]
       }
     },
@@ -540,6 +778,11 @@
           "A port city that was built around the\n",
           "bay portion of the cape. It is criss-\n",
           "crossed by elevated walkways."
+        ],
+        "fr_FR": [
+          "Cette ville côtière nichée dans la\n",
+          "baie du cap est parcourue par des\n",
+          "passages surélevés qui s’entrecroisent."
         ]
       }
     },
@@ -553,6 +796,11 @@
           "A winter wonderland of a city where\n",
           "stout trees and buildings are blanketed\n",
           "in thick snow."
+        ],
+        "fr_FR": [
+          "Une merveille de ville hivernale où les\n",
+          "grands arbres et les bâtiments sont\n",
+          "couronnés d’une neige épaisse."
         ]
       }
     },
@@ -573,6 +821,11 @@
           "Trainers seeking to become the best\n",
           "arrive here after enduring a long and\n",
           "grueling journey."
+        ],
+        "fr_FR": [
+          "Les Dresseurs en quête de gloire\n",
+          "arrivent ici après un long et dur\n",
+          "voyage."
         ]
       }
     },
@@ -585,6 +838,11 @@
         "en_US": [
           "A tiny port city where Trainers who\n",
           "love battling more than eating gather."
+        ],
+        "fr_FR": [
+          "Une petite ville portuaire où se\n",
+          "rassemblent les Dresseurs qui \n",
+          "aiment combattre plutôt que manger."
         ]
       }
     },
@@ -595,6 +853,11 @@
           "One of the lakes that is symbolic of\n",
           "the water-rich Sinnoh region. There is\n",
           "an odd legend associated with it."
+        ],
+        "fr_FR": [
+          "Un des lacs illustrant la richesse en\n",
+          "eau de la région de Sinnoh. Une\n",
+          "légende étrange lui est associée."
         ]
       }
     },
@@ -605,6 +868,11 @@
           "One of the lakes that is symbolic of\n",
           "the water-rich Sinnoh region. There is\n",
           "an odd legend associated with it."
+        ],
+        "fr_FR": [
+          "Un des lacs illustrant la richesse en\n",
+          "eau de la région de Sinnoh. Une\n",
+          "légende étrange lui est associée."
         ]
       }
     },
@@ -615,6 +883,11 @@
           "One of the lakes that is symbolic of\n",
           "the water-rich Sinnoh region. There is\n",
           "an odd legend associated with it."
+        ],
+        "fr_FR": [
+          "Un des lacs illustrant la richesse en\n",
+          "eau de la région de Sinnoh. Une\n",
+          "légende étrange lui est associée."
         ]
       }
     },
@@ -624,6 +897,10 @@
         "en_US": [
           "The fourth lake of Sinnoh that was\n",
           "kept secret."
+        ],
+        "fr_FR": [
+          "Le quatrième lac de Sinnoh dont\n",
+          "l’existence était gardée secrète."
         ]
       }
     },
@@ -633,6 +910,12 @@
         "en_US": [
           "Numerous wind turbines stand in the\n",
           "vicinity of the Valley Windworks."
+        ],
+        "fr_FR": [
+          "Il y a de nombreux pylônes dans le\n",
+          "voisinage des Eoliennes. Ce sont, comme\n",
+          "le nom de cet endroit l’indique, des\n",
+          "éoliennes."
         ]
       }
     },
@@ -643,6 +926,11 @@
           "A forest enveloped in chilly air.\n",
           "Thick stands of trees turn the forest\n",
           "into a natural maze."
+        ],
+        "fr_FR": [
+          "Une forêt enveloppée d’un air frais.\n",
+          "D’épais bosquets transforment la forêt\n",
+          "en un labyrinthe naturel."
         ]
       }
     },
@@ -652,6 +940,10 @@
         "en_US": [
           "The sprawling ironworks is located\n",
           "with the forest at its back."
+        ],
+        "fr_FR": [
+          "La forêt se trouve juste derrière\n",
+          "l’imposante fonderie."
         ]
       }
     },
@@ -662,6 +954,11 @@
           "A sacred mountain that is capped the\n",
           "year round with snow. A gigantic maze\n",
           "sprawls inside it."
+        ],
+        "fr_FR": [
+          "Cette montagne sacrée est couronnée de\n",
+          "neige tout au long de l’année. Elle abrite\n",
+          "un énorme labyrinthe."
         ]
       }
     },
@@ -671,6 +968,11 @@
         "en_US": [
           "A small, crescent-shaped pond that\n",
           "lies inside a closed-off forest."
+        ],
+        "fr_FR": [
+          "Sur cette île se trouve une forêt\n",
+          "isolée abritant une petite mare en\n",
+          "forme de croissant."
         ]
       }
     },
@@ -681,6 +983,11 @@
           "A rugged, seemingly indestructible rock\n",
           "mountain that is thickly blanketed by\n",
           "the volcanic ash it spews."
+        ],
+        "fr_FR": [
+          "Cette montagne à l’air indestructible\n",
+          "est recouverte des cendres qu’elle\n",
+          "recrache continuellement."
         ]
       }
     },
@@ -691,6 +998,11 @@
           "A speck of an island far from any\n",
           "civilization. It is covered in an\n",
           "abundance of flowers."
+        ],
+        "fr_FR": [
+          "Une île minuscule loin de toute\n",
+          "civilisation. Elle est recouverte de\n",
+          "milliers de fleurs."
         ]
       }
     },
@@ -700,6 +1012,10 @@
         "en_US": [
           "A small, ore-rich island that is\n",
           "off the coast of Eterna City."
+        ],
+        "fr_FR": [
+          "Une petite île riche en minerai au large\n",
+          "des côtes de Vestigion."
         ]
       }
     },
@@ -709,6 +1025,10 @@
         "en_US": [
           "A small, round pond that lies\n",
           "inside a closed-off forest."
+        ],
+        "fr_FR": [
+          "Sur cette île se trouve une forêt\n",
+          "isolée abritant une petite mare ronde."
         ]
       }
     },
@@ -722,6 +1042,11 @@
           "The Battle Frontier--where the best of\n",
           "the best Trainers gather to test\n",
           "their skill--is located here."
+        ],
+        "fr_FR": [
+          "La Zone de Combat, où l’élite des\n",
+          "Dresseurs se rassemble pour tester\n",
+          "ses aptitudes, est située ici."
         ]
       }
     }
@@ -737,6 +1062,11 @@
           "Once one gets through the tunnel,\n",
           "the city of Oreburgh is just a stone’s\n",
           "throw away."
+        ],
+        "fr_FR": [
+          "Une fois ce tunnel traversé, la ville de\n",
+          "Charbourg n’est plus qu’à un jet de\n",
+          "pierre de là."
         ]
       }
     },
@@ -750,6 +1080,11 @@
           "The Ravaged Path was hewn through\n",
           "a rocky outcropping. It is a shortcut\n",
           "that leads straight to Floaroma Town."
+        ],
+        "fr_FR": [
+          "Le Chemin Rocheux a été taillé dans un\n",
+          "affleurement rocheux. C’est un raccourci\n",
+          "qui mène tout droit à Floraville."
         ]
       }
     },
@@ -760,6 +1095,11 @@
           "Near the entrance of Eterna Forest\n",
           "is a cabin whose keepers offer rest\n",
           "to weary travelers that stop by."
+        ],
+        "fr_FR": [
+          "Prés de l’entrée de la Forêt Vestigion, il\n",
+          "y a une cabane où les voyageurs épuisés\n",
+          "qui s’y arrêtent peuvent se reposer."
         ]
       }
     },
@@ -772,6 +1112,10 @@
         "en_US": [
           "Below the Cycling Road, one can see\n",
           "the entrance to Wayward Cave."
+        ],
+        "fr_FR": [
+          "Sous la Piste Cyclable, on peut voir\n",
+          "l’entrée de la Grotte Revêche."
         ]
       }
     },
@@ -785,6 +1129,11 @@
           "The Berry Master, an old man who loves\n",
           "nature, Pokémon, and Berries, makes\n",
           "his home here."
+        ],
+        "fr_FR": [
+          "Le Maître des Baies, un vieil homme qui\n",
+          "adore la nature, les Pokémon et les\n",
+          "Baies, habite ici."
         ]
       }
     },
@@ -798,6 +1147,11 @@
           "The Lost Tower is where Pokémon are\n",
           "laid to rest when their lives come\n",
           "to an end."
+        ],
+        "fr_FR": [
+          "La Tour Perdue est l’endroit où les\n",
+          "Pokémon reposent quand leur vie\n",
+          "touche à sa fin."
         ]
       }
     },
@@ -810,6 +1164,11 @@
         "en_US": [
           "Grandma Wilma’s house stands alone in an\n",
           "isolated spot deep among mountains."
+        ],
+        "fr_FR": [
+          "La maison de Mamie Bertille se dresse\n",
+          "solitaire dans un endroit isolé, au plus\n",
+          "profond de la montagne."
         ]
       }
     },
@@ -823,6 +1182,11 @@
           "The Café Cabin stands in a wood.\n",
           "The house special is freshly milked\n",
           "Moomoo Milk."
+        ],
+        "fr_FR": [
+          "Le Café Cabane se trouve dans une forêt.\n",
+          "La spécialité de la maison est le Lait\n",
+          "Meumeu tout frais."
         ]
       }
     },
@@ -836,6 +1200,11 @@
           "Beyond the wall, one can see the\n",
           "stately Pokémon Mansion and the\n",
           "owner’s prized garden behind it.\n"
+        ],
+        "fr_FR": [
+          "Au delà du mur, on peut apercevoir le\n",
+          "Manoir Pokémon et le jardin qui fait la\n",
+          "fierté du propriétaire juste derrière."
         ]
       }
     },
@@ -849,6 +1218,11 @@
           "There is a house here whose residents\n",
           "offer to trade TMs for Red, Blue,\n",
           "Yellow, or Green Shards."
+        ],
+        "fr_FR": [
+          "Il y a ici une maison où vous pouvez\n",
+          "échanger des Tessons Rouges, Bleus,\n",
+          "Jaunes ou Verts contre des CT."
         ]
       }
     },
@@ -862,6 +1236,11 @@
           "In a small house on the beach lives\n",
           "a single man who refers to himself as\n",
           "Dr. Footstep."
+        ],
+        "fr_FR": [
+          "Dans la petite maison sur la plage vit un\n",
+          "homme solitaire qui se surnomme lui-même\n",
+          "le Dr Petitpas."
         ]
       }
     },
@@ -875,6 +1254,11 @@
           "There is a cave hewn into the sheer\n",
           "rock wall at the roadside. The hole\n",
           "was made by a Ruin Maniac."
+        ],
+        "fr_FR": [
+          "Dans le mur rocheux qui borde la route,\n",
+          "on peut voir la grotte creusée\n",
+          "par un Ruinemaniac."
         ]
       }
     },
@@ -887,6 +1271,10 @@
         "en_US": [
           "At the end of the path stands the\n",
           "gateway to Pal Park."
+        ],
+        "fr_FR": [
+          "Au bout du chemin se trouve l’entrée du\n",
+          "Parc des Amis."
         ]
       }
     },
@@ -900,6 +1288,11 @@
           "A man who loves fishing lives near\n",
           "here. There is also a man who will\n",
           "compare sizes of caught fish."
+        ],
+        "fr_FR": [
+          "Un amoureux de PIKACHU vit près d’ici.\n",
+          "Il y a également un homme qui compare la\n",
+          "taille des poissons pris."
         ]
       }
     },
@@ -913,6 +1306,11 @@
           "There is a small island in the bay.\n",
           "An odd man who speaks foreign\n",
           "languages lives there."
+        ],
+        "fr_FR": [
+          "Il y a une petite île dans la baie. Un\n",
+          "homme bizarre qui parle des langues\n",
+          "étrangères y habite."
         ]
       }
     },
@@ -925,6 +1323,10 @@
         "en_US": [
           "Your own home and your best friend’s\n",
           "house are located here."
+        ],
+        "fr_FR": [
+          "Votre maison et celle de votre meilleur\n",
+          "ami se trouvent ici."
         ]
       }
     },
@@ -938,6 +1340,11 @@
           "Prof. Rowan’s lab is the town’s\n",
           "landmark. He conducts his\n",
           "studies on Pokémon here."
+        ],
+        "fr_FR": [
+          "Le labo du Professeur Sorbier est\n",
+          "l’attraction de la ville. Il y mène ses\n",
+          "recherches sur les Pokémon."
         ]
       }
     },
@@ -950,6 +1357,10 @@
         "en_US": [
           "A short, floral pathway opens up to\n",
           "a sprawling sea of flowers in bloom."
+        ],
+        "fr_FR": [
+          "Un sentier court et fleuri débouche sur\n",
+          "une mer de fleurs."
         ]
       }
     },
@@ -962,6 +1373,10 @@
         "en_US": [
           "In the center of town is the flower\n",
           "shop called Pick a Peck of Colors."
+        ],
+        "fr_FR": [
+          "Au centre de la ville se trouve un\n",
+          "fleuriste appelé Un Bouquet de Couleurs."
         ]
       }
     },
@@ -974,6 +1389,10 @@
         "en_US": [
           "There is a Pokémon Day Care and\n",
           "a Pokémon Center here."
+        ],
+        "fr_FR": [
+          "On peut trouver ici une Pension Pokémon\n",
+          "et un Centre Pokémon."
         ]
       }
     },
@@ -987,6 +1406,11 @@
           "Beyond a path hemmed by stands of\n",
           "trees, one can find the entrance\n",
           "to the Solaceon Ruins."
+        ],
+        "fr_FR": [
+          "Au-delà du chemin bordé d’arbres, on\n",
+          "peut trouver l’entrée des\n",
+          "Ruines Bonville."
         ]
       }
     },
@@ -999,6 +1423,10 @@
         "en_US": [
           "In the center of the town is a small\n",
           "shrine that dates to ancient times."
+        ],
+        "fr_FR": [
+          "Au centre de la ville se tient un petit\n",
+          "autel qui a traversé les âges."
         ]
       }
     },
@@ -1012,6 +1440,11 @@
           "The Pokétch Company, the developer\n",
           "and manufacturer of the Pokétch, is\n",
           "located here."
+        ],
+        "fr_FR": [
+          "Le siège de la Pokémontre S.A., qui\n",
+          "développe et fabrique la Pokémontre et\n",
+          "ses divers composants, se trouve ici."
         ]
       }
     },
@@ -1025,6 +1458,11 @@
           "Jubilife TV, Sinnoh’s TV network, is\n",
           "located here. It is an entertaining\n",
           "place to visit."
+        ],
+        "fr_FR": [
+          "Féli-Télé, le réseau TV de Sinnoh, se\n",
+          "trouve ici. C’est un endroit amusant à\n",
+          "visiter."
         ]
       }
     },
@@ -1038,6 +1476,11 @@
           "The Global Terminal is located here.\n",
           "It is your connection to the entire\n",
           "world."
+        ],
+        "fr_FR": [
+          "C’est ici que se trouve le Terminal\n",
+          "Mondial, une porte ouverte sur le\n",
+          "reste du monde."
         ]
       }
     },
@@ -1051,6 +1494,11 @@
           "Located here is the Trainers’ School.\n",
           "Drop in to study up on the basics of\n",
           "Pokémon."
+        ],
+        "fr_FR": [
+          "Ici se trouve l’Ecole de Dresseurs.\n",
+          "Vous pouvez y étudier les bases du\n",
+          "dressage de Pokémon."
         ]
       }
     },
@@ -1064,6 +1512,11 @@
           "Head to the library if you want a\n",
           "workout for the mind. Head to the Gym\n",
           "if you just want to work out."
+        ],
+        "fr_FR": [
+          "Dirigez-vous vers la bibliothèque si vous\n",
+          "voulez cultiver votre esprit ou vers\n",
+          "l’Arène si vous voulez vous entraîner."
         ]
       }
     },
@@ -1076,6 +1529,10 @@
         "en_US": [
           "Large ships can always be seen\n",
           "moored at the town’s piers."
+        ],
+        "fr_FR": [
+          "Il y a toujours de grands navires\n",
+          "à quai dans cette ville."
         ]
       }
     },
@@ -1089,6 +1546,11 @@
           "There is a Gym where mine workers\n",
           "take breaks in between their\n",
           "exhausting work shifts."
+        ],
+        "fr_FR": [
+          "Il y a ici une Arène où les mineurs\n",
+          "peuvent faire une pause entre deux\n",
+          "rotations de travail épuisantes."
         ]
       }
     },
@@ -1102,6 +1564,10 @@
           "There is a museum that specializes in\n",
           "exhibits related to the town’s coal\n",
           "mine."
+        ],
+        "fr_FR": [
+          "On trouve ici un musée entièrement dédié\n",
+          "à la mine de charbon de la ville."
         ]
       }
     },
@@ -1115,6 +1581,11 @@
           "Huge deposits of coal still sleep\n",
           "underneath the ground. The entrance\n",
           "to the Oreburgh Mine is here."
+        ],
+        "fr_FR": [
+          "D’énormes gisements de charbon dorment\n",
+          "encore en sous-sol. L’entrée de la Mine\n",
+          "de Charbourg se trouve ici."
         ]
       }
     },
@@ -1128,6 +1599,11 @@
           "The Cycle Shop is located here.\n",
           "There is also a big building with\n",
           "a slightly sinister atmosphere."
+        ],
+        "fr_FR": [
+          "La Boutique de Vélo se trouve ici. Il y a\n",
+          "également un grand bâtiment avec un air\n",
+          "vaguement sinistre."
         ]
       }
     },
@@ -1140,6 +1616,10 @@
         "en_US": [
           "A statue of an ancient Pokémon is\n",
           "prominently and reverentially displayed."
+        ],
+        "fr_FR": [
+          "Une statue d’un Pokémon ancien trône\n",
+          "majestueusement à l’est de la ville."
         ]
       }
     },
@@ -1153,6 +1633,11 @@
           "A Gym is indispensable in any town that\n",
           "has many people coming and going.\n",
           "This city is no exception."
+        ],
+        "fr_FR": [
+          "Une Arène est indispensable dans une\n",
+          "ville où il y a autant de passage. Cette\n",
+          "ville ne fait pas exception."
         ]
       }
     },
@@ -1166,6 +1651,11 @@
           "The entrance to Amity Square is here.\n",
           "The square is a place where Trainers\n",
           "can stroll peacefully with Pokémon."
+        ],
+        "fr_FR": [
+          "L’entrée du Square Paisible se trouve ici.\n",
+          "Les Dresseurs viennent s’y promener\n",
+          "paisiblement avec leurs Pokémon."
         ]
       }
     },
@@ -1179,6 +1669,11 @@
           "If you care about the looks of your\n",
           "Pokémon, head for the Contest Hall.\n",
           "For toughness, go to the Gym."
+        ],
+        "fr_FR": [
+          "Si vous vous intéressez au look de votre\n",
+          "Pokémon, allez à la Salle de Concours.\n",
+          "Pour vous entraîner, allez à l’Arène."
         ]
       }
     },
@@ -1192,6 +1687,11 @@
           "There is a building here that is\n",
           "symbolic of the city’s status as a\n",
           "place where different cultures meet."
+        ],
+        "fr_FR": [
+          "On peut trouver ici un bâtiment qui \n",
+          "symbolise parfaitement le caractère\n",
+          "cosmopolite de la ville."
         ]
       }
     },
@@ -1205,6 +1705,11 @@
           "A nice fountain with benches, as well\n",
           "as the Pokémon Fan Club, are among\n",
           "the city’s amenities."
+        ],
+        "fr_FR": [
+          "Une jolie fontaine avec des bancs, ainsi\n",
+          "que le Fan Club Pokémon, font partie des\n",
+          "commodités de la ville."
         ]
       }
     },
@@ -1218,6 +1723,11 @@
           "The Gym is a good example of the\n",
           "abundant water resources available to\n",
           "the city."
+        ],
+        "fr_FR": [
+          "L’Arène est un bon exemple de\n",
+          "l’abondante ressource en eau disponible\n",
+          "en ville."
         ]
       }
     },
@@ -1231,6 +1741,11 @@
           "There is a lookout that affords views\n",
           "of the Great Marsh. The gates to\n",
           "the Safari Zone are also here."
+        ],
+        "fr_FR": [
+          "Il y a un point de vue qui donne sur le\n",
+          "Grand Marais. L’entrée du Jeu Safari\n",
+          "se trouve ici également."
         ]
       }
     },
@@ -1244,6 +1759,11 @@
           "There are warehouses for storing a\n",
           "variety of goods. There is also a\n",
           "major department store."
+        ],
+        "fr_FR": [
+          "On trouve ici un grand magasin, ainsi\n",
+          "que des entrepôts où sont stockés\n",
+          "toutes sortes d’objets."
         ]
       }
     },
@@ -1256,6 +1776,10 @@
         "en_US": [
           "At the highest point in the city is\n",
           "Team Galactic’s headquarters."
+        ],
+        "fr_FR": [
+          "Le menaçant QG de la Team Galaxie\n",
+          "surplombe la ville."
         ]
       }
     },
@@ -1269,6 +1793,10 @@
           "The city puts effort into providing\n",
           "entertainment. Naturally, one can find\n",
           "a Gym here."
+        ],
+        "fr_FR": [
+          "Cette ville dédiée à l’entraînement \n",
+          "abrite tout naturellement une Arène."
         ]
       }
     },
@@ -1282,6 +1810,10 @@
           "Conveniently located right next door\n",
           "to the Game Corner is the Prize\n",
           "Exchange."
+        ],
+        "fr_FR": [
+          "Idéalement situé à côté du Casino, on\n",
+          "trouve le bâtiment de Remise des Prix."
         ]
       }
     },
@@ -1295,6 +1827,11 @@
           "The Gym is located atop a rocky\n",
           "outcropping. Down on the beach is\n",
           "a festive bazaar."
+        ],
+        "fr_FR": [
+          "L’Arène est située au sommet d’un\n",
+          "affleurement rocheux. Plus bas, sur la\n",
+          "plage, il y a un marché estival."
         ]
       }
     },
@@ -1307,6 +1844,10 @@
         "en_US": [
           "The Vista Lighthouse’s bright beacon\n",
           "illuminates the Sinnoh region."
+        ],
+        "fr_FR": [
+          "La puissante lumière du Phare Panorama\n",
+          "illumine toute la région de Sinnoh."
         ]
       }
     },
@@ -1319,6 +1860,10 @@
         "en_US": [
           "The Gym is at the heart of the city.\n",
           "To the north is the Snowpoint Temple."
+        ],
+        "fr_FR": [
+          "L’Arène se trouve au centre de la ville.\n",
+          "Au nord, il y a le Temple Frimapic."
         ]
       }
     },
@@ -1332,6 +1877,11 @@
           "The Pokémon League reception counter\n",
           "is located here. Only those who have\n",
           "beaten all the Gyms may enter."
+        ],
+        "fr_FR": [
+          "La réception de la Ligue Pokémon se\n",
+          "trouve ici. Seuls ceux qui ont battu tous\n",
+          "les Champions d’Arène peuvent entrer."
         ]
       }
     },
@@ -1345,6 +1895,11 @@
           "Victory Road is the last and toughest\n",
           "of the challenges leading up to the\n",
           "Pokémon League."
+        ],
+        "fr_FR": [
+          "La Route Victoire est l’ultime défi \n",
+          "menant à la Ligue Pokémon. Il est\n",
+          "aussi le plus difficile."
         ]
       }
     },
@@ -1357,6 +1912,10 @@
         "en_US": [
           "Moored at the pier is the ferry to\n",
           "Snowpoint City."
+        ],
+        "fr_FR": [
+          "Le ferry pour Frimapic se trouve\n",
+          "à quai."
         ]
       }
     },
@@ -1369,6 +1928,10 @@
         "en_US": [
           "The gateway to the Battle Frontier is\n",
           "located here."
+        ],
+        "fr_FR": [
+          "L’entrée de la Zone de Combat se\n",
+          "trouve ici."
         ]
       }
     },
@@ -1382,6 +1945,11 @@
           "It is possible to enter the cave\n",
           "underneath the lake from the\n",
           "island in the middle."
+        ],
+        "fr_FR": [
+          "Il est possible d’entrer dans la grotte\n",
+          "située sous le lac à partir d’une île en\n",
+          "son milieu."
         ]
       }
     },
@@ -1395,6 +1963,11 @@
           "It is possible to enter the cave\n",
           "underneath the lake from the\n",
           "island in the middle."
+        ],
+        "fr_FR": [
+          "Il est possible d’entrer dans la grotte\n",
+          "située sous le lac à partir d’une île en\n",
+          "son milieu."
         ]
       }
     },
@@ -1407,6 +1980,10 @@
         "en_US": [
           "A high-class restaurant is located\n",
           "on a hill overlooking the lake."
+        ],
+        "fr_FR": [
+          "Il y a un restaurant très chic sur\n",
+          "une colline surplombant le lac."
         ]
       }
     },
@@ -1420,6 +1997,11 @@
           "It is possible to enter the cave\n",
           "underneath the lake from the\n",
           "island in the middle."
+        ],
+        "fr_FR": [
+          "Il est possible d’entrer dans la grotte\n",
+          "située sous le lac à partir d’une île en\n",
+          "son milieu."
         ]
       }
     },
@@ -1432,6 +2014,11 @@
         "en_US": [
           "Beneath the lake’s surface is a cave\n",
           "where dimensions are distorted."
+        ],
+        "fr_FR": [
+          "Sous la surface du lac se trouve une\n",
+          "grotte où les dimensions sont\n",
+          "distordues."
         ]
       }
     },
@@ -1445,6 +2032,11 @@
           "Winds blowing through the canyon feed\n",
           "the wind turbines to generate clean\n",
           "electricity."
+        ],
+        "fr_FR": [
+          "Les vents soufflant dans le canyon\n",
+          "alimentent les turbines pour générer\n",
+          "une électricité éolienne propre."
         ]
       }
     },
@@ -1458,6 +2050,11 @@
           "Deep in the forest is the Old Chateau.\n",
           "It is falling into disrepair after\n",
           "being abandoned by its owner."
+        ],
+        "fr_FR": [
+          "Au plus profond de la forêt se trouve le\n",
+          "Vieux Château. Il est très délabré car\n",
+          "son propriétaire l’a abandonné."
         ]
       }
     },
@@ -1471,6 +2068,11 @@
           "The ironworks refines iron ore mined\n",
           "from Mt. Coronet to make iron and\n",
           "to manufacture mechanical parts."
+        ],
+        "fr_FR": [
+          "La fonderie transforme le minerai de fer\n",
+          "trouvé au Mont Couronné en fer servant\n",
+          "à la fabrication de pièces manufacturées."
         ]
       }
     },
@@ -1483,6 +2085,10 @@
         "en_US": [
           "There is an ancient ruin named the\n",
           "Spear Pillar located here."
+        ],
+        "fr_FR": [
+          "Il y a ici une ruine ancienne appelée\n",
+          "Colonnes Lances."
         ]
       }
     },
@@ -1496,6 +2102,11 @@
           "Inside the mountain, fissures in spilled\n",
           "and hardened lava form enormous\n",
           "caverns."
+        ],
+        "fr_FR": [
+          "A l’intérieur de la montagne, des \n",
+          "fissures forment d’énormes cavernes\n",
+          "dans la lave refroidie."
         ]
       }
     },
@@ -1509,6 +2120,11 @@
           "Inside the island are remnants of an\n",
           "iron ore mining operation from the\n",
           "past."
+        ],
+        "fr_FR": [
+          "On peut trouver sur cette île les\n",
+          "vestiges d’une ancienne opération\n",
+          "minière dédiée au minerai de fer."
         ]
       }
     }

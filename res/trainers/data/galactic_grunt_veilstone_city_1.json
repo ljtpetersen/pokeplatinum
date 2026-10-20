@@ -32,7 +32,12 @@
             "en_US": [
                 "Done in by two kids?!\n",
                 "This isn’t right!\n"
+            ],
+            "fr_FR": [
+                "Battu par deux enfants?!\n",
+                "Ce n’est pas juste!\n"
             ]
         }
-    ]
+    ],
+    "name_fr": "Sbire"
 }

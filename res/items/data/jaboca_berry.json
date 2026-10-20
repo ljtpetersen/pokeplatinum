@@ -39,5 +39,13 @@
     "bitterness": 40,
     "sourness": 10,
     "smoothness": 60
-  }
+  },
+  "name_fr": "Baie Jaboca",
+  "description_fr": [
+    "Ingrédient pour Poffin. Tenue, cette\n",
+    "Baie fait subir des dommages au lanceur\n",
+    "d’une attaque physique qui a touché."
+  ],
+  "plural_fr": "Baie Jaboca",
+  "article_fr": null
 }

@@ -8,6 +8,12 @@
         "How vast is it, you ask?\r",
         "Take a look from the Observatory\n",
         "and you can see for yourself!"
+      ],
+      "fr_FR": [
+        "Le Grand Marais est vaste!\n",
+        "Tu veux savoir à quel point?\r",
+        "Rends-toi à l’Observatoire si\n",
+        "tu veux y jeter un coup d’œil!"
       ]
     },
     {
@@ -19,6 +25,14 @@
         "time, leaving the huge marshland.\r",
         "That’s why they say there are rare\n",
         "Pokémon that you can only see here."
+      ],
+      "fr_FR": [
+        "Le Grand Marais de Verchamps faisait\n",
+        "autrefois partie de la mer.\r",
+        "Avec le temps, l’eau s’est retirée\n",
+        "pour laisser ces marécages.\r",
+        "Il paraît qu’on y voit des Pokémon \n",
+        "rares qui ne vivent nulle part ailleurs."
       ]
     },
     {
@@ -26,6 +40,11 @@
       "en_US": [
         "Would you like to battle with me?\n",
         "As a memento of your visit to Pastoria?"
+      ],
+      "fr_FR": [
+        "Ça te dit un petit combat? Ça te fera\n",
+        "un joli souvenir de ton passage à\f",
+        "Verchamps..."
       ]
     },
     {
@@ -33,6 +52,10 @@
       "en_US": [
         "I’ll let you join my fan club if you can\n",
         "beat me!\r"
+      ],
+      "fr_FR": [
+        "Si tu arrives à me battre, tu pourras\n",
+        "te joindre à mon fan-club!\r"
       ]
     },
     {
@@ -40,6 +63,10 @@
       "en_US": [
         "You’re not interested in Idols?\n",
         "...I think I’m going to cry."
+      ],
+      "fr_FR": [
+        "Tu ne t’intéresses pas aux Stars?\n",
+        "Je crois que je vais pleurer..."
       ]
     },
     {
@@ -49,6 +76,12 @@
         "I hope you’ll support us!\r",
         "Just so you know, our latest single is\n",
         "titled “Jigglin’ Pokémon Wub”!"
+      ],
+      "fr_FR": [
+        "Et voilà, c’était moi et mon équipe\n",
+        "Pokémon en live! Tu peux applaudir!\r",
+        "Au passage, notre dernier single\n",
+        "s’intitule “Twist d’amour des Pokémon”!"
       ]
     },
     {
@@ -56,6 +89,10 @@
       "en_US": [
         "Are we all ready to have some fun?\n",
         "Our battle will be fun! OK?!"
+      ],
+      "fr_FR": [
+        "Alors on est prêt à s’amuser? Faisons\n",
+        "de ce combat un moment amusant! OK?!"
       ]
     },
     {
@@ -63,6 +100,10 @@
       "en_US": [
         "OK, how shall we do this?\n",
         "Shall we do something fantastical?\r"
+      ],
+      "fr_FR": [
+        "OK, comment va-t-on s’y prendre?\n",
+        "Et si on faisait dans le fantastique?\r"
       ]
     },
     {
@@ -70,6 +111,10 @@
       "en_US": [
         "Oh, how shall I say this...?\n",
         "It makes me all lonely, I say..."
+      ],
+      "fr_FR": [
+        "Oh, comment dire...\n",
+        "Je me sens si seul..."
       ]
     },
     {
@@ -77,6 +122,10 @@
       "en_US": [
         "Well, let’s see!\n",
         "Which town will we go to next?"
+      ],
+      "fr_FR": [
+        "Alors, voyons voir! Quelle sera notre\n",
+        "prochaine destination?"
       ]
     },
     {
@@ -84,6 +133,10 @@
       "en_US": [
         "Come on, let’s show off our Pokémon!\n",
         "Let’s do battle, kiddo!"
+      ],
+      "fr_FR": [
+        "C’est parti pour un défilé de Pokémon!\n",
+        "Allez, combattons!"
       ]
     },
     {
@@ -91,6 +144,10 @@
       "en_US": [
         "Your spirit’s vibes...\n",
         "You’ve got rock in your veins!\r"
+      ],
+      "fr_FR": [
+        "Les vibrations qui émanent de toi...\n",
+        "Tu as le rock dans le sang!\r"
       ]
     },
     {
@@ -98,6 +155,10 @@
       "en_US": [
         "My guitar...\n",
         "It lies broken and weeping..."
+      ],
+      "fr_FR": [
+        "Ma guitare...\n",
+        "Elle ne s’en remettra pas..."
       ]
     },
     {
@@ -106,6 +167,11 @@
         "Rock is about your spirit!\n",
         "Battling is about spirit, too!\f",
         "That’s why a battle is rock!"
+      ],
+      "fr_FR": [
+        "Le rock, ça vient du cœur!\n",
+        "Le combat, ça vient du cœur aussi!\f",
+        "Donc le combat, c’est du rock!"
       ]
     }
   ]

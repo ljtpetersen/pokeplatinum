@@ -89,6 +89,10 @@
             "en_US": [
                 "Oh, no!\n",
                 "You’re too much for me!\n"
+            ],
+            "fr_FR": [
+                "Oh non!\n",
+                "Je ne vais pas y arriver!\n"
             ]
         },
         {
@@ -96,7 +100,12 @@
             "en_US": [
                 "Mira wonders if she can get very far in\n",
                 "the Battle Tower.\n"
+            ],
+            "fr_FR": [
+                "Hum... Je me demande si je suis à la\n",
+                "hauteur de la Tour de Combat...\n"
             ]
         }
-    ]
+    ],
+    "name_fr": "Maïté"
 }

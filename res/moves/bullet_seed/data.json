@@ -27,5 +27,13 @@
     "contest": {
         "effect": "CONTEST_EFFECT_CONSECUTIVE_USE",
         "type": "CONTEST_TYPE_COOL"
-    }
+    },
+    "name_fr": "Balle Graine",
+    "description_fr": [
+        "Le lanceur mitraille \n",
+        "l’ennemi avec une\n",
+        "rafale de graines. \n",
+        "De 2 à 5 rafales sont\n",
+        "lancées à la suite."
+    ]
 }

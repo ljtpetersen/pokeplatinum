@@ -26,5 +26,12 @@
     "contest": {
         "effect": "CONTEST_EFFECT_FINAL_PERFORMANCE_ADVANTAGE",
         "type": "CONTEST_TYPE_COOL"
-    }
+    },
+    "name_fr": "Forte-Paume",
+    "description_fr": [
+        "Une onde de choc\n",
+        "frappe l’ennemi. \n",
+        "Peut aussi paralyser\n",
+        "la cible."
+    ]
 }

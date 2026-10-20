@@ -7,7 +7,10 @@
         "special_attack": 75,
         "special_defense": 135
     },
-    "types": [ "TYPE_NORMAL", "TYPE_NORMAL" ],
+    "types": [
+        "TYPE_NORMAL",
+        "TYPE_NORMAL"
+    ],
     "catch_rate": 30,
     "base_exp_reward": 255,
     "ev_yields": {
@@ -26,28 +29,76 @@
     "hatch_cycles": 40,
     "base_friendship": 140,
     "exp_rate": "EXP_RATE_FAST",
-    "egg_groups": [ "EGG_GROUP_FAIRY", "EGG_GROUP_FAIRY" ],
-    "abilities": [ "ABILITY_NATURAL_CURE", "ABILITY_SERENE_GRACE" ],
+    "egg_groups": [
+        "EGG_GROUP_FAIRY",
+        "EGG_GROUP_FAIRY"
+    ],
+    "abilities": [
+        "ABILITY_NATURAL_CURE",
+        "ABILITY_SERENE_GRACE"
+    ],
     "safari_flee_rate": 0,
     "body_color": "MON_COLOR_PINK",
     "flip_sprite": false,
     "icon_palette": 1,
     "learnset": {
         "by_level": [
-            [ 1, "MOVE_POUND" ],
-            [ 1, "MOVE_GROWL" ],
-            [ 5, "MOVE_TAIL_WHIP" ],
-            [ 9, "MOVE_REFRESH" ],
-            [ 12, "MOVE_SOFTBOILED" ],
-            [ 16, "MOVE_DOUBLE_SLAP" ],
-            [ 20, "MOVE_MINIMIZE" ],
-            [ 23, "MOVE_SING" ],
-            [ 27, "MOVE_FLING" ],
-            [ 31, "MOVE_DEFENSE_CURL" ],
-            [ 34, "MOVE_LIGHT_SCREEN" ],
-            [ 38, "MOVE_EGG_BOMB" ],
-            [ 42, "MOVE_HEALING_WISH" ],
-            [ 46, "MOVE_DOUBLE_EDGE" ]
+            [
+                1,
+                "MOVE_POUND"
+            ],
+            [
+                1,
+                "MOVE_GROWL"
+            ],
+            [
+                5,
+                "MOVE_TAIL_WHIP"
+            ],
+            [
+                9,
+                "MOVE_REFRESH"
+            ],
+            [
+                12,
+                "MOVE_SOFTBOILED"
+            ],
+            [
+                16,
+                "MOVE_DOUBLE_SLAP"
+            ],
+            [
+                20,
+                "MOVE_MINIMIZE"
+            ],
+            [
+                23,
+                "MOVE_SING"
+            ],
+            [
+                27,
+                "MOVE_FLING"
+            ],
+            [
+                31,
+                "MOVE_DEFENSE_CURL"
+            ],
+            [
+                34,
+                "MOVE_LIGHT_SCREEN"
+            ],
+            [
+                38,
+                "MOVE_EGG_BOMB"
+            ],
+            [
+                42,
+                "MOVE_HEALING_WISH"
+            ],
+            [
+                46,
+                "MOVE_DOUBLE_EDGE"
+            ]
         ],
         "by_tm": [
             "TM01",
@@ -124,7 +175,7 @@
             "MOVE_LAST_RESORT"
         ]
     },
-    "evolutions": [  ],
+    "evolutions": [],
     "offspring": "SPECIES_HAPPINY",
     "footprint": {
         "has": true,
@@ -147,9 +198,9 @@
             "name": "BLISSEY",
             "category": "Happiness Pokémon",
             "entry_text": [
-                "The eggs it lays are filled with\n",
-                "happiness. Eating even one bite\n",
-                "will bring a smile to anyone."
+                "This kindhearted Pokémon\n",
+                "nurses sick Pokémon to health.\n",
+                "It senses feelings of sadness."
             ]
         },
         "fr": {
@@ -195,6 +246,18 @@
                 "よわった　ポケモンを　なおるまで\n",
                 "かんびょうする　やさしい　ポケモン。\n",
                 "かなしい　きもちを　キャッチする。"
+            ]
+        },
+        "local_version": {
+            "entry_text": [
+                "The eggs it lays are filled with\n",
+                "happiness. Eating even one bite\n",
+                "will bring a smile to anyone."
+            ],
+            "entry_text_fr": [
+                "Les œufs que pond LEUPHORIE sont\n",
+                "un concentré de bonheur dont une\n",
+                "bouchée suffit à apporter la joie."
             ]
         }
     },

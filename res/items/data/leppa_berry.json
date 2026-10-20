@@ -41,5 +41,13 @@
     "bitterness": 10,
     "sourness": 10,
     "smoothness": 20
-  }
+  },
+  "name_fr": "Baie Mepo",
+  "description_fr": [
+    "Ingrédient pour Poffin.\n",
+    "Utilisée ou tenue, cette Baie restaure\n",
+    "10 PP d’une capacité."
+  ],
+  "plural_fr": "Baie Mepo",
+  "article_fr": null
 }

@@ -27,5 +27,13 @@
   "fieldUseFunc": "ITEM_USE_FUNC_TM_HM",
   "battleUseCategory": "BATTLE_USE_CATEGORY_NONE",
   "itemUseParams": null,
-  "teachesMove": "MOVE_HAIL"
+  "teachesMove": "MOVE_HAIL",
+  "name_fr": "CT07",
+  "description_fr": [
+    "Invoque une tempête de grêle qui dure\n",
+    "5 tours. Ne blesse pas les Pokémon de\n",
+    "type Glace."
+  ],
+  "plural_fr": "CT07",
+  "article_fr": null
 }

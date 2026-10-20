@@ -27,5 +27,13 @@
   "fieldUseFunc": "ITEM_USE_FUNC_TM_HM",
   "battleUseCategory": "BATTLE_USE_CATEGORY_NONE",
   "itemUseParams": null,
-  "teachesMove": "MOVE_DIG"
+  "teachesMove": "MOVE_DIG",
+  "name_fr": "CT28",
+  "description_fr": [
+    "Le lanceur creuse au 1¹ tour et frappe\n",
+    "au 2⁴. Permet aussi de s’échapper d’un\n",
+    "donjon."
+  ],
+  "plural_fr": "CT28",
+  "article_fr": null
 }

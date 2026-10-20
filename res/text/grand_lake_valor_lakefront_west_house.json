@@ -10,6 +10,14 @@
         "Pokédex!\r",
         "I hope you’ll come show me your Pokédex\n",
         "when you’ve filled it up more!"
+      ],
+      "fr_FR": [
+        "Salut!\n",
+        "Je suis le réalisateur du jeu!\r",
+        "Tu essaies de compléter ton\n",
+        "Pokédex, c’est bien ça?\r",
+        "Reviens me le montrer quand il\n",
+        "sera rempli!"
       ]
     },
     {
@@ -21,6 +29,14 @@
         "Sinnoh!\r",
         "That’s excellent!\n",
         "Let me give you an award!"
+      ],
+      "fr_FR": [
+        "Salut!\n",
+        "Je suis le réalisateur du jeu!\r",
+        "Tu as déjà croisé chacun des Pokémon\n",
+        "de la région de Sinnoh!\r",
+        "Je suis vraiment impressionné!\n",
+        "Laisse-moi t’offrir cette récompense!"
       ]
     },
     {
@@ -38,6 +54,19 @@
         "this Pokédex together...\r",
         "Please allow me to honor you with an\n",
         "award!"
+      ],
+      "fr_FR": [
+        "Salut!\n",
+        "Je suis le réalisateur du jeu!\r",
+        "Impressionnant!\r",
+        "Tu as enfin récupéré tous les\n",
+        "Pokémon du monde!\r",
+        "Ton Pokédex est rempli!\n",
+        "C’est un véritable tour de force!\r",
+        "Quand je pense au travail que ça\n",
+        "représente...\r",
+        "Je suis fier de te décerner\n",
+        "cette récompense!"
       ]
     },
     {
@@ -54,6 +83,17 @@
         "Though everyone’s Pokédexes may\n",
         "look the same, the stories they\f",
         "contain are all unique."
+      ],
+      "fr_FR": [
+        "Comment as-tu fait pour rencontrer\n",
+        "tous les Pokémon de ton Pokédex?\r",
+        "Tu as travaillé dur pour les capturer\n",
+        "et les élever?\r",
+        "Des amis t’en ont fait cadeau?\r",
+        "Peut-être les as-tu échangés avec\n",
+        "d’autres joueurs autour du globe?\r",
+        "Tout le monde a le même Pokédex, mais\n",
+        "chacun possède une histoire unique."
       ]
     }
   ]

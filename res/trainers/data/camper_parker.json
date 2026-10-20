@@ -42,6 +42,11 @@
                 "Huh? Are you lost too?\n",
                 "No? It doesn’t matter.\f",
                 "Let’s have a quick Pokémon battle!\r"
+            ],
+            "fr_FR": [
+                "Hein? Tu as aussi perdu ton chemin?\n",
+                "Non? Ce n’est pas grave.\f",
+                "Faisons un combat Pokémon rapide!\r"
             ]
         },
         {
@@ -49,6 +54,10 @@
             "en_US": [
                 "Lost?\n",
                 "There’s nothing lost about this kid!\n"
+            ],
+            "fr_FR": [
+                "Tu disais que tu avais perdu ton chemin?\n",
+                "Tu parles! Tu voulais juste m’humilier!\n"
             ]
         },
         {
@@ -57,7 +66,13 @@
                 "I got separated from my friends...\r",
                 "I’ve got my Pokémon with me, so I’m\n",
                 "OK, but...\n"
+            ],
+            "fr_FR": [
+                "J’ai perdu mes amis...\r",
+                "J’ai mes Pokémon avec moi, alors ça va,\n",
+                "mais...\n"
             ]
         }
-    ]
+    ],
+    "name_fr": "Erwan"
 }

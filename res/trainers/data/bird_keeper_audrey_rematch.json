@@ -41,6 +41,10 @@
             "en_US": [
                 "I let my bird Pokémon do as they\n",
                 "wish. And so, we train here daily!\r"
+            ],
+            "fr_FR": [
+                "Je laisse mes Pokémon Oiseaux faire ce\n",
+                "qu’ils veulent. Donc, on s’entraîne ici!\r"
             ]
         },
         {
@@ -48,7 +52,12 @@
             "en_US": [
                 "Sheesh... I arrive in a new place and\n",
                 "it turns out to be the Battle Zone...\n"
+            ],
+            "fr_FR": [
+                "Pfff... J’arrive à un nouvel endroit\n",
+                "et je tombe sur le Secteur Combat...\n"
             ]
         }
-    ]
+    ],
+    "name_fr": "Charlotte"
 }

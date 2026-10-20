@@ -26,5 +26,13 @@
     "contest": {
         "effect": "CONTEST_EFFECT_UNIQUE_JUDGE",
         "type": "CONTEST_TYPE_TOUGH"
-    }
+    },
+    "name_fr": "Mitra-Poing",
+    "description_fr": [
+        "Le lanceur se\n",
+        "concentre avant\n",
+        "d’attaquer. Echoue\n",
+        "s’il est touché avant\n",
+        "d’avoir frappé."
+    ]
 }

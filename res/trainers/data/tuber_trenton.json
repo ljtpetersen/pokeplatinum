@@ -32,11 +32,16 @@
             "en_US": [
                 "I love my inflatable tube.\n",
                 "So I admire jellyfish Pokémon!\r"
+            ],
+            "fr_FR": [
+                "J’adore ma bouée. C’est pourquoi\n",
+                "j’admire les Pokémon Mollusques!\r"
             ]
         },
         {
             "type": "TRMSG_DEFEAT",
-            "en_US": "I’m drifting away...\n"
+            "en_US": "I’m drifting away...\n",
+            "fr_FR": "Je pars à la dérive..."
         },
         {
             "type": "TRMSG_POST_BATTLE",
@@ -45,6 +50,12 @@
                 "give me a Pokédex.\r",
                 "But that old guy looks kind of\n",
                 "scary.\n"
+            ],
+            "fr_FR": [
+                "J’aimerais que le Professeur Sorbier\n",
+                "m’offre un Pokédex.\r",
+                "Mais ce vieux bonhomme a l’air plutôt\n",
+                "flippant.\n"
             ]
         },
         {
@@ -54,7 +65,14 @@
                 "So I admire jellyfish Pokémon.\r",
                 "Won’t you hang out with us and just\n",
                 "bob around on the waves?\r"
+            ],
+            "fr_FR": [
+                "J’adore ma bouée. C’est pourquoi\n",
+                "j’admire les Pokémon Mollusques.\r",
+                "Tu ne veux pas nous rejoindre et te\n",
+                "laisser porter par les vagues?\r"
             ]
         }
-    ]
+    ],
+    "name_fr": "Axel"
 }

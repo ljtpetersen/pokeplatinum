@@ -8,6 +8,12 @@
         "I’m trading them in for Accessories.\r",
         "Next stop, Hearthome City!\n",
         "I’m taking the Contest challenge!"
+      ],
+      "fr_FR": [
+        "J’ai ramassé plein de Baies, du coup je\n",
+        "les échange contre des Accessoires.\r",
+        "Prochain arrêt: Unionpolis!\n",
+        "Je vais tenter ma chance au Concours!"
       ]
     },
     {
@@ -18,6 +24,13 @@
         "be a winner, it seems.\n",
         "Here’s hoping you’ll find something\r",
         "in which you can be the victor."
+      ],
+      "fr_FR": [
+        "Des Badges d’Arène, des prix de \n",
+        "Concours...\r",
+        "Il y a plusieurs moyens de s’illustrer.\r",
+        "J’espère que toi aussi tu trouveras\n",
+        "ton domaine de prédilection."
       ]
     },
     {
@@ -25,6 +38,10 @@
       "en_US": [
         "Hahaha! I’ve got you now!\n",
         "I’m gonna take your Flag!"
+      ],
+      "fr_FR": [
+        "Ha, ha, ha! Je t’ai mis la main dessus!\n",
+        "Je vais te prendre ton Drapeau!"
       ]
     },
     {
@@ -32,6 +49,10 @@
       "en_US": [
         "You can’t catch me!\n",
         "I set some Traps!"
+      ],
+      "fr_FR": [
+        "Tu m’attraperas pas!\n",
+        "J’ai posé des Pièges!"
       ]
     }
   ]

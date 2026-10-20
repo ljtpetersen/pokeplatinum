@@ -11,6 +11,15 @@
         "more than four moves.\r",
         "Delete a move to make\n",
         "room for {STRVAR_1 6, 1, 0}?"
+      ],
+      "fr_FR": [
+        "{STRVAR_1 0, 0, 0} est entré dans le moteur.\r",
+        "{STRVAR_1 0, 0, 0} tente d’apprendre\n",
+        "{STRVAR_1 6, 1, 0}.\r",
+        "Mais {STRVAR_1 0, 0, 0} ne peut pas\n",
+        "avoir plus de quatre capacités.\r",
+        "Effacer une ancienne capacité pour\n",
+        "{STRVAR_1 6, 1, 0}?"
       ]
     },
     {
@@ -18,7 +27,8 @@
       "en_US": [
         "Give up on learning the move\n",
         "{STRVAR_1 6, 1, 0}?"
-      ]
+      ],
+      "fr_FR": "Arrêter d’apprendre {STRVAR_1 6, 1, 0}?"
     },
     {
       "id": "RotomsRoom_Text_DidNotLearnMoveEmergedFromMotor",
@@ -26,6 +36,11 @@
         "{STRVAR_1 0, 0, 0} did not learn\n",
         "{STRVAR_1 6, 1, 0}.\r",
         "{STRVAR_1 0, 0, 0} emerged from the motor."
+      ],
+      "fr_FR": [
+        "{STRVAR_1 0, 0, 0} n’a pas appris\n",
+        "{STRVAR_1 6, 1, 0}.\r",
+        "{STRVAR_1 0, 0, 0} sort du moteur."
       ]
     },
     {
@@ -33,11 +48,16 @@
       "en_US": [
         "The move {STRVAR_1 6, 1, 0} will be\n",
         "forgotten. Is that OK?"
+      ],
+      "fr_FR": [
+        "La capacité {STRVAR_1 6, 1, 0} va être\n",
+        "oubliée. Continuer?"
       ]
     },
     {
       "id": "RotomsRoom_Text_12andPoof",
-      "en_US": "1,{PAUSE 20} 2,{PAUSE 20} and...{PAUSE 20} ...{PAUSE 20} Poof!"
+      "en_US": "1,{PAUSE 20} 2,{PAUSE 20} and...{PAUSE 20} ...{PAUSE 20} Poof!",
+      "fr_FR": "1,{PAUSE 20} 2{PAUSE 20} et...{PAUSE 20} ...{PAUSE 20} Tadaa!"
     },
     {
       "id": "RotomsRoom_Text_PokemonForgotMove",
@@ -45,6 +65,11 @@
         "{STRVAR_1 1, 0, 0} forgot how to\n",
         "use {STRVAR_1 6, 1, 0}.\r",
         "And..."
+      ],
+      "fr_FR": [
+        "{STRVAR_1 1, 0, 0} ne sait plus comment\n",
+        "utiliser {STRVAR_1 6, 1, 0}.\r",
+        "Et..."
       ]
     },
     {
@@ -52,27 +77,39 @@
       "en_US": [
         "{STRVAR_1 1, 0, 0} learned\n",
         "{STRVAR_1 6, 1, 0}!"
-      ]
+      ],
+      "fr_FR": "{STRVAR_1 1, 0, 0} apprend {STRVAR_1 6, 1, 0}!"
     },
     {
       "id": "RotomsRoom_Text_ChooseWhichRotom",
-      "en_US": "Which ROTOM are you choosing?\r"
+      "en_US": "Which ROTOM are you choosing?\r",
+      "fr_FR": "Quel MOTISMA choisissez-vous?\r"
     },
     {
       "id": "RotomsRoom_Text_EggCantEnter",
-      "en_US": "An Egg can’t enter a motor."
+      "en_US": "An Egg can’t enter a motor.",
+      "fr_FR": [
+        "Un Oeuf ne peut pas entrer dans\n",
+        "le moteur."
+      ]
     },
     {
       "id": "RotomsRoom_Text_ThatPokemonCantEnter",
-      "en_US": "That Pokémon can’t enter a motor."
+      "en_US": "That Pokémon can’t enter a motor.",
+      "fr_FR": [
+        "Ce Pokémon ne peut pas entrer dans\n",
+        "le moteur."
+      ]
     },
     {
       "id": "RotomsRoom_Text_PokemonEnteredMotor",
-      "en_US": "{STRVAR_1 0, 0, 0} entered the motor.\r"
+      "en_US": "{STRVAR_1 0, 0, 0} entered the motor.\r",
+      "fr_FR": "{STRVAR_1 0, 0, 0} est entré dans le moteur.\r"
     },
     {
       "id": "RotomsRoom_Text_PokemonEmergedFromTheMotor",
-      "en_US": "{STRVAR_1 0, 0, 0} emerged from the motor.\r"
+      "en_US": "{STRVAR_1 0, 0, 0} emerged from the motor.\r",
+      "fr_FR": "{STRVAR_1 0, 0, 0} est sorti du moteur.\r"
     },
     {
       "id": "RotomsRoom_Text_Dummy12",
@@ -85,29 +122,46 @@
         "revert to its original form.\r",
         "Would you like to recall it from\n",
         "the motor?"
+      ],
+      "fr_FR": [
+        "Oh? On dirait que MOTISMA veut\n",
+        "reprendre sa forme d’origine.\r",
+        "Désirez-vous le rappeler pour qu’il \n",
+        "sorte du moteur?"
       ]
     },
     {
       "id": "RotomsRoom_Text_Recall",
-      "en_US": "RECALL"
+      "en_US": "RECALL",
+      "fr_FR": "RAPPELER"
     },
     {
       "id": "RotomsRoom_Text_Yes",
-      "en_US": "YES"
+      "en_US": "YES",
+      "fr_FR": "OUI"
     },
     {
       "id": "RotomsRoom_Text_No",
-      "en_US": "NO"
+      "en_US": "NO",
+      "fr_FR": "NON"
     },
     {
       "id": "RotomsRoom_Text_RotomHasntEnteredMotor",
-      "en_US": "That ROTOM hasn’t entered a motor."
+      "en_US": "That ROTOM hasn’t entered a motor.",
+      "fr_FR": [
+        "Ce MOTISMA n’est pas entré dans\n",
+        "le moteur."
+      ]
     },
     {
       "id": "RotomsRoom_Text_ThereWasAnApplianceHere",
       "en_US": [
         "There was an appliance here.\n",
         "The one with the oddly shaped motor."
+      ],
+      "fr_FR": [
+        "Il y avait un appareil électrique au\n",
+        "moteur étrange ici."
       ]
     },
     {
@@ -115,6 +169,10 @@
       "en_US": [
         "It’s a microwave oven.\n",
         "It has an odd-shaped motor on it."
+      ],
+      "fr_FR": [
+        "Un four à micro-ondes.\n",
+        "Il est équipé d’un étrange moteur."
       ]
     },
     {
@@ -125,6 +183,13 @@
         "Oh? ROTOM appears as if it wants\n",
         "to go into the motor.\r",
         "Allow it to enter the motor?"
+      ],
+      "fr_FR": [
+        "Un four à micro-ondes.\n",
+        "Il est équipé d’un étrange moteur.\r",
+        "Oh? On dirait que MOTISMA veut entrer\n",
+        "dans le moteur.\r",
+        "Le laisser entrer dans le moteur?"
       ]
     },
     {
@@ -132,6 +197,10 @@
       "en_US": [
         "ROTOM reluctantly gave up on entering\n",
         "the microwave oven’s motor..."
+      ],
+      "fr_FR": [
+        "MOTISMA renonce malgré lui à entrer\n",
+        "dans le moteur du four à micro-ondes..."
       ]
     },
     {
@@ -139,6 +208,10 @@
       "en_US": [
         "It’s a refrigerator.\n",
         "It has an odd-shaped motor on it."
+      ],
+      "fr_FR": [
+        "Un réfrigérateur.\n",
+        "Il est équipé d’un étrange moteur."
       ]
     },
     {
@@ -149,6 +222,13 @@
         "Oh? ROTOM appears as if it wants\n",
         "to go into the motor.\r",
         "Allow it to enter the motor?"
+      ],
+      "fr_FR": [
+        "Un réfrigérateur.\n",
+        "Il est équipé d’un étrange moteur.\r",
+        "Oh? On dirait que MOTISMA veut entrer\n",
+        "dans le moteur.\r",
+        "Le laisser entrer dans le moteur?"
       ]
     },
     {
@@ -156,6 +236,10 @@
       "en_US": [
         "ROTOM reluctantly gave up on entering\n",
         "the refrigerator’s motor..."
+      ],
+      "fr_FR": [
+        "MOTISMA renonce malgré lui à entrer\n",
+        "dans le moteur du réfrigérateur..."
       ]
     },
     {
@@ -163,6 +247,10 @@
       "en_US": [
         "It’s a washing machine.\n",
         "It has an odd-shaped motor on it."
+      ],
+      "fr_FR": [
+        "Un lave-linge.\n",
+        "Il est équipé d’un étrange moteur."
       ]
     },
     {
@@ -173,6 +261,13 @@
         "Oh? ROTOM appears as if it wants\n",
         "to go into the motor.\r",
         "Allow it to enter the motor?"
+      ],
+      "fr_FR": [
+        "Un lave-linge.\n",
+        "Il est équipé d’un étrange moteur.\r",
+        "Oh? On dirait que MOTISMA veut entrer\n",
+        "dans le moteur.\r",
+        "Le laisser entrer dans le moteur?"
       ]
     },
     {
@@ -180,6 +275,10 @@
       "en_US": [
         "ROTOM reluctantly gave up on entering\n",
         "the washing machine’s motor..."
+      ],
+      "fr_FR": [
+        "MOTISMA renonce malgré lui à entrer\n",
+        "dans le moteur du lave-linge..."
       ]
     },
     {
@@ -187,6 +286,10 @@
       "en_US": [
         "It’s a rotary fan.\n",
         "It has an odd-shaped motor on it."
+      ],
+      "fr_FR": [
+        "Un ventilateur.\n",
+        "Il est équipé d’un étrange moteur."
       ]
     },
     {
@@ -197,6 +300,13 @@
         "Oh? ROTOM appears as if it wants\n",
         "to go into the motor.\r",
         "Allow it to enter the motor?"
+      ],
+      "fr_FR": [
+        "Un ventilateur.\n",
+        "Il est équipé d’un étrange moteur.\r",
+        "Oh? On dirait que MOTISMA veut entrer\n",
+        "dans le moteur.\r",
+        "Le laisser entrer dans le moteur?"
       ]
     },
     {
@@ -204,6 +314,10 @@
       "en_US": [
         "ROTOM reluctantly gave up on entering\n",
         "the rotary fan’s motor..."
+      ],
+      "fr_FR": [
+        "MOTISMA renonce malgré lui à entrer\n",
+        "dans le moteur du ventilateur..."
       ]
     },
     {
@@ -211,6 +325,10 @@
       "en_US": [
         "It’s a lawn mower.\n",
         "It has an odd-shaped motor on it."
+      ],
+      "fr_FR": [
+        "Une tondeuse.\n",
+        "Elle est équipée d’un étrange moteur."
       ]
     },
     {
@@ -221,6 +339,13 @@
         "Oh? ROTOM appears as if it wants\n",
         "to go into the motor.\r",
         "Allow it to enter the motor?"
+      ],
+      "fr_FR": [
+        "Une tondeuse.\n",
+        "Elle est équipée d’un étrange moteur.\r",
+        "Oh? On dirait que MOTISMA veut entrer\n",
+        "dans le moteur.\r",
+        "Le laisser entrer dans le moteur?"
       ]
     },
     {
@@ -228,6 +353,10 @@
       "en_US": [
         "ROTOM reluctantly gave up on entering\n",
         "the lawn mower’s motor..."
+      ],
+      "fr_FR": [
+        "MOTISMA renonce malgré lui à entrer\n",
+        "dans le moteur de la tondeuse..."
       ]
     },
     {
@@ -254,6 +383,30 @@
         "“They will come to recognize me as the\n",
         "scientific genius Char...”\r",
         "The rest of the notebook is blank."
+      ],
+      "fr_FR": [
+        "Un mystérieux carnet. Impossible de\n",
+        "savoir de quand il date.\r",
+        "“C’est par pur hasard que j’ai recueilli\n",
+        "des données sur le Pokémon MOTISMA.\r",
+        "MOTISMA a une remarquable aptitude à\n",
+        "intégrer certains moteurs.\r",
+        "On sait désormais qu’il peut rester\n",
+        "dans un moteur quasi-indéfiniment.\r",
+        "Cependant, il en sort dès son entrée \n",
+        "dans une Salle Union ou un Club Wi-Fi.\r",
+        "De même si on le confie à une Pension.\r",
+        "Par ailleurs, MOTISMA est susceptible\n",
+        "d’oublier certaines capacités à sa\f",
+        "sortie d’un moteur.\r",
+        "Il s’avère nécessaire de conduire une\n",
+        "étude exhaustive de ce Pokémon.\r",
+        "Afin d’écarter toute concurrence, mes\n",
+        "travaux sur MOTISMA doivent rester\f",
+        "secrets.\r",
+        "Tous finiront par me reconnaître\n",
+        "comme le savant génial Plu...”\r",
+        "Les pages suivantes sont blanches."
       ]
     },
     {
@@ -267,6 +420,18 @@
         "every so often.\r",
         "He tells me intriguing rumors of rare\n",
         "Pokémon sightings and such.\r"
+      ],
+      "fr_FR": [
+        "Sorbier: Toi, ici?\r",
+        "Tu dois te consacrer jour et nuit à ton\n",
+        "Pokédex pour venir fureter jusqu’ici.\r",
+        "Ce que je fais là?\r",
+        "L’un de mes confrères habite à\n",
+        "Vestigion, et je viens lui rendre\f",
+        "visite de temps à autre.\r",
+        "Il me raconte des rumeurs étranges\n",
+        "relatives à l’apparition de Pokémon\f",
+        "rares.\r"
       ]
     },
     {
@@ -287,6 +452,23 @@
         "start when they were rendered moot.\r",
         "The very topic of discussion--the\n",
         "Pokémon-infused robot--disappeared...\r"
+      ],
+      "fr_FR": [
+        "Un Pokémon qui se glisse dans les\n",
+        "appareils électriques, dis-tu...\r",
+        "Hum...\r",
+        "Ce n’est pas exactement ce que l’on\n",
+        "m’avait dit...\r",
+        "Hum...\n",
+        "Voici ce que j’ai entendu dire.\r",
+        "Il y a de cela bien longtemps, un\n",
+        "Pokémon a fusionné avec un petit robot.\r",
+        "Devrait-on, oui ou non, le considérer\n",
+        "comme une nouvelle espèce?\r",
+        "Les débats à ce sujet allaient débuter,\n",
+        "mais ils n’eurent pas lieu.\r",
+        "En effet, le Pokémon-robot, le cœur\n",
+        "même de la controverse, avait disparu.\r"
       ]
     },
     {
@@ -307,6 +489,24 @@
         "No matter how old one gets, there will\n",
         "always be new Pokémon discoveries!\r",
         "Take care, {STRVAR_1 3, 0, 0}!\r"
+      ],
+      "fr_FR": [
+        "Quoi qu’il en soit, ce MOTISMA est un\n",
+        "Pokémon captivant.\r",
+        "Tu dis qu’il entre dans un appareil\n",
+        "électrique pour fusionner avec?\r",
+        "Ce faisant, il est fort possible qu’il\n",
+        "apprenne de nouvelles capacités.\r",
+        "D’une certaine manière, on pourrait le\n",
+        "considérer comme un Pokémon mécanique.\r",
+        "Hum...!\r",
+        "Bien qu’unique en son genre, c’est\n",
+        "indubitablement une forme de Pokémon.\r",
+        "Soit, soit!\r",
+        "Comme quoi, même un vieux savant comme\n",
+        "moi n’est pas au bout de ses surprises\f",
+        "en ce qui concerne les Pokémon!\r",
+        "Bonne continuation, {STRVAR_1 3, 0, 0}!\r"
       ]
     },
     {
@@ -315,6 +515,11 @@
         "It’s an old notebook.\n",
         "There’s no telling how old it is.\r",
         "Would you like to read it?"
+      ],
+      "fr_FR": [
+        "Un vieux carnet.\n",
+        "Impossible de savoir de quand il date.\r",
+        "Désirez-vous le lire?"
       ]
     },
     {
@@ -328,6 +533,17 @@
         "“Clutching my robot, I stared,\n",
         "transfixed by the peculiar Pokémon.”\r",
         "...Would you like to keep reading?"
+      ],
+      "fr_FR": [
+        "“Notre rencontre fut aussi soudaine\n",
+        "qu’inattendue.\r",
+        "Je venais de retrouver le petit\n",
+        "robot que j’avais perdu.\r",
+        "C’est là qu’un Pokémon a brusquement\n",
+        "émergé du moteur de la tondeuse!\r",
+        "M’agrippant à mon robot, j’étais\n",
+        "pétrifié par cette étrange apparition.”\r",
+        "... Continuer à lire?"
       ]
     },
     {
@@ -346,6 +562,23 @@
         "“Much to my surprise, the Pokémon\n",
         "seemed to favor me with a smile.”\r",
         "...Would you like to keep reading?"
+      ],
+      "fr_FR": [
+        "“Le Pokémon lévitait, comme soutenu\n",
+        "par une force invisible.\r",
+        "Il s’approcha, curieux et nullement\n",
+        "effrayé par ma présence.\r",
+        "On entendait des craquements, comme\n",
+        "si l’air était chargé d’électricité\f",
+        "statique.\r",
+        "Quelle ne fut pas ma surprise quand\n",
+        "je réalisai que cette énergie émanait\f",
+        "du Pokémon lui-même!\r",
+        "Alarmé, je tressaillis, certain que\n",
+        "j’allais prendre une décharge.\r",
+        "Je restai médusé quand le Pokémon me\n",
+        "gratifia d’un sourire.”\r",
+        "... Continuer à lire?"
       ]
     },
     {
@@ -360,6 +593,18 @@
         "“Motor and ROTOM...\n",
         "Surely the link is obvious?”\r",
         "...Would you like to keep reading?"
+      ],
+      "fr_FR": [
+        "“Je finis par comprendre que tout ce\n",
+        "qu’il désirait, c’était devenir mon ami.\r",
+        "Je décidai d’appeler cet incroyable\n",
+        "Pokémon MOTISMA.\r",
+        "Aussi simple que cela puisse paraître,\n",
+        "MOTISMA m’était apparu au sortir du\f",
+        "moteur d’une tondeuse.\r",
+        "Moteur, MOTISMA...\n",
+        "Le lien me semblait évident.”\r",
+        "... Continuer à lire?"
       ]
     },
     {
@@ -373,6 +618,17 @@
         "to enter and operate machinery!”\r",
         "...This is about halfway through.\n",
         "Would you like to keep reading?"
+      ],
+      "fr_FR": [
+        "“MOTISMA est un Pokémon tout\n",
+        "bonnement sensationnel.\r",
+        "Son aptitude à devenir invisible n’est\n",
+        "que la face émergée de l’iceberg.\r",
+        "Ce qui le rend unique, c’est sa\n",
+        "capacité à fusionner avec toutes\f",
+        "sortes d’appareils!”\r",
+        "... Vous en êtes à la moitié.\n",
+        "Continuer à lire?"
       ]
     },
     {
@@ -387,6 +643,18 @@
         "“For we were bonded on a much deeper,\n",
         "incorporeal level.”\r",
         "...Would you like to keep reading?"
+      ],
+      "fr_FR": [
+        "“MOTISMA et moi sommes vite devenus\n",
+        "amis. Nous étions inséparables.\r",
+        "Cependant, l’électricité générée par\n",
+        "son corps interdisait tout contact.\r",
+        "Impossible de nous toucher, sans même\n",
+        "parler de nous donner l’accolade, mais\f",
+        "c’était le cadet de nos soucis.\r",
+        "Car les sentiments qui nous unissaient\n",
+        "allaient bien au-delà de cela.”\r",
+        "... Continuer à lire?"
       ]
     },
     {
@@ -401,6 +669,18 @@
         "“I fell, stunned, into the arms of\n",
         "unconsciousness...”\r",
         "...Would you like to keep reading?"
+      ],
+      "fr_FR": [
+        "“Un jour, je me laissai emporter par\n",
+        "mon humeur taquine.\r",
+        "Apercevant MOTISMA flottant de-ci\n",
+        "de-là, je décidai de le surprendre, ce\f",
+        "que je ne faisais pas en temps normal.\r",
+        "Effrayé, MOTISMA généra une décharge\n",
+        "bien plus forte qu’à l’accoutumée.\r",
+        "Je tombai à la renverse, assommé,\n",
+        "et perdis connaissance...”\r",
+        "... Continuer à lire?"
       ]
     },
     {
@@ -416,6 +696,20 @@
         "“Though my words poured out, my friend\n",
         "could not be found to hear them...”\r",
         "...Would you like to keep reading?"
+      ],
+      "fr_FR": [
+        "“Quand je revins à moi, je constatai\n",
+        "avec horreur que MOTISMA avait\f",
+        "disparu.\r",
+        "Désemparé, je remuai ciel et terre\n",
+        "à la recherche de mon ami.\r",
+        "’Tu n’as pas à t’en vouloir.’\r",
+        "’Mea culpa. Il n’y a pas de mal.’\r",
+        "’Je vais le retrouver.’\r",
+        "J’avais beau déverser des flots de\n",
+        "paroles rassurantes, mon ami restait\f",
+        "introuvable...”\r",
+        "... Continuer à lire?"
       ]
     },
     {
@@ -432,6 +726,21 @@
         "“I ran to it and hugged ROTOM tight,\n",
         "talking on and on.”\r",
         "...Would you like to keep reading?"
+      ],
+      "fr_FR": [
+        "“Mes recherches me conduisirent bien\n",
+        "loin de chez moi.\r",
+        "Et c’est à la décharge municipale que\n",
+        "je finis par mettre la main sur mon\f",
+        "vieux robot.\r",
+        "Bizarrement, nos regards se\n",
+        "croisèrent, et le robot fit un geste de\f",
+        "la main, comme pour me saluer.\r",
+        "Je compris alors que j’avais enfin\n",
+        "retrouvé mon ami.\r",
+        "Je me précipitai pour serrer tendrement\n",
+        "le robot dans mes bras.”\r",
+        "... Continuer à lire?"
       ]
     },
     {
@@ -446,6 +755,19 @@
         "“Also, I realized that we would remain\n",
         "friends throughout our lives...”\r",
         "...The notebook ends with this page..."
+      ],
+      "fr_FR": [
+        "“Une lueur de joie apparut alors dans\n",
+        "les yeux du robot.\r",
+        "Je suis sûr qu’à ce moment précis,\n",
+        "MOTISMA émit plus d’électricité\f",
+        "que jamais.\r",
+        "D’une certaine manière, cet épisode\n",
+        "nous avait rapprochés et je percevais\f",
+        "ses pensées comme les miennes propres.\r",
+        "C’est là que je compris que nous\n",
+        "serions amis pour la vie...”\r",
+        "... L’histoire s’arrête là..."
       ]
     },
     {

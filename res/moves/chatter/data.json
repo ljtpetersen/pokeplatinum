@@ -25,5 +25,13 @@
     "contest": {
         "effect": "CONTEST_EFFECT_PITY_POINTS",
         "type": "CONTEST_TYPE_SMART"
-    }
+    },
+    "name_fr": "Babil",
+    "description_fr": [
+        "Le lanceur envoie une\n",
+        "onde musicale en\n",
+        "récitant des mots.\n",
+        "Peut aussi rendre\n",
+        "l’ennemi confus."
+    ]
 }

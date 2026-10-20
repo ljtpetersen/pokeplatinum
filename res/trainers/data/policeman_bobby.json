@@ -32,6 +32,10 @@
             "en_US": [
                 "Hold it right there, citizen!\n",
                 "Walking around at night is unsafe!\r"
+            ],
+            "fr_FR": [
+                "Minute, la fripouille!\n",
+                "C’est pas prudent de sortir la nuit!\r"
             ]
         },
         {
@@ -39,6 +43,10 @@
             "en_US": [
                 "You’ve got tough partners with you.\n",
                 "Carry on, citizen. Carry on.\n"
+            ],
+            "fr_FR": [
+                "Tes partenaires sont des costauds.\n",
+                "On circule, la fripouille, on circule.\n"
             ]
         },
         {
@@ -46,6 +54,10 @@
             "en_US": [
                 "Out so late? Does your mother\n",
                 "know you’re out so late?\n"
+            ],
+            "fr_FR": [
+                "Dehors? A cette heure-ci?\n",
+                "Ta maman est au courant?\n"
             ]
         },
         {
@@ -54,6 +66,11 @@
                 "Well, hello there!\r",
                 "That’s very civil minded of you to\n",
                 "say hello to your local Policeman!\n"
+            ],
+            "fr_FR": [
+                "Oh, bien le bonjour!\r",
+                "C’est gentil de venir saluer l’Agent\n",
+                "du coin, belle preuve de civisme!\n"
             ]
         },
         {
@@ -61,7 +78,12 @@
             "en_US": [
                 "Didn’t I already give you a warning?\n",
                 "It’s unsafe to walk around at night!\r"
+            ],
+            "fr_FR": [
+                "Tu as déjà reçu un avertissement, non?\n",
+                "Il ne faut pas se promener la nuit!\r"
             ]
         }
-    ]
+    ],
+    "name_fr": "Jeff"
 }

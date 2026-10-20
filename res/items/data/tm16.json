@@ -27,5 +27,13 @@
   "fieldUseFunc": "ITEM_USE_FUNC_TM_HM",
   "battleUseCategory": "BATTLE_USE_CATEGORY_NONE",
   "itemUseParams": null,
-  "teachesMove": "MOVE_LIGHT_SCREEN"
+  "teachesMove": "MOVE_LIGHT_SCREEN",
+  "name_fr": "CT16",
+  "description_fr": [
+    "Un fabuleux mur de lumière qui réduit\n",
+    "les dégâts causés par les attaques\n",
+    "spéciales durant 5 tours."
+  ],
+  "plural_fr": "CT16",
+  "article_fr": null
 }

@@ -32,17 +32,29 @@
             "en_US": [
                 "Speed is a ninja’s best weapon!\n",
                 "Can you keep up?\r"
+            ],
+            "fr_FR": [
+                "La vitesse est la meilleure arme du\n",
+                "ninja! Peux-tu tenir le rythme?\r"
             ]
         },
         {
             "type": "TRMSG_DEFEAT",
-            "en_US": "I did a lot to conceal myself, too...\n"
+            "en_US": "I did a lot to conceal myself, too...\n",
+            "fr_FR": [
+                "J’ai fait beaucoup d’efforts pour me\n",
+                "cacher...\n"
+            ]
         },
         {
             "type": "TRMSG_POST_BATTLE",
             "en_US": [
                 "I’ll wait here for a weaker-looking\n",
                 "Trainer and then ambush them!\n"
+            ],
+            "fr_FR": [
+                "Je vais attendre ici et tendre une\n",
+                "embuscade à un Dresseur moins fort!\n"
             ]
         },
         {
@@ -50,7 +62,12 @@
             "en_US": [
                 "I became even faster!\n",
                 "How can you hope to keep up?\r"
+            ],
+            "fr_FR": [
+                "Je suis devenu encore plus rapide!\n",
+                "N’espère pas tenir le rythme!\r"
             ]
         }
-    ]
+    ],
+    "name_fr": "Ali"
 }

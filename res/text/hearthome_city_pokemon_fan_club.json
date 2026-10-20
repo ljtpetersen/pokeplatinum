@@ -25,6 +25,30 @@
         "Therefore!\r",
         "I declare this Poffin Case to be\n",
         "a gift from me to you!\r"
+      ],
+      "fr_FR": [
+        "Bonjour, bonjour! Comment dire,\n",
+        "comment vont les affaires?\r",
+        "Je suis le Président du Fan Club \n",
+        "Pokémon! Eh oui, c’est bien moi!\r",
+        "Quelles sucreries, comment dire,\n",
+        "offres-tu à tes Pokémon?\r",
+        "Pour ma part, comment dire, je leur\n",
+        "donne des Poffins!\r",
+        "Et, comment dire, tu te demandes\n",
+        "peut-être pourquoi je fais ça?\r",
+        "Parce que donner des Poffins, c’est une\n",
+        "belle preuve d’affection!\r",
+        "Exemple! Si je donne un Poffin\n",
+        "Sucré à un Pokémon,\f",
+        "il deviendra plus gracieux!\r",
+        "Autre exemple! Si je lui donne un Poffin\n",
+        "Epicé, il gagnera en sang-froid!\r",
+        "A mon avis, comment dire, les Poffins,\n",
+        "c’est que du bon pour tes Pokémon!\r",
+        "En conséquence...\r",
+        "Je déclare très officiellement que cette\n",
+        "Boîte Poffin est pour toi!\r"
       ]
     },
     {
@@ -33,6 +57,11 @@
         "I urge you to fill it with Poffins\n",
         "and be generous in dispensing them\f",
         "to your Pokémon!"
+      ],
+      "fr_FR": [
+        "Je t’encourage à la remplir de Poffins\n",
+        "pour les dispenser généreusement à\f",
+        "tous tes Pokémon!"
       ]
     },
     {
@@ -45,6 +74,15 @@
         "But now I can’t brag as much...\r",
         "People started complaining, so\n",
         "I’ve had to curtail my bragging..."
+      ],
+      "fr_FR": [
+        "Il y a d’autres Fan Clubs dans le pays,\n",
+        "mais on est le numéro un!\r",
+        "Et pourquoi sommes-nous numéro un?\n",
+        "Parce qu’on n’arrête pas de frimer!\r",
+        "Mais ces temps-ci, je garde profil bas.\r",
+        "Les gens ont fini par se plaindre, alors\n",
+        "j’essaie de rester en retrait..."
       ]
     },
     {
@@ -52,6 +90,10 @@
       "en_US": [
         "Welcome to the Pokémon Fan Club!\n",
         "Oh, your {STRVAR_1 0, 0, 0}...\r"
+      ],
+      "fr_FR": [
+        "Bienvenue au Fan Club Pokémon!\n",
+        "Oh, ton {STRVAR_1 0, 0, 0}...\r"
       ]
     },
     {
@@ -59,6 +101,10 @@
       "en_US": [
         "It simply adores you!\n",
         "Why, I feel like I’m intruding!"
+      ],
+      "fr_FR": [
+        "Il t’adore, c’est fou!\n",
+        "J’ai l’impression d’être de trop!"
       ]
     },
     {
@@ -66,6 +112,10 @@
       "en_US": [
         "It’s very friendly toward you.\n",
         "I can tell you treat it kindly."
+      ],
+      "fr_FR": [
+        "Il est vraiment affectueux avec toi.\n",
+        "Je vois que tu le traites bien."
       ]
     },
     {
@@ -73,6 +123,10 @@
       "en_US": [
         "It’s quite friendly to you.\n",
         "It must be happy being with you."
+      ],
+      "fr_FR": [
+        "Il se sent assez bien avec toi.\n",
+        "Je pense qu’il est content de son sort."
       ]
     },
     {
@@ -80,6 +134,10 @@
       "en_US": [
         "It’s warming up to you.\n",
         "That’s my impression."
+      ],
+      "fr_FR": [
+        "Il doit encore s’habituer à toi.\n",
+        "Enfin, c’est mon sentiment."
       ]
     },
     {
@@ -87,6 +145,10 @@
       "en_US": [
         "It’s feeling neutral toward you.\n",
         "It’s up to you to change that."
+      ],
+      "fr_FR": [
+        "Il est plutôt neutre à ton \n",
+        "égard. A toi d’y remédier."
       ]
     },
     {
@@ -94,6 +156,10 @@
       "en_US": [
         "Hmm...\n",
         "It seems to dislike you a little."
+      ],
+      "fr_FR": [
+        "Hum...\n",
+        "Il ne t’aime pas trop."
       ]
     },
     {
@@ -101,19 +167,26 @@
       "en_US": [
         "Oh, my... I think this one really\n",
         "hasn’t taken too kindly to you."
+      ],
+      "fr_FR": [
+        "Oh là là... Je crois qu’il t’a dans le\n",
+        "collimateur, celui-là."
       ]
     },
     {
       "id": "HearthomeCityPokemonFanClub_Text_PsyduckCryGuaGwah",
-      "en_US": "PSYDUCK: Gua gwah?!"
+      "en_US": "PSYDUCK: Gua gwah?!",
+      "fr_FR": "PSYKOKWAK: Kwa kwaaaaak?!"
     },
     {
       "id": "HearthomeCityPokemonFanClub_Text_BunearyCryKukuuh",
-      "en_US": "BUNEARY: Kukuuh."
+      "en_US": "BUNEARY: Kukuuh.",
+      "fr_FR": "LAPOREILLE: Lapo lapo."
     },
     {
       "id": "HearthomeCityPokemonFanClub_Text_ClefairyCryPipPiiih",
-      "en_US": "CLEFAIRY: Pip piiih!"
+      "en_US": "CLEFAIRY: Pip piiih!",
+      "fr_FR": "MELOFEE: Mééééélofééééée!"
     }
   ]
 }

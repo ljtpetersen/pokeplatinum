@@ -10,6 +10,14 @@
         "if you’d leave, that is.\r",
         "This is something we don’t need\n",
         "anymore. Will you take it?\r"
+      ],
+      "fr_FR": [
+        "Les réservations étaient pleines,\n",
+        "mais ils ont réussi à nous caser.\r",
+        "Enfin seuls, tous les deux. Enfin, dès\n",
+        "que tu auras pris la peine de partir.\r",
+        "Nous n’avons plus besoin de cette\n",
+        "chose. Tu en veux?\r"
       ]
     },
     {
@@ -19,6 +27,12 @@
         "Coin Toss to make any decision.\r",
         "It gives me courage because I’m not\n",
         "accountable for my decisions."
+      ],
+      "fr_FR": [
+        "Je prends toujours mes décisions en\n",
+        "jouant à Pile ou Face.\r",
+        "Ça me donne du courage de ne pas être\n",
+        "responsable de mon destin."
       ]
     },
     {
@@ -26,6 +40,11 @@
       "en_US": [
         "That Coin Toss is why we ended up in\n",
         "this musty, old, and stinky suite..."
+      ],
+      "fr_FR": [
+        "C’est en jouant à Pile ou Face qu’on\n",
+        "a atterri dans cette suite miteuse,\f",
+        "puante et vétuste..."
       ]
     },
     {
@@ -35,6 +54,12 @@
         "we could talk without being disturbed.\r",
         "We really need this time together,\n",
         "just the two of us."
+      ],
+      "fr_FR": [
+        "Nous avions besoin de nous retrouver,\n",
+        "de discuter sans être dérangés.\r",
+        "Nous avons vraiment besoin de passer du\n",
+        "temps ensemble, sans personne d’autre."
       ]
     }
   ]

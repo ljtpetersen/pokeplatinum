@@ -27,5 +27,13 @@
   "fieldUseFunc": "ITEM_USE_FUNC_TM_HM",
   "battleUseCategory": "BATTLE_USE_CATEGORY_NONE",
   "itemUseParams": null,
-  "teachesMove": "MOVE_THUNDER"
+  "teachesMove": "MOVE_THUNDER",
+  "name_fr": "CT25",
+  "description_fr": [
+    "La foudre tombe sur l’ennemi pour\n",
+    "lui infliger des dégâts. Peut aussi le\n",
+    "paralyser."
+  ],
+  "plural_fr": "CT25",
+  "article_fr": null
 }

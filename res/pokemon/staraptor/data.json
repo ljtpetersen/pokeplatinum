@@ -7,7 +7,10 @@
         "special_attack": 50,
         "special_defense": 50
     },
-    "types": [ "TYPE_NORMAL", "TYPE_FLYING" ],
+    "types": [
+        "TYPE_NORMAL",
+        "TYPE_FLYING"
+    ],
     "catch_rate": 45,
     "base_exp_reward": 172,
     "ev_yields": {
@@ -26,28 +29,76 @@
     "hatch_cycles": 15,
     "base_friendship": 70,
     "exp_rate": "EXP_RATE_MEDIUM_SLOW",
-    "egg_groups": [ "EGG_GROUP_FLYING", "EGG_GROUP_FLYING" ],
-    "abilities": [ "ABILITY_INTIMIDATE", "ABILITY_NONE" ],
+    "egg_groups": [
+        "EGG_GROUP_FLYING",
+        "EGG_GROUP_FLYING"
+    ],
+    "abilities": [
+        "ABILITY_INTIMIDATE",
+        "ABILITY_NONE"
+    ],
     "safari_flee_rate": 0,
     "body_color": "MON_COLOR_BROWN",
     "flip_sprite": false,
     "icon_palette": 0,
     "learnset": {
         "by_level": [
-            [ 1, "MOVE_TACKLE" ],
-            [ 1, "MOVE_GROWL" ],
-            [ 1, "MOVE_QUICK_ATTACK" ],
-            [ 1, "MOVE_WING_ATTACK" ],
-            [ 5, "MOVE_QUICK_ATTACK" ],
-            [ 9, "MOVE_WING_ATTACK" ],
-            [ 13, "MOVE_DOUBLE_TEAM" ],
-            [ 18, "MOVE_ENDEAVOR" ],
-            [ 23, "MOVE_WHIRLWIND" ],
-            [ 28, "MOVE_AERIAL_ACE" ],
-            [ 33, "MOVE_TAKE_DOWN" ],
-            [ 34, "MOVE_CLOSE_COMBAT" ],
-            [ 41, "MOVE_AGILITY" ],
-            [ 49, "MOVE_BRAVE_BIRD" ]
+            [
+                1,
+                "MOVE_TACKLE"
+            ],
+            [
+                1,
+                "MOVE_GROWL"
+            ],
+            [
+                1,
+                "MOVE_QUICK_ATTACK"
+            ],
+            [
+                1,
+                "MOVE_WING_ATTACK"
+            ],
+            [
+                5,
+                "MOVE_QUICK_ATTACK"
+            ],
+            [
+                9,
+                "MOVE_WING_ATTACK"
+            ],
+            [
+                13,
+                "MOVE_DOUBLE_TEAM"
+            ],
+            [
+                18,
+                "MOVE_ENDEAVOR"
+            ],
+            [
+                23,
+                "MOVE_WHIRLWIND"
+            ],
+            [
+                28,
+                "MOVE_AERIAL_ACE"
+            ],
+            [
+                33,
+                "MOVE_TAKE_DOWN"
+            ],
+            [
+                34,
+                "MOVE_CLOSE_COMBAT"
+            ],
+            [
+                41,
+                "MOVE_AGILITY"
+            ],
+            [
+                49,
+                "MOVE_BRAVE_BIRD"
+            ]
         ],
         "by_tm": [
             "TM06",
@@ -90,7 +141,7 @@
             "MOVE_SWIFT"
         ]
     },
-    "evolutions": [  ],
+    "evolutions": [],
     "offspring": "SPECIES_STARLY",
     "footprint": {
         "has": true,
@@ -113,9 +164,9 @@
             "name": "STARAPTOR",
             "category": "Predator Pokémon",
             "entry_text": [
-                "It never stops attacking even\n",
-                "if it is injured. It fusses over the\n",
-                "shape of its comb."
+                "It has a savage nature. It will\n",
+                "courageously challenge foes that\n",
+                "are much larger."
             ]
         },
         "fr": {
@@ -161,6 +212,18 @@
                 "どうもうな　せいかくの　ポケモン。\n",
                 "じぶんよりも　からだの　おおきい\n",
                 "あいてにも　かかんに　いどみかかる。"
+            ]
+        },
+        "local_version": {
+            "entry_text": [
+                "It never stops attacking even\n",
+                "if it is injured. It fusses over the\n",
+                "shape of its comb."
+            ],
+            "entry_text_fr": [
+                "Il combattra sans relâche, même\n",
+                "blessé. Il prend grand soin de sa\n",
+                "mèche."
             ]
         }
     },

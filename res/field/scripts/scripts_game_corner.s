@@ -102,7 +102,7 @@ GameCorner_SlotMachine_NoCoinCase:
     ReleaseAll
     End
 
-#elif POKEPLATINUM_VERSION == POKEPLATINUM_VERSION_EU
+#elif POKEPLATINUM_VERSION >= POKEPLATINUM_VERSION_EU
 GameCorner_SlotMachine_0:
     GoToIfSet FLAG_DAILY_0x0ACE, GameCorner_AlreadyUsedMachine
     Call GameCorner_SlotMachine
@@ -247,7 +247,7 @@ GameCorner_CoinsClerk:
 #if POKEPLATINUM_VERSION <= POKEPLATINUM_VERSION_US_REV1
     CheckBonusRoundStreak VAR_RESULT
     GoToIfEq VAR_RESULT, FALSE, GameCorner_CoinsClerk_ShowCoinsAndMoney
-#elif POKEPLATINUM_VERSION == POKEPLATINUM_VERSION_EU
+#elif POKEPLATINUM_VERSION >= POKEPLATINUM_VERSION_EU
     GoToIfSet FLAG_DAILY_0x0ADA, GameCorner_CoinsClerk_ShowCoinsAndMoney
     SetFlag FLAG_DAILY_0x0ADA
     GetRandom VAR_0x8004, 10

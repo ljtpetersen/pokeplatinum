@@ -27,5 +27,13 @@
     "contest": {
         "effect": "CONTEST_EFFECT_FINAL_PERFORMANCE_ADVANTAGE",
         "type": "CONTEST_TYPE_COOL"
-    }
+    },
+    "name_fr": "Poing Météor",
+    "description_fr": [
+        "Un coup de poing lancé\n",
+        "à la vitesse d’un\n",
+        "météore. Peut aussi\n",
+        "augmenter l’Attaque\n",
+        "du lanceur."
+    ]
 }

@@ -27,5 +27,13 @@
   "fieldUseFunc": "ITEM_USE_FUNC_TM_HM",
   "battleUseCategory": "BATTLE_USE_CATEGORY_NONE",
   "itemUseParams": null,
-  "teachesMove": "MOVE_SWORDS_DANCE"
+  "teachesMove": "MOVE_SWORDS_DANCE",
+  "name_fr": "CT75",
+  "description_fr": [
+    "Danse frénétique qui exalte l’esprit\n",
+    "combatif. Augmente considérablement\n",
+    "l’Attaque du lanceur."
+  ],
+  "plural_fr": "CT75",
+  "article_fr": null
 }

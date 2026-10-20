@@ -7,6 +7,11 @@
         "This is odd... I heard there were two\n",
         "caves on Route 206.\r",
         "But I can only find one entrance."
+      ],
+      "fr_FR": [
+        "Bizarre... On m’avait dit qu’il y avait\n",
+        "deux grottes sur la Route 206.\r",
+        "Mais je n’en trouve qu’une seule."
       ]
     },
     {
@@ -14,6 +19,10 @@
       "en_US": [
         "Rt. 206\n",
         "Eterna City"
+      ],
+      "fr_FR": [
+        "Route 206\n",
+        "Vestigion"
       ]
     },
     {
@@ -21,6 +30,10 @@
       "en_US": [
         "Rt. 206\n",
         "Oreburgh City"
+      ],
+      "fr_FR": [
+        "Route 206\n",
+        "Charbourg"
       ]
     }
   ]

@@ -41,18 +41,28 @@
             "en_US": [
                 "With one mighty flap, my birds blow\n",
                 "away the embers of aggression!\r"
+            ],
+            "fr_FR": [
+                "D’un coup d’ailes puissant, mes oiseaux\n",
+                "éloignent les cendres menaçantes!\r"
             ]
         },
         {
             "type": "TRMSG_DEFEAT",
-            "en_US": "We failed to get off the ground...\n"
+            "en_US": "We failed to get off the ground...\n",
+            "fr_FR": "On n’a pas pu décoller du sol...\n"
         },
         {
             "type": "TRMSG_POST_BATTLE",
             "en_US": [
                 "The HM Fly isn’t useful inside caves.\n",
                 "It’s such a shame.\n"
+            ],
+            "fr_FR": [
+                "La CS Vol ne marche pas dans les\n",
+                "grottes. C’est dommage...\n"
             ]
         }
-    ]
+    ],
+    "name_fr": "Graziella"
 }

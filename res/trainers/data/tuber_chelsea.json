@@ -23,17 +23,26 @@
             "en_US": [
                 "Ehehe...\n",
                 "I can battle, too!\r"
+            ],
+            "fr_FR": [
+                "Hé, hé, hé...\n",
+                "Je sais aussi me battre!\r"
             ]
         },
         {
             "type": "TRMSG_DEFEAT",
-            "en_US": "Losing made me all hungry now.\n"
+            "en_US": "Losing made me all hungry now.\n",
+            "fr_FR": "J’ai perdu, et maintenant j’ai faim."
         },
         {
             "type": "TRMSG_POST_BATTLE",
             "en_US": [
                 "That cloud looks like giant ice cream!\n",
                 "I bet it tastes yummy!\n"
+            ],
+            "fr_FR": [
+                "Ce nuage ressemble à une crème glacée!\n",
+                "Et la crème glacée, c’est trop bon!\n"
             ]
         },
         {
@@ -41,7 +50,12 @@
             "en_US": [
                 "I’ve been dawdling here all this\n",
                 "time!\r"
+            ],
+            "fr_FR": [
+                "J’ai passé tout ce temps à me\n",
+                "promener dans les environs!\r"
             ]
         }
-    ]
+    ],
+    "name_fr": "Angelina"
 }

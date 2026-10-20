@@ -31,5 +31,13 @@
     "friendshipLow": 5,
     "friendshipMed": 3,
     "friendshipHigh": 2
-  }
+  },
+  "name_fr": "Calcium",
+  "description_fr": [
+    "Une boisson très nutritive qui monte\n",
+    "l’Atq. Spé. (Attaque Spéciale) d’un\n",
+    "Pokémon."
+  ],
+  "plural_fr": "Calcium",
+  "article_fr": null
 }

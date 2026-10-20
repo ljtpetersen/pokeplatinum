@@ -51,6 +51,10 @@
             "en_US": [
                 "I was born unto rolling waves that\n",
                 "washed me, with the beach, my cradle."
+            ],
+            "fr_FR": [
+                "Je suis né des flots, la mer\n",
+                "nourricière a bercé mon enfance."
             ]
         },
         {
@@ -58,6 +62,10 @@
             "en_US": [
                 "I was born and grew up on the seas.\n",
                 "That’s what made me the big man I am.\r"
+            ],
+            "fr_FR": [
+                "Né de la mer, je ne vis que pour elle. Ce\n",
+                "que je suis aujourd’hui, je le lui dois.\r"
             ]
         },
         {
@@ -65,7 +73,12 @@
             "en_US": [
                 "I lost, did I? Time to go to the sea\n",
                 "and stare inscrutably at it."
+            ],
+            "fr_FR": [
+                "J’ai perdu, n’est-ce pas? Je suis\n",
+                "trop loin de la mer pour gagner."
             ]
         }
-    ]
+    ],
+    "name_fr": "Lolo"
 }

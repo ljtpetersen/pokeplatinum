@@ -29,5 +29,12 @@
   "itemUseParams": {
     "restorePPAllMoves": true,
     "ppRestored": 10
-  }
+  },
+  "name_fr": "Elixir",
+  "description_fr": [
+    "Restaure 10 PP de toutes les\n",
+    "capacités d’un Pokémon."
+  ],
+  "plural_fr": "Elixir",
+  "article_fr": null
 }

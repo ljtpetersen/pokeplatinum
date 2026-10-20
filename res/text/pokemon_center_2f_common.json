@@ -8,6 +8,11 @@
         "Club Colosseum.\r",
         "You may battle with your friends\n",
         "here.\r"
+      ],
+      "fr_FR": [
+        "Bienvenue au Colisée du Club Link\n",
+        "Pokémon.\r",
+        "Vous pouvez affronter vos amis ici.\r"
       ]
     },
     {
@@ -15,7 +20,8 @@
       "en_US": [
         "Which Battle Mode would you like\n",
         "to play?"
-      ]
+      ],
+      "fr_FR": "Quel mode de combat choisissez-vous?"
     },
     {
       "id": "PokemonCenter2FCommon_Text_BattleModesInfo",
@@ -39,6 +45,29 @@
         "with one or more Pokémon each.\r",
         "Each Trainer can have one Pokémon\n",
         "in battle at a time.\r"
+      ],
+      "fr_FR": [
+        "Il existe quatre modes de combat.\r",
+        "Les Combats Solo sont pour deux\n",
+        "Dresseurs et un ou plusieurs\f",
+        "Pokémon chacun.\r",
+        "Chaque Dresseur n’a qu’un seul\n",
+        "Pokémon au combat à la fois.\r",
+        "Les Combats Duo sont pour deux\n",
+        "Dresseurs et deux Pokémon ou\f",
+        "plus chacun.\r",
+        "Chaque Dresseur a deux Pokémon\n",
+        "au combat en même temps.\r",
+        "Les Combats Mixtes sont pour deux\n",
+        "Dresseurs et trois Pokémon chacun.\r",
+        "Chaque Dresseur choisit un des\n",
+        "Pokémon de l’adversaire, le met dans\f",
+        "son équipe, puis combat.\r",
+        "Les Combats Multi sont pour quatre\n",
+        "Dresseurs et trois Pokémon ou plus\f",
+        "chacun.\r",
+        "Chaque Dresseur n’a qu’un seul\n",
+        "Pokémon au combat à la fois.\r"
       ]
     },
     {
@@ -58,6 +87,10 @@
       "en_US": [
         "For a Double Battle, you must\n",
         "have at least two Pokémon."
+      ],
+      "fr_FR": [
+        "Pour un Combat Duo, vous devez avoir\n",
+        "au minimum deux Pokémon."
       ]
     },
     {
@@ -70,7 +103,8 @@
     },
     {
       "id": "PokemonCenter2FCommon_Text_SaveTheGame",
-      "en_US": "Would you like to save the game?"
+      "en_US": "Would you like to save the game?",
+      "fr_FR": "Voulez-vous sauvegarder la partie?"
     },
     {
       "id": "PokemonCenter2FCommon_Text_Dummy10",
@@ -94,7 +128,8 @@
     },
     {
       "id": "PokemonCenter2FCommon_Text_PleaseVisitAgain",
-      "en_US": "Please do visit again."
+      "en_US": "Please do visit again.",
+      "fr_FR": "A bientôt, j’espère."
     },
     {
       "id": "PokemonCenter2FCommon_Text_RepeatProcessFromBeginning",
@@ -102,6 +137,11 @@
         "Communication error.\r",
         "Please repeat the registration\n",
         "process from the beginning."
+      ],
+      "fr_FR": [
+        "Erreur de communication.\r",
+        "Veuillez recommencer l’enregistrement\n",
+        "depuis le début."
       ]
     },
     {
@@ -131,6 +171,12 @@
         "will become the leader.\r",
         "The other player must then choose\n",
         "“JOIN GROUP.”"
+      ],
+      "fr_FR": [
+        "Veuillez décider qui de vous deux\n",
+        "sera le meneur.\r",
+        "L’autre devra choisir\n",
+        "“JOINDRE”."
       ]
     },
     {
@@ -220,6 +266,12 @@
         "will become the group leader.\r",
         "The other players must then choose\n",
         "“JOIN GROUP.”"
+      ],
+      "fr_FR": [
+        "Veuillez choisir lequel d’entre\n",
+        "vous sera le meneur du groupe.\r",
+        "Les autres joueurs devront\n",
+        "choisir “JOINDRE”."
       ]
     },
     {
@@ -227,6 +279,10 @@
       "en_US": [
         "Please choose the leader\n",
         "for a Multi Battle."
+      ],
+      "fr_FR": [
+        "Veuillez choisir un Dresseur\n",
+        "pour un Combat Multi."
       ]
     },
     {
@@ -234,17 +290,26 @@
       "en_US": [
         "{STRVAR_1 3, 0, 0} was asked to register\n",
         "you as a member. Please wait."
+      ],
+      "fr_FR": [
+        "{STRVAR_1 3, 0, 0} doit vous enregistrer\n",
+        "comme membre. Veuillez patienter..."
       ]
     },
     {
       "id": "PokemonCenter2FCommon_Text_PlayerRepliedNo",
-      "en_US": "{STRVAR_1 3, 0, 0} replied, “No...”"
+      "en_US": "{STRVAR_1 3, 0, 0} replied, “No...”",
+      "fr_FR": "{STRVAR_1 3, 0, 0} répond “Non”."
     },
     {
       "id": "PokemonCenter2FCommon_Text_PlayerOKdRegistration",
       "en_US": [
         "{STRVAR_1 3, 0, 0} OK’d your registration\n",
         "as a member."
+      ],
+      "fr_FR": [
+        "{STRVAR_1 3, 0, 0} vous accepte comme\n",
+        "membre."
       ]
     },
     {
@@ -252,6 +317,10 @@
       "en_US": [
         "Multi Battle!\n",
         "Awaiting other members!"
+      ],
+      "fr_FR": [
+        "Combat Multi!\n",
+        "En attente de participants..."
       ]
     },
     {
@@ -259,6 +328,10 @@
       "en_US": [
         "Multi Battle! Awaiting\n",
         "communication from another player."
+      ],
+      "fr_FR": [
+        "Combat Multi!\n",
+        "Attente d’un autre joueur..."
       ]
     },
     {
@@ -266,17 +339,26 @@
       "en_US": [
         "Cancel the Multi Battle Mode\n",
         "with these members?"
+      ],
+      "fr_FR": [
+        "Annuler le Mode Combat Multi\n",
+        "avec ces membres?"
       ]
     },
     {
       "id": "PokemonCenter2FCommon_Text_PlayerContactedYou",
-      "en_US": "{STRVAR_1 3, 0, 0} contacted you."
+      "en_US": "{STRVAR_1 3, 0, 0} contacted you.",
+      "fr_FR": "{STRVAR_1 3, 0, 0} vous a contacté(e)."
     },
     {
       "id": "PokemonCenter2FCommon_Text_MembersGatheredEnterRoom",
       "en_US": [
         "The members have gathered.\n",
         "Please enter the room."
+      ],
+      "fr_FR": [
+        "Les membres sont au complet.\n",
+        "Veuillez entrer dans la pièce."
       ]
     },
     {
@@ -303,6 +385,13 @@
         "You may interact directly with\n",
         "many Trainers here.\r",
         "Would you like to enter the room?"
+      ],
+      "fr_FR": [
+        "Bienvenue à la Salle Union du\n",
+        "Club Sans Fil Pokémon.\r",
+        "Ici, vous pouvez interagir avec\n",
+        "plein de Dresseurs.\r",
+        "Souhaitez-vous entrer?"
       ]
     },
     {
@@ -322,17 +411,40 @@
         "...Or find friends by touching\n",
         "the spoken words.\r",
         "Would you like to enter the room?"
+      ],
+      "fr_FR": [
+        "Les Dresseurs dans la Salle Union\n",
+        "sont ceux qui, autour de vous, ont\f",
+        "aussi pénétré dans la salle.\r",
+        "Vous pouvez faire entrer deux Pokémon\n",
+        "jusqu’au N. 30 pour un combat un\f",
+        "contre un.\r",
+        "Vous pouvez également échanger un\n",
+        "Pokémon avec un autre Dresseur.\r",
+        "Vous pouvez faire un échange de\n",
+        "données ou dessiner avec d’autres\f",
+        "joueurs.\r",
+        "Il est aussi possible de tchater avec\n",
+        "les autres joueurs.\r",
+        "Vous pouvez trouver vos amis en\n",
+        "touchant leurs mots.\r",
+        "Souhaitez-vous entrer dans la salle?"
       ]
     },
     {
       "id": "PokemonCenter2FCommon_Text_SaveTheGame2",
-      "en_US": "Would you like to save the game?"
+      "en_US": "Would you like to save the game?",
+      "fr_FR": "Voulez-vous sauvegarder la partie?"
     },
     {
       "id": "PokemonCenter2FCommon_Text_OverwriteSavedFile",
       "en_US": [
         "There is already a saved file.\n",
         "Is it OK to overwrite it?"
+      ],
+      "fr_FR": [
+        "Ecraser les données de la\n",
+        "sauvegarde existante?"
       ]
     },
     {
@@ -340,17 +452,26 @@
       "en_US": [
         "Saving...\n",
         "Don’t turn off the power."
+      ],
+      "fr_FR": [
+        "Sauvegarde en cours...\n",
+        "Ne pas éteindre."
       ]
     },
     {
       "id": "PokemonCenter2FCommon_Text_SavedTheGame",
-      "en_US": "{STRVAR_1 3, 0, 0} saved the game."
+      "en_US": "{STRVAR_1 3, 0, 0} saved the game.",
+      "fr_FR": "{STRVAR_1 3, 0, 0} a sauvegardé la partie."
     },
     {
       "id": "PokemonCenter2FCommon_Text_EnjoyUnionRoom",
       "en_US": [
         "I hope you enjoy your time in\n",
         "the Union Room.\r"
+      ],
+      "fr_FR": [
+        "Amusez-vous bien dans la\n",
+        "Salle Union.\r"
       ]
     },
     {
@@ -510,6 +631,10 @@
       "en_US": [
         "You may sign the back of your\n",
         "Trainer Card here.\r"
+      ],
+      "fr_FR": [
+        "Ici, vous pouvez signer au dos de\n",
+        "votre Carte de Dresseur.\r"
       ]
     },
     {
@@ -517,11 +642,16 @@
       "en_US": [
         "Would you like to sign your\n",
         "Trainer Card?"
+      ],
+      "fr_FR": [
+        "Voulez-vous signer votre\n",
+        "Carte de Dresseur?"
       ]
     },
     {
       "id": "PokemonCenter2FCommon_Text_PleaseVisitAgain2",
-      "en_US": "Please do visit again."
+      "en_US": "Please do visit again.",
+      "fr_FR": "J’espère vous revoir bientôt."
     },
     {
       "id": "PokemonCenter2FCommon_Text_SignTrainerCardInfo",
@@ -533,6 +663,16 @@
         "If you write a new signature, the\n",
         "old one will be deleted, however.\f",
         "Please be aware of that.\r"
+      ],
+      "fr_FR": [
+        "Ici, vous pouvez signer au dos de\n",
+        "votre Carte de Dresseur.\r",
+        "Vous pouvez montrer votre signature\n",
+        "aux autres joueurs se trouvant dans\f",
+        "la Salle Union.\r",
+        "Si vous refaites votre signature,\n",
+        "l’ancienne sera effacée.\f",
+        "Pensez-y.\r"
       ]
     },
     {
@@ -540,7 +680,8 @@
       "en_US": [
         "Which set of rules would you like\n",
         "to use?"
-      ]
+      ],
+      "fr_FR": "Quelles règles voulez-vous utiliser?"
     },
     {
       "id": "PokemonCenter2FCommon_Text_NeedXPokemonForCup",
@@ -548,6 +689,11 @@
         "You need at least {STRVAR_1 50, 1, 0} Pokémon that\n",
         "qualify under {STRVAR_1 26, 0, 0} Cup\f",
         "rules."
+      ],
+      "fr_FR": [
+        "Vous devez avoir au moins {STRVAR_1 50, 1, 0} Pokémon\n",
+        "conformes aux règles de la Coupe\f",
+        "{STRVAR_1 26, 0, 0}."
       ]
     },
     {
@@ -572,19 +718,23 @@
     },
     {
       "id": "PokemonCenter2FCommon_Text_Cup",
-      "en_US": "{STRVAR_1 26, 0, 0} Cup"
+      "en_US": "{STRVAR_1 26, 0, 0} Cup",
+      "fr_FR": "Coupe {STRVAR_1 26, 0, 0}"
     },
     {
       "id": "PokemonCenter2FCommon_Text_Cancel",
-      "en_US": "CANCEL"
+      "en_US": "CANCEL",
+      "fr_FR": "ANNULER"
     },
     {
       "id": "PokemonCenter2FCommon_Text_Confirm",
-      "en_US": "CONFIRM"
+      "en_US": "CONFIRM",
+      "fr_FR": "CONFIRMER"
     },
     {
       "id": "PokemonCenter2FCommon_Text_Rules",
-      "en_US": "RULES"
+      "en_US": "RULES",
+      "fr_FR": "REGLES"
     },
     {
       "id": "PokemonCenter2FCommon_Text_Dummy117",
@@ -609,6 +759,12 @@
         "Pokémon that qualify under the\r",
         "{STRVAR_1 26, 0, 0} Cup rules with a\n",
         "total level limit of {STRVAR_1 52, 1, 0}."
+      ],
+      "fr_FR": [
+        "Il est impossible de former une équipe\n",
+        "de Pokémon conformes aux règles de la\r",
+        "Coupe {STRVAR_1 26, 0, 0} avec un\n",
+        "niveau total maximum de {STRVAR_1 52, 1, 0}."
       ]
     },
     {
@@ -617,13 +773,18 @@
     },
     {
       "id": "PokemonCenter2FCommon_Text_NoRestrictions",
-      "en_US": "NO RESTRICTIONS"
+      "en_US": "NO RESTRICTIONS",
+      "fr_FR": "TOUT EST PERMIS"
     },
     {
       "id": "PokemonCenter2FCommon_Text_CommsWillBeLaunched",
       "en_US": [
         "DS Wireless Communications will be\n",
         "launched."
+      ],
+      "fr_FR": [
+        "La communication sans fil DS va\n",
+        "démarrer."
       ]
     },
     {
@@ -631,6 +792,10 @@
       "en_US": [
         "For a Multi Battle, you must have\n",
         "at least three Pokémon."
+      ],
+      "fr_FR": [
+        "Pour un Combat Multi, vous devez avoir\n",
+        "au moins trois Pokémon."
       ]
     },
     {
@@ -638,6 +803,10 @@
       "en_US": [
         "For a Mix Battle, you must have\n",
         "at least three Pokémon."
+      ],
+      "fr_FR": [
+        "Pour un Combat Mixte, vous devez avoir\n",
+        "au moins trois Pokémon."
       ]
     },
     {
@@ -645,6 +814,10 @@
       "en_US": [
         "You have at least one Pokémon\n",
         "that can’t be taken."
+      ],
+      "fr_FR": [
+        "Au moins un de vos Pokémon ne peut pas\n",
+        "être pris."
       ]
     }
   ]

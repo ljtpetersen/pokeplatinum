@@ -9,11 +9,19 @@
         "Double Battle challenges.\r",
         "Please be aware that these challenges\n",
         "are designed for a single Trainer.\r"
+      ],
+      "fr_FR": [
+        "Bienvenue à la Scène de Combat!\r",
+        "Je suis votre guide pour les \n",
+        "Combats Solo et Duo.\r",
+        "Ils sont conçus pour un seul\n",
+        "Dresseur.\r"
       ]
     },
     {
       "id": "BattleHall_Text_SelectChallenge",
-      "en_US": "Which challenge would you like to take?"
+      "en_US": "Which challenge would you like to take?",
+      "fr_FR": "Quel défi souhaitez-vous relever?"
     },
     {
       "id": "BattleHall_Text_ExplainSingleDoubleChallenge",
@@ -39,6 +47,29 @@
         "If you don’t save, you will be\n",
         "disqualified from your challenge.\r",
         "Please be aware of that!\r"
+      ],
+      "fr_FR": [
+        "La Scène de Combat propose des\n",
+        "Combats Solo et des Combats Duo.\r",
+        "Pour les Combats Solo, vous avez droit\n",
+        "à un Pokémon de niveau 30 minimum.\r",
+        "Pour les Combats Duo, il vous faut\n",
+        "deux Pokémon de la même espèce\f",
+        "et de niveau 30 minimum.\r",
+        "La meilleure série de victoires de\n",
+        "chaque espèce de Pokémon est\f",
+        "enregistrée.\r",
+        "Ainsi, n’importe quel Pokémon peut\n",
+        "viser la première place.\r",
+        "Une fois à l’intérieur, on vous\n",
+        "demandera de choisir le type et le\f",
+        "rang des Pokémon à combattre.\r",
+        "Remportez dix combats à la suite et\n",
+        "vous gagnerez des Points de Combat.\r",
+        "Si vous voulez interrompre votre \n",
+        "progression, vous devrez sauvegarder.\r",
+        "Si vous ne le faites pas, nous \n",
+        "devrons vous disqualifier.\r"
       ]
     },
     {
@@ -49,6 +80,13 @@
         "challenge.\r",
         "Please be aware that this challenge\n",
         "requires two Trainers.\r"
+      ],
+      "fr_FR": [
+        "Bienvenue à la Scène de Combat!\r",
+        "Je serai votre guide pour\n",
+        "les Combats Multi!\r",
+        "Ils sont conçus pour des équipes\n",
+        "de deux Dresseurs.\r"
       ]
     },
     {
@@ -56,6 +94,10 @@
       "en_US": [
         "Would you like to take the Battle Hall\n",
         "Multi Battle challenge?"
+      ],
+      "fr_FR": [
+        "Voulez-vous relever le défi d’un\n",
+        "Combat Multi?"
       ]
     },
     {
@@ -72,11 +114,26 @@
         "a row, you will earn Battle Points (BP).\r",
         "Please note: a Battle Hall Multi Battle\n",
         "challenge can’t be interrupted.\r"
+      ],
+      "fr_FR": [
+        "Pour les Combats Multi, vous pouvez\n",
+        "faire équipe avec un ami utilisant un\r",
+        "Pokémon de niveau 30 minimum et\n",
+        "de la même espèce que le vôtre.\r",
+        "Une fois à l’intérieur, on vous\n",
+        "demandera de choisir le type et le\f",
+        "rang des Pokémon à combattre.\r",
+        "Remportez dix combats à la suite et\n",
+        "vous gagnerez des Points de Combat.\r",
+        "Notez bien qu’à la Scène de Combat,\n",
+        "les Combats Multi ne peuvent être\f",
+        "interrompus.\r"
       ]
     },
     {
       "id": "BattleHall_Text_HopeToSeeYouAgain",
-      "en_US": "We hope to see you again!"
+      "en_US": "We hope to see you again!",
+      "fr_FR": "A une prochaine fois peut-être!"
     },
     {
       "id": "BattleHall_Text_Dummy1",
@@ -88,7 +145,8 @@
     },
     {
       "id": "BattleHall_Text_ThisWayPlease",
-      "en_US": "Right this way, please!"
+      "en_US": "Right this way, please!",
+      "fr_FR": "Par ici, s’il vous plaît!"
     },
     {
       "id": "BattleHall_Text_Dummy3",
@@ -100,6 +158,12 @@
         "We’ve missed you!\r",
         "You must save the game before you\n",
         "resume your challenge. Please wait."
+      ],
+      "fr_FR": [
+        "Contents de vous revoir!\r",
+        "Vous devez sauvegarder la partie avant\n",
+        "de reprendre le défi.\r",
+        "Veuillez patienter."
       ]
     },
     {
@@ -110,6 +174,13 @@
         "challenge last time.\r",
         "Because of that, you have been\n",
         "disqualified from your challenge!\r"
+      ],
+      "fr_FR": [
+        "Je regrette.\r",
+        "Vous n’avez pas sauvegardé avant\n",
+        "l’interruption de votre dernier défi.\r",
+        "En conséquence, nous sommes \n",
+        "obligés de vous disqualifier!\r"
       ]
     },
     {
@@ -118,6 +189,11 @@
         "Congratulations!\r",
         "In honor of your victory, we present\n",
         "you this commemorative print!\r"
+      ],
+      "fr_FR": [
+        "Félicitations!\r",
+        "Pour célébrer votre victoire, nous vous\n",
+        "offrons cette photo en souvenir!\r"
       ]
     },
     {
@@ -125,6 +201,10 @@
       "en_US": [
         "The Gold Print was added to\n",
         "{STRVAR_1 3, 0, 0}’s Vs. Recorder!\r"
+      ],
+      "fr_FR": [
+        "{STRVAR_1 3, 0, 0} a la Photo d’Or dans son\n",
+        "Magnéto VS!\r"
       ]
     },
     {
@@ -132,27 +212,36 @@
       "en_US": [
         "The Silver Print was added to\n",
         "{STRVAR_1 3, 0, 0}’s Vs. Recorder!\r"
+      ],
+      "fr_FR": [
+        "{STRVAR_1 3, 0, 0} a la Photo d’Argent dans\n",
+        "son Magnéto VS!\r"
       ]
     },
     {
       "id": "BattleHall_Text_SingleBattle",
-      "en_US": "SINGLE BATTLE"
+      "en_US": "SINGLE BATTLE",
+      "fr_FR": "COMBAT SOLO"
     },
     {
       "id": "BattleHall_Text_DoubleBattle",
-      "en_US": "DOUBLE BATTLE"
+      "en_US": "DOUBLE BATTLE",
+      "fr_FR": "COMBAT DUO"
     },
     {
       "id": "BattleHall_Text_TakeChallenge",
-      "en_US": "TAKE CHALLENGE"
+      "en_US": "TAKE CHALLENGE",
+      "fr_FR": "RELEVER LE DEFI"
     },
     {
       "id": "BattleHall_Text_Info",
-      "en_US": "INFO"
+      "en_US": "INFO",
+      "fr_FR": "INFOS"
     },
     {
       "id": "BattleHall_Text_Cancel",
-      "en_US": "CANCEL"
+      "en_US": "CANCEL",
+      "fr_FR": "ANNULER"
     },
     {
       "id": "BattleHall_Text_Dummy4",
@@ -197,6 +286,12 @@
         "“BECOME LEADER.”\r",
         "The other Trainer must select\n",
         "“JOIN GROUP.”"
+      ],
+      "fr_FR": [
+        "L’un de vous deux devra sélectionner\n",
+        "“MENEUR”.\r",
+        "L’autre Dresseur devra choisir\n",
+        "“JOINDRE”."
       ]
     },
     {
@@ -204,6 +299,10 @@
       "en_US": [
         "We need to launch DS Wireless\n",
         "Communications."
+      ],
+      "fr_FR": [
+        "La communication sans fil DS va\n",
+        "démarrer."
       ]
     },
     {
@@ -211,6 +310,10 @@
       "en_US": [
         "You must save the game before I\n",
         "show you in. Please wait."
+      ],
+      "fr_FR": [
+        "Vos données vont être sauvegardées.\n",
+        "Veuillez patienter."
       ]
     },
     {
@@ -218,7 +321,8 @@
       "en_US": [
         "Please choose the Pokémon you wish to\n",
         "enter.\r"
-      ]
+      ],
+      "fr_FR": "Veuillez choisir qui vous inscrivez.\r"
     },
     {
       "id": "BattleHall_Text_DeleteOngoingStreak",
@@ -227,6 +331,12 @@
         "saved for {STRVAR_1 0, 0, 0}.\r",
         "Delete this record and start a new\n",
         "challenge with {STRVAR_1 0, 1, 0}?"
+      ],
+      "fr_FR": [
+        "{STRVAR_1 0, 0, 0} a déjà une série de\n",
+        "victoires consécutives en cours.\r",
+        "Effacer la série et repartir de zéro\n",
+        "avec {STRVAR_1 0, 1, 0}?"
       ]
     },
     {
@@ -235,6 +345,11 @@
         "Excuse me!\r",
         "You don’t have a single eligible Pokémon\n",
         "of at least Lv. 30!\r"
+      ],
+      "fr_FR": [
+        "Je regrette!\r",
+        "Vous n’avez aucun Pokémon de niveau 30\n",
+        "minimum pouvant participer!\r"
       ]
     },
     {
@@ -244,17 +359,28 @@
         "For Double Battles, you must have two\n",
         "of the same kind of Pokémon that are\f",
         "at least Lv. 30 each.\r"
+      ],
+      "fr_FR": [
+        "Je regrette!\r",
+        "Pour les Combats Duo, il vous faut deux\n",
+        "Pokémon de la même espèce et de niveau\f",
+        "30 minimum.\r"
       ]
     },
     {
       "id": "BattleHall_Text_Banlist",
-      "en_US": "Also, Eggs are ineligible to enter.\r"
+      "en_US": "Also, Eggs are ineligible to enter.\r",
+      "fr_FR": "Les Oeufs ne peuvent pas participer.\r"
     },
     {
       "id": "BattleHall_Text_Banlist1",
       "en_US": [
         "Eggs and {STRVAR_1 0, 1, 0} are not allowed\n",
         "to enter.\r"
+      ],
+      "fr_FR": [
+        "Les Oeufs et {STRVAR_1 0, 1, 0} ne sont pas\n",
+        "autorisés à participer.\r"
       ]
     },
     {
@@ -262,6 +388,11 @@
       "en_US": [
         "Eggs, {STRVAR_1 0, 1, 0}, and {STRVAR_1 0, 2, 0}\n",
         "are not allowed to enter.\r"
+      ],
+      "fr_FR": [
+        "Les Oeufs, {STRVAR_1 0, 1, 0} et\n",
+        "{STRVAR_1 0, 2, 0} ne sont pas autorisés à\f",
+        "participer.\r"
       ]
     },
     {
@@ -270,6 +401,11 @@
         "Eggs, {STRVAR_1 0, 1, 0}, {STRVAR_1 0, 2, 0},\n",
         "and {STRVAR_1 0, 3, 0} are not allowed\f",
         "to enter.\r"
+      ],
+      "fr_FR": [
+        "Les Oeufs, {STRVAR_1 0, 1, 0}, {STRVAR_1 0, 2, 0}\n",
+        "et {STRVAR_1 0, 3, 0} ne sont pas autorisés\f",
+        "à participer.\r"
       ]
     },
     {
@@ -278,6 +414,11 @@
         "Eggs, {STRVAR_1 0, 1, 0}, {STRVAR_1 0, 2, 0},\n",
         "{STRVAR_1 0, 3, 0}, and {STRVAR_1 0, 4, 0}\f",
         "are not allowed to enter.\r"
+      ],
+      "fr_FR": [
+        "Les Oeufs, {STRVAR_1 0, 1, 0}, {STRVAR_1 0, 2, 0},\n",
+        "{STRVAR_1 0, 3, 0} et {STRVAR_1 0, 4, 0} ne sont\f",
+        "pas autorisés à participer.\r"
       ]
     },
     {
@@ -286,6 +427,12 @@
         "Eggs, {STRVAR_1 0, 1, 0}, {STRVAR_1 0, 2, 0},\n",
         "{STRVAR_1 0, 3, 0}, {STRVAR_1 0, 4, 0}, and\f",
         "{STRVAR_1 0, 5, 0} are not allowed to enter.\r"
+      ],
+      "fr_FR": [
+        "Les Oeufs, {STRVAR_1 0, 1, 0}, {STRVAR_1 0, 2, 0},\n",
+        "{STRVAR_1 0, 3, 0}, {STRVAR_1 0, 4, 0} et\f",
+        "{STRVAR_1 0, 5, 0} ne sont pas autorisés\f",
+        "à participer.\r"
       ]
     },
     {
@@ -295,6 +442,12 @@
         "{STRVAR_1 0, 3, 0}, {STRVAR_1 0, 4, 0},\f",
         "{STRVAR_1 0, 5, 0}, and {STRVAR_1 0, 6, 0}\f",
         "are not allowed to enter.\r"
+      ],
+      "fr_FR": [
+        "Les Oeufs, {STRVAR_1 0, 1, 0}, {STRVAR_1 0, 2, 0},\n",
+        "{STRVAR_1 0, 3, 0}, {STRVAR_1 0, 4, 0},\f",
+        "{STRVAR_1 0, 5, 0} et {STRVAR_1 0, 6, 0}\f",
+        "ne sont pas autorisés à participer.\r"
       ]
     },
     {
@@ -304,6 +457,13 @@
         "{STRVAR_1 0, 3, 0}, {STRVAR_1 0, 4, 0},\f",
         "{STRVAR_1 0, 5, 0}, {STRVAR_1 0, 6, 0}, and\f",
         "{STRVAR_1 0, 7, 0} are not allowed to enter.\r"
+      ],
+      "fr_FR": [
+        "Les Oeufs, {STRVAR_1 0, 1, 0}, {STRVAR_1 0, 2, 0},\n",
+        "{STRVAR_1 0, 3, 0}, {STRVAR_1 0, 4, 0},\f",
+        "{STRVAR_1 0, 5, 0}, {STRVAR_1 0, 6, 0} et\f",
+        "{STRVAR_1 0, 7, 0} ne sont pas autorisés\f",
+        "à participer.\r"
       ]
     },
     {
@@ -314,6 +474,13 @@
         "{STRVAR_1 0, 5, 0}, {STRVAR_1 0, 6, 0},\f",
         "{STRVAR_1 0, 7, 0}, and {STRVAR_1 0, 8, 0}\f",
         "are not allowed to enter.\r"
+      ],
+      "fr_FR": [
+        "Les Oeufs, {STRVAR_1 0, 1, 0}, {STRVAR_1 0, 2, 0},\n",
+        "{STRVAR_1 0, 3, 0}, {STRVAR_1 0, 4, 0},\f",
+        "{STRVAR_1 0, 5, 0}, {STRVAR_1 0, 6, 0},\f",
+        "{STRVAR_1 0, 7, 0} et {STRVAR_1 0, 8, 0}\f",
+        "ne sont pas autorisés à participer.\r"
       ]
     },
     {
@@ -324,6 +491,14 @@
         "{STRVAR_1 0, 5, 0}, {STRVAR_1 0, 6, 0},\f",
         "{STRVAR_1 0, 7, 0}, {STRVAR_1 0, 8, 0}, and\f",
         "{STRVAR_1 0, 9, 0} are not allowed to enter.\r"
+      ],
+      "fr_FR": [
+        "Les Oeufs, {STRVAR_1 0, 1, 0}, {STRVAR_1 0, 2, 0},\n",
+        "{STRVAR_1 0, 3, 0}, {STRVAR_1 0, 4, 0},\f",
+        "{STRVAR_1 0, 5, 0}, {STRVAR_1 0, 6, 0},\f",
+        "{STRVAR_1 0, 7, 0}, {STRVAR_1 0, 8, 0} et\f",
+        "{STRVAR_1 0, 9, 0} ne sont pas autorisés\f",
+        "à participer.\r"
       ]
     },
     {
@@ -335,6 +510,14 @@
         "{STRVAR_1 0, 7, 0}, {STRVAR_1 0, 8, 0},\f",
         "{STRVAR_1 0, 9, 0}, and {STRVAR_1 0, 10, 0}\f",
         "are not allowed to enter.\r"
+      ],
+      "fr_FR": [
+        "Les Oeufs, {STRVAR_1 0, 1, 0}, {STRVAR_1 0, 2, 0},\n",
+        "{STRVAR_1 0, 3, 0}, {STRVAR_1 0, 4, 0},\f",
+        "{STRVAR_1 0, 5, 0}, {STRVAR_1 0, 6, 0},\f",
+        "{STRVAR_1 0, 7, 0}, {STRVAR_1 0, 8, 0},\f",
+        "{STRVAR_1 0, 9, 0} et {STRVAR_1 0, 10, 0}\f",
+        "ne sont pas autorisés à participer.\r"
       ]
     },
     {
@@ -346,6 +529,15 @@
         "{STRVAR_1 0, 7, 0}, {STRVAR_1 0, 8, 0},\f",
         "{STRVAR_1 0, 9, 0}, {STRVAR_1 0, 10, 0}, and\f",
         "{STRVAR_1 0, 11, 0} are not allowed to enter.\r"
+      ],
+      "fr_FR": [
+        "Les Oeufs, {STRVAR_1 0, 1, 0}, {STRVAR_1 0, 2, 0},\n",
+        "{STRVAR_1 0, 3, 0}, {STRVAR_1 0, 4, 0},\f",
+        "{STRVAR_1 0, 5, 0}, {STRVAR_1 0, 6, 0},\f",
+        "{STRVAR_1 0, 7, 0}, {STRVAR_1 0, 8, 0},\f",
+        "{STRVAR_1 0, 9, 0}, {STRVAR_1 0, 10, 0} et\f",
+        "{STRVAR_1 0, 11, 0} ne sont pas autorisés\f",
+        "à participer.\r"
       ]
     },
     {
@@ -358,6 +550,15 @@
         "{STRVAR_1 0, 9, 0}, {STRVAR_1 0, 10, 0},\f",
         "{STRVAR_1 0, 11, 0}, and {STRVAR_1 0, 12, 0}\f",
         "are not allowed to enter.\r"
+      ],
+      "fr_FR": [
+        "Les Oeufs, {STRVAR_1 0, 1, 0}, {STRVAR_1 0, 2, 0},\n",
+        "{STRVAR_1 0, 3, 0}, {STRVAR_1 0, 4, 0},\f",
+        "{STRVAR_1 0, 5, 0}, {STRVAR_1 0, 6, 0},\f",
+        "{STRVAR_1 0, 7, 0}, {STRVAR_1 0, 8, 0},\f",
+        "{STRVAR_1 0, 9, 0}, {STRVAR_1 0, 10, 0},\f",
+        "{STRVAR_1 0, 11, 0} et {STRVAR_1 0, 12, 0}\f",
+        "ne sont pas autorisés à participer.\r"
       ]
     },
     {
@@ -370,6 +571,16 @@
         "{STRVAR_1 0, 9, 0}, {STRVAR_1 0, 10, 0},\f",
         "{STRVAR_1 0, 11, 0}, {STRVAR_1 0, 12, 0}, and\f",
         "{STRVAR_1 0, 13, 0} are not allowed to enter.\r"
+      ],
+      "fr_FR": [
+        "Les Oeufs, {STRVAR_1 0, 1, 0}, {STRVAR_1 0, 2, 0},\n",
+        "{STRVAR_1 0, 3, 0}, {STRVAR_1 0, 4, 0},\f",
+        "{STRVAR_1 0, 5, 0}, {STRVAR_1 0, 6, 0},\f",
+        "{STRVAR_1 0, 7, 0}, {STRVAR_1 0, 8, 0},\f",
+        "{STRVAR_1 0, 9, 0}, {STRVAR_1 0, 10, 0},\f",
+        "{STRVAR_1 0, 11, 0}, {STRVAR_1 0, 12, 0} et\f",
+        "{STRVAR_1 0, 13, 0} ne sont pas autorisés\f",
+        "à participer.\r"
       ]
     },
     {
@@ -383,6 +594,16 @@
         "{STRVAR_1 0, 11, 0}, {STRVAR_1 0, 12, 0},\f",
         "{STRVAR_1 0, 13, 0}, and {STRVAR_1 0, 14, 0}\f",
         "are not allowed to enter.\r"
+      ],
+      "fr_FR": [
+        "Les Oeufs, {STRVAR_1 0, 1, 0}, {STRVAR_1 0, 2, 0},\n",
+        "{STRVAR_1 0, 3, 0}, {STRVAR_1 0, 4, 0},\f",
+        "{STRVAR_1 0, 5, 0}, {STRVAR_1 0, 6, 0},\f",
+        "{STRVAR_1 0, 7, 0}, {STRVAR_1 0, 8, 0},\f",
+        "{STRVAR_1 0, 9, 0}, {STRVAR_1 0, 10, 0},\f",
+        "{STRVAR_1 0, 11, 0}, {STRVAR_1 0, 12, 0},\f",
+        "{STRVAR_1 0, 13, 0} et {STRVAR_1 0, 14, 0}\f",
+        "ne sont pas autorisés à participer.\r"
       ]
     },
     {
@@ -396,6 +617,17 @@
         "{STRVAR_1 0, 11, 0}, {STRVAR_1 0, 12, 0},\f",
         "{STRVAR_1 0, 13, 0}, {STRVAR_1 0, 14, 0}, and\f",
         "{STRVAR_1 0, 15, 0} are not allowed to enter.\r"
+      ],
+      "fr_FR": [
+        "Les Oeufs, {STRVAR_1 0, 1, 0}, {STRVAR_1 0, 2, 0},\n",
+        "{STRVAR_1 0, 3, 0}, {STRVAR_1 0, 4, 0},\f",
+        "{STRVAR_1 0, 5, 0}, {STRVAR_1 0, 6, 0},\f",
+        "{STRVAR_1 0, 7, 0}, {STRVAR_1 0, 8, 0},\f",
+        "{STRVAR_1 0, 9, 0}, {STRVAR_1 0, 10, 0},\f",
+        "{STRVAR_1 0, 11, 0}, {STRVAR_1 0, 12, 0},\f",
+        "{STRVAR_1 0, 13, 0}, {STRVAR_1 0, 14, 0} et\f",
+        "{STRVAR_1 0, 15, 0} ne sont pas autorisés\f",
+        "à participer.\r"
       ]
     },
     {
@@ -410,6 +642,17 @@
         "{STRVAR_1 0, 13, 0}, {STRVAR_1 0, 14, 0},\f",
         "{STRVAR_1 0, 15, 0}, and {STRVAR_1 0, 16, 0}\f",
         "are not allowed to enter.\r"
+      ],
+      "fr_FR": [
+        "Les Oeufs, {STRVAR_1 0, 1, 0}, {STRVAR_1 0, 2, 0},\n",
+        "{STRVAR_1 0, 3, 0}, {STRVAR_1 0, 4, 0},\f",
+        "{STRVAR_1 0, 5, 0}, {STRVAR_1 0, 6, 0},\f",
+        "{STRVAR_1 0, 7, 0}, {STRVAR_1 0, 8, 0},\f",
+        "{STRVAR_1 0, 9, 0}, {STRVAR_1 0, 10, 0},\f",
+        "{STRVAR_1 0, 11, 0}, {STRVAR_1 0, 12, 0},\f",
+        "{STRVAR_1 0, 13, 0}, {STRVAR_1 0, 14, 0},\f",
+        "{STRVAR_1 0, 15, 0} et {STRVAR_1 0, 16, 0}\f",
+        "ne sont pas autorisés à participer.\r"
       ]
     },
     {
@@ -424,6 +667,18 @@
         "{STRVAR_1 0, 13, 0}, {STRVAR_1 0, 14, 0},\f",
         "{STRVAR_1 0, 15, 0}, {STRVAR_1 0, 16, 0}, and\f",
         "{STRVAR_1 0, 17, 0} are not allowed to enter.\r"
+      ],
+      "fr_FR": [
+        "Les Oeufs, {STRVAR_1 0, 1, 0}, {STRVAR_1 0, 2, 0},\n",
+        "{STRVAR_1 0, 3, 0}, {STRVAR_1 0, 4, 0},\f",
+        "{STRVAR_1 0, 5, 0}, {STRVAR_1 0, 6, 0},\f",
+        "{STRVAR_1 0, 7, 0}, {STRVAR_1 0, 8, 0},\f",
+        "{STRVAR_1 0, 9, 0}, {STRVAR_1 0, 10, 0},\f",
+        "{STRVAR_1 0, 11, 0}, {STRVAR_1 0, 12, 0},\f",
+        "{STRVAR_1 0, 13, 0}, {STRVAR_1 0, 14, 0},\f",
+        "{STRVAR_1 0, 15, 0}, {STRVAR_1 0, 16, 0} et\f",
+        "{STRVAR_1 0, 17, 0} ne sont pas autorisés\f",
+        "à participer.\r"
       ]
     },
     {
@@ -439,11 +694,27 @@
         "{STRVAR_1 0, 15, 0}, {STRVAR_1 0, 16, 0},\f",
         "{STRVAR_1 0, 17, 0}, and {STRVAR_1 0, 18, 0}\f",
         "are not allowed to enter.\r"
+      ],
+      "fr_FR": [
+        "Les Oeufs, {STRVAR_1 0, 1, 0}, {STRVAR_1 0, 2, 0},\n",
+        "{STRVAR_1 0, 3, 0}, {STRVAR_1 0, 4, 0},\f",
+        "{STRVAR_1 0, 5, 0}, {STRVAR_1 0, 6, 0},\f",
+        "{STRVAR_1 0, 7, 0}, {STRVAR_1 0, 8, 0},\f",
+        "{STRVAR_1 0, 9, 0}, {STRVAR_1 0, 10, 0},\f",
+        "{STRVAR_1 0, 11, 0}, {STRVAR_1 0, 12, 0},\f",
+        "{STRVAR_1 0, 13, 0}, {STRVAR_1 0, 14, 0},\f",
+        "{STRVAR_1 0, 15, 0}, {STRVAR_1 0, 16, 0},\f",
+        "{STRVAR_1 0, 17, 0} et {STRVAR_1 0, 18, 0}\f",
+        "ne sont pas autorisés à participer.\r"
       ]
     },
     {
       "id": "BattleHall_Text_SeeMeWhenReady",
-      "en_US": "Please come see me when you are ready.\r"
+      "en_US": "Please come see me when you are ready.\r",
+      "fr_FR": [
+        "Revenez nous voir quand votre équipe\n",
+        "sera prête.\r"
+      ]
     },
     {
       "id": "BattleHall_Text_MultiChallengeMustUseSamePokemon",
@@ -453,6 +724,14 @@
         "same kind of Pokémon.\r",
         "Please confer with your friend and\n",
         "choose the same kind of Pokémon.\r"
+      ],
+      "fr_FR": [
+        "Pour la Scène de Combat, la règle veut\n",
+        "que les deux partenaires inscrivent des\r",
+        "Pokémon de la même espèce en\n",
+        "Combat Multi.\r",
+        "Veuillez choisir des Pokémon de la\n",
+        "même espèce.\r"
       ]
     },
     {
@@ -468,6 +747,15 @@
         "Pokémon doesn’t like. Why?\r",
         "Because the opposition goes up in level\n",
         "as you progress."
+      ],
+      "fr_FR": [
+        "Quand il s’agit de nourriture, je mange\n",
+        "toujours ce que je préfère en premier.\r",
+        "Mais ici, je commence par les types que\n",
+        "mes Pokémon redoutent le plus.\r",
+        "Pourquoi? Parce que les adversaires\n",
+        "deviennent de plus en plus coriaces au\f",
+        "fur et à mesure qu’on progresse."
       ]
     },
     {
@@ -479,6 +767,14 @@
         "your one favorite Pokémon.\r",
         "Even a Pokémon that’s not considered a\n",
         "good battler can make a challenge."
+      ],
+      "fr_FR": [
+        "La scène brille de mille feux! Et tout\n",
+        "Pokémon peut viser la première place.\r",
+        "Essaie donc de te surpasser avec ton\n",
+        "Pokémon préféré.\r",
+        "Même un Pokémon faible en combat a ses\n",
+        "chances ici."
       ]
     },
     {
@@ -489,11 +785,21 @@
         "battled the Brain here.\r",
         "The Brain will take your Pokémon on at\n",
         "the same level, to be fair."
+      ],
+      "fr_FR": [
+        "Pachipachi...\r",
+        "Mon PACHIRISU a l’air inoffensif, mais\n",
+        "il s’est quand même battu contre le\f",
+        "Meneur.\r",
+        "Ici, par souci d’équité, le Meneur\n",
+        "t’affronte avec un Pokémon du même\f",
+        "niveau que le tien."
       ]
     },
     {
       "id": "BattleHall_Text_PachirisuCry",
-      "en_US": "PACHIRISU: Pachipachi pacchipachii!"
+      "en_US": "PACHIRISU: Pachipachi pacchipachii!",
+      "fr_FR": "PACHIRISU: Pachipachi, pacchipachii!"
     },
     {
       "id": "BattleHall_Text_TryDifferentPokemon",
@@ -502,6 +808,12 @@
         "different kinds of Pokémon, too.\r",
         "Doing that, you’ll be building your\n",
         "overall record as well."
+      ],
+      "fr_FR": [
+        "Tente ta chance avec différentes\n",
+        "espèces de Pokémon.\r",
+        "Comme ça, tu amélioreras ton score\n",
+        "global."
       ]
     },
     {
@@ -515,6 +827,17 @@
         "knowing different types of moves.\r",
         "That could make it easier to win against\n",
         "certain types."
+      ],
+      "fr_FR": [
+        "Ici, il y a quelque chose à ne pas\n",
+        "perdre de vue.\r",
+        "S’il s’agit de la même espèce de\n",
+        "Pokémon, tu peux en inscrire\f",
+        "plusieurs.\r",
+        "Comme ça, la gamme de capacités à ta\n",
+        "disposition s’en trouve élargie.\r",
+        "Ça peut te favoriser face à certains\n",
+        "types."
       ]
     },
     {
@@ -524,6 +847,12 @@
         "Poison and Fighting?\r",
         "That means it can appear as a Poison\n",
         "type and as a Fighting type."
+      ],
+      "fr_FR": [
+        "Tu sais que CRADOPAUD a deux types,\n",
+        "Poison et Combat?\r",
+        "Par conséquent, tu peux l’inscrire dans\n",
+        "les catégories Poison et Combat."
       ]
     },
     {
@@ -538,6 +867,16 @@
         "Pokémon are matched in level to yours.\r",
         "That way, you can make challenges\n",
         "without worrying about levels."
+      ],
+      "fr_FR": [
+        "Ouuuuhhh! Ouuuuhhh!\n",
+        "Je suis l’étonnante Gouvernante!\r",
+        "J’ai une info à te donner.\r",
+        "A la Scène de Combat, les Pokémon\n",
+        "adverses ont un niveau proche de\f",
+        "celui des tiens.\r",
+        "Comme ça, tu peux te lancer sans te\n",
+        "soucier des questions de niveau."
       ]
     },
     {
@@ -549,6 +888,14 @@
         "with identical conditions.\r",
         "We’re competing over who can stretch\n",
         "their win streak the longest. It’s fun!"
+      ],
+      "fr_FR": [
+        "Il y a un jeu auquel je suis accro en\n",
+        "ce moment.\r",
+        "Mes amis et moi, on relève les mêmes\n",
+        "défis.\r",
+        "Ensuite on compare nos résultats!\n",
+        "Bref, on s’éclate!"
       ]
     },
     {
@@ -559,6 +906,14 @@
         "win streaks at the Battle Hall.\r",
         "To explain, I add only the longest win\n",
         "streaks of each kind of Pokémon."
+      ],
+      "fr_FR": [
+        "Je prends note de votre plus longue\n",
+        "série de victoires consécutives en\f",
+        "Combat Solo à la Scène de Combat.\r",
+        "C’est-à-dire que je ne prends en\n",
+        "compte que vos records pour\f",
+        "chaque espèce de Pokémon."
       ]
     },
     {
@@ -569,6 +924,13 @@
         "rewards.\r",
         "{STRVAR_1 3, 0, 0}, your total win-streak\n",
         "record is presently {STRVAR_1 55, 1, 0}.\r"
+      ],
+      "fr_FR": [
+        "Quand votre série de victoires record\n",
+        "atteindra un certain nombre, vous\f",
+        "gagnerez des PCo.\r",
+        "{STRVAR_1 3, 0, 0}, votre série de victoires\n",
+        "record est de {STRVAR_1 55, 1, 0}.\r"
       ]
     },
     {
@@ -577,6 +939,11 @@
         "Your total win-streak record has\n",
         "reached {STRVAR_1 55, 2, 0}.\f",
         "Here is your BP reward.\r"
+      ],
+      "fr_FR": [
+        "Votre série de victoires record a\n",
+        "atteint {STRVAR_1 55, 2, 0}.\f",
+        "Voici votre récompense.\r"
       ]
     },
     {
@@ -584,17 +951,27 @@
       "en_US": [
         "When your total win-streak record\n",
         "reaches {STRVAR_1 55, 3, 0}, you will earn BP."
+      ],
+      "fr_FR": [
+        "Quand votre série de victoires record\n",
+        "atteindra {STRVAR_1 55, 3, 0}, vous gagnerez\f",
+        "des PCo."
       ]
     },
     {
       "id": "BattleHall_Text_PlayerReceivedBP",
-      "en_US": "{STRVAR_1 3, 0, 0} received {STRVAR_1 53, 4, 0} BP!"
+      "en_US": "{STRVAR_1 3, 0, 0} received {STRVAR_1 53, 4, 0} BP!",
+      "fr_FR": "{STRVAR_1 3, 0, 0} obtient {STRVAR_1 53, 4, 0} PCo!"
     },
     {
       "id": "BattleHall_Text_RecordStandsAtX",
       "en_US": [
         "{STRVAR_1 3, 0, 0}, your total win-streak\n",
         "record stands at {STRVAR_1 55, 1, 0}.\r"
+      ],
+      "fr_FR": [
+        "{STRVAR_1 3, 0, 0}, votre série de victoires\n",
+        "record est de {STRVAR_1 55, 1, 0}.\r"
       ]
     },
     {
@@ -604,6 +981,12 @@
         "record stands at {STRVAR_1 55, 1, 0}.\r",
         "...My goodness!\n",
         "That’s a fantastic record!"
+      ],
+      "fr_FR": [
+        "{STRVAR_1 3, 0, 0}, votre série de victoires\n",
+        "record est de {STRVAR_1 55, 1, 0}.\r",
+        "Incroyable!\n",
+        "Vous avez pulvérisé le record!"
       ]
     },
     {
@@ -615,6 +998,14 @@
         "challengers who can electrify crowds.\r",
         "The kind of challenger who can beat the\n",
         "Brain... Aren’t there any around?"
+      ],
+      "fr_FR": [
+        "Victor: On s’ennuie ferme à la Scène de\n",
+        "Combat, ces temps-ci.\r",
+        "Aucun des candidats n’a su électriser\n",
+        "la foule grâce à ses talents.\r",
+        "Y a-t-il un challenger pour battre\n",
+        "le Meneur de Zone?"
       ]
     },
     {
@@ -625,6 +1016,13 @@
         "It’s addictively fun, huh?\r",
         "The more you win, the more kinds of\n",
         "Pokémon you get to see, too."
+      ],
+      "fr_FR": [
+        "Victor: Laisse-moi deviner. Tu vas\n",
+        "à la Scène de Combat, pas vrai?\f",
+        "C’est addictif, hein?\r",
+        "Plus tu gagnes, plus tu croises de\n",
+        "Pokémon différents."
       ]
     },
     {
@@ -636,6 +1034,14 @@
         "You’ve got some star quality.\r",
         "I think I’m going to keep an eye on you.\n",
         "There’s real charisma there."
+      ],
+      "fr_FR": [
+        "Victor: ...\n",
+        "Oh, désolé de te dévisager comme ça!\r",
+        "J’ai assisté à tes combats la dernière\n",
+        "fois. Tu as tout d’une star!\r",
+        "Je vais te garder à l’œil.\n",
+        "Tu as un grand potentiel!"
       ]
     },
     {
@@ -647,6 +1053,13 @@
         "Now I’m always looking forward to\n",
         "seeing the combo of you and your\f",
         "Pokémon on stage."
+      ],
+      "fr_FR": [
+        "Victor: Je ne rate pas un seul de tes\n",
+        "combats.\r",
+        "Niveau spectacle, tu assures.\r",
+        "Je guette toujours ton passage sur\n",
+        "la scène!"
       ]
     },
     {
@@ -659,6 +1072,15 @@
         "When I get to thinking about that,\n",
         "I get too wound up to sleep at night.\r",
         "That’s why I’ve been sleeping in lately!"
+      ],
+      "fr_FR": [
+        "Victor: Youhou, c’est moi! Qu’est-ce\n",
+        "que tu comptes faire cette fois?\r",
+        "Quel Pokémon vas-tu inscrire?\r",
+        "Quand j’y pense, ça m’empêche de dormir\n",
+        "la nuit.\r",
+        "Du coup, je fais souvent la grasse\n",
+        "matinée ces temps-ci!"
       ]
     },
     {
@@ -669,6 +1091,14 @@
         "You’re beyond awesome, even!\r",
         "The love you show so many Pokémon...\n",
         "It’s no easy feat, I can tell ya!"
+      ],
+      "fr_FR": [
+        "Victor: Trop cool!\n",
+        "Franchement trop cool!\f",
+        "T’es même plus que trop cool!\r",
+        "Tu débordes littéralement d’amour \n",
+        "pour les Pokémon...\r",
+        "Et ça, c’est pas donné à tout le monde!"
       ]
     },
     {
@@ -682,6 +1112,15 @@
         "who’s willing to listen.\r",
         "I was saying that you’re going to be a\n",
         "star before you even got a record!"
+      ],
+      "fr_FR": [
+        "Victor: J’ai jamais vu des Pokémon aussi\n",
+        "pressés d’aller au combat que les\f",
+        "tiens. Quel Dresseur hors pair!\r",
+        "Tu sais, je parle de toi à tous les gens\n",
+        "que je croise.\r",
+        "Je disais déjà que tu allais devenir une\n",
+        "star avant même que tu réussisses!"
       ]
     },
     {
@@ -693,6 +1132,14 @@
         "cheers I can do to support you.\r",
         "If you want to see them, you’ll need to\n",
         "keep working on your records!"
+      ],
+      "fr_FR": [
+        "Victor: Go, {STRVAR_1 3, 0, 0}, go!\n",
+        "Go, {STRVAR_1 3, 0, 0}, go!\r",
+        "Je suis en train de mettre au point une\n",
+        "chorégraphie pour t’encourager.\r",
+        "Si tu veux la voir, continue d’améliorer\n",
+        "ton score!"
       ]
     },
     {
@@ -703,6 +1150,13 @@
         "All those moments of glory...\r",
         "Your star burns so bright and huge!\n",
         "I can barely open my eyes around you!"
+      ],
+      "fr_FR": [
+        "Victor: Quel phénomène!\n",
+        "Tous ces combats que tu as menés...\f",
+        "sont autant de moments de gloire.\r",
+        "Tu es une star qui brille de mille feux!\n",
+        "Quand je te regarde, je suis ébloui!"
       ]
     },
     {
@@ -715,6 +1169,15 @@
         "your lifelong fan.\r",
         "Just as you love Pokémon, I love you\n",
         "as the Pokémon superstar!"
+      ],
+      "fr_FR": [
+        "Victor: A la Scène de Combat, tu as fait\n",
+        "preuve d’un attachement sans faille\f",
+        "envers les Pokémon...\r",
+        "Tu peux me compter parmi tes fans\n",
+        "à vie.\r",
+        "Mon admiration pour toi n’a d’égal que\n",
+        "ton amour des Pokémon!"
       ]
     },
     {
@@ -726,6 +1189,14 @@
         "challenger who can dazzle me.\r",
         "The kind of challenger who can make me\n",
         "a fan... Aren’t there any around?"
+      ],
+      "fr_FR": [
+        "Séréna: C’est au sujet de la Scène de\n",
+        "Combat... On s’y ennuie, ces temps-ci.\r",
+        "Aucun candidat n’a su m’éblouir avec\n",
+        "ses aptitudes.\r",
+        "N’y a-t-il aucun challenger dont je\n",
+        "puisse devenir fan?"
       ]
     },
     {
@@ -738,6 +1209,14 @@
         "Did you know?\r",
         "The more you win, the more kinds of\n",
         "Pokémon appear."
+      ],
+      "fr_FR": [
+        "Séréna: Euh, excuse-moi...\r",
+        "Tu vas à la Scène de Combat, n’est-ce\n",
+        "pas?\r",
+        "On s’y amuse beaucoup, pas vrai?\r",
+        "Plus on gagne, plus on voit de Pokémon\n",
+        "différents."
       ]
     },
     {
@@ -748,6 +1227,13 @@
         "It made me feel all tingly seeing you.\r",
         "Um... You won’t mind if I cheer for you\n",
         "from now on, will you? Please, may I?"
+      ],
+      "fr_FR": [
+        "Séréna: Euh, excuse-moi...\r",
+        "J’ai assisté à ton dernier combat.\n",
+        "J’en ai encore des frissons!\r",
+        "Hum... ça te dérange si je t’encourage\n",
+        "à partir de maintenant? S’il te plaît!"
       ]
     },
     {
@@ -758,6 +1244,13 @@
         "I can’t get up on stage with you, but\n",
         "I want to lend my support to your\f",
         "Pokémon and you for trying so hard."
+      ],
+      "fr_FR": [
+        "Séréna: Euh, excuse-moi...\r",
+        "Je t’encourage du mieux que je peux.\r",
+        "Je ne peux pas t’accompagner sur\n",
+        "scène, alors je me rattrape en te\f",
+        "soutenant moralement."
       ]
     },
     {
@@ -770,6 +1263,13 @@
         "sort of all choked up.\r",
         "I have trouble sleeping at night when\n",
         "I get that way."
+      ],
+      "fr_FR": [
+        "Séréna: Euh, excuse-moi...\r",
+        "Quelle espèce de Pokémon vas-tu\n",
+        "inscrire la prochaine fois?\r",
+        "Quand j’y pense, ça me rend folle.\n",
+        "Je n’en dors même plus la nuit."
       ]
     },
     {
@@ -780,6 +1280,13 @@
         "You’re fabulously fantastic!\r",
         "The love you show so many Pokémon...\n",
         "It must take extraordinary effort."
+      ],
+      "fr_FR": [
+        "Séréna: Euh, excuse-moi...\r",
+        "Fantastique!\n",
+        "Tu es tout bonnement fantastique!\r",
+        "Tu aimes tellement les Pokémon...\n",
+        "C’est rare un tel dévouement."
       ]
     },
     {
@@ -793,6 +1300,15 @@
         "I hope you don’t mind.\r",
         "I tell them I wish I could be as\n",
         "wonderful a Trainer as you!"
+      ],
+      "fr_FR": [
+        "Séréna: Je n’ai jamais vu des Pokémon\n",
+        "aussi pressés d’aller au combat que les\f",
+        "tiens. Quel Dresseur hors pair!\r",
+        "Je parle de toi à tous mes amis. Ça ne\n",
+        "te dérange pas, j’espère?\r",
+        "Je leur raconte à quel point je\n",
+        "t’admire!"
       ]
     },
     {
@@ -805,6 +1321,14 @@
         "routine for you.\r",
         "B-but, I’m sorry for being so silly and\n",
         "giddy and..."
+      ],
+      "fr_FR": [
+        "Séréna: Hourra, {STRVAR_1 3, 0, 0}!\n",
+        "Go, les Pokémon, go!\r",
+        "Oh! Euh, excuse-moi...\r",
+        "Je travaillais sur un projet de\n",
+        "chorégraphie en ton honneur.\r",
+        "D-désolée, quelle cruche je fais..."
       ]
     },
     {
@@ -815,6 +1339,14 @@
         "so often on that shining stage...\r",
         "Just seeing you makes me feel all\n",
         "happy inside. ♫"
+      ],
+      "fr_FR": [
+        "Séréna: Tu es une vraie source\n",
+        "d’inspiration pour moi.\r",
+        "Toute cette gloire, tu l’as bien méritée\n",
+        "à force de briller en combat...\r",
+        "Rien qu’à te voir, je me sens toute\n",
+        "guillerette. ♫"
       ]
     },
     {
@@ -827,6 +1359,13 @@
         "Pokémon there is.\r",
         "I love you for being so amazing and\n",
         "dedicated!"
+      ],
+      "fr_FR": [
+        "Séréna: Tu as fait preuve d’un amour\n",
+        "sans borne pour les Pokémon...\r",
+        "C’est incroyable, mais tu aimes toutes\n",
+        "les sortes de Pokémon.\r",
+        "J’admire ton dévouement!"
       ]
     },
     {
@@ -840,6 +1379,16 @@
         "My Pokédex is filling up from it.\r",
         "I guess I can thank you for that,\n",
         "{STRVAR_1 3, 0, 0}. So, thank you!"
+      ],
+      "fr_FR": [
+        "Aurore: Salut, {STRVAR_1 3, 0, 0}.\n",
+        "Tu sais quoi?\r",
+        "Je m’amuse à capturer les Pokémon dont\n",
+        "tu te sers en combat.\r",
+        "On peut dire que mon Pokédex s’en\n",
+        "ressent!\r",
+        "Je te dois des remerciements pour ça,\n",
+        "{STRVAR_1 3, 0, 0}. Alors voilà, merci!"
       ]
     },
     {
@@ -849,6 +1398,12 @@
         "of fun just to watch!\r",
         "You get to see so many different kinds\n",
         "of Pokémon. It’s cool."
+      ],
+      "fr_FR": [
+        "Louka: Ces combats sont si captivants\n",
+        "à regarder!\r",
+        "En plus, on y voit toutes sortes de\n",
+        "Pokémon!"
       ]
     },
     {
@@ -861,6 +1416,15 @@
         "different.\r",
         "It’s not just about feeling happy.\n",
         "It evokes something in me."
+      ],
+      "fr_FR": [
+        "Maman: {STRVAR_1 3, 0, 0}!\r",
+        "Quand je viens ici, je ne peux pas\n",
+        "m’empêcher d’encourager tous les\f",
+        "participants.\r",
+        "Mais quand je te vois gagner, c’est\n",
+        "différent.\r",
+        "L’émotion me submerge."
       ]
     },
     {
@@ -874,6 +1438,16 @@
         "you’ve battled with them as well.\r",
         "You’re what all Trainers should aspire\n",
         "to be!"
+      ],
+      "fr_FR": [
+        "Chen: Tu n’en finis pas de m’étonner.\n",
+        "Quel fabuleux Dresseur tu fais!\r",
+        "Tu ne te contentes pas de capturer\n",
+        "des hordes de Pokémon.\r",
+        "En plus de ça, tu les testes tous en\n",
+        "combat.\r",
+        "Tu es un exemple à suivre pour tous\n",
+        "les Dresseurs!"
       ]
     },
     {
@@ -883,6 +1457,13 @@
         "Battle Hall challenges and Contests.\r",
         "They show me aspects of Pokémon that\n",
         "I didn’t know about."
+      ],
+      "fr_FR": [
+        "Jasmine: J’adore les manifestations\n",
+        "tape-à-l’œil comme celles de la Scène\f",
+        "de Combat et les Concours.\r",
+        "Elles mettent en avant des aspects des\n",
+        "Pokémon que j’ignorais totalement."
       ]
     }
   ]

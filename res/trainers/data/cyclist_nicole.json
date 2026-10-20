@@ -42,6 +42,12 @@
                 "The both of us are on Bikes, and we\n",
                 "both have Pokémon!\r",
                 "I can’t let you get the better of me!\r"
+            ],
+            "fr_FR": [
+                "Hé, toi et moi on fait du vélo, et\n",
+                "on a des Pokémon!\r",
+                "Je vais te prouver que je suis\n",
+                "meilleure que toi partout!\r"
             ]
         },
         {
@@ -49,6 +55,10 @@
             "en_US": [
                 "Oh, geez...\n",
                 "I seem to have fallen off my Bike."
+            ],
+            "fr_FR": [
+                "Oh, mince...\n",
+                "Je suis tombée de vélo..."
             ]
         },
         {
@@ -56,6 +66,10 @@
             "en_US": [
                 "I should have challenged you to a race,\n",
                 "not a battle!\n"
+            ],
+            "fr_FR": [
+                "J’aurais dû te proposer une course,\n",
+                "pas un combat..."
             ]
         },
         {
@@ -63,7 +77,12 @@
             "en_US": [
                 "I hate knowing you’ve beaten me.\n",
                 "This time, I’m going to win!\r"
+            ],
+            "fr_FR": [
+                "Ça m’énerve de savoir que j’ai perdu \n",
+                "contre toi. Cette fois, je vais gagner!\r"
             ]
         }
-    ]
+    ],
+    "name_fr": "Lydia"
 }

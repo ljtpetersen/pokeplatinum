@@ -45,6 +45,12 @@
                 "far, but you’ll have to turn back.\r",
                 "There isn’t any chance that you\n",
                 "could ever beat me!\r"
+            ],
+            "fr_FR": [
+                "Wouah! Tu as réussi à venir jusqu’ici,\n",
+                "mais tu n’iras pas plus loin.\r",
+                "Tu n’as pas la moindre chance de\n",
+                "me battre!\r"
             ]
         },
         {
@@ -52,6 +58,10 @@
             "en_US": [
                 "What makes your Pokémon\n",
                 "so special?\n"
+            ],
+            "fr_FR": [
+                "Qu’est-ce qui rend tes Pokémon\n",
+                "si spéciaux?\n"
             ]
         },
         {
@@ -59,7 +69,12 @@
             "en_US": [
                 "As a challenger, you’re one tough\n",
                 "Trainer.\n"
+            ],
+            "fr_FR": [
+                "Tu es vraiment un Dresseur très\n",
+                "puissant.\n"
             ]
         }
-    ]
+    ],
+    "name_fr": "Octavio"
 }

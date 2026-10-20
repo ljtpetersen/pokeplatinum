@@ -6,6 +6,10 @@
       "en_US": [
         "All Pokémon have a special power\n",
         "called an ability."
+      ],
+      "fr_FR": [
+        "Chaque Pokémon a un pouvoir spécial\n",
+        "appelé capacité spéciale."
       ]
     },
     {
@@ -15,6 +19,12 @@
         "PACHIRISU’s Pickup.\r",
         "My darling picks up a lot of dropped\n",
         "items without me noticing!"
+      ],
+      "fr_FR": [
+        "Ma capacité spéciale préférée, c’est\n",
+        "Ramassage.\r",
+        "Mon PACHIRISU récupère plein d’objets\n",
+        "sans même que je m’en rende compte!"
       ]
     },
     {
@@ -24,6 +34,12 @@
         "but it’s a pain going outside.\r",
         "If you don’t mind, how about showing me\n",
         "a Pokémon called GEODUDE?"
+      ],
+      "fr_FR": [
+        "Au premier étage, on a une belle vue,\n",
+        "mais ça m’ennuie de sortir.\r",
+        "Ça te dérangerait de me montrer un\n",
+        "Pokémon appelé RACAILLOU?"
       ]
     },
     {
@@ -41,6 +57,21 @@
         "I’ll go out and catch Pokémon, too!\r",
         "Thank you, my friend!\n",
         "This is a token of my thanks!\r"
+      ],
+      "fr_FR": [
+        "Au premier étage, on profite de la vue,\n",
+        "mais ça m’ennuie de sortir.\r",
+        "Ça te dérangerait de me montrer un\n",
+        "Pokémon appelé RACAILLOU?\r",
+        "Oh! Ce Pokémon!\n",
+        "C’est un RACAILLOU!\r",
+        "Waouh, c’est cool...\n",
+        "Il est si mignon...\r",
+        "C’est décidé!\n",
+        "Moi aussi, je vais sortir pour capturer\f",
+        "des Pokémon!\r",
+        "Tu es bien aimable!\n",
+        "Prends ça, en guise de remerciement!\r"
       ]
     },
     {
@@ -49,6 +80,11 @@
         "Yeah, there are so many kinds of\n",
         "Pokémon out in the world.\r",
         "I want to see them all now!"
+      ],
+      "fr_FR": [
+        "Il y a tant de Pokémon différents\n",
+        "dans la nature.\r",
+        "Je veux les voir tous!"
       ]
     }
   ]

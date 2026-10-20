@@ -45,6 +45,10 @@
             "en_US": [
                 "The great unseeable power...\n",
                 "I beseech you for help..."
+            ],
+            "fr_FR": [
+                "Forces de l’ombre, donnez-moi la force!\n",
+                "J’ai besoin de votre aide!"
             ]
         },
         {
@@ -52,6 +56,10 @@
             "en_US": [
                 "Oh, great unseeable power...\n",
                 "I thank you for coming to my aid...\r"
+            ],
+            "fr_FR": [
+                "Forces de l’ombre...\n",
+                "Merci de votre aide...\r"
             ]
         },
         {
@@ -59,7 +67,12 @@
             "en_US": [
                 "Oh... Great unseeable power...\n",
                 "Why have you forsaken me...\r"
+            ],
+            "fr_FR": [
+                "Forces de l’ombre...\n",
+                "Pourquoi m’avoir abandonnée?\r"
             ]
         }
-    ]
+    ],
+    "name_fr": "Ombline"
 }

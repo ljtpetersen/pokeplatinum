@@ -26,5 +26,12 @@
     "contest": {
         "effect": "CONTEST_EFFECT_BASIC",
         "type": "CONTEST_TYPE_COOL"
-    }
+    },
+    "name_fr": "Koud’Korne",
+    "description_fr": [
+        "Frappe l’ennemi d’un\n",
+        "coup de corne pointue\n",
+        "pour infliger des\n",
+        "dégâts."
+    ]
 }

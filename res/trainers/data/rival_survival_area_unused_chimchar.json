@@ -103,6 +103,10 @@
             "en_US": [
                 "I’m not giving up till the end!\n",
                 "I can’t give up!\n"
+            ],
+            "fr_FR": [
+                "Tant que ce n’est pas fini, je continue!\n",
+                "Je ne vais pas abandonner!\n"
             ]
         },
         {
@@ -110,7 +114,12 @@
             "en_US": [
                 "What just went down?!\n",
                 "You wait! I’ll get tougher!\n"
+            ],
+            "fr_FR": [
+                "Qu’est-ce qui s’est passé?!\n",
+                "Tu vas voir! Je vais m’améliorer!\n"
             ]
         }
-    ]
+    ],
+    "name_fr": "Eddy"
 }

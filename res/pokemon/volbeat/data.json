@@ -7,7 +7,10 @@
         "special_attack": 47,
         "special_defense": 75
     },
-    "types": [ "TYPE_BUG", "TYPE_BUG" ],
+    "types": [
+        "TYPE_BUG",
+        "TYPE_BUG"
+    ],
     "catch_rate": 150,
     "base_exp_reward": 146,
     "ev_yields": {
@@ -26,27 +29,72 @@
     "hatch_cycles": 15,
     "base_friendship": 70,
     "exp_rate": "EXP_RATE_ERRATIC",
-    "egg_groups": [ "EGG_GROUP_BUG", "EGG_GROUP_HUMAN_LIKE" ],
-    "abilities": [ "ABILITY_ILLUMINATE", "ABILITY_SWARM" ],
+    "egg_groups": [
+        "EGG_GROUP_BUG",
+        "EGG_GROUP_HUMAN_LIKE"
+    ],
+    "abilities": [
+        "ABILITY_ILLUMINATE",
+        "ABILITY_SWARM"
+    ],
     "safari_flee_rate": 0,
     "body_color": "MON_COLOR_GRAY",
     "flip_sprite": false,
     "icon_palette": 0,
     "learnset": {
         "by_level": [
-            [ 1, "MOVE_FLASH" ],
-            [ 1, "MOVE_TACKLE" ],
-            [ 5, "MOVE_DOUBLE_TEAM" ],
-            [ 9, "MOVE_CONFUSE_RAY" ],
-            [ 13, "MOVE_MOONLIGHT" ],
-            [ 17, "MOVE_QUICK_ATTACK" ],
-            [ 21, "MOVE_TAIL_GLOW" ],
-            [ 25, "MOVE_SIGNAL_BEAM" ],
-            [ 29, "MOVE_PROTECT" ],
-            [ 33, "MOVE_HELPING_HAND" ],
-            [ 37, "MOVE_ZEN_HEADBUTT" ],
-            [ 41, "MOVE_BUG_BUZZ" ],
-            [ 45, "MOVE_DOUBLE_EDGE" ]
+            [
+                1,
+                "MOVE_FLASH"
+            ],
+            [
+                1,
+                "MOVE_TACKLE"
+            ],
+            [
+                5,
+                "MOVE_DOUBLE_TEAM"
+            ],
+            [
+                9,
+                "MOVE_CONFUSE_RAY"
+            ],
+            [
+                13,
+                "MOVE_MOONLIGHT"
+            ],
+            [
+                17,
+                "MOVE_QUICK_ATTACK"
+            ],
+            [
+                21,
+                "MOVE_TAIL_GLOW"
+            ],
+            [
+                25,
+                "MOVE_SIGNAL_BEAM"
+            ],
+            [
+                29,
+                "MOVE_PROTECT"
+            ],
+            [
+                33,
+                "MOVE_HELPING_HAND"
+            ],
+            [
+                37,
+                "MOVE_ZEN_HEADBUTT"
+            ],
+            [
+                41,
+                "MOVE_BUG_BUZZ"
+            ],
+            [
+                45,
+                "MOVE_DOUBLE_EDGE"
+            ]
         ],
         "by_tm": [
             "TM01",
@@ -108,7 +156,7 @@
             "MOVE_BUG_BUZZ"
         ]
     },
-    "evolutions": [  ],
+    "evolutions": [],
     "offspring": "SPECIES_VOLBEAT",
     "footprint": {
         "has": true,
@@ -179,6 +227,18 @@
                 "よるになると　おしりを　ひからせ\n",
                 "なかまと　かいわする。イルミ－ゼの\n",
                 "だす　あまい　かおりが　だいすき。"
+            ]
+        },
+        "local_version": {
+            "entry_text": [
+                "It communicates with others by\n",
+                "lighting up its rear at night. It\n",
+                "loves ILLUMISE’s sweet aroma."
+            ],
+            "entry_text_fr": [
+                "Il communique avec ses pairs en\n",
+                "allumant son postérieur la nuit. Il\n",
+                "adore le doux parfum de LUMIVOLE."
             ]
         }
     },

@@ -23,5 +23,13 @@
     "contest": {
         "effect": "CONTEST_EFFECT_LOW_VOLTAGE_ADVANTAGE",
         "type": "CONTEST_TYPE_CUTE"
-    }
+    },
+    "name_fr": "Trempette",
+    "description_fr": [
+        "Le lanceur barbote\n",
+        "et éclabousse les\n",
+        "environs. Cette\n",
+        "capacité n’a aucun\n",
+        "effet."
+    ]
 }

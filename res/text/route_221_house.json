@@ -8,6 +8,12 @@
         "Today’s number is {STRVAR_1 51, 0, 0}!\r",
         "Show me a Pokémon that’s Lv. {STRVAR_1 51, 0, 0}.\n",
         "If you can, I’ll reward you."
+      ],
+      "fr_FR": [
+        "... Je l’ai vu!\n",
+        "Le nombre du jour est {STRVAR_1 51, 0, 0}!\r",
+        "Montre-moi un Pokémon N. {STRVAR_1 51, 0, 0}.\n",
+        "Si tu y parviens, je te récompenserai."
       ]
     },
     {
@@ -22,6 +28,17 @@
         "Well, I’ll be! How remarkable!\r",
         "I’ll thank you for that visual treat\n",
         "with this {STRVAR_1 8, 2, 0}.\r"
+      ],
+      "fr_FR": [
+        "... Je l’ai vu!\n",
+        "Le nombre du jour est {STRVAR_1 51, 0, 0}!\r",
+        "Montre-moi un Pokémon N. {STRVAR_1 51, 0, 0}.\n",
+        "Si tu y parviens, je te récompenserai.\r",
+        "... Oh, mais, hein?!\r",
+        "Ton {STRVAR_1 0, 1, 0} est N. {STRVAR_1 51, 0, 0}.\n",
+        "Ben ça alors! C’est remarquable!\r",
+        "J’ai des étoiles dans les yeux,\n",
+        "prends cette {STRVAR_1 8, 2, 0}.\r"
       ]
     },
     {
@@ -29,6 +46,10 @@
       "en_US": [
         "Oh? You’ve no room in your Bag.\n",
         "I’ll hold it, so come back later."
+      ],
+      "fr_FR": [
+        "Oh? Tu n’as plus de place dans ton Sac.\n",
+        "Je te la garde, reviens plus tard."
       ]
     },
     {
@@ -36,6 +57,10 @@
       "en_US": [
         "I’ll thank you for that visual treat\n",
         "with this {STRVAR_1 8, 2, 0}.\r"
+      ],
+      "fr_FR": [
+        "J’ai des étoiles dans les yeux,\n",
+        "prends cette {STRVAR_1 8, 2, 0}.\r"
       ]
     },
     {
@@ -47,6 +72,14 @@
         "for they can only grow.\r",
         "That’s how it goes, youngster.\n",
         "Come again tomorrow."
+      ],
+      "fr_FR": [
+        "Les Pokémon de haut niveau ont\n",
+        "commencé au bas de l’échelle.\r",
+        "Les Pokémon de bas niveau ne\n",
+        "peuvent que s’améliorer.\r",
+        "Ainsi va la vie, jeune Dresseur.\n",
+        "Reviens me voir demain."
       ]
     },
     {
@@ -59,6 +92,15 @@
         "are super effective.\r",
         "Focus Sash: The bearer avoids\n",
         "a one-hit KO if its HP is full."
+      ],
+      "fr_FR": [
+        "Gagne des objets avec moi!\r",
+        "Ceint.Noire: Améliore les capacités\n",
+        "de type Combat.\r",
+        "Ceinture Pro: Améliore les capacités\n",
+        "super efficaces.\r",
+        "Ceint. Force: Le porteur évite un K.O.\n",
+        "instantané si ses PV sont au maximum."
       ]
     }
   ]

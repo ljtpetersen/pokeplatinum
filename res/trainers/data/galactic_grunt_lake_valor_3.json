@@ -32,11 +32,16 @@
             "en_US": [
                 "...Would you like to join the MAGIKARP\n",
                 "and flop around in the mud?\r"
+            ],
+            "fr_FR": [
+                "... Veux-tu te joindre aux MAGICARPE\n",
+                "et barboter dans la boue?\r"
             ]
         },
         {
             "type": "TRMSG_DEFEAT",
-            "en_US": "...Overwhelming!\n"
+            "en_US": "...Overwhelming!\n",
+            "fr_FR": "... Ecrasante défaite!\n"
         },
         {
             "type": "TRMSG_POST_BATTLE",
@@ -48,7 +53,17 @@
                 "sunken island under the lake.\r",
                 "And the Pokémon that lay in it?\n",
                 "Well, what do you think?\n"
+            ],
+            "fr_FR": [
+                "A trop te mépriser, j’ai payé\n",
+                "le prix de mon arrogance...\r",
+                "Néanmoins, tu arrives trop tard.\r",
+                "La Team Galaxie a déjà trouvé l’île\n",
+                "engloutie sous le lac.\r",
+                "Quant au Pokémon qui y reposait?\n",
+                "Hé, hé, je te laisse deviner..."
             ]
         }
-    ]
+    ],
+    "name_fr": "Sbire"
 }

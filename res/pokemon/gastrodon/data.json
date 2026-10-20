@@ -7,7 +7,10 @@
         "special_attack": 92,
         "special_defense": 82
     },
-    "types": [ "TYPE_WATER", "TYPE_GROUND" ],
+    "types": [
+        "TYPE_WATER",
+        "TYPE_GROUND"
+    ],
     "catch_rate": 75,
     "base_exp_reward": 176,
     "ev_yields": {
@@ -26,30 +29,81 @@
     "hatch_cycles": 20,
     "base_friendship": 70,
     "exp_rate": "EXP_RATE_MEDIUM_FAST",
-    "egg_groups": [ "EGG_GROUP_WATER_1", "EGG_GROUP_AMORPHOUS" ],
-    "abilities": [ "ABILITY_STICKY_HOLD", "ABILITY_STORM_DRAIN" ],
+    "egg_groups": [
+        "EGG_GROUP_WATER_1",
+        "EGG_GROUP_AMORPHOUS"
+    ],
+    "abilities": [
+        "ABILITY_STICKY_HOLD",
+        "ABILITY_STORM_DRAIN"
+    ],
     "safari_flee_rate": 0,
     "body_color": "MON_COLOR_PURPLE",
     "flip_sprite": false,
     "icon_palette": [
-        [ "base", 0 ],
-        [ "east_sea", 0 ]
+        [
+            "base",
+            0
+        ],
+        [
+            "east_sea",
+            0
+        ]
     ],
     "learnset": {
         "by_level": [
-            [ 1, "MOVE_MUD_SLAP" ],
-            [ 1, "MOVE_MUD_SPORT" ],
-            [ 1, "MOVE_HARDEN" ],
-            [ 1, "MOVE_WATER_PULSE" ],
-            [ 2, "MOVE_MUD_SPORT" ],
-            [ 4, "MOVE_HARDEN" ],
-            [ 7, "MOVE_WATER_PULSE" ],
-            [ 11, "MOVE_MUD_BOMB" ],
-            [ 16, "MOVE_HIDDEN_POWER" ],
-            [ 22, "MOVE_RAIN_DANCE" ],
-            [ 29, "MOVE_BODY_SLAM" ],
-            [ 41, "MOVE_MUDDY_WATER" ],
-            [ 54, "MOVE_RECOVER" ]
+            [
+                1,
+                "MOVE_MUD_SLAP"
+            ],
+            [
+                1,
+                "MOVE_MUD_SPORT"
+            ],
+            [
+                1,
+                "MOVE_HARDEN"
+            ],
+            [
+                1,
+                "MOVE_WATER_PULSE"
+            ],
+            [
+                2,
+                "MOVE_MUD_SPORT"
+            ],
+            [
+                4,
+                "MOVE_HARDEN"
+            ],
+            [
+                7,
+                "MOVE_WATER_PULSE"
+            ],
+            [
+                11,
+                "MOVE_MUD_BOMB"
+            ],
+            [
+                16,
+                "MOVE_HIDDEN_POWER"
+            ],
+            [
+                22,
+                "MOVE_RAIN_DANCE"
+            ],
+            [
+                29,
+                "MOVE_BODY_SLAM"
+            ],
+            [
+                41,
+                "MOVE_MUDDY_WATER"
+            ],
+            [
+                54,
+                "MOVE_RECOVER"
+            ]
         ],
         "by_tm": [
             "TM03",
@@ -98,7 +152,7 @@
             "MOVE_EARTH_POWER"
         ]
     },
-    "evolutions": [  ],
+    "evolutions": [],
     "offspring": "SPECIES_SHELLOS",
     "footprint": {
         "has": true,
@@ -121,9 +175,9 @@
             "name": "GASTRODON",
             "category": "Sea Slug Pokémon",
             "entry_text": [
-                "Long ago, its entire back was\n",
-                "shielded with a sturdy shell. There\n",
-                "are traces of it left in its cells."
+                "It has a pliable body without any\n",
+                "bones. If any part of its body is\n",
+                "torn off, it grows right back."
             ]
         },
         "fr": {
@@ -169,6 +223,18 @@
                 "ホネがなく　グニャグニャの　からだ。\n",
                 "からだの　いちぶが　ちぎれても\n",
                 "すぐに　さいせいされて　もとどおり。"
+            ]
+        },
+        "local_version": {
+            "entry_text": [
+                "Long ago, its entire back was\n",
+                "shielded with a sturdy shell. There\n",
+                "are traces of it left in its cells."
+            ],
+            "entry_text_fr": [
+                "Ses gènes ont démontré qu’il avait\n",
+                "jadis une carapace couvrant la\n",
+                "totalité de son dos."
             ]
         }
     },

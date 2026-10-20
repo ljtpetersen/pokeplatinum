@@ -3,83 +3,103 @@
   "messages": [
     {
       "id": "PokemonSummary_Text_NicknameTemplate",
-      "en_US": "{STRVAR_1 1, 0, 0}"
+      "en_US": "{STRVAR_1 1, 0, 0}",
+      "fr_FR": "{STRVAR_1 1, 0, 0}"
     },
     {
       "id": "PokemonSummary_Text_MaleSymbol",
-      "en_US": "♂"
+      "en_US": "♂",
+      "fr_FR": "♂"
     },
     {
       "id": "PokemonSummary_Text_FemaleSymbol",
-      "en_US": "♀"
+      "en_US": "♀",
+      "fr_FR": "♀"
     },
     {
       "id": "PokemonSummary_Text_TemplateMonLevel",
-      "en_US": "{STRVAR_1 52, 0, 0}"
+      "en_US": "{STRVAR_1 52, 0, 0}",
+      "fr_FR": "{STRVAR_1 52, 0, 0}"
     },
     {
       "id": "PokemonSummary_Text_LabelItem",
-      "en_US": "Item"
+      "en_US": "Item",
+      "fr_FR": "Objet"
     },
     {
       "id": "PokemonSummary_Text_TemplateItemName",
-      "en_US": "{STRVAR_1 8, 0, 0}"
+      "en_US": "{STRVAR_1 8, 0, 0}",
+      "fr_FR": "{STRVAR_1 8, 0, 0}"
     },
     {
       "id": "PokemonSummary_Text_None",
-      "en_US": "None"
+      "en_US": "None",
+      "fr_FR": "Aucun"
     },
     {
       "id": "PokemonSummary_Text_PageTitleInfo",
-      "en_US": "POKéMON INFO"
+      "en_US": "POKéMON INFO",
+      "fr_FR": "INFOS POKéMON"
     },
     {
       "id": "PokemonSummary_Text_LabelDexNum",
-      "en_US": "Pokédex No."
+      "en_US": "Pokédex No.",
+      "fr_FR": "Nº Pokédex"
     },
     {
       "id": "PokemonSummary_Text_DexNumberTemplate",
-      "en_US": "{STRVAR_1 52, 0, 0}"
+      "en_US": "{STRVAR_1 52, 0, 0}",
+      "fr_FR": "{STRVAR_1 52, 0, 0}"
     },
     {
       "id": "PokemonSummary_Text_LabelSpeciesName",
-      "en_US": "Name"
+      "en_US": "Name",
+      "fr_FR": "Nom"
     },
     {
       "id": "PokemonSummary_Text_SpeciesNameTemplate",
-      "en_US": "{STRVAR_1 0, 0, 0}"
+      "en_US": "{STRVAR_1 0, 0, 0}",
+      "fr_FR": "{STRVAR_1 0, 0, 0}"
     },
     {
       "id": "PokemonSummary_Text_LabelType",
-      "en_US": "Type"
+      "en_US": "Type",
+      "fr_FR": "Type"
     },
     {
       "id": "PokemonSummary_Text_LabelOTName",
-      "en_US": "OT"
+      "en_US": "OT",
+      "fr_FR": "DO"
     },
     {
       "id": "PokemonSummary_Text_OTNameTemplate",
-      "en_US": "{STRVAR_1 3, 0, 0}"
+      "en_US": "{STRVAR_1 3, 0, 0}",
+      "fr_FR": "{STRVAR_1 3, 0, 0}"
     },
     {
       "id": "PokemonSummary_Text_LabelOtId",
-      "en_US": "ID No."
+      "en_US": "ID No.",
+      "fr_FR": "Nº ID"
     },
     {
       "id": "PokemonSummary_Text_TemplateOtId",
-      "en_US": "{STRVAR_1 54, 0, 0}"
+      "en_US": "{STRVAR_1 54, 0, 0}",
+      "fr_FR": "{STRVAR_1 54, 0, 0}"
     },
     {
       "id": "PokemonSummary_Text_LabelExp",
-      "en_US": "Exp. Points"
+      "en_US": "Exp. Points",
+      "fr_FR": "Points Exp."
     },
     {
       "id": "PokemonSummary_Text_TemplateExp",
-      "en_US": "{STRVAR_1 56, 0, 0}"
+      "en_US": "{STRVAR_1 56, 0, 0}",
+      "fr_FR": "{STRVAR_1 56, 0, 0}"
     },
     {
       "id": "PokemonSummary_Text_LabelExpNextLv",
-      "en_US": "To Next Lv."
+      "en_US": "To Next Lv.",
+      "fr_FR": "Niveau suivant"
     },
     {
       "id": "pl_msg_00000455_00020",
@@ -87,115 +107,143 @@
     },
     {
       "id": "PokemonSummary_Text_TemplateExpNextLv",
-      "en_US": "{STRVAR_1 55, 0, 0}"
+      "en_US": "{STRVAR_1 55, 0, 0}",
+      "fr_FR": "{STRVAR_1 55, 0, 0}"
     },
     {
       "id": "PokemonSummary_Text_ThreeQuestionMarks",
-      "en_US": "???"
+      "en_US": "???",
+      "fr_FR": "???"
     },
     {
       "id": "PokemonSummary_Text_PageTitleMemo",
-      "en_US": "TRAINER MEMO"
+      "en_US": "TRAINER MEMO",
+      "fr_FR": "MEMO DRESSEUR"
     },
     {
       "id": "pl_msg_00000455_00024",
-      "en_US": "{COLOR 2}Hardy{COLOR 0} nature."
+      "en_US": "{COLOR 2}Hardy{COLOR 0} nature.",
+      "fr_FR": "{COLOR 2}Hardi{COLOR 0} de nature."
     },
     {
       "id": "pl_msg_00000455_00025",
-      "en_US": "{COLOR 2}Lonely{COLOR 0} nature."
+      "en_US": "{COLOR 2}Lonely{COLOR 0} nature.",
+      "fr_FR": "{COLOR 2}Solo{COLOR 0} de nature."
     },
     {
       "id": "pl_msg_00000455_00026",
-      "en_US": "{COLOR 2}Brave{COLOR 0} nature."
+      "en_US": "{COLOR 2}Brave{COLOR 0} nature.",
+      "fr_FR": "{COLOR 2}Brave{COLOR 0} de nature."
     },
     {
       "id": "pl_msg_00000455_00027",
-      "en_US": "{COLOR 2}Adamant{COLOR 0} nature."
+      "en_US": "{COLOR 2}Adamant{COLOR 0} nature.",
+      "fr_FR": "{COLOR 2}Rigide{COLOR 0} de nature."
     },
     {
       "id": "pl_msg_00000455_00028",
-      "en_US": "{COLOR 2}Naughty{COLOR 0} nature."
+      "en_US": "{COLOR 2}Naughty{COLOR 0} nature.",
+      "fr_FR": "{COLOR 2}Mauvais{COLOR 0} de nature."
     },
     {
       "id": "pl_msg_00000455_00029",
-      "en_US": "{COLOR 2}Bold{COLOR 0} nature."
+      "en_US": "{COLOR 2}Bold{COLOR 0} nature.",
+      "fr_FR": "{COLOR 2}Assuré{COLOR 0} de nature."
     },
     {
       "id": "pl_msg_00000455_00030",
-      "en_US": "{COLOR 2}Docile{COLOR 0} nature."
+      "en_US": "{COLOR 2}Docile{COLOR 0} nature.",
+      "fr_FR": "{COLOR 2}Docile{COLOR 0} de nature."
     },
     {
       "id": "pl_msg_00000455_00031",
-      "en_US": "{COLOR 2}Relaxed{COLOR 0} nature."
+      "en_US": "{COLOR 2}Relaxed{COLOR 0} nature.",
+      "fr_FR": "{COLOR 2}Relax{COLOR 0} de nature."
     },
     {
       "id": "pl_msg_00000455_00032",
-      "en_US": "{COLOR 2}Impish{COLOR 0} nature."
+      "en_US": "{COLOR 2}Impish{COLOR 0} nature.",
+      "fr_FR": "{COLOR 2}Malin{COLOR 0} de nature."
     },
     {
       "id": "pl_msg_00000455_00033",
-      "en_US": "{COLOR 2}Lax{COLOR 0} nature."
+      "en_US": "{COLOR 2}Lax{COLOR 0} nature.",
+      "fr_FR": "{COLOR 2}Lâche{COLOR 0} de nature."
     },
     {
       "id": "pl_msg_00000455_00034",
-      "en_US": "{COLOR 2}Timid{COLOR 0} nature."
+      "en_US": "{COLOR 2}Timid{COLOR 0} nature.",
+      "fr_FR": "{COLOR 2}Timide{COLOR 0} de nature."
     },
     {
       "id": "pl_msg_00000455_00035",
-      "en_US": "{COLOR 2}Hasty{COLOR 0} nature."
+      "en_US": "{COLOR 2}Hasty{COLOR 0} nature.",
+      "fr_FR": "{COLOR 2}Pressé{COLOR 0} de nature."
     },
     {
       "id": "pl_msg_00000455_00036",
-      "en_US": "{COLOR 2}Serious{COLOR 0} nature."
+      "en_US": "{COLOR 2}Serious{COLOR 0} nature.",
+      "fr_FR": "{COLOR 2}Sérieux{COLOR 0} de nature."
     },
     {
       "id": "pl_msg_00000455_00037",
-      "en_US": "{COLOR 2}Jolly{COLOR 0} nature."
+      "en_US": "{COLOR 2}Jolly{COLOR 0} nature.",
+      "fr_FR": "{COLOR 2}Jovial{COLOR 0} de nature."
     },
     {
       "id": "pl_msg_00000455_00038",
-      "en_US": "{COLOR 2}Naive{COLOR 0} nature."
+      "en_US": "{COLOR 2}Naive{COLOR 0} nature.",
+      "fr_FR": "{COLOR 2}Naïf{COLOR 0} de nature."
     },
     {
       "id": "pl_msg_00000455_00039",
-      "en_US": "{COLOR 2}Modest{COLOR 0} nature."
+      "en_US": "{COLOR 2}Modest{COLOR 0} nature.",
+      "fr_FR": "{COLOR 2}Modeste{COLOR 0} de nature."
     },
     {
       "id": "pl_msg_00000455_00040",
-      "en_US": "{COLOR 2}Mild{COLOR 0} nature."
+      "en_US": "{COLOR 2}Mild{COLOR 0} nature.",
+      "fr_FR": "{COLOR 2}Doux{COLOR 0} de nature."
     },
     {
       "id": "pl_msg_00000455_00041",
-      "en_US": "{COLOR 2}Quiet{COLOR 0} nature."
+      "en_US": "{COLOR 2}Quiet{COLOR 0} nature.",
+      "fr_FR": "{COLOR 2}Discret{COLOR 0} de nature."
     },
     {
       "id": "pl_msg_00000455_00042",
-      "en_US": "{COLOR 2}Bashful{COLOR 0} nature."
+      "en_US": "{COLOR 2}Bashful{COLOR 0} nature.",
+      "fr_FR": "{COLOR 2}Pudique{COLOR 0} de nature."
     },
     {
       "id": "pl_msg_00000455_00043",
-      "en_US": "{COLOR 2}Rash{COLOR 0} nature."
+      "en_US": "{COLOR 2}Rash{COLOR 0} nature.",
+      "fr_FR": "{COLOR 2}Foufou{COLOR 0} de nature."
     },
     {
       "id": "pl_msg_00000455_00044",
-      "en_US": "{COLOR 2}Calm{COLOR 0} nature."
+      "en_US": "{COLOR 2}Calm{COLOR 0} nature.",
+      "fr_FR": "{COLOR 2}Calme{COLOR 0} de nature."
     },
     {
       "id": "pl_msg_00000455_00045",
-      "en_US": "{COLOR 2}Gentle{COLOR 0} nature."
+      "en_US": "{COLOR 2}Gentle{COLOR 0} nature.",
+      "fr_FR": "{COLOR 2}Gentil{COLOR 0} de nature."
     },
     {
       "id": "pl_msg_00000455_00046",
-      "en_US": "{COLOR 2}Sassy{COLOR 0} nature."
+      "en_US": "{COLOR 2}Sassy{COLOR 0} nature.",
+      "fr_FR": "{COLOR 2}Malpoli{COLOR 0} de nature."
     },
     {
       "id": "pl_msg_00000455_00047",
-      "en_US": "{COLOR 2}Careful{COLOR 0} nature."
+      "en_US": "{COLOR 2}Careful{COLOR 0} nature.",
+      "fr_FR": "{COLOR 2}Prudent{COLOR 0} de nature."
     },
     {
       "id": "pl_msg_00000455_00048",
-      "en_US": "{COLOR 2}Quirky{COLOR 0} nature."
+      "en_US": "{COLOR 2}Quirky{COLOR 0} nature.",
+      "fr_FR": "{COLOR 2}Bizarre{COLOR 0} de nature."
     },
     {
       "id": "pl_msg_00000455_00049",
@@ -203,6 +251,11 @@
         "{STRVAR_1 74, 1, 0} {STRVAR_1 51, 2, 0}, 20{STRVAR_1 51, 0, 0}\n",
         "{COLOR 2}{STRVAR_1 4, 4, 0}{COLOR 0}\n",
         "Met at Lv. {STRVAR_1 52, 3, 0}."
+      ],
+      "fr_FR": [
+        "{STRVAR_1 51, 2, 0} {STRVAR_1 74, 1, 0} 20{STRVAR_1 51, 0, 0}\n",
+        "{COLOR 2}{STRVAR_1 4, 4, 0}{COLOR 0}\n",
+        "Rencontré au N. {STRVAR_1 52, 3, 0}."
       ]
     },
     {
@@ -212,6 +265,12 @@
         "{COLOR 2}{STRVAR_1 4, 4, 0}{COLOR 0}\n",
         "Apparently met at\n",
         "Lv. {STRVAR_1 52, 3, 0}."
+      ],
+      "fr_FR": [
+        "{STRVAR_1 51, 2, 0} {STRVAR_1 74, 1, 0} 20{STRVAR_1 51, 0, 0}\n",
+        "{COLOR 2}{STRVAR_1 4, 4, 0}{COLOR 0}\n",
+        "Apparemment rencontré\n",
+        "au N. {STRVAR_1 52, 3, 0}."
       ]
     },
     {
@@ -220,6 +279,11 @@
         "{STRVAR_1 74, 1, 0} {STRVAR_1 51, 2, 0}, 20{STRVAR_1 51, 0, 0}\n",
         "{COLOR 2}{STRVAR_1 4, 4, 0}{COLOR 0}\n",
         "Arrived at Lv. {STRVAR_1 52, 3, 0}."
+      ],
+      "fr_FR": [
+        "{STRVAR_1 51, 2, 0} {STRVAR_1 74, 1, 0} 20{STRVAR_1 51, 0, 0}\n",
+        "{COLOR 2}{STRVAR_1 4, 4, 0}{COLOR 0}\n",
+        "Arrivé au N. {STRVAR_1 52, 3, 0}."
       ]
     },
     {
@@ -231,6 +295,14 @@
         "{STRVAR_1 74, 1, 0} {STRVAR_1 51, 2, 0}, 20{STRVAR_1 51, 0, 0}\n",
         "{COLOR 2}{STRVAR_1 4, 4, 0}{COLOR 0}\n",
         "Egg hatched."
+      ],
+      "fr_FR": [
+        "{STRVAR_1 51, 7, 0} {STRVAR_1 74, 6, 0} 20{STRVAR_1 51, 5, 0}\n",
+        "{COLOR 2}{STRVAR_1 4, 8, 0}{COLOR 0}\n",
+        "Oeuf obtenu.\n",
+        "{STRVAR_1 51, 2, 0} {STRVAR_1 74, 1, 0} 20{STRVAR_1 51, 0, 0}\n",
+        "{COLOR 2}{STRVAR_1 4, 4, 0}{COLOR 0}\n",
+        "Oeuf éclos."
       ]
     },
     {
@@ -242,6 +314,14 @@
         "{STRVAR_1 74, 1, 0} {STRVAR_1 51, 2, 0}, 20{STRVAR_1 51, 0, 0}\n",
         "{COLOR 2}{STRVAR_1 4, 4, 0}{COLOR 0}\n",
         "Egg apparently hatched."
+      ],
+      "fr_FR": [
+        "{STRVAR_1 51, 7, 0} {STRVAR_1 74, 6, 0} 20{STRVAR_1 51, 5, 0}\n",
+        "{COLOR 2}{STRVAR_1 4, 8, 0}{COLOR 0}\n",
+        "Oeuf obtenu.\n",
+        "{STRVAR_1 51, 2, 0} {STRVAR_1 74, 1, 0} 20{STRVAR_1 51, 0, 0}\n",
+        "{COLOR 2}{STRVAR_1 4, 4, 0}{COLOR 0}\n",
+        "Oeuf apparemment éclos."
       ]
     },
     {
@@ -253,6 +333,14 @@
         "{STRVAR_1 74, 1, 0} {STRVAR_1 51, 2, 0}, 20{STRVAR_1 51, 0, 0}\n",
         "{COLOR 2}{STRVAR_1 4, 4, 0}{COLOR 0}\n",
         "Egg hatched."
+      ],
+      "fr_FR": [
+        "{STRVAR_1 51, 7, 0} {STRVAR_1 74, 6, 0} 20{STRVAR_1 51, 5, 0}\n",
+        "{COLOR 2}{STRVAR_1 4, 8, 0}{COLOR 0}\n",
+        "Oeuf obtenu.\n",
+        "{STRVAR_1 51, 2, 0} {STRVAR_1 74, 1, 0} 20{STRVAR_1 51, 0, 0}\n",
+        "{COLOR 2}{STRVAR_1 4, 4, 0}{COLOR 0}\n",
+        "Oeuf éclos."
       ]
     },
     {
@@ -264,6 +352,14 @@
         "{STRVAR_1 74, 1, 0} {STRVAR_1 51, 2, 0}, 20{STRVAR_1 51, 0, 0}\n",
         "{COLOR 2}{STRVAR_1 4, 4, 0}{COLOR 0}\n",
         "Egg apparently hatched."
+      ],
+      "fr_FR": [
+        "{STRVAR_1 51, 7, 0} {STRVAR_1 74, 6, 0} 20{STRVAR_1 51, 5, 0}\n",
+        "{COLOR 2}{STRVAR_1 4, 8, 0}{COLOR 0}\n",
+        "Oeuf obtenu.\n",
+        "{STRVAR_1 51, 2, 0} {STRVAR_1 74, 1, 0} 20{STRVAR_1 51, 0, 0}\n",
+        "{COLOR 2}{STRVAR_1 4, 4, 0}{COLOR 0}\n",
+        "Oeuf apparemment éclos."
       ]
     },
     {
@@ -273,6 +369,12 @@
         "{COLOR 2}{STRVAR_1 4, 4, 0}{COLOR 0}\n",
         "Had a fateful encounter\n",
         "at Lv. {STRVAR_1 52, 3, 0}."
+      ],
+      "fr_FR": [
+        "{STRVAR_1 51, 2, 0} {STRVAR_1 74, 1, 0} 20{STRVAR_1 51, 0, 0}\n",
+        "{COLOR 2}{STRVAR_1 4, 4, 0}{COLOR 0}\n",
+        "Rencontré par hasard au\n",
+        "N. {STRVAR_1 52, 3, 0}."
       ]
     },
     {
@@ -283,6 +385,13 @@
         "Apparently had a\n",
         "fateful encounter at\n",
         "Lv. {STRVAR_1 52, 3, 0}."
+      ],
+      "fr_FR": [
+        "{STRVAR_1 51, 2, 0} {STRVAR_1 74, 1, 0} 20{STRVAR_1 51, 0, 0}\n",
+        "{COLOR 2}{STRVAR_1 4, 4, 0}{COLOR 0}\n",
+        "Apparemment rencontré\n",
+        "par hasard au\n",
+        "N. {STRVAR_1 52, 3, 0}."
       ]
     },
     {
@@ -295,6 +404,15 @@
         "{COLOR 2}{STRVAR_1 4, 4, 0}{COLOR 0}\n",
         "Egg hatched.\n",
         "Fateful encounter."
+      ],
+      "fr_FR": [
+        "{STRVAR_1 51, 7, 0} {STRVAR_1 74, 6, 0} 20{STRVAR_1 51, 5, 0}\n",
+        "{COLOR 2}{STRVAR_1 4, 8, 0}{COLOR 0}\n",
+        "Oeuf obtenu.\n",
+        "{STRVAR_1 51, 2, 0} {STRVAR_1 74, 1, 0} 20{STRVAR_1 51, 0, 0}\n",
+        "{COLOR 2}{STRVAR_1 4, 4, 0}{COLOR 0}\n",
+        "Oeuf éclos.\n",
+        "Rencontré par hasard."
       ]
     },
     {
@@ -307,6 +425,15 @@
         "{COLOR 2}{STRVAR_1 4, 4, 0}{COLOR 0}\n",
         "Egg apparently hatched.\n",
         "Fateful encounter."
+      ],
+      "fr_FR": [
+        "{STRVAR_1 51, 7, 0} {STRVAR_1 74, 6, 0} 20{STRVAR_1 51, 5, 0}\n",
+        "{COLOR 2}{STRVAR_1 4, 8, 0}{COLOR 0}\n",
+        "Oeuf obtenu.\n",
+        "{STRVAR_1 51, 2, 0} {STRVAR_1 74, 1, 0} 20{STRVAR_1 51, 0, 0}\n",
+        "{COLOR 2}{STRVAR_1 4, 4, 0}{COLOR 0}\n",
+        "Oeuf apparemment éclos.\n",
+        "Rencontré par hasard."
       ]
     },
     {
@@ -319,6 +446,15 @@
         "{COLOR 2}{STRVAR_1 4, 4, 0}{COLOR 0}\n",
         "Egg hatched.\n",
         "Fateful encounter."
+      ],
+      "fr_FR": [
+        "{STRVAR_1 51, 7, 0} {STRVAR_1 74, 6, 0} 20{STRVAR_1 51, 5, 0}\n",
+        "{COLOR 2}{STRVAR_1 4, 8, 0}{COLOR 0}\n",
+        "Oeuf arrivé.\n",
+        "{STRVAR_1 51, 2, 0} {STRVAR_1 74, 1, 0} 20{STRVAR_1 51, 0, 0}\n",
+        "{COLOR 2}{STRVAR_1 4, 4, 0}{COLOR 0}\n",
+        "Oeuf éclos.\n",
+        "Rencontré par hasard."
       ]
     },
     {
@@ -331,6 +467,15 @@
         "{COLOR 2}{STRVAR_1 4, 4, 0}{COLOR 0}\n",
         "Egg apparently hatched.\n",
         "Fateful encounter."
+      ],
+      "fr_FR": [
+        "{STRVAR_1 51, 7, 0} {STRVAR_1 74, 6, 0} 20{STRVAR_1 51, 5, 0}\n",
+        "{COLOR 2}{STRVAR_1 4, 8, 0}{COLOR 0}\n",
+        "Oeuf arrivé.\n",
+        "{STRVAR_1 51, 2, 0} {STRVAR_1 74, 1, 0} 20{STRVAR_1 51, 0, 0}\n",
+        "{COLOR 2}{STRVAR_1 4, 4, 0}{COLOR 0}\n",
+        "Oeuf apparemment éclos.\n",
+        "Rencontré par hasard."
       ]
     },
     {
@@ -343,6 +488,15 @@
         "{COLOR 2}{STRVAR_1 4, 4, 0}{COLOR 0}\n",
         "Egg hatched.\n",
         "Fateful encounter."
+      ],
+      "fr_FR": [
+        "{STRVAR_1 51, 7, 0} {STRVAR_1 74, 6, 0} 20{STRVAR_1 51, 5, 0}\n",
+        "{COLOR 2}{STRVAR_1 4, 8, 0}{COLOR 0}\n",
+        "Oeuf obtenu.\n",
+        "{STRVAR_1 51, 2, 0} {STRVAR_1 74, 1, 0} 20{STRVAR_1 51, 0, 0}\n",
+        "{COLOR 2}{STRVAR_1 4, 4, 0}{COLOR 0}\n",
+        "Oeuf éclos.\n",
+        "Rencontré par hasard."
       ]
     },
     {
@@ -355,6 +509,15 @@
         "{COLOR 2}{STRVAR_1 4, 4, 0}{COLOR 0}\n",
         "Egg apparently hatched.\n",
         "Fateful encounter."
+      ],
+      "fr_FR": [
+        "{STRVAR_1 51, 7, 0} {STRVAR_1 74, 6, 0} 20{STRVAR_1 51, 5, 0}\n",
+        "{COLOR 2}{STRVAR_1 4, 8, 0}{COLOR 0}\n",
+        "Oeuf obtenu.\n",
+        "{STRVAR_1 51, 2, 0} {STRVAR_1 74, 1, 0} 20{STRVAR_1 51, 0, 0}\n",
+        "{COLOR 2}{STRVAR_1 4, 4, 0}{COLOR 0}\n",
+        "Oeuf apparemment éclos.\n",
+        "Rencontré par hasard."
       ]
     },
     {
@@ -363,151 +526,192 @@
         "{STRVAR_1 74, 1, 0} {STRVAR_1 51, 2, 0}, 20{STRVAR_1 51, 0, 0}\n",
         "{COLOR 2}{STRVAR_1 4, 4, 0}{COLOR 0}\n",
         "Arrived at Lv. {STRVAR_1 52, 3, 0}."
+      ],
+      "fr_FR": [
+        "{STRVAR_1 51, 2, 0} {STRVAR_1 74, 1, 0} 20{STRVAR_1 51, 0, 0}\n",
+        "{COLOR 2}{STRVAR_1 4, 4, 0}{COLOR 0}\n",
+        "Arrivé au N. {STRVAR_1 52, 3, 0}."
       ]
     },
     {
       "id": "pl_msg_00000455_00065",
-      "en_US": "Likes {COLOR 2}spicy{COLOR 0} food."
+      "en_US": "Likes {COLOR 2}spicy{COLOR 0} food.",
+      "fr_FR": "Aime les aliments {COLOR 2}épicés{COLOR 0}."
     },
     {
       "id": "pl_msg_00000455_00066",
-      "en_US": "Likes {COLOR 2}dry{COLOR 0} food."
+      "en_US": "Likes {COLOR 2}dry{COLOR 0} food.",
+      "fr_FR": "Aime les aliments {COLOR 2}secs{COLOR 0}."
     },
     {
       "id": "pl_msg_00000455_00067",
-      "en_US": "Likes {COLOR 2}sweet{COLOR 0} food."
+      "en_US": "Likes {COLOR 2}sweet{COLOR 0} food.",
+      "fr_FR": "Aime les aliments {COLOR 2}sucrés{COLOR 0}."
     },
     {
       "id": "pl_msg_00000455_00068",
-      "en_US": "Likes {COLOR 2}bitter{COLOR 0} food."
+      "en_US": "Likes {COLOR 2}bitter{COLOR 0} food.",
+      "fr_FR": "Aime les aliments {COLOR 2}amers{COLOR 0}."
     },
     {
       "id": "pl_msg_00000455_00069",
-      "en_US": "Likes {COLOR 2}sour{COLOR 0} food."
+      "en_US": "Likes {COLOR 2}sour{COLOR 0} food.",
+      "fr_FR": "Aime les aliments {COLOR 2}acides{COLOR 0}."
     },
     {
       "id": "pl_msg_00000455_00070",
-      "en_US": "Happily eats anything."
+      "en_US": "Happily eats anything.",
+      "fr_FR": "Mange tout de bon cœur."
     },
     {
       "id": "pl_msg_00000455_00071",
-      "en_US": "Loves to eat."
+      "en_US": "Loves to eat.",
+      "fr_FR": "Adore manger."
     },
     {
       "id": "pl_msg_00000455_00072",
-      "en_US": "Often dozes off."
+      "en_US": "Often dozes off.",
+      "fr_FR": "S’assoupit souvent."
     },
     {
       "id": "pl_msg_00000455_00073",
-      "en_US": "Often scatters things."
+      "en_US": "Often scatters things.",
+      "fr_FR": "Dort beaucoup."
     },
     {
       "id": "pl_msg_00000455_00074",
-      "en_US": "Scatters things often."
+      "en_US": "Scatters things often.",
+      "fr_FR": "Eparpille des choses."
     },
     {
       "id": "pl_msg_00000455_00075",
-      "en_US": "Likes to relax."
+      "en_US": "Likes to relax.",
+      "fr_FR": "Aime se détendre."
     },
     {
       "id": "pl_msg_00000455_00076",
-      "en_US": "Proud of its power."
+      "en_US": "Proud of its power.",
+      "fr_FR": "Est fier de sa puissance."
     },
     {
       "id": "pl_msg_00000455_00077",
-      "en_US": "Likes to thrash about."
+      "en_US": "Likes to thrash about.",
+      "fr_FR": "Aime se démener."
     },
     {
       "id": "pl_msg_00000455_00078",
-      "en_US": "A little quick tempered."
+      "en_US": "A little quick tempered.",
+      "fr_FR": "Un peu coléreux."
     },
     {
       "id": "pl_msg_00000455_00079",
-      "en_US": "Likes to fight."
+      "en_US": "Likes to fight.",
+      "fr_FR": "Aime combattre."
     },
     {
       "id": "pl_msg_00000455_00080",
-      "en_US": "Quick tempered."
+      "en_US": "Quick tempered.",
+      "fr_FR": "S’emporte facilement."
     },
     {
       "id": "pl_msg_00000455_00081",
-      "en_US": "Sturdy body."
+      "en_US": "Sturdy body.",
+      "fr_FR": "Corps robuste."
     },
     {
       "id": "pl_msg_00000455_00082",
-      "en_US": "Capable of taking hits."
+      "en_US": "Capable of taking hits.",
+      "fr_FR": "Sait encaisser les coups."
     },
     {
       "id": "pl_msg_00000455_00083",
-      "en_US": "Highly persistent."
+      "en_US": "Highly persistent.",
+      "fr_FR": "Très obstiné."
     },
     {
       "id": "pl_msg_00000455_00084",
-      "en_US": "Good endurance."
+      "en_US": "Good endurance.",
+      "fr_FR": "Bonne endurance."
     },
     {
       "id": "pl_msg_00000455_00085",
-      "en_US": "Good perseverance."
+      "en_US": "Good perseverance.",
+      "fr_FR": "Persévérant."
     },
     {
       "id": "pl_msg_00000455_00086",
-      "en_US": "Likes to run."
+      "en_US": "Likes to run.",
+      "fr_FR": "Aime courir."
     },
     {
       "id": "pl_msg_00000455_00087",
-      "en_US": "Alert to sounds."
+      "en_US": "Alert to sounds.",
+      "fr_FR": "Attentif aux sons."
     },
     {
       "id": "pl_msg_00000455_00088",
-      "en_US": "Impetuous and silly."
+      "en_US": "Impetuous and silly.",
+      "fr_FR": "Bête et impulsif."
     },
     {
       "id": "pl_msg_00000455_00089",
-      "en_US": "Somewhat of a clown."
+      "en_US": "Somewhat of a clown.",
+      "fr_FR": "Aime faire le pitre."
     },
     {
       "id": "pl_msg_00000455_00090",
-      "en_US": "Quick to flee."
+      "en_US": "Quick to flee.",
+      "fr_FR": "Fuit rapidement."
     },
     {
       "id": "pl_msg_00000455_00091",
-      "en_US": "Highly curious."
+      "en_US": "Highly curious.",
+      "fr_FR": "Extrêmement curieux."
     },
     {
       "id": "pl_msg_00000455_00092",
-      "en_US": "Mischievous."
+      "en_US": "Mischievous.",
+      "fr_FR": "Coquin."
     },
     {
       "id": "pl_msg_00000455_00093",
-      "en_US": "Thoroughly cunning."
+      "en_US": "Thoroughly cunning.",
+      "fr_FR": "Très astucieux."
     },
     {
       "id": "pl_msg_00000455_00094",
-      "en_US": "Often lost in thought."
+      "en_US": "Often lost in thought.",
+      "fr_FR": "Souvent dans la lune."
     },
     {
       "id": "pl_msg_00000455_00095",
-      "en_US": "Very finicky."
+      "en_US": "Very finicky.",
+      "fr_FR": "Très particulier."
     },
     {
       "id": "pl_msg_00000455_00096",
-      "en_US": "Strong willed."
+      "en_US": "Strong willed.",
+      "fr_FR": "Très volontaire."
     },
     {
       "id": "pl_msg_00000455_00097",
-      "en_US": "Somewhat vain."
+      "en_US": "Somewhat vain.",
+      "fr_FR": "Un peu vaniteux."
     },
     {
       "id": "pl_msg_00000455_00098",
-      "en_US": "Strongly defiant."
+      "en_US": "Strongly defiant.",
+      "fr_FR": "Esprit rebelle."
     },
     {
       "id": "pl_msg_00000455_00099",
-      "en_US": "Hates to lose."
+      "en_US": "Hates to lose.",
+      "fr_FR": "A horreur de perdre."
     },
     {
       "id": "pl_msg_00000455_00100",
-      "en_US": "Somewhat stubborn."
+      "en_US": "Somewhat stubborn.",
+      "fr_FR": "Assez entêté."
     },
     {
       "id": "pl_msg_00000455_00101",
@@ -515,6 +719,12 @@
         "{STRVAR_1 74, 6, 0} {STRVAR_1 51, 7, 0}, 20{STRVAR_1 51, 5, 0}\n",
         "A mysterious Pokémon\n",
         "Egg received from\n",
+        "{COLOR 2}{STRVAR_1 4, 8, 0}{COLOR 0}.\n"
+      ],
+      "fr_FR": [
+        "{STRVAR_1 51, 7, 0} {STRVAR_1 74, 6, 0} 20{STRVAR_1 51, 5, 0}\n",
+        "Un mystérieux Oeuf de\n",
+        "Pokémon offert par\n",
         "{COLOR 2}{STRVAR_1 4, 8, 0}{COLOR 0}.\n"
       ]
     },
@@ -525,6 +735,12 @@
         "A mysterious Pokémon\n",
         "Egg obtained in\n",
         "{COLOR 2}{STRVAR_1 4, 8, 0}{COLOR 0}.\n"
+      ],
+      "fr_FR": [
+        "{STRVAR_1 51, 7, 0} {STRVAR_1 74, 6, 0} 20{STRVAR_1 51, 5, 0}\n",
+        "Un mystérieux Oeuf de\n",
+        "Pokémon obtenu à\n",
+        "{COLOR 2}{STRVAR_1 4, 8, 0}{COLOR 0}.\n"
       ]
     },
     {
@@ -534,6 +750,12 @@
         "A very mysterious\n",
         "Pokémon Egg obtained\n",
         "at {COLOR 1}{STRVAR_1 4, 8, 0}{COLOR 0}.\n"
+      ],
+      "fr_FR": [
+        "{STRVAR_1 51, 7, 0} {STRVAR_1 74, 6, 0} 20{STRVAR_1 51, 5, 0}\n",
+        "Un mystérieux Oeuf de\n",
+        "Pokémon obtenu à\n",
+        "{COLOR 1}{STRVAR_1 4, 8, 0}{COLOR 0}.\n"
       ]
     },
     {
@@ -543,6 +765,12 @@
         "A very mysterious\n",
         "Pokémon Egg that came\n",
         "from {COLOR 2}{STRVAR_1 4, 8, 0}{COLOR 0}.\n"
+      ],
+      "fr_FR": [
+        "{STRVAR_1 51, 7, 0} {STRVAR_1 74, 6, 0} 20{STRVAR_1 51, 5, 0}\n",
+        "Un Oeuf de Pokémon très\n",
+        "mystérieux provenant de\n",
+        "{COLOR 2}{STRVAR_1 4, 8, 0}{COLOR 0}.\n"
       ]
     },
     {
@@ -552,6 +780,11 @@
         "Sounds can be heard\n",
         "coming from inside!\n",
         "It will hatch soon!"
+      ],
+      "fr_FR": [
+        "“Surveillance de l’Oeuf”\n",
+        "Il fait du bruit.\n",
+        "Il va éclore!"
       ]
     },
     {
@@ -561,6 +794,12 @@
         "It appears to move\n",
         "occasionally. It may\n",
         "be close to hatching."
+      ],
+      "fr_FR": [
+        "“Surveillance de l’Oeuf”\n",
+        "Il bouge de temps en\n",
+        "temps. Il devrait bientôt\n",
+        "éclore."
       ]
     },
     {
@@ -570,6 +809,12 @@
         "What will hatch from\n",
         "this? It doesn’t seem\n",
         "close to hatching."
+      ],
+      "fr_FR": [
+        "“Surveillance de l’Oeuf”\n",
+        "Qu’est-ce qui va en\n",
+        "sortir? Ça va mettre du\n",
+        "temps."
       ]
     },
     {
@@ -579,230 +824,295 @@
         "It looks like this Egg\n",
         "will take a long time to\n",
         "hatch."
+      ],
+      "fr_FR": [
+        "“Surveillance de l’Oeuf”\n",
+        "Cet Oeuf va sûrement\n",
+        "mettre du temps à\n",
+        "éclore."
       ]
     },
     {
       "id": "PokemonSummary_Text_PageTitleSkills",
-      "en_US": "POKéMON SKILLS"
+      "en_US": "POKéMON SKILLS",
+      "fr_FR": "APTITUDES POKéMON"
     },
     {
       "id": "PokemonSummary_Text_LabelHp",
-      "en_US": "HP"
+      "en_US": "HP",
+      "fr_FR": "PV"
     },
     {
       "id": "PokemonSummary_Text_LabelAttack",
-      "en_US": "Attack"
+      "en_US": "Attack",
+      "fr_FR": "Attaque"
     },
     {
       "id": "PokemonSummary_Text_LabelDefense",
-      "en_US": "Defense"
+      "en_US": "Defense",
+      "fr_FR": "Défense"
     },
     {
       "id": "PokemonSummary_Text_LabelSpAttack",
-      "en_US": "Sp. Atk"
+      "en_US": "Sp. Atk",
+      "fr_FR": "Atq. Spé."
     },
     {
       "id": "PokemonSummary_Text_LabelSpDefense",
-      "en_US": "Sp. Def"
+      "en_US": "Sp. Def",
+      "fr_FR": "Déf. Spé."
     },
     {
       "id": "PokemonSummary_Text_LabelSpeed",
-      "en_US": "Speed"
+      "en_US": "Speed",
+      "fr_FR": "Vitesse"
     },
     {
       "id": "PokemonSummary_Text_LabelAbility",
-      "en_US": "Ability"
+      "en_US": "Ability",
+      "fr_FR": "Cap. Spé."
     },
     {
       "id": "PokemonSummary_Text_Slash",
-      "en_US": "/"
+      "en_US": "/",
+      "fr_FR": "/"
     },
     {
       "id": "PokemonSummary_Text_TemplateMaxHp",
-      "en_US": "{STRVAR_1 52, 0, 0}"
+      "en_US": "{STRVAR_1 52, 0, 0}",
+      "fr_FR": "{STRVAR_1 52, 0, 0}"
     },
     {
       "id": "PokemonSummary_Text_TemplateCurrentHp",
-      "en_US": "{STRVAR_1 52, 0, 0}"
+      "en_US": "{STRVAR_1 52, 0, 0}",
+      "fr_FR": "{STRVAR_1 52, 0, 0}"
     },
     {
       "id": "PokemonSummary_Text_TemplateAttack",
-      "en_US": "{STRVAR_1 52, 0, 0}"
+      "en_US": "{STRVAR_1 52, 0, 0}",
+      "fr_FR": "{STRVAR_1 52, 0, 0}"
     },
     {
       "id": "PokemonSummary_Text_TemplateDefense",
-      "en_US": "{STRVAR_1 52, 0, 0}"
+      "en_US": "{STRVAR_1 52, 0, 0}",
+      "fr_FR": "{STRVAR_1 52, 0, 0}"
     },
     {
       "id": "PokemonSummary_Text_TemplateSpAttack",
-      "en_US": "{STRVAR_1 52, 0, 0}"
+      "en_US": "{STRVAR_1 52, 0, 0}",
+      "fr_FR": "{STRVAR_1 52, 0, 0}"
     },
     {
       "id": "PokemonSummary_Text_TemplateSpDefense",
-      "en_US": "{STRVAR_1 52, 0, 0}"
+      "en_US": "{STRVAR_1 52, 0, 0}",
+      "fr_FR": "{STRVAR_1 52, 0, 0}"
     },
     {
       "id": "PokemonSummary_Text_TemplateSpeed",
-      "en_US": "{STRVAR_1 52, 0, 0}"
+      "en_US": "{STRVAR_1 52, 0, 0}",
+      "fr_FR": "{STRVAR_1 52, 0, 0}"
     },
     {
       "id": "PokemonSummary_Text_TemplateAbility",
-      "en_US": "{STRVAR_1 5, 0, 0}"
+      "en_US": "{STRVAR_1 5, 0, 0}",
+      "fr_FR": "{STRVAR_1 5, 0, 0}"
     },
     {
       "id": "PokemonSummary_Text_PageTitleCondition",
-      "en_US": "CONDITION"
+      "en_US": "CONDITION",
+      "fr_FR": "CONDITION"
     },
     {
       "id": "PokemonSummary_Text_LabelSheen",
-      "en_US": "SHEEN"
+      "en_US": "SHEEN",
+      "fr_FR": "LUSTRE"
     },
     {
       "id": "PokemonSummary_Text_PageTitleBattleMoves",
-      "en_US": "BATTLE MOVES"
+      "en_US": "BATTLE MOVES",
+      "fr_FR": "CAPACITES COMB."
     },
     {
       "id": "PokemonSummary_Text_SelectBattleMoveInfo",
-      "en_US": "INFO"
+      "en_US": "INFO",
+      "fr_FR": "INFOS"
     },
     {
       "id": "pl_msg_00000455_00130",
-      "en_US": "{STRVAR_1 6, 0, 0}"
+      "en_US": "{STRVAR_1 6, 0, 0}",
+      "fr_FR": "{STRVAR_1 6, 0, 0}"
     },
     {
       "id": "pl_msg_00000455_00131",
-      "en_US": "{STRVAR_1 6, 0, 0}"
+      "en_US": "{STRVAR_1 6, 0, 0}",
+      "fr_FR": "{STRVAR_1 6, 0, 0}"
     },
     {
       "id": "pl_msg_00000455_00132",
-      "en_US": "{STRVAR_1 6, 0, 0}"
+      "en_US": "{STRVAR_1 6, 0, 0}",
+      "fr_FR": "{STRVAR_1 6, 0, 0}"
     },
     {
       "id": "pl_msg_00000455_00133",
-      "en_US": "{STRVAR_1 6, 0, 0}"
+      "en_US": "{STRVAR_1 6, 0, 0}",
+      "fr_FR": "{STRVAR_1 6, 0, 0}"
     },
     {
       "id": "pl_msg_00000455_00134",
-      "en_US": "{STRVAR_1 6, 0, 0}"
+      "en_US": "{STRVAR_1 6, 0, 0}",
+      "fr_FR": "{STRVAR_1 6, 0, 0}"
     },
     {
       "id": "PokemonSummary_Text_LabelPp",
-      "en_US": "PP"
+      "en_US": "PP",
+      "fr_FR": "PP"
     },
     {
       "id": "PokemonSummary_Text_TemplateCurrentPp_0",
-      "en_US": "{STRVAR_1 51, 0, 0}"
+      "en_US": "{STRVAR_1 51, 0, 0}",
+      "fr_FR": "{STRVAR_1 51, 0, 0}"
     },
     {
       "id": "PokemonSummary_Text_TemplateCurrentPp_1",
-      "en_US": "{STRVAR_1 51, 0, 0}"
+      "en_US": "{STRVAR_1 51, 0, 0}",
+      "fr_FR": "{STRVAR_1 51, 0, 0}"
     },
     {
       "id": "PokemonSummary_Text_TemplateCurrentPp_2",
-      "en_US": "{STRVAR_1 51, 0, 0}"
+      "en_US": "{STRVAR_1 51, 0, 0}",
+      "fr_FR": "{STRVAR_1 51, 0, 0}"
     },
     {
       "id": "PokemonSummary_Text_TemplateCurrentPp_3",
-      "en_US": "{STRVAR_1 51, 0, 0}"
+      "en_US": "{STRVAR_1 51, 0, 0}",
+      "fr_FR": "{STRVAR_1 51, 0, 0}"
     },
     {
       "id": "PokemonSummary_Text_TemplateCurrentPp_4",
-      "en_US": "{STRVAR_1 51, 0, 0}"
+      "en_US": "{STRVAR_1 51, 0, 0}",
+      "fr_FR": "{STRVAR_1 51, 0, 0}"
     },
     {
       "id": "PokemonSummary_Text_TemplateMaxPp_0",
-      "en_US": "{STRVAR_1 51, 0, 0}"
+      "en_US": "{STRVAR_1 51, 0, 0}",
+      "fr_FR": "{STRVAR_1 51, 0, 0}"
     },
     {
       "id": "PokemonSummary_Text_TemplateMaxPp_1",
-      "en_US": "{STRVAR_1 51, 0, 0}"
+      "en_US": "{STRVAR_1 51, 0, 0}",
+      "fr_FR": "{STRVAR_1 51, 0, 0}"
     },
     {
       "id": "PokemonSummary_Text_TemplateMaxPp_2",
-      "en_US": "{STRVAR_1 51, 0, 0}"
+      "en_US": "{STRVAR_1 51, 0, 0}",
+      "fr_FR": "{STRVAR_1 51, 0, 0}"
     },
     {
       "id": "PokemonSummary_Text_TemplateMaxPp_3",
-      "en_US": "{STRVAR_1 51, 0, 0}"
+      "en_US": "{STRVAR_1 51, 0, 0}",
+      "fr_FR": "{STRVAR_1 51, 0, 0}"
     },
     {
       "id": "PokemonSummary_Text_TemplateMaxPp_4",
-      "en_US": "{STRVAR_1 51, 0, 0}"
+      "en_US": "{STRVAR_1 51, 0, 0}",
+      "fr_FR": "{STRVAR_1 51, 0, 0}"
     },
     {
       "id": "PokemonSummary_Text_MoveCancel",
-      "en_US": "CANCEL"
+      "en_US": "CANCEL",
+      "fr_FR": "QUITTER"
     },
     {
       "id": "PokemonSummary_Text_LabelMovePower",
-      "en_US": "POWER"
+      "en_US": "POWER",
+      "fr_FR": "POUVOIR"
     },
     {
       "id": "PokemonSummary_Text_LabelMoveAccuracy",
-      "en_US": "ACCURACY"
+      "en_US": "ACCURACY",
+      "fr_FR": "PRECIS."
     },
     {
       "id": "PokemonSummary_Text_LabelMoveCategory",
-      "en_US": "CATEGORY"
+      "en_US": "CATEGORY",
+      "fr_FR": "CATEGOR."
     },
     {
       "id": "PokemonSummary_Text_MovePowerTemplate",
-      "en_US": "{STRVAR_1 52, 0, 0}"
+      "en_US": "{STRVAR_1 52, 0, 0}",
+      "fr_FR": "{STRVAR_1 52, 0, 0}"
     },
     {
       "id": "PokemonSummary_Text_MoveAccuracyTemplate",
-      "en_US": "{STRVAR_1 52, 0, 0}"
+      "en_US": "{STRVAR_1 52, 0, 0}",
+      "fr_FR": "{STRVAR_1 52, 0, 0}"
     },
     {
       "id": "PokemonSummary_Text_MoveSwitch",
-      "en_US": "SWITCH"
+      "en_US": "SWITCH",
+      "fr_FR": "CHANGER"
     },
     {
       "id": "PokemonSummary_Text_TwoDashes",
-      "en_US": "--"
+      "en_US": "--",
+      "fr_FR": "--"
     },
     {
       "id": "PokemonSummary_Text_ThreeDashes",
-      "en_US": "---"
+      "en_US": "---",
+      "fr_FR": "---"
     },
     {
       "id": "PokemonSummary_Text_SelectBattleMoveOk",
-      "en_US": "OK"
+      "en_US": "OK",
+      "fr_FR": "OK"
     },
     {
       "id": "PokemonSummary_Text_HmMovesCantBeForgotten",
       "en_US": [
         "HM moves can’t be\n",
         "forgotten now."
+      ],
+      "fr_FR": [
+        "Impossible d’oublier\n",
+        "les capacités CS\n",
+        "maintenant."
       ]
     },
     {
       "id": "PokemonSummary_Text_PageTitleContestMoves",
-      "en_US": "CONTEST MOVES"
+      "en_US": "CONTEST MOVES",
+      "fr_FR": "CAPACITES CONC."
     },
     {
       "id": "PokemonSummary_Text_SelectContestMoveInfo",
-      "en_US": "INFO"
+      "en_US": "INFO",
+      "fr_FR": "INFOS"
     },
     {
       "id": "PokemonSummary_Text_SelectContestMoveOk",
-      "en_US": "OK"
+      "en_US": "OK",
+      "fr_FR": "OK"
     },
     {
       "id": "PokemonSummary_Text_LabelAppealPoints",
-      "en_US": "APPEAL POINTS"
+      "en_US": "APPEAL POINTS",
+      "fr_FR": "POINTS DE CHARME"
     },
     {
       "id": "PokemonSummary_Text_PromptExit",
-      "en_US": "EXIT"
+      "en_US": "EXIT",
+      "fr_FR": "QUITTER"
     },
     {
       "id": "PokemonSummary_Text_CloseWindow",
-      "en_US": "Close window."
+      "en_US": "Close window.",
+      "fr_FR": "Fermer"
     },
     {
       "id": "PokemonSummary_Text_PoffinFeedOk",
-      "en_US": "OK"
+      "en_US": "OK",
+      "fr_FR": "OK"
     },
     {
       "id": "pl_msg_00000455_00164",
@@ -810,91 +1120,113 @@
     },
     {
       "id": "PokemonSummary_Text_FavoriteFood",
-      "en_US": "FAVORITE FOOD"
+      "en_US": "FAVORITE FOOD",
+      "fr_FR": "PREFERENCES"
     },
     {
       "id": "PokemonSummary_Text_LikesItSpicy",
-      "en_US": "Likes it {COLOR 2}spicy{COLOR 0}."
+      "en_US": "Likes it {COLOR 2}spicy{COLOR 0}.",
+      "fr_FR": "Aime l’{COLOR 2}épicé{COLOR 0}."
     },
     {
       "id": "PokemonSummary_Text_LikesItDry",
-      "en_US": "Likes it {COLOR 2}dry{COLOR 0}."
+      "en_US": "Likes it {COLOR 2}dry{COLOR 0}.",
+      "fr_FR": "Aime le {COLOR 2}sec{COLOR 0}."
     },
     {
       "id": "PokemonSummary_Text_LikesItSweet",
-      "en_US": "Likes it {COLOR 2}sweet{COLOR 0}."
+      "en_US": "Likes it {COLOR 2}sweet{COLOR 0}.",
+      "fr_FR": "Aime le {COLOR 2}sucré{COLOR 0}."
     },
     {
       "id": "PokemonSummary_Text_LikesItBitter",
-      "en_US": "Likes it {COLOR 2}bitter{COLOR 0}."
+      "en_US": "Likes it {COLOR 2}bitter{COLOR 0}.",
+      "fr_FR": "Aime l’{COLOR 2}amer{COLOR 0}."
     },
     {
       "id": "PokemonSummary_Text_LikesItSour",
-      "en_US": "Likes it {COLOR 2}sour{COLOR 0}."
+      "en_US": "Likes it {COLOR 2}sour{COLOR 0}.",
+      "fr_FR": "Aime l’{COLOR 2}acide{COLOR 0}."
     },
     {
       "id": "PokemonSummary_Text_EatsAnything",
-      "en_US": "Eats anything."
+      "en_US": "Eats anything.",
+      "fr_FR": "Mange de tout."
     },
     {
       "id": "PokemonSummary_Text_CoolnessEnhanced",
-      "en_US": "Coolness was enhanced!"
+      "en_US": "Coolness was enhanced!",
+      "fr_FR": "Son sang-froid a augmenté!"
     },
     {
       "id": "PokemonSummary_Text_ToughnessEnhanced",
-      "en_US": "Toughness was enhanced!"
+      "en_US": "Toughness was enhanced!",
+      "fr_FR": "Sa robustesse a augmenté!"
     },
     {
       "id": "PokemonSummary_Text_BeautyEnhanced",
-      "en_US": "Beauty was enhanced!"
+      "en_US": "Beauty was enhanced!",
+      "fr_FR": "Sa beauté a augmenté!"
     },
     {
       "id": "PokemonSummary_Text_CutenessEnhanced",
-      "en_US": "Cuteness was enhanced!"
+      "en_US": "Cuteness was enhanced!",
+      "fr_FR": "Sa grâce a augmenté!"
     },
     {
       "id": "PokemonSummary_Text_SmartnessEnhanced",
-      "en_US": "Smartness was enhanced!"
+      "en_US": "Smartness was enhanced!",
+      "fr_FR": "Son intelligence a augmenté!"
     },
     {
       "id": "PokemonSummary_Text_NothingChanged",
-      "en_US": "Nothing changed!"
+      "en_US": "Nothing changed!",
+      "fr_FR": "Rien n’a changé!"
     },
     {
       "id": "PokemonSummary_Text_PokemonWontEatMore",
-      "en_US": "It won’t eat any more..."
+      "en_US": "It won’t eat any more...",
+      "fr_FR": "Il ne mangera plus..."
     },
     {
       "id": "PokemonSummary_Text_PageTitleRibbons",
-      "en_US": "RIBBONS"
+      "en_US": "RIBBONS",
+      "fr_FR": "RUBANS"
     },
     {
       "id": "PokemonSummary_Text_RibbonSelectInfo",
-      "en_US": "INFO"
+      "en_US": "INFO",
+      "fr_FR": "INFOS"
     },
     {
       "id": "PokemonSummary_Text_RibbonSelectCancel",
-      "en_US": "CANCEL"
+      "en_US": "CANCEL",
+      "fr_FR": "QUITTER"
     },
     {
       "id": "PokemonSummary_Text_LabelRibbonCount",
-      "en_US": "No. of Ribbons:"
+      "en_US": "No. of Ribbons:",
+      "fr_FR": "Nb de Rubans:"
     },
     {
       "id": "PokemonSummary_Text_TemplateRibbonCount",
-      "en_US": "{STRVAR_1 52, 0, 0}"
+      "en_US": "{STRVAR_1 52, 0, 0}",
+      "fr_FR": "{STRVAR_1 52, 0, 0}"
     },
     {
       "id": "PokemonSummary_Text_RibbonIndexNumber",
-      "en_US": "{STRVAR_1 52, 0, 0}"
+      "en_US": "{STRVAR_1 52, 0, 0}",
+      "fr_FR": "{STRVAR_1 52, 0, 0}"
     },
     {
       "id": "PokemonSummary_Text_RibbonNumberSlash",
-      "en_US": "/"
+      "en_US": "/",
+      "fr_FR": "/"
     },
     {
       "id": "PokemonSummary_Text_RibbonMaxNumber",
-      "en_US": "{STRVAR_1 52, 0, 0}"
+      "en_US": "{STRVAR_1 52, 0, 0}",
+      "fr_FR": "{STRVAR_1 52, 0, 0}"
     }
   ]
 }

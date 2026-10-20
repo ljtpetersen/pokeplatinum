@@ -10,6 +10,14 @@
         "the second floor.\r",
         "Dress up your Pokémon nicely with\n",
         "Accessories!"
+      ],
+      "fr_FR": [
+        "Pourquoi ne pas habiller\n",
+        "votre Pokémon?\r",
+        "Nous avons une cabine d’essayage au\n",
+        "premier étage.\r",
+        "Parez votre Pokémon de magnifiques\n",
+        "Accessoires!"
       ]
     },
     {
@@ -22,6 +30,15 @@
         "you could win fabulous gifts.\r",
         "Would you like to check today’s lucky\n",
         "number?"
+      ],
+      "fr_FR": [
+        "Bienvenue à la Loterie Pokémon.\n",
+        "Mon nom est Felicity, pour vous servir.\r",
+        "Si le numéro sur le Billet de Loterie\n",
+        "correspond au numéro ID d’un de vos\f",
+        "Pokémon, vous aurez un beau cadeau.\r",
+        "Voulez-vous retirer un Billet de\n",
+        "Loterie?"
       ]
     },
     {
@@ -29,6 +46,10 @@
       "en_US": [
         "You’ve already drawn a Loto Ticket\n",
         "today. Please come back tomorrow."
+      ],
+      "fr_FR": [
+        "Vous avez déjà retiré un Billet de\n",
+        "Loterie aujourd’hui. Revenez demain."
       ]
     },
     {
@@ -36,6 +57,10 @@
       "en_US": [
         "Oh. I see.\n",
         "Please do visit us again."
+      ],
+      "fr_FR": [
+        "Oh, je vois.\n",
+        "Nous espérons vous revoir bientôt."
       ]
     },
     {
@@ -43,6 +68,11 @@
       "en_US": [
         "First, I’ll look up today’s Pokémon\n",
         "Lottery Corner lucky number.\r",
+        "...\r"
+      ],
+      "fr_FR": [
+        "Vérifions donc le numéro gagnant\n",
+        "du jour.\r",
         "...\r"
       ]
     },
@@ -52,6 +82,13 @@
         "Your Loto Ticket number is {STRVAR_1 54, 0, 0}.\r",
         "Now, let’s see if it matches the\n",
         "ID No. of any of your Pokémon.\r"
+      ],
+      "fr_FR": [
+        "Le numéro du Billet de Loterie est\n",
+        "{STRVAR_1 54, 0, 0}.\r",
+        "Je vais voir si ce numéro correspond\n",
+        "à l’un des numéros ID de vos Pokémon.\f",
+        "Veuillez patienter.\r"
       ]
     },
     {
@@ -61,6 +98,13 @@
         "The ID No. of your team’s\n",
         "{STRVAR_1 1, 0, 0} matches your Loto\f",
         "Ticket number!\r"
+      ],
+      "fr_FR": [
+        "Félicitations!\r",
+        "Un ou plusieurs chiffres du numéro ID\n",
+        "de {STRVAR_1 1, 0, 0}, qui est dans votre\r",
+        "équipe, correspondent à ceux\n",
+        "du Billet de Loterie!\r"
       ]
     },
     {
@@ -70,6 +114,13 @@
         "The ID No. of your PC-boxed\n",
         "{STRVAR_1 1, 0, 0} matches your Loto\f",
         "Ticket number!\r"
+      ],
+      "fr_FR": [
+        "Félicitations!\r",
+        "Un ou plusieurs chiffres du numéro ID\n",
+        "de {STRVAR_1 1, 0, 0}, qui est stocké sur le\r",
+        "PC, correspondent à ceux du\n",
+        "Billet de Loterie!\r"
       ]
     },
     {
@@ -77,6 +128,10 @@
       "en_US": [
         "I’m sorry.\n",
         "You didn’t get a match..."
+      ],
+      "fr_FR": [
+        "Quel dommage!\n",
+        "Aucun des numéros ne correspond..."
       ]
     },
     {
@@ -84,6 +139,10 @@
       "en_US": [
         "The last digit matched, so you\n",
         "win the fourth prize!\r"
+      ],
+      "fr_FR": [
+        "Le dernier chiffre correspond, vous\n",
+        "remportez le quatrième prix!\r"
       ]
     },
     {
@@ -91,6 +150,10 @@
       "en_US": [
         "You gained a new Backdrop for use\n",
         "in Fitting Rooms."
+      ],
+      "fr_FR": [
+        "Vous obtenez un nouveau Décor à\n",
+        "utiliser dans la cabine d’essayage."
       ]
     },
     {
@@ -98,6 +161,11 @@
       "en_US": [
         "The last two digits matched, so you\n",
         "win the third prize!\r"
+      ],
+      "fr_FR": [
+        "Les deux derniers chiffres\n",
+        "correspondent, vous remportez le\f",
+        "troisième prix!\r"
       ]
     },
     {
@@ -105,6 +173,11 @@
       "en_US": [
         "The last three digits matched, so you\n",
         "win the second prize!\r"
+      ],
+      "fr_FR": [
+        "Les trois derniers chiffres\n",
+        "correspondent, vous remportez le\f",
+        "deuxième prix!\r"
       ]
     },
     {
@@ -112,6 +185,11 @@
       "en_US": [
         "The last four digits matched, so you\n",
         "win the first prize!\r"
+      ],
+      "fr_FR": [
+        "Les quatre derniers chiffres\n",
+        "correspondent, vous remportez le\f",
+        "premier prix!\r"
       ]
     },
     {
@@ -124,6 +202,15 @@
         "...Oh, I’m sorry! Your prize!\n",
         "I got carried away there.\r",
         "Here you go!\r"
+      ],
+      "fr_FR": [
+        "Magnifique, tous les chiffres\n",
+        "correspondent!\r",
+        "Vous avez gagné le gros lot!\n",
+        "C’est tout simplement incroyable!\r",
+        "... Oh, pardon! Votre prix!\n",
+        "Je me suis laissé emporter.\r",
+        "Tenez!\r"
       ]
     },
     {
@@ -133,6 +220,12 @@
         "You seem to have no room for this.\r",
         "Please make room in your Bag and\n",
         "then let me know."
+      ],
+      "fr_FR": [
+        "Oh?\n",
+        "On dirait que vous n’avez plus de place.\r",
+        "Faites de la place dans votre Sac et\n",
+        "revenez me voir."
       ]
     },
     {
@@ -142,6 +235,12 @@
         "Yes, I’ve been expecting you.\r",
         "This is the prize we’ve been holding\n",
         "for you. Here you go!\r"
+      ],
+      "fr_FR": [
+        "{STRVAR_1 3, 0, 0}?\n",
+        "Oui, je vous attendais.\r",
+        "Nous vous avons gardé votre prix.\n",
+        "Tenez!\r"
       ]
     },
     {
@@ -149,6 +248,10 @@
       "en_US": [
         "Please do visit again!\n",
         "Good-bye from Felicity, your attendant!"
+      ],
+      "fr_FR": [
+        "N’hésitez pas à revenir tenter votre\n",
+        "chance! A bientôt!"
       ]
     },
     {
@@ -157,6 +260,11 @@
         "This is the Pokémon Lottery Corner.\r",
         "Would you like to check today’s lucky\n",
         "number again?"
+      ],
+      "fr_FR": [
+        "Bienvenue à la Loterie Pokémon.\r",
+        "Désirez-vous revérifier le numéro\n",
+        "gagnant du jour?"
       ]
     },
     {
@@ -168,6 +276,14 @@
         "Pokémon you’ve caught.\r",
         "You can check everyone’s records\n",
         "up on the third floor."
+      ],
+      "fr_FR": [
+        "C’est ici que toutes les données\n",
+        "officielles sont enregistrées.\r",
+        "La meilleure série de victoires, ou\n",
+        "le nombre de captures, par exemple.\r",
+        "Tu peux jeter un œil aux données des\n",
+        "autres au deuxième étage."
       ]
     },
     {
@@ -177,6 +293,12 @@
         "on TV.\r",
         "They’ll attract more customers to\n",
         "the department store."
+      ],
+      "fr_FR": [
+        "Je vais diffuser des spots\n",
+        "publicitaires à la télé.\r",
+        "Ils attireront les clients au\n",
+        "Centre Commercial Voilaroc."
       ]
     },
     {
@@ -190,6 +312,16 @@
         "Gym Leaders.\r",
         "I’d also like to hear about the tough\n",
         "Elite Four of the Pokémon League."
+      ],
+      "fr_FR": [
+        "Féli-Télé réalise des interviews de\n",
+        "plein de Dresseurs pour ses émissions.\r",
+        "Les gens veulent en savoir plus sur les\n",
+        "Dresseurs et ce qu’ils ont à dire.\r",
+        "Personnellement, j’aimerais mieux\n",
+        "connaître les Champions d’Arène.\r",
+        "Et le Conseil 4 de la Ligue Pokémon...\n",
+        "Ça ferait un sujet passionnant!"
       ]
     }
   ]

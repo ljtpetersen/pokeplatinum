@@ -27,5 +27,13 @@
   "fieldUseFunc": "ITEM_USE_FUNC_TM_HM",
   "battleUseCategory": "BATTLE_USE_CATEGORY_NONE",
   "itemUseParams": null,
-  "teachesMove": "MOVE_STRENGTH"
+  "teachesMove": "MOVE_STRENGTH",
+  "name_fr": "CS04",
+  "description_fr": [
+    "Le lanceur cogne l’ennemi de toute sa\n",
+    "force. Permet aussi de déplacer des\n",
+    "rochers."
+  ],
+  "plural_fr": "CS04",
+  "article_fr": null
 }

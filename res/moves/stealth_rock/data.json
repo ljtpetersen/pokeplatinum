@@ -22,5 +22,13 @@
     "contest": {
         "effect": "CONTEST_EFFECT_SUPPRESS_VOLTAGE",
         "type": "CONTEST_TYPE_COOL"
-    }
+    },
+    "name_fr": "Piège de Roc",
+    "description_fr": [
+        "Lance des pierres\n",
+        "flottantes autour de\n",
+        "l’ennemi, qui blessent\n",
+        "tout ennemi entrant\n",
+        "au combat."
+    ]
 }

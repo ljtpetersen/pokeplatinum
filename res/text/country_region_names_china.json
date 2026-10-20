@@ -3,131 +3,163 @@
   "messages": [
     {
       "id": "pl_msg_00000680_00000",
-      "en_US": "None"
+      "en_US": "None",
+      "fr_FR": "Aucun"
     },
     {
       "id": "pl_msg_00000680_00001",
-      "en_US": "Anhui"
+      "en_US": "Anhui",
+      "fr_FR": "Anhui"
     },
     {
       "id": "pl_msg_00000680_00002",
-      "en_US": "Beijing"
+      "en_US": "Beijing",
+      "fr_FR": "Pékin"
     },
     {
       "id": "pl_msg_00000680_00003",
-      "en_US": "Chongqing"
+      "en_US": "Chongqing",
+      "fr_FR": "Chongqing"
     },
     {
       "id": "pl_msg_00000680_00004",
-      "en_US": "Fujian"
+      "en_US": "Fujian",
+      "fr_FR": "Fujian"
     },
     {
       "id": "pl_msg_00000680_00005",
-      "en_US": "Gansu"
+      "en_US": "Gansu",
+      "fr_FR": "Gansu"
     },
     {
       "id": "pl_msg_00000680_00006",
-      "en_US": "Guangdong"
+      "en_US": "Guangdong",
+      "fr_FR": "Guangdong"
     },
     {
       "id": "pl_msg_00000680_00007",
-      "en_US": "Guanxi"
+      "en_US": "Guanxi",
+      "fr_FR": "Guangxi"
     },
     {
       "id": "pl_msg_00000680_00008",
-      "en_US": "Guizhou"
+      "en_US": "Guizhou",
+      "fr_FR": "Guizhou"
     },
     {
       "id": "pl_msg_00000680_00009",
-      "en_US": "Hainan"
+      "en_US": "Hainan",
+      "fr_FR": "Hainan"
     },
     {
       "id": "pl_msg_00000680_00010",
-      "en_US": "Hebei"
+      "en_US": "Hebei",
+      "fr_FR": "Hebei"
     },
     {
       "id": "pl_msg_00000680_00011",
-      "en_US": "Heilongjiang"
+      "en_US": "Heilongjiang",
+      "fr_FR": "Heilongjiang"
     },
     {
       "id": "pl_msg_00000680_00012",
-      "en_US": "Henan"
+      "en_US": "Henan",
+      "fr_FR": "Henan"
     },
     {
       "id": "pl_msg_00000680_00013",
-      "en_US": "Hubei"
+      "en_US": "Hubei",
+      "fr_FR": "Hubei"
     },
     {
       "id": "pl_msg_00000680_00014",
-      "en_US": "Hunan"
+      "en_US": "Hunan",
+      "fr_FR": "Hunan"
     },
     {
       "id": "pl_msg_00000680_00015",
-      "en_US": "Jiangsu"
+      "en_US": "Jiangsu",
+      "fr_FR": "Jiangsu"
     },
     {
       "id": "pl_msg_00000680_00016",
-      "en_US": "Jiangxi"
+      "en_US": "Jiangxi",
+      "fr_FR": "Jiangxi"
     },
     {
       "id": "pl_msg_00000680_00017",
-      "en_US": "Jilin"
+      "en_US": "Jilin",
+      "fr_FR": "Jilin"
     },
     {
       "id": "pl_msg_00000680_00018",
-      "en_US": "Liaoning"
+      "en_US": "Liaoning",
+      "fr_FR": "Liaoning"
     },
     {
       "id": "pl_msg_00000680_00019",
-      "en_US": "Neimenggu"
+      "en_US": "Neimenggu",
+      "fr_FR": "Mongolie-Intérieure"
     },
     {
       "id": "pl_msg_00000680_00020",
-      "en_US": "Ningxia"
+      "en_US": "Ningxia",
+      "fr_FR": "Ningxia"
     },
     {
       "id": "pl_msg_00000680_00021",
-      "en_US": "Qinghai"
+      "en_US": "Qinghai",
+      "fr_FR": "Qinghai"
     },
     {
       "id": "pl_msg_00000680_00022",
-      "en_US": "Shaanxi"
+      "en_US": "Shaanxi",
+      "fr_FR": "Shaanxi"
     },
     {
       "id": "pl_msg_00000680_00023",
-      "en_US": "Shandong"
+      "en_US": "Shandong",
+      "fr_FR": "Shandong"
     },
     {
       "id": "pl_msg_00000680_00024",
-      "en_US": "Shanghai"
+      "en_US": "Shanghai",
+      "fr_FR": "Shanghai"
     },
     {
       "id": "pl_msg_00000680_00025",
-      "en_US": "Shanxi"
+      "en_US": "Shanxi",
+      "fr_FR": "Shanxi"
     },
     {
       "id": "pl_msg_00000680_00026",
-      "en_US": "Sichuan"
+      "en_US": "Sichuan",
+      "fr_FR": "Sichuan"
     },
     {
       "id": "pl_msg_00000680_00027",
-      "en_US": "Tianjin"
+      "en_US": "Tianjin",
+      "fr_FR": "Tianjin"
     },
     {
       "id": "pl_msg_00000680_00028",
-      "en_US": "Xinjiang"
+      "en_US": "Xinjiang",
+      "fr_FR": "Xinjiang"
     },
     {
       "id": "pl_msg_00000680_00029",
-      "en_US": "Xizang"
+      "en_US": "Xizang",
+      "fr_FR": "Tibet"
     },
     {
       "id": "pl_msg_00000680_00030",
-      "en_US": "Yunnan"
+      "en_US": "Yunnan",
+      "fr_FR": "Yunnan"
     },
     {
       "id": "pl_msg_00000680_00031",
-      "en_US": "Zhejiang"
+      "en_US": "Zhejiang",
+      "fr_FR": "Zhejiang"
     }
   ]
 }

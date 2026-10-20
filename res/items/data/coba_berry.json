@@ -39,5 +39,13 @@
     "bitterness": 15,
     "sourness": 0,
     "smoothness": 30
-  }
+  },
+  "name_fr": "Baie Cobaba",
+  "description_fr": [
+    "Ingrédient pour Poffin. Tenue, cette\n",
+    "Baie affaiblit une attaque ennemie super\n",
+    "efficace de type Vol."
+  ],
+  "plural_fr": "Baie Cobaba",
+  "article_fr": null
 }

@@ -13,6 +13,17 @@
         "I’ll tell you what, order a Table from\n",
         "this order form.\r",
         "That’ll do as my thanks to you!"
+      ],
+      "fr_FR": [
+        "L’ancien propriétaire est parti avec\n",
+        "ses meubles et je n’en ai pas racheté.\r",
+        "Alors forcément, c’est spartiate.\n",
+        "Enfin, ça reste correct, non?\r",
+        "Mais je me sens mal de te laisser\n",
+        "cette maison sur les bras.\r",
+        "Je vais te dire, commande une table\n",
+        "avec ce bon.\r",
+        "C’est la maison qui offre!"
       ]
     },
     {
@@ -20,6 +31,10 @@
       "en_US": [
         "Go ahead, order a Table from this\n",
         "order form!"
+      ],
+      "fr_FR": [
+        "Allez, commande une table, remplis\n",
+        "le bon!"
       ]
     },
     {
@@ -29,6 +44,12 @@
         "Don’t go yet!\r",
         "Not until you order a Table from this\n",
         "order form!\r"
+      ],
+      "fr_FR": [
+        "Oh!\n",
+        "Ne pars pas!\r",
+        "Pas avant d’avoir commandé une table\n",
+        "avec ce bon!\r"
       ]
     },
     {
@@ -38,6 +59,12 @@
         "I’m delivering your order!\r",
         "We hope you’ll keep ordering quality\n",
         "furnishings from us!\r"
+      ],
+      "fr_FR": [
+        "Merci d’avoir attendu!\n",
+        "Je viens livrer votre commande!\r",
+        "N’hésitez pas à nous commander\n",
+        "d’autres meubles de qualité!\r"
       ]
     },
     {
@@ -51,6 +78,16 @@
         "thanks to you.\r",
         "Now I can go back to traveling\n",
         "like I always wanted.\r"
+      ],
+      "fr_FR": [
+        "Le marchand de meubles est super.\n",
+        "Toujours prêt à faire des affaires.\r",
+        "Regarde, ils ont laissé un autre bon\n",
+        "de commande.\r",
+        "Grâce à toi, je suis enfin débarrassé\n",
+        "de cette Villa.\r",
+        "Je peux partir à l’aventure comme\n",
+        "je l’ai toujours souhaité.\r"
       ]
     },
     {
@@ -66,6 +103,10 @@
       "en_US": [
         "Thank you for waiting!\n",
         "I’m delivering your order!\r"
+      ],
+      "fr_FR": [
+        "Merci d’avoir attendu!\n",
+        "Votre commande a été livrée!\r"
       ]
     },
     {
@@ -79,6 +120,15 @@
         "we could sell you...\r",
         "Thank you so very, very much for your\n",
         "long-standing patronage and support!\r"
+      ],
+      "fr_FR": [
+        "Merci d’avoir attendu!\n",
+        "Je viens livrer votre commande!\r",
+        "Oh, et euh, vous m’en voyez désolé...\n",
+        "Mais, euh, comment dire...\r",
+        "Nous n’avons plus aucun meuble à\n",
+        "vous vendre...\r",
+        "Merci infiniment de votre fidélité!\r"
       ]
     },
     {
@@ -90,6 +140,15 @@
         "You must be rich! Gimme something!\r",
         "OK, this is what I’m gonna do.\n",
         "I’ll tell everybody you got a Villa!\r"
+      ],
+      "fr_FR": [
+        "{STRVAR_1 3, 0, 0}: Hé, {STRVAR_1 3, 1, 0}!\n",
+        "Alors, tu as une Villa maintenant?\r",
+        "Wouhou, c’est carrément génial!\n",
+        "Tu dois être riche! Donne-moi un truc!\r",
+        "OK, voilà ce que je vais faire.\n",
+        "Je vais raconter à tout le monde\f",
+        "que tu as une Villa!\r"
       ]
     },
     {
@@ -99,6 +158,12 @@
         "so sumptuous!\r",
         "You know, I think we have similar\n",
         "tastes, {STRVAR_1 3, 1, 0}.\r"
+      ],
+      "fr_FR": [
+        "Aurore: Waouh, {STRVAR_1 3, 1, 0}, ce canapé\n",
+        "est somptueux!\r",
+        "Tu sais, je crois qu’on a les mêmes\n",
+        "goûts toi et moi!\r"
       ]
     },
     {
@@ -108,6 +173,12 @@
         "{STRVAR_1 3, 1, 0}?\r",
         "I can’t get comfortable sitting on\n",
         "something this expensive looking.\r"
+      ],
+      "fr_FR": [
+        "Louka: Ce canapé te plaît,\n",
+        "{STRVAR_1 3, 1, 0}?\r",
+        "Je ne serais pas à l’aise dessus,\n",
+        "j’aurais peur de l’abîmer.\r"
       ]
     },
     {
@@ -119,6 +190,13 @@
         "lines of an indefinable charm.\r",
         "Here, allow me to give you this book\n",
         "I’ve been reading as a gift.\r"
+      ],
+      "fr_FR": [
+        "Sorbier: Hum, voilà une bien jolie\n",
+        "bibliothèque.\r",
+        "Ses lignes épurées ont un charme fou.\r",
+        "Tiens, prends ce livre en cadeau,\n",
+        "je l’ai déjà lu.\r"
       ]
     },
     {
@@ -129,6 +207,13 @@
         "Maybe I’ll get some for my Gym...\r",
         "The green coloring and the aroma...\n",
         "It’s very nice.\r"
+      ],
+      "fr_FR": [
+        "Flo: Oh! J’adore les plantes!\r",
+        "Comme c’est beau! Je devrais mettre\n",
+        "les mêmes dans mon Arène...\r",
+        "Ce vert profond et ce doux parfum...\n",
+        "C’est du plus bel effet.\r"
       ]
     },
     {
@@ -142,6 +227,16 @@
         "the music it makes...\r",
         "Ehehe, I made myself cringe saying\n",
         "that.\r"
+      ],
+      "fr_FR": [
+        "Cynthia: Oh...?\n",
+        "Quel magnifique piano.\r",
+        "J’adore le son du piano. Je savoure\n",
+        "chaque note avec tout mon être.\r",
+        "Pas seulement mes oreilles, mais mon\n",
+        "esprit aussi...\r",
+        "Hé, hé, j’ai des frissons rien que\n",
+        "d’en parler.\r"
       ]
     },
     {
@@ -150,6 +245,11 @@
         "{STRVAR_1 3, 0, 0}: Too slooooow!\r",
         "You keep me waiting all the time!\n",
         "I’m fining you...$1 billion!"
+      ],
+      "fr_FR": [
+        "{STRVAR_1 3, 0, 0}: Tu traînes, encore!\r",
+        "Tu me fais attendre tout le temps!\n",
+        "Pour la peine, tu me dois... 100 000 $!"
       ]
     },
     {
@@ -159,6 +259,12 @@
         "things at the Battle Frontier?\r",
         "Me? You know I’m on top of it.\n",
         "I lose at the Tower sometimes, but..."
+      ],
+      "fr_FR": [
+        "{STRVAR_1 3, 0, 0}: Enfin bref, comment ça\n",
+        "se passe à la Zone de Combat?\r",
+        "Moi? Bah, comme d’hab, je suis au top!\n",
+        "Il m’arrive de perdre à la Tour, mais..."
       ]
     },
     {
@@ -168,6 +274,13 @@
         "at the Battle Tower...\r",
         "Aww, never mind!\n",
         "I’m not telling you I battled my daddy!"
+      ],
+      "fr_FR": [
+        "{STRVAR_1 3, 0, 0}: Oh, oui, l’autre jour à\n",
+        "la Tour de Combat...\r",
+        "Oooh, non c’est rien! Je te raconte\n",
+        "même pas comment j’ai combattu mon\f",
+        "père!"
       ]
     },
     {
@@ -177,6 +290,12 @@
         "have here.\r",
         "I’ve kind of got to like it, so I’ll drop\n",
         "in for no reason at all from now on!"
+      ],
+      "fr_FR": [
+        "{STRVAR_1 3, 0, 0}: Ta maison est vraiment\n",
+        "super.\r",
+        "Je l’aime bien, alors je passerai te voir\n",
+        "à l’occasion, sans raison!"
       ]
     },
     {
@@ -186,6 +305,13 @@
         "thinking lately...\r",
         "If we didn’t meet Prof. Rowan then,\n",
         "what would we be doing now?"
+      ],
+      "fr_FR": [
+        "{STRVAR_1 3, 0, 0}: Tu sais, j’ai beaucoup\n",
+        "réfléchi ces derniers temps...\r",
+        "Si on n’avait pas rencontré le\n",
+        "Professeur Sorbier, où est-ce\f",
+        "qu’on serait maintenant?"
       ]
     },
     {
@@ -197,6 +323,13 @@
         "to use Technical Machines?\r",
         "The sort of person who ends up making\n",
         "a collection of them?"
+      ],
+      "fr_FR": [
+        "Aurore: {STRVAR_1 3, 1, 0}, tu collectionnes\n",
+        "les meubles maintenant?\r",
+        "Tu ne ferais pas partie de ces gens qui\n",
+        "ne se servent jamais des CT?\r",
+        "Ceux qui préfèrent en faire collection?"
       ]
     },
     {
@@ -205,6 +338,11 @@
         "Dawn: I had no idea that you can get\n",
         "a Villa as a gift.\r",
         "Who knows what can happen in life?"
+      ],
+      "fr_FR": [
+        "Aurore: Jamais je n’aurais cru qu’on\n",
+        "pouvait recevoir une Villa en cadeau.\r",
+        "La vie est pleine de surprises!"
       ]
     },
     {
@@ -214,6 +352,12 @@
         "own place.\r",
         "I have to share a bedroom with my\n",
         "little sister!"
+      ],
+      "fr_FR": [
+        "Aurore: Je t’envie, j’aimerais bien\n",
+        "avoir ma maison à moi.\r",
+        "Moi, je dois partager ma chambre\n",
+        "avec ma petite sœur!"
       ]
     },
     {
@@ -223,6 +367,12 @@
         "To be with that special someone in a\n",
         "wonderful Villa like this...\r",
         "I think it’s a nice dream to have."
+      ],
+      "fr_FR": [
+        "Aurore: Arf...\r",
+        "Trouver quelqu’un avec qui partager\n",
+        "sa vie et sa Villa...\r",
+        "C’est un beau rêve."
       ]
     },
     {
@@ -232,6 +382,12 @@
         "the Battle Zone. It’s a bit much.\r",
         "So, {STRVAR_1 3, 1, 0}, please let me catch\n",
         "a little rest."
+      ],
+      "fr_FR": [
+        "Aurore: On croise tant de Pokémon dans\n",
+        "le Secteur Combat. C’est un peu trop.\r",
+        "Dis, {STRVAR_1 3, 1, 0}, je peux me reposer\n",
+        "un moment?"
       ]
     },
     {
@@ -243,6 +399,14 @@
         "stand to use Technical Machines?\r",
         "One of those types that end up with\n",
         "a TM collection out of hoarding?"
+      ],
+      "fr_FR": [
+        "Louka: {STRVAR_1 3, 1, 0}, tu collectionnes\n",
+        "les meubles, maintenant?\r",
+        "Tu ne ferais pas partie de ceux qui ne\n",
+        "se servent jamais des CT?\r",
+        "Et qui finissent par les entasser pour\n",
+        "en faire collection?"
       ]
     },
     {
@@ -253,6 +417,13 @@
         "I wish someone’d give me a Villa.\r",
         "That way, I’d be able to assist the\n",
         "professor even more!"
+      ],
+      "fr_FR": [
+        "Louka: On peut recevoir une Villa en\n",
+        "cadeau? Je ne savais pas.\r",
+        "Si seulement on m’en offrait une.\r",
+        "Je pourrais passer mon temps à\n",
+        "aider le professeur!"
       ]
     },
     {
@@ -263,6 +434,14 @@
         "So many different kinds of Pokémon,\n",
         "and Trainers of every variety...\r",
         "I’d like to go to even more places."
+      ],
+      "fr_FR": [
+        "Louka: Le Secteur Combat, c’est pas de\n",
+        "tout repos, hein?\r",
+        "Toutes ces espèces de Pokémon et tous\n",
+        "ces Dresseurs...\r",
+        "J’aimerais explorer encore plus\n",
+        "d’endroits."
       ]
     },
     {
@@ -272,6 +451,12 @@
         "convenient.\r",
         "It must be useful for checking up on\n",
         "the Pokémon in the Battle Zone."
+      ],
+      "fr_FR": [
+        "Louka: Ça doit être pratique d’avoir\n",
+        "cette Villa.\r",
+        "Comme ça, tu peux aller régulièrement\n",
+        "au Secteur Combat."
       ]
     },
     {
@@ -281,6 +466,12 @@
         "kinds of Pokémon in the Battle Zone.\r",
         "{STRVAR_1 3, 1, 0}, you don’t mind if I rest\n",
         "for a bit, do you?"
+      ],
+      "fr_FR": [
+        "Louka: On croise tellement d’espèces de\n",
+        "Pokémon au Secteur Combat.\r",
+        "{STRVAR_1 3, 1, 0}, ça te dérange si je reste\n",
+        "un peu pour me reposer?"
       ]
     },
     {
@@ -294,6 +485,15 @@
         "them based on sightings alone.\r",
         "There’s much to be learned from\n",
         "traveling with Pokémon."
+      ],
+      "fr_FR": [
+        "Sorbier: Hum!\n",
+        "Comment te portes-tu ces temps-ci?\r",
+        "Même si tu réussis à voir toutes les\n",
+        "espèces de Pokémon, ce n’est pas fini.\r",
+        "Les voir ne suffit pas à les connaître.\r",
+        "Voyager en leur compagnie, voilà une \n",
+        "expérience riche en enseignements."
       ]
     },
     {
@@ -308,6 +508,18 @@
         "leveling up in Mt. Coronet.\r",
         "The variations of evolution...\n",
         "How many could there be?"
+      ],
+      "fr_FR": [
+        "Sorbier: Hum!\n",
+        "Tu as bonne mine.\r",
+        "Au fait, tu savais que certains Pokémon\n",
+        "ne peuvent évoluer qu’à des endroits\f",
+        "précis?\r",
+        "Par exemple, il y en a qui n’évoluent\n",
+        "qu’en gagnant un niveau au Mont\f",
+        "Couronné.\r",
+        "Ah, les arcanes de l’évolution...\n",
+        "Que de mystères!"
       ]
     },
     {
@@ -324,6 +536,19 @@
         "new patterns of evolution.\r",
         "The variations of evolution...\n",
         "How many could there be?"
+      ],
+      "fr_FR": [
+        "Sorbier: Hum!\n",
+        "Tu as bonne mine.\r",
+        "Au fait, tu savais que certains Pokémon\n",
+        "ont besoin d’objets précis pour\f",
+        "évoluer?\r",
+        "MAGMAR et ELEKTEK en font partie.\r",
+        "Je n’aurais jamais imaginé que ce\n",
+        "phénomène était régi par tant de\f",
+        "paramètres.\r",
+        "Les arcanes de l’évolution...\n",
+        "Que de mystères!"
       ]
     },
     {
@@ -335,6 +560,16 @@
         "evolve to grow more powerful.\r",
         "There must be other reasons than that.\n",
         "I would like to know during my lifetime."
+      ],
+      "fr_FR": [
+        "Sorbier: Hum!\n",
+        "Tu as bonne mine.\r",
+        "Tout le monde est d’accord sur le fait\n",
+        "que les Pokémon évoluent pour devenir\f",
+        "plus puissants.\r",
+        "Et il y a probablement bien d’autres\n",
+        "raisons encore.\r",
+        "C’est le travail de toute une vie."
       ]
     },
     {
@@ -344,6 +579,13 @@
         "This place feels like the home I shared\n",
         "with a friend long ago.\r",
         "It has the same sort of atmosphere."
+      ],
+      "fr_FR": [
+        "Sorbier: Hum...\r",
+        "Cet endroit me fait penser à la maison\n",
+        "que je partageais avec quelqu’un\f",
+        "autrefois.\r",
+        "L’ambiance y est très semblable."
       ]
     },
     {
@@ -354,6 +596,13 @@
         "This is quite grand for a Villa.\n",
         "This makes me happy, dear!\f",
         "I’ll have a fun place to visit!"
+      ],
+      "fr_FR": [
+        "Maman: Oh, {STRVAR_1 3, 1, 0}!\n",
+        "{STRVAR_1 3, 0, 0} m’a raconté, mais...\r",
+        "Cette Villa est somptueuse.\n",
+        "Je suis si heureuse pour toi, mon chou!\f",
+        "Et ça me permettra de te rendre visite!"
       ]
     },
     {
@@ -363,6 +612,12 @@
         "were to give it a grade...\r",
         "It would earn a perfect score!\n",
         "It makes me happy just being here."
+      ],
+      "fr_FR": [
+        "Maman: {STRVAR_1 3, 1, 0}, si je devais\n",
+        "donner une note à cette Villa...\r",
+        "Ce serait un vingt sur vingt!\n",
+        "Rien que d’être là, je suis heureuse."
       ]
     },
     {
@@ -372,6 +627,12 @@
         "piece of furniture over there...\r",
         "Oops, sorry.\n",
         "This is your place, {STRVAR_1 3, 1, 0}."
+      ],
+      "fr_FR": [
+        "Maman: A ta place, je mettrais\n",
+        "ce meuble ici...\r",
+        "Oups, excuse-moi.\n",
+        "C’est ton chez-toi, {STRVAR_1 3, 1, 0}."
       ]
     },
     {
@@ -383,6 +644,14 @@
         "Accessories?\r",
         "Even if you don’t enter Contests, it’s\n",
         "fun to dress up Pokémon."
+      ],
+      "fr_FR": [
+        "Maman: Ce doit être amusant de\n",
+        "collectionner les meubles.\r",
+        "Mais au fait, tu collectionnes\n",
+        "les Accessoires aussi?\r",
+        "Même sans participer aux Concours,\n",
+        "c’est marrant d’habiller les Pokémon."
       ]
     },
     {
@@ -392,6 +661,13 @@
         "say a lot about the person.\r",
         "If the person’s character shines\n",
         "through, I think people respond to it."
+      ],
+      "fr_FR": [
+        "Maman: Je pense que les Concours en\n",
+        "disent long sur les gens, tout comme\f",
+        "leur intérieur.\r",
+        "Ça se sent quand ils y mettent tout\n",
+        "leur cœur."
       ]
     },
     {
@@ -402,6 +678,13 @@
         "I wonder... If I really tried, would\n",
         "I be able to extend it to even places\f",
         "like Kanto and Johto?"
+      ],
+      "fr_FR": [
+        "Pierrick: Le Souterrain s’étend\n",
+        "même sous l’Aire de Détente.\r",
+        "Je me demande si je pourrais atteindre\n",
+        "les régions de Kanto et Johto en\f",
+        "passant par le Souterrain..."
       ]
     },
     {
@@ -413,6 +696,14 @@
         "the Underground.\r",
         "I would turn the place into my personal\n",
         "museum."
+      ],
+      "fr_FR": [
+        "Pierrick: A ta place, j’exposerais les\n",
+        "objets que je déterre.\r",
+        "Tu sais, dans la mine et dans\n",
+        "le Souterrain, par exemple.\r",
+        "Je ferais de ma maison mon musée\n",
+        "personnel."
       ]
     },
     {
@@ -422,6 +713,12 @@
         "a Fossil over there.\r",
         "You don’t think so? No?\n",
         "I think a Fossil would match this decor."
+      ],
+      "fr_FR": [
+        "Pierrick: A ta place, je mettrais un\n",
+        "Fossile à cet endroit-là.\r",
+        "Qu’en penses-tu?\n",
+        "Ça se marierait très bien avec le reste."
       ]
     },
     {
@@ -431,6 +728,12 @@
         "an underground Secret Base.\r",
         "That reminds me: what color is your\n",
         "underground Flag now?"
+      ],
+      "fr_FR": [
+        "Pierrick: Cet endroit n’a rien à voir\n",
+        "avec une Base Secrète souterraine.\r",
+        "J’y pense: quelle est la couleur\n",
+        "de ton Drapeau?"
       ]
     },
     {
@@ -442,6 +745,14 @@
         "became Fossils?\r",
         "I’d love to go back and see them as\n",
         "they were back then."
+      ],
+      "fr_FR": [
+        "Pierrick: A quoi je pense quand je\n",
+        "fais des fouilles sous terre?\r",
+        "A ce que les Pokémon ont vu avant\n",
+        "de devenir des Fossiles.\r",
+        "J’adorerais voyager dans le passé pour\n",
+        "voir comment c’était."
       ]
     },
     {
@@ -451,6 +762,12 @@
         "The Resort Area’s a nice place.\r",
         "Of course, Eterna is a good place, too.\n",
         "We have the huge forest, first of all."
+      ],
+      "fr_FR": [
+        "Flo: Arf... Cet endroit fait rêver...\n",
+        "L’Aire de Détente est magnifique.\r",
+        "Bien sûr, Vestigion n’est pas mal non\n",
+        "plus, avec son immense forêt."
       ]
     },
     {
@@ -461,6 +778,12 @@
         "smell nice?\r",
         "It makes me happy just being around\n",
         "them."
+      ],
+      "fr_FR": [
+        "Flo: Je sais que c’est un peu direct,\n",
+        "mais tu ne trouves pas que les Pokémon\f",
+        "de type Plante sentent bon?\r",
+        "Leur compagnie me comble de joie."
       ]
     },
     {
@@ -471,6 +794,13 @@
         "Which kind of Pokémon can you say\n",
         "good things about?\r",
         "Ooh, maybe ten won’t be enough."
+      ],
+      "fr_FR": [
+        "Flo: Je passerais des heures à chanter\n",
+        "les louanges des Pokémon de type\f",
+        "Plante.\r",
+        "Et toi, quel est ton type de Pokémon\n",
+        "préféré?"
       ]
     },
     {
@@ -482,6 +812,14 @@
         "Pokémon there in the old days.\r",
         "...That’s so scary.\n",
         "What if they suddenly came back?"
+      ],
+      "fr_FR": [
+        "Flo: Tu te souviens des rumeurs au\n",
+        "sujet du Vieux Château?\r",
+        "On dit que l’endroit était peuplé de\n",
+        "fantômes dans les temps anciens.\r",
+        "J’en ai la chair de poule...\n",
+        "Imagine qu’ils reviennent subitement!"
       ]
     },
     {
@@ -493,6 +831,14 @@
         "But, what if...\r",
         "What if there was a Grass-type ghost\n",
         "Pokémon? What then?"
+      ],
+      "fr_FR": [
+        "Flo: Quel dilemme!\r",
+        "Tu vois, je n’aime pas trop les\n",
+        "fantômes.\r",
+        "Mais...\r",
+        "Mais s’il existait un Pokémon fantôme\n",
+        "de type Plante? Que faire alors?"
       ]
     },
     {
@@ -500,6 +846,10 @@
       "en_US": [
         "Fantina: Oh, c’est fantastique!\n",
         "This is where you practice dancing, non?"
+      ],
+      "fr_FR": [
+        "Kiméra: Oh, c’est fantastic!\n",
+        "C’est ton dance floor personnel, yes?"
       ]
     },
     {
@@ -510,6 +860,13 @@
         "If you dance all the time, the dancing\n",
         "at the Contests, they become\f",
         "challenges no longer."
+      ],
+      "fr_FR": [
+        "Kiméra: Il n’y a pas d’heure pour\n",
+        "la danse!\r",
+        "Si tu passes ton time à danser, alors\n",
+        "l’épreuve de danse des Concours\f",
+        "devient une simple formalité."
       ]
     },
     {
@@ -523,6 +880,14 @@
         "is here.\r",
         "Therefore, I will visit your Villa\n",
         "often also!"
+      ],
+      "fr_FR": [
+        "Kiméra: Oh my!\n",
+        "Comme c’est joli!\r",
+        "Je viens souvent dans l’Aire de\n",
+        "Détente. Pour aller au Club Rubans.\r",
+        "A partir de maintenant, je viendrai\n",
+        "visiter toi aussi!"
       ]
     },
     {
@@ -534,6 +899,14 @@
         "it has come to me in a flash!\r",
         "Very well! We shall meet at the Contest\n",
         "Hall, yes?"
+      ],
+      "fr_FR": [
+        "Kiméra: Oh my!\n",
+        "J’ai eu un flash d’inspiration!\r",
+        "Une fantastic idée de combo de\n",
+        "capacités à présenter en Concours!\r",
+        "Splendid! On se retrouvera à la Salle\n",
+        "de Concours, yes?"
       ]
     },
     {
@@ -545,6 +918,14 @@
         "That woman! The way she dances!\n",
         "Especially the way she wiggles!\f",
         "Ooh la la! I love her style!"
+      ],
+      "fr_FR": [
+        "Kiméra: Toi!\r",
+        "Tu connais Dahlia?\n",
+        "De l’Arcade de Combat?\r",
+        "C’est une star du dance floor!\n",
+        "Cette façon de se déhancher!\f",
+        "Oh my! J’adore son style!"
       ]
     },
     {
@@ -555,6 +936,13 @@
         "Thanks to my training, it doesn’t feel\n",
         "so cold to be in deep snow!\r",
         "Well, just a little..."
+      ],
+      "fr_FR": [
+        "Mélina: {STRVAR_1 3, 1, 0}, laisse-moi te\n",
+        "parler de mon entraînement.\r",
+        "Je n’ai plus froid quand je suis\n",
+        "jusqu’au cou dans la neige!\r",
+        "Enfin, plus trop en tout cas..."
       ]
     },
     {
@@ -566,6 +954,14 @@
         "has improved tenfold!\r",
         "...Yes. It has absolutely nothing to do\n",
         "with how strong I am as a Gym Leader."
+      ],
+      "fr_FR": [
+        "Mélina: {STRVAR_1 3, 1, 0}, laisse-moi te\n",
+        "parler de mon entraînement.\r",
+        "Maintenant, j’écris dix fois mieux\n",
+        "qu’avant!\r",
+        "Eh oui, ça n’a rien à voir avec mes\n",
+        "talents de Champion d’Arène."
       ]
     },
     {
@@ -577,6 +973,14 @@
         "strong my opponent is beforehand.\r",
         "Oh, yes, {STRVAR_1 3, 1, 0}, you’re\n",
         "ridiculously tough."
+      ],
+      "fr_FR": [
+        "Mélina: {STRVAR_1 3, 1, 0}, laisse-moi te\n",
+        "parler de mon entraînement.\r",
+        "A présent, un regard me suffit pour\n",
+        "évaluer la force de mon adversaire.\r",
+        "D’ailleurs, tu es tellement coriace\n",
+        "que c’en est grotesque, {STRVAR_1 3, 1, 0}."
       ]
     },
     {
@@ -588,6 +992,14 @@
         "understand the feelings of Pokémon.\r",
         "It lets me choose moves with much more\n",
         "confidence!"
+      ],
+      "fr_FR": [
+        "Mélina: {STRVAR_1 3, 1, 0}, laisse-moi te\n",
+        "parler de mon entraînement.\r",
+        "Je commence enfin à lire dans les\n",
+        "pensées des Pokémon.\r",
+        "Ça me permet de choisir des capacités\n",
+        "en toute confiance!"
       ]
     },
     {
@@ -600,6 +1012,15 @@
         "Well, only when he wins at the Game\n",
         "Corner, but...\r",
         "I’m still delighted he does this with me!"
+      ],
+      "fr_FR": [
+        "Mélina: {STRVAR_1 3, 1, 0}, laisse-moi te\n",
+        "parler de mon entraînement.\r",
+        "C’est mon père qui me coache!\r",
+        "Enfin, il n’est pas là très souvent ces\n",
+        "derniers temps...\r",
+        "Mais je suis quand même ravie\n",
+        "qu’on partage ça!"
       ]
     },
     {
@@ -612,6 +1033,15 @@
         "How would I put it now...?\r",
         "It’s, uh, spectacular!\n",
         "It is what it is!"
+      ],
+      "fr_FR": [
+        "Lovis: Hé!\n",
+        "{STRVAR_1 3, 0, 0} m’a dit de venir.\r",
+        "Dis-moi, c’est le grand luxe chez toi!\n",
+        "C’est spectaculaire!\r",
+        "Comment dire...\r",
+        "C’est, euh, spectaculaire!\n",
+        "Y a pas d’autre mot!"
       ]
     },
     {
@@ -623,6 +1053,14 @@
         "premises with my trophies?\r",
         "No, scrap that thought!\n",
         "How about a wrestling ring?"
+      ],
+      "fr_FR": [
+        "Lovis: Mmmmm...!\n",
+        "Hé, toi!\r",
+        "Ça te dirait de décorer ta Villa avec\n",
+        "mes nombreux trophées?\r",
+        "Non, oublie ça! Et pourquoi pas un ring\n",
+        "au milieu du salon?"
       ]
     },
     {
@@ -636,6 +1074,17 @@
         "Their overall atmosphere and their\n",
         "mannerisms and such...\r",
         "Seeing them cracks me up."
+      ],
+      "fr_FR": [
+        "Lovis: J’ai réfléchi à un truc.\r",
+        "Ton copain, {STRVAR_1 3, 0, 0}, est bien le\n",
+        "fils de Koner, ça ne fait aucun doute.\r",
+        "Il suffit de les regarder, on dirait\n",
+        "des copies conformes.\r",
+        "Leur comportement, et l’aura qu’ils\n",
+        "dégagent...\r",
+        "J’ai le tournis chaque fois que je\n",
+        "les vois ensemble."
       ]
     },
     {
@@ -647,6 +1096,14 @@
         "signature song, I’d like to know?\r",
         "Ah, ah, ah.\n",
         "The ring is my roiling sea. ♫"
+      ],
+      "fr_FR": [
+        "Lovis: Dis-moi, tu n’aurais pas un\n",
+        "micro sous la main?\r",
+        "Alors je fais comment moi, pour chanter\n",
+        "ma chanson fétiche, tu peux me le dire?\r",
+        "Ah, ah, ah. Je me déchaîne sur le\n",
+        "ring comme une tempête en mer. ♫"
       ]
     },
     {
@@ -662,6 +1119,20 @@
         "wouldn’t you say?\r",
         "So, what I’m saying is, watch me wrestle\n",
         "if you want to get better at battling!"
+      ],
+      "fr_FR": [
+        "Lovis: Au fait, je voulais te\n",
+        "demander...\r",
+        "Tu regardes mes matches de catch à\n",
+        "la télé, non?\r",
+        "Pour un catcheur, l’essentiel c’est\n",
+        "d’arriver à prévoir le prochain\f",
+        "coup de l’adversaire.\r",
+        "Comme dans les combats de Pokémon,\n",
+        "pas vrai?\r",
+        "Donc, si tu veux progresser en tant\n",
+        "que Dresseur, il te suffit de me\f",
+        "regarder catcher!"
       ]
     },
     {
@@ -674,6 +1145,14 @@
         "of place.\r",
         "Don’t get me wrong, it’s a great place.\n",
         "It’s nothing like my son’s!"
+      ],
+      "fr_FR": [
+        "Charles: Gwa, ah, ah!\r",
+        "J’ai longtemps vécu sur l’Ile de Fer.\r",
+        "Alors je ne me sens pas à ma place\n",
+        "dans un tel luxe.\r",
+        "Pas de malentendu: c’est un endroit\n",
+        "super! Pas comme chez mon fils!"
       ]
     },
     {
@@ -686,6 +1165,15 @@
         "digging tools, obviously.\r",
         "The shapes of Pokémon fangs and claws\n",
         "are interesting, too."
+      ],
+      "fr_FR": [
+        "Charles: Eh bien...\r",
+        "Je dois admettre que la décoration et\n",
+        "tout, ça ne me parle pas des masses.\r",
+        "Je préfère les outils en tout genre,\n",
+        "surtout les pioches et les pelles.\r",
+        "Les crocs et les griffes de Pokémon,\n",
+        "j’aime bien aussi."
       ]
     },
     {
@@ -698,6 +1186,15 @@
         "But that’s all in the past.\r",
         "The young people today should find\n",
         "their own paths to happiness."
+      ],
+      "fr_FR": [
+        "Charles: Creuser sous l’Ile de Fer,\n",
+        "chercher du minerai en compagnie\f",
+        "des Pokémon...\r",
+        "Ah, c’était le bon temps!\n",
+        "Mais tout ça, c’est du passé.\r",
+        "Les jeunes d’aujourd’hui doivent\n",
+        "trouver leur propre source de bonheur."
       ]
     },
     {
@@ -710,6 +1207,15 @@
         "Gwahahaha!\n",
         "You weren’t supposed to hear that!\f",
         "Forget I said it!"
+      ],
+      "fr_FR": [
+        "Charles: Pierrick est encore jeune,\n",
+        "mais c’est un homme, quand même.\r",
+        "C’est pour ça qu’on a des différends\n",
+        "et qu’il nous arrive de nous battre.\r",
+        "Gwa, ah, ah!\n",
+        "Tu n’aurais pas dû entendre ça!\f",
+        "Oublie ce que j’ai dit!"
       ]
     },
     {
@@ -720,6 +1226,13 @@
         "He’s a mystifying sort, that one.\r",
         "I have no idea how old he is, to tell you\n",
         "the truth."
+      ],
+      "fr_FR": [
+        "Charles: Tu connais le dénommé Armand,\n",
+        "n’est-ce pas?\r",
+        "Curieux personnage...\r",
+        "A dire vrai, je n’ai aucune idée\n",
+        "de l’âge qu’il peut avoir."
       ]
     },
     {
@@ -730,6 +1243,13 @@
         "It made me realize this one thing.\r",
         "I don’t have to act cool out of\n",
         "character. I just have to be me!"
+      ],
+      "fr_FR": [
+        "Gladys: Ça m’a fait réfléchir de te\n",
+        "donner le Badge Glaçon.\r",
+        "Ça a été une révélation.\r",
+        "Inutile de se la jouer cool.\n",
+        "Il suffit d’être soi-même!"
       ]
     },
     {
@@ -741,6 +1261,14 @@
         "I put all my trust in that Pokémon\n",
         "and cheer it on.\r",
         "That’s all you can do!"
+      ],
+      "fr_FR": [
+        "Gladys: En combat, quand il ne reste\n",
+        "qu’un Pokémon de chaque côté...\r",
+        "Qu’est-ce que tu te dis à ce moment-là?\r",
+        "Moi, je mets mon destin entre les mains\n",
+        "de ce Pokémon et je l’encourage à fond.\r",
+        "Il n’y a que ça à faire!"
       ]
     },
     {
@@ -749,6 +1277,11 @@
         "Candice: Whew...\n",
         "The Resort Area is pretty warm.\f",
         "Maybe Candice is overdressed?"
+      ],
+      "fr_FR": [
+        "Gladys: Pfiou...\n",
+        "Il fait chaud dans l’Aire de Détente.\f",
+        "Je suis peut-être trop couverte?"
       ]
     },
     {
@@ -757,6 +1290,11 @@
         "Candice: This furniture...\n",
         "Oh, I get it... It’s like this...\r",
         "Oh, please don’t mind me."
+      ],
+      "fr_FR": [
+        "Gladys: Ce meuble...\n",
+        "Oh, j’y suis... Il est comme ce...\r",
+        "Oh, fais comme si je n’étais pas là."
       ]
     },
     {
@@ -765,6 +1303,11 @@
         "Candice: Why does the Snowpoint Gym\n",
         "Leader have to guard that icy temple\f",
         "anyway?"
+      ],
+      "fr_FR": [
+        "Gladys: Pourquoi donc est-ce au\n",
+        "Champion d’Arène de Frimapic qu’on a\f",
+        "confié la garde de ce temple glacial?"
       ]
     },
     {
@@ -774,6 +1317,12 @@
         "meeting here.\r",
         "...That’s funny.\n",
         "You haven’t heard anything about it?"
+      ],
+      "fr_FR": [
+        "Tanguy: Adrien m’a dit de le\n",
+        "retrouver ici.\r",
+        "Bizarre...\n",
+        "Il ne t’en a pas parlé?"
       ]
     },
     {
@@ -782,6 +1331,11 @@
         "Volkner: Every one of my Pokémon are\n",
         "top class in potential.\r",
         "They’re all potential game breakers!"
+      ],
+      "fr_FR": [
+        "Tanguy: Chacun de mes Pokémon a un\n",
+        "immense potentiel.\r",
+        "Ce sont tous des champions en herbe!"
       ]
     },
     {
@@ -793,6 +1347,15 @@
         "the Pokémon League building.\r",
         "Well, no. I’d rather be a Gym Leader\n",
         "where I could meet ordinary folks."
+      ],
+      "fr_FR": [
+        "Tanguy: Ah, au fait... J’ai décidé de\n",
+        "ne pas me joindre au Conseil 4.\r",
+        "Je me suis fait remonter les bretelles\n",
+        "quand j’ai suggéré de rénover les\f",
+        "locaux la Ligue Pokémon.\r",
+        "Eh bien, je préfère rester dans mon\n",
+        "Arène et côtoyer des gens ordinaires."
       ]
     },
     {
@@ -802,6 +1365,12 @@
         "nature to be reckoned with.\r",
         "No, don’t get me started.\n",
         "I’ll tell you another time."
+      ],
+      "fr_FR": [
+        "Tanguy: Mon ELEKABLE est une véritable\n",
+        "force de la nature.\r",
+        "Non, ne me lance pas sur ce sujet.\n",
+        "Je te raconterai une autre fois."
       ]
     },
     {
@@ -810,6 +1379,11 @@
         "Volkner: Hmm...\r",
         "This place gives me ideas about how\n",
         "I can renovate my Gym."
+      ],
+      "fr_FR": [
+        "Tanguy: Hum...\r",
+        "Cet endroit me donne des idées de\n",
+        "réaménagement pour mon Arène."
       ]
     },
     {
@@ -821,6 +1395,14 @@
         "person that lives here.\r",
         "Yes... An honest person who loves\n",
         "Pokémon..."
+      ],
+      "fr_FR": [
+        "Cynthia: Je pense que j’arriverais à me\n",
+        "faire à cette atmosphère facilement.\r",
+        "Elle en dit long sur le genre de\n",
+        "personne qui habite ici.\r",
+        "Oui, quelqu’un d’intègre qui aime\n",
+        "les Pokémon..."
       ]
     },
     {
@@ -833,6 +1415,16 @@
         "research papers strewn about.\r",
         "My house?\r",
         "Even the region is a secret!"
+      ],
+      "fr_FR": [
+        "Cynthia: Cet endroit est si reposant...\r",
+        "Ça ne me donne pas envie de rentrer\n",
+        "chez moi.\r",
+        "C’est un vrai capharnaüm, avec tous les\n",
+        "documents que j’ai entassés au cours\f",
+        "de mes recherches.\r",
+        "Que je te donne mon adresse?\r",
+        "Même pas en rêve!"
       ]
     },
     {
@@ -844,6 +1436,13 @@
         "your love of Pokémon.\r",
         "That’s all I can say because that’s\n",
         "how it was for me..."
+      ],
+      "fr_FR": [
+        "Cynthia: De quoi a-t-on besoin pour\n",
+        "devenir plus fort?\r",
+        "Le plus important, c’est l’affection\n",
+        "qu’on porte aux Pokémon.\r",
+        "A part ça, je ne vois rien d’autre..."
       ]
     },
     {
@@ -855,6 +1454,14 @@
         "the same things as us?\r",
         "Could that be what led them to leave\n",
         "the cave painting of Celestic Town?"
+      ],
+      "fr_FR": [
+        "Cynthia: Les Colonnes Lances...\n",
+        "Le Monde Distorsion...\r",
+        "Les gens des temps anciens ont-ils été\n",
+        "témoins des mêmes choses que nous?\r",
+        "Ça expliquerait qu’ils nous aient laissé\n",
+        "la peinture rupestre de Célestia."
       ]
     },
     {
@@ -869,6 +1476,16 @@
         "There’s no need for words then.\r",
         "That’s why I’d like you to come see me\n",
         "again at the Pokémon League."
+      ],
+      "fr_FR": [
+        "Cynthia: En combat, un Dresseur se met\n",
+        "à nu. Il te dévoile tout.\r",
+        "Les Pokémon qu’il a.\n",
+        "Les capacités qu’il leur a enseignées.\f",
+        "Les objets qu’il leur fait tenir.\r",
+        "Alors, les mots deviennent superflus.\r",
+        "C’est pourquoi j’aimerais te revoir\n",
+        "à la Ligue Pokémon."
       ]
     },
     {
@@ -879,6 +1496,13 @@
         "furniture, didn’t you?\r",
         "So, I’ve got a right to lounge here,\n",
         "am I right?"
+      ],
+      "fr_FR": [
+        "Adrien: Salut, toi!\r",
+        "C’est avec l’argent gagné en me\n",
+        "battant que tu as acheté tout ça?\r",
+        "Alors, j’ai le droit d’en profiter\n",
+        "moi aussi, non?"
       ]
     },
     {
@@ -886,6 +1510,10 @@
       "en_US": [
         "Volkner: My relationship to Flint?\n",
         "There’s no love lost, that’s for sure."
+      ],
+      "fr_FR": [
+        "Tanguy: Mes relations avec Adrien?\n",
+        "On peut pas se sentir, crois-moi."
       ]
     },
     {
@@ -896,6 +1524,14 @@
         "Electric-type Pokémon, ignore him!\r",
         "You have to go with Fire-type Pokémon.\n",
         "It’s the way of the future!"
+      ],
+      "fr_FR": [
+        "Adrien: Hé, écoute!\r",
+        "Si Tanguy se met à te vanter les\n",
+        "mérites des Pokémon de type\f",
+        "Electrik, ignore-le!\r",
+        "C’est sur les Pokémon de type Feu qu’il\n",
+        "faut miser! Ils représentent l’avenir!"
       ]
     },
     {
@@ -911,6 +1547,19 @@
         "the Fire type is only from his name.\r",
         "Someone told him that a flint is what’s\n",
         "used to spark a fire, and that was it."
+      ],
+      "fr_FR": [
+        "Tanguy: C’est en utilisant la capacité\n",
+        "Tonnerre que j’ai décroché mon premier\f",
+        "Badge.\r",
+        "Depuis, je me suis amélioré mais je reste\n",
+        "fidèle au type Electrik.\r",
+        "Comme ça, je n’oublierai jamais la joie\n",
+        "immense que j’ai ressentie à l’époque.\r",
+        "Quant à Adrien, sa fascination pour les\n",
+        "Pokémon de type Feu est purement\r",
+        "fortuite. Il gobe tout ce qu’on\n",
+        "lui raconte, de toute façon."
       ]
     },
     {
@@ -926,6 +1575,19 @@
         "Wouldn’t that be hilarious?\r",
         "Volkner: ...Maybe.\n",
         "Don’t ruin things for others, though."
+      ],
+      "fr_FR": [
+        "Adrien: Tanguy...\r",
+        "Tanguy: Quoi?\r",
+        "Adrien: Supposons que je sois en\n",
+        "combat... Et si je trouvais un\f",
+        "substitut à mes Poké Balls?\r",
+        "Je pourrais cacher mes Pokémon dans\n",
+        "la choucroute qui me sert de cheveux.\r",
+        "Ce serait une façon de déstabiliser\n",
+        "l’adversaire! Et quelle rigolade!\r",
+        "Tanguy: Euh, mouais... Mais pense\n",
+        "donc à ménager tes effets à l’avenir."
       ]
     },
     {
@@ -942,6 +1604,19 @@
         "things like that?\r",
         "Volkner: Don’t start! That will make\n",
         "my Gym stand out less."
+      ],
+      "fr_FR": [
+        "Adrien: Hum...\r",
+        "Tanguy: Qu’est-ce qui se passe?\n",
+        "Tu as l’air sérieux, pour une fois.\r",
+        "Adrien: C’est cet endroit. Tu connais la\n",
+        "Ligue et ses locaux dépouillés?\r",
+        "Tu crois pas qu’on devrait en faire un\n",
+        "lieu plus, euh, gai?\r",
+        "Changer la déco, exposer des trophées,\n",
+        "tout ça quoi...\r",
+        "Tanguy: Certainement pas! Après, mon\n",
+        "Arène aurait l’air moins classe."
       ]
     },
     {
@@ -955,6 +1630,18 @@
         "Flint: What, we are?\r",
         "Volkner: Well, at least you are.\n",
         "I tell everyone you’re irresponsible."
+      ],
+      "fr_FR": [
+        "Adrien: Dis, Tanguy.\n",
+        "Ça te dirait un petit combat ici?\r",
+        "Tanguy: Tu plaisantes?\r",
+        "Pas étonnant que les membres du\n",
+        "Conseil 4 aient une réputation\f",
+        "d’irresponsables.\r",
+        "Adrien: D’irresponsables, tu dis?\r",
+        "Tanguy: Dans ton cas, ça ne fait aucun\n",
+        "doute. D’ailleurs, c’est ce que\f",
+        "je dis à qui veut l’entendre."
       ]
     },
     {
@@ -966,6 +1653,14 @@
         "That’s a tough question.\r",
         "...Maybe we should ask Gardenia\n",
         "sometime."
+      ],
+      "fr_FR": [
+        "Mélina: Qu’est-ce qui fait un bon\n",
+        "Champion d’Arène?\r",
+        "Gladys: Bonne question.\n",
+        "Je n’en ai aucune idée.\r",
+        "On devrait peut-être demander\n",
+        "ça à Flo..."
       ]
     },
     {
@@ -980,6 +1675,17 @@
         "I’ll give you some of my favorites.\r",
         "Maylene: ...!\n",
         "Th-thank you so much!"
+      ],
+      "fr_FR": [
+        "Mélina: Tu connais les Accessoires\n",
+        "pour Pokémon?\r",
+        "Ce serait marrant que quelqu’un\n",
+        "en porte!\r",
+        "Gladys: Qu’est-ce que tu veux dire,\n",
+        "Mélina? Tu veux des Accessoires, c’est\f",
+        "ça? Tiens, je te donne mes préférés.\r",
+        "Mélina: ...!\n",
+        "Merci mille fois!"
       ]
     },
     {
@@ -991,6 +1697,14 @@
         "I didn’t say anything!\r",
         "Candice: Giggle...\n",
         "I like lounging here.\r"
+      ],
+      "fr_FR": [
+        "Mélina: Gladys...?\r",
+        "Gladys: Oui?\r",
+        "Mélina: Euh, non rien.\n",
+        "Je n’ai rien dit!\r",
+        "Gladys: Hi, hi, hi...\n",
+        "J’aime bien lézarder ici."
       ]
     },
     {
@@ -1004,6 +1718,15 @@
         "We’ve got Pokémon and {STRVAR_1 3, 1, 0} on\n",
         "our side, after all.\r",
         "Maylene: Yes, please!"
+      ],
+      "fr_FR": [
+        "Mélina: Gladys, ça veut dire quoi\n",
+        "être fort?\r",
+        "Gladys: Tu me poses une colle!\r",
+        "Partons chercher la réponse ensemble.\r",
+        "On a des Pokémon et {STRVAR_1 3, 1, 0}\n",
+        "à nos côtés, après tout.\r",
+        "Mélina: Oui, faisons ça!"
       ]
     },
     {
@@ -1014,6 +1737,13 @@
         "Maylene: Yes, please.\r",
         "Candice: There’s plenty to drink.\n",
         "You’re a growing girl!"
+      ],
+      "fr_FR": [
+        "Mélina: C’est délicieux!\r",
+        "Gladys: Vas-y, sers-toi.\r",
+        "Mélina: Avec plaisir.\r",
+        "Gladys: Il y a de quoi faire!\n",
+        "En plus, ça fait grandir!"
       ]
     },
     {
@@ -1029,6 +1759,10 @@
       "en_US": [
         "The table’s subtle curves accentuate\n",
         "its distinctive presence."
+      ],
+      "fr_FR": [
+        "Les courbes subtiles de la table lui\n",
+        "donnent un merveilleux cachet."
       ]
     },
     {
@@ -1036,6 +1770,10 @@
       "en_US": [
         "A big sofa with a wonderful sense\n",
         "of presence."
+      ],
+      "fr_FR": [
+        "Un grand canapé. Il habille très\n",
+        "bien la pièce."
       ]
     },
     {
@@ -1043,6 +1781,10 @@
       "en_US": [
         "A smaller sofa with a wonderful sense\n",
         "of presence."
+      ],
+      "fr_FR": [
+        "Un petit canapé. Il habille très\n",
+        "bien la pièce."
       ]
     },
     {
@@ -1050,21 +1792,34 @@
       "en_US": [
         "A canopied bed for deep, relaxing\n",
         "sleep."
+      ],
+      "fr_FR": [
+        "Un lit à baldaquin, promesse\n",
+        "d’un sommeil réparateur."
       ]
     },
     {
       "id": "Villa_Text_DescriptionNightTable",
-      "en_US": "A small night table for the bedside."
+      "en_US": "A small night table for the bedside.",
+      "fr_FR": [
+        "Une petite table de nuit à disposer\n",
+        "à côté du lit."
+      ]
     },
     {
       "id": "Villa_Text_DescriptionTV",
-      "en_US": "A TV featuring the latest technology."
+      "en_US": "A TV featuring the latest technology.",
+      "fr_FR": "Une télévision dernier cri."
     },
     {
       "id": "Villa_Text_DescriptionAudioSystem",
       "en_US": [
         "An audio system that maximally draws\n",
         "out the charms of music."
+      ],
+      "fr_FR": [
+        "Une chaîne stéréo de qualité, rendant\n",
+        "justice aux mélodies les plus subtiles."
       ]
     },
     {
@@ -1072,6 +1827,10 @@
       "en_US": [
         "The shelves are lined with books left\n",
         "by Prof. Rowan."
+      ],
+      "fr_FR": [
+        "La bibliothèque regorge de livres\n",
+        "écrits par le Professeur Sorbier."
       ]
     },
     {
@@ -1079,6 +1838,10 @@
       "en_US": [
         "An attractive rack that looks good with\n",
         "or without things on it."
+      ],
+      "fr_FR": [
+        "Une étagère à l’allure somptueuse,\n",
+        "qu’elle soit vide ou pleine."
       ]
     },
     {
@@ -1086,6 +1849,10 @@
       "en_US": [
         "All houseplants give off the fragrance\n",
         "of life."
+      ],
+      "fr_FR": [
+        "Toutes les plantes diffusent un parfum\n",
+        "vivifiant."
       ]
     },
     {
@@ -1093,6 +1860,10 @@
       "en_US": [
         "A thin-bodied PC made for the design\n",
         "conscious."
+      ],
+      "fr_FR": [
+        "Un PC ultramince conçu pour\n",
+        "les amateurs de design."
       ]
     },
     {
@@ -1100,6 +1871,10 @@
       "en_US": [
         "A handmade music box with a soothing\n",
         "melody."
+      ],
+      "fr_FR": [
+        "Une boîte à musique faite main à\n",
+        "la mélodie apaisante."
       ]
     },
     {
@@ -1107,6 +1882,10 @@
       "en_US": [
         "An almost lifelike Pokémon statue.\n",
         "It would be nice to have a pair."
+      ],
+      "fr_FR": [
+        "Une statue Pokémon plus vraie que\n",
+        "nature. En avoir deux est encore mieux."
       ]
     },
     {
@@ -1114,6 +1893,10 @@
       "en_US": [
         "An almost lifelike Pokémon statue.\n",
         "It would be nice to have a pair."
+      ],
+      "fr_FR": [
+        "Une statue Pokémon plus vraie que\n",
+        "nature. En avoir deux est encore mieux."
       ]
     },
     {
@@ -1121,6 +1904,10 @@
       "en_US": [
         "Even playing a simple scale will tell you\n",
         "this is a special piano."
+      ],
+      "fr_FR": [
+        "Quelques notes suffisent pour\n",
+        "apprécier la particularité de ce piano."
       ]
     },
     {
@@ -1128,6 +1915,10 @@
       "en_US": [
         "A guest set that exemplifies the\n",
         "meaning of comfort."
+      ],
+      "fr_FR": [
+        "Une table d’hôte, incarnation parfaite\n",
+        "du confort."
       ]
     },
     {
@@ -1135,6 +1926,10 @@
       "en_US": [
         "A clock that teaches the beauty of\n",
         "precisely marking time."
+      ],
+      "fr_FR": [
+        "Une horloge dont les rouages délicats\n",
+        "sont une merveille de précision."
       ]
     },
     {
@@ -1142,6 +1937,10 @@
       "en_US": [
         "A breathtaking masterpiece that no\n",
         "words can ever do justice."
+      ],
+      "fr_FR": [
+        "Un chef-d’œuvre épatant, dont les\n",
+        "mots ne suffisent à décrire la beauté."
       ]
     },
     {
@@ -1149,6 +1948,10 @@
       "en_US": [
         "An exquisitely designed tea set for\n",
         "luxuriantly elegant times."
+      ],
+      "fr_FR": [
+        "Un service à thé au design exquis pour\n",
+        "des collations tout en élégance."
       ]
     },
     {
@@ -1156,17 +1959,26 @@
       "en_US": [
         "Light makes the glass gleam, and the\n",
         "glass dazzlingly reflects the light."
+      ],
+      "fr_FR": [
+        "Un lustre dont les cristaux chatoyants\n",
+        "brillent de mille feux à la lumière."
       ]
     },
     {
       "id": "Villa_Text_PlayerOpenedOrderForm",
-      "en_US": "{STRVAR_1 3, 1, 0} opened the order form.\r"
+      "en_US": "{STRVAR_1 3, 1, 0} opened the order form.\r",
+      "fr_FR": "{STRVAR_1 3, 1, 0} lit le bon de commande.\r"
     },
     {
       "id": "Villa_Text_OrderWhichFurniture",
       "en_US": [
         "Which furniture would\n",
         "you like to order?"
+      ],
+      "fr_FR": [
+        "Quel article souhaitez-vous\n",
+        "commander?"
       ]
     },
     {
@@ -1174,19 +1986,23 @@
       "en_US": [
         "Order the chosen\n",
         "furniture?"
-      ]
+      ],
+      "fr_FR": "Commander l’article choisi?"
     },
     {
       "id": "Villa_Text_AlreadyBoughtOne",
-      "en_US": "You’ve already bought one."
+      "en_US": "You’ve already bought one.",
+      "fr_FR": "Vous possédez déjà cet article."
     },
     {
       "id": "Villa_Text_NotEnoughMoney",
-      "en_US": "You don’t have enough money."
+      "en_US": "You don’t have enough money.",
+      "fr_FR": "Vous n’avez pas suffisamment d’argent."
     },
     {
       "id": "Villa_Text_ListOfPurchases",
-      "en_US": "This is the list of purchased furniture."
+      "en_US": "This is the list of purchased furniture.",
+      "fr_FR": "La liste des articles que vous avez."
     },
     {
       "id": "Villa_Text_Dummy125",
@@ -1286,167 +2102,208 @@
     },
     {
       "id": "Villa_Text_EntryTableAvailable",
-      "en_US": "Table{CURSOR_X 96}{STRVAR_1 55, 0, 0}"
+      "en_US": "Table{CURSOR_X 96}{STRVAR_1 55, 0, 0}",
+      "fr_FR": "Table{CURSOR_X 96}{STRVAR_1 55, 0, 0}"
     },
     {
       "id": "Villa_Text_EntryBigSofaAvailable",
-      "en_US": "Big Sofa{CURSOR_X 96}{STRVAR_1 55, 0, 0}"
+      "en_US": "Big Sofa{CURSOR_X 96}{STRVAR_1 55, 0, 0}",
+      "fr_FR": "Grand canapé{CURSOR_X 96}{STRVAR_1 55, 0, 0}"
     },
     {
       "id": "Villa_Text_EntrySmallSofaAvailable",
-      "en_US": "Small Sofa{CURSOR_X 96}{STRVAR_1 55, 0, 0}"
+      "en_US": "Small Sofa{CURSOR_X 96}{STRVAR_1 55, 0, 0}",
+      "fr_FR": "Petit canapé{CURSOR_X 96}{STRVAR_1 55, 0, 0}"
     },
     {
       "id": "Villa_Text_EntryBedAvailable",
-      "en_US": "Bed{CURSOR_X 96}{STRVAR_1 55, 0, 0}"
+      "en_US": "Bed{CURSOR_X 96}{STRVAR_1 55, 0, 0}",
+      "fr_FR": "Lit{CURSOR_X 96}{STRVAR_1 55, 0, 0}"
     },
     {
       "id": "Villa_Text_EntryNightTableAvailable",
-      "en_US": "Night Table{CURSOR_X 96}{STRVAR_1 55, 0, 0}"
+      "en_US": "Night Table{CURSOR_X 96}{STRVAR_1 55, 0, 0}",
+      "fr_FR": "Table de nuit{CURSOR_X 96}{STRVAR_1 55, 0, 0}"
     },
     {
       "id": "Villa_Text_EntryTVAvailable",
-      "en_US": "TV{CURSOR_X 96}{STRVAR_1 55, 0, 0}"
+      "en_US": "TV{CURSOR_X 96}{STRVAR_1 55, 0, 0}",
+      "fr_FR": "TV{CURSOR_X 96}{STRVAR_1 55, 0, 0}"
     },
     {
       "id": "Villa_Text_EntryAudioSystemAvailable",
-      "en_US": "Audio System{CURSOR_X 96}{STRVAR_1 55, 0, 0}"
+      "en_US": "Audio System{CURSOR_X 96}{STRVAR_1 55, 0, 0}",
+      "fr_FR": "Chaîne stéréo{CURSOR_X 96}{STRVAR_1 55, 0, 0}"
     },
     {
       "id": "Villa_Text_EntryBookshelfAvailable",
-      "en_US": "Bookshelf{CURSOR_X 96}{STRVAR_1 55, 0, 0}"
+      "en_US": "Bookshelf{CURSOR_X 96}{STRVAR_1 55, 0, 0}",
+      "fr_FR": "Bibliothèque{CURSOR_X 96}{STRVAR_1 55, 0, 0}"
     },
     {
       "id": "Villa_Text_EntryRackAvailable",
-      "en_US": "Rack{CURSOR_X 96}{STRVAR_1 55, 0, 0}"
+      "en_US": "Rack{CURSOR_X 96}{STRVAR_1 55, 0, 0}",
+      "fr_FR": "Etagère{CURSOR_X 96}{STRVAR_1 55, 0, 0}"
     },
     {
       "id": "Villa_Text_EntryHouseplantAvailable",
-      "en_US": "Houseplant{CURSOR_X 96}{STRVAR_1 55, 0, 0}"
+      "en_US": "Houseplant{CURSOR_X 96}{STRVAR_1 55, 0, 0}",
+      "fr_FR": "Plante{CURSOR_X 96}{STRVAR_1 55, 0, 0}"
     },
     {
       "id": "Villa_Text_EntryPCDeskAvailable",
-      "en_US": "PC Desk{CURSOR_X 96}{STRVAR_1 55, 0, 0}"
+      "en_US": "PC Desk{CURSOR_X 96}{STRVAR_1 55, 0, 0}",
+      "fr_FR": "Meuble PC{CURSOR_X 96}{STRVAR_1 55, 0, 0}"
     },
     {
       "id": "Villa_Text_EntryMusicBoxAvailable",
-      "en_US": "Music Box{CURSOR_X 96}{STRVAR_1 55, 0, 0}"
+      "en_US": "Music Box{CURSOR_X 96}{STRVAR_1 55, 0, 0}",
+      "fr_FR": "Boîte musicale{CURSOR_X 96}{STRVAR_1 55, 0, 0}"
     },
     {
       "id": "Villa_Text_EntryPokemonBustAvailable",
-      "en_US": "Pokémon Bust{CURSOR_X 96}{STRVAR_1 55, 0, 0}"
+      "en_US": "Pokémon Bust{CURSOR_X 96}{STRVAR_1 55, 0, 0}",
+      "fr_FR": "Statue Pokémon{CURSOR_X 96}{STRVAR_1 55, 0, 0}"
     },
     {
       "id": "Villa_Text_EntryPokemonBustSilverAvailable",
-      "en_US": "Pokémon Bust{CURSOR_X 96}{STRVAR_1 55, 0, 0}"
+      "en_US": "Pokémon Bust{CURSOR_X 96}{STRVAR_1 55, 0, 0}",
+      "fr_FR": "Statue Pokémon{CURSOR_X 96}{STRVAR_1 55, 0, 0}"
     },
     {
       "id": "Villa_Text_EntryPianoAvailable",
-      "en_US": "Piano{CURSOR_X 96}{STRVAR_1 55, 0, 0}"
+      "en_US": "Piano{CURSOR_X 96}{STRVAR_1 55, 0, 0}",
+      "fr_FR": "Piano{CURSOR_X 96}{STRVAR_1 55, 0, 0}"
     },
     {
       "id": "Villa_Text_EntryGuestSetAvailable",
-      "en_US": "Guest Set{CURSOR_X 96}{STRVAR_1 55, 0, 0}"
+      "en_US": "Guest Set{CURSOR_X 96}{STRVAR_1 55, 0, 0}",
+      "fr_FR": "Table d’hôte{CURSOR_X 96}{STRVAR_1 55, 0, 0}"
     },
     {
       "id": "Villa_Text_EntryWallClockAvailable",
-      "en_US": "Wall Clock{CURSOR_X 96}{STRVAR_1 55, 0, 0}"
+      "en_US": "Wall Clock{CURSOR_X 96}{STRVAR_1 55, 0, 0}",
+      "fr_FR": "Horloge{CURSOR_X 96}{STRVAR_1 55, 0, 0}"
     },
     {
       "id": "Villa_Text_EntryMasterpieceAvailable",
-      "en_US": "Masterpiece{CURSOR_X 96}{STRVAR_1 55, 0, 0}"
+      "en_US": "Masterpiece{CURSOR_X 96}{STRVAR_1 55, 0, 0}",
+      "fr_FR": "Chef-d’œuvre{CURSOR_X 96}{STRVAR_1 55, 0, 0}"
     },
     {
       "id": "Villa_Text_EntryTeaSetAvailable",
-      "en_US": "Tea Set{CURSOR_X 96}{STRVAR_1 55, 0, 0}"
+      "en_US": "Tea Set{CURSOR_X 96}{STRVAR_1 55, 0, 0}",
+      "fr_FR": "Service à thé{CURSOR_X 96}{STRVAR_1 55, 0, 0}"
     },
     {
       "id": "Villa_Text_EntryChandelierAvailable",
-      "en_US": "Chandelier{CURSOR_X 96}{STRVAR_1 55, 0, 0}"
+      "en_US": "Chandelier{CURSOR_X 96}{STRVAR_1 55, 0, 0}",
+      "fr_FR": "Lustre{CURSOR_X 96}{STRVAR_1 55, 0, 0}"
     },
     {
       "id": "Villa_Text_EntryTableSoldOut",
-      "en_US": "Table{CURSOR_X 100}------"
+      "en_US": "Table{CURSOR_X 100}------",
+      "fr_FR": "Table{CURSOR_X 100}------"
     },
     {
       "id": "Villa_Text_EntryBigSofaSoldOut",
-      "en_US": "Big Sofa{CURSOR_X 100}------"
+      "en_US": "Big Sofa{CURSOR_X 100}------",
+      "fr_FR": "Grand canapé{CURSOR_X 100}------"
     },
     {
       "id": "Villa_Text_EntrySmallSofaSoldOut",
-      "en_US": "Small Sofa{CURSOR_X 100}------"
+      "en_US": "Small Sofa{CURSOR_X 100}------",
+      "fr_FR": "Petit canapé{CURSOR_X 100}------"
     },
     {
       "id": "Villa_Text_EntryBedSoldOut",
-      "en_US": "Bed{CURSOR_X 100}------"
+      "en_US": "Bed{CURSOR_X 100}------",
+      "fr_FR": "Lit{CURSOR_X 100}------"
     },
     {
       "id": "Villa_Text_EntryNightTableSoldOut",
-      "en_US": "Night Table{CURSOR_X 100}------"
+      "en_US": "Night Table{CURSOR_X 100}------",
+      "fr_FR": "Table de nuit{CURSOR_X 100}------"
     },
     {
       "id": "Villa_Text_EntryTVSoldOut",
-      "en_US": "TV{CURSOR_X 100}------"
+      "en_US": "TV{CURSOR_X 100}------",
+      "fr_FR": "TV{CURSOR_X 100}------"
     },
     {
       "id": "Villa_Text_EntryAudioSystemSoldOut",
-      "en_US": "Audio System{CURSOR_X 100}------"
+      "en_US": "Audio System{CURSOR_X 100}------",
+      "fr_FR": "Chaîne stéréo{CURSOR_X 100}------"
     },
     {
       "id": "Villa_Text_EntryBookshelfSoldOut",
-      "en_US": "Bookshelf{CURSOR_X 100}------"
+      "en_US": "Bookshelf{CURSOR_X 100}------",
+      "fr_FR": "Bibliothèque{CURSOR_X 100}------"
     },
     {
       "id": "Villa_Text_EntryRackSoldOut",
-      "en_US": "Rack{CURSOR_X 100}------"
+      "en_US": "Rack{CURSOR_X 100}------",
+      "fr_FR": "Etagère{CURSOR_X 100}------"
     },
     {
       "id": "Villa_Text_EntryHouseplantSoldOut",
-      "en_US": "Houseplant{CURSOR_X 100}------"
+      "en_US": "Houseplant{CURSOR_X 100}------",
+      "fr_FR": "Plante{CURSOR_X 100}------"
     },
     {
       "id": "Villa_Text_EntryPCDeskSoldOut",
-      "en_US": "PC Desk{CURSOR_X 100}------"
+      "en_US": "PC Desk{CURSOR_X 100}------",
+      "fr_FR": "Meuble PC{CURSOR_X 100}------"
     },
     {
       "id": "Villa_Text_EntryMusicBoxSoldOut",
-      "en_US": "Music Box{CURSOR_X 100}------"
+      "en_US": "Music Box{CURSOR_X 100}------",
+      "fr_FR": "Boîte musicale{CURSOR_X 100}------"
     },
     {
       "id": "Villa_Text_EntryPokemonBustSoldOut",
-      "en_US": "Pokémon Bust{CURSOR_X 100}------"
+      "en_US": "Pokémon Bust{CURSOR_X 100}------",
+      "fr_FR": "Statue Pokémon{CURSOR_X 100}------"
     },
     {
       "id": "Villa_Text_EntryPokemonBustSilverSoldOut",
-      "en_US": "Pokémon Bust{CURSOR_X 100}------"
+      "en_US": "Pokémon Bust{CURSOR_X 100}------",
+      "fr_FR": "Statue Pokémon{CURSOR_X 100}------"
     },
     {
       "id": "Villa_Text_EntryPianoSoldOut",
-      "en_US": "Piano{CURSOR_X 100}------"
+      "en_US": "Piano{CURSOR_X 100}------",
+      "fr_FR": "Piano{CURSOR_X 100}------"
     },
     {
       "id": "Villa_Text_EntryGuestSetSoldOut",
-      "en_US": "Guest Set{CURSOR_X 100}------"
+      "en_US": "Guest Set{CURSOR_X 100}------",
+      "fr_FR": "Table d’hôte{CURSOR_X 100}------"
     },
     {
       "id": "Villa_Text_EntryWallClockSoldOut",
-      "en_US": "Wall Clock{CURSOR_X 100}------"
+      "en_US": "Wall Clock{CURSOR_X 100}------",
+      "fr_FR": "Horloge{CURSOR_X 100}------"
     },
     {
       "id": "Villa_Text_EntryMasterpieceSoldOut",
-      "en_US": "Masterpiece{CURSOR_X 100}------"
+      "en_US": "Masterpiece{CURSOR_X 100}------",
+      "fr_FR": "Chef-d’œuvre{CURSOR_X 100}------"
     },
     {
       "id": "Villa_Text_EntryTeaSetSoldOut",
-      "en_US": "Tea Set{CURSOR_X 100}------"
+      "en_US": "Tea Set{CURSOR_X 100}------",
+      "fr_FR": "Service à thé{CURSOR_X 100}------"
     },
     {
       "id": "Villa_Text_EntryChandelierSoldOut",
-      "en_US": "Chandelier{CURSOR_X 100}------"
+      "en_US": "Chandelier{CURSOR_X 100}------",
+      "fr_FR": "Lustre{CURSOR_X 100}------"
     },
     {
       "id": "Villa_Text_EntryTableFree",
-      "en_US": "Table"
+      "en_US": "Table",
+      "fr_FR": "Table"
     }
   ]
 }

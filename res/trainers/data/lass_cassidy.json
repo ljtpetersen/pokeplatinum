@@ -24,18 +24,32 @@
                 "Hush now, lost little Pokémon, don’t\n",
                 "you cry.\r",
                 "I’m here to take care of you!\r"
+            ],
+            "fr_FR": [
+                "Chut, c’est fini, petit Pokémon perdu,\n",
+                "ne pleure plus.\r",
+                "Je vais prendre soin de toi!\r"
             ]
         },
         {
             "type": "TRMSG_DEFEAT",
-            "en_US": "Sniffle... W-who’s crying now?\n"
+            "en_US": "Sniffle... W-who’s crying now?\n",
+            "fr_FR": [
+                "Snif... C’est moi qui pleure,\n",
+                "maintenant..."
+            ]
         },
         {
             "type": "TRMSG_POST_BATTLE",
             "en_US": [
                 "Speaking of crying, I’m positive I\n",
                 "heard crying from deeper in the cave.\n"
+            ],
+            "fr_FR": [
+                "Au fait, j’ai entendu des pleurs\n",
+                "plus loin dans la grotte.\n"
             ]
         }
-    ]
+    ],
+    "name_fr": "Christelle"
 }

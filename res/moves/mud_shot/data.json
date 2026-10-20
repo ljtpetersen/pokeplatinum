@@ -26,5 +26,13 @@
     "contest": {
         "effect": "CONTEST_EFFECT_LAST_NEXT_TURN",
         "type": "CONTEST_TYPE_TOUGH"
-    }
+    },
+    "name_fr": "Tir de Boue",
+    "description_fr": [
+        "Le lanceur attaque\n",
+        "en projetant de la\n",
+        "boue sur l’ennemi.\n",
+        "Réduit aussi la\n",
+        "Vitesse de la cible."
+    ]
 }

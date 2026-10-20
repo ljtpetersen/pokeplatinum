@@ -26,5 +26,13 @@
   "battlePocket": "BATTLE_POCKET_MASK_NONE",
   "fieldUseFunc": "ITEM_USE_FUNC_NONE",
   "battleUseCategory": "BATTLE_USE_CATEGORY_NONE",
-  "itemUseParams": {}
+  "itemUseParams": {},
+  "name_fr": "Perle",
+  "description_fr": [
+    "Une petite perle qui brille d’une jolie\n",
+    "couleur argent. Peut être vendue\n",
+    "à bas prix aux magasins."
+  ],
+  "plural_fr": "Perle",
+  "article_fr": null
 }

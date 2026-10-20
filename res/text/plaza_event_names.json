@@ -3,15 +3,18 @@
   "messages": [
     {
       "id": "pl_msg_00000649_00000",
-      "en_US": "Lighting Event"
+      "en_US": "Lighting Event",
+      "fr_FR": "Show Projecteurs"
     },
     {
       "id": "pl_msg_00000649_00001",
-      "en_US": "Fireworks Event"
+      "en_US": "Fireworks Event",
+      "fr_FR": "Feu d’artifice"
     },
     {
       "id": "pl_msg_00000649_00002",
-      "en_US": "Pokémon Parade"
+      "en_US": "Pokémon Parade",
+      "fr_FR": "Parade Pokémon"
     }
   ]
 }

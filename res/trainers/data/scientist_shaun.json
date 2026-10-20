@@ -43,6 +43,10 @@
             "en_US": [
                 "Oh? Here comes a nice-looking\n",
                 "Trainer. This is worth evaluation.\r"
+            ],
+            "fr_FR": [
+                "Oh? Ce Dresseur a l’air d’avoir du \n",
+                "talent. Voilà qui mérite une étude.\r"
             ]
         },
         {
@@ -50,6 +54,10 @@
             "en_US": [
                 "Our research has arrived at this one\n",
                 "conclusion: you’re a tough one!\n"
+            ],
+            "fr_FR": [
+                "Nos recherches aboutissent à cette\n",
+                "conclusion: tu es vraiment coriace!\n"
             ]
         },
         {
@@ -59,6 +67,12 @@
                 "Great Marsh.\r",
                 "You see, countless years ago,\n",
                 "this whole area was under the sea.\n"
+            ],
+            "fr_FR": [
+                "De nombreuses espèces de Pokémon\n",
+                "vivent dans le Grand Marais.\r",
+                "Vois-tu, il y a bien des années,\n",
+                "cette région était submergée.\n"
             ]
         },
         {
@@ -67,7 +81,13 @@
                 "Oh, how do you do? May I investigate\n",
                 "how much tougher you’ve become since\f",
                 "our last encounter?\r"
+            ],
+            "fr_FR": [
+                "Oh, comment vas-tu? Ça t’ennuie si\n",
+                "j’évalue tes progrès depuis\f",
+                "notre dernière rencontre?\r"
             ]
         }
-    ]
+    ],
+    "name_fr": "Ladislas"
 }

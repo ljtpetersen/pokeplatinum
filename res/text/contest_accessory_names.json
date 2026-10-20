@@ -3,403 +3,503 @@
   "messages": [
     {
       "id": "pl_msg_00000386_00000",
-      "en_US": "White Fluff"
+      "en_US": "White Fluff",
+      "fr_FR": "Coton Blanc"
     },
     {
       "id": "pl_msg_00000386_00001",
-      "en_US": "Yellow Fluff"
+      "en_US": "Yellow Fluff",
+      "fr_FR": "Coton Jaune"
     },
     {
       "id": "pl_msg_00000386_00002",
-      "en_US": "Pink Fluff"
+      "en_US": "Pink Fluff",
+      "fr_FR": "Coton Rose"
     },
     {
       "id": "pl_msg_00000386_00003",
-      "en_US": "Brown Fluff"
+      "en_US": "Brown Fluff",
+      "fr_FR": "Coton Marron"
     },
     {
       "id": "pl_msg_00000386_00004",
-      "en_US": "Black Fluff"
+      "en_US": "Black Fluff",
+      "fr_FR": "Coton Noir"
     },
     {
       "id": "pl_msg_00000386_00005",
-      "en_US": "Orange Fluff"
+      "en_US": "Orange Fluff",
+      "fr_FR": "Coton Orange"
     },
     {
       "id": "pl_msg_00000386_00006",
-      "en_US": "Round Pebble"
+      "en_US": "Round Pebble",
+      "fr_FR": "Galet Rond"
     },
     {
       "id": "pl_msg_00000386_00007",
-      "en_US": "Glitter Boulder"
+      "en_US": "Glitter Boulder",
+      "fr_FR": "Galet Luisant"
     },
     {
       "id": "pl_msg_00000386_00008",
-      "en_US": "Snaggy Pebble"
+      "en_US": "Snaggy Pebble",
+      "fr_FR": "Galet Pépite"
     },
     {
       "id": "pl_msg_00000386_00009",
-      "en_US": "Jagged Boulder"
+      "en_US": "Jagged Boulder",
+      "fr_FR": "Galet Inégal"
     },
     {
       "id": "pl_msg_00000386_00010",
-      "en_US": "Black Pebble"
+      "en_US": "Black Pebble",
+      "fr_FR": "Galet Noir"
     },
     {
       "id": "pl_msg_00000386_00011",
-      "en_US": "Mini Pebble"
+      "en_US": "Mini Pebble",
+      "fr_FR": "Mini Galet"
     },
     {
       "id": "pl_msg_00000386_00012",
-      "en_US": "Pink Scale"
+      "en_US": "Pink Scale",
+      "fr_FR": "Ecaille Rose"
     },
     {
       "id": "pl_msg_00000386_00013",
-      "en_US": "Blue Scale"
+      "en_US": "Blue Scale",
+      "fr_FR": "Ecaille Bleue"
     },
     {
       "id": "pl_msg_00000386_00014",
-      "en_US": "Green Scale"
+      "en_US": "Green Scale",
+      "fr_FR": "Ecaille Verte"
     },
     {
       "id": "pl_msg_00000386_00015",
-      "en_US": "Purple Scale"
+      "en_US": "Purple Scale",
+      "fr_FR": "Ecaille Mauve"
     },
     {
       "id": "pl_msg_00000386_00016",
-      "en_US": "Big Scale"
+      "en_US": "Big Scale",
+      "fr_FR": "Grosse Ecaille"
     },
     {
       "id": "pl_msg_00000386_00017",
-      "en_US": "Narrow Scale"
+      "en_US": "Narrow Scale",
+      "fr_FR": "Ecaille Fine"
     },
     {
       "id": "pl_msg_00000386_00018",
-      "en_US": "Blue Feather"
+      "en_US": "Blue Feather",
+      "fr_FR": "Plume Bleue"
     },
     {
       "id": "pl_msg_00000386_00019",
-      "en_US": "Red Feather"
+      "en_US": "Red Feather",
+      "fr_FR": "Plume Rouge"
     },
     {
       "id": "pl_msg_00000386_00020",
-      "en_US": "Yellow Feather"
+      "en_US": "Yellow Feather",
+      "fr_FR": "Plume Jaune"
     },
     {
       "id": "pl_msg_00000386_00021",
-      "en_US": "White Feather"
+      "en_US": "White Feather",
+      "fr_FR": "Plume Blanche"
     },
     {
       "id": "pl_msg_00000386_00022",
-      "en_US": "Black Moustache"
+      "en_US": "Black Moustache",
+      "fr_FR": "Moustache Noire"
     },
     {
       "id": "pl_msg_00000386_00023",
-      "en_US": "White Moustache"
+      "en_US": "White Moustache",
+      "fr_FR": "Mousta. Blanche"
     },
     {
       "id": "pl_msg_00000386_00024",
-      "en_US": "Black Beard"
+      "en_US": "Black Beard",
+      "fr_FR": "Barbe Noire"
     },
     {
       "id": "pl_msg_00000386_00025",
-      "en_US": "White Beard"
+      "en_US": "White Beard",
+      "fr_FR": "Barbe Blanche"
     },
     {
       "id": "pl_msg_00000386_00026",
-      "en_US": "Small Leaf"
+      "en_US": "Small Leaf",
+      "fr_FR": "Petite Feuille"
     },
     {
       "id": "pl_msg_00000386_00027",
-      "en_US": "Big Leaf"
+      "en_US": "Big Leaf",
+      "fr_FR": "Grande Feuille"
     },
     {
       "id": "pl_msg_00000386_00028",
-      "en_US": "Narrow Leaf"
+      "en_US": "Narrow Leaf",
+      "fr_FR": "Feuille Longue"
     },
     {
       "id": "pl_msg_00000386_00029",
-      "en_US": "Shed Claw"
+      "en_US": "Shed Claw",
+      "fr_FR": "Griffe Perdue"
     },
     {
       "id": "pl_msg_00000386_00030",
-      "en_US": "Shed Horn"
+      "en_US": "Shed Horn",
+      "fr_FR": "Corne Perdue"
     },
     {
       "id": "pl_msg_00000386_00031",
-      "en_US": "Thin Mushroom"
+      "en_US": "Thin Mushroom",
+      "fr_FR": "Champi Mince"
     },
     {
       "id": "pl_msg_00000386_00032",
-      "en_US": "Thick Mushroom"
+      "en_US": "Thick Mushroom",
+      "fr_FR": "Champi Epais"
     },
     {
       "id": "pl_msg_00000386_00033",
-      "en_US": "Stump"
+      "en_US": "Stump",
+      "fr_FR": "Souche"
     },
     {
       "id": "pl_msg_00000386_00034",
-      "en_US": "Pretty Dewdrop"
+      "en_US": "Pretty Dewdrop",
+      "fr_FR": "Perle de Rosée"
     },
     {
       "id": "pl_msg_00000386_00035",
-      "en_US": "Snow Crystal"
+      "en_US": "Snow Crystal",
+      "fr_FR": "Cristal Neige"
     },
     {
       "id": "pl_msg_00000386_00036",
-      "en_US": "Sparks"
+      "en_US": "Sparks",
+      "fr_FR": "Etincelles"
     },
     {
       "id": "pl_msg_00000386_00037",
-      "en_US": "Shimmering Fire"
+      "en_US": "Shimmering Fire",
+      "fr_FR": "Feu Chatoyant"
     },
     {
       "id": "pl_msg_00000386_00038",
-      "en_US": "Mystic Fire"
+      "en_US": "Mystic Fire",
+      "fr_FR": "Feu Mystique"
     },
     {
       "id": "pl_msg_00000386_00039",
-      "en_US": "Determination"
+      "en_US": "Determination",
+      "fr_FR": "Détermination"
     },
     {
       "id": "pl_msg_00000386_00040",
-      "en_US": "Peculiar Spoon"
+      "en_US": "Peculiar Spoon",
+      "fr_FR": "Cuiller Bizarre"
     },
     {
       "id": "pl_msg_00000386_00041",
-      "en_US": "Puffy Smoke"
+      "en_US": "Puffy Smoke",
+      "fr_FR": "Nuage Fumée"
     },
     {
       "id": "pl_msg_00000386_00042",
-      "en_US": "Poison Extract"
+      "en_US": "Poison Extract",
+      "fr_FR": "Extrait Poison"
     },
     {
       "id": "pl_msg_00000386_00043",
-      "en_US": "Wealthy Coin"
+      "en_US": "Wealthy Coin",
+      "fr_FR": "Tas de Pièces"
     },
     {
       "id": "pl_msg_00000386_00044",
-      "en_US": "Eerie Thing"
+      "en_US": "Eerie Thing",
+      "fr_FR": "Chose Etrange"
     },
     {
       "id": "pl_msg_00000386_00045",
-      "en_US": "Spring"
+      "en_US": "Spring",
+      "fr_FR": "Ressort"
     },
     {
       "id": "pl_msg_00000386_00046",
-      "en_US": "Seashell"
+      "en_US": "Seashell",
+      "fr_FR": "Coquillage"
     },
     {
       "id": "pl_msg_00000386_00047",
-      "en_US": "Humming Note"
+      "en_US": "Humming Note",
+      "fr_FR": "Note Fredonnée"
     },
     {
       "id": "pl_msg_00000386_00048",
-      "en_US": "Shiny Powder"
+      "en_US": "Shiny Powder",
+      "fr_FR": "Poudre Brille"
     },
     {
       "id": "pl_msg_00000386_00049",
-      "en_US": "Glitter Powder"
+      "en_US": "Glitter Powder",
+      "fr_FR": "Poudre Luisante"
     },
     {
       "id": "pl_msg_00000386_00050",
-      "en_US": "Red Flower"
+      "en_US": "Red Flower",
+      "fr_FR": "Fleur Rouge"
     },
     {
       "id": "pl_msg_00000386_00051",
-      "en_US": "Pink Flower"
+      "en_US": "Pink Flower",
+      "fr_FR": "Fleur Rose"
     },
     {
       "id": "pl_msg_00000386_00052",
-      "en_US": "White Flower"
+      "en_US": "White Flower",
+      "fr_FR": "Fleur Blanche"
     },
     {
       "id": "pl_msg_00000386_00053",
-      "en_US": "Blue Flower"
+      "en_US": "Blue Flower",
+      "fr_FR": "Fleur Bleue"
     },
     {
       "id": "pl_msg_00000386_00054",
-      "en_US": "Orange Flower"
+      "en_US": "Orange Flower",
+      "fr_FR": "Fleur Orange"
     },
     {
       "id": "pl_msg_00000386_00055",
-      "en_US": "Yellow Flower"
+      "en_US": "Yellow Flower",
+      "fr_FR": "Fleur Jaune"
     },
     {
       "id": "pl_msg_00000386_00056",
-      "en_US": "Googly Specs"
+      "en_US": "Googly Specs",
+      "fr_FR": "Lunet. Bizarres"
     },
     {
       "id": "pl_msg_00000386_00057",
-      "en_US": "Black Specs"
+      "en_US": "Black Specs",
+      "fr_FR": "Lunettes Soleil"
     },
     {
       "id": "pl_msg_00000386_00058",
-      "en_US": "Gorgeous Specs"
+      "en_US": "Gorgeous Specs",
+      "fr_FR": "Lunettes Star"
     },
     {
       "id": "pl_msg_00000386_00059",
-      "en_US": "Sweet Candy"
+      "en_US": "Sweet Candy",
+      "fr_FR": "Bonbon"
     },
     {
       "id": "pl_msg_00000386_00060",
-      "en_US": "Confetti"
+      "en_US": "Confetti",
+      "fr_FR": "Confettis"
     },
     {
       "id": "pl_msg_00000386_00061",
-      "en_US": "Colored Parasol"
+      "en_US": "Colored Parasol",
+      "fr_FR": "Parasol Coloré"
     },
     {
       "id": "pl_msg_00000386_00062",
-      "en_US": "Old Umbrella"
+      "en_US": "Old Umbrella",
+      "fr_FR": "Ombrelle Chine"
     },
     {
       "id": "pl_msg_00000386_00063",
-      "en_US": "Spotlight"
+      "en_US": "Spotlight",
+      "fr_FR": "Projecteur"
     },
     {
       "id": "pl_msg_00000386_00064",
-      "en_US": "Cape"
+      "en_US": "Cape",
+      "fr_FR": "Cape"
     },
     {
       "id": "pl_msg_00000386_00065",
-      "en_US": "Standing Mike"
+      "en_US": "Standing Mike",
+      "fr_FR": "Micro sur Pied"
     },
     {
       "id": "pl_msg_00000386_00066",
-      "en_US": "Surfboard"
+      "en_US": "Surfboard",
+      "fr_FR": "Planche de Surf"
     },
     {
       "id": "pl_msg_00000386_00067",
-      "en_US": "Carpet"
+      "en_US": "Carpet",
+      "fr_FR": "Tapis"
     },
     {
       "id": "pl_msg_00000386_00068",
-      "en_US": "Retro Pipe"
+      "en_US": "Retro Pipe",
+      "fr_FR": "Tuyau Rétro"
     },
     {
       "id": "pl_msg_00000386_00069",
-      "en_US": "Fluffy Bed"
+      "en_US": "Fluffy Bed",
+      "fr_FR": "Lit Moelleux"
     },
     {
       "id": "pl_msg_00000386_00070",
-      "en_US": "Mirror Ball"
+      "en_US": "Mirror Ball",
+      "fr_FR": "Boule Facettes"
     },
     {
       "id": "pl_msg_00000386_00071",
-      "en_US": "Photo Board"
+      "en_US": "Photo Board",
+      "fr_FR": "Planche Photo"
     },
     {
       "id": "pl_msg_00000386_00072",
-      "en_US": "Pink Barrette"
+      "en_US": "Pink Barrette",
+      "fr_FR": "Noeud Rose"
     },
     {
       "id": "pl_msg_00000386_00073",
-      "en_US": "Red Barrette"
+      "en_US": "Red Barrette",
+      "fr_FR": "Noeud Rouge"
     },
     {
       "id": "pl_msg_00000386_00074",
-      "en_US": "Blue Barrette"
+      "en_US": "Blue Barrette",
+      "fr_FR": "Noeud Bleu"
     },
     {
       "id": "pl_msg_00000386_00075",
-      "en_US": "Yellow Barrette"
+      "en_US": "Yellow Barrette",
+      "fr_FR": "Noeud Jaune"
     },
     {
       "id": "pl_msg_00000386_00076",
-      "en_US": "Green Barrette"
+      "en_US": "Green Barrette",
+      "fr_FR": "Noeud Vert"
     },
     {
       "id": "pl_msg_00000386_00077",
-      "en_US": "Pink Balloon"
+      "en_US": "Pink Balloon",
+      "fr_FR": "Ballon Rose"
     },
     {
       "id": "pl_msg_00000386_00078",
-      "en_US": "Red Balloons"
+      "en_US": "Red Balloons",
+      "fr_FR": "Ballons Rouges"
     },
     {
       "id": "pl_msg_00000386_00079",
-      "en_US": "Blue Balloons"
+      "en_US": "Blue Balloons",
+      "fr_FR": "Ballons Bleus"
     },
     {
       "id": "pl_msg_00000386_00080",
-      "en_US": "Yellow Balloon"
+      "en_US": "Yellow Balloon",
+      "fr_FR": "Ballon Jaune"
     },
     {
       "id": "pl_msg_00000386_00081",
-      "en_US": "Green Balloons"
+      "en_US": "Green Balloons",
+      "fr_FR": "Ballons Verts"
     },
     {
       "id": "pl_msg_00000386_00082",
-      "en_US": "Lace Headdress"
+      "en_US": "Lace Headdress",
+      "fr_FR": "Coiffe"
     },
     {
       "id": "pl_msg_00000386_00083",
-      "en_US": "Top Hat"
+      "en_US": "Top Hat",
+      "fr_FR": "Haut de Forme"
     },
     {
       "id": "pl_msg_00000386_00084",
-      "en_US": "Silk Veil"
+      "en_US": "Silk Veil",
+      "fr_FR": "Voile de Soie"
     },
     {
       "id": "pl_msg_00000386_00085",
-      "en_US": "Heroic Headband"
+      "en_US": "Heroic Headband",
+      "fr_FR": "Bandeau Héros"
     },
     {
       "id": "pl_msg_00000386_00086",
-      "en_US": "Professor Hat"
+      "en_US": "Professor Hat",
+      "fr_FR": "Chapeau Lauréat"
     },
     {
       "id": "pl_msg_00000386_00087",
-      "en_US": "Flower Stage"
+      "en_US": "Flower Stage",
+      "fr_FR": "Piédestal Fleur"
     },
     {
       "id": "pl_msg_00000386_00088",
-      "en_US": "Gold Pedestal"
+      "en_US": "Gold Pedestal",
+      "fr_FR": "Piédestal Or"
     },
     {
       "id": "pl_msg_00000386_00089",
-      "en_US": "Glass Stage"
+      "en_US": "Glass Stage",
+      "fr_FR": "Piédestal Verre"
     },
     {
       "id": "pl_msg_00000386_00090",
-      "en_US": "Award Podium"
+      "en_US": "Award Podium",
+      "fr_FR": "Podium Arrivée"
     },
     {
       "id": "pl_msg_00000386_00091",
-      "en_US": "Cube Stage"
+      "en_US": "Cube Stage",
+      "fr_FR": "Piédestal Cube"
     },
     {
       "id": "pl_msg_00000386_00092",
-      "en_US": "TURTWIG Mask"
+      "en_US": "TURTWIG Mask",
+      "fr_FR": "Mask TORTIPOUSS"
     },
     {
       "id": "pl_msg_00000386_00093",
-      "en_US": "CHIMCHAR Mask"
+      "en_US": "CHIMCHAR Mask",
+      "fr_FR": "Mask OUISTICRAM"
     },
     {
       "id": "pl_msg_00000386_00094",
-      "en_US": "PIPLUP Mask"
+      "en_US": "PIPLUP Mask",
+      "fr_FR": "Mask TIPLOUF"
     },
     {
       "id": "pl_msg_00000386_00095",
-      "en_US": "Big Tree"
+      "en_US": "Big Tree",
+      "fr_FR": "Grand Arbre"
     },
     {
       "id": "pl_msg_00000386_00096",
-      "en_US": "Flag"
+      "en_US": "Flag",
+      "fr_FR": "Drapeau"
     },
     {
       "id": "pl_msg_00000386_00097",
-      "en_US": "Crown"
+      "en_US": "Crown",
+      "fr_FR": "Couronne"
     },
     {
       "id": "pl_msg_00000386_00098",
-      "en_US": "Tiara"
+      "en_US": "Tiara",
+      "fr_FR": "Tiare"
     },
     {
       "id": "pl_msg_00000386_00099",
-      "en_US": "Comet"
+      "en_US": "Comet",
+      "fr_FR": "Comète"
     }
   ]
 }

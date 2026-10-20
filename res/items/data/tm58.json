@@ -27,5 +27,13 @@
   "fieldUseFunc": "ITEM_USE_FUNC_TM_HM",
   "battleUseCategory": "BATTLE_USE_CATEGORY_NONE",
   "itemUseParams": null,
-  "teachesMove": "MOVE_ENDURE"
+  "teachesMove": "MOVE_ENDURE",
+  "name_fr": "CT58",
+  "description_fr": [
+    "Le lanceur résiste aux attaques avec\n",
+    "1 PV. Peut échouer si utilisé plusieurs\n",
+    "fois de suite."
+  ],
+  "plural_fr": "CT58",
+  "article_fr": null
 }

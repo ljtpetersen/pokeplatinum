@@ -77,18 +77,28 @@
             "en_US": [
                 "OK! I’m going to do it!\n",
                 "I’m going to show you my best!"
+            ],
+            "fr_FR": [
+                "OK! Je peux le faire!\n",
+                "Je vais te montrer ce que je vaux!"
             ]
         },
         {
             "type": "TRMSG_WIN",
-            "en_US": "Gasp, gasp...\r"
+            "en_US": "Gasp, gasp...\r",
+            "fr_FR": "Pfiou...\r"
         },
         {
             "type": "TRMSG_DEFEAT",
             "en_US": [
                 "Never again!\n",
                 "You can forget about a next time!\r"
+            ],
+            "fr_FR": [
+                "Plus jamais!\n",
+                "C’est la dernière fois que je viens!\r"
             ]
         }
-    ]
+    ],
+    "name_fr": "Kimy"
 }

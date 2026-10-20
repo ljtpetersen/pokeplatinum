@@ -6,24 +6,34 @@
       "en_US": [
         "This tree looks like it can be\n",
         "cut down! Would you like to cut it?"
+      ],
+      "fr_FR": [
+        "Cet arbre semble pouvoir être coupé.\n",
+        "Voulez-vous utiliser Coupe?"
       ]
     },
     {
       "id": "FieldMoves_Text_PokemonUsedCut",
-      "en_US": "{STRVAR_1 0, 0, 0} used Cut!\r"
+      "en_US": "{STRVAR_1 0, 0, 0} used Cut!\r",
+      "fr_FR": "{STRVAR_1 0, 0, 0} utilise Coupe.\r"
     },
     {
       "id": "FieldMoves_Text_TreeLooksLikeCanBeCut",
       "en_US": [
         "This tree looks like it can be\n",
         "cut down!"
-      ]
+      ],
+      "fr_FR": "Cet arbre semble pouvoir être coupé."
     },
     {
       "id": "FieldMoves_Text_WouldYouLikeToUseRockSmash",
       "en_US": [
         "This rock appears to be breakable.\n",
         "Would you like to use Rock Smash?"
+      ],
+      "fr_FR": [
+        "Ce bloc de pierre peut être brisé.\n",
+        "Voulez-vous utiliser Eclate-Roc?"
       ]
     },
     {
@@ -31,11 +41,16 @@
       "en_US": [
         "It’s a rugged rock, but a Pokémon\n",
         "may be able to smash it."
+      ],
+      "fr_FR": [
+        "C’est un bloc de pierre solide, mais un\n",
+        "Pokémon peut être apte à le pulvériser."
       ]
     },
     {
       "id": "FieldMoves_Text_PokemonUsedRockSmash",
-      "en_US": "{STRVAR_1 0, 0, 0} used Rock Smash!\r"
+      "en_US": "{STRVAR_1 0, 0, 0} used Rock Smash!\r",
+      "fr_FR": "{STRVAR_1 0, 0, 0} utilise Eclate-Roc.\r"
     },
     {
       "id": "FieldMoves_Text_WouldYouLikeToUseStrength",
@@ -43,6 +58,11 @@
         "It’s a big boulder, but a Pokémon\n",
         "may be able to push it aside.\r",
         "Would you like to use Strength?"
+      ],
+      "fr_FR": [
+        "C’est un gros rocher, mais un Pokémon\n",
+        "peut être apte à le déplacer.\r",
+        "Voulez-vous utiliser Force?"
       ]
     },
     {
@@ -54,6 +74,10 @@
       "en_US": [
         "It’s a big boulder, but a Pokémon\n",
         "may be able to push it aside."
+      ],
+      "fr_FR": [
+        "C’est un gros rocher, mais un Pokémon\n",
+        "peut être apte à le déplacer."
       ]
     },
     {
@@ -61,17 +85,23 @@
       "en_US": [
         "Strength made it possible to move\n",
         "boulders around."
-      ]
+      ],
+      "fr_FR": "Force permet de déplacer le rocher."
     },
     {
       "id": "FieldMoves_Text_PokemonUsedStrength",
-      "en_US": "{STRVAR_1 0, 0, 0} used Strength!\r"
+      "en_US": "{STRVAR_1 0, 0, 0} used Strength!\r",
+      "fr_FR": "{STRVAR_1 0, 0, 0} utilise Force.\r"
     },
     {
       "id": "FieldMoves_Text_PokemonStrengthMadePossibleToMove",
       "en_US": [
         "{STRVAR_1 0, 0, 0}’s Strength made it\n",
         "possible to move boulders around!"
+      ],
+      "fr_FR": [
+        "La capacité Force de {STRVAR_1 0, 0, 0}\n",
+        "permet de déplacer le rocher."
       ]
     },
     {
@@ -79,17 +109,26 @@
       "en_US": [
         "The water is a deep blue color...\n",
         "Would you like to surf on it?"
+      ],
+      "fr_FR": [
+        "L’eau est teintée d’un bleu foncé...\n",
+        "Voulez-vous utiliser Surf?"
       ]
     },
     {
       "id": "FieldMoves_Text_PokemonUsedSurf",
-      "en_US": "{STRVAR_1 0, 0, 0} used Surf!\r"
+      "en_US": "{STRVAR_1 0, 0, 0} used Surf!\r",
+      "fr_FR": "{STRVAR_1 0, 0, 0} utilise Surf.\r"
     },
     {
       "id": "FieldMoves_Text_NoSurfingWithPartner",
       "en_US": [
         "Surf can’t be used if you have\n",
         "someone with you."
+      ],
+      "fr_FR": [
+        "Vous ne pouvez pas utiliser Surf s’il y a\n",
+        "quelqu’un avec vous."
       ]
     },
     {
@@ -97,17 +136,26 @@
       "en_US": [
         "A deep fog drapes the area...\n",
         "Would you like to use Defog?"
+      ],
+      "fr_FR": [
+        "Un brouillard épais voile le paysage...\n",
+        "Voulez-vous utiliser Anti-Brume?"
       ]
     },
     {
       "id": "FieldMoves_Text_PokemonUsedDefog",
-      "en_US": "{STRVAR_1 0, 0, 0} used Defog!\r"
+      "en_US": "{STRVAR_1 0, 0, 0} used Defog!\r",
+      "fr_FR": "{STRVAR_1 0, 0, 0} utilise Anti-Brume.\r"
     },
     {
       "id": "FieldMoves_Text_DeepFogDrapesArea_Unused",
       "en_US": [
         "A deep fog drapes the area...\n",
         "Will a Pokémon’s move lift it?"
+      ],
+      "fr_FR": [
+        "Un brouillard épais voile le paysage...\n",
+        "Un Pokémon pourrait le dissiper."
       ]
     },
     {
@@ -115,17 +163,26 @@
       "en_US": [
         "The wall is very rocky...\n",
         "Would you like to use Rock Climb?"
+      ],
+      "fr_FR": [
+        "La paroi est très rocailleuse...\n",
+        "Voulez-vous utiliser Escalade?"
       ]
     },
     {
       "id": "FieldMoves_Text_PokemonUsedRockClimb",
-      "en_US": "{STRVAR_1 0, 0, 0} used Rock Climb!\r"
+      "en_US": "{STRVAR_1 0, 0, 0} used Rock Climb!\r",
+      "fr_FR": "{STRVAR_1 0, 0, 0} utilise Escalade.\r"
     },
     {
       "id": "FieldMoves_Text_RockyWallWillMoveScale",
       "en_US": [
         "The wall is very rocky...\n",
         "Will a Pokémon’s move scale it?"
+      ],
+      "fr_FR": [
+        "La paroi est très rocailleuse... On\n",
+        "pourrait l’escalader avec une capacité."
       ]
     },
     {
@@ -133,6 +190,10 @@
       "en_US": [
         "Rock Climb can’t be used if you have\n",
         "someone with you."
+      ],
+      "fr_FR": [
+        "Vous ne pouvez pas utiliser Escalade\n",
+        "s’il y a quelqu’un avec vous."
       ]
     },
     {
@@ -140,17 +201,26 @@
       "en_US": [
         "It’s a large waterfall.\n",
         "Would you like to use Waterfall?"
+      ],
+      "fr_FR": [
+        "C’est une grande cascade.\n",
+        "Voulez-vous utiliser Cascade?"
       ]
     },
     {
       "id": "FieldMoves_Text_PokemonUsedWaterfall",
-      "en_US": "{STRVAR_1 0, 0, 0} used Waterfall.\r"
+      "en_US": "{STRVAR_1 0, 0, 0} used Waterfall.\r",
+      "fr_FR": "{STRVAR_1 0, 0, 0} utilise Cascade.\r"
     },
     {
       "id": "FieldMoves_Text_WallOfWater",
       "en_US": [
         "A wall of water is crashing down with\n",
         "a mighty roar."
+      ],
+      "fr_FR": [
+        "Un mur d’eau s’abat dans un vacarme\n",
+        "assourdissant."
       ]
     },
     {
@@ -159,7 +229,8 @@
     },
     {
       "id": "FieldMoves_Text_PokemonUsedFlash",
-      "en_US": "{STRVAR_1 0, 0, 0} used Flash!\r"
+      "en_US": "{STRVAR_1 0, 0, 0} used Flash!\r",
+      "fr_FR": "{STRVAR_1 0, 0, 0} utilise Flash.\r"
     }
   ]
 }

@@ -7,7 +7,10 @@
         "special_attack": 35,
         "special_defense": 45
     },
-    "types": [ "TYPE_NORMAL", "TYPE_NORMAL" ],
+    "types": [
+        "TYPE_NORMAL",
+        "TYPE_NORMAL"
+    ],
     "catch_rate": 255,
     "base_exp_reward": 57,
     "ev_yields": {
@@ -26,28 +29,76 @@
     "hatch_cycles": 15,
     "base_friendship": 70,
     "exp_rate": "EXP_RATE_MEDIUM_FAST",
-    "egg_groups": [ "EGG_GROUP_FIELD", "EGG_GROUP_FIELD" ],
-    "abilities": [ "ABILITY_RUN_AWAY", "ABILITY_KEEN_EYE" ],
+    "egg_groups": [
+        "EGG_GROUP_FIELD",
+        "EGG_GROUP_FIELD"
+    ],
+    "abilities": [
+        "ABILITY_RUN_AWAY",
+        "ABILITY_KEEN_EYE"
+    ],
     "safari_flee_rate": 0,
     "body_color": "MON_COLOR_BROWN",
     "flip_sprite": false,
     "icon_palette": 2,
     "learnset": {
         "by_level": [
-            [ 1, "MOVE_SCRATCH" ],
-            [ 1, "MOVE_FORESIGHT" ],
-            [ 4, "MOVE_DEFENSE_CURL" ],
-            [ 7, "MOVE_QUICK_ATTACK" ],
-            [ 13, "MOVE_FURY_SWIPES" ],
-            [ 16, "MOVE_HELPING_HAND" ],
-            [ 19, "MOVE_FOLLOW_ME" ],
-            [ 25, "MOVE_SLAM" ],
-            [ 28, "MOVE_REST" ],
-            [ 31, "MOVE_SUCKER_PUNCH" ],
-            [ 36, "MOVE_AMNESIA" ],
-            [ 39, "MOVE_BATON_PASS" ],
-            [ 42, "MOVE_ME_FIRST" ],
-            [ 47, "MOVE_HYPER_VOICE" ]
+            [
+                1,
+                "MOVE_SCRATCH"
+            ],
+            [
+                1,
+                "MOVE_FORESIGHT"
+            ],
+            [
+                4,
+                "MOVE_DEFENSE_CURL"
+            ],
+            [
+                7,
+                "MOVE_QUICK_ATTACK"
+            ],
+            [
+                13,
+                "MOVE_FURY_SWIPES"
+            ],
+            [
+                16,
+                "MOVE_HELPING_HAND"
+            ],
+            [
+                19,
+                "MOVE_FOLLOW_ME"
+            ],
+            [
+                25,
+                "MOVE_SLAM"
+            ],
+            [
+                28,
+                "MOVE_REST"
+            ],
+            [
+                31,
+                "MOVE_SUCKER_PUNCH"
+            ],
+            [
+                36,
+                "MOVE_AMNESIA"
+            ],
+            [
+                39,
+                "MOVE_BATON_PASS"
+            ],
+            [
+                42,
+                "MOVE_ME_FIRST"
+            ],
+            [
+                47,
+                "MOVE_HYPER_VOICE"
+            ]
         ],
         "by_tm": [
             "TM01",
@@ -195,6 +246,18 @@
                 "とても　しんけいしつな　せいかく。\n",
                 "とおくまで　みわたせるように\n",
                 "しっぽを　つかって　せのびをする。"
+            ]
+        },
+        "local_version": {
+            "entry_text": [
+                "It has a very nervous nature.\n",
+                "It stands up high on its tail so it\n",
+                "can scan wide areas."
+            ],
+            "entry_text_fr": [
+                "Ce Pokémon très nerveux\n",
+                "prend appui sur sa queue pour\n",
+                "observer ses alentours."
             ]
         }
     },

@@ -35,6 +35,10 @@
             "en_US": [
                 "Do you know what real terror is?\n",
                 "I am familiar with it. Intimately so..."
+            ],
+            "fr_FR": [
+                "Tu as déjà connu cette sensation de\n",
+                "terreur absolue? Moi, oui."
             ]
         },
         {
@@ -42,6 +46,10 @@
             "en_US": [
                 "You learned something today, yes?\n",
                 "The true meaning of terror.\r"
+            ],
+            "fr_FR": [
+                "Aujourd’hui, tu as découvert le vrai\n",
+                "sens du mot terreur.\r"
             ]
         },
         {
@@ -49,7 +57,12 @@
             "en_US": [
                 "Aiyeeh! What’s with you?\n",
                 "I’m pleading for mercy here!\r"
+            ],
+            "fr_FR": [
+                "Aïe! Ça suffit! Je demande un\n",
+                "peu de compassion!\r"
             ]
         }
-    ]
+    ],
+    "name_fr": "Junior"
 }

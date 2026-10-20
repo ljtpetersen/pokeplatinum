@@ -25,5 +25,12 @@
     "contest": {
         "effect": "CONTEST_EFFECT_FIRST_PERFORMANCE_ADVANTAGE",
         "type": "CONTEST_TYPE_COOL"
-    }
+    },
+    "name_fr": "Tonnerre",
+    "description_fr": [
+        "Une grosse décharge\n",
+        "électrique tombe sur\n",
+        "l’ennemi. Peut aussi le\n",
+        "paralyser."
+    ]
 }

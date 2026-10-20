@@ -32,6 +32,10 @@
             "en_US": [
                 "Matt: Uhohoho! I’ll show y’all how\n",
                 "tightly I’ve bonded with my daughter!\r"
+            ],
+            "fr_FR": [
+                "Matt: Mwohoho! Je vais te montrer\n",
+                "comme on s’entend bien avec ma fille!\r"
             ]
         },
         {
@@ -39,6 +43,10 @@
             "en_US": [
                 "Matt: Parent-and-child power couldn’t\n",
                 "get the job done.\n"
+            ],
+            "fr_FR": [
+                "Matt: La force de notre lien filial n’a\n",
+                "pas suffi pour remporter la victoire.\n"
             ]
         },
         {
@@ -47,6 +55,12 @@
                 "Matt: I reckon the bonds between you\n",
                 "and your Pokémon are like the bonds\f",
                 "parents share with their kids.\n"
+            ],
+            "fr_FR": [
+                "Matt: Tu sais quoi? Le lien que tu as\n",
+                "su développer avec tes Pokémon...\r",
+                "Je pense qu’il est similaire à celui qui\n",
+                "lie les parents à leurs enfants.\n"
             ]
         },
         {
@@ -54,6 +68,10 @@
             "en_US": [
                 "Matt: Oh, there’s no way you could\n",
                 "beat us both with one Pokémon.\n"
+            ],
+            "fr_FR": [
+                "Matt: Oh, tu n’aurais aucune chance de\n",
+                "nous battre avec un seul Pokémon.\n"
             ]
         },
         {
@@ -61,6 +79,10 @@
             "en_US": [
                 "Matt: Ayuh? You’re here to check the\n",
                 "bond I have with my daughter again?\r"
+            ],
+            "fr_FR": [
+                "Matt: Ouaip? Tu es revenu voir le lien\n",
+                "qui m’unit à ma fille?\r"
             ]
         },
         {
@@ -68,11 +90,16 @@
             "en_US": [
                 "Ava: I can get away with slacking\n",
                 "off if I have my Pokémon out!\r"
+            ],
+            "fr_FR": [
+                "Ava: Je peux me tourner les pouces\n",
+                "quand mon Pokémon est de sortie!\r"
             ]
         },
         {
             "type": "TRMSG_DOUBLE_BATTLE_DEFEAT_2",
-            "en_US": "Ava: Oh, sheesh!\n"
+            "en_US": "Ava: Oh, sheesh!\n",
+            "fr_FR": "Ava: Oh, flûte de zut!\n"
         },
         {
             "type": "TRMSG_POST_DOUBLE_BATTLE_2",
@@ -81,6 +108,12 @@
                 "I’ll work harder from tomorrow on!\r",
                 "...Yup, tomorrow’s when I’m going to\n",
                 "start working.\n"
+            ],
+            "fr_FR": [
+                "Ava: Papa, je suis désolée!\n",
+                "Je vais faire plus d’efforts!\r",
+                "Euh... dès demain. Voilà, demain,\n",
+                "je ferai plus d’efforts!\n"
             ]
         },
         {
@@ -88,6 +121,10 @@
             "en_US": [
                 "Ava: You’re battling me and my pa.\n",
                 "One Pokémon won’t cut it, dear!\n"
+            ],
+            "fr_FR": [
+                "Ava: Tu te bats contre moi et mon papa.\n",
+                "Un Pokémon ne suffira pas!\n"
             ]
         },
         {
@@ -97,7 +134,14 @@
                 "calling on us again!\r",
                 "I can take a break from work if I’m\n",
                 "battling Pokémon. Lucky for me!\r"
+            ],
+            "fr_FR": [
+                "Ava: Oh, salut! C’est sympa à vous de\n",
+                "revenir nous faire un petit coucou!\r",
+                "Par chance, j’ai le droit de prendre une\n",
+                "pause pour un combat de Pokémon!\r"
             ]
         }
-    ]
+    ],
+    "name_fr": "Ava & Matt"
 }

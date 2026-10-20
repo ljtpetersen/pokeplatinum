@@ -3,7 +3,8 @@
   "messages": [
     {
       "id": "SendoffSpring_Text_ThisPlace",
-      "en_US": "Cynthia: ...This place?!\r"
+      "en_US": "Cynthia: ...This place?!\r",
+      "fr_FR": "Cynthia: Cet endroit?!\r"
     },
     {
       "id": "SendoffSpring_Text_ItsTheSendoffSpring",
@@ -13,6 +14,13 @@
         "beyond...\r",
         "And GIRATINA was said to live in a world\n",
         "on the opposite side of ours...\r"
+      ],
+      "fr_FR": [
+        "C’est la Source Adieu...\r",
+        "On raconte qu’elle mène au grand\n",
+        "au-delà...\r",
+        "Et l’on dit que GIRATINA habite un\n",
+        "monde situé de l’autre côté du nôtre...\r"
       ]
     },
     {
@@ -28,6 +36,17 @@
         "You have to go tell Prof. Rowan!\r",
         "He was very worried about you.\n",
         "You should visit him at his lab."
+      ],
+      "fr_FR": [
+        "Oh! Excuse mes manières cavalières!\r",
+        "{STRVAR_1 3, 0, 0}, tu es incroyable!\n",
+        "Quel Dresseur hors pair!\r",
+        "Laisse-moi te remercier au nom de tout\n",
+        "Sinnoh!\r",
+        "Mais au fait... Il faut absolument\n",
+        "informer le Professeur Sorbier!\r",
+        "Il se faisait un sang d’encre pour toi.\n",
+        "Tu devrais lui rendre visite au labo."
       ]
     },
     {
@@ -36,6 +55,11 @@
         "Cynthia: You have to go tell Prof.\n",
         "Rowan about this at his lab.\r",
         "He was very worried about you."
+      ],
+      "fr_FR": [
+        "Cynthia: Va rendre visite au Professeur\n",
+        "Sorbier dans son labo.\r",
+        "Il s’est fait un sang d’encre pour toi."
       ]
     },
     {
@@ -47,6 +71,13 @@
         "I’m only musing out loud.\r",
         "You deserve the glory and all the\n",
         "thanks for what you did."
+      ],
+      "fr_FR": [
+        "Cynthia: Arf...\n",
+        "J’aurais tant aimé combattre GIRATINA.\r",
+        "Oh, ne fais pas attention à moi.\n",
+        "Je ne fais que réfléchir à voix haute.\r",
+        "C’est à toi que revient tout le mérite."
       ]
     }
   ]

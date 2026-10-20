@@ -24,5 +24,12 @@
     "contest": {
         "effect": "CONTEST_EFFECT_RANDOM_ORDER",
         "type": "CONTEST_TYPE_BEAUTY"
-    }
+    },
+    "name_fr": "Force-Nature",
+    "description_fr": [
+        "Une attaque qui tire\n",
+        "sa force de la nature.\n",
+        "Son type varie selon\n",
+        "le terrain."
+    ]
 }

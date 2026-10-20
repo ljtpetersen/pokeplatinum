@@ -7,7 +7,10 @@
         "special_attack": 125,
         "special_defense": 70
     },
-    "types": [ "TYPE_PSYCHIC", "TYPE_PSYCHIC" ],
+    "types": [
+        "TYPE_PSYCHIC",
+        "TYPE_PSYCHIC"
+    ],
     "catch_rate": 3,
     "base_exp_reward": 210,
     "ev_yields": {
@@ -26,26 +29,68 @@
     "hatch_cycles": 80,
     "base_friendship": 140,
     "exp_rate": "EXP_RATE_SLOW",
-    "egg_groups": [ "EGG_GROUP_UNDISCOVERED", "EGG_GROUP_UNDISCOVERED" ],
-    "abilities": [ "ABILITY_LEVITATE", "ABILITY_NONE" ],
+    "egg_groups": [
+        "EGG_GROUP_UNDISCOVERED",
+        "EGG_GROUP_UNDISCOVERED"
+    ],
+    "abilities": [
+        "ABILITY_LEVITATE",
+        "ABILITY_NONE"
+    ],
     "safari_flee_rate": 0,
     "body_color": "MON_COLOR_BLUE",
     "flip_sprite": false,
     "icon_palette": 0,
     "learnset": {
         "by_level": [
-            [ 1, "MOVE_REST" ],
-            [ 1, "MOVE_CONFUSION" ],
-            [ 6, "MOVE_IMPRISON" ],
-            [ 16, "MOVE_DETECT" ],
-            [ 21, "MOVE_SWIFT" ],
-            [ 31, "MOVE_UPROAR" ],
-            [ 36, "MOVE_FUTURE_SIGHT" ],
-            [ 46, "MOVE_NASTY_PLOT" ],
-            [ 51, "MOVE_EXTRASENSORY" ],
-            [ 61, "MOVE_LAST_RESORT" ],
-            [ 66, "MOVE_NATURAL_GIFT" ],
-            [ 76, "MOVE_EXPLOSION" ]
+            [
+                1,
+                "MOVE_REST"
+            ],
+            [
+                1,
+                "MOVE_CONFUSION"
+            ],
+            [
+                6,
+                "MOVE_IMPRISON"
+            ],
+            [
+                16,
+                "MOVE_DETECT"
+            ],
+            [
+                21,
+                "MOVE_SWIFT"
+            ],
+            [
+                31,
+                "MOVE_UPROAR"
+            ],
+            [
+                36,
+                "MOVE_FUTURE_SIGHT"
+            ],
+            [
+                46,
+                "MOVE_NASTY_PLOT"
+            ],
+            [
+                51,
+                "MOVE_EXTRASENSORY"
+            ],
+            [
+                61,
+                "MOVE_LAST_RESORT"
+            ],
+            [
+                66,
+                "MOVE_NATURAL_GIFT"
+            ],
+            [
+                76,
+                "MOVE_EXPLOSION"
+            ]
         ],
         "by_tm": [
             "TM03",
@@ -114,7 +159,7 @@
             "MOVE_UPROAR"
         ]
     },
-    "evolutions": [  ],
+    "evolutions": [],
     "offspring": "SPECIES_AZELF",
     "footprint": {
         "has": true,
@@ -137,9 +182,9 @@
             "name": "AZELF",
             "category": "Willpower Pokémon",
             "entry_text": [
-                "When AZELF flew, people gained the\n",
-                "determination to do things.\n",
-                "It was the birth of willpower."
+                "Known as “The Being of Willpower.”\n",
+                "It sleeps at the bottom of a lake\n",
+                "to keep the world in balance."
             ]
         },
         "fr": {
@@ -185,6 +230,18 @@
                 "いしのかみ　と　よばれている。\n",
                 "みずうみの　そこで　ねむりつづけ\n",
                 "せかいの　バランスを　とっている。"
+            ]
+        },
+        "local_version": {
+            "entry_text": [
+                "When AZELF flew, people gained the\n",
+                "determination to do things.\n",
+                "It was the birth of willpower."
+            ],
+            "entry_text_fr": [
+                "Quand il prit son envol, les hommes\n",
+                "acquirent la détermination.\n",
+                "La volonté était née."
             ]
         }
     },

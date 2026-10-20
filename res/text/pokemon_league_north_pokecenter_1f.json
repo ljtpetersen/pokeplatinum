@@ -11,6 +11,15 @@
         "That’s why I’m here, too.\r",
         "Let’s see who’s more worthy of making\n",
         "the challenge with a battle!\r"
+      ],
+      "fr_FR": [
+        "{STRVAR_1 3, 0, 0}: Arrête tout!\n",
+        "Ne fais pas un pas de plus sans moi!\r",
+        "Tu vas t’attaquer à la \n",
+        "Ligue Pokémon, hein?\r",
+        "Moi aussi, c’est pour ça que je suis là.\r",
+        "Je te défie! Comme ça, on va savoir qui \n",
+        "est digne d’affronter la Ligue Pokémon!\r"
       ]
     },
     {
@@ -27,6 +36,19 @@
         "Champion, the toughest Trainer!\r",
         "{STRVAR_1 3, 1, 0}! You’d better not lose to\n",
         "anyone before me!\r"
+      ],
+      "fr_FR": [
+        "{STRVAR_1 3, 0, 0}: Eh bien... J’imagine que \n",
+        "je ne suis pas prêt pour la\f",
+        "Ligue Pokémon si je perds contre toi!\r",
+        "C’est trop nul!\n",
+        "Mais attention!\r",
+        "Je vais m’entraîner, et gravir les \n",
+        "échelons jusqu’au sommet de la Ligue!\r",
+        "Je vais être le Maître, le plus \n",
+        "grand Dresseur de Sinnoh!\r",
+        "Attention, {STRVAR_1 3, 1, 0}! Ne t’avise pas\n",
+        "de perdre contre quiconque avant moi!\r"
       ]
     },
     {
@@ -45,6 +67,20 @@
         "Snowpoint City’s Icicle Badge!\r",
         "And...\n",
         "Sunyshore City’s Beacon Badge!\r"
+      ],
+      "fr_FR": [
+        "Je dois d’abord vérifier ton aptitude à\n",
+        "entrer dans la Ligue Pokémon.\r",
+        "Laisse-moi voir tes Badges...\r",
+        "Le Badge Charbon de Charbourg!\r",
+        "Le Badge Forêt de Vestigion!\r",
+        "Le Badge Fantôme d’Unionpolis!\r",
+        "Le Badge Pavé de Voilaroc!\r",
+        "Le Badge Palustre de Verchamps!\r",
+        "Le Badge Mine de Joliberges!\r",
+        "Le Badge Glaçon de Frimapic!\r",
+        "Et enfin...\n",
+        "Le Badge Phare de Rivamar!\r"
       ]
     },
     {
@@ -55,6 +91,13 @@
         "all the Gym Badges of Sinnoh!\r",
         "Demonstrate the power that brought\n",
         "you here and go for glory!"
+      ],
+      "fr_FR": [
+        "C’est parfait!\r",
+        "Dresseur, tu as réussi à rassembler les\n",
+        "huit Badges d’Arène de Sinnoh!\r",
+        "Prouve ta valeur, et sois à la hauteur \n",
+        "de la gloire à laquelle tu aspires!"
       ]
     },
     {
@@ -65,6 +108,13 @@
         "If you can’t beat all four of them\n",
         "in a row, you have to start from\f",
         "the first one again."
+      ],
+      "fr_FR": [
+        "Tu t’apprêtes à affronter le Conseil 4\n",
+        "de la Ligue Pokémon.\r",
+        "Tu dois les battre tous les quatre\n",
+        "à la suite, ou alors tu devras\f",
+        "recommencer depuis le début."
       ]
     },
     {
@@ -75,6 +125,12 @@
         "it takes.\r",
         "I’m never giving up!\n",
         "Not until I beat the Elite Four!"
+      ],
+      "fr_FR": [
+        "La route sera longue et pavée de\n",
+        "tentatives infructueuses. Peu importe!\r",
+        "Je ne laisserai pas tomber tant que je\n",
+        "n’aurai pas vaincu le Conseil 4!"
       ]
     },
     {
@@ -84,6 +140,12 @@
         "Don’t take my word for it.\r",
         "Take the challenge and experience it\n",
         "for yourself!"
+      ],
+      "fr_FR": [
+        "Ce qu’est la Ligue Pokémon? Ne te fie\n",
+        "pas à ce qu’en disent les gens.\r",
+        "Relève le défi pour te faire ta propre\n",
+        "opinion!"
       ]
     }
   ]

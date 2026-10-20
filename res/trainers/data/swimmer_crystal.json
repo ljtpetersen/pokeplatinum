@@ -33,6 +33,11 @@
                 "Your Pokémon doesn’t seem to be tiring\n",
                 "at all from carrying you on its back.\r",
                 "Let me see how strong it is!\r"
+            ],
+            "fr_FR": [
+                "Ton Pokémon n’a pas l’air fatigué de\n",
+                "devoir te porter sur son dos.\r",
+                "Montre-moi sa puissance!\r"
             ]
         },
         {
@@ -40,6 +45,10 @@
             "en_US": [
                 "I can’t take any more...\n",
                 "I’m all tired out!\n"
+            ],
+            "fr_FR": [
+                "Je n’en peux plus...\n",
+                "Je suis si fatiguée!\n"
             ]
         },
         {
@@ -49,6 +58,12 @@
                 "everything and nothing.\r",
                 "Like how I should battle next, and\n",
                 "what’s for dinner tomorrow, and...\n"
+            ],
+            "fr_FR": [
+                "Quand je me baigne par ici, je pense\n",
+                "à tout un tas de choses.\r",
+                "Qui je vais affronter ensuite, ce\n",
+                "que je vais manger le lendemain...\n"
             ]
         },
         {
@@ -57,7 +72,12 @@
                 "How much stronger have your Pokémon\n",
                 "become?\r",
                 "Let me check ’em out, OK?\r"
+            ],
+            "fr_FR": [
+                "Alors, tu as bien progressé? Laisse-moi\n",
+                "vérifier, d’accord?\r"
             ]
         }
-    ]
+    ],
+    "name_fr": "Edwige"
 }

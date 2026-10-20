@@ -12,24 +12,40 @@
         "So, that’s the Lunar Wing...\r",
         "Thank you... That will wake my son\n",
         "from the nightmare...\r"
+      ],
+      "fr_FR": [
+        "Ce Pokémon, c’est le \n",
+        "Pokémon Lunaire...\r",
+        "La légende dit qu’il voyage \n",
+        "à travers tout Sinnoh.\r",
+        "Oh! Cet objet étincelant...\n",
+        "C’est la Lun’Aile...\r",
+        "Merci beaucoup... Ça va sortir \n",
+        "mon fils de son cauchemar...\r"
       ]
     },
     {
       "id": "FullmoonIsland_Text_SailBackToCanalave",
-      "en_US": "Should we sail back to Canalave?"
+      "en_US": "Should we sail back to Canalave?",
+      "fr_FR": "On retourne à Joliberges?"
     },
     {
       "id": "FullmoonIsland_Text_AnchorsAweigh",
       "en_US": [
         "Aye, aye!\n",
         "Anchors aweigh!\r"
-      ]
+      ],
+      "fr_FR": "On lève l’ancre!\r"
     },
     {
       "id": "FullmoonIsland_Text_AllRightThen",
       "en_US": [
         "All right, then. Tell me if you’d like\n",
         "to return to Canalave."
+      ],
+      "fr_FR": [
+        "Comme tu veux. Viens me voir si \n",
+        "tu veux retourner à Joliberges."
       ]
     }
   ]

@@ -29,7 +29,9 @@
     "messages": [
         {
             "type": "TRMSG_DEFEAT",
-            "en_US": "That’s quite the demonstration.\n"
+            "en_US": "That’s quite the demonstration.\n",
+            "fr_FR": "Quelle démonstration!\n"
         }
-    ]
+    ],
+    "name_fr": "Ruben"
 }

@@ -3,59 +3,73 @@
   "messages": [
     {
       "id": "pl_msg_00000679_00000",
-      "en_US": "None"
+      "en_US": "None",
+      "fr_FR": "Aucun"
     },
     {
       "id": "pl_msg_00000679_00001",
-      "en_US": "Alberta"
+      "en_US": "Alberta",
+      "fr_FR": "Alberta"
     },
     {
       "id": "pl_msg_00000679_00002",
-      "en_US": "British Columbia"
+      "en_US": "British Columbia",
+      "fr_FR": "Colombie-Britannique"
     },
     {
       "id": "pl_msg_00000679_00003",
-      "en_US": "Manitoba"
+      "en_US": "Manitoba",
+      "fr_FR": "Manitoba"
     },
     {
       "id": "pl_msg_00000679_00004",
-      "en_US": "New Brunswick"
+      "en_US": "New Brunswick",
+      "fr_FR": "Nouveau-Brunswick"
     },
     {
       "id": "pl_msg_00000679_00005",
-      "en_US": "Newfoundland and Labrador"
+      "en_US": "Newfoundland and Labrador",
+      "fr_FR": "Terre-Neuve et Labrador"
     },
     {
       "id": "pl_msg_00000679_00006",
-      "en_US": "Northwest Territories"
+      "en_US": "Northwest Territories",
+      "fr_FR": "Territoires du Nord-Ouest"
     },
     {
       "id": "pl_msg_00000679_00007",
-      "en_US": "Nova Scotia"
+      "en_US": "Nova Scotia",
+      "fr_FR": "Nouvelle-Ecosse"
     },
     {
       "id": "pl_msg_00000679_00008",
-      "en_US": "Nunavut"
+      "en_US": "Nunavut",
+      "fr_FR": "Nunavut"
     },
     {
       "id": "pl_msg_00000679_00009",
-      "en_US": "Ontario"
+      "en_US": "Ontario",
+      "fr_FR": "Ontario"
     },
     {
       "id": "pl_msg_00000679_00010",
-      "en_US": "Prince Edward Island"
+      "en_US": "Prince Edward Island",
+      "fr_FR": "Ile du Prince-Edouard"
     },
     {
       "id": "pl_msg_00000679_00011",
-      "en_US": "Quebec"
+      "en_US": "Quebec",
+      "fr_FR": "Québec"
     },
     {
       "id": "pl_msg_00000679_00012",
-      "en_US": "Saskatchewan"
+      "en_US": "Saskatchewan",
+      "fr_FR": "Saskatchewan"
     },
     {
       "id": "pl_msg_00000679_00013",
-      "en_US": "Yukon Territory"
+      "en_US": "Yukon Territory",
+      "fr_FR": "Territoire du Yukon"
     }
   ]
 }

@@ -87,6 +87,10 @@
             "en_US": [
                 "You there! Take a look at the Pokémon\n",
                 "I fished up the other day."
+            ],
+            "fr_FR": [
+                "Tu sais, l’autre jour, j’ai pêché un\n",
+                "Pokémon gros comme ça! Au bas mot!"
             ]
         },
         {
@@ -94,6 +98,10 @@
             "en_US": [
                 "I can tell you’re impressed. This guy,\n",
                 "I don’t know how long it took to land.\r"
+            ],
+            "fr_FR": [
+                "Je vois que ça t’impressionne. Je dois\n",
+                "dire que je suis assez fier de moi.\r"
             ]
         },
         {
@@ -101,7 +109,12 @@
             "en_US": [
                 "A word of advice: when an older person\n",
                 "is bragging, pretend to be interested.\r"
+            ],
+            "fr_FR": [
+                "Un conseil. Si un adulte se vante devant\n",
+                "toi, fais au moins semblant d’écouter.\r"
             ]
         }
-    ]
+    ],
+    "name_fr": "Aleks"
 }

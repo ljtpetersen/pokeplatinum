@@ -20,11 +20,13 @@
     "messages": [
         {
             "type": "TRMSG_PRE_BATTLE",
-            "en_US": "We’re just out on a power walk!\r"
+            "en_US": "We’re just out on a power walk!\r",
+            "fr_FR": "On fait juste un jogging!\r"
         },
         {
             "type": "TRMSG_DEFEAT",
-            "en_US": "Oh, you!\n"
+            "en_US": "Oh, you!\n",
+            "fr_FR": "Oh, toi!\n"
         },
         {
             "type": "TRMSG_POST_BATTLE",
@@ -33,7 +35,14 @@
                 "the forest.\r",
                 "I didn’t have any Antidotes with me,\n",
                 "either. It was the worst!\n"
+            ],
+            "fr_FR": [
+                "En forêt, on ne peut pas éviter les\n",
+                "Pokémon de type Insecte.\r",
+                "La dernière fois, je n’avais pas\n",
+                "d’Antidote avec moi. L’horreur!\n"
             ]
         }
-    ]
+    ],
+    "name_fr": "Naomi"
 }

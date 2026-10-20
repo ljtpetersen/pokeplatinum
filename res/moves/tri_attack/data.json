@@ -25,5 +25,13 @@
     "contest": {
         "effect": "CONTEST_EFFECT_BASIC",
         "type": "CONTEST_TYPE_BEAUTY"
-    }
+    },
+    "name_fr": "Triplattaque",
+    "description_fr": [
+        "Le lanceur envoie\n",
+        "trois boules d’énergie\n",
+        "simultanément. Peut\n",
+        "aussi paralyser, brû-\n",
+        "ler ou geler l’ennemi."
+    ]
 }

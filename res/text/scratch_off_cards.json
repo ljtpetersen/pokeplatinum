@@ -7,27 +7,40 @@
         "Welcome!\r",
         "Would you like some Scratch-Off Cards?\n",
         "They’re three for {STRVAR_1 50, 0, 0} BP.\r"
+      ],
+      "fr_FR": [
+        "Bienvenue!\r",
+        "Voulez-vous des Cartes à gratter?\n",
+        "Le lot de trois coûte {STRVAR_1 50, 0, 0} PCo.\r"
       ]
     },
     {
       "id": "ScratchOffCards_Text_WillYouBuyCards",
-      "en_US": "Will you buy some Scratch-Off Cards?"
+      "en_US": "Will you buy some Scratch-Off Cards?",
+      "fr_FR": [
+        "Voulez-vous acheter des Cartes\n",
+        "à gratter?"
+      ]
     },
     {
       "id": "ScratchOffCards_Text_Scratch",
-      "en_US": "SCRATCH"
+      "en_US": "SCRATCH",
+      "fr_FR": "GRATTER"
     },
     {
       "id": "ScratchOffCards_Text_Info",
-      "en_US": "INFO"
+      "en_US": "INFO",
+      "fr_FR": "INFOS"
     },
     {
       "id": "ScratchOffCards_Text_Cancel",
-      "en_US": "CANCEL"
+      "en_US": "CANCEL",
+      "fr_FR": "ANNULER"
     },
     {
       "id": "ScratchOffCards_Text_PleaseVisitAgain",
-      "en_US": "Please visit again."
+      "en_US": "Please visit again.",
+      "fr_FR": "Revenez quand vous voulez."
     },
     {
       "id": "ScratchOffCards_Text_ScratchOffCardsInfo",
@@ -40,6 +53,16 @@
         "three times.\r",
         "If the same icon appears three times,\n",
         "you will win a prize, like a Berry!\r"
+      ],
+      "fr_FR": [
+        "Vous pouvez acheter trois Cartes à\n",
+        "gratter pour {STRVAR_1 50, 0, 0} PCo.\r",
+        "Des icônes représentant des Pokémon\n",
+        "sont dissimulées sur chaque carte.\r",
+        "Vous pouvez gratter trois cases\n",
+        "sur chaque carte.\r",
+        "Si vous révélez trois icônes identiques,\n",
+        "vous remportez un prix, comme une Baie!\r"
       ]
     },
     {
@@ -47,6 +70,10 @@
       "en_US": [
         "It will be {STRVAR_1 50, 2, 0} BP for three\n",
         "Scratch-Off Cards. Is that OK?"
+      ],
+      "fr_FR": [
+        "Le lot de trois Cartes à gratter\n",
+        "coûte {STRVAR_1 50, 2, 0} PCo. Cela vous convient?"
       ]
     },
     {
@@ -62,6 +89,10 @@
       "en_US": [
         "OK, please select three\n",
         "Scratch-Off Cards.\r"
+      ],
+      "fr_FR": [
+        "Parfait! Veuillez choisir vos trois\n",
+        "Cartes à gratter.\r"
       ]
     },
     {
@@ -69,6 +100,11 @@
       "en_US": [
         "Congratulations!\r",
         "You won on {STRVAR_1 50, 0, 0} Scratch-Off Card(s)!\r"
+      ],
+      "fr_FR": [
+        "Félicitations!\r",
+        "Vous avez {STRVAR_1 50, 0, 0} Carte(s) à\n",
+        "gratter gagnante(s).\r"
       ]
     },
     {
@@ -76,17 +112,26 @@
       "en_US": [
         "Too bad! There is no more room for\n",
         "the {STRVAR_1 8, 0, 0}!\r"
+      ],
+      "fr_FR": [
+        "Quel dommage! Vous n’avez plus de place\n",
+        "pour votre {STRVAR_1 8, 0, 0}!\r"
       ]
     },
     {
       "id": "ScratchOffCards_Text_ReceivedXItems",
-      "en_US": "Received {STRVAR_1 50, 1, 0} {STRVAR_1 8, 0, 0}!\r"
+      "en_US": "Received {STRVAR_1 50, 1, 0} {STRVAR_1 8, 0, 0}!\r",
+      "fr_FR": "Obtenu {STRVAR_1 8, 0, 0} x {STRVAR_1 50, 1, 0}!\r"
     },
     {
       "id": "ScratchOffCards_Text_NotEnoughBP",
       "en_US": [
         "I’m sorry, but you don’t have enough\n",
         "BP. Please come again."
+      ],
+      "fr_FR": [
+        "Pardonnez-moi, mais vous n’avez pas\n",
+        "assez de PCo. Revenez plus tard."
       ]
     },
     {
@@ -105,6 +150,21 @@
         "Also, DITTO’s icon can transform into\n",
         "any other Pokémon.\r",
         "Good luck matching Pokémon icons!\r"
+      ],
+      "fr_FR": [
+        "Bienvenue!\n",
+        "Voulez-vous des Cartes à gratter?\r",
+        "Vous pouvez acheter un lot de trois\n",
+        "Cartes à gratter pour {STRVAR_1 50, 0, 0} PCo.\r",
+        "Des icônes représentant des Pokémon\n",
+        "sont dissimulées sur chaque carte.\r",
+        "Vous pouvez gratter trois cases\n",
+        "sur chaque carte.\r",
+        "Si vous révélez trois icônes identiques,\n",
+        "vous remportez un prix, comme une Baie!\r",
+        "Sachez qu’une icône METAMORPH peut se\n",
+        "transformer en n’importe quel Pokémon!\r",
+        "Bonne chance!\r"
       ]
     }
   ]

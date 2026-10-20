@@ -23,6 +23,10 @@
             "en_US": [
                 "This is our final operation.\n",
                 "No one will interfere!\r"
+            ],
+            "fr_FR": [
+                "C’est notre opération finale.\n",
+                "Personne ne s’interposera!\r"
             ]
         },
         {
@@ -30,6 +34,10 @@
             "en_US": [
                 "You turned the tables on me...\n",
                 "I call interference...\n"
+            ],
+            "fr_FR": [
+                "Tu as changé la donne...\n",
+                "J’appelle ça s’interposer...\n"
             ]
         },
         {
@@ -39,7 +47,14 @@
                 "the closer you are to space!\r",
                 "Soon, Team Galactic will... Uh...\n",
                 "Team Galactic will achieve greatness!\n"
+            ],
+            "fr_FR": [
+                "Plus tu t’approches du sommet, plus tu\n",
+                "t’approches de l’espace!\r",
+                "Bientôt, la Team Galaxie va... euh...\n",
+                "elle va faire de grandes choses!\n"
             ]
         }
-    ]
+    ],
+    "name_fr": "Sbire"
 }

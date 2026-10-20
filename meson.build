@@ -48,6 +48,10 @@ elif get_option('version') == 'eu'
     shared_args += [
         '-DPOKEPLATINUM_VERSION=2'
     ]
+elif get_option('version') == 'fr'
+    shared_args += [
+        '-DPOKEPLATINUM_VERSION=3'
+    ]
 endif
 
 if get_option('gdb_debugging')
@@ -160,6 +164,8 @@ if get_option('version') == 'us_rev0' or get_option('version') == 'us_rev1'
 subdir('platinum.us')
 elif get_option('version') == 'eu'
 subdir('platinum.eu')
+elif get_option('version') == 'fr'
+subdir('platinum.fr')
 endif
 
 
@@ -203,6 +209,8 @@ if get_option('version') == 'us_rev0' or get_option('version') == 'us_rev1'
 main_lcf_path = 'platinum.us/main.lcf'
 elif get_option('version') == 'eu'
 main_lcf_path = 'platinum.eu/main.lcf'
+elif get_option('version') == 'fr'
+main_lcf_path = 'platinum.fr/main.lcf'
 endif
 
 main = executable('main',
@@ -270,6 +278,8 @@ elif get_option('version') == 'us_rev1'
 output_name = 'pokeplatinum.us_rev1.nds'
 elif get_option('version') == 'eu'
 output_name = 'pokeplatinum.eu.nds'
+elif get_option('version') == 'fr'
+output_name = 'pokeplatinum.fr.nds'
 endif
 
 pokeplatinum_nds = custom_target(output_name,

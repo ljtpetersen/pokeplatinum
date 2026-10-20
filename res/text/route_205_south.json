@@ -14,6 +14,18 @@
         "my papa do something.\r",
         "Please, Trainer!\n",
         "I miss my papa!"
+      ],
+      "fr_FR": [
+        "Au secours, Dresseur, aidez-moi!\n",
+        "Mon papa, on m’a pris mon papa.\r",
+        "Mon papa et moi, on vivait aux\n",
+        "Eoliennes.\r",
+        "Mais des gens déguisés en cosmonautes\n",
+        "sont venus et m’ont mise dehors...\r",
+        "Et maintenant, ils obligent mon papa\n",
+        "à travailler pour eux.\r",
+        "S’il vous plaît, Dresseur, rendez-moi\n",
+        "mon papa!"
       ]
     },
     {
@@ -21,6 +33,10 @@
       "en_US": [
         "Please, Trainer! I want to see my papa.\n",
         "He’s at the Valley Windworks..."
+      ],
+      "fr_FR": [
+        "S’il vous plaît, Dresseur, rendez-moi\n",
+        "mon papa. Il travaille aux Eoliennes..."
       ]
     },
     {
@@ -29,6 +45,11 @@
         "We, Team Galactic, are conducting\n",
         "research in the Eterna Forest!\r",
         "This is as far as you will go!\r"
+      ],
+      "fr_FR": [
+        "Nous, la Team Galaxie, conduisons des\n",
+        "recherches dans la Forêt de Vestigion!\r",
+        "Et tu n’iras pas plus loin!\r"
       ]
     },
     {
@@ -39,6 +60,14 @@
         "We are also covertly stealing the\n",
         "energy of the Valley Windworks.\r",
         "But that is of no concern to you!\r"
+      ],
+      "fr_FR": [
+        "Nous attrapons des Pokémon dans les\n",
+        "champs de fleurs de Floraville dans\f",
+        "le cadre de nos recherches.\r",
+        "En plus, on vole l’énergie des Eoliennes\n",
+        "ni vu ni connu.\r",
+        "Mais ce ne sont pas tes affaires!\r"
       ]
     },
     {
@@ -49,6 +78,14 @@
         "We are also covertly stealing the\n",
         "energy of the Valley Windworks.\r",
         "But that is of no concern to you!"
+      ],
+      "fr_FR": [
+        "Nous attrapons des Pokémon dans les\n",
+        "champs de fleurs de Floraville dans\f",
+        "le cadre de nos recherches.\r",
+        "En plus, on vole l’énergie des Eoliennes\n",
+        "ni vu ni connu.\r",
+        "Mais ce ne sont pas tes affaires!"
       ]
     },
     {
@@ -59,6 +96,13 @@
         "But I didn’t buy any Antidotes.\n",
         "What should I do?\f",
         "Do I press on, or do I go back?"
+      ],
+      "fr_FR": [
+        "De nombreux Pokémon de type Poison\n",
+        "peuplent la Forêt de Vestigion.\r",
+        "Mais je n’ai acheté aucun Antidote.\n",
+        "Qu’est-ce que je dois faire?\f",
+        "Continuer ou faire demi-tour?"
       ]
     },
     {
@@ -68,6 +112,11 @@
         "a sweet-smelling tree...\r",
         "Pokémon may be attracted by that\n",
         "sweet scent."
+      ],
+      "fr_FR": [
+        "Si tu étales du Miel sur un arbre au\n",
+        "doux parfum, ça attirera peut-être\f",
+        "des Pokémon."
       ]
     },
     {
@@ -75,6 +124,10 @@
       "en_US": [
         "Rt. 205\n",
         "Floaroma Town"
+      ],
+      "fr_FR": [
+        "Route 205\n",
+        "Floraville"
       ]
     },
     {
@@ -82,6 +135,10 @@
       "en_US": [
         "Rt. 205\n",
         "Eterna Forest"
+      ],
+      "fr_FR": [
+        "Route 205\n",
+        "Forêt de Vestigion"
       ]
     },
     {
@@ -93,6 +150,14 @@
         "appropriate pockets.\r",
         "It’s very convenient!\n",
         "It’s a Trainer’s best friend!"
+      ],
+      "fr_FR": [
+        "Conseils aux Dresseurs\r",
+        "Les objets mis dans votre Sac sont\n",
+        "automatiquement placés dans les\f",
+        "poches appropriées.\r",
+        "C’est super pratique!\n",
+        "C’est le meilleur ami du Dresseur!"
       ]
     }
   ]

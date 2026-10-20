@@ -31,5 +31,12 @@
     "friendshipLow": -5,
     "friendshipMed": -5,
     "friendshipHigh": -10
-  }
+  },
+  "name_fr": "Poudrénergie",
+  "description_fr": [
+    "Une poudre médicinale très amère.\n",
+    "Restaure 50 PV à un Pokémon."
+  ],
+  "plural_fr": "Poudrénergie",
+  "article_fr": null
 }

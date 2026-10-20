@@ -26,5 +26,13 @@
   "battlePocket": "BATTLE_POCKET_MASK_NONE",
   "fieldUseFunc": "ITEM_USE_FUNC_NONE",
   "battleUseCategory": "BATTLE_USE_CATEGORY_NONE",
-  "itemUseParams": null
+  "itemUseParams": null,
+  "name_fr": "Clé Centrale",
+  "description_fr": [
+    "Grande clé servant à ouvrir la porte\n",
+    "de la centrale Les Eoliennes du canyon.\n",
+    "Un sbire de la Team Galaxie la détenait."
+  ],
+  "plural_fr": "Clé Centrale",
+  "article_fr": null
 }

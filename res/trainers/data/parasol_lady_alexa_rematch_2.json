@@ -38,14 +38,20 @@
     "messages": [
         {
             "type": "TRMSG_REMATCH",
-            "en_US": "On rainy days, I get more energetic!\r"
+            "en_US": "On rainy days, I get more energetic!\r",
+            "fr_FR": "J’ai vraiment la forme quand il pleut!\r"
         },
         {
             "type": "TRMSG_DEFEAT",
             "en_US": [
                 "Like rain, my tears fall from losing...\n",
                 "They call me Rain Woman...\n"
+            ],
+            "fr_FR": [
+                "Mes larmes coulent comme la pluie après\n",
+                "une défaite... Je suis la Pluvieuse...\n"
             ]
         }
-    ]
+    ],
+    "name_fr": "Mylène"
 }

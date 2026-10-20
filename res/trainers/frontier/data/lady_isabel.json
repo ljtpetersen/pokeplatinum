@@ -59,6 +59,10 @@
             "en_US": [
                 "Uphold the rules of etiquette and\n",
                 "courtesy... That’s what a lady does."
+            ],
+            "fr_FR": [
+                "Courtoisie, politesse et élégance en\n",
+                "toutes circonstances. Voilà ma devise."
             ]
         },
         {
@@ -66,6 +70,10 @@
             "en_US": [
                 "If I couldn’t unwind this way, I would\n",
                 "lose my ladylike composure.\r"
+            ],
+            "fr_FR": [
+                "Encore une fois, la classe et\n",
+                "l’élégance triomphent.\r"
             ]
         },
         {
@@ -73,7 +81,12 @@
             "en_US": [
                 "I wish I could be free like the bird\n",
                 "Pokémon in the skies...\r"
+            ],
+            "fr_FR": [
+                "Etre toujours polie et élégante, c’est\n",
+                "bien beau, mais c’est épuisant...\r"
             ]
         }
-    ]
+    ],
+    "name_fr": "Babeth"
 }

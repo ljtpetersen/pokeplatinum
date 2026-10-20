@@ -43,11 +43,18 @@
                 "A time for us alone!\r",
                 "We’ll send you back in time.\n",
                 "A time before you started training!\r"
+            ],
+            "fr_FR": [
+                "Notre heure approche! L’heure de\n",
+                "notre victoire absolue!\r",
+                "Nous te renverrons dans le temps.\n",
+                "Tu oublieras jusqu’à tes Pokémon!\r"
             ]
         },
         {
             "type": "TRMSG_DEFEAT",
-            "en_US": "Gyah!\n"
+            "en_US": "Gyah!\n",
+            "fr_FR": "Argh!"
         },
         {
             "type": "TRMSG_POST_BATTLE",
@@ -56,7 +63,14 @@
                 "you can’t stop Team Galactic alone!\r",
                 "It doesn’t matter how many Pokémon\n",
                 "you try to use as your tools!\n"
+            ],
+            "fr_FR": [
+                "Tu peux bien lutter, une personne seule\n",
+                "est impuissante face à la Team Galaxie!\r",
+                "Peu importe le nombre de Pokémon\n",
+                "que tu utilises!\n"
             ]
         }
-    ]
+    ],
+    "name_fr": "Sbire"
 }

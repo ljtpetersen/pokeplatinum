@@ -23,6 +23,10 @@
             "en_US": [
                 "Your spirit’s vibes, man... I can feel\n",
                 "that you’ve got rock in your soul!\r"
+            ],
+            "fr_FR": [
+                "Les vibrations de ton esprit... Je sens\n",
+                "que tu as le rock dans la peau!\r"
             ]
         },
         {
@@ -30,6 +34,10 @@
             "en_US": [
                 "You beat me, man, but...\n",
                 "I feel totally amped to jam harder!\n"
+            ],
+            "fr_FR": [
+                "Tu m’as battu mais...\n",
+                "je suis prêt à jouer plus fort!\n"
             ]
         },
         {
@@ -38,7 +46,13 @@
                 "Rock is about your spirit!\n",
                 "Battling is about spirit, too!\f",
                 "That’s why battles rock! Rawk!\n"
+            ],
+            "fr_FR": [
+                "Le rock, c’est dans la tête!\n",
+                "Le combat aussi!\f",
+                "Les combats, c’est rock-and-roll!\n"
             ]
         }
-    ]
+    ],
+    "name_fr": "Joseph"
 }

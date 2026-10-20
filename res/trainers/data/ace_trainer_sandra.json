@@ -43,11 +43,16 @@
             "en_US": [
                 "When eyes meet...\n",
                 "That’s when a battle starts!\r"
+            ],
+            "fr_FR": [
+                "Quand les regards se croisent...\n",
+                "C’est le début du combat!\r"
             ]
         },
         {
             "type": "TRMSG_DEFEAT",
-            "en_US": "You won’t let me win?\n"
+            "en_US": "You won’t let me win?\n",
+            "fr_FR": "Tu ne veux pas me laisser gagner?\n"
         },
         {
             "type": "TRMSG_POST_BATTLE",
@@ -55,6 +60,11 @@
                 "I suddenly remembered what it was \n",
                 "like when I had my first battle.\r",
                 "I wonder why that would be?\n"
+            ],
+            "fr_FR": [
+                "Je viens juste de me rappeler mon\n",
+                "premier combat.\r",
+                "Je me demande pourquoi...\n"
             ]
         },
         {
@@ -63,7 +73,13 @@
                 "When eyes meet...\n",
                 "That’s when a battle starts!\f",
                 "That’s what makes us Trainers!\r"
+            ],
+            "fr_FR": [
+                "Quand les regards se croisent...\n",
+                "C’est le début du combat!\f",
+                "Ça fait de nous des Dresseurs!\r"
             ]
         }
-    ]
+    ],
+    "name_fr": "Emilie"
 }

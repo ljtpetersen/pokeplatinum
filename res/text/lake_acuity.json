@@ -7,6 +7,11 @@
         "{STRVAR_1 3, 0, 0}: !\r",
         "You’re not getting away with this,\n",
         "Team Galactic!\r"
+      ],
+      "fr_FR": [
+        "{STRVAR_1 3, 0, 0}: !\r",
+        "Vous ne vous en tirerez pas à si bon \n",
+        "compte, Team Galaxie!\r"
       ]
     },
     {
@@ -22,6 +27,18 @@
         "Dream on, little kid.\r",
         "But, eww, it’s so cold here.\n",
         "Let’s go back to the Veilstone HQ.\r"
+      ],
+      "fr_FR": [
+        "Jupiter: Oh?\n",
+        "C’est déjà terminé?\r",
+        "Tes Pokémon ne sont pas mauvais, mais\n",
+        "tu es d’une faiblesse embarrassante.\r",
+        "Tu pensais sincèrement pouvoir sauver\n",
+        "les Pokémon du lac?\r",
+        "Et devenir un Maître Pokémon?\n",
+        "Continue de rêver, petit Dresseur.\r",
+        "Enfin... Brr, il fait froid ici.\n",
+        "Je rentre au QG de Voilaroc.\r"
       ]
     },
     {
@@ -38,6 +55,19 @@
         "Don’t waste your time coming to our\n",
         "HQ in Veilstone.\r",
         "Now, if you’ll excuse me.\r"
+      ],
+      "fr_FR": [
+        "Oh? Je te connais, non?\n",
+        "Tu te souviens, à Vestigion?\r",
+        "Ecoute. La Team Galaxie travaille\n",
+        "pour le bien de l’humanité.\r",
+        "C’est pourquoi tu ne devrais pas\n",
+        "essayer de t’interposer.\r",
+        "Ne viens pas pleurnicher sur ces \n",
+        "pauvres Pokémon ou ce genre d’idioties.\r",
+        "Et ne perds pas ton temps à rejoindre\n",
+        "notre QG de Voilaroc.\r",
+        "Maintenant, si tu veux bien m’excuser.\r"
       ]
     },
     {
@@ -48,6 +78,13 @@
         "Yeah, that’s right!\r",
         "I couldn’t do anything against Team\n",
         "Galactic!\r"
+      ],
+      "fr_FR": [
+        "{STRVAR_1 3, 0, 0}: ...\n",
+        "...\r",
+        "Bon, d’accord!\r",
+        "Je n’ai rien pu faire contre la\n",
+        "Team Galaxie!\r"
       ]
     },
     {
@@ -55,6 +92,10 @@
       "en_US": [
         "That Pokémon called UXIE...\n",
         "It was suffering...\r"
+      ],
+      "fr_FR": [
+        "Ce Pokémon, CREHELF...\n",
+        "Il souffrait...\r"
       ]
     },
     {
@@ -68,6 +109,16 @@
         "most powerful Trainer ever...\r",
         "It takes honest effort...\n",
         "And a determined heart.\r"
+      ],
+      "fr_FR": [
+        "Je vais m’endurcir...\r",
+        "La victoire, la défaite...\n",
+        "C’est insignifiant...\f",
+        "Je dois juste m’endurcir...\r",
+        "Pour devenir le meilleur des Dresseurs,\n",
+        "il ne suffit pas de le vouloir...\r",
+        "Ça demande du travail...\n",
+        "Et du cœur à l’ouvrage.\r"
       ]
     }
   ]

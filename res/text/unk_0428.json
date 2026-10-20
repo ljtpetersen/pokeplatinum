@@ -8,6 +8,12 @@
         "Pokémon yet, but...\r",
         "Would you like to retire from your\n",
         "Catching Show?"
+      ],
+      "fr_FR": [
+        "Vous n’avez pas encore capturé tous \n",
+        "les Pokémon, mais...\r",
+        "Voulez-vous abandonner\n",
+        "le Show Capture?"
       ]
     },
     {
@@ -16,6 +22,11 @@
         "I see...\r",
         "I’m disappointed that you dropped\n",
         "out. Make up for it next time!\r"
+      ],
+      "fr_FR": [
+        "Je vois...\r",
+        "Je suis triste de vous voir abandonner.\n",
+        "Vous ferez mieux la prochaine fois!\r"
       ]
     },
     {
@@ -23,6 +34,10 @@
       "en_US": [
         "That’s the spirit, {STRVAR_1 3, 0, 0}!\n",
         "I like how you don’t give up!"
+      ],
+      "fr_FR": [
+        "C’est le bon esprit, {STRVAR_1 3, 0, 0}!\n",
+        "Votre détermination me plaît!"
       ]
     },
     {
@@ -30,6 +45,10 @@
       "en_US": [
         "That’s the spirit, {STRVAR_1 3, 0, 0}!\n",
         "I like how you don’t give up!"
+      ],
+      "fr_FR": [
+        "C’est le bon esprit, {STRVAR_1 3, 0, 0}!\n",
+        "J’apprécie votre détermination!"
       ]
     },
     {
@@ -43,6 +62,12 @@
         "Congratulations!\r",
         "{STRVAR_1 3, 0, 0} has successfully\n",
         "caught the stocked Pokémon!\r"
+      ],
+      "fr_FR": [
+        "Ding dong!\n",
+        "Félicitations!\r",
+        "{STRVAR_1 3, 0, 0} a réussi à \n",
+        "capturer les Pokémon!\r"
       ]
     },
     {
@@ -55,27 +80,33 @@
     },
     {
       "id": "pl_msg_00000428_00008",
-      "en_US": "Would you like to retire?"
+      "en_US": "Would you like to retire?",
+      "fr_FR": "Voulez-vous abandonner?"
     },
     {
       "id": "pl_msg_00000428_00009",
-      "en_US": "Let the countdown begin!"
+      "en_US": "Let the countdown begin!",
+      "fr_FR": "Lançons le compte à rebours!"
     },
     {
       "id": "pl_msg_00000428_00010",
-      "en_US": "Three..."
+      "en_US": "Three...",
+      "fr_FR": "Trois..."
     },
     {
       "id": "pl_msg_00000428_00011",
-      "en_US": "Two..."
+      "en_US": "Two...",
+      "fr_FR": "Deux..."
     },
     {
       "id": "pl_msg_00000428_00012",
-      "en_US": "One..."
+      "en_US": "One...",
+      "fr_FR": "Un..."
     },
     {
       "id": "pl_msg_00000428_00013",
-      "en_US": "Start!"
+      "en_US": "Start!",
+      "fr_FR": "Partez!"
     }
   ]
 }

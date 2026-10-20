@@ -27,5 +27,12 @@
   "fieldUseFunc": "ITEM_USE_FUNC_TM_HM",
   "battleUseCategory": "BATTLE_USE_CATEGORY_NONE",
   "itemUseParams": null,
-  "teachesMove": "MOVE_FRUSTRATION"
+  "teachesMove": "MOVE_FRUSTRATION",
+  "name_fr": "CT21",
+  "description_fr": [
+    "Moins le Pokémon aime son Dresseur,\n",
+    "plus cette attaque est puissante."
+  ],
+  "plural_fr": "CT21",
+  "article_fr": null
 }

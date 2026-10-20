@@ -7,6 +7,12 @@
         "Wi: We come from faraway land.\n",
         "I come see the Pokémon I trade.\r",
         "I worry if it growing properly."
+      ],
+      "fr_FR": [
+        "Wi: Nous venons terre lointaine.\n",
+        "Je viens rendre visite à Pokémon que\f",
+        "j’ai échangé.\r",
+        "Je veux savoir si grandit bien."
       ]
     },
     {
@@ -15,6 +21,11 @@
         "Fi: I like look at Pokémon I get\n",
         "from friend in trade.\r",
         "It make me remember my friend!"
+      ],
+      "fr_FR": [
+        "Fi: J’aime regarder Pokémon obtenus\n",
+        "d’échange avec ami.\r",
+        "Ils me rappellent ami!"
       ]
     },
     {
@@ -24,6 +35,13 @@
         "around the world on Nintendo WFC...\r",
         "Just hearing that gets my heart\n",
         "racing. Such exciting times!"
+      ],
+      "fr_FR": [
+        "Tu peux échanger des Pokémon avec des\n",
+        "gens du monde entier grâce à la\f",
+        "CWF Nintendo...\r",
+        "Mon cœur bat la chamade rien qu’à\n",
+        "entendre ce nom! C’est excitant!"
       ]
     },
     {
@@ -32,6 +50,11 @@
         "When you connect with people on\n",
         "Nintendo WFC, it’s hard to\f",
         "tell if the world’s big or small."
+      ],
+      "fr_FR": [
+        "Quand tu te connectes à la CWF\n",
+        "Nintendo, il est difficile de se\f",
+        "faire une idée de la taille du monde."
       ]
     }
   ]

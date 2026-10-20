@@ -32,6 +32,11 @@
                 "experience of battling at high levels.\r",
                 "I’ll demonstrate what that means to\n",
                 "a noob like you!\r"
+            ],
+            "fr_FR": [
+                "Un Topdresseur a la connaissance et \n",
+                "l’expérience du combat.\f",
+                "Je vais te montrer ce que cela signifie!\r"
             ]
         },
         {
@@ -39,6 +44,10 @@
             "en_US": [
                 "Wow...\n",
                 "I’m in the mood to sing a lullaby...\n"
+            ],
+            "fr_FR": [
+                "Waouh... Je suis d’humeur à\n",
+                "chanter une berceuse...\n"
             ]
         },
         {
@@ -48,7 +57,14 @@
                 "I guess that kinda makes you an ace.\r",
                 "Maybe you’re a Trainer who has the\n",
                 "potential to surpass aces!\n"
+            ],
+            "fr_FR": [
+                "Cet enthousiasme débordant... J’imagine\n",
+                "que ça fait de toi un Topdresseur.\r",
+                "Tu as peut-être le potentiel pour \n",
+                "dépasser les Topdresseurs!\n"
             ]
         }
-    ]
+    ],
+    "name_fr": "Hugues"
 }

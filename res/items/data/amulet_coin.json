@@ -26,5 +26,12 @@
   "battlePocket": "BATTLE_POCKET_MASK_NONE",
   "fieldUseFunc": "ITEM_USE_FUNC_NONE",
   "battleUseCategory": "BATTLE_USE_CATEGORY_NONE",
-  "itemUseParams": null
+  "itemUseParams": null,
+  "name_fr": "Pièce Rune",
+  "description_fr": [
+    "Objet à tenir. Double l’argent gagné si\n",
+    "le porteur se joint au combat."
+  ],
+  "plural_fr": "Pièce Rune",
+  "article_fr": null
 }

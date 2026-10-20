@@ -26,5 +26,13 @@
   "battlePocket": "BATTLE_POCKET_MASK_NONE",
   "fieldUseFunc": "ITEM_USE_FUNC_NONE",
   "battleUseCategory": "BATTLE_USE_CATEGORY_NONE",
-  "itemUseParams": null
+  "itemUseParams": null,
+  "name_fr": "Bâton",
+  "description_fr": [
+    "Objet à faire tenir à CANARTICHO.\n",
+    "Poireau très long et solide qui monte\n",
+    "son taux de critiques."
+  ],
+  "plural_fr": "Bâton",
+  "article_fr": null
 }

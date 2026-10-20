@@ -32,6 +32,10 @@
             "en_US": [
                 "Hello, there!\n",
                 "Aren’t you going to swim?\r"
+            ],
+            "fr_FR": [
+                "Bien le bonjour!\n",
+                "Tu n’as pas envie de nager?\r"
             ]
         },
         {
@@ -39,6 +43,10 @@
             "en_US": [
                 "What’s saltier?\n",
                 "My tears or the sea...\n"
+            ],
+            "fr_FR": [
+                "Mes larmes ou la mer?\n",
+                "Quel est le plus salé...?\n"
             ]
         },
         {
@@ -48,6 +56,12 @@
                 "you can swim in Sinnoh.\r",
                 "It makes me want to take a vacation\n",
                 "in the Hoenn region.\n"
+            ],
+            "fr_FR": [
+                "Il n’y a pas beaucoup de voies maritimes\n",
+                "à emprunter à Sinnoh.\r",
+                "Ça me donne envie de prendre des\n",
+                "vacances dans la région de Hoenn.\n"
             ]
         },
         {
@@ -56,7 +70,13 @@
                 "When I see people surfing, I don’t\n",
                 "feel jealous or anything.\r",
                 "I just simply love to swim!\r"
+            ],
+            "fr_FR": [
+                "Je ne suis pas jalouse quand je\n",
+                "croise des gens qui font du surf.\r",
+                "Moi je préfère nager, c’est tout!\r"
             ]
         }
-    ]
+    ],
+    "name_fr": "Samia"
 }

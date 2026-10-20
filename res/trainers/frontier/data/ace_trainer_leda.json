@@ -57,6 +57,10 @@
             "en_US": [
                 "I wish you’d leave.\n",
                 "I don’t want to see you lose."
+            ],
+            "fr_FR": [
+                "Tu devrais partir.\n",
+                "Je n’aimerais pas te voir perdre."
             ]
         },
         {
@@ -64,6 +68,10 @@
             "en_US": [
                 "I told you so...\n",
                 "Can you leave, please?\r"
+            ],
+            "fr_FR": [
+                "Je te l’avais pourtant dit...\n",
+                "Si tu partais, maintenant?\r"
             ]
         },
         {
@@ -71,7 +79,12 @@
             "en_US": [
                 "Listen...is being tough not always a\n",
                 "good thing?\r"
+            ],
+            "fr_FR": [
+                "Ecoute... la puissance, c’est bien,\n",
+                "mais...\r"
             ]
         }
-    ]
+    ],
+    "name_fr": "Lilia"
 }

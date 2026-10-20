@@ -6,25 +6,36 @@
       "en_US": [
         "That’s right, CLEFAIRY!\n",
         "Cuter, now!"
+      ],
+      "fr_FR": [
+        "Bien, MELOFEE!\n",
+        "On la refait, en plus mignon!"
       ]
     },
     {
       "id": "Route218_Text_ClefairyCryPippiih",
-      "en_US": "CLEFAIRY: Pippiih!"
+      "en_US": "CLEFAIRY: Pippiih!",
+      "fr_FR": "MELOFEE: Mélo!"
     },
     {
       "id": "Route218_Text_ClefairyCryPippippiih",
-      "en_US": "CLEFAIRY: Pippippiih!"
+      "en_US": "CLEFAIRY: Pippippiih!",
+      "fr_FR": "MELOFEE: Mélomélooo!"
     },
     {
       "id": "Route218_Text_PikachuCry",
-      "en_US": "PIKACHU: Puhppikaah!"
+      "en_US": "PIKACHU: Puhppikaah!",
+      "fr_FR": "PIKACHU: Chupikaaa!"
     },
     {
       "id": "Route218_Text_PikachuDazzle",
       "en_US": [
         "PIKACHU! Try to keep up!\n",
         "You need to dazzle!"
+      ],
+      "fr_FR": [
+        "Continue comme ça, PIKACHU!\n",
+        "Tu vas tous les éblouir!"
       ]
     },
     {
@@ -32,6 +43,10 @@
       "en_US": [
         "Rt. 218\n",
         "Canalave City"
+      ],
+      "fr_FR": [
+        "Route 218\n",
+        "Joliberges"
       ]
     },
     {
@@ -39,6 +54,10 @@
       "en_US": [
         "Rt. 218\n",
         "Jubilife City"
+      ],
+      "fr_FR": [
+        "Route 218\n",
+        "Féli-Cité"
       ]
     }
   ]

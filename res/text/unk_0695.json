@@ -11,6 +11,15 @@
         "Instruction Booklet or visit\n",
         "support.nintendo.com.\n",
         "Error code: {STRVAR_1 54, 0, 0}"
+      ],
+      "fr_FR": [
+        "Impossible de se connecter à\n",
+        "la connexion Wi-Fi Nintendo.\n",
+        "\n",
+        "Pour toute assistance, consultez\n",
+        "le mode d’emploi ou visitez le\n",
+        "site support.nintendo.com.\n",
+        "({STRVAR_1 54, 0, 0})"
       ]
     },
     {
@@ -24,6 +33,16 @@
         "For help, visit\n",
         "support.nintendo.com.\n",
         "Error code: {STRVAR_1 54, 0, 0}"
+      ],
+      "fr_FR": [
+        "Soit la connexion Wi-Fi Nintendo \n",
+        "connaît un trafic trop important, \n",
+        "soit le service est interrompu. \n",
+        "Veuillez réessayer \n",
+        "ultérieurement.\n",
+        "Pour toute assistance, visitez \n",
+        "le site support.nintendo.com.\n",
+        "({STRVAR_1 54, 0, 0})"
       ]
     },
     {
@@ -36,6 +55,16 @@
         "For help, visit\n",
         "support.nintendo.com.\n",
         "Error code: {STRVAR_1 54, 0, 0}"
+      ],
+      "fr_FR": [
+        "L’identifiant de connexion Wi-Fi \n",
+        "Nintendo a été effacé parce qu’il \n",
+        "est resté inutilisé pendant une \n",
+        "période prolongée. \n",
+        "\n",
+        "Pour toute assistance, visitez \n",
+        "le site support.nintendo.com.\n",
+        "({STRVAR_1 54, 0, 0})"
       ]
     },
     {
@@ -49,6 +78,16 @@
         "for a list of current Nintendo\n",
         "Wi-Fi Connection-compatible\n",
         "software. Error code: {STRVAR_1 54, 0, 0}"
+      ],
+      "fr_FR": [
+        "Le service de connexion Wi-Fi \n",
+        "Nintendo pour ce logiciel a été \n",
+        "interrompu. \n",
+        "Visitez le site \n",
+        "support.nintendo.com pour une \n",
+        "liste actuelle des logiciels \n",
+        "compatibles avec la connexion\n",
+        "Wi-Fi Nintendo. ({STRVAR_1 54, 0, 0})"
       ]
     },
     {
@@ -61,6 +100,16 @@
         "For help, visit\n",
         "support.nintendo.com.\n",
         "Error code: {STRVAR_1 54, 0, 0}"
+      ],
+      "fr_FR": [
+        "Le point d’accès n’est pas \n",
+        "disponible. Vous ne pouvez pas \n",
+        "vous connecter. Veuillez \n",
+        "réessayer ultérieurement. \n",
+        "\n",
+        "Pour toute assistance, visitez\n",
+        "le site support.nintendo.com.\n",
+        "({STRVAR_1 54, 0, 0})"
       ]
     },
     {
@@ -73,6 +122,16 @@
         "For help, visit\n",
         "support.nintendo.com.\n",
         "Error code: {STRVAR_1 54, 0, 0}"
+      ],
+      "fr_FR": [
+        "Aucun point d’accès ne se trouve\n",
+        "à proximité. Veuillez réessayer en\n",
+        "vous rapprochant d’un point\n",
+        "d’accès.\n",
+        "\n",
+        "Pour toute assistance, visitez le\n",
+        "site support.nintendo.com.\n",
+        "({STRVAR_1 54, 0, 0})"
       ]
     },
     {
@@ -86,6 +145,16 @@
         "For help, visit\n",
         "support.nintendo.com.\n",
         "Error code: {STRVAR_1 54, 0, 0}"
+      ],
+      "fr_FR": [
+        "Aucun point d’accès compatible \n",
+        "ne se trouve à proximité. Veuillez \n",
+        "vérifier vos paramètres de \n",
+        "connexion et réessayer.\n",
+        "\n",
+        "Pour toute assistance, visitez\n",
+        "le site support.nintendo.com.\n",
+        "({STRVAR_1 54, 0, 0})"
       ]
     },
     {
@@ -99,6 +168,16 @@
         "For help, visit\n",
         "support.nintendo.com.\n",
         "Error code: {STRVAR_1 54, 0, 0}"
+      ],
+      "fr_FR": [
+        "Impossible de se connecter au \n",
+        "connecteur Wi-Fi USB Nintendo. \n",
+        "Vérifiez les paramètres de la \n",
+        "connexion Wi-Fi Nintendo. \n",
+        "\n",
+        "Pour toute assistance, visitez \n",
+        "le site support.nintendo.com.\n",
+        "({STRVAR_1 54, 0, 0})"
       ]
     },
     {
@@ -112,6 +191,16 @@
         "For help, visit\n",
         "support.nintendo.com.\n",
         "Error code: {STRVAR_1 54, 0, 0}"
+      ],
+      "fr_FR": [
+        "Impossible de se connecter à la \n",
+        "connexion Wi-Fi Nintendo. Vérifiez \n",
+        "les paramètres de la connexion et\n",
+        "du point d’accès.\n",
+        "\n",
+        "Pour toute assistance, visitez \n",
+        "le site support.nintendo.com.\n",
+        "({STRVAR_1 54, 0, 0})"
       ]
     },
     {
@@ -124,6 +213,13 @@
         "removed from the player’s\n",
         "friend roster.\n",
         "Error code: {STRVAR_1 54, 0, 0}"
+      ],
+      "fr_FR": [
+        "Aucune réponse. Le joueur n’est \n",
+        "pas connecté à la connexion Wi-Fi \n",
+        "Nintendo ou vous n’êtes pas dans \n",
+        "sa liste d’amis.\n",
+        "({STRVAR_1 54, 0, 0})"
       ]
     },
     {
@@ -136,6 +232,15 @@
         "For help, visit\n",
         "support.nintendo.com.\n",
         "Error code: {STRVAR_1 54, 0, 0}"
+      ],
+      "fr_FR": [
+        "Erreur de communication. Vous\n",
+        "n’êtes plus connecté à la\n",
+        "connexion Wi-Fi Nintendo.\n",
+        "\n",
+        "Pour toute assistance, visitez\n",
+        "le site support.nintendo.com.\n",
+        "({STRVAR_1 54, 0, 0})"
       ]
     },
     {
@@ -146,6 +251,13 @@
         "For help, visit\n",
         "support.nintendo.com.\n",
         "Error code: {STRVAR_1 54, 0, 0}"
+      ],
+      "fr_FR": [
+        "Erreur de communication.\n",
+        "\n",
+        "Pour toute assistance, visitez\n",
+        "le site support.nintendo.com.\n",
+        "({STRVAR_1 54, 0, 0})"
       ]
     },
     {
@@ -156,6 +268,13 @@
         "For help, visit\n",
         "support.nintendo.com.\n",
         "Error code: {STRVAR_1 54, 0, 0}"
+      ],
+      "fr_FR": [
+        "Le téléchargement a échoué.\n",
+        "\n",
+        "Pour toute assistance, visitez\n",
+        "le site support.nintendo.com.\n",
+        "({STRVAR_1 54, 0, 0})"
       ]
     },
     {
@@ -168,11 +287,20 @@
         "\n",
         "For help, visit\n",
         "support.nintendo.com."
+      ],
+      "fr_FR": [
+        "Erreur de communication. Vous\n",
+        "n’êtes plus connecté à la\n",
+        "connexion Wi-Fi Nintendo.\n",
+        "\n",
+        "Pour toute assistance, visitez\n",
+        "le site support.nintendo.com."
       ]
     },
     {
       "id": "pl_msg_00000695_00014",
-      "en_US": "Communication error..."
+      "en_US": "Communication error...",
+      "fr_FR": "Erreur de communication..."
     },
     {
       "id": "pl_msg_00000695_00015",
@@ -188,11 +316,25 @@
         "\n",
         "For help, visit\n",
         "support.nintendo.com."
+      ],
+      "fr_FR": [
+        "Vos informations d’utilisateur\n",
+        "de la connexion Wi-Fi Nintendo\n",
+        "peuvent avoir été effacées.\n",
+        "Vérifiez vos paramètres de\n",
+        "connexion.\n",
+        "\n",
+        "Pour toute assistance, visitez\n",
+        "le site support.nintendo.com."
       ]
     },
     {
       "id": "pl_msg_00000695_00017",
-      "en_US": "Connect to Nintendo Wi-Fi Connection?"
+      "en_US": "Connect to Nintendo Wi-Fi Connection?",
+      "fr_FR": [
+        "Se connecter à la connexion \n",
+        "Wi-Fi Nintendo?"
+      ]
     },
     {
       "id": "pl_msg_00000695_00018",
@@ -205,6 +347,16 @@
         "Information to this DS Card\n",
         "and connect to Nintendo Wi-Fi\n",
         "Connection?"
+      ],
+      "fr_FR": [
+        "La connexion Wi-Fi Nintendo\n",
+        "considère votre carte DS et\n",
+        "votre Nintendo DS comme un\n",
+        "ensemble. Se connecter à la\n",
+        "CWF Nintendo en sauvegardant\n",
+        "les informations d’utilisateur\n",
+        "de la CWF Nintendo de cette\n",
+        "console sur cette carte DS?"
       ]
     },
     {
@@ -218,6 +370,16 @@
         "From now on, please use this\n",
         "Nintendo DS system to connect\n",
         "to Nintendo Wi-Fi Connection."
+      ],
+      "fr_FR": [
+        "Les informations d’utilisateur\n",
+        "de la connexion Wi-Fi Nintendo\n",
+        "de cette console ont été\n",
+        "sauvegardées sur la carte DS.\n",
+        "A partir de maintenant, utilisez\n",
+        "cette Nintendo DS pour vous\n",
+        "connecter à la connexion\n",
+        "Wi-Fi Nintendo."
       ]
     },
     {
@@ -229,6 +391,14 @@
         "Information from the Nintendo\n",
         "DS system and the DS Card do not\n",
         "match."
+      ],
+      "fr_FR": [
+        "Les informations d’utilisateur de\n",
+        "la connexion Wi-Fi Nintendo de\n",
+        "la Nintendo DS et de la carte DS\n",
+        "ne correspondent pas.\n",
+        "Impossible de se connecter à la\n",
+        "connexion Wi-Fi Nintendo."
       ]
     },
     {
@@ -242,6 +412,16 @@
         "Information, you will lose all\n",
         "data that was used to connect\n",
         "to Nintendo Wi-Fi Connection."
+      ],
+      "fr_FR": [
+        "Mettre à jour les informations\n",
+        "d’utilisateur de la connexion Wi-Fi\n",
+        "Nintendo sauvegardées sur la\n",
+        "carte DS?\n",
+        "Vous perdrez toutes les données\n",
+        "utilisées pour vous connecter\n",
+        "à la connexion Wi-Fi Nintendo\n",
+        "si vous continuez."
       ]
     },
     {
@@ -252,6 +432,15 @@
         "Warning:\n",
         "All of the friends registered in\n",
         "your Pal Pad will be deleted.\n"
+      ],
+      "fr_FR": [
+        "Voulez-vous effectuer \n",
+        "la mise à jour?\n",
+        "\n",
+        "Attention:\n",
+        "Tous les amis enregistrés \n",
+        "dans votre Registre Ami \n",
+        "seront effacés."
       ]
     },
     {
@@ -259,6 +448,10 @@
       "en_US": [
         "Connecting to Nintendo Wi-Fi\n",
         "Connection... Please wait a moment..."
+      ],
+      "fr_FR": [
+        "Accès à la connexion Wi-Fi Nintendo...\n",
+        "Veuillez patienter..."
       ]
     },
     {
@@ -269,6 +462,14 @@
         "\n",
         "Please change your user name\n",
         "and try again."
+      ],
+      "fr_FR": [
+        "Impossible d’accéder à la \n",
+        "connexion Wi-Fi Nintendo \n",
+        "avec ce nom d’utilisateur.\n",
+        "\n",
+        "Veuillez changer votre nom \n",
+        "d’utilisateur et recommencer."
       ]
     },
     {
@@ -276,6 +477,10 @@
       "en_US": [
         "OK to disconnect from Nintendo\n",
         "Wi-Fi Connection?"
+      ],
+      "fr_FR": [
+        "Voulez-vous interrompre\n",
+        "la connexion Wi-Fi Nintendo?"
       ]
     },
     {
@@ -283,6 +488,10 @@
       "en_US": [
         "Disconnecting from Nintendo Wi-Fi\n",
         "Connection..."
+      ],
+      "fr_FR": [
+        "Déconnexion de la connexion \n",
+        "Wi-Fi Nintendo."
       ]
     },
     {
@@ -290,21 +499,31 @@
       "en_US": [
         "You have been disconnected from\n",
         "Nintendo Wi-Fi Connection."
+      ],
+      "fr_FR": [
+        "Vous avez été déconnecté de \n",
+        "la connexion Wi-Fi Nintendo."
       ]
     },
     {
       "id": "pl_msg_00000695_00028",
-      "en_US": "Yes"
+      "en_US": "Yes",
+      "fr_FR": "Oui"
     },
     {
       "id": "pl_msg_00000695_00029",
-      "en_US": "No"
+      "en_US": "No",
+      "fr_FR": "Non"
     },
     {
       "id": "pl_msg_00000695_00030",
       "en_US": [
         "Saving...\n",
         "Don’t turn off the power."
+      ],
+      "fr_FR": [
+        "Sauvegarde en cours...\n",
+        "Ne pas éteindre."
       ]
     },
     {
@@ -317,6 +536,11 @@
         "There was a communication error\n",
         "in the Wi-Fi Plaza.\n",
         "Error code: {STRVAR_1 54, 0, 0}"
+      ],
+      "fr_FR": [
+        "Erreur de communication dans\n",
+        "le Square Wi-Fi.\n",
+        "({STRVAR_1 54, 0, 0})"
       ]
     }
   ]

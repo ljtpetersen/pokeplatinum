@@ -41,6 +41,10 @@
             "en_US": [
                 "Waah! Ghost! Get away! Eek!\n",
                 "Help me, team!\r"
+            ],
+            "fr_FR": [
+                "Aaah! Un fantôme! Va-t’en! Hiii!\n",
+                "Aidez-moi, mon équipe!\r"
             ]
         },
         {
@@ -48,6 +52,10 @@
             "en_US": [
                 "Hey...\n",
                 "You’re no ghost...\n"
+            ],
+            "fr_FR": [
+                "Hé...\n",
+                "Tu n’es pas un fantôme...\n"
             ]
         },
         {
@@ -57,7 +65,14 @@
                 "a dare...\r",
                 "I have to go to the top and use Defog\n",
                 "there...\n"
+            ],
+            "fr_FR": [
+                "Je suis venu à la Tour Perdue à la suite\n",
+                "d’un pari...\r",
+                "Maintenant, je dois arriver au sommet\n",
+                "et utiliser Anti-Brume là-haut...\n"
             ]
         }
-    ]
+    ],
+    "name_fr": "Calvin"
 }

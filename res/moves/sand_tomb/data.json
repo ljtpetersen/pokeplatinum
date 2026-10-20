@@ -25,5 +25,13 @@
     "contest": {
         "effect": "CONTEST_EFFECT_HIGH_SCORE_LATER_TURN",
         "type": "CONTEST_TYPE_SMART"
-    }
+    },
+    "name_fr": "Tourbi-Sable",
+    "description_fr": [
+        "Le lanceur emprisonne\n",
+        "l’ennemi dans une\n",
+        "tempête de sable\n",
+        "terrifiante qui dure\n",
+        "de 2 à 5 tours."
+    ]
 }

@@ -26,5 +26,12 @@
   "battlePocket": "BATTLE_POCKET_MASK_NONE",
   "fieldUseFunc": "ITEM_USE_FUNC_NONE",
   "battleUseCategory": "BATTLE_USE_CATEGORY_NONE",
-  "itemUseParams": null
+  "itemUseParams": null,
+  "name_fr": "Croc Rasoir",
+  "description_fr": [
+    "Objet à tenir pouvant apeurer l’ennemi\n",
+    "quand le porteur inflige des dégâts."
+  ],
+  "plural_fr": "Croc Rasoir",
+  "article_fr": null
 }

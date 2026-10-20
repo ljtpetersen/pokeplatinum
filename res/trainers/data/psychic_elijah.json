@@ -26,6 +26,10 @@
             "en_US": [
                 "When a Trainer and a Pokémon bond\n",
                 "as one, a wondrous power is born...\r"
+            ],
+            "fr_FR": [
+                "Quand un Dresseur et son Pokémon\n",
+                "s’allient, un grand pouvoir apparaît.\r"
             ]
         },
         {
@@ -33,6 +37,10 @@
             "en_US": [
                 "Urmmm...\n",
                 "Urrrrmmmmm...\n"
+            ],
+            "fr_FR": [
+                "Hum...\n",
+                "Hmmmmmmmmmmmm...\n"
             ]
         },
         {
@@ -40,7 +48,12 @@
             "en_US": [
                 "There still remain many mysteries yet\n",
                 "to be solved in this strange world...\n"
+            ],
+            "fr_FR": [
+                "Il reste encore bien des mystères à\n",
+                "résoudre dans ce monde étrange...\n"
             ]
         }
-    ]
+    ],
+    "name_fr": "Térence"
 }

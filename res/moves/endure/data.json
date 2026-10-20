@@ -24,5 +24,13 @@
     "contest": {
         "effect": "CONTEST_EFFECT_SUPPRESS_VOLTAGE",
         "type": "CONTEST_TYPE_TOUGH"
-    }
+    },
+    "name_fr": "Ténacité",
+    "description_fr": [
+        "Le lanceur résiste\n",
+        "aux attaques avec\n",
+        "1 PV. Peut échouer\n",
+        "si utilisé plusieurs\n",
+        "fois de suite."
+    ]
 }

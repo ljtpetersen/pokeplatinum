@@ -27,5 +27,11 @@
     "contest": {
         "effect": "CONTEST_EFFECT_CONSECUTIVE_USE",
         "type": "CONTEST_TYPE_COOL"
-    }
+    },
+    "name_fr": "Furie",
+    "description_fr": [
+        "Frappe l’ennemi 2 à 5\n",
+        "fois d’affilée avec une\n",
+        "corne ou un bec."
+    ]
 }

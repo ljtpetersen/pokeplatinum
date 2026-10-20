@@ -26,5 +26,13 @@
   "battlePocket": "BATTLE_POCKET_MASK_NONE",
   "fieldUseFunc": "ITEM_USE_FUNC_NONE",
   "battleUseCategory": "BATTLE_USE_CATEGORY_NONE",
-  "itemUseParams": null
+  "itemUseParams": null,
+  "name_fr": "Masse Os",
+  "description_fr": [
+    "Objet à faire tenir à OSSELAIT et\n",
+    "OSSATUEUR. Os dur qui monte leur\n",
+    "Attaque."
+  ],
+  "plural_fr": "Masse Os",
+  "article_fr": null
 }

@@ -6,11 +6,16 @@
       "en_US": [
         "It’s a pair of binoculars...\n",
         "Put $100 in it?"
+      ],
+      "fr_FR": [
+        "C’est une paire de jumelles...\n",
+        "Mettre une pièce de 100 $?"
       ]
     },
     {
       "id": "PastoriaCityObservatoryGate2F_Text_NotEnoughMoney",
-      "en_US": "Not enough money..."
+      "en_US": "Not enough money...",
+      "fr_FR": "Vous n’avez pas assez d’argent..."
     },
     {
       "id": "PastoriaCityObservatoryGate2F_Text_PokemonDifferFromYesterday",
@@ -18,6 +23,11 @@
         "Tell me I’m not imagining this...\r",
         "The Great Marsh’s Pokémon seem to be\n",
         "different from the ones yesterday..."
+      ],
+      "fr_FR": [
+        "Rassure-moi, je n’ai pas de visions...?\r",
+        "Les Pokémon du Grand Marais ont l’air\n",
+        "d’avoir changé depuis hier..."
       ]
     },
     {
@@ -27,6 +37,12 @@
         "over the Great Marsh.\r",
         "You can see what kinds of Pokémon\n",
         "can be caught, and where they are."
+      ],
+      "fr_FR": [
+        "Utilise une paire de jumelles pour\n",
+        "inspecter le Grand Marais.\r",
+        "Tu pourras voir les Pokémon que tu\n",
+        "peux attraper et leur emplacement."
       ]
     },
     {
@@ -36,6 +52,12 @@
         "marsh called Quick Trams.\r",
         "You should take those if you’re going\n",
         "to a deeper area in the marsh."
+      ],
+      "fr_FR": [
+        "Il y a une navette dans le marais\n",
+        "appelée Tram Eclair.\r",
+        "Tu devras l’emprunter pour\n",
+        "aller au plus profond du marécage."
       ]
     },
     {
@@ -47,6 +69,13 @@
         "about it, though.\r",
         "If you turn while you’re stuck,\n",
         "sometimes Pokémon may pop out."
+      ],
+      "fr_FR": [
+        "Il faut faire attention en marchant\n",
+        "dans la tourbe, on s’enlise parfois...\r",
+        "Le côté positif de la chose, c’est que\n",
+        "quand tu te débats pour en sortir, des\f",
+        "Pokémon peuvent surgir.\n"
       ]
     }
   ]

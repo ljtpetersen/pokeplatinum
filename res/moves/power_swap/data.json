@@ -25,5 +25,13 @@
     "contest": {
         "effect": "CONTEST_EFFECT_LOW_VOLTAGE_ADVANTAGE",
         "type": "CONTEST_TYPE_BEAUTY"
-    }
+    },
+    "name_fr": "Permuforce",
+    "description_fr": [
+        "Pouvoir qui échange\n",
+        "les modifications de\n",
+        "l’Atq. Spé. et de \n",
+        "l’Attaque du lanceur\n",
+        "avec l’ennemi."
+    ]
 }

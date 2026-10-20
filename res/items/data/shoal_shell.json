@@ -26,5 +26,13 @@
   "battlePocket": "BATTLE_POCKET_MASK_NONE",
   "fieldUseFunc": "ITEM_USE_FUNC_NONE",
   "battleUseCategory": "BATTLE_USE_CATEGORY_NONE",
-  "itemUseParams": {}
+  "itemUseParams": {},
+  "name_fr": "Co. Tréfonds",
+  "description_fr": [
+    "Joli coquillage trouvé au fin fond de la\n",
+    "Grotte Tréfonds. Il est orné de\n",
+    "rayures bleues et blanches."
+  ],
+  "plural_fr": "Co. Tréfonds",
+  "article_fr": null
 }

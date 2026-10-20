@@ -44,11 +44,18 @@
                 "It was beneath the desert sand that\n",
                 "I toughened my body and soul.\r",
                 "Accept my challenge! Uraah!\r"
+            ],
+            "fr_FR": [
+                "Ma quête de puissance m’a mené ici.\r",
+                "C’est sur le sable du désert que j’ai\n",
+                "endurci mon corps et mon esprit.\r",
+                "Accepte mon défi! Grrr!\r"
             ]
         },
         {
             "type": "TRMSG_DEFEAT",
-            "en_US": "My spirit is broken...\n"
+            "en_US": "My spirit is broken...\n",
+            "fr_FR": "Mon esprit est brisé...\n"
         },
         {
             "type": "TRMSG_POST_BATTLE",
@@ -58,6 +65,13 @@
                 "I’ve let down my Pokémon...\r",
                 "They go to battle with faith in\n",
                 "their Trainer..."
+            ],
+            "fr_FR": [
+                "Je savais que j’allais perdre avant\n",
+                "même de commencer...\r",
+                "J’ai laissé tomber mes Pokémon...\r",
+                "Ils partent au combat en ayant\n",
+                "confiance en leur Dresseur..."
             ]
         },
         {
@@ -65,7 +79,12 @@
             "en_US": [
                 "This time! This time I will win!\n",
                 "My spirit is renewed and strong!\r"
+            ],
+            "fr_FR": [
+                "Cette fois-ci, je vais gagner!\n",
+                "Mon esprit est régénéré et fort!\r"
             ]
         }
-    ]
+    ],
+    "name_fr": "Toshi"
 }

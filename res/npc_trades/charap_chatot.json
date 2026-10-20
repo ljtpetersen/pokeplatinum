@@ -1,6 +1,8 @@
 {
     "name": "Charap",
+    "name_fr": "Pijouk",
     "otName": "Norton",
+    "otName_fr": "Pierre",
     "species": "SPECIES_CHATOT",
     "hpIV": 15,
     "atkIV": 20,

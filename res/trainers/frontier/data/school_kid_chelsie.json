@@ -59,6 +59,10 @@
             "en_US": [
                 "I’ve been taught every opponent has\n",
                 "a weakness. If I can find yours..."
+            ],
+            "fr_FR": [
+                "Tout adversaire a un point faible. Je\n",
+                "n’ai plus qu’à trouver le tien."
             ]
         },
         {
@@ -66,11 +70,17 @@
             "en_US": [
                 "Eheheh.\n",
                 "I figured out your weakness.\r"
+            ],
+            "fr_FR": [
+                "Héhé. On dirait que j’ai trouvé\n",
+                "ton point faible.\r"
             ]
         },
         {
             "type": "TRMSG_DEFEAT",
-            "en_US": "Did you figure out my weakness?\r"
+            "en_US": "Did you figure out my weakness?\r",
+            "fr_FR": "Tu as réussi à trouver mon point faible?\r"
         }
-    ]
+    ],
+    "name_fr": "Cheryl"
 }

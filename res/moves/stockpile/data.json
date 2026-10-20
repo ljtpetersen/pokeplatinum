@@ -25,5 +25,13 @@
     "contest": {
         "effect": "CONTEST_EFFECT_DOUBLE_NEXT_TURN",
         "type": "CONTEST_TYPE_TOUGH"
-    }
+    },
+    "name_fr": "Stockage",
+    "description_fr": [
+        "Le lanceur accumule\n",
+        "de la puissance et\n",
+        "augmente sa Défense\n",
+        "et sa Déf. Spé. Peut\n",
+        "être utilisé 3 fois."
+    ]
 }

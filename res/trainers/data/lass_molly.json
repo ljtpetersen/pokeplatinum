@@ -27,6 +27,10 @@
             "en_US": [
                 "Boo! Did I scare you?\n",
                 "This battle will!\r"
+            ],
+            "fr_FR": [
+                "BOUH! Tu as eu peur?\n",
+                "Ce n’est que le début!\r"
             ]
         },
         {
@@ -34,6 +38,10 @@
             "en_US": [
                 "Uh, whoopsie!\n",
                 "That didn’t end well!\n"
+            ],
+            "fr_FR": [
+                "Euh... oups!\n",
+                "Ce n’est pas la fin que j’attendais!\n"
             ]
         },
         {
@@ -41,7 +49,12 @@
             "en_US": [
                 "Since you’re here, you might as well\n",
                 "take on every Trainer.\n"
+            ],
+            "fr_FR": [
+                "Puisque tu es là, tu pourrais aussi bien\n",
+                "affronter tous les Dresseurs.\n"
             ]
         }
-    ]
+    ],
+    "name_fr": "Liane"
 }

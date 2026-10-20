@@ -3,21 +3,28 @@
   "messages": [
     {
       "id": "BattleTowerRecordsApp_Text_Results",
-      "en_US": "Battle Room Results"
+      "en_US": "Battle Room Results",
+      "fr_FR": "Salles de Combat Solo et Duo"
     },
     {
       "id": "BattleTowerRecordsApp_Text_MultiResults",
-      "en_US": "Multi Battle Room Results"
+      "en_US": "Multi Battle Room Results",
+      "fr_FR": "Salle de Combat Multi"
     },
     {
       "id": "BattleTowerRecordsApp_Text_WifResults",
-      "en_US": "Wi-Fi Battle Room Results"
+      "en_US": "Wi-Fi Battle Room Results",
+      "fr_FR": "Salle de Combat Wi-Fi"
     },
     {
       "id": "BattleTowerRecordsApp_Text_SingleRecord",
       "en_US": [
         "{COLOR 1}Single{COLOR 3} {COLOR 2}\n",
         "{COLOR 1}Record{COLOR 0}"
+      ],
+      "fr_FR": [
+        "{COLOR 1}Record\n",
+        "Solo{COLOR 0}"
       ]
     },
     {
@@ -25,6 +32,10 @@
       "en_US": [
         "{COLOR 1}Multi{COLOR 3} {COLOR 0}\n",
         "{COLOR 1}Record{COLOR 0}"
+      ],
+      "fr_FR": [
+        "{COLOR 1}Record\n",
+        "Multi{COLOR 0}"
       ]
     },
     {
@@ -32,6 +43,10 @@
       "en_US": [
         "{COLOR 1}Current{COLOR 3} {COLOR 0}\n",
         "{COLOR 1}Rank{COLOR 0}"
+      ],
+      "fr_FR": [
+        "{COLOR 1}Rang\n",
+        "Actuel{COLOR 0}"
       ]
     },
     {
@@ -39,6 +54,10 @@
       "en_US": [
         "{COLOR 1}Double{COLOR 3} {COLOR 0}\n",
         "{COLOR 1}Record{COLOR 0}"
+      ],
+      "fr_FR": [
+        "{COLOR 1}Record\n",
+        "Duo{COLOR 0}"
       ]
     },
     {
@@ -46,6 +65,10 @@
       "en_US": [
         "{COLOR 1}Link{COLOR 3} {COLOR 0}\n",
         "{COLOR 1}Record{COLOR 0}"
+      ],
+      "fr_FR": [
+        "{COLOR 1}Record\n",
+        "Link{COLOR 0}"
       ]
     },
     {
@@ -53,73 +76,98 @@
       "en_US": [
         "{COLOR 1}Wi-Fi{COLOR 0}\n",
         "{COLOR 1}Record{COLOR 0}"
+      ],
+      "fr_FR": [
+        "{COLOR 1}Record\n",
+        "Wi-Fi{COLOR 0}"
       ]
     },
     {
       "id": "BattleTowerRecordsApp_Text_Prev",
-      "en_US": "{COLOR 1}PREV{COLOR 0}"
+      "en_US": "{COLOR 1}PREV{COLOR 0}",
+      "fr_FR": "{COLOR 1}PRECEDENT{COLOR 0}"
     },
     {
       "id": "BattleTowerRecordsApp_Text_Current",
-      "en_US": "{COLOR 1}CURRENT{COLOR 0}"
+      "en_US": "{COLOR 1}CURRENT{COLOR 0}",
+      "fr_FR": "{COLOR 1}ACTUEL{COLOR 0}"
     },
     {
       "id": "BattleTowerRecordsApp_Text_Record",
-      "en_US": "{COLOR 1}RECORD{COLOR 0}"
+      "en_US": "{COLOR 1}RECORD{COLOR 0}",
+      "fr_FR": "{COLOR 1}RECORD{COLOR 0}"
     },
     {
       "id": "BattleTowerRecordsApp_Text_Rank",
-      "en_US": "{COLOR 1}RANK{COLOR 0}"
+      "en_US": "{COLOR 1}RANK{COLOR 0}",
+      "fr_FR": "{COLOR 1}RANG{COLOR 0}"
     },
     {
       "id": "BattleTowerRecordsApp_Text_WinStreak",
-      "en_US": "Win streak: {COLOR 2}{STRVAR_1 53, 0, 0}{COLOR 0} "
+      "en_US": "Win streak: {COLOR 2}{STRVAR_1 53, 0, 0}{COLOR 0} ",
+      "fr_FR": "Victoires: {COLOR 2}{STRVAR_1 53, 0, 0}{COLOR 0}"
     },
     {
       "id": "BattleTowerRecordsApp_Text_RankTemplate",
-      "en_US": "{STRVAR_1 51, 0, 0}"
+      "en_US": "{STRVAR_1 51, 0, 0}",
+      "fr_FR": "{STRVAR_1 51, 0, 0}"
     },
     {
       "id": "BattleTowerRecordsApp_Text_RankingsHeader",
-      "en_US": "Rank {STRVAR_1 51, 0, 0}, Battle Room {STRVAR_1 52, 1, 0}"
+      "en_US": "Rank {STRVAR_1 51, 0, 0}, Battle Room {STRVAR_1 52, 1, 0}",
+      "fr_FR": "Rang {STRVAR_1 51, 0, 0}, Salle de Combat {STRVAR_1 52, 1, 0}"
     },
     {
       "id": "BattleTowerRecordsApp_Text_ListOfLeaders",
-      "en_US": "LIST OF LEADERS"
+      "en_US": "LIST OF LEADERS",
+      "fr_FR": "TABLEAU DES LEADERS"
     },
     {
       "id": "BattleTowerRecordsApp_Text_UnusedTemplate",
-      "en_US": "{STRVAR_1 3, 0, 0}"
+      "en_US": "{STRVAR_1 3, 0, 0}",
+      "fr_FR": "{STRVAR_1 3, 0, 0}"
     },
     {
       "id": "BattleTowerRecordsApp_Text_Cancel",
-      "en_US": "CANCEL"
+      "en_US": "CANCEL",
+      "fr_FR": "ANNULER"
     },
     {
       "id": "BattleTowerRecordsApp_Text_CountryAndCity",
       "en_US": [
         "{STRVAR_1 36, 0, 0}\n",
         "{STRVAR_1 37, 1, 0}"
+      ],
+      "fr_FR": [
+        "{STRVAR_1 36, 0, 0}\n",
+        "{STRVAR_1 37, 1, 0}"
       ]
     },
     {
       "id": "BattleTowerRecordsApp_Text_Country",
-      "en_US": "{STRVAR_1 36, 0, 0}"
+      "en_US": "{STRVAR_1 36, 0, 0}",
+      "fr_FR": "{STRVAR_1 36, 0, 0}"
     },
     {
       "id": "BattleTowerRecordsApp_Text_HomeCountryUnRegisterd",
       "en_US": [
         "Home country\n",
         "unregistered"
+      ],
+      "fr_FR": [
+        "Lieu d’origine\n",
+        "non-enregistré"
       ]
     },
     {
       "id": "BattleTowerRecordsApp_Text_Plato",
-      "en_US": "Plato"
+      "en_US": "Plato",
+      "fr_FR": "Platine"
     },
     {
       "id": "BattleTowerRecordsApp_Text_Plato2",
-      "en_US": "Plato"
+      "en_US": "Plato",
+      "fr_FR": "Platine"
     }
   ]
 }

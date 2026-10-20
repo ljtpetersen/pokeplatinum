@@ -52,17 +52,28 @@
                 "body.\r",
                 "Jump in and swim!\n",
                 "Swim, you!\r"
+            ],
+            "fr_FR": [
+                "Nager fait travailler tous les muscles\n",
+                "du corps.\r",
+                "Tu devrais essayer!\n",
+                "Allez! Viens nager! Hop!\r"
             ]
         },
         {
             "type": "TRMSG_DEFEAT",
-            "en_US": "Sunk like a stone!\n"
+            "en_US": "Sunk like a stone!\n",
+            "fr_FR": "J’ai coulé comme une pierre!\n"
         },
         {
             "type": "TRMSG_POST_BATTLE",
             "en_US": [
                 "Well, Pokémon’s one thing, but you\n",
                 "should take up swimming, too!\n"
+            ],
+            "fr_FR": [
+                "Les Pokémon, c’est une chose, mais tu\n",
+                "devrais aussi te mettre à la natation!\n"
             ]
         },
         {
@@ -70,7 +81,12 @@
             "en_US": [
                 "Hiya, Pokémon-riding Trainer!\n",
                 "You should be swimming like me!\r"
+            ],
+            "fr_FR": [
+                "Salut, Dresseur à dos de Pokémon!\n",
+                "Tu devrais nager, comme moi!\r"
             ]
         }
-    ]
+    ],
+    "name_fr": "Katia"
 }

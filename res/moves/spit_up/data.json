@@ -24,5 +24,12 @@
     "contest": {
         "effect": "CONTEST_EFFECT_FINAL_PERFORMANCE_ADVANTAGE",
         "type": "CONTEST_TYPE_TOUGH"
-    }
+    },
+    "name_fr": "Relâche",
+    "description_fr": [
+        "Libère la puissance\n",
+        "précédemment\n",
+        "accumulée avec\n",
+        "Stockage."
+    ]
 }

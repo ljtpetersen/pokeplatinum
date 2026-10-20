@@ -39,5 +39,13 @@
     "bitterness": 0,
     "sourness": 10,
     "smoothness": 35
-  }
+  },
+  "name_fr": "Baie Panga",
+  "description_fr": [
+    "Ingrédient pour Poffin. Tenue, cette\n",
+    "Baie affaiblit une attaque ennemie super\n",
+    "efficace de type Insecte."
+  ],
+  "plural_fr": "Baie Panga",
+  "article_fr": null
 }

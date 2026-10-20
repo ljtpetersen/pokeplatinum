@@ -41,7 +41,12 @@
             "en_US": [
                 "You know, I had confidence before\n",
                 "heading into this.\n"
+            ],
+            "fr_FR": [
+                "Tu sais, j’avais confiance en moi avant\n",
+                "que tout ça ne commence.\n"
             ]
         }
-    ]
+    ],
+    "name_fr": "Leila"
 }

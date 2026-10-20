@@ -53,6 +53,10 @@
             "en_US": [
                 "Uhho uho-uho uhho hohoi!\n",
                 "This dance I use to psych myself up."
+            ],
+            "fr_FR": [
+                "Hoyo hoyo! Hoyo hoyo! Hoyo hoyo!\n",
+                "Cette danse tribale apporte la force."
             ]
         },
         {
@@ -60,6 +64,10 @@
             "en_US": [
                 "Uhho uho-uho uhho hohoi!\n",
                 "So much fun, I cannot stop.\r"
+            ],
+            "fr_FR": [
+                "Hoyo hoyo! Hoyo hoyo! Hoyo hoyo!\n",
+                "En plus, c’est très amusant!\r"
             ]
         },
         {
@@ -67,7 +75,12 @@
             "en_US": [
                 "Uhho uho-uho uhho hohoi!\n",
                 "I dance to stem my tears from losing...\r"
+            ],
+            "fr_FR": [
+                "Hoyo hoyo! Hoyo hoyo! Hoyo hoyo!\n",
+                "Je danse pour oublier ma peine.\r"
             ]
         }
-    ]
+    ],
+    "name_fr": "Roch"
 }

@@ -12,6 +12,16 @@
         "said the moving floor made them dizzy!\r",
         "But you don’t want to listen to me\n",
         "whine. Here’s a souvenir!\r"
+      ],
+      "fr_FR": [
+        "M. Fuego: Eh bien, bonjour!\n",
+        "Je n’ai pas beaucoup de visiteurs.\r",
+        "J’ai essayé d’améliorer la forge\n",
+        "grâce aux carreaux de déplacement.\r",
+        "Mais quelqu’un s’est énervé et a dit\n",
+        "que ça lui donnait le mal de mer!\r",
+        "Mais tu n’es pas là pour m’écouter me\n",
+        "plaindre. Voilà un souvenir pour toi!\r"
       ]
     },
     {
@@ -23,6 +33,14 @@
         "colored Shards.\r",
         "If you’d like, we can trade Star Pieces\n",
         "for these Shards."
+      ],
+      "fr_FR": [
+        "M. Fuego: A la fonderie, on produit du\n",
+        "fer en ôtant les impuretés du minerai.\r",
+        "On trouve toutes sortes de Tessons\n",
+        "colorés au cours de ce processus.\r",
+        "Si tu veux, je t’échange des Tessons\n",
+        "contre des Morc. Etoile."
       ]
     },
     {
@@ -34,6 +52,14 @@
         "colored Shards.\r",
         "If you’d like, we can trade Star Pieces\n",
         "for these Shards?"
+      ],
+      "fr_FR": [
+        "M. Fuego: A la fonderie, on produit du\n",
+        "fer en ôtant les impuretés du minerai.\r",
+        "On trouve toutes sortes de Tessons\n",
+        "colorés au cours de ce processus.\r",
+        "Si tu veux, je t’échange des Tessons\n",
+        "contre des Morc. Etoile."
       ]
     },
     {
@@ -41,6 +67,11 @@
       "en_US": [
         "Mr. Fuego: Do you have any Star Pieces?\n",
         "You can trade them for various Shards."
+      ],
+      "fr_FR": [
+        "M. Fuego: Tu as des Morc. Etoile?\n",
+        "Je suis prêt à te les échanger contre\f",
+        "des Tessons."
       ]
     },
     {
@@ -48,6 +79,11 @@
       "en_US": [
         "Mr. Fuego: Are you interested?\n",
         "Want to trade Star Pieces for Shards?"
+      ],
+      "fr_FR": [
+        "M. Fuego: Alors, qu’en dis-tu?\n",
+        "Tu veux échanger des Morc. Etoile\f",
+        "contre des Tessons?"
       ]
     },
     {
@@ -56,6 +92,12 @@
         "Mr. Fuego: I see you’ve got many Star\n",
         "Pieces.\r",
         "Would you like to trade ten of them?"
+      ],
+      "fr_FR": [
+        "M. Fuego: Je vois que tu as beaucoup de\n",
+        "Morc. Etoile.\r",
+        "Tu es d’accord pour m’en céder\n",
+        "une dizaine?"
       ]
     },
     {
@@ -64,11 +106,17 @@
         "Mr. Fuego: There you are--\n",
         "red, blue, yellow, and green.\f",
         "Shards in different colors!\r"
+      ],
+      "fr_FR": [
+        "M. Fuego: Et voilà: des rouges, des\n",
+        "bleus, des jaunes et des verts.\f",
+        "Des Tessons de toutes les couleurs!\r"
       ]
     },
     {
       "id": "FuegoIronworksBuilding_Text_YoureNotTrading",
-      "en_US": "Mr. Fuego: You’re not trading?!"
+      "en_US": "Mr. Fuego: You’re not trading?!",
+      "fr_FR": "M. Fuego: Tu refuses de faire du troc?!"
     },
     {
       "id": "FuegoIronworksBuilding_Text_NothingIfNoIron",
@@ -77,6 +125,12 @@
         "nothing if there were no iron.\r",
         "That’s why I’m always thankful for\n",
         "nature supplying me with iron."
+      ],
+      "fr_FR": [
+        "M. Fuego: Ma forge ne serait rien\n",
+        "s’il n’y avait pas de fer.\r",
+        "C’est pourquoi je rends grâce à\n",
+        "la nature de me le fournir."
       ]
     }
   ]

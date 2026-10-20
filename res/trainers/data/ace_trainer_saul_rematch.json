@@ -30,6 +30,10 @@
             "en_US": [
                 "The urge to battle you again has\n",
                 "struck me. Humor me!\r"
+            ],
+            "fr_FR": [
+                "L’envie de te combattre me démange à\n",
+                "nouveau. Ça te tente?\r"
             ]
         },
         {
@@ -37,7 +41,9 @@
             "en_US": [
                 "I shouldn’t have paid attention\n",
                 "to my urge...\n"
-            ]
+            ],
+            "fr_FR": "Je devrais résister à mes envies...\n"
         }
-    ]
+    ],
+    "name_fr": "Yann"
 }

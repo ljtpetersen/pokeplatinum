@@ -28,5 +28,12 @@
   "battleUseCategory": "BATTLE_USE_CATEGORY_HEALING",
   "itemUseParams": {
     "hpRestored": 50
-  }
+  },
+  "name_fr": "Super Potion",
+  "description_fr": [
+    "Un spray qui soigne les blessures.\n",
+    "Restaure 50 PV à un Pokémon."
+  ],
+  "plural_fr": "Super Potion",
+  "article_fr": null
 }

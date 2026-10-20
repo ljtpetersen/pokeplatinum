@@ -7,6 +7,11 @@
         "I don’t know what to do.\r",
         "What Accessories will go well with\n",
         "my dress today?"
+      ],
+      "fr_FR": [
+        "Je ne sais pas quoi faire...\r",
+        "Quels Accessoires seraient bien\n",
+        "assortis à ma robe?"
       ]
     },
     {
@@ -15,6 +20,11 @@
         "The star of tomorrow is... You!\n",
         "Your Pokémon has a glow about it!\r",
         "So, a gift for our future star!\r"
+      ],
+      "fr_FR": [
+        "La star de demain, c’est... toi!\n",
+        "Ton Pokémon rayonne!\r",
+        "Voilà un cadeau pour la future star!\r"
       ]
     },
     {
@@ -23,6 +33,11 @@
         "That’s a {STRVAR_1 31, 0, 0}!\r",
         "I hope you get into collecting\n",
         "Accessories for your Pokémon!"
+      ],
+      "fr_FR": [
+        "C’est l’Accessoire {STRVAR_1 31, 0, 0}!\r",
+        "J’espère que tu vas collectionner les\n",
+        "Accessoires pour tes Pokémon!"
       ]
     },
     {
@@ -32,6 +47,13 @@
         "fitting room.\r",
         "Once you’re done in there, get our\n",
         "dreamy Hiker to take a dreamy photo!"
+      ],
+      "fr_FR": [
+        "A l’arrière se trouve notre cabine\n",
+        "d’essayage de rêve.\r",
+        "Une fois votre Pokémon prêt, demandez\n",
+        "à notre Montagnard de rêve de faire\f",
+        "un cliché de rêve!"
       ]
     }
   ]

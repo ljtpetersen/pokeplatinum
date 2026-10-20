@@ -6,6 +6,11 @@
       "en_US": [
         "Isn’t it hot in the Battle Zone?\n",
         "Why not let your Pokémon drink this?\r"
+      ],
+      "fr_FR": [
+        "C’est la fournaise dans le Secteur\n",
+        "Combat! Tiens, de quoi rafraîchir\f",
+        "ton équipe.\r"
       ]
     },
     {
@@ -14,6 +19,11 @@
         "Water is the wellspring of life.\r",
         "Having said that, no one knows where\n",
         "Pokémon originated."
+      ],
+      "fr_FR": [
+        "L’eau est à l’origine de toute vie.\r",
+        "Mais en même temps, on ne sait pas \n",
+        "d’où viennent les Pokémon..."
       ]
     }
   ]

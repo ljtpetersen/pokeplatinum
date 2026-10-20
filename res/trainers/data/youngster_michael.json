@@ -34,11 +34,18 @@
                 "Pokémon!\r",
                 "Here we go!\n",
                 "KRICKETOT! ZUBAT!\r"
+            ],
+            "fr_FR": [
+                "Grâce à mes Pokémon, je suis toujours\n",
+                "plein d’énergie!\r",
+                "En avant!\n",
+                "CRIKZIK! NOSFERAPTI!\r"
             ]
         },
         {
             "type": "TRMSG_DEFEAT",
-            "en_US": "Ack! My Pokémon..."
+            "en_US": "Ack! My Pokémon...",
+            "fr_FR": "Argh! Mes Pokémon..."
         },
         {
             "type": "TRMSG_POST_BATTLE",
@@ -46,6 +53,12 @@
                 "Keep out of the grass or dodge the\n",
                 "eyes of Trainers...?\r",
                 "I always have a tough time choosing.\n"
+            ],
+            "fr_FR": [
+                "Eviter les hautes herbes ou éviter\n",
+                "le regard des Dresseurs...\r",
+                "J’ai toujours du mal à prendre\n",
+                "une décision."
             ]
         },
         {
@@ -53,7 +66,12 @@
             "en_US": [
                 "Hey, I remember your face, Trainer.\n",
                 "You’ll battle me again, won’t you?\r"
+            ],
+            "fr_FR": [
+                "Je me souviens de toi, Dresseur.\n",
+                "Affrontons-nous à nouveau, d’accord?\r"
             ]
         }
-    ]
+    ],
+    "name_fr": "Yann"
 }

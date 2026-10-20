@@ -26,5 +26,13 @@
   "battlePocket": "BATTLE_POCKET_MASK_NONE",
   "fieldUseFunc": "ITEM_USE_FUNC_NONE",
   "battleUseCategory": "BATTLE_USE_CATEGORY_NONE",
-  "itemUseParams": null
+  "itemUseParams": null,
+  "name_fr": "Poudre Métal",
+  "description_fr": [
+    "Objet à faire tenir à METAMORPH. Cette\n",
+    "poudre étrange, très fine mais\n",
+    "résistante, booste sa Défense."
+  ],
+  "plural_fr": "Poudre Métal",
+  "article_fr": null
 }

@@ -23,7 +23,12 @@
             "en_US": [
                 "You are good, you!\n",
                 "My Pokémon, they have enjoyed it, too!\n"
+            ],
+            "fr_FR": [
+                "Notre combat tu as remporté!\n",
+                "Je suis sans voix, émerveillée!"
             ]
         }
-    ]
+    ],
+    "name_fr": "Dahlia"
 }

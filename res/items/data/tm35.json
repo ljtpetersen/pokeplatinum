@@ -27,5 +27,12 @@
   "fieldUseFunc": "ITEM_USE_FUNC_TM_HM",
   "battleUseCategory": "BATTLE_USE_CATEGORY_NONE",
   "itemUseParams": null,
-  "teachesMove": "MOVE_FLAMETHROWER"
+  "teachesMove": "MOVE_FLAMETHROWER",
+  "name_fr": "CT35",
+  "description_fr": [
+    "L’ennemi reçoit un torrent de flammes.\n",
+    "Peut aussi le brûler."
+  ],
+  "plural_fr": "CT35",
+  "article_fr": null
 }

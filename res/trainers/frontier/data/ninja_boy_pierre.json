@@ -59,6 +59,10 @@
             "en_US": [
                 "You’ll be befuddled by my dazzling\n",
                 "speed!"
+            ],
+            "fr_FR": [
+                "Je suis plus rapide que le vent,\n",
+                "tu vas voir!"
             ]
         },
         {
@@ -66,6 +70,10 @@
             "en_US": [
                 "Your movements...\n",
                 "It’s as if you’re moving in molasses.\r"
+            ],
+            "fr_FR": [
+                "Tes mouvements... On dirait que tu\n",
+                "bouges au ralenti.\r"
             ]
         },
         {
@@ -73,7 +81,12 @@
             "en_US": [
                 "I didn’t need to do all that dashing\n",
                 "around, did I?\r"
+            ],
+            "fr_FR": [
+                "J’ai peut-être confondu vitesse\n",
+                "et précipitation...\r"
             ]
         }
-    ]
+    ],
+    "name_fr": "Doug"
 }

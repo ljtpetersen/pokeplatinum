@@ -26,5 +26,13 @@
   "battlePocket": "BATTLE_POCKET_MASK_NONE",
   "fieldUseFunc": "ITEM_USE_FUNC_NONE",
   "battleUseCategory": "BATTLE_USE_CATEGORY_NONE",
-  "itemUseParams": null
+  "itemUseParams": null,
+  "name_fr": "Vieux Grigri",
+  "description_fr": [
+    "Un ancien porte-bonheur fait d’os de\n",
+    "Pokémon à porter à la doyenne de\n",
+    "Célestia."
+  ],
+  "plural_fr": "Vieux Grigri",
+  "article_fr": null
 }

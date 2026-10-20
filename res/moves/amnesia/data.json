@@ -24,5 +24,13 @@
     "contest": {
         "effect": "CONTEST_EFFECT_DOUBLE_NEXT_TURN",
         "type": "CONTEST_TYPE_CUTE"
-    }
+    },
+    "name_fr": "Amnésie",
+    "description_fr": [
+        "Le lanceur fait le vide\n",
+        "dans son esprit pour\n",
+        "oublier ses soucis.\n",
+        "Augmente fortement\n",
+        "sa Déf. Spé."
+    ]
 }

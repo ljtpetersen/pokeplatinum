@@ -69,6 +69,11 @@
                 "What’s that?!\r",
                 "You say you have a Pokédex?\n",
                 "An authentic one!\r"
+            ],
+            "fr_FR": [
+                "Qu’est-ce que c’est que ça?\r",
+                "Tu dis que tu as un Pokédex?\n",
+                "Un vrai Pokédex?\r"
             ]
         },
         {
@@ -76,6 +81,10 @@
             "en_US": [
                 "Your Pokédex fills me with such envy,\n",
                 "envy, envy...\n"
+            ],
+            "fr_FR": [
+                "Je suis franchement jaloux de ton\n",
+                "Pokédex... J’en veux un aussi!\n"
             ]
         },
         {
@@ -85,6 +94,12 @@
                 "sorts of Pokémon with them.\r",
                 "The more you battle, the more your\n",
                 "Pokédex is filled!\n"
+            ],
+            "fr_FR": [
+                "On croise beaucoup de Dresseurs\n",
+                "ayant toutes sortes de Pokémon.\r",
+                "Plus tu combats de Dresseurs et plus\n",
+                "ton Pokédex se remplit!"
             ]
         },
         {
@@ -93,7 +108,13 @@
                 "Ooh, thank you!\r",
                 "You came back to show me your Pokédex\n",
                 "because I don’t have one!\r"
+            ],
+            "fr_FR": [
+                "Hé, merci!\r",
+                "C’est gentil de passer me montrer ton\n",
+                "Pokédex! J’aimerais en avoir un aussi.\r"
             ]
         }
-    ]
+    ],
+    "name_fr": "Nelson"
 }

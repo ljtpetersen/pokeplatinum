@@ -37,6 +37,10 @@
             "en_US": [
                 "There’s no end to adolescence or\n",
                 "Pokémon."
+            ],
+            "fr_FR": [
+                "Pour les humains comme pour les\n",
+                "Pokémon, l’âge ne veut rien dire!"
             ]
         },
         {
@@ -44,6 +48,10 @@
             "en_US": [
                 "See ya! That was fun!\n",
                 "Enjoy your youth!\r"
+            ],
+            "fr_FR": [
+                "Ciao! C’était marrant!\n",
+                "Profite de ta jeunesse!\r"
             ]
         },
         {
@@ -51,7 +59,12 @@
             "en_US": [
                 "I’m still a dreamer.\n",
                 "A precious, unspoiled snowflake...\r"
+            ],
+            "fr_FR": [
+                "J’ai toujours gardé mon\n",
+                "âme d’enfant.\r"
             ]
         }
-    ]
+    ],
+    "name_fr": "Rodney"
 }

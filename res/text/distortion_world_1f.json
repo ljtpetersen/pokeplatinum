@@ -3,7 +3,8 @@
   "messages": [
     {
       "id": "DistortionWorld1F_Text_ThisPlace",
-      "en_US": "Cynthia: This place...\r"
+      "en_US": "Cynthia: This place...\r",
+      "fr_FR": "Cynthia: Cet endroit est étrange...\r"
     },
     {
       "id": "DistortionWorld1F_Text_SpaceCalledDistortionWorld",
@@ -15,6 +16,16 @@
         "A world where the rules are broken.\r",
         "A space one might call the Distortion\n",
         "World...\r"
+      ],
+      "fr_FR": [
+        "Tu le sens?\n",
+        "Il n’y a aucun Pokémon dans le coin.\r",
+        "Le temps est figé.\n",
+        "Et l’espace instable.\r",
+        "C’est un monde qui enfreint les lois\n",
+        "les plus élémentaires.\r",
+        "Un lieu qu’on serait tenté d’appeler\n",
+        "le Monde Distorsion...\r"
       ]
     },
     {
@@ -23,12 +34,21 @@
         "Let’s find GIRATINA.\r",
         "We need it to stop the spreading\n",
         "distortion at the Spear Pillar...\r"
+      ],
+      "fr_FR": [
+        "Trouvons GIRATINA.\r",
+        "Il faut empêcher que la distorsion ne\n",
+        "s’étende au-delà des Colonnes Lances.\r"
       ]
     },
     {
       "id": "DistortionWorld1F_Text_ThatWasGiratina",
       "en_US": [
         "Cynthia: That was...\r",
+        "GIRATINA...!"
+      ],
+      "fr_FR": [
+        "Cynthia: C’était...\r",
         "GIRATINA...!"
       ]
     },
@@ -39,6 +59,12 @@
         "If something’s not done, the distortion\n",
         "will swallow not only our world, it will\f",
         "overwhelm the Distortion World...\r"
+      ],
+      "fr_FR": [
+        "Pas de temps à perdre!\r",
+        "Si on ne fait rien, la distorsion va\n",
+        "engloutir non seulement notre monde,\f",
+        "mais aussi le Monde Distorsion...\r"
       ]
     },
     {
@@ -47,6 +73,11 @@
         "Cynthia: This rock slab...\r",
         "It appears to move if you step on a\n",
         "certain spot."
+      ],
+      "fr_FR": [
+        "Cynthia: Cette dalle de pierre...\r",
+        "On dirait qu’elle bouge si on marche\n",
+        "en un certain point."
       ]
     },
     {
@@ -54,6 +85,10 @@
       "en_US": [
         "Cynthia: On the ground here...\n",
         "Why is it colored differently?"
+      ],
+      "fr_FR": [
+        "Cynthia: Là, par terre...\n",
+        "La couleur est différente!"
       ]
     },
     {
@@ -63,6 +98,11 @@
         "the Spear Pillar.\r",
         "Leap into the portal and return to\n",
         "the Spear Pillar?"
+      ],
+      "fr_FR": [
+        "Le portail menant aux Colonnes Lances.\r",
+        "Emprunter le passage et regagner les\n",
+        "Colonnes Lances?"
       ]
     },
     {
@@ -70,6 +110,10 @@
       "en_US": [
         "{STRVAR_1 3, 0, 0} headed for the Spear\n",
         "Pillar!\r"
+      ],
+      "fr_FR": [
+        "{STRVAR_1 3, 0, 0} regagne les Colonnes\n",
+        "Lances!\r"
       ]
     }
   ]

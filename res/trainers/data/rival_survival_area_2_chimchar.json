@@ -105,6 +105,10 @@
             "en_US": [
                 "No way! I won’t give up!\n",
                 "There’s never any giving up!"
+            ],
+            "fr_FR": [
+                "Oh non! Je ne baisserai pas les bras!\n",
+                "Je n’abandonnerai jamais! Jamais!"
             ]
         },
         {
@@ -113,7 +117,13 @@
                 "What was that about?!\r",
                 "I’m going to get tougher, though!\n",
                 "Tougher with these guys!\n"
+            ],
+            "fr_FR": [
+                "Hein? Incroyable!\r",
+                "Mais ne t’endors pas, je vais devenir\n",
+                "bien plus balèze! Et mes Pokémon aussi!"
             ]
         }
-    ]
+    ],
+    "name_fr": "Eddy"
 }

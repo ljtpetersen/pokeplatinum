@@ -7,7 +7,10 @@
         "special_attack": 62,
         "special_defense": 53
     },
-    "types": [ "TYPE_GRASS", "TYPE_GRASS" ],
+    "types": [
+        "TYPE_GRASS",
+        "TYPE_GRASS"
+    ],
     "catch_rate": 190,
     "base_exp_reward": 68,
     "ev_yields": {
@@ -26,24 +29,60 @@
     "hatch_cycles": 20,
     "base_friendship": 70,
     "exp_rate": "EXP_RATE_MEDIUM_FAST",
-    "egg_groups": [ "EGG_GROUP_FAIRY", "EGG_GROUP_GRASS" ],
-    "abilities": [ "ABILITY_CHLOROPHYLL", "ABILITY_NONE" ],
+    "egg_groups": [
+        "EGG_GROUP_FAIRY",
+        "EGG_GROUP_GRASS"
+    ],
+    "abilities": [
+        "ABILITY_CHLOROPHYLL",
+        "ABILITY_NONE"
+    ],
     "safari_flee_rate": 0,
     "body_color": "MON_COLOR_PINK",
     "flip_sprite": false,
     "icon_palette": 1,
     "learnset": {
         "by_level": [
-            [ 1, "MOVE_TACKLE" ],
-            [ 7, "MOVE_GROWTH" ],
-            [ 10, "MOVE_LEECH_SEED" ],
-            [ 13, "MOVE_HELPING_HAND" ],
-            [ 19, "MOVE_MAGICAL_LEAF" ],
-            [ 22, "MOVE_SUNNY_DAY" ],
-            [ 28, "MOVE_WORRY_SEED" ],
-            [ 31, "MOVE_TAKE_DOWN" ],
-            [ 37, "MOVE_SOLAR_BEAM" ],
-            [ 40, "MOVE_LUCKY_CHANT" ]
+            [
+                1,
+                "MOVE_TACKLE"
+            ],
+            [
+                7,
+                "MOVE_GROWTH"
+            ],
+            [
+                10,
+                "MOVE_LEECH_SEED"
+            ],
+            [
+                13,
+                "MOVE_HELPING_HAND"
+            ],
+            [
+                19,
+                "MOVE_MAGICAL_LEAF"
+            ],
+            [
+                22,
+                "MOVE_SUNNY_DAY"
+            ],
+            [
+                28,
+                "MOVE_WORRY_SEED"
+            ],
+            [
+                31,
+                "MOVE_TAKE_DOWN"
+            ],
+            [
+                37,
+                "MOVE_SOLAR_BEAM"
+            ],
+            [
+                40,
+                "MOVE_LUCKY_CHANT"
+            ]
         ],
         "by_tm": [
             "TM06",
@@ -117,9 +156,9 @@
             "name": "CHERUBI",
             "category": "Cherry Pokémon",
             "entry_text": [
-                "The small ball is not only filled with\n",
-                "nutrients, it is also tasty. STARLY\n",
-                "try to peck it off."
+                "The small ball holds the nutrients\n",
+                "needed for evolution. Apparently,\n",
+                "it is very sweet and tasty."
             ]
         },
         "fr": {
@@ -165,6 +204,18 @@
                 "しんかに　ひつような　えいようぶんが\n",
                 "ちいさい　たまに　ためられている。\n",
                 "とても　あまくて　おいしい　らしい。"
+            ]
+        },
+        "local_version": {
+            "entry_text": [
+                "The small ball is not only filled with\n",
+                "nutrients, it is also tasty. STARLY\n",
+                "try to peck it off."
+            ],
+            "entry_text_fr": [
+                "Sa petite boule rose est nutritive\n",
+                "et délicieuse. Les ETOURMI en\n",
+                "raffolent."
             ]
         }
     },

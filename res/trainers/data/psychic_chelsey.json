@@ -33,6 +33,10 @@
             "en_US": [
                 "I’ll use my mystifying psychic power\n",
                 "to pulverize you!\r"
+            ],
+            "fr_FR": [
+                "Je vais utiliser mon incroyable pouvoir\n",
+                "psychique pour te pulvériser!\r"
             ]
         },
         {
@@ -40,7 +44,8 @@
             "en_US": [
                 "That’s what I get for making idle\n",
                 "claims...\n"
-            ]
+            ],
+            "fr_FR": "Ça m’apprendra à dire des bêtises...\n"
         },
         {
             "type": "TRMSG_POST_BATTLE",
@@ -49,7 +54,14 @@
                 "defies explanation.\r",
                 "But if everything could be explained,\n",
                 "it would be a boring world."
+            ],
+            "fr_FR": [
+                "Le pouvoir psychique dépasse\n",
+                "l’entendement.\r",
+                "Mais s’il y avait une explication à tout,\n",
+                "ce serait un monde bien ennuyeux."
             ]
         }
-    ]
+    ],
+    "name_fr": "Flavie"
 }

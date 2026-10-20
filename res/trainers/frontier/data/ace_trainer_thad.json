@@ -57,6 +57,10 @@
             "en_US": [
                 "My whole life hinges on this one battle!\n",
                 "...Lose for me, pretty please?"
+            ],
+            "fr_FR": [
+                "C’est ma vie qui est en jeu dans ce\n",
+                "combat. Tu veux bien perdre pour moi?"
             ]
         },
         {
@@ -64,6 +68,10 @@
             "en_US": [
                 "Yeah! I won!\n",
                 "It’s all smooth sailing for me now!\r"
+            ],
+            "fr_FR": [
+                "Oui! J’ai gagné!\n",
+                "Je me sens beaucoup mieux!\r"
             ]
         },
         {
@@ -71,7 +79,12 @@
             "en_US": [
                 "I wasn’t supposed to lose...\n",
                 "That’s my life derailed...\r"
+            ],
+            "fr_FR": [
+                "Non! Je n’aurais jamais dû\n",
+                "perdre. Les conséquences...\r"
             ]
         }
-    ]
+    ],
+    "name_fr": "Wolf"
 }

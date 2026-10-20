@@ -6,12 +6,20 @@
       "en_US": [
         "Teach which move to\n",
         "{STRVAR_1 1, 0, 0}?"
+      ],
+      "fr_FR": [
+        "Enseigner quoi à\n",
+        "{STRVAR_1 1, 0, 0}?"
       ]
     },
     {
       "id": "MoveReminder_Text_Reminder_AskShouldTeachMove",
       "en_US": [
         "Teach the move\n",
+        "{STRVAR_1 6, 1, 0}?"
+      ],
+      "fr_FR": [
+        "Enseigner\n",
         "{STRVAR_1 6, 1, 0}?"
       ]
     },
@@ -20,12 +28,20 @@
       "en_US": [
         "Give up trying to teach a new\n",
         "move to {STRVAR_1 1, 0, 0}?"
+      ],
+      "fr_FR": [
+        "Arrêter d’enseigner la nouvelle\n",
+        "capacité à {STRVAR_1 1, 0, 0}?"
       ]
     },
     {
       "id": "MoveReminder_Text_Reminder_LearnedMoveNoFanfare",
       "en_US": [
         "{STRVAR_1 1, 0, 0} learned\n",
+        "{STRVAR_1 6, 1, 0}.\r"
+      ],
+      "fr_FR": [
+        "{STRVAR_1 1, 0, 0} apprend\n",
         "{STRVAR_1 6, 1, 0}.\r"
       ]
     },
@@ -38,6 +54,14 @@
         "than four moves.\r",
         "Delete an older move to make\n",
         "room for {STRVAR_1 6, 1, 0}?"
+      ],
+      "fr_FR": [
+        "{STRVAR_1 1, 0, 0} tente d’apprendre\n",
+        "{STRVAR_1 6, 1, 0}.\r",
+        "Mais {STRVAR_1 1, 0, 0} ne peut pas\n",
+        "apprendre plus de quatre capacités.\r",
+        "Effacer une capacité \n",
+        "pour {STRVAR_1 6, 1, 0}?"
       ]
     },
     {
@@ -47,6 +71,12 @@
         "{STRVAR_1 1, 0, 0} forgot\n",
         "{STRVAR_1 6, 1, 0}.\r",
         "And...\r"
+      ],
+      "fr_FR": [
+        "1{PAUSE 20}, 2{PAUSE 20}, {PAUSE 20}... {PAUSE 20}... Tadaa!{WAIT 3}{WAIT 5}\r",
+        "{STRVAR_1 1, 0, 0} oublie\n",
+        "{STRVAR_1 6, 1, 0}.\r",
+        "Et...\r"
       ]
     },
     {
@@ -54,12 +84,20 @@
       "en_US": [
         "{STRVAR_1 1, 0, 0} learned\n",
         "{STRVAR_1 6, 1, 0}.{WAIT 4}{WAIT 2}\r"
+      ],
+      "fr_FR": [
+        "{STRVAR_1 1, 0, 0}\n",
+        "apprend {STRVAR_1 6, 1, 0}.{WAIT 4}{WAIT 2}\r"
       ]
     },
     {
       "id": "MoveReminder_Text_Reminder_AskStopTryingToTeachMove",
       "en_US": [
         "Stop trying to teach\n",
+        "{STRVAR_1 6, 1, 0}?"
+      ],
+      "fr_FR": [
+        "Arrêter d’apprendre\n",
         "{STRVAR_1 6, 1, 0}?"
       ]
     },
@@ -68,6 +106,10 @@
       "en_US": [
         "{STRVAR_1 1, 0, 0} did not learn the\n",
         "move {STRVAR_1 6, 1, 0}.\r"
+      ],
+      "fr_FR": [
+        "{STRVAR_1 1, 0, 0} n’a pas appris la\n",
+        "capacité {STRVAR_1 6, 1, 0}.\r"
       ]
     },
     {
@@ -79,6 +121,10 @@
       "en_US": [
         "{STRVAR_1 6, 0, 0} is the move that\n",
         "you want forgotten?"
+      ],
+      "fr_FR": [
+        "{STRVAR_1 6, 0, 0} est la capacité qui doit\n",
+        "être oubliée?"
       ]
     },
     {
@@ -86,6 +132,10 @@
       "en_US": [
         "Which move should {STRVAR_1 1, 0, 0}\n",
         "remember?"
+      ],
+      "fr_FR": [
+        "De quelle capacité {STRVAR_1 1, 0, 0} doit se\n",
+        "souvenir?"
       ]
     },
     {
@@ -93,6 +143,10 @@
       "en_US": [
         "Should the move {STRVAR_1 6, 1, 0}\n",
         "be remembered?"
+      ],
+      "fr_FR": [
+        "Le Pokémon doit se souvenir de\n",
+        "{STRVAR_1 6, 1, 0}?"
       ]
     },
     {
@@ -100,6 +154,10 @@
       "en_US": [
         "Give up trying to make\n",
         "{STRVAR_1 1, 0, 0} remember a move?"
+      ],
+      "fr_FR": [
+        "{STRVAR_1 1, 0, 0} ne doit plus se souvenir\n",
+        "de la capacité?"
       ]
     },
     {
@@ -107,6 +165,10 @@
       "en_US": [
         "{STRVAR_1 1, 0, 0} remembered the move\n",
         "{STRVAR_1 6, 1, 0} it had forgotten!\r"
+      ],
+      "fr_FR": [
+        "{STRVAR_1 1, 0, 0} se souvient de la\n",
+        "capacité {STRVAR_1 6, 1, 0} oubliée!\r"
       ]
     },
     {
@@ -118,6 +180,14 @@
         "than four moves.\r",
         "Delete an existing move to make\n",
         "room for {STRVAR_1 6, 1, 0}?"
+      ],
+      "fr_FR": [
+        "{STRVAR_1 1, 0, 0} veut se souvenir de la\n",
+        "capacité {STRVAR_1 6, 1, 0}.\r",
+        "Mais {STRVAR_1 1, 0, 0} ne peut pas\n",
+        "apprendre plus de quatre capacités.\r",
+        "Effacer une capacité \n",
+        "pour {STRVAR_1 6, 1, 0}?"
       ]
     },
     {
@@ -127,12 +197,22 @@
         "{STRVAR_1 1, 0, 0} forgot\n",
         "{STRVAR_1 6, 1, 0}.\r",
         "And...\r"
+      ],
+      "fr_FR": [
+        "1, {PAUSE 20}2, et{PAUSE 20}... {PAUSE 20}... {PAUSE 20}... Tadaa!{WAIT 3}{WAIT 5}\r",
+        "{STRVAR_1 1, 0, 0} oublie\n",
+        "{STRVAR_1 6, 1, 0}.\r",
+        "Et...\r"
       ]
     },
     {
       "id": "MoveReminder_Text_Tutor_LearnedMoveFanfare",
       "en_US": [
         "{STRVAR_1 1, 0, 0} remembered the move\n",
+        "{STRVAR_1 6, 1, 0}.{WAIT 4}{WAIT 2}\r"
+      ],
+      "fr_FR": [
+        "{STRVAR_1 1, 0, 0} se souvient de la capacité\n",
         "{STRVAR_1 6, 1, 0}.{WAIT 4}{WAIT 2}\r"
       ]
     },
@@ -141,6 +221,10 @@
       "en_US": [
         "Give up making the Pokémon\n",
         "remember {STRVAR_1 6, 1, 0}?"
+      ],
+      "fr_FR": [
+        "Le Pokémon ne doit plus se souvenir de\n",
+        "{STRVAR_1 6, 1, 0}?"
       ]
     },
     {
@@ -148,6 +232,10 @@
       "en_US": [
         "{STRVAR_1 1, 0, 0} did not remember the\n",
         "move {STRVAR_1 6, 1, 0}.\r"
+      ],
+      "fr_FR": [
+        "{STRVAR_1 1, 0, 0} ne se souvient pas de la\n",
+        "capacité {STRVAR_1 6, 1, 0}.\r"
       ]
     },
     {
@@ -155,6 +243,10 @@
       "en_US": [
         "{STRVAR_1 3, 2, 0} handed over one\n",
         "Heart Scale in exchange.\r"
+      ],
+      "fr_FR": [
+        "{STRVAR_1 3, 2, 0} donne 1 Ecaillecoeur\n",
+        "en échange.\r"
       ]
     },
     {
@@ -162,55 +254,71 @@
       "en_US": [
         "Is it OK to make this Pokémon\n",
         "forget the move {STRVAR_1 6, 0, 0}?"
+      ],
+      "fr_FR": [
+        "Ce Pokémon va oublier la\n",
+        "capacité {STRVAR_1 6, 0, 0}. Continuer?"
       ]
     },
     {
       "id": "MoveReminder_Text_Category",
-      "en_US": "CATEGORY"
+      "en_US": "CATEGORY",
+      "fr_FR": "CATEGOR."
     },
     {
       "id": "MoveReminder_Text_Power",
-      "en_US": "POWER"
+      "en_US": "POWER",
+      "fr_FR": "POUVOIR"
     },
     {
       "id": "MoveReminder_Text_Accuracy",
-      "en_US": "ACCURACY"
+      "en_US": "ACCURACY",
+      "fr_FR": "PRECISION"
     },
     {
       "id": "MoveReminder_Text_Pp",
-      "en_US": "PP"
+      "en_US": "PP",
+      "fr_FR": "PP"
     },
     {
       "id": "MoveReminder_Text_BattleMoves",
-      "en_US": "BATTLE MOVES"
+      "en_US": "BATTLE MOVES",
+      "fr_FR": "CAPACITES COMB."
     },
     {
       "id": "MoveReminder_Text_AppealPts",
-      "en_US": "APPEAL PTS"
+      "en_US": "APPEAL PTS",
+      "fr_FR": "POINTS DE CHARME"
     },
     {
       "id": "MoveReminder_Text_ContestMoves",
-      "en_US": "CONTEST MOVES"
+      "en_US": "CONTEST MOVES",
+      "fr_FR": "CAPACITES CONC."
     },
     {
       "id": "MoveReminder_Text_PowerValue",
-      "en_US": "{STRVAR_1 52, 0, 0}"
+      "en_US": "{STRVAR_1 52, 0, 0}",
+      "fr_FR": "{STRVAR_1 52, 0, 0}"
     },
     {
       "id": "MoveReminder_Text_AccuracyValue",
-      "en_US": "{STRVAR_1 52, 0, 0}"
+      "en_US": "{STRVAR_1 52, 0, 0}",
+      "fr_FR": "{STRVAR_1 52, 0, 0}"
     },
     {
       "id": "MoveReminder_Text_PpValue",
-      "en_US": "{STRVAR_1 51, 0, 0}/{STRVAR_1 51, 0, 0}"
+      "en_US": "{STRVAR_1 51, 0, 0}/{STRVAR_1 51, 0, 0}",
+      "fr_FR": "{STRVAR_1 51, 0, 0}/{STRVAR_1 51, 0, 0}"
     },
     {
       "id": "MoveReminder_Text_Cancel",
-      "en_US": "CANCEL"
+      "en_US": "CANCEL",
+      "fr_FR": "QUITTER"
     },
     {
       "id": "MoveReminder_Text_Dashes",
-      "en_US": "---"
+      "en_US": "---",
+      "fr_FR": "---"
     }
   ]
 }

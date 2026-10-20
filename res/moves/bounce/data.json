@@ -27,5 +27,13 @@
     "contest": {
         "effect": "CONTEST_EFFECT_UNIQUE_JUDGE",
         "type": "CONTEST_TYPE_CUTE"
-    }
+    },
+    "name_fr": "Rebond",
+    "description_fr": [
+        "Le lanceur bondit\n",
+        "très haut et plonge\n",
+        "sur l’ennemi au 2⁴\n",
+        "tour. Peut aussi\n",
+        "paralyser l’ennemi."
+    ]
 }

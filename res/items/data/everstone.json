@@ -26,5 +26,12 @@
   "battlePocket": "BATTLE_POCKET_MASK_NONE",
   "fieldUseFunc": "ITEM_USE_FUNC_NONE",
   "battleUseCategory": "BATTLE_USE_CATEGORY_NONE",
-  "itemUseParams": null
+  "itemUseParams": null,
+  "name_fr": "Pierre Stase",
+  "description_fr": [
+    "Objet à tenir. Pierre merveilleuse\n",
+    "empêchant l’évolution."
+  ],
+  "plural_fr": "Pierre Stase",
+  "article_fr": null
 }

@@ -57,6 +57,10 @@
             "en_US": [
                 "When we battle, I want you to be very\n",
                 "careful. My coat’s very expensive."
+            ],
+            "fr_FR": [
+                "Pendant le combat, fais très attention\n",
+                "à mon manteau. Il coûte une fortune."
             ]
         },
         {
@@ -64,6 +68,10 @@
             "en_US": [
                 "Yikes! Eek! Watch out! You almost got\n",
                 "Pokémon sweat on my coat!\r"
+            ],
+            "fr_FR": [
+                "Hiii! Ton Pokémon a failli envoyer une\n",
+                "goutte de sueur sur mon manteau!\r"
             ]
         },
         {
@@ -71,7 +79,12 @@
             "en_US": [
                 "I was worried about getting my coat\n",
                 "dirty. Who cares about your battle?\r"
+            ],
+            "fr_FR": [
+                "Bah, au moins, je n’ai pas sali mon\n",
+                "manteau. Le reste importe peu.\r"
             ]
         }
-    ]
+    ],
+    "name_fr": "Olympe"
 }

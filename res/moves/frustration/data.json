@@ -28,5 +28,12 @@
     "contest": {
         "effect": "CONTEST_EFFECT_FINAL_PERFORMANCE_ADVANTAGE",
         "type": "CONTEST_TYPE_CUTE"
-    }
+    },
+    "name_fr": "Frustration",
+    "description_fr": [
+        "Moins le Pokémon aime\n",
+        "son Dresseur, plus\n",
+        "cette attaque est\n",
+        "puissante."
+    ]
 }

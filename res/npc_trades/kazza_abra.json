@@ -1,6 +1,8 @@
 {
     "name": "Kazza",
+    "name_fr": "Kazou",
     "otName": "Hilary",
+    "otName_fr": "Paula",
     "species": "SPECIES_ABRA",
     "hpIV": 15,
     "atkIV": 15,

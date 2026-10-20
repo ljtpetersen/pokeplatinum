@@ -8,11 +8,18 @@
         "In a fantastically bizarre place...\f",
         "It’s DIALGA!\r",
         "Will you challenge DIALGA?"
+      ],
+      "fr_FR": [
+        "Là, de l’autre côté de la faille, dans\n",
+        "un endroit terriblement étrange...\f",
+        "C’est DIALGA!\r",
+        "Allez-vous défier DIALGA?"
       ]
     },
     {
       "id": "SpearPillarDialga_Text_DialgaCry",
-      "en_US": "DIALGA: Gugyugubah!\r"
+      "en_US": "DIALGA: Gugyugubah!\r",
+      "fr_FR": "DIALGA: Grooooaaaarrrr!\r"
     },
     {
       "id": "SpearPillarDialga_Text_TimeEmanatesFromRift",
@@ -20,6 +27,11 @@
         "An overwhelming feeling of time\n",
         "powerfully emanates from this rift...\r",
         "Where does it lead to?"
+      ],
+      "fr_FR": [
+        "Un sentiment phénoménal de temps émane\n",
+        "de cette faille...\r",
+        "Où peut-elle bien mener?"
       ]
     },
     {

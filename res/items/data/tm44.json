@@ -27,5 +27,13 @@
   "fieldUseFunc": "ITEM_USE_FUNC_TM_HM",
   "battleUseCategory": "BATTLE_USE_CATEGORY_NONE",
   "itemUseParams": null,
-  "teachesMove": "MOVE_REST"
+  "teachesMove": "MOVE_REST",
+  "name_fr": "CT44",
+  "description_fr": [
+    "Le lanceur dort pendant 2 tours. Il\n",
+    "regagne tous ses PV et n’a plus de\n",
+    "problèmes de statut."
+  ],
+  "plural_fr": "CT44",
+  "article_fr": null
 }

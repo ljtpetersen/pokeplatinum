@@ -23,17 +23,29 @@
             "en_US": [
                 "Listen, listen! Can you tell me what\n",
                 "kind of Pokémon you have?\r"
+            ],
+            "fr_FR": [
+                "Hé, hé! Tu veux bien me dire\n",
+                "quels types de Pokémon tu as?\r"
             ]
         },
         {
             "type": "TRMSG_DEFEAT",
-            "en_US": "You’re so tough. I’m stunned...\n"
+            "en_US": "You’re so tough. I’m stunned...\n",
+            "fr_FR": [
+                "Tu es vraiment coriace. \n",
+                "Je suis soufflée...\n"
+            ]
         },
         {
             "type": "TRMSG_POST_BATTLE",
             "en_US": [
                 "I want to hang on to a BUIZEL and\n",
                 "just bob around.\n"
+            ],
+            "fr_FR": [
+                "Je veux m’accrocher à un MUSTEBOUEE\n",
+                "et me laisser porter.\n"
             ]
         },
         {
@@ -41,7 +53,12 @@
             "en_US": [
                 "Listen, listen! Did you find any new\n",
                 "kinds of Pokémon?\r"
+            ],
+            "fr_FR": [
+                "Hé, hé! Tu as découvert de\n",
+                "nouveaux types de Pokémon?\r"
             ]
         }
-    ]
+    ],
+    "name_fr": "Léa"
 }

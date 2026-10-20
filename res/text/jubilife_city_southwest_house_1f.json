@@ -13,11 +13,23 @@
         "Gym Badge.\r",
         "We don’t always have an easy time,\n",
         "but it’s still my irreplaceable partner!"
+      ],
+      "fr_FR": [
+        "Mon PIKACHU, c’est via un échange avec \n",
+        "un autre Dresseur que je l’ai eu.\r",
+        "Il grandit aussi rapidement que son\n",
+        "niveau monte.\r",
+        "Mais il ne m’obéit pas toujours...\r",
+        "C’est parce que je n’ai qu’un Badge\n",
+        "d’Arène.\r",
+        "Ça n’est pas tous les jours facile, mais\n",
+        "c’est un partenaire irremplaçable!"
       ]
     },
     {
       "id": "JubilifeCitySouthwestHouse1F_Text_PikachuCry",
-      "en_US": "PIKACHU: Pikapikapikaaah!"
+      "en_US": "PIKACHU: Pikapikapikaaah!",
+      "fr_FR": "PIKACHU: Pikapikapikaaah!"
     },
     {
       "id": "JubilifeCitySouthwestHouse1F_Text_IfEveryoneHadPokemon",
@@ -26,6 +38,12 @@
         "Pokémon...\r",
         "Then everyone around the world could\n",
         "communicate!"
+      ],
+      "fr_FR": [
+        "Si toutes les personnes au monde\n",
+        "avaient des Pokémon...\r",
+        "On pourrait alors communiquer avec\n",
+        "tout le monde!"
       ]
     }
   ]

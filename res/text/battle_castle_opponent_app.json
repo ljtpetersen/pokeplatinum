@@ -7,11 +7,13 @@
     },
     {
       "id": "BattleCastleOpponentApp_Text_PartnerName",
-      "en_US": "{STRVAR_1 3, 0, 0}"
+      "en_US": "{STRVAR_1 3, 0, 0}",
+      "fr_FR": "{STRVAR_1 3, 0, 0}"
     },
     {
       "id": "BattleCastleOpponentApp_Text_CastlePoints",
-      "en_US": "{STRVAR_1 53, 0, 0} CP"
+      "en_US": "{STRVAR_1 53, 0, 0} CP",
+      "fr_FR": "{STRVAR_1 53, 0, 0} PCa"
     },
     {
       "id": "BattleCastleOpponentApp_Text_Dummy2",
@@ -22,11 +24,16 @@
       "en_US": [
         "Which Pokémon would you like\n",
         "to check?"
+      ],
+      "fr_FR": [
+        "Sur quel Pokémon voulez-vous\n",
+        "des détails?"
       ]
     },
     {
       "id": "BattleCastleOpponentApp_Text_Exit",
-      "en_US": "EXIT"
+      "en_US": "EXIT",
+      "fr_FR": "QUIT."
     },
     {
       "id": "BattleCastleOpponentApp_Text_Dummy3",
@@ -34,28 +41,37 @@
     },
     {
       "id": "BattleCastleOpponentApp_Text_PartnerChoseToExit",
-      "en_US": "{STRVAR_1 3, 0, 0} chose to exit."
+      "en_US": "{STRVAR_1 3, 0, 0} chose to exit.",
+      "fr_FR": "{STRVAR_1 3, 0, 0} a choisi de quitter."
     },
     {
       "id": "BattleCastleOpponentApp_Text_Check",
-      "en_US": "CHECK"
+      "en_US": "CHECK",
+      "fr_FR": "IDENTITE"
     },
     {
       "id": "BattleCastleOpponentApp_Text_Level",
-      "en_US": "LEVEL"
+      "en_US": "LEVEL",
+      "fr_FR": "NIVEAU"
     },
     {
       "id": "BattleCastleOpponentApp_Text_Summary",
-      "en_US": "SUMMARY"
+      "en_US": "SUMMARY",
+      "fr_FR": "RESUME"
     },
     {
       "id": "BattleCastleOpponentApp_Text_Cancel",
-      "en_US": "CANCEL"
+      "en_US": "CANCEL",
+      "fr_FR": "ANNULER"
     },
     {
       "id": "BattleCastleOpponentApp_Text_CheckIdentity",
       "en_US": [
         "Check the identity of a\n",
+        "Pokémon."
+      ],
+      "fr_FR": [
+        "Découvrir l’identité d’un\n",
         "Pokémon."
       ]
     },
@@ -64,6 +80,10 @@
       "en_US": [
         "Change the level of a\n",
         "Pokémon."
+      ],
+      "fr_FR": [
+        "Modifier le niveau\n",
+        "d’un Pokémon."
       ]
     },
     {
@@ -71,6 +91,10 @@
       "en_US": [
         "Examine the stats of a\n",
         "Pokémon."
+      ],
+      "fr_FR": [
+        "Voir les stats\n",
+        "d’un Pokémon."
       ]
     },
     {
@@ -78,6 +102,10 @@
       "en_US": [
         "Return to previous\n",
         "selections."
+      ],
+      "fr_FR": [
+        "Revenir au menu\n",
+        "précédent."
       ]
     },
     {
@@ -85,6 +113,10 @@
       "en_US": [
         "Would you like to identify this Pokémon?\n",
         "It will cost {STRVAR_1 51, 0, 0} CP."
+      ],
+      "fr_FR": [
+        "Voulez-vous identifier ce Pokémon?\n",
+        "Il vous en coûtera {STRVAR_1 51, 0, 0} PCa."
       ]
     },
     {
@@ -104,51 +136,70 @@
       "en_US": [
         "The Pokémon’s identity is\n",
         "{STRVAR_1 0, 0, 0}."
-      ]
+      ],
+      "fr_FR": "Ce Pokémon est un {STRVAR_1 0, 0, 0}."
     },
     {
       "id": "BattleCastleOpponentApp_Text_MayChangeLevel",
       "en_US": [
         "You may change this Pokémon’s level.\n",
         "What would you like to do?"
+      ],
+      "fr_FR": [
+        "Vous pouvez ajuster le niveau du\n",
+        "Pokémon. Que voulez-vous faire?"
       ]
     },
     {
       "id": "BattleCastleOpponentApp_Text_LevelUp5",
-      "en_US": "LEVEL +5"
+      "en_US": "LEVEL +5",
+      "fr_FR": "NIV. +5"
     },
     {
       "id": "BattleCastleOpponentApp_Text_LevelDown5",
-      "en_US": "LEVEL -5"
+      "en_US": "LEVEL -5",
+      "fr_FR": "NIV. -5"
     },
     {
       "id": "BattleCastleOpponentApp_Text_Cancel2",
-      "en_US": "CANCEL"
+      "en_US": "CANCEL",
+      "fr_FR": "ANNULER"
     },
     {
       "id": "BattleCastleOpponentApp_Text_WillCostCP",
       "en_US": [
         "It will cost {STRVAR_1 51, 0, 0} CP.\n",
         "Is that OK?"
+      ],
+      "fr_FR": [
+        "Cela vous coûtera {STRVAR_1 51, 0, 0} PCa.\n",
+        "Continuer?"
       ]
     },
     {
       "id": "BattleCastleOpponentApp_Text_Yes",
-      "en_US": "YES"
+      "en_US": "YES",
+      "fr_FR": "OUI"
     },
     {
       "id": "BattleCastleOpponentApp_Text_No",
-      "en_US": "NO"
+      "en_US": "NO",
+      "fr_FR": "NON"
     },
     {
       "id": "BattleCastleOpponentApp_Text_NotEnoughCP3",
-      "en_US": "You don’t have enough CP..."
+      "en_US": "You don’t have enough CP...",
+      "fr_FR": "Vous n’avez pas assez de PCa."
     },
     {
       "id": "BattleCastleOpponentApp_Text_LevelCantGoHigher",
       "en_US": [
         "This Pokémon’s level can’t be raised\n",
         "higher."
+      ],
+      "fr_FR": [
+        "Impossible d’augmenter davantage\n",
+        "le niveau de ce Pokémon."
       ]
     },
     {
@@ -156,6 +207,10 @@
       "en_US": [
         "This Pokémon’s level can’t be lowered\n",
         "any more."
+      ],
+      "fr_FR": [
+        "Impossible de réduire davantage\n",
+        "le niveau de ce Pokémon."
       ]
     },
     {
@@ -163,6 +218,10 @@
       "en_US": [
         "The Pokémon’s level was\n",
         "boosted by five."
+      ],
+      "fr_FR": [
+        "Le niveau du Pokémon a été ajusté à la\n",
+        "hausse."
       ]
     },
     {
@@ -170,52 +229,72 @@
       "en_US": [
         "The Pokémon’s level was\n",
         "lowered by five."
+      ],
+      "fr_FR": [
+        "Le niveau du Pokémon a été ajusté à la\n",
+        "baisse."
       ]
     },
     {
       "id": "BattleCastleOpponentApp_Text_Summary2",
-      "en_US": "SUMMARY"
+      "en_US": "SUMMARY",
+      "fr_FR": "RESUME"
     },
     {
       "id": "BattleCastleOpponentApp_Text_Moves",
-      "en_US": "MOVES"
+      "en_US": "MOVES",
+      "fr_FR": "CAPACITES"
     },
     {
       "id": "BattleCastleOpponentApp_Text_RankUp",
-      "en_US": "RANK UP"
+      "en_US": "RANK UP",
+      "fr_FR": "RANG SUP."
     },
     {
       "id": "BattleCastleOpponentApp_Text_Cancel3",
-      "en_US": "CANCEL"
+      "en_US": "CANCEL",
+      "fr_FR": "ANNULER"
     },
     {
       "id": "BattleCastleOpponentApp_Text_CheckStats",
-      "en_US": "Check the stats of the Pokémon."
+      "en_US": "Check the stats of the Pokémon.",
+      "fr_FR": "Voir les stats d’un Pokémon."
     },
     {
       "id": "BattleCastleOpponentApp_Text_CheckMoveList",
-      "en_US": "Check the move list of the Pokémon."
+      "en_US": "Check the move list of the Pokémon.",
+      "fr_FR": "Voir les capacités d’un Pokémon."
     },
     {
       "id": "BattleCastleOpponentApp_Text_RankUpToCheckMoves",
       "en_US": [
         "You will be able to check moves using CP\n",
         "by going up in rank."
+      ],
+      "fr_FR": [
+        "Votre rang n’est pas suffisant pour\n",
+        "révéler les capacités des Pokémon."
       ]
     },
     {
       "id": "BattleCastleOpponentApp_Text_CantRankUp",
-      "en_US": "Your rank cannot be raised any higher."
+      "en_US": "Your rank cannot be raised any higher.",
+      "fr_FR": "Vous avez atteint le rang le plus élevé."
     },
     {
       "id": "BattleCastleOpponentApp_Text_ReturnToPreviousMenu",
-      "en_US": "Return to previous selections."
+      "en_US": "Return to previous selections.",
+      "fr_FR": "Revenir au menu précédent."
     },
     {
       "id": "BattleCastleOpponentApp_Text_TooLowForMoveList",
       "en_US": [
         "You are too low in information rank to\n",
         "check the target’s move list."
+      ],
+      "fr_FR": [
+        "Votre rang actuel ne vous autorise pas\n",
+        "à voir les capacités des Pokémon."
       ]
     },
     {
@@ -223,6 +302,10 @@
       "en_US": [
         "You may check this Pokémon’s stats.\n",
         "It will cost {STRVAR_1 51, 0, 0} CP. Is that OK?"
+      ],
+      "fr_FR": [
+        "Consulter les stats de ce Pokémon\n",
+        "vous coûtera {STRVAR_1 51, 0, 0} PCa. Continuer?"
       ]
     },
     {
@@ -235,92 +318,119 @@
     },
     {
       "id": "BattleCastleOpponentApp_Text_NotEnoughCP",
-      "en_US": "You don’t have enough CP..."
+      "en_US": "You don’t have enough CP...",
+      "fr_FR": "Vous n’avez pas assez de PCa."
     },
     {
       "id": "BattleCastleOpponentApp_Text_SummaryBought",
       "en_US": [
         "The Pokémon’s stat summary was\n",
         "bought."
+      ],
+      "fr_FR": [
+        "Vous pouvez maintenant consulter\n",
+        "les stats de ce Pokémon."
       ]
     },
     {
       "id": "BattleCastleOpponentApp_Text_Item",
-      "en_US": "Item"
+      "en_US": "Item",
+      "fr_FR": "Objet"
     },
     {
       "id": "BattleCastleOpponentApp_Text_ItemValue",
-      "en_US": "{COLOR 2}{STRVAR_1 8, 0, 0}{COLOR 0}"
+      "en_US": "{COLOR 2}{STRVAR_1 8, 0, 0}{COLOR 0}",
+      "fr_FR": "{COLOR 2}{STRVAR_1 8, 0, 0}{COLOR 0}"
     },
     {
       "id": "BattleCastleOpponentApp_Text_Nature",
-      "en_US": "Nature"
+      "en_US": "Nature",
+      "fr_FR": "Nature"
     },
     {
       "id": "BattleCastleOpponentApp_Text_NatureValue",
-      "en_US": "{COLOR 2}{STRVAR_1 7, 0, 0}{COLOR 0}"
+      "en_US": "{COLOR 2}{STRVAR_1 7, 0, 0}{COLOR 0}",
+      "fr_FR": "{COLOR 2}{STRVAR_1 7, 0, 0}{COLOR 0}"
     },
     {
       "id": "BattleCastleOpponentApp_Text_Ability",
-      "en_US": "Ability"
+      "en_US": "Ability",
+      "fr_FR": "Cap. Spé."
     },
     {
       "id": "BattleCastleOpponentApp_Text_AbilityValue",
-      "en_US": "{COLOR 2}{STRVAR_1 5, 0, 0}{COLOR 0}"
+      "en_US": "{COLOR 2}{STRVAR_1 5, 0, 0}{COLOR 0}",
+      "fr_FR": "{COLOR 2}{STRVAR_1 5, 0, 0}{COLOR 0}"
     },
     {
       "id": "BattleCastleOpponentApp_Text_Attack",
-      "en_US": "Attack"
+      "en_US": "Attack",
+      "fr_FR": "Attaque"
     },
     {
       "id": "BattleCastleOpponentApp_Text_AttackValue",
-      "en_US": "{COLOR 2}{STRVAR_1 52, 0, 0}{COLOR 0}"
+      "en_US": "{COLOR 2}{STRVAR_1 52, 0, 0}{COLOR 0}",
+      "fr_FR": "{COLOR 2}{STRVAR_1 52, 0, 0}{COLOR 0}"
     },
     {
       "id": "BattleCastleOpponentApp_Text_Defense",
-      "en_US": "Defense"
+      "en_US": "Defense",
+      "fr_FR": "Défense"
     },
     {
       "id": "BattleCastleOpponentApp_Text_DefenseValue",
-      "en_US": "{COLOR 2}{STRVAR_1 52, 0, 0}{COLOR 0}"
+      "en_US": "{COLOR 2}{STRVAR_1 52, 0, 0}{COLOR 0}",
+      "fr_FR": "{COLOR 2}{STRVAR_1 52, 0, 0}{COLOR 0}"
     },
     {
       "id": "BattleCastleOpponentApp_Text_SpAttack",
-      "en_US": "Sp. Atk"
+      "en_US": "Sp. Atk",
+      "fr_FR": "Atq. Spé."
     },
     {
       "id": "BattleCastleOpponentApp_Text_SpAttackValue",
-      "en_US": "{COLOR 2}{STRVAR_1 52, 0, 0}{COLOR 0}"
+      "en_US": "{COLOR 2}{STRVAR_1 52, 0, 0}{COLOR 0}",
+      "fr_FR": "{COLOR 2}{STRVAR_1 52, 0, 0}{COLOR 0}"
     },
     {
       "id": "BattleCastleOpponentApp_Text_SpDefense",
-      "en_US": "Sp. Def"
+      "en_US": "Sp. Def",
+      "fr_FR": "Déf. Spé."
     },
     {
       "id": "BattleCastleOpponentApp_Text_SpDefenseValue",
-      "en_US": "{COLOR 2}{STRVAR_1 52, 0, 0}{COLOR 0}"
+      "en_US": "{COLOR 2}{STRVAR_1 52, 0, 0}{COLOR 0}",
+      "fr_FR": "{COLOR 2}{STRVAR_1 52, 0, 0}{COLOR 0}"
     },
     {
       "id": "BattleCastleOpponentApp_Text_Speed",
-      "en_US": "Speed"
+      "en_US": "Speed",
+      "fr_FR": "Vitesse"
     },
     {
       "id": "BattleCastleOpponentApp_Text_SpeedValue",
-      "en_US": "{COLOR 2}{STRVAR_1 52, 0, 0}{COLOR 0}"
+      "en_US": "{COLOR 2}{STRVAR_1 52, 0, 0}{COLOR 0}",
+      "fr_FR": "{COLOR 2}{STRVAR_1 52, 0, 0}{COLOR 0}"
     },
     {
       "id": "BattleCastleOpponentApp_Text_MaleSymbol",
-      "en_US": "♂"
+      "en_US": "♂",
+      "fr_FR": "♂"
     },
     {
       "id": "BattleCastleOpponentApp_Text_FemaleSymbol",
-      "en_US": "♀"
+      "en_US": "♀",
+      "fr_FR": "♀"
     },
     {
       "id": "BattleCastleOpponentApp_Text_MayCheckMoveList",
       "en_US": [
         "You may check this Pokémon’s move list.\n",
         "It will cost {STRVAR_1 51, 0, 0} CP. Is that OK?"
+      ],
+      "fr_FR": [
+        "Consulter les capacités de ce Pokémon\n",
+        "vous coûtera {STRVAR_1 51, 0, 0} PCa. Continuer?"
       ]
     },
     {
@@ -333,40 +443,54 @@
     },
     {
       "id": "BattleCastleOpponentApp_Text_NotEnoughCP2",
-      "en_US": "You don’t have enough CP..."
+      "en_US": "You don’t have enough CP...",
+      "fr_FR": "Vous n’avez pas assez de PCa."
     },
     {
       "id": "BattleCastleOpponentApp_Text_MoveListBought",
       "en_US": [
         "The Pokémon’s move-list data was\n",
         "bought."
+      ],
+      "fr_FR": [
+        "Vous pouvez maintenant consulter\n",
+        "les capacités de ce Pokémon."
       ]
     },
     {
       "id": "BattleCastleOpponentApp_Text_MoveName1",
-      "en_US": "{STRVAR_1 6, 0, 0}"
+      "en_US": "{STRVAR_1 6, 0, 0}",
+      "fr_FR": "{STRVAR_1 6, 0, 0}"
     },
     {
       "id": "BattleCastleOpponentApp_Text_MoveName2",
-      "en_US": "{STRVAR_1 6, 1, 0}"
+      "en_US": "{STRVAR_1 6, 1, 0}",
+      "fr_FR": "{STRVAR_1 6, 1, 0}"
     },
     {
       "id": "BattleCastleOpponentApp_Text_MoveName3",
-      "en_US": "{STRVAR_1 6, 2, 0}"
+      "en_US": "{STRVAR_1 6, 2, 0}",
+      "fr_FR": "{STRVAR_1 6, 2, 0}"
     },
     {
       "id": "BattleCastleOpponentApp_Text_MoveName4",
-      "en_US": "{STRVAR_1 6, 3, 0}"
+      "en_US": "{STRVAR_1 6, 3, 0}",
+      "fr_FR": "{STRVAR_1 6, 3, 0}"
     },
     {
       "id": "BattleCastleOpponentApp_Text_MovePP",
-      "en_US": "{COLOR 2}{STRVAR_1 51, 4, 0}{COLOR 0}/{COLOR 2}{STRVAR_1 51, 5, 0}{COLOR 0}"
+      "en_US": "{COLOR 2}{STRVAR_1 51, 4, 0}{COLOR 0}/{COLOR 2}{STRVAR_1 51, 5, 0}{COLOR 0}",
+      "fr_FR": "{COLOR 2}{STRVAR_1 51, 4, 0}{COLOR 0}/{COLOR 2}{STRVAR_1 51, 5, 0}{COLOR 0}"
     },
     {
       "id": "BattleCastleOpponentApp_Text_RankUpForCP",
       "en_US": [
         "Would you like to up your rank for\n",
         "{STRVAR_1 52, 0, 0} CP?"
+      ],
+      "fr_FR": [
+        "Améliorer votre rang pour avoir accès à\n",
+        "plus d’informations pour {STRVAR_1 52, 0, 0} PCa?"
       ]
     },
     {
@@ -386,6 +510,10 @@
       "en_US": [
         "{STRVAR_1 3, 5, 0} gained the ability to buy\n",
         "the target’s move-list information."
+      ],
+      "fr_FR": [
+        "{STRVAR_1 3, 5, 0} peut désormais payer pour\n",
+        "voir les capacités des Pokémon."
       ]
     }
   ]

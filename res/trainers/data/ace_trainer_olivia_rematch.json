@@ -58,6 +58,10 @@
             "en_US": [
                 "This isn’t like last time. See how\n",
                 "much I’ve trained since then!\r"
+            ],
+            "fr_FR": [
+                "Ça ne sera pas comme la dernière fois.\n",
+                "Tu vas voir comme je me suis entraînée!\r"
             ]
         },
         {
@@ -65,7 +69,12 @@
             "en_US": [
                 "Whew...\n",
                 "You’re overtrained for me.\n"
+            ],
+            "fr_FR": [
+                "Pfiou...\n",
+                "Ton entraînement est meilleur.\n"
             ]
         }
-    ]
+    ],
+    "name_fr": "Zia"
 }

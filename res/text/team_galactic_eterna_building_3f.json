@@ -9,6 +9,13 @@
         "designs!\r",
         "Come to think of it... I don’t even\n",
         "know what’s going on..."
+      ],
+      "fr_FR": [
+        "Les gens comme toi ne peuvent pas\n",
+        "comprendre les grandes ambitions\f",
+        "de la Team Galaxie!\r",
+        "Remarque, quand j’y pense... J’y\n",
+        "comprends pas grand-chose non plus..."
       ]
     },
     {
@@ -16,6 +23,10 @@
       "en_US": [
         "Question not and follow this path!\n",
         "The road to success!"
+      ],
+      "fr_FR": [
+        "Suivez ce chemin sans poser de\n",
+        "questions! C’est la voie du succès!"
       ]
     }
   ]

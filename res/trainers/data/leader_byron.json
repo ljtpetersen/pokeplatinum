@@ -61,6 +61,10 @@
             "en_US": [
                 "Oh, what’s this? My last one!\n",
                 "This is where we make our stand!\r"
+            ],
+            "fr_FR": [
+                "Que se passe-t-il? C’est mon dernier!\n",
+                "Le moment de vérité!\r"
             ]
         },
         {
@@ -68,6 +72,10 @@
             "en_US": [
                 "We’re not done yet!\n",
                 "There’s no giving up!\n"
+            ],
+            "fr_FR": [
+                "Ce n’est pas encore terminé!\n",
+                "Je ne dois pas abandonner!\n"
             ]
         },
         {
@@ -75,7 +83,12 @@
             "en_US": [
                 "Hmm!\n",
                 "My sturdy Pokémon, defeated!\n"
+            ],
+            "fr_FR": [
+                "Hum!\n",
+                "Mon Pokémon robuste, anéanti!\n"
             ]
         }
-    ]
+    ],
+    "name_fr": "Charles"
 }

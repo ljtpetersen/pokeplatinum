@@ -26,5 +26,13 @@
   "battlePocket": "BATTLE_POCKET_MASK_NONE",
   "fieldUseFunc": "ITEM_USE_FUNC_NONE",
   "battleUseCategory": "BATTLE_USE_CATEGORY_NONE",
-  "itemUseParams": null
+  "itemUseParams": null,
+  "name_fr": "Boule Fumée",
+  "description_fr": [
+    "Objet à tenir. Permet au porteur de\n",
+    "s’enfuir à coup sûr face à un Pokémon\n",
+    "sauvage."
+  ],
+  "plural_fr": "Boule Fumée",
+  "article_fr": null
 }

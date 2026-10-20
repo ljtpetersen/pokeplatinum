@@ -7,7 +7,10 @@
         "special_attack": 80,
         "special_defense": 65
     },
-    "types": [ "TYPE_FIRE", "TYPE_FIRE" ],
+    "types": [
+        "TYPE_FIRE",
+        "TYPE_FIRE"
+    ],
     "catch_rate": 45,
     "base_exp_reward": 142,
     "ev_yields": {
@@ -26,25 +29,64 @@
     "hatch_cycles": 20,
     "base_friendship": 70,
     "exp_rate": "EXP_RATE_MEDIUM_SLOW",
-    "egg_groups": [ "EGG_GROUP_MONSTER", "EGG_GROUP_DRAGON" ],
-    "abilities": [ "ABILITY_BLAZE", "ABILITY_NONE" ],
+    "egg_groups": [
+        "EGG_GROUP_MONSTER",
+        "EGG_GROUP_DRAGON"
+    ],
+    "abilities": [
+        "ABILITY_BLAZE",
+        "ABILITY_NONE"
+    ],
     "safari_flee_rate": 0,
     "body_color": "MON_COLOR_RED",
     "flip_sprite": false,
     "icon_palette": 0,
     "learnset": {
         "by_level": [
-            [ 1, "MOVE_SCRATCH" ],
-            [ 1, "MOVE_GROWL" ],
-            [ 1, "MOVE_EMBER" ],
-            [ 7, "MOVE_EMBER" ],
-            [ 10, "MOVE_SMOKE_SCREEN" ],
-            [ 17, "MOVE_DRAGON_RAGE" ],
-            [ 21, "MOVE_SCARY_FACE" ],
-            [ 28, "MOVE_FIRE_FANG" ],
-            [ 32, "MOVE_SLASH" ],
-            [ 39, "MOVE_FLAMETHROWER" ],
-            [ 43, "MOVE_FIRE_SPIN" ]
+            [
+                1,
+                "MOVE_SCRATCH"
+            ],
+            [
+                1,
+                "MOVE_GROWL"
+            ],
+            [
+                1,
+                "MOVE_EMBER"
+            ],
+            [
+                7,
+                "MOVE_EMBER"
+            ],
+            [
+                10,
+                "MOVE_SMOKE_SCREEN"
+            ],
+            [
+                17,
+                "MOVE_DRAGON_RAGE"
+            ],
+            [
+                21,
+                "MOVE_SCARY_FACE"
+            ],
+            [
+                28,
+                "MOVE_FIRE_FANG"
+            ],
+            [
+                32,
+                "MOVE_SLASH"
+            ],
+            [
+                39,
+                "MOVE_FLAMETHROWER"
+            ],
+            [
+                43,
+                "MOVE_FIRE_SPIN"
+            ]
         ],
         "by_tm": [
             "TM01",
@@ -170,6 +212,18 @@
                 "リザ－ドが　くらす　いわやまを\n",
                 "よなかに　みあげると　しっぽの\n",
                 "ほのおが　ほしのように　みえる。"
+            ]
+        },
+        "local_version": {
+            "entry_text": [
+                "In the rocky mountains where\n",
+                "CHARMELEON live, their fiery\n",
+                "tails shine at night like stars."
+            ],
+            "entry_text_fr": [
+                "La nuit, la queue ardente du\n",
+                "REPTINCEL brille comme une étoile\n",
+                "dans son repaire montagneux."
             ]
         }
     },

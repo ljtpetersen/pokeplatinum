@@ -23,7 +23,12 @@
             "en_US": [
                 "Wow!\n",
                 "You’re out of this world!\n"
+            ],
+            "fr_FR": [
+                "Exécution parfaite!\n",
+                "Tes calculs se sont révélés justes!\n"
             ]
         }
-    ]
+    ],
+    "name_fr": "Cardus"
 }

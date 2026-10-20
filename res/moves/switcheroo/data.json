@@ -24,5 +24,13 @@
     "contest": {
         "effect": "CONTEST_EFFECT_STEAL_VOLTAGE",
         "type": "CONTEST_TYPE_COOL"
-    }
+    },
+    "name_fr": "Passe-Passe",
+    "description_fr": [
+        "Le lanceur échange\n",
+        "son objet avec celui\n",
+        "de l’ennemi à une\n",
+        "vitesse que l’œil a\n",
+        "du mal à suivre."
+    ]
 }

@@ -10,6 +10,14 @@
         "Team Galactic’s here?\r",
         "Gotcha!\n",
         "Let’s team up and go together.\r"
+      ],
+      "fr_FR": [
+        "Cornil: Hé, {STRVAR_1 3, 0, 0}, attends!\n",
+        "Alors, qu’est-ce qui se passe?\r",
+        "Quoi?!\n",
+        "La Team Galaxie est dans le coin?\r",
+        "Pigé! Faisons équipe pour leur botter\n",
+        "le train.\r"
       ]
     },
     {
@@ -17,6 +25,10 @@
       "en_US": [
         "{STRVAR_1 3, 0, 0} decided to go with\n",
         "Buck!"
+      ],
+      "fr_FR": [
+        "{STRVAR_1 3, 0, 0} décide d’accompagner\n",
+        "Cornil!"
       ]
     },
     {
@@ -24,6 +36,10 @@
       "en_US": [
         "Buck: You won’t regret teaming up!\n",
         "I’ll keep your Pokémon healthy!"
+      ],
+      "fr_FR": [
+        "Cornil: Tu ne vas pas le regretter! Je \n",
+        "pourrai soigner tes Pokémon!"
       ]
     },
     {
@@ -31,6 +47,11 @@
       "en_US": [
         "Buck: Team Galactic’s here, right?\n",
         "Let’s go together!\r"
+      ],
+      "fr_FR": [
+        "Cornil: La Team Galaxie est dans le coin,\n",
+        "c’est ça? Faisons équipe pour les\f",
+        "affronter!\r"
       ]
     },
     {
@@ -41,6 +62,12 @@
         "my lonesome here!\r",
         "Well, if you gotta go, you gotta go.\n",
         "I’ll stick around here for you.\r"
+      ],
+      "fr_FR": [
+        "Cornil: Holà! Minute!\r",
+        "Tu vas pas me laisser tout seul ici?!\r",
+        "Bah, quand faut y aller, faut y aller.\n",
+        "Je t’attendrai ici.\r"
       ]
     },
     {
@@ -49,6 +76,12 @@
         "Buck: Here we are!\n",
         "Team Galactic’s inside, right?\f",
         "This is it. No fooling around!\r"
+      ],
+      "fr_FR": [
+        "Cornil: Nous y sommes!\n",
+        "La Team Galaxie est planquée à\f",
+        "l’intérieur, pas vrai?\r",
+        "Passons aux choses sérieuses!\r"
       ]
     },
     {

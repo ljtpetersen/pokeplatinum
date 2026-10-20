@@ -7,7 +7,10 @@
         "special_attack": 115,
         "special_defense": 55
     },
-    "types": [ "TYPE_GHOST", "TYPE_POISON" ],
+    "types": [
+        "TYPE_GHOST",
+        "TYPE_POISON"
+    ],
     "catch_rate": 90,
     "base_exp_reward": 126,
     "ev_yields": {
@@ -26,30 +29,84 @@
     "hatch_cycles": 20,
     "base_friendship": 70,
     "exp_rate": "EXP_RATE_MEDIUM_SLOW",
-    "egg_groups": [ "EGG_GROUP_AMORPHOUS", "EGG_GROUP_AMORPHOUS" ],
-    "abilities": [ "ABILITY_LEVITATE", "ABILITY_NONE" ],
+    "egg_groups": [
+        "EGG_GROUP_AMORPHOUS",
+        "EGG_GROUP_AMORPHOUS"
+    ],
+    "abilities": [
+        "ABILITY_LEVITATE",
+        "ABILITY_NONE"
+    ],
     "safari_flee_rate": 0,
     "body_color": "MON_COLOR_PURPLE",
     "flip_sprite": false,
     "icon_palette": 2,
     "learnset": {
         "by_level": [
-            [ 1, "MOVE_HYPNOSIS" ],
-            [ 1, "MOVE_LICK" ],
-            [ 1, "MOVE_SPITE" ],
-            [ 5, "MOVE_SPITE" ],
-            [ 8, "MOVE_MEAN_LOOK" ],
-            [ 12, "MOVE_CURSE" ],
-            [ 15, "MOVE_NIGHT_SHADE" ],
-            [ 19, "MOVE_CONFUSE_RAY" ],
-            [ 22, "MOVE_SUCKER_PUNCH" ],
-            [ 25, "MOVE_SHADOW_PUNCH" ],
-            [ 28, "MOVE_PAYBACK" ],
-            [ 33, "MOVE_SHADOW_BALL" ],
-            [ 39, "MOVE_DREAM_EATER" ],
-            [ 44, "MOVE_DARK_PULSE" ],
-            [ 50, "MOVE_DESTINY_BOND" ],
-            [ 55, "MOVE_NIGHTMARE" ]
+            [
+                1,
+                "MOVE_HYPNOSIS"
+            ],
+            [
+                1,
+                "MOVE_LICK"
+            ],
+            [
+                1,
+                "MOVE_SPITE"
+            ],
+            [
+                5,
+                "MOVE_SPITE"
+            ],
+            [
+                8,
+                "MOVE_MEAN_LOOK"
+            ],
+            [
+                12,
+                "MOVE_CURSE"
+            ],
+            [
+                15,
+                "MOVE_NIGHT_SHADE"
+            ],
+            [
+                19,
+                "MOVE_CONFUSE_RAY"
+            ],
+            [
+                22,
+                "MOVE_SUCKER_PUNCH"
+            ],
+            [
+                25,
+                "MOVE_SHADOW_PUNCH"
+            ],
+            [
+                28,
+                "MOVE_PAYBACK"
+            ],
+            [
+                33,
+                "MOVE_SHADOW_BALL"
+            ],
+            [
+                39,
+                "MOVE_DREAM_EATER"
+            ],
+            [
+                44,
+                "MOVE_DARK_PULSE"
+            ],
+            [
+                50,
+                "MOVE_DESTINY_BOND"
+            ],
+            [
+                55,
+                "MOVE_NIGHTMARE"
+            ]
         ],
         "by_tm": [
             "TM06",
@@ -108,7 +165,10 @@
         ]
     },
     "evolutions": [
-        [ "EVO_TRADE", "SPECIES_GENGAR" ]
+        [
+            "EVO_TRADE",
+            "SPECIES_GENGAR"
+        ]
     ],
     "offspring": "SPECIES_GASTLY",
     "footprint": {
@@ -132,9 +192,9 @@
             "name": "HAUNTER",
             "category": "Gas Pokémon",
             "entry_text": [
-                "It likes to lurk in the dark and tap\n",
-                "shoulders with a gaseous hand. Its\n",
-                "touch causes endless shuddering."
+                "It can slip through any obstacle.\n",
+                "It lurks inside walls to keep an\n",
+                "eye on its foes."
             ]
         },
         "fr": {
@@ -180,6 +240,18 @@
                 "どんな　ものでも　すりぬけられる。\n",
                 "かべの　なかに　もぐりこんで\n",
                 "あいての　ようすを　かんさつする。"
+            ]
+        },
+        "local_version": {
+            "entry_text": [
+                "It likes to lurk in the dark and tap\n",
+                "shoulders with a gaseous hand. Its\n",
+                "touch causes endless shuddering."
+            ],
+            "entry_text_fr": [
+                "Il adore se tapir dans l’ombre et\n",
+                "faire frissonner ses proies en leur\n",
+                "touchant l’épaule."
             ]
         }
     },

@@ -9,6 +9,13 @@
         "Now, if I was a comedy relief sort\n",
         "of bad guy, I’d tell you...\r",
         "But I really don’t know!"
+      ],
+      "fr_FR": [
+        "Les portes fermées ne s’ouvrent \n",
+        "qu’avec une clé spéciale.\r",
+        "Ah, si je pouvais te dépanner,\n",
+        "je te dirais où elle est...\r",
+        "Mais on ne me dit jamais rien!"
       ]
     },
     {
@@ -16,6 +23,10 @@
       "en_US": [
         "The door is locked.\n",
         "A special key is needed."
+      ],
+      "fr_FR": [
+        "La porte est fermée.\n",
+        "Elle nécessite une clé spéciale."
       ]
     },
     {
@@ -24,11 +35,17 @@
         "The door is locked.\n",
         "A special key is needed.\r",
         "Use the Galactic Key?"
+      ],
+      "fr_FR": [
+        "La porte est fermée.\n",
+        "Elle nécessite une clé spéciale.\r",
+        "Utiliser la Clé Galaxie?"
       ]
     },
     {
       "id": "GalacticHQ3F_Text_DoorOpened",
-      "en_US": "The door opened."
+      "en_US": "The door opened.",
+      "fr_FR": "La porte s’est ouverte."
     },
     {
       "id": "GalacticHQ3F_Text_TeamGalacticCredo",
@@ -37,6 +54,12 @@
         "Everything belongs to Team Galactic!\r",
         "Look beyond the world--space will\n",
         "become Team Galactic’s!"
+      ],
+      "fr_FR": [
+        "Le credo de la Team Galaxie?\n",
+        "Tout appartient à la Team Galaxie!\r",
+        "Nous n’avons que faire du monde...\n",
+        "L’univers nous attend!"
       ]
     }
   ]

@@ -3,31 +3,38 @@
   "messages": [
     {
       "id": "pl_msg_00000212_00000",
-      "en_US": "Please enter the Friend Code."
+      "en_US": "Please enter the Friend Code.",
+      "fr_FR": "Veuillez saisir le code ami."
     },
     {
       "id": "pl_msg_00000212_00001",
-      "en_US": "Please enter the data number."
+      "en_US": "Please enter the data number.",
+      "fr_FR": "Veuillez saisir le code."
     },
     {
       "id": "pl_msg_00000212_00002",
-      "en_US": "BACK"
+      "en_US": "BACK",
+      "fr_FR": "EFFACER"
     },
     {
       "id": "pl_msg_00000212_00003",
-      "en_US": "OK"
+      "en_US": "OK",
+      "fr_FR": "OK"
     },
     {
       "id": "pl_msg_00000212_00004",
-      "en_US": "Please enter your Wii number."
+      "en_US": "Please enter your Wii number.",
+      "fr_FR": "Veuillez saisir votre code Wii."
     },
     {
       "id": "pl_msg_00000212_00005",
-      "en_US": "Please enter the Registration Code."
+      "en_US": "Please enter the Registration Code.",
+      "fr_FR": "Veuillez saisir le code d’inscription."
     },
     {
       "id": "pl_msg_00000212_00006",
-      "en_US": "Please enter the 4-digit password."
+      "en_US": "Please enter the 4-digit password.",
+      "fr_FR": "Entrez les 4 chiffres du mot de passe."
     }
   ]
 }

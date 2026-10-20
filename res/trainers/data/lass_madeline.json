@@ -24,17 +24,26 @@
             "en_US": [
                 "I got a nifty-keen Gym Badge from\n",
                 "the Gym Leader in Oreburgh City!\r"
+            ],
+            "fr_FR": [
+                "J’ai eu un Badge d’Arène super \n",
+                "cool à l’Arène de Charbourg!\r"
             ]
         },
         {
             "type": "TRMSG_DEFEAT",
-            "en_US": "Oh, I lost! Lalala!\n"
+            "en_US": "Oh, I lost! Lalala!\n",
+            "fr_FR": "Oh, j’ai perdu! Lalala!\n"
         },
         {
             "type": "TRMSG_POST_BATTLE",
             "en_US": [
                 "I’m collecting lots of Gym Badges.\n",
                 "They’re so sparkly and pretty!\n"
+            ],
+            "fr_FR": [
+                "Je collectionne les Badges d’Arène.\n",
+                "Ils sont tout brillants et si jolis!\n"
             ]
         },
         {
@@ -43,7 +52,13 @@
                 "I got a nifty-keen Gym Badge from\n",
                 "the Gym Leader in Oreburgh City!\r",
                 "...Did I show you already?\r"
+            ],
+            "fr_FR": [
+                "J’ai eu un Badge d’Arène super \n",
+                "cool à l’Arène de Charbourg!\r",
+                "Oh, je te l’ai déjà dit?\r"
             ]
         }
-    ]
+    ],
+    "name_fr": "Marianne"
 }

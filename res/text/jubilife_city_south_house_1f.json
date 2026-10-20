@@ -9,6 +9,13 @@
         "But to Trainers, the key thing is to do\n",
         "battle with their Pokémon.\r",
         "That’s what it boils down to."
+      ],
+      "fr_FR": [
+        "Les Pokémon sont de merveilleuses\n",
+        "créatures empreintes de mystère.\r",
+        "Mais pour les Dresseurs, ce sont les\n",
+        "combats de Pokémon qui importent.\r",
+        "Ils y consacrent leur vie entière."
       ]
     },
     {
@@ -23,11 +30,22 @@
         "Go wherever you can!\r",
         "You’ll find many new places by\n",
         "doing just that."
+      ],
+      "fr_FR": [
+        "Salut, Dresseur!\r",
+        "Si tu ne sais plus quoi faire...\n",
+        "Parle aux gens!\r",
+        "A tous ceux que tu croises!\n",
+        "Pars à l’aventure!\r",
+        "Explore tous les recoins de la région!\n",
+        "De cette manière, tu découvriras plein\f",
+        "de nouveaux endroits."
       ]
     },
     {
       "id": "JubilifeCitySouthHouse1F_PachirisuCry",
-      "en_US": "PACHIRISU: Kukkuuh!"
+      "en_US": "PACHIRISU: Kukkuuh!",
+      "fr_FR": "PACHIRISU: Pachir, pachir!"
     }
   ]
 }

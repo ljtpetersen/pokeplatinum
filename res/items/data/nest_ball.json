@@ -26,5 +26,13 @@
   "battlePocket": "BATTLE_POCKET_MASK_POKE_BALLS",
   "fieldUseFunc": "ITEM_USE_FUNC_NONE",
   "battleUseCategory": "BATTLE_USE_CATEGORY_POKE_BALL",
-  "itemUseParams": null
+  "itemUseParams": null,
+  "name_fr": "Faiblo Ball",
+  "description_fr": [
+    "Une Poké Ball un peu spéciale qui\n",
+    "fonctionne particulièrement bien sur les\n",
+    "Pokémon les plus faibles."
+  ],
+  "plural_fr": "Faiblo Ball",
+  "article_fr": null
 }

@@ -25,5 +25,12 @@
     "contest": {
         "effect": "CONTEST_EFFECT_SUPPRESS_VOLTAGE",
         "type": "CONTEST_TYPE_CUTE"
-    }
+    },
+    "name_fr": "Barrage",
+    "description_fr": [
+        "Le lanceur bloque la\n",
+        "route de l’ennemi\n",
+        "pour empêcher sa\n",
+        "fuite."
+    ]
 }

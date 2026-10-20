@@ -15,6 +15,19 @@
         "fast in big circles!\r",
         "At the end, make a wish for it to\n",
         "turn scrumptious and whirl it!"
+      ],
+      "fr_FR": [
+        "Salut!\n",
+        "On passe aux fourneaux!\r",
+        "Voici mes conseils pour cuisiner de\n",
+        "délicieux Poffins pour tes Pokémon!\r",
+        "Au départ, quand tu as ta pâte,\n",
+        "remue-la doucement en évitant\f",
+        "d’en renverser.\r",
+        "Quand elle commence à durcir, mets-y de\n",
+        "l’énergie et fais de grands cercles!\r",
+        "Enfin, fais le vœu qu’elle soit \n",
+        "délicieuse en continuant de tourner!"
       ]
     },
     {
@@ -25,6 +38,13 @@
         "ingredient is a rare Berry.\r",
         "And, the more cooks you have,\n",
         "the more delicious the Poffin!"
+      ],
+      "fr_FR": [
+        "As-tu récupéré des Baies?\r",
+        "Une bonne Baie, c’est l’ingrédient-clé\n",
+        "pour obtenir un délicieux Poffin.\r",
+        "Plus tu t’entraînes et plus\n",
+        "tes Poffins sont délicieux!"
       ]
     },
     {
@@ -33,6 +53,12 @@
         "Eating good food makes people and\n",
         "Pokémon more energetic and happy.\r",
         "In that sense, we’re exactly alike."
+      ],
+      "fr_FR": [
+        "Bien manger rend les gens et les\n",
+        "Pokémon heureux et pleins de vie.\r",
+        "De ce point de vue, nous sommes \n",
+        "identiques."
       ]
     },
     {
@@ -40,6 +66,10 @@
       "en_US": [
         "At the Wi-Fi Club, I can cook up Poffins\n",
         "with my friends!"
+      ],
+      "fr_FR": [
+        "Au Club Wi-Fi, je peux cuisiner des\n",
+        "Poffins avec mes amis!"
       ]
     }
   ]

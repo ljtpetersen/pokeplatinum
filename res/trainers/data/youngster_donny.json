@@ -43,6 +43,12 @@
                 "You’re not even close to the door yet.\r",
                 "You have to beat me before you can\n",
                 "go, you know?\r"
+            ],
+            "fr_FR": [
+                "Tiens, tiens!\n",
+                "Sache que la porte est encore loin.\r",
+                "Avant de la trouver, tu vas devoir\n",
+                "me battre, d’accord?\r"
             ]
         },
         {
@@ -50,6 +56,10 @@
             "en_US": [
                 "Argh! I should’ve dazzled you by\n",
                 "shining my light in your eyes!\n"
+            ],
+            "fr_FR": [
+                "Argh! C’est moi qui aurais dû t’aveugler\n",
+                "et non l’inverse!\n"
             ]
         },
         {
@@ -57,7 +67,12 @@
             "en_US": [
                 "Just walk around and look for the blue\n",
                 "marks on the tiles.\n"
+            ],
+            "fr_FR": [
+                "Explore les salles et regarde les\n",
+                "symboles sur les dalles bleues."
             ]
         }
-    ]
+    ],
+    "name_fr": "Raphaël"
 }

@@ -52,11 +52,17 @@
                 "We’re the Karate Quads!\r",
                 "I will strike a blow for courage with\n",
                 "my fist! Hiyah, couraaaaaaaaaaage!\r"
+            ],
+            "fr_FR": [
+                "Nous sommes le Quatuor Karaté!\r",
+                "Si je joue des poings, c’est pour\n",
+                "célébrer le courage! Oui, le courage!\r"
             ]
         },
         {
             "type": "TRMSG_DEFEAT",
-            "en_US": "I couldn’t force my way to victory...\n"
+            "en_US": "I couldn’t force my way to victory...\n",
+            "fr_FR": "Je n’ai pas réussi à gagner...\n"
         },
         {
             "type": "TRMSG_POST_BATTLE",
@@ -65,7 +71,14 @@
                 "That is my ideal beat-down style.\r",
                 "It doesn’t seem to work that way\n",
                 "with Pokémon, however.\n"
+            ],
+            "fr_FR": [
+                "Ecraser un ennemi grâce à ma force...\n",
+                "C’est mon style de victoire préféré.\r",
+                "Mais on dirait que ça ne marche\n",
+                "pas comme ça avec les Pokémon.\n"
             ]
         }
-    ]
+    ],
+    "name_fr": "Ernest"
 }

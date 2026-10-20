@@ -33,11 +33,18 @@
                 "Hi, traveler!\r",
                 "I’ve forgotten your name, but we’ve\n",
                 "battled before, haven’t we?\r"
+            ],
+            "fr_FR": [
+                "Salut, globe-trotter!\r",
+                "J’ai oublié ton nom, mais nous avons\n",
+                "déjà combattu, n’est-ce pas?\r"
             ]
         },
         {
             "type": "TRMSG_DEFEAT",
-            "en_US": "You sure showed me up.\n"
+            "en_US": "You sure showed me up.\n",
+            "fr_FR": "Tu m’as donné une bonne leçon.\n"
         }
-    ]
+    ],
+    "name_fr": "Dominique"
 }

@@ -23,11 +23,16 @@
             "en_US": [
                 "Are you maybe getting annoyed by\n",
                 "where the floor panels take you?\r"
+            ],
+            "fr_FR": [
+                "Ça t’énerve que les panneaux ne\n",
+                "t’emmènent pas où tu veux?\r"
             ]
         },
         {
             "type": "TRMSG_DEFEAT",
-            "en_US": "I’m going down in flames!\n"
+            "en_US": "I’m going down in flames!\n",
+            "fr_FR": "Je suis descendu en flammes!\n"
         },
         {
             "type": "TRMSG_POST_BATTLE",
@@ -36,7 +41,14 @@
                 "beautiful to behold...\r",
                 "There is also beauty in the tears\n",
                 "wept from defeat...\n"
+            ],
+            "fr_FR": [
+                "La sueur d’un travailleur est une\n",
+                "belle chose à voir...\r",
+                "Il y a aussi de la beauté dans les\n",
+                "larmes de la défaite...\n"
             ]
         }
-    ]
+    ],
+    "name_fr": "Travis"
 }

@@ -25,5 +25,13 @@
     "contest": {
         "effect": "CONTEST_EFFECT_DOUBLE_NEXT_TURN",
         "type": "CONTEST_TYPE_COOL"
-    }
+    },
+    "name_fr": "Force Cosmik",
+    "description_fr": [
+        "Le lanceur absorbe un\n",
+        "pouvoir mystique \n",
+        "spatial qui augmente\n",
+        "sa Défense et \n",
+        "sa Déf. Spé."
+    ]
 }

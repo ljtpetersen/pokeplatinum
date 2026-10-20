@@ -27,5 +27,13 @@
   "fieldUseFunc": "ITEM_USE_FUNC_TM_HM",
   "battleUseCategory": "BATTLE_USE_CATEGORY_NONE",
   "itemUseParams": null,
-  "teachesMove": "MOVE_U_TURN"
+  "teachesMove": "MOVE_U_TURN",
+  "name_fr": "CT89",
+  "description_fr": [
+    "Après avoir attaqué, le lanceur change\n",
+    "de place avec un Pokémon de l’équipe\n",
+    "qui attend son tour."
+  ],
+  "plural_fr": "CT89",
+  "article_fr": null
 }

@@ -26,5 +26,13 @@
   "battlePocket": "BATTLE_POCKET_MASK_NONE",
   "fieldUseFunc": "ITEM_USE_FUNC_MULCH",
   "battleUseCategory": "BATTLE_USE_CATEGORY_NONE",
-  "itemUseParams": {}
+  "itemUseParams": {},
+  "name_fr": "Fertiglu",
+  "description_fr": [
+    "Un engrais utilisé sur sol meuble.\n",
+    "Augmente le nombre de nouveaux plants\n",
+    "qui poussent quand la plante flétrit."
+  ],
+  "plural_fr": "Fertiglu",
+  "article_fr": null
 }

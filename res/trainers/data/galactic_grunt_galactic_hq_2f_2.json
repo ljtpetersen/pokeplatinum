@@ -34,18 +34,33 @@
                 "you sneaky intruder?\r",
                 "Your trail blazing will go out in\n",
                 "a blaze of glory right now!\r"
+            ],
+            "fr_FR": [
+                "Ça t’amuse de gambader dans notre\n",
+                "QG, petite fouine?\r",
+                "Je vais te remettre à ta place\n",
+                "vite fait, bien fait!\r"
             ]
         },
         {
             "type": "TRMSG_DEFEAT",
-            "en_US": "Your trailblazing streak lives on!\n"
+            "en_US": "Your trailblazing streak lives on!\n",
+            "fr_FR": [
+                "Encore un coup d’éclat à\n",
+                "ajouter à ton tableau de chasse!"
+            ]
         },
         {
             "type": "TRMSG_POST_BATTLE",
             "en_US": [
                 "So what, you have momentum...\n",
                 "It’s too late. The experiment’s done!\n"
+            ],
+            "fr_FR": [
+                "Eh bien, tu as de l’énergie... Mais c’est\n",
+                "trop tard. L’expérience est terminée!\n"
             ]
         }
-    ]
+    ],
+    "name_fr": "Sbire"
 }

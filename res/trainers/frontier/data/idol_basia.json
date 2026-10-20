@@ -45,6 +45,10 @@
             "en_US": [
                 "I’m facing retirement soon...\n",
                 "I was never admired as an Idol."
+            ],
+            "fr_FR": [
+                "Je vais bientôt prendre ma retraite...\n",
+                "sans avoir connu le succès..."
             ]
         },
         {
@@ -52,6 +56,10 @@
             "en_US": [
                 "I’m going to shine as a star battler of\n",
                 "Pokémon!\r"
+            ],
+            "fr_FR": [
+                "J’espère qu’on se souviendra au moins\n",
+                "de mes victoires!\r"
             ]
         },
         {
@@ -59,7 +67,12 @@
             "en_US": [
                 "I would have liked to end my career\n",
                 "with a win in this match..."
+            ],
+            "fr_FR": [
+                "C’est un peu dommage de finir sa\n",
+                "carrière sur une note aussi sombre."
             ]
         }
-    ]
+    ],
+    "name_fr": "Yaël"
 }

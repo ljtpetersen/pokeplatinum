@@ -8,6 +8,12 @@
         "interesting example...\r",
         "It hints at how the environment can\n",
         "shape people’s personalities."
+      ],
+      "fr_FR": [
+        "Hum... Le Pokémon CHENITI est \n",
+        "un spécimen intéressant...\r",
+        "Il montre à quel point l’environnement \n",
+        "peut influer sur la personnalité."
       ]
     },
     {
@@ -17,6 +23,12 @@
         "it comes in different forms?\r",
         "Do you have all the forms of that\n",
         "BURMY?\r"
+      ],
+      "fr_FR": [
+        "Tu connais le Pokémon CHENITI et \n",
+        "sa capacité à prendre plusieurs formes?\r",
+        "Est-ce que tu as attrapé toutes\n",
+        "les formes du CHENITI?\r"
       ]
     },
     {
@@ -26,6 +38,11 @@
         "BURMY?\r",
         "What, you don’t like them?\n",
         "They’re all mooshy and cute!"
+      ],
+      "fr_FR": [
+        "Quoi, tu n’as même pas un seul CHENITI?\r",
+        "Tu ne les aimes pas?\n",
+        "Mais ils sont trop mignons!"
       ]
     },
     {
@@ -34,6 +51,10 @@
         "Hmm...\r",
         "It’d be cool if you had all the\n",
         "different-looking BURMY."
+      ],
+      "fr_FR": [
+        "Ce qui serait vraiment la classe, c’est \n",
+        "d’avoir toutes les formes de CHENITI."
       ]
     },
     {
@@ -43,6 +64,12 @@
         "of BURMY! I feel giddy!\r",
         "Since I feel so giddy, take this!\n",
         "Go ahead, take it!"
+      ],
+      "fr_FR": [
+        "La classe! Tu as attrapé toutes les\n",
+        "sortes de CHENITI?!\r",
+        "J’en crois pas mes yeux! Tiens, tu as \n",
+        "bien mérité un petit quelque chose!"
       ]
     },
     {
@@ -50,6 +77,10 @@
       "en_US": [
         "Whoops, your Bag is crammed full!\n",
         "I’ll give this to you later."
+      ],
+      "fr_FR": [
+        "Oups, ton Sac est plein à craquer!\n",
+        "Je te donnerai ça plus tard."
       ]
     },
     {
@@ -57,6 +88,10 @@
       "en_US": [
         "You’re good!\n",
         "You’d make an awesome Bug Maniac!"
+      ],
+      "fr_FR": [
+        "Tu as un don!\n",
+        "Tu ferais un super Entomomaniac!"
       ]
     }
   ]

@@ -25,5 +25,12 @@
   "battlePocket": "BATTLE_POCKET_MASK_NONE",
   "fieldUseFunc": "ITEM_USE_FUNC_JOURNAL",
   "battleUseCategory": "BATTLE_USE_CATEGORY_NONE",
-  "itemUseParams": null
+  "itemUseParams": null,
+  "name_fr": "Journal",
+  "description_fr": [
+    "Journal de bord qui garde en mémoire\n",
+    "vos aventures quotidiennes."
+  ],
+  "plural_fr": "Journal",
+  "article_fr": null
 }

@@ -27,5 +27,13 @@
   "fieldUseFunc": "ITEM_USE_FUNC_TM_HM",
   "battleUseCategory": "BATTLE_USE_CATEGORY_NONE",
   "itemUseParams": null,
-  "teachesMove": "MOVE_DREAM_EATER"
+  "teachesMove": "MOVE_DREAM_EATER",
+  "name_fr": "CT85",
+  "description_fr": [
+    "Attaque réservée aux ennemis endormis.\n",
+    "Le lanceur récupère en PV la moitié des\n",
+    "dégâts infligés."
+  ],
+  "plural_fr": "CT85",
+  "article_fr": null
 }

@@ -44,11 +44,17 @@
             "en_US": [
                 "What’s missing from my game...\n",
                 "Have you discovered yours yet?\r"
+            ],
+            "fr_FR": [
+                "Il manque quelque chose à mon équipe...\n",
+                "Qu’en est-il de la tienne?\r"
             ]
         },
         {
             "type": "TRMSG_DEFEAT",
-            "en_US": "I see it now...\n"
+            "en_US": "I see it now...\n",
+            "fr_FR": "Je sais, maintenant...\n"
         }
-    ]
+    ],
+    "name_fr": "Paul-Alain"
 }

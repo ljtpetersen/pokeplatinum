@@ -26,5 +26,13 @@
   "battlePocket": "BATTLE_POCKET_MASK_NONE",
   "fieldUseFunc": "ITEM_USE_FUNC_BAG_MESSAGE",
   "battleUseCategory": "BATTLE_USE_CATEGORY_NONE",
-  "itemUseParams": {}
+  "itemUseParams": {},
+  "name_fr": "Flûte Noire",
+  "description_fr": [
+    "Une flûte en verre soufflé noir dont\n",
+    "les notes aident à repousser les\n",
+    "Pokémon sauvages."
+  ],
+  "plural_fr": "Flûte Noire",
+  "article_fr": null
 }

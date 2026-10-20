@@ -39,6 +39,10 @@
             "en_US": [
                 "Only those who want to win can\n",
                 "challenge a Pokémon Gym!\r"
+            ],
+            "fr_FR": [
+                "Seuls les Dresseurs les plus déterminés\n",
+                "peuvent défier un Champion d’Arène!\r"
             ]
         },
         {
@@ -46,6 +50,10 @@
             "en_US": [
                 "Gggh...\n",
                 "This is humiliating!\n"
+            ],
+            "fr_FR": [
+                "Argh...\n",
+                "Quelle humiliation!\n"
             ]
         },
         {
@@ -53,7 +61,9 @@
             "en_US": [
                 "One day, I’m going to become a tough\n",
                 "Trainer like you.\n"
-            ]
+            ],
+            "fr_FR": "Un jour, je serai aussi fort que toi.\n"
         }
-    ]
+    ],
+    "name_fr": "Antonio"
 }

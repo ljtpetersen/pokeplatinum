@@ -7,7 +7,10 @@
         "special_attack": 55,
         "special_defense": 55
     },
-    "types": [ "TYPE_WATER", "TYPE_POISON" ],
+    "types": [
+        "TYPE_WATER",
+        "TYPE_POISON"
+    ],
     "catch_rate": 45,
     "base_exp_reward": 100,
     "ev_yields": {
@@ -26,32 +29,92 @@
     "hatch_cycles": 20,
     "base_friendship": 70,
     "exp_rate": "EXP_RATE_MEDIUM_FAST",
-    "egg_groups": [ "EGG_GROUP_WATER_2", "EGG_GROUP_WATER_2" ],
-    "abilities": [ "ABILITY_POISON_POINT", "ABILITY_SWIFT_SWIM" ],
+    "egg_groups": [
+        "EGG_GROUP_WATER_2",
+        "EGG_GROUP_WATER_2"
+    ],
+    "abilities": [
+        "ABILITY_POISON_POINT",
+        "ABILITY_SWIFT_SWIM"
+    ],
     "safari_flee_rate": 0,
     "body_color": "MON_COLOR_GRAY",
     "flip_sprite": false,
     "icon_palette": 0,
     "learnset": {
         "by_level": [
-            [ 1, "MOVE_SPIKES" ],
-            [ 1, "MOVE_TACKLE" ],
-            [ 1, "MOVE_POISON_STING" ],
-            [ 9, "MOVE_HARDEN" ],
-            [ 9, "MOVE_MINIMIZE" ],
-            [ 13, "MOVE_WATER_GUN" ],
-            [ 17, "MOVE_ROLLOUT" ],
-            [ 21, "MOVE_TOXIC_SPIKES" ],
-            [ 25, "MOVE_STOCKPILE" ],
-            [ 25, "MOVE_SPIT_UP" ],
-            [ 29, "MOVE_REVENGE" ],
-            [ 33, "MOVE_BRINE" ],
-            [ 37, "MOVE_PIN_MISSILE" ],
-            [ 41, "MOVE_TAKE_DOWN" ],
-            [ 45, "MOVE_AQUA_TAIL" ],
-            [ 49, "MOVE_POISON_JAB" ],
-            [ 53, "MOVE_DESTINY_BOND" ],
-            [ 57, "MOVE_HYDRO_PUMP" ]
+            [
+                1,
+                "MOVE_SPIKES"
+            ],
+            [
+                1,
+                "MOVE_TACKLE"
+            ],
+            [
+                1,
+                "MOVE_POISON_STING"
+            ],
+            [
+                9,
+                "MOVE_HARDEN"
+            ],
+            [
+                9,
+                "MOVE_MINIMIZE"
+            ],
+            [
+                13,
+                "MOVE_WATER_GUN"
+            ],
+            [
+                17,
+                "MOVE_ROLLOUT"
+            ],
+            [
+                21,
+                "MOVE_TOXIC_SPIKES"
+            ],
+            [
+                25,
+                "MOVE_STOCKPILE"
+            ],
+            [
+                25,
+                "MOVE_SPIT_UP"
+            ],
+            [
+                29,
+                "MOVE_REVENGE"
+            ],
+            [
+                33,
+                "MOVE_BRINE"
+            ],
+            [
+                37,
+                "MOVE_PIN_MISSILE"
+            ],
+            [
+                41,
+                "MOVE_TAKE_DOWN"
+            ],
+            [
+                45,
+                "MOVE_AQUA_TAIL"
+            ],
+            [
+                49,
+                "MOVE_POISON_JAB"
+            ],
+            [
+                53,
+                "MOVE_DESTINY_BOND"
+            ],
+            [
+                57,
+                "MOVE_HYDRO_PUMP"
+            ]
         ],
         "by_tm": [
             "TM03",
@@ -108,7 +171,7 @@
             "MOVE_POISON_JAB"
         ]
     },
-    "evolutions": [  ],
+    "evolutions": [],
     "offspring": "SPECIES_QWILFISH",
     "footprint": {
         "has": false,
@@ -179,6 +242,18 @@
                 "ぜんしんの　どくバリを\n",
                 "しほうはっぽうに　うちだす。\n",
                 "まるい　からだは　およぎが　にがて。"
+            ]
+        },
+        "local_version": {
+            "entry_text": [
+                "It shoots the poison spines on its\n",
+                "body in all directions. Its round\n",
+                "form makes it a poor swimmer."
+            ],
+            "entry_text_fr": [
+                "Il envoie ses piquants empoisonnés\n",
+                "à la ronde. Sa forme sphérique en\n",
+                "fait un piètre nageur."
             ]
         }
     },

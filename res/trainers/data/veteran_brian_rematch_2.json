@@ -60,6 +60,12 @@
                 "technique...\r",
                 "Let us battle again to see who wins\n",
                 "this time!\r"
+            ],
+            "fr_FR": [
+                "La puissance de la jeunesse face à\n",
+                "la technique d’un ancien...\r",
+                "Affrontons-nous à nouveau pour\n",
+                "voir qui triomphera!\r"
             ]
         },
         {
@@ -67,7 +73,12 @@
             "en_US": [
                 "The power of youth...\n",
                 "It’s startling.\n"
+            ],
+            "fr_FR": [
+                "Le pouvoir de la jeunesse...\n",
+                "J’en ai la chair de poule.\n"
             ]
         }
-    ]
+    ],
+    "name_fr": "Théobald"
 }

@@ -85,6 +85,10 @@
             "en_US": [
                 "Your team looks impressive.\n",
                 "Will I be OK...?"
+            ],
+            "fr_FR": [
+                "Tu m’impressionnes un peu.\n",
+                "Est-ce que je vais être à la hauteur?"
             ]
         },
         {
@@ -92,6 +96,10 @@
             "en_US": [
                 "Oh, what?\n",
                 "Are those Pokémon only for Contests?\r"
+            ],
+            "fr_FR": [
+                "Oh? Tu as décidé de ne pas utiliser\n",
+                "ton Pokémon préféré?\r"
             ]
         },
         {
@@ -99,7 +107,12 @@
             "en_US": [
                 "Ouch! I said ouch!\n",
                 "It was too much! Way, way too much!\r"
+            ],
+            "fr_FR": [
+                "Aïe, aïe, aïe! C’est dur! Je savais bien\n",
+                "que je n’étais pas à la hauteur.\r"
             ]
         }
-    ]
+    ],
+    "name_fr": "Candice"
 }

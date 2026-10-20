@@ -10,6 +10,13 @@
         "people worldwide over Nintendo WFC.\r",
         "Would you like to do a global\n",
         "Pokémon trade?"
+      ],
+      "fr_FR": [
+        "Bienvenue à la GTS.\r",
+        "Nous permettons l’échange de Pokémon\n",
+        "à travers le monde via la CWF Nintendo.\r",
+        "Voulez-vous faire un échange de\n",
+        "Pokémon au niveau mondial?"
       ]
     },
     {
@@ -19,6 +26,13 @@
         "Welcome to the GTS!\r",
         "Would you like to do a global Pokémon\n",
         "trade over Nintendo Wi-Fi Connection?"
+      ],
+      "fr_FR": [
+        "Bonjour!\n",
+        "Bienvenue à la GTS!\r",
+        "Voulez-vous faire un échange de\n",
+        "Pokémon au niveau mondial via la\f",
+        "connexion Wi-Fi Nintendo?"
       ]
     },
     {
@@ -30,6 +44,15 @@
         "or search among offered Pokémon.\r",
         "Should I describe things in greater\n",
         "detail?"
+      ],
+      "fr_FR": [
+        "Vous pouvez faire un échange de\n",
+        "Pokémon de deux façons à la GTS.\r",
+        "Vous pouvez déposer un Pokémon pour\n",
+        "l’échanger ou en chercher un parmi ceux\f",
+        "proposés.\r",
+        "Voulez-vous avoir une explication plus\n",
+        "complète?"
       ]
     },
     {
@@ -43,6 +66,16 @@
         "Pokémon in return for your offered\f",
         "Pokémon, the trade will go through.\r",
         "Should I explain anything else?"
+      ],
+      "fr_FR": [
+        "On vous demandera de choisir le\n",
+        "Pokémon que vous voulez échanger.\r",
+        "Puis, on vous demandera quel Pokémon\n",
+        "vous voulez en échange.\r",
+        "Si un autre joueur échange le Pokémon\n",
+        "que vous cherchez contre celui que\f",
+        "vous proposez, l’échange aura lieu.\r",
+        "Voulez-vous savoir autre chose?"
       ]
     },
     {
@@ -56,6 +89,16 @@
         "must provide us with the kind of\f",
         "Pokémon wanted in return.\r",
         "Should I explain anything else?"
+      ],
+      "fr_FR": [
+        "Vous devez chercher parmi les Pokémon\n",
+        "que les autres Dresseurs proposent.\r",
+        "Il est toujours indiqué quel Pokémon\n",
+        "leur Dresseur souhaite recevoir.\r",
+        "Si vous en trouvez un que vous voulez,\n",
+        "vous devez nous fournir le Pokémon\f",
+        "souhaité en échange.\r",
+        "Voulez-vous savoir autre chose?"
       ]
     },
     {
@@ -63,18 +106,24 @@
       "en_US": [
         "Would you like to make a global\n",
         "Pokémon trade?"
+      ],
+      "fr_FR": [
+        "Voulez-vous faire un échange de\n",
+        "Pokémon au niveau mondial?"
       ]
     },
     {
       "id": "GlobalTerminal1F_Text_PleaseVisitAgain",
-      "en_US": "Please do visit again."
+      "en_US": "Please do visit again.",
+      "fr_FR": "J’espère que vous reviendrez."
     },
     {
       "id": "GlobalTerminal1F_Text_EnjoyVisitToGTS",
       "en_US": [
         "I hope you enjoy your visit\n",
         "to the GTS!\r"
-      ]
+      ],
+      "fr_FR": "Passez un bon moment à la GTS!\r"
     },
     {
       "id": "GlobalTerminal1F_Text_BoxesAreFull",
@@ -84,6 +133,14 @@
         "your PC Boxes are full.\r",
         "If you wish to use the GTS, you must\n",
         "have room on your team or in a PC Box."
+      ],
+      "fr_FR": [
+        "Oh, oh...\r",
+        "Il n’y a plus de place ni dans votre\n",
+        "équipe, ni dans les Boîtes du PC.\r",
+        "Faites de la place dans votre équipe ou\n",
+        "dans vos Boîtes pour pouvoir utiliser\f",
+        "la GTS."
       ]
     },
     {
@@ -95,6 +152,14 @@
         "have at least two Pokémon with you.\r",
         "Please come back with more Pokémon\n",
         "on your team."
+      ],
+      "fr_FR": [
+        "Oh, oh...\n",
+        "Vous n’avez qu’un Pokémon avec vous.\r",
+        "Pour utiliser la GTS, vous devez en\n",
+        "avoir au moins deux.\r",
+        "Veuillez revenir après avoir ajouté\n",
+        "des membres à votre équipe."
       ]
     },
     {
@@ -103,6 +168,12 @@
         "That’s a big globe, eh?\r",
         "Where do I live on it now?\n",
         "Let’s see if I can point it out..."
+      ],
+      "fr_FR": [
+        "Imposant ce globe terrestre, hein?\r",
+        "Où est-ce que j’habite déjà?\n",
+        "Voyons si j’arrive à trouver le bon\f",
+        "endroit..."
       ]
     },
     {
@@ -111,6 +182,11 @@
         "They say if you communicate with\n",
         "someone, their location is\f",
         "recorded on this giant globe."
+      ],
+      "fr_FR": [
+        "Il paraît que si on communique avec\n",
+        "quelqu’un, la région où il habite est\f",
+        "enregistrée sur ce globe terrestre."
       ]
     },
     {
@@ -120,6 +196,12 @@
         "here to trade.\r",
         "Who knows, it might be traded while\n",
         "I’m asleep tonight."
+      ],
+      "fr_FR": [
+        "Tout ce que je dois faire, c’est laisser\n",
+        "un Pokémon ici pour un échange.\r",
+        "Qui sait, il sera peut-être échangé\n",
+        "pendant que je dors cette nuit..."
       ]
     },
     {
@@ -128,6 +210,12 @@
         "You can easily trade Pokémon with\n",
         "Pokémon fans around the world.\r",
         "Isn’t that something?"
+      ],
+      "fr_FR": [
+        "On peut facilement échanger des\n",
+        "Pokémon avec des fans du monde\f",
+        "entier.\r",
+        "C’est incroyable, n’est-ce pas?"
       ]
     },
     {
@@ -137,6 +225,13 @@
         "this giant globe.\r",
         "Once you do, you can show your location\n",
         "to anyone you communicate with."
+      ],
+      "fr_FR": [
+        "Tu peux enregistrer l’endroit où tu vis\n",
+        "sur ce globe géant.\r",
+        "Ensuite, tu pourras montrer où tu\n",
+        "habites à ceux avec qui tu entres\f",
+        "en communication."
       ]
     },
     {
@@ -146,6 +241,12 @@
         "can use easily?\r",
         "If it is really that easy, I’d love\n",
         "to trade Pokémon, too!"
+      ],
+      "fr_FR": [
+        "Est-ce que la CWF Nintendo est vraiment\n",
+        "facile à utiliser?\r",
+        "Si c’est le cas, j’adorerais échanger\n",
+        "des Pokémon, moi aussi!"
       ]
     },
     {
@@ -154,6 +255,11 @@
         "This week, I’ll do it!\r",
         "I really want to make the Top 8 of the\n",
         "rankings."
+      ],
+      "fr_FR": [
+        "Cette semaine, c’est la bonne!\r",
+        "Etre dans les huit premiers du\n",
+        "classement, c’est mon rêve!"
       ]
     },
     {
@@ -168,6 +274,19 @@
         "Box Data and Dress-Up Data on 2F.\r",
         "Take a pink warp panel to the third\n",
         "floor for the Battle Video Gallery."
+      ],
+      "fr_FR": [
+        "Il y a trois niveaux au Terminal Mondial.\r",
+        "On utilise les téléporteurs pour passer\n",
+        "de l’un à l’autre.\r",
+        "Les téléporteurs bleus conduisent au\n",
+        "rez-de-chaussée où se trouve la GTS.\r",
+        "Les téléporteurs verts, aux studios\n",
+        "des Clichés Boîte et Clichés habillage,\f",
+        "situés au premier étage.\r",
+        "Enfin, prends un téléporteur rose pour\n",
+        "rejoindre la galerie des Vidéos de\f",
+        "combat, au deuxième niveau."
       ]
     },
     {
@@ -175,17 +294,29 @@
       "en_US": [
         "Your favorite is {STRVAR_1 0, 0, 0},\n",
         "isn’t it?"
+      ],
+      "fr_FR": [
+        "Ton Pokémon préféré, c’est\n",
+        "{STRVAR_1 0, 0, 0}, n’est-ce pas?"
       ]
     },
     {
       "id": "GlobalTerminal1F_Text_FavoriteIsEgg",
-      "en_US": "Your favorite is that Egg, isn’t it?"
+      "en_US": "Your favorite is that Egg, isn’t it?",
+      "fr_FR": [
+        "C’est cet Oeuf, ton préféré,\n",
+        "n’est-ce pas?"
+      ]
     },
     {
       "id": "GlobalTerminal1F_Text_IWasRight",
       "en_US": [
         "Yes, I was right!\n",
         "I thought so!"
+      ],
+      "fr_FR": [
+        "Oui, j’avais raison!\n",
+        "C’est bien ce que je pensais!"
       ]
     },
     {
@@ -193,6 +324,10 @@
       "en_US": [
         "...Oh? Your favorite really is\n",
         "{STRVAR_1 0, 0, 0}, isn’t it?"
+      ],
+      "fr_FR": [
+        "Oh? J’étais pourtant convaincue que\n",
+        "c’était {STRVAR_1 0, 0, 0} ton préféré..."
       ]
     },
     {
@@ -200,6 +335,10 @@
       "en_US": [
         "...Oh? Your favorite really is that Egg,\n",
         "isn’t it?"
+      ],
+      "fr_FR": [
+        "Oh? J’étais pourtant convaincue\n",
+        "que c’était ton préféré..."
       ]
     },
     {
@@ -207,6 +346,10 @@
       "en_US": [
         "I want to know everyone’s favorite\n",
         "kinds of Pokémon."
+      ],
+      "fr_FR": [
+        "Je cherche à savoir quel genre de\n",
+        "Pokémon les gens préfèrent."
       ]
     },
     {
@@ -218,6 +361,16 @@
         "Or do you only look at other entries?\r",
         "Whether you’re an exhibitor or viewer,\n",
         "I have a Backdrop for you!\r"
+      ],
+      "fr_FR": [
+        "Salut! Tu as déjà fait un tour au\n",
+        "studio des Clichés habillage?\r",
+        "Tu y as exposé tes clichés?\n",
+        "Ou tu te contentes de regarder\f",
+        "ceux des autres?\r",
+        "Peu importe! Que tu sois là pour\n",
+        "exposer ou pour regarder, j’ai un\f",
+        "Décor pour toi!\r"
       ]
     },
     {
@@ -230,6 +383,11 @@
         "If you want to use that Backdrop,\n",
         "please go to the fitting room on the\f",
         "second floor of Jubilife TV."
+      ],
+      "fr_FR": [
+        "Si tu veux utiliser ce Décor, rends-toi\n",
+        "à la cabine d’essayage située au\f",
+        "premier étage des locaux de Féli-Télé."
       ]
     },
     {
@@ -237,6 +395,10 @@
       "en_US": [
         "Please share your dreamy Dress-Up\n",
         "Data with everyone!"
+      ],
+      "fr_FR": [
+        "Que tout le monde profite de tes\n",
+        "Clichés habillage!"
       ]
     },
     {
@@ -244,6 +406,10 @@
       "en_US": [
         "Obtained a Backdrop for use in\n",
         "Jubilife TV’s fitting room."
+      ],
+      "fr_FR": [
+        "Obtenu: nouveau Décor à utiliser dans\n",
+        "la cabine d’essayage de Féli-Télé."
       ]
     },
     {
@@ -252,6 +418,12 @@
         "Yo, yo, yo!\r",
         "Wanna let the world know about you?\n",
         "Then you gotta tell me, yo!"
+      ],
+      "fr_FR": [
+        "Yo, yo, yo!\r",
+        "Tu as un message à faire passer?\n",
+        "Alors je suis la personne à qui parler,\f",
+        "yo!"
       ]
     },
     {
@@ -261,6 +433,12 @@
         "you now.\r",
         "If you want to change your message,\n",
         "I’m the guy to see, yo!"
+      ],
+      "fr_FR": [
+        "Yo, ce sera ta devise à partir de\n",
+        "maintenant.\r",
+        "Si tu veux la changer, adresse-toi\n",
+        "à moi, yo!"
       ]
     },
     {
@@ -270,6 +448,11 @@
         "to say?\r",
         "If you want to change your message,\n",
         "I’m the guy to see, yo!"
+      ],
+      "fr_FR": [
+        "Yo! T’as rien à dire?\r",
+        "Si tu veux changer ta devise,\n",
+        "adresse-toi à moi, yo!"
       ]
     },
     {
@@ -281,6 +464,14 @@
         "the machines for communication.\r",
         "Please do give the machines a try, as\n",
         "they guide you through the operation."
+      ],
+      "fr_FR": [
+        "Il y a plusieurs appareils ici, au\n",
+        "Terminal Mondial.\r",
+        "Insérez votre Magnéto VS dans les\n",
+        "appareils pour lancer la communication.\r",
+        "Essayez donc, il vous suffit de suivre\n",
+        "les instructions."
       ]
     },
     {
@@ -293,6 +484,15 @@
         "like yourself from around the world.\r",
         "You may also trade Pokémon with the\n",
         "world’s Trainers."
+      ],
+      "fr_FR": [
+        "Bienvenue au Terminal Mondial!\r",
+        "Ici, vous pouvez vous connecter avec\n",
+        "la communauté mondiale des Dresseurs.\r",
+        "Profitez-en pour consulter les records\n",
+        "des Dresseurs du monde entier.\r",
+        "Ou bien lancez-vous dans l’échange de\n",
+        "Pokémon à l’échelle mondiale."
       ]
     },
     {
@@ -300,6 +500,10 @@
       "en_US": [
         "Connect to Nintendo Wi-Fi Connection\n",
         "and examine the Trainer Rankings?"
+      ],
+      "fr_FR": [
+        "Se connecter à la CWF Nintendo pour\n",
+        "consulter le Classement des Dresseurs?"
       ]
     },
     {
@@ -318,6 +522,24 @@
         "If you enter a ranking category more\n",
         "than once, only the points earned from\f",
         "your previous report will be tallied.\r"
+      ],
+      "fr_FR": [
+        "Le Classement des Dresseurs est un\n",
+        "système de classement par équipe.\r",
+        "Les Dresseurs du monde entier y sont\n",
+        "classés en divers groupes et\f",
+        "catégories.\r",
+        "Inscrivez-vous et vos exploits de\n",
+        "Dresseur seront automatiquement\f",
+        "envoyés à votre équipe.\r",
+        "Ainsi, vos activités de Dresseur\n",
+        "contribueront au classement de\f",
+        "votre équipe.\r",
+        "Mais attention!\r",
+        "Si vous apparaissez plusieurs fois dans\n",
+        "un même classement, seuls les points de\r",
+        "votre précédente apparition seront\n",
+        "comptabilisés.\r"
       ]
     },
     {
@@ -325,6 +547,10 @@
       "en_US": [
         "Connect to Nintendo Wi-Fi Connection\n",
         "and examine the Battle Video Rankings?"
+      ],
+      "fr_FR": [
+        "Se connecter à la CWF Nintendo pour\n",
+        "consulter le Classement des vidéos?"
       ]
     },
     {
@@ -334,19 +560,29 @@
         "popular Battle Videos.\r",
         "Study many classic battles and sharpen\n",
         "your own Trainer skills.\r"
+      ],
+      "fr_FR": [
+        "Le Classement des vidéos est une\n",
+        "galerie des Vidéos de combat les\f",
+        "plus populaires.\r",
+        "Etudiez les combats incontournables\n",
+        "pour aiguiser vos talents de Dresseur.\r"
       ]
     },
     {
       "id": "GlobalTerminal1F_Text_Use",
-      "en_US": "USE"
+      "en_US": "USE",
+      "fr_FR": "CONNEX."
     },
     {
       "id": "GlobalTerminal1F_Text_Info",
-      "en_US": "INFO"
+      "en_US": "INFO",
+      "fr_FR": "INFOS"
     },
     {
       "id": "GlobalTerminal1F_Text_Cancel",
-      "en_US": "CANCEL"
+      "en_US": "CANCEL",
+      "fr_FR": "ANNULER"
     },
     {
       "id": "GlobalTerminal1F_Text_PanelsLeadTo2F3F",
@@ -355,6 +591,13 @@
         "for Box Data and Dress-Up Data on 2F.\r",
         "The pink panel leads to the Battle\n",
         "Video Gallery on 3F."
+      ],
+      "fr_FR": [
+        "Les téléporteurs verts conduisent aux\n",
+        "studios des Clichés Boîte et Clichés\f",
+        "habillage situés au premier étage.\r",
+        "Les téléporteurs roses à la galerie des\n",
+        "Vidéos de combat, au deuxième étage."
       ]
     },
     {
@@ -366,6 +609,15 @@
         "Or do you only look at other entries?\r",
         "If you had a Fashion Case, I could give\n",
         "you something nice."
+      ],
+      "fr_FR": [
+        "Salut! Tu as déjà fait un tour au\n",
+        "studio des Clichés habillage?\r",
+        "Tu y as exposé tes clichés?\n",
+        "Ou tu te contentes de regarder ceux\f",
+        "des autres?\r",
+        "Si tu avais un Coffret Mode, je te\n",
+        "donnerais un cadeau sympa!"
       ]
     }
   ]

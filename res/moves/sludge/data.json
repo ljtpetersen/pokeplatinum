@@ -24,5 +24,12 @@
     "contest": {
         "effect": "CONTEST_EFFECT_FINAL_PERFORMANCE_ADVANTAGE",
         "type": "CONTEST_TYPE_TOUGH"
-    }
+    },
+    "name_fr": "Détritus",
+    "description_fr": [
+        "Des détritus toxiques\n",
+        "sont projetés sur\n",
+        "l’ennemi. Peut aussi\n",
+        "l’empoisonner."
+    ]
 }

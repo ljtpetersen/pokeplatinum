@@ -10,6 +10,14 @@
         "please?\r",
         "I want to get through this tunnel.\n",
         "Will you let me go with you?\r"
+      ],
+      "fr_FR": [
+        "Je suis Viviane.\n",
+        "Et toi, tu es qui?\r",
+        "Oh... {STRVAR_1 3, 0, 0}, tu veux bien \n",
+        "m’aider s’il te plaît?\r",
+        "Je voudrais traverser ce tunnel. \n",
+        "Pourquoi ne pas y aller ensemble?\r"
       ]
     },
     {
@@ -17,6 +25,10 @@
       "en_US": [
         "{STRVAR_1 3, 0, 0} decided to go with\n",
         "Marley!"
+      ],
+      "fr_FR": [
+        "{STRVAR_1 3, 0, 0} décide \n",
+        "d’accompagner Viviane!"
       ]
     },
     {
@@ -24,6 +36,10 @@
       "en_US": [
         "Marley: ...Pokémon shouldn’t be\n",
         "hurt... I’ll heal them..."
+      ],
+      "fr_FR": [
+        "Viviane: Les Pokémon ne devraient jamais\n",
+        "souffrir... C’est à moi de les soigner..."
       ]
     },
     {
@@ -32,6 +48,13 @@
         "Marley: ...You took so long...\n",
         "Please, don’t make me wait...\r",
         "I felt a little forlorn waiting...\r"
+      ],
+      "fr_FR": [
+        "Viviane: Tu en as mis du temps... \n",
+        "S’il te plaît, ne me laisse pas\f",
+        "attendre comme ça.\r",
+        "Je me sens abandonnée\n",
+        "quand je suis seule...\r"
       ]
     },
     {
@@ -39,6 +62,10 @@
       "en_US": [
         "Marley: ...You’re going back...\n",
         "Too bad... Bye-bye...\r"
+      ],
+      "fr_FR": [
+        "Viviane: Tu abandonnes? Dommage... \n",
+        "Eh bien, au revoir...\r"
       ]
     },
     {
@@ -50,6 +77,14 @@
         "visits it, that’s all...\r",
         "...I appreciate your escorting me...\r",
         "...Just a little...\r"
+      ],
+      "fr_FR": [
+        "Viviane: Oh! Nous y sommes presque.\n",
+        "Il y a une plaque de pierre par là...\r",
+        "Je voulais voir le Pokémon \n",
+        "qui y vient parfois...\r",
+        "Merci de m’avoir escortée...\n",
+        "un petit bout de chemin...\r"
       ]
     },
     {

@@ -27,5 +27,13 @@
     "contest": {
         "effect": "CONTEST_EFFECT_HIGH_SCORE_LATER_TURN",
         "type": "CONTEST_TYPE_BEAUTY"
-    }
+    },
+    "name_fr": "Danse-Fleur",
+    "description_fr": [
+        "Le lanceur attaque en\n",
+        "projetant des pétales\n",
+        "pendant 2 à 3 tours\n",
+        "avant de céder à\n",
+        "la confusion."
+    ]
 }

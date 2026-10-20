@@ -26,5 +26,11 @@
     "contest": {
         "effect": "CONTEST_EFFECT_CONSECUTIVE_USE",
         "type": "CONTEST_TYPE_TOUGH"
-    }
+    },
+    "name_fr": "Pilonnage",
+    "description_fr": [
+        "Projette de 2 à 5\n",
+        "grosses boules sur\n",
+        "l’ennemi."
+    ]
 }

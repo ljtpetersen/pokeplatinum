@@ -27,5 +27,12 @@
     "contest": {
         "effect": "CONTEST_EFFECT_BASIC",
         "type": "CONTEST_TYPE_COOL"
-    }
+    },
+    "name_fr": "Détricanon",
+    "description_fr": [
+        "Le lanceur envoie des\n",
+        "détritus sur l’ennemi.\n",
+        "Peut aussi\n",
+        "l’empoisonner."
+    ]
 }

@@ -65,6 +65,10 @@
             "en_US": [
                 "Your eyes are unclouded by doubt.\n",
                 "This match will be entertaining..."
+            ],
+            "fr_FR": [
+                "Je peux sentir ta confiance en toi.\n",
+                "Ce combat promet d’être divertissant."
             ]
         },
         {
@@ -72,6 +76,10 @@
             "en_US": [
                 "From my heart, I look forward to your\n",
                 "return.\r"
+            ],
+            "fr_FR": [
+                "Du fond du cœur, j’espère que l’on\n",
+                "pourra s’affronter à nouveau.\r"
             ]
         },
         {
@@ -79,7 +87,12 @@
             "en_US": [
                 "Whew... A most entertaining match.\n",
                 "I hope you’ll grant me a rematch.\r"
+            ],
+            "fr_FR": [
+                "C’était effectivement un combat\n",
+                "divertissant. J’attends la revanche...\r"
             ]
         }
-    ]
+    ],
+    "name_fr": "Donat"
 }

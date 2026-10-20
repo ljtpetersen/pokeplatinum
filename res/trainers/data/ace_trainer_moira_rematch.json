@@ -58,11 +58,17 @@
             "en_US": [
                 "Hello again! Please don’t hold\n",
                 "anything back, just like before.\r"
+            ],
+            "fr_FR": [
+                "Tiens, c’est toi! Ne retiens pas tes\n",
+                "coups, surtout. Comme la dernière fois!\r"
             ]
         },
         {
             "type": "TRMSG_DEFEAT",
-            "en_US": "Hmm...\n"
+            "en_US": "Hmm...\n",
+            "fr_FR": "Hum...\n"
         }
-    ]
+    ],
+    "name_fr": "Irina"
 }

@@ -9,6 +9,13 @@
         "If I still had that hidden move\n",
         "Rock Climb, I’d be able to scale\f",
         "sheer cliffs..."
+      ],
+      "fr_FR": [
+        "J’ai laissé tomber une CS en\n",
+        "luttant contre le blizzard.\r",
+        "Si j’avais toujours cette capacité \n",
+        "secrète Escalade, je pourrais\f",
+        "escalader ces falaises..."
       ]
     },
     {
@@ -27,6 +34,21 @@
         "Make good use of it.\r",
         "I like your honesty, though.\n",
         "Let me reward you with this.\r"
+      ],
+      "fr_FR": [
+        "J’ai laissé tomber une CS en\n",
+        "luttant contre le blizzard.\r",
+        "Si j’avais toujours cette capacité \n",
+        "secrète Escalade, je pourrais\f",
+        "escalader ces falaises...\r",
+        "Hé! Qu’est-ce que c’est?\n",
+        "Tu as trouvé la Capsule Secrète?\r",
+        "J’avais baissé les bras,\n",
+        "mais tu l’as retrouvée.\r",
+        "Elle t’appartient, désormais.\n",
+        "Fais-en bon usage.\r",
+        "J’apprécie ton honnêteté.\n",
+        "Laisse-moi t’offrir ceci en récompense.\r"
       ]
     },
     {
@@ -38,6 +60,14 @@
         "of ancient origin.\r",
         "Even as old as the time when Sinnoh\n",
         "came into being..."
+      ],
+      "fr_FR": [
+        "J’ai aussi trouvé cette Plaque Glace\n",
+        "sous la neige.\r",
+        "Je n’ai rien d’un expert, mais elle a\n",
+        "l’air d’être très ancienne.\r",
+        "Presque aussi ancienne que la région\n",
+        "de Sinnoh elle-même..."
       ]
     }
   ]

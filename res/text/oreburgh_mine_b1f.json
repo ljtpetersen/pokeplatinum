@@ -8,6 +8,13 @@
         "keeps their own Pokémon with them.\r",
         "You may be challenged to battles!\n",
         "Hahaha!"
+      ],
+      "fr_FR": [
+        "Tous ceux qui travaillent dans la mine\n",
+        "de charbon emmènent leurs Pokémon\f",
+        "avec eux.\r",
+        "Tu risques le défi à tout instant!\n",
+        "Ha, ha, ha!"
       ]
     },
     {
@@ -17,6 +24,12 @@
         "rocks, then they started moving!\r",
         "They were Pokémon that looked just\n",
         "like rocks!"
+      ],
+      "fr_FR": [
+        "Tout à l’heure, je suis tombée sur ce\n",
+        "que j’ai pris pour des rochers.\r",
+        "Soudain, ils se sont mis à bouger!\n",
+        "C’était des Pokémon!"
       ]
     },
     {
@@ -35,6 +48,20 @@
         "I found something very interesting soon\n",
         "after arrival.\r",
         "You may have it, if you’d like.\r"
+      ],
+      "fr_FR": [
+        "Salut! Comment vas-tu?\n",
+        "Je suis étudiant.\r",
+        "Pour faire simple, je dirais que j’étudie\n",
+        "l’origine des peuples.\r",
+        "Cela explique ma présence ici.\r",
+        "A Sinnoh, il y a un mythe qui raconte\n",
+        "la naissance du monde.\r",
+        "Il pourrait m’être utile pour\n",
+        "comprendre l’émergence des peuples.\r",
+        "Je suis tombé sur un objet fort\n",
+        "intéressant à mon arrivée.\r",
+        "Tiens, je te le donne.\r"
       ]
     },
     {
@@ -43,6 +70,11 @@
         "Oh?\n",
         "You have an overabundance of things!\f",
         "I’ll wait for you with this."
+      ],
+      "fr_FR": [
+        "Oh?\n",
+        "Ton Sac, c’est la corne d’abondance!\f",
+        "Reviens quand tu auras de la place."
       ]
     },
     {
@@ -52,6 +84,11 @@
         "About that very interesting thing\n",
         "I found...\r",
         "You may have it, if you’d like.\r"
+      ],
+      "fr_FR": [
+        "Content de te revoir!\r",
+        "Si tu veux, je te donne l’objet que\n",
+        "j’ai trouvé en arrivant ici...\r"
       ]
     },
     {
@@ -70,6 +107,22 @@
         "Physical artifacts like that Plate\n",
         "don’t interest me once I’ve read them.\r",
         "I hope we meet again somewhere.\r"
+      ],
+      "fr_FR": [
+        "D’après ce qu’on m’en a dit, cette\n",
+        "Plaque fut créée en même temps que\f",
+        "Sinnoh.\r",
+        "Elle porte l’inscription suivante.\r",
+        "“Le porteur légitime d’une Plaque\n",
+        "peut en maîtriser le pouvoir.”\r",
+        "Je pense que le porteur légitime n’est\n",
+        "autre que l’architecte de ce monde.\r",
+        "A ce propos, je ne m’intéresse qu’aux\n",
+        "textes tombés dans l’oubli.\r",
+        "Une fois que je les ai lus, les artefacts\n",
+        "comme cette Plaque n’ont plus d’intérêt\f",
+        "pour moi.\r",
+        "J’espère qu’on se reverra un jour.\r"
       ]
     }
   ]

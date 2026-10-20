@@ -3,87 +3,108 @@
   "messages": [
     {
       "id": "pl_msg_00000689_00000",
-      "en_US": "None"
+      "en_US": "None",
+      "fr_FR": "Aucun"
     },
     {
       "id": "pl_msg_00000689_00001",
-      "en_US": "Akershus"
+      "en_US": "Akershus",
+      "fr_FR": "Akershus"
     },
     {
       "id": "pl_msg_00000689_00002",
-      "en_US": "Aust-Agder"
+      "en_US": "Aust-Agder",
+      "fr_FR": "Aust-Agder"
     },
     {
       "id": "pl_msg_00000689_00003",
-      "en_US": "Buskerud"
+      "en_US": "Buskerud",
+      "fr_FR": "Buskerud"
     },
     {
       "id": "pl_msg_00000689_00004",
-      "en_US": "Finnmark"
+      "en_US": "Finnmark",
+      "fr_FR": "Finnmark"
     },
     {
       "id": "pl_msg_00000689_00005",
-      "en_US": "Hedmark"
+      "en_US": "Hedmark",
+      "fr_FR": "Hedmark"
     },
     {
       "id": "pl_msg_00000689_00006",
-      "en_US": "Hordaland"
+      "en_US": "Hordaland",
+      "fr_FR": "Hordaland"
     },
     {
       "id": "pl_msg_00000689_00007",
-      "en_US": "Lofoten"
+      "en_US": "Lofoten",
+      "fr_FR": "Lofoten"
     },
     {
       "id": "pl_msg_00000689_00008",
-      "en_US": "More og Romsdal"
+      "en_US": "More og Romsdal",
+      "fr_FR": "Møre og Romsdal"
     },
     {
       "id": "pl_msg_00000689_00009",
-      "en_US": "Nordland"
+      "en_US": "Nordland",
+      "fr_FR": "Nordland"
     },
     {
       "id": "pl_msg_00000689_00010",
-      "en_US": "Nord-Trondelag"
+      "en_US": "Nord-Trondelag",
+      "fr_FR": "Nord-Trøndelag"
     },
     {
       "id": "pl_msg_00000689_00011",
-      "en_US": "Oppland"
+      "en_US": "Oppland",
+      "fr_FR": "Oppland"
     },
     {
       "id": "pl_msg_00000689_00012",
-      "en_US": "Oslo"
+      "en_US": "Oslo",
+      "fr_FR": "Oslo"
     },
     {
       "id": "pl_msg_00000689_00013",
-      "en_US": "Rogaland"
+      "en_US": "Rogaland",
+      "fr_FR": "Rogaland"
     },
     {
       "id": "pl_msg_00000689_00014",
-      "en_US": "Sogn og Fjordane"
+      "en_US": "Sogn og Fjordane",
+      "fr_FR": "Sogn og Fjordane"
     },
     {
       "id": "pl_msg_00000689_00015",
-      "en_US": "Sor-Trondelag"
+      "en_US": "Sor-Trondelag",
+      "fr_FR": "Sør-Trøndelag"
     },
     {
       "id": "pl_msg_00000689_00016",
-      "en_US": "Svalbard"
+      "en_US": "Svalbard",
+      "fr_FR": "Svalbard"
     },
     {
       "id": "pl_msg_00000689_00017",
-      "en_US": "Telemark"
+      "en_US": "Telemark",
+      "fr_FR": "Telemark"
     },
     {
       "id": "pl_msg_00000689_00018",
-      "en_US": "Troms"
+      "en_US": "Troms",
+      "fr_FR": "Troms"
     },
     {
       "id": "pl_msg_00000689_00019",
-      "en_US": "Vest-Agder"
+      "en_US": "Vest-Agder",
+      "fr_FR": "Vest-Agder"
     },
     {
       "id": "pl_msg_00000689_00020",
-      "en_US": "Ostfold"
+      "en_US": "Ostfold",
+      "fr_FR": "Østfold"
     }
   ]
 }

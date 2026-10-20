@@ -26,5 +26,13 @@
     "contest": {
         "effect": "CONTEST_EFFECT_FIRST_PERFORMANCE_ADVANTAGE",
         "type": "CONTEST_TYPE_COOL"
-    }
+    },
+    "name_fr": "Coup d’Jus",
+    "description_fr": [
+        "Un flamboiement\n",
+        "d’électricité frappe\n",
+        "tous les autres\n",
+        "Pokémon au combat.\n",
+        "Peut aussi paralyser."
+    ]
 }

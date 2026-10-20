@@ -27,5 +27,13 @@
     "contest": {
         "effect": "CONTEST_EFFECT_MAX_VOLTAGE_ADVANTAGE",
         "type": "CONTEST_TYPE_SMART"
-    }
+    },
+    "name_fr": "Boutefeu",
+    "description_fr": [
+        "Le lanceur s’embrase\n",
+        "avant de charger\n",
+        "l’ennemi. Le choc\n",
+        "blesse gravement\n",
+        "le lanceur aussi."
+    ]
 }

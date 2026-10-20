@@ -10,6 +10,12 @@
                 "me. I’ll always win.\r",
                 "My investigative and analytical system\n",
                 "is truly amazing."
+            ],
+            "fr_FR": [
+                "Peu importe quelle stratégie tu\n",
+                "emploies. Tu ne peux pas gagner.\r",
+                "J’ai fait des analyses très poussées\n",
+                "pour en arriver à cette conclusion."
             ]
         },
         {
@@ -17,6 +23,10 @@
             "en_US": [
                 "See?\n",
                 "Just as analyzed.\r"
+            ],
+            "fr_FR": [
+                "Tu captes?\n",
+                "Tout était calculé.\r"
             ]
         },
         {
@@ -24,7 +34,12 @@
             "en_US": [
                 "Whoa!\n",
                 "You sure showed me!\r"
+            ],
+            "fr_FR": [
+                "Ouah!\n",
+                "Tu m’as donné une bonne leçon!\r"
             ]
         }
-    ]
+    ],
+    "name_fr": "Cardus"
 }

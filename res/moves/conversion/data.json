@@ -23,5 +23,12 @@
     "contest": {
         "effect": "CONTEST_EFFECT_PITY_POINTS",
         "type": "CONTEST_TYPE_BEAUTY"
-    }
+    },
+    "name_fr": "Adaptation",
+    "description_fr": [
+        "Le lanceur change\n",
+        "de type pour prendre\n",
+        "celui de l’une de\n",
+        "ses capacités."
+    ]
 }

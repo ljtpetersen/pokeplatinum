@@ -16,6 +16,20 @@
         "and son, it seems.\r",
         "Humph, I’ve wasted your time.\n",
         "Take this as my apology!\r"
+      ],
+      "fr_FR": [
+        "Charles: Hum?\n",
+        "Alors comme ça tu t’entraînes dur?\r",
+        "Tu sais, mon fils s’entraîne \n",
+        "aussi dur que toi.\r",
+        "Mais je le traite toujours\n",
+        "comme s’il était un enfant.\r",
+        "C’est ridicule, je sais. C’est un \n",
+        "Champion d’Arène maintenant.\r",
+        "Mais j’imagine qu’entre un père et un \n",
+        "fils, c’est toujours comme ça...\r",
+        "Bah, je te fais perdre ton temps!\n",
+        "Tiens, prends ceci, c’est pour toi.\r"
       ]
     },
     {
@@ -27,6 +41,14 @@
         "being traded to evolve.\r",
         "Try using it if you’d like.\n",
         "Farewell!\r"
+      ],
+      "fr_FR": [
+        "Certains Pokémon peuvent évoluer vers \n",
+        "le type Acier grâce à cette Peau Métal.\r",
+        "Pour que ça marche, il faut qu’ils \n",
+        "portent cet objet pendant un échange.\r",
+        "Tu pourras essayer, si ça t’intéresse.\n",
+        "Au revoir!\r"
       ]
     }
   ]

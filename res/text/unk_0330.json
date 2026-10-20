@@ -3,127 +3,158 @@
   "messages": [
     {
       "id": "pl_msg_00000330_00000",
-      "en_US": "Hearthome Gym"
+      "en_US": "Hearthome Gym",
+      "fr_FR": "Hearthome Gym"
     },
     {
       "id": "pl_msg_00000330_00001",
-      "en_US": "Fog: Red"
+      "en_US": "Fog: Red",
+      "fr_FR": "Fog: Red"
     },
     {
       "id": "pl_msg_00000330_00002",
-      "en_US": "Fog: Green"
+      "en_US": "Fog: Green",
+      "fr_FR": "Fog: Green"
     },
     {
       "id": "pl_msg_00000330_00003",
-      "en_US": "Fog: Blue"
+      "en_US": "Fog: Blue",
+      "fr_FR": "Fog: Blue"
     },
     {
       "id": "pl_msg_00000330_00004",
-      "en_US": "Fog: Alpha"
+      "en_US": "Fog: Alpha",
+      "fr_FR": "Fog: Alpha"
     },
     {
       "id": "pl_msg_00000330_00005",
-      "en_US": "Fog: thickness"
+      "en_US": "Fog: thickness",
+      "fr_FR": "Fog: thickness"
     },
     {
       "id": "pl_msg_00000330_00006",
-      "en_US": "Camera"
+      "en_US": "Camera",
+      "fr_FR": "Camera"
     },
     {
       "id": "pl_msg_00000330_00007",
-      "en_US": "Camera: revolution"
+      "en_US": "Camera: revolution",
+      "fr_FR": "Camera: revolution"
     },
     {
       "id": "pl_msg_00000330_00008",
-      "en_US": "Camera: rotation"
+      "en_US": "Camera: rotation",
+      "fr_FR": "Camera: rotation"
     },
     {
       "id": "pl_msg_00000330_00009",
-      "en_US": "Camera: Zoom"
+      "en_US": "Camera: Zoom",
+      "fr_FR": "Camera: Zoom"
     },
     {
       "id": "pl_msg_00000330_00010",
-      "en_US": "Camera: Distance"
+      "en_US": "Camera: Distance",
+      "fr_FR": "Camera: Distance"
     },
     {
       "id": "pl_msg_00000330_00011",
-      "en_US": "Move target"
+      "en_US": "Move target",
+      "fr_FR": "Move target"
     },
     {
       "id": "pl_msg_00000330_00012",
-      "en_US": "Change angles"
+      "en_US": "Change angles",
+      "fr_FR": "Change angles"
     },
     {
       "id": "pl_msg_00000330_00013",
-      "en_US": "Reset Camera Settings"
+      "en_US": "Reset Camera Settings",
+      "fr_FR": "Reset Camera Settings"
     },
     {
       "id": "pl_msg_00000330_00014",
-      "en_US": "Distortion World"
+      "en_US": "Distortion World",
+      "fr_FR": "Distortion World"
     },
     {
       "id": "pl_msg_00000330_00015",
-      "en_US": "Walk along the wall: left"
+      "en_US": "Walk along the wall: left",
+      "fr_FR": "Walk along the wall: left"
     },
     {
       "id": "pl_msg_00000330_00016",
-      "en_US": "Helical Movement"
+      "en_US": "Helical Movement",
+      "fr_FR": "Helical Movement"
     },
     {
       "id": "pl_msg_00000330_00017",
-      "en_US": "Up-side down"
+      "en_US": "Up-side down",
+      "fr_FR": "Up-side down"
     },
     {
       "id": "pl_msg_00000330_00018",
-      "en_US": "Walk along the wall: right"
+      "en_US": "Walk along the wall: right",
+      "fr_FR": "Walk along the wall: right"
     },
     {
       "id": "pl_msg_00000330_00019",
-      "en_US": "じきかいてん"
+      "en_US": "じきかいてん",
+      "fr_FR": "じきかいてん"
     },
     {
       "id": "pl_msg_00000330_00020",
-      "en_US": "じきリセット"
+      "en_US": "じきリセット",
+      "fr_FR": "じきリセット"
     },
     {
       "id": "pl_msg_00000330_00021",
-      "en_US": "ロングクリップ"
+      "en_US": "ロングクリップ",
+      "fr_FR": "ロングクリップ"
     },
     {
       "id": "pl_msg_00000330_00022",
-      "en_US": "All Furniture"
+      "en_US": "All Furniture",
+      "fr_FR": "All Furniture"
     },
     {
       "id": "pl_msg_00000330_00023",
-      "en_US": "Surf"
+      "en_US": "Surf",
+      "fr_FR": "Surf"
     },
     {
       "id": "pl_msg_00000330_00024",
-      "en_US": "Strength Flag ON"
+      "en_US": "Strength Flag ON",
+      "fr_FR": "Strength Flag ON"
     },
     {
       "id": "pl_msg_00000330_00025",
-      "en_US": "Dist. World:Giratina Event"
+      "en_US": "Dist. World:Giratina Event",
+      "fr_FR": "Dist. World:Giratina Event"
     },
     {
       "id": "pl_msg_00000330_00026",
-      "en_US": "Dist. World:Battle w/ Cyrus"
+      "en_US": "Dist. World:Battle w/ Cyrus",
+      "fr_FR": "Dist. World:Battle w/ Cyrus"
     },
     {
       "id": "pl_msg_00000330_00027",
-      "en_US": "Dist. World:boulders ON/OFF"
+      "en_US": "Dist. World:boulders ON/OFF",
+      "fr_FR": "Dist. World:boulders ON/OFF"
     },
     {
       "id": "pl_msg_00000330_00028",
-      "en_US": "やぶくもポ－ズ"
+      "en_US": "やぶくもポ－ズ",
+      "fr_FR": "やぶくもポ－ズ"
     },
     {
       "id": "pl_msg_00000330_00029",
-      "en_US": "Dist. World:Background"
+      "en_US": "Dist. World:Background",
+      "fr_FR": "Dist. World:Background"
     },
     {
       "id": "pl_msg_00000330_00030",
-      "en_US": "ジムライト"
+      "en_US": "ジムライト",
+      "fr_FR": "ジムライト"
     }
   ]
 }

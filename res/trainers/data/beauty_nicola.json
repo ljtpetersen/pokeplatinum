@@ -24,17 +24,27 @@
                 "After enjoying a meal at the hotel\n",
                 "restaurant, one has a battle.\r",
                 "That’s the social etiquette.\r"
+            ],
+            "fr_FR": [
+                "Après un bon repas au restaurant de\n",
+                "l’hôtel, il faut faire un combat.\r",
+                "C’est une question de savoir-vivre.\r"
             ]
         },
         {
             "type": "TRMSG_DEFEAT",
-            "en_US": "Enchanting.\n"
+            "en_US": "Enchanting.\n",
+            "fr_FR": "C’était un enchantement.\n"
         },
         {
             "type": "TRMSG_POST_BATTLE",
             "en_US": [
                 "Personally, I would much rather pamper\n",
                 "Pokémon than make them battle.\n"
+            ],
+            "fr_FR": [
+                "Moi, je préfère pouponner mes Pokémon\n",
+                "plutôt que de les faire combattre.\n"
             ]
         },
         {
@@ -44,7 +54,14 @@
                 "I go to the restaurant.\r",
                 "Etiquette calls for a battle after a\n",
                 "meal. Shall we?\r"
+            ],
+            "fr_FR": [
+                "C’est bizarre, je te croise toujours en\n",
+                "sortant du restaurant.\r",
+                "L’étiquette veut qu’on combatte\n",
+                "après un repas. Tu es d’accord?\r"
             ]
         }
-    ]
+    ],
+    "name_fr": "Betty"
 }

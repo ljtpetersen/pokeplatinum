@@ -27,5 +27,13 @@
   "fieldUseFunc": "ITEM_USE_FUNC_TM_HM",
   "battleUseCategory": "BATTLE_USE_CATEGORY_NONE",
   "itemUseParams": null,
-  "teachesMove": "MOVE_WATER_PULSE"
+  "teachesMove": "MOVE_WATER_PULSE",
+  "name_fr": "CT03",
+  "description_fr": [
+    "Le lanceur envoie de puissants jets\n",
+    "d’eau. Cela peut rendre l’ennemi\n",
+    "confus."
+  ],
+  "plural_fr": "CT03",
+  "article_fr": null
 }

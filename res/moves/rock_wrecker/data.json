@@ -27,5 +27,13 @@
     "contest": {
         "effect": "CONTEST_EFFECT_MAX_VOLTAGE_ADVANTAGE",
         "type": "CONTEST_TYPE_TOUGH"
-    }
+    },
+    "name_fr": "Roc-Boulet",
+    "description_fr": [
+        "Le lanceur attaque en\n",
+        "projetant un gros\n",
+        "rocher sur l’ennemi.\n",
+        "Il doit se reposer au\n",
+        "tour suivant."
+    ]
 }

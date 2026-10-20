@@ -59,6 +59,10 @@
             "en_US": [
                 "I’m not very good at this, but please\n",
                 "don’t hold back."
+            ],
+            "fr_FR": [
+                "Je ne suis pas très douée, mais tu ne\n",
+                "dois pas retenir tes coups pour autant."
             ]
         },
         {
@@ -66,6 +70,10 @@
             "en_US": [
                 "Oh, didn’t I say?\n",
                 "You shouldn’t have held back.\r"
+            ],
+            "fr_FR": [
+                "Oh! Mais je t’avais dit de ne pas\n",
+                "retenir tes coups!\r"
             ]
         },
         {
@@ -73,7 +81,12 @@
             "en_US": [
                 "Fweh! I wish you would have held back a\n",
                 "little bit!\r"
+            ],
+            "fr_FR": [
+                "Ooh! J’aurais aimé que tu retiennes un\n",
+                "petit peu tes coups quand même!\r"
             ]
         }
-    ]
+    ],
+    "name_fr": "Prune"
 }

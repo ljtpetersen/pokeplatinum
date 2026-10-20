@@ -32,11 +32,16 @@
             "en_US": [
                 "Hey, check this out! Look at the\n",
                 "luster of my Pokémon’s fur!\r"
+            ],
+            "fr_FR": [
+                "Hé, vise un peu! Regarde la fourrure de\n",
+                "mes Pokémon, comme elle est brillante!\r"
             ]
         },
         {
             "type": "TRMSG_DEFEAT",
-            "en_US": "Hey, hey, did you take a good look?\n"
+            "en_US": "Hey, hey, did you take a good look?\n",
+            "fr_FR": "Alors, alors, t’as vu ça?\n"
         },
         {
             "type": "TRMSG_POST_BATTLE",
@@ -44,6 +49,12 @@
                 "The Veilstone Department Store is\n",
                 "pretty impressive!\r",
                 "Did you know they even sell Poffins?\n"
+            ],
+            "fr_FR": [
+                "Le Centre Commercial Voilaroc est\n",
+                "gigantesque!\r",
+                "Tu sais qu’ils vendent aussi des\n",
+                "Poffins?"
             ]
         },
         {
@@ -51,7 +62,12 @@
             "en_US": [
                 "I brushed my party a lot.\n",
                 "So we’d be ready for a rematch!\r"
+            ],
+            "fr_FR": [
+                "J’ai bien brossé mon équipe.\n",
+                "On est prêts pour une revanche!\r"
             ]
         }
-    ]
+    ],
+    "name_fr": "Patrice"
 }

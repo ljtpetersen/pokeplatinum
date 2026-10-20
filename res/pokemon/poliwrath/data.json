@@ -7,7 +7,10 @@
         "special_attack": 70,
         "special_defense": 90
     },
-    "types": [ "TYPE_WATER", "TYPE_FIGHTING" ],
+    "types": [
+        "TYPE_WATER",
+        "TYPE_FIGHTING"
+    ],
     "catch_rate": 45,
     "base_exp_reward": 185,
     "ev_yields": {
@@ -26,20 +29,44 @@
     "hatch_cycles": 20,
     "base_friendship": 70,
     "exp_rate": "EXP_RATE_MEDIUM_SLOW",
-    "egg_groups": [ "EGG_GROUP_WATER_1", "EGG_GROUP_WATER_1" ],
-    "abilities": [ "ABILITY_WATER_ABSORB", "ABILITY_DAMP" ],
+    "egg_groups": [
+        "EGG_GROUP_WATER_1",
+        "EGG_GROUP_WATER_1"
+    ],
+    "abilities": [
+        "ABILITY_WATER_ABSORB",
+        "ABILITY_DAMP"
+    ],
     "safari_flee_rate": 0,
     "body_color": "MON_COLOR_BLUE",
     "flip_sprite": true,
     "icon_palette": 0,
     "learnset": {
         "by_level": [
-            [ 1, "MOVE_BUBBLE_BEAM" ],
-            [ 1, "MOVE_HYPNOSIS" ],
-            [ 1, "MOVE_DOUBLE_SLAP" ],
-            [ 1, "MOVE_SUBMISSION" ],
-            [ 43, "MOVE_DYNAMIC_PUNCH" ],
-            [ 53, "MOVE_MIND_READER" ]
+            [
+                1,
+                "MOVE_BUBBLE_BEAM"
+            ],
+            [
+                1,
+                "MOVE_HYPNOSIS"
+            ],
+            [
+                1,
+                "MOVE_DOUBLE_SLAP"
+            ],
+            [
+                1,
+                "MOVE_SUBMISSION"
+            ],
+            [
+                43,
+                "MOVE_DYNAMIC_PUNCH"
+            ],
+            [
+                53,
+                "MOVE_MIND_READER"
+            ]
         ],
         "by_tm": [
             "TM01",
@@ -94,7 +121,7 @@
             "MOVE_VACUUM_WAVE"
         ]
     },
-    "evolutions": [  ],
+    "evolutions": [],
     "offspring": "SPECIES_POLIWAG",
     "footprint": {
         "has": true,
@@ -165,6 +192,18 @@
                 "きょうじんな　きんにくを　もつ。\n",
                 "たいへいようを　やすむことなく\n",
                 "およぎつづけることが　できるのだ。"
+            ]
+        },
+        "local_version": {
+            "entry_text": [
+                "With its extremely tough muscles,\n",
+                "it can keep swimming in the Pacific\n",
+                "Ocean without resting."
+            ],
+            "entry_text_fr": [
+                "Il possède de sacrés biscoteaux.\n",
+                "Il peut parcourir sans relâche\n",
+                "l’Océan Pacifique."
             ]
         }
     },

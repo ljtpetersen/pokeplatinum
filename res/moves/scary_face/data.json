@@ -26,5 +26,12 @@
     "contest": {
         "effect": "CONTEST_EFFECT_LAST_NEXT_TURN",
         "type": "CONTEST_TYPE_TOUGH"
-    }
+    },
+    "name_fr": "Grimace",
+    "description_fr": [
+        "Une grimace qui\n",
+        "effraie l’ennemi et\n",
+        "réduit fortement\n",
+        "sa Vitesse."
+    ]
 }

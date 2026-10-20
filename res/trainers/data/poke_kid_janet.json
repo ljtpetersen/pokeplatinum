@@ -32,11 +32,16 @@
             "en_US": [
                 "Bika bikabika!\n",
                 "Pigachu!\r"
+            ],
+            "fr_FR": [
+                "Bika bikabika!\n",
+                "Pigachu!\r"
             ]
         },
         {
             "type": "TRMSG_DEFEAT",
-            "en_US": "Pikachu...\n"
+            "en_US": "Pikachu...\n",
+            "fr_FR": "Pikachu...\n"
         },
         {
             "type": "TRMSG_POST_BATTLE",
@@ -44,7 +49,13 @@
                 "Pika...\r",
                 "I’ll need a lot more practice to\n",
                 "become a real PIKACHU...\n"
+            ],
+            "fr_FR": [
+                "Pika...\r",
+                "Je dois répéter un peu plus pour\n",
+                "devenir un vrai PIKACHU...\n"
             ]
         }
-    ]
+    ],
+    "name_fr": "Marie"
 }

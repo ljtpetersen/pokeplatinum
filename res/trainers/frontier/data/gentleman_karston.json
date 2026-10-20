@@ -77,6 +77,10 @@
             "en_US": [
                 "You see an old man, yes?\n",
                 "Don’t be fooled by the way I look."
+            ],
+            "fr_FR": [
+                "Tu me prends pour un vieillard?\n",
+                "Il ne faut pas se fier aux apparences."
             ]
         },
         {
@@ -84,6 +88,10 @@
             "en_US": [
                 "I find it abhorrent to lose to any young\n",
                 "Trainer.\r"
+            ],
+            "fr_FR": [
+                "Perdre face à un jeune Dresseur serait\n",
+                "une abomination.\r"
             ]
         },
         {
@@ -91,7 +99,12 @@
             "en_US": [
                 "I was fooled by your youth.\n",
                 "Foolish, foolish me...\r"
+            ],
+            "fr_FR": [
+                "Je n’aurais pas dû me laisser\n",
+                "abuser par ta jeunesse apparente...\r"
             ]
         }
-    ]
+    ],
+    "name_fr": "Carsten"
 }

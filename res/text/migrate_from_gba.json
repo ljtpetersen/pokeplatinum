@@ -6,6 +6,10 @@
       "en_US": [
         "Make Pokémon migrate from\n",
         "{STRVAR_1 3, 1, 0}’s Ruby Game Pak?"
+      ],
+      "fr_FR": [
+        "Importer les Pokémon de la cartouche\n",
+        "de jeu Rubis de {STRVAR_1 3, 1, 0}?"
       ]
     },
     {
@@ -13,6 +17,10 @@
       "en_US": [
         "Make Pokémon migrate from\n",
         "{STRVAR_1 3, 1, 0}’s Sapphire Game Pak?"
+      ],
+      "fr_FR": [
+        "Importer les Pokémon de la cartouche \n",
+        "de jeu Saphir de {STRVAR_1 3, 1, 0}?"
       ]
     },
     {
@@ -20,6 +28,10 @@
       "en_US": [
         "Make Pokémon migrate from\n",
         "{STRVAR_1 3, 1, 0}’s Emerald Game Pak?"
+      ],
+      "fr_FR": [
+        "Importer les Pokémon de la cartouche\n",
+        "de jeu Emeraude de {STRVAR_1 3, 1, 0}?"
       ]
     },
     {
@@ -27,6 +39,10 @@
       "en_US": [
         "Make Pokémon migrate from\n",
         "{STRVAR_1 3, 1, 0}’s FireRed Game Pak?"
+      ],
+      "fr_FR": [
+        "Importer les Pokémon de la cartouche\n",
+        "de jeu Rouge Feu de {STRVAR_1 3, 1, 0}?"
       ]
     },
     {
@@ -34,6 +50,10 @@
       "en_US": [
         "Make Pokémon migrate from\n",
         "{STRVAR_1 3, 1, 0}’s LeafGreen Game Pak?"
+      ],
+      "fr_FR": [
+        "Importer les Pokémon de la cartouche\n",
+        "de jeu Vert Feuille de {STRVAR_1 3, 1, 0}?"
       ]
     },
     {
@@ -41,6 +61,10 @@
       "en_US": [
         "There aren’t six Pokémon in\n",
         "the PC Boxes."
+      ],
+      "fr_FR": [
+        "Il y a moins de six Pokémon\n",
+        "dans les Boîtes du PC."
       ]
     },
     {
@@ -48,6 +72,10 @@
       "en_US": [
         "Please choose the six Pokémon\n",
         "that will migrate."
+      ],
+      "fr_FR": [
+        "Veuillez sélectionner les six\n",
+        "Pokémon à importer."
       ]
     },
     {
@@ -57,28 +85,47 @@
         "stocked with six migrated Pokémon.\r",
         "Please participate in a Catching\n",
         "Show at Pal Park."
+      ],
+      "fr_FR": [
+        "La carte DS contient déjà\n",
+        "six Pokémon importés.\r",
+        "Veuillez prendre part à un \n",
+        "Show Capture au Parc des Amis."
       ]
     },
     {
       "id": "MigrateFromGBA_Text_EggCannotMigrate",
-      "en_US": "An Egg cannot migrate!"
+      "en_US": "An Egg cannot migrate!",
+      "fr_FR": "Un Oeuf ne peut pas migrer!"
     },
     {
       "id": "MigrateFromGBA_Text_KnowsHiddenMove",
       "en_US": [
         "This Pokémon knows a hidden move.\n",
         "It cannot migrate."
+      ],
+      "fr_FR": [
+        "Ce Pokémon connaît une capacité\n",
+        "secrète. Vous ne pouvez pas l’importer."
       ]
     },
     {
       "id": "MigrateFromGBA_Text_SixChosenWillMigrate",
-      "en_US": "The six chosen Pokémon will migrate."
+      "en_US": "The six chosen Pokémon will migrate.",
+      "fr_FR": [
+        "Les six Pokémon sélectionnés vont\n",
+        "être importés."
+      ]
     },
     {
       "id": "MigrateFromGBA_Text_CannotReturnToGBA",
       "en_US": [
         "Pokémon CANNOT be returned to the\n",
         "Game Boy Advance Game Pak. OK?"
+      ],
+      "fr_FR": [
+        "Les Pokémon NE POURRONT PAS regagner\n",
+        "leur cartouche de jeu GBA. Continuer?"
       ]
     },
     {
@@ -110,6 +157,10 @@
       "en_US": [
         "Saving data on Pokémon Ruby and\n",
         "Pokémon Platinum..."
+      ],
+      "fr_FR": [
+        "Sauvegarde en cours sur Pokémon Rubis\n",
+        "et Pokémon Platine..."
       ]
     },
     {
@@ -117,6 +168,10 @@
       "en_US": [
         "Saving data on Pokémon Ruby and\n",
         "Pokémon Pearl..."
+      ],
+      "fr_FR": [
+        "Sauvegarde en cours sur Pokémon Rubis\n",
+        "et Pokémon Perle..."
       ]
     },
     {
@@ -124,6 +179,10 @@
       "en_US": [
         "Saving data on Pokémon Sapphire and\n",
         "Pokémon Platinum..."
+      ],
+      "fr_FR": [
+        "Sauvegarde en cours sur Pokémon Saphir\n",
+        "et Pokémon Platine..."
       ]
     },
     {
@@ -131,6 +190,10 @@
       "en_US": [
         "Saving data on Pokémon Sapphire and\n",
         "Pokémon Pearl..."
+      ],
+      "fr_FR": [
+        "Sauvegarde en cours sur Pokémon Saphir\n",
+        "et Pokémon Perle..."
       ]
     },
     {
@@ -138,6 +201,10 @@
       "en_US": [
         "Saving data on Pokémon Emerald and\n",
         "Pokémon Platinum..."
+      ],
+      "fr_FR": [
+        "Sauvegarde en cours sur Pokémon\n",
+        "Emeraude et Pokémon Platine..."
       ]
     },
     {
@@ -145,6 +212,10 @@
       "en_US": [
         "Saving data on Pokémon Emerald and\n",
         "Pokémon Pearl..."
+      ],
+      "fr_FR": [
+        "Sauvegarde en cours sur Pokémon\n",
+        "Emeraude et Pokémon Perle..."
       ]
     },
     {
@@ -152,6 +223,10 @@
       "en_US": [
         "Saving data on Pokémon FireRed and\n",
         "Pokémon Platinum..."
+      ],
+      "fr_FR": [
+        "Sauvegarde en cours sur Pokémon\n",
+        "Rouge Feu et Pokémon Platine..."
       ]
     },
     {
@@ -159,6 +234,10 @@
       "en_US": [
         "Saving data on Pokémon FireRed and\n",
         "Pokémon Pearl..."
+      ],
+      "fr_FR": [
+        "Sauvegarde en cours sur Pokémon\n",
+        "Rouge Feu et Pokémon Perle..."
       ]
     },
     {
@@ -166,6 +245,10 @@
       "en_US": [
         "Saving data on Pokémon LeafGreen and\n",
         "Pokémon Platinum..."
+      ],
+      "fr_FR": [
+        "Sauvegarde en cours sur Pokémon\n",
+        "Vert Feuille et Pokémon Platine..."
       ]
     },
     {
@@ -173,6 +256,10 @@
       "en_US": [
         "Saving data on Pokémon LeafGreen\n",
         "and Pokémon Pearl..."
+      ],
+      "fr_FR": [
+        "Sauvegarde en cours sur Pokémon\n",
+        "Vert Feuille et Pokémon Perle..."
       ]
     },
     {
@@ -184,6 +271,10 @@
       "en_US": [
         "Six Pokémon safely migrated to\n",
         "the Pokémon Platinum Game Card."
+      ],
+      "fr_FR": [
+        "Les six Pokémon ont été importés\n",
+        "vers la carte de jeu Pokémon Platine."
       ]
     },
     {
@@ -191,6 +282,10 @@
       "en_US": [
         "Six Pokémon safely migrated to\n",
         "the Pokémon Pearl Game Card."
+      ],
+      "fr_FR": [
+        "Les six Pokémon ont été importés\n",
+        "vers la carte de jeu Pokémon Perle."
       ]
     },
     {
@@ -200,6 +295,12 @@
         "Advance Game Pak only once a day.\r",
         "A full day hasn’t passed since\n",
         "Pokémon migrated from this Game Pak."
+      ],
+      "fr_FR": [
+        "Les Pokémon ne peuvent être importés\n",
+        "qu’une fois par jour et par cartouche.\r",
+        "Des Pokémon ont déjà migré de cette\n",
+        "cartouche de jeu il y a moins de 24h."
       ]
     },
     {
@@ -212,6 +313,15 @@
         "Pokémon for another 24 hours.\r",
         "Would you like to change your game’s\n",
         "time setting to match the Nintendo DS?"
+      ],
+      "fr_FR": [
+        "Vous avez modifié l’horloge interne ou\n",
+        "utilisez une Nintendo DS différente.\r",
+        "Les migrations de Pokémon sont\n",
+        "suspendues pendant 24h lorsque\f",
+        "vous modifiez l’heure.\r",
+        "Voulez-vous aligner l’heure du jeu sur\n",
+        "l’horloge interne de votre Nintendo DS?"
       ]
     },
     {
@@ -220,6 +330,11 @@
         "The game clock has been adjusted.\r",
         "Pokémon cannot be made to migrate\n",
         "for 24 hours."
+      ],
+      "fr_FR": [
+        "L’horloge du jeu a été modifiée.\r",
+        "Aucun Pokémon ne pourra être importé\n",
+        "pendant 24h."
       ]
     },
     {
@@ -229,6 +344,12 @@
         "Game Boy Advance Game Pak.\r",
         "Make Pokémon migrate to the\n",
         "Pokémon Platinum Game Card?"
+      ],
+      "fr_FR": [
+        "Les Pokémon NE POURRONT PAS regagner\n",
+        "leur cartouche de jeu GBA.\r",
+        "Exporter les Pokémon vers la\n",
+        "carte DS Pokémon Platine?"
       ]
     },
     {
@@ -238,11 +359,18 @@
         "Game Boy Advance Game Pak.\r",
         "Make Pokémon migrate to the\n",
         "Pokémon Pearl Game Card?"
+      ],
+      "fr_FR": [
+        "Les Pokémon NE POURRONT PAS regagner\n",
+        "leur cartouche de jeu GBA.\r",
+        "Exporter les Pokémon vers la\n",
+        "carte DS Pokémon Perle?"
       ]
     },
     {
       "id": "MigrateFromGBA_Text_SaveFailed",
-      "en_US": "Save failed..."
+      "en_US": "Save failed...",
+      "fr_FR": "La sauvegarde a échoué..."
     },
     {
       "id": "MigrateFromGBA_Text_ErrorReadingGBAPak",
@@ -251,6 +379,12 @@
         "Game Pak’s save file.\r",
         "There may not be a file saved,\n",
         "or the save file may be corrupted."
+      ],
+      "fr_FR": [
+        "Erreur de lecture du fichier de\n",
+        "sauvegarde de la cartouche de jeu GBA.\r",
+        "Soit le fichier de sauvegarde est \n",
+        "corrompu, soit il a été effacé."
       ]
     },
     {
@@ -258,6 +392,10 @@
       "en_US": [
         "This Pokémon is not permitted to\n",
         "migrate."
+      ],
+      "fr_FR": [
+        "Ce Pokémon ne peut pas être\n",
+        "exporté."
       ]
     },
     {
@@ -269,6 +407,10 @@
       "en_US": [
         "Making adjustments...\n",
         "Do not turn off the power."
+      ],
+      "fr_FR": [
+        "Réglages en cours...\n",
+        "Ne pas éteindre."
       ]
     },
     {
@@ -281,11 +423,13 @@
     },
     {
       "id": "MigrateFromGBA_Text_Level",
-      "en_US": "Lv."
+      "en_US": "Lv.",
+      "fr_FR": "N."
     },
     {
       "id": "MigrateFromGBA_Text_Item",
-      "en_US": "Item"
+      "en_US": "Item",
+      "fr_FR": "Objet"
     },
     {
       "id": "MigrateFromGBA_Text_Unused_00045",

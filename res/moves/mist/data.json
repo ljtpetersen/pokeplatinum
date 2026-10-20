@@ -24,5 +24,13 @@
     "contest": {
         "effect": "CONTEST_EFFECT_SUPPRESS_VOLTAGE",
         "type": "CONTEST_TYPE_BEAUTY"
-    }
+    },
+    "name_fr": "Brume",
+    "description_fr": [
+        "Une brume blanche\n",
+        "enveloppe l’équipe du\n",
+        "lanceur et empêche la\n",
+        "réduction des stats\n",
+        "pour 5 tours."
+    ]
 }

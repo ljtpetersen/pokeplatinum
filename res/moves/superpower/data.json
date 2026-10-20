@@ -27,5 +27,12 @@
     "contest": {
         "effect": "CONTEST_EFFECT_FINAL_PERFORMANCE_ADVANTAGE",
         "type": "CONTEST_TYPE_TOUGH"
-    }
+    },
+    "name_fr": "Surpuissance",
+    "description_fr": [
+        "Une attaque puissante\n",
+        "mais qui baisse\n",
+        "l’Attaque et la\n",
+        "Défense du lanceur."
+    ]
 }

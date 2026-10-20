@@ -22,5 +22,13 @@
     "contest": {
         "effect": "CONTEST_EFFECT_STEAL_VOLTAGE",
         "type": "CONTEST_TYPE_COOL"
-    }
+    },
+    "name_fr": "Photocopie",
+    "description_fr": [
+        "Le lanceur imite la\n",
+        "dernière capacité\n",
+        "employée. Echoue\n",
+        "si aucune capacité\n",
+        "n’a été utilisée."
+    ]
 }

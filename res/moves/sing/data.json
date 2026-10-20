@@ -26,5 +26,11 @@
     "contest": {
         "effect": "CONTEST_EFFECT_NO_VOLTAGE_DOWN",
         "type": "CONTEST_TYPE_CUTE"
-    }
+    },
+    "name_fr": "Berceuse",
+    "description_fr": [
+        "Une berceuse plonge\n",
+        "l’ennemi dans un\n",
+        "profond sommeil."
+    ]
 }

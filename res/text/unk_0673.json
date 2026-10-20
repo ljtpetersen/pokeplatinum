@@ -7,18 +7,28 @@
         "Welcome to the Wi-Fi Plaza!\r",
         "Every guest is loaned a Tap Toy.\n",
         "Here’s yours!\r"
+      ],
+      "fr_FR": [
+        "Bienvenue au Square Wi-Fi!\r",
+        "Chaque visiteur reçoit un Tape-joujou.\n",
+        "Voici le vôtre!\r"
       ]
     },
     {
       "id": "pl_msg_00000673_00001",
-      "en_US": "{STRVAR_1 3, 0, 0} received a {STRVAR_6 2, 1, 0}!"
+      "en_US": "{STRVAR_1 3, 0, 0} received a {STRVAR_6 2, 1, 0}!",
+      "fr_FR": [
+        "{STRVAR_1 3, 0, 0} obtient le\n",
+        "Tape-joujou {STRVAR_6 2, 1, 0}!"
+      ]
     },
     {
       "id": "pl_msg_00000673_00002",
       "en_US": [
         "I hope you will enjoy your stay to\n",
         "the end.\r"
-      ]
+      ],
+      "fr_FR": "Profitez bien de votre visite!\r"
     },
     {
       "id": "pl_msg_00000673_00003",
@@ -26,6 +36,12 @@
         "Your Wi-Fi Plaza visit is nearly over.\r",
         "Thank you for visiting.\n",
         "We hope you’ll join us again!\r"
+      ],
+      "fr_FR": [
+        "Vous devrez bientôt quitter le\n",
+        "Square Wi-Fi.\r",
+        "Merci de votre visite. Nous espérons\n",
+        "vous revoir bientôt!\r"
       ]
     },
     {
@@ -34,23 +50,36 @@
         "By the way, what is your type today?\r",
         "Would you like to define yourself with\n",
         "two types?\r"
+      ],
+      "fr_FR": [
+        "Au fait, quel est votre type\n",
+        "aujourd’hui?\r",
+        "Si vous voulez, vous pouvez choisir\n",
+        "deux types pour vous définir.\r"
       ]
     },
     {
       "id": "pl_msg_00000673_00005",
-      "en_US": "What is your first type today?"
+      "en_US": "What is your first type today?",
+      "fr_FR": [
+        "Alors, quel sera votre premier type\n",
+        "aujourd’hui?"
+      ]
     },
     {
       "id": "pl_msg_00000673_00006",
-      "en_US": "{STRVAR_1 15, 0, 0}"
+      "en_US": "{STRVAR_1 15, 0, 0}",
+      "fr_FR": "{STRVAR_1 15, 0, 0}"
     },
     {
       "id": "pl_msg_00000673_00007",
-      "en_US": "Not choosing"
+      "en_US": "Not choosing",
+      "fr_FR": "Ne pas choisir"
     },
     {
       "id": "pl_msg_00000673_00008",
-      "en_US": "The {STRVAR_1 15, 0, 0} type is your choice?"
+      "en_US": "The {STRVAR_1 15, 0, 0} type is your choice?",
+      "fr_FR": "Le type {STRVAR_1 15, 0, 0}? C’est bien cela?"
     },
     {
       "id": "pl_msg_00000673_00009",
@@ -58,13 +87,21 @@
     },
     {
       "id": "pl_msg_00000673_00010",
-      "en_US": "What is your second type today?"
+      "en_US": "What is your second type today?",
+      "fr_FR": [
+        "Et quel sera votre second type\n",
+        "aujourd’hui?"
+      ]
     },
     {
       "id": "pl_msg_00000673_00011",
       "en_US": [
         "I see! You’ve chosen the {STRVAR_1 15, 0, 0}\n",
         "and {STRVAR_1 15, 1, 0} types.\r"
+      ],
+      "fr_FR": [
+        "Parfait! Vous avez choisi les types\n",
+        "{STRVAR_1 15, 0, 0} et {STRVAR_1 15, 1, 0}.\r"
       ]
     },
     {
@@ -72,6 +109,10 @@
       "en_US": [
         "I see!\n",
         "You’ve chosen the {STRVAR_1 15, 0, 0} type.\r"
+      ],
+      "fr_FR": [
+        "Parfait! Vous avez choisi le\n",
+        "type {STRVAR_1 15, 0, 0}.\r"
       ]
     },
     {
@@ -87,11 +128,16 @@
       "en_US": [
         "Welcome to the Wi-Fi Plaza!\r",
         "This is the general-inquiries counter.\r"
+      ],
+      "fr_FR": [
+        "Bienvenue au Square Wi-Fi!\r",
+        "Vous êtes au point d’information.\r"
       ]
     },
     {
       "id": "pl_msg_00000673_00016",
-      "en_US": "What would you like to know about?\r"
+      "en_US": "What would you like to know about?\r",
+      "fr_FR": "Sur quel sujet puis-je vous éclairer?\r"
     },
     {
       "id": "pl_msg_00000673_00017",
@@ -109,6 +155,17 @@
         "that appears by pressing the A Button.\r",
         "You should also check the balloons that\n",
         "occasionally float by.\r"
+      ],
+      "fr_FR": [
+        "Le globe géant situé près de l’entrée\n",
+        "du Square Wi-Fi est le Globe Visiteurs.\r",
+        "Il indique d’où viennent les autres\n",
+        "visiteurs du Square Wi-Fi et le moment\f",
+        "de la journée chez eux.\r",
+        "Pour consulter ces informations,\n",
+        "appuyez sur le bouton X.\r",
+        "Et ouvrez l’œil: par moment, un ballon\n",
+        "vient flotter sur l’écran!\r"
       ]
     },
     {
@@ -118,6 +175,12 @@
         "shows occurrences in the Wi-Fi Plaza.\r",
         "If you’re unsure of what to do, please\n",
         "check the Plaza News.\r"
+      ],
+      "fr_FR": [
+        "Les Infos Square apparaissent sur le\n",
+        "tableau d’affichage électronique.\r",
+        "Consultez les Infos Square pour\n",
+        "savoir tout ce qui se passe ici!\r"
       ]
     },
     {
@@ -128,6 +191,14 @@
         "Pokémon in your party.\r",
         "There are two panels, black and white.\n",
         "Play with whichever one you want.\r"
+      ],
+      "fr_FR": [
+        "Empreintes Poké vous permet de vous\n",
+        "amuser avec les empreintes de vos\f",
+        "Pokémon sur un tableau.\r",
+        "Il y a deux tableaux d’Empreintes Poké\n",
+        "au Square Wi-Fi, un noir et un blanc.\f",
+        "Utilisez celui que vous préférez!\r"
       ]
     },
     {
@@ -139,6 +210,10 @@
       "en_US": [
         "We hope you’ll enjoy yourself in the\n",
         "Wi-Fi Plaza before your time is up.\r"
+      ],
+      "fr_FR": [
+        "Profitez bien du temps dont vous\n",
+        "disposez au Square Wi-Fi.\r"
       ]
     },
     {
@@ -153,6 +228,16 @@
         "playing Plaza Games, too.\r",
         "We hope you’ll come up with your own\n",
         "ways of enjoying them!\r"
+      ],
+      "fr_FR": [
+        "Les Tape-joujoux sont des objets\n",
+        "exclusifs au Square Wi-Fi.\r",
+        "Vous pouvez jouer avec le vôtre, mais\n",
+        "aussi l’échanger avec celui d’un ami.\r",
+        "Jouez aux Jeux du Square pour\n",
+        "améliorer vos Tape-joujoux.\r",
+        "Amusez-vous bien grâce aux\n",
+        "Tape-joujoux du Square Wi-Fi!\r"
       ]
     },
     {
@@ -165,6 +250,18 @@
         "into the mouth of a rotating SWALOT.\r",
         "The player with the highest score will\n",
         "be rewarded with a Tap Toy upgrade.\r"
+      ],
+      "fr_FR": [
+        "{STRVAR_6 0, 0, 0} est un des Jeux\n",
+        "du Square.\r",
+        "Jusqu’à quatre joueurs peuvent jouer\n",
+        "en même temps.\r",
+        "Les règles sont simples: jetez des\n",
+        "Baies dans la bouche d’AVALTOUT!\r",
+        "Le joueur ayant réalisé le meilleur\n",
+        "score sera récompensé.\r",
+        "On lui remettra un Tape-joujou\n",
+        "amélioré!\r"
       ]
     },
     {
@@ -178,6 +275,18 @@
         "The player who keeps the MIME JR. on\n",
         "the ball longest will be rewarded with\f",
         "a Tap Toy upgrade.\r"
+      ],
+      "fr_FR": [
+        "{STRVAR_6 0, 0, 0} est un des Jeux\n",
+        "du Square.\r",
+        "Jusqu’à quatre joueurs peuvent\n",
+        "jouer en même temps.\r",
+        "Voici les règles: il faut faire tourner le\n",
+        "ballon et empêcher MIME JR. de tomber.\r",
+        "Le joueur qui parvient à garder\n",
+        "MIME JR. en équilibre le plus longtemps\r",
+        "remporte la partie et reçoit un\n",
+        "Tape-joujou amélioré.\r"
       ]
     },
     {
@@ -191,6 +300,17 @@
         "Pop at least ten, and all participants\n",
         "will be rewarded with a Tap Toy\f",
         "upgrade.\r"
+      ],
+      "fr_FR": [
+        "{STRVAR_6 0, 0, 0} est un des Jeux\n",
+        "du Square.\r",
+        "Jusqu’à quatre joueurs peuvent\n",
+        "jouer en même temps.\r",
+        "Les règles sont simples: gonflez les\n",
+        "ballons jusqu’à ce qu’ils éclatent.\r",
+        "Faites-en éclater au moins dix, et tous\n",
+        "les joueurs recevront un Tape-joujou\f",
+        "amélioré.\r"
       ]
     },
     {
@@ -201,6 +321,13 @@
         "Wi-Fi Plaza are turned on.\r",
         "We hope you will enjoy the different\n",
         "atmosphere it creates.\r"
+      ],
+      "fr_FR": [
+        "Lorsque la moitié de votre temps s’est\n",
+        "écoulé, les projecteurs du Square Wi-Fi\f",
+        "s’allument.\r",
+        "Nous espérons que vous apprécierez\n",
+        "l’atmosphère ainsi créée.\r"
       ]
     },
     {
@@ -212,6 +339,14 @@
         "throughout the Wi-Fi Plaza.\r",
         "We hope you will enjoy the fireworks as\n",
         "your visit winds down.\r"
+      ],
+      "fr_FR": [
+        "Lorsque votre temps est presque\n",
+        "écoulé, les projecteurs s’éteignent.\r",
+        "Des feux d’artifice sont alors tirés\n",
+        "dans tout le Square Wi-Fi.\r",
+        "Nous espérons que ce spectacle\n",
+        "pyrotechnique vous plaira.\r"
       ]
     },
     {
@@ -229,6 +364,18 @@
         "Float, you cannot get off till it exits\r",
         "the Wi-Fi Plaza, at which point you will\n",
         "be disconnected from Nintendo WFC.\r"
+      ],
+      "fr_FR": [
+        "Lorsque le temps est écoulé, les Chars\n",
+        "de la Parade commencent à défiler en\f",
+        "partant du coin nord-est du Square.\r",
+        "Ils ressemblent à des Pokémon et vous\n",
+        "ramèneront au Centre Pokémon!\r",
+        "Une fois sur un Char, vous ne pouvez\n",
+        "plus descendre avant la sortie du\f",
+        "Square Wi-Fi.\r",
+        "Sortir du Square Wi-Fi entraîne la\n",
+        "déconnexion de la CWF Nintendo.\r"
       ]
     },
     {
@@ -239,53 +386,74 @@
         "general-inquiries counter.\r",
         "For details, please ask the attendant\n",
         "by the monitor.\r"
+      ],
+      "fr_FR": [
+        "Pour participer au Sondage Square,\n",
+        "utilisez la borne située près du\f",
+        "point d’information.\r",
+        "L’employé qui se trouve à côté pourra\n",
+        "vous donner plus de détails.\r"
       ]
     },
     {
       "id": "pl_msg_00000673_00031",
-      "en_US": "TAP TOYS"
+      "en_US": "TAP TOYS",
+      "fr_FR": "TAPE-JOUJOUX"
     },
     {
       "id": "pl_msg_00000673_00032",
-      "en_US": "PLAZA GAMES"
+      "en_US": "PLAZA GAMES",
+      "fr_FR": "JEUX DU SQUARE"
     },
     {
       "id": "pl_msg_00000673_00033",
-      "en_US": "VISITOR PROFILES"
+      "en_US": "VISITOR PROFILES",
+      "fr_FR": "GLOBE VISITEURS"
     },
     {
       "id": "pl_msg_00000673_00034",
-      "en_US": "PLAZA NEWS"
+      "en_US": "PLAZA NEWS",
+      "fr_FR": "INFOS SQUARE"
     },
     {
       "id": "pl_msg_00000673_00035",
-      "en_US": "FOOTPRINT STAMP"
+      "en_US": "FOOTPRINT STAMP",
+      "fr_FR": "EMPREINTES POKé"
     },
     {
       "id": "pl_msg_00000673_00036",
-      "en_US": "TIME EVENTS"
+      "en_US": "TIME EVENTS",
+      "fr_FR": "EVENEMENTS"
     },
     {
       "id": "pl_msg_00000673_00037",
-      "en_US": "EXIT"
+      "en_US": "EXIT",
+      "fr_FR": "QUITTER"
     },
     {
       "id": "pl_msg_00000673_00038",
-      "en_US": "{STRVAR_6 0, 0, 0}"
+      "en_US": "{STRVAR_6 0, 0, 0}",
+      "fr_FR": "{STRVAR_6 0, 0, 0}"
     },
     {
       "id": "pl_msg_00000673_00039",
-      "en_US": "{STRVAR_6 1, 0, 0}"
+      "en_US": "{STRVAR_6 1, 0, 0}",
+      "fr_FR": "{STRVAR_6 1, 0, 0}"
     },
     {
       "id": "pl_msg_00000673_00040",
-      "en_US": "PLAZA SURVEY"
+      "en_US": "PLAZA SURVEY",
+      "fr_FR": "SONDAGE SQUARE"
     },
     {
       "id": "pl_msg_00000673_00041",
       "en_US": [
         "Roll the ball to keep MIME JR. balanced\n",
         "on it."
+      ],
+      "fr_FR": [
+        "Faites tourner le ballon pour empêcher\n",
+        "MIME JR. de tomber."
       ]
     },
     {
@@ -293,6 +461,10 @@
       "en_US": [
         "Toss Berries into the mouth of a\n",
         "rotating SWALOT."
+      ],
+      "fr_FR": [
+        "Jetez des Baies dans la bouche\n",
+        "d’AVALTOUT."
       ]
     },
     {
@@ -300,19 +472,26 @@
       "en_US": [
         "Press the WOBBUFFET pump and pop\n",
         "balloons with the other players."
+      ],
+      "fr_FR": [
+        "Utilisez la pompe QULBUTOKE pour\n",
+        "faire éclater des ballons."
       ]
     },
     {
       "id": "pl_msg_00000673_00044",
-      "en_US": "ID No."
+      "en_US": "ID No.",
+      "fr_FR": "Nº ID"
     },
     {
       "id": "pl_msg_00000673_00045",
-      "en_US": "NAME"
+      "en_US": "NAME",
+      "fr_FR": "NOM"
     },
     {
       "id": "pl_msg_00000673_00046",
-      "en_US": "LOCATION"
+      "en_US": "LOCATION",
+      "fr_FR": "LIEU"
     },
     {
       "id": "pl_msg_00000673_00047",
@@ -320,19 +499,26 @@
     },
     {
       "id": "pl_msg_00000673_00048",
-      "en_US": "ACTIVITY LOG"
+      "en_US": "ACTIVITY LOG",
+      "fr_FR": "DERNIERES ACTIONS"
     },
     {
       "id": "pl_msg_00000673_00049",
-      "en_US": "{STRVAR_1 55, 0, 0}"
+      "en_US": "{STRVAR_1 55, 0, 0}",
+      "fr_FR": "{STRVAR_1 55, 0, 0}"
     },
     {
       "id": "pl_msg_00000673_00050",
-      "en_US": "{STRVAR_1 3, 0, 0}"
+      "en_US": "{STRVAR_1 3, 0, 0}",
+      "fr_FR": "{STRVAR_1 3, 0, 0}"
     },
     {
       "id": "pl_msg_00000673_00051",
       "en_US": [
+        "{STRVAR_1 36, 0, 0}\n",
+        "{STRVAR_1 37, 1, 0}"
+      ],
+      "fr_FR": [
         "{STRVAR_1 36, 0, 0}\n",
         "{STRVAR_1 37, 1, 0}"
       ]
@@ -347,15 +533,18 @@
     },
     {
       "id": "pl_msg_00000673_00054",
-      "en_US": "{STRVAR_6 0, 0, 0}"
+      "en_US": "{STRVAR_6 0, 0, 0}",
+      "fr_FR": "{STRVAR_6 0, 0, 0}"
     },
     {
       "id": "pl_msg_00000673_00055",
-      "en_US": "????"
+      "en_US": "????",
+      "fr_FR": "????"
     },
     {
       "id": "pl_msg_00000673_00056",
-      "en_US": "{STRVAR_1 3, 0, 0}’S SLOGAN"
+      "en_US": "{STRVAR_1 3, 0, 0}’S SLOGAN",
+      "fr_FR": "MOT DE PASSE DE {STRVAR_1 3, 0, 0}"
     },
     {
       "id": "pl_msg_00000673_00057",
@@ -367,59 +556,80 @@
     },
     {
       "id": "pl_msg_00000673_00059",
-      "en_US": "{STRVAR_1 28, 0, 0}"
+      "en_US": "{STRVAR_1 28, 0, 0}",
+      "fr_FR": "{STRVAR_1 28, 0, 0}"
     },
     {
       "id": "pl_msg_00000673_00060",
-      "en_US": "{STRVAR_1 28, 1, 0}"
+      "en_US": "{STRVAR_1 28, 1, 0}",
+      "fr_FR": "{STRVAR_1 28, 1, 0}"
     },
     {
       "id": "pl_msg_00000673_00061",
-      "en_US": "{STRVAR_1 28, 2, 0}"
+      "en_US": "{STRVAR_1 28, 2, 0}",
+      "fr_FR": "{STRVAR_1 28, 2, 0}"
     },
     {
       "id": "pl_msg_00000673_00062",
-      "en_US": "{STRVAR_1 28, 3, 0}"
+      "en_US": "{STRVAR_1 28, 3, 0}",
+      "fr_FR": "{STRVAR_1 28, 3, 0}"
     },
     {
       "id": "pl_msg_00000673_00063",
-      "en_US": "X Button: Switch Profile."
+      "en_US": "X Button: Switch Profile.",
+      "fr_FR": "Bouton X: Profil"
     },
     {
       "id": "pl_msg_00000673_00064",
-      "en_US": "Plato"
+      "en_US": "Plato",
+      "fr_FR": "Platine"
     },
     {
       "id": "pl_msg_00000673_00065",
       "en_US": [
         "Exit the Wi-Fi Plaza and return to\n",
         "the Pokémon Center?\r"
+      ],
+      "fr_FR": [
+        "Vous allez quitter le Square Wi-Fi et\n",
+        "retourner au Centre Pokémon.\r"
       ]
     },
     {
       "id": "pl_msg_00000673_00066",
-      "en_US": "NO"
+      "en_US": "NO",
+      "fr_FR": "NON"
     },
     {
       "id": "pl_msg_00000673_00067",
-      "en_US": "YES"
+      "en_US": "YES",
+      "fr_FR": "OUI"
     },
     {
       "id": "pl_msg_00000673_00068",
       "en_US": [
         "PLAYERS: {STRVAR_1 50, 0, 0}\n",
         "SPACE:{CURSOR_X 51}{STRVAR_1 50, 1, 0}"
+      ],
+      "fr_FR": [
+        "JOUEURS: {STRVAR_1 50, 0, 0}\n",
+        "PLACES:{CURSOR_X 51}{STRVAR_1 50, 1, 0}"
       ]
     },
     {
       "id": "pl_msg_00000673_00069",
-      "en_US": "GAME IN PLAY..."
+      "en_US": "GAME IN PLAY...",
+      "fr_FR": "PARTIE EN COURS..."
     },
     {
       "id": "pl_msg_00000673_00070",
       "en_US": [
         "The time is up.\n",
         "The Wi-Fi Plaza is now closing."
+      ],
+      "fr_FR": [
+        "Temps écoulé.\n",
+        "Le Square Wi-Fi ferme ses portes."
       ]
     },
     {
@@ -433,6 +643,12 @@
         "experiencing heavy traffic.\r",
         "We’re terribly sorry, but please wait\n",
         "a while before returning.\r"
+      ],
+      "fr_FR": [
+        "{STRVAR_6 0, 0, 0} connaît un trafic\n",
+        "trop important.\r",
+        "Toutes nos excuses, vous allez devoir\n",
+        "revenir plus tard.\r"
       ]
     },
     {
@@ -445,6 +661,15 @@
         "get your Tap Toy upgraded.\r",
         "If you’ve never played a Plaza Game,\n",
         "go on, take the challenge!\r"
+      ],
+      "fr_FR": [
+        "Bienvenue au Square Wi-Fi!\r",
+        "Vous voulez un bon conseil?\n",
+        "Essayez {STRVAR_6 0, 0, 0}!\r",
+        "Si vous jouez bien, on vous remettra\n",
+        "un Tape-joujou amélioré.\r",
+        "Si vous n’avez jamais joué à un Jeu du\n",
+        "Square, c’est le moment d’essayer!\r"
       ]
     },
     {
@@ -457,6 +682,14 @@
         "of putting down a stamp!\r",
         "If you’ve never tried it, go on,\n",
         "there are two separate panels!\r"
+      ],
+      "fr_FR": [
+        "Bienvenue au Square Wi-Fi!\r",
+        "Vous voulez un bon conseil?\n",
+        "Essayez Empreintes Poké!\r",
+        "Amusez-vous à afficher les empreintes\n",
+        "des Pokémon de votre équipe!\r",
+        "Si vous n’avez jamais essayé, allez-y!\r"
       ]
     },
     {
@@ -471,6 +704,16 @@
         "trade Tap Toys, too.\r",
         "Don’t be shy!\n",
         "It’s a lot of fun!\r"
+      ],
+      "fr_FR": [
+        "Bienvenue au Square Wi-Fi!\r",
+        "Vous voulez un bon conseil?\n",
+        "Discutez avec vos amis!\r",
+        "N’hésitez pas à communiquer avec\n",
+        "les personnes présentes!\r",
+        "Discutez avec elles, partagez vos\n",
+        "Tape-joujoux... Bref, amusez-vous!\r",
+        "Ne soyez pas timide!\r"
       ]
     },
     {
@@ -478,6 +721,10 @@
       "en_US": [
         "I hope you have lots of fun until the\n",
         "Wi-Fi Plaza’s closing time!\r"
+      ],
+      "fr_FR": [
+        "Amusez-vous bien jusqu’à la\n",
+        "fermeture du Square Wi-Fi!\r"
       ]
     },
     {
@@ -489,6 +736,14 @@
         "You can learn about events in the Wi-Fi\n",
         "Plaza and about your friends, too.\r",
         "It’s really convenient!\r"
+      ],
+      "fr_FR": [
+        "Bienvenue au Square Wi-Fi!\r",
+        "Vous voulez un bon conseil?\n",
+        "Essayez {STRVAR_6 0, 0, 0}!\r",
+        "N’oubliez pas, vous pouvez aussi\n",
+        "apprendre beaucoup de choses ici!\r",
+        "C’est très pratique!\r"
       ]
     },
     {
@@ -499,6 +754,13 @@
         "on the Floats!\r",
         "If you want to ride a Float, please\n",
         "hurry on board!\r"
+      ],
+      "fr_FR": [
+        "La Parade Pokémon a commencé!\r",
+        "Le nombre de places sur les\n",
+        "Chars est limité!\r",
+        "Si vous voulez monter sur un Char,\n",
+        "vous devriez vous dépêcher!\r"
       ]
     },
     {
@@ -513,6 +775,19 @@
         "the spotlights are turned on.\r",
         "Don’t forget to get your voice heard in\n",
         "the Trainer community!\r"
+      ],
+      "fr_FR": [
+        "Bienvenue au Square Wi-Fi!\r",
+        "Vous voulez un bon conseil?\n",
+        "Répondez au Sondage Square!\r",
+        "C’est une bonne occasion d’en savoir\n",
+        "plus sur les visiteurs du Square Wi-Fi.\r",
+        "Si vous souhaitez participer, vous\n",
+        "devez le faire rapidement.\r",
+        "Vous ne pourrez plus répondre au\n",
+        "Sondage Square après l’allumage\f",
+        "des projecteurs.\r",
+        "N’hésitez pas à donner votre avis!\r"
       ]
     },
     {
@@ -528,6 +803,14 @@
         "You can cast your vote on the monitor\n",
         "next to me.\r",
         "Or, would you like to know more?\r"
+      ],
+      "fr_FR": [
+        "Bonjour, j’anime les Sondages Square.\r",
+        "Si vous souhaitez participer au Sondage\n",
+        "Square, vous êtes au bon endroit!\r",
+        "Pour voter, utilisez la borne se\n",
+        "trouvant près de moi.\r",
+        "Avez-vous besoin de plus de détails?\r"
       ]
     },
     {
@@ -558,6 +841,19 @@
         "results from all Wi-Fi Plazas.\r",
         "Please take part in a Plaza Survey\n",
         "on the monitor next to me.\r"
+      ],
+      "fr_FR": [
+        "Répondez à des enquêtes et découvrez\n",
+        "l’opinion des visiteurs du Square Wi-Fi.\r",
+        "Si vous voulez participer au Sondage\n",
+        "Square, vous devez le faire vite.\r",
+        "Une fois les projecteurs\n",
+        "allumés, il sera trop tard.\r",
+        "Cette borne permet de voir les\n",
+        "résultats du sondage en cours dans\r",
+        "notre Square Wi-Fi, ainsi que ceux du\n",
+        "sondage de la semaine dernière dans\f",
+        "tous les Squares Wi-Fi.\r"
       ]
     },
     {
@@ -575,6 +871,15 @@
         "until the end of the Pokémon Parade.\r",
         "Be sure to come back and see the\n",
         "results!\r"
+      ],
+      "fr_FR": [
+        "Merci d’avoir participé à notre\n",
+        "Sondage Square.\r",
+        "Les résultats seront disponibles dès\n",
+        "que les projecteurs seront allumés.\r",
+        "Les résultats resteront affichés\n",
+        "jusqu’à la fin de la Parade Pokémon.\r",
+        "N’oubliez pas de venir les consulter!\r"
       ]
     },
     {
@@ -582,6 +887,10 @@
       "en_US": [
         "The results are posted on the monitor\n",
         "next to me. They’re quite interesting.\r"
+      ],
+      "fr_FR": [
+        "Vous pouvez consulter les résultats\n",
+        "sur cette borne. C’est très instructif.\r"
       ]
     },
     {
@@ -597,36 +906,55 @@
       "en_US": [
         "The cutoff time’s arrived.\n",
         "The Plaza Survey is now closed.\r"
+      ],
+      "fr_FR": [
+        "Nous n’acceptons plus de nouveau vote.\n",
+        "Ce Sondage Square est maintenant clos.\r"
       ]
     },
     {
       "id": "pl_msg_00000673_00092",
-      "en_US": "Plaza Survey!\r"
+      "en_US": "Plaza Survey!\r",
+      "fr_FR": "Sondage Square!\r"
     },
     {
       "id": "pl_msg_00000673_00093",
-      "en_US": "Special Plaza Survey!\r"
+      "en_US": "Special Plaza Survey!\r",
+      "fr_FR": "Sondage Spécial!\r"
     },
     {
       "id": "pl_msg_00000673_00094",
-      "en_US": "Will you take part in a Plaza Survey?"
+      "en_US": "Will you take part in a Plaza Survey?",
+      "fr_FR": [
+        "Voulez-vous participer à ce\n",
+        "Sondage Square?"
+      ]
     },
     {
       "id": "pl_msg_00000673_00095",
       "en_US": [
         "Will you take part in a Special Plaza\n",
         "Survey?"
+      ],
+      "fr_FR": [
+        "Voulez-vous participer à ce\n",
+        "Sondage Spécial?"
       ]
     },
     {
       "id": "pl_msg_00000673_00096",
-      "en_US": "Sending your Plaza Survey answer..."
+      "en_US": "Sending your Plaza Survey answer...",
+      "fr_FR": "Envoi de votre réponse..."
     },
     {
       "id": "pl_msg_00000673_00097",
       "en_US": [
         "Your Plaza Survey answer has been\n",
         "submitted.\r"
+      ],
+      "fr_FR": [
+        "Votre participation au Sondage Square\n",
+        "a bien été enregistrée.\r"
       ]
     },
     {
@@ -638,6 +966,13 @@
         "until the end of the Pokémon Parade.\r",
         "Be sure to come back and see the\n",
         "results!\r"
+      ],
+      "fr_FR": [
+        "Les résultats seront disponibles dès\n",
+        "que les projecteurs seront allumés.\r",
+        "Les résultats resteront affichés\n",
+        "jusqu’à la fin de la Parade Pokémon.\r",
+        "N’oubliez pas de venir les consulter!\r"
       ]
     },
     {
@@ -651,6 +986,15 @@
         "until the end of the Pokémon Parade.\r",
         "Be sure to come back and see the\n",
         "results!\r"
+      ],
+      "fr_FR": [
+        "Merci d’avoir participé à notre\n",
+        "Sondage Square.\r",
+        "Les résultats seront disponibles dès\n",
+        "que les projecteurs seront allumés.\r",
+        "Les résultats resteront affichés\n",
+        "jusqu’à la fin de la Parade Pokémon.\r",
+        "N’oubliez pas de venir les consulter!\r"
       ]
     },
     {
@@ -667,17 +1011,29 @@
     },
     {
       "id": "pl_msg_00000673_00103",
-      "en_US": "This time, the Plaza Survey asked...\r"
+      "en_US": "This time, the Plaza Survey asked...\r",
+      "fr_FR": [
+        "La question posée lors de ce Sondage\n",
+        "Square était la suivante:\r"
+      ]
     },
     {
       "id": "pl_msg_00000673_00104",
-      "en_US": "Let’s see what our visitors answered!\r"
+      "en_US": "Let’s see what our visitors answered!\r",
+      "fr_FR": [
+        "Voyons ce que nos visiteurs ont\n",
+        "répondu!\r"
+      ]
     },
     {
       "id": "pl_msg_00000673_00105",
       "en_US": [
         "This time, the Special Plaza Survey’s\n",
         "question was...\r"
+      ],
+      "fr_FR": [
+        "La question posée lors de ce Sondage\n",
+        "Spécial était la suivante:\r"
       ]
     },
     {
@@ -691,6 +1047,12 @@
         "Plaza Survey.\r",
         "These results are from this Wi-Fi Plaza\n",
         "alone.\r"
+      ],
+      "fr_FR": [
+        "Voici les résultats du Sondage Square\n",
+        "réalisé plus tôt.\r",
+        "Ils se basent uniquement sur les\n",
+        "réponses de ce Square Wi-Fi.\r"
       ]
     },
     {
@@ -700,40 +1062,68 @@
         "Special Plaza Survey.\r",
         "These results are from this Wi-Fi Plaza\n",
         "alone.\r"
+      ],
+      "fr_FR": [
+        "Voici les résultats du Sondage Spécial\n",
+        "réalisé plus tôt.\r",
+        "Ils se basent uniquement sur les\n",
+        "réponses de ce Square Wi-Fi.\r"
       ]
     },
     {
       "id": "pl_msg_00000673_00109",
-      "en_US": "CURRENT RESULTS"
+      "en_US": "CURRENT RESULTS",
+      "fr_FR": "RESULT. SONDAGE ACTUEL"
     },
     {
       "id": "pl_msg_00000673_00110",
-      "en_US": "{STRVAR_1 3, 0, 0}"
+      "en_US": "{STRVAR_1 3, 0, 0}",
+      "fr_FR": "{STRVAR_1 3, 0, 0}"
     },
     {
       "id": "pl_msg_00000673_00111",
       "en_US": [
         "Would you like to see the results of\n",
         "last week’s Plaza Survey?"
+      ],
+      "fr_FR": [
+        "Voulez-vous consulter les résultats du\n",
+        "Sondage Square de la semaine dernière?"
       ]
     },
     {
       "id": "pl_msg_00000673_00112",
-      "en_US": "There was no Plaza Survey last week.\r"
+      "en_US": "There was no Plaza Survey last week.\r",
+      "fr_FR": [
+        "Aucun Sondage Square n’a été réalisé\n",
+        "la semaine dernière.\r"
+      ]
     },
     {
       "id": "pl_msg_00000673_00113",
-      "en_US": "Last week’s Plaza Survey asked...\r"
+      "en_US": "Last week’s Plaza Survey asked...\r",
+      "fr_FR": [
+        "La semaine dernière, la question posée\n",
+        "lors du Sondage Square était:\r"
+      ]
     },
     {
       "id": "pl_msg_00000673_00114",
-      "en_US": "Let’s see what our visitors answered!\r"
+      "en_US": "Let’s see what our visitors answered!\r",
+      "fr_FR": [
+        "Voyons ce que nos visiteurs ont\n",
+        "répondu!\r"
+      ]
     },
     {
       "id": "pl_msg_00000673_00115",
       "en_US": [
         "Last week the Special Plaza Survey’s\n",
         "question was...\r"
+      ],
+      "fr_FR": [
+        "La semaine dernière, la question posée\n",
+        "lors du Sondage Spécial était:\r"
       ]
     },
     {
@@ -747,6 +1137,12 @@
         "Plaza Survey.\r",
         "They were obtained by totaling the\n",
         "results from all Wi-Fi Plazas.\r"
+      ],
+      "fr_FR": [
+        "Voici les résultats du Sondage Square\n",
+        "réalisé la semaine dernière.\r",
+        "Ils se basent sur les réponses de\n",
+        "tous les Squares Wi-Fi.\r"
       ]
     },
     {
@@ -756,17 +1152,28 @@
         "Special Plaza Survey.\r",
         "They were obtained by totaling the\n",
         "results from all Wi-Fi Plazas.\r"
+      ],
+      "fr_FR": [
+        "Voici les résultats du Sondage Spécial\n",
+        "réalisé la semaine dernière.\r",
+        "Ils se basent sur les réponses de\n",
+        "tous les Squares Wi-Fi.\r"
       ]
     },
     {
       "id": "pl_msg_00000673_00119",
-      "en_US": "LAST WEEK’S RESULTS"
+      "en_US": "LAST WEEK’S RESULTS",
+      "fr_FR": "RESULTATS SEMAINE DERN."
     },
     {
       "id": "pl_msg_00000673_00120",
       "en_US": [
         "We look forward to everyone’s\n",
         "participation in our next Plaza Survey!\r"
+      ],
+      "fr_FR": [
+        "Merci à tous les participants! A bientôt\n",
+        "pour un autre Sondage Square!\r"
       ]
     },
     {
@@ -775,7 +1182,11 @@
     },
     {
       "id": "pl_msg_00000673_00122",
-      "en_US": "The Plaza Survey is now closed.\r"
+      "en_US": "The Plaza Survey is now closed.\r",
+      "fr_FR": [
+        "Vous ne pouvez plus accéder au\n",
+        "Sondage Square.\r"
+      ]
     },
     {
       "id": "pl_msg_00000673_00123",
@@ -783,7 +1194,8 @@
     },
     {
       "id": "pl_msg_00000673_00124",
-      "en_US": "{COLOR 2}{STRVAR_1 3, 0, 0}{COLOR 0} received a {STRVAR_6 2, 1, 0}."
+      "en_US": "{COLOR 2}{STRVAR_1 3, 0, 0}{COLOR 0} received a {STRVAR_6 2, 1, 0}.",
+      "fr_FR": "{COLOR 2}{STRVAR_1 3, 0, 0}{COLOR 0} obtient {STRVAR_6 2, 1, 0}."
     },
     {
       "id": "pl_msg_00000673_00125",

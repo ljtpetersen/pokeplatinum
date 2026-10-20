@@ -7,6 +7,11 @@
         "What items should Pokémon hold?\n",
         "It’s an important question.\r",
         "Here’s something else to think about.\r"
+      ],
+      "fr_FR": [
+        "Quel objet devrait porter mon Pokémon?\n",
+        "C’est une question importante.\r",
+        "Tiens, voilà quelque chose pour toi.\r"
       ]
     },
     {
@@ -17,6 +22,14 @@
         "Or cover for a weakness instead?\r",
         "It’s a dilemma that comes up every time\n",
         "I let a Pokémon hold an item."
+      ],
+      "fr_FR": [
+        "Vaut-il mieux mettre le paquet sur les\n",
+        "points forts d’un Pokémon?\f",
+        "Ou plutôt pallier ses faiblesses?\r",
+        "C’est un dilemme auquel je me retrouve\n",
+        "souvent confrontée quand je donne un\f",
+        "objet à tenir à un de mes Pokémon."
       ]
     },
     {
@@ -25,6 +38,10 @@
         "An item that guarantees you won’t\n",
         "ever lose a battle...\r",
         "They don’t sell anything like that."
+      ],
+      "fr_FR": [
+        "Pourquoi ne vendent-ils pas un objet \n",
+        "qui permet de gagner à tous les coups?!"
       ]
     }
   ]

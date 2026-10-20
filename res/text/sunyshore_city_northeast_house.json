@@ -14,6 +14,18 @@
         "boring every day, though...\r",
         "I know! How about you visit me and\n",
         "tell me stories every so often?"
+      ],
+      "fr_FR": [
+        "Claudie: Eh, bonjour.\n",
+        "Tu es un Dresseur plutôt doué.\r",
+        "Mon mari est Marin, et il est parti \n",
+        "en mer loin, très loin d’ici.\r",
+        "J’attends son retour avec \n",
+        "tellement d’impatience...\r",
+        "Je m’ennuie énormément, le temps semble\n",
+        "passer au ralenti quand il n’est pas là.\r",
+        "J’ai une idée! Pourquoi ne viendrais-tu \n",
+        "pas me rendre visite de temps en temps?"
       ]
     },
     {
@@ -21,6 +33,10 @@
       "en_US": [
         "Starting tomorrow, please visit and\n",
         "tell me stories about your travels."
+      ],
+      "fr_FR": [
+        "Je veux qu’à partir de demain, tu \n",
+        "viennes me raconter tes aventures!"
       ]
     },
     {
@@ -33,6 +49,14 @@
         "me perk up?\r",
         "Maybe a story about getting splashed\n",
         "with water..."
+      ],
+      "fr_FR": [
+        "Claudie: Nous sommes lundi!\n",
+        "Une nouvelle semaine commence.\r",
+        "Tu n’aurais pas une histoire \n",
+        "intéressante à me raconter?\r",
+        "Comme... une histoire qui \n",
+        "se passe dans l’eau."
       ]
     },
     {
@@ -42,6 +66,12 @@
         "...\r",
         "That sounds refreshing!\n",
         "It’s made me feel awake!\r"
+      ],
+      "fr_FR": [
+        "{STRVAR_1 28, 0, 0} s’est retrouvé \n",
+        "trempé...\r",
+        "Quelle histoire rafraîchissante!\n",
+        "Je me sens toute ragaillardie!\r"
       ]
     },
     {
@@ -49,6 +79,10 @@
       "en_US": [
         "Thank you!\n",
         "Please give this to your Pokémon.\r"
+      ],
+      "fr_FR": [
+        "Merci!\n",
+        "Tiens, donne ça à ton Pokémon.\r"
       ]
     },
     {
@@ -56,6 +90,10 @@
       "en_US": [
         "{STRVAR_1 3, 2, 0} received\n",
         "the {STRVAR_1 39, 3, 0}.\r"
+      ],
+      "fr_FR": [
+        "{STRVAR_1 3, 2, 0} obtient le \n",
+        "{STRVAR_1 39, 3, 0}.\r"
       ]
     },
     {
@@ -64,6 +102,11 @@
         "{STRVAR_1 3, 2, 0} put\n",
         "the {STRVAR_1 39, 3, 0}\f",
         "on {STRVAR_1 0, 1, 0}.\r"
+      ],
+      "fr_FR": [
+        "{STRVAR_1 3, 2, 0} met le\n",
+        "{STRVAR_1 39, 3, 0}\f",
+        "sur {STRVAR_1 0, 1, 0}.\r"
       ]
     },
     {
@@ -71,6 +114,10 @@
       "en_US": [
         "Julia: Please tell me another story\n",
         "tomorrow."
+      ],
+      "fr_FR": [
+        "Claudie: S’il te plaît, reviens me voir \n",
+        "demain avec une nouvelle histoire!"
       ]
     },
     {
@@ -81,6 +128,14 @@
         "a Ribbon to before.\r",
         "I’ve got lots of Ribbons--you should\n",
         "bring other Pokémon."
+      ],
+      "fr_FR": [
+        "Claudie: Ah, c’est toi!\r",
+        "C’est le {STRVAR_1 0, 1, 0} qui porte le \n",
+        "Ruban que je t’ai donné?\r",
+        "J’ai d’autres exemplaires de ce\n",
+        "Ruban, tu devrais m’apporter\f",
+        "d’autres Pokémon."
       ]
     },
     {
@@ -88,6 +143,10 @@
       "en_US": [
         "Julia: Oh...\n",
         "You couldn’t think up anything?"
+      ],
+      "fr_FR": [
+        "Claudie: Oh... \n",
+        "Tu n’as aucune histoire à raconter?"
       ]
     },
     {
@@ -102,6 +161,15 @@
         "scare me like that?\r",
         "Like something that jumps out\n",
         "from hiding?"
+      ],
+      "fr_FR": [
+        "Claudie: Nous sommes mardi!\r",
+        "Mon mari et moi, nous nous \n",
+        "sommes rencontrés un mardi.\r",
+        "Je me souviens, mon cœur battait si \n",
+        "fort! J’avais tellement peur...\r",
+        "Eh, tu ne connaîtrais pas une histoire\n",
+        "qui fait peur? Qui me ferait trembler?"
       ]
     },
     {
@@ -112,6 +180,13 @@
         "...\r",
         "Yikes!\n",
         "That would be scary!\r"
+      ],
+      "fr_FR": [
+        "Un {STRVAR_1 28, 0, 0} très méchant qui \n",
+        "surgit d’un placard?\f",
+        "...\r",
+        "Brrrrr!\n",
+        "Ça, c’est effrayant!\r"
       ]
     },
     {
@@ -124,6 +199,15 @@
         "This makes me feel sad...\r",
         "Misery does love company.\n",
         "Something that would make me cry?"
+      ],
+      "fr_FR": [
+        "Claudie: Pffff...\n",
+        "J’ai pris du poids...\r",
+        "Je ne rentre plus dans ma robe \n",
+        "préférée... cadeau de mon mari.\r",
+        "Ça me rend très triste...\r",
+        "Aurais-tu une histoire à me raconter\n",
+        "qui me fasse carrément pleurer?"
       ]
     },
     {
@@ -133,6 +217,12 @@
         "...\r",
         "Sniffle... That is so sad...\n",
         "I feel desolate, even!\r"
+      ],
+      "fr_FR": [
+        "Un {STRVAR_1 28, 0, 0} en larmes...\n",
+        "...\r",
+        "Snif... C’est si triste...\n",
+        "C’est... bouleversant!\r"
       ]
     },
     {
@@ -145,6 +235,14 @@
         "Do you know a story about being\n",
         "absentminded?\r",
         "Like getting your shoes backward?"
+      ],
+      "fr_FR": [
+        "Claudie: Nous sommes déjà jeudi?\n",
+        "J’ai perdu la notion du temps!\r",
+        "Mon magazine préféré sort aujourd’hui.\n",
+        "Je ne veux pas le rater!\r",
+        "Tu as déjà vécu ce genre de situation,\n",
+        "quand tu es vraiment dans la lune?"
       ]
     },
     {
@@ -156,6 +254,13 @@
         "Ahahaha! That is so silly!\r",
         "How is it possible to be that\n",
         "absentminded?\r"
+      ],
+      "fr_FR": [
+        "Le {STRVAR_1 28, 0, 0} avait mis ses \n",
+        "chaussures à l’envers?\r",
+        "...\n",
+        "Ha, ha, ha! Bonjour le ridicule!\r",
+        "Comment peut-on être aussi distrait?\r"
       ]
     },
     {
@@ -168,6 +273,15 @@
         "help me get my thoughts in order?\r",
         "Like a story about numbers adding\n",
         "up perfectly?"
+      ],
+      "fr_FR": [
+        "Claudie: Nous sommes déjà vendredi!\r",
+        "J’ai déjà épuisé mes maigres \n",
+        "connaissances en matière de cuisine...\r",
+        "Tu ne pourrais pas me donner \n",
+        "de nouvelles idées culinaires?\r",
+        "Tu as dû manger toutes sortes de \n",
+        "plats originaux pendant tes aventures."
       ]
     },
     {
@@ -178,6 +292,12 @@
         "That is a nice number to ring up.\n",
         "It just has a good look to it.\r",
         "It’s sure helped me clear my head!\r"
+      ],
+      "fr_FR": [
+        "Tu as mangé un plat à base de\n",
+        "{STRVAR_1 28, 0, 0}?!\r",
+        "...\n",
+        "Beurk, je ne pourrais jamais manger ça!\r"
       ]
     },
     {
@@ -188,6 +308,14 @@
         "I’m feeling lazy and sleepy...\r",
         "I wish I had a pillow...\n",
         "But what kind of a pillow?"
+      ],
+      "fr_FR": [
+        "Claudie: Ouaââââh...\n",
+        "On est samedi...\r",
+        "Et j’ai une grosse envie \n",
+        "de faire la sieste...\r",
+        "Ce qu’il me faudrait, c’est un coussin...\n",
+        "Mais quel genre de coussin?"
       ]
     },
     {
@@ -198,6 +326,14 @@
         "It... It surprisingly may give me\n",
         "a good night’s sleep!\r",
         "I wonder if I can buy one somewhere.\r"
+      ],
+      "fr_FR": [
+        "Un oreiller {STRVAR_1 28, 0, 0} pour lui \n",
+        "faire des câlins?\r",
+        "Mais oui, très bonne idée! Rien que d’y \n",
+        "penser, j’ai déjà envie de dormir.\r",
+        "Je me demande où on peut \n",
+        "trouver ce genre d’article...\r"
       ]
     },
     {
@@ -213,6 +349,20 @@
         "I love my life with my husband.\f",
         "It’s just a different kind of happy.\r",
         "So, what makes you happy?"
+      ],
+      "fr_FR": [
+        "Claudie: Eh, bonjour! Toujours sur \n",
+        "les routes, même le dimanche?\r",
+        "Quand j’avais ton âge, j’étais comme \n",
+        "toi. Chaque jour était une aventure.\r",
+        "Je ne m’ennuyais jamais, et j’étais \n",
+        "entourée des gens que j’aimais.\r",
+        "Mais ne te méprends pas, je suis \n",
+        "heureuse. J’aime la vie que je mène,\f",
+        "et j’aime mon mari.\r",
+        "C’est juste qu’on ne retrouve \n",
+        "jamais ses bonheurs d’enfance...\r",
+        "Dis-moi, qu’est-ce qui fait ton bonheur?"
       ]
     },
     {
@@ -222,6 +372,11 @@
         "...\r",
         "Ufufu... That says something about\n",
         "you. It puts a smile on my face!\r"
+      ],
+      "fr_FR": [
+        "Tu aimes {STRVAR_1 28, 0, 0}?\n",
+        "...\r",
+        "Ha ha! Voilà qui en dit long sur toi!\r"
       ]
     }
   ]

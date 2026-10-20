@@ -3,35 +3,43 @@
   "messages": [
     {
       "id": "pl_msg_00000677_00000",
-      "en_US": "None"
+      "en_US": "None",
+      "fr_FR": "Aucun"
     },
     {
       "id": "pl_msg_00000677_00001",
-      "en_US": "New South Wales"
+      "en_US": "New South Wales",
+      "fr_FR": "Nouvelle-Galles-du-Sud"
     },
     {
       "id": "pl_msg_00000677_00002",
-      "en_US": "North"
+      "en_US": "North",
+      "fr_FR": "Territoire du Nord"
     },
     {
       "id": "pl_msg_00000677_00003",
-      "en_US": "Queensland"
+      "en_US": "Queensland",
+      "fr_FR": "Queensland"
     },
     {
       "id": "pl_msg_00000677_00004",
-      "en_US": "South Australia"
+      "en_US": "South Australia",
+      "fr_FR": "Australie-Méridionale"
     },
     {
       "id": "pl_msg_00000677_00005",
-      "en_US": "Tasmania"
+      "en_US": "Tasmania",
+      "fr_FR": "Tasmanie"
     },
     {
       "id": "pl_msg_00000677_00006",
-      "en_US": "Victoria"
+      "en_US": "Victoria",
+      "fr_FR": "Victoria"
     },
     {
       "id": "pl_msg_00000677_00007",
-      "en_US": "Western Australia"
+      "en_US": "Western Australia",
+      "fr_FR": "Australie-Occidentale"
     }
   ]
 }

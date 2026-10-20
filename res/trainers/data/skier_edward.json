@@ -23,6 +23,10 @@
             "en_US": [
                 "Are you a novice?\n",
                 "Or around midlevel?\r"
+            ],
+            "fr_FR": [
+                "Dis-moi, tu débutes?\n",
+                "Ou tu as déjà pas mal d’expérience?\r"
             ]
         },
         {
@@ -30,6 +34,10 @@
             "en_US": [
                 "I never expected you to be an\n",
                 "expert...\n"
+            ],
+            "fr_FR": [
+                "Je n’aurais jamais cru que\n",
+                "tu faisais partie des pros...\n"
             ]
         },
         {
@@ -37,6 +45,10 @@
             "en_US": [
                 "You know how to play your Pokémon\n",
                 "with an edge!\n"
+            ],
+            "fr_FR": [
+                "Tu sais tirer avantage de tes\n",
+                "Pokémon!\n"
             ]
         },
         {
@@ -44,7 +56,12 @@
             "en_US": [
                 "Knowing you to be an expert,\n",
                 "I challenge you to a rematch!\r"
+            ],
+            "fr_FR": [
+                "Je sais que tu fais partie des pros, mais\n",
+                "je te propose quand même une revanche!\r"
             ]
         }
-    ]
+    ],
+    "name_fr": "Edouard"
 }

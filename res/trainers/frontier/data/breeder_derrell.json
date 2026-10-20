@@ -59,6 +59,10 @@
             "en_US": [
                 "My team has been raised with care.\n",
                 "I have absolute confidence in them."
+            ],
+            "fr_FR": [
+                "Je prends grand soin de tous les\n",
+                "Pokémon que j’élève. Toujours."
             ]
         },
         {
@@ -66,6 +70,10 @@
             "en_US": [
                 "You should pay closer attention to the\n",
                 "unique aspects of your Pokémon.\r"
+            ],
+            "fr_FR": [
+                "Chaque Pokémon est unique, si on y\n",
+                "regarde de près.\r"
             ]
         },
         {
@@ -73,7 +81,12 @@
             "en_US": [
                 "How did you find my Pokémon?\n",
                 "Did you notice their significance?\r"
+            ],
+            "fr_FR": [
+                "J’ai consacré ma vie aux Pokémon, et ils\n",
+                "me le rendent bien.\r"
             ]
         }
-    ]
+    ],
+    "name_fr": "Derek"
 }

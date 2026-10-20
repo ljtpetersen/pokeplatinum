@@ -27,5 +27,13 @@
     "contest": {
         "effect": "CONTEST_EFFECT_UNIQUE_JUDGE",
         "type": "CONTEST_TYPE_BEAUTY"
-    }
+    },
+    "name_fr": "Plongée",
+    "description_fr": [
+        "Une attaque en 2\n",
+        "tours. Le lanceur\n",
+        "plonge sous l’eau au\n",
+        "1¹ tour et frappe\n",
+        "au 2⁴."
+    ]
 }

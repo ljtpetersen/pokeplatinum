@@ -59,6 +59,10 @@
             "en_US": [
                 "You, there. Don’t look around now.\n",
                 "Pay attention to me. Focus."
+            ],
+            "fr_FR": [
+                "Toi! Regarde-moi. Regarde-moi bien.\n",
+                "Concentre-toi."
             ]
         },
         {
@@ -66,6 +70,10 @@
             "en_US": [
                 "Kid, you’re grossly underpowered.\n",
                 "You ought to train with me.\r"
+            ],
+            "fr_FR": [
+                "Non, tu manques encore de puissance.\n",
+                "Tu devrais t’entraîner avec moi.\r"
             ]
         },
         {
@@ -73,7 +81,12 @@
             "en_US": [
                 "Oh, yeah. You’re better than you look.\n",
                 "I was wrong about you, kid.\r"
+            ],
+            "fr_FR": [
+                "Tu es meilleur Dresseur que tu en as\n",
+                "l’air. J’avais mal jugé ton talent.\r"
             ]
         }
-    ]
+    ],
+    "name_fr": "Loulou"
 }

@@ -25,5 +25,13 @@
     "contest": {
         "effect": "CONTEST_EFFECT_BASIC",
         "type": "CONTEST_TYPE_BEAUTY"
-    }
+    },
+    "name_fr": "Rayon Gemme",
+    "description_fr": [
+        "Le lanceur attaque\n",
+        "avec un rayon de\n",
+        "lumière qui scintille\n",
+        "comme s’il était\n",
+        "composé de gemmes."
+    ]
 }

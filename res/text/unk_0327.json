@@ -3,119 +3,148 @@
   "messages": [
     {
       "id": "pl_msg_00000327_00000",
-      "en_US": "Bag ON"
+      "en_US": "Bag ON",
+      "fr_FR": "Bag ON"
     },
     {
       "id": "pl_msg_00000327_00001",
-      "en_US": "Bag OFF"
+      "en_US": "Bag OFF",
+      "fr_FR": "Bag OFF"
     },
     {
       "id": "pl_msg_00000327_00002",
-      "en_US": "Game clear ON"
+      "en_US": "Game clear ON",
+      "fr_FR": "Game clear ON"
     },
     {
       "id": "pl_msg_00000327_00003",
-      "en_US": "Game clear OFF"
+      "en_US": "Game clear OFF",
+      "fr_FR": "Game clear OFF"
     },
     {
       "id": "pl_msg_00000327_00004",
-      "en_US": "Journal ON"
+      "en_US": "Journal ON",
+      "fr_FR": "Journal ON"
     },
     {
       "id": "pl_msg_00000327_00005",
-      "en_US": "Journal OFF"
+      "en_US": "Journal OFF",
+      "fr_FR": "Journal OFF"
     },
     {
       "id": "pl_msg_00000327_00006",
-      "en_US": "Special Saving Process ON"
+      "en_US": "Special Saving Process ON",
+      "fr_FR": "Special Saving Process ON"
     },
     {
       "id": "pl_msg_00000327_00007",
-      "en_US": "Special Saving Process OFF"
+      "en_US": "Special Saving Process OFF",
+      "fr_FR": "Special Saving Process OFF"
     },
     {
       "id": "pl_msg_00000327_00008",
-      "en_US": "Strength ON"
+      "en_US": "Strength ON",
+      "fr_FR": "Strength ON"
     },
     {
       "id": "pl_msg_00000327_00009",
-      "en_US": "Strength OFF"
+      "en_US": "Strength OFF",
+      "fr_FR": "Strength OFF"
     },
     {
       "id": "pl_msg_00000327_00010",
-      "en_US": "Safari ON"
+      "en_US": "Safari ON",
+      "fr_FR": "Safari ON"
     },
     {
       "id": "pl_msg_00000327_00011",
-      "en_US": "Safari OFF"
+      "en_US": "Safari OFF",
+      "fr_FR": "Safari OFF"
     },
     {
       "id": "pl_msg_00000327_00012",
-      "en_US": "Dash ON/OFF"
+      "en_US": "Dash ON/OFF",
+      "fr_FR": "Dash ON/OFF"
     },
     {
       "id": "pl_msg_00000327_00013",
-      "en_US": "Show D15"
+      "en_US": "Show D15",
+      "fr_FR": "Show D15"
     },
     {
       "id": "pl_msg_00000327_00014",
-      "en_US": "Hide D15"
+      "en_US": "Hide D15",
+      "fr_FR": "Hide D15"
     },
     {
       "id": "pl_msg_00000327_00015",
-      "en_US": "Show D30"
+      "en_US": "Show D30",
+      "fr_FR": "Show D30"
     },
     {
       "id": "pl_msg_00000327_00016",
-      "en_US": "Hide D30"
+      "en_US": "Hide D30",
+      "fr_FR": "Hide D30"
     },
     {
       "id": "pl_msg_00000327_00017",
-      "en_US": "Show L04"
+      "en_US": "Show L04",
+      "fr_FR": "Show L04"
     },
     {
       "id": "pl_msg_00000327_00018",
-      "en_US": "Hide L04"
+      "en_US": "Hide L04",
+      "fr_FR": "Hide L04"
     },
     {
       "id": "pl_msg_00000327_00019",
-      "en_US": "Show D18"
+      "en_US": "Show D18",
+      "fr_FR": "Show D18"
     },
     {
       "id": "pl_msg_00000327_00020",
-      "en_US": "Hide D18"
+      "en_US": "Hide D18",
+      "fr_FR": "Hide D18"
     },
     {
       "id": "pl_msg_00000327_00021",
-      "en_US": "Dist. flag 1 ON"
+      "en_US": "Dist. flag 1 ON",
+      "fr_FR": "Dist. flag 1 ON"
     },
     {
       "id": "pl_msg_00000327_00022",
-      "en_US": "Dist. flag 1 OFF"
+      "en_US": "Dist. flag 1 OFF",
+      "fr_FR": "Dist. flag 1 OFF"
     },
     {
       "id": "pl_msg_00000327_00023",
-      "en_US": "Dist. flag 2 ON"
+      "en_US": "Dist. flag 2 ON",
+      "fr_FR": "Dist. flag 2 ON"
     },
     {
       "id": "pl_msg_00000327_00024",
-      "en_US": "Dist. flag 2 OFF"
+      "en_US": "Dist. flag 2 OFF",
+      "fr_FR": "Dist. flag 2 OFF"
     },
     {
       "id": "pl_msg_00000327_00025",
-      "en_US": "Dist. flag 3 ON"
+      "en_US": "Dist. flag 3 ON",
+      "fr_FR": "Dist. flag 3 ON"
     },
     {
       "id": "pl_msg_00000327_00026",
-      "en_US": "Dist. flag 3 OFF"
+      "en_US": "Dist. flag 3 OFF",
+      "fr_FR": "Dist. flag 3 OFF"
     },
     {
       "id": "pl_msg_00000327_00027",
-      "en_US": "Dist. flag 4 ON"
+      "en_US": "Dist. flag 4 ON",
+      "fr_FR": "Dist. flag 4 ON"
     },
     {
       "id": "pl_msg_00000327_00028",
-      "en_US": "Dist. flag 4 OFF"
+      "en_US": "Dist. flag 4 OFF",
+      "fr_FR": "Dist. flag 4 OFF"
     }
   ]
 }

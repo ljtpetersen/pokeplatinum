@@ -26,5 +26,13 @@
     "contest": {
         "effect": "CONTEST_EFFECT_FIRST_PERFORMANCE_ADVANTAGE",
         "type": "CONTEST_TYPE_BEAUTY"
-    }
+    },
+    "name_fr": "Blizzard",
+    "description_fr": [
+        "Une violente tempête\n",
+        "de neige est\n",
+        "déclenchée sur\n",
+        "l’ennemi. Peut aussi\n",
+        "le geler."
+    ]
 }

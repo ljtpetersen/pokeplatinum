@@ -3,67 +3,83 @@
   "messages": [
     {
       "id": "BerryTag_Text_BerryTag",
-      "en_US": "BERRY TAG"
+      "en_US": "BERRY TAG",
+      "fr_FR": "ETIQUETTE"
     },
     {
       "id": "BerryTag_Text_Spicy",
-      "en_US": "SPICY"
+      "en_US": "SPICY",
+      "fr_FR": "EPICEE"
     },
     {
       "id": "BerryTag_Text_Dry",
-      "en_US": "DRY"
+      "en_US": "DRY",
+      "fr_FR": "SECHE"
     },
     {
       "id": "BerryTag_Text_Sweet",
-      "en_US": "SWEET"
+      "en_US": "SWEET",
+      "fr_FR": "SUCREE"
     },
     {
       "id": "BerryTag_Text_Bitter",
-      "en_US": "BITTER"
+      "en_US": "BITTER",
+      "fr_FR": "AMERE"
     },
     {
       "id": "BerryTag_Text_Sour",
-      "en_US": "SOUR"
+      "en_US": "SOUR",
+      "fr_FR": "ACIDE"
     },
     {
       "id": "BerryTag_Text_BerryID",
-      "en_US": "{STRVAR_1 51, 0, 0}"
+      "en_US": "{STRVAR_1 51, 0, 0}",
+      "fr_FR": "{STRVAR_1 51, 0, 0}"
     },
     {
       "id": "BerryTag_Text_Unused",
-      "en_US": "{STRVAR_1 8, 0, 0}"
+      "en_US": "{STRVAR_1 8, 0, 0}",
+      "fr_FR": "{STRVAR_1 8, 0, 0}"
     },
     {
       "id": "BerryTag_Text_LabelSize",
-      "en_US": "SIZE /"
+      "en_US": "SIZE /",
+      "fr_FR": "DIM.:"
     },
     {
       "id": "BerryTag_Text_Size",
-      "en_US": "{STRVAR_1 51, 0, 0}.{STRVAR_1 50, 1, 0}”"
+      "en_US": "{STRVAR_1 51, 0, 0}.{STRVAR_1 50, 1, 0}”",
+      "fr_FR": "{STRVAR_1 51, 0, 0},{STRVAR_1 50, 1, 0} cm"
     },
     {
       "id": "BerryTag_Text_LabelFirm",
-      "en_US": "FIRM /"
+      "en_US": "FIRM /",
+      "fr_FR": "FERM.:"
     },
     {
       "id": "BerryTag_Text_VerySoft",
-      "en_US": "Very soft"
+      "en_US": "Very soft",
+      "fr_FR": "très tendre"
     },
     {
       "id": "BerryTag_Text_Soft",
-      "en_US": "Soft"
+      "en_US": "Soft",
+      "fr_FR": "tendre"
     },
     {
       "id": "BerryTag_Text_Hard",
-      "en_US": "Hard"
+      "en_US": "Hard",
+      "fr_FR": "ferme"
     },
     {
       "id": "BerryTag_Text_VeryHard",
-      "en_US": "Very hard"
+      "en_US": "Very hard",
+      "fr_FR": "très ferme"
     },
     {
       "id": "BerryTag_Text_SuperHard",
-      "en_US": "Super hard"
+      "en_US": "Super hard",
+      "fr_FR": "super ferme"
     }
   ]
 }

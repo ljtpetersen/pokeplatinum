@@ -9,6 +9,13 @@
         "From somewhere, something spoke out.\r",
         "“With our Master, upon every lighted\n",
         "tile you must tread.”"
+      ],
+      "fr_FR": [
+        "C’est une statue de Pokémon.\n",
+        "Elle diffuse un pouvoir étrange...\r",
+        "Une voix lointaine se fait entendre.\r",
+        "“Dans les pas de notre maître, sur les\n",
+        "dalles lumineuses il te faut marcher.”"
       ]
     },
     {
@@ -17,17 +24,27 @@
         "Something changed in the air...\r",
         "An indescribable power is emanating\n",
         "from the Pokémon statue..."
+      ],
+      "fr_FR": [
+        "Il y a du changement dans l’air...\r",
+        "Un pouvoir indescriptible émane de\n",
+        "la statue de Pokémon..."
       ]
     },
     {
       "id": "RockPeakRuins_Text_RegirockCry",
-      "en_US": "Zaza zari za...\r"
+      "en_US": "Zaza zari za...\r",
+      "fr_FR": "Giroo, rooock.\r"
     },
     {
       "id": "RockPeakRuins_Text_StatueStoppedEmanatingPower",
       "en_US": [
         "The Pokémon statue has stopped\n",
         "emanating power."
+      ],
+      "fr_FR": [
+        "La statue de Pokémon a cessé de\n",
+        "diffuser son pouvoir."
       ]
     },
     {
@@ -35,6 +52,10 @@
       "en_US": [
         "It’s a statue of a Pokémon.\n",
         "It seems to exude power..."
+      ],
+      "fr_FR": [
+        "C’est une statue de Pokémon.\n",
+        "Elle diffuse un pouvoir étrange..."
       ]
     }
   ]

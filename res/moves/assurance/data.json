@@ -27,5 +27,13 @@
     "contest": {
         "effect": "CONTEST_EFFECT_DOUBLE_FINAL_ACT",
         "type": "CONTEST_TYPE_BEAUTY"
-    }
+    },
+    "name_fr": "Assurance",
+    "description_fr": [
+        "Cette attaque est\n",
+        "deux fois plus \n",
+        "efficace si l’ennemi\n",
+        "a déjà été blessé\n",
+        "durant ce tour."
+    ]
 }

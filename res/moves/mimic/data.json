@@ -24,5 +24,13 @@
     "contest": {
         "effect": "CONTEST_EFFECT_STEAL_VOLTAGE",
         "type": "CONTEST_TYPE_CUTE"
-    }
+    },
+    "name_fr": "Copie",
+    "description_fr": [
+        "Le lanceur imite la\n",
+        "dernière capacité\n",
+        "utilisée par l’ennemi,\n",
+        "peut l’utiliser pour\n",
+        "le reste du combat."
+    ]
 }

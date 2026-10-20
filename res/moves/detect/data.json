@@ -22,5 +22,13 @@
     "contest": {
         "effect": "CONTEST_EFFECT_LOW_VOLTAGE_ADVANTAGE",
         "type": "CONTEST_TYPE_COOL"
-    }
+    },
+    "name_fr": "Détection",
+    "description_fr": [
+        "Permet d’esquiver\n",
+        "toutes les attaques.\n",
+        "Plus on l’utilise\n",
+        "d’affilée, plus elle a\n",
+        "de chances d’échouer."
+    ]
 }

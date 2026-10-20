@@ -3,95 +3,118 @@
   "messages": [
     {
       "id": "pl_msg_00000684_00000",
-      "en_US": "None"
+      "en_US": "None",
+      "fr_FR": "Aucun"
     },
     {
       "id": "pl_msg_00000684_00001",
-      "en_US": "Aquitaine"
+      "en_US": "Aquitaine",
+      "fr_FR": "Aquitaine"
     },
     {
       "id": "pl_msg_00000684_00002",
-      "en_US": "Alsace"
+      "en_US": "Alsace",
+      "fr_FR": "Alsace"
     },
     {
       "id": "pl_msg_00000684_00003",
-      "en_US": "Ile de France"
+      "en_US": "Ile de France",
+      "fr_FR": "Ile de France"
     },
     {
       "id": "pl_msg_00000684_00004",
-      "en_US": "Auvergne"
+      "en_US": "Auvergne",
+      "fr_FR": "Auvergne"
     },
     {
       "id": "pl_msg_00000684_00005",
-      "en_US": "Cote d’Azur"
+      "en_US": "Cote d’Azur",
+      "fr_FR": "Côte d’Azur"
     },
     {
       "id": "pl_msg_00000684_00006",
-      "en_US": "Corse"
+      "en_US": "Corse",
+      "fr_FR": "Corse"
     },
     {
       "id": "pl_msg_00000684_00007",
-      "en_US": "Champagne-Ardenne"
+      "en_US": "Champagne-Ardenne",
+      "fr_FR": "Champagne-Ardenne"
     },
     {
       "id": "pl_msg_00000684_00008",
-      "en_US": "Nord-Pas-de-Calais"
+      "en_US": "Nord-Pas-de-Calais",
+      "fr_FR": "Nord-Pas-de-Calais"
     },
     {
       "id": "pl_msg_00000684_00009",
-      "en_US": "Normandie"
+      "en_US": "Normandie",
+      "fr_FR": "Normandie"
     },
     {
       "id": "pl_msg_00000684_00010",
-      "en_US": "Picardie"
+      "en_US": "Picardie",
+      "fr_FR": "Picardie"
     },
     {
       "id": "pl_msg_00000684_00011",
-      "en_US": "Franche-Comte"
+      "en_US": "Franche-Comte",
+      "fr_FR": "Franche-Comté"
     },
     {
       "id": "pl_msg_00000684_00012",
-      "en_US": "Bourgogne"
+      "en_US": "Bourgogne",
+      "fr_FR": "Bourgogne"
     },
     {
       "id": "pl_msg_00000684_00013",
-      "en_US": "Bretagne"
+      "en_US": "Bretagne",
+      "fr_FR": "Bretagne"
     },
     {
       "id": "pl_msg_00000684_00014",
-      "en_US": "Provence"
+      "en_US": "Provence",
+      "fr_FR": "Provence"
     },
     {
       "id": "pl_msg_00000684_00015",
-      "en_US": "Pays-de-la-Loire"
+      "en_US": "Pays-de-la-Loire",
+      "fr_FR": "Pays de la Loire"
     },
     {
       "id": "pl_msg_00000684_00016",
-      "en_US": "Poitou-Charentes"
+      "en_US": "Poitou-Charentes",
+      "fr_FR": "Poitou-Charentes"
     },
     {
       "id": "pl_msg_00000684_00017",
-      "en_US": "Midi-Pyrenees"
+      "en_US": "Midi-Pyrenees",
+      "fr_FR": "Midi-Pyrénées"
     },
     {
       "id": "pl_msg_00000684_00018",
-      "en_US": "Languedoc-Roussillon"
+      "en_US": "Languedoc-Roussillon",
+      "fr_FR": "Languedoc-Roussillon"
     },
     {
       "id": "pl_msg_00000684_00019",
-      "en_US": "Limousin"
+      "en_US": "Limousin",
+      "fr_FR": "Limousin"
     },
     {
       "id": "pl_msg_00000684_00020",
-      "en_US": "Rhone-Alpes"
+      "en_US": "Rhone-Alpes",
+      "fr_FR": "Rhône-Alpes"
     },
     {
       "id": "pl_msg_00000684_00021",
-      "en_US": "Lorraine"
+      "en_US": "Lorraine",
+      "fr_FR": "Lorraine"
     },
     {
       "id": "pl_msg_00000684_00022",
-      "en_US": "Loire"
+      "en_US": "Loire",
+      "fr_FR": "Centre"
     }
   ]
 }

@@ -32,6 +32,10 @@
             "en_US": [
                 "Check out my dynamic form!\n",
                 "Victory is assured!\r"
+            ],
+            "fr_FR": [
+                "Regarde-moi cette forme physique!\n",
+                "Ma victoire est assurée!\r"
             ]
         },
         {
@@ -39,6 +43,10 @@
             "en_US": [
                 "Oh.\n",
                 "That’s how it is.\n"
+            ],
+            "fr_FR": [
+                "Oh.\n",
+                "Alors, c’est ça.\n"
             ]
         },
         {
@@ -46,6 +54,10 @@
             "en_US": [
                 "Being a good swimmer doesn’t make\n",
                 "me any better as a Trainer...\n"
+            ],
+            "fr_FR": [
+                "Etre bon Nageur ne fait pas de moi\n",
+                "un meilleur Dresseur...\n"
             ]
         },
         {
@@ -55,7 +67,14 @@
                 "Pokémon!\r",
                 "I’ll battle with an even more dynamic\n",
                 "form than before! Watch me now!\r"
+            ],
+            "fr_FR": [
+                "Salut! C’est toi l’enfant si habile\n",
+                "avec les Pokémon!\r",
+                "Ma forme physique est encore meilleure\n",
+                "qu’avant! Tu vas voir ça!\r"
             ]
         }
-    ]
+    ],
+    "name_fr": "Aubin"
 }

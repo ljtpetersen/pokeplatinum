@@ -26,5 +26,12 @@
     "contest": {
         "effect": "CONTEST_EFFECT_BASIC",
         "type": "CONTEST_TYPE_COOL"
-    }
+    },
+    "name_fr": "Draco-Rage",
+    "description_fr": [
+        "Une onde de choc \n",
+        "destructrice qui\n",
+        "inflige toujours 40 PV\n",
+        "de dégâts."
+    ]
 }

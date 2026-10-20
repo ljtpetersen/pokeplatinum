@@ -6,6 +6,10 @@
       "en_US": [
         "Rt. 230\n",
         "Fight Area"
+      ],
+      "fr_FR": [
+        "Chenal 230\n",
+        "Aire de Combat"
       ]
     },
     {
@@ -18,6 +22,16 @@
         "Pokédex isn’t updated there.\r",
         "It’s a place solely for Trainers to\n",
         "hone their own skills."
+      ],
+      "fr_FR": [
+        "Une minute, Dresseur!\r",
+        "Tant que tu es dans l’Aire de Combat,\n",
+        "tu devrais faire un saut à la Zone de\f",
+        "Combat.\r",
+        "C’est un endroit conçu pour permettre \n",
+        "aux Dresseurs de s’entraîner.\r",
+        "Tu ne peux pas y gagner de points \n",
+        "d’expérience ni remplir ton Pokédex."
       ]
     },
     {
@@ -29,6 +43,14 @@
         "challenge other Trainers!\r",
         "They’ll often have different Pokémon,\n",
         "so your Pokédex should fill up fast!"
+      ],
+      "fr_FR": [
+        "Salut, Dresseur!\n",
+        "Tu as un Pokédex, n’est-ce pas?\r",
+        "Alors écoute mon conseil: défie\n",
+        "autant de Dresseurs que tu peux!\r",
+        "Tu verras plein de Pokémon différents\n",
+        "et ton Pokédex se remplira plus vite!"
       ]
     }
   ]

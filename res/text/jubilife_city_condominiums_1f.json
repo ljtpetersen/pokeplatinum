@@ -10,21 +10,36 @@
         "out. I obtained it instantly, of course.\r",
         "A Trainer would be simply lost without\n",
         "a Pokétch, after all."
+      ],
+      "fr_FR": [
+        "Oh, bonjour mon chou.\n",
+        "Elle n’est pas belle, ma Pokémontre?\r",
+        "C’est le dernier modèle en date. Je l’ai\n",
+        "eue dès sa mise en circulation.\r",
+        "Après tout, un Dresseur serait perdu\n",
+        "sans Pokémontre."
       ]
     },
     {
       "id": "JubilifeCityCondominiums1F_Text_PikachuCry",
-      "en_US": "PIKACHU: Piika pi!"
+      "en_US": "PIKACHU: Piika pi!",
+      "fr_FR": "PIKACHU: Piika, pi!"
     },
     {
       "id": "JubilifeCityCondominiums1F_Text_PachirisuCry",
-      "en_US": "PACHIRISU: Pachipachii?"
+      "en_US": "PACHIRISU: Pachipachii?",
+      "fr_FR": "PACHIRISU: Pachipachii?"
     },
     {
       "id": "JubilifeCityCondominiums1F_Text_MakePokemonHoldThis",
       "en_US": [
         "Oh, your Pokémon is quite adorable!\r",
         "Here, try making it hold this\n",
+        "{STRVAR_1 8, 0, 0}.\r"
+      ],
+      "fr_FR": [
+        "Oh, ton Pokémon est trop mignon!\r",
+        "Tiens, fais-lui tenir cette\n",
         "{STRVAR_1 8, 0, 0}.\r"
       ]
     },
@@ -40,6 +55,16 @@
         "make your Pokémon hold.\r",
         "...I sound like I’m a teacher or\n",
         "something."
+      ],
+      "fr_FR": [
+        "Un Pokémon qui tient cette Vive Griffe\n",
+        "a des chances d’attaquer le premier,\f",
+        "même s’il est un peu lent d’habitude.\r",
+        "Il existe bien des objets qui n’ont\n",
+        "d’utilité que tenus par un Pokémon.\r",
+        "Essaye donc d’en trouver d’autres.\r",
+        "J’ai l’impression de te faire la\n",
+        "leçon ou quelque chose comme ça!"
       ]
     }
   ]

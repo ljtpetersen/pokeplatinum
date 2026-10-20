@@ -7,7 +7,10 @@
         "special_attack": 75,
         "special_defense": 85
     },
-    "types": [ "TYPE_GRASS", "TYPE_GROUND" ],
+    "types": [
+        "TYPE_GRASS",
+        "TYPE_GROUND"
+    ],
     "catch_rate": 45,
     "base_exp_reward": 208,
     "ev_yields": {
@@ -26,31 +29,88 @@
     "hatch_cycles": 20,
     "base_friendship": 70,
     "exp_rate": "EXP_RATE_MEDIUM_SLOW",
-    "egg_groups": [ "EGG_GROUP_MONSTER", "EGG_GROUP_GRASS" ],
-    "abilities": [ "ABILITY_OVERGROW", "ABILITY_NONE" ],
+    "egg_groups": [
+        "EGG_GROUP_MONSTER",
+        "EGG_GROUP_GRASS"
+    ],
+    "abilities": [
+        "ABILITY_OVERGROW",
+        "ABILITY_NONE"
+    ],
     "safari_flee_rate": 0,
     "body_color": "MON_COLOR_GREEN",
     "flip_sprite": true,
     "icon_palette": 1,
     "learnset": {
         "by_level": [
-            [ 1, "MOVE_WOOD_HAMMER" ],
-            [ 1, "MOVE_TACKLE" ],
-            [ 1, "MOVE_WITHDRAW" ],
-            [ 1, "MOVE_ABSORB" ],
-            [ 1, "MOVE_RAZOR_LEAF" ],
-            [ 5, "MOVE_WITHDRAW" ],
-            [ 9, "MOVE_ABSORB" ],
-            [ 13, "MOVE_RAZOR_LEAF" ],
-            [ 17, "MOVE_CURSE" ],
-            [ 22, "MOVE_BITE" ],
-            [ 27, "MOVE_MEGA_DRAIN" ],
-            [ 32, "MOVE_EARTHQUAKE" ],
-            [ 33, "MOVE_LEECH_SEED" ],
-            [ 39, "MOVE_SYNTHESIS" ],
-            [ 45, "MOVE_CRUNCH" ],
-            [ 51, "MOVE_GIGA_DRAIN" ],
-            [ 57, "MOVE_LEAF_STORM" ]
+            [
+                1,
+                "MOVE_WOOD_HAMMER"
+            ],
+            [
+                1,
+                "MOVE_TACKLE"
+            ],
+            [
+                1,
+                "MOVE_WITHDRAW"
+            ],
+            [
+                1,
+                "MOVE_ABSORB"
+            ],
+            [
+                1,
+                "MOVE_RAZOR_LEAF"
+            ],
+            [
+                5,
+                "MOVE_WITHDRAW"
+            ],
+            [
+                9,
+                "MOVE_ABSORB"
+            ],
+            [
+                13,
+                "MOVE_RAZOR_LEAF"
+            ],
+            [
+                17,
+                "MOVE_CURSE"
+            ],
+            [
+                22,
+                "MOVE_BITE"
+            ],
+            [
+                27,
+                "MOVE_MEGA_DRAIN"
+            ],
+            [
+                32,
+                "MOVE_EARTHQUAKE"
+            ],
+            [
+                33,
+                "MOVE_LEECH_SEED"
+            ],
+            [
+                39,
+                "MOVE_SYNTHESIS"
+            ],
+            [
+                45,
+                "MOVE_CRUNCH"
+            ],
+            [
+                51,
+                "MOVE_GIGA_DRAIN"
+            ],
+            [
+                57,
+                "MOVE_LEAF_STORM"
+            ]
         ],
         "by_tm": [
             "TM05",
@@ -107,7 +167,7 @@
             "MOVE_SEED_BOMB"
         ]
     },
-    "evolutions": [  ],
+    "evolutions": [],
     "offspring": "SPECIES_TURTWIG",
     "footprint": {
         "has": true,
@@ -130,9 +190,9 @@
             "name": "TORTERRA",
             "category": "Continent Pokémon",
             "entry_text": [
-                "Some Pokémon are born on a\n",
-                "TORTERRA’s back and spend their\n",
-                "entire life there."
+                "Small Pokémon occasionally gather\n",
+                "on its unmoving back to begin\n",
+                "building their nests."
             ]
         },
         "fr": {
@@ -178,6 +238,18 @@
                 "ちいさな　ポケモンたちが　あつまり\n",
                 "うごかない　ドダイトスの　せなかで\n",
                 "すづくりを　はじめることがある。"
+            ]
+        },
+        "local_version": {
+            "entry_text": [
+                "Some Pokémon are born on a\n",
+                "TORTERRA’s back and spend their\n",
+                "entire life there."
+            ],
+            "entry_text_fr": [
+                "Certains petits Pokémon peuvent\n",
+                "naître sur son dos et y passer\n",
+                "toute leur vie."
             ]
         }
     },

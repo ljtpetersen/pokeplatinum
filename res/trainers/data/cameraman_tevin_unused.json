@@ -23,6 +23,10 @@
             "en_US": [
                 "I’ve spotted a charismatic Trainer!\n",
                 "We just might have a scoop here!\r"
+            ],
+            "fr_FR": [
+                "J’ai trouvé un Dresseur charismatique!\n",
+                "Nous avons peut-être un scoop, là!\r"
             ]
         },
         {
@@ -30,6 +34,10 @@
             "en_US": [
                 "My camera’s too heavy.\n",
                 "I couldn’t battle effectively...\n"
+            ],
+            "fr_FR": [
+                "Ma caméra est trop lourde.\n",
+                "Elle me gêne au combat..."
             ]
         },
         {
@@ -38,7 +46,13 @@
                 "The lively expressions on you and\n",
                 "your Pokémon’s faces...\r",
                 "It sure makes for some great TV!\n"
+            ],
+            "fr_FR": [
+                "La fougue sur ton visage et celui de tes\n",
+                "Pokémon...\r",
+                "Ça va faire un super reportage!\n"
             ]
         }
-    ]
+    ],
+    "name_fr": "Jo"
 }

@@ -3,31 +3,38 @@
   "messages": [
     {
       "id": "Bag_Text_Use",
-      "en_US": "USE"
+      "en_US": "USE",
+      "fr_FR": "UTILISER"
     },
     {
       "id": "Bag_Text_Trash",
-      "en_US": "TRASH"
+      "en_US": "TRASH",
+      "fr_FR": "JETER"
     },
     {
       "id": "Bag_Text_Register",
-      "en_US": "REGISTER"
+      "en_US": "REGISTER",
+      "fr_FR": "ENREG."
     },
     {
       "id": "Bag_Text_Give",
-      "en_US": "GIVE"
+      "en_US": "GIVE",
+      "fr_FR": "DONNER"
     },
     {
       "id": "Bag_Text_CheckTag",
-      "en_US": "CHECK TAG"
+      "en_US": "CHECK TAG",
+      "fr_FR": "ETIQUETTE"
     },
     {
       "id": "Bag_Text_Confirm",
-      "en_US": "CONFIRM"
+      "en_US": "CONFIRM",
+      "fr_FR": "OK"
     },
     {
       "id": "Bag_Text_Walk",
-      "en_US": "WALK"
+      "en_US": "WALK",
+      "fr_FR": "MARCHER"
     },
     {
       "id": "Bag_Text_Dummy1",
@@ -35,7 +42,8 @@
     },
     {
       "id": "Bag_Text_Cancel",
-      "en_US": "CANCEL"
+      "en_US": "CANCEL",
+      "fr_FR": "ANNULER"
     },
     {
       "id": "Bag_Text_Dummy2",
@@ -67,7 +75,8 @@
     },
     {
       "id": "Bag_Text_Check",
-      "en_US": "CHECK"
+      "en_US": "CHECK",
+      "fr_FR": "VOIR"
     },
     {
       "id": "Bag_Text_Dummy9",
@@ -75,7 +84,8 @@
     },
     {
       "id": "Bag_Text_Deselect",
-      "en_US": "DESELECT"
+      "en_US": "DESELECT",
+      "fr_FR": "DESENR."
     },
     {
       "id": "Bag_Text_Dummy10",
@@ -99,7 +109,8 @@
     },
     {
       "id": "Bag_Text_Not_Applicable",
-      "en_US": "---"
+      "en_US": "---",
+      "fr_FR": "---"
     },
     {
       "id": "Bag_Text_Dummy15",
@@ -151,11 +162,13 @@
     },
     {
       "id": "Bag_Text_ItemCountNum",
-      "en_US": "{STRVAR_1 52, 0, 0}"
+      "en_US": "{STRVAR_1 52, 0, 0}",
+      "fr_FR": "{STRVAR_1 52, 0, 0}"
     },
     {
       "id": "Bag_Text_ItemCountX",
-      "en_US": "x"
+      "en_US": "x",
+      "fr_FR": "x"
     },
     {
       "id": "Bag_Text_Dummy26",
@@ -167,13 +180,18 @@
     },
     {
       "id": "Bag_Text_CloseBag",
-      "en_US": "CLOSE BAG"
+      "en_US": "CLOSE BAG",
+      "fr_FR": "FERMER"
     },
     {
       "id": "Bag_Text_ItemIsSelected",
       "en_US": [
         "{STRVAR_1 8, 0, 0} is\n",
         "selected."
+      ],
+      "fr_FR": [
+        "Sélection:\n",
+        "{STRVAR_1 8, 0, 0}"
       ]
     },
     {
@@ -186,11 +204,16 @@
     },
     {
       "id": "Bag_Text_MoveItemWhere",
-      "en_US": "Move the {STRVAR_1 8, 0, 0} where?"
+      "en_US": "Move the {STRVAR_1 8, 0, 0} where?",
+      "fr_FR": [
+        "Où voulez-vous\n",
+        "placer {STRVAR_1 8, 0, 0}?"
+      ]
     },
     {
       "id": "Bag_Text_ItemCantBeHeld",
-      "en_US": "The {STRVAR_1 8, 0, 0} can’t be held."
+      "en_US": "The {STRVAR_1 8, 0, 0} can’t be held.",
+      "fr_FR": "Impossible de tenir {STRVAR_1 8, 0, 0}!"
     },
     {
       "id": "Bag_Text_Dummy30",
@@ -217,17 +240,26 @@
       "en_US": [
         "Throw away how many\n",
         "{STRVAR_1 8, 0, 0}(s)?"
-      ]
+      ],
+      "fr_FR": "En jeter combien?"
     },
     {
       "id": "Bag_Text_ThrewAwayItem",
-      "en_US": "Threw away {STRVAR_1 51, 1, 0} {STRVAR_1 8, 0, 0}."
+      "en_US": "Threw away {STRVAR_1 51, 1, 0} {STRVAR_1 8, 0, 0}.",
+      "fr_FR": [
+        "{STRVAR_1 8, 0, 0}:\n",
+        "jeté {STRVAR_1 51, 1, 0}."
+      ]
     },
     {
       "id": "Bag_Text_ThrowAwayOK",
       "en_US": [
         "Is it OK to throw away\n",
         "{STRVAR_1 52, 1, 0} {STRVAR_1 8, 0, 0}?"
+      ],
+      "fr_FR": [
+        "{STRVAR_1 8, 0, 0}:\n",
+        "en jeter {STRVAR_1 52, 1, 0}?"
       ]
     },
     {
@@ -236,19 +268,26 @@
     },
     {
       "id": "Bag_Text_CannotDismount",
-      "en_US": "You can’t dismount your Bike here."
+      "en_US": "You can’t dismount your Bike here.",
+      "fr_FR": [
+        "Impossible de descendre de\n",
+        "Bicyclette ici."
+      ]
     },
     {
       "id": "Bag_Text_CoinCaseMessage",
-      "en_US": "Your Coins: {STRVAR_1 54, 0, 0}"
+      "en_US": "Your Coins: {STRVAR_1 54, 0, 0}",
+      "fr_FR": "Jetons: {STRVAR_1 54, 0, 0}"
     },
     {
       "id": "Bag_Text_BootedUpTM",
-      "en_US": "Booted up a TM.{WAIT 3}{WAIT 4}\n"
+      "en_US": "Booted up a TM.{WAIT 3}{WAIT 4}\n",
+      "fr_FR": "CT activée.{WAIT 3}{WAIT 4}"
     },
     {
       "id": "Bag_Text_BootedUpHM",
-      "en_US": "Booted up an HM.{WAIT 3}{WAIT 4}\n"
+      "en_US": "Booted up an HM.{WAIT 3}{WAIT 4}\n",
+      "fr_FR": "CS activée.{WAIT 3}{WAIT 4}"
     },
     {
       "id": "Bag_Text_TMHMContainedMove",
@@ -257,6 +296,12 @@
         "{STRVAR_1 6, 0, 0}.\r",
         "Teach {STRVAR_1 6, 0, 0}\n",
         "to a Pokémon?"
+      ],
+      "fr_FR": [
+        "Elle contient\n",
+        "{STRVAR_1 6, 0, 0}.\r",
+        "Apprendre {STRVAR_1 6, 0, 0}\n",
+        "à un Pokémon?"
       ]
     },
     {
@@ -264,6 +309,10 @@
       "en_US": [
         "{STRVAR_1 3, 0, 0} used the\n",
         "{STRVAR_1 8, 1, 0}."
+      ],
+      "fr_FR": [
+        "{STRVAR_1 3, 0, 0} utilise\n",
+        "{STRVAR_1 8, 1, 0}!"
       ]
     },
     {
@@ -271,6 +320,10 @@
       "en_US": [
         "Since a Repel’s effects still linger,\n",
         "you can’t use this now."
+      ],
+      "fr_FR": [
+        "Mais le Repousse précédent est\n",
+        "toujours actif."
       ]
     },
     {
@@ -279,6 +332,11 @@
         "{STRVAR_1 3, 0, 0} used the\n",
         "{STRVAR_1 8, 1, 0}.\r",
         "Wild Pokémon will be lured."
+      ],
+      "fr_FR": [
+        "{STRVAR_1 3, 0, 0} utilise\n",
+        "{STRVAR_1 8, 1, 0}!\r",
+        "Ça va attirer les Pokémon sauvages."
       ]
     },
     {
@@ -287,11 +345,18 @@
         "{STRVAR_1 3, 0, 0} used the\n",
         "{STRVAR_1 8, 1, 0}.\r",
         "Wild Pokémon will be repelled."
+      ],
+      "fr_FR": [
+        "{STRVAR_1 3, 0, 0} utilise\n",
+        "{STRVAR_1 8, 1, 0}!\r",
+        "Ça va repousser les Pokémon\n",
+        "sauvages."
       ]
     },
     {
       "id": "Bag_Text_BoxFull",
-      "en_US": "The Box is full."
+      "en_US": "The Box is full.",
+      "fr_FR": "La Boîte est pleine."
     },
     {
       "id": "Bag_Text_Dummy36",
@@ -299,15 +364,18 @@
     },
     {
       "id": "Bag_Text_Unused1",
-      "en_US": "No.{STRVAR_1 51, 0, 0}{STRVAR_1 6, 1, 0}"
+      "en_US": "No.{STRVAR_1 51, 0, 0}{STRVAR_1 6, 1, 0}",
+      "fr_FR": "Nº {STRVAR_1 51, 0, 0}{STRVAR_1 6, 1, 0}"
     },
     {
       "id": "Bag_Text_Unused2",
-      "en_US": "No.{STRVAR_1 51, 0, 0}{STRVAR_1 6, 1, 0}"
+      "en_US": "No.{STRVAR_1 51, 0, 0}{STRVAR_1 6, 1, 0}",
+      "fr_FR": "Nº {STRVAR_1 51, 0, 0}{STRVAR_1 6, 1, 0}"
     },
     {
       "id": "Bag_Text_Unused3",
-      "en_US": "{STRVAR_1 51, 0, 0}{STRVAR_1 6, 1, 0}"
+      "en_US": "{STRVAR_1 51, 0, 0}{STRVAR_1 6, 1, 0}",
+      "fr_FR": "{STRVAR_1 51, 0, 0}{STRVAR_1 6, 1, 0}"
     },
     {
       "id": "Bag_Text_Dummy37",
@@ -330,6 +398,10 @@
       "en_US": [
         "{STRVAR_1 8, 0, 0}? Oh, no.\n",
         "I can’t buy that."
+      ],
+      "fr_FR": [
+        "{STRVAR_1 8, 0, 0}? Oh, non.\n",
+        "Je ne peux pas acheter ça."
       ]
     },
     {
@@ -337,6 +409,10 @@
       "en_US": [
         "{STRVAR_1 8, 0, 0}?\n",
         "How many would you like to sell?"
+      ],
+      "fr_FR": [
+        "{STRVAR_1 8, 0, 0}?\n",
+        "Combien voulez-vous en vendre?"
       ]
     },
     {
@@ -344,6 +420,10 @@
       "en_US": [
         "I can pay ${STRVAR_1 55, 0, 0}.\n",
         "Would that be OK?"
+      ],
+      "fr_FR": [
+        "Je peux vous en donner {STRVAR_1 55, 0, 0} $.\n",
+        "Ça vous va?"
       ]
     },
     {
@@ -351,35 +431,46 @@
       "en_US": [
         "Turned over the {STRVAR_1 8, 0, 0}\n",
         "and received ${STRVAR_1 55, 1, 0}."
+      ],
+      "fr_FR": [
+        "Obtenu {STRVAR_1 55, 1, 0} $\n",
+        "pour cette vente."
       ]
     },
     {
       "id": "Bag_Text_MoneyLabel",
-      "en_US": "MONEY"
+      "en_US": "MONEY",
+      "fr_FR": "ARGENT"
     },
     {
       "id": "Bag_Text_MoneyNum",
-      "en_US": "${STRVAR_1 55, 0, 0}"
+      "en_US": "${STRVAR_1 55, 0, 0}",
+      "fr_FR": "{STRVAR_1 55, 0, 0} $"
     },
     {
       "id": "Bag_Text_SellNum",
-      "en_US": "x{STRVAR_1 51, 0, 0}"
+      "en_US": "x{STRVAR_1 51, 0, 0}",
+      "fr_FR": "x{STRVAR_1 51, 0, 0}"
     },
     {
       "id": "Bag_Text_SellValue",
-      "en_US": "${STRVAR_1 55, 0, 0}"
+      "en_US": "${STRVAR_1 55, 0, 0}",
+      "fr_FR": "{STRVAR_1 55, 0, 0} $"
     },
     {
       "id": "Bag_Text_Yes",
-      "en_US": "Yes"
+      "en_US": "Yes",
+      "fr_FR": "Oui"
     },
     {
       "id": "Bag_Text_No",
-      "en_US": "No"
+      "en_US": "No",
+      "fr_FR": "Non"
     },
     {
       "id": "Bag_Text_ThrowAwayCount",
-      "en_US": "x{STRVAR_1 52, 0, 0}"
+      "en_US": "x{STRVAR_1 52, 0, 0}",
+      "fr_FR": "x{STRVAR_1 52, 0, 0}"
     },
     {
       "id": "Bag_Text_Dummy41",
@@ -387,67 +478,90 @@
     },
     {
       "id": "Bag_Text_PP",
-      "en_US": "PP"
+      "en_US": "PP",
+      "fr_FR": "PP"
     },
     {
       "id": "Bag_Text_Power",
-      "en_US": "POWER"
+      "en_US": "POWER",
+      "fr_FR": "POUVOIR"
     },
     {
       "id": "Bag_Text_Accuracy",
-      "en_US": "ACCURACY"
+      "en_US": "ACCURACY",
+      "fr_FR": "PRECISION"
     },
     {
       "id": "Bag_Text_Category",
-      "en_US": "CATEGORY"
+      "en_US": "CATEGORY",
+      "fr_FR": "CATEGORIE"
     },
     {
       "id": "Bag_Text_MaxPPNum",
-      "en_US": "{STRVAR_1 51, 0, 0}"
+      "en_US": "{STRVAR_1 51, 0, 0}",
+      "fr_FR": "{STRVAR_1 51, 0, 0}"
     },
     {
       "id": "Bag_Text_PowerAccuracyNum",
-      "en_US": "{STRVAR_1 52, 0, 0}"
+      "en_US": "{STRVAR_1 52, 0, 0}",
+      "fr_FR": "{STRVAR_1 52, 0, 0}"
     },
     {
       "id": "Bag_Text_SealCaseMessage",
-      "en_US": "Seals: {STRVAR_1 53, 0, 0}"
+      "en_US": "Seals: {STRVAR_1 53, 0, 0}",
+      "fr_FR": "Sceaux: {STRVAR_1 53, 0, 0}"
     },
     {
       "id": "Bag_Text_FashionCaseMessage",
       "en_US": [
         "Accessories: {STRVAR_1 52, 0, 0}\n",
         "Backdrops: {STRVAR_1 51, 1, 0}"
+      ],
+      "fr_FR": [
+        "Accessoires: {STRVAR_1 52, 0, 0}\n",
+        "Décors: {STRVAR_1 51, 1, 0}"
       ]
     },
     {
       "id": "Bag_Text_CloseBagDescription",
-      "en_US": "Close Bag"
+      "en_US": "Close Bag",
+      "fr_FR": "Fermer le Sac."
     },
     {
       "id": "Bag_Text_Plant",
-      "en_US": "PLANT"
+      "en_US": "PLANT",
+      "fr_FR": "PLANTER"
     },
     {
       "id": "Bag_Text_Open",
-      "en_US": "OPEN"
+      "en_US": "OPEN",
+      "fr_FR": "OUVRIR"
     },
     {
       "id": "Bag_Text_PointCardMessage",
       "en_US": [
         "Saved Battle Points\n",
         "{STRVAR_1 53, 0, 0} BP"
+      ],
+      "fr_FR": [
+        "Points de Combat sauvegardés\n",
+        "{STRVAR_1 53, 0, 0} PCo"
       ]
     },
     {
       "id": "Bag_Text_Type",
-      "en_US": "TYPE"
+      "en_US": "TYPE",
+      "fr_FR": "TYPE"
     },
     {
       "id": "Bag_Text_KeyItemInfo",
       "en_US": [
         "A Key Item in the Bag can be assigned\n",
         "to this button for instant use."
+      ],
+      "fr_FR": [
+        "Un Objet Rare peut être assigné à ce\n",
+        "bouton et être utilisé instantanément."
       ]
     },
     {
@@ -480,25 +594,37 @@
         "The battery has run dry!\n",
         "For it to recharge, you need to walk\f",
         "another {STRVAR_1 51, 0, 0} steps."
+      ],
+      "fr_FR": [
+        "La batterie est à plat!\n",
+        "Pour la recharger, vous devez faire\f",
+        "{STRVAR_1 51, 0, 0} pas."
       ]
     },
     {
       "id": "Bag_Text_GrassyPatchRemainedQuiet",
-      "en_US": "The grassy patch remained quiet..."
+      "en_US": "The grassy patch remained quiet...",
+      "fr_FR": "Il n’y a rien dans l’herbe..."
     },
     {
       "id": "Bag_Text_PoffinCountLabel",
-      "en_US": "No. of Poffins:"
+      "en_US": "No. of Poffins:",
+      "fr_FR": "Nb de Poffins:"
     },
     {
       "id": "Bag_Text_PoffinCountNum",
-      "en_US": "{STRVAR_1 52, 0, 0}/100"
+      "en_US": "{STRVAR_1 52, 0, 0}/100",
+      "fr_FR": "{STRVAR_1 52, 0, 0}/100"
     },
     {
       "id": "Bag_Text_ChooseBerryToCook",
       "en_US": [
         "Please choose the Berry you want to\n",
         "cook from your Bag."
+      ],
+      "fr_FR": [
+        "Veuillez choisir la Baie que vous\n",
+        "voulez cuisiner dans votre Sac."
       ]
     },
     {
@@ -506,11 +632,16 @@
       "en_US": [
         "You can’t use that when you have\n",
         "someone with you."
+      ],
+      "fr_FR": [
+        "Inutilisable quand quelqu’un\n",
+        "est avec vous."
       ]
     },
     {
       "id": "Bag_Text_CannotUseNoFishing",
-      "en_US": "There’s nothing to be caught here..."
+      "en_US": "There’s nothing to be caught here...",
+      "fr_FR": "Il n’y a rien à pêcher ici..."
     }
   ]
 }

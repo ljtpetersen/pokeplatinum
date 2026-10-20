@@ -7,6 +7,11 @@
         "Welcome to the Battle Tower!\r",
         "I am your guide to the Single\n",
         "and Double Battle Rooms.\r"
+      ],
+      "fr_FR": [
+        "Bienvenue dans la Tour de Combat!\r",
+        "Je suis votre guide pour les \n",
+        "Salles de Combat Solo et Duo.\r"
       ]
     },
     {
@@ -14,11 +19,16 @@
       "en_US": [
         "Would you like to take the\n",
         "Battle Room challenge?"
+      ],
+      "fr_FR": [
+        "Voulez-vous relever le défi \n",
+        "d’une Salle de Combat?"
       ]
     },
     {
       "id": "BattleTower_Text_HopeToSeeYouAgain",
-      "en_US": "We hope to see you again!"
+      "en_US": "We hope to see you again!",
+      "fr_FR": "A une prochaine fois peut-être!"
     },
     {
       "id": "BattleTower_Text_ExplainSingleDoubleChallenge",
@@ -42,6 +52,26 @@
         "If you don’t save, you will be\n",
         "disqualified from your challenge.\r",
         "Please be aware of that!\r"
+      ],
+      "fr_FR": [
+        "La Tour de Combat propose des Combats\n",
+        "Solo et des Combats Duo.\r",
+        "Une fois à l’intérieur, les combats\n",
+        "s’enchaînent jusqu’à votre défaite.\r",
+        "En Combat Solo, vous avez droit à trois\n",
+        "Pokémon.\r",
+        "En Combat Duo, vous entrez avec quatre\n",
+        "Pokémon.\r",
+        "Chaque combat se déroule dans une des\n",
+        "nombreuses Salles de Combat de la Tour.\r",
+        "Dans chacune des Salles de Combat, \n",
+        "sept Dresseurs vous attendent.\r",
+        "Si vous parvenez à tous les vaincre,\n",
+        "vous gagnerez des PCo.\r",
+        "Si vous voulez interrompre votre \n",
+        "progression, vous devrez sauvegarder.\r",
+        "Si vous ne le faites pas, nous \n",
+        "devrons vous disqualifier.\r"
       ]
     },
     {
@@ -49,6 +79,10 @@
       "en_US": [
         "Which Battle Room would you like?\n",
         "Single or Double?"
+      ],
+      "fr_FR": [
+        "Dans quelle Salle de Combat \n",
+        "voulez-vous aller? Solo ou Duo?"
       ]
     },
     {
@@ -68,25 +102,42 @@
       "en_US": [
         "Please select the Pokémon you wish\n",
         "to enter.\r"
-      ]
+      ],
+      "fr_FR": "Veuillez choisir les Pokémon à inscrire.\r"
     },
     {
       "id": "BattleTower_Text_PokemonMustAllBeDifferent",
-      "en_US": "Your Pokémon must all be different.\r"
+      "en_US": "Your Pokémon must all be different.\r",
+      "fr_FR": [
+        "Vous ne pouvez inscrire \n",
+        "deux Pokémon identiques.\r"
+      ]
     },
     {
       "id": "BattleTower_Text_ItemsMustAllBeDifferent",
-      "en_US": "Hold items must all be different.\r"
+      "en_US": "Hold items must all be different.\r",
+      "fr_FR": [
+        "Les objets portés doivent \n",
+        "tous être différents.\r"
+      ]
     },
     {
       "id": "BattleTower_Text_ShowYouToBattleRoom",
-      "en_US": "I will now show you to the Battle Room."
+      "en_US": "I will now show you to the Battle Room.",
+      "fr_FR": [
+        "Veuillez me suivre dans la\n",
+        "Salle de Combat."
+      ]
     },
     {
       "id": "BattleTower_Text_BeatenAllSevenTrainers",
       "en_US": [
         "Congratulations!\n",
         "You’ve beaten all seven Trainers!\r"
+      ],
+      "fr_FR": [
+        "Félicitations!\n",
+        "Vous avez gagné les sept combats!\r"
       ]
     },
     {
@@ -98,6 +149,13 @@
         "Points in recognition of your talent!\r",
         "{STRVAR_1 3, 0, 0} received\n",
         "{STRVAR_1 50, 1, 0} BP!\r"
+      ],
+      "fr_FR": [
+        "Félicitations!\n",
+        "Vous avez battu l’Aigle Tour!\r",
+        "Pour récompenser vos efforts, nous \n",
+        "vous offrons des Points de Combat!\r",
+        "{STRVAR_1 3, 0, 0} obtient {STRVAR_1 50, 1, 0} PCo.\r"
       ]
     },
     {
@@ -105,11 +163,16 @@
       "en_US": [
         "Saving...\n",
         "Don’t turn off the power."
+      ],
+      "fr_FR": [
+        "Sauvegarde en cours...\n",
+        "Ne pas éteindre."
       ]
     },
     {
       "id": "BattleTower_Text_HopeToSeeYouAgain2",
-      "en_US": "We hope to see you again."
+      "en_US": "We hope to see you again.",
+      "fr_FR": "A une prochaine fois peut-être!"
     },
     {
       "id": "BattleTower_Text_SaveBeforeEntering",
@@ -117,6 +180,11 @@
         "We’ve been waiting for you!\r",
         "Before entering a Battle Room, your\n",
         "progress will be saved. Please wait."
+      ],
+      "fr_FR": [
+        "Nous vous attendions!\r",
+        "Avant de continuer, votre partie \n",
+        "doit être sauvegardée."
       ]
     },
     {
@@ -135,6 +203,13 @@
         "challenge last time.\r",
         "Because of that, you have been\n",
         "disqualified from your challenge!\r"
+      ],
+      "fr_FR": [
+        "Je regrette.\r",
+        "Vous n’avez pas sauvegardé avant\n",
+        "l’interruption de votre dernier défi.\r",
+        "En conséquence, nous sommes \n",
+        "obligés de vous disqualifier!\r"
       ]
     },
     {
@@ -143,6 +218,11 @@
         "Welcome to the Battle Tower!\r",
         "I am your guide to the Multi\n",
         "Battle Rooms.\r"
+      ],
+      "fr_FR": [
+        "Bienvenue dans la Tour de Combat!\r",
+        "Je serai votre guide dans les\n",
+        "Salles de Combat Multi!\r"
       ]
     },
     {
@@ -150,6 +230,10 @@
       "en_US": [
         "Would you like to take the Multi\n",
         "Battle Room challenge?"
+      ],
+      "fr_FR": [
+        "Voulez-vous relever le défi d’une\n",
+        "Salle de Combat Multi?"
       ]
     },
     {
@@ -183,6 +267,34 @@
         "Also, if you are on a tag team with\n",
         "a friend, you may not interrupt your\f",
         "challenge.\r"
+      ],
+      "fr_FR": [
+        "Les Salles de Combat Multi de la \n",
+        "Tour de Combat sont consacrées\f",
+        "aux Combats Multi.\r",
+        "Pour les Combats Multi, vous devez\n",
+        "faire équipe avec un autre Dresseur.\r",
+        "Vous entrerez avec 2 Pokémon chacun.\r",
+        "A l’intérieur de la tour, il y a une salle\n",
+        "appelée le Salon de Combat où vous\f",
+        "pouvez rencontrer d’autres Dresseurs.\r",
+        "Vous pourrez y trouver un \n",
+        "partenaire avec qui faire équipe.\r",
+        "Vous pouvez aussi faire équipe avec un\n",
+        "ami via la communication sans fil.\r",
+        "Votre équipe formée, vous pourrez \n",
+        "accéder à une Salle de Combat Multi.\r",
+        "Dans chacune des Salles de Combat \n",
+        "Multi, sept équipes vous attendent.\r",
+        "Si vous parvenez à toutes les battre,\n",
+        "vous obtiendrez des Points de Combat.\r",
+        "Si vous voulez interrompre votre \n",
+        "progression, vous devrez sauvegarder.\r",
+        "Si vous ne le faites pas, nous \n",
+        "devrons vous disqualifier.\r",
+        "Néanmoins, si vous faites équipe \n",
+        "avec un ami, vous ne pourrez\f",
+        "pas interrompre la partie.\r"
       ]
     },
     {
@@ -198,6 +310,10 @@
       "en_US": [
         "Would you like to communicate with\n",
         "a friend and form a tag team?"
+      ],
+      "fr_FR": [
+        "Voulez-vous entrer en communication \n",
+        "avec un ami et faire équipe avec lui?"
       ]
     },
     {
@@ -207,6 +323,12 @@
         "“BECOME LEADER.”\r",
         "The other Trainer must select\n",
         "“JOIN GROUP.”"
+      ],
+      "fr_FR": [
+        "L’un de vous deux devra sélectionner\n",
+        "“MENEUR”.\r",
+        "L’autre Dresseur devra choisir\n",
+        "“JOINDRE”."
       ]
     },
     {
@@ -230,6 +352,10 @@
       "en_US": [
         "I’ll direct you to your Multi Battle\n",
         "Room now."
+      ],
+      "fr_FR": [
+        "Veuillez me suivre dans la\n",
+        "Salle de Combat Multi."
       ]
     },
     {
@@ -239,6 +365,11 @@
         "Pokémon {STRVAR_1 0, 0, 0}.\r",
         "Please confer with the other Trainer\n",
         "and choose different Pokémon.\r"
+      ],
+      "fr_FR": [
+        "Les deux Dresseurs ont choisi le \n",
+        "Pokémon {STRVAR_1 0, 0, 0}.\r",
+        "Veuillez choisir des Pokémon différents.\r"
       ]
     },
     {
@@ -248,11 +379,20 @@
         "{STRVAR_1 0, 0, 0} and {STRVAR_1 0, 1, 0}.\r",
         "Please confer with the other Trainer\n",
         "and choose different Pokémon.\r"
+      ],
+      "fr_FR": [
+        "Les deux Dresseurs ont choisi les \n",
+        "Pokémon {STRVAR_1 0, 0, 0} et {STRVAR_1 0, 1, 0}.\r",
+        "Veuillez choisir des Pokémon différents.\r"
       ]
     },
     {
       "id": "BattleTower_Text_ShowYouToBattleSalon",
-      "en_US": "I will now show you to the Battle Salon.\r"
+      "en_US": "I will now show you to the Battle Salon.\r",
+      "fr_FR": [
+        "Veuillez me suivre dans le\n",
+        "Salon de Combat.\r"
+      ]
     },
     {
       "id": "BattleTower_Text_WelcomeToWiFiBattleRooms",
@@ -260,6 +400,11 @@
         "Welcome to the Battle Tower!\r",
         "I am your guide to the Wi-Fi Battle\n",
         "Rooms.\r"
+      ],
+      "fr_FR": [
+        "Bienvenue dans la Tour de Combat!\r",
+        "Je suis votre guide pour les \n",
+        "Salles de Combat Wi-Fi.\r"
       ]
     },
     {
@@ -267,6 +412,10 @@
       "en_US": [
         "Would you like to take the Wi-Fi\n",
         "Battle Room challenge?"
+      ],
+      "fr_FR": [
+        "Voulez-vous relever le défi d’une\n",
+        "Salle de Combat Wi-Fi?"
       ]
     },
     {
@@ -297,11 +446,39 @@
         "challenge, please save the game.\r",
         "If you don’t save, you will be\n",
         "disqualified from your challenge.\r"
+      ],
+      "fr_FR": [
+        "Les Salles de Combat Wi-Fi de la Tour\n",
+        "de Combat sont consacrées aux combats\f",
+        "via la connexion Wi-Fi (CWF) Nintendo.\r",
+        "Dans les Combats Wi-Fi, vous \n",
+        "affronterez des Dresseurs du\f",
+        "monde entier via la CWF Nintendo.\r",
+        "Dans chacune des Salles de Combat \n",
+        "Wi-Fi, sept Dresseurs vous attendent.\r",
+        "Si vous parvenez à tous les battre,\n",
+        "vous obtiendrez des Points de Combat.\r",
+        "Selon vos résultats, vous pourrez \n",
+        "même devenir le leader de la salle.\r",
+        "En effet, les Salles de Combat Wi-Fi \n",
+        "sont régies par un système de rangs.\r",
+        "Les Dresseurs accumulant les victoires \n",
+        "verront leur rang s’améliorer.\r",
+        "En revanche, ceux qui accumulent les \n",
+        "défaites perdront des rangs.\r",
+        "Pour atteindre plus rapidement\n",
+        "les premières places, gagnez\f",
+        "contre des Dresseurs plus forts!\r",
+        "Si vous voulez interrompre votre \n",
+        "progression, vous devrez sauvegarder.\r",
+        "Si vous ne le faites pas, nous \n",
+        "devrons vous disqualifier.\r"
       ]
     },
     {
       "id": "BattleTower_Text_HopeToSeeYouAgain3",
-      "en_US": "We hope to see you again!"
+      "en_US": "We hope to see you again!",
+      "fr_FR": "A une prochaine fois peut-être!"
     },
     {
       "id": "BattleTower_Text_Dummy40",
@@ -337,6 +514,11 @@
         "OK. I’ll direct you to your Battle Room\n",
         "now.\r",
         "Are you ready?"
+      ],
+      "fr_FR": [
+        "Très bien, je vais vous mener \n",
+        "à la Salle de Combat.\r",
+        "Pouvons-nous y aller?"
       ]
     },
     {
@@ -344,6 +526,10 @@
       "en_US": [
         "Would you like to save and interrupt\n",
         "your challenge?"
+      ],
+      "fr_FR": [
+        "Voulez-vous sauvegarder et \n",
+        "interrompre votre progression?"
       ]
     },
     {
@@ -365,17 +551,29 @@
         "Room {STRVAR_1 52, 1, 0}’s past leader history.\r",
         "Please confirm it on the Performance\n",
         "Monitor next to me."
+      ],
+      "fr_FR": [
+        "J’ai téléchargé le dernier tableau des \n",
+        "leaders de la Salle de Combat {STRVAR_1 52, 1, 0},\f",
+        "Rang {STRVAR_1 51, 0, 0}.\r",
+        "Veuillez le consulter sur l’Ecran des \n",
+        "Performances à côté de moi."
       ]
     },
     {
       "id": "BattleTower_Text_ThanksForPlaying",
-      "en_US": "Thank you for playing!\r"
+      "en_US": "Thank you for playing!\r",
+      "fr_FR": "Merci d’avoir participé!\r"
     },
     {
       "id": "BattleTower_Text_BeatenAllSevenTrainers2",
       "en_US": [
         "Congratulations!\n",
         "You’ve beaten all seven Trainers!\r"
+      ],
+      "fr_FR": [
+        "Félicitations!\n",
+        "Vous avez gagné les sept combats!\r"
       ]
     },
     {
@@ -383,6 +581,10 @@
       "en_US": [
         "{STRVAR_1 3, 0, 0}, you have also been\n",
         "promoted to Rank {STRVAR_1 51, 1, 0}!\r"
+      ],
+      "fr_FR": [
+        "Félicitations, {STRVAR_1 3, 0, 0}, vous avez \n",
+        "atteint le Rang {STRVAR_1 51, 1, 0}!\r"
       ]
     },
     {
@@ -390,6 +592,10 @@
       "en_US": [
         "Saving...\n",
         "Don’t turn off the power."
+      ],
+      "fr_FR": [
+        "Sauvegarde en cours...\n",
+        "Ne pas éteindre."
       ]
     },
     {
@@ -397,6 +603,10 @@
       "en_US": [
         "Would you like to send these results\n",
         "using Nintendo WFC?"
+      ],
+      "fr_FR": [
+        "Voulez-vous envoyer ces résultats \n",
+        "via la CWF Nintendo?"
       ]
     },
     {
@@ -406,6 +616,11 @@
         "you with the BP you have earned!\r",
         "{STRVAR_1 3, 0, 0} received\n",
         "{STRVAR_1 50, 1, 0} BP.\r"
+      ],
+      "fr_FR": [
+        "En récompense de votre série de sept \n",
+        "victoires, nous vous offrons ces PCo!\r",
+        "{STRVAR_1 3, 0, 0} obtient {STRVAR_1 50, 1, 0} PCo.\r"
       ]
     },
     {
@@ -417,6 +632,10 @@
       "en_US": [
         "Your results were sent out using\n",
         "Nintendo WFC!\r"
+      ],
+      "fr_FR": [
+        "Vos résultats ont été envoyés \n",
+        "via la CWF Nintendo!\r"
       ]
     },
     {
@@ -426,6 +645,12 @@
         "Your previous results were not sent\n",
         "out using Nintendo WFC.\r",
         "Would you like to send them now?"
+      ],
+      "fr_FR": [
+        "C’est un plaisir de vous revoir.\r",
+        "Vos précédents résultats n’ont pas \n",
+        "été envoyés via la CWF Nintendo.\r",
+        "Voulez-vous les envoyer maintenant?"
       ]
     },
     {
@@ -445,6 +670,10 @@
       "en_US": [
         "Unfortunately, you have been\n",
         "demoted to Rank {STRVAR_1 51, 0, 0}...\r"
+      ],
+      "fr_FR": [
+        "Je suis désolée, vous tombez\n",
+        "au Rang {STRVAR_1 51, 0, 0}...\r"
       ]
     },
     {
@@ -464,6 +693,10 @@
       "en_US": [
         "Your record will be saved.\n",
         "Please wait."
+      ],
+      "fr_FR": [
+        "Vos données vont être sauvegardées.\n",
+        "Veuillez patienter."
       ]
     },
     {
@@ -472,6 +705,12 @@
         "Congratulations on achieving Rank {STRVAR_1 51, 0, 0}.\r",
         "Your winning Pokémon team has won\n",
         "special Ribbons for this feat!"
+      ],
+      "fr_FR": [
+        "Félicitations, vous avez \n",
+        "atteint le Rang {STRVAR_1 51, 0, 0}.\r",
+        "Vos Pokémon victorieux gagnent des \n",
+        "Rubans spéciaux en récompense!"
       ]
     },
     {
@@ -481,11 +720,18 @@
         "consecutive wins!\r",
         "Your winning Pokémon team has been\n",
         "given a special award for this feat!"
+      ],
+      "fr_FR": [
+        "Félicitations, vous avez enchaîné {STRVAR_1 52, 0, 0}\n",
+        "victoires à la suite!\r",
+        "Vos Pokémon victorieux gagnent \n",
+        "une récompense spéciale!"
       ]
     },
     {
       "id": "BattleTower_Text_00072",
-      "en_US": "{STRVAR_1 3, 0, 0} obtained {STRVAR_1 8, 1, 0}!"
+      "en_US": "{STRVAR_1 3, 0, 0} obtained {STRVAR_1 8, 1, 0}!",
+      "fr_FR": "{STRVAR_1 3, 0, 0} reçoit {STRVAR_1 8, 1, 0}!"
     },
     {
       "id": "BattleTower_Text_WonRibbonsFor50WinStreak",
@@ -494,6 +740,12 @@
         "50-win streak.\r",
         "Your winning Pokémon team has won\n",
         "special Ribbons for this feat!"
+      ],
+      "fr_FR": [
+        "Félicitations, vous avez enchaîné\n",
+        "50 victoires à la suite.\r",
+        "Vos Pokémon victorieux gagnent des \n",
+        "Rubans spéciaux en récompense!"
       ]
     },
     {
@@ -503,6 +755,12 @@
         "called Hoenn.\r",
         "There was a place like this back\n",
         "there, too."
+      ],
+      "fr_FR": [
+        "Ouais, je viens d’une \n",
+        "région appelée Hoenn.\r",
+        "On avait aussi un endroit \n",
+        "comme celui-ci là-bas. "
       ]
     },
     {
@@ -514,6 +772,14 @@
         "rival who moved far away?\r",
         "Who knows what cool encounters you’ll\n",
         "have?"
+      ],
+      "fr_FR": [
+        "Les Salles de Combat Wi-Fi \n",
+        "sont pleines de surprises.\r",
+        "Du genre, tomber sur un vieux rival \n",
+        "qui a déménagé depuis longtemps...\r",
+        "Tu imagines un peu les rencontres \n",
+        "incroyables que tu peux faire?"
       ]
     },
     {
@@ -523,6 +789,12 @@
         "a good record here.\r",
         "This is my only chance to regain\n",
         "my glory as an Idol!"
+      ],
+      "fr_FR": [
+        "Si tu fais un bon parcours ici, ils \n",
+        "risquent de parler de toi à la télé.\r",
+        "C’est ma dernière chance de \n",
+        "retrouver ma gloire de Star!"
       ]
     },
     {
@@ -533,11 +805,19 @@
         "He’s going to do a 100-win streak\n",
         "for sure...\r",
         "Right, PIKACHU?"
+      ],
+      "fr_FR": [
+        "J’ai entraîné mon Pokémon au \n",
+        "maximum de ses capacités.\r",
+        "Il va me faire gagner au \n",
+        "moins 100 fois d’affilée...\r",
+        "Hein, PIKACHU?"
       ]
     },
     {
       "id": "BattleTower_Text_PikachuDotDotDot",
-      "en_US": "PIKACHU: ..."
+      "en_US": "PIKACHU: ...",
+      "fr_FR": "PIKACHU: ..."
     },
     {
       "id": "BattleTower_Text_YouLookPowerful",
@@ -546,6 +826,12 @@
         "You look tremendously powerful!\r",
         "Verily, I shall look forward to\n",
         "engaging you in a battle."
+      ],
+      "fr_FR": [
+        "Ouh là là!\n",
+        "Tu m’as vraiment l’air coriace toi!\r",
+        "J’attends notre affrontement \n",
+        "avec impatience."
       ]
     },
     {
@@ -555,11 +841,18 @@
         "around...\r",
         "It’s scary, but let’s do our best,\n",
         "PIKACHU!"
+      ],
+      "fr_FR": [
+        "Il y a des Dresseurs tellement \n",
+        "forts dans le coin...\r",
+        "Ça fait un peu peur, mais on va faire \n",
+        "de notre mieux. Allez, PIKACHU!"
       ]
     },
     {
       "id": "BattleTower_Text_PikachuPichuu",
-      "en_US": "PIKACHU: Pichuu! Pichuu!"
+      "en_US": "PIKACHU: Pichuu! Pichuu!",
+      "fr_FR": "PIKACHU: Pika! Pika!"
     },
     {
       "id": "BattleTower_Text_RibbonsFor50WinStreak",
@@ -568,6 +861,12 @@
         "a 50-win streak!\r",
         "The Pokémon on your team will be\n",
         "provided with commemorative Ribbons."
+      ],
+      "fr_FR": [
+        "Félicitations, vous avez \n",
+        "enchaîné 50 victoires à la suite!\r",
+        "Vos Pokémon victorieux gagnent des \n",
+        "Rubans pour célébrer cette prouesse!"
       ]
     },
     {
@@ -577,6 +876,12 @@
         "Rank {STRVAR_1 50, 0, 0}!\r",
         "The Pokémon on your team will be\n",
         "provided with commemorative Ribbons."
+      ],
+      "fr_FR": [
+        "Félicitations, vous avez \n",
+        "atteint le Rang {STRVAR_1 50, 0, 0}!\r",
+        "Vos Pokémon victorieux gagnent des \n",
+        "Rubans pour célébrer cette prouesse!"
       ]
     },
     {
@@ -586,6 +891,12 @@
         "the Tower Tycoon!\r",
         "The Pokémon on your team will be\n",
         "provided with commemorative Ribbons."
+      ],
+      "fr_FR": [
+        "Félicitations, vous avez \n",
+        "vaincu l’Aigle Tour!\r",
+        "Vos Pokémon victorieux gagnent des \n",
+        "Rubans pour célébrer cette prouesse!"
       ]
     },
     {
@@ -594,6 +905,11 @@
         "Congratulations!\r",
         "In honor of your victory, we present\n",
         "you this commemorative print!\r"
+      ],
+      "fr_FR": [
+        "Félicitations!\r",
+        "Pour célébrer votre victoire, nous\n",
+        "vous offrons cette photo!\r"
       ]
     },
     {
@@ -601,6 +917,10 @@
       "en_US": [
         "The Gold Print was added to\n",
         "{STRVAR_1 3, 0, 0}’s Vs. Recorder!\r"
+      ],
+      "fr_FR": [
+        "La Photo d’Or a été ajoutée au Magnéto\n",
+        "VS de {STRVAR_1 3, 0, 0}!\r"
       ]
     },
     {
@@ -608,6 +928,10 @@
       "en_US": [
         "The Silver Print was added to\n",
         "{STRVAR_1 3, 0, 0}’s Vs. Recorder!\r"
+      ],
+      "fr_FR": [
+        "La Photo d’Argent a été ajoutée au\n",
+        "Magnéto VS de {STRVAR_1 3, 0, 0}!\r"
       ]
     },
     {
@@ -617,6 +941,12 @@
         "{STRVAR_1 52, 0, 0}-win streak!\r",
         "Please accept this trophy for your\n",
         "fantastic achievement!\r"
+      ],
+      "fr_FR": [
+        "Félicitations, vous avez enchaîné {STRVAR_1 52, 0, 0}\n",
+        "victoires à la suite!\r",
+        "Quelle prouesse! Voici un trophée \n",
+        "pour vous récompenser.\r"
       ]
     },
     {
@@ -626,6 +956,12 @@
         "for decoration goods.\r",
         "Please make room, and come back\n",
         "for your prize."
+      ],
+      "fr_FR": [
+        "Oh... Vous n’avez plus assez de place \n",
+        "pour un autre article de décoration.\r",
+        "Faites un peu de place, et \n",
+        "revenez réclamer votre prix."
       ]
     },
     {
@@ -643,6 +979,18 @@
         "kinds of items.\r",
         "Eggs are not allowed to enter.\r",
         "Please come see me when you are ready."
+      ],
+      "fr_FR": [
+        "Je regrette!\n",
+        "Vous n’avez pas {STRVAR_1 50, 0, 0} Pokémon\f",
+        "pouvant participer.\r",
+        "Il vous faut {STRVAR_1 50, 0, 0} Pokémon \n",
+        "différents pour participer.\r",
+        "Ils doivent aussi tenir des\n",
+        "objets différents.\r",
+        "Les Oeufs ne peuvent pas participer.\r",
+        "Revenez me voir quand \n",
+        "vous aurez ce qu’il faut."
       ]
     },
     {
@@ -657,6 +1005,19 @@
         "Eggs and {STRVAR_1 0, 1, 0} are not allowed\n",
         "to enter.\r",
         "Please come see me when you are ready."
+      ],
+      "fr_FR": [
+        "Je regrette!\n",
+        "Vous n’avez pas {STRVAR_1 50, 0, 0} Pokémon\f",
+        "pouvant participer.\r",
+        "Il vous faut {STRVAR_1 50, 0, 0} Pokémon \n",
+        "différents pour participer.\r",
+        "Ils doivent aussi tenir des\n",
+        "objets différents.\r",
+        "Les Oeufs et les {STRVAR_1 0, 1, 0} ne \n",
+        "peuvent pas participer.\r",
+        "Revenez me voir quand \n",
+        "vous aurez ce qu’il faut."
       ]
     },
     {
@@ -671,6 +1032,20 @@
         "Eggs, {STRVAR_1 0, 1, 0}, and {STRVAR_1 0, 2, 0}\n",
         "are not allowed to enter.\r",
         "Please come see me when you are ready."
+      ],
+      "fr_FR": [
+        "Je regrette!\n",
+        "Vous n’avez pas {STRVAR_1 50, 0, 0} Pokémon\f",
+        "pouvant participer.\r",
+        "Il vous faut {STRVAR_1 50, 0, 0} Pokémon \n",
+        "différents pour participer.\r",
+        "Ils doivent aussi tenir des\n",
+        "objets différents.\r",
+        "Les Oeufs, {STRVAR_1 0, 1, 0} et\n",
+        "{STRVAR_1 0, 2, 0} ne peuvent pas\f",
+        "participer.\r",
+        "Revenez me voir quand \n",
+        "vous aurez ce qu’il faut."
       ]
     },
     {
@@ -685,6 +1060,20 @@
         "Eggs, {STRVAR_1 0, 1, 0}, {STRVAR_1 0, 2, 0},\n",
         "and {STRVAR_1 0, 3, 0} are not allowed.\r",
         "Please come see me when you are ready."
+      ],
+      "fr_FR": [
+        "Je regrette!\n",
+        "Vous n’avez pas {STRVAR_1 50, 0, 0} Pokémon\f",
+        "pouvant participer.\r",
+        "Il vous faut {STRVAR_1 50, 0, 0} Pokémon \n",
+        "différents pour participer.\r",
+        "Ils doivent aussi tenir des\n",
+        "objets différents.\r",
+        "Les Oeufs, {STRVAR_1 0, 1, 0}, {STRVAR_1 0, 2, 0}\n",
+        "et {STRVAR_1 0, 3, 0} ne peuvent pas\f",
+        "participer.\r",
+        "Revenez me voir quand \n",
+        "vous aurez ce qu’il faut."
       ]
     },
     {
@@ -700,6 +1089,21 @@
         "{STRVAR_1 0, 3, 0}, and {STRVAR_1 0, 4, 0}\f",
         "are not allowed to enter.\r",
         "Please come see me when you are ready."
+      ],
+      "fr_FR": [
+        "Je regrette!\n",
+        "Vous n’avez pas {STRVAR_1 50, 0, 0} Pokémon\f",
+        "pouvant participer.\r",
+        "Il vous faut {STRVAR_1 50, 0, 0} Pokémon \n",
+        "différents pour participer.\r",
+        "Ils doivent aussi tenir des\n",
+        "objets différents.\r",
+        "Les Oeufs, {STRVAR_1 0, 1, 0},\n",
+        "{STRVAR_1 0, 2, 0}, {STRVAR_1 0, 3, 0} et\r",
+        "{STRVAR_1 0, 4, 0} ne peuvent pas\n",
+        "participer.\r",
+        "Revenez me voir quand \n",
+        "vous aurez ce qu’il faut."
       ]
     },
     {
@@ -715,6 +1119,21 @@
         "{STRVAR_1 0, 3, 0}, {STRVAR_1 0, 4, 0}, and\f",
         "{STRVAR_1 0, 5, 0} are not allowed to enter.\r",
         "Please come see me when you are ready."
+      ],
+      "fr_FR": [
+        "Je regrette!\n",
+        "Vous n’avez pas {STRVAR_1 50, 0, 0} Pokémon\f",
+        "pouvant participer.\r",
+        "Il vous faut {STRVAR_1 50, 0, 0} Pokémon \n",
+        "différents pour participer.\r",
+        "Ils doivent aussi tenir des\n",
+        "objets différents.\r",
+        "Les Oeufs, {STRVAR_1 0, 1, 0},\n",
+        "{STRVAR_1 0, 2, 0}, {STRVAR_1 0, 3, 0},\r",
+        "{STRVAR_1 0, 4, 0} et {STRVAR_1 0, 5, 0} ne\n",
+        "peuvent pas participer.\r",
+        "Revenez me voir quand \n",
+        "vous aurez ce qu’il faut."
       ]
     },
     {
@@ -731,6 +1150,22 @@
         "{STRVAR_1 0, 5, 0}, and {STRVAR_1 0, 6, 0} \n",
         "are not allowed to enter.\r",
         "Please come see me when you are ready."
+      ],
+      "fr_FR": [
+        "Je regrette!\n",
+        "Vous n’avez pas {STRVAR_1 50, 0, 0} Pokémon\f",
+        "pouvant participer.\r",
+        "Il vous faut {STRVAR_1 50, 0, 0} Pokémon \n",
+        "différents pour participer.\r",
+        "Ils doivent aussi tenir des\n",
+        "objets différents.\r",
+        "Les Oeufs, {STRVAR_1 0, 1, 0},\n",
+        "{STRVAR_1 0, 2, 0}, {STRVAR_1 0, 3, 0},\r",
+        "{STRVAR_1 0, 4, 0}, {STRVAR_1 0, 5, 0} et\n",
+        "{STRVAR_1 0, 6, 0} ne peuvent pas\f",
+        "participer.\r",
+        "Revenez me voir quand \n",
+        "vous aurez ce qu’il faut."
       ]
     },
     {
@@ -747,6 +1182,22 @@
         "{STRVAR_1 0, 5, 0}, {STRVAR_1 0, 6, 0}, and\n",
         "{STRVAR_1 0, 7, 0} are not allowed to enter.\r",
         "Please come see me when you are ready."
+      ],
+      "fr_FR": [
+        "Je regrette!\n",
+        "Vous n’avez pas {STRVAR_1 50, 0, 0} Pokémon\f",
+        "pouvant participer.\r",
+        "Il vous faut {STRVAR_1 50, 0, 0} Pokémon \n",
+        "différents pour participer.\r",
+        "Ils doivent aussi tenir des\n",
+        "objets différents.\r",
+        "Les Oeufs, {STRVAR_1 0, 1, 0},\n",
+        "{STRVAR_1 0, 2, 0}, {STRVAR_1 0, 3, 0},\r",
+        "{STRVAR_1 0, 4, 0}, {STRVAR_1 0, 5, 0},\n",
+        "{STRVAR_1 0, 6, 0} et {STRVAR_1 0, 7, 0} ne\f",
+        "peuvent pas participer.\r",
+        "Revenez me voir quand \n",
+        "vous aurez ce qu’il faut."
       ]
     },
     {
@@ -764,6 +1215,23 @@
         "{STRVAR_1 0, 7, 0}, and {STRVAR_1 0, 8, 0}\f",
         "are not allowed to enter.\r",
         "Please come see me when you are ready."
+      ],
+      "fr_FR": [
+        "Je regrette!\n",
+        "Vous n’avez pas {STRVAR_1 50, 0, 0} Pokémon\f",
+        "pouvant participer.\r",
+        "Il vous faut {STRVAR_1 50, 0, 0} Pokémon \n",
+        "différents pour participer.\r",
+        "Ils doivent aussi tenir des\n",
+        "objets différents.\r",
+        "Les Oeufs, {STRVAR_1 0, 1, 0},\n",
+        "{STRVAR_1 0, 2, 0}, {STRVAR_1 0, 3, 0},\r",
+        "{STRVAR_1 0, 4, 0}, {STRVAR_1 0, 5, 0},\n",
+        "{STRVAR_1 0, 6, 0}, {STRVAR_1 0, 7, 0} et\r",
+        "{STRVAR_1 0, 8, 0} ne peuvent pas\n",
+        "participer.\r",
+        "Revenez me voir quand \n",
+        "vous aurez ce qu’il faut."
       ]
     },
     {
@@ -781,6 +1249,23 @@
         "{STRVAR_1 0, 7, 0}, {STRVAR_1 0, 8, 0}, and\f",
         "{STRVAR_1 0, 9, 0} are not allowed to enter.\r",
         "Please come see me when you are ready."
+      ],
+      "fr_FR": [
+        "Je regrette!\n",
+        "Vous n’avez pas {STRVAR_1 50, 0, 0} Pokémon\f",
+        "pouvant participer.\r",
+        "Il vous faut {STRVAR_1 50, 0, 0} Pokémon \n",
+        "différents pour participer.\r",
+        "Ils doivent aussi tenir des\n",
+        "objets différents.\r",
+        "Les Oeufs, {STRVAR_1 0, 1, 0},\n",
+        "{STRVAR_1 0, 2, 0}, {STRVAR_1 0, 3, 0},\r",
+        "{STRVAR_1 0, 4, 0}, {STRVAR_1 0, 5, 0},\n",
+        "{STRVAR_1 0, 6, 0}, {STRVAR_1 0, 7, 0},\r",
+        "{STRVAR_1 0, 8, 0} et {STRVAR_1 0, 9, 0} ne\n",
+        "peuvent pas participer.\r",
+        "Revenez me voir quand \n",
+        "vous aurez ce qu’il faut."
       ]
     },
     {
@@ -799,6 +1284,24 @@
         "{STRVAR_1 0, 9, 0}, and {STRVAR_1 0, 10, 0}\n",
         "are not allowed to enter.\r",
         "Please come see me when you are ready."
+      ],
+      "fr_FR": [
+        "Je regrette!\n",
+        "Vous n’avez pas {STRVAR_1 50, 0, 0} Pokémon\f",
+        "pouvant participer.\r",
+        "Il vous faut {STRVAR_1 50, 0, 0} Pokémon \n",
+        "différents pour participer.\r",
+        "Ils doivent aussi tenir des\n",
+        "objets différents.\r",
+        "Les Oeufs, {STRVAR_1 0, 1, 0},\n",
+        "{STRVAR_1 0, 2, 0}, {STRVAR_1 0, 3, 0},\r",
+        "{STRVAR_1 0, 4, 0}, {STRVAR_1 0, 5, 0},\n",
+        "{STRVAR_1 0, 6, 0}, {STRVAR_1 0, 7, 0},\r",
+        "{STRVAR_1 0, 8, 0}, {STRVAR_1 0, 9, 0}\n",
+        "et {STRVAR_1 0, 10, 0} ne peuvent pas\f",
+        "participer.\r",
+        "Revenez me voir quand \n",
+        "vous aurez ce qu’il faut."
       ]
     },
     {
@@ -817,6 +1320,24 @@
         "{STRVAR_1 0, 9, 0}, {STRVAR_1 0, 10, 0}, and\n",
         "{STRVAR_1 0, 11, 0} are not allowed to enter.\r",
         "Please come see me when you are ready."
+      ],
+      "fr_FR": [
+        "Je regrette!\n",
+        "Vous n’avez pas {STRVAR_1 50, 0, 0} Pokémon\f",
+        "pouvant participer.\r",
+        "Il vous faut {STRVAR_1 50, 0, 0} Pokémon \n",
+        "différents pour participer.\r",
+        "Ils doivent aussi tenir des\n",
+        "objets différents.\r",
+        "Les Oeufs, {STRVAR_1 0, 1, 0},\n",
+        "{STRVAR_1 0, 2, 0}, {STRVAR_1 0, 3, 0},\r",
+        "{STRVAR_1 0, 4, 0}, {STRVAR_1 0, 5, 0},\n",
+        "{STRVAR_1 0, 6, 0}, {STRVAR_1 0, 7, 0},\r",
+        "{STRVAR_1 0, 8, 0}, {STRVAR_1 0, 9, 0},\n",
+        "{STRVAR_1 0, 10, 0} et {STRVAR_1 0, 11, 0} ne\f",
+        "peuvent pas participer.\r",
+        "Revenez me voir quand \n",
+        "vous aurez ce qu’il faut."
       ]
     },
     {
@@ -836,6 +1357,25 @@
         "{STRVAR_1 0, 11, 0}, and {STRVAR_1 0, 12, 0}\f",
         "are not allowed to enter.\r",
         "Please come see me when you are ready."
+      ],
+      "fr_FR": [
+        "Je regrette!\n",
+        "Vous n’avez pas {STRVAR_1 50, 0, 0} Pokémon\f",
+        "pouvant participer.\r",
+        "Il vous faut {STRVAR_1 50, 0, 0} Pokémon \n",
+        "différents pour participer.\r",
+        "Ils doivent aussi tenir des\n",
+        "objets différents.\r",
+        "Les Oeufs, {STRVAR_1 0, 1, 0},\n",
+        "{STRVAR_1 0, 2, 0}, {STRVAR_1 0, 3, 0},\r",
+        "{STRVAR_1 0, 4, 0},{STRVAR_1 0, 5, 0},\n",
+        "{STRVAR_1 0, 6, 0}, {STRVAR_1 0, 7, 0},\r",
+        "{STRVAR_1 0, 8, 0}, {STRVAR_1 0, 9, 0},\n",
+        "{STRVAR_1 0, 10, 0}, {STRVAR_1 0, 11, 0} et\r",
+        "{STRVAR_1 0, 12, 0} ne peuvent pas\n",
+        "participer.\r",
+        "Revenez me voir quand \n",
+        "vous aurez ce qu’il faut."
       ]
     },
     {
@@ -855,6 +1395,25 @@
         "{STRVAR_1 0, 11, 0}, {STRVAR_1 0, 12, 0}, and\f",
         "{STRVAR_1 0, 13, 0} are not allowed to enter.\r",
         "Please come see me when you are ready."
+      ],
+      "fr_FR": [
+        "Je regrette!\n",
+        "Vous n’avez pas {STRVAR_1 50, 0, 0} Pokémon\f",
+        "pouvant participer.\r",
+        "Il vous faut {STRVAR_1 50, 0, 0} Pokémon \n",
+        "différents pour participer.\r",
+        "Ils doivent aussi tenir des\n",
+        "objets différents.\r",
+        "Les Oeufs, {STRVAR_1 0, 1, 0},\n",
+        "{STRVAR_1 0, 2, 0}, {STRVAR_1 0, 3, 0},\r",
+        "{STRVAR_1 0, 4, 0}, {STRVAR_1 0, 5, 0},\n",
+        "{STRVAR_1 0, 6, 0}, {STRVAR_1 0, 7, 0},\r",
+        "{STRVAR_1 0, 8, 0}, {STRVAR_1 0, 9, 0},\n",
+        "{STRVAR_1 0, 10, 0}, {STRVAR_1 0, 11, 0},\r",
+        "{STRVAR_1 0, 12, 0} et {STRVAR_1 0, 13, 0} ne\n",
+        "peuvent pas participer.\r",
+        "Revenez me voir quand \n",
+        "vous aurez ce qu’il faut."
       ]
     },
     {
@@ -875,6 +1434,26 @@
         "{STRVAR_1 0, 13, 0}, and {STRVAR_1 0, 14, 0}\n",
         "are not allowed to enter.\r",
         "Please come see me when you are ready."
+      ],
+      "fr_FR": [
+        "Je regrette!\n",
+        "Vous n’avez pas {STRVAR_1 50, 0, 0} Pokémon\f",
+        "pouvant participer.\r",
+        "Il vous faut {STRVAR_1 50, 0, 0} Pokémon \n",
+        "différents pour participer.\r",
+        "Ils doivent aussi tenir des\n",
+        "objets différents.\r",
+        "Les Oeufs, {STRVAR_1 0, 1, 0},\n",
+        "{STRVAR_1 0, 2, 0}, {STRVAR_1 0, 3, 0},\r",
+        "{STRVAR_1 0, 4, 0}, {STRVAR_1 0, 5, 0},\n",
+        "{STRVAR_1 0, 6, 0}, {STRVAR_1 0, 7, 0},\r",
+        "{STRVAR_1 0, 8, 0}, {STRVAR_1 0, 9, 0},\n",
+        "{STRVAR_1 0, 10, 0}, {STRVAR_1 0, 11, 0},\r",
+        "{STRVAR_1 0, 12, 0}, {STRVAR_1 0, 13, 0} et\n",
+        "{STRVAR_1 0, 14, 0} ne peuvent pas\f",
+        "participer.\r",
+        "Revenez me voir quand \n",
+        "vous aurez ce qu’il faut."
       ]
     },
     {
@@ -895,6 +1474,26 @@
         "{STRVAR_1 0, 13, 0}, {STRVAR_1 0, 14, 0}, and\n",
         "{STRVAR_1 0, 15, 0} are not allowed to enter.\r",
         "Please come see me when you are ready."
+      ],
+      "fr_FR": [
+        "Je regrette!\n",
+        "Vous n’avez pas {STRVAR_1 50, 0, 0} Pokémon\f",
+        "pouvant participer.\r",
+        "Il vous faut {STRVAR_1 50, 0, 0} Pokémon \n",
+        "différents pour participer.\r",
+        "Ils doivent aussi tenir des\n",
+        "objets différents.\r",
+        "Les Oeufs, {STRVAR_1 0, 1, 0},\n",
+        "{STRVAR_1 0, 2, 0}, {STRVAR_1 0, 3, 0},\r",
+        "{STRVAR_1 0, 4, 0}, {STRVAR_1 0, 5, 0},\n",
+        "{STRVAR_1 0, 6, 0}, {STRVAR_1 0, 7, 0},\r",
+        "{STRVAR_1 0, 8, 0}, {STRVAR_1 0, 9, 0},\n",
+        "{STRVAR_1 0, 10, 0}, {STRVAR_1 0, 11, 0},\r",
+        "{STRVAR_1 0, 12, 0}, {STRVAR_1 0, 13, 0},\n",
+        "{STRVAR_1 0, 14, 0} et {STRVAR_1 0, 15, 0} ne\f",
+        "peuvent pas participer.\r",
+        "Revenez me voir quand \n",
+        "vous aurez ce qu’il faut."
       ]
     },
     {
@@ -916,6 +1515,27 @@
         "{STRVAR_1 0, 15, 0}, and {STRVAR_1 0, 16, 0}\f",
         "are not allowed to enter.\r",
         "Please come see me when you are ready."
+      ],
+      "fr_FR": [
+        "Je regrette!\n",
+        "Vous n’avez pas {STRVAR_1 50, 0, 0} Pokémon\f",
+        "pouvant participer.\r",
+        "Il vous faut {STRVAR_1 50, 0, 0} Pokémon \n",
+        "différents pour participer.\r",
+        "Ils doivent aussi tenir des\n",
+        "objets différents.\r",
+        "Les Oeufs, {STRVAR_1 0, 1, 0},\n",
+        "{STRVAR_1 0, 2, 0}, {STRVAR_1 0, 3, 0},\r",
+        "{STRVAR_1 0, 4, 0}, {STRVAR_1 0, 5, 0},\n",
+        "{STRVAR_1 0, 6, 0}, {STRVAR_1 0, 7, 0},\r",
+        "{STRVAR_1 0, 8, 0}, {STRVAR_1 0, 9, 0},\n",
+        "{STRVAR_1 0, 10, 0}, {STRVAR_1 0, 11, 0},\r",
+        "{STRVAR_1 0, 12, 0}, {STRVAR_1 0, 13, 0},\n",
+        "{STRVAR_1 0, 14, 0}, {STRVAR_1 0, 15, 0} et\r",
+        "{STRVAR_1 0, 16, 0} ne peuvent pas\n",
+        "participer.\r",
+        "Revenez me voir quand \n",
+        "vous aurez ce qu’il faut."
       ]
     },
     {
@@ -937,6 +1557,27 @@
         "{STRVAR_1 0, 15, 0}, {STRVAR_1 0, 16, 0}, and\f",
         "{STRVAR_1 0, 17, 0} are not allowed to enter.\r",
         "Please come see me when you are ready."
+      ],
+      "fr_FR": [
+        "Je regrette!\n",
+        "Vous n’avez pas {STRVAR_1 50, 0, 0} Pokémon\f",
+        "pouvant participer.\r",
+        "Il vous faut {STRVAR_1 50, 0, 0} Pokémon \n",
+        "différents pour participer.\r",
+        "Ils doivent aussi tenir des\n",
+        "objets différents.\r",
+        "Les Oeufs, {STRVAR_1 0, 1, 0},\n",
+        "{STRVAR_1 0, 2, 0}, {STRVAR_1 0, 3, 0},\r",
+        "{STRVAR_1 0, 4, 0}, {STRVAR_1 0, 5, 0},\n",
+        "{STRVAR_1 0, 6, 0}, {STRVAR_1 0, 7, 0},\r",
+        "{STRVAR_1 0, 8, 0}, {STRVAR_1 0, 9, 0},\n",
+        "{STRVAR_1 0, 10, 0}, {STRVAR_1 0, 11, 0},\r",
+        "{STRVAR_1 0, 12, 0}, {STRVAR_1 0, 13, 0},\n",
+        "{STRVAR_1 0, 14, 0}, {STRVAR_1 0, 15, 0},\r",
+        "{STRVAR_1 0, 16, 0} et {STRVAR_1 0, 17, 0} ne\n",
+        "peuvent pas participer.\r",
+        "Revenez me voir quand \n",
+        "vous aurez ce qu’il faut."
       ]
     },
     {
@@ -959,6 +1600,28 @@
         "{STRVAR_1 0, 17, 0}, and {STRVAR_1 0, 18, 0}\n",
         "are not allowed to enter.\r",
         "Please come see me when you are ready."
+      ],
+      "fr_FR": [
+        "Je regrette!\n",
+        "Vous n’avez pas {STRVAR_1 50, 0, 0} Pokémon\f",
+        "pouvant participer.\r",
+        "Il vous faut {STRVAR_1 50, 0, 0} Pokémon \n",
+        "différents pour participer.\r",
+        "Ils doivent aussi tenir des\n",
+        "objets différents.\r",
+        "Les Oeufs, {STRVAR_1 0, 1, 0},\n",
+        "{STRVAR_1 0, 2, 0}, {STRVAR_1 0, 3, 0},\r",
+        "{STRVAR_1 0, 4, 0}, {STRVAR_1 0, 5, 0},\n",
+        "{STRVAR_1 0, 6, 0}, {STRVAR_1 0, 7, 0},\r",
+        "{STRVAR_1 0, 8, 0}, {STRVAR_1 0, 9, 0},\n",
+        "{STRVAR_1 0, 10, 0}, {STRVAR_1 0, 11, 0},\r",
+        "{STRVAR_1 0, 12, 0}, {STRVAR_1 0, 13, 0},\n",
+        "{STRVAR_1 0, 14, 0}, {STRVAR_1 0, 15, 0},\r",
+        "{STRVAR_1 0, 16, 0}, {STRVAR_1 0, 17, 0}\n",
+        "et {STRVAR_1 0, 18, 0} ne peuvent pas\f",
+        "participer.\r",
+        "Revenez me voir quand \n",
+        "vous aurez ce qu’il faut."
       ]
     },
     {
@@ -966,6 +1629,10 @@
       "en_US": [
         "Thank you so much for participating!\n",
         "Please come again!"
+      ],
+      "fr_FR": [
+        "Merci d’avoir participé!\n",
+        "Revenez quand vous voulez!"
       ]
     },
     {
@@ -973,18 +1640,24 @@
       "en_US": [
         "There doesn’t appear to be any\n",
         "data yet..."
-      ]
+      ],
+      "fr_FR": "Il n’y a pas de données enregistrées..."
     },
     {
       "id": "BattleTower_Text_LaunchWifiComm",
       "en_US": [
         "DS Wireless Communications will\n",
         "be launched."
+      ],
+      "fr_FR": [
+        "La communication sans fil DS va\n",
+        "démarrer."
       ]
     },
     {
       "id": "BattleTower_Text_LookForwardToNextVisit",
-      "en_US": "We look forward to your next visit.\r"
+      "en_US": "We look forward to your next visit.\r",
+      "fr_FR": "N’hésitez pas à revenir nous voir.\r"
     },
     {
       "id": "BattleTower_Text_JudgeExplanation",
@@ -998,6 +1671,17 @@
         "overall potential of individual Pokémon.\r",
         "If you’d like, I could judge the\n",
         "intriguing potential of your Pokémon.\r"
+      ],
+      "fr_FR": [
+        "Appelle-moi le Juge.\r",
+        "Hé hé, ce n’est pas mon vrai nom, mais\n",
+        "tout le monde m’appelle comme ça.\r",
+        "A cause de mon étrange pouvoir. C’est\n",
+        "de naissance, une sorte de don, quoi.\r",
+        "Je peux évaluer, juger si on veut, le\n",
+        "potentiel global de chaque Pokémon.\r",
+        "Si tu veux, je peux évaluer le potentiel\n",
+        "de tes Pokémon.\r"
       ]
     },
     {
@@ -1005,6 +1689,10 @@
       "en_US": [
         "If you’d like, I could judge the\n",
         "intriguing potential of your Pokémon.\r"
+      ],
+      "fr_FR": [
+        "Si tu veux, je peux évaluer le potentiel\n",
+        "de tes Pokémon.\r"
       ]
     },
     {
@@ -1012,6 +1700,10 @@
       "en_US": [
         "...Oh.\n",
         "You don’t need me to judge. I get it."
+      ],
+      "fr_FR": [
+        "Oh, tu ne tiens pas à ce que j’évalue\n",
+        "quoi que ce soit... Je comprends."
       ]
     },
     {
@@ -1019,6 +1711,10 @@
       "en_US": [
         "Judge an Egg?!\n",
         "That’s a tall order even for me.\r"
+      ],
+      "fr_FR": [
+        "Juger un Oeuf?!\n",
+        "Même moi, je n’en suis pas capable.\r"
       ]
     },
     {
@@ -1028,6 +1724,12 @@
         "This Pokémon’s potential is decent all\n",
         "around.\r",
         "That’s my judgment, and it’s final.\r"
+      ],
+      "fr_FR": [
+        "Je vois...\r",
+        "Ce Pokémon a un potentiel correct à\n",
+        "tous points de vue.\r",
+        "C’est mon verdict, et il est sans appel.\r"
       ]
     },
     {
@@ -1037,6 +1739,12 @@
         "This Pokémon’s potential is above\n",
         "average overall.\r",
         "That’s my judgment, and it’s final.\r"
+      ],
+      "fr_FR": [
+        "Je vois...\r",
+        "Ce Pokémon a un potentiel supérieur à\n",
+        "la moyenne.\r",
+        "C’est mon verdict, et il est sans appel.\r"
       ]
     },
     {
@@ -1046,6 +1754,12 @@
         "This Pokémon has relatively superior\n",
         "potential overall.\r",
         "That’s my judgment, and it’s final.\r"
+      ],
+      "fr_FR": [
+        "Je vois...\r",
+        "Ce Pokémon a un potentiel bien\n",
+        "supérieur à la moyenne.\r",
+        "C’est mon verdict, et il est sans appel.\r"
       ]
     },
     {
@@ -1055,6 +1769,11 @@
         "This Pokémon has outstanding potential\n",
         "overall.\r",
         "That’s my judgment, and it’s final.\r"
+      ],
+      "fr_FR": [
+        "Je vois...\r",
+        "Ce Pokémon a un potentiel exceptionnel.\n",
+        "C’est mon verdict, et il est sans appel.\r"
       ]
     },
     {
@@ -1062,6 +1781,10 @@
       "en_US": [
         "Incidentally, I would say the best\n",
         "potential lies in its HP.\r"
+      ],
+      "fr_FR": [
+        "J’ajoute que son plus grand atout\n",
+        "réside dans ses PV.\r"
       ]
     },
     {
@@ -1069,6 +1792,10 @@
       "en_US": [
         "Incidentally, I would say the best\n",
         "potential lies in its Attack stat.\r"
+      ],
+      "fr_FR": [
+        "J’ajoute que son plus grand atout\n",
+        "réside dans son Attaque.\r"
       ]
     },
     {
@@ -1076,6 +1803,10 @@
       "en_US": [
         "Incidentally, I would say the best\n",
         "potential lies in its Defense stat.\r"
+      ],
+      "fr_FR": [
+        "J’ajoute que son plus grand atout\n",
+        "réside dans sa Défense.\r"
       ]
     },
     {
@@ -1083,6 +1814,10 @@
       "en_US": [
         "Incidentally, I would say the best\n",
         "potential lies in its Sp. Atk stat.\r"
+      ],
+      "fr_FR": [
+        "J’ajoute que son plus grand atout\n",
+        "réside dans son Attaque Spéciale.\r"
       ]
     },
     {
@@ -1090,6 +1825,10 @@
       "en_US": [
         "Incidentally, I would say the best\n",
         "potential lies in its Sp. Def stat.\r"
+      ],
+      "fr_FR": [
+        "J’ajoute que son plus grand atout\n",
+        "réside dans sa Défense Spéciale.\r"
       ]
     },
     {
@@ -1097,6 +1836,10 @@
       "en_US": [
         "Incidentally, I would say the best\n",
         "potential lies in its Speed stat.\r"
+      ],
+      "fr_FR": [
+        "J’ajoute que son plus grand atout\n",
+        "réside dans sa Vitesse.\r"
       ]
     },
     {
@@ -1104,6 +1847,10 @@
       "en_US": [
         "It’s rather decent in that regard.\n",
         "That’s how I judged it."
+      ],
+      "fr_FR": [
+        "D’après mon évaluation, il est assez\n",
+        "correct à ce niveau-là."
       ]
     },
     {
@@ -1111,6 +1858,10 @@
       "en_US": [
         "It’s very good in that regard.\n",
         "That’s how I judged it."
+      ],
+      "fr_FR": [
+        "D’après mon évaluation, il est très\n",
+        "bien à ce niveau-là."
       ]
     },
     {
@@ -1118,6 +1869,10 @@
       "en_US": [
         "It’s fantastic in that regard.\n",
         "That’s how I judged it."
+      ],
+      "fr_FR": [
+        "D’après mon évaluation, il est\n",
+        "fantastique à ce niveau-là."
       ]
     },
     {
@@ -1125,6 +1880,10 @@
       "en_US": [
         "It can’t be better in that regard.\n",
         "That’s how I judged it."
+      ],
+      "fr_FR": [
+        "D’après mon évaluation, il est au top\n",
+        "à ce niveau-là."
       ]
     },
     {
@@ -1132,6 +1891,10 @@
       "en_US": [
         "A Ribbon will be awarded to the\n",
         "participating Pokémon!"
+      ],
+      "fr_FR": [
+        "Les Pokémon ayant participé gagnent\n",
+        "un Ruban!"
       ]
     }
   ]

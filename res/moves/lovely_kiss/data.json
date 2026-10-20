@@ -26,5 +26,13 @@
     "contest": {
         "effect": "CONTEST_EFFECT_NO_VOLTAGE_DOWN",
         "type": "CONTEST_TYPE_BEAUTY"
-    }
+    },
+    "name_fr": "Grobisou",
+    "description_fr": [
+        "Le lanceur fait un\n",
+        "bisou à l’ennemi en\n",
+        "prenant une mine\n",
+        "effrayante. Peut\n",
+        "endormir l’ennemi."
+    ]
 }

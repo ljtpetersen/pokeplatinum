@@ -32,6 +32,10 @@
             "en_US": [
                 "Zac: Jen, watch this! I’m going to\n",
                 "use everything you’ve taught me!\r"
+            ],
+            "fr_FR": [
+                "Jan: Zoé, regarde un peu! Je vais\n",
+                "utiliser tout ce que tu m’as appris!\r"
             ]
         },
         {
@@ -39,6 +43,10 @@
             "en_US": [
                 "Zac: Wow. Someone that’s even\n",
                 "better than Jen...\n"
+            ],
+            "fr_FR": [
+                "Jan: Waouh. Il existe des gens\n",
+                "meilleurs que Zoé...\n"
             ]
         },
         {
@@ -47,6 +55,12 @@
                 "Zac: I don’t care if I get to meet\n",
                 "the greatest Trainer in the region...\f",
                 "I’d still rather learn from Jen.\n"
+            ],
+            "fr_FR": [
+                "Jan: Je me fiche bien de rencontrer\n",
+                "le meilleur Dresseur de la région...\r",
+                "Je préfère encore apprendre\n",
+                "auprès de Zoé.\n"
             ]
         },
         {
@@ -56,6 +70,13 @@
                 "the two of us at the same time?\r",
                 "What I mean is, do you have two or more\n",
                 "Pokémon with you?\n"
+            ],
+            "fr_FR": [
+                "Jan: Tu ne préfèrerais pas combattre\n",
+                "contre nous deux?\r",
+                "Enfin pour ça, il faudrait que tu\n",
+                "aies deux Pokémon, évidemment.\n",
+                "\n"
             ]
         },
         {
@@ -63,6 +84,10 @@
             "en_US": [
                 "Zac: This time, I’m not gonna let you\n",
                 "down, Jen! I promise!\r"
+            ],
+            "fr_FR": [
+                "Jan: Cette fois, je ne te laisserai pas\n",
+                "tomber, Zoé! Promis, juré!\r"
             ]
         },
         {
@@ -70,6 +95,10 @@
             "en_US": [
                 "Jen: Here comes a Trainer.\n",
                 "Zac, you ready? Let’s do this!\r"
+            ],
+            "fr_FR": [
+                "Zoé: Voilà un Dresseur.\n",
+                "Jan, tu es prêt? Allons-y!\r"
             ]
         },
         {
@@ -77,6 +106,10 @@
             "en_US": [
                 "Jen: I just got embarrassed in front\n",
                 "of my little buddy here...\n"
+            ],
+            "fr_FR": [
+                "Zoé: Je viens de me faire ridiculiser\n",
+                "devant mon petit copain...\n"
             ]
         },
         {
@@ -84,6 +117,10 @@
             "en_US": [
                 "Jen: Zac, I’m so sorry.\n",
                 "I’m a failure as your instructor.\n"
+            ],
+            "fr_FR": [
+                "Zoé: Jan, je suis vraiment désolée.\n",
+                "Je suis une mauvaise instructrice.\n"
             ]
         },
         {
@@ -91,6 +128,10 @@
             "en_US": [
                 "Jen: Would you like to have a\n",
                 "two-on-two Pokémon battle with us?\n"
+            ],
+            "fr_FR": [
+                "Zoé: Que dirais-tu d’un petit combat en\n",
+                "deux contre deux, avec nous?\n"
             ]
         },
         {
@@ -98,7 +139,12 @@
             "en_US": [
                 "Jen: Here comes our Trainer!\n",
                 "Are you ready this time?\r"
+            ],
+            "fr_FR": [
+                "Zoé: Voilà notre Dresseur! Alors, \n",
+                "tu te sens d’attaque, cette fois?\r"
             ]
         }
-    ]
+    ],
+    "name_fr": "Jan & Zoé"
 }

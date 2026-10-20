@@ -7,6 +7,11 @@
         "A Poké Ball that makes it easy to\n",
         "catch the same kinds of Pokémon...\r",
         "Well, that’s the Repeat Ball!"
+      ],
+      "fr_FR": [
+        "Une Poké Ball qui permet d’attraper\n",
+        "facilement le même type de Pokémon...\r",
+        "Oui, c’est la Bis Ball!"
       ]
     },
     {
@@ -17,6 +22,14 @@
         "I’m sure they’d appreciate it.\r",
         "It can be rough out there, especially\n",
         "since there’s no Pokémon Center."
+      ],
+      "fr_FR": [
+        "Je devrais emmener un Rappel à chaque\n",
+        "Dresseur s’entraînant sur l’Ile de Fer.\r",
+        "Je suis sûre qu’ils m’en seraient\n",
+        "reconnaissants.\r",
+        "C’est un endroit hostile, d’autant plus\n",
+        "qu’il n’y a pas de Centre Pokémon."
       ]
     }
   ]

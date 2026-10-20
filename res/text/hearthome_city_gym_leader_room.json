@@ -18,6 +18,22 @@
         "challenge me.\r",
         "But I shall win.\n",
         "That is what a Gym Leader does, non?\r"
+      ],
+      "fr_FR": [
+        "{SIZE 200}Ohohoho!!!{SIZE 100}\r",
+        "Enfin, te voilà darling!\r",
+        "Depuis mon arrivée dans ce country, \n",
+        "j’essaie de progresser chaque jour.\r",
+        "Ils font Concours dans cette ville?\n",
+        "Je me dis, marvellous, je vais gagner.\r",
+        "C’est pourquoi j’ai choisi cet habit.\n",
+        "C’est paillettes, show business!\r",
+        "Sinon, j’étudie Pokémon très dur.\n",
+        "J’ai réussi devenir Champion d’Arène.\r",
+        "Et, euh, on dirait que tu veux\n",
+        "me défier.\r",
+        "Mais je remporterai la victory. C’est le\n",
+        "travail du Champion d’Arène, isn’t it?\r"
       ]
     },
     {
@@ -28,6 +44,13 @@
         "You, your Pokémon, so strong!\r",
         "Your power is admirable!\n",
         "I shall honor it with this Gym Badge!\r"
+      ],
+      "fr_FR": [
+        "Je suis stupéfied!\r",
+        "Vraiment, très, très fort!\n",
+        "Toi, tes Pokémon, very étonnants!\r",
+        "Une puissance gigantic!\n",
+        "Tu as bien mérité ce Badge d’Arène!\r"
       ]
     },
     {
@@ -35,6 +58,10 @@
       "en_US": [
         "{STRVAR_1 3, 0, 0} received\n",
         "the Relic Badge from Fantina!"
+      ],
+      "fr_FR": [
+        "{STRVAR_1 3, 0, 0} obtient le\n",
+        "Badge Fantôme de Kiméra!"
       ]
     },
     {
@@ -45,6 +72,14 @@
         "Also, you can make use of this\n",
         "Technical Machine.\r",
         "That is what I think.\r"
+      ],
+      "fr_FR": [
+        "Grâce à ce Badge, tes Pokémon peuvent\n",
+        "utiliser le capacité Anti-Brume, hors\f",
+        "combat, now.\r",
+        "Tu peux also te servir de\n",
+        "cette Capsule Technique.\r",
+        "Je dis, il sera très utile à toi.\r"
       ]
     },
     {
@@ -54,6 +89,12 @@
         "It contains {STRVAR_1 6, 1, 0}.\r",
         "A very startling move it is.\n",
         "Its hits turn critical often!"
+      ],
+      "fr_FR": [
+        "La {STRVAR_1 8, 0, 0}...\n",
+        "Elle contient {STRVAR_1 6, 1, 0}.\r",
+        "C’est une capacité très frightening.\n",
+        "Lots of coups critiques!"
       ]
     },
     {
@@ -66,6 +107,15 @@
         "There are many more in Sinnoh.\r",
         "Have patience! You must become\n",
         "stronger, one at a time."
+      ],
+      "fr_FR": [
+        "Trois Badges d’Arène...\r",
+        "Mais n’oublie pas ça.\n",
+        "Il y a beaucoup autres Dresseurs.\r",
+        "Dresseurs very coriaces, aussi.\n",
+        "Ils sont nombreux dans Sinnoh.\r",
+        "Patience et persévérance. Chaque\n",
+        "chose en son time."
       ]
     },
     {

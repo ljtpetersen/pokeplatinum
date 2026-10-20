@@ -27,5 +27,13 @@
   "fieldUseFunc": "ITEM_USE_FUNC_TM_HM",
   "battleUseCategory": "BATTLE_USE_CATEGORY_NONE",
   "itemUseParams": null,
-  "teachesMove": "MOVE_THUNDER_WAVE"
+  "teachesMove": "MOVE_THUNDER_WAVE",
+  "name_fr": "CT73",
+  "description_fr": [
+    "Un faible choc électrique frappe\n",
+    "l’ennemi. Si l’attaque touche, l’ennemi\n",
+    "est paralysé."
+  ],
+  "plural_fr": "CT73",
+  "article_fr": null
 }

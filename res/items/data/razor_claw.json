@@ -26,5 +26,12 @@
   "battlePocket": "BATTLE_POCKET_MASK_NONE",
   "fieldUseFunc": "ITEM_USE_FUNC_NONE",
   "battleUseCategory": "BATTLE_USE_CATEGORY_NONE",
-  "itemUseParams": null
+  "itemUseParams": null,
+  "name_fr": "Grif. Rasoir",
+  "description_fr": [
+    "Objet à tenir. Griffe crochue et pointue\n",
+    "augmentant le taux de critiques."
+  ],
+  "plural_fr": "Grif. Rasoir",
+  "article_fr": null
 }

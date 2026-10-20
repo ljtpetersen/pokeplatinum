@@ -83,18 +83,28 @@
             "en_US": [
                 "My big brother told me to go for the\n",
                 "eyes! Aim for the eyes!"
+            ],
+            "fr_FR": [
+                "Mon grand frère m’a donné une\n",
+                "astuce: trouver le point faible!"
             ]
         },
         {
             "type": "TRMSG_WIN",
-            "en_US": "I did it, big brother!\r"
+            "en_US": "I did it, big brother!\r",
+            "fr_FR": "J’ai réussi, frérot!\r"
         },
         {
             "type": "TRMSG_DEFEAT",
             "en_US": [
                 "My big brother told me to wreck the\n",
                 "other Trainer’s accuracy!\r"
+            ],
+            "fr_FR": [
+                "Mon grand frère va encore se moquer\n",
+                "de moi!\r"
             ]
         }
-    ]
+    ],
+    "name_fr": "Barth"
 }

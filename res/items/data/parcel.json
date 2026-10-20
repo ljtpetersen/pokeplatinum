@@ -26,5 +26,13 @@
   "battlePocket": "BATTLE_POCKET_MASK_NONE",
   "fieldUseFunc": "ITEM_USE_FUNC_NONE",
   "battleUseCategory": "BATTLE_USE_CATEGORY_NONE",
-  "itemUseParams": null
+  "itemUseParams": null,
+  "name_fr": "Colis",
+  "description_fr": [
+    "Paquet qu’on vous a confié. Vous devez\n",
+    "le remettre à votre ami d’enfance qui a\n",
+    "quitté Bonaugure."
+  ],
+  "plural_fr": "Colis",
+  "article_fr": null
 }

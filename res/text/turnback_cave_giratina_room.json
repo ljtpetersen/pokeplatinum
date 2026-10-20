@@ -3,11 +3,13 @@
   "messages": [
     {
       "id": "TurnbackCaveGiratinaRoom_Text_GiratinaCry",
-      "en_US": "...Bishaan!\r"
+      "en_US": "...Bishaan!\r",
+      "fr_FR": "Giraaa!\r"
     },
     {
       "id": "TurnbackCaveGiratinaRoom_Text_GiratinaDisappeared",
-      "en_US": "GIRATINA disappeared..."
+      "en_US": "GIRATINA disappeared...",
+      "fr_FR": "GIRATINA a disparu..."
     },
     {
       "id": "TurnbackCaveGiratinaRoom_Text_GoToDistortionWorld",
@@ -16,11 +18,17 @@
         "Distortion World...\r",
         "Would you like to leap into the portal\n",
         "and go to the Distortion World?"
+      ],
+      "fr_FR": [
+        "Un portail vers le Monde Distorsion...\r",
+        "Emprunter le passage pour rejoindre le\n",
+        "Monde Distorsion?"
       ]
     },
     {
       "id": "TurnbackCaveGiratinaRoom_Text_PlayerLeaptIntoPortal",
-      "en_US": "{STRVAR_1 3, 0, 0} leapt into the portal.\r"
+      "en_US": "{STRVAR_1 3, 0, 0} leapt into the portal.\r",
+      "fr_FR": "{STRVAR_1 3, 0, 0} a emprunté le passage.\r"
     },
     {
       "id": "TurnbackCaveGiratinaRoom_Text_PlaceWhereWorldsOverlap",
@@ -29,6 +37,13 @@
         "That where life sparkles...\n",
         "That where life has faded...\r",
         "A place where two worlds overlap..."
+      ],
+      "fr_FR": [
+        "C’est ici...\r",
+        "Que naît l’étincelle de vie...\n",
+        "Que la vie s’éteint...\r",
+        "Un lieu où deux mondes \n",
+        "se rencontrent..."
       ]
     }
   ]

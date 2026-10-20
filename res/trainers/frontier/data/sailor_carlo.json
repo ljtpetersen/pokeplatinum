@@ -77,6 +77,10 @@
             "en_US": [
                 "You’re a Trainer.\n",
                 "Let your Pokémon do the talking."
+            ],
+            "fr_FR": [
+                "Tu es un Dresseur. Montre-moi ce que\n",
+                "tu sais faire avec des Pokémon."
             ]
         },
         {
@@ -84,6 +88,10 @@
             "en_US": [
                 "Where’s your spirit?\n",
                 "That didn’t speak to me at all.\r"
+            ],
+            "fr_FR": [
+                "Et alors? C’est tout ce que\n",
+                "tu sais faire?\r"
             ]
         },
         {
@@ -91,7 +99,12 @@
             "en_US": [
                 "Great! Great!\n",
                 "Your feelings came across!\r"
+            ],
+            "fr_FR": [
+                "Super! Excellent!\n",
+                "C’est bon, ça!\r"
             ]
         }
-    ]
+    ],
+    "name_fr": "Thai"
 }

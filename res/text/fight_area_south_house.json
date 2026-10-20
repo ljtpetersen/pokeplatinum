@@ -13,6 +13,18 @@
         "Places like the Fight Area and the\n",
         "Survival Area just seemed to spring\f",
         "up overnight."
+      ],
+      "fr_FR": [
+        "A l’époque, le Secteur Combat\n",
+        "n’attirait que les Dresseurs les\f",
+        "plus chevronnés.\r",
+        "On disait même qu’ils étaient fous de\n",
+        "se retrouver dans un endroit pareil.\r",
+        "Et maintenant, regarde comme \n",
+        "ça a changé...\r",
+        "Des endroits comme l’Aire de \n",
+        "Survie ou l’Aire de Combat sont\f",
+        "apparus du jour au lendemain."
       ]
     },
     {
@@ -21,11 +33,17 @@
         "He was one of those early eccentrics\n",
         "who were around during the early days\r",
         "of the Battle Zone. Well, I was too."
+      ],
+      "fr_FR": [
+        "Il faisait partie de ces Dresseurs\n",
+        "fous...\r",
+        "Moi aussi, d’ailleurs..."
       ]
     },
     {
       "id": "FightAreaSouthHouse_Text_TorchicCry",
-      "en_US": "TORCHIC: Chiic chic!"
+      "en_US": "TORCHIC: Chiic chic!",
+      "fr_FR": "POUSSIFEU: Poussiii poussiii!"
     },
     {
       "id": "FightAreaSouthHouse_Text_IAmTheItemExpert",
@@ -38,6 +56,16 @@
         "stronger they become.\r",
         "There are items that are worthy of my\n",
         "recommendation. Care to know?\r"
+      ],
+      "fr_FR": [
+        "Je suis l’Expert ès objets! Je sais\n",
+        "tout ce qu’il y a à savoir sur eux!\r",
+        "Tes Pokémon tiennent-ils des\n",
+        "objets?\r",
+        "Plus l’objet tenu est efficace, plus\n",
+        "le porteur gagne en force.\r",
+        "Certains objets méritent qu’on s’y\n",
+        "arrête. Tu veux en savoir plus?\r"
       ]
     },
     {
@@ -45,6 +73,10 @@
       "en_US": [
         "Which item would you like me to\n",
         "describe?"
+      ],
+      "fr_FR": [
+        "Sur quel objet dois-je éclairer ta\n",
+        "lanterne?"
       ]
     },
     {
@@ -56,6 +88,13 @@
         "depend on your battle strategy.\r",
         "All I can say in conclusion is that\n",
         "you’ll never know until you try!"
+      ],
+      "fr_FR": [
+        "Il existe beaucoup d’autres objets.\r",
+        "Les types d’objets à tenir dépendent\n",
+        "de la stratégie adoptée en combat.\r",
+        "En conclusion, il vaut mieux les essayer\n",
+        "avant de faire un choix!"
       ]
     },
     {
@@ -68,6 +107,15 @@
         "sort of thing.\r",
         "It’s a berry, though, so it’s gone if\n",
         "it’s used.\r"
+      ],
+      "fr_FR": [
+        "La Baie Prine!\r",
+        "Elle soigne instantanément tous les\n",
+        "problèmes de statut du porteur.\r",
+        "Comme le sommeil, la paralysie, la\n",
+        "confusion, et j’en passe.\r",
+        "Comme toutes les Baies, elle disparaît\n",
+        "après utilisation.\r"
       ]
     },
     {
@@ -80,6 +128,14 @@
         "attack like that leaving just one HP.\r",
         "Being able to get one turn in has huge\n",
         "implications for battle strategists!\r"
+      ],
+      "fr_FR": [
+        "La Ceint. Force!\r",
+        "S’il est en pleine santé, le porteur ne\n",
+        "peut pas tomber K.O. en un coup.\r",
+        "Il survivra et il lui restera un PV.\r",
+        "En combat, gagner un tour peut\n",
+        "s’avérer décisif!\r"
       ]
     },
     {
@@ -90,6 +146,13 @@
         "super-effective move to 120%.\r",
         "It’d be useful for a Pokémon that knows\n",
         "different types of moves.\r"
+      ],
+      "fr_FR": [
+        "La Ceinture Pro!\r",
+        "Elle augmente de 20% la puissance des\n",
+        "capacités super efficaces.\r",
+        "Très utile pour les Pokémon disposant\n",
+        "de divers types de capacités.\r"
       ]
     },
     {
@@ -100,6 +163,13 @@
         "all the Pokémon’s moves to 130%!\r",
         "However! It also takes 10% of the\n",
         "holder’s HP every time a move is used.\r"
+      ],
+      "fr_FR": [
+        "L’Orbe Vie!\r",
+        "Elle augmente de 30% la puissance de\n",
+        "toutes les capacités du porteur!\r",
+        "Cependant, celui-ci perd 10% de ses PV\n",
+        "chaque fois qu’il utilise une capacité.\r"
       ]
     },
     {
@@ -110,6 +180,13 @@
         "Pokémon to 150%!\r",
         "However, and beware of this, it will\n",
         "only allow one move to be used.\r"
+      ],
+      "fr_FR": [
+        "Le Mouch. Choix!\r",
+        "Il augmente de 50% la Vitesse du\n",
+        "porteur!\r",
+        "En revanche, ce dernier ne pourra\n",
+        "utiliser qu’une seule de ses capacités.\r"
       ]
     },
     {
@@ -120,6 +197,13 @@
         "of the Pokémon to 150%.\r",
         "Beware, it has no effect on the Special\n",
         "Attack stat. Make no mistake of it.\r"
+      ],
+      "fr_FR": [
+        "Le Band. Choix!\r",
+        "Il augmente de 50% l’Attaque du\n",
+        "porteur.\r",
+        "Par contre, il n’a aucun impact sur\n",
+        "l’Attaque Spéciale. A ne pas confondre.\r"
       ]
     },
     {
@@ -130,6 +214,13 @@
         "stat of the Pokémon to 150%.\r",
         "Beware, it has no effect on the Attack\n",
         "stat. Make no mistake of it.\r"
+      ],
+      "fr_FR": [
+        "Les Lunet. Choix!\r",
+        "Elles augmentent de 50% l’Attaque\n",
+        "Spéciale du porteur.\r",
+        "Par contre, elles n’ont aucun impact\n",
+        "sur l’Attaque.\r"
       ]
     },
     {
@@ -141,43 +232,59 @@
         "restores HP by about 6%.\r",
         "The recovered HP could well be the\n",
         "difference in a tight battle.\r"
+      ],
+      "fr_FR": [
+        "Les Restes!\r",
+        "Le porteur voit ses PV restaurés de\n",
+        "6% à la fin de chaque tour.\r",
+        "Cela peut suffire à faire la différence\n",
+        "en combat.\r"
       ]
     },
     {
       "id": "FightAreaSouthHouse_Text_LumBerry",
-      "en_US": "LUM BERRY"
+      "en_US": "LUM BERRY",
+      "fr_FR": "BAIE PRINE"
     },
     {
       "id": "FightAreaSouthHouse_Text_FocusSash",
-      "en_US": "FOCUS SASH"
+      "en_US": "FOCUS SASH",
+      "fr_FR": "CEINT. FORCE"
     },
     {
       "id": "FightAreaSouthHouse_Text_ExpertBelt",
-      "en_US": "EXPERT BELT"
+      "en_US": "EXPERT BELT",
+      "fr_FR": "CEINTURE PRO"
     },
     {
       "id": "FightAreaSouthHouse_Text_LifeOrb",
-      "en_US": "LIFE ORB"
+      "en_US": "LIFE ORB",
+      "fr_FR": "ORBE VIE"
     },
     {
       "id": "FightAreaSouthHouse_Text_ChoiceScarf",
-      "en_US": "CHOICE SCARF"
+      "en_US": "CHOICE SCARF",
+      "fr_FR": "MOUCH. CHOIX"
     },
     {
       "id": "FightAreaSouthHouse_Text_ChoiceBand",
-      "en_US": "CHOICE BAND"
+      "en_US": "CHOICE BAND",
+      "fr_FR": "BAND. CHOIX"
     },
     {
       "id": "FightAreaSouthHouse_Text_ChoiceSpecs",
-      "en_US": "CHOICE SPECS"
+      "en_US": "CHOICE SPECS",
+      "fr_FR": "LUNET. CHOIX"
     },
     {
       "id": "FightAreaSouthHouse_Text_Leftovers",
-      "en_US": "LEFTOVERS"
+      "en_US": "LEFTOVERS",
+      "fr_FR": "RESTES"
     },
     {
       "id": "FightAreaSouthHouse_Text_Exit",
-      "en_US": "EXIT"
+      "en_US": "EXIT",
+      "fr_FR": "ANNULER"
     }
   ]
 }

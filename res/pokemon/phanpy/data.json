@@ -7,7 +7,10 @@
         "special_attack": 40,
         "special_defense": 40
     },
-    "types": [ "TYPE_GROUND", "TYPE_GROUND" ],
+    "types": [
+        "TYPE_GROUND",
+        "TYPE_GROUND"
+    ],
     "catch_rate": 120,
     "base_exp_reward": 124,
     "ev_yields": {
@@ -26,27 +29,72 @@
     "hatch_cycles": 20,
     "base_friendship": 70,
     "exp_rate": "EXP_RATE_MEDIUM_FAST",
-    "egg_groups": [ "EGG_GROUP_FIELD", "EGG_GROUP_FIELD" ],
-    "abilities": [ "ABILITY_PICKUP", "ABILITY_NONE" ],
+    "egg_groups": [
+        "EGG_GROUP_FIELD",
+        "EGG_GROUP_FIELD"
+    ],
+    "abilities": [
+        "ABILITY_PICKUP",
+        "ABILITY_NONE"
+    ],
     "safari_flee_rate": 0,
     "body_color": "MON_COLOR_BLUE",
     "flip_sprite": false,
     "icon_palette": 0,
     "learnset": {
         "by_level": [
-            [ 1, "MOVE_ODOR_SLEUTH" ],
-            [ 1, "MOVE_TACKLE" ],
-            [ 1, "MOVE_GROWL" ],
-            [ 1, "MOVE_DEFENSE_CURL" ],
-            [ 6, "MOVE_FLAIL" ],
-            [ 10, "MOVE_TAKE_DOWN" ],
-            [ 15, "MOVE_ROLLOUT" ],
-            [ 19, "MOVE_NATURAL_GIFT" ],
-            [ 24, "MOVE_SLAM" ],
-            [ 28, "MOVE_ENDURE" ],
-            [ 33, "MOVE_CHARM" ],
-            [ 37, "MOVE_LAST_RESORT" ],
-            [ 42, "MOVE_DOUBLE_EDGE" ]
+            [
+                1,
+                "MOVE_ODOR_SLEUTH"
+            ],
+            [
+                1,
+                "MOVE_TACKLE"
+            ],
+            [
+                1,
+                "MOVE_GROWL"
+            ],
+            [
+                1,
+                "MOVE_DEFENSE_CURL"
+            ],
+            [
+                6,
+                "MOVE_FLAIL"
+            ],
+            [
+                10,
+                "MOVE_TAKE_DOWN"
+            ],
+            [
+                15,
+                "MOVE_ROLLOUT"
+            ],
+            [
+                19,
+                "MOVE_NATURAL_GIFT"
+            ],
+            [
+                24,
+                "MOVE_SLAM"
+            ],
+            [
+                28,
+                "MOVE_ENDURE"
+            ],
+            [
+                33,
+                "MOVE_CHARM"
+            ],
+            [
+                37,
+                "MOVE_LAST_RESORT"
+            ],
+            [
+                42,
+                "MOVE_DOUBLE_EDGE"
+            ]
         ],
         "by_tm": [
             "TM05",
@@ -176,6 +224,18 @@
                 "からだは　ちいさいが　ちからもち。\n",
                 "おとなの　ひとを　かるがると\n",
                 "せなかに　のせて　あるいてしまう。"
+            ]
+        },
+        "local_version": {
+            "entry_text": [
+                "It is strong despite its compact\n",
+                "size. It can easily pick up and\n",
+                "carry an adult human on its back."
+            ],
+            "entry_text_fr": [
+                "Il est fort malgré son aspect\n",
+                "ramassé. Il n’a aucun mal à porter\n",
+                "un humain adulte sur son dos."
             ]
         }
     },

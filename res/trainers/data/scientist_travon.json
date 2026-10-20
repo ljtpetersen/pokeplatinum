@@ -30,11 +30,18 @@
                 "operations without question.\r",
                 "It is all for the new world order\n",
                 "that our boss will lead!\r"
+            ],
+            "fr_FR": [
+                "Notre mission est d’exécuter nos\n",
+                "opérations sans poser de questions.\r",
+                "Nous devons tout faire pour que notre\n",
+                "chef instaure un nouvel ordre mondial!\r"
             ]
         },
         {
             "type": "TRMSG_DEFEAT",
-            "en_US": "This won’t go unpunished...\n"
+            "en_US": "This won’t go unpunished...\n",
+            "fr_FR": "Ça ne restera pas impuni...\n"
         },
         {
             "type": "TRMSG_POST_BATTLE",
@@ -45,7 +52,17 @@
                 "about.\r",
                 "It’s wonder, compassion, splendor,\n",
                 "humor, power, awe, and tragedy!\n"
+            ],
+            "fr_FR": [
+                "Je suis prêt à tout pour obtenir une\n",
+                "promotion au sein de la Team Galaxie.\r",
+                "Un jour, tu comprendras notre\n",
+                "philosophie.\r",
+                "Rêve, compassion, gloire, humour,\n",
+                "pouvoir, respect et un certain goût\f",
+                "pour le théâtral, voilà nos valeurs!\n"
             ]
         }
-    ]
+    ],
+    "name_fr": "Nico"
 }

@@ -28,5 +28,12 @@
   "battleUseCategory": "BATTLE_USE_CATEGORY_HEALING",
   "itemUseParams": {
     "hpRestored": 20
-  }
+  },
+  "name_fr": "Jus de Baie",
+  "description_fr": [
+    "Une boisson 100% pur jus de Baies.\n",
+    "Restaure 20 PV à un Pokémon."
+  ],
+  "plural_fr": "Jus de Baie",
+  "article_fr": null
 }

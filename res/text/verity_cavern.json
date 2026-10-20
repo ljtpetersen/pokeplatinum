@@ -3,11 +3,13 @@
   "messages": [
     {
       "id": "VerityCavern_Text_MespritCry",
-      "en_US": "Kyauun.\r"
+      "en_US": "Kyauun.\r",
+      "fr_FR": "Créééfollet.\r"
     },
     {
       "id": "VerityCavern_Text_MespritFlewOff",
-      "en_US": "MESPRIT flew off somewhere...\r"
+      "en_US": "MESPRIT flew off somewhere...\r",
+      "fr_FR": "CREFOLLET s’est envolé...\r"
     },
     {
       "id": "VerityCavern_Text_RowanThatWasMesprit",
@@ -28,6 +30,24 @@
         "mystery.\r",
         "But having mysteries to solve...\n",
         "That adds to my enjoyment!\r"
+      ],
+      "fr_FR": [
+        "Sorbier: ...\n",
+        "...\r",
+        "{STRVAR_1 3, 0, 0}, c’était CREFOLLET,\n",
+        "n’est-ce pas?\r",
+        "Tu as fait ce que je t’avais demandé à \n",
+        "la Bibliothèque de Joliberges...\r",
+        "Tu as pu trouver des informations \n",
+        "sur les Pokémon du lac.\r",
+        "Mais ça ne m’a pas apporté de réponse \n",
+        "concernant les mystères de l’évolution.\r",
+        "Je ne sais pas pourquoi certains \n",
+        "Pokémon évoluent et d’autres non.\r",
+        "En fait, le mystère est encore \n",
+        "plus grand maintenant.\r",
+        "Mais trouver la clé d’un grand \n",
+        "mystère... Voilà un défi qui me plaît!\r"
       ]
     },
     {
@@ -40,6 +60,14 @@
         "If you were to use the Pokétch app\n",
         "Marking Map, you’d be able to\f",
         "track the movements of Pokémon.\r"
+      ],
+      "fr_FR": [
+        "{STRVAR_1 3, 0, 0}, pourquoi tu ne \n",
+        "poursuivrais pas CREFOLLET?\r",
+        "J’ai comme l’impression qu’il \n",
+        "avait envie de jouer avec toi.\r",
+        "Tu pourrais le suivre à la trace grâce\n",
+        "au logiciel Pokémontre Carte Repères.\r"
       ]
     },
     {
@@ -49,6 +77,12 @@
         "You don’t have the Marking Map?\r",
         "...You should occasionally pay visits\n",
         "to the Pokétch Company, you know.\r"
+      ],
+      "fr_FR": [
+        "Quoi?\n",
+        "Tu n’as pas le logiciel Carte Repères?\r",
+        "Tu devrais aller faire un tour à la\n",
+        "Pokémontre S.A. de temps en temps...\r"
       ]
     },
     {
@@ -61,6 +95,15 @@
         "you in their own special ways.\r",
         "I hope you’ll enjoy that experience!\n",
         "Take care, {STRVAR_1 3, 0, 0}.\r"
+      ],
+      "fr_FR": [
+        "Va, {STRVAR_1 3, 0, 0}.\r",
+        "Je suis sûr que tu vas rencontrer plein \n",
+        "de gens et de Pokémon sur ta route.\r",
+        "Tu vas voir comme ces \n",
+        "découvertes sont enrichissantes.\r",
+        "Je sens que cette vie va te plaire!\n",
+        "Fais bien attention à toi, {STRVAR_1 3, 0, 0}.\r"
       ]
     }
   ]

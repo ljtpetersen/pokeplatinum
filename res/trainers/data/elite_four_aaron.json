@@ -89,6 +89,10 @@
             "en_US": [
                 "It’s not over yet!\n",
                 "A League Elite Four cannot give up!\n"
+            ],
+            "fr_FR": [
+                "Ce n’est pas encore fini! Un membre\n",
+                "du Conseil 4 n’abandonne jamais!\n"
             ]
         },
         {
@@ -101,7 +105,18 @@
                 "up against in the Pokémon League.\r",
                 "Battling is a deep and complex\n",
                 "affair...\n"
+            ],
+            "fr_FR": [
+                "J’accepte ma défaite.\r",
+                "Mais je crois que tu as pu voir à\n",
+                "quel point les Pokémon de type\f",
+                "Insecte sont forts.\r",
+                "J’espère que tu réalises aussi que tu\n",
+                "es à la Ligue Pokémon.\r",
+                "Le combat est une chose profonde et\n",
+                "complexe...\n"
             ]
         }
-    ]
+    ],
+    "name_fr": "Aaron"
 }

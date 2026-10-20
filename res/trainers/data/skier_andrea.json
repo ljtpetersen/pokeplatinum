@@ -23,11 +23,19 @@
             "en_US": [
                 "How do you expect to battle in this\n",
                 "heavy snow?\r"
+            ],
+            "fr_FR": [
+                "Comment comptes-tu te battre avec\n",
+                "cette neige épaisse?\r"
             ]
         },
         {
             "type": "TRMSG_DEFEAT",
-            "en_US": "The winds of victory shifted...\n"
+            "en_US": "The winds of victory shifted...\n",
+            "fr_FR": [
+                "Les vents de la victoire ont changé de\n",
+                "cap..."
+            ]
         },
         {
             "type": "TRMSG_POST_BATTLE",
@@ -36,6 +44,12 @@
                 "so full of energy.\r",
                 "I guess you kids are made tougher\n",
                 "than people my age.\n"
+            ],
+            "fr_FR": [
+                "Il fait froid ici, pourtant tu\n",
+                "as l’air en pleine forme.\r",
+                "Les jeunes de maintenant sont bien\n",
+                "plus résistants qu’avant."
             ]
         },
         {
@@ -43,7 +57,12 @@
             "en_US": [
                 "Why would you wander around here?\n",
                 "You must really like this area.\r"
+            ],
+            "fr_FR": [
+                "Pourquoi tu te promènes dans ce coin?\n",
+                "Tu dois vraiment aimer cette région.\r"
             ]
         }
-    ]
+    ],
+    "name_fr": "Geneviève"
 }

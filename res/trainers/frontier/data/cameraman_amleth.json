@@ -59,6 +59,10 @@
             "en_US": [
                 "While battling, I’ll keep looking for the\n",
                 "best shot of you."
+            ],
+            "fr_FR": [
+                "Durant le combat, j’essaierai de cadrer\n",
+                "ton meilleur profil."
             ]
         },
         {
@@ -66,6 +70,10 @@
             "en_US": [
                 "There! And there again!\n",
                 "Decisive moments in time!\r"
+            ],
+            "fr_FR": [
+                "Là! Et là!\n",
+                "C’était le tournant du match!\r"
             ]
         },
         {
@@ -73,7 +81,12 @@
             "en_US": [
                 "Shots of me losing?\n",
                 "Those get deleted immediately.\r"
+            ],
+            "fr_FR": [
+                "Inacceptable. Je ne peux quand même\n",
+                "pas filmer ma défaite.\r"
             ]
         }
-    ]
+    ],
+    "name_fr": "Fabrice"
 }

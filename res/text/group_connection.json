@@ -10,6 +10,14 @@
         "{STRVAR_1 3, 0, 0} as leader, right?\r",
         "Would you like to leave that group\n",
         "and join another one?"
+      ],
+      "fr_FR": [
+        "Salut!\n",
+        "Comment vas-tu?\r",
+        "Tu es dans le groupe {STRVAR_1 61, 1, 0} avec\n",
+        "à sa tête {STRVAR_1 3, 0, 0}, non?\r",
+        "Veux-tu quitter ce groupe pour en\n",
+        "joindre un autre?"
       ]
     },
     {
@@ -21,6 +29,14 @@
         "{STRVAR_1 3, 0, 0} as leader, right?\r",
         "Would you like to leave that group\n",
         "and make a new one?"
+      ],
+      "fr_FR": [
+        "Salut!\n",
+        "Comment vas-tu?\r",
+        "Tu es dans le groupe {STRVAR_1 61, 1, 0} avec\n",
+        "à sa tête {STRVAR_1 3, 0, 0}, non?\r",
+        "Veux-tu quitter ce groupe pour en\n",
+        "créer un nouveau?"
       ]
     },
     {
@@ -32,17 +48,31 @@
         "or cooperate with fellow members.\r",
         "It’s a lot of fun.\n",
         "Want to join?\r"
+      ],
+      "fr_FR": [
+        "Salut, je sais que c’est soudain mais\n",
+        "veux-tu faire partie d’un groupe?\r",
+        "Si tu es dans un groupe, tu peux\n",
+        "affronter ses membres ou coopérer\f",
+        "avec eux.\r",
+        "C’est très amusant.\n",
+        "Tu veux essayer?\r"
       ]
     },
     {
       "id": "GroupConnection_Text_JoinWhichGroup",
-      "en_US": "Which group would you like to join?"
+      "en_US": "Which group would you like to join?",
+      "fr_FR": "A quel groupe veux-tu te joindre?"
     },
     {
       "id": "GroupConnection_Text_ThatsTooBad",
       "en_US": [
         "Oh.\n",
         "That’s too bad."
+      ],
+      "fr_FR": [
+        "Oh...\n",
+        "Quel dommage."
       ]
     },
     {
@@ -52,6 +82,12 @@
         "Sure thing!\r",
         "The group you made before will be\n",
         "disbanded, though. Is that OK?"
+      ],
+      "fr_FR": [
+        "Oh, tu veux créer un nouveau groupe?\n",
+        "Pas de problème!\r",
+        "Mais le groupe que tu as créé avant\n",
+        "sera dissous. Tu es d’accord?"
       ]
     },
     {
@@ -59,6 +95,10 @@
       "en_US": [
         "Yay, cool! What do you want to name\n",
         "your group?"
+      ],
+      "fr_FR": [
+        "Ouais, cool! Comment veux-tu appeler\n",
+        "ton groupe?"
       ]
     },
     {
@@ -68,6 +108,13 @@
         "That’s a great name!\r",
         "The leader is {STRVAR_1 3, 1, 0}.\n",
         "I hope the group gets more members."
+      ],
+      "fr_FR": [
+        "Le groupe {STRVAR_1 61, 0, 0}, hein?\n",
+        "C’est un super nom!\r",
+        "A sa tête, il y a {STRVAR_1 3, 1, 0}.\r",
+        "J’espère que le groupe aura de\n",
+        "nouveaux membres."
       ]
     },
     {
@@ -76,6 +123,11 @@
         "The {STRVAR_1 61, 0, 0} group?\n",
         "{STRVAR_1 3, 1, 0} is the leader.\f",
         "Would you like to join this group?"
+      ],
+      "fr_FR": [
+        "Le groupe {STRVAR_1 61, 0, 0}?\n",
+        "Avec à sa tête {STRVAR_1 3, 1, 0}...\f",
+        "Veux-tu te joindre à ce groupe?"
       ]
     },
     {
@@ -83,6 +135,10 @@
       "en_US": [
         "OK! {STRVAR_1 3, 0, 0} is now a member\n",
         "of the {STRVAR_1 61, 1, 0} group."
+      ],
+      "fr_FR": [
+        "OK! {STRVAR_1 3, 0, 0} est maintenant membre\n",
+        "du groupe {STRVAR_1 61, 1, 0}."
       ]
     },
     {
@@ -100,53 +156,83 @@
         "can join.\r",
         "I hope you recruit lots of friends\n",
         "so everyone can have fun!"
+      ],
+      "fr_FR": [
+        "Quand tu formes un nouveau groupe ou\n",
+        "joins un nouveau groupe, va à la Salle\f",
+        "Union.\r",
+        "Fais un échange de données avec les\n",
+        "membres pour t’intégrer.\r",
+        "Quand on est dans un même groupe, des\n",
+        "événements peuvent avoir lieu en même\f",
+        "temps pour tous.\r",
+        "Les choses sont bien plus amusantes\n",
+        "quand on joue en groupe!\r",
+        "Tout le monde peut créer un groupe ou\n",
+        "se joindre à un groupe.\r",
+        "J’espère que tu recruteras plein\n",
+        "d’amis pour bien vous amuser ensemble!"
       ]
     },
     {
       "id": "GroupConnection_Text_MakeGroup",
-      "en_US": "MAKE GROUP"
+      "en_US": "MAKE GROUP",
+      "fr_FR": "CREER UN GROUPE"
     },
     {
       "id": "GroupConnection_Text_JoinGroup",
-      "en_US": "JOIN GROUP"
+      "en_US": "JOIN GROUP",
+      "fr_FR": "JOINDRE"
     },
     {
       "id": "GroupConnection_Text_Info",
-      "en_US": "INFO"
+      "en_US": "INFO",
+      "fr_FR": "INFOS"
     },
     {
       "id": "GroupConnection_Text_Exit",
-      "en_US": "EXIT"
+      "en_US": "EXIT",
+      "fr_FR": "RETOUR"
     },
     {
       "id": "GroupConnection_Text_GroupPlayerOriginal",
-      "en_US": "{STRVAR_1 61, 0, 0} Group"
+      "en_US": "{STRVAR_1 61, 0, 0} Group",
+      "fr_FR": "Groupe {STRVAR_1 61, 0, 0}"
     },
     {
       "id": "GroupConnection_Text_GroupQueue0",
-      "en_US": "{STRVAR_1 61, 1, 0} Group"
+      "en_US": "{STRVAR_1 61, 1, 0} Group",
+      "fr_FR": "Groupe {STRVAR_1 61, 1, 0}"
     },
     {
       "id": "GroupConnection_Text_GroupQueue1",
-      "en_US": "{STRVAR_1 61, 2, 0} Group"
+      "en_US": "{STRVAR_1 61, 2, 0} Group",
+      "fr_FR": "Groupe {STRVAR_1 61, 2, 0}"
     },
     {
       "id": "GroupConnection_Text_GroupQueue2",
-      "en_US": "{STRVAR_1 61, 3, 0} Group"
+      "en_US": "{STRVAR_1 61, 3, 0} Group",
+      "fr_FR": "Groupe {STRVAR_1 61, 3, 0}"
     },
     {
       "id": "GroupConnection_Text_GroupQueue3",
-      "en_US": "{STRVAR_1 61, 4, 0} Group"
+      "en_US": "{STRVAR_1 61, 4, 0} Group",
+      "fr_FR": "Groupe {STRVAR_1 61, 4, 0}"
     },
     {
       "id": "GroupConnection_Text_GroupSelectionExit",
-      "en_US": "EXIT"
+      "en_US": "EXIT",
+      "fr_FR": "RETOUR"
     },
     {
       "id": "GroupConnection_Text_DidntPlayerMakeThatAlready",
       "en_US": [
         "That group?\n",
         "Didn’t {STRVAR_1 3, 0, 0} make it already?"
+      ],
+      "fr_FR": [
+        "Ce groupe?\n",
+        "{STRVAR_1 3, 0, 0} l’a déjà créé, non?"
       ]
     },
     {
@@ -154,6 +240,10 @@
       "en_US": [
         "Isn’t there already another group\n",
         "with that name?"
+      ],
+      "fr_FR": [
+        "Il y a déjà un autre groupe avec ce\n",
+        "nom."
       ]
     }
   ]

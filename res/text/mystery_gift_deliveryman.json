@@ -8,6 +8,12 @@
         "{STRVAR_1 3, 0, 0}.\r",
         "I’ve received a gift for you.\n",
         "Here you go!\r"
+      ],
+      "fr_FR": [
+        "Bonjour. Vous devez être\n",
+        "{STRVAR_1 3, 0, 0}.\r",
+        "J’ai reçu un cadeau pour vous.\n",
+        "Le voici!\r"
       ]
     },
     {
@@ -17,6 +23,12 @@
         "{STRVAR_1 3, 0, 0}.\r",
         "I’ve received a gift for you.\n",
         "Here you go!\r"
+      ],
+      "fr_FR": [
+        "Bonjour. Vous devez être\n",
+        "{STRVAR_1 3, 0, 0}.\r",
+        "J’ai reçu un cadeau pour vous.\n",
+        "Le voici!\r"
       ]
     },
     {
@@ -26,6 +38,12 @@
         "{STRVAR_1 3, 0, 0}.\r",
         "I’ve received a gift for you.\n",
         "Here you go!\r"
+      ],
+      "fr_FR": [
+        "Bonsoir. Vous devez être\n",
+        "{STRVAR_1 3, 0, 0}.\r",
+        "J’ai reçu un cadeau pour vous.\n",
+        "Le voici!\r"
       ]
     },
     {
@@ -34,6 +52,11 @@
         "I haven’t received any other gifts\n",
         "for you.\r",
         "We look forward to your next visit."
+      ],
+      "fr_FR": [
+        "Je n’ai reçu aucun autre cadeau pour\n",
+        "vous.\r",
+        "Nous espérons vous revoir bientôt."
       ]
     },
     {
@@ -41,6 +64,11 @@
       "en_US": [
         "Your party is full, I’m afraid.\n",
         "I can’t give this to you yet."
+      ],
+      "fr_FR": [
+        "Votre équipe est au complet.\r",
+        "Je ne peux pas vous le donner\n",
+        "pour l’instant."
       ]
     },
     {
@@ -48,6 +76,10 @@
       "en_US": [
         "Another {STRVAR_1 8, 0, 0}? You already\n",
         "have too many to accept any more."
+      ],
+      "fr_FR": [
+        "{STRVAR_1 8, 0, 0}, vous en voulez\n",
+        "d’autres? Vous en avez déjà trop."
       ]
     },
     {
@@ -55,12 +87,20 @@
       "en_US": [
         "To accept this, you need to make\n",
         "room for decoration goods."
+      ],
+      "fr_FR": [
+        "Pour accepter ceci, vous devez faire du\n",
+        "vide dans vos articles de décoration."
       ]
     },
     {
       "id": "MysteryGiftDeliveryman_Text_ReceivedPokemon",
       "en_US": [
         "{STRVAR_1 3, 0, 0} received\n",
+        "{COLOR 101}{STRVAR_1 0, 1, 0}{COLOR 0}!\r"
+      ],
+      "fr_FR": [
+        "{STRVAR_1 3, 0, 0} obtient\n",
         "{COLOR 101}{STRVAR_1 0, 1, 0}{COLOR 0}!\r"
       ]
     },
@@ -69,6 +109,10 @@
       "en_US": [
         "{STRVAR_1 3, 0, 0} received\n",
         "a {COLOR 1}Pokémon Egg{COLOR 0}!\r"
+      ],
+      "fr_FR": [
+        "{STRVAR_1 3, 0, 0} obtient un\n",
+        "{COLOR 1}Oeuf Pokémon{COLOR 0}!\r"
       ]
     },
     {
@@ -76,6 +120,10 @@
       "en_US": [
         "{STRVAR_1 3, 0, 0} received\n",
         "the gift {COLOR 1}{STRVAR_1 8, 1, 0}{COLOR 0}!\r"
+      ],
+      "fr_FR": [
+        "{STRVAR_1 3, 0, 0} obtient le cadeau\n",
+        "{COLOR 1}{STRVAR_1 8, 1, 0}{COLOR 0}!\r"
       ]
     },
     {
@@ -83,6 +131,10 @@
       "en_US": [
         "{STRVAR_1 3, 0, 0} received the\n",
         "{COLOR 1}{STRVAR_1 26, 1, 0} Rules{COLOR 0}.\r"
+      ],
+      "fr_FR": [
+        "{STRVAR_1 3, 0, 0} obtient les\n",
+        "{COLOR 1}Règles {COLOR 0}de la Coupe{COLOR 1} {STRVAR_1 26, 1, 0}{COLOR 0}.\r"
       ]
     },
     {
@@ -90,6 +142,10 @@
       "en_US": [
         "{STRVAR_1 3, 0, 0} received\n",
         "the gift {COLOR 1}{STRVAR_1 10, 1, 0}{COLOR 0}!\r"
+      ],
+      "fr_FR": [
+        "{STRVAR_1 3, 0, 0} obtient le cadeau\n",
+        "{COLOR 1}{STRVAR_1 10, 1, 0}{COLOR 0}!\r"
       ]
     },
     {
@@ -97,6 +153,10 @@
       "en_US": [
         "{STRVAR_1 3, 0, 0} received\n",
         "the gift {COLOR 1}{STRVAR_1 31, 1, 0}{COLOR 0}.\r"
+      ],
+      "fr_FR": [
+        "{STRVAR_1 3, 0, 0} obtient le cadeau\n",
+        "{COLOR 1}{STRVAR_1 31, 1, 0}{COLOR 0}!\r"
       ]
     },
     {
@@ -104,6 +164,10 @@
       "en_US": [
         "{STRVAR_1 3, 0, 0} received\n",
         "the {COLOR 1}MANAPHY Egg{COLOR 0}!\r"
+      ],
+      "fr_FR": [
+        "{STRVAR_1 3, 0, 0} obtient\n",
+        "l’{COLOR 1}Oeuf de MANAPHY{COLOR 0}!\r"
       ]
     },
     {
@@ -111,6 +175,10 @@
       "en_US": [
         "{STRVAR_1 3, 0, 0} received\n",
         "a {COLOR 1}Member’s Card{COLOR 0}.\r"
+      ],
+      "fr_FR": [
+        "{STRVAR_1 3, 0, 0} obtient une\n",
+        "{COLOR 1}Carte Membre{COLOR 0}.\r"
       ]
     },
     {
@@ -118,6 +186,10 @@
       "en_US": [
         "{STRVAR_1 3, 0, 0} received\n",
         "{COLOR 1}Oak’s Letter{COLOR 0}!\r"
+      ],
+      "fr_FR": [
+        "{STRVAR_1 3, 0, 0} obtient la\n",
+        "{COLOR 1}Lettre Chen{COLOR 0}!\r"
       ]
     },
     {
@@ -125,6 +197,10 @@
       "en_US": [
         "{STRVAR_1 3, 0, 0} received\n",
         "an {COLOR 1}Azure Flute{COLOR 0}!\r"
+      ],
+      "fr_FR": [
+        "{STRVAR_1 3, 0, 0} obtient une\n",
+        "{COLOR 1}Flûte Azur{COLOR 0}!\r"
       ]
     },
     {
@@ -132,17 +208,26 @@
       "en_US": [
         "{STRVAR_1 3, 0, 0} received\n",
         "a {COLOR 1}Secret Key{COLOR 0}!\r"
+      ],
+      "fr_FR": [
+        "{STRVAR_1 3, 0, 0} obtient une\n",
+        "{COLOR 1}Clé Secrète{COLOR 0}!\r"
       ]
     },
     {
       "id": "MysteryGiftDeliveryman_Text_LookForwardNextVisit",
-      "en_US": "We look forward to your next visit."
+      "en_US": "We look forward to your next visit.",
+      "fr_FR": "Nous espérons vous revoir bientôt!"
     },
     {
       "id": "MysteryGiftDeliveryman_Text_ReceivedPoketchApp",
       "en_US": [
         "{STRVAR_1 3, 0, 0} received the Pokétch\n",
         "app {COLOR 1}{STRVAR_1 24, 1, 0}{COLOR 0}!\r"
+      ],
+      "fr_FR": [
+        "{STRVAR_1 3, 0, 0} obtient le logiciel\n",
+        "Pokémontre {COLOR 1}{STRVAR_1 24, 1, 0}{COLOR 0}!\r"
       ]
     },
     {
@@ -152,6 +237,12 @@
         "obtained a Pokétch yet.\r",
         "I can’t give you this app if you don’t\n",
         "have a Pokétch."
+      ],
+      "fr_FR": [
+        "Oh, oh... {STRVAR_1 3, 0, 0}, vous n’avez\n",
+        "pas encore obtenu la Pokémontre.\r",
+        "Je ne peux pas vous donner ce logiciel\n",
+        "si vous n’avez pas de Pokémontre."
       ]
     },
     {
@@ -161,6 +252,12 @@
         "the {COLOR 1}{STRVAR_1 39, 1, 0}{COLOR 0}!\r",
         "The {STRVAR_1 39, 1, 0}\n",
         "was given to {STRVAR_1 1, 2, 0}.\r"
+      ],
+      "fr_FR": [
+        "{STRVAR_1 3, 0, 0} obtient le\n",
+        "{COLOR 1}{STRVAR_1 39, 1, 0}{COLOR 0}!\r",
+        "Le {STRVAR_1 39, 1, 0}\n",
+        "a été placé sur {STRVAR_1 1, 2, 0}.\r"
       ]
     }
   ]

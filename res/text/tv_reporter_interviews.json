@@ -8,6 +8,12 @@
         "I’m with Jubilife TV!\r",
         "May I hit you up for a quick\n",
         "interview?"
+      ],
+      "fr_FR": [
+        "Bonjour!\n",
+        "Je travaille pour Féli-Télé!\r",
+        "Avez-vous du temps pour faire une\n",
+        "interview rapide?"
       ]
     },
     {
@@ -15,6 +21,10 @@
       "en_US": [
         "Oh, that’s too bad.\n",
         "I hope you can oblige another time!"
+      ],
+      "fr_FR": [
+        "Oh, quel dommage...\n",
+        "Une autre fois, peut-être!"
       ]
     },
     {
@@ -26,6 +36,13 @@
         "an upcoming TV program.\r",
         "Please do tune in and see how you\n",
         "look on TV!"
+      ],
+      "fr_FR": [
+        "Merci d’avoir partagé vos impressions\n",
+        "avec nous.\r",
+        "Cette interview sera diffusée très\n",
+        "prochainement dans nos programmes.\r",
+        "Alors, allumez la télé et regardez-la!"
       ]
     },
     {
@@ -40,6 +57,14 @@
         "So, may I hear about your Battle Tower\n",
         "challenge?\r",
         "Can you tell me what you’re feeling now?\r"
+      ],
+      "fr_FR": [
+        "Merci beaucoup!\n",
+        "Alors, ne perdons pas de temps...\r",
+        "Parlez-moi de votre défi dans la Tour de\n",
+        "Combat!\r",
+        "Pouvez-vous me dire comment vous vous\n",
+        "sentez?\r"
       ]
     },
     {
@@ -54,6 +79,14 @@
         "Your {STRVAR_1 0, 0, 0} is quite appealing,\n",
         "isn’t it?\r",
         "May I have your comment on your\n",
+        "{STRVAR_1 0, 0, 0}?\r"
+      ],
+      "fr_FR": [
+        "Merci beaucoup!\n",
+        "Alors, ne perdons pas de temps...\r",
+        "Votre {STRVAR_1 0, 0, 0} est très\n",
+        "sympathique, n’est-ce pas?\r",
+        "Puis-je avoir vos impressions sur votre\n",
         "{STRVAR_1 0, 0, 0}?\r"
       ]
     },
@@ -72,6 +105,16 @@
         "I see!\r",
         "May I have your comment on\n",
         "the {STRVAR_1 24, 0, 0}?\r"
+      ],
+      "fr_FR": [
+        "Merci beaucoup!\n",
+        "Alors, ne perdons pas de temps...\r",
+        "Puis-je vous demander quel logiciel\n",
+        "Pokémontre vous utilisez le plus?\r",
+        "Le logiciel {STRVAR_1 24, 0, 0}...\n",
+        "Je vois!\r",
+        "Quelles sont vos impressions sur\n",
+        "le logiciel {STRVAR_1 24, 0, 0}?\r"
       ]
     },
     {
@@ -83,6 +126,13 @@
         "challenge?\r",
         "Can you tell me what you’re feeling\n",
         "now?\r"
+      ],
+      "fr_FR": [
+        "Merci beaucoup!\n",
+        "Alors, ne perdons pas de temps...\r",
+        "Parlez-moi de votre dernier Concours!\r",
+        "Pouvez-vous me dire comment vous vous\n",
+        "sentez?\r"
       ]
     },
     {
@@ -96,6 +146,12 @@
         "Let’s not waste any time...\r",
         "May I have your comment on the finished\n",
         "photograph?\r"
+      ],
+      "fr_FR": [
+        "Merci beaucoup!\n",
+        "Alors, ne perdons pas de temps...\r",
+        "Puis-je avoir vos impressions sur ce\n",
+        "cliché?\r"
       ]
     },
     {
@@ -105,6 +161,12 @@
         "Let’s not waste any time...\r",
         "Please select your favorite Pokémon\n",
         "type from this list.\r"
+      ],
+      "fr_FR": [
+        "Merci beaucoup!\n",
+        "Alors, ne perdons pas de temps...\r",
+        "Veuillez choisir votre type de Pokémon\n",
+        "préféré dans cette liste.\r"
       ]
     },
     {
@@ -114,6 +176,12 @@
         "Let’s not waste any time...\r",
         "Can you describe your feelings about\n",
         "preparing Poffins?\r"
+      ],
+      "fr_FR": [
+        "Merci beaucoup!\n",
+        "Alors, ne perdons pas de temps...\r",
+        "Que ressentez-vous quand vous\n",
+        "cuisinez des Poffins?\r"
       ]
     },
     {
@@ -129,6 +197,14 @@
         "with your {STRVAR_1 0, 0, 0}.\r",
         "Can you tell me what you’re feeling\n",
         "now?\r"
+      ],
+      "fr_FR": [
+        "Merci beaucoup!\n",
+        "Alors, ne perdons pas de temps...\r",
+        "Parlez-moi de votre promenade avec\n",
+        "votre {STRVAR_1 0, 0, 0}.\r",
+        "Pouvez-vous me dire comment vous vous\n",
+        "sentez?\r"
       ]
     },
     {
@@ -139,6 +215,12 @@
         "How do you think your {STRVAR_1 0, 0, 0}\n",
         "feels now?\r",
         "Can you tell me what you think?\r"
+      ],
+      "fr_FR": [
+        "Merci beaucoup!\n",
+        "Alors, ne perdons pas de temps...\r",
+        "A votre avis, comment se sent votre\n",
+        "{STRVAR_1 0, 0, 0} après ces victoires?\r"
       ]
     },
     {
@@ -148,6 +230,12 @@
         "Let’s not waste any time...\r",
         "If you were to become a Gym Leader,\n",
         "what would you name your Gym?\r"
+      ],
+      "fr_FR": [
+        "Merci beaucoup!\n",
+        "Alors, ne perdons pas de temps...\r",
+        "Si vous étiez Champion d’Arène, comment\n",
+        "appelleriez-vous votre Arène?\r"
       ]
     },
     {
@@ -157,6 +245,12 @@
         "Let’s not waste any time...\r",
         "If you had to compare your mother to a\n",
         "Pokémon, what kind would it be?\r"
+      ],
+      "fr_FR": [
+        "Merci beaucoup!\n",
+        "Alors, ne perdons pas de temps...\r",
+        "Si votre mère était un Pokémon, à votre\n",
+        "avis, lequel serait-elle?\r"
       ]
     },
     {
@@ -166,6 +260,12 @@
         "Let’s not waste any time...\r",
         "What would you consider to be the\n",
         "third most important thing in your life?\r"
+      ],
+      "fr_FR": [
+        "Merci beaucoup!\n",
+        "Alors, ne perdons pas de temps...\r",
+        "Quelle est la chose la plus importante\n",
+        "dans votre vie?\r"
       ]
     },
     {
@@ -178,6 +278,15 @@
         "You dash around a corner and collide\n",
         "with someone.\r",
         "What sort of person would this be?\r"
+      ],
+      "fr_FR": [
+        "Merci beaucoup!\n",
+        "Alors, ne perdons pas de temps...\r",
+        "Imaginez que vous êtes en retard à\n",
+        "un rendez-vous.\r",
+        "Vous courez, vous courez et soudain...\n",
+        "boum! Vous tombez sur quelqu’un.\r",
+        "De quel genre de personne s’agit-il?\r"
       ]
     },
     {
@@ -188,75 +297,100 @@
         "You partnered with the Trainer\n",
         "{STRVAR_1 3, 0, 0} for a Multi Battle.\r",
         "How would you describe this Trainer?\r"
+      ],
+      "fr_FR": [
+        "Merci beaucoup!\n",
+        "Alors, ne perdons pas de temps...\r",
+        "Vous avez récemment fait équipe avec\n",
+        "{STRVAR_1 3, 0, 0}.\r",
+        "Dites-nous un peu, quel genre de\n",
+        "Dresseur est donc {STRVAR_1 3, 0, 0}?\r"
       ]
     },
     {
       "id": "TVReporterInterviews_Text_Normal",
-      "en_US": "Normal"
+      "en_US": "Normal",
+      "fr_FR": "Normal"
     },
     {
       "id": "TVReporterInterviews_Text_Fire",
-      "en_US": "Fire"
+      "en_US": "Fire",
+      "fr_FR": "Feu"
     },
     {
       "id": "TVReporterInterviews_Text_Water",
-      "en_US": "Water"
+      "en_US": "Water",
+      "fr_FR": "Eau"
     },
     {
       "id": "TVReporterInterviews_Text_Electric",
-      "en_US": "Electric"
+      "en_US": "Electric",
+      "fr_FR": "Electrik"
     },
     {
       "id": "TVReporterInterviews_Text_Grass",
-      "en_US": "Grass"
+      "en_US": "Grass",
+      "fr_FR": "Plante"
     },
     {
       "id": "TVReporterInterviews_Text_Ice",
-      "en_US": "Ice"
+      "en_US": "Ice",
+      "fr_FR": "Glace"
     },
     {
       "id": "TVReporterInterviews_Text_Fighting",
-      "en_US": "Fighting"
+      "en_US": "Fighting",
+      "fr_FR": "Combat"
     },
     {
       "id": "TVReporterInterviews_Text_Poison",
-      "en_US": "Poison"
+      "en_US": "Poison",
+      "fr_FR": "Poison"
     },
     {
       "id": "TVReporterInterviews_Text_Ground",
-      "en_US": "Ground"
+      "en_US": "Ground",
+      "fr_FR": "Sol"
     },
     {
       "id": "TVReporterInterviews_Text_Flying",
-      "en_US": "Flying"
+      "en_US": "Flying",
+      "fr_FR": "Vol"
     },
     {
       "id": "TVReporterInterviews_Text_Psychic",
-      "en_US": "Psychic"
+      "en_US": "Psychic",
+      "fr_FR": "Psy"
     },
     {
       "id": "TVReporterInterviews_Text_Bug",
-      "en_US": "Bug"
+      "en_US": "Bug",
+      "fr_FR": "Insecte"
     },
     {
       "id": "TVReporterInterviews_Text_Rock",
-      "en_US": "Rock"
+      "en_US": "Rock",
+      "fr_FR": "Roche"
     },
     {
       "id": "TVReporterInterviews_Text_Ghost",
-      "en_US": "Ghost"
+      "en_US": "Ghost",
+      "fr_FR": "Spectre"
     },
     {
       "id": "TVReporterInterviews_Text_Dragon",
-      "en_US": "Dragon"
+      "en_US": "Dragon",
+      "fr_FR": "Dragon"
     },
     {
       "id": "TVReporterInterviews_Text_Dark",
-      "en_US": "Dark"
+      "en_US": "Dark",
+      "fr_FR": "Ténèbres"
     },
     {
       "id": "TVReporterInterviews_Text_Steel",
-      "en_US": "Steel"
+      "en_US": "Steel",
+      "fr_FR": "Acier"
     }
   ]
 }

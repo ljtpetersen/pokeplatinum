@@ -8,6 +8,12 @@
         "I wasted money on some Poké Balls.\r",
         "I should’ve lowered the HP of wild\n",
         "Pokémon more before throwing them."
+      ],
+      "fr_FR": [
+        "Oh, mince. J’ai fait un beau gâchis\n",
+        "avec mes Poké Balls.\r",
+        "J’aurais dû faire baisser les PV des\n",
+        "Pokémon sauvages avant de les lancer."
       ]
     },
     {
@@ -17,6 +23,12 @@
         "pack some Potions.\r",
         "If all your Pokémon faint, it’ll be\n",
         "lights out for you, too!"
+      ],
+      "fr_FR": [
+        "Surtout, n’oublie pas d’emmener des\n",
+        "Potions avec toi.\r",
+        "Si tous tes Pokémon s’évanouissent, ce\n",
+        "sera la fin des haricots pour toi aussi!"
       ]
     },
     {
@@ -28,6 +40,14 @@
         "while, just use a Repel.\r",
         "After all, if you don’t battle, your\n",
         "Pokémon can’t lose HP."
+      ],
+      "fr_FR": [
+        "Les Potions sont utiles, mais parfois, il\n",
+        "vaut mieux s’abstenir de combattre.\r",
+        "Si tu veux éviter les Pokémon sauvages\n",
+        "un moment, utilise un Repousse.\r",
+        "Après tout, si tu ne te bats pas, tes\n",
+        "Pokémon ne peuvent pas perdre de PV."
       ]
     }
   ]

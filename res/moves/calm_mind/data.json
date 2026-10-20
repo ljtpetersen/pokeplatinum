@@ -24,5 +24,13 @@
     "contest": {
         "effect": "CONTEST_EFFECT_DOUBLE_NEXT_TURN",
         "type": "CONTEST_TYPE_SMART"
-    }
+    },
+    "name_fr": "Plénitude",
+    "description_fr": [
+        "Le lanceur se\n",
+        "concentre et fait le\n",
+        "vide dans son esprit\n",
+        "pour monter son Atq.\n",
+        "Spé. et sa Déf. Spé."
+    ]
 }

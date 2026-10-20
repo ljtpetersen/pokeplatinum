@@ -26,5 +26,13 @@
     "contest": {
         "effect": "CONTEST_EFFECT_FINAL_PERFORMANCE_ADVANTAGE",
         "type": "CONTEST_TYPE_TOUGH"
-    }
+    },
+    "name_fr": "Ampleur",
+    "description_fr": [
+        "Un tremblement\n",
+        "de terre d’intensité\n",
+        "variable qui affecte\n",
+        "tous les autres\n",
+        "Pokémon au combat."
+    ]
 }

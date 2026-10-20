@@ -3,181 +3,228 @@
   "messages": [
     {
       "id": "OptionsMenu_Text_Title",
-      "en_US": "OPTIONS"
+      "en_US": "OPTIONS",
+      "fr_FR": "OPTIONS"
     },
     {
       "id": "pl_msg_00000220_00001",
-      "en_US": "POKéMON DIAMOND"
+      "en_US": "POKéMON DIAMOND",
+      "fr_FR": "POKéMON DIAMANT"
     },
     {
       "id": "pl_msg_00000220_00002",
-      "en_US": "POKéMON PEARL"
+      "en_US": "POKéMON PEARL",
+      "fr_FR": "POKéMON PERLE"
     },
     {
       "id": "OptionsMenu_Text_TextSpeedLabel",
-      "en_US": "TEXT SPEED"
+      "en_US": "TEXT SPEED",
+      "fr_FR": "VITESSE DU TEXTE"
     },
     {
       "id": "OptionsMenu_Text_BattleSceneLabel",
-      "en_US": "BATTLE SCENE"
+      "en_US": "BATTLE SCENE",
+      "fr_FR": "ANIMAT. COMBAT"
     },
     {
       "id": "OptionsMenu_Text_BattleStyleLabel",
-      "en_US": "BATTLE STYLE"
+      "en_US": "BATTLE STYLE",
+      "fr_FR": "STYLE DE COMBAT"
     },
     {
       "id": "OptionsMenu_Text_SoundModeLabel",
-      "en_US": "SOUND"
+      "en_US": "SOUND",
+      "fr_FR": "SON"
     },
     {
       "id": "OptionsMenu_Text_ButtonModeLabel",
-      "en_US": "BUTTON MODE"
+      "en_US": "BUTTON MODE",
+      "fr_FR": "MODE BOUTONS"
     },
     {
       "id": "OptionsMenu_Text_MessageBoxStyleLabel",
-      "en_US": "FRAME"
+      "en_US": "FRAME",
+      "fr_FR": "FENETRE"
     },
     {
       "id": "OptionsMenu_Text_ConfirmLabel",
-      "en_US": "CONFIRM"
+      "en_US": "CONFIRM",
+      "fr_FR": "CONFIRMER"
     },
     {
       "id": "OptionsMenu_Text_TextSpeedSlow",
-      "en_US": "SLOW"
+      "en_US": "SLOW",
+      "fr_FR": "1"
     },
     {
       "id": "OptionsMenu_Text_TextSpeedMid",
-      "en_US": "MID"
+      "en_US": "MID",
+      "fr_FR": "2"
     },
     {
       "id": "OptionsMenu_Text_TextSpeedFast",
-      "en_US": "FAST"
+      "en_US": "FAST",
+      "fr_FR": "3"
     },
     {
       "id": "OptionsMenu_Text_BattleSceneOn",
-      "en_US": "ON"
+      "en_US": "ON",
+      "fr_FR": "OUI"
     },
     {
       "id": "OptionsMenu_Text_BattleSceneOff",
-      "en_US": "OFF"
+      "en_US": "OFF",
+      "fr_FR": "NON"
     },
     {
       "id": "OptionsMenu_Text_BattleStyleShift",
-      "en_US": "SHIFT"
+      "en_US": "SHIFT",
+      "fr_FR": "CHOIX"
     },
     {
       "id": "OptionsMenu_Text_BattleStyleSet",
-      "en_US": "SET"
+      "en_US": "SET",
+      "fr_FR": "DEFINI"
     },
     {
       "id": "OptionsMenu_Text_SoundModeStereo",
-      "en_US": "STEREO"
+      "en_US": "STEREO",
+      "fr_FR": "STEREO"
     },
     {
       "id": "OptionsMenu_Text_SoundModeMono",
-      "en_US": "MONO"
+      "en_US": "MONO",
+      "fr_FR": "MONO"
     },
     {
       "id": "OptionsMenu_Text_ButtonModeNormal",
-      "en_US": "NORMAL"
+      "en_US": "NORMAL",
+      "fr_FR": "NORMAL"
     },
     {
       "id": "OptionsMenu_Text_ButtonModeStartIs_x",
-      "en_US": "START = X"
+      "en_US": "START = X",
+      "fr_FR": "START = X"
     },
     {
       "id": "OptionsMenu_Text_ButtonMode_l_is_a",
-      "en_US": "L = A"
+      "en_US": "L = A",
+      "fr_FR": "L = A"
     },
     {
       "id": "OptionsMenu_Text_MessageBoxStyle_01",
-      "en_US": "TYPE 1"
+      "en_US": "TYPE 1",
+      "fr_FR": "TYPE 1"
     },
     {
       "id": "OptionsMenu_Text_MessageBoxStyle_02",
-      "en_US": "TYPE 2"
+      "en_US": "TYPE 2",
+      "fr_FR": "TYPE 2"
     },
     {
       "id": "OptionsMenu_Text_MessageBoxStyle_03",
-      "en_US": "TYPE 3"
+      "en_US": "TYPE 3",
+      "fr_FR": "TYPE 3"
     },
     {
       "id": "OptionsMenu_Text_MessageBoxStyle_04",
-      "en_US": "TYPE 4"
+      "en_US": "TYPE 4",
+      "fr_FR": "TYPE 4"
     },
     {
       "id": "OptionsMenu_Text_MessageBoxStyle_05",
-      "en_US": "TYPE 5"
+      "en_US": "TYPE 5",
+      "fr_FR": "TYPE 5"
     },
     {
       "id": "OptionsMenu_Text_MessageBoxStyle_06",
-      "en_US": "TYPE 6"
+      "en_US": "TYPE 6",
+      "fr_FR": "TYPE 6"
     },
     {
       "id": "OptionsMenu_Text_MessageBoxStyle_07",
-      "en_US": "TYPE 7"
+      "en_US": "TYPE 7",
+      "fr_FR": "TYPE 7"
     },
     {
       "id": "OptionsMenu_Text_MessageBoxStyle_08",
-      "en_US": "TYPE 8"
+      "en_US": "TYPE 8",
+      "fr_FR": "TYPE 8"
     },
     {
       "id": "OptionsMenu_Text_MessageBoxStyle_09",
-      "en_US": "TYPE 9"
+      "en_US": "TYPE 9",
+      "fr_FR": "TYPE 9"
     },
     {
       "id": "OptionsMenu_Text_MessageBoxStyle_10",
-      "en_US": "TYPE 10"
+      "en_US": "TYPE 10",
+      "fr_FR": "TYPE 10"
     },
     {
       "id": "OptionsMenu_Text_MessageBoxStyle_11",
-      "en_US": "TYPE 11"
+      "en_US": "TYPE 11",
+      "fr_FR": "TYPE 11"
     },
     {
       "id": "OptionsMenu_Text_MessageBoxStyle_12",
-      "en_US": "TYPE 12"
+      "en_US": "TYPE 12",
+      "fr_FR": "TYPE 12"
     },
     {
       "id": "OptionsMenu_Text_MessageBoxStyle_13",
-      "en_US": "TYPE 13"
+      "en_US": "TYPE 13",
+      "fr_FR": "TYPE 13"
     },
     {
       "id": "OptionsMenu_Text_MessageBoxStyle_14",
-      "en_US": "TYPE 14"
+      "en_US": "TYPE 14",
+      "fr_FR": "TYPE 14"
     },
     {
       "id": "OptionsMenu_Text_MessageBoxStyle_15",
-      "en_US": "TYPE 15"
+      "en_US": "TYPE 15",
+      "fr_FR": "TYPE 15"
     },
     {
       "id": "OptionsMenu_Text_MessageBoxStyle_16",
-      "en_US": "TYPE 16"
+      "en_US": "TYPE 16",
+      "fr_FR": "TYPE 16"
     },
     {
       "id": "OptionsMenu_Text_MessageBoxStyle_17",
-      "en_US": "TYPE 17"
+      "en_US": "TYPE 17",
+      "fr_FR": "TYPE 17"
     },
     {
       "id": "OptionsMenu_Text_MessageBoxStyle_18",
-      "en_US": "TYPE 18"
+      "en_US": "TYPE 18",
+      "fr_FR": "TYPE 18"
     },
     {
       "id": "OptionsMenu_Text_MessageBoxStyle_19",
-      "en_US": "TYPE 19"
+      "en_US": "TYPE 19",
+      "fr_FR": "TYPE 19"
     },
     {
       "id": "OptionsMenu_Text_MessageBoxStyle_20",
-      "en_US": "TYPE 20"
+      "en_US": "TYPE 20",
+      "fr_FR": "TYPE 20"
     },
     {
       "id": "OptionsMenu_Text_CloseLabel",
-      "en_US": "CLOSE"
+      "en_US": "CLOSE",
+      "fr_FR": "FERMER"
     },
     {
       "id": "OptionsMenu_Text_TextSpeedDescription",
       "en_US": [
         "Choose one of three text-display\n",
         "speeds."
+      ],
+      "fr_FR": [
+        "Choisissez la vitesse d’affichage\n",
+        "du texte."
       ]
     },
     {
@@ -185,6 +232,10 @@
       "en_US": [
         "Choose between seeing or not seeing\n",
         "Pokémon battle animations."
+      ],
+      "fr_FR": [
+        "Activez ou désactivez les animations\n",
+        "de combat des Pokémon."
       ]
     },
     {
@@ -192,38 +243,55 @@
       "en_US": [
         "Choose between battle rules on\n",
         "replacing a fallen Pokémon."
+      ],
+      "fr_FR": [
+        "Choisissez les règles de changement\n",
+        "quand un Pokémon ennemi est K.O."
       ]
     },
     {
       "id": "OptionsMenu_Text_SoundModeDescription",
-      "en_US": "Choose the game’s sound mode."
+      "en_US": "Choose the game’s sound mode.",
+      "fr_FR": "Choisissez les paramètres audio."
     },
     {
       "id": "OptionsMenu_Text_ButtonModeDescription",
       "en_US": [
         "Choose one of three sets of button\n",
         "settings."
+      ],
+      "fr_FR": [
+        "Choisissez la configuration des\n",
+        "boutons."
       ]
     },
     {
       "id": "OptionsMenu_Text_MessageBoxStyleDescription",
-      "en_US": "Choose the text-window design."
+      "en_US": "Choose the text-window design.",
+      "fr_FR": [
+        "Choisissez l’apparence de la\n",
+        "fenêtre de texte."
+      ]
     },
     {
       "id": "OptionsMenu_Text_ConfirmDialog",
-      "en_US": "Switch to the selected settings?"
+      "en_US": "Switch to the selected settings?",
+      "fr_FR": "Voulez-vous appliquer ces paramètres?"
     },
     {
       "id": "OptionsMenu_Text_ConfirmDialogYes",
-      "en_US": "YES"
+      "en_US": "YES",
+      "fr_FR": "OUI"
     },
     {
       "id": "OptionsMenu_Text_ConfirmDialogNo",
-      "en_US": "NO"
+      "en_US": "NO",
+      "fr_FR": "NON"
     },
     {
       "id": "OptionsMenu_Text_CloseDescription",
-      "en_US": "Return to the game."
+      "en_US": "Return to the game.",
+      "fr_FR": "Retournez au jeu."
     }
   ]
 }

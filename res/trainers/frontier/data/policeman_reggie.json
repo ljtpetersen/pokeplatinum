@@ -47,6 +47,10 @@
             "en_US": [
                 "I’m not really with the police.\n",
                 "I’m a collector of uniforms."
+            ],
+            "fr_FR": [
+                "Je ne suis pas vraiment de la police.\n",
+                "Je collectionne juste les uniformes."
             ]
         },
         {
@@ -54,6 +58,10 @@
             "en_US": [
                 "Battling as a Policeman made for a very\n",
                 "fun battle, it did.\r"
+            ],
+            "fr_FR": [
+                "C’était très amusant de combattre\n",
+                "déguisé en Agent de police.\r"
             ]
         },
         {
@@ -61,7 +69,12 @@
             "en_US": [
                 "That’s it for me.\n",
                 "I bid you a fond farewell.\r"
+            ],
+            "fr_FR": [
+                "Très bien, j’ai compris.\n",
+                "Bonne continuation.\r"
             ]
         }
-    ]
+    ],
+    "name_fr": "Rafaël"
 }

@@ -26,5 +26,13 @@
   "battlePocket": "BATTLE_POCKET_MASK_POKE_BALLS",
   "fieldUseFunc": "ITEM_USE_FUNC_NONE",
   "battleUseCategory": "BATTLE_USE_CATEGORY_POKE_BALL",
-  "itemUseParams": null
+  "itemUseParams": null,
+  "name_fr": "Poké Ball",
+  "description_fr": [
+    "Un objet pareil à une capsule qui\n",
+    "capture les Pokémon sauvages. Il suffit\n",
+    "pour cela de le jeter comme une balle."
+  ],
+  "plural_fr": "Poké Ball",
+  "article_fr": null
 }

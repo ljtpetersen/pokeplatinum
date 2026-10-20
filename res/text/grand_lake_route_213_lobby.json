@@ -8,6 +8,14 @@
         "Ah, but you’ve no reservations.\r",
         "I’m afraid we are totally booked.\n",
         "You may rest a while, if you wish.\r"
+      ],
+      "fr_FR": [
+        "Ah, bonjour. \n",
+        "Vous voulez une chambre pour la nuit?\f",
+        "Oh, vous n’avez pas de réservation.\r",
+        "Je crains que nous ne soyons complets.\n",
+        "Vous pouvez quand même faire une\f",
+        "pause, si le cœur vous en dit.\r"
       ]
     },
     {
@@ -16,6 +24,11 @@
         "We’ve restored your Pokémon\n",
         "to full health.\r",
         "We hope to see you again!"
+      ],
+      "fr_FR": [
+        "Nous avons soigné tous vos\n",
+        "Pokémon.\r",
+        "Nous espérons vous revoir bientôt!"
       ]
     },
     {
@@ -24,6 +37,11 @@
         "This hotel is so romantic...\r",
         "I hope a knight on a Pokémon will\n",
         "sweep me away for a honeymoon here!"
+      ],
+      "fr_FR": [
+        "Cet hôtel est tellement romantique...\r",
+        "J’espère qu’un preux chevalier sur son\n",
+        "Pokémon m’emmènera en lune de miel!"
       ]
     },
     {
@@ -37,6 +55,17 @@
         "Go search outside, if you will.\r",
         "The suspect, he may have already\n",
         "slipped away ahead unnoticed."
+      ],
+      "fr_FR": [
+        "Beladonis: Ah, te voilà, camarade!\n",
+        "Oui, je séjourne dans cet hôtel.\r",
+        "J’interroge les clients, pour voir s’ils\n",
+        "ont aperçu qui que ce soit de suspect.\r",
+        "J’ai besoin de ton aide pour mener\n",
+        "l’enquête dans les parages,\f",
+        "si tu veux bien.\r",
+        "Qui sait? Le suspect a peut-être déjà\n",
+        "filé à notre insu."
       ]
     },
     {
@@ -47,6 +76,13 @@
         "But that is of no importance!\r",
         "A suspicion-arousing character, yes,\n",
         "but your bragging is not necessary!\r"
+      ],
+      "fr_FR": [
+        "Beladonis: Vraiment?\n",
+        "Le champion de Hoenn a séjourné ici?\r",
+        "Aucune importance!\r",
+        "Je m’intéresse aux individus suspects,\n",
+        "pas à vos fanfaronnades!\r"
       ]
     },
     {
@@ -56,6 +92,12 @@
         "You, I ask to search outside.\r",
         "The suspect, he may have already\n",
         "slipped away ahead unnoticed."
+      ],
+      "fr_FR": [
+        "Je m’occupe des locaux de l’hôtel\n",
+        "pendant que tu fouilles les environs.\r",
+        "Qui sait? Le suspect a peut-être déjà\n",
+        "filé à notre insu."
       ]
     }
   ]

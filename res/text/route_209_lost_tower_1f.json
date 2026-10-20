@@ -6,6 +6,10 @@
       "en_US": [
         "This is where spirits rest.\n",
         "Please be quiet and respectful."
+      ],
+      "fr_FR": [
+        "Tu es dans le sanctuaire des âmes.\n",
+        "Silence et respect sont de mise."
       ]
     },
     {
@@ -17,6 +21,14 @@
         "If you can’t use the hidden move Defog\n",
         "and you have no business here, there\f",
         "is no need to go up."
+      ],
+      "fr_FR": [
+        "Ceci est la Tour Perdue.\r",
+        "Plus on monte, plus le brouillard\n",
+        "s’épaissit.\r",
+        "Si tu n’as pas la capacité Anti-Brume et\n",
+        "que tu n’as rien à faire ici, inutile de\f",
+        "monter."
       ]
     }
   ]

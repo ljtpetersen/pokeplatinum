@@ -27,5 +27,13 @@
     "contest": {
         "effect": "CONTEST_EFFECT_FINAL_PERFORMANCE_ADVANTAGE",
         "type": "CONTEST_TYPE_TOUGH"
-    }
+    },
+    "name_fr": "Pince-Masse",
+    "description_fr": [
+        "Une grande pince\n",
+        "martèle l’ennemi.\n",
+        "Cette capacité a un\n",
+        "taux de critiques\n",
+        "élevé."
+    ]
 }

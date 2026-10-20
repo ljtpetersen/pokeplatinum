@@ -3,7 +3,8 @@
   "messages": [
     {
       "id": "SpearPillarDistorted_Text_No",
-      "en_US": "Cynthia: No...!\r"
+      "en_US": "Cynthia: No...!\r",
+      "fr_FR": "Cynthia: Non...!\r"
     },
     {
       "id": "SpearPillarDistorted_Text_Dummy1",
@@ -35,6 +36,23 @@
         "A world on the opposite side of ours...\r",
         "That’s what the shadow was.\n",
         "It must have been GIRATINA.\r"
+      ],
+      "fr_FR": [
+        "Cynthia: Désolée d’être arrivée si tard.\r",
+        "Je pense avoir enfin trouvé la réponse\n",
+        "à cette énigme dans les mythes.\r",
+        "A la création de ce monde, DIALGA et\n",
+        "PALKIA sont apparus.\r",
+        "Mais un troisième Pokémon naquit au\n",
+        "même moment.\r",
+        "Un Pokémon dont le pouvoir égalait ceux\n",
+        "de DIALGA et PALKIA réunis...\r",
+        "Le nom de ce Pokémon, GIRATINA,\n",
+        "resta enfoui au fond des âges.\r",
+        "On dit qu’il se tapit dans un autre\n",
+        "monde, de l’autre côté du nôtre...\r",
+        "Cette ombre tout à l’heure...\n",
+        "C’était lui, GIRATINA!\r"
       ]
     },
     {
@@ -46,6 +64,14 @@
         "If it’s not closed, the distortion\n",
         "will spread to Sinnoh and beyond...\r",
         "Our world will be destroyed...\r"
+      ],
+      "fr_FR": [
+        "Les colonnes se distordent...\r",
+        "C’est à cause de ce portail.\n",
+        "Il relie notre monde à l’autre.\r",
+        "Si on ne le referme pas, la distorsion\n",
+        "va se propager dans Sinnoh et au-delà.\r",
+        "Alors, ce sera la fin de ce monde...\r"
       ]
     },
     {
@@ -53,17 +79,26 @@
       "en_US": [
         "Cynthia: Are you ready?\n",
         "We have to chase Cyrus!"
+      ],
+      "fr_FR": [
+        "Cynthia: Allons-y! Nous devons\n",
+        "poursuivre Hélio!"
       ]
     },
     {
       "id": "SpearPillarDistorted_Text_WeHaveToHurry",
-      "en_US": "Cynthia: We have to hurry!\r"
+      "en_US": "Cynthia: We have to hurry!\r",
+      "fr_FR": "Cynthia: Dépêchons-nous!\r"
     },
     {
       "id": "SpearPillarDistorted_Text_IllWaitHere",
       "en_US": [
         "Cynthia: You need to get ready?\n",
         "I’ll wait here."
+      ],
+      "fr_FR": [
+        "Cynthia: Tu as des préparatifs à faire?\n",
+        "Bon, je t’attendrai ici."
       ]
     },
     {
@@ -71,6 +106,10 @@
       "en_US": [
         "Mars: M-Master Cyrus?!\n",
         "Where did he go?!"
+      ],
+      "fr_FR": [
+        "Mars: Maître Hélio?!\n",
+        "Où est-il passé?!"
       ]
     },
     {
@@ -78,6 +117,10 @@
       "en_US": [
         "Jupiter: That shadow...\n",
         "What was it...?!"
+      ],
+      "fr_FR": [
+        "Jupiter: Cette ombre...\n",
+        "Qu’est-ce que c’était...?!"
       ]
     },
     {
@@ -85,6 +128,10 @@
       "en_US": [
         "Without anyone to guide us, we can only\n",
         "panic aimlessly..."
+      ],
+      "fr_FR": [
+        "Sans personne pour nous guider, nous\n",
+        "voilà condamnés à errer sans but..."
       ]
     },
     {
@@ -117,6 +164,11 @@
         "An overwhelming feeling of time\n",
         "emanates powerfully from this rift...\r",
         "Where does it lead to?"
+      ],
+      "fr_FR": [
+        "Un sentiment phénoménal de temps émane\n",
+        "de cette faille...\r",
+        "Où peut-elle bien mener?"
       ]
     },
     {
@@ -125,6 +177,11 @@
         "An overwhelming feeling of space\n",
         "emanates powerfully from this rift...\r",
         "Where does it lead to?"
+      ],
+      "fr_FR": [
+        "Un sentiment phénoménal d’espace émane\n",
+        "de cette faille...\r",
+        "Où peut-elle bien mener?"
       ]
     }
   ]

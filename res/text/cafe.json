@@ -9,6 +9,13 @@
         "types that want to battle.\r",
         "Do what you will with them.\n",
         "I don’t mind."
+      ],
+      "fr_FR": [
+        "Bien le bonjour, globe-trotter!\r",
+        "Certains de nos clients sont des\n",
+        "rustres qui ne pensent qu’à combattre.\r",
+        "Fais ce que tu veux avec eux.\n",
+        "Tu as carte blanche."
       ]
     },
     {
@@ -21,6 +28,14 @@
         "Moomoo Milk, $500 a bottle.\r",
         "Would you like to add some to your\n",
         "traveling supplies?"
+      ],
+      "fr_FR": [
+        "Comment allez-vous? Voulez-vous\n",
+        "boire quelque chose?\r",
+        "De toute façon, nous n’avons\n",
+        "que du Lait Meumeu.\r",
+        "Il est à 500 $. Je vous\n",
+        "en mets une bouteille?"
       ]
     },
     {
@@ -28,6 +43,10 @@
       "en_US": [
         "Here’s your Moomoo Milk.\n",
         "Enjoy.\r"
+      ],
+      "fr_FR": [
+        "Voilà votre Lait Meumeu.\n",
+        "A la vôtre.\r"
       ]
     },
     {
@@ -35,6 +54,10 @@
       "en_US": [
         "Oh!\n",
         "Your Bag’s full, sweetie."
+      ],
+      "fr_FR": [
+        "Oh!\n",
+        "Votre Sac est plein."
       ]
     },
     {
@@ -42,6 +65,10 @@
       "en_US": [
         "Oh!\n",
         "You don’t have the money, sweetie."
+      ],
+      "fr_FR": [
+        "Oh!\n",
+        "Vous n’avez pas assez d’argent."
       ]
     },
     {
@@ -52,6 +79,13 @@
         "can only get Moomoo Milk. No.\r",
         "We choose to serve only Moomoo Milk.\n",
         "We’re very particular about it."
+      ],
+      "fr_FR": [
+        "Très bien, très bien.\r",
+        "Enfin, n’allez pas croire qu’on ne peut\n",
+        "avoir que du Lait Meumeu, non.\r",
+        "C’est un choix que nous avons fait.\n",
+        "Nous ne servons que ça, nous y tenons."
       ]
     },
     {
@@ -59,19 +93,26 @@
       "en_US": [
         "Get your Moomoo Milk by the dozen.\n",
         "That’s of course twelve to a dozen.\r"
+      ],
+      "fr_FR": [
+        "Voilà votre douzaine de bouteilles de\n",
+        "Lait Meumeu, à boire sans modération!\r"
       ]
     },
     {
       "id": "Cafe_Text_1Bottle",
-      "en_US": "1 BOTTLE"
+      "en_US": "1 BOTTLE",
+      "fr_FR": "1 BOUTEILLE"
     },
     {
       "id": "Cafe_Text_1Dozen",
-      "en_US": "1 DOZEN"
+      "en_US": "1 DOZEN",
+      "fr_FR": "1 DOUZAINE"
     },
     {
       "id": "Cafe_Text_NoThanks",
-      "en_US": "NO THANKS"
+      "en_US": "NO THANKS",
+      "fr_FR": "NON MERCI"
     },
     {
       "id": "Cafe_Text_SeenPsyduckHuddledOutside",
@@ -82,6 +123,14 @@
         "chronic headaches...\r",
         "I’m afraid we’ll have to wait for them\n",
         "to get better."
+      ],
+      "fr_FR": [
+        "Dis, la jeunesse, tu as vu les\n",
+        "PSYKOKWAK regroupés dehors?\r",
+        "Les PSYKOKWAK sont des Pokémon qui\n",
+        "souffrent de migraines chroniques...\r",
+        "Je crains qu’il nous faille attendre\n",
+        "qu’ils aillent mieux."
       ]
     },
     {
@@ -91,6 +140,12 @@
         "the PSYDUCK of their headaches.\r",
         "The person who gave you the\n",
         "SecretPotion must be quite the Trainer!"
+      ],
+      "fr_FR": [
+        "Alors, alors! J’ai appris que tu avais\n",
+        "soulagé les PSYKOKWAK de leur migraine.\r",
+        "Qui t’a donné la Potionsecret? C’est\n",
+        "forcément un Dresseur d’exception."
       ]
     }
   ]

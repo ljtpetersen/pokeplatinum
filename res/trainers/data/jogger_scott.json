@@ -23,16 +23,25 @@
             "en_US": [
                 "Hufff-huff, huff-huff.\n",
                 "Want-huff a battle-huff?\r"
+            ],
+            "fr_FR": [
+                "Hufff-huff, huff-huff.\n",
+                "Tu veux-huff te battre-huff?\r"
             ]
         },
         {
             "type": "TRMSG_DEFEAT",
-            "en_US": "Huff-huff, we-huff lose-huff.\n"
+            "en_US": "Huff-huff, we-huff lose-huff.\n",
+            "fr_FR": "Huff-huff, on a-huff perdu-huff.\n"
         },
         {
             "type": "TRMSG_POST_BATTLE",
             "en_US": [
                 "Bye-huff now-huff.\n",
+                "Huff-huff, huff-huff.\n"
+            ],
+            "fr_FR": [
+                "A la-huff prochaine-huff.\n",
                 "Huff-huff, huff-huff.\n"
             ]
         },
@@ -42,6 +51,11 @@
                 "Running-huff is-huff good-huff.\n",
                 "Over-huff doing-huff it isn’t-huff!\f",
                 "Huff-huff, huff-huff.\n"
+            ],
+            "fr_FR": [
+                "La course-huff c’est-huff bon-huff mais\n",
+                "faut-huff pas-huff en faire trop-huff!\f",
+                "Huff-huff, huff-huff.\n"
             ]
         },
         {
@@ -49,7 +63,12 @@
             "en_US": [
                 "Huff-huff, huff-huff.\n",
                 "We-huff meet-huff again-huff?\r"
+            ],
+            "fr_FR": [
+                "Huff-huff, huff-huff.\n",
+                "Comme-huff on-huff se retrouve-huff.\r"
             ]
         }
-    ]
+    ],
+    "name_fr": "Lino"
 }

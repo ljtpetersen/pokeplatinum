@@ -3,87 +3,108 @@
   "messages": [
     {
       "id": "MainMenuOptions_Text_Continue",
-      "en_US": "CONTINUE"
+      "en_US": "CONTINUE",
+      "fr_FR": "CONTINUER"
     },
     {
       "id": "MainMenuOptions_Text_NewGame",
-      "en_US": "NEW GAME"
+      "en_US": "NEW GAME",
+      "fr_FR": "NOUVELLE PARTIE"
     },
     {
       "id": "MainMenuOptions_Text_MysteryGift",
-      "en_US": "MYSTERY GIFT"
+      "en_US": "MYSTERY GIFT",
+      "fr_FR": "CADEAU MYST."
     },
     {
       "id": "MainMenuOptions_Text_LinkWithPokemonRanger",
-      "en_US": "LINK WITH POKéMON RANGER"
+      "en_US": "LINK WITH POKéMON RANGER",
+      "fr_FR": "CONNEXION AVEC UN RANGER"
     },
     {
       "id": "MainMenuOptions_Text_MigrateFromRuby",
-      "en_US": "MIGRATE FROM RUBY"
+      "en_US": "MIGRATE FROM RUBY",
+      "fr_FR": "IMPORTER DEPUIS RUBIS"
     },
     {
       "id": "MainMenuOptions_Text_MigrateFromSapphire",
-      "en_US": "MIGRATE FROM SAPPHIRE"
+      "en_US": "MIGRATE FROM SAPPHIRE",
+      "fr_FR": "IMPORTER DEPUIS SAPHIR"
     },
     {
       "id": "MainMenuOptions_Text_MigrateFromLeafgreen",
-      "en_US": "MIGRATE FROM LEAFGREEN"
+      "en_US": "MIGRATE FROM LEAFGREEN",
+      "fr_FR": "IMPORTER DEPUIS VERT FEUILLE"
     },
     {
       "id": "MainMenuOptions_Text_MigrateFromFirered",
-      "en_US": "MIGRATE FROM FIRERED"
+      "en_US": "MIGRATE FROM FIRERED",
+      "fr_FR": "IMPORTER DEPUIS ROUGE FEU"
     },
     {
       "id": "MainMenuOptions_Text_MigrateFromEmerald",
-      "en_US": "MIGRATE FROM EMERALD"
+      "en_US": "MIGRATE FROM EMERALD",
+      "fr_FR": "IMPORTER DEPUIS EMERAUDE"
     },
     {
       "id": "MainMenuOptions_Text_Pedometer",
-      "en_US": "PEDOMETER"
+      "en_US": "PEDOMETER",
+      "fr_FR": "PODOMETRE"
     },
     {
       "id": "MainMenuOptions_Text_ConnectToWii",
-      "en_US": "CONNECT TO Wii"
+      "en_US": "CONNECT TO Wii",
+      "fr_FR": "SE CONNECTER A LA Wii"
     },
     {
       "id": "MainMenuOptions_Text_NintendoWfcSettings",
-      "en_US": "NINTENDO WFC SETTINGS"
+      "en_US": "NINTENDO WFC SETTINGS",
+      "fr_FR": "PARAMETRES CWF NINTENDO"
     },
     {
       "id": "MainMenuOptions_Text_Player",
-      "en_US": "PLAYER"
+      "en_US": "PLAYER",
+      "fr_FR": "JOUEUR"
     },
     {
       "id": "MainMenuOptions_Text_Time",
-      "en_US": "TIME"
+      "en_US": "TIME",
+      "fr_FR": "DUREE DE JEU"
     },
     {
       "id": "MainMenuOptions_Text_Pokedex",
-      "en_US": "POKéDEX"
+      "en_US": "POKéDEX",
+      "fr_FR": "POKéDEX"
     },
     {
       "id": "MainMenuOptions_Text_Badges",
-      "en_US": "BADGES"
+      "en_US": "BADGES",
+      "fr_FR": "BADGES"
     },
     {
       "id": "MainMenuOptions_Text_PlayerName",
-      "en_US": "{STRVAR_1 3, 0, 0}"
+      "en_US": "{STRVAR_1 3, 0, 0}",
+      "fr_FR": "{STRVAR_1 3, 0, 0}"
     },
     {
       "id": "MainMenuOptions_Text_PlayTime",
-      "en_US": "{STRVAR_1 52, 0, 0}:{STRVAR_1 51, 1, 0}"
+      "en_US": "{STRVAR_1 52, 0, 0}:{STRVAR_1 51, 1, 0}",
+      "fr_FR": "{STRVAR_1 52, 0, 0}:{STRVAR_1 51, 1, 0}"
     },
     {
       "id": "MainMenuOptions_Text_SeenSpeciesCount",
-      "en_US": "{STRVAR_1 52, 0, 0}"
+      "en_US": "{STRVAR_1 52, 0, 0}",
+      "fr_FR": "{STRVAR_1 52, 0, 0}"
     },
     {
       "id": "MainMenuOptions_Text_BadgeCount",
-      "en_US": "{STRVAR_1 50, 0, 0}"
+      "en_US": "{STRVAR_1 50, 0, 0}",
+      "fr_FR": "{STRVAR_1 50, 0, 0}"
     },
     {
       "id": "MainMenuOptions_Text_WiiMessageSettings",
-      "en_US": "Wii MESSAGE SETTINGS"
+      "en_US": "Wii MESSAGE SETTINGS",
+      "fr_FR": "PARAMETRES MESSAGES Wii"
     }
   ]
 }

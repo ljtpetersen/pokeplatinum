@@ -7,7 +7,10 @@
         "special_attack": 45,
         "special_defense": 25
     },
-    "types": [ "TYPE_NORMAL", "TYPE_NORMAL" ],
+    "types": [
+        "TYPE_NORMAL",
+        "TYPE_NORMAL"
+    ],
     "catch_rate": 170,
     "base_exp_reward": 76,
     "ev_yields": {
@@ -26,27 +29,72 @@
     "hatch_cycles": 10,
     "base_friendship": 70,
     "exp_rate": "EXP_RATE_FAST",
-    "egg_groups": [ "EGG_GROUP_FAIRY", "EGG_GROUP_FAIRY" ],
-    "abilities": [ "ABILITY_CUTE_CHARM", "ABILITY_NONE" ],
+    "egg_groups": [
+        "EGG_GROUP_FAIRY",
+        "EGG_GROUP_FAIRY"
+    ],
+    "abilities": [
+        "ABILITY_CUTE_CHARM",
+        "ABILITY_NONE"
+    ],
     "safari_flee_rate": 0,
     "body_color": "MON_COLOR_PINK",
     "flip_sprite": false,
     "icon_palette": 0,
     "learnset": {
         "by_level": [
-            [ 1, "MOVE_SING" ],
-            [ 5, "MOVE_DEFENSE_CURL" ],
-            [ 9, "MOVE_POUND" ],
-            [ 13, "MOVE_DISABLE" ],
-            [ 17, "MOVE_ROLLOUT" ],
-            [ 21, "MOVE_DOUBLE_SLAP" ],
-            [ 25, "MOVE_REST" ],
-            [ 29, "MOVE_BODY_SLAM" ],
-            [ 33, "MOVE_GYRO_BALL" ],
-            [ 37, "MOVE_WAKE_UP_SLAP" ],
-            [ 41, "MOVE_MIMIC" ],
-            [ 45, "MOVE_HYPER_VOICE" ],
-            [ 49, "MOVE_DOUBLE_EDGE" ]
+            [
+                1,
+                "MOVE_SING"
+            ],
+            [
+                5,
+                "MOVE_DEFENSE_CURL"
+            ],
+            [
+                9,
+                "MOVE_POUND"
+            ],
+            [
+                13,
+                "MOVE_DISABLE"
+            ],
+            [
+                17,
+                "MOVE_ROLLOUT"
+            ],
+            [
+                21,
+                "MOVE_DOUBLE_SLAP"
+            ],
+            [
+                25,
+                "MOVE_REST"
+            ],
+            [
+                29,
+                "MOVE_BODY_SLAM"
+            ],
+            [
+                33,
+                "MOVE_GYRO_BALL"
+            ],
+            [
+                37,
+                "MOVE_WAKE_UP_SLAP"
+            ],
+            [
+                41,
+                "MOVE_MIMIC"
+            ],
+            [
+                45,
+                "MOVE_HYPER_VOICE"
+            ],
+            [
+                49,
+                "MOVE_DOUBLE_EDGE"
+            ]
         ],
         "by_tm": [
             "TM01",
@@ -190,6 +238,18 @@
                 "つぶらな　ひとみが　ゆれるとき\n",
                 "だれもが　ねむくなってしまう\n",
                 "こもりうたを　うたいはじめる。"
+            ]
+        },
+        "local_version": {
+            "entry_text": [
+                "When it wavers its big, round\n",
+                "eyes, it begins singing a lullaby\n",
+                "that makes everyone drowsy."
+            ],
+            "entry_text_fr": [
+                "Lorsqu’il roule ses grands yeux\n",
+                "ronds, il entonne une berceuse\n",
+                "qui endort son auditoire."
             ]
         }
     },

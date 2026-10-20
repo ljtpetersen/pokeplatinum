@@ -32,11 +32,16 @@
             "en_US": [
                 "I am one of the Ninja Trio!\n",
                 "Being discovered means I must battle!\r"
+            ],
+            "fr_FR": [
+                "Je fais partie du Trio Ninja! \n",
+                "Quand on me débusque, je combats!\r"
             ]
         },
         {
             "type": "TRMSG_DEFEAT",
-            "en_US": "I concede defeat...\n"
+            "en_US": "I concede defeat...\n",
+            "fr_FR": "J’admets ma défaite..."
         },
         {
             "type": "TRMSG_POST_BATTLE",
@@ -45,6 +50,12 @@
                 "I do?\r",
                 "Maybe I’ll go catch some Contests in\n",
                 "Hearthome City. Maybe I’ll do that.\n"
+            ],
+            "fr_FR": [
+                "Ma couverture est fichue, qu’est-ce\n",
+                "que je vais faire?\r",
+                "Je pourrais aller voir les Concours à \n",
+                "Unionpolis. Ça serait une idée.\n"
             ]
         },
         {
@@ -53,7 +64,13 @@
                 "Do you remember me?\n",
                 "I am one of the Ninja Trio!\f",
                 "Being discovered means I must battle!\r"
+            ],
+            "fr_FR": [
+                "Tu te souviens de moi?\n",
+                "Je fais partie du Trio Ninja!\f",
+                "Quand on me débusque, je combats!\r"
             ]
         }
-    ]
+    ],
+    "name_fr": "Luka"
 }

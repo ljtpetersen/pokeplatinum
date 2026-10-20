@@ -27,5 +27,11 @@
     "contest": {
         "effect": "CONTEST_EFFECT_BASIC",
         "type": "CONTEST_TYPE_TOUGH"
-    }
+    },
+    "name_fr": "Ecras’Face",
+    "description_fr": [
+        "Ecrase l’ennemi\n",
+        "avec les pattes\n",
+        "avant, la queue, etc."
+    ]
 }

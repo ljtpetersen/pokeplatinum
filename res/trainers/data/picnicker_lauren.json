@@ -29,6 +29,10 @@
             "en_US": [
                 "Go do it, my Pokémon!\n",
                 "I’ll work hard, too!\r"
+            ],
+            "fr_FR": [
+                "Allez, mon Pokémon!\n",
+                "Faisons le maximum!\r"
             ]
         },
         {
@@ -36,6 +40,10 @@
             "en_US": [
                 "Oh...\n",
                 "We lost..."
+            ],
+            "fr_FR": [
+                "Oh...\n",
+                "On a perdu...\n"
             ]
         },
         {
@@ -45,6 +53,12 @@
                 "Jubilife City next.\r",
                 "Or maybe we should go to the Global\n",
                 "Terminal?\n"
+            ],
+            "fr_FR": [
+                "Je crois que notre prochaine étape\n",
+                "sera le siège de Féli-Télé, à Féli-Cité.\r",
+                "Mais nous irons peut-être d’abord\n",
+                "faire un tour au Terminal Mondial.\n"
             ]
         },
         {
@@ -54,7 +68,14 @@
                 "us before?\r",
                 "We feel good today, so we’ll be happy\n",
                 "to face you again!\r"
+            ],
+            "fr_FR": [
+                "Euh, tu ne serais pas le Dresseur qui\n",
+                "a gagné contre nous la dernière fois?\r",
+                "Aujourd’hui, on est en pleine forme!\n",
+                "C’est le moment de la revanche!\r"
             ]
         }
-    ]
+    ],
+    "name_fr": "Suzy"
 }

@@ -3,63 +3,81 @@
   "messages": [
     {
       "id": "pl_msg_00000343_00000",
-      "en_US": "Move Pokémon"
+      "en_US": "Move Pokémon",
+      "fr_FR": "Move Pokémon"
     },
     {
       "id": "pl_msg_00000343_00001",
-      "en_US": "Move Items"
+      "en_US": "Move Items",
+      "fr_FR": "Move Items"
     },
     {
       "id": "pl_msg_00000343_00002",
-      "en_US": "Compare Pokémon"
+      "en_US": "Compare Pokémon",
+      "fr_FR": "Compare Pokémon"
     },
     {
       "id": "pl_msg_00000343_00003",
-      "en_US": "Get Pokétch"
+      "en_US": "Get Pokétch",
+      "fr_FR": "Get Pokétch"
     },
     {
       "id": "pl_msg_00000343_00004",
-      "en_US": "Vocabulary system 1"
+      "en_US": "Vocabulary system 1",
+      "fr_FR": "Vocabulary system 1"
     },
     {
       "id": "pl_msg_00000343_00005",
-      "en_US": "Vocabulary system 2"
+      "en_US": "Vocabulary system 2",
+      "fr_FR": "Vocabulary system 2"
     },
     {
       "id": "pl_msg_00000343_00006",
-      "en_US": "Vocabulary system (sentence)"
+      "en_US": "Vocabulary system (sentence)",
+      "fr_FR": "Vocabulary system (sentence)"
     },
     {
       "id": "pl_msg_00000343_00007",
-      "en_US": "Current full"
+      "en_US": "Current full",
+      "fr_FR": "Current full"
     },
     {
       "id": "pl_msg_00000343_00008",
-      "en_US": "Box full"
+      "en_US": "Box full",
+      "fr_FR": "Box full"
     },
     {
       "id": "pl_msg_00000343_00009",
-      "en_US": "All words & phrases"
+      "en_US": "All words & phrases",
+      "fr_FR": "All words & phrases"
     },
     {
       "id": "pl_msg_00000343_00010",
-      "en_US": "Trade demo"
+      "en_US": "Trade demo",
+      "fr_FR": "Trade demo"
     },
     {
       "id": "pl_msg_00000343_00011",
-      "en_US": "Hall of Fame demo"
+      "en_US": "Hall of Fame demo",
+      "fr_FR": "Hall of Fame demo"
     },
     {
       "id": "pl_msg_00000343_00012",
-      "en_US": "Hall of Fame (PC)"
+      "en_US": "Hall of Fame (PC)",
+      "fr_FR": "Hall of Fame (PC)"
     },
     {
       "id": "pl_msg_00000343_00013",
-      "en_US": "ENDING"
+      "en_US": "ENDING",
+      "fr_FR": "ENDING"
     },
     {
       "id": "pl_msg_00000343_00014",
       "en_US": [
+        "ABCDEFGHIJKLMNOPQRS\n",
+        "TUVWXYZ!?"
+      ],
+      "fr_FR": [
         "ABCDEFGHIJKLMNOPQRS\n",
         "TUVWXYZ!?"
       ]

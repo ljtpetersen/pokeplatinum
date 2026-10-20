@@ -13,6 +13,17 @@
         "You have a winning aura about you.\r",
         "So, anyway, this will be fun.\n",
         "Let’s have our battle!\r"
+      ],
+      "fr_FR": [
+        "Tu m’as fait attendre!\r",
+        "Je suis Flo, le Champion d’Arène de\n",
+        "Vestigion, experte ès type Plante!\r",
+        "Il m’a suffi d’un regard pour savoir que\n",
+        "tu arriverais jusqu’à moi.\r",
+        "Mon intuition ne m’a pas trompée.\n",
+        "Tout en toi respire la victoire.\r",
+        "Bref, passons aux choses sérieuses.\n",
+        "En garde!\r"
       ]
     },
     {
@@ -26,6 +37,14 @@
         "you love your Pokémon.\r",
         "In recognition of that, I proudly\n",
         "grant you this!\r"
+      ],
+      "fr_FR": [
+        "Je me répète, mais tu es vraiment\n",
+        "coriace!\r",
+        "Ça n’a pas dû être facile de faire de\n",
+        "tes Pokémon de si bons combattants.\r",
+        "Ça prouve à quel point tu les aimes.\n",
+        "Tiens, en guise de récompense!\r"
       ]
     },
     {
@@ -33,6 +52,10 @@
       "en_US": [
         "{STRVAR_1 3, 0, 0} received the\n",
         "Forest Badge from Gardenia!"
+      ],
+      "fr_FR": [
+        "{STRVAR_1 3, 0, 0} obtient le\n",
+        "Badge Forêt de Flo!"
       ]
     },
     {
@@ -46,6 +69,16 @@
         "will obey you up to Lv. 30.\r",
         "I’ve also got something else.\n",
         "It’s a gift from me!\r"
+      ],
+      "fr_FR": [
+        "Avec ce Badge, tes Pokémon peuvent\n",
+        "désormais utiliser la capacité secrète\f",
+        "Coupe hors combat.\r",
+        "Et maintenant que tu as deux Badges\n",
+        "d’Arène, les Pokémon obtenus au cours\f",
+        "d’un échange t’obéiront jusqu’au N. 30.\r",
+        "J’ai aussi autre chose pour toi!\n",
+        "Attrape! Cadeau!\r"
       ]
     },
     {
@@ -56,6 +89,13 @@
         "It’s one of my favorite moves.\r",
         "The heavier the foe, the more\n",
         "damage this move will cause."
+      ],
+      "fr_FR": [
+        "La {STRVAR_1 8, 0, 0} contient la capacité\n",
+        "{STRVAR_1 6, 1, 0}.\r",
+        "Une de mes préférées.\r",
+        "Plus l’ennemi est lourd, plus les\n",
+        "dégâts infligés sont importants."
       ]
     },
     {
@@ -65,6 +105,12 @@
         "about you, it’s this!\r",
         "You and your Pokémon are gonna get\n",
         "even tougher, and I mean seriously!"
+      ],
+      "fr_FR": [
+        "S’il y a une chose dont je suis sûre à\n",
+        "ton sujet, c’est celle-là!\r",
+        "Toi et tes Pokémon allez devenir de plus\n",
+        "en plus forts! Aucun doute là-dessus!"
       ]
     },
     {
@@ -72,6 +118,10 @@
       "en_US": [
         "Welcome!\n",
         "Without further ado, let’s go!\r"
+      ],
+      "fr_FR": [
+        "Bienvenue!\n",
+        "Ne perdons pas de temps en bavardage!\r"
       ]
     },
     {
@@ -80,6 +130,11 @@
         "This gym’s floral clock...\n",
         "You can walk on its hands.\f",
         "That’s how you get to the next Trainer."
+      ],
+      "fr_FR": [
+        "Tu vois l’horloge en forme de fleur?\n",
+        "Marche sur ses aiguilles pour atteindre\f",
+        "le Dresseur suivant.\n"
       ]
     },
     {
@@ -88,6 +143,12 @@
         "My Grass-type Pokémon can dole out\n",
         "some serious special attacks...\r",
         "I won’t let you win...easily!\r"
+      ],
+      "fr_FR": [
+        "Mes Pokémon de type Plante disposent\n",
+        "d’attaques pas piquées des vers...\r",
+        "Je ne te laisserai pas l’emporter...\n",
+        "facilement!\r"
       ]
     },
     {
@@ -98,6 +159,14 @@
         "The fountain also stops if I lose.\r",
         "It’s so you can go to the Pokémon\n",
         "Center during your challenge."
+      ],
+      "fr_FR": [
+        "Chaque fois que tu bats un Dresseur,\n",
+        "les aiguilles de l’horloge bougent.\r",
+        "Et la fontaine cesse de jaillir si\n",
+        "je perds.\r",
+        "Comme ça, tu peux aller au Centre\n",
+        "Pokémon entre deux combats."
       ]
     },
     {
@@ -105,6 +174,10 @@
       "en_US": [
         "You can’t win when you’re distracted by\n",
         "the lovely aromas of Pokémon!\r"
+      ],
+      "fr_FR": [
+        "Impossible de l’emporter face à des\n",
+        "Pokémon à l’odeur enivrante!\r"
       ]
     },
     {
@@ -114,6 +187,12 @@
         "flows...\r",
         "There’s only our Gym Leader left.\n",
         "Go on, don’t be afraid!"
+      ],
+      "fr_FR": [
+        "Les aiguilles de l’horloge bougent,\n",
+        "et le temps passe...\r",
+        "Il ne reste plus que notre Champion\n",
+        "d’Arène. Vas-y, n’aie pas peur!"
       ]
     },
     {
@@ -122,6 +201,10 @@
         "The fountain’s water level dropped!\r",
         "It’s possible to walk across the\n",
         "fountain now!"
+      ],
+      "fr_FR": [
+        "La fontaine s’est arrêtée!\r",
+        "La voie est libre!"
       ]
     },
     {
@@ -143,6 +226,25 @@
         "until you beat all the Gym’s Trainers.\r",
         "It’s a bit challenging, but just think\n",
         "of it as good training and go for it!"
+      ],
+      "fr_FR": [
+        "Salut, toi!\n",
+        "Comment ça va, futur Maître?\r",
+        "J’ai dit la même chose au petit gars qui\n",
+        "est entré à fond de train tout à\f",
+        "l’heure!\r",
+        "Flo, notre Champion d’Arène, utilise des\n",
+        "Pokémon de type Plante.\r",
+        "Les Pokémon de type Plante détestent\n",
+        "le feu. Elémentaire, mon cher Dresseur!\r",
+        "Ils sont aussi très vulnérables face au\n",
+        "type Vol.\r",
+        "Oh, attends un peu. Je dois t’expliquer\n",
+        "le fonctionnement de l’Arène.\r",
+        "Avant de pouvoir défier le Champion,\n",
+        "il te faudra battre tous les Dresseurs.\r",
+        "C’est pas gagné d’avance, mais prends\n",
+        "ça comme un bon entraînement et fonce!"
       ]
     },
     {
@@ -153,6 +255,14 @@
         "Your Pokémon look much tougher than\n",
         "when they went in, too!\r",
         "At least that’s how I see it!"
+      ],
+      "fr_FR": [
+        "Oh! {STRVAR_1 3, 0, 0}!\n",
+        "Tu as vaincu le Champion d’Arène!\r",
+        "Et tes Pokémon ont l’air bien plus\n",
+        "forts qu’en entrant!\r",
+        "Enfin, c’est l’impression que ça\n",
+        "me donne!"
       ]
     },
     {
@@ -162,6 +272,12 @@
         "Leader: Gardenia\r",
         "Certified Trainers:\n",
         "{STRVAR_1 3, 1, 0}"
+      ],
+      "fr_FR": [
+        "Arène Pokémon de Vestigion\n",
+        "Champion: Flo\r",
+        "Nouveau Dresseur reconnu:\n",
+        "{STRVAR_1 3, 1, 0}"
       ]
     },
     {
@@ -170,6 +286,13 @@
         "Eterna City Pokémon Gym\n",
         "Leader: Gardenia\r",
         "Certified Trainers:\n",
+        "{STRVAR_1 3, 0, 0}\f",
+        "{STRVAR_1 3, 1, 0}"
+      ],
+      "fr_FR": [
+        "Arène Pokémon de Vestigion\n",
+        "Champion: Flo\r",
+        "Nouveaux Dresseurs reconnus:\n",
         "{STRVAR_1 3, 0, 0}\f",
         "{STRVAR_1 3, 1, 0}"
       ]

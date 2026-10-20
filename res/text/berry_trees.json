@@ -3,53 +3,68 @@
   "messages": [
     {
       "id": "BerryTrees_Text_SoftEarthySoil",
-      "en_US": "It’s soft, earthy soil.\r"
+      "en_US": "It’s soft, earthy soil.\r",
+      "fr_FR": "C’est un sol meuble et fertile.\r"
     },
     {
       "id": "BerryTrees_Text_MulchHasBeenLaidDown",
-      "en_US": "{STRVAR_1 8, 0, 0} has been laid down.\r"
+      "en_US": "{STRVAR_1 8, 0, 0} has been laid down.\r",
+      "fr_FR": "Du {STRVAR_1 8, 0, 0} a été répandu.\r"
     },
     {
       "id": "BerryTrees_Text_Fertilize",
-      "en_US": "FERTILIZE"
+      "en_US": "FERTILIZE",
+      "fr_FR": "REPANDRE ENGRAIS"
     },
     {
       "id": "BerryTrees_Text_PlantBerry",
-      "en_US": "PLANT BERRY"
+      "en_US": "PLANT BERRY",
+      "fr_FR": "PLANTER BAIE"
     },
     {
       "id": "BerryTrees_Text_Exit",
-      "en_US": "EXIT"
+      "en_US": "EXIT",
+      "fr_FR": "RETOUR"
     },
     {
       "id": "BerryTrees_Text_PutDownSomeFertilizer",
-      "en_US": "Put down some fertilizer?"
+      "en_US": "Put down some fertilizer?",
+      "fr_FR": "Voulez-vous répandre de l’engrais?"
     },
     {
       "id": "BerryTrees_Text_Yes",
-      "en_US": "YES"
+      "en_US": "YES",
+      "fr_FR": "OUI"
     },
     {
       "id": "BerryTrees_Text_No",
-      "en_US": "NO"
+      "en_US": "NO",
+      "fr_FR": "NON"
     },
     {
       "id": "BerryTrees_Text_WantToPlantBerry",
-      "en_US": "Want to plant a Berry?"
+      "en_US": "Want to plant a Berry?",
+      "fr_FR": "Voulez-vous planter une Baie?"
     },
     {
       "id": "BerryTrees_Text_YesPlantBerry",
-      "en_US": "YES"
+      "en_US": "YES",
+      "fr_FR": "OUI"
     },
     {
       "id": "BerryTrees_Text_NoPlantBerry",
-      "en_US": "NO"
+      "en_US": "NO",
+      "fr_FR": "NON"
     },
     {
       "id": "BerryTrees_Text_MulchWasScatteredOnSoil",
       "en_US": [
         "The {STRVAR_1 8, 0, 0} was scattered\n",
         "on the soil.\r"
+      ],
+      "fr_FR": [
+        "Du {STRVAR_1 8, 0, 0} a été répandu sur\n",
+        "le sol meuble.\r"
       ]
     },
     {
@@ -57,6 +72,10 @@
       "en_US": [
         "The {STRVAR_1 8, 0, 0} was planted\n",
         "in the soft, earthy soil."
+      ],
+      "fr_FR": [
+        "Une {STRVAR_1 8, 0, 0} a été plantée dans\n",
+        "le sol meuble et fertile."
       ]
     },
     {
@@ -64,13 +83,18 @@
       "en_US": [
         "{STRVAR_1 8, 0, 0} was planted\n",
         "here.\r"
-      ]
+      ],
+      "fr_FR": "Une {STRVAR_1 8, 0, 0} a été plantée ici.\r"
     },
     {
       "id": "BerryTrees_Text_BerryPlantHasSprouted",
       "en_US": [
         "The {STRVAR_1 8, 0, 0} Berry Plant\n",
         "has sprouted.\r"
+      ],
+      "fr_FR": [
+        "Le plant de {STRVAR_1 8, 0, 0} a\n",
+        "bourgeonné.\r"
       ]
     },
     {
@@ -78,62 +102,89 @@
       "en_US": [
         "This {STRVAR_1 8, 0, 0} Plant is growing\n",
         "bigger.\r"
-      ]
+      ],
+      "fr_FR": "Le plant de {STRVAR_1 8, 0, 0} a poussé.\r"
     },
     {
       "id": "BerryTrees_Text_BerryPlantIsInBloom",
       "en_US": [
         "This {STRVAR_1 8, 0, 0} Plant is\n",
         "in bloom!\r"
+      ],
+      "fr_FR": [
+        "Les fleurs du plant de\n",
+        "{STRVAR_1 8, 0, 0} ont éclos.\r"
       ]
     },
     {
       "id": "BerryTrees_Text_WantToSprinkleWater",
-      "en_US": "Want to sprinkle some water?"
+      "en_US": "Want to sprinkle some water?",
+      "fr_FR": "Voulez-vous arroser?"
     },
     {
       "id": "BerryTrees_Text_YesWater",
-      "en_US": "YES"
+      "en_US": "YES",
+      "fr_FR": "OUI"
     },
     {
       "id": "BerryTrees_Text_NoWater",
-      "en_US": "NO"
+      "en_US": "NO",
+      "fr_FR": "NON"
     },
     {
       "id": "BerryTrees_Text_ThereAllHappy",
-      "en_US": "There! All happy!"
+      "en_US": "There! All happy!",
+      "fr_FR": "Le plant semble ravi."
     },
     {
       "id": "BerryTrees_Text_WantToPickBerries",
       "en_US": [
         "There are {STRVAR_1 51, 1, 0} {STRVAR_1 8, 0, 0}!\n",
         "Want to pick them?"
+      ],
+      "fr_FR": [
+        "Un plant de {STRVAR_1 8, 0, 0}! Il y a {STRVAR_1 51, 1, 0}\n",
+        "Baies. Voulez-vous les cueillir?"
       ]
     },
     {
       "id": "BerryTrees_Text_YesPickBerries",
-      "en_US": "YES"
+      "en_US": "YES",
+      "fr_FR": "OUI"
     },
     {
       "id": "BerryTrees_Text_NoPickBerries",
-      "en_US": "NO"
+      "en_US": "NO",
+      "fr_FR": "NON"
     },
     {
       "id": "BerryTrees_Text_PlayerLeftBerries",
       "en_US": [
         "{STRVAR_1 3, 0, 0} left the {STRVAR_1 8, 1, 0}\n",
         "where they were."
+      ],
+      "fr_FR": [
+        "{STRVAR_1 3, 0, 0} se détourne du plant\n",
+        "de {STRVAR_1 8, 1, 0}."
       ]
     },
     {
       "id": "BerryTrees_Text_YouPickedTheBerries",
-      "en_US": "You picked the {STRVAR_1 51, 1, 0} {STRVAR_1 8, 0, 0}.\r"
+      "en_US": "You picked the {STRVAR_1 51, 1, 0} {STRVAR_1 8, 0, 0}.\r",
+      "fr_FR": [
+        "Vous cueillez {STRVAR_1 51, 1, 0} Baies sur\n",
+        "le plant de {STRVAR_1 8, 0, 0}.\r"
+      ]
     },
     {
       "id": "BerryTrees_Text_BagIsFull",
       "en_US": [
         "Your Bag is full.\n",
         "The {STRVAR_1 8, 0, 0} couldn’t be taken."
+      ],
+      "fr_FR": [
+        "Votre Sac est plein. Vous ne pouvez pas\n",
+        "prendre de {STRVAR_1 8, 0, 0}."
       ]
     },
     {
@@ -143,21 +194,32 @@
         "in the Bag’s {STRVAR_1 18, 3, 0} Pocket.\r",
         "The soil returned to its soft and\n",
         "earthy state."
+      ],
+      "fr_FR": [
+        "Vous mettez votre cueillette dans la\n",
+        "Poche {STRVAR_1 18, 3, 0} du Sac.\r",
+        "Le sol redevient meuble et fertile."
       ]
     },
     {
       "id": "BerryTrees_Text_SoftEarthySoilAfterHarvest",
-      "en_US": "It’s soft, earthy soil."
+      "en_US": "It’s soft, earthy soil.",
+      "fr_FR": "C’est un sol meuble et fertile."
     },
     {
       "id": "BerryTrees_Text_MulchLaidDownAfterHarvest",
-      "en_US": "{STRVAR_1 8, 0, 0} has been laid down."
+      "en_US": "{STRVAR_1 8, 0, 0} has been laid down.",
+      "fr_FR": "Du {STRVAR_1 8, 0, 0} a été répandu."
     },
     {
       "id": "BerryTrees_Text_MulchWasScatteredAfterHarvest",
       "en_US": [
         "The {STRVAR_1 8, 0, 0} was scattered\n",
         "on the soil."
+      ],
+      "fr_FR": [
+        "Du {STRVAR_1 8, 0, 0} a été répandu sur\n",
+        "le sol meuble."
       ]
     },
     {
@@ -165,13 +227,18 @@
       "en_US": [
         "{STRVAR_1 8, 0, 0} was planted\n",
         "here."
-      ]
+      ],
+      "fr_FR": "Une {STRVAR_1 8, 0, 0} a été plantée ici."
     },
     {
       "id": "BerryTrees_Text_PlantHasSproutedAfterHarvest",
       "en_US": [
         "The {STRVAR_1 8, 0, 0} Berry Plant\n",
         "has sprouted."
+      ],
+      "fr_FR": [
+        "Le plant de {STRVAR_1 8, 0, 0} a\n",
+        "bourgeonné."
       ]
     },
     {
@@ -179,13 +246,18 @@
       "en_US": [
         "The {STRVAR_1 8, 0, 0} Plant is growing\n",
         "bigger."
-      ]
+      ],
+      "fr_FR": "Ce plant de {STRVAR_1 8, 0, 0} a poussé."
     },
     {
       "id": "BerryTrees_Text_PlantIsInBloomAfterHarvest",
       "en_US": [
         "This {STRVAR_1 8, 0, 0} Plant is\n",
         "in bloom!"
+      ],
+      "fr_FR": [
+        "Les fleurs du plant de\n",
+        "{STRVAR_1 8, 0, 0} ont éclos."
       ]
     },
     {
@@ -193,6 +265,10 @@
       "en_US": [
         "There is {STRVAR_1 8, 0, 0}!\n",
         "Want to pick it?"
+      ],
+      "fr_FR": [
+        "Un plant de {STRVAR_1 8, 0, 0}! Il y a 1\n",
+        "Baie. Voulez-vous la cueillir?"
       ]
     },
     {
@@ -200,11 +276,19 @@
       "en_US": [
         "{STRVAR_1 3, 0, 0} left the {STRVAR_1 8, 1, 0}\n",
         "where it was."
+      ],
+      "fr_FR": [
+        "{STRVAR_1 3, 0, 0} se détourne du plant\n",
+        "de {STRVAR_1 8, 1, 0}."
       ]
     },
     {
       "id": "BerryTrees_Text_YouPickedTheBerry",
-      "en_US": "You picked the {STRVAR_1 8, 0, 0}.\r"
+      "en_US": "You picked the {STRVAR_1 8, 0, 0}.\r",
+      "fr_FR": [
+        "Vous cueillez 1 Baie sur\n",
+        "le plant de {STRVAR_1 8, 0, 0}.\r"
+      ]
     }
   ]
 }

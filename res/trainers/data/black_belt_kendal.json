@@ -24,6 +24,10 @@
             "en_US": [
                 "I’ll pound the fear of my fists into\n",
                 "you all karate style, punk!\r"
+            ],
+            "fr_FR": [
+                "Tu vas connaître la terreur de mes\n",
+                "poings et de mon style karaté!\r"
             ]
         },
         {
@@ -31,6 +35,10 @@
             "en_US": [
                 "I’m so sorry...\n",
                 "I got a bit mouthy there, didn’t I?\n"
+            ],
+            "fr_FR": [
+                "Je suis désolé...\n",
+                "Je me suis trop vanté, pas vrai?\n"
             ]
         },
         {
@@ -39,7 +47,14 @@
                 "So, I’m gonna try and shatter steel!\r",
                 "I wonder how many more years it\n",
                 "would take for me to do that?\n"
+            ],
+            "fr_FR": [
+                "Alors je vais essayer de briser de\n",
+                "l’acier!\r",
+                "Je me demande combien d’années encore\n",
+                "ça va me prendre pour réussir."
             ]
         }
-    ]
+    ],
+    "name_fr": "Koichi"
 }

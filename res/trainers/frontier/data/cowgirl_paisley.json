@@ -59,6 +59,10 @@
             "en_US": [
                 "My papa’s dream...\n",
                 "I’m going to make it real."
+            ],
+            "fr_FR": [
+                "Le rêve de mon papounet...\n",
+                "C’est à moi de le réaliser!"
             ]
         },
         {
@@ -66,6 +70,10 @@
             "en_US": [
                 "Papa, did you see?\n",
                 "We did it all for you...\r"
+            ],
+            "fr_FR": [
+                "Papounet, tu as vu ça?\n",
+                "Cette victoire est pour toi...\r"
             ]
         },
         {
@@ -73,7 +81,12 @@
             "en_US": [
                 "We lost...\n",
                 "Papa, I am so sorry...\r"
+            ],
+            "fr_FR": [
+                "Perdu...\n",
+                "Pardonne-moi, papounet...\r"
             ]
         }
-    ]
+    ],
+    "name_fr": "Lisette"
 }

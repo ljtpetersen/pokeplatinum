@@ -3,47 +3,58 @@
   "messages": [
     {
       "id": "pl_msg_00000651_00000",
-      "en_US": "SWALOT Plop"
+      "en_US": "SWALOT Plop",
+      "fr_FR": "Gob’Tout"
     },
     {
       "id": "pl_msg_00000651_00001",
-      "en_US": "MIME JR. Top"
+      "en_US": "MIME JR. Top",
+      "fr_FR": "Cirque Jr."
     },
     {
       "id": "pl_msg_00000651_00002",
-      "en_US": "WOBBUFFET Pop"
+      "en_US": "WOBBUFFET Pop",
+      "fr_FR": "Eclate-Toké"
     },
     {
       "id": "pl_msg_00000651_00003",
-      "en_US": "Footprint Stamp Wht"
+      "en_US": "Footprint Stamp Wht",
+      "fr_FR": "Empreintes Poké Blc"
     },
     {
       "id": "pl_msg_00000651_00004",
-      "en_US": "Footprint Stamp Blk"
+      "en_US": "Footprint Stamp Blk",
+      "fr_FR": "Empreintes Poké Noir"
     },
     {
       "id": "pl_msg_00000651_00005",
-      "en_US": "Visitor Profiles"
+      "en_US": "Visitor Profiles",
+      "fr_FR": "Globe Visiteurs"
     },
     {
       "id": "pl_msg_00000651_00006",
-      "en_US": "Plaza News"
+      "en_US": "Plaza News",
+      "fr_FR": "Infos Square"
     },
     {
       "id": "pl_msg_00000651_00007",
-      "en_US": "Chat"
+      "en_US": "Chat",
+      "fr_FR": "Tchat"
     },
     {
       "id": "pl_msg_00000651_00008",
-      "en_US": "Tap Toys"
+      "en_US": "Tap Toys",
+      "fr_FR": "Tape-joujoux"
     },
     {
       "id": "pl_msg_00000651_00009",
-      "en_US": "Tap Toy Trades"
+      "en_US": "Tap Toy Trades",
+      "fr_FR": "Tape-joujoux offerts"
     },
     {
       "id": "pl_msg_00000651_00010",
-      "en_US": "????"
+      "en_US": "????",
+      "fr_FR": "????"
     }
   ]
 }

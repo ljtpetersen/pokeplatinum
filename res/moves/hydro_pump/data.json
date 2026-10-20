@@ -26,5 +26,11 @@
     "contest": {
         "effect": "CONTEST_EFFECT_FIRST_PERFORMANCE_ADVANTAGE",
         "type": "CONTEST_TYPE_BEAUTY"
-    }
+    },
+    "name_fr": "Hydrocanon",
+    "description_fr": [
+        "Un puissant jet d’eau\n",
+        "est dirigé sur\n",
+        "l’ennemi."
+    ]
 }

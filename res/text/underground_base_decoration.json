@@ -3,29 +3,38 @@
   "messages": [
     {
       "id": "UndergroundBaseDecoration_Text_Decor",
-      "en_US": "DECOR"
+      "en_US": "DECOR",
+      "fr_FR": "DECO"
     },
     {
       "id": "UndergroundBaseDecoration_Text_Decorate",
-      "en_US": "DECORATE"
+      "en_US": "DECORATE",
+      "fr_FR": "DECORER"
     },
     {
       "id": "UndergroundBaseDecoration_Text_PutAway",
-      "en_US": "PUT AWAY"
+      "en_US": "PUT AWAY",
+      "fr_FR": "RANGER"
     },
     {
       "id": "UndergroundBaseDecoration_Text_MoveGoods",
-      "en_US": "MOVE GOODS"
+      "en_US": "MOVE GOODS",
+      "fr_FR": "DEPLACER"
     },
     {
       "id": "UndergroundBaseDecoration_Text_Cancel",
-      "en_US": "CANCEL"
+      "en_US": "CANCEL",
+      "fr_FR": "ANNULER"
     },
     {
       "id": "UndergroundBaseDecoration_Text_DecorateDescription",
       "en_US": [
         "Pick decoration goods stored on the\n",
         "PC and display them."
+      ],
+      "fr_FR": [
+        "Prendre un article de décoration\n",
+        "stocké dans le PC pour l’exposer."
       ]
     },
     {
@@ -33,6 +42,10 @@
       "en_US": [
         "Take goods displayed in your Secret\n",
         "Base and put them away in your PC."
+      ],
+      "fr_FR": [
+        "Prendre un article de décoration de la\n",
+        "Base Secrète pour le ranger dans le PC."
       ]
     },
     {
@@ -40,63 +53,100 @@
       "en_US": [
         "Move displayed decoration goods inside\n",
         "your Secret Base."
+      ],
+      "fr_FR": [
+        "Déplacer un article de décoration\n",
+        "installé dans la Base Secrète."
       ]
     },
     {
       "id": "UndergroundBaseDecoration_Text_CancelDescription",
-      "en_US": "Cancel decorating."
+      "en_US": "Cancel decorating.",
+      "fr_FR": "Cesser de décorer la Base."
     },
     {
       "id": "UndergroundBaseDecoration_Text_GoodsSet",
-      "en_US": "Goods Set"
+      "en_US": "Goods Set",
+      "fr_FR": "Articles"
     },
     {
       "id": "UndergroundBaseDecoration_Text_GoodsSetTemplate",
-      "en_US": "{STRVAR_1 51, 0, 0}/{STRVAR_1 51, 1, 0}"
+      "en_US": "{STRVAR_1 51, 0, 0}/{STRVAR_1 51, 1, 0}",
+      "fr_FR": "{STRVAR_1 51, 0, 0}/{STRVAR_1 51, 1, 0}"
     },
     {
       "id": "UndergroundBaseDecoration_Text_GoodWasPlaced",
-      "en_US": "The {STRVAR_1 10, 0, 0} was placed."
+      "en_US": "The {STRVAR_1 10, 0, 0} was placed.",
+      "fr_FR": [
+        "Vous placez l’article {STRVAR_1 10, 0, 0}\n",
+        "dans la Base Secrète."
+      ]
     },
     {
       "id": "UndergroundBaseDecoration_Text_CantPlaceHere",
-      "en_US": "It can’t be placed here."
+      "en_US": "It can’t be placed here.",
+      "fr_FR": "Impossible de placer ça ici."
     },
     {
       "id": "UndergroundBaseDecoration_Text_GoodReturnedToPC",
       "en_US": [
         "The {STRVAR_1 10, 0, 0} was\n",
         "returned to the PC."
+      ],
+      "fr_FR": [
+        "Vous rangez l’article {STRVAR_1 10, 0, 0} \n",
+        "dans le PC."
       ]
     },
     {
       "id": "UndergroundBaseDecoration_Text_BigBoulderRemoved",
-      "en_US": "The Big Boulder was removed."
+      "en_US": "The Big Boulder was removed.",
+      "fr_FR": "Vous retirez le Gros Rocher."
     },
     {
       "id": "UndergroundBaseDecoration_Text_CantRemoveBigBoulder",
-      "en_US": "You can’t remove a Big Boulder."
+      "en_US": "You can’t remove a Big Boulder.",
+      "fr_FR": [
+        "Vous ne pouvez pas retirer\n",
+        "de Gros Rocher."
+      ]
     },
     {
       "id": "UndergroundBaseDecoration_Text_CantMoveBigBoulder",
-      "en_US": "You can’t move a Big Boulder."
+      "en_US": "You can’t move a Big Boulder.",
+      "fr_FR": [
+        "Vous ne pouvez pas déplacer \n",
+        "de Gros Rocher."
+      ]
     },
     {
       "id": "UndergroundBaseDecoration_Text_CanRemove1MoreBoulder",
       "en_US": [
         "You are able to remove {STRVAR_1 51, 0, 0} more\n",
         "Big Boulder."
+      ],
+      "fr_FR": [
+        "Vous pouvez encore retirer\n",
+        "{STRVAR_1 51, 0, 0} Gros Rocher."
       ]
     },
     {
       "id": "UndergroundBaseDecoration_Text_CantRemoveMoreBoulders",
-      "en_US": "No more Big Boulders can be removed."
+      "en_US": "No more Big Boulders can be removed.",
+      "fr_FR": [
+        "Vous ne pouvez plus retirer de \n",
+        "Gros Rocher."
+      ]
     },
     {
       "id": "UndergroundBaseDecoration_Text_NoGoodsInPC",
       "en_US": [
         "There are no decoration goods stored\n",
         "on your PC."
+      ],
+      "fr_FR": [
+        "Il n’y a aucun article de \n",
+        "décoration stocké dans le PC."
       ]
     },
     {
@@ -104,6 +154,10 @@
       "en_US": [
         "No more decoration goods can be\n",
         "displayed."
+      ],
+      "fr_FR": [
+        "Il n’y a plus la place d’exposer\n",
+        "des articles de décoration."
       ]
     },
     {
@@ -111,25 +165,36 @@
       "en_US": [
         "That decoration good is already out\n",
         "on display."
+      ],
+      "fr_FR": [
+        "Cet article de décoration est déjà\n",
+        "exposé."
       ]
     },
     {
       "id": "UndergroundBaseDecoration_Text_CantPutAwayPC",
-      "en_US": "The PC cannot be put away."
+      "en_US": "The PC cannot be put away.",
+      "fr_FR": "On ne range pas le PC!"
     },
     {
       "id": "UndergroundBaseDecoration_Text_CantMovePC",
-      "en_US": "The PC cannot be moved."
+      "en_US": "The PC cannot be moved.",
+      "fr_FR": "On ne touche pas au PC!"
     },
     {
       "id": "UndergroundBaseDecoration_Text_QuitDecorating_Unused",
-      "en_US": "Quit decorating."
+      "en_US": "Quit decorating.",
+      "fr_FR": "Cesser de décorer la Base."
     },
     {
       "id": "UndergroundBaseDecoration_Text_CanRemoveXMoreBoulders",
       "en_US": [
         "You are able to remove {STRVAR_1 51, 0, 0} more\n",
         "Big Boulders."
+      ],
+      "fr_FR": [
+        "Vous pouvez encore retirer\n",
+        "{STRVAR_1 51, 0, 0} Gros Rochers."
       ]
     }
   ]

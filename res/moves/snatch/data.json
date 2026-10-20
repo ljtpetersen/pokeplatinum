@@ -22,5 +22,13 @@
     "contest": {
         "effect": "CONTEST_EFFECT_STEAL_VOLTAGE",
         "type": "CONTEST_TYPE_SMART"
-    }
+    },
+    "name_fr": "Saisie",
+    "description_fr": [
+        "Le lanceur vole\n",
+        "l’effet des capacités\n",
+        "de soin ou de\n",
+        "changement de stats\n",
+        "utilisées par l’ennemi."
+    ]
 }

@@ -86,6 +86,10 @@
             "en_US": [
                 "We’ve gotten out of tighter spots\n",
                 "than this plenty of times before!\n"
+            ],
+            "fr_FR": [
+                "On a déjà affronté des situations bien\n",
+                "plus difficiles que celle-ci avant!\n"
             ]
         },
         {
@@ -93,6 +97,10 @@
             "en_US": [
                 "We’re not done yet! Neither me nor\n",
                 "my Pokémon have given up!"
+            ],
+            "fr_FR": [
+                "On n’est pas encore battus! Ni moi ni\n",
+                "mes Pokémon n’avons encore abandonné!"
             ]
         },
         {
@@ -100,7 +108,12 @@
             "en_US": [
                 "What just happened?!\n",
                 "You’re telling me I lost?!\n"
+            ],
+            "fr_FR": [
+                "Qu’est-ce qui s’est passé?!\n",
+                "Tu veux dire que j’ai perdu?!\n"
             ]
         }
-    ]
+    ],
+    "name_fr": "Eddy"
 }

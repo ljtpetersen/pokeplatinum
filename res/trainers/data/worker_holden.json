@@ -43,6 +43,12 @@
                 "like you to the ironworks!\r",
                 "Let’s mark the occasion with\n",
                 "a battle!\r"
+            ],
+            "fr_FR": [
+                "Eh bien! Ce n’est pas tous les jours\n",
+                "qu’on a de la visite à la forge!\r",
+                "Faisons un combat, pour marquer\n",
+                "le coup!\r"
             ]
         },
         {
@@ -50,6 +56,10 @@
             "en_US": [
                 "Fire! And once more, only because I\n",
                 "feel like it, fiyaaaah!\n"
+            ],
+            "fr_FR": [
+                "Go! Go! GO! Combat! Combat!\n",
+                "COMBAT! Allez! Allez! ALLEZ!"
             ]
         },
         {
@@ -57,7 +67,12 @@
             "en_US": [
                 "The floor panels move automatically.\n",
                 "We’re pretty proud of them here!\n"
+            ],
+            "fr_FR": [
+                "Les panneaux au sol sont automatiques.\n",
+                "On en est tous très fiers, ici!\n"
             ]
         }
-    ]
+    ],
+    "name_fr": "Joseph"
 }

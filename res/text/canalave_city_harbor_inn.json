@@ -9,6 +9,13 @@
         "...Kekeke...\r",
         "We’ve had a reservation for you.\n",
         "We’ve held it a long time...\r"
+      ],
+      "fr_FR": [
+        "... Bienvenue...\r",
+        "...\n",
+        "... Nyihihi...\r",
+        "Nous avons une réservation à ton nom.\n",
+        "Nous t’attendons depuis longtemps...\r"
       ]
     },
     {
@@ -16,11 +23,16 @@
       "en_US": [
         "{STRVAR_1 3, 0, 0} lay down on the bed as if\n",
         "bidden there...\r"
+      ],
+      "fr_FR": [
+        "{STRVAR_1 3, 0, 0} s’allonge sur le lit comme\n",
+        "si une force l’attirait...\r"
       ]
     },
     {
       "id": "CanalaveCityHarborInn_Text_PlayerAwakened",
-      "en_US": "{STRVAR_1 3, 0, 0} awakened!"
+      "en_US": "{STRVAR_1 3, 0, 0} awakened!",
+      "fr_FR": "{STRVAR_1 3, 0, 0} se réveille!"
     },
     {
       "id": "CanalaveCityHarborInn_Text_Dummy3",
@@ -43,6 +55,23 @@
         "dreadful dreams you bring.\r",
         "If someone does, Fullmoon Island is\n",
         "nearby...\r",
+        "...\r"
+      ],
+      "fr_FR": [
+        "Aux marges de la conscience, ces mots\n",
+        "se font entendre...\r",
+        "???: DARKRAI...\n",
+        "Grand est ton pouvoir.\r",
+        "Sans le vouloir, tu plonges les gens et\n",
+        "les Pokémon qui te côtoient dans\f",
+        "d’affreux cauchemars...\r",
+        "Il existe un endroit qui t’est destiné.\r",
+        "L’Ile Nouvellune...\n",
+        "Là-bas, tu seras seul.\r",
+        "Il n’y aura personne pour subir tes\n",
+        "rêves effrayants.\r",
+        "Et si jamais cela devait se produire,\n",
+        "l’Ile Pleine Lune est proche...\r",
         "...\r"
       ]
     },

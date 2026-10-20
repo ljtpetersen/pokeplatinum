@@ -24,6 +24,10 @@
             "en_US": [
                 "I’ve lost my way...\n",
                 "Here of all places...\r"
+            ],
+            "fr_FR": [
+                "Je me suis perdu...\n",
+                "Pourquoi fallait-il que ça m’arrive ici?\r"
             ]
         },
         {
@@ -31,6 +35,10 @@
             "en_US": [
                 "Having lost his way, the Trainer lost\n",
                 "the battle too...\n"
+            ],
+            "fr_FR": [
+                "Et voilà, maintenant j’ai perdu \n",
+                "mon chemin ET le combat...\n"
             ]
         },
         {
@@ -38,6 +46,10 @@
             "en_US": [
                 "From being lost in the mountains so\n",
                 "long, I became a Hiker...\n"
+            ],
+            "fr_FR": [
+                "A force d’être perdu depuis tout ce \n",
+                "temps, je suis devenu un Montagnard...\n"
             ]
         },
         {
@@ -46,7 +58,13 @@
                 "I’ve lost my way again...\r",
                 "Yes, it’s me again with no sense of\n",
                 "direction...\r"
+            ],
+            "fr_FR": [
+                "Je me suis encore perdu...\r",
+                "C’est tout moi, ça. Aucun sens\n",
+                "de l’orientation...\r"
             ]
         }
-    ]
+    ],
+    "name_fr": "Léger"
 }

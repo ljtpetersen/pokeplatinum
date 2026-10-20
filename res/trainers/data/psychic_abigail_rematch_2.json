@@ -43,6 +43,11 @@
                 "Wah! That thing curled around your\n",
                 "neck!\r",
                 "...Nice scarf, kid!\r"
+            ],
+            "fr_FR": [
+                "AAAAAH! Ce truc s’est enroulé\n",
+                "autour de ton cou!\r",
+                "... Hum. Belle écharpe!\r"
             ]
         },
         {
@@ -50,7 +55,12 @@
             "en_US": [
                 "My plan to spook you didn’t go over\n",
                 "at all.\n"
+            ],
+            "fr_FR": [
+                "J’ai essayé de te faire peur,\n",
+                "mais c’est tombé à l’eau.\n"
             ]
         }
-    ]
+    ],
+    "name_fr": "Kim"
 }

@@ -33,6 +33,10 @@
             "en_US": [
                 "Why have you come back to this spot?\n",
                 "I want to know what all this means!\r"
+            ],
+            "fr_FR": [
+                "Pourquoi es-tu de retour ici?\n",
+                "Je veux savoir ce que ça signifie!\r"
             ]
         },
         {
@@ -40,7 +44,12 @@
             "en_US": [
                 "I see...\r",
                 "So that’s what it was...\n"
+            ],
+            "fr_FR": [
+                "Je vois...\r",
+                "Alors c’est ça...\n"
             ]
         }
-    ]
+    ],
+    "name_fr": "Olaf"
 }

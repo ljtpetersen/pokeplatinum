@@ -26,5 +26,13 @@
   "battlePocket": "BATTLE_POCKET_MASK_POKE_BALLS",
   "fieldUseFunc": "ITEM_USE_FUNC_NONE",
   "battleUseCategory": "BATTLE_USE_CATEGORY_POKE_BALL",
-  "itemUseParams": null
+  "itemUseParams": null,
+  "name_fr": "Luxe Ball",
+  "description_fr": [
+    "Une Poké Ball pratique qui permet de\n",
+    "gagner rapidement l’amitié d’un Pokémon\n",
+    "sauvage attrapé."
+  ],
+  "plural_fr": "Luxe Ball",
+  "article_fr": null
 }

@@ -7,135 +7,168 @@
     },
     {
       "id": "pl_msg_00000631_00001",
-      "en_US": "a {COLOR 255}Move Trap ↑{COLOR 0}"
+      "en_US": "a {COLOR 255}Move Trap ↑{COLOR 0}",
+      "fr_FR": "{COLOR 255}Piège Fronde ↑{COLOR 0}"
     },
     {
       "id": "pl_msg_00000631_00002",
-      "en_US": "a {COLOR 255}Move Trap →{COLOR 0}"
+      "en_US": "a {COLOR 255}Move Trap →{COLOR 0}",
+      "fr_FR": "{COLOR 255}Piège Fronde →{COLOR 0}"
     },
     {
       "id": "pl_msg_00000631_00003",
-      "en_US": "a {COLOR 255}Move Trap ↓{COLOR 0}"
+      "en_US": "a {COLOR 255}Move Trap ↓{COLOR 0}",
+      "fr_FR": "{COLOR 255}Piège Fronde ↓{COLOR 0}"
     },
     {
       "id": "pl_msg_00000631_00004",
-      "en_US": "a {COLOR 255}Move Trap ←{COLOR 0}"
+      "en_US": "a {COLOR 255}Move Trap ←{COLOR 0}",
+      "fr_FR": "{COLOR 255}Piège Fronde ←{COLOR 0}"
     },
     {
       "id": "pl_msg_00000631_00005",
-      "en_US": "a {COLOR 255}Hurl Trap ↑{COLOR 0}"
+      "en_US": "a {COLOR 255}Hurl Trap ↑{COLOR 0}",
+      "fr_FR": "{COLOR 255}Piège Baliste ↑{COLOR 0}"
     },
     {
       "id": "pl_msg_00000631_00006",
-      "en_US": "a {COLOR 255}Hurl Trap →{COLOR 0}"
+      "en_US": "a {COLOR 255}Hurl Trap →{COLOR 0}",
+      "fr_FR": "{COLOR 255}Piège Baliste →{COLOR 0}"
     },
     {
       "id": "pl_msg_00000631_00007",
-      "en_US": "a {COLOR 255}Hurl Trap ↓{COLOR 0}"
+      "en_US": "a {COLOR 255}Hurl Trap ↓{COLOR 0}",
+      "fr_FR": "{COLOR 255}Piège Baliste ↓{COLOR 0}"
     },
     {
       "id": "pl_msg_00000631_00008",
-      "en_US": "a {COLOR 255}Hurl Trap ←{COLOR 0}"
+      "en_US": "a {COLOR 255}Hurl Trap ←{COLOR 0}",
+      "fr_FR": "{COLOR 255}Piège Baliste ←{COLOR 0}"
     },
     {
       "id": "pl_msg_00000631_00009",
-      "en_US": "a {COLOR 255}Warp Trap{COLOR 0}"
+      "en_US": "a {COLOR 255}Warp Trap{COLOR 0}",
+      "fr_FR": "{COLOR 255}Piège Télé{COLOR 0}"
     },
     {
       "id": "pl_msg_00000631_00010",
-      "en_US": "a {COLOR 255}Hi-Warp Trap{COLOR 0}"
+      "en_US": "a {COLOR 255}Hi-Warp Trap{COLOR 0}",
+      "fr_FR": "{COLOR 255}Méga Piège Télé{COLOR 0}"
     },
     {
       "id": "pl_msg_00000631_00011",
-      "en_US": "a {COLOR 255}Hole Trap{COLOR 0}"
+      "en_US": "a {COLOR 255}Hole Trap{COLOR 0}",
+      "fr_FR": "{COLOR 255}Piège Trou{COLOR 0}"
     },
     {
       "id": "pl_msg_00000631_00012",
-      "en_US": "a {COLOR 255}Pit Trap{COLOR 0}"
+      "en_US": "a {COLOR 255}Pit Trap{COLOR 0}",
+      "fr_FR": "{COLOR 255}Piège Grotrou{COLOR 0}"
     },
     {
       "id": "pl_msg_00000631_00013",
-      "en_US": "a {COLOR 255}Reverse Trap{COLOR 0}"
+      "en_US": "a {COLOR 255}Reverse Trap{COLOR 0}",
+      "fr_FR": "{COLOR 255}Piège Inversion{COLOR 0}"
     },
     {
       "id": "pl_msg_00000631_00014",
-      "en_US": "a {COLOR 255}Confuse Trap{COLOR 0}"
+      "en_US": "a {COLOR 255}Confuse Trap{COLOR 0}",
+      "fr_FR": "{COLOR 255}Piège Confusion{COLOR 0}"
     },
     {
       "id": "pl_msg_00000631_00015",
-      "en_US": "a {COLOR 255}Run Trap{COLOR 0}"
+      "en_US": "a {COLOR 255}Run Trap{COLOR 0}",
+      "fr_FR": "{COLOR 255}Piège Coureur{COLOR 0}"
     },
     {
       "id": "pl_msg_00000631_00016",
-      "en_US": "a {COLOR 255}Fade Trap{COLOR 0}"
+      "en_US": "a {COLOR 255}Fade Trap{COLOR 0}",
+      "fr_FR": "{COLOR 255}Piège Invisible{COLOR 0}"
     },
     {
       "id": "pl_msg_00000631_00017",
-      "en_US": "a {COLOR 255}Slow Trap{COLOR 0}"
+      "en_US": "a {COLOR 255}Slow Trap{COLOR 0}",
+      "fr_FR": "{COLOR 255}Piège Ralenti{COLOR 0}"
     },
     {
       "id": "pl_msg_00000631_00018",
-      "en_US": "a {COLOR 255}Smoke Trap{COLOR 0}"
+      "en_US": "a {COLOR 255}Smoke Trap{COLOR 0}",
+      "fr_FR": "{COLOR 255}Piège Fumée{COLOR 0}"
     },
     {
       "id": "pl_msg_00000631_00019",
-      "en_US": "a {COLOR 255}Big Smoke Trap{COLOR 0}"
+      "en_US": "a {COLOR 255}Big Smoke Trap{COLOR 0}",
+      "fr_FR": "{COLOR 255}Piège Nuage{COLOR 0}"
     },
     {
       "id": "pl_msg_00000631_00020",
-      "en_US": "a {COLOR 255}Rock Trap{COLOR 0}"
+      "en_US": "a {COLOR 255}Rock Trap{COLOR 0}",
+      "fr_FR": "{COLOR 255}Piège Rocher{COLOR 0}"
     },
     {
       "id": "pl_msg_00000631_00021",
-      "en_US": "a {COLOR 255}Rockfall Trap{COLOR 0}"
+      "en_US": "a {COLOR 255}Rockfall Trap{COLOR 0}",
+      "fr_FR": "{COLOR 255}Piège Grorocher{COLOR 0}"
     },
     {
       "id": "pl_msg_00000631_00022",
-      "en_US": "a {COLOR 255}Foam Trap{COLOR 0}"
+      "en_US": "a {COLOR 255}Foam Trap{COLOR 0}",
+      "fr_FR": "{COLOR 255}Piège Mousse{COLOR 0}"
     },
     {
       "id": "pl_msg_00000631_00023",
-      "en_US": "a {COLOR 255}Bubble Trap{COLOR 0}"
+      "en_US": "a {COLOR 255}Bubble Trap{COLOR 0}",
+      "fr_FR": "{COLOR 255}Piège Bulle{COLOR 0}"
     },
     {
       "id": "pl_msg_00000631_00024",
-      "en_US": "an {COLOR 255}Alert Trap 1{COLOR 0}"
+      "en_US": "an {COLOR 255}Alert Trap 1{COLOR 0}",
+      "fr_FR": "{COLOR 255}Piège Alerte 1{COLOR 0}"
     },
     {
       "id": "pl_msg_00000631_00025",
-      "en_US": "an {COLOR 255}Alert Trap 2{COLOR 0}"
+      "en_US": "an {COLOR 255}Alert Trap 2{COLOR 0}",
+      "fr_FR": "{COLOR 255}Piège Alerte 2{COLOR 0}"
     },
     {
       "id": "pl_msg_00000631_00026",
-      "en_US": "an {COLOR 255}Alert Trap 3{COLOR 0}"
+      "en_US": "an {COLOR 255}Alert Trap 3{COLOR 0}",
+      "fr_FR": "{COLOR 255}Piège Alerte 3{COLOR 0}"
     },
     {
       "id": "pl_msg_00000631_00027",
-      "en_US": "an {COLOR 255}Alert Trap 4{COLOR 0}"
+      "en_US": "an {COLOR 255}Alert Trap 4{COLOR 0}",
+      "fr_FR": "{COLOR 255}Piège Alerte 4{COLOR 0}"
     },
     {
       "id": "pl_msg_00000631_00028",
-      "en_US": "a {COLOR 255}Leaf Trap{COLOR 0}"
+      "en_US": "a {COLOR 255}Leaf Trap{COLOR 0}",
+      "fr_FR": "{COLOR 255}Piège Feuille{COLOR 0}"
     },
     {
       "id": "pl_msg_00000631_00029",
-      "en_US": "a {COLOR 255}Flower Trap{COLOR 0}"
+      "en_US": "a {COLOR 255}Flower Trap{COLOR 0}",
+      "fr_FR": "{COLOR 255}Piège Fleur{COLOR 0}"
     },
     {
       "id": "pl_msg_00000631_00030",
-      "en_US": "an {COLOR 255}Ember Trap{COLOR 0}"
+      "en_US": "an {COLOR 255}Ember Trap{COLOR 0}",
+      "fr_FR": "{COLOR 255}Piège Feu{COLOR 0}"
     },
     {
       "id": "pl_msg_00000631_00031",
-      "en_US": "a {COLOR 255}Fire Trap{COLOR 0}"
+      "en_US": "a {COLOR 255}Fire Trap{COLOR 0}",
+      "fr_FR": "{COLOR 255}Piège Brasier{COLOR 0}"
     },
     {
       "id": "pl_msg_00000631_00032",
-      "en_US": "a {COLOR 255}Radar Trap{COLOR 0}"
+      "en_US": "a {COLOR 255}Radar Trap{COLOR 0}",
+      "fr_FR": "{COLOR 255}Piège Radar{COLOR 0}"
     },
     {
       "id": "pl_msg_00000631_00033",
-      "en_US": "a {COLOR 255}Digger Drill{COLOR 0}"
+      "en_US": "a {COLOR 255}Digger Drill{COLOR 0}",
+      "fr_FR": "{COLOR 255}Foreuse{COLOR 0}"
     },
     {
       "id": "pl_msg_00000631_00034",

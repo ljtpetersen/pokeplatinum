@@ -26,5 +26,13 @@
     "contest": {
         "effect": "CONTEST_EFFECT_NO_VOLTAGE_DOWN",
         "type": "CONTEST_TYPE_BEAUTY"
-    }
+    },
+    "name_fr": "Soucigraine",
+    "description_fr": [
+        "Plante une graine sur\n",
+        "l’ennemi qui le rend\n",
+        "soucieux et remplace\n",
+        "sa capacité spéciale\n",
+        "par Insomnia."
+    ]
 }

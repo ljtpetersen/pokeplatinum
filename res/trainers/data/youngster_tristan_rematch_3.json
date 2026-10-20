@@ -23,6 +23,10 @@
             "en_US": [
                 "Did you get better since we met?\n",
                 "I... Well, here, just look!\r"
+            ],
+            "fr_FR": [
+                "Tu as progressé depuis la dernière fois?\n",
+                "Je... eh bien, on va voir!\r"
             ]
         },
         {
@@ -30,7 +34,12 @@
             "en_US": [
                 "Too strong!\n",
                 "Too strong!\n"
+            ],
+            "fr_FR": [
+                "Trop balèze!\n",
+                "Trop balèze!\n"
             ]
         }
-    ]
+    ],
+    "name_fr": "Rachid"
 }

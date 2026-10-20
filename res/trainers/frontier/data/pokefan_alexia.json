@@ -85,6 +85,10 @@
             "en_US": [
                 "Fan Club Department Manager...\n",
                 "I hereby accept your challenge."
+            ],
+            "fr_FR": [
+                "Je suis la sous-secrétaire adjointe du\n",
+                "Fan Club Pokémon. J’accepte ton défi!"
             ]
         },
         {
@@ -92,6 +96,10 @@
             "en_US": [
                 "Heheh... Honestly, you thought you\n",
                 "stood a chance against the Fan Club?\r"
+            ],
+            "fr_FR": [
+                "Hé, hé, hé! Personne ne peut battre\n",
+                "le Fan Club Pokémon!\r"
             ]
         },
         {
@@ -99,7 +107,12 @@
             "en_US": [
                 "Gwah! I will be avenged...\n",
                 "B-by the Division Manager...\r"
+            ],
+            "fr_FR": [
+                "Non! Le secrétaire adjoint me\n",
+                "vengera, c’est sûr!\r"
             ]
         }
-    ]
+    ],
+    "name_fr": "Lesly"
 }

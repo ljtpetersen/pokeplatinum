@@ -30,5 +30,13 @@
     "atkStages": 1,
     "friendshipLow": 1,
     "friendshipMed": 1
-  }
+  },
+  "name_fr": "Attaque +",
+  "description_fr": [
+    "Monte l’Attaque pendant un combat.\n",
+    "L’effet s’estompe si le Pokémon se\n",
+    "retire."
+  ],
+  "plural_fr": "Attaque +",
+  "article_fr": null
 }

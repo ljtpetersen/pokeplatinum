@@ -77,6 +77,10 @@
             "en_US": [
                 "Raising a Pokémon right takes money and\n",
                 "time."
+            ],
+            "fr_FR": [
+                "Elever un Pokémon demande énormément\n",
+                "de temps et d’argent."
             ]
         },
         {
@@ -84,6 +88,10 @@
             "en_US": [
                 "But it’s all worthwhile when the\n",
                 "Pokémon grows up.\r"
+            ],
+            "fr_FR": [
+                "Mais voir s’épanouir un Pokémon, c’est\n",
+                "la plus belle des récompenses.\r"
             ]
         },
         {
@@ -91,7 +99,12 @@
             "en_US": [
                 "To raise the ideal Pokémon,\n",
                 "I’m willing to work hard.\r"
+            ],
+            "fr_FR": [
+                "Je suis prête à tout pour élever le\n",
+                "Pokémon parfait.\r"
             ]
         }
-    ]
+    ],
+    "name_fr": "Alycia"
 }

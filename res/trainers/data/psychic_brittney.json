@@ -34,6 +34,11 @@
                 "There is nothing here... And yet\n",
                 "there is a power lurking...\r",
                 "Were you drawn by it, as well?\r"
+            ],
+            "fr_FR": [
+                "Il n’y a rien ici... Et pourtant, on sent\n",
+                "un pouvoir invisible...\r",
+                "C’est ce pouvoir qui t’attire ici, hein?\r"
             ]
         },
         {
@@ -41,6 +46,10 @@
             "en_US": [
                 "The power that slumbers within you...\n",
                 "It is rather marvelous indeed...\n"
+            ],
+            "fr_FR": [
+                "Ce pouvoir qui sommeille en toi...\n",
+                "Il est assez merveilleux...\n"
             ]
         },
         {
@@ -49,6 +58,11 @@
                 "A place where nothing else exists...\r",
                 "A place such as that is better suited\n",
                 "to awaken the power within.\n"
+            ],
+            "fr_FR": [
+                "Un endroit où rien d’autre n’existe...\r",
+                "Un tel endroit est mieux adapté pour\n",
+                "réveiller les pouvoirs cachés.\n"
             ]
         },
         {
@@ -58,7 +72,14 @@
                 "You’ve come back again.\r",
                 "There must be something that draws\n",
                 "you to this place...\r"
+            ],
+            "fr_FR": [
+                "Tu comprends, maintenant?\n",
+                "Tu es de retour.\r",
+                "Il y a quelque chose qui t’attire vers\n",
+                "cet endroit...\r"
             ]
         }
-    ]
+    ],
+    "name_fr": "Samantha"
 }

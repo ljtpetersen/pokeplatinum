@@ -8,11 +8,17 @@
         "the Turnback Cave.\r",
         "Leap into the portal and return to\n",
         "the Turnback Cave?"
+      ],
+      "fr_FR": [
+        "Le portail menant à la Grotte Retour.\r",
+        "Emprunter le passage et regagner la\n",
+        "Grotte Retour?"
       ]
     },
     {
       "id": "DistortionWorldTurnbackCaveRoom_Text_PlayerLeaptIntoPortal",
-      "en_US": "{STRVAR_1 3, 0, 0} leapt into the portal.\r"
+      "en_US": "{STRVAR_1 3, 0, 0} leapt into the portal.\r",
+      "fr_FR": "{STRVAR_1 3, 0, 0} emprunte le passage.\r"
     }
   ]
 }

@@ -10,6 +10,15 @@
         "with everything looking the same.\r",
         "Now what?\n",
         "I could use help here."
+      ],
+      "fr_FR": [
+        "J’ai entendu dire que la Capsule\n",
+        "Secrète Anti-Brume se trouvait dans\f",
+        "ces ruines.\r",
+        "Mais tout se ressemble ici, et j’ai fini\n",
+        "par perdre mon chemin.\r",
+        "J’aurais bien besoin d’un petit coup\n",
+        "de main."
       ]
     },
     {
@@ -21,6 +30,15 @@
         "with everything looking the same.\r",
         "Now what?\n",
         "I could use help here.\r"
+      ],
+      "fr_FR": [
+        "J’ai entendu dire que la Capsule\n",
+        "Secrète Anti-Brume se trouvait dans\f",
+        "ces ruines.\r",
+        "Mais tout se ressemble ici, et j’ai fini\n",
+        "par perdre mon chemin.\r",
+        "J’aurais bien besoin d’un petit coup\n",
+        "de main.\r"
       ]
     },
     {
@@ -32,6 +50,14 @@
         "That is the Hidden Machine Defog!\r",
         "Can you loan it to me real quick?\n",
         "I’ll make it worth your while."
+      ],
+      "fr_FR": [
+        "Hé!\n",
+        "Regardez-moi ça!\r",
+        "C’est la Capsule Secrète Anti-Brume\n",
+        "que tu as là, non?\r",
+        "Tu me la prêtes deux secondes?\n",
+        "Tu ne le regretteras pas."
       ]
     },
     {
@@ -41,6 +67,12 @@
         "move Defog like so... And done!\r",
         "Thanks! You’re my rescuer! Hahaha!\n",
         "Here you go, my thanks as promised.\r"
+      ],
+      "fr_FR": [
+        "Alors, j’apprends la capacité secrète\n",
+        "Anti-Brume à mon ETOURVOL... Et voilà!\r",
+        "Merci, tu m’as sauvé la mise! Ah, ah!\n",
+        "Tiens, avec mes remerciements.\r"
       ]
     },
     {
@@ -48,6 +80,10 @@
       "en_US": [
         "It’s not like it’s going to wear out!\n",
         "It’s just for a minute! Cheapskate!"
+      ],
+      "fr_FR": [
+        "C’est bon, je vais pas te l’user! C’est\n",
+        "l’affaire d’une minute!"
       ]
     },
     {
@@ -57,6 +93,12 @@
         "thanks to you.\r",
         "I’ll get to climbing the Lost Tower\n",
         "now that I’ve got it."
+      ],
+      "fr_FR": [
+        "J’ai enfin Anti-Brume et c’est à toi\n",
+        "que je la dois.\r",
+        "Grâce à ça, je vais pouvoir explorer\n",
+        "la Tour Perdue."
       ]
     }
   ]

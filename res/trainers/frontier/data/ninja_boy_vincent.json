@@ -59,6 +59,10 @@
             "en_US": [
                 "Hey, hey, what’s that over there?\n",
                 "It’s... It’s a legendary Pokémon!"
+            ],
+            "fr_FR": [
+                "Hé! Regarde là-bas!\n",
+                "C’est... un Pokémon légendaire!"
             ]
         },
         {
@@ -66,6 +70,10 @@
             "en_US": [
                 "Kekeke... Ninjutsu misdirection!\n",
                 "It worked to perfection!\r"
+            ],
+            "fr_FR": [
+                "Gné, hé, hé... J’ai réussi à te\n",
+                "déstabiliser pour arracher la victoire!\r"
             ]
         },
         {
@@ -73,7 +81,12 @@
             "en_US": [
                 "Ninjutsu misdirection was a failure!\n",
                 "I’ll disappear in a puff of smoke!\r"
+            ],
+            "fr_FR": [
+                "Je n’ai pas réussi à te déstabiliser!\n",
+                "Tant pis! Disparition ninja!\r"
             ]
         }
-    ]
+    ],
+    "name_fr": "Vinny"
 }

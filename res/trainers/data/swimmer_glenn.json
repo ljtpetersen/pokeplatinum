@@ -32,6 +32,10 @@
             "en_US": [
                 "A Trainer riding a Pokémon!\n",
                 "I like that! Let’s battle it out!\r"
+            ],
+            "fr_FR": [
+                "Un Dresseur sur son Pokémon! Belle\n",
+                "image! Un beau combat qui s’annonce!\r"
             ]
         },
         {
@@ -39,6 +43,10 @@
             "en_US": [
                 "Awesome!\n",
                 "You’re a real wild child!\n"
+            ],
+            "fr_FR": [
+                "Incroyable!\n",
+                "Tu es un vrai enfant sauvage!\n"
             ]
         },
         {
@@ -47,6 +55,12 @@
                 "You ride atop the waves while riding on\n",
                 "a Pokémon!\r",
                 "And you rode right over me!\n"
+            ],
+            "fr_FR": [
+                "Sur ton Pokémon, aucune vague ne\n",
+                "te résiste!\r",
+                "Et moi, je n’ai pas pu te résister\n",
+                "non plus!\n"
             ]
         },
         {
@@ -54,7 +68,12 @@
             "en_US": [
                 "Yo, Pokémon-riding Trainer!\n",
                 "How about a rematch?\r"
+            ],
+            "fr_FR": [
+                "Hé, Dresseur à dos de Pokémon!\n",
+                "Que dirais-tu d’une revanche?\r"
             ]
         }
-    ]
+    ],
+    "name_fr": "Youssef"
 }

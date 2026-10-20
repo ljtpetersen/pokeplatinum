@@ -13,6 +13,17 @@
         "for one.\r",
         "And more than anything, I’m tough,\n",
         "and you know it!"
+      ],
+      "fr_FR": [
+        "{STRVAR_1 3, 0, 0}: Que fais-tu?\n",
+        "Tu ne devrais pas être là.\r",
+        "Il n’y a rien ici, de toute façon.\r",
+        "Si quelque chose devait arriver,\n",
+        "je m’en occuperais.\r",
+        "Déjà, j’ai mes fidèles Pokémon\n",
+        "à mes côtés.\r",
+        "Et puis d’abord, je suis fort,\n",
+        "et ça tu le sais!"
       ]
     },
     {
@@ -26,6 +37,17 @@
         "to keep getting tougher.\r",
         "It could be rough if you don’t\n",
         "collect up some Gym Badges."
+      ],
+      "fr_FR": [
+        "{STRVAR_1 3, 0, 0}: Qu’est-ce que j’ai dit?\n",
+        "J’ai dit que je me débrouillerai sans\f",
+        "toi.\r",
+        "Va relever le défi de l’Arène de\n",
+        "Rivamar, si ce n’est déjà fait.\r",
+        "J’ai le sentiment que les choses\n",
+        "vont se corser.\r",
+        "Tu pourrais avoir des ennuis si tu\n",
+        "ne récupères pas de Badges d’Arène."
       ]
     }
   ]

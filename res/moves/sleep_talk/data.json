@@ -21,5 +21,11 @@
     "contest": {
         "effect": "CONTEST_EFFECT_BASIC",
         "type": "CONTEST_TYPE_CUTE"
-    }
+    },
+    "name_fr": "Blabla Dodo",
+    "description_fr": [
+        "Le lanceur utilise un\n",
+        "coup au hasard en\n",
+        "dormant."
+    ]
 }

@@ -6,6 +6,10 @@
       "en_US": [
         "...Don’t say a word.\n",
         "Just take it.\r"
+      ],
+      "fr_FR": [
+        "... Ne dis rien.\n",
+        "Tends la main, c’est à toi.\r"
       ]
     },
     {
@@ -15,6 +19,12 @@
         "Go underground!\r",
         "Listen to the stone pillar!\n",
         "Talk to people underground!"
+      ],
+      "fr_FR": [
+        "Rejoins la Route 209!\n",
+        "File dans le Souterrain!\r",
+        "Ecoute le pilier de pierre!\n",
+        "Parle aux gens sous terre!"
       ]
     },
     {
@@ -22,6 +32,10 @@
       "en_US": [
         "Rt. 208\n",
         "Mt. Coronet"
+      ],
+      "fr_FR": [
+        "Route 208\n",
+        "Mont Couronné"
       ]
     },
     {
@@ -29,6 +43,10 @@
       "en_US": [
         "Rt. 208\n",
         "Hearthome City"
+      ],
+      "fr_FR": [
+        "Route 208\n",
+        "Unionpolis"
       ]
     },
     {
@@ -36,6 +54,10 @@
       "en_US": [
         "Berry Master’s House\n",
         "Free Berries Available"
+      ],
+      "fr_FR": [
+        "Maison du Maître des Baies\n",
+        "Baies gratuites à déguster"
       ]
     },
     {
@@ -48,6 +70,15 @@
         "plenty of moisture.\r",
         "If the soil is lighter in color,\n",
         "water it with your Sprayduck."
+      ],
+      "fr_FR": [
+        "Conseils aux Dresseurs\r",
+        "Regardez la couleur du terrain après\n",
+        "avoir planté une Baie.\r",
+        "S’il est sombre, cela signifie que\n",
+        "le terrain est humide.\r",
+        "S’il est clair, il vous suffit de\n",
+        "l’arroser avec votre Kwakarrosoir."
       ]
     }
   ]

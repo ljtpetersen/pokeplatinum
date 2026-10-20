@@ -7,6 +7,11 @@
         "Some kinds of Pokémon appear only\n",
         "if they’re attracted by the sweet\f",
         "scent of Honey."
+      ],
+      "fr_FR": [
+        "Certains Pokémon n’apparaissent que\n",
+        "s’ils sont attirés par la douce odeur\f",
+        "du Miel."
       ]
     },
     {
@@ -16,6 +21,12 @@
         "of smell.\r",
         "They can sense the aroma of Honey\n",
         "from very far away."
+      ],
+      "fr_FR": [
+        "Les Pokémon doivent avoir un odorat\n",
+        "bien développé.\r",
+        "Ils peuvent sentir le parfum du Miel de\n",
+        "très, très loin."
       ]
     }
   ]

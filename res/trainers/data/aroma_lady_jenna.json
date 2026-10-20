@@ -55,6 +55,12 @@
                 "My Grass-type Pokémon can dole out\n",
                 "special attacks...\r",
                 "I won’t let you win easily!\r"
+            ],
+            "fr_FR": [
+                "Mes Pokémon de type Plante peuvent\n",
+                "utiliser des attaques spéciales...\r",
+                "Je ne te laisserai pas gagner\n",
+                "si facilement!\r"
             ]
         },
         {
@@ -62,6 +68,10 @@
             "en_US": [
                 "The more beautiful a flower,\n",
                 "the faster it withers...\n"
+            ],
+            "fr_FR": [
+                "Plus une fleur est belle, et plus\n",
+                "elle se fane rapidement...\n"
             ]
         },
         {
@@ -71,7 +81,14 @@
                 "A hint about the next Trainer...\r",
                 "In the middle of three trees.\n",
                 "That’s my hint. Good luck.\n"
+            ],
+            "fr_FR": [
+                "Oh, j’oubliais...\n",
+                "Un indice sur le prochain Dresseur...\r",
+                "Cherche au milieu de trois arbres.\n",
+                "C’était mon indice. Bonne chance.\n"
             ]
         }
-    ]
+    ],
+    "name_fr": "Gentiane"
 }

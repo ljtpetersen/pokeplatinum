@@ -54,11 +54,17 @@
                 "We’re the Karate Quads!\r",
                 "I will strike a blow for love with my\n",
                 "fist! Hiyah, looooooooove!\r"
+            ],
+            "fr_FR": [
+                "Nous sommes le Quatuor Karaté!\r",
+                "Si je joue des poings, c’est pour\n",
+                "célébrer l’amour! Oui, l’amour!\r"
             ]
         },
         {
             "type": "TRMSG_DEFEAT",
-            "en_US": "Argh! Crunched!\n"
+            "en_US": "Argh! Crunched!\n",
+            "fr_FR": "Argh! Ecrasé!\n"
         },
         {
             "type": "TRMSG_POST_BATTLE",
@@ -66,7 +72,13 @@
                 "Your Pokémon sure are tough!\r",
                 "But our Gym Leader Maylene will\n",
                 "break you like a stack of bricks!\n"
+            ],
+            "fr_FR": [
+                "OK, t’es vraiment très coriace!\r",
+                "Mais notre Champion d’Arène Mélina va\n",
+                "t’écraser en deux secondes!\n"
             ]
         }
-    ]
+    ],
+    "name_fr": "Saburo"
 }

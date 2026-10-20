@@ -26,5 +26,13 @@
   "battlePocket": "BATTLE_POCKET_MASK_NONE",
   "fieldUseFunc": "ITEM_USE_FUNC_NONE",
   "battleUseCategory": "BATTLE_USE_CATEGORY_NONE",
-  "itemUseParams": null
+  "itemUseParams": null,
+  "name_fr": "CD Douteux",
+  "description_fr": [
+    "Appareil transparent rempli de données\n",
+    "douteuses.\n",
+    "Son fabricant n’est pas connu."
+  ],
+  "plural_fr": "CD Douteux",
+  "article_fr": null
 }

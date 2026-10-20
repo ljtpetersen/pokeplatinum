@@ -27,5 +27,13 @@
     "contest": {
         "effect": "CONTEST_EFFECT_CONSECUTIVE_USE",
         "type": "CONTEST_TYPE_TOUGH"
-    }
+    },
+    "name_fr": "Osmerang",
+    "description_fr": [
+        "Le lanceur projette\n",
+        "son os comme un\n",
+        "boomerang. Cette\n",
+        "attaque frappe à\n",
+        "l’aller et au retour."
+    ]
 }

@@ -51,6 +51,11 @@
                 "I just startled you!\r",
                 "While you’re still struggling to\n",
                 "recover, I’ll already be the winner!\r"
+            ],
+            "fr_FR": [
+                "Je t’ai fait peur, hein?\r",
+                "Le temps que tu te remettes de tes\n",
+                "émotions, j’aurai remporté la victoire!\r"
             ]
         },
         {
@@ -58,6 +63,10 @@
             "en_US": [
                 "Oh, what’s that?\n",
                 "You’re supposed to be fumbling more.\n"
+            ],
+            "fr_FR": [
+                "Oh, mais qu’est-ce que ça signifie?\n",
+                "Tu aurais dû trembler comme une feuille.\n"
             ]
         },
         {
@@ -65,6 +74,11 @@
             "en_US": [
                 "I wanted a better reaction from you.\n",
                 "Now I feel silly for hiding!\n"
+            ],
+            "fr_FR": [
+                "J’aurais voulu que tu réagisses un peu\n",
+                "plus. Tu sais combien de temps je suis\f",
+                "resté caché?"
             ]
         },
         {
@@ -74,7 +88,14 @@
                 "thought, “Long time no see.”\r",
                 "While you’re still thinking that, I’ll\n",
                 "already be the winner!\r"
+            ],
+            "fr_FR": [
+                "En me voyant, je parie que tu t’es dit\n",
+                "“Tiens, ça faisait un bail”.\r",
+                "Pendant que tu y réfléchis, je\n",
+                "remporterai la victoire!\r"
             ]
         }
-    ]
+    ],
+    "name_fr": "Yorick"
 }

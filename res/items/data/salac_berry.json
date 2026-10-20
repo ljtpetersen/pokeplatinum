@@ -39,5 +39,13 @@
     "bitterness": 10,
     "sourness": 30,
     "smoothness": 40
-  }
+  },
+  "name_fr": "Baie Sailak",
+  "description_fr": [
+    "Ingrédient pour Poffin.\n",
+    "Tenue, cette Baie monte la Vitesse si\n",
+    "nécessaire."
+  ],
+  "plural_fr": "Baie Sailak",
+  "article_fr": null
 }

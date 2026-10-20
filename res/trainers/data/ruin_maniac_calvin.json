@@ -35,6 +35,11 @@
                 "I’m a treasure hunter.\r",
                 "Today, the loot is a victory from\n",
                 "you!\r"
+            ],
+            "fr_FR": [
+                "Je suis un chasseur de trésors.\r",
+                "Et ma victoire contre toi sera\n",
+                "mon butin du jour!\r"
             ]
         },
         {
@@ -42,6 +47,10 @@
             "en_US": [
                 "I can’t win.\n",
                 "You’re too strong for me to win.\n"
+            ],
+            "fr_FR": [
+                "Je ne peux pas te battre.\n",
+                "Tu es trop coriace pour moi."
             ]
         },
         {
@@ -49,6 +58,10 @@
             "en_US": [
                 "If one’s after treasures, maybe the\n",
                 "Underground is the better choice.\n"
+            ],
+            "fr_FR": [
+                "Quand on cherche des trésors, le mieux,\n",
+                "c’est encore de fouiller le Souterrain.\n"
             ]
         },
         {
@@ -57,7 +70,13 @@
                 "I’m a treasure hunter.\r",
                 "This time for sure, the loot is\n",
                 "victory over you!\r"
+            ],
+            "fr_FR": [
+                "Je suis chasseur de trésors.\r",
+                "Ce que je cherche en ce moment?\n",
+                "Une victoire face à toi!\r"
             ]
         }
-    ]
+    ],
+    "name_fr": "Nectaire"
 }

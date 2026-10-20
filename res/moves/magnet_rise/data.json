@@ -21,5 +21,13 @@
     "contest": {
         "effect": "CONTEST_EFFECT_SUPPRESS_VOLTAGE",
         "type": "CONTEST_TYPE_CUTE"
-    }
+    },
+    "name_fr": "Vol Magnétik",
+    "description_fr": [
+        "Le lanceur lévite en\n",
+        "utilisant l’électricité\n",
+        "pour générer un\n",
+        "champ magnétique\n",
+        "durant 5 tours."
+    ]
 }

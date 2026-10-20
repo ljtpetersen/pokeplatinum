@@ -24,5 +24,12 @@
     "contest": {
         "effect": "CONTEST_EFFECT_SUPPRESS_VOLTAGE",
         "type": "CONTEST_TYPE_CUTE"
-    }
+    },
+    "name_fr": "Repli",
+    "description_fr": [
+        "Le lanceur se\n",
+        "recroqueville dans sa\n",
+        "carapace, ce qui\n",
+        "augmente sa Défense."
+    ]
 }

@@ -170,6 +170,7 @@ static header_template_t headers[] = {
 enum {
     T_NAMES,
     T_NAMES_WITH_ARTICLES,
+    T_POKEDEX_ENTRY_LOCAL_VERSION,
     T_POKEDEX_ENTRY_EN,
     T_POKEDEX_ENTRY_FR,
     T_POKEDEX_ENTRY_DE,
@@ -196,31 +197,32 @@ enum {
 };
 
 static textbank_template_t textbanks[] = {
-    [T_NAMES]                     = { .key = 30764, .out_filename = "species_name.json"                       },
-    [T_NAMES_WITH_ARTICLES]       = { .key = 59681, .out_filename = "species_name_with_articles.json"         },
-    [T_POKEDEX_ENTRY_EN]          = { .key = 63572, .out_filename = "species_pokedex_entry_en.json"           },
-    [T_POKEDEX_ENTRY_FR]          = { .key = 30030, .out_filename = "species_pokedex_entry_fr.json"           },
-    [T_POKEDEX_ENTRY_DE]          = { .key = 30034, .out_filename = "species_pokedex_entry_de.json"           },
-    [T_POKEDEX_ENTRY_IT]          = { .key = 30038, .out_filename = "species_pokedex_entry_it.json"           },
-    [T_POKEDEX_ENTRY_ES]          = { .key = 30042, .out_filename = "species_pokedex_entry_es.json"           },
-    [T_POKEDEX_ENTRY_JP]          = { .key = 30046, .out_filename = "species_pokedex_entry_jp.json"           },
-    [T_NAME_WITH_DEX_NUMBER_EN]   = { .key = 32249, .out_filename = "species_name_with_natdex_number_en.json" },
-    [T_NAME_WITH_DEX_NUMBER_FR]   = { .key = 32242, .out_filename = "species_name_with_natdex_number_fr.json" },
-    [T_NAME_WITH_DEX_NUMBER_DE]   = { .key = 32254, .out_filename = "species_name_with_natdex_number_de.json" },
-    [T_NAME_WITH_DEX_NUMBER_IT]   = { .key = 32250, .out_filename = "species_name_with_natdex_number_it.json" },
-    [T_NAME_WITH_DEX_NUMBER_ES]   = { .key = 32230, .out_filename = "species_name_with_natdex_number_es.json" },
-    [T_NAME_WITH_DEX_NUMBER_JP]   = { .key = 32226, .out_filename = "species_name_with_natdex_number_jp.json" },
-    [T_CATEGORY_EN]               = { .key = 22840, .out_filename = "species_category_en.json"                },
-    [T_CATEGORY_FR]               = { .key = 46193, .out_filename = "species_category_fr.json"                },
-    [T_CATEGORY_DE]               = { .key = 46205, .out_filename = "species_category_de.json"                },
-    [T_CATEGORY_IT]               = { .key = 46201, .out_filename = "species_category_it.json"                },
-    [T_CATEGORY_ES]               = { .key = 46181, .out_filename = "species_category_es.json"                },
-    [T_CATEGORY_JP]               = { .key = 46177, .out_filename = "species_category_jp.json"                },
-    [T_CATEGORY]                  = { .key = 48809, .out_filename = "species_category.json"                   },
-    [T_WEIGHTS_WITH_GIRA_ALTERED] = { .key = 64639, .out_filename = "species_weight_gira.json"                },
-    [T_WEIGHTS_WITH_GIRA_ORIGIN]  = { .key = 25297, .out_filename = "species_weight.json"                     },
-    [T_HEIGHTS_WITH_GIRA_ALTERED] = { .key = 28660, .out_filename = "species_height_gira.json"                },
-    [T_HEIGHTS_WITH_GIRA_ORIGIN]  = { .key =  5013, .out_filename = "species_height.json"                     },
+    [T_NAMES]                       = { .key = 30764, .out_filename = "species_name.json"                         },
+    [T_NAMES_WITH_ARTICLES]         = { .key = 59681, .out_filename = "species_name_with_articles.json"           },
+    [T_POKEDEX_ENTRY_LOCAL_VERSION] = { .key = 63572, .out_filename = "species_pokedex_entry_local_version.json"  },
+    [T_POKEDEX_ENTRY_EN]            = { .key = 30026, .out_filename = "species_pokedex_entry_en.json"             },
+    [T_POKEDEX_ENTRY_FR]            = { .key = 30030, .out_filename = "species_pokedex_entry_fr.json"             },
+    [T_POKEDEX_ENTRY_DE]            = { .key = 30034, .out_filename = "species_pokedex_entry_de.json"             },
+    [T_POKEDEX_ENTRY_IT]            = { .key = 30038, .out_filename = "species_pokedex_entry_it.json"             },
+    [T_POKEDEX_ENTRY_ES]            = { .key = 30042, .out_filename = "species_pokedex_entry_es.json"             },
+    [T_POKEDEX_ENTRY_JP]            = { .key = 30046, .out_filename = "species_pokedex_entry_jp.json"             },
+    [T_NAME_WITH_DEX_NUMBER_EN]     = { .key = 32249, .out_filename = "species_name_with_natdex_number_en.json"   },
+    [T_NAME_WITH_DEX_NUMBER_FR]     = { .key = 32242, .out_filename = "species_name_with_natdex_number_fr.json"   },
+    [T_NAME_WITH_DEX_NUMBER_DE]     = { .key = 32254, .out_filename = "species_name_with_natdex_number_de.json"   },
+    [T_NAME_WITH_DEX_NUMBER_IT]     = { .key = 32250, .out_filename = "species_name_with_natdex_number_it.json"   },
+    [T_NAME_WITH_DEX_NUMBER_ES]     = { .key = 32230, .out_filename = "species_name_with_natdex_number_es.json"   },
+    [T_NAME_WITH_DEX_NUMBER_JP]     = { .key = 32226, .out_filename = "species_name_with_natdex_number_jp.json"   },
+    [T_CATEGORY_EN]                 = { .key = 22840, .out_filename = "species_category_en.json"                  },
+    [T_CATEGORY_FR]                 = { .key = 46193, .out_filename = "species_category_fr.json"                  },
+    [T_CATEGORY_DE]                 = { .key = 46205, .out_filename = "species_category_de.json"                  },
+    [T_CATEGORY_IT]                 = { .key = 46201, .out_filename = "species_category_it.json"                  },
+    [T_CATEGORY_ES]                 = { .key = 46181, .out_filename = "species_category_es.json"                  },
+    [T_CATEGORY_JP]                 = { .key = 46177, .out_filename = "species_category_jp.json"                  },
+    [T_CATEGORY]                    = { .key = 48809, .out_filename = "species_category.json"                     },
+    [T_WEIGHTS_WITH_GIRA_ALTERED]   = { .key = 64639, .out_filename = "species_weight_gira.json"                  },
+    [T_WEIGHTS_WITH_GIRA_ORIGIN]    = { .key = 25297, .out_filename = "species_weight.json"                       },
+    [T_HEIGHTS_WITH_GIRA_ALTERED]   = { .key = 28660, .out_filename = "species_height_gira.json"                  },
+    [T_HEIGHTS_WITH_GIRA_ORIGIN]    = { .key =  5013, .out_filename = "species_height.json"                       },
     { .key = 0, .out_filename = NULL },
 };
 
@@ -798,7 +800,11 @@ static SpeciesDexData proc_dexdata(datafile_t *df, size_t i, const char *base_di
         dp_free(&origin_df);
     }
 
+#if POKEPLATINUM_VERSION < 3
     const char *name = dp_string(dp_objmemb(dp_objmemb(dexdata, "en"), "name"));
+#elif POKEPLATINUM_VERSION == 3
+    const char *name = dp_string(dp_objmemb(dp_objmemb(dexdata, "fr"), "name"));
+#endif
     if (name) strcpy(name_store[i], name); // NOTE: This is an error later
     return (SpeciesDexData) {
         .index = {
@@ -1000,7 +1006,11 @@ static inline void emit_weight(size_t bank_id, const char *species, const char *
 
     datanode_t entry = dp_arr_appobject(&textbanks[bank_id].root);
     dp_obj_putstring(&entry, "id", strfmt(id_fmt, species));
-    dp_obj_putstring(&entry, "en_US", strfmt("%s lbs.", weight));
+#if POKEPLATINUM_VERSION < 3
+    dp_obj_putstring(&entry, TEXT_BANK_KEY, strfmt("%s lbs.", weight));
+#else
+    dp_obj_putstring(&entry, TEXT_BANK_KEY, strfmt("%s kg", weight));
+#endif
 }
 
 static inline void stringify_weight(char *buf, double weight) {
@@ -1008,7 +1018,12 @@ static inline void stringify_weight(char *buf, double weight) {
     snprintf(tmp, 16, "%.1f", weight);
 
     const size_t   len = strlen(tmp);
+#if POKEPLATINUM_VERSION < 3
     const size_t   pad = 6 - len;
+#else
+    tmp[len - 2] = ',';
+    const size_t   pad = 5 - len;
+#endif
     unsigned char *p   = (unsigned char *)buf;
     for (size_t j = 0; j < pad; j++) {
         p[0] = 0xE2;
@@ -1023,17 +1038,30 @@ static inline void stringify_weight(char *buf, double weight) {
 static void emit_weights(SpeciesDexIndex *index, enum Species species, const char *species_name, char *buf) {
     char weight_str[32] = { 0 };
     if (species == SPECIES_NONE) {
+#if POKEPLATINUM_VERSION < 3
         emit_weight(T_WEIGHTS_WITH_GIRA_ALTERED, species_name, "????.?", buf);
         emit_weight(T_WEIGHTS_WITH_GIRA_ORIGIN,  species_name, "????.?", buf);
+#else
+        emit_weight(T_WEIGHTS_WITH_GIRA_ALTERED, species_name, "???,?", buf);
+        emit_weight(T_WEIGHTS_WITH_GIRA_ORIGIN,  species_name, "???,?", buf);
+#endif
         return;
     }
 
+#if POKEPLATINUM_VERSION < 3
     double weight = KG_TO_LB(((double)index->weight / 10.0)) + species_weight_rounding_override(species);
+#else
+    double weight = (double)index->weight / 10.0;
+#endif
     stringify_weight(weight_str, weight);
     emit_weight(T_WEIGHTS_WITH_GIRA_ALTERED, species_name, weight_str, buf);
 
     if (species == SPECIES_GIRATINA) {
+#if POKEPLATINUM_VERSION < 3
         double weight = KG_TO_LB(((double)dexdata_giratina_origin.index.weight / 10.0)) + species_weight_rounding_override(species);
+#else
+        double weight = (double)dexdata_giratina_origin.index.weight / 10.0;
+#endif
         stringify_weight(weight_str, weight);
     }
 
@@ -1049,11 +1077,12 @@ static inline void emit_height(size_t bank_id, const char *species, const char *
 
     datanode_t entry = dp_arr_appobject(&textbanks[bank_id].root);
     dp_obj_putstring(&entry, "id", strfmt(id_fmt, species));
-    dp_obj_putstring(&entry, "en_US", height);
+    dp_obj_putstring(&entry, TEXT_BANK_KEY, height);
 }
 
 static inline void stringify_height(char *buf, long height) {
     char tmp[32] = { 0 };
+#if POKEPLATINUM_VERSION < 3
     snprintf(tmp, 32, "%01ld’%02ld”", height / 12, height % 12);
 
     // ’ and ” are both 3-bytes wide in UTF-8, so the required length of the
@@ -1072,23 +1101,52 @@ static inline void stringify_height(char *buf, long height) {
     }
 
     memcpy(p, tmp, len);
+#else
+    double height_m = (double)height / 10.0;
+    snprintf(tmp, 32, "%.1f m", height_m);
+    const size_t   len = strlen(tmp);
+    tmp[len - 4] = ',';
+    const size_t   pad = 7 - len;
+    unsigned char *p   = (unsigned char *)buf;
+    for (size_t j = 0; j < pad; j++) {
+        p[0] = 0xE2;
+        p[1] = 0x80;
+        p[2] = 0x89;
+        p   += 3;
+    }
+
+    memcpy(p, tmp, len);
+#endif
 }
 
 static void emit_heights(SpeciesDexIndex *index, enum Species species, const char *species_name, char *buf) {
     if (species == SPECIES_NONE) {
+#if POKEPLATINUM_VERSION < 3
         emit_height(T_HEIGHTS_WITH_GIRA_ALTERED, species_name, "???’??”", buf);
         emit_height(T_HEIGHTS_WITH_GIRA_ORIGIN,  species_name, "???’??”", buf);
+#else
+        emit_height(T_HEIGHTS_WITH_GIRA_ALTERED, species_name, "???,? m", buf);
+        emit_height(T_HEIGHTS_WITH_GIRA_ORIGIN,  species_name, "???,? m", buf);
+#endif
         return;
     }
 
     char height_str[32] = { 0 };
 
+#if POKEPLATINUM_VERSION < 3
     long height = M_TO_IN((double)index->height / 10.0);
+#else
+    long height = index->height;
+#endif
     stringify_height(height_str, height);
     emit_height(T_HEIGHTS_WITH_GIRA_ALTERED, species_name, height_str, buf);
 
     if (species == SPECIES_GIRATINA) {
+#if POKEPLATINUM_VERSION < 3
         long height = M_TO_IN((double)dexdata_giratina_origin.index.height / 10.0);
+#else
+        long height = dexdata_giratina_origin.index.height;
+#endif
         stringify_height(height_str, height);
     }
 
@@ -1101,17 +1159,26 @@ static void emit_textbanks(datafile_t *df, size_t i, const char *species, Specie
     char buf[BUFSIZE] = { 0 };
 
     datanode_t  dexdata = dp_get(df, ".pokedex_data");
+#if POKEPLATINUM_VERSION < 3
     const char *name    = dp_string(dp_objmemb(dp_objmemb(dexdata, "en"), "name"));
+#elif POKEPLATINUM_VERSION == 3
+    const char *name    = dp_string(dp_objmemb(dp_objmemb(dexdata, "fr"), "name"));
+#endif
 
     datanode_t entry = dp_arr_appobject(&textbanks[T_NAMES].root);
     dp_obj_putstring(&entry, "id", strfmt("species_name_%s", species));
-    dp_obj_putstring(&entry, "en_US", i != SPECIES_NONE ? name : "-----");
+    dp_obj_putstring(&entry, TEXT_BANK_KEY, i != SPECIES_NONE ? name : "-----");
 
     entry = dp_arr_appobject(&textbanks[T_NAMES_WITH_ARTICLES].root);
     dp_obj_putstring(&entry, "id", strfmt("species_name_with_articles_%s", species));
 
+#if POKEPLATINUM_VERSION < 3
     if (i == SPECIES_NONE) dp_obj_putint(&entry, "garbage", 0);
+#elif POKEPLATINUM_VERSION == 3
+    if (i == SPECIES_NONE) dp_obj_putint(&entry, "garbage", 2);
+#endif
     else {
+#if POKEPLATINUM_VERSION < 3
         const char *article = "a";
         switch (name[0]) {
         case 'A':
@@ -1122,31 +1189,38 @@ static void emit_textbanks(datafile_t *df, size_t i, const char *species, Specie
             article = "an";
             break;
         }
-        dp_obj_putstring(&entry, "en_US", strfmt("%s {COLOR 255}%s{COLOR 0}", article, name));
+        dp_obj_putstring(&entry, TEXT_BANK_KEY, strfmt("%s {COLOR 255}%s{COLOR 0}", article, name));
+#elif POKEPLATINUM_VERSION == 3
+        dp_obj_putstring(&entry, TEXT_BANK_KEY, strfmt("{COLOR 255}%s{COLOR 0}", name));
+#endif
     }
 
     if (i >= SPECIES_EGG) return;
 
-#define emit_dexentry(bank_id, lang)                                                        \
-    do {                                                                                    \
-        entry = dp_arr_appobject(&textbanks[bank_id].root);                                 \
-        dp_obj_putstring(&entry, "id", strfmt("species_pokedex_entry_" lang "_%s", species)); \
-        if (i == SPECIES_NONE) dp_obj_putint(&entry, "garbage", 0);                         \
-        else {                                                                              \
-            datanode_t lines  = dp_objmemb(dp_objmemb(dexdata, lang), "entry_text");        \
-            size_t     nlines = dp_arrlen(lines);                                           \
-            char      *full   = NULL;                                                       \
-            for (size_t j = 0; j < nlines; j++) {                                           \
-                const char *line = dp_string(dp_arrelem(lines, j));                         \
-                char       *escd = strreplstr(line, "\n", "\\n");                           \
-                char       *join = strjoin(full, escd, NULL);                               \
-                free(full);                                                                 \
-                full = join;                                                                \
-                free(escd);                                                                 \
-            }                                                                               \
-            dp_obj_putstring(&entry, "en_US", full);                                        \
-            free(full);                                                                     \
-        }                                                                                   \
+#define emit_dexentry(bank_id, lang)                                                             \
+    do {                                                                                         \
+        entry = dp_arr_appobject(&textbanks[bank_id].root);                                      \
+        dp_obj_putstring(&entry, "id", strfmt("species_pokedex_entry_" lang "_%s", species));    \
+        if (i == SPECIES_NONE) dp_obj_putint(&entry, "garbage", 0);                              \
+        else {                                                                                   \
+            datanode_t lines;                                                                    \
+            if (dp_hasmemb(dp_objmemb(dexdata, lang), "entry_text" ATTRIBUTE_EXTENSION))         \
+                lines = dp_objmemb(dp_objmemb(dexdata, lang), "entry_text" ATTRIBUTE_EXTENSION); \
+            else                                                                                 \
+                lines = dp_objmemb(dp_objmemb(dexdata, lang), "entry_text");                     \
+            size_t     nlines = dp_arrlen(lines);                                                \
+            char      *full   = NULL;                                                            \
+            for (size_t j = 0; j < nlines; j++) {                                                \
+                const char *line = dp_string(dp_arrelem(lines, j));                              \
+                char       *escd = strreplstr(line, "\n", "\\n");                                \
+                char       *join = strjoin(full, escd, NULL);                                    \
+                free(full);                                                                      \
+                full = join;                                                                     \
+                free(escd);                                                                      \
+            }                                                                                    \
+            dp_obj_putstring(&entry, TEXT_BANK_KEY, full);                                       \
+            free(full);                                                                          \
+        }                                                                                        \
     } while (0)
 
 #define emit_dexnumber(bank_id, lang, wide)                                                           \
@@ -1160,19 +1234,23 @@ static void emit_textbanks(datafile_t *df, size_t i, const char *species, Specie
         }                                                                                             \
         const char *locname = dp_string(dp_objmemb(dp_objmemb(dexdata, lang), "name"));               \
         dp_obj_putstring(&entry, "id", strfmt("species_name_with_natdex_number_" lang "_%s", species)); \
-        dp_obj_putstring(&entry, "en_US",                                                             \
+        dp_obj_putstring(&entry, TEXT_BANK_KEY,                                                             \
                          i == SPECIES_NONE ? locname                                                  \
                          : wide == true ? strfmt("%s  %s", numbuf, locname)                             \
                          : strfmt("%03zu  %s", i, locname));                                            \
     } while (0)
 
 #define emit_dexcategory(bank_id, lang) \
-    do {                                                                                   \
-        entry = dp_arr_appobject(&textbanks[bank_id].root);                                \
-                                                                                           \
-        const char *loccat = dp_string(dp_objmemb(dp_objmemb(dexdata, lang), "category")); \
-        dp_obj_putstring(&entry, "id", strfmt("species_category_" lang "_%s", species));     \
-        dp_obj_putstring(&entry, "en_US", loccat);                                         \
+    do {                                                                                                     \
+        entry = dp_arr_appobject(&textbanks[bank_id].root);                                                  \
+                                                                                                             \
+        const char *loccat;                                                                                  \
+        if (dp_hasmemb(dp_objmemb(dexdata, lang), "category" ATTRIBUTE_EXTENSION))                           \
+            loccat = dp_string(dp_objmemb(dp_objmemb(dexdata, lang), "category" ATTRIBUTE_EXTENSION));       \
+        else                                                                                                 \
+            loccat = dp_string(dp_objmemb(dp_objmemb(dexdata, lang), "category"));                           \
+        dp_obj_putstring(&entry, "id", strfmt("species_category_" lang "_%s", species));                     \
+        dp_obj_putstring(&entry, TEXT_BANK_KEY, loccat);                                                     \
     } while (0)
 
 #define NUM_LANGS 6
@@ -1184,6 +1262,7 @@ static void emit_textbanks(datafile_t *df, size_t i, const char *species, Specie
         emit_dexcategory(base_bank_id + (2 * NUM_LANGS), lang); \
     } while (0)
 
+    emit_dexentry(T_POKEDEX_ENTRY_LOCAL_VERSION, "local_version");
     emit_dexbanks(T_POKEDEX_ENTRY_EN, "en", false);
     emit_dexbanks(T_POKEDEX_ENTRY_FR, "fr", false);
     emit_dexbanks(T_POKEDEX_ENTRY_DE, "de", false);
@@ -1192,9 +1271,18 @@ static void emit_textbanks(datafile_t *df, size_t i, const char *species, Specie
     emit_dexbanks(T_POKEDEX_ENTRY_JP, "jp", true);
 
     entry = dp_arr_appobject(&textbanks[T_CATEGORY].root);
+#if POKEPLATINUM_VERSION < 3
     const char *category = dp_string(dp_objmemb(dp_objmemb(dexdata, "en"), "category"));
+#else
+    const char *category;
+    if (dp_hasmemb(dp_objmemb(dexdata, "fr"), "category" ATTRIBUTE_EXTENSION)) {
+        category = dp_string(dp_objmemb(dp_objmemb(dexdata, "fr"), "category" ATTRIBUTE_EXTENSION));
+    } else {
+        category = dp_string(dp_objmemb(dp_objmemb(dexdata, "fr"), "category"));
+    }
+#endif
     dp_obj_putstring(&entry, "id", strfmt("species_category_%s", species));
-    dp_obj_putstring(&entry, "en_US", category);
+    dp_obj_putstring(&entry, TEXT_BANK_KEY, category);
 
     emit_weights(index, (enum Species)i, species, buf);
     emit_heights(index, (enum Species)i, species, buf);

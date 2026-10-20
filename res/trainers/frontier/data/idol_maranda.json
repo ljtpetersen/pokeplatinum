@@ -35,6 +35,10 @@
             "en_US": [
                 "I’m not some cheap Idol!\n",
                 "I’m an actress! Please remember that!"
+            ],
+            "fr_FR": [
+                "Je ne suis pas une Star de bas étage.\n",
+                "Je suis comédienne avant tout!"
             ]
         },
         {
@@ -42,6 +46,10 @@
             "en_US": [
                 "My career isn’t anything like your\n",
                 "typical Idol’s career!\r"
+            ],
+            "fr_FR": [
+                "Ma carrière n’a rien à voir avec celle\n",
+                "de ces Stars de pacotille!\r"
             ]
         },
         {
@@ -49,7 +57,12 @@
             "en_US": [
                 "I’m an actress...\n",
                 "It sounds so deliciously right...\r"
+            ],
+            "fr_FR": [
+                "Je suis comédienne...\n",
+                "J’aime les sonorités de cette phrase...\r"
             ]
         }
-    ]
+    ],
+    "name_fr": "Nayla"
 }

@@ -36,6 +36,14 @@
                 "intruder.\r",
                 "You’re spoiling the atmosphere.\n",
                 "You can lose quickly, right?\r"
+            ],
+            "fr_FR": [
+                "... Notre chef fait un truc super\n",
+                "important au sommet.\r",
+                "Mais moi, je dois m’occuper d’une sale\n",
+                "petite fouine.\r",
+                "Tu gâches l’ambiance. Rends-moi \n",
+                "service, perds en vitesse, tu veux?\r"
             ]
         },
         {
@@ -43,7 +51,8 @@
             "en_US": [
                 "You’re not supposed to work me\n",
                 "over like that.\n"
-            ]
+            ],
+            "fr_FR": "Euh... je n’étais pas censée perdre..."
         },
         {
             "type": "TRMSG_POST_BATTLE",
@@ -51,7 +60,13 @@
                 "All my excitement’s gone now...\r",
                 "This whole Mt. Coronet trip is too\n",
                 "rough, long, and draining...\n"
+            ],
+            "fr_FR": [
+                "Tout mon enthousiasme s’est envolé...\r",
+                "Ce voyage au Mont Couronné est trop\n",
+                "dur, trop long et trop fatigant...\n"
             ]
         }
-    ]
+    ],
+    "name_fr": "Sbire"
 }

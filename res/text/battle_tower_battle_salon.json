@@ -6,7 +6,8 @@
       "en_US": [
         "Please find a partner from the Trainers\n",
         "that are gathered here.\r"
-      ]
+      ],
+      "fr_FR": "Veuillez choisir un partenaire.\r"
     },
     {
       "id": "BattleTowerBattleSalon_Text_WouldYouLikeToQuit",
@@ -15,6 +16,12 @@
         "a partner for your tag team.\r",
         "Would you like to quit looking and\n",
         "return to the reception counter?"
+      ],
+      "fr_FR": [
+        "{STRVAR_1 3, 0, 0}, vous n’avez pas trouvé\n",
+        "de partenaire.\r",
+        "Voulez-vous arrêter de chercher\n",
+        "et retourner à la réception?"
       ]
     },
     {
@@ -23,6 +30,11 @@
         "Thank you for choosing a partner.\r",
         "I will now show you to your\n",
         "Multi Battle Room.\r"
+      ],
+      "fr_FR": [
+        "Merci d’avoir choisi un partenaire.\r",
+        "Je vais maintenant vous mener à votre\n",
+        "Salle de Combat Multi.\r"
       ]
     },
     {
@@ -34,6 +46,14 @@
         "And there’s my {STRVAR_1 0, 2, 0}, which\n",
         "is a sure hand with {STRVAR_1 6, 3, 0}.\r",
         "Would you like to team up with me?"
+      ],
+      "fr_FR": [
+        "Armand: Les membres de mon équipe?\r",
+        "Ben, j’ai {STRVAR_1 0, 0, 0} qui assure avec \n",
+        "sa capacité {STRVAR_1 6, 1, 0}.\r",
+        "J’ai aussi {STRVAR_1 0, 2, 0}, avec la \n",
+        "capacité {STRVAR_1 6, 3, 0}.\r",
+        "Tu veux faire équipe avec moi?"
       ]
     },
     {
@@ -41,6 +61,10 @@
       "en_US": [
         "Riley: ...Oh, is that so?\n",
         "That’s too bad."
+      ],
+      "fr_FR": [
+        "Armand: Bon, comme tu veux.\n",
+        "Dommage."
       ]
     },
     {
@@ -48,6 +72,10 @@
       "en_US": [
         "Riley: Ahaha, thanks.\n",
         "I’ll be waiting for you.\r"
+      ],
+      "fr_FR": [
+        "Armand: Ha, ha, super.\n",
+        "Je t’attends.\r"
       ]
     },
     {
@@ -58,6 +86,13 @@
         "and {STRVAR_1 0, 2, 0} that likes to\n",
         "show off its {STRVAR_1 6, 3, 0}.\r",
         "Will you team up with me again?"
+      ],
+      "fr_FR": [
+        "Sara: J’ai un {STRVAR_1 0, 0, 0} qui\n",
+        "est super fort avec {STRVAR_1 6, 1, 0},\r",
+        "et un {STRVAR_1 0, 2, 0} avec la capacité\n",
+        "{STRVAR_1 6, 3, 0} qui décoiffe pas mal.\r",
+        "Tu veux faire équipe avec moi?"
       ]
     },
     {
@@ -65,11 +100,16 @@
       "en_US": [
         "Cheryl: Oh...\n",
         "Too bad..."
+      ],
+      "fr_FR": [
+        "Sara: Oh...\n",
+        "C’est bête..."
       ]
     },
     {
       "id": "BattleTowerBattleSalon_Text_CherylTeamUp",
-      "en_US": "Cheryl: I’ll go on ahead, then.\r"
+      "en_US": "Cheryl: I’ll go on ahead, then.\r",
+      "fr_FR": "Sara: D’accord, je pars devant.\r"
     },
     {
       "id": "BattleTowerBattleSalon_Text_BuckAskTeamUp",
@@ -81,6 +121,15 @@
         "And my {STRVAR_1 0, 2, 0} is the best when\n",
         "it comes to using {STRVAR_1 6, 3, 0}.\r",
         "You want to go with me, don’t you?"
+      ],
+      "fr_FR": [
+        "Cornil: Eh, tu cherches un partenaire?\n",
+        "Je vais te dire ce que j’ai.\r",
+        "Un {STRVAR_1 0, 0, 0} au top \n",
+        "avec sa capacité {STRVAR_1 6, 1, 0}.\r",
+        "Et puis mon petit {STRVAR_1 0, 2, 0}, c’est \n",
+        "un pro de la capacité {STRVAR_1 6, 3, 0}.\r",
+        "Tu veux qu’on fasse équipe, non?"
       ]
     },
     {
@@ -88,6 +137,10 @@
       "en_US": [
         "Buck: Huh? What?\n",
         "That’s pretty cold of you!"
+      ],
+      "fr_FR": [
+        "Cornil: Hein? Quoi?\n",
+        "Tu sais pas ce que tu rates!"
       ]
     },
     {
@@ -95,6 +148,10 @@
       "en_US": [
         "Buck: Hehehe! Good choice!\n",
         "There’s no problem when I’m around!\r"
+      ],
+      "fr_FR": [
+        "Cornil: Hé, hé, hé! Bon choix!\n",
+        "Quand je suis là, on perd pas!\r"
       ]
     },
     {
@@ -106,15 +163,25 @@
         "{STRVAR_1 6, 3, 0}.\r",
         "...What do you want?\n",
         "Am I supposed to go with you?"
+      ],
+      "fr_FR": [
+        "Viviane: Mon {STRVAR_1 0, 0, 0} utilise la \n",
+        "capacité {STRVAR_1 6, 1, 0} avec brio...\r",
+        "Et mon {STRVAR_1 0, 2, 0} aime bien \n",
+        "utiliser {STRVAR_1 6, 3, 0}.\r",
+        "Alors... qu’est-ce que tu décides?\n",
+        "Est-ce qu’on va faire équipe?"
       ]
     },
     {
       "id": "BattleTowerBattleSalon_Text_MarleyDontTeamUp",
-      "en_US": "Marley: ...Whatever..."
+      "en_US": "Marley: ...Whatever...",
+      "fr_FR": "Viviane: Comme tu veux..."
     },
     {
       "id": "BattleTowerBattleSalon_Text_MarleyTeamUp",
-      "en_US": "Marley: ...I’ll go ahead...\r"
+      "en_US": "Marley: ...I’ll go ahead...\r",
+      "fr_FR": "Viviane: Je t’attendrai là-bas...\r"
     },
     {
       "id": "BattleTowerBattleSalon_Text_MiraAskTeamUp",
@@ -126,6 +193,14 @@
         "Its {STRVAR_1 6, 3, 0} is awesome!\r",
         "{STRVAR_1 3, 4, 0}, do you want to\n",
         "go with me?"
+      ],
+      "fr_FR": [
+        "Maïté: Salut, salut!\n",
+        "Je suis avec mon {STRVAR_1 0, 0, 0}!\f",
+        "Il est trop fort avec {STRVAR_1 6, 1, 0}!\r",
+        "L’autre, c’est mon {STRVAR_1 0, 2, 0}.\n",
+        "Sa capacité {STRVAR_1 6, 3, 0} est top!\r",
+        "Alors, {STRVAR_1 3, 4, 0}, on fait équipe?"
       ]
     },
     {
@@ -133,6 +208,10 @@
       "en_US": [
         "Mira: Oh, OK.\n",
         "Let’s go another time!"
+      ],
+      "fr_FR": [
+        "Maïté: OK, d’accord.\n",
+        "On remet ça à une autre fois!"
       ]
     },
     {
@@ -140,6 +219,10 @@
       "en_US": [
         "Mira: OK! I’ll wait for you!\n",
         "{STRVAR_1 3, 0, 0}, don’t be long!\r"
+      ],
+      "fr_FR": [
+        "Maïté: Ça marche! Je t’attends,\n",
+        "{STRVAR_1 3, 0, 0}, mais ne traîne pas trop!\r"
       ]
     }
   ]

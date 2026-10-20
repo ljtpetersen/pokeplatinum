@@ -28,5 +28,12 @@
   "battleUseCategory": "BATTLE_USE_CATEGORY_HEALING",
   "itemUseParams": {
     "hpRestored": 80
-  }
+  },
+  "name_fr": "Limonade",
+  "description_fr": [
+    "Une boisson très sucrée.\n",
+    "Restaure 80 PV à un Pokémon."
+  ],
+  "plural_fr": "Limonade",
+  "article_fr": null
 }

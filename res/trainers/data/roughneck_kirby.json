@@ -25,11 +25,18 @@
                 "Team Galactic did it...\r",
                 "Ever since, I’ve never forgiven\n",
                 "their faces...\r"
+            ],
+            "fr_FR": [
+                "On m’a volé mes Pokémon...\n",
+                "C’est la Team Galaxie qui a fait ça...\r",
+                "Depuis, je n’ai pas pu oublier leurs\n",
+                "visages...\r"
             ]
         },
         {
             "type": "TRMSG_DEFEAT",
-            "en_US": "Gwaaaaaah!\n"
+            "en_US": "Gwaaaaaah!\n",
+            "fr_FR": "Aaaaaaah!\n"
         },
         {
             "type": "TRMSG_POST_BATTLE",
@@ -38,7 +45,14 @@
                 "by ruining its memory like this...\r",
                 "I can’t be wallowing around forever.\n",
                 "I gotta move on and turn the page."
+            ],
+            "fr_FR": [
+                "Je ne rends pas service à mon Pokémon\n",
+                "en bafouant sa mémoire...\r",
+                "Je ne peux plus me lamenter ainsi.\n",
+                "Je dois tourner la page."
             ]
         }
-    ]
+    ],
+    "name_fr": "Ben"
 }

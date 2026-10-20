@@ -6,6 +6,10 @@
       "en_US": [
         "In Amity Square, you may go for\n",
         "a stroll with a cute Pokémon."
+      ],
+      "fr_FR": [
+        "Au Square Paisible, vous pouvez vous\n",
+        "promener avec vos Pokémon gracieux."
       ]
     },
     {
@@ -15,11 +19,17 @@
         "of its Poké Ball for a walk outside.\r",
         "See? You can tell because its cheeks\n",
         "are twitching away!"
+      ],
+      "fr_FR": [
+        "Mon PIKACHU est ravi de sortir\n",
+        "de sa Poké Ball pour une promenade.\r",
+        "Ça se voit à ses joues qui crépitent!"
       ]
     },
     {
       "id": "HearthomeCityWestGateToAmitySquare_Text_PikachuCryPikappi",
-      "en_US": "PIKACHU: Pikappi!"
+      "en_US": "PIKACHU: Pikappi!",
+      "fr_FR": "PIKACHU: Pikappi!"
     }
   ]
 }

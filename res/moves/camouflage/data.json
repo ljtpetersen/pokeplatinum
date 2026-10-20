@@ -25,5 +25,13 @@
     "contest": {
         "effect": "CONTEST_EFFECT_SUPPRESS_VOLTAGE",
         "type": "CONTEST_TYPE_SMART"
-    }
+    },
+    "name_fr": "Camouflage",
+    "description_fr": [
+        "Modifie le type du\n",
+        "lanceur en fonction\n",
+        "du terrain, comme\n",
+        "une berge, une\n",
+        "grotte, l’herbe, etc."
+    ]
 }

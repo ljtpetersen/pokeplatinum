@@ -109,6 +109,10 @@
             "en_US": [
                 "Let me make it clear right now, I’m\n",
                 "tougher than you can stand!"
+            ],
+            "fr_FR": [
+                "Que les choses soient claires, je suis\n",
+                "beaucoup trop fort pour toi!"
             ]
         },
         {
@@ -116,11 +120,17 @@
             "en_US": [
                 "See?\n",
                 "I wasn’t exaggerating!\r"
+            ],
+            "fr_FR": [
+                "Tu vois?\n",
+                "Je n’exagérais pas!\r"
             ]
         },
         {
             "type": "TRMSG_DEFEAT",
-            "en_US": "Who are you exactly?!\r"
+            "en_US": "Who are you exactly?!\r",
+            "fr_FR": "Euh... tu es qui déjà?\r"
         }
-    ]
+    ],
+    "name_fr": "Idris"
 }

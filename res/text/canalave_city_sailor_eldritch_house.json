@@ -10,6 +10,14 @@
         "Even the sea doesn’t scare him!\r",
         "Oh, but a Gym Leader’d be cool, too!\n",
         "Byron is so awesome!"
+      ],
+      "fr_FR": [
+        "Je veux faire comme papa, c’est\n",
+        "un Marin!\r",
+        "C’est un dur de dur!\n",
+        "Même la mer le fait pas trembler!\r",
+        "Oh, mais j’aimerais aussi être Champion\n",
+        "d’Arène! Charles est trop génial!"
       ]
     },
     {
@@ -21,6 +29,14 @@
         "He is muttering something...\r",
         "“DAR...\n",
         "DARK...is watching...me...”"
+      ],
+      "fr_FR": [
+        "Le petit garçon dort d’un\n",
+        "sommeil agité.\r",
+        "Il semble tourmenté...\n",
+        "Il murmure quelque chose...\r",
+        "“DAR...\n",
+        "DARK... me... guette...”"
       ]
     },
     {
@@ -32,11 +48,20 @@
         "to glow...\r",
         "The boy’s sleeping face became\n",
         "untroubled and serene!\r"
+      ],
+      "fr_FR": [
+        "Le petit garçon dort d’un\n",
+        "sommeil agité.\r",
+        "La Lun’Aile apportée par {STRVAR_1 3, 0, 0}\n",
+        "commence à briller...\r",
+        "Le visage du garçon semble désormais\n",
+        "paisible et serein!\r"
       ]
     },
     {
       "id": "CanalaveCitySailorEldritchHouse_Text_LittleBoyWokeUp",
-      "en_US": "The little boy woke up!"
+      "en_US": "The little boy woke up!",
+      "fr_FR": "Le petit garçon s’est réveillé!"
     },
     {
       "id": "CanalaveCitySailorEldritchHouse_Text_ScaryDreamDarkPokemon",
@@ -48,6 +73,15 @@
         "And there was a dark Pokémon...\r",
         "But, Daddy, Mommy...\n",
         "I could always hear your voices..."
+      ],
+      "fr_FR": [
+        "Je n’arrivais pas à me réveiller...\n",
+        "Je l’ai vu...\r",
+        "C’était un rêve terrifiant...\n",
+        "Un endroit très sombre...\f",
+        "Et il y avait un Pokémon sombre...\r",
+        "Mais j’entendais toujours les voix de\n",
+        "mon papa et de ma maman..."
       ]
     },
     {
@@ -57,6 +91,12 @@
         "You’re awake!\r",
         "Oh, my son...\n",
         "I... I don’t know what to say...\r"
+      ],
+      "fr_FR": [
+        "Oh, juste ciel!\n",
+        "Tu es réveillé!\r",
+        "Oh, mon fils...\n",
+        "Je... Les mots me manquent...\r"
       ]
     },
     {
@@ -64,6 +104,10 @@
       "en_US": [
         "Thank you!\n",
         "We’ll never forget you!\r"
+      ],
+      "fr_FR": [
+        "Merci!\n",
+        "Nous ne t’oublierons jamais!\r"
       ]
     },
     {
@@ -73,6 +117,11 @@
         "me feel great!\r",
         "I’ve regained my spirit as a Sailor!\n",
         "Come sail with me later!\r"
+      ],
+      "fr_FR": [
+        "C’est si bon de te voir en forme!\r",
+        "Mon sang de Marin ne fait qu’un tour!\n",
+        "Nous irons naviguer tout à l’heure!\r"
       ]
     },
     {
@@ -80,6 +129,10 @@
       "en_US": [
         "Our boy has too much energy!\n",
         "...That’s the best way to be!"
+      ],
+      "fr_FR": [
+        "Notre fils déborde d’énergie!\n",
+        "... Il est en pleine forme!"
       ]
     },
     {
@@ -97,6 +150,22 @@
         "on Fullmoon Island, but he failed...\r",
         "Does it take a Trainer to do that?\n",
         "We feel so frustrated by this..."
+      ],
+      "fr_FR": [
+        "Je n’aurais jamais pensé que notre fils\n",
+        "se retrouverait prisonnier de\f",
+        "cet interminable cauchemar...\r",
+        "C’est déjà arrivé dans le passé à\n",
+        "Joliberges...\r",
+        "Certaines personnes tombaient dans un\n",
+        "sommeil infini peuplé de cauchemars...\r",
+        "... Il n’y avait qu’un seul moyen de les\n",
+        "en tirer: trouver une Lun’Aile.\r",
+        "Mon époux s’est rendu sur l’Ile Pleine\n",
+        "Lune pour s’en procurer une. En vain...\r",
+        "Peut-être qu’il faut être Dresseur\n",
+        "pour y arriver...\r",
+        "Nous sommes désemparés..."
       ]
     },
     {
@@ -104,6 +173,10 @@
       "en_US": [
         "Thank you! We can’t thank you\n",
         "enough, but thank you!"
+      ],
+      "fr_FR": [
+        "Merci! Nous ne pourrons jamais te\n",
+        "remercier assez!"
       ]
     }
   ]

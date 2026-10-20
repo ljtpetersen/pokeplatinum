@@ -10,6 +10,13 @@
         "knowing how they got there.\r",
         "It’s an enduring mystery.\n",
         "Is someone leaving them there?"
+      ],
+      "fr_FR": [
+        "Régulièrement, on découvre des Oeufs\n",
+        "à la Pension Pokémon.\r",
+        "Personne ne sait d’où ils viennent.\n",
+        "Mystère!\r",
+        "Tu crois que quelqu’un les dépose?"
       ]
     },
     {
@@ -19,6 +26,12 @@
         "a Pokémon actually lay an Egg.\r",
         "So, it hasn’t been proven that\n",
         "Pokémon actually lay Eggs."
+      ],
+      "fr_FR": [
+        "Il paraît que personne n’a jamais vu\n",
+        "de Pokémon pondre un Oeuf.\r",
+        "On n’a toujours pas réussi à prouver\n",
+        "qu’ils étaient ovipares."
       ]
     }
   ]

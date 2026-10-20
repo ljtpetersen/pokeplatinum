@@ -25,5 +25,12 @@
     "contest": {
         "effect": "CONTEST_EFFECT_DOUBLE_NEXT_TURN",
         "type": "CONTEST_TYPE_CUTE"
-    }
+    },
+    "name_fr": "Cognobidon",
+    "description_fr": [
+        "Améliore l’Attaque\n",
+        "au maximum en\n",
+        "sacrifiant la moitié\n",
+        "des PV max."
+    ]
 }

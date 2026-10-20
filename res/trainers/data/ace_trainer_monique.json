@@ -58,6 +58,10 @@
             "en_US": [
                 "We’re all good to go!\n",
                 "We just have to battle now!\r"
+            ],
+            "fr_FR": [
+                "Nous sommes fin prêts!\n",
+                "Il ne nous reste plus qu’à nous battre!\r"
             ]
         },
         {
@@ -65,6 +69,10 @@
             "en_US": [
                 "Aww...\n",
                 "I’m out of useful items!\n"
+            ],
+            "fr_FR": [
+                "Non...\n",
+                "Je n’ai plus d’objets!\n"
             ]
         },
         {
@@ -72,7 +80,12 @@
             "en_US": [
                 "We came completely unprepared for\n",
                 "this little adventure...\n"
+            ],
+            "fr_FR": [
+                "Nous ne nous sommes pas du tout\n",
+                "préparés pour cette petite aventure...\n"
             ]
         }
-    ]
+    ],
+    "name_fr": "Caroline"
 }

@@ -45,6 +45,10 @@
             "en_US": [
                 "I’m breaking out of my shell!\n",
                 "I’m taking it to the next level!"
+            ],
+            "fr_FR": [
+                "Je crois que je vais bientôt muer.\n",
+                "Je suis prêt, en tout cas."
             ]
         },
         {
@@ -52,6 +56,10 @@
             "en_US": [
                 "It’s like I’ve sprouted wings!\n",
                 "Viva to the new me!\r"
+            ],
+            "fr_FR": [
+                "Tu vois? Je suis en train\n",
+                "d’évoluer, je le sens.\r"
             ]
         },
         {
@@ -59,7 +67,12 @@
             "en_US": [
                 "Is it not my time yet?\n",
                 "Do I need to stay in my shell longer?\r"
+            ],
+            "fr_FR": [
+                "Alors c’est trop tôt?\n",
+                "Je ne vais pas muer finalement?\r"
             ]
         }
-    ]
+    ],
+    "name_fr": "Amédée"
 }

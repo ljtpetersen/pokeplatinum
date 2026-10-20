@@ -52,15 +52,22 @@
     "messages": [
         {
             "type": "TRMSG_PRE_BATTLE",
-            "en_US": "Here comes the swarm!\r"
+            "en_US": "Here comes the swarm!\r",
+            "fr_FR": "Voilà l’essaim!\r"
         },
         {
             "type": "TRMSG_DEFEAT",
-            "en_US": "Whoooh...\n"
+            "en_US": "Whoooh...\n",
+            "fr_FR": "Wouuuuuuuuh...\n"
         },
         {
             "type": "TRMSG_POST_BATTLE",
-            "en_US": "There’s a Pokémon ability named Swarm.\n"
+            "en_US": "There’s a Pokémon ability named Swarm.\n",
+            "fr_FR": [
+                "Il existe une capacité spéciale Pokémon\n",
+                "appelée “Essaim”. Tu le savais?\n"
+            ]
         }
-    ]
+    ],
+    "name_fr": "Tim"
 }

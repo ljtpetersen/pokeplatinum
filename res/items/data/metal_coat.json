@@ -26,5 +26,13 @@
   "battlePocket": "BATTLE_POCKET_MASK_NONE",
   "fieldUseFunc": "ITEM_USE_FUNC_NONE",
   "battleUseCategory": "BATTLE_USE_CATEGORY_NONE",
-  "itemUseParams": null
+  "itemUseParams": null,
+  "name_fr": "Peau Métal",
+  "description_fr": [
+    "Objet à tenir. Pellicule métallique\n",
+    "spéciale qui monte la puissance des\n",
+    "capacités de type Acier."
+  ],
+  "plural_fr": "Peau Métal",
+  "article_fr": null
 }

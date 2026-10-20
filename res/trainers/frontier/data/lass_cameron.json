@@ -59,6 +59,10 @@
             "en_US": [
                 "I can’t bear this tension.\n",
                 "Would they be mad if I went home?"
+            ],
+            "fr_FR": [
+                "C’est trop dur!\n",
+                "Je veux rentrer chez moi!"
             ]
         },
         {
@@ -66,6 +70,10 @@
             "en_US": [
                 "I did it!\n",
                 "I won somehow!\r"
+            ],
+            "fr_FR": [
+                "Hé! J’ai réussi!\n",
+                "J’ai gagné! Hi, hi!\r"
             ]
         },
         {
@@ -73,7 +81,12 @@
             "en_US": [
                 "That’s gone past my limit!\n",
                 "I need to be excused!\r"
+            ],
+            "fr_FR": [
+                "Cette fois, c’est décidé. Je\n",
+                "rentre chez moi!\r"
             ]
         }
-    ]
+    ],
+    "name_fr": "Gwen"
 }

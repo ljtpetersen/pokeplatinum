@@ -25,5 +25,13 @@
     "contest": {
         "effect": "CONTEST_EFFECT_DOUBLE_NEXT_TURN",
         "type": "CONTEST_TYPE_BEAUTY"
-    }
+    },
+    "name_fr": "Gonflette",
+    "description_fr": [
+        "Le lanceur tend ses\n",
+        "muscles pour se\n",
+        "gonfler, ce qui booste\n",
+        "son Attaque et sa\n",
+        "Défense."
+    ]
 }

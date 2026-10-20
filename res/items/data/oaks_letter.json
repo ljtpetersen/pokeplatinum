@@ -26,5 +26,12 @@
   "battlePocket": "BATTLE_POCKET_MASK_NONE",
   "fieldUseFunc": "ITEM_USE_FUNC_NONE",
   "battleUseCategory": "BATTLE_USE_CATEGORY_NONE",
-  "itemUseParams": null
+  "itemUseParams": null,
+  "name_fr": "Lettre Chen",
+  "description_fr": [
+    "Lettre du Prof. Chen vous demandant de\n",
+    "vous rendre sur la Route 224."
+  ],
+  "plural_fr": "Lettre Chen",
+  "article_fr": null
 }

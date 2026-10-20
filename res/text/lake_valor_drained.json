@@ -12,6 +12,16 @@
         "interesting now.\r",
         "All the legendary Pokémon are going\n",
         "to be brought to our HQ in Veilstone!"
+      ],
+      "fr_FR": [
+        "Qu’est-ce que tu viens faire ici?\n",
+        "Enquêter sur l’explosion?\r",
+        "Bah, peu importe. Tu arrives trop tard\n",
+        "pour changer quoi que ce soit.\r",
+        "Les choses vont devenir vraiment\n",
+        "très intéressantes.\r",
+        "Tous les Pokémon légendaires vont être\n",
+        "amenés à notre QG de Voilaroc!"
       ]
     },
     {
@@ -19,6 +29,10 @@
       "en_US": [
         "Even Team Galactic has no use for\n",
         "MAGIKARP! Worthless, all of them!"
+      ],
+      "fr_FR": [
+        "Même la Team Galaxie n’a que faire des\n",
+        "MAGICARPE! Ils sont tous inutiles!"
       ]
     },
     {
@@ -30,11 +44,20 @@
         "town called Twinleaf!\r",
         "We can roll in there completely\n",
         "unopposed!"
+      ],
+      "fr_FR": [
+        "Hahaha!\n",
+        "Prochain arrêt, le Lac Vérité!\r",
+        "La ville la plus proche est ce trou\n",
+        "perdu qu’on appelle Bonaugure!\r",
+        "On n’y rencontrera pas \n",
+        "la moindre résistance!"
       ]
     },
     {
       "id": "LakeValorDrained_Text_MagikarpIsFlopping",
-      "en_US": "A MAGIKARP is weakly flopping about..."
+      "en_US": "A MAGIKARP is weakly flopping about...",
+      "fr_FR": "Un MAGICARPE remue faiblement..."
     }
   ]
 }

@@ -115,11 +115,12 @@ static void proc_trade(datafile_t *df) {
 static char **s_trainernames = NULL;
 
 static void prep_trainernames(size_t count) {
-    char *buf_trainernames = calloc(count * (TRAINER_NAME_LEN + 1), sizeof(*buf_trainernames));
+    // for now, just allocate more space.
+    char *buf_trainernames = calloc(count * (TRAINER_NAME_LEN + 2), sizeof(*buf_trainernames));
     s_trainernames         = calloc(count, sizeof(*s_trainernames));
 
     for (size_t i = 0; i < count; i++) {
-        s_trainernames[i] = &buf_trainernames[i * (TRAINER_NAME_LEN + 1)];
+        s_trainernames[i] = &buf_trainernames[i * (TRAINER_NAME_LEN + 2)];
     }
 }
 
@@ -139,15 +140,15 @@ static void check_name(datanode_t *node, const char *val, size_t len, size_t max
 static void proc_text(datafile_t *df, size_t i) {
     char buf[BUFSIZE] = { 0 };
 
-    datanode_t   pk_name     = dp_get(df, ".name");
-    datanode_t   tr_name     = dp_get(df, ".otName");
+    datanode_t   pk_name     = dp_get(df, ".name" ATTRIBUTE_EXTENSION);
+    datanode_t   tr_name     = dp_get(df, ".otName" ATTRIBUTE_EXTENSION);
     const char  *pk_name_val = dp_string(pk_name);
     const char  *tr_name_val = dp_string(tr_name);
     const size_t pk_name_len = pk_name_val ? strlen(pk_name_val) : 0;
     const size_t tr_name_len = tr_name_val ? strlen(tr_name_val) : 0;
 
     check_name(&pk_name, pk_name_val, pk_name_len, MON_NAME_LEN, "traded Pokemon");
-    check_name(&tr_name, tr_name_val, tr_name_len, TRAINER_NAME_LEN, "trading Trainer");
+    //check_name(&tr_name, tr_name_val, tr_name_len, TRAINER_NAME_LEN, "trading Trainer");
 
     bank_push(0, strfmt("NPCTradeNames_Text_Mon%zu", i), pk_name_val);
     memcpy(s_trainernames[i], tr_name_val, tr_name_len); // store for later

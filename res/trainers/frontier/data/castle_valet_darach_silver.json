@@ -15,6 +15,10 @@
             "en_US": [
                 "Very well...\n",
                 "Shall we begin?"
+            ],
+            "fr_FR": [
+                "Très bien...\n",
+                "Pouvons-nous commencer?"
             ]
         },
         {
@@ -23,6 +27,11 @@
                 "Ah, a most valiant effort.\r",
                 "Though I was lucky enough to win this\n",
                 "time, the next time...\r"
+            ],
+            "fr_FR": [
+                "Ah, un effort des plus louables.\r",
+                "J’ai pu m’octroyer la victoire\n",
+                "cette fois-ci, mais...\r"
             ]
         },
         {
@@ -31,7 +40,13 @@
                 "My Pokémon could not be faulted in any\n",
                 "way or form.\r",
                 "My hat’s off to you.\r"
+            ],
+            "fr_FR": [
+                "Mes Pokémon ne peuvent être blâmés\n",
+                "pour cet insuccès.\r",
+                "Toutes mes félicitations.\r"
             ]
         }
-    ]
+    ],
+    "name_fr": "Parsley"
 }

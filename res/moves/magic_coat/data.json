@@ -22,5 +22,13 @@
     "contest": {
         "effect": "CONTEST_EFFECT_DOUBLE_FINAL_ACT",
         "type": "CONTEST_TYPE_BEAUTY"
-    }
+    },
+    "name_fr": "Reflet Magik",
+    "description_fr": [
+        "Une barrière qui \n",
+        "renvoie les capacités\n",
+        "comme Vampigraine et\n",
+        "celles affectant le\n",
+        "statut et les stats."
+    ]
 }

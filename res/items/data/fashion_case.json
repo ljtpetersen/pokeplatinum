@@ -26,5 +26,12 @@
   "battlePocket": "BATTLE_POCKET_MASK_NONE",
   "fieldUseFunc": "ITEM_USE_FUNC_BAG_MESSAGE",
   "battleUseCategory": "BATTLE_USE_CATEGORY_NONE",
-  "itemUseParams": null
+  "itemUseParams": null,
+  "name_fr": "Coffret Mode",
+  "description_fr": [
+    "Jolie boîte permettant de ranger les\n",
+    "Accessoires Pokémon."
+  ],
+  "plural_fr": "Coffret Mode",
+  "article_fr": null
 }

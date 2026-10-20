@@ -29,17 +29,26 @@
     "messages": [
         {
             "type": "TRMSG_PRE_BATTLE",
-            "en_US": "Are your Pokémon growing properly?\r"
+            "en_US": "Are your Pokémon growing properly?\r",
+            "fr_FR": [
+                "Alors, toi et les Pokémon, ça se\n",
+                "passe bien?\r"
+            ]
         },
         {
             "type": "TRMSG_DEFEAT",
-            "en_US": "Maybe too grown up!\n"
+            "en_US": "Maybe too grown up!\n",
+            "fr_FR": "Ils sont peut-être trop grands!\n"
         },
         {
             "type": "TRMSG_POST_BATTLE",
             "en_US": [
                 "I’ve grown with my Pokémon, too.\n",
                 "My swimsuit’s getting a little tight...\n"
+            ],
+            "fr_FR": [
+                "J’ai aussi grandi avec mes Pokémon.\n",
+                "Mon maillot est devenu un peu petit...\n"
             ]
         },
         {
@@ -48,7 +57,14 @@
                 "Did your Pokémon grow any more?\r",
                 "My Pokémon?\n",
                 "Mine are doing awesome!\r"
+            ],
+            "fr_FR": [
+                "Est-ce que tu t’occupes bien de tes\n",
+                "Pokémon, dis-moi?\r",
+                "Mes Pokémon?\n",
+                "Les miens vont super bien!\r"
             ]
         }
-    ]
+    ],
+    "name_fr": "Marthe"
 }

@@ -39,5 +39,13 @@
     "bitterness": 0,
     "sourness": 10,
     "smoothness": 30
-  }
+  },
+  "name_fr": "Baie Kébia",
+  "description_fr": [
+    "Ingrédient pour Poffin. Tenue, cette\n",
+    "Baie affaiblit une attaque ennemie super\n",
+    "efficace de type Poison."
+  ],
+  "plural_fr": "Baie Kébia",
+  "article_fr": null
 }

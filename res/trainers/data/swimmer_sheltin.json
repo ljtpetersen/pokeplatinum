@@ -41,6 +41,10 @@
             "en_US": [
                 "I swim the whole year round.\n",
                 "I’m not losing a battle at sea!\r"
+            ],
+            "fr_FR": [
+                "Je nage tous les jours de l’année.\n",
+                "Je ne vais pas perdre un combat en mer!\r"
             ]
         },
         {
@@ -48,6 +52,10 @@
             "en_US": [
                 "I lost at sea! But I swim here the\n",
                 "whole year round!\n"
+            ],
+            "fr_FR": [
+                "Je nage ici toute l’année, mais j’ai\n",
+                "quand même perdu contre toi!"
             ]
         },
         {
@@ -55,6 +63,10 @@
             "en_US": [
                 "When you’re out at sea, Water-type\n",
                 "Pokémon look more lively.\n"
+            ],
+            "fr_FR": [
+                "Quand tu es en mer, les Pokémon Eau\n",
+                "sont plus vigoureux.\n"
             ]
         },
         {
@@ -62,7 +74,12 @@
             "en_US": [
                 "I love the sea. It was only by fluke\n",
                 "that I lost last time.\r"
+            ],
+            "fr_FR": [
+                "J’adore la mer. Je n’ai pas eu de chance\n",
+                "la dernière fois, voilà tout.\r"
             ]
         }
-    ]
+    ],
+    "name_fr": "Eustache"
 }

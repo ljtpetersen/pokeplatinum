@@ -77,6 +77,10 @@
             "en_US": [
                 "I’m bored of collecting and hoarding.\n",
                 "I’m getting rid of everything now."
+            ],
+            "fr_FR": [
+                "J’en ai assez d’être un Collec!\n",
+                "Je vais tout plaquer."
             ]
         },
         {
@@ -84,6 +88,10 @@
             "en_US": [
                 "There’s nothing that I really want now.\n",
                 "Maybe I’ll become a clown..."
+            ],
+            "fr_FR": [
+                "Je ne sais pas ce que je vais faire\n",
+                "maintenant. Peut-être devenir clown..."
             ]
         },
         {
@@ -91,7 +99,12 @@
             "en_US": [
                 "I threw the match for a start.\n",
                 "It’s nice to be unburdened of things."
+            ],
+            "fr_FR": [
+                "Ce combat est la marque d’un nouveau\n",
+                "départ. Je me sens libéré."
             ]
         }
-    ]
+    ],
+    "name_fr": "Lucius"
 }

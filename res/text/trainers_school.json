@@ -14,11 +14,24 @@
         "So, {STRVAR_1 3, 0, 0}, what brings you?\n",
         "Huh?\f",
         "You’ve got something for me?\r"
+      ],
+      "fr_FR": [
+        "{STRVAR_1 3, 1, 0}: Salut, {STRVAR_1 3, 0, 0}!\n",
+        "Tu viens pour étudier, toi aussi?\r",
+        "J’ai pris de l’avance et mémorisé tout\n",
+        "ce qu’il y a d’écrit au tableau.\r",
+        "Après tout, c’est le travail d’un\n",
+        "Dresseur d’éviter que ses précieux\f",
+        "Pokémon ne soient blessés au combat.\r",
+        "Alors, {STRVAR_1 3, 0, 0}, qu’est-ce qui\n",
+        "t’amène? ... Hein?\f",
+        "Tu as quelque chose pour moi?\r"
       ]
     },
     {
       "id": "TrainersSchool_Text_PlayerDeliveredTheParcel",
-      "en_US": "{STRVAR_1 3, 0, 0} delivered the Parcel."
+      "en_US": "{STRVAR_1 3, 0, 0} delivered the Parcel.",
+      "fr_FR": "{STRVAR_1 3, 0, 0} donne le Colis."
     },
     {
       "id": "TrainersSchool_Text_TakeTownMap",
@@ -30,6 +43,15 @@
         "Why are there two in here?\r",
         "I like it a lot, but I don’t need two.\n",
         "Here, {STRVAR_1 3, 0, 0}, you take one!\r"
+      ],
+      "fr_FR": [
+        "{STRVAR_1 3, 1, 0}: Alors, c’est quoi ce...?\r",
+        "Jackpot!\n",
+        "C’est une Carte!\r",
+        "Hein?!\n",
+        "Mais pourquoi il y en a deux?\r",
+        "Une me suffit amplement.\n",
+        "Tiens, {STRVAR_1 3, 0, 0}, prends-en une!\r"
       ]
     },
     {
@@ -44,6 +66,18 @@
         "Well, I’m on the road to becoming\n",
         "the greatest Trainer of all time!\r",
         "See you around!\r"
+      ],
+      "fr_FR": [
+        "{STRVAR_1 3, 1, 0}: Hum...\r",
+        "Eh bien, d’après la Carte, je pense que\n",
+        "Charbourg est la prochaine ville\f",
+        "où je dois me rendre.\r",
+        "Il y a une Arène, alors ce sera parfait\n",
+        "pour endurcir les Pokémon que je viens\f",
+        "d’attraper.\r",
+        "Je suis en passe de devenir le plus\n",
+        "grand Dresseur de tous les temps!\r",
+        "Salut!\r"
       ]
     },
     {
@@ -53,6 +87,13 @@
         "Pokémon to develop at their own pace.\r",
         "If there is anything you’re not familiar\n",
         "with, you can look it up here."
+      ],
+      "fr_FR": [
+        "Il vaut mieux pour les Dresseurs et les\n",
+        "Pokémon qu’ils progressent à leur\f",
+        "propre rythme.\r",
+        "Si tu as besoin d’informations sur quoi\n",
+        "que ce soit, consulte les livres."
       ]
     },
     {
@@ -67,6 +108,13 @@
         "Grass is weak to Fire,\r",
         "Fire is weak to Water,\r",
         "and Water is weak to Grass!"
+      ],
+      "fr_FR": [
+        "Aujourd’hui, on a tout appris sur les\n",
+        "types de Pokémon. Humm...\r",
+        "Le type Plante craint le type Feu,\r",
+        "le type Feu craint le type Eau,\r",
+        "et le type Eau craint le type Plante!"
       ]
     },
     {
@@ -77,6 +125,13 @@
         "But they won’t know what to do with\n",
         "man-made items like Potions and\f",
         "Antidotes."
+      ],
+      "fr_FR": [
+        "Les Pokémon sont capables d’utiliser\n",
+        "les objets qu’ils tiennent.\r",
+        "Mais ils ne savent pas utiliser certains\n",
+        "objets conçus par les hommes, tels que\f",
+        "la Potion ou l’Antidote."
       ]
     },
     {
@@ -84,6 +139,10 @@
       "en_US": [
         "I wrote an essay in my notebook on \n",
         "what makes a true Pokémon Trainer."
+      ],
+      "fr_FR": [
+        "J’ai écrit une rédac sur mon cahier sur\n",
+        "ce qu’est un vrai Dresseur Pokémon."
       ]
     },
     {
@@ -91,6 +150,10 @@
       "en_US": [
         "Doing it is the best way to learn!\n",
         "Can we get a battle with you?"
+      ],
+      "fr_FR": [
+        "Le combat est la meilleure façon\n",
+        "d’apprendre! Tu te bats contre nous?"
       ]
     },
     {
@@ -98,6 +161,10 @@
       "en_US": [
         "Go!\n",
         "My Pokémon, go!\r"
+      ],
+      "fr_FR": [
+        "En avant!\n",
+        "Allez, go!\r"
       ]
     },
     {
@@ -105,6 +172,10 @@
       "en_US": [
         "Aww! But battling is the best way\n",
         "to learn about Pokémon!"
+      ],
+      "fr_FR": [
+        "Argh! Mais le combat est le meilleur\n",
+        "moyen de connaître les Pokémon!"
       ]
     },
     {
@@ -112,6 +183,10 @@
       "en_US": [
         "It’s hard to win if you don’t have\n",
         "some Pokémon to choose from."
+      ],
+      "fr_FR": [
+        "C’est dur de gagner si tu n’as pas le\n",
+        "choix entre plusieurs Pokémon."
       ]
     },
     {
@@ -122,6 +197,13 @@
         "we were no match for you at all!\r",
         "You’d be able to use this Potion\n",
         "properly. Here you go!\r"
+      ],
+      "fr_FR": [
+        "Waouh! Quel talent!\r",
+        "On passe notre temps à étudier, mais\n",
+        "on ne t’arrive pas à la cheville!\r",
+        "Je pense que tu feras bon usage de\n",
+        "cette Potion! Attrape!\r"
       ]
     },
     {
@@ -133,6 +215,14 @@
         "ordering your Pokémon around.\r",
         "A superior Trainer knows how to use\n",
         "items to the full advantage!"
+      ],
+      "fr_FR": [
+        "Les Potions permettent de restaurer\n",
+        "les PV (Points de Vie) de tes Pokémon.\r",
+        "Etre un bon Dresseur ne se résume pas\n",
+        "à donner des ordres aux Pokémon.\r",
+        "Un Dresseur digne de ce nom sait mettre\n",
+        "à profit les objets dont il dispose!"
       ]
     },
     {
@@ -142,6 +232,12 @@
         "Pokémon.\r",
         "I’m not sure if we can do this\n",
         "properly, but may we battle?"
+      ],
+      "fr_FR": [
+        "Je viens juste de devenir amie avec mon\n",
+        "Pokémon.\r",
+        "Je ne sais pas si on va bien se\n",
+        "débrouiller, mais si on se battait?"
       ]
     },
     {
@@ -149,6 +245,10 @@
       "en_US": [
         "I need to try the things I learned\n",
         "before I forget them!\r"
+      ],
+      "fr_FR": [
+        "Je dois tester les choses que j’ai\n",
+        "apprises avant de les oublier!\r"
       ]
     },
     {
@@ -158,6 +258,12 @@
         "Where’s your sense of adventure?\r",
         "Don’t be shy about talking to people\n",
         "and getting into battles!"
+      ],
+      "fr_FR": [
+        "Bah!\n",
+        "Où est ton sens de l’aventure?\r",
+        "N’aie pas peur de parler aux gens et\n",
+        "de faire des combats!"
       ]
     },
     {
@@ -167,6 +273,12 @@
         "against you?\r",
         "Like if I used Potions right when we\n",
         "needed to."
+      ],
+      "fr_FR": [
+        "Je me demande si on aurait pu mieux s’en\n",
+        "sortir face à toi...\r",
+        "Si j’avais utilisé des Potions en temps\n",
+        "voulu, par exemple."
       ]
     },
     {
@@ -178,6 +290,14 @@
         "tough you are.\r",
         "If you’d like, talk to my friend and\n",
         "get a nice item from him."
+      ],
+      "fr_FR": [
+        "En fait, on pensait que la victoire nous\n",
+        "était acquise.\r",
+        "Mais je suis impressionnée par tes\n",
+        "talents de Dresseurs.\r",
+        "Va donc discuter avec mon copain, il te\n",
+        "donnera un objet utile."
       ]
     },
     {
@@ -185,11 +305,17 @@
       "en_US": [
         "The blackboard lists status changes\n",
         "that may affect Pokémon in battle.\r"
+      ],
+      "fr_FR": [
+        "Ce tableau liste les changements de\n",
+        "statut pouvant toucher les Pokémon\f",
+        "au combat.\r"
       ]
     },
     {
       "id": "TrainersSchool_Text_ReadAboutWhichStatus",
-      "en_US": "Which would you like to read about?"
+      "en_US": "Which would you like to read about?",
+      "fr_FR": "Lire quel sujet?"
     },
     {
       "id": "TrainersSchool_Text_StatusPoisoned",
@@ -201,6 +327,15 @@
         "A poisoned Pokémon’s HP will drop\n",
         "while it is traveling.\r",
         "Heal a poisoning using an Antidote.\r"
+      ],
+      "fr_FR": [
+        "Si un Pokémon est empoisonné, ses PV\n",
+        "diminuent régulièrement.\r",
+        "Les effets du poison perdurent\n",
+        "après un combat.\r",
+        "Les PV d’un Pokémon empoisonné\n",
+        "continuent à diminuer hors combat.\r",
+        "L’Antidote remédie à l’empoisonnement.\r"
       ]
     },
     {
@@ -212,6 +347,14 @@
         "move while it is in battle.\r",
         "Paralysis remains after battle.\n",
         "Cure it using a Parlyz Heal.\r"
+      ],
+      "fr_FR": [
+        "Si un Pokémon est paralysé, sa\n",
+        "Vitesse diminue.\r",
+        "Il peut aussi être dans l’incapacité\n",
+        "de bouger pendant le combat.\r",
+        "La paralysie persiste après le combat.\n",
+        "L’Anti-Para permet d’y remédier.\r"
       ]
     },
     {
@@ -223,6 +366,14 @@
         "but if a battle ends while it is\f",
         "sleeping, it will stay asleep.\r",
         "Wake it up using an Awakening.\r"
+      ],
+      "fr_FR": [
+        "Si un Pokémon s’endort, il est\n",
+        "dans l’incapacité d’attaquer.\r",
+        "Le Pokémon peut se réveiller de\n",
+        "lui-même, mais s’il est endormi à\f",
+        "la fin du combat, il le restera ensuite.\r",
+        "Le Réveil le sortira de son sommeil.\r"
       ]
     },
     {
@@ -232,6 +383,13 @@
         "steadily reduces the victim’s HP.\r",
         "A burn lingers after battle.\n",
         "Cure a burn using a Burn Heal.\r"
+      ],
+      "fr_FR": [
+        "Une brûlure réduit la puissance\n",
+        "d’Attaque et diminue régulièrement\f",
+        "les PV de la victime.\r",
+        "Une brûlure persiste après le combat.\n",
+        "L’Anti-Brûle permet d’y remédier.\r"
       ]
     },
     {
@@ -243,6 +401,12 @@
         "but if a battle ends while it is\f",
         "frozen, it will stay frozen.\r",
         "Thaw it out using an Ice Heal.\r"
+      ],
+      "fr_FR": [
+        "Si un Pokémon est gelé, il n’est\n",
+        "plus d’aucune aide.\r",
+        "Il restera gelé après le combat.\n",
+        "L’Antigel permet de le dégeler.\r"
       ]
     },
     {
@@ -260,6 +424,19 @@
         "A Trainer’s mission is to defeat the\n",
         "strong Trainers who await challengers\f",
         "in Pokémon Gyms."
+      ],
+      "fr_FR": [
+        "C’est une rédaction...\r",
+        "On attrape les Pokémon avec des\n",
+        "Poké Balls.\r",
+        "Jusqu’à six Pokémon peuvent\n",
+        "accompagner un Dresseur.\r",
+        "Un Dresseur est une personne qui\n",
+        "attrape des Pokémon, les fait\f",
+        "progresser et se bat avec eux.\r",
+        "L’objectif du Dresseur est de battre\n",
+        "les puissants Dresseurs des\f",
+        "Arènes Pokémon."
       ]
     }
   ]

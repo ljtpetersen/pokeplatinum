@@ -10,6 +10,15 @@
         "that goal.\r",
         "It will sustain you as you fight through\n",
         "the long and arduous Victory Road."
+      ],
+      "fr_FR": [
+        "L’objectif est d’atteindre la Ligue\n",
+        "Pokémon.\r",
+        "Concentration et persévérance sont\n",
+        "les clés du succès.\r",
+        "Elles te soutiendront pendant les\n",
+        "épreuves qui t’attendent sur\f",
+        "la Route Victoire."
       ]
     },
     {
@@ -17,6 +26,10 @@
       "en_US": [
         "Victory Road confuses me.\n",
         "I should draw up a map."
+      ],
+      "fr_FR": [
+        "Je me suis perdue sur la Route Victoire.\n",
+        "Je devrais dessiner un plan."
       ]
     }
   ]

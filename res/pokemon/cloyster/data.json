@@ -7,7 +7,10 @@
         "special_attack": 85,
         "special_defense": 45
     },
-    "types": [ "TYPE_WATER", "TYPE_ICE" ],
+    "types": [
+        "TYPE_WATER",
+        "TYPE_ICE"
+    ],
     "catch_rate": 60,
     "base_exp_reward": 203,
     "ev_yields": {
@@ -26,21 +29,48 @@
     "hatch_cycles": 20,
     "base_friendship": 70,
     "exp_rate": "EXP_RATE_SLOW",
-    "egg_groups": [ "EGG_GROUP_WATER_3", "EGG_GROUP_WATER_3" ],
-    "abilities": [ "ABILITY_SHELL_ARMOR", "ABILITY_SKILL_LINK" ],
+    "egg_groups": [
+        "EGG_GROUP_WATER_3",
+        "EGG_GROUP_WATER_3"
+    ],
+    "abilities": [
+        "ABILITY_SHELL_ARMOR",
+        "ABILITY_SKILL_LINK"
+    ],
     "safari_flee_rate": 0,
     "body_color": "MON_COLOR_PURPLE",
     "flip_sprite": false,
     "icon_palette": 2,
     "learnset": {
         "by_level": [
-            [ 1, "MOVE_TOXIC_SPIKES" ],
-            [ 1, "MOVE_WITHDRAW" ],
-            [ 1, "MOVE_SUPERSONIC" ],
-            [ 1, "MOVE_AURORA_BEAM" ],
-            [ 1, "MOVE_PROTECT" ],
-            [ 28, "MOVE_SPIKES" ],
-            [ 40, "MOVE_SPIKE_CANNON" ]
+            [
+                1,
+                "MOVE_TOXIC_SPIKES"
+            ],
+            [
+                1,
+                "MOVE_WITHDRAW"
+            ],
+            [
+                1,
+                "MOVE_SUPERSONIC"
+            ],
+            [
+                1,
+                "MOVE_AURORA_BEAM"
+            ],
+            [
+                1,
+                "MOVE_PROTECT"
+            ],
+            [
+                28,
+                "MOVE_SPIKES"
+            ],
+            [
+                40,
+                "MOVE_SPIKE_CANNON"
+            ]
         ],
         "by_tm": [
             "TM03",
@@ -83,7 +113,7 @@
             "MOVE_SWIFT"
         ]
     },
-    "evolutions": [  ],
+    "evolutions": [],
     "offspring": "SPECIES_SHELLDER",
     "footprint": {
         "has": false,
@@ -154,6 +184,18 @@
                 "カラを　しっかりと　とじて　みを\n",
                 "まもりながら　トゲを　とばして\n",
                 "てきを　げきたいする　せんぽう。"
+            ]
+        },
+        "local_version": {
+            "entry_text": [
+                "It fights by keeping its shell\n",
+                "tightly shut for protection and\n",
+                "by shooting spikes to repel foes."
+            ],
+            "entry_text_fr": [
+                "Il se défend en fermant sa coquille\n",
+                "et projette des piquants qui\n",
+                "repoussent ses agresseurs."
             ]
         }
     },

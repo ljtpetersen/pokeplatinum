@@ -77,6 +77,10 @@
             "en_US": [
                 "To serve and protect Pokémon and\n",
                 "nature. That’s my mission!"
+            ],
+            "fr_FR": [
+                "Servir et protéger les Pokémon et la\n",
+                "nature. Voilà ma mission!"
             ]
         },
         {
@@ -84,6 +88,10 @@
             "en_US": [
                 "My skills I developed in the embrace of\n",
                 "Mother Nature!\r"
+            ],
+            "fr_FR": [
+                "C’est en communiant avec la nature que\n",
+                "j’ai pu devenir si fort.\r"
             ]
         },
         {
@@ -91,7 +99,12 @@
             "en_US": [
                 "My mission needs me!\n",
                 "This is where we bid good-bye!\r"
+            ],
+            "fr_FR": [
+                "Le devoir m’appelle.\n",
+                "C’est le moment de se dire au revoir.\r"
             ]
         }
-    ]
+    ],
+    "name_fr": "Driss"
 }

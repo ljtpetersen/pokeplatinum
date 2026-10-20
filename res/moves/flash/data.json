@@ -27,5 +27,13 @@
     "contest": {
         "effect": "CONTEST_EFFECT_LOWERS_VOLTAGE",
         "type": "CONTEST_TYPE_BEAUTY"
-    }
+    },
+    "name_fr": "Flash",
+    "description_fr": [
+        "Explosion lumineuse\n",
+        "qui fait baisser la\n",
+        "précision de l’ennemi.\n",
+        "Permet aussi d’éclai-\n",
+        "rer les grottes."
+    ]
 }

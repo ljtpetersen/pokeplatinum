@@ -8,6 +8,11 @@
         "the way to go.\r",
         "It makes you feel as if they’re your\n",
         "very own."
+      ],
+      "fr_FR": [
+        "Il faut donner des noms aux Pokémon.\r",
+        "Tu as ainsi l’impression qu’ils\n",
+        "t’appartiennent vraiment."
       ]
     },
     {
@@ -17,6 +22,12 @@
         "just because of its color...\r",
         "I don’t understand the logic behind\n",
         "that at all."
+      ],
+      "fr_FR": [
+        "Il a appelé notre PSYKOKWAK “Jaune”\n",
+        "à cause de sa couleur...\r",
+        "Je ne comprends pas la logique derrière\n",
+        "tout ça."
       ]
     },
     {
@@ -24,6 +35,10 @@
       "en_US": [
         "Are you catching Pokémon?\n",
         "Here, take this if you’d like.\r"
+      ],
+      "fr_FR": [
+        "Attrapes-tu des Pokémon?\n",
+        "Tiens, prends ça si tu veux.\r"
       ]
     },
     {
@@ -33,11 +48,18 @@
         "for use in darkness.\r",
         "It works better if you use it at\n",
         "night or in a cave."
+      ],
+      "fr_FR": [
+        "La Sombre Ball est une Poké Ball conçue\n",
+        "pour être utilisée dans l’obscurité.\r",
+        "Elle fonctionne mieux si on l’utilise\n",
+        "la nuit ou dans les grottes."
       ]
     },
     {
       "id": "OreburghCityNorthwestHouse2F_Text_YellowPsyduckCry",
-      "en_US": "Yellow: Duuuck?"
+      "en_US": "Yellow: Duuuck?",
+      "fr_FR": "Jaune: Psy kwah?"
     }
   ]
 }

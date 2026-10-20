@@ -32,18 +32,28 @@
             "en_US": [
                 "My senses tingle...\n",
                 "I’ve spotted a rare Pokémon!\r"
+            ],
+            "fr_FR": [
+                "Mes super sens sont en alerte...\n",
+                "J’ai repéré un Pokémon rare!\r"
             ]
         },
         {
             "type": "TRMSG_DEFEAT",
-            "en_US": "Awawawawah...\n"
+            "en_US": "Awawawawah...\n",
+            "fr_FR": "Ooooooooooooh..."
         },
         {
             "type": "TRMSG_POST_BATTLE",
             "en_US": [
                 "I thought it was a rare Pokémon, but\n",
                 "it turned out to be just a Trainer!\n"
+            ],
+            "fr_FR": [
+                "Je pensais que c’était un Pokémon\n",
+                "rare, mais c’était juste un Dresseur!\n"
             ]
         }
-    ]
+    ],
+    "name_fr": "Kerwin"
 }

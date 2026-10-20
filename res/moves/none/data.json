@@ -21,5 +21,12 @@
     "contest": {
         "effect": "CONTEST_EFFECT_NONE",
         "type": "CONTEST_TYPE_COOL"
-    }
+    },
+    "name_fr": "-",
+    "description_fr": [
+        "\n",
+        "\n",
+        "\n",
+        "\n"
+    ]
 }

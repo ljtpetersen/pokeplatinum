@@ -10,6 +10,14 @@
         "Gym Badges from them all.\r",
         "That means you have to defeat all of\n",
         "them in battles at their Gyms!"
+      ],
+      "fr_FR": [
+        "Il y a huit Champions d’Arène dans la\n",
+        "région de Sinnoh.\r",
+        "Pour un Dresseur, l’objectif est\n",
+        "d’obtenir un Badge de chacun d’eux.\r",
+        "Pour ce faire, il faut tous les battre\n",
+        "dans leurs Arènes respectives!"
       ]
     },
     {
@@ -21,6 +29,13 @@
         "A lot.\r",
         "I’d take as many Pokémon as possible\n",
         "if I were you."
+      ],
+      "fr_FR": [
+        "Les Champions d’Arène n’ont rien à voir\n",
+        "avec les Dresseurs lambda.\r",
+        "Ils sont bien plus forts, cela va de soi.\r",
+        "Si j’étais toi, je prendrais autant de\n",
+        "Pokémon que possible."
       ]
     },
     {
@@ -28,6 +43,10 @@
       "en_US": [
         "Roark lets us train our Pokémon in\n",
         "the mine."
+      ],
+      "fr_FR": [
+        "Pierrick nous permet d’entraîner nos\n",
+        "Pokémon dans la mine."
       ]
     }
   ]

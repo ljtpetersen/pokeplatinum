@@ -77,6 +77,10 @@
             "en_US": [
                 "I’m going to become famous here so I\n",
                 "can rebuild the ranch."
+            ],
+            "fr_FR": [
+                "Je dois devenir célèbre pour avoir\n",
+                "les moyens de reconstruire la ferme."
             ]
         },
         {
@@ -84,6 +88,10 @@
             "en_US": [
                 "I can’t lose.\n",
                 "It’s for my pa and ma.\r"
+            ],
+            "fr_FR": [
+                "Je ne peux pas perdre.\n",
+                "Je me bats pour mes parents.\r"
             ]
         },
         {
@@ -91,7 +99,12 @@
             "en_US": [
                 "If I can get famous, folks’ll pay to\n",
                 "visit my ranch...\r"
+            ],
+            "fr_FR": [
+                "Si je deviens célèbre, les gens paieront\n",
+                "pour visiter ma ferme...\r"
             ]
         }
-    ]
+    ],
+    "name_fr": "Cassie"
 }

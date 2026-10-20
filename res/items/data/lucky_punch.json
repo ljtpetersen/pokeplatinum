@@ -26,5 +26,12 @@
   "battlePocket": "BATTLE_POCKET_MASK_NONE",
   "fieldUseFunc": "ITEM_USE_FUNC_NONE",
   "battleUseCategory": "BATTLE_USE_CATEGORY_NONE",
-  "itemUseParams": null
+  "itemUseParams": null,
+  "name_fr": "Poing Chance",
+  "description_fr": [
+    "Objet à faire tenir à LEVEINARD. Paire\n",
+    "de gants montant son taux de critiques."
+  ],
+  "plural_fr": "Poing Chance",
+  "article_fr": null
 }

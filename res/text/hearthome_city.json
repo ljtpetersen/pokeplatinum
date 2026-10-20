@@ -8,6 +8,11 @@
         "to be there!\r",
         "If it weren’t for you, who knows how\n",
         "far away my BUNEARY could have run...\r"
+      ],
+      "fr_FR": [
+        "Oh, heureusement que tu étais là!\r",
+        "Sans toi, qui sait où mon LAPOREILLE\n",
+        "se serait enfui...\r"
       ]
     },
     {
@@ -15,6 +20,10 @@
       "en_US": [
         "Baby BUNEARY, back into the Poké\n",
         "Ball you go!\r"
+      ],
+      "fr_FR": [
+        "Petit LAPOREILLE, tu vas tout de\n",
+        "suite rentrer dans ta Poké Ball!\r"
       ]
     },
     {
@@ -24,6 +33,12 @@
         "I’m a Pokémon Contest Judge.\r",
         "Be sure to drop by the Contest Hall\n",
         "so I can thank you properly!\r"
+      ],
+      "fr_FR": [
+        "Je m’appelle Karine!\n",
+        "Je suis Juge de Concours Pokémon.\r",
+        "Passe à la Salle de Concours, je te\n",
+        "remercierai comme il se doit!\r"
       ]
     },
     {
@@ -41,6 +56,20 @@
         "We know she’s at the Contest Hall.\r",
         "Come back another time, OK?\n",
         "I’ll be waiting right here."
+      ],
+      "fr_FR": [
+        "Salut, toi!\n",
+        "Comment ça va, Dresseur?\r",
+        "Ta présence ici me dit que tu as\n",
+        "l’intention de défier le Champion.\r",
+        "Euh... sans vouloir jouer les rabat-joie\n",
+        "ça ne va pas être possible.\r",
+        "Tu te demandes pourquoi? C’est bien\n",
+        "simple: elle n’est pas là.\r",
+        "Mais ne t’inquiète pas.\n",
+        "Elle est à la Salle de Concours.\r",
+        "Reviens plus tard, d’accord?\n",
+        "Je t’attendrai ici."
       ]
     },
     {
@@ -54,6 +83,16 @@
         "expected to be ready for a battle.\r",
         "No whining! No waiting!\n",
         "Let’s get the show started!\r"
+      ],
+      "fr_FR": [
+        "{STRVAR_1 3, 0, 0}: Ta-daah! Tu m’as encore\n",
+        "fait attendre, {STRVAR_1 3, 1, 0}!\r",
+        "Voyons combien nous avons progressé,\n",
+        "ici et maintenant!\r",
+        "Hé, t’es un Dresseur maintenant, tu\n",
+        "dois toujours être sur le qui-vive.\r",
+        "On pleurniche pas! On s’enfuit pas!\n",
+        "Le spectacle va bientôt commencer!\r"
       ]
     },
     {
@@ -79,6 +118,29 @@
         "See ya, {STRVAR_1 3, 1, 0}!\r",
         "You’ll be shocked by my growth the\n",
         "next time we meet!\r"
+      ],
+      "fr_FR": [
+        "{STRVAR_1 3, 0, 0}: Ouaaah! Qu’est-ce qui\n",
+        "se passe? J’ai encore perdu?!\r",
+        "Ça prouve que ma stratégie infaillible\n",
+        "ne marche pas.\r",
+        "Dis, {STRVAR_1 3, 1, 0}.\n",
+        "Tu te rappelles ce que je t’ai dit?\r",
+        "Fais en sorte que toutes tes attaques\n",
+        "atteignent leur cible et évite les\f",
+        "attaques ennemies!\r",
+        "J’étais sûr que je tenais la tactique\n",
+        "parfaite mais elle ne vaut pas un clou!\r",
+        "Je vais devoir ravaler ma fierté et\n",
+        "entraîner encore mon équipe.\r",
+        "Bref, passons!\n",
+        "Et maintenant?\r",
+        "La ville la plus proche, c’est Bonville,\n",
+        "je crois?\r",
+        "Parfait! En route pour Bonville!\n",
+        "A la revoyure, {STRVAR_1 3, 1, 0}!\r",
+        "Tu verras, la prochaine fois, je serai\n",
+        "si fort que t’en reviendras pas!\r"
       ]
     },
     {
@@ -87,6 +149,11 @@
         "Did you know?\r",
         "They found an Egg at the Day Care in\n",
         "Solaceon Town past here."
+      ],
+      "fr_FR": [
+        "Tu as appris la nouvelle?\r",
+        "Ils ont trouvé un Oeuf à la Pension\n",
+        "de Bonville."
       ]
     },
     {
@@ -95,6 +162,10 @@
         "Did you know?\r",
         "They find Eggs in the far-off Johto\n",
         "region, too."
+      ],
+      "fr_FR": [
+        "Le bruit court qu’ils trouvent des\n",
+        "Oeufs aussi à Johto de temps en temps."
       ]
     },
     {
@@ -103,6 +174,11 @@
         "You’re a Trainer, are you?\r",
         "You’ve got two choices of challenges,\n",
         "either the Gym or a Contest, right?"
+      ],
+      "fr_FR": [
+        "Tu es un Dresseur, n’est-ce pas?\r",
+        "Tu as le choix entre deux compétitions,\n",
+        "l’Arène ou les Concours, c’est ça?"
       ]
     },
     {
@@ -112,6 +188,12 @@
         "themselves of unbearable sorrow...\r",
         "You’ll understand what I mean if you\n",
         "visit the Lost Tower on Route 209."
+      ],
+      "fr_FR": [
+        "Les gens viennent à la Tour Perdue pour\n",
+        "se libérer de leur chagrin...\r",
+        "Va y faire un tour, tu verras ce que je\n",
+        "veux dire. Elle est sur la Route 209."
       ]
     },
     {
@@ -121,6 +203,12 @@
         "Perhaps even too much so.\r",
         "Pokémon, people, and nature are in\n",
         "perfect harmony here."
+      ],
+      "fr_FR": [
+        "Cet endroit est d’une beauté\n",
+        "remarquable... C’est presque trop.\r",
+        "Ici, les Pokémon, les gens et la nature\n",
+        "vivent en parfaite harmonie."
       ]
     },
     {
@@ -129,6 +217,11 @@
         "I can’t decide what Accessories I\n",
         "should dress up Pokémon with.\r",
         "There are just so many kinds."
+      ],
+      "fr_FR": [
+        "Je n’arrive pas à décider quels\n",
+        "Accessoires mettre à mon Pokémon.\r",
+        "Il y en a tellement!"
       ]
     },
     {
@@ -137,6 +230,12 @@
         "I get to see Pokémon all day long,\n",
         "but there sure are many kinds.\r",
         "How many are there now?"
+      ],
+      "fr_FR": [
+        "Je vois des Pokémon toute la journée,\n",
+        "mais c’est vrai qu’il y en a beaucoup.\r",
+        "Combien de Pokémon a-t-on recensés\n",
+        "jusqu’à maintenant?"
       ]
     },
     {
@@ -144,6 +243,10 @@
       "en_US": [
         "I used a Fire Stone on my Pokémon,\n",
         "and it evolved!"
+      ],
+      "fr_FR": [
+        "J’ai fait évoluer mon Pokémon en\n",
+        "utilisant une Pierre Feu!"
       ]
     },
     {
@@ -159,6 +262,18 @@
         "generosity to a complete stranger.\r",
         "Now, may I offer you the courtesy\n",
         "of showing you to the Contest Hall?"
+      ],
+      "fr_FR": [
+        "Je visite la ville, mais à l’origine,\n",
+        "je viens de la région de Hoenn.\r",
+        "Je voulais trouver la Salle de Concours,\n",
+        "mais j’ai perdu ma route.\r",
+        "Heureusement, les gens du coin ont eu\n",
+        "la gentillesse de m’indiquer le chemin.\r",
+        "C’est fou comme ils sont gentils\n",
+        "et généreux avec les inconnus.\r",
+        "Veux-tu que je te guide\n",
+        "jusqu’à la Salle de Concours?"
       ]
     },
     {
@@ -166,6 +281,10 @@
       "en_US": [
         "Ah.\n",
         "Please follow me.\r"
+      ],
+      "fr_FR": [
+        "Bien.\n",
+        "Suis-moi, s’il te plaît.\r"
       ]
     },
     {
@@ -173,6 +292,10 @@
       "en_US": [
         "This is the Contest Hall.\n",
         "Please, do go inside."
+      ],
+      "fr_FR": [
+        "Voici la Salle de Concours. Si tu veux\n",
+        "bien te donner la peine d’entrer."
       ]
     },
     {
@@ -180,6 +303,10 @@
       "en_US": [
         "It makes me happy knowing I’ve\n",
         "helped another person."
+      ],
+      "fr_FR": [
+        "Ça me met de bonne humeur de savoir\n",
+        "que j’ai pu rendre service à quelqu’un."
       ]
     },
     {
@@ -187,6 +314,10 @@
       "en_US": [
         "Oh, I do apologize.\n",
         "I should mind my own business."
+      ],
+      "fr_FR": [
+        "Oh, vraiment, je m’excuse. Je ferais\n",
+        "mieux de m’occuper de mes affaires."
       ]
     },
     {
@@ -196,11 +327,18 @@
         "I see the town in a different way.\r",
         "I notice things like stairs and bumps\n",
         "in the sidewalk."
+      ],
+      "fr_FR": [
+        "Quand je promène mon bébé dans sa\n",
+        "poussette, je vois la ville différemment.\r",
+        "Par exemple, j’ai tendance à remarquer\n",
+        "les nids-de-poule et les escaliers..."
       ]
     },
     {
       "id": "HearthomeCity_Text_Apapapu",
-      "en_US": "Apapapu!"
+      "en_US": "Apapapu!",
+      "fr_FR": "Areuh areuh!"
     },
     {
       "id": "HearthomeCity_Text_StrollWithPachirisu",
@@ -211,11 +349,21 @@
         "while we walked.\r",
         "Do you think it’d make my PACHIRISU\n",
         "look any cuter?"
+      ],
+      "fr_FR": [
+        "Je suis allé me balader au Square\n",
+        "Paisible avec mon PACHIRISU\f",
+        "aujourd’hui.\r",
+        "On est tombés sur une plume de\n",
+        "Pokémon en marchant.\r",
+        "Tu penses que ça pourrait rendre mon\n",
+        "PACHIRISU plus mignon?"
       ]
     },
     {
       "id": "HearthomeCity_Text_PachirisuCryKyukyuuh",
-      "en_US": "PACHIRISU: Kyukyuuh!"
+      "en_US": "PACHIRISU: Kyukyuuh!",
+      "fr_FR": "PACHIRISU: Pachi pachi!"
     },
     {
       "id": "HearthomeCity_Text_SometimesEggsAtDayCare",
@@ -229,6 +377,18 @@
         "these days?\r",
         "He was always a quiet sort and didn’t\n",
         "really stand out."
+      ],
+      "fr_FR": [
+        "Ecoute ce que m’a dit un professeur de\n",
+        "mes amis.\r",
+        "Si tu laisses deux Pokémon à la Pension,\n",
+        "il arrive qu’on y trouve un Oeuf.\r",
+        "Ou ce qui s’apparente à des Oeufs,\n",
+        "du moins.\r",
+        "Je me demande comment se porte mon ami\n",
+        "le Professeur Orme...\r",
+        "Il a toujours été du genre calme et\n",
+        "discret."
       ]
     },
     {
@@ -239,6 +399,13 @@
         "No, not even I do...\r",
         "I dedicate myself to seeking rarities.\n",
         "It’s what I live for.\r"
+      ],
+      "fr_FR": [
+        "On m’appelle Rico Lexion.\r",
+        "Personne ne connaît mon véritable nom,\n",
+        "pas même moi...\r",
+        "J’ai voué mon existence à la collecte\n",
+        "d’objets rares. C’est toute ma vie.\r"
       ]
     },
     {
@@ -246,6 +413,10 @@
       "en_US": [
         "Hm!\n",
         "Hmhmhmhm?!\r"
+      ],
+      "fr_FR": [
+        "Hum!\n",
+        "Hum, hum, hum?!\r"
       ]
     },
     {
@@ -259,6 +430,12 @@
         "but I just gave a rare thing away.\r",
         "I’ll find something else for you,\n",
         "so just talk to me some other time."
+      ],
+      "fr_FR": [
+        "J’allais te faire un cadeau, mais je\n",
+        "viens à peine d’offrir un objet rare.\r",
+        "Je trouverai quelque chose d’autre,\n",
+        "reviens me parler plus tard."
       ]
     },
     {
@@ -276,6 +453,12 @@
         "to be full.\r",
         "I’ll hold your gift until you make\n",
         "room for it. Tell me when, OK?"
+      ],
+      "fr_FR": [
+        "Oh? On dirait que ton PC souterrain\n",
+        "est plein.\r",
+        "Je garde ton cadeau jusqu’à ce que tu\n",
+        "aies fait de la place. Préviens-moi, OK?"
       ]
     },
     {
@@ -287,6 +470,10 @@
       "en_US": [
         "I’ll find something rare for you,\n",
         "so talk to me some other time."
+      ],
+      "fr_FR": [
+        "Je vais dégoter un objet rare pour toi,\n",
+        "repasse me voir plus tard."
       ]
     },
     {
@@ -298,6 +485,14 @@
         "scale, has it?\r",
         "For a Trainer like you, I have just\n",
         "the thing!\r"
+      ],
+      "fr_FR": [
+        "Oh!\n",
+        "C’est époustouflant!\r",
+        "Ton aventure prend une tournure\n",
+        "internationale, pas vrai?\r",
+        "J’ai le cadeau rêvé pour \n",
+        "un Dresseur dans ton genre!\r"
       ]
     },
     {
@@ -309,6 +504,14 @@
         "have you?\r",
         "For a Trainer like you, I have just\n",
         "the thing!\r"
+      ],
+      "fr_FR": [
+        "Oh!\n",
+        "C’est époustouflant!\r",
+        "Tu as conquis toutes les Arènes,\n",
+        "pas vrai?\r",
+        "J’ai le cadeau rêvé pour \n",
+        "un Dresseur dans ton genre!\r"
       ]
     },
     {
@@ -320,6 +523,14 @@
         "Rank of the Cute Contest!\r",
         "For a Trainer like you, I have just\n",
         "the thing!\r"
+      ],
+      "fr_FR": [
+        "Oh!\n",
+        "C’est époustouflant!\r",
+        "Tu as enfin triomphé de la Catégorie\n",
+        "Master au Concours de Grâce!\r",
+        "J’ai le cadeau rêvé pour \n",
+        "un Dresseur dans ton genre!\r"
       ]
     },
     {
@@ -331,6 +542,14 @@
         "Rank of the Cool Contest!\r",
         "For a Trainer like you, I have just\n",
         "the thing!\r"
+      ],
+      "fr_FR": [
+        "Oh!\n",
+        "C’est époustouflant!\r",
+        "Tu as enfin triomphé de la Catégorie\n",
+        "Master au Concours de Sang-froid!\r",
+        "J’ai le cadeau rêvé pour \n",
+        "un Dresseur dans ton genre!\r"
       ]
     },
     {
@@ -342,6 +561,14 @@
         "Rank of the Beauty Contest!\r",
         "For a Trainer like you, I have just\n",
         "the thing!\r"
+      ],
+      "fr_FR": [
+        "Oh!\n",
+        "C’est époustouflant!\r",
+        "Tu as enfin triomphé de la Catégorie\n",
+        "Master au Concours de Beauté!\r",
+        "J’ai le cadeau rêvé pour \n",
+        "un Dresseur dans ton genre!\r"
       ]
     },
     {
@@ -353,6 +580,14 @@
         "Rank of the Tough Contest!\r",
         "For a Trainer like you, I have just\n",
         "the thing!\r"
+      ],
+      "fr_FR": [
+        "Oh!\n",
+        "C’est époustouflant!\r",
+        "Tu as enfin triomphé de la Catégorie\n",
+        "Master au Concours de Robustesse!\r",
+        "J’ai le cadeau rêvé pour \n",
+        "un Dresseur dans ton genre!\r"
       ]
     },
     {
@@ -364,6 +599,14 @@
         "Rank of the Smart Contest!\r",
         "For a Trainer like you, I have just\n",
         "the thing!\r"
+      ],
+      "fr_FR": [
+        "Oh!\n",
+        "C’est époustouflant!\r",
+        "Tu as enfin triomphé de la Catégorie\n",
+        "Master au Concours d’Intelligence!\r",
+        "J’ai le cadeau rêvé pour \n",
+        "un Dresseur dans ton genre!\r"
       ]
     },
     {
@@ -375,6 +618,14 @@
         "in the Underground!\r",
         "For a Trainer like you, I have just\n",
         "the thing!\r"
+      ],
+      "fr_FR": [
+        "Oh!\n",
+        "C’est époustouflant!\r",
+        "Tu as croisé tellement de monde\n",
+        "dans les tunnels souterrains!\r",
+        "J’ai le cadeau rêvé pour \n",
+        "un Dresseur dans ton genre!\r"
       ]
     },
     {
@@ -386,6 +637,14 @@
         "people in the Underground!\r",
         "For a Trainer like you, I have just\n",
         "the thing!\r"
+      ],
+      "fr_FR": [
+        "Oh!\n",
+        "C’est époustouflant!\r",
+        "Tu as fait don de nombreux objets\n",
+        "dans les tunnels souterrains!\r",
+        "J’ai le cadeau rêvé pour \n",
+        "un Dresseur dans ton genre!\r"
       ]
     },
     {
@@ -397,6 +656,14 @@
         "the Underground!\r",
         "For a Trainer like you, I have just\n",
         "the thing!\r"
+      ],
+      "fr_FR": [
+        "Oh!\n",
+        "C’est époustouflant!\r",
+        "Tu as déterré de nombreux Fossiles\n",
+        "dans les tunnels souterrains!\r",
+        "J’ai le cadeau rêvé pour \n",
+        "un Dresseur dans ton genre!\r"
       ]
     },
     {
@@ -408,6 +675,14 @@
         "Underground!\r",
         "For a Trainer like you, I have just\n",
         "the thing!\r"
+      ],
+      "fr_FR": [
+        "Oh!\n",
+        "C’est époustouflant!\r",
+        "Tu as posé de nombreux Pièges\n",
+        "dans les tunnels souterrains!\r",
+        "J’ai le cadeau rêvé pour \n",
+        "un Dresseur dans ton genre!\r"
       ]
     },
     {
@@ -419,6 +694,14 @@
         "a row at the Battle Tower!\r",
         "For a Trainer like you, I have just\n",
         "the thing!\r"
+      ],
+      "fr_FR": [
+        "Oh!\n",
+        "C’est époustouflant!\r",
+        "Tu as battu dix Dresseurs d’affilée\n",
+        "à la Tour de Combat!\r",
+        "J’ai le cadeau rêvé pour \n",
+        "un Dresseur dans ton genre!\r"
       ]
     },
     {
@@ -430,6 +713,14 @@
         "a row at the Battle Tower!\r",
         "For a Trainer like you, I have just\n",
         "the thing!\r"
+      ],
+      "fr_FR": [
+        "Oh!\n",
+        "C’est époustouflant!\r",
+        "Tu as battu cinquante Dresseurs\n",
+        "d’affilée à la Tour de Combat!\r",
+        "J’ai le cadeau rêvé pour \n",
+        "un Dresseur dans ton genre!\r"
       ]
     },
     {
@@ -441,6 +732,14 @@
         "a row at the Battle Tower!\r",
         "For a Trainer like you, I have just\n",
         "the thing!\r"
+      ],
+      "fr_FR": [
+        "Oh!\n",
+        "C’est époustouflant!\r",
+        "Tu as battu cent Dresseurs\n",
+        "d’affilée à la Tour de Combat!\r",
+        "J’ai le cadeau rêvé pour \n",
+        "un Dresseur dans ton genre!\r"
       ]
     },
     {
@@ -450,11 +749,18 @@
         "heavier each and every day.\r",
         "I wonder what kind of Pokémon my\n",
         "child will become friends with first?"
+      ],
+      "fr_FR": [
+        "Je sens ma poussette s’alourdir\n",
+        "jour après jour.\r",
+        "Je me demande de quel Pokémon mon\n",
+        "enfant va s’enticher en premier."
       ]
     },
     {
       "id": "HearthomeCity_Text_PapaMama",
-      "en_US": "Papa! Mama!"
+      "en_US": "Papa! Mama!",
+      "fr_FR": "Papa! Maman!"
     },
     {
       "id": "HearthomeCity_Text_ILivedInTotalSeclusion",
@@ -463,6 +769,12 @@
         "the mountains for thirty years!\r",
         "I’m going to clean up some Contests\n",
         "with a dance move I came up with!"
+      ],
+      "fr_FR": [
+        "J’ai vécu en ermite dans les montagnes\n",
+        "pendant trente ans!\r",
+        "J’ai eu le temps d’élaborer un pas de\n",
+        "danse pour remporter les Concours!"
       ]
     },
     {
@@ -472,6 +784,12 @@
         "I get married.\r",
         "But my boyfriend wants to live in\n",
         "Veilstone ’cause of its Game Corner..."
+      ],
+      "fr_FR": [
+        "J’aimerais m’installer à Unionpolis\n",
+        "après mon mariage.\r",
+        "Mais mon fiancé préfère Voilaroc\n",
+        "à cause du Casino..."
       ]
     },
     {
@@ -483,6 +801,15 @@
         "over and over using it.\r",
         "She asked me, “Do you like me?”\n",
         "Like, oops! Hahahahah!"
+      ],
+      "fr_FR": [
+        "J’arrête pas de me servir de mon\n",
+        "Cherche VS.\r",
+        "Grâce à lui, je me suis battu plein de\n",
+        "fois contre un étrange Dresseur.\r",
+        "Du coup au bout d’un moment, elle m’a\n",
+        "demandé si j’avais le béguin pour elle.\r",
+        "Oups, la boulette! Ha ha ha!"
       ]
     },
     {
@@ -490,6 +817,10 @@
       "en_US": [
         "Hearthome City\n",
         "Warm & Kind"
+      ],
+      "fr_FR": [
+        "Unionpolis\n",
+        "Ville câline"
       ]
     },
     {
@@ -498,6 +829,11 @@
         "Hearthome City Pokémon Gym\n",
         "Leader: Fantina\f",
         "The Alluring, Soulful Dancer!"
+      ],
+      "fr_FR": [
+        "Arène Pokémon d’Unionpolis\n",
+        "Champion: Kiméra\f",
+        "Reine de la danse, déesse du rythme!"
       ]
     },
     {
@@ -505,6 +841,10 @@
       "en_US": [
         "Pokémon Contest Hall\n",
         "Calling All Enthusiasts!"
+      ],
+      "fr_FR": [
+        "Salle de Concours Pokémon\n",
+        "Tout le monde est le bienvenu!"
       ]
     },
     {
@@ -512,6 +852,10 @@
       "en_US": [
         "Pokémon Fan Club\n",
         "All Trainers Welcome"
+      ],
+      "fr_FR": [
+        "Fan Club Pokémon\n",
+        "Ouvert à tous les Dresseurs!"
       ]
     },
     {
@@ -519,6 +863,10 @@
       "en_US": [
         "Rt. 208\n",
         "Rt. 212"
+      ],
+      "fr_FR": [
+        "Route 208\n",
+        "Route 212"
       ]
     },
     {
@@ -526,6 +874,10 @@
       "en_US": [
         "Rt. 209\n",
         "Solaceon Town"
+      ],
+      "fr_FR": [
+        "Route 209\n",
+        "Bonville"
       ]
     },
     {
@@ -533,6 +885,10 @@
       "en_US": [
         "Amity Square West Gate\n",
         "Stroll with Your Pokémon!"
+      ],
+      "fr_FR": [
+        "Porte Ouest du Square Paisible\n",
+        "Promenez vos Pokémon!"
       ]
     },
     {
@@ -540,6 +896,10 @@
       "en_US": [
         "Amity Square East Gate\n",
         "Stroll with Your Pokémon!"
+      ],
+      "fr_FR": [
+        "Porte Est du Square Paisible\n",
+        "Promenez vos Pokémon!"
       ]
     },
     {
@@ -547,6 +907,10 @@
       "en_US": [
         "The Poffin House\n",
         "Delicious Poffins--Smiles for All"
+      ],
+      "fr_FR": [
+        "La Poffinerie\n",
+        "Un Poffin, un sourire."
       ]
     }
   ]

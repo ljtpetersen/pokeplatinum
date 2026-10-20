@@ -89,15 +89,22 @@
             "en_US": [
                 "Laugh with the face and cry with the\n",
                 "heart; that’s how a clown lives."
+            ],
+            "fr_FR": [
+                "Un sourire sur le visage et des larmes\n",
+                "dans le cœur, voilà le lot du Bouffon."
             ]
         },
         {
             "type": "TRMSG_WIN",
-            "en_US": "Ahahahahaha!\r"
+            "en_US": "Ahahahahaha!\r",
+            "fr_FR": "Hahahahaha!\r"
         },
         {
             "type": "TRMSG_DEFEAT",
-            "en_US": "Gah! ...Ahahahaha!\r"
+            "en_US": "Gah! ...Ahahahaha!\r",
+            "fr_FR": "Ha... Hahahahaha!\r"
         }
-    ]
+    ],
+    "name_fr": "Ovide"
 }

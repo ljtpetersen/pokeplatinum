@@ -7,7 +7,10 @@
         "special_attack": 50,
         "special_defense": 80
     },
-    "types": [ "TYPE_WATER", "TYPE_WATER" ],
+    "types": [
+        "TYPE_WATER",
+        "TYPE_WATER"
+    ],
     "catch_rate": 75,
     "base_exp_reward": 153,
     "ev_yields": {
@@ -26,28 +29,76 @@
     "hatch_cycles": 10,
     "base_friendship": 70,
     "exp_rate": "EXP_RATE_FAST",
-    "egg_groups": [ "EGG_GROUP_WATER_1", "EGG_GROUP_FAIRY" ],
-    "abilities": [ "ABILITY_THICK_FAT", "ABILITY_HUGE_POWER" ],
+    "egg_groups": [
+        "EGG_GROUP_WATER_1",
+        "EGG_GROUP_FAIRY"
+    ],
+    "abilities": [
+        "ABILITY_THICK_FAT",
+        "ABILITY_HUGE_POWER"
+    ],
     "safari_flee_rate": 0,
     "body_color": "MON_COLOR_BLUE",
     "flip_sprite": false,
     "icon_palette": 2,
     "learnset": {
         "by_level": [
-            [ 1, "MOVE_TACKLE" ],
-            [ 1, "MOVE_DEFENSE_CURL" ],
-            [ 1, "MOVE_TAIL_WHIP" ],
-            [ 1, "MOVE_WATER_GUN" ],
-            [ 2, "MOVE_DEFENSE_CURL" ],
-            [ 7, "MOVE_TAIL_WHIP" ],
-            [ 10, "MOVE_WATER_GUN" ],
-            [ 15, "MOVE_ROLLOUT" ],
-            [ 20, "MOVE_BUBBLE_BEAM" ],
-            [ 27, "MOVE_AQUA_RING" ],
-            [ 33, "MOVE_DOUBLE_EDGE" ],
-            [ 40, "MOVE_RAIN_DANCE" ],
-            [ 47, "MOVE_AQUA_TAIL" ],
-            [ 54, "MOVE_HYDRO_PUMP" ]
+            [
+                1,
+                "MOVE_TACKLE"
+            ],
+            [
+                1,
+                "MOVE_DEFENSE_CURL"
+            ],
+            [
+                1,
+                "MOVE_TAIL_WHIP"
+            ],
+            [
+                1,
+                "MOVE_WATER_GUN"
+            ],
+            [
+                2,
+                "MOVE_DEFENSE_CURL"
+            ],
+            [
+                7,
+                "MOVE_TAIL_WHIP"
+            ],
+            [
+                10,
+                "MOVE_WATER_GUN"
+            ],
+            [
+                15,
+                "MOVE_ROLLOUT"
+            ],
+            [
+                20,
+                "MOVE_BUBBLE_BEAM"
+            ],
+            [
+                27,
+                "MOVE_AQUA_RING"
+            ],
+            [
+                33,
+                "MOVE_DOUBLE_EDGE"
+            ],
+            [
+                40,
+                "MOVE_RAIN_DANCE"
+            ],
+            [
+                47,
+                "MOVE_AQUA_TAIL"
+            ],
+            [
+                54,
+                "MOVE_HYDRO_PUMP"
+            ]
         ],
         "by_tm": [
             "TM01",
@@ -99,7 +150,7 @@
             "MOVE_SWIFT"
         ]
     },
-    "evolutions": [  ],
+    "evolutions": [],
     "offspring": "SPECIES_AZURILL",
     "footprint": {
         "has": true,
@@ -122,9 +173,9 @@
             "name": "AZUMARILL",
             "category": "Aqua Rabbit Pokémon",
             "entry_text": [
-                "It can spend all day in water,\n",
-                "since it can inhale and store\n",
-                "a large volume of air."
+                "It lives in rivers and lakes. In\n",
+                "water, its coloring and patterns\n",
+                "trick the vision of foes."
             ]
         },
         "fr": {
@@ -170,6 +221,18 @@
                 "かわや　みずうみに　せいそくする。\n",
                 "みずの　なかでは　からだの　いろと\n",
                 "もようが　てきの　めを　あざむく。"
+            ]
+        },
+        "local_version": {
+            "entry_text": [
+                "It can spend all day in water,\n",
+                "since it can inhale and store\n",
+                "a large volume of air."
+            ],
+            "entry_text_fr": [
+                "Ses poumons peuvent contenir\n",
+                "assez d’air pour lui permettre de\n",
+                "passer une journée sous l’eau."
             ]
         }
     },

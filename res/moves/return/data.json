@@ -28,5 +28,13 @@
     "contest": {
         "effect": "CONTEST_EFFECT_FIRST_PERFORMANCE_ADVANTAGE",
         "type": "CONTEST_TYPE_CUTE"
-    }
+    },
+    "name_fr": "Retour",
+    "description_fr": [
+        "Une attaque furieuse\n",
+        "dont la puissance\n",
+        "augmente quand le\n",
+        "Pokémon apprécie\n",
+        "son Dresseur."
+    ]
 }

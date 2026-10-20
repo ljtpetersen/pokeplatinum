@@ -16,6 +16,20 @@
         "No, I am strong!\f",
         "I’m strong!\f",
         "OK! I’m all good to go!\r"
+      ],
+      "fr_FR": [
+        "Je suis le meilleur!\n",
+        "Je suis le meilleur!\f",
+        "Je suis le meilleur!\f",
+        "Je suis le meilleur!\f",
+        "Je suis le meilleur!\f",
+        "Je suis le meilleur!\f",
+        "Je suis le meilleur!\f",
+        "Je suis le meilleur!\f",
+        "... Et si je me trompais?\f",
+        "Nan, je suis le meilleur!\f",
+        "Je suis le meilleur!\f",
+        "Parfait! Je suis gonflé à bloc!\r"
       ]
     },
     {
@@ -25,6 +39,12 @@
         "You startled me good!\r",
         "I think you’ll understand what I was\n",
         "doing when you see this TM.\r"
+      ],
+      "fr_FR": [
+        "Waouh!\n",
+        "Tu m’as vraiment fait peur!\r",
+        "Tu comprendras ce que je faisais\n",
+        "en regardant cette CT.\r"
       ]
     },
     {
@@ -38,6 +58,16 @@
         "the same Defense boost as its foe.\r",
         "Basically, your Pokémon gets the same\n",
         "status boosts as its target."
+      ],
+      "fr_FR": [
+        "Laisse-moi t’expliquer comment cette\n",
+        "capacité fonctionne en termes simples.\r",
+        "Imaginons que ton adversaire augmente\n",
+        "sa Défense avec Armure.\r",
+        "Ton Pokémon pourra utiliser Boost pour\n",
+        "bénéficier de la même augmentation.\r",
+        "En résumé, elle permet d’avoir la même\n",
+        "augmentation que ton adversaire."
       ]
     },
     {
@@ -45,6 +75,10 @@
       "en_US": [
         "Rt. 211\n",
         "Mt. Coronet"
+      ],
+      "fr_FR": [
+        "Route 211\n",
+        "Mont Couronné"
       ]
     },
     {
@@ -56,6 +90,14 @@
         "Trainers should check their supply\n",
         "of medicine and items before trying\f",
         "to venture through."
+      ],
+      "fr_FR": [
+        "Conseils aux Dresseurs\r",
+        "Même un Vénérable peut se perdre dans\n",
+        "le Mont Couronné.\r",
+        "Les Dresseurs seraient bien avisés de\n",
+        "vérifier leurs réserves d’objets et de\f",
+        "médicaments avant de s’y aventurer."
       ]
     },
     {
@@ -63,6 +105,10 @@
       "en_US": [
         "Rt. 211\n",
         "Celestic Town"
+      ],
+      "fr_FR": [
+        "Route 211\n",
+        "Célestia"
       ]
     }
   ]

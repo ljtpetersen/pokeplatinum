@@ -8,11 +8,18 @@
         "we keep going down?\r",
         "...In the Distortion World, are we\n",
         "really traveling downward?\r"
+      ],
+      "fr_FR": [
+        "Cynthia: Va-t-on trouver GIRATINA en\n",
+        "descendant par là?\r",
+        "Et dans ce Monde Distorsion, comment\n",
+        "savoir si nous descendons vraiment?\r"
       ]
     },
     {
       "id": "DistortionWorldB1F_Text_MespritCry",
-      "en_US": "MESPRIT: Piih!\r"
+      "en_US": "MESPRIT: Piih!\r",
+      "fr_FR": "CREFOLLET: Folleeeet!\r"
     }
   ]
 }

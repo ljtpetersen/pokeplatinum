@@ -32,11 +32,16 @@
             "en_US": [
                 "People keep coming to us for battles.\n",
                 "I really don’t know why! Teehee!\r"
+            ],
+            "fr_FR": [
+                "On vient me voir pour des combats.\n",
+                "Je ne sais vraiment pas pourquoi! Hi, hi!\r"
             ]
         },
         {
             "type": "TRMSG_DEFEAT",
-            "en_US": "OK, we lost.\n"
+            "en_US": "OK, we lost.\n",
+            "fr_FR": "OK, on a perdu.\n"
         },
         {
             "type": "TRMSG_POST_BATTLE",
@@ -45,6 +50,11 @@
                 "away immature boys on the prowl...\r",
                 "Well, my Pokémon grew tough without\n",
                 "me really even trying.\n"
+            ],
+            "fr_FR": [
+                "J’aime bien la solitude...\r",
+                "A force de combattre pour moi, mes\n",
+                "Pokémon sont devenus forts!\n"
             ]
         },
         {
@@ -52,7 +62,12 @@
             "en_US": [
                 "People still keep coming to us for\n",
                 "battles! Why?! Leave me alone!\r"
+            ],
+            "fr_FR": [
+                "On vient toujours me voir pour des\n",
+                "combats! Pourquoi?! Laisse-moi seule!\r"
             ]
         }
-    ]
+    ],
+    "name_fr": "Heidi"
 }

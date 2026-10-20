@@ -59,6 +59,10 @@
             "en_US": [
                 "...Oh, wait one second.\n",
                 "I have to take this call."
+            ],
+            "fr_FR": [
+                "Salut! Oh, un instant.\n",
+                "Je dois prendre cet appel."
             ]
         },
         {
@@ -66,6 +70,10 @@
             "en_US": [
                 "Hi, yup... Yah, battling... Uh-huh...\n",
                 "Yup, I won... Well, duh... LOL...\r"
+            ],
+            "fr_FR": [
+                "Kikoo... Hihi... Ouais... Nan...\n",
+                "Combat... Gagné... Grave... PTDR!\r"
             ]
         },
         {
@@ -73,7 +81,12 @@
             "en_US": [
                 "Hi, yup... Yes, just battled... Nope...\n",
                 "Kid beat me... Uh-huh...\r"
+            ],
+            "fr_FR": [
+                "Kikoo... Lol... Ouais... Nan...\n",
+                "Combat... Perdu... La misère!\r"
             ]
         }
-    ]
+    ],
+    "name_fr": "Héloïse"
 }

@@ -29,13 +29,18 @@
     "messages": [
         {
             "type": "TRMSG_PRE_BATTLE",
-            "en_US": "Excuse me for wearing my bikini!\r"
+            "en_US": "Excuse me for wearing my bikini!\r",
+            "fr_FR": "Oh, excuse ma tenue!\r"
         },
         {
             "type": "TRMSG_DEFEAT",
             "en_US": [
                 "Was I multitasking too much, battling\n",
                 "and swimming at the same time?\n"
+            ],
+            "fr_FR": [
+                "Nager et combattre en même temps,\n",
+                "c’était peut-être trop ambitieux...\n"
             ]
         },
         {
@@ -43,6 +48,10 @@
             "en_US": [
                 "When I’m in my bikini, I’m at a loss\n",
                 "about where to carry my Poké Balls!\n"
+            ],
+            "fr_FR": [
+                "Quand je suis en maillot de bain, je ne\n",
+                "sais jamais où mettre mes Poké Balls!\n"
             ]
         },
         {
@@ -50,7 +59,12 @@
             "en_US": [
                 "Giggle...\n",
                 "Excuse me for wearing my bikini!\r"
+            ],
+            "fr_FR": [
+                "Hi, hi, hi... Oh, pardon, je suis encore\n",
+                "en maillot de bain!\r"
             ]
         }
-    ]
+    ],
+    "name_fr": "Tanya"
 }

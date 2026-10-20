@@ -7,7 +7,10 @@
         "special_attack": 105,
         "special_defense": 105
     },
-    "types": [ "TYPE_PSYCHIC", "TYPE_PSYCHIC" ],
+    "types": [
+        "TYPE_PSYCHIC",
+        "TYPE_PSYCHIC"
+    ],
     "catch_rate": 3,
     "base_exp_reward": 210,
     "ev_yields": {
@@ -26,26 +29,68 @@
     "hatch_cycles": 80,
     "base_friendship": 140,
     "exp_rate": "EXP_RATE_SLOW",
-    "egg_groups": [ "EGG_GROUP_UNDISCOVERED", "EGG_GROUP_UNDISCOVERED" ],
-    "abilities": [ "ABILITY_LEVITATE", "ABILITY_NONE" ],
+    "egg_groups": [
+        "EGG_GROUP_UNDISCOVERED",
+        "EGG_GROUP_UNDISCOVERED"
+    ],
+    "abilities": [
+        "ABILITY_LEVITATE",
+        "ABILITY_NONE"
+    ],
     "safari_flee_rate": 0,
     "body_color": "MON_COLOR_PINK",
     "flip_sprite": false,
     "icon_palette": 0,
     "learnset": {
         "by_level": [
-            [ 1, "MOVE_REST" ],
-            [ 1, "MOVE_CONFUSION" ],
-            [ 6, "MOVE_IMPRISON" ],
-            [ 16, "MOVE_PROTECT" ],
-            [ 21, "MOVE_SWIFT" ],
-            [ 31, "MOVE_LUCKY_CHANT" ],
-            [ 36, "MOVE_FUTURE_SIGHT" ],
-            [ 46, "MOVE_CHARM" ],
-            [ 51, "MOVE_EXTRASENSORY" ],
-            [ 61, "MOVE_COPYCAT" ],
-            [ 66, "MOVE_NATURAL_GIFT" ],
-            [ 76, "MOVE_HEALING_WISH" ]
+            [
+                1,
+                "MOVE_REST"
+            ],
+            [
+                1,
+                "MOVE_CONFUSION"
+            ],
+            [
+                6,
+                "MOVE_IMPRISON"
+            ],
+            [
+                16,
+                "MOVE_PROTECT"
+            ],
+            [
+                21,
+                "MOVE_SWIFT"
+            ],
+            [
+                31,
+                "MOVE_LUCKY_CHANT"
+            ],
+            [
+                36,
+                "MOVE_FUTURE_SIGHT"
+            ],
+            [
+                46,
+                "MOVE_CHARM"
+            ],
+            [
+                51,
+                "MOVE_EXTRASENSORY"
+            ],
+            [
+                61,
+                "MOVE_COPYCAT"
+            ],
+            [
+                66,
+                "MOVE_NATURAL_GIFT"
+            ],
+            [
+                76,
+                "MOVE_HEALING_WISH"
+            ]
         ],
         "by_tm": [
             "TM03",
@@ -108,7 +153,7 @@
             "MOVE_SWIFT"
         ]
     },
-    "evolutions": [  ],
+    "evolutions": [],
     "offspring": "SPECIES_MESPRIT",
     "footprint": {
         "has": true,
@@ -131,9 +176,9 @@
             "name": "MESPRIT",
             "category": "Emotion Pokémon",
             "entry_text": [
-                "When MESPRIT flew, people learned\n",
-                "the joy and sadness of living.\n",
-                "It was the birth of emotions."
+                "Known as “The Being of Emotion.”\n",
+                "It taught humans the nobility of\n",
+                "sorrow, pain, and joy."
             ]
         },
         "fr": {
@@ -179,6 +224,18 @@
                 "かなしみの　くるしさと　よろこびの\n",
                 "とうとさを　ひとびとに　おしえた。\n",
                 "かんじょうのかみ　と　よばれている。"
+            ]
+        },
+        "local_version": {
+            "entry_text": [
+                "When MESPRIT flew, people learned\n",
+                "the joy and sadness of living.\n",
+                "It was the birth of emotions."
+            ],
+            "entry_text_fr": [
+                "Quand il prit son envol, les hommes\n",
+                "apprirent à ressentir la joie et la\n",
+                "peine. L’émotion était née."
             ]
         }
     },

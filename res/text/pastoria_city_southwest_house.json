@@ -10,6 +10,14 @@
         "I go.\r",
         "I’ll give you a Berry, too.\n",
         "Please plant it somewhere.\r"
+      ],
+      "fr_FR": [
+        "Je traverse la région de\n",
+        "Sinnoh en randonnée.\r",
+        "J’adore planter des Baies\n",
+        "partout où je vais.\r",
+        "Tiens, je te fais cadeau d’une Baie.\n",
+        "Plante-la quelque part.\r"
       ]
     },
     {
@@ -18,6 +26,11 @@
         "Planting Berries is good for Pokémon.\r",
         "It provides them with more things to\n",
         "eat in the wild."
+      ],
+      "fr_FR": [
+        "Planter des Baies, c’est bon pour\n",
+        "les Pokémon.\r",
+        "Ça aide à nourrir les Pokémon sauvages."
       ]
     },
     {
@@ -27,6 +40,12 @@
         "Please come visit again!\r",
         "We cook the Berries, too!\n",
         "We mix them up! They’re yummy!"
+      ],
+      "fr_FR": [
+        "Ma sœur ramasse des Baies tous les\n",
+        "jours! Reviens quand tu veux!\r",
+        "On cuisine aussi les Baies! \n",
+        "On fait des mélanges! C’est délicieux!"
       ]
     }
   ]

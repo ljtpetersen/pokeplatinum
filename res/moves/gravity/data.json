@@ -22,5 +22,13 @@
     "contest": {
         "effect": "CONTEST_EFFECT_SUPPRESS_VOLTAGE",
         "type": "CONTEST_TYPE_BEAUTY"
-    }
+    },
+    "name_fr": "Gravité",
+    "description_fr": [
+        "La gravité augmente\n",
+        "pendant 5 tours, ce\n",
+        "qui empêche les\n",
+        "capacités volantes\n",
+        "et annule Lévitation."
+    ]
 }

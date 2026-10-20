@@ -3,187 +3,233 @@
   "messages": [
     {
       "id": "BoxText_MonSelected",
-      "en_US": "{STRVAR_1 1, 0, 0} is selected."
+      "en_US": "{STRVAR_1 1, 0, 0} is selected.",
+      "fr_FR": "{STRVAR_1 1, 0, 0} est sélectionné."
     },
     {
       "id": "BoxText_MarkMon",
-      "en_US": "Mark your Pokémon."
+      "en_US": "Mark your Pokémon.",
+      "fr_FR": "Marquez votre Pokémon."
     },
     {
       "id": "BoxText_ReleaseMon",
-      "en_US": "Release this Pokémon?"
+      "en_US": "Release this Pokémon?",
+      "fr_FR": "Relâcher ce Pokémon?"
     },
     {
       "id": "BoxText_MonReleased",
-      "en_US": "{STRVAR_1 1, 0, 0} was released."
+      "en_US": "{STRVAR_1 1, 0, 0} was released.",
+      "fr_FR": "{STRVAR_1 1, 0, 0} a été relâché."
     },
     {
       "id": "BoxText_GoodbyeForever",
-      "en_US": "Bye-bye, {STRVAR_1 1, 0, 0}!"
+      "en_US": "Bye-bye, {STRVAR_1 1, 0, 0}!",
+      "fr_FR": "Bye-bye, {STRVAR_1 1, 0, 0}!"
     },
     {
       "id": "BoxText_PartyFull",
-      "en_US": "Your party’s full!"
+      "en_US": "Your party’s full!",
+      "fr_FR": "L’équipe est pleine!"
     },
     {
       "id": "BoxText_LastMon",
-      "en_US": "That’s your last Pokémon!"
+      "en_US": "That’s your last Pokémon!",
+      "fr_FR": "C’est votre dernier Pokémon!"
     },
     {
       "id": "BoxText_WhatDo",
-      "en_US": "What do you want to do?"
+      "en_US": "What do you want to do?",
+      "fr_FR": "Que voulez-vous faire?"
     },
     {
       "id": "BoxText_JumpToBox",
-      "en_US": "Jump to which Box?"
+      "en_US": "Jump to which Box?",
+      "fr_FR": "Aller dans quelle Boîte?"
     },
     {
       "id": "BoxText_PickTheme",
-      "en_US": "Please pick a theme."
+      "en_US": "Please pick a theme.",
+      "fr_FR": "Choisissez une catégorie."
     },
     {
       "id": "BoxText_Wallpaper",
-      "en_US": "Pick the wallpaper."
+      "en_US": "Pick the wallpaper.",
+      "fr_FR": "Choisissez un fond."
     },
     {
       "id": "BoxText_ConfirmExit",
-      "en_US": "Exit from the Box?"
+      "en_US": "Exit from the Box?",
+      "fr_FR": "Sortir de la Boîte?"
     },
     {
       "id": "BoxText_ConfirmContinue",
-      "en_US": "Continue Box operations?"
+      "en_US": "Continue Box operations?",
+      "fr_FR": "Continuer la gestion des Boîtes?"
     },
     {
       "id": "BoxText_BoxFull",
-      "en_US": "The Box is full."
+      "en_US": "The Box is full.",
+      "fr_FR": "La Boîte est pleine."
     },
     {
       "id": "BoxText_BagFull",
-      "en_US": "The Bag is full."
+      "en_US": "The Bag is full.",
+      "fr_FR": "Le Sac est plein."
     },
     {
       "id": "BoxText_TookItem",
-      "en_US": "Took the {STRVAR_1 8, 0, 0}."
+      "en_US": "Took the {STRVAR_1 8, 0, 0}.",
+      "fr_FR": "Reçu {STRVAR_1 8, 0, 0}."
     },
     {
       "id": "BoxText_HoldingItem",
-      "en_US": "{STRVAR_1 8, 0, 0} is now being held."
+      "en_US": "{STRVAR_1 8, 0, 0} is now being held.",
+      "fr_FR": "Le Pokémon tient {STRVAR_1 8, 0, 0}."
     },
     {
       "id": "BoxText_HoldingMon",
-      "en_US": "You’re holding a Pokémon!"
+      "en_US": "You’re holding a Pokémon!",
+      "fr_FR": "Vous tenez un Pokémon!"
     },
     {
       "id": "BoxText_PickOne",
-      "en_US": "Which one will you take?"
+      "en_US": "Which one will you take?",
+      "fr_FR": "Lequel prenez-vous?"
     },
     {
       "id": "BoxText_PickDepositBox",
-      "en_US": "Deposit in which Box?"
+      "en_US": "Deposit in which Box?",
+      "fr_FR": "Déposer dans quelle Boîte?"
     },
     {
       "id": "BoxText_NoItem",
-      "en_US": "No item"
+      "en_US": "No item",
+      "fr_FR": "Aucun objet"
     },
     {
       "id": "BoxText_Male",
-      "en_US": "♂"
+      "en_US": "♂",
+      "fr_FR": "♂"
     },
     {
       "id": "BoxText_Female",
-      "en_US": "♀"
+      "en_US": "♀",
+      "fr_FR": "♀"
     },
     {
       "id": "BoxText_ConfirmTakeItem",
-      "en_US": "Take this {STRVAR_1 8, 0, 0}?"
+      "en_US": "Take this {STRVAR_1 8, 0, 0}?",
+      "fr_FR": "{STRVAR_1 8, 0, 0}: prendre cet objet?"
     },
     {
       "id": "BoxText_CantTakeMail",
-      "en_US": "Mail can’t be taken away."
+      "en_US": "Mail can’t be taken away.",
+      "fr_FR": "Impossible de prendre une Lettre!"
     },
     {
       "id": "BoxText_ItemSelected",
-      "en_US": "{STRVAR_1 8, 0, 0} is selected."
+      "en_US": "{STRVAR_1 8, 0, 0} is selected.",
+      "fr_FR": "Objet {STRVAR_1 8, 0, 0} sélectionné."
     },
     {
       "id": "BoxText_PutAwayItem",
-      "en_US": "Put away {STRVAR_1 8, 0, 0}?"
+      "en_US": "Put away {STRVAR_1 8, 0, 0}?",
+      "fr_FR": "Ranger {STRVAR_1 8, 0, 0}?"
     },
     {
       "id": "BoxText_PlaceItemInBag",
-      "en_US": "Placed {STRVAR_1 8, 0, 0} in the Bag."
+      "en_US": "Placed {STRVAR_1 8, 0, 0} in the Bag.",
+      "fr_FR": "Placé {STRVAR_1 8, 0, 0} dans le Sac."
     },
     {
       "id": "BoxText_GiveToMon",
-      "en_US": "Give to a Pokémon?"
+      "en_US": "Give to a Pokémon?",
+      "fr_FR": "Lui donner un objet?"
     },
     {
       "id": "BoxText_DetachBallCapsule",
-      "en_US": "Please detach the Ball Capsule."
+      "en_US": "Please detach the Ball Capsule.",
+      "fr_FR": "Veuillez détacher la Capsule Ball."
     },
     {
       "id": "BoxText_RemoveMail",
-      "en_US": "Please remove the Mail."
+      "en_US": "Please remove the Mail.",
+      "fr_FR": "Veuillez enlever la Lettre."
     },
     {
       "id": "BoxText_CantReleaseEgg",
-      "en_US": "You can’t release an Egg."
+      "en_US": "You can’t release an Egg.",
+      "fr_FR": "Oeuf impossible à relâcher."
     },
     {
       "id": "BoxText_MonReturned",
-      "en_US": "{STRVAR_1 1, 0, 0} came back!"
+      "en_US": "{STRVAR_1 1, 0, 0} came back!",
+      "fr_FR": "{STRVAR_1 1, 0, 0} est revenu!"
     },
     {
       "id": "BoxText_MonWasWorried",
-      "en_US": "Was it worried about you?"
+      "en_US": "Was it worried about you?",
+      "fr_FR": "Il se faisait peut-être du souci?"
     },
     {
       "id": "BoxText_EggsCantHoldItems",
-      "en_US": "An Egg can’t hold an item."
+      "en_US": "An Egg can’t hold an item.",
+      "fr_FR": "Un Oeuf ne peut pas tenir un objet."
     },
     {
       "id": "BoxText_Nature",
-      "en_US": "NATURE"
+      "en_US": "NATURE",
+      "fr_FR": "NATURE"
     },
     {
       "id": "BoxText_Level",
-      "en_US": "Lv."
+      "en_US": "Lv.",
+      "fr_FR": "N. "
     },
     {
       "id": "BoxText_HP",
-      "en_US": "HP"
+      "en_US": "HP",
+      "fr_FR": "PV"
     },
     {
       "id": "BoxText_Attack",
-      "en_US": "ATTACK"
+      "en_US": "ATTACK",
+      "fr_FR": "ATTAQUE"
     },
     {
       "id": "BoxText_Defense",
-      "en_US": "DEFENSE"
+      "en_US": "DEFENSE",
+      "fr_FR": "DEFENSE"
     },
     {
       "id": "BoxText_SpecialAttack",
-      "en_US": "SP. ATK"
+      "en_US": "SP. ATK",
+      "fr_FR": "ATQ SP"
     },
     {
       "id": "BoxText_SpecialDefense",
-      "en_US": "SP. DEF"
+      "en_US": "SP. DEF",
+      "fr_FR": "DEF SP"
     },
     {
       "id": "BoxText_Speed",
-      "en_US": "SPEED"
+      "en_US": "SPEED",
+      "fr_FR": "VITESSE"
     },
     {
       "id": "BoxText_Move",
-      "en_US": "MOVE"
+      "en_US": "MOVE",
+      "fr_FR": "CAPACITE"
     },
     {
       "id": "BoxText_QuestionMarks",
-      "en_US": "???"
+      "en_US": "???",
+      "fr_FR": "???"
     },
     {
       "id": "BoxText_MonCantHoldItem",
-      "en_US": "It can’t hold the {STRVAR_1 8, 0, 0}."
+      "en_US": "It can’t hold the {STRVAR_1 8, 0, 0}.",
+      "fr_FR": "Il ne peut pas tenir l’{STRVAR_1 8, 0, 0}."
     }
   ]
 }

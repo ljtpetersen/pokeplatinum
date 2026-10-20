@@ -24,7 +24,14 @@
                 "My Pokémon can’t be faulted with\n",
                 "anything.\r",
                 "Your brilliance carried the day.\n"
+            ],
+            "fr_FR": [
+                "Je ne puis blâmer mes Pokémon\n",
+                "pour mon échec.\r",
+                "Votre talent dépasse toutes\n",
+                "mes attentes."
             ]
         }
-    ]
+    ],
+    "name_fr": "Parsley"
 }

@@ -41,6 +41,10 @@
             "en_US": [
                 "You can come back all you like, but\n",
                 "you can’t have my inflatable tube!\r"
+            ],
+            "fr_FR": [
+                "Tu peux revenir quand tu veux, mais\n",
+                "je ne te prêterai pas ma bouée! Na!\r"
             ]
         },
         {
@@ -48,7 +52,12 @@
             "en_US": [
                 "I couldn’t move very well because\n",
                 "my inflatable tube got in the way!\n"
+            ],
+            "fr_FR": [
+                "Je ne pouvais pas trop bouger,\n",
+                "j’étais gêné par ma bouée!\n"
             ]
         }
-    ]
+    ],
+    "name_fr": "Ed"
 }

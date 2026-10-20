@@ -10,6 +10,14 @@
         "that legendary Pokémon.\r",
         "Trust me on this one. It’s here.\n",
         "It even says so on the sign!\r"
+      ],
+      "fr_FR": [
+        "{STRVAR_1 3, 0, 0}: Le lac!\n",
+        "On y est presque!\r",
+        "Prépare-toi, on va capturer le \n",
+        "Pokémon légendaire.\r",
+        "Crois-moi, c’est là! D’ailleurs, c’est\n",
+        "même écrit sur le panneau!\r"
       ]
     },
     {
@@ -29,6 +37,13 @@
         "Emotion.”\r",
         "It is because of this Pokémon that\n",
         "people can experience sorrow and joy."
+      ],
+      "fr_FR": [
+        "Lac Vérité droit devant\r",
+        "D’après la légende, ce lac abrite un\n",
+        "Pokémon appelé “être de l’émotion”.\r",
+        "C’est grâce à lui que les humains\n",
+        "peuvent ressentir la joie et la peine."
       ]
     }
   ]

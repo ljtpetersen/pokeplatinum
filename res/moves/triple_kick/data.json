@@ -28,5 +28,12 @@
     "contest": {
         "effect": "CONTEST_EFFECT_CONSECUTIVE_USE",
         "type": "CONTEST_TYPE_COOL"
-    }
+    },
+    "name_fr": "Triple Pied",
+    "description_fr": [
+        "Une salve de 1 à 3\n",
+        "coups de pied dont\n",
+        "la puissance augmente\n",
+        "à chaque coup porté."
+    ]
 }

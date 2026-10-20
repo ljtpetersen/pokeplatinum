@@ -31,5 +31,12 @@
     "friendshipLow": 5,
     "friendshipMed": 3,
     "friendshipHigh": 2
-  }
+  },
+  "name_fr": "PV Plus",
+  "description_fr": [
+    "Une boisson très nutritive qui monte\n",
+    "les PV d’un Pokémon."
+  ],
+  "plural_fr": "PV Plus",
+  "article_fr": null
 }

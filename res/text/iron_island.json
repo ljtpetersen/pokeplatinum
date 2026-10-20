@@ -11,6 +11,16 @@
         "odd that I would be training here.\r",
         "Anyway, it’s always nice to meet\n",
         "another Trainer. Here’s a gift.\r"
+      ],
+      "fr_FR": [
+        "Toi, tu es...?\r",
+        "{STRVAR_1 3, 0, 0}?\n",
+        "Moi, c’est Armand.\r",
+        "Oui, je suis un Dresseur, et, en effet,\n",
+        "c’est un endroit insolite pour\f",
+        "s’entraîner.\r",
+        "Enfin, c’est toujours un plaisir de\n",
+        "croiser des collègues. Tiens, cadeau!\r"
       ]
     },
     {
@@ -24,6 +34,16 @@
         "Mine Badge. My bad.\r",
         "I’ll be training inside.\n",
         "You can join me if you’d like.\r"
+      ],
+      "fr_FR": [
+        "Armand: Cette Capsule Secrète contient\n",
+        "la capacité Force.\r",
+        "Pour l’utiliser hors combat, il faut\n",
+        "avoir le Badge d’Arène de Joliberges...\r",
+        "Oh, mais je vois que tu l’as déjà.\n",
+        "Au temps pour moi.\r",
+        "Bon, je vais m’entraîner à l’intérieur.\n",
+        "Tu peux te joindre à moi, si ça te dit.\r"
       ]
     },
     {
@@ -35,24 +55,38 @@
         "Mine Badge from Canalave Gym.\r",
         "I’ll be training inside.\n",
         "You can join me if you’d like.\r"
+      ],
+      "fr_FR": [
+        "Armand: Cette Capsule Secrète contient\n",
+        "la capacité Force.\r",
+        "Pour l’utiliser hors combat, il faut\n",
+        "avoir le Badge Mine de Joliberges.\r",
+        "Bon, je vais m’entraîner à l’intérieur.\n",
+        "Tu peux te joindre à moi, si ça te dit.\r"
       ]
     },
     {
       "id": "IronIsland_Text_WantToSailSomewhere",
-      "en_US": "Do you want to sail somewhere?"
+      "en_US": "Do you want to sail somewhere?",
+      "fr_FR": "Tu veux mettre les voiles?"
     },
     {
       "id": "IronIsland_Text_AnchorsAweigh",
       "en_US": [
         "Aye, aye!\n",
         "Anchors aweigh!\r"
-      ]
+      ],
+      "fr_FR": "On lève l’ancre!\r"
     },
     {
       "id": "IronIsland_Text_TellWheneverSetSail",
       "en_US": [
         "You just go on and tell me whenever\n",
         "you want to set sail again!"
+      ],
+      "fr_FR": [
+        "Si tu veux reprendre la mer, je \n",
+        "suis à ta disposition."
       ]
     }
   ]

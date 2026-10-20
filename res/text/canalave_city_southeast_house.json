@@ -10,6 +10,14 @@
         "from another country.\r",
         "It’s not anything that I can use,\n",
         "so I think you should take it.\r"
+      ],
+      "fr_FR": [
+        "Bonjour, Dresseur!\n",
+        "Regarde ce que j’ai trouvé.\r",
+        "C’était au beau milieu d’une\n",
+        "cargaison provenant d’un autre pays.\r",
+        "Je n’en ai pas l’utilité, donc j’imagine\n",
+        "que tu peux la prendre.\r"
       ]
     },
     {
@@ -22,6 +30,15 @@
         "target Pokémon.\r",
         "How you use Skill Swap is a measure\n",
         "of your expertise as a Trainer."
+      ],
+      "fr_FR": [
+        "Tu sais que les Pokémon ont des\n",
+        "capacités spéciales?\r",
+        "Eh bien, la capacité Echange permet au\n",
+        "lanceur d’échanger sa capacité spéciale\f",
+        "avec celle du Pokémon cible.\r",
+        "Un bon Dresseur doit avoir une parfaite\n",
+        "maîtrise d’Echange."
       ]
     },
     {
@@ -30,6 +47,12 @@
         "Somewhere far beyond the vast sea...\r",
         "There are other lands populated by\n",
         "Pokémon and Trainers."
+      ],
+      "fr_FR": [
+        "Quelque part au loin, au-delà des\n",
+        "mers...\r",
+        "Il y a d’autres contrées peuplées de\n",
+        "Pokémon et de Dresseurs."
       ]
     }
   ]

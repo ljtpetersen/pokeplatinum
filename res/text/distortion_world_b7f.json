@@ -6,11 +6,16 @@
       "en_US": [
         "Cynthia: This is it...\n",
         "GIRATINA is up ahead.\r"
+      ],
+      "fr_FR": [
+        "Cynthia: Nous y sommes...\n",
+        "GIRATINA est par là.\r"
       ]
     },
     {
       "id": "DistortionWorldB7F_Text_YouWereAlreadyHere",
-      "en_US": "Cynthia: ...So, you were already here.\r"
+      "en_US": "Cynthia: ...So, you were already here.\r",
+      "fr_FR": "Cynthia: Tu es déjà là...\r"
     },
     {
       "id": "DistortionWorldB7F_Text_WhyChangeTheWorld",
@@ -21,6 +26,13 @@
         "go off somewhere alone.\r",
         "Find somewhere where you can live\n",
         "without seeing others.\r"
+      ],
+      "fr_FR": [
+        "Cynthia: Pourquoi chercher à changer\n",
+        "le monde?\r",
+        "Si tu le détestes à ce point, quitte-le,\n",
+        "personne ne te retient.\r",
+        "Trouve-toi un endroit où tu seras seul.\r"
       ]
     },
     {
@@ -28,6 +40,10 @@
       "en_US": [
         "Cynthia: But...\n",
         "That’s no justice at all!"
+      ],
+      "fr_FR": [
+        "Cynthia: Mais...\n",
+        "Ça n’a rien de légitime, au contraire!"
       ]
     },
     {
@@ -41,6 +57,17 @@
         "world can be made complete.\r",
         "That is my justice!\n",
         "No one can interfere!"
+      ],
+      "fr_FR": [
+        "Hélio: Pourquoi devrais-je m’exiler et\n",
+        "attendre en silence?\r",
+        "Mon but est de débarrasser le monde\n",
+        "de cette chose imparfaite et superflue\f",
+        "qu’on appelle l’esprit.\r",
+        "Il n’y a qu’en nous en libérant que nous\n",
+        "pouvons créer un monde idéal.\r",
+        "Voilà ce qui est légitime!\n",
+        "Et je ne tolérerai aucune contestation!"
       ]
     },
     {
@@ -49,6 +76,11 @@
         "Cyrus: I won’t lose!\r",
         "Not to that shadowy Pokémon!\n",
         "Not in any worthless world!\r"
+      ],
+      "fr_FR": [
+        "Hélio: Personne ne me vaincra!\r",
+        "Surtout pas le Pokémon de l’ombre!\n",
+        "Jamais de la vie!\r"
       ]
     },
     {
@@ -66,6 +98,19 @@
         "going to destroy it for me!\r",
         "Do it.\n",
         "You inherit my legacy.\r"
+      ],
+      "fr_FR": [
+        "Hélio: Ne va pas t’imaginer que tu peux\n",
+        "vaincre ou capturer ce Pokémon.\r",
+        "Ce monde bizarre n’est autre que la\n",
+        "créature elle-même!\r",
+        "La vaincre ou la capturer provoquera\n",
+        "sa disparition!\r",
+        "Oh et puis, après tout, fais ce que\n",
+        "tu veux!\r",
+        "Plutôt que de réparer le monde, tu ne\n",
+        "feras que le détruire à ma place!\r",
+        "Vas-y. Prends ma succession.\r"
       ]
     },
     {
@@ -87,6 +132,24 @@
         "Let’s go meet GIRATINA.\r",
         "...Oops. I should do something about\n",
         "your hardworking Pokémon first.\r"
+      ],
+      "fr_FR": [
+        "Cynthia: Ne crois pas à ses mensonges.\r",
+        "Un Pokémon ne peut pas provoquer\n",
+        "la fin des temps.\r",
+        "C’est toi et tes Pokémon que le monde\n",
+        "attendait.\r",
+        "Et tes proches, aussi.\r",
+        "Les gens et les Pokémon viennent au\n",
+        "monde parce qu’ils ont un rôle à\f",
+        "y jouer.\r",
+        "J’en suis convaincue.\r",
+        "GIRATINA ne disparaîtra pas.\n",
+        "Pas plus que le Monde Distorsion ou\f",
+        "que notre monde.\r",
+        "Allons à la rencontre de GIRATINA.\r",
+        "Oh, il faut d’abord que je m’occupe\n",
+        "de soigner ton équipe de Pokémon.\r"
       ]
     },
     {
@@ -94,11 +157,19 @@
       "en_US": [
         "Cynthia fully healed {STRVAR_1 3, 0, 0}’s\n",
         "Pokémon.\r"
+      ],
+      "fr_FR": [
+        "Cynthia a totalement soigné les Pokémon\n",
+        "appartenant à {STRVAR_1 3, 0, 0}!\r"
       ]
     },
     {
       "id": "DistortionWorldB7F_Text_LetsGoMeetGiratina",
-      "en_US": "Cynthia: Now let’s go meet GIRATINA!\r"
+      "en_US": "Cynthia: Now let’s go meet GIRATINA!\r",
+      "fr_FR": [
+        "Cynthia: Le moment est venu d’aller à\n",
+        "la rencontre de GIRATINA!\r"
+      ]
     },
     {
       "id": "DistortionWorldB7F_Text_GiratinaIsEnraged",
@@ -118,6 +189,21 @@
         "GIRATINA will understand.\r",
         "The distortion of the two worlds will\n",
         "stop!"
+      ],
+      "fr_FR": [
+        "Cynthia: GIRATINA est furieux parce\n",
+        "que les deux mondes sont en danger.\r",
+        "Le Monde Distorsion et le nôtre ont\n",
+        "fusionné au niveau des Colonnes Lances.\r",
+        "Cela explique que la distorsion prenne\n",
+        "de l’ampleur de part et d’autre.\r",
+        "Mais il n’y a rien à craindre.\r",
+        "Tu peux vaincre GIRATINA et montrer\n",
+        "le lien étroit qui t’unit à ton équipe.\r",
+        "Ou alors, fais-lui comprendre ton désir\n",
+        "qu’il se joigne à toi.\r",
+        "Si tu réussis, GIRATINA comprendra\n",
+        "et la distorsion prendra fin! "
       ]
     },
     {
@@ -125,6 +211,10 @@
       "en_US": [
         "Cynthia: I know that the bond you\n",
         "share with your Pokémon is strong!"
+      ],
+      "fr_FR": [
+        "Cynthia: Je sais que le lien qui t’unit à\n",
+        "tes Pokémon est indéfectible!"
       ]
     },
     {

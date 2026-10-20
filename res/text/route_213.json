@@ -10,6 +10,14 @@
         "make something like this...\r",
         "Therefore, our boss, who made this,\n",
         "is a scientific mechanical genius!\r"
+      ],
+      "fr_FR": [
+        "Nous avions besoin de l’énergie des\n",
+        "Eoliennes pour réussir...\r",
+        "Seul un génie scientifique\n",
+        "pouvait y parvenir...\r",
+        "Par conséquent, notre chef est\n",
+        "un génie scientifique! C.Q.F.D.!\r"
       ]
     },
     {
@@ -19,6 +27,12 @@
         "I was just thinking out loud!\r",
         "But I’m not going to waste my energy\n",
         "knocking you around...\r"
+      ],
+      "fr_FR": [
+        "Groumph! Tu m’espionnais!\n",
+        "Je pensais à voix haute, c’est tout!\r",
+        "Mais je ne vais pas gaspiller mon énergie\n",
+        "à te botter les fesses...\r"
       ]
     },
     {
@@ -30,6 +44,14 @@
         "we can’t blow up.\r",
         "I wonder what they have planned for\n",
         "this?\r"
+      ],
+      "fr_FR": [
+        "Waouh, cette Bombe Galaxie déménage\n",
+        "sérieusement.\r",
+        "Avec ce petit bijou, rien ne peut nous\n",
+        "résister.\r",
+        "Je me demande ce qu’ils comptent\n",
+        "en faire...\r"
       ]
     },
     {
@@ -41,6 +63,14 @@
         "I’m getting tired of running away...\r",
         "But I’m not going to waste my energy\n",
         "knocking you around...\r"
+      ],
+      "fr_FR": [
+        "Groumph! Tu m’espionnais!\n",
+        "Je pensais à voix haute, c’est tout!\r",
+        "T’es vraiment pot de colle...\n",
+        "J’en ai marre de chercher à m’enfuir...\r",
+        "Mais je ne vais pas gaspiller mon énergie\n",
+        "à te botter les fesses...\r"
       ]
     },
     {
@@ -57,6 +87,20 @@
         "In an outfit that is very strange?\r",
         "In other words, that is the Team\n",
         "Galactic!\r"
+      ],
+      "fr_FR": [
+        "Beladonis: Bonjour, camarade.\r",
+        "Je m’inquiète au sujet de la cargaison\n",
+        "de la Team Galaxie.\r",
+        "Une bombe, dis-tu?\n",
+        "Il y a eu une explosion?\f",
+        "Au Grand Marais?\r",
+        "Qui plus est, tu es aux trousses d’un\n",
+        "type louche... avec une coupe au bol?\r",
+        "Le tout emballé dans un uniforme\n",
+        "extravagant?\r",
+        "En d’autres termes, c’est encore la\n",
+        "Team Galaxie qui fait des siennes!\r"
       ]
     },
     {
@@ -68,6 +112,14 @@
         "mistake of the ages!\r",
         "The man, who I have seen running away,\n",
         "he was the bearer of the bomb!\r"
+      ],
+      "fr_FR": [
+        "Crotte, flûte, zut!\n",
+        "Comment ai-je pu manquer ça?\r",
+        "Beladonis, tu as fait la bourde de\n",
+        "ta vie!\r",
+        "L’individu que j’ai vu fuir, c’est lui\n",
+        "qui détenait la bombe!\r"
       ]
     },
     {
@@ -75,6 +127,10 @@
       "en_US": [
         "Ach! This will not do!\n",
         "Wait! Wait, I say!\r"
+      ],
+      "fr_FR": [
+        "Argh! Ça ne peut pas se passer comme\n",
+        "ça! Attends-moi! Attends, je te dis!\r"
       ]
     },
     {
@@ -85,6 +141,13 @@
         "The fancy restaurant’s filled with\n",
         "fancy people who think of themselves\f",
         "as being too fancy to battle alone."
+      ],
+      "fr_FR": [
+        "Il existe un hôtel chic dans un endroit\n",
+        "chic avec un restaurant chic.\r",
+        "Ce restaurant chic est rempli de gens\n",
+        "chic qui se considèrent trop chic\f",
+        "pour combattre seuls."
       ]
     },
     {
@@ -93,6 +156,12 @@
         "I’d rather be in a pool than the sea.\r",
         "The salty tang of the sea tastes like\n",
         "my tears after a hard day at work..."
+      ],
+      "fr_FR": [
+        "Je serais mieux dans une piscine \n",
+        "que dans la mer.\r",
+        "L’eau de mer a le goût de mes larmes\n",
+        "après une dure journée de labeur..."
       ]
     },
     {
@@ -102,6 +171,12 @@
         "big cliff here!\r",
         "My instincts tell me that, but how\n",
         "am I supposed to climb up?"
+      ],
+      "fr_FR": [
+        "Il y a quelque chose au sommet\n",
+        "de cette grande falaise!\r",
+        "J’en ai la certitude, mais comment\n",
+        "faire pour monter là-haut?"
       ]
     },
     {
@@ -109,6 +184,10 @@
       "en_US": [
         "Rt. 213\n",
         "Pastoria City"
+      ],
+      "fr_FR": [
+        "Route 213\n",
+        "Verchamps"
       ]
     },
     {
@@ -116,6 +195,10 @@
       "en_US": [
         "Hotel Grand Lake\n",
         "Another World on Lake Valor"
+      ],
+      "fr_FR": [
+        "Hôtel Grand Lac\n",
+        "Un autre monde sur le Lac Courage."
       ]
     },
     {
@@ -123,6 +206,10 @@
       "en_US": [
         "Dr. Footstep’s House\n",
         "Footprints Reveal All"
+      ],
+      "fr_FR": [
+        "Abri Petitpas\n",
+        "Je fais parler les traces."
       ]
     }
   ]

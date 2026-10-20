@@ -12,15 +12,27 @@
         "with my plan...?\r",
         "Incidentally, do you understand the\n",
         "concept of genes?"
+      ],
+      "fr_FR": [
+        "Hélio: Le Pokémon de l’ombre n’est plus\n",
+        "là...\r",
+        "Il m’a laissé ici avant de disparaître\n",
+        "plus bas...\r",
+        "Perturber mes plans a-t-il suffi à\n",
+        "l’apaiser...?\r",
+        "A ce propos, le concept de gènes\n",
+        "t’est-il familier?"
       ]
     },
     {
       "id": "DistortionWorldB3F_Text_YouveImpressedMe",
-      "en_US": "...If it’s true, you’ve impressed me.\r"
+      "en_US": "...If it’s true, you’ve impressed me.\r",
+      "fr_FR": "Si c’est vrai, tu m’impressionnes...\r"
     },
     {
       "id": "DistortionWorldB3F_Text_OfCourseYouWouldnt",
-      "en_US": "...No, of course, you wouldn’t.\r"
+      "en_US": "...No, of course, you wouldn’t.\r",
+      "fr_FR": "Non, bien sûr, rien d’étonnant à cela.\r"
     },
     {
       "id": "DistortionWorldB3F_Text_TwoWorldsMustBalance",
@@ -54,6 +66,35 @@
         "keeping the worlds in balance.\r",
         "That is why it must have interfered\n",
         "and brought me here.\r"
+      ],
+      "fr_FR": [
+        "Les gènes sont en quelque sorte le plan\n",
+        "définissant toute forme de vie.\r",
+        "Pokémon et humains inclus.\r",
+        "Les gènes sont des segments d’ADN.\r",
+        "Deux brins d’ADN constituent une double\n",
+        "séquence aux caractéristiques complé-\f",
+        "mentaires formant une double hélice.\r",
+        "Si l’une des séquences est brisée,\n",
+        "l’autre est apte à la dupliquer.\r",
+        "L’une et l’autre ne peuvent exister\n",
+        "sans leur double.\r",
+        "Tu vois où je veux en venir?\r",
+        "Ce monde est étrange.\n",
+        "Le temps y est suspendu.\f",
+        "L’espace instable.\r",
+        "Seul le Pokémon de l’ombre vit ici.\r",
+        "Ce monde est l’opposé de notre monde,\n",
+        "que je veux changer.\r",
+        "C’est comme avec les deux brins d’ADN\n",
+        "formant la double hélice.\r",
+        "Pour exister, ces deux mondes doivent\n",
+        "se maintenir mutuellement en équilibre.\r",
+        "L’un ne peut exister sans l’autre.\r",
+        "Le Pokémon de l’ombre joue sûrement\n",
+        "un rôle dans cet équilibre.\r",
+        "Cela explique qu’il soit intervenu\n",
+        "et qu’il m’ait amené ici.\r"
       ]
     },
     {
@@ -70,6 +111,19 @@
         "again.\r",
         "With it gone, neither world will be able\n",
         "to revert to its original state...\r"
+      ],
+      "fr_FR": [
+        "C’est probablement le Pokémon de\n",
+        "l’ombre qui a créé ce monde.\r",
+        "Ainsi, ma quête de changement l’a\n",
+        "dérangé et poussé à se montrer.\r",
+        "Mais c’est sans importance.\r",
+        "Ce qui compte, c’est de le vaincre\n",
+        "pour faire disparaître ce monde.\r",
+        "Je refuse qu’il s’interpose à nouveau.\r",
+        "Une fois qu’il sera détruit, aucun des\n",
+        "deux mondes ne pourra retrouver son\f",
+        "état d’origine...\r"
       ]
     }
   ]

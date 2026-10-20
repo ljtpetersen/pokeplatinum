@@ -23,6 +23,10 @@
             "en_US": [
                 "Look, look! Look at my Pokémon!\n",
                 "It’s really cool!\r"
+            ],
+            "fr_FR": [
+                "Regarde, regarde! Regarde mon \n",
+                "Pokémon! Il est trop cool!\r"
             ]
         },
         {
@@ -30,6 +34,10 @@
             "en_US": [
                 "Wowee! I had to hold on tight to\n",
                 "my inflatable tube!\n"
+            ],
+            "fr_FR": [
+                "Youhou! J’ai dû m’accrocher bien\n",
+                "fort à ma bouée!\n"
             ]
         },
         {
@@ -37,6 +45,10 @@
             "en_US": [
                 "Pools are OK, but I like the sea\n",
                 "because Pokémon live there.\n"
+            ],
+            "fr_FR": [
+                "La piscine ça va, mais je préfère la mer,\n",
+                "car c’est là que vivent les Pokémon.\n"
             ]
         },
         {
@@ -44,7 +56,12 @@
             "en_US": [
                 "Yay! You came to see my Pokémon\n",
                 "again, right? Look, look!\r"
+            ],
+            "fr_FR": [
+                "Yahou! Tu reviens voir mon Pokémon,\n",
+                "c’est ça? Regarde, regarde!\r"
             ]
         }
-    ]
+    ],
+    "name_fr": "Benji"
 }

@@ -45,6 +45,12 @@
                 "environments.\r",
                 "My Pokémon are my constant\n",
                 "companions while I work.\r"
+            ],
+            "fr_FR": [
+                "Je consacre ma vie à la protection\n",
+                "de la nature.\r",
+                "Mes fidèles compagnons Pokémon\n",
+                "m’accompagnent dans mon travail.\r"
             ]
         },
         {
@@ -52,6 +58,10 @@
             "en_US": [
                 "Oh, my gosh!\n",
                 "My poor Pokémon!\n"
+            ],
+            "fr_FR": [
+                "Oh, non!\n",
+                "Mes pauvres Pokémon!\n"
             ]
         },
         {
@@ -59,6 +69,10 @@
             "en_US": [
                 "Everyone can do their part to keep\n",
                 "nature clean. It doesn’t take much.\n"
+            ],
+            "fr_FR": [
+                "Respecter la nature, c’est à la portée\n",
+                "de tout le monde. Ce n’est pas bien dur.\n"
             ]
         },
         {
@@ -68,7 +82,14 @@
                 "with my Pokémon like usual.\r",
                 "Come to think of it, you’re always\n",
                 "with Pokémon, too.\r"
+            ],
+            "fr_FR": [
+                "Je patrouille dans la nature immaculée\n",
+                "avec mes Pokémon, comme d’habitude.\r",
+                "Maintenant que j’y pense, toi non plus,\n",
+                "tu ne sors jamais sans Pokémon.\r"
             ]
         }
-    ]
+    ],
+    "name_fr": "Ismael"
 }

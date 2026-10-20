@@ -36,11 +36,18 @@
                 "nature and in the concrete jungle.\r",
                 "We make everywhere we go our\n",
                 "playground!\r"
+            ],
+            "fr_FR": [
+                "On s’est endurcis ensemble dans la\n",
+                "nature et la jungle urbaine.\r",
+                "Nous faisons de tous les endroits où\n",
+                "nous allons notre terrain de jeu!\r"
             ]
         },
         {
             "type": "TRMSG_DEFEAT",
-            "en_US": "You’re really tough, aren’t you?!\n"
+            "en_US": "You’re really tough, aren’t you?!\n",
+            "fr_FR": "Vous êtes vraiment coriaces, dis donc!"
         },
         {
             "type": "TRMSG_POST_BATTLE",
@@ -49,6 +56,12 @@
                 "contorted terrain.\r",
                 "It’s no wonder that Pokémon would\n",
                 "grow tough in a place like this.\n"
+            ],
+            "fr_FR": [
+                "Regarde autour de toi ce terrain\n",
+                "totalement accidenté.\r",
+                "Ce n’est pas surprenant que les\n",
+                "Pokémon s’endurcissent.\n"
             ]
         },
         {
@@ -58,7 +71,14 @@
                 "as tough!\r",
                 "Let’s battle it out to see which one of\n",
                 "us is tougher!\r"
+            ],
+            "fr_FR": [
+                "Tu m’as l’air bien coriace, mais mes\n",
+                "Pokémon le sont aussi...\r",
+                "Seul un combat déterminera qui\n",
+                "de nous est le numéro 1!\r"
             ]
         }
-    ]
+    ],
+    "name_fr": "Wendy"
 }

@@ -7,7 +7,10 @@
         "special_attack": 105,
         "special_defense": 55
     },
-    "types": [ "TYPE_PSYCHIC", "TYPE_PSYCHIC" ],
+    "types": [
+        "TYPE_PSYCHIC",
+        "TYPE_PSYCHIC"
+    ],
     "catch_rate": 200,
     "base_exp_reward": 75,
     "ev_yields": {
@@ -26,15 +29,24 @@
     "hatch_cycles": 20,
     "base_friendship": 70,
     "exp_rate": "EXP_RATE_MEDIUM_SLOW",
-    "egg_groups": [ "EGG_GROUP_HUMAN_LIKE", "EGG_GROUP_HUMAN_LIKE" ],
-    "abilities": [ "ABILITY_SYNCHRONIZE", "ABILITY_INNER_FOCUS" ],
+    "egg_groups": [
+        "EGG_GROUP_HUMAN_LIKE",
+        "EGG_GROUP_HUMAN_LIKE"
+    ],
+    "abilities": [
+        "ABILITY_SYNCHRONIZE",
+        "ABILITY_INNER_FOCUS"
+    ],
     "safari_flee_rate": 0,
     "body_color": "MON_COLOR_BROWN",
     "flip_sprite": false,
     "icon_palette": 2,
     "learnset": {
         "by_level": [
-            [ 1, "MOVE_TELEPORT" ]
+            [
+                1,
+                "MOVE_TELEPORT"
+            ]
         ],
         "by_tm": [
             "TM01",
@@ -132,9 +144,9 @@
             "name": "ABRA",
             "category": "Psi Pokémon",
             "entry_text": [
-                "Using its psychic power is such a\n",
-                "strain on its brain that it needs\n",
-                "to sleep for 18 hours a day."
+                "It sleeps for 18 hours a day.\n",
+                "Even when awake, it teleports\n",
+                "itself while remaining seated."
             ]
         },
         "fr": {
@@ -180,6 +192,18 @@
                 "まいにち　１８じかん　ねむる。\n",
                 "めざめている　ときも　すわったまま\n",
                 "テレポ－トで　いどうする。"
+            ]
+        },
+        "local_version": {
+            "entry_text": [
+                "Using its psychic power is such a\n",
+                "strain on its brain that it needs\n",
+                "to sleep for 18 hours a day."
+            ],
+            "entry_text_fr": [
+                "L’utilisation de ses pouvoirs\n",
+                "mentaux le fatigue tellement\n",
+                "qu’il dort 18 heures par jour."
             ]
         }
     },

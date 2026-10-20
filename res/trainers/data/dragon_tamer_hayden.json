@@ -34,6 +34,11 @@
             "en_US": [
                 "My dragon Pokémon chose to become\n",
                 "powerful here. They sure like it!\r"
+            ],
+            "fr_FR": [
+                "Mes Pokémon de type Dragon ont\n",
+                "choisi ce lieu pour devenir puissants.\f",
+                "Ils l’adorent!\r"
             ]
         },
         {
@@ -41,6 +46,10 @@
             "en_US": [
                 "Your battle style...\n",
                 "So savage...\n"
+            ],
+            "fr_FR": [
+                "Ton style de combat...\n",
+                "Tellement sauvage...\n"
             ]
         },
         {
@@ -50,6 +59,12 @@
                 "the Dragon’s Den.\r",
                 "I’ve got to say, your Pokémon are\n",
                 "in the top class for toughness."
+            ],
+            "fr_FR": [
+                "Ça fait plusieurs années que j’ai quitté\n",
+                "l’Antre du Dragon.\r",
+                "Je dois dire que tu es au top\n",
+                "niveau question force."
             ]
         },
         {
@@ -57,7 +72,13 @@
             "en_US": [
                 "My dragon Pokémon chose to remain\n",
                 "here to become powerful.\r"
+            ],
+            "fr_FR": [
+                "Mes Pokémon de type Dragon ont\n",
+                "choisi de rester ici pour devenir\f",
+                "plus puissants.\r"
             ]
         }
-    ]
+    ],
+    "name_fr": "Bruno"
 }

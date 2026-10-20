@@ -65,6 +65,10 @@
             "en_US": [
                 "I wrote a song using the cries of\n",
                 "Pokémon. I’d like you to hear it."
+            ],
+            "fr_FR": [
+                "J’ai composé une chanson en n’utilisant\n",
+                "que des cris de Pokémon."
             ]
         },
         {
@@ -72,6 +76,10 @@
             "en_US": [
                 "Graaah wagyaaah! Wagyaaaah!\n",
                 "Chu! Chu! Gyaroooh-gah!\r"
+            ],
+            "fr_FR": [
+                "Groooooo! Butoké!\n",
+                "Chu! Chu! Maaaaaaa!\r"
             ]
         },
         {
@@ -79,7 +87,12 @@
             "en_US": [
                 "Giiyaaaah! Drundundun!\n",
                 "Garoo-gah! Wawawaaah!\r"
+            ],
+            "fr_FR": [
+                "Pikaaa! Zaaaaare!\n",
+                "Toge Toge! Miiiia!\r"
             ]
         }
-    ]
+    ],
+    "name_fr": "Jonah"
 }

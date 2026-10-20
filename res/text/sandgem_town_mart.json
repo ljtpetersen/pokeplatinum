@@ -8,6 +8,12 @@
         "it can’t battle anymore.\r",
         "I’m buying lots of Potions to avoid\n",
         "having that happen!"
+      ],
+      "fr_FR": [
+        "Si un Pokémon perd tous ses PV, il ne\n",
+        "peut plus se battre.\r",
+        "Je vais acheter plein de Potions pour\n",
+        "éviter que ça arrive!"
       ]
     },
     {
@@ -16,6 +22,11 @@
         "If you come across a Pokémon you’ve\n",
         "just gotta have, toss a Poké Ball!\r",
         "Never leave home without one!"
+      ],
+      "fr_FR": [
+        "Si tu croises un Pokémon que tu veux\n",
+        "attraper, lance une Poké Ball!\r",
+        "Ne sors jamais sans Poké Ball!"
       ]
     }
   ]

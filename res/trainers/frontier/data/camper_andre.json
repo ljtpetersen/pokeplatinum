@@ -77,6 +77,10 @@
             "en_US": [
                 "No, no, I can’t do this!\n",
                 "I’m not cut out for battling!"
+            ],
+            "fr_FR": [
+                "Non! Je ne veux pas me battre!\n",
+                "J’ai horreur de ça!"
             ]
         },
         {
@@ -84,6 +88,10 @@
             "en_US": [
                 "Oh, wow! I won! What’ll I do?\n",
                 "You’re not mad at me, are you?\r"
+            ],
+            "fr_FR": [
+                "Hé! J’ai gagné? Euh, tu ne m’en\n",
+                "veux pas, hein?\r"
             ]
         },
         {
@@ -91,7 +99,12 @@
             "en_US": [
                 "See! I told you before we started!\n",
                 "Battling just isn’t for me.\r"
+            ],
+            "fr_FR": [
+                "Tu vois? Qu’est-ce que je t’avais dit?\n",
+                "Le combat, c’est vraiment pas mon truc.\r"
             ]
         }
-    ]
+    ],
+    "name_fr": "Arthur"
 }

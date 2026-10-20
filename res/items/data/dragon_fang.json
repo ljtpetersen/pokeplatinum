@@ -26,5 +26,13 @@
   "battlePocket": "BATTLE_POCKET_MASK_NONE",
   "fieldUseFunc": "ITEM_USE_FUNC_NONE",
   "battleUseCategory": "BATTLE_USE_CATEGORY_NONE",
-  "itemUseParams": null
+  "itemUseParams": null,
+  "name_fr": "Croc Dragon",
+  "description_fr": [
+    "Objet à tenir. Croc dur et pointu\n",
+    "montant la puissance des capacités de\n",
+    "type Dragon."
+  ],
+  "plural_fr": "Croc Dragon",
+  "article_fr": null
 }

@@ -101,13 +101,18 @@
             "en_US": [
                 "You and your Pokémon, I’ll clean up on\n",
                 "you easily."
-            ]
+            ],
+            "fr_FR": "Je vais te battre sans problème."
         },
         {
             "type": "TRMSG_WIN",
             "en_US": [
                 "Well, well, how pathetic was that.\n",
                 "Take your passengers and go home.\r"
+            ],
+            "fr_FR": [
+                "Quel spectacle pathétique. Prends tes\n",
+                "cliques et tes claques et disparais.\r"
             ]
         },
         {
@@ -115,7 +120,12 @@
             "en_US": [
                 "Gwaah... So heavy...\n",
                 "My guys buckled under the load.\r"
+            ],
+            "fr_FR": [
+                "Argh... Dommage...\n",
+                "Je n’ai pas été à la hauteur.\r"
             ]
         }
-    ]
+    ],
+    "name_fr": "Estevan"
 }

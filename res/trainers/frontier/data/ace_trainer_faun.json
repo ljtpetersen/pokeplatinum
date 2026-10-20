@@ -77,6 +77,10 @@
             "en_US": [
                 "Let’s go, me! Go, me, go!\n",
                 "Don’t lose, don’t lose, rah, rah, rah!"
+            ],
+            "fr_FR": [
+                "Allez moi! Allez moi!\n",
+                "On va gagner! Ouais!"
             ]
         },
         {
@@ -84,6 +88,10 @@
             "en_US": [
                 "Way to go, me! I’m so wonderful!\n",
                 "Rah, rah, rah! Gooooooo, me!\r"
+            ],
+            "fr_FR": [
+                "Bien joué, moi! Je suis géniale!\n",
+                "Vive moi! Ouais!\r"
             ]
         },
         {
@@ -91,7 +99,12 @@
             "en_US": [
                 "It’s OK, me! Don’t cry! Don’t cry!\n",
                 "Go home, go home, goooooo!\r"
+            ],
+            "fr_FR": [
+                "Allons, moi, ne pleure pas.\n",
+                "Retirons-nous en beauté! Ouais!\r"
             ]
         }
-    ]
+    ],
+    "name_fr": "Fadela"
 }

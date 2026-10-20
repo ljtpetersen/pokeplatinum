@@ -8,6 +8,12 @@
         "{STRVAR_1 3, 1, 0} already left.\r",
         "I don’t know what it was about, but\n",
         "he sure was in a hurry!\r"
+      ],
+      "fr_FR": [
+        "Maman: {STRVAR_1 3, 0, 0}!\r",
+        "{STRVAR_1 3, 1, 0} est déjà parti.\r",
+        "Je ne sais pas ce qu’il voulait, mais\n",
+        "il était très pressé!\r"
       ]
     },
     {
@@ -17,6 +23,12 @@
         "{STRVAR_1 3, 0, 0} is.\r",
         "He took off before I could even\n",
         "ask what it was about."
+      ],
+      "fr_FR": [
+        "Maman: Tu sais à quel point\n",
+        "{STRVAR_1 3, 0, 0} est impatient.\r",
+        "Il est parti avant que je ne puisse lui\n",
+        "poser la moindre question."
       ]
     },
     {
@@ -24,6 +36,10 @@
       "en_US": [
         "Mom: Bye-bye, {STRVAR_1 3, 0, 0}!\n",
         "You take care now!"
+      ],
+      "fr_FR": [
+        "Maman: Au revoir, {STRVAR_1 3, 0, 0}!\n",
+        "Fais bien attention à toi!"
       ]
     },
     {
@@ -31,6 +47,10 @@
       "en_US": [
         "Mom: But that {STRVAR_1 3, 0, 0}...\n",
         "He always invites you along."
+      ],
+      "fr_FR": [
+        "Maman: {STRVAR_1 3, 0, 0}... Il veut\n",
+        "toujours que tu l’accompagnes."
       ]
     },
     {
@@ -43,6 +63,16 @@
         "It would be OK if you had your own\n",
         "Pokémon, but you don’t, so...\r",
         "Well, take care, sweetie!"
+      ],
+      "fr_FR": [
+        "Maman: Ah, oui!\n",
+        "{STRVAR_1 3, 0, 0}!\r",
+        "Ne va pas dans les hautes herbes.\n",
+        "Des Pokémon sauvages pourraient\f",
+        "t’attaquer.\r",
+        "Ça irait si tu avais ton propre Pokémon,\n",
+        "mais tu n’en as pas, alors...\r",
+        "A bientôt, mon chou!"
       ]
     },
     {
@@ -50,6 +80,10 @@
       "en_US": [
         "Mom: What is it, dear?\n",
         "Isn’t {STRVAR_1 3, 0, 0} waiting for you?"
+      ],
+      "fr_FR": [
+        "Maman: Que se passe-t-il, mon chou?\n",
+        "{STRVAR_1 3, 0, 0} t’attend, tu sais?"
       ]
     },
     {
@@ -69,6 +103,26 @@
         "His lab is in Sandgem Town, isn’t it?\r",
         "Now that you have your own Pokémon,\n",
         "the tall grass won’t be so threatening.\r"
+      ],
+      "fr_FR": [
+        "Maman: Qu’est-ce qui se passe,\n",
+        "mon chou?\r",
+        "...\r",
+        "Vraiment?\n",
+        "Waouh!\r",
+        "Toi et {STRVAR_1 3, 0, 0} avez de la chance\n",
+        "d’être tombés sur le Professeur\f",
+        "Sorbier.\r",
+        "Imagine ce qui se serait passé sinon...\r",
+        "Je préfère ne pas penser à ce que les\n",
+        "Pokémon sauvages vous auraient fait.\r",
+        "{STRVAR_1 3, 1, 0}, va voir le Professeur\n",
+        "Sorbier et remercie-le comme il\f",
+        "se doit.\r",
+        "Son labo est à Littorella, je crois.\r",
+        "Maintenant que tu as ton propre\n",
+        "Pokémon, les hautes herbes ne sont\f",
+        "plus une menace.\r"
       ]
     },
     {
@@ -76,6 +130,10 @@
       "en_US": [
         "Oh, I know!\n",
         "{STRVAR_1 3, 0, 0}, put these on.\r"
+      ],
+      "fr_FR": [
+        "Oh, je sais!\n",
+        "{STRVAR_1 3, 0, 0}, enfile ça.\r"
       ]
     },
     {
@@ -83,6 +141,10 @@
       "en_US": [
         "{STRVAR_1 3, 0, 0} received a pair of\n",
         "{COLOR 1}Running Shoes{COLOR 0}!"
+      ],
+      "fr_FR": [
+        "{STRVAR_1 3, 0, 0} obtient les {COLOR 1}Chaussures de\n",
+        "Sport{COLOR 0}!"
       ]
     },
     {
@@ -99,6 +161,19 @@
         "“Put on the Running Shoes and\n",
         "blaze new trails of adventure!”\r",
         "Well, isn’t that just nifty!"
+      ],
+      "fr_FR": [
+        "Se rendre à Littorella est une\n",
+        "aventure en soi, n’est-ce pas?\r",
+        "Avec ces Chaussures de Sport, tu peux\n",
+        "te déplacer beaucoup plus vite.\r",
+        "OK...\n",
+        "Je vais te lire le mode d’emploi...\r",
+        "“Maintenez le bouton B appuyé pour\n",
+        "filer comme le vent!\r",
+        "Enfilez les Chaussures de Sport et\n",
+        "partez à l’aventure!”\r",
+        "Bon, ça m’a l’air très bien!"
       ]
     },
     {
@@ -111,6 +186,15 @@
         "“Put on the Running Shoes and\n",
         "blaze new trails of adventure!”\r",
         "Well, isn’t that just nifty!"
+      ],
+      "fr_FR": [
+        "Maman: Je vais te lire le mode d’emploi\n",
+        "de ces Chaussures...\r",
+        "“Maintenez le bouton B appuyé pour\n",
+        "filer comme le vent!\r",
+        "Enfilez les Chaussures de Sport et\n",
+        "partez à l’aventure!”\r",
+        "Bon, ça m’a l’air très bien!"
       ]
     },
     {
@@ -120,6 +204,12 @@
         "Are you and your Pokémon healthy?\r",
         "It’s still early in the morning.\n",
         "Take a quick rest, dear.\r"
+      ],
+      "fr_FR": [
+        "Maman: Bienvenue, {STRVAR_1 3, 0, 0}.\n",
+        "Tu es en forme?\r",
+        "Il est encore très tôt.\n",
+        "Repose-toi un peu, mon chou.\r"
       ]
     },
     {
@@ -128,6 +218,11 @@
         "Mom: Welcome home, {STRVAR_1 3, 0, 0}.\n",
         "Are you and your Pokémon healthy?\f",
         "Take a quick rest, dear.\r"
+      ],
+      "fr_FR": [
+        "Maman: Bonjour, {STRVAR_1 3, 0, 0}.\n",
+        "Tu es en forme?\f",
+        "Repose-toi un peu, mon chou.\r"
       ]
     },
     {
@@ -137,6 +232,12 @@
         "Are you and your Pokémon healthy?\r",
         "I just made dinner.\n",
         "Take a quick rest, dear.\r"
+      ],
+      "fr_FR": [
+        "Maman: Bonsoir, {STRVAR_1 3, 0, 0}.\n",
+        "Tu es en forme?\r",
+        "Je prépare le dîner.\n",
+        "Repose-toi un peu, mon chou.\r"
       ]
     },
     {
@@ -146,6 +247,12 @@
         "Are you and your Pokémon healthy?\r",
         "It’s so late right now...\n",
         "Take a quick rest, dear.\r"
+      ],
+      "fr_FR": [
+        "Maman: Bonsoir, {STRVAR_1 3, 0, 0}.\n",
+        "Tu es en forme?\r",
+        "Il est très tard...\n",
+        "Repose-toi un peu, mon chou.\r"
       ]
     },
     {
@@ -159,6 +266,16 @@
         "Your mom’s got your back!\r",
         "Oh, I know! {STRVAR_1 3, 0, 0}, I’ve got\n",
         "something that you’ll find useful.\r"
+      ],
+      "fr_FR": [
+        "Maman: Quoi de neuf, {STRVAR_1 3, 0, 0}?\r",
+        "...\r",
+        "C’est une mission de premier ordre que\n",
+        "t’a confiée le Professeur Sorbier.\r",
+        "Fonce, mon chou! Ta maman est de\n",
+        "tout cœur avec toi!\r",
+        "Oh, je sais! {STRVAR_1 3, 0, 0}, j’ai quelque\n",
+        "chose qui pourrait t’être utile.\r"
       ]
     },
     {
@@ -168,6 +285,12 @@
         "of your daily events.\r",
         "Check it, and you’ll be able to\n",
         "remember what you did last.\r"
+      ],
+      "fr_FR": [
+        "C’est un Journal. Il enregistre les\n",
+        "événements quotidiens.\r",
+        "Consulte-le et tu pourras te souvenir\n",
+        "de ce que tu as fait en dernier.\r"
       ]
     },
     {
@@ -178,6 +301,12 @@
         "Plus, you’re not alone.\n",
         "You have your Pokémon with you.\f",
         "I wish I could go instead!\r"
+      ],
+      "fr_FR": [
+        "Pfiou, un voyage plein d’aventures...\n",
+        "Je t’envie, mon petit chou.\r",
+        "En plus, tes Pokémon t’accompagnent.\n",
+        "J’aimerais pouvoir prendre ta place!\r"
       ]
     },
     {
@@ -193,6 +322,18 @@
         "...But come back sometimes.\r",
         "I would like to see the kinds of\n",
         "Pokémon you’ve caught, dear.\r"
+      ],
+      "fr_FR": [
+        "Je plaisante, mon chou!\n",
+        "Ouaip, {STRVAR_1 3, 0, 0}!\r",
+        "Je vais me débrouiller seule, pars et\n",
+        "profite de ton aventure!\r",
+        "Que tu découvres de nouvelles choses\n",
+        "et de nouvelles sensations...\f",
+        "me rend heureuse, moi aussi.\r",
+        "... Mais reviens de temps en temps.\r",
+        "J’aimerais voir les Pokémon que tu\n",
+        "auras attrapés, mon chou.\r"
       ]
     },
     {
@@ -200,6 +341,10 @@
       "en_US": [
         "{STRVAR_1 3, 1, 0}’s mom: Excuse me.\n",
         "Is my little {STRVAR_1 3, 1, 0} here?\r"
+      ],
+      "fr_FR": [
+        "Mère de {STRVAR_1 3, 1, 0}: Excusez-moi.\n",
+        "Mon petit {STRVAR_1 3, 1, 0} est-il ici?\r"
       ]
     },
     {
@@ -207,6 +352,10 @@
       "en_US": [
         "Mom: Oh?\n",
         "No, he’s not...\r"
+      ],
+      "fr_FR": [
+        "Maman: Oh?\n",
+        "Non, il n’est pas là...\r"
       ]
     },
     {
@@ -219,6 +368,15 @@
         "adventure, then he bolted.\r",
         "He’s so headstrong and reckless...\n",
         "I at least wanted him to take this...\r"
+      ],
+      "fr_FR": [
+        "Mère de {STRVAR_1 3, 1, 0}: Oh...\n",
+        "Alors, il a déjà dû partir...\f",
+        "Que faire...?\r",
+        "Mon garçon m’a crié qu’il partait à\n",
+        "l’aventure, puis il s’est précipité.\r",
+        "Il est si têtu et téméraire...\n",
+        "Je voulais au moins lui donner ceci...\r"
       ]
     },
     {
@@ -226,11 +384,16 @@
       "en_US": [
         "Mom: Not to worry, {STRVAR_1 3, 0, 0} will\n",
         "deliver that to him.\r"
+      ],
+      "fr_FR": [
+        "Maman: Ne vous inquiétez pas,\n",
+        "{STRVAR_1 3, 0, 0} va lui apporter.\r"
       ]
     },
     {
       "id": "TwinleafTownPlayerHouse1F_Text_WontYouPlayer",
-      "en_US": "Won’t you, {STRVAR_1 3, 0, 0}?\r"
+      "en_US": "Won’t you, {STRVAR_1 3, 0, 0}?\r",
+      "fr_FR": "N’est-ce pas, {STRVAR_1 3, 0, 0}?\r"
     },
     {
       "id": "TwinleafTownPlayerHouse1F_Text_TakeThisToRivalMale",
@@ -239,6 +402,12 @@
         "You’d do that for me?\r",
         "{STRVAR_1 3, 0, 0}, please take this to\n",
         "{STRVAR_1 3, 1, 0} for me.\r"
+      ],
+      "fr_FR": [
+        "Mère de {STRVAR_1 3, 1, 0}: Oh, vraiment?\n",
+        "Tu ferais ça pour moi?\r",
+        "{STRVAR_1 3, 0, 0}, apporte ça à\n",
+        "{STRVAR_1 3, 1, 0} pour moi, s’il te plaît.\r"
       ]
     },
     {
@@ -248,6 +417,12 @@
         "You’d do that for me?\r",
         "{STRVAR_1 3, 0, 0}, please take this to\n",
         "{STRVAR_1 3, 1, 0} for me.\r"
+      ],
+      "fr_FR": [
+        "Mère de {STRVAR_1 3, 1, 0}: Oh, vraiment?\n",
+        "Tu ferais ça pour moi?\r",
+        "{STRVAR_1 3, 0, 0}, apporte ça à\n",
+        "{STRVAR_1 3, 1, 0} pour moi, s’il te plaît.\r"
       ]
     },
     {
@@ -258,6 +433,14 @@
         "head straight to Jubilife City...\r",
         "OK, please take that to my\n",
         "{STRVAR_1 3, 1, 0}.\r"
+      ],
+      "fr_FR": [
+        "Mère de {STRVAR_1 3, 1, 0}: Laisse-moi\n",
+        "réfléchir...\r",
+        "Connaissant mon petit, il ira sûrement\n",
+        "directement à Féli-Cité...\r",
+        "OK, apporte ceci à {STRVAR_1 3, 1, 0},\n",
+        "s’il te plaît.\r"
       ]
     },
     {
@@ -265,6 +448,10 @@
       "en_US": [
         "Mom: Bye-bye, {STRVAR_1 3, 0, 0}!\n",
         "Enjoy your adventure!\r"
+      ],
+      "fr_FR": [
+        "Maman: Au revoir, {STRVAR_1 3, 0, 0}!\n",
+        "Profite bien de ton aventure!\r"
       ]
     },
     {
@@ -272,6 +459,10 @@
       "en_US": [
         "Mom: Bye-bye, {STRVAR_1 3, 0, 0}!\n",
         "Enjoy your adventure!"
+      ],
+      "fr_FR": [
+        "Maman: Au revoir, {STRVAR_1 3, 0, 0}!\n",
+        "Profite bien de ton aventure!"
       ]
     },
     {
@@ -285,6 +476,16 @@
         "cute Pokémon!\r",
         "That’s all the time we have today!\n",
         "Until next time!"
+      ],
+      "fr_FR": [
+        "Animateur: Ça y est!\n",
+        "C’est l’heure du Point Concours!\r",
+        "Le vainqueur du Concours de Grâce\n",
+        "catégorie Normal d’aujourd’hui est...\r",
+        "Pauline, qui a inscrit un Pokémon d’une\n",
+        "grâce à couper le souffle!\r",
+        "C’est tout pour aujourd’hui!\n",
+        "A la prochaine fois!"
       ]
     },
     {
@@ -298,6 +499,16 @@
         "of a Pokémon!\r",
         "That’s all the time we have today!\n",
         "Let’s meet again!"
+      ],
+      "fr_FR": [
+        "Animateur: Ça y est!\n",
+        "C’est l’heure du Point Concours!\r",
+        "Le vainqueur du Concours d’Intelligence\n",
+        "catégorie Normal d’aujourd’hui est...\r",
+        "Jules, qui a inscrit un Pokémon\n",
+        "très intelligent!\r",
+        "C’est tout pour aujourd’hui!\n",
+        "A la prochaine fois!"
       ]
     },
     {
@@ -311,6 +522,16 @@
         "awesomely buffed Pokémon!\r",
         "That’s all the time we have today!\n",
         "Let’s meet again!"
+      ],
+      "fr_FR": [
+        "Animateur: Ça y est!\n",
+        "C’est l’heure du Point Concours!\r",
+        "Le vainqueur du Concours de Robustesse\n",
+        "catégorie Normal d’aujourd’hui est...\r",
+        "Fabrice, qui a inscrit un Pokémon d’une\n",
+        "force incroyable!\r",
+        "C’est tout pour aujourd’hui!\n",
+        "A la prochaine fois!"
       ]
     },
     {
@@ -318,6 +539,10 @@
       "en_US": [
         "Mom’s favorite dessert is in\n",
         "the refrigerator."
+      ],
+      "fr_FR": [
+        "Le dessert préféré de maman est dans\n",
+        "le réfrigérateur."
       ]
     },
     {
@@ -325,6 +550,10 @@
       "en_US": [
         "Mom’s kitchen is spotless!\n",
         "You can see your face on the floor!"
+      ],
+      "fr_FR": [
+        "La cuisine de maman est impeccable!\n",
+        "On pourrait manger par terre!"
       ]
     },
     {
@@ -332,6 +561,10 @@
       "en_US": [
         "This is where Mom does all her\n",
         "delicious cooking."
+      ],
+      "fr_FR": [
+        "C’est ici que maman prépare tous ces\n",
+        "plats délicieux."
       ]
     },
     {
@@ -345,6 +578,17 @@
         "to get on a ship at Snowpoint City.\r",
         "You know how impatient he is.\n",
         "He was gone before I could ask."
+      ],
+      "fr_FR": [
+        "Maman: {STRVAR_1 3, 0, 0}!\r",
+        "{STRVAR_1 3, 1, 0} est passé pour te voir\n",
+        "il n’y a pas longtemps.\r",
+        "Je ne sais pas de quoi il s’agit, mais il\n",
+        "m’a crié que tu devais monter à bord\f",
+        "d’un bateau à Frimapic.\r",
+        "Tu sais à quel point il est impatient.\n",
+        "Il est reparti avant que j’aie eu\f",
+        "le temps de dire ouf."
       ]
     },
     {
@@ -361,6 +605,20 @@
         "Anyway, how’s it going, kid?\r",
         "Is your project with Professor Rowan\n",
         "coming along?"
+      ],
+      "fr_FR": [
+        "Maman: {STRVAR_1 3, 0, 0}!\r",
+        "{STRVAR_1 3, 1, 0} est passé pour te voir\n",
+        "il n’y a pas longtemps.\r",
+        "Je ne sais pas de quoi il s’agit, mais il\n",
+        "m’a crié que tu devais monter à bord\f",
+        "d’un bateau à Frimapic.\r",
+        "Tu sais à quel point il est impatient.\n",
+        "Il est reparti avant que j’aie eu\f",
+        "le temps de dire ouf.\r",
+        "Bref, comment ça va, mon chou?\r",
+        "Ton projet avec le Professeur Sorbier\n",
+        "avance bien?"
       ]
     },
     {
@@ -369,6 +627,12 @@
         "Mom: {STRVAR_1 3, 0, 0}!\r",
         "You and your Pokémon are looking good!\n",
         "Nothing can stop you now!"
+      ],
+      "fr_FR": [
+        "Maman: {STRVAR_1 3, 0, 0}!\r",
+        "Quelle allure vous avez, toi et\n",
+        "ton équipe de Pokémon!\r",
+        "Rien ne peut plus vous arrêter!"
       ]
     },
     {
@@ -379,6 +643,12 @@
         "with kindness.\r",
         "Your Pokémon work hard, not for\n",
         "themselves, but for you!"
+      ],
+      "fr_FR": [
+        "Maman: Ecoute, {STRVAR_1 3, 0, 0}.\r",
+        "Traite toujours tes Pokémon\n",
+        "avec gentillesse.\r",
+        "Ils travaillent dur pour toi!"
       ]
     },
     {
@@ -388,6 +658,11 @@
         "Seeing you reminds me so much of your\n",
         "father.\r",
         "You two are so alike!"
+      ],
+      "fr_FR": [
+        "Maman: {STRVAR_1 3, 0, 0}.\r",
+        "Tu me rappelles ton père.\r",
+        "Vous vous ressemblez tellement!"
       ]
     },
     {
@@ -398,6 +673,14 @@
         "We talk about this and that.\r",
         "Well, actually, all we do is talk about\n",
         "you two."
+      ],
+      "fr_FR": [
+        "Maman: En ton absence, je passe\n",
+        "beaucoup de temps avec la maman\f",
+        "de ton ami, {STRVAR_1 3, 1, 0}.\r",
+        "On parle de choses et d’autres.\r",
+        "A dire vrai, on ne parle que\n",
+        "de vous deux."
       ]
     },
     {
@@ -408,6 +691,13 @@
         "I get worried seeing the news...\r",
         "But you’re all right, aren’t you?\n",
         "After all, you’re never alone."
+      ],
+      "fr_FR": [
+        "Maman: {STRVAR_1 3, 0, 0}, tout va bien?\r",
+        "Les nouvelles ne sont pas bonnes,\n",
+        "je me suis inquiétée...\r",
+        "Mais je vois que tu vas bien. Après\n",
+        "tout, tu as toujours de la compagnie."
       ]
     }
   ]

@@ -3,55 +3,68 @@
   "messages": [
     {
       "id": "SPECIAL_METLOC_NAME_DAYCARE",
-      "en_US": "Day-Care Couple"
+      "en_US": "Day-Care Couple",
+      "fr_FR": "Couple Pension"
     },
     {
       "id": "SPECIAL_METLOC_NAME_TRADE",
-      "en_US": "Link trade"
+      "en_US": "Link trade",
+      "fr_FR": "Echange Link"
     },
     {
       "id": "SPECIAL_METLOC_NAME_TRADE2",
-      "en_US": "Link trade"
+      "en_US": "Link trade",
+      "fr_FR": "Echange Link"
     },
     {
       "id": "SPECIAL_METLOC_NAME_KANTO",
-      "en_US": "Kanto"
+      "en_US": "Kanto",
+      "fr_FR": "Kanto"
     },
     {
       "id": "SPECIAL_METLOC_NAME_JOHTO",
-      "en_US": "Johto"
+      "en_US": "Johto",
+      "fr_FR": "Johto"
     },
     {
       "id": "SPECIAL_METLOC_NAME_HOENN",
-      "en_US": "Hoenn"
+      "en_US": "Hoenn",
+      "fr_FR": "Hoenn"
     },
     {
       "id": "SPECIAL_METLOC_NAME_SINNOH",
-      "en_US": "Sinnoh"
+      "en_US": "Sinnoh",
+      "fr_FR": "Sinnoh"
     },
     {
       "id": "SPECIAL_METLOC_NAME_EMPTY",
-      "en_US": "----"
+      "en_US": "----",
+      "fr_FR": "----"
     },
     {
       "id": "SPECIAL_METLOC_NAME_DISTANT_LAND",
-      "en_US": "Distant land"
+      "en_US": "Distant land",
+      "fr_FR": "Pays lointain"
     },
     {
       "id": "SPECIAL_METLOC_NAME_TRAVELING_MAN",
-      "en_US": "Traveling Man"
+      "en_US": "Traveling Man",
+      "fr_FR": "un voyageur"
     },
     {
       "id": "SPECIAL_METLOC_NAME_RILEY",
-      "en_US": "Riley"
+      "en_US": "Riley",
+      "fr_FR": "Armand"
     },
     {
       "id": "SPECIAL_METLOC_NAME_CYNTHIA",
-      "en_US": "Cynthia"
+      "en_US": "Cynthia",
+      "fr_FR": "Cynthia"
     },
     {
       "id": "SPECIAL_METLOC_NAME_MYSTERY_ZONE",
-      "en_US": "Mystery Zone"
+      "en_US": "Mystery Zone",
+      "fr_FR": "Endroit mystér."
     }
   ]
 }

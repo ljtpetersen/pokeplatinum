@@ -27,5 +27,13 @@
   "fieldUseFunc": "ITEM_USE_FUNC_TM_HM",
   "battleUseCategory": "BATTLE_USE_CATEGORY_NONE",
   "itemUseParams": null,
-  "teachesMove": "MOVE_FOCUS_PUNCH"
+  "teachesMove": "MOVE_FOCUS_PUNCH",
+  "name_fr": "CT01",
+  "description_fr": [
+    "Le lanceur se concentre avant\n",
+    "d’attaquer. Echoue s’il est touché\n",
+    "avant d’avoir frappé."
+  ],
+  "plural_fr": "CT01",
+  "article_fr": null
 }

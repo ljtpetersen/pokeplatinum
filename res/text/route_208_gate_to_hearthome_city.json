@@ -7,6 +7,11 @@
         "Hearthome City is a great place.\r",
         "Every year, it gets voted the most\n",
         "desirable place to live in Sinnoh."
+      ],
+      "fr_FR": [
+        "Unionpolis est un endroit génial.\r",
+        "Chaque année, elle est élue ville la\n",
+        "plus agréable de Sinnoh."
       ]
     },
     {
@@ -16,11 +21,18 @@
         "say this: Pokémon Contests!\r",
         "I’m going to enter my darling\n",
         "Pokémon in them!"
+      ],
+      "fr_FR": [
+        "Quand on me dit Unionpolis, je réponds\n",
+        "tout de go: Concours Pokémon!\r",
+        "Je vais d’ailleurs y inscrire mes\n",
+        "Pokémon chéris!"
       ]
     },
     {
       "id": "Route208GateToHearthomeCity_Text_ClefairyCryPippii",
-      "en_US": "CLEFAIRY: Pippii?!"
+      "en_US": "CLEFAIRY: Pippii?!",
+      "fr_FR": "MELOFEE: Mélomélo?!"
     }
   ]
 }

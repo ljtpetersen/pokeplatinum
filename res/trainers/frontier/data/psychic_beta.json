@@ -45,6 +45,10 @@
             "en_US": [
                 "Fwazzam!\n",
                 "So! You are my next victim!"
+            ],
+            "fr_FR": [
+                "Ooooooooommmmmmm!\n",
+                "Ainsi soit-il, tu es ma prochaine victime."
             ]
         },
         {
@@ -52,6 +56,10 @@
             "en_US": [
                 "Fwazzam!\n",
                 "Have you no spine?!\r"
+            ],
+            "fr_FR": [
+                "Oooooooooooommmmmm!\n",
+                "Ce n’était pas trop douloureux?\r"
             ]
         },
         {
@@ -59,7 +67,12 @@
             "en_US": [
                 "Fwizzle...\n",
                 "Don’t think there will be a next time!"
+            ],
+            "fr_FR": [
+                "Oooooooooommmmmm!\n",
+                "Ça ira pour cette fois!"
             ]
         }
-    ]
+    ],
+    "name_fr": "Beta"
 }

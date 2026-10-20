@@ -15,6 +15,19 @@
         "at them and then pull you under!\r",
         "Victory will be ours!\n",
         "Come on, let’s get it done!\r"
+      ],
+      "fr_FR": [
+        "Bienvenue!\n",
+        "C’est rare, qu’on me lance un défi!\r",
+        "Tu as l’honneur de t’adresser au\n",
+        "Champion d’Arène de Verchamps!\r",
+        "Eh oui, je suis Lovis le Teigneux!\r",
+        "Mes Pokémon se sont endurcis en\n",
+        "remontant des tourbillons!\r",
+        "Ils encaisseront toutes tes attaques\n",
+        "et te feront boire la tasse!\r",
+        "La victoire nous tend les bras!\n",
+        "Allez, finissons-en!\r"
       ]
     },
     {
@@ -25,6 +38,13 @@
         "But I had a great time battling\n",
         "with you!\r",
         "You’ve earned this!\r"
+      ],
+      "fr_FR": [
+        "On dirait que j’ai coulé\n",
+        "comme une pierre...\r",
+        "Mais j’ai vraiment apprécié\n",
+        "notre combat!\r",
+        "Tu as gagné ceci!\r"
       ]
     },
     {
@@ -32,6 +52,10 @@
       "en_US": [
         "{STRVAR_1 3, 0, 0} received\n",
         "the Fen Badge from Wake!"
+      ],
+      "fr_FR": [
+        "{STRVAR_1 3, 0, 0} obtient le\n",
+        "Badge Palustre de Lovis!"
       ]
     },
     {
@@ -41,6 +65,13 @@
         "hidden move Surf outside of battle.\r",
         "This is a special reward from me in\n",
         "recognition of your team’s power.\r"
+      ],
+      "fr_FR": [
+        "Tu as besoin du Badge Palustre pour\n",
+        "utiliser la capacité secrète Surf en\f",
+        "dehors du combat.\r",
+        "Voici un cadeau de ma part en\n",
+        "l’honneur de ta puissante équipe.\r"
       ]
     },
     {
@@ -52,6 +83,14 @@
         "targets with less than half their\f",
         "HP left.\r",
         "Use it to end battles decisively!"
+      ],
+      "fr_FR": [
+        "Cette {STRVAR_1 8, 0, 0} contient\n",
+        "la capacité {STRVAR_1 6, 1, 0}.\r",
+        "Elle inflige le double de dégâts\n",
+        "aux cibles qui possèdent moins\f",
+        "de la moitié de leurs PV.\r",
+        "Utilise-la pour porter le coup de grâce!"
       ]
     },
     {
@@ -62,6 +101,13 @@
         "Do you want to know how I battle?\n",
         "I battle so I can say I had fun at\f",
         "the end, whether I win or lose!"
+      ],
+      "fr_FR": [
+        "Il y a autant de façons de remporter\n",
+        "la victoire qu’il existe de Dresseurs.\r",
+        "Veux-tu savoir comment je combats?\n",
+        "Je fais tout pour m’amuser sans me\f",
+        "soucier du résultat!"
       ]
     },
     {
@@ -75,6 +121,16 @@
         "or Ground-type Pokémon!\r",
         "But that part I’ll leave up to you!\n",
         "Go and have some good battles!"
+      ],
+      "fr_FR": [
+        "Lovis, le Champion d’Arène... Euh, enfin\n",
+        "Lovis le Teigneux, c’est un maître des\f",
+        "Pokémon de type Eau.\r",
+        "Il faut vraiment être téméraire pour\n",
+        "affronter des types Eau avec des types\f",
+        "Feu ou Sol!\r",
+        "Enfin, c’est toi qui décides!\n",
+        "Va, offre-nous de beaux combats!"
       ]
     },
     {
@@ -89,6 +145,17 @@
         "don’t forget to have fun, too!\r",
         "I think Wake... I mean Crasher Wake,\n",
         "showed you what I mean by fun."
+      ],
+      "fr_FR": [
+        "Oh! {STRVAR_1 3, 0, 0}!\n",
+        "Tu as vaincu le Champion d’Arène!\r",
+        "Alors, c’était comment?\r",
+        "Ça t’a plu de combattre Lovis...\n",
+        "Tu sais, Lovis le Teigneux?\r",
+        "Gagner c’est important, mais il ne faut\n",
+        "jamais oublier de s’amuser!\r",
+        "Lovis... Enfin Lovis le Teigneux, t’a \n",
+        "appris qu’il fallait toujours s’amuser."
       ]
     },
     {
@@ -98,6 +165,12 @@
         "Leader: Crasher Wake\r",
         "Certified Trainers:\n",
         "{STRVAR_1 3, 0, 0}"
+      ],
+      "fr_FR": [
+        "Arène Pokémon de Verchamps\r",
+        "Champion: Lovis le Teigneux\n",
+        "Nouveau Dresseur reconnu:\f",
+        "{STRVAR_1 3, 0, 0}"
       ]
     },
     {
@@ -106,6 +179,13 @@
         "Pastoria City Pokémon Gym\n",
         "Leader: Crasher Wake\r",
         "Certified Trainers:\n",
+        "{STRVAR_1 3, 0, 0}\f",
+        "{STRVAR_1 3, 1, 0}"
+      ],
+      "fr_FR": [
+        "Arène Pokémon de Verchamps\r",
+        "Champion: Lovis le Teigneux\n",
+        "Nouveaux Dresseurs reconnus:\f",
         "{STRVAR_1 3, 0, 0}\f",
         "{STRVAR_1 3, 1, 0}"
       ]

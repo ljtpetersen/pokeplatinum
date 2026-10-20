@@ -23,6 +23,10 @@
             "en_US": [
                 "Ding-ding! Watch out, you!\n",
                 "Or, did you want to battle?\r"
+            ],
+            "fr_FR": [
+                "Ding-ding! Regarde où tu vas!\n",
+                "Oh, tu voulais peut-être m’affronter?\r"
             ]
         },
         {
@@ -31,6 +35,11 @@
                 "Despite all the effort, I’m just spinning\n",
                 "my wheels...\r",
                 "It’s always that way with me!\n"
+            ],
+            "fr_FR": [
+                "J’ai beau faire des efforts, j’ai\n",
+                "l’impression de pédaler dans la semoule!\r",
+                "Quelle déception...\n"
             ]
         },
         {
@@ -38,6 +47,10 @@
             "en_US": [
                 "I might try racing through Cycling\n",
                 "Road in one long shot.\n"
+            ],
+            "fr_FR": [
+                "Je vais essayer de traverser la\n",
+                "Piste Cyclable d’une seule traite.\n"
             ]
         },
         {
@@ -46,7 +59,13 @@
                 "There you are!\r",
                 "I’ve been riding in this spot so I’d\n",
                 "get a rematch with you!\r"
+            ],
+            "fr_FR": [
+                "Ah, te voilà!\r",
+                "Je n’ai pas bougé d’ici, je t’attendais \n",
+                "pour avoir ma revanche!\r"
             ]
         }
-    ]
+    ],
+    "name_fr": "Ken"
 }

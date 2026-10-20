@@ -3,11 +3,13 @@
   "messages": [
     {
       "id": "pl_msg_00000553_00000",
-      "en_US": "Lucas"
+      "en_US": "Lucas",
+      "fr_FR": "Louka"
     },
     {
       "id": "pl_msg_00000553_00001",
-      "en_US": "Dawn"
+      "en_US": "Dawn",
+      "fr_FR": "Aurore"
     }
   ]
 }

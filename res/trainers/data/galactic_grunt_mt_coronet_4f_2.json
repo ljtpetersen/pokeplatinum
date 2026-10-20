@@ -33,6 +33,11 @@
                 "Team Galactic is all powerful!\r",
                 "Only a fool would show defiance to\n",
                 "the mighty might of Team Galactic!\r"
+            ],
+            "fr_FR": [
+                "La Team Galaxie est toute puissante!\r",
+                "Il faudrait être fou pour oser défier\n",
+                "la Team Galaxie!\r"
             ]
         },
         {
@@ -40,6 +45,10 @@
             "en_US": [
                 "Not standing up to the mighty is\n",
                 "foolish, you say...\n"
+            ],
+            "fr_FR": [
+                "Ne pas s’opposer aux puissants est\n",
+                "pure folie, dis-tu...\n"
             ]
         },
         {
@@ -49,7 +58,14 @@
                 "or a kid if you have Pokémon...\r",
                 "Pokémon are the equalizers.\n",
                 "I should have realized sooner..."
+            ],
+            "fr_FR": [
+                "Peu importe que tu sois un adulte ou un\n",
+                "enfant, si tu as des Pokémon...\r",
+                "Les Pokémon mettent à égalité.\n",
+                "J’aurais dû le réaliser plus tôt..."
             ]
         }
-    ]
+    ],
+    "name_fr": "Sbire"
 }

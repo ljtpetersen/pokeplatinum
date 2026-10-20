@@ -27,5 +27,12 @@
   "fieldUseFunc": "ITEM_USE_FUNC_TM_HM",
   "battleUseCategory": "BATTLE_USE_CATEGORY_NONE",
   "itemUseParams": null,
-  "teachesMove": "MOVE_SLEEP_TALK"
+  "teachesMove": "MOVE_SLEEP_TALK",
+  "name_fr": "CT82",
+  "description_fr": [
+    "Le lanceur utilise un coup au hasard en\n",
+    "dormant."
+  ],
+  "plural_fr": "CT82",
+  "article_fr": null
 }

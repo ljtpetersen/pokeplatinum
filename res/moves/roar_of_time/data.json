@@ -26,5 +26,13 @@
     "contest": {
         "effect": "CONTEST_EFFECT_MAX_VOLTAGE_ADVANTAGE",
         "type": "CONTEST_TYPE_COOL"
-    }
+    },
+    "name_fr": "Hurle-Temps",
+    "description_fr": [
+        "Le lanceur frappe\n",
+        "si fort qu’il affecte\n",
+        "le cours du temps.\n",
+        "Il se repose au\n",
+        "tour suivant."
+    ]
 }

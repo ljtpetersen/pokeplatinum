@@ -57,6 +57,10 @@
             "en_US": [
                 "They say I have fists of steel and the\n",
                 "heart of a child."
+            ],
+            "fr_FR": [
+                "On dit que j’ai des poings d’acier et\n",
+                "le cœur d’un enfant."
             ]
         },
         {
@@ -64,6 +68,10 @@
             "en_US": [
                 "Oh, yay! Yippee!\n",
                 "I won, I won!\r"
+            ],
+            "fr_FR": [
+                "Ouais! Trop cool!\n",
+                "J’ai gagné, j’ai gagné!\r"
             ]
         },
         {
@@ -71,7 +79,12 @@
             "en_US": [
                 "Oh, boo! Boo! This stinks!\n",
                 "I’m not talking to you!\r"
+            ],
+            "fr_FR": [
+                "Mais, euh... Bouh! C’est nul!\n",
+                "Je te parle plus!\r"
             ]
         }
-    ]
+    ],
+    "name_fr": "Marvin"
 }

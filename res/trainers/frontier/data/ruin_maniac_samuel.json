@@ -47,6 +47,10 @@
             "en_US": [
                 "When I was younger, I went out on digs\n",
                 "chasing rumors of hidden treasures."
+            ],
+            "fr_FR": [
+                "Quand j’étais plus jeune, je suis parti\n",
+                "en quête de bien des trésors oubliés."
             ]
         },
         {
@@ -54,6 +58,10 @@
             "en_US": [
                 "Of course, there are no such things.\n",
                 "But it’s about chasing a dream.\r"
+            ],
+            "fr_FR": [
+                "Evidemment, je n’ai rien trouvé. Mais\n",
+                "l’important, c’est d’y croire.\r"
             ]
         },
         {
@@ -61,7 +69,12 @@
             "en_US": [
                 "Well, it sure left huge holes...\n",
                 "In the ground and in my bank account.\r"
+            ],
+            "fr_FR": [
+                "Ma dernière expédition fut très dure.\n",
+                "Surtout pour mon compte en banque.\r"
             ]
         }
-    ]
+    ],
+    "name_fr": "Siméon"
 }

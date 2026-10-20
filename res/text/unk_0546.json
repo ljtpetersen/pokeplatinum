@@ -3,51 +3,63 @@
   "messages": [
     {
       "id": "pl_msg_00000546_00000",
-      "en_US": "BGM"
+      "en_US": "BGM",
+      "fr_FR": "BGM"
     },
     {
       "id": "pl_msg_00000546_00001",
-      "en_US": "ME"
+      "en_US": "ME",
+      "fr_FR": "ME"
     },
     {
       "id": "pl_msg_00000546_00002",
-      "en_US": "SE"
+      "en_US": "SE",
+      "fr_FR": "SE"
     },
     {
       "id": "pl_msg_00000546_00003",
-      "en_US": "PV"
+      "en_US": "PV",
+      "fr_FR": "PV"
     },
     {
       "id": "pl_msg_00000546_00004",
-      "en_US": "Sound Test"
+      "en_US": "Sound Test",
+      "fr_FR": "Sound Test"
     },
     {
       "id": "pl_msg_00000546_00005",
-      "en_US": "A PLAY"
+      "en_US": "A PLAY",
+      "fr_FR": "A PLAY"
     },
     {
       "id": "pl_msg_00000546_00006",
-      "en_US": "B STOP"
+      "en_US": "B STOP",
+      "fr_FR": "B STOP"
     },
     {
       "id": "pl_msg_00000546_00007",
-      "en_US": "X END"
+      "en_US": "X END",
+      "fr_FR": "X END"
     },
     {
       "id": "pl_msg_00000546_00008",
-      "en_US": "Y INIT"
+      "en_US": "Y INIT",
+      "fr_FR": "Y INIT"
     },
     {
       "id": "pl_msg_00000546_00009",
-      "en_US": "PLAYER"
+      "en_US": "PLAYER",
+      "fr_FR": "PLAYER"
     },
     {
       "id": "pl_msg_00000546_00010",
-      "en_US": "KEY"
+      "en_US": "KEY",
+      "fr_FR": "KEY"
     },
     {
       "id": "pl_msg_00000546_00011",
-      "en_US": "TMP"
+      "en_US": "TMP",
+      "fr_FR": "TMP"
     }
   ]
 }

@@ -7,7 +7,10 @@
         "special_attack": 40,
         "special_defense": 40
     },
-    "types": [ "TYPE_POISON", "TYPE_POISON" ],
+    "types": [
+        "TYPE_POISON",
+        "TYPE_POISON"
+    ],
     "catch_rate": 235,
     "base_exp_reward": 60,
     "ev_yields": {
@@ -26,27 +29,72 @@
     "hatch_cycles": 20,
     "base_friendship": 70,
     "exp_rate": "EXP_RATE_MEDIUM_SLOW",
-    "egg_groups": [ "EGG_GROUP_MONSTER", "EGG_GROUP_FIELD" ],
-    "abilities": [ "ABILITY_POISON_POINT", "ABILITY_RIVALRY" ],
+    "egg_groups": [
+        "EGG_GROUP_MONSTER",
+        "EGG_GROUP_FIELD"
+    ],
+    "abilities": [
+        "ABILITY_POISON_POINT",
+        "ABILITY_RIVALRY"
+    ],
     "safari_flee_rate": 0,
     "body_color": "MON_COLOR_PURPLE",
     "flip_sprite": false,
     "icon_palette": 2,
     "learnset": {
         "by_level": [
-            [ 1, "MOVE_LEER" ],
-            [ 1, "MOVE_PECK" ],
-            [ 7, "MOVE_FOCUS_ENERGY" ],
-            [ 9, "MOVE_DOUBLE_KICK" ],
-            [ 13, "MOVE_POISON_STING" ],
-            [ 19, "MOVE_FURY_ATTACK" ],
-            [ 21, "MOVE_HORN_ATTACK" ],
-            [ 25, "MOVE_HELPING_HAND" ],
-            [ 31, "MOVE_TOXIC_SPIKES" ],
-            [ 33, "MOVE_FLATTER" ],
-            [ 37, "MOVE_POISON_JAB" ],
-            [ 43, "MOVE_CAPTIVATE" ],
-            [ 45, "MOVE_HORN_DRILL" ]
+            [
+                1,
+                "MOVE_LEER"
+            ],
+            [
+                1,
+                "MOVE_PECK"
+            ],
+            [
+                7,
+                "MOVE_FOCUS_ENERGY"
+            ],
+            [
+                9,
+                "MOVE_DOUBLE_KICK"
+            ],
+            [
+                13,
+                "MOVE_POISON_STING"
+            ],
+            [
+                19,
+                "MOVE_FURY_ATTACK"
+            ],
+            [
+                21,
+                "MOVE_HORN_ATTACK"
+            ],
+            [
+                25,
+                "MOVE_HELPING_HAND"
+            ],
+            [
+                31,
+                "MOVE_TOXIC_SPIKES"
+            ],
+            [
+                33,
+                "MOVE_FLATTER"
+            ],
+            [
+                37,
+                "MOVE_POISON_JAB"
+            ],
+            [
+                43,
+                "MOVE_CAPTIVATE"
+            ],
+            [
+                45,
+                "MOVE_HORN_DRILL"
+            ]
         ],
         "by_tm": [
             "TM03",
@@ -137,6 +185,7 @@
         "fr": {
             "name": "NIDORAN♂",
             "category": "Pokémon Venepic",
+            "category_fr": "Pokémon Vénépic",
             "entry_text": [
                 "Il jauge le terrain en laissant\n",
                 "ses oreilles dépasser de l’herbe.\n",
@@ -177,6 +226,18 @@
                 "くさむらの　うえに　みみだけ　だして\n",
                 "まわりの　けはいを　さぐる。\n",
                 "もうどくの　ツノで　みを　まもる。"
+            ]
+        },
+        "local_version": {
+            "entry_text": [
+                "It scans its surroundings by\n",
+                "raising its ears out of the grass.\n",
+                "Its toxic horn is for protection."
+            ],
+            "entry_text_fr": [
+                "Il jauge le terrain en laissant\n",
+                "ses oreilles dépasser de l’herbe.\n",
+                "Il se défend avec sa corne toxique."
             ]
         }
     },

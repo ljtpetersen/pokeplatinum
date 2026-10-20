@@ -3,43 +3,53 @@
   "messages": [
     {
       "id": "pl_msg_00000658_00000",
-      "en_US": "Yes"
+      "en_US": "Yes",
+      "fr_FR": "Oui"
     },
     {
       "id": "pl_msg_00000658_00001",
-      "en_US": "Yes"
+      "en_US": "Yes",
+      "fr_FR": "Oui"
     },
     {
       "id": "pl_msg_00000658_00002",
-      "en_US": "Its cuteness"
+      "en_US": "Its cuteness",
+      "fr_FR": "Sa grâce"
     },
     {
       "id": "pl_msg_00000658_00003",
-      "en_US": "Yes"
+      "en_US": "Yes",
+      "fr_FR": "Oui"
     },
     {
       "id": "pl_msg_00000658_00004",
-      "en_US": "All of them"
+      "en_US": "All of them",
+      "fr_FR": "A tous"
     },
     {
       "id": "pl_msg_00000658_00005",
-      "en_US": "As a child"
+      "en_US": "As a child",
+      "fr_FR": "Enfant"
     },
     {
       "id": "pl_msg_00000658_00006",
-      "en_US": "Grass type"
+      "en_US": "Grass type",
+      "fr_FR": "Plante"
     },
     {
       "id": "pl_msg_00000658_00007",
-      "en_US": "Attack first"
+      "en_US": "Attack first",
+      "fr_FR": "Offensive"
     },
     {
       "id": "pl_msg_00000658_00008",
-      "en_US": "Parents"
+      "en_US": "Parents",
+      "fr_FR": "Parents"
     },
     {
       "id": "pl_msg_00000658_00009",
-      "en_US": "Yes"
+      "en_US": "Yes",
+      "fr_FR": "Oui"
     }
   ]
 }

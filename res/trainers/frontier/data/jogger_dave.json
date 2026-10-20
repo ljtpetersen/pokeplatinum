@@ -59,6 +59,10 @@
             "en_US": [
                 "Howdy! Let’s keep it clean, fair,\n",
                 "refreshing, and pleasant!"
+            ],
+            "fr_FR": [
+                "Salut! Battons-nous pour\n",
+                "la beauté du sport!"
             ]
         },
         {
@@ -66,6 +70,10 @@
             "en_US": [
                 "Whew, I feel invigorated!\n",
                 "Pokémon are the greatest!\r"
+            ],
+            "fr_FR": [
+                "Excellent! Je suis satisfait!\n",
+                "C’était un vrai plaisir!\r"
             ]
         },
         {
@@ -73,7 +81,12 @@
             "en_US": [
                 "Uh, haha...ha... It actually feels kinda\n",
                 "cleansing to be thrashed this badly.\r"
+            ],
+            "fr_FR": [
+                "Oh, euh... Quelle déception... Disons\n",
+                "que j’ai perdu... en beauté!\r"
             ]
         }
-    ]
+    ],
+    "name_fr": "David"
 }

@@ -40,5 +40,13 @@
     "bitterness": 0,
     "sourness": 10,
     "smoothness": 25
-  }
+  },
+  "name_fr": "Baie Willia",
+  "description_fr": [
+    "Ingrédient pour Poffin.\n",
+    "Utilisée ou tenue, cette Baie dégèle\n",
+    "les Pokémon."
+  ],
+  "plural_fr": "Baie Willia",
+  "article_fr": null
 }

@@ -33,6 +33,10 @@
             "en_US": [
                 "My room is always full of bugs.\n",
                 "That drives my mom just wild."
+            ],
+            "fr_FR": [
+                "Ma chambre est toujours pleine\n",
+                "d’insectes. Ma mère n’aime pas trop ça."
             ]
         },
         {
@@ -40,6 +44,10 @@
             "en_US": [
                 "I want to collect more bug Pokémon for\n",
                 "my bug appreciation station.\r"
+            ],
+            "fr_FR": [
+                "Je collectionne les Pokémon de type\n",
+                "Insecte pour créer une réserve.\r"
             ]
         },
         {
@@ -47,7 +55,12 @@
             "en_US": [
                 "Bugs are loose under my shirt.\n",
                 "I’m starting to itch...\r"
+            ],
+            "fr_FR": [
+                "Hé, je crois qu’un de mes\n",
+                "insectes vient de me piquer...\r"
             ]
         }
-    ]
+    ],
+    "name_fr": "Colas"
 }

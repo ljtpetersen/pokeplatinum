@@ -3,75 +3,93 @@
   "messages": [
     {
       "id": "pl_msg_00000388_00000",
-      "en_US": "Dress Up"
+      "en_US": "Dress Up",
+      "fr_FR": "Habillage"
     },
     {
       "id": "pl_msg_00000388_00001",
-      "en_US": "Ranch"
+      "en_US": "Ranch",
+      "fr_FR": "Ranch"
     },
     {
       "id": "pl_msg_00000388_00002",
-      "en_US": "City at Night"
+      "en_US": "City at Night",
+      "fr_FR": "Ville de Nuit"
     },
     {
       "id": "pl_msg_00000388_00003",
-      "en_US": "Snowy Town"
+      "en_US": "Snowy Town",
+      "fr_FR": "Ville Enneigée"
     },
     {
       "id": "pl_msg_00000388_00004",
-      "en_US": "Fiery"
+      "en_US": "Fiery",
+      "fr_FR": "Flammes"
     },
     {
       "id": "pl_msg_00000388_00005",
-      "en_US": "Outer Space"
+      "en_US": "Outer Space",
+      "fr_FR": "Espace"
     },
     {
       "id": "pl_msg_00000388_00006",
-      "en_US": "Cumulus Cloud"
+      "en_US": "Cumulus Cloud",
+      "fr_FR": "Cumulus"
     },
     {
       "id": "pl_msg_00000388_00007",
-      "en_US": "Desert"
+      "en_US": "Desert",
+      "fr_FR": "Désert"
     },
     {
       "id": "pl_msg_00000388_00008",
-      "en_US": "Flower Patch"
+      "en_US": "Flower Patch",
+      "fr_FR": "Pré Fleuri"
     },
     {
       "id": "pl_msg_00000388_00009",
-      "en_US": "Future Room"
+      "en_US": "Future Room",
+      "fr_FR": "Pièce Futur"
     },
     {
       "id": "pl_msg_00000388_00010",
-      "en_US": "Open Sea"
+      "en_US": "Open Sea",
+      "fr_FR": "Pleine Mer"
     },
     {
       "id": "pl_msg_00000388_00011",
-      "en_US": "Total Darkness"
+      "en_US": "Total Darkness",
+      "fr_FR": "Dans les Ténèbres"
     },
     {
       "id": "pl_msg_00000388_00012",
-      "en_US": "Tatami Room"
+      "en_US": "Tatami Room",
+      "fr_FR": "Salle Tatami"
     },
     {
       "id": "pl_msg_00000388_00013",
-      "en_US": "Gingerbread Room"
+      "en_US": "Gingerbread Room",
+      "fr_FR": "Pain d’Epices"
     },
     {
       "id": "pl_msg_00000388_00014",
-      "en_US": "Seafloor"
+      "en_US": "Seafloor",
+      "fr_FR": "Fonds Marins"
     },
     {
       "id": "pl_msg_00000388_00015",
-      "en_US": "Underground"
+      "en_US": "Underground",
+      "fr_FR": "Souterrain"
     },
     {
       "id": "pl_msg_00000388_00016",
-      "en_US": "Sky"
+      "en_US": "Sky",
+      "fr_FR": "Ciel"
     },
     {
       "id": "pl_msg_00000388_00017",
-      "en_US": "Theater"
+      "en_US": "Theater",
+      "fr_FR": "Théâtre"
     }
   ]
 }

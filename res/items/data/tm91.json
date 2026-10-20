@@ -27,5 +27,13 @@
   "fieldUseFunc": "ITEM_USE_FUNC_TM_HM",
   "battleUseCategory": "BATTLE_USE_CATEGORY_NONE",
   "itemUseParams": null,
-  "teachesMove": "MOVE_FLASH_CANNON"
+  "teachesMove": "MOVE_FLASH_CANNON",
+  "name_fr": "CT91",
+  "description_fr": [
+    "Le lanceur concentre son énergie\n",
+    "lumineuse et la fait exploser. Peut\n",
+    "aussi baisser la Déf. Spé. de l’ennemi."
+  ],
+  "plural_fr": "CT91",
+  "article_fr": null
 }

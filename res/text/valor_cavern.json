@@ -8,6 +8,12 @@
         "a hitch. The boss should be pleased.\r",
         "Everything is for everyone, and\n",
         "for the good of Team Galactic!\r"
+      ],
+      "fr_FR": [
+        "La mission progresse sans accroc.\n",
+        "Le chef devrait être satisfait.\r",
+        "Nous œuvrons pour le bien du\n",
+        "peuple et de la Team Galaxie!\r"
       ]
     },
     {
@@ -22,6 +28,17 @@
         "Team Galactic must be crushed!\r",
         "Even the very thought of opposition\n",
         "will not be tolerated!\r"
+      ],
+      "fr_FR": [
+        "Je reconnais ce visage!\r",
+        "C’est toi qui as attaqué le bâtiment\n",
+        "de la Team Galaxie à Vestigion!\r",
+        "Pff! Jupiter devrait avoir honte,\n",
+        "tu es si jeune.\r",
+        "Mais tous ceux qui résistent\n",
+        "à la Team Galaxie seront détruits!\r",
+        "La seule pensée de résistance ne\n",
+        "saurait être tolérée!\r"
       ]
     },
     {
@@ -38,17 +55,35 @@
         "entirely new universe!\r",
         "By now, Mars should have captured\n",
         "the Pokémon of Lake Verity...\r"
+      ],
+      "fr_FR": [
+        "Gah! Même moi, un Commandant, je ne\n",
+        "peux que te retarder?\r",
+        "Enfin, ce n’est pas grave.\r",
+        "Tu es trop jeune, tu ne pourras jamais\n",
+        "inverser le flot du temps!\r",
+        "La Team Galaxie trouvera les trois\n",
+        "Pokémon légendaires des lacs!\r",
+        "Grâce à leurs pouvoirs, nous\n",
+        "fabriquerons un nouvel univers!\r",
+        "A l’heure qu’il est, Mars doit avoir\n",
+        "capturé le Pokémon du Lac Vérité...\r"
       ]
     },
     {
       "id": "ValorCavern_Text_AzelfCry",
-      "en_US": "Kyuuun...\r"
+      "en_US": "Kyuuun...\r",
+      "fr_FR": "Crééééé...\r"
     },
     {
       "id": "ValorCavern_Text_AzelfDisappeared",
       "en_US": [
         "AZELF disappeared deep into\n",
         "the cavern..."
+      ],
+      "fr_FR": [
+        "CREFADET a disparu au plus profond de\n",
+        "la caverne..."
       ]
     }
   ]

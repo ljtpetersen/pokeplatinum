@@ -26,5 +26,13 @@
   "battlePocket": "BATTLE_POCKET_MASK_NONE",
   "fieldUseFunc": "ITEM_USE_FUNC_NONE",
   "battleUseCategory": "BATTLE_USE_CATEGORY_NONE",
-  "itemUseParams": null
+  "itemUseParams": null,
+  "name_fr": "Roche Chaude",
+  "description_fr": [
+    "Objet à tenir augmentant la durée de\n",
+    "la capacité Zénith utilisée par le\n",
+    "porteur."
+  ],
+  "plural_fr": "Roche Chaude",
+  "article_fr": null
 }

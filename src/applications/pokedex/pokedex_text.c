@@ -109,11 +109,11 @@ String *PokedexText_DexEntry(int species, int language, int entryOffset, enum He
     if (index == NUM_LANGUAGES) {
         GF_ASSERT(entryOffset < 1);
         index = species + entryOffset;
-        bankID = TEXT_BANK_SPECIES_POKEDEX_ENTRY_EN;
+        bankID = TEXT_BANK_SPECIES_POKEDEX_ENTRY_LOCAL_VERSION;
     } else {
         const int dexEntryBanks[] = {
             TEXT_BANK_SPECIES_POKEDEX_ENTRY_JP,
-            TEXT_BANK_SPECIES_POKEDEX_ENTRY_UNUSED,
+            TEXT_BANK_SPECIES_POKEDEX_ENTRY_EN,
             TEXT_BANK_SPECIES_POKEDEX_ENTRY_FR,
             TEXT_BANK_SPECIES_POKEDEX_ENTRY_DE,
             TEXT_BANK_SPECIES_POKEDEX_ENTRY_IT,

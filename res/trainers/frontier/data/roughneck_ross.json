@@ -97,6 +97,10 @@
             "en_US": [
                 "There’s no meaning to this battle!\n",
                 "Pokémon should be about love!"
+            ],
+            "fr_FR": [
+                "A quoi bon combattre?\n",
+                "Les Pokémon, c’est l’amour!"
             ]
         },
         {
@@ -104,6 +108,10 @@
             "en_US": [
                 "Battling leaves me empty.\n",
                 "Hug your Pokémon and show your love!\r"
+            ],
+            "fr_FR": [
+                "Les combats m’épuisent.\n",
+                "Je préfère jouer avec mes Pokémon!\r"
             ]
         },
         {
@@ -111,7 +119,12 @@
             "en_US": [
                 "Battling creates nothing.\n",
                 "Hug your Pokémon and show your love!\r"
+            ],
+            "fr_FR": [
+                "Les combats sont destructeurs.\n",
+                "Je préfère jouer avec mes Pokémon!\r"
             ]
         }
-    ]
+    ],
+    "name_fr": "Ross"
 }

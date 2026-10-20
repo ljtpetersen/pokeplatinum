@@ -8,6 +8,13 @@
         "Water, Fire, and Grass?\r",
         "Well, all types have strengths and\n",
         "weaknesses against other types."
+      ],
+      "fr_FR": [
+        "Tu sais que les Pokémon sont classés\n",
+        "par type comme Eau, Feu et Plante? \r",
+        "Eh bien, chaque type a ses propres\n",
+        "forces et faiblesses par rapport\f",
+        "aux autres."
       ]
     },
     {
@@ -17,6 +24,12 @@
         "chat and trade with other people.\r",
         "And that’s not all you can do.\n",
         "Check it out!"
+      ],
+      "fr_FR": [
+        "Dans la Salle Union à l’étage, tu peux\n",
+        "discuter et faire des échanges.\r",
+        "Mais ce n’est pas tout.\n",
+        "Va voir!"
       ]
     },
     {
@@ -30,6 +43,16 @@
         "more and more Pokémon!\r",
         "It’ll make it more fun to check\n",
         "the PC in any Pokémon Center!"
+      ],
+      "fr_FR": [
+        "Tu peux encore attraper des Pokémon si\n",
+        "tu en as déjà six avec toi.\r",
+        "Ils seront transférés automatiquement\n",
+        "sur le PC des Centres Pokémon.\r",
+        "Alors moi, je n’arrête pas\n",
+        "d’attraper des Pokémon!\r",
+        "Comme ça, c’est plus marrant d’allumer\n",
+        "le PC dans un Centre Pokémon!"
       ]
     },
     {
@@ -39,17 +62,32 @@
         "we’re doing?\r",
         "All you have to do is battle with me.\n",
         "Will you do that?"
+      ],
+      "fr_FR": [
+        "Salut, nous sommes en plein tournage.\n",
+        "Ça te dirait de passer à la télé?\r",
+        "Tout ce que tu as à faire, c’est\n",
+        "te battre contre moi. D’accord?"
       ]
     },
     {
       "id": "JubilifeCityPokecenter1F_Text_KinseyBattleAccepted_Unused",
-      "en_US": "Reporter Kinsey’s live interview!\r"
+      "en_US": "Reporter Kinsey’s live interview!\r",
+      "fr_FR": [
+        "Interviewer Célia au cœur\n",
+        "de l’action!\r"
+      ]
     },
     {
       "id": "JubilifeCityPokecenter1F_Text_KinseyBattleDeclined_Unused",
       "en_US": [
         "Unbelievable! Press coverage denied!\n",
         "I find you intriguing, too..."
+      ],
+      "fr_FR": [
+        "Incroyable! Et la liberté de la presse,\n",
+        "dans tout ça?! Il y a quelque chose qui\f",
+        "me chiffonne, chez toi..."
       ]
     },
     {
@@ -59,6 +97,12 @@
         "them honestly with no hidden tricks.\r",
         "It’s like the relationship between\n",
         "Pokémon and Trainers, isn’t it?"
+      ],
+      "fr_FR": [
+        "Pour encourager les gens à se confier,\n",
+        "on s’adresse à eux avec franchise.\r",
+        "Comme le font les Dresseurs avec leurs\n",
+        "Pokémon, n’est-ce pas?"
       ]
     },
     {
@@ -66,6 +110,10 @@
       "en_US": [
         "I’ve spotted a charismatic Trainer!\n",
         "Is it OK to go for the scoop?"
+      ],
+      "fr_FR": [
+        "Dresseur charismatique en vue!\n",
+        "Alors, c’est d’accord pour le scoop?"
       ]
     },
     {
@@ -73,6 +121,11 @@
       "en_US": [
         "As a professional cameraman, I always\n",
         "go for the best shot!\r"
+      ],
+      "fr_FR": [
+        "En tant que caméraman professionnel,\n",
+        "je cherche toujours à obtenir les\f",
+        "meilleures prises!\r"
       ]
     },
     {
@@ -81,6 +134,11 @@
         "That’s a downer...\r",
         "I thought I’d found a Trainer and\n",
         "Pokémon who’d shine on camera."
+      ],
+      "fr_FR": [
+        "Quelle déception...\r",
+        "Moi qui pensais avoir déniché un\n",
+        "Dresseur qui crèverait l’écran..."
       ]
     },
     {
@@ -89,6 +147,11 @@
         "The lively expressions on you and your\n",
         "Pokémon’s faces...\r",
         "It sure makes for some great TV!"
+      ],
+      "fr_FR": [
+        "Toi et ton équipe de Pokémon êtes si\n",
+        "expressifs...\r",
+        "Vous êtes nés pour la caméra!"
       ]
     },
     {
@@ -97,6 +160,11 @@
         "Are we all ready to have some fun?\n",
         "I sure am! Aren’t you having fun?!\f",
         "Let’s make it fun! OK?!"
+      ],
+      "fr_FR": [
+        "Prêts pour un moment de folie?\n",
+        "Moi, je le suis! Pas toi?!\f",
+        "Soyons fous! C’est d’accord?!"
       ]
     },
     {
@@ -104,6 +172,10 @@
       "en_US": [
         "OK, how shall we do this?\n",
         "Shall we do something fantastical?\r"
+      ],
+      "fr_FR": [
+        "OK, comment va-t-on s’y prendre?\n",
+        "Et si on faisait dans le fantastique?\r"
       ]
     },
     {
@@ -111,6 +183,10 @@
       "en_US": [
         "Oh, how shall I say this...?\n",
         "It makes me all lonely, I say..."
+      ],
+      "fr_FR": [
+        "Oh, comment dire...\n",
+        "Je me sens si seul..."
       ]
     },
     {
@@ -119,6 +195,11 @@
         "A clown’s makeup is a face that’s\n",
         "crying while laughing. Mwahahah!\r",
         "It defines what we do!"
+      ],
+      "fr_FR": [
+        "Un maquillage de Bouffon, c’est un\n",
+        "visage qui rit et pleure en même temps.\r",
+        "Tout comme ce que nous faisons!"
       ]
     }
   ]

@@ -8,6 +8,12 @@
         "toughening up.\r",
         "Why not try training in\n",
         "the Oreburgh Mine?"
+      ],
+      "fr_FR": [
+        "Salut! Tes Pokémon auraient besoin de\n",
+        "devenir plus forts.\r",
+        "Pourquoi ne vas-tu pas t’entraîner à\n",
+        "la Mine de Charbourg?"
       ]
     },
     {
@@ -16,6 +22,11 @@
         "I always have a rotten time trying\n",
         "to decide which moves my Pokémon\f",
         "should learn."
+      ],
+      "fr_FR": [
+        "J’ai toujours beaucoup de mal à décider\n",
+        "quelles capacités mes Pokémon\f",
+        "devraient apprendre."
       ]
     },
     {
@@ -23,6 +34,10 @@
       "en_US": [
         "You remind me so much of the time\n",
         "I got my first Pokémon."
+      ],
+      "fr_FR": [
+        "Tu me rappelles moi quand j’ai eu mon\n",
+        "premier Pokémon."
       ]
     }
   ]

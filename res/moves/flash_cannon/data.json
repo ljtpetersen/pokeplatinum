@@ -26,5 +26,13 @@
     "contest": {
         "effect": "CONTEST_EFFECT_FIRST_PERFORMANCE_ADVANTAGE",
         "type": "CONTEST_TYPE_SMART"
-    }
+    },
+    "name_fr": "Luminocanon",
+    "description_fr": [
+        "Le lanceur concentre\n",
+        "son énergie lumineuse\n",
+        "et la fait exploser.\n",
+        "Peut aussi baisser la\n",
+        "Déf. Spé. de l’ennemi."
+    ]
 }

@@ -27,5 +27,13 @@
   "fieldUseFunc": "ITEM_USE_FUNC_TM_HM",
   "battleUseCategory": "BATTLE_USE_CATEGORY_NONE",
   "itemUseParams": null,
-  "teachesMove": "MOVE_ROCK_SMASH"
+  "teachesMove": "MOVE_ROCK_SMASH",
+  "name_fr": "CS06",
+  "description_fr": [
+    "Le lanceur porte un coup dévastateur\n",
+    "à l’ennemi. Permet aussi de briser des\n",
+    "rochers fissurés."
+  ],
+  "plural_fr": "CS06",
+  "article_fr": null
 }

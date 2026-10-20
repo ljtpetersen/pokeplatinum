@@ -41,6 +41,10 @@
             "en_US": [
                 "Check out my physique! The rough\n",
                 "seas sculpted this awesome body!\r"
+            ],
+            "fr_FR": [
+                "Regarde-moi ces muscles! Les mers\n",
+                "démontées m’ont forgé ce corps!\r"
             ]
         },
         {
@@ -48,6 +52,10 @@
             "en_US": [
                 "I’ve got a muscular physique, but\n",
                 "there’s no strength behind it...\n"
+            ],
+            "fr_FR": [
+                "J’ai beau avoir des muscles,\n",
+                "la véritable force me fait défaut...\n"
             ]
         },
         {
@@ -57,6 +65,12 @@
                 "out on the sea...\r",
                 "It strikes an emotional chord with me\n",
                 "somewhere deep down.\n"
+            ],
+            "fr_FR": [
+                "Quand je vois que ton Pokémon accepte\n",
+                "d’utiliser Surf pour toi...\r",
+                "Cela me touche profondément, sans que\n",
+                "je puisse expliquer pourquoi.\n"
             ]
         },
         {
@@ -65,7 +79,14 @@
                 "The rough seas almost drowned...\n",
                 "...I mean, sculpted this awesome body!\r",
                 "Let my chiseled physique inspire you!\r"
+            ],
+            "fr_FR": [
+                "La mer est mauvaise par ici... Cela m’a\n",
+                "permis de sculpter mon corps de rêve!\r",
+                "Ma détermination est inébranlable.\n",
+                "C’est dans les difficultés qu’on mûrit!\r"
             ]
         }
-    ]
+    ],
+    "name_fr": "Pablo"
 }

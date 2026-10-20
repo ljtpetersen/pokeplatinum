@@ -26,5 +26,13 @@
     "contest": {
         "effect": "CONTEST_EFFECT_FIRST_PERFORMANCE_ADVANTAGE",
         "type": "CONTEST_TYPE_BEAUTY"
-    }
+    },
+    "name_fr": "Surf",
+    "description_fr": [
+        "Une énorme vague\n",
+        "s’abat sur le champ\n",
+        "de bataille. Permet\n",
+        "aussi de voyager sur\n",
+        "l’eau."
+    ]
 }

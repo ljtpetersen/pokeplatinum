@@ -11,6 +11,16 @@
         "Cosmic energy for the win!\r",
         "Wouldn’t it be wonderful if we\n",
         "could harness that boundless energy?"
+      ],
+      "fr_FR": [
+        "Bienvenue.\n",
+        "C’est le QG de la Team Ga...\r",
+        "Pardon, c’est le Bâtiment Galaxie\n",
+        "de Voilaroc.\r",
+        "L’énergie cosmique, \n",
+        "c’est trop mythique!\r",
+        "Ça ne serait pas formidable si on \n",
+        "maîtrisait cette énergie inépuisable?"
       ]
     },
     {
@@ -22,6 +32,15 @@
         "Veilstone Building.\r",
         "I’m not certain if it’s a good thing or\n",
         "not, but we have no plans now."
+      ],
+      "fr_FR": [
+        "Bienvenue.\n",
+        "C’est le QG de la Team Ga...\r",
+        "Pardon, c’est le Bâtiment Galaxie\n",
+        "de Voilaroc.\r",
+        "Je ne sais pas si c’est une bonne\n",
+        "chose, mais nous n’avons rien de\f",
+        "prévu pour l’instant."
       ]
     },
     {
@@ -31,6 +50,12 @@
         "the clock here.\r",
         "We focus on the development of new\n",
         "energy resources."
+      ],
+      "fr_FR": [
+        "La Team Galaxie mène des recherches\n",
+        "jour et nuit dans ce bâtiment.\r",
+        "Nous travaillons au développement\n",
+        "de nouvelles sources d’énergie."
       ]
     },
     {
@@ -42,6 +67,14 @@
         "to chase our dream.\r",
         "Our dream of making a wonderful\n",
         "new world!"
+      ],
+      "fr_FR": [
+        "C’est l’endroit où travaille la Team\n",
+        "Galaxie... Que devons-nous faire?\r",
+        "Nous devons poursuivre notre\n",
+        "rêve, par tous les moyens!\r",
+        "Notre rêve de bâtir un nouveau\n",
+        "monde merveilleux!"
       ]
     },
     {
@@ -52,6 +85,13 @@
         "We will eliminate everything that is\n",
         "not needed!\r",
         "That is Team Galactic’s policy!"
+      ],
+      "fr_FR": [
+        "Nous, la Team Galaxie, nous prendrons\n",
+        "tout sans rien donner!\r",
+        "Nous éliminerons tout ce qui\n",
+        "ne nous est pas utile!\r",
+        "C’est notre politique galactique!"
       ]
     },
     {
@@ -64,6 +104,15 @@
         "That is Team Galactic’s policy!\r",
         "At least it used to be.\n",
         "There’s nothing left now..."
+      ],
+      "fr_FR": [
+        "Nous, la Team Galaxie, nous prendrons\n",
+        "tout sans rien donner!\r",
+        "Nous éliminerons tout ce qui\n",
+        "ne nous est pas utile!\r",
+        "C’est notre politique galactique!\r",
+        "Ou plutôt, c’était... Quand on voit ce\n",
+        "qu’il reste de la Team Galaxie..."
       ]
     },
     {
@@ -71,11 +120,19 @@
       "en_US": [
         "You’re too young for us...\n",
         "You can join us when you’re older."
+      ],
+      "fr_FR": [
+        "T’es trop jeune pour nous... Reviens\n",
+        "quand tu auras pris de la bouteille."
       ]
     },
     {
       "id": "GalacticHQ1F_Text_IWonderWhereBossWent",
-      "en_US": "I wonder where our boss went..."
+      "en_US": "I wonder where our boss went...",
+      "fr_FR": [
+        "Je me demande où est passé \n",
+        "notre chef..."
+      ]
     },
     {
       "id": "GalacticHQ1F_Text_WhatToDo",
@@ -104,6 +161,32 @@
         "for new sources of energy.\r",
         "Instead of lying about it through our\n",
         "commercials."
+      ],
+      "fr_FR": [
+        "Saturne: Alors te voilà...\r",
+        "J’ai entendu parler de toi et de ce qui\n",
+        "s’est passé aux Colonnes Lances.\r",
+        "Maître Hélio, notre révéré guide, avait\n",
+        "en horreur la seule idée d’esprit.\r",
+        "Il haïssait son côté incomplet, partiel.\r",
+        "Et pourtant, sa rhétorique imparable\n",
+        "lui a permis de rallier d’autres esprits.\r",
+        "Ainsi, il utilisait ce qu’il détestait le\n",
+        "plus pour contrôler les autres.\r",
+        "C’est ça qui me fascinait chez lui.\n",
+        "J’étais prêt à le suivre où qu’il aille.\r",
+        "Et c’est ce que j’ai fait.\n",
+        "Mais tout est fini à présent.\r",
+        "Un monde dénué d’esprit...\n",
+        "Qui voudrait d’une chose pareille?!\r",
+        "Et maintenant...?\n",
+        "Que faire avec la Team Galaxie?\r",
+        "J’ai réalisé que l’extrémisme n’était\n",
+        "jamais une solution...\r",
+        "Et si nous nous lancions vraiment dans\n",
+        "la recherche d’une énergie nouvelle?\r",
+        "Plutôt que de nous contenter de le\n",
+        "prétendre dans les publicités..."
       ]
     },
     {
@@ -111,6 +194,10 @@
       "en_US": [
         "The door is locked.\n",
         "A special key is needed."
+      ],
+      "fr_FR": [
+        "La porte est fermée.\n",
+        "Elle nécessite une clé spéciale."
       ]
     },
     {
@@ -119,11 +206,17 @@
         "The door is locked.\n",
         "A special key is needed.\r",
         "Use the Galactic Key?"
+      ],
+      "fr_FR": [
+        "La porte est fermée.\n",
+        "Elle nécessite une clé spéciale.\r",
+        "Utiliser la Clé Galaxie?"
       ]
     },
     {
       "id": "GalacticHQ1F_Text_TheDoorOpened",
-      "en_US": "The door opened."
+      "en_US": "The door opened.",
+      "fr_FR": "La porte s’est ouverte."
     },
     {
       "id": "GalacticHQ1F_Text_TeamGalacticCredo",
@@ -132,6 +225,12 @@
         "Everything belongs to Team Galactic!\r",
         "Look beyond the world--space will\n",
         "become Team Galactic’s!"
+      ],
+      "fr_FR": [
+        "Le credo de la Team Galaxie?\n",
+        "Tout appartient à la Team Galaxie!\r",
+        "Nous n’avons que faire du monde...\n",
+        "L’univers nous attend!"
       ]
     }
   ]

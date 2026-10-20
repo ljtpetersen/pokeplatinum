@@ -27,5 +27,13 @@
     "contest": {
         "effect": "CONTEST_EFFECT_LOW_VOLTAGE_ADVANTAGE",
         "type": "CONTEST_TYPE_SMART"
-    }
+    },
+    "name_fr": "Réveil Forcé",
+    "description_fr": [
+        "Cette attaque inflige\n",
+        "d’importants dégâts\n",
+        "à un ennemi endormi.\n",
+        "Mais elle le réveille\n",
+        "également."
+    ]
 }

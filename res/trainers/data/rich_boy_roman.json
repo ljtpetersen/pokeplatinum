@@ -25,7 +25,12 @@
             "en_US": [
                 "I never thought I’d lose at\n",
                 "Papa’s restaurant...\n"
+            ],
+            "fr_FR": [
+                "Je n’aurais jamais imaginé perdre\n",
+                "au restaurant de papa...\n"
             ]
         }
-    ]
+    ],
+    "name_fr": "Nathanaël"
 }

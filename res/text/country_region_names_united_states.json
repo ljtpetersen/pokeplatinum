@@ -3,211 +3,263 @@
   "messages": [
     {
       "id": "pl_msg_00000693_00000",
-      "en_US": "None"
+      "en_US": "None",
+      "fr_FR": "Aucun"
     },
     {
       "id": "pl_msg_00000693_00001",
-      "en_US": "Alabama"
+      "en_US": "Alabama",
+      "fr_FR": "Alabama"
     },
     {
       "id": "pl_msg_00000693_00002",
-      "en_US": "Alaska"
+      "en_US": "Alaska",
+      "fr_FR": "Alaska"
     },
     {
       "id": "pl_msg_00000693_00003",
-      "en_US": "Arizona"
+      "en_US": "Arizona",
+      "fr_FR": "Arizona"
     },
     {
       "id": "pl_msg_00000693_00004",
-      "en_US": "Arkansas"
+      "en_US": "Arkansas",
+      "fr_FR": "Arkansas"
     },
     {
       "id": "pl_msg_00000693_00005",
-      "en_US": "California"
+      "en_US": "California",
+      "fr_FR": "Californie"
     },
     {
       "id": "pl_msg_00000693_00006",
-      "en_US": "Colorado"
+      "en_US": "Colorado",
+      "fr_FR": "Colorado"
     },
     {
       "id": "pl_msg_00000693_00007",
-      "en_US": "Connecticut"
+      "en_US": "Connecticut",
+      "fr_FR": "Connecticut"
     },
     {
       "id": "pl_msg_00000693_00008",
-      "en_US": "Delaware"
+      "en_US": "Delaware",
+      "fr_FR": "Delaware"
     },
     {
       "id": "pl_msg_00000693_00009",
-      "en_US": "Florida"
+      "en_US": "Florida",
+      "fr_FR": "Floride"
     },
     {
       "id": "pl_msg_00000693_00010",
-      "en_US": "Georgia"
+      "en_US": "Georgia",
+      "fr_FR": "Géorgie"
     },
     {
       "id": "pl_msg_00000693_00011",
-      "en_US": "Hawaii"
+      "en_US": "Hawaii",
+      "fr_FR": "Hawaii"
     },
     {
       "id": "pl_msg_00000693_00012",
-      "en_US": "Idaho"
+      "en_US": "Idaho",
+      "fr_FR": "Idaho"
     },
     {
       "id": "pl_msg_00000693_00013",
-      "en_US": "Illinois"
+      "en_US": "Illinois",
+      "fr_FR": "Illinois"
     },
     {
       "id": "pl_msg_00000693_00014",
-      "en_US": "Indiana"
+      "en_US": "Indiana",
+      "fr_FR": "Indiana"
     },
     {
       "id": "pl_msg_00000693_00015",
-      "en_US": "Iowa"
+      "en_US": "Iowa",
+      "fr_FR": "Iowa"
     },
     {
       "id": "pl_msg_00000693_00016",
-      "en_US": "Kansas"
+      "en_US": "Kansas",
+      "fr_FR": "Kansas"
     },
     {
       "id": "pl_msg_00000693_00017",
-      "en_US": "Kentucky"
+      "en_US": "Kentucky",
+      "fr_FR": "Kentucky"
     },
     {
       "id": "pl_msg_00000693_00018",
-      "en_US": "Louisiana"
+      "en_US": "Louisiana",
+      "fr_FR": "Louisiane"
     },
     {
       "id": "pl_msg_00000693_00019",
-      "en_US": "Maine"
+      "en_US": "Maine",
+      "fr_FR": "Maine"
     },
     {
       "id": "pl_msg_00000693_00020",
-      "en_US": "Maryland"
+      "en_US": "Maryland",
+      "fr_FR": "Maryland"
     },
     {
       "id": "pl_msg_00000693_00021",
-      "en_US": "Massachusetts"
+      "en_US": "Massachusetts",
+      "fr_FR": "Massachusetts"
     },
     {
       "id": "pl_msg_00000693_00022",
-      "en_US": "Michigan"
+      "en_US": "Michigan",
+      "fr_FR": "Michigan"
     },
     {
       "id": "pl_msg_00000693_00023",
-      "en_US": "Minnesota"
+      "en_US": "Minnesota",
+      "fr_FR": "Minnesota"
     },
     {
       "id": "pl_msg_00000693_00024",
-      "en_US": "Mississippi"
+      "en_US": "Mississippi",
+      "fr_FR": "Mississippi"
     },
     {
       "id": "pl_msg_00000693_00025",
-      "en_US": "Missouri"
+      "en_US": "Missouri",
+      "fr_FR": "Missouri"
     },
     {
       "id": "pl_msg_00000693_00026",
-      "en_US": "Montana"
+      "en_US": "Montana",
+      "fr_FR": "Montana"
     },
     {
       "id": "pl_msg_00000693_00027",
-      "en_US": "Nebraska"
+      "en_US": "Nebraska",
+      "fr_FR": "Nebraska"
     },
     {
       "id": "pl_msg_00000693_00028",
-      "en_US": "Nevada"
+      "en_US": "Nevada",
+      "fr_FR": "Nevada"
     },
     {
       "id": "pl_msg_00000693_00029",
-      "en_US": "New Hampshire"
+      "en_US": "New Hampshire",
+      "fr_FR": "New Hampshire"
     },
     {
       "id": "pl_msg_00000693_00030",
-      "en_US": "New Jersey"
+      "en_US": "New Jersey",
+      "fr_FR": "New Jersey"
     },
     {
       "id": "pl_msg_00000693_00031",
-      "en_US": "New Mexico"
+      "en_US": "New Mexico",
+      "fr_FR": "Nouveau Mexique"
     },
     {
       "id": "pl_msg_00000693_00032",
-      "en_US": "New York"
+      "en_US": "New York",
+      "fr_FR": "New York"
     },
     {
       "id": "pl_msg_00000693_00033",
-      "en_US": "North Carolina"
+      "en_US": "North Carolina",
+      "fr_FR": "Caroline du Nord"
     },
     {
       "id": "pl_msg_00000693_00034",
-      "en_US": "North Dakota"
+      "en_US": "North Dakota",
+      "fr_FR": "Dakota du Nord"
     },
     {
       "id": "pl_msg_00000693_00035",
-      "en_US": "Ohio"
+      "en_US": "Ohio",
+      "fr_FR": "Ohio"
     },
     {
       "id": "pl_msg_00000693_00036",
-      "en_US": "Oklahoma"
+      "en_US": "Oklahoma",
+      "fr_FR": "Oklahoma"
     },
     {
       "id": "pl_msg_00000693_00037",
-      "en_US": "Oregon"
+      "en_US": "Oregon",
+      "fr_FR": "Oregon"
     },
     {
       "id": "pl_msg_00000693_00038",
-      "en_US": "Pennsylvania"
+      "en_US": "Pennsylvania",
+      "fr_FR": "Pennsylvanie"
     },
     {
       "id": "pl_msg_00000693_00039",
-      "en_US": "Rhode Island"
+      "en_US": "Rhode Island",
+      "fr_FR": "Rhode Island"
     },
     {
       "id": "pl_msg_00000693_00040",
-      "en_US": "South Carolina"
+      "en_US": "South Carolina",
+      "fr_FR": "Caroline du Sud"
     },
     {
       "id": "pl_msg_00000693_00041",
-      "en_US": "South Dakota"
+      "en_US": "South Dakota",
+      "fr_FR": "Dakota du Sud"
     },
     {
       "id": "pl_msg_00000693_00042",
-      "en_US": "Tennessee"
+      "en_US": "Tennessee",
+      "fr_FR": "Tennessee"
     },
     {
       "id": "pl_msg_00000693_00043",
-      "en_US": "Texas"
+      "en_US": "Texas",
+      "fr_FR": "Texas"
     },
     {
       "id": "pl_msg_00000693_00044",
-      "en_US": "Utah"
+      "en_US": "Utah",
+      "fr_FR": "Utah"
     },
     {
       "id": "pl_msg_00000693_00045",
-      "en_US": "Vermont"
+      "en_US": "Vermont",
+      "fr_FR": "Vermont"
     },
     {
       "id": "pl_msg_00000693_00046",
-      "en_US": "Virginia"
+      "en_US": "Virginia",
+      "fr_FR": "Virginie"
     },
     {
       "id": "pl_msg_00000693_00047",
-      "en_US": "Washington"
+      "en_US": "Washington",
+      "fr_FR": "Washington"
     },
     {
       "id": "pl_msg_00000693_00048",
-      "en_US": "Washington, DC "
+      "en_US": "Washington, DC ",
+      "fr_FR": "Washington, DC"
     },
     {
       "id": "pl_msg_00000693_00049",
-      "en_US": "West Virginia"
+      "en_US": "West Virginia",
+      "fr_FR": "Virginie-Occidentale"
     },
     {
       "id": "pl_msg_00000693_00050",
-      "en_US": "Wisconsin"
+      "en_US": "Wisconsin",
+      "fr_FR": "Wisconsin"
     },
     {
       "id": "pl_msg_00000693_00051",
-      "en_US": "Wyoming"
+      "en_US": "Wyoming",
+      "fr_FR": "Wyoming"
     }
   ]
 }

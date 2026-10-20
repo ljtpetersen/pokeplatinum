@@ -21,7 +21,9 @@
     "messages": [
         {
             "type": "TRMSG_DEFEAT",
-            "en_US": "Waaah! You’re too much!\n"
+            "en_US": "Waaah! You’re too much!\n",
+            "fr_FR": "Ouh, là, là! Tu es vraiment trop!\n"
         }
-    ]
+    ],
+    "name_fr": "Ophélie"
 }

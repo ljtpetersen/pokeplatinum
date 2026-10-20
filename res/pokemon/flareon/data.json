@@ -7,7 +7,10 @@
         "special_attack": 95,
         "special_defense": 110
     },
-    "types": [ "TYPE_FIRE", "TYPE_FIRE" ],
+    "types": [
+        "TYPE_FIRE",
+        "TYPE_FIRE"
+    ],
     "catch_rate": 45,
     "base_exp_reward": 198,
     "ev_yields": {
@@ -26,28 +29,76 @@
     "hatch_cycles": 35,
     "base_friendship": 70,
     "exp_rate": "EXP_RATE_MEDIUM_FAST",
-    "egg_groups": [ "EGG_GROUP_FIELD", "EGG_GROUP_FIELD" ],
-    "abilities": [ "ABILITY_FLASH_FIRE", "ABILITY_FLASH_FIRE" ],
+    "egg_groups": [
+        "EGG_GROUP_FIELD",
+        "EGG_GROUP_FIELD"
+    ],
+    "abilities": [
+        "ABILITY_FLASH_FIRE",
+        "ABILITY_FLASH_FIRE"
+    ],
     "safari_flee_rate": 0,
     "body_color": "MON_COLOR_RED",
     "flip_sprite": false,
     "icon_palette": 0,
     "learnset": {
         "by_level": [
-            [ 1, "MOVE_TAIL_WHIP" ],
-            [ 1, "MOVE_TACKLE" ],
-            [ 1, "MOVE_HELPING_HAND" ],
-            [ 8, "MOVE_SAND_ATTACK" ],
-            [ 15, "MOVE_EMBER" ],
-            [ 22, "MOVE_QUICK_ATTACK" ],
-            [ 29, "MOVE_BITE" ],
-            [ 36, "MOVE_FIRE_SPIN" ],
-            [ 43, "MOVE_FIRE_FANG" ],
-            [ 50, "MOVE_LAST_RESORT" ],
-            [ 57, "MOVE_SMOG" ],
-            [ 64, "MOVE_SCARY_FACE" ],
-            [ 71, "MOVE_FIRE_BLAST" ],
-            [ 78, "MOVE_LAVA_PLUME" ]
+            [
+                1,
+                "MOVE_TAIL_WHIP"
+            ],
+            [
+                1,
+                "MOVE_TACKLE"
+            ],
+            [
+                1,
+                "MOVE_HELPING_HAND"
+            ],
+            [
+                8,
+                "MOVE_SAND_ATTACK"
+            ],
+            [
+                15,
+                "MOVE_EMBER"
+            ],
+            [
+                22,
+                "MOVE_QUICK_ATTACK"
+            ],
+            [
+                29,
+                "MOVE_BITE"
+            ],
+            [
+                36,
+                "MOVE_FIRE_SPIN"
+            ],
+            [
+                43,
+                "MOVE_FIRE_FANG"
+            ],
+            [
+                50,
+                "MOVE_LAST_RESORT"
+            ],
+            [
+                57,
+                "MOVE_SMOG"
+            ],
+            [
+                64,
+                "MOVE_SCARY_FACE"
+            ],
+            [
+                71,
+                "MOVE_FIRE_BLAST"
+            ],
+            [
+                78,
+                "MOVE_LAVA_PLUME"
+            ]
         ],
         "by_tm": [
             "TM05",
@@ -91,7 +142,7 @@
             "MOVE_SWIFT"
         ]
     },
-    "evolutions": [  ],
+    "evolutions": [],
     "offspring": "SPECIES_EEVEE",
     "footprint": {
         "has": true,
@@ -114,9 +165,9 @@
             "name": "FLAREON",
             "category": "Flame Pokémon",
             "entry_text": [
-                "Inhaled air is heated in the flame\n",
-                "sac in its body to an intense fire\n",
-                "over 3,000 degrees Fahrenheit."
+                "It has a flame sac in its body.\n",
+                "Its body temperature tops 1,650\n",
+                "degrees Fahrenheit before battle."
             ]
         },
         "fr": {
@@ -162,6 +213,18 @@
                 "たいないに　ほのおぶくろを　もつ。\n",
                 "たたかいが　はじまる　ちょくぜんには\n",
                 "たいおんが　９００どまで　あがる。"
+            ]
+        },
+        "local_version": {
+            "entry_text": [
+                "Inhaled air is heated in the flame\n",
+                "sac in its body to an intense fire\n",
+                "over 3,000 degrees Fahrenheit."
+            ],
+            "entry_text_fr": [
+                "L’air qu’il inspire est chauffé par\n",
+                "la glande enflammée de son corps,\n",
+                "atteignant les 1 700 °C."
             ]
         }
     },

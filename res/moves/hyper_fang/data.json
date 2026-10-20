@@ -26,5 +26,13 @@
     "contest": {
         "effect": "CONTEST_EFFECT_FINAL_PERFORMANCE_ADVANTAGE",
         "type": "CONTEST_TYPE_COOL"
-    }
+    },
+    "name_fr": "Croc de Mort",
+    "description_fr": [
+        "Le lanceur mord\n",
+        "l’ennemi à l’aide de\n",
+        "ses incisives \n",
+        "aiguisées. Peut aussi\n",
+        "apeurer l’ennemi."
+    ]
 }

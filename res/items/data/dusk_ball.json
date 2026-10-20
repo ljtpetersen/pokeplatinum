@@ -26,5 +26,13 @@
   "battlePocket": "BATTLE_POCKET_MASK_POKE_BALLS",
   "fieldUseFunc": "ITEM_USE_FUNC_NONE",
   "battleUseCategory": "BATTLE_USE_CATEGORY_POKE_BALL",
-  "itemUseParams": null
+  "itemUseParams": null,
+  "name_fr": "Sombre Ball",
+  "description_fr": [
+    "Une Poké Ball efficace pour attraper\n",
+    "les Pokémon de nuit ou dans des\n",
+    "endroits sombres tels que les grottes."
+  ],
+  "plural_fr": "Sombre Ball",
+  "article_fr": null
 }

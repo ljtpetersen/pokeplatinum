@@ -26,5 +26,12 @@
     "contest": {
         "effect": "CONTEST_EFFECT_FIRST_PERFORMANCE_ADVANTAGE",
         "type": "CONTEST_TYPE_COOL"
-    }
+    },
+    "name_fr": "Onde de Choc",
+    "description_fr": [
+        "Le lanceur envoie un\n",
+        "choc électrique rapide\n",
+        "à l’ennemi. Impossible\n",
+        "à esquiver."
+    ]
 }

@@ -9,6 +9,12 @@
         "\n",
         "Please turn the power off and\n",
         "reinsert the DS Game Card."
+      ],
+      "fr_FR": [
+        "La sauvegarde a échoué.\n",
+        "\n",
+        "Veuillez éteindre la console, enlever\n",
+        "la carte DS, puis la réinsérer."
       ]
     },
     {
@@ -21,6 +27,15 @@
         "it is impossible to save.\n",
         "\n",
         "Please turn off the power."
+      ],
+      "fr_FR": [
+        "Erreur de sauvegarde.\n",
+        "\n",
+        "La mémoire est endommagée.\n",
+        "Vous pouvez jouer, mais il est\n",
+        "impossible de sauvegarder.\n",
+        "\n",
+        "Veuillez éteindre la console.\n"
       ]
     }
   ]

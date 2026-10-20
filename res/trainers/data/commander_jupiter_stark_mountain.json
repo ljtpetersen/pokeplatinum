@@ -59,7 +59,12 @@
             "en_US": [
                 "Humph! Quit flaunting your toughness!\n",
                 "It’s not cute in the least!\n"
+            ],
+            "fr_FR": [
+                "Bah! Pas la peine de frimer!\n",
+                "C’est d’un mauvais goût...\n"
             ]
         }
-    ]
+    ],
+    "name_fr": "Jupiter"
 }

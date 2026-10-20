@@ -26,6 +26,13 @@
                 "operation at the summit.\r",
                 "Two, utterly destroy any intruders\n",
                 "to stop their meddling!\r"
+            ],
+            "fr_FR": [
+                "Ici, les sbires ont deux tâches.\r",
+                "La première, c’est de s’assurer du\n",
+                "succès de notre opération au sommet.\r",
+                "Et la deuxième, de se débarrasser\n",
+                "de tout intrus tentant d’intervenir!\r"
             ]
         },
         {
@@ -33,6 +40,10 @@
             "en_US": [
                 "I don’t accept this!\n",
                 "I will not accept this!\n"
+            ],
+            "fr_FR": [
+                "Je refuse! \n",
+                "Je n’accepterai jamais une telle chose!\n"
             ]
         },
         {
@@ -41,7 +52,13 @@
                 "Join Team Galactic and then abide\n",
                 "by our rules.\r",
                 "That would solve all our problems!\n"
+            ],
+            "fr_FR": [
+                "Rejoins la Team Galaxie,\n",
+                "suis notre règlement.\r",
+                "Cela résoudrait tous nos problèmes!\n"
             ]
         }
-    ]
+    ],
+    "name_fr": "Sbire"
 }

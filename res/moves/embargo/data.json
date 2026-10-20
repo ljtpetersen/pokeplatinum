@@ -25,5 +25,13 @@
     "contest": {
         "effect": "CONTEST_EFFECT_SUPPRESS_VOLTAGE",
         "type": "CONTEST_TYPE_CUTE"
-    }
+    },
+    "name_fr": "Embargo",
+    "description_fr": [
+        "Empêche l’ennemi\n",
+        "d’utiliser un objet\n",
+        "tenu et son Dresseur\n",
+        "d’utiliser un objet\n",
+        "sur lui."
+    ]
 }

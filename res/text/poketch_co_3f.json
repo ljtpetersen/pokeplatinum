@@ -7,6 +7,11 @@
         "Do you have a Pokétch?\r",
         "There’s a girl’s model and a boy’s\n",
         "model, each in different colors."
+      ],
+      "fr_FR": [
+        "As-tu une Pokémontre?\r",
+        "Il y a deux modèles, fille et garçon,\n",
+        "chacun d’une couleur différente."
       ]
     },
     {
@@ -17,6 +22,13 @@
         "where he made what he liked.\r",
         "Now we’re making something that makes\n",
         "the world happy. Imagine that!"
+      ],
+      "fr_FR": [
+        "Mon mari est le président.\r",
+        "Nous avons démarré dans un petit\n",
+        "atelier où il faisait ce qu’il aimait.\r",
+        "Désormais, nous créons des objets qui\n",
+        "rendent les gens heureux. C’est fou!"
       ]
     },
     {
@@ -27,6 +39,14 @@
         "surprising sources.\r",
         "The PCs here have guides on the\n",
         "various Pokétch apps."
+      ],
+      "fr_FR": [
+        "Plein de gens créent des logiciels\n",
+        "Pokémontre.\r",
+        "Tu pourras en obtenir de nouveaux de\n",
+        "sources surprenantes.\r",
+        "Nos PC contiennent des explications sur\n",
+        "les différents logiciels Pokémontre."
       ]
     },
     {
@@ -34,6 +54,10 @@
       "en_US": [
         "There are descriptions of Pokétch\n",
         "apps.\r"
+      ],
+      "fr_FR": [
+        "Il y a des explications sur les logiciels\n",
+        "Pokémontre.\r"
       ]
     },
     {
@@ -41,6 +65,10 @@
       "en_US": [
         "Which Pokétch app would\n",
         "you like to read about?"
+      ],
+      "fr_FR": [
+        "Quelles explications souhaitez-vous\n",
+        "lire?"
       ]
     },
     {
@@ -48,6 +76,10 @@
       "en_US": [
         "There are descriptions of Pokétch\n",
         "apps.\r"
+      ],
+      "fr_FR": [
+        "Il y a des explications sur les logiciels\n",
+        "Pokémontre.\r"
       ]
     },
     {
@@ -55,6 +87,10 @@
       "en_US": [
         "Which Pokétch app would\n",
         "you like to read about?"
+      ],
+      "fr_FR": [
+        "Quelles explications souhaitez-vous\n",
+        "lire?"
       ]
     },
     {
@@ -62,6 +98,10 @@
       "en_US": [
         "There are descriptions of Pokétch\n",
         "apps.\r"
+      ],
+      "fr_FR": [
+        "Il y a des explications sur les logiciels\n",
+        "Pokémontre.\r"
       ]
     },
     {
@@ -69,6 +109,10 @@
       "en_US": [
         "Which Pokétch app would you like\n",
         "to read about?"
+      ],
+      "fr_FR": [
+        "Quelles explications souhaitez-vous\n",
+        "lire?"
       ]
     },
     {
@@ -76,6 +120,10 @@
       "en_US": [
         "There are descriptions of Pokétch\n",
         "apps.\r"
+      ],
+      "fr_FR": [
+        "Il y a des explications sur les logiciels\n",
+        "Pokémontre.\r"
       ]
     },
     {
@@ -83,6 +131,10 @@
       "en_US": [
         "Which Pokétch app would you like\n",
         "to read about?"
+      ],
+      "fr_FR": [
+        "Quelles explications souhaitez-vous\n",
+        "lire?"
       ]
     },
     {
@@ -92,6 +144,11 @@
         "current time.\r",
         "Don’t be late for meetings with\n",
         "your friends!\r"
+      ],
+      "fr_FR": [
+        "La Montre Digitale affiche l’heure.\r",
+        "Ne soyez pas en retard aux rendez-vous\n",
+        "avec vos amis!\r"
       ]
     },
     {
@@ -101,6 +158,11 @@
         "current time.\r",
         "The short hand indicates the hour,\n",
         "and the long hand shows the minute!\r"
+      ],
+      "fr_FR": [
+        "La Montre Analogique affiche l’heure.\r",
+        "La petite aiguille indique les heures et\n",
+        "la grande aiguille les minutes!\r"
       ]
     },
     {
@@ -110,6 +172,12 @@
         "every 24 hours.\r",
         "Set the alarm time with the lower\n",
         "button. The top button turns it on.\r"
+      ],
+      "fr_FR": [
+        "Le Réveil peut être programmé pour\n",
+        "sonner toutes les 24 heures.\r",
+        "Programmez l’heure avec le bouton du\n",
+        "bas. Celui du haut actionne le Réveil.\r"
       ]
     },
     {
@@ -119,6 +187,12 @@
         "time precisely.\r",
         "How quickly can you zip through\n",
         "the Cycling Road?\r"
+      ],
+      "fr_FR": [
+        "Le Chronomètre est utilisé pour\n",
+        "mesurer le temps avec précision.\r",
+        "Voyez combien de temps vous mettez\n",
+        "pour dévaler la Piste Cyclable!\r"
       ]
     },
     {
@@ -128,6 +202,12 @@
         "up to 99 minutes, but not precisely.\r",
         "Set the time with the center button,\n",
         "then start the countdown.\r"
+      ],
+      "fr_FR": [
+        "Le Minuteur peut compter à rebours sur\n",
+        "99 minutes, mais n’est pas très précis.\r",
+        "Choisissez le temps avec le bouton du\n",
+        "centre et lancez le compte à rebours.\r"
       ]
     },
     {
@@ -137,6 +217,13 @@
         "a note of important dates.\r",
         "Touch any date to change its color.\n",
         "Touch it again to turn it back.\r"
+      ],
+      "fr_FR": [
+        "Utilisez le Calendrier mensuel pour\n",
+        "noter les dates importantes.\r",
+        "Touchez une date pour qu’elle change\n",
+        "de couleur. Touchez-la à nouveau pour\f",
+        "lui rendre sa couleur d’origine.\r"
       ]
     },
     {
@@ -146,6 +233,12 @@
         "ten digits.\r",
         "It’s perfect for figuring out math\n",
         "questions that might pop up.\r"
+      ],
+      "fr_FR": [
+        "La Calculatrice peut afficher jusqu’à\n",
+        "dix chiffres.\r",
+        "Elle est idéale pour résoudre les\n",
+        "problèmes de math.\r"
       ]
     },
     {
@@ -155,6 +248,12 @@
         "statuses of your team’s Pokémon.\r",
         "Touch them to hear their cries.\n",
         "Their HP bar is also displayed.\r"
+      ],
+      "fr_FR": [
+        "L’Equipe Pokémon indique le statut des\n",
+        "Pokémon de votre équipe.\r",
+        "Touchez-les pour entendre leurs cris.\n",
+        "La barre de PV est aussi affichée.\r"
       ]
     },
     {
@@ -164,6 +263,12 @@
         "friendly your Pokémon are to you.\r",
         "Touch the screen. The Pokémon that\n",
         "like you will come closer.\r"
+      ],
+      "fr_FR": [
+        "Le Contrôleur d’Amitié indique l’amitié\n",
+        "que vos Pokémon vous portent.\r",
+        "Touchez l’écran tactile. Les Pokémon\n",
+        "qui vous apprécient se rapprocheront.\r"
       ]
     },
     {
@@ -173,6 +278,12 @@
         "Pokémon you have in the Day Care.\r",
         "Check and see how your Pokémon are\n",
         "doing with the Day-Care Couple.\r"
+      ],
+      "fr_FR": [
+        "Le Contrôleur Pension vous montre les\n",
+        "Pokémon laissés à la Pension.\r",
+        "Assurez-vous que le couple de la\n",
+        "Pension s’occupe bien de vos Pokémon.\r"
       ]
     },
     {
@@ -182,6 +293,12 @@
         "attraction between Pokémon.\r",
         "The greater the number of hearts,\n",
         "the better likelihood of Eggs.\r"
+      ],
+      "fr_FR": [
+        "Le Testeur d’Affinités teste les\n",
+        "affinités entre Pokémon.\r",
+        "Plus il y a de cœurs, plus il y a de\n",
+        "chances d’obtenir un Oeuf.\r"
       ]
     },
     {
@@ -191,6 +308,12 @@
         "the Pokémon you have obtained.\r",
         "It shows the last twelve kinds of\n",
         "Pokémon you obtained.\r"
+      ],
+      "fr_FR": [
+        "L’Historique Pokémon montre les\n",
+        "derniers Pokémon attrapés.\r",
+        "Il affiche les douze dernières espèces\n",
+        "de Pokémon que vous avez obtenues.\r"
       ]
     },
     {
@@ -200,6 +323,12 @@
         "shows the locations of Berries.\r",
         "It indicates the presence of Berries\n",
         "in areas you have already visited.\r"
+      ],
+      "fr_FR": [
+        "Le Contrôleur de Baie signale\n",
+        "les Baies mûres sur une carte.\r",
+        "Il n’indique la présence des Baies que\n",
+        "pour les zones déjà visitées.\r"
       ]
     },
     {
@@ -209,6 +338,12 @@
         "down a note, or just doodling.\r",
         "There’s an eraser, too, just in case\n",
         "you make a mistake.\r"
+      ],
+      "fr_FR": [
+        "Le Carnet est utile pour prendre des\n",
+        "notes ou juste pour griffonner.\r",
+        "Il y a aussi une gomme si vous vous\n",
+        "trompez.\r"
       ]
     },
     {
@@ -218,6 +353,12 @@
         "in a mosaic style.\r",
         "Touching the same dot makes its\n",
         "color turn darker.\r"
+      ],
+      "fr_FR": [
+        "Le Dessinateur permet de faire des\n",
+        "dessins de style mosaïque.\r",
+        "Touchez un point plusieurs fois pour\n",
+        "le rendre plus foncé.\r"
       ]
     },
     {
@@ -227,6 +368,12 @@
         "Pokétch’s display color.\r",
         "Slide the switch to select one\n",
         "of eight colors.\r"
+      ],
+      "fr_FR": [
+        "Le Changeur de Couleur change la\n",
+        "couleur d’affichage de la Pokémontre.\r",
+        "Faites glisser la règle pour choisir\n",
+        "l’une des huit couleurs.\r"
       ]
     },
     {
@@ -236,6 +383,12 @@
         "intriguing locations.\r",
         "Drag marks to places on the map\n",
         "that you want to remember.\r"
+      ],
+      "fr_FR": [
+        "La Carte Repères permet de marquer\n",
+        "les endroits intéressants.\r",
+        "Faites glisser les marques pour les\n",
+        "placer à l’endroit qui vous intéresse.\r"
       ]
     },
     {
@@ -245,6 +398,12 @@
         "that can be written on.\r",
         "Draw numbers, items, or whatever on\n",
         "the wheel and give it a spin!\r"
+      ],
+      "fr_FR": [
+        "La Roulette possède une roue sur\n",
+        "laquelle on peut écrire.\r",
+        "Dessinez chiffres, objets, etc. sur la\n",
+        "roue et faites-la tourner!\r"
       ]
     },
     {
@@ -254,6 +413,12 @@
         "comes up heads or tails.\r",
         "If you can’t choose between two\n",
         "choices, a coin toss might be handy.\r"
+      ],
+      "fr_FR": [
+        "Pile ou Face permet de lancer une pièce\n",
+        "qui tombe sur pile ou sur face.\r",
+        "Si vous hésitez entre deux options,\n",
+        "jouer à pile ou face peut vous aider.\r"
       ]
     },
     {
@@ -263,6 +428,12 @@
         "the number of steps traveled.\r",
         "It automatically counts steps.\n",
         "Touch the button to reset it.\r"
+      ],
+      "fr_FR": [
+        "Le Podomètre compte le nombre de pas\n",
+        "que vous faites.\r",
+        "Il est automatique. Touchez le bouton\n",
+        "pour le remettre à zéro.\r"
       ]
     },
     {
@@ -272,6 +443,12 @@
         "hidden or obscured items.\r",
         "Touch the radar screen. If there is\n",
         "an item nearby, it will respond.\r"
+      ],
+      "fr_FR": [
+        "Le Radar à Objet détecte les objets\n",
+        "cachés ou difficiles à trouver.\r",
+        "Touchez l’écran radar. S’il y a un objet\n",
+        "tout près, il réagira.\r"
       ]
     },
     {
@@ -281,6 +458,12 @@
         "things one at a time.\r",
         "Touch the button and count whatever\n",
         "needs counting.\r"
+      ],
+      "fr_FR": [
+        "Le Compteur sert à compter les choses\n",
+        "une par une.\r",
+        "Touchez le bouton et comptez ce que\n",
+        "vous avez à compter.\r"
       ]
     },
     {
@@ -290,6 +473,12 @@
         "performance of the Poké Radar.\r",
         "It shows how often you have met\n",
         "the same kind of Pokémon in a row.\r"
+      ],
+      "fr_FR": [
+        "Le Compteur Poké Radar conserve les\n",
+        "performances du Poké Radar.\r",
+        "Il indique combien de fois de suite vous\n",
+        "avez rencontré les mêmes Pokémon.\r"
       ]
     },
     {
@@ -299,6 +488,12 @@
         "players on wireless communications.\r",
         "Touch the screen to get a list of\n",
         "people using wireless communications.\r"
+      ],
+      "fr_FR": [
+        "Le Cherche-Connexion cherche les\n",
+        "joueurs en communication sans fil.\r",
+        "Touchez l’écran pour obtenir une liste\n",
+        "des gens connectés.\r"
       ]
     },
     {
@@ -308,6 +503,12 @@
         "moves are by type.\r",
         "Switch the attacker and defender\n",
         "types to see what is effective.\r"
+      ],
+      "fr_FR": [
+        "Le Testeur de Capacités indique\n",
+        "l’efficacité des capacités par type.\r",
+        "Changez les types des capacités des\n",
+        "Pokémon pour voir ce qui est efficace.\r"
       ]
     }
   ]

@@ -27,5 +27,13 @@
   "fieldUseFunc": "ITEM_USE_FUNC_TM_HM",
   "battleUseCategory": "BATTLE_USE_CATEGORY_NONE",
   "itemUseParams": null,
-  "teachesMove": "MOVE_SHOCK_WAVE"
+  "teachesMove": "MOVE_SHOCK_WAVE",
+  "name_fr": "CT34",
+  "description_fr": [
+    "Le lanceur envoie un choc électrique\n",
+    "rapide à l’ennemi. Impossible à\n",
+    "esquiver."
+  ],
+  "plural_fr": "CT34",
+  "article_fr": null
 }

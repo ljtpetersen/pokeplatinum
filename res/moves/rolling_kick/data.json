@@ -26,5 +26,12 @@
     "contest": {
         "effect": "CONTEST_EFFECT_BASIC",
         "type": "CONTEST_TYPE_COOL"
-    }
+    },
+    "name_fr": "Mawashi Geri",
+    "description_fr": [
+        "Le lanceur effectue\n",
+        "un coup de pied\n",
+        "tournoyant et\n",
+        "extrêmement rapide."
+    ]
 }

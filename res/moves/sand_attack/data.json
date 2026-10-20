@@ -25,5 +25,12 @@
     "contest": {
         "effect": "CONTEST_EFFECT_NO_VOLTAGE_DOWN",
         "type": "CONTEST_TYPE_CUTE"
-    }
+    },
+    "name_fr": "Jet de Sable",
+    "description_fr": [
+        "Lance du sable au\n",
+        "visage de l’ennemi \n",
+        "pour baisser sa\n",
+        "précision."
+    ]
 }

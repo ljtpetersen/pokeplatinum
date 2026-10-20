@@ -26,5 +26,13 @@
     "contest": {
         "effect": "CONTEST_EFFECT_FINAL_PERFORMANCE_ADVANTAGE",
         "type": "CONTEST_TYPE_COOL"
-    }
+    },
+    "name_fr": "Don Naturel",
+    "description_fr": [
+        "Avant d’attaquer, le\n",
+        "lanceur rassemble ses\n",
+        "forces grâce à sa\n",
+        "Baie. Elle détermine le\n",
+        "type et la puissance."
+    ]
 }

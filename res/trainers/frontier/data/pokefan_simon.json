@@ -77,18 +77,28 @@
             "en_US": [
                 "I am the Fan Club Division Manager...\n",
                 "Bring your best to bear..."
+            ],
+            "fr_FR": [
+                "Je suis le secrétaire adjoint du\n",
+                "Fan Club. A ton service..."
             ]
         },
         {
             "type": "TRMSG_WIN",
-            "en_US": "Kneel before the might of the Fan Club!\r"
+            "en_US": "Kneel before the might of the Fan Club!\r",
+            "fr_FR": "Tremble devant le pouvoir du Fan Club!\r"
         },
         {
             "type": "TRMSG_DEFEAT",
             "en_US": [
                 "Gweh! But I did my best!\n",
                 "Regrets, I have none!\r"
+            ],
+            "fr_FR": [
+                "Argh! Mais j’ai fait de mon mieux.\n",
+                "Je n’ai aucun regret.\r"
             ]
         }
-    ]
+    ],
+    "name_fr": "Savin"
 }

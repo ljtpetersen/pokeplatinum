@@ -17,6 +17,21 @@
         "about.\r",
         "I think there’d be safety in numbers.\n",
         "Please, may I go through with you?\r"
+      ],
+      "fr_FR": [
+        "Bonjour, mon nom est Sara.\n",
+        "Et tu es...?\r",
+        "OK, alors tu t’appelles {STRVAR_1 3, 0, 0}.\n",
+        "Enchantée de te rencontrer.\r",
+        "{STRVAR_1 3, 0, 0}, puis-je te demander un\n",
+        "grand service?\r",
+        "Je voudrais traverser cette forêt,\n",
+        "mais j’ai peur d’y aller seule.\r",
+        "On m’a dit qu’il y avait un groupe de\n",
+        "sinistres individus appelés la Team\f",
+        "Galaxie par là-bas.\r",
+        "L’union fait la force... S’il te plaît,\n",
+        "je peux traverser avec toi?\r"
       ]
     },
     {
@@ -24,14 +39,16 @@
       "en_US": [
         "{STRVAR_1 3, 0, 0} decided to go with\n",
         "Cheryl!"
-      ]
+      ],
+      "fr_FR": "{STRVAR_1 3, 0, 0} décide d’aller avec Sara!"
     },
     {
       "id": "EternaForest_Text_IllKeepPokemonHealthy",
       "en_US": [
         "Cheryl: I’ll keep your Pokémon\n",
         "in perfect health."
-      ]
+      ],
+      "fr_FR": "Sara: Je soignerai tes Pokémon."
     },
     {
       "id": "EternaForest_Text_LetsGetThroughForestTogether",
@@ -40,6 +57,11 @@
         "I’ve been waiting like I said.\r",
         "Let’s get through this forest\n",
         "together.\r"
+      ],
+      "fr_FR": [
+        "Sara: Oh, salut, {STRVAR_1 3, 0, 0}!\n",
+        "Comme promis, j’ai attendu.\r",
+        "Traversons cette forêt ensemble.\r"
       ]
     },
     {
@@ -47,6 +69,10 @@
       "en_US": [
         "Cheryl: Oh? Are you going back?\n",
         "I’ll wait here for you, then.\r"
+      ],
+      "fr_FR": [
+        "Sara: Oh? Tu reviens, non?\n",
+        "Je vais t’attendre ici, alors.\r"
       ]
     },
     {
@@ -57,6 +83,13 @@
         "I would’ve never been able to get\n",
         "through this by myself.\r",
         "Thank you so much, {STRVAR_1 3, 0, 0}!\r"
+      ],
+      "fr_FR": [
+        "Sara: Oh! Voilà la sortie!\n",
+        "Je suis soulagée... On a réussi.\r",
+        "Je n’aurais jamais pu traverser ça\n",
+        "toute seule.\r",
+        "Merci beaucoup, {STRVAR_1 3, 0, 0}!\r"
       ]
     },
     {
@@ -64,6 +97,10 @@
       "en_US": [
         "This is my token of appreciation.\n",
         "Please accept it!\r"
+      ],
+      "fr_FR": [
+        "Tiens, prends ça en guise de\n",
+        "remerciement!\r"
       ]
     },
     {
@@ -71,6 +108,10 @@
       "en_US": [
         "I’m sure we’ll meet again somewhere!\n",
         "Bye for now!\r"
+      ],
+      "fr_FR": [
+        "Je suis sûre qu’on se reverra!\n",
+        "A bientôt!\r"
       ]
     },
     {
@@ -79,6 +120,11 @@
         "Cheryl: There is an Old Chateau ahead.\r",
         "No one lives there now.\n",
         "They say it’s haunted."
+      ],
+      "fr_FR": [
+        "Sara: Il y a un Vieux Château, par là.\r",
+        "Plus personne n’y vit de nos jours.\n",
+        "On raconte qu’il est hanté."
       ]
     },
     {
@@ -88,6 +134,13 @@
         "win at the Eterna Gym.\r",
         "Bug Pokémon are great, you know?\n",
         "They grow really fast!"
+      ],
+      "fr_FR": [
+        "Je cherche des Pokémon de type\n",
+        "Insecte pour gagner à l’Arène\f",
+        "de Vestigion.\r",
+        "Ce sont des Pokémon formidables!\n",
+        "Ils grandissent super vite."
       ]
     },
     {
@@ -95,6 +148,10 @@
       "en_US": [
         "The rock is covered in moss.\n",
         "It feels pleasantly cool."
+      ],
+      "fr_FR": [
+        "Le rocher est couvert de mousse.\n",
+        "Il est agréablement frais."
       ]
     },
     {
@@ -102,6 +159,10 @@
       "en_US": [
         "Gardenia: Hiya! Were you intrigued\n",
         "by the rumors going around, too?\r"
+      ],
+      "fr_FR": [
+        "Flo: Salut! Les rumeurs qui\n",
+        "courent t’intriguent, toi aussi?\r"
       ]
     },
     {
@@ -111,6 +172,13 @@
         "the ghost Pokémon of the Old Chateau.\r",
         "I’ve been hearing rumors about\n",
         "sinister shadows, too.\r"
+      ],
+      "fr_FR": [
+        "Tu sais, les gens parlent beaucoup\n",
+        "des Pokémon de type Spectre du\f",
+        "Vieux Château.\r",
+        "J’ai entendu parler de sinistres\n",
+        "ombres.\r"
       ]
     },
     {
@@ -124,6 +192,16 @@
         "It’s not because I’m s-scared!\r",
         "S-so, good luck with your\n",
         "investigation!\r"
+      ],
+      "fr_FR": [
+        "Je devrais aller vérifier moi-même, mais\n",
+        "aller là-bas...\r",
+        "Quand on est Champion d’Arène, on est\n",
+        "toujours occupé.\r",
+        "Et c’est pour ça que je ne peux pas y\n",
+        "aller. J-Je n’ai pas p-peur!\r",
+        "A-Alors, bonne chance dans ton\n",
+        "enquête!\r"
       ]
     },
     {
@@ -131,6 +209,10 @@
       "en_US": [
         "The Eterna Forest\n",
         "Where Time Flows Eternally"
+      ],
+      "fr_FR": [
+        "Forêt de Vestigion\n",
+        "Où le temps s’écoule éternellement"
       ]
     },
     {
@@ -141,6 +223,13 @@
         "items on the ground that cannot be\f",
         "seen in the murky darkness.\r",
         "Take the time to search carefully!"
+      ],
+      "fr_FR": [
+        "Conseils aux Dresseurs\r",
+        "Dans les forêts et les grottes, il y a\n",
+        "beaucoup d’objets au sol qui ne sont\f",
+        "pas visibles à cause de l’obscurité.\r",
+        "Prenez le temps de les chercher!"
       ]
     }
   ]

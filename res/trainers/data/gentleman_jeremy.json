@@ -25,6 +25,10 @@
             "en_US": [
                 "If it pleases you, may I challenge you\n",
                 "to a battle?\r"
+            ],
+            "fr_FR": [
+                "Si le cœur t’en dit, voudrais-tu\n",
+                "m’affronter dans un combat?\r"
             ]
         },
         {
@@ -32,6 +36,10 @@
             "en_US": [
                 "Bravo! Your technique is impeccable\n",
                 "for someone so young.\n"
+            ],
+            "fr_FR": [
+                "Bravo! Malgré ton jeune âge, tu as une\n",
+                "excellente maîtrise des Pokémon.\n"
             ]
         },
         {
@@ -41,6 +49,12 @@
                 "the Pokémon Mansion.\r",
                 "He’s promised to show me through\n",
                 "his prized garden of Pokémon.\n"
+            ],
+            "fr_FR": [
+                "Ha, ha, ha! J’ai été invité par le\n",
+                "maître du Manoir Pokémon.\r",
+                "Il m’a promis de me montrer les Pokémon\n",
+                "vivant dans son fameux jardin.\n"
             ]
         },
         {
@@ -48,7 +62,12 @@
             "en_US": [
                 "If it pleases you, would you care for\n",
                 "a rematch with me?\r"
+            ],
+            "fr_FR": [
+                "Si le cœur t’en dit, m’accorderais-tu\n",
+                "une revanche?\r"
             ]
         }
-    ]
+    ],
+    "name_fr": "Zacharie"
 }

@@ -7,7 +7,10 @@
         "special_attack": 100,
         "special_defense": 120
     },
-    "types": [ "TYPE_PSYCHIC", "TYPE_PSYCHIC" ],
+    "types": [
+        "TYPE_PSYCHIC",
+        "TYPE_PSYCHIC"
+    ],
     "catch_rate": 45,
     "base_exp_reward": 136,
     "ev_yields": {
@@ -26,34 +29,100 @@
     "hatch_cycles": 25,
     "base_friendship": 70,
     "exp_rate": "EXP_RATE_MEDIUM_FAST",
-    "egg_groups": [ "EGG_GROUP_HUMAN_LIKE", "EGG_GROUP_HUMAN_LIKE" ],
-    "abilities": [ "ABILITY_SOUNDPROOF", "ABILITY_FILTER" ],
+    "egg_groups": [
+        "EGG_GROUP_HUMAN_LIKE",
+        "EGG_GROUP_HUMAN_LIKE"
+    ],
+    "abilities": [
+        "ABILITY_SOUNDPROOF",
+        "ABILITY_FILTER"
+    ],
     "safari_flee_rate": 0,
     "body_color": "MON_COLOR_PINK",
     "flip_sprite": false,
     "icon_palette": 0,
     "learnset": {
         "by_level": [
-            [ 1, "MOVE_MAGICAL_LEAF" ],
-            [ 1, "MOVE_POWER_SWAP" ],
-            [ 1, "MOVE_GUARD_SWAP" ],
-            [ 1, "MOVE_BARRIER" ],
-            [ 1, "MOVE_CONFUSION" ],
-            [ 4, "MOVE_COPYCAT" ],
-            [ 8, "MOVE_MEDITATE" ],
-            [ 11, "MOVE_ENCORE" ],
-            [ 15, "MOVE_DOUBLE_SLAP" ],
-            [ 18, "MOVE_MIMIC" ],
-            [ 22, "MOVE_LIGHT_SCREEN" ],
-            [ 22, "MOVE_REFLECT" ],
-            [ 25, "MOVE_PSYBEAM" ],
-            [ 29, "MOVE_SUBSTITUTE" ],
-            [ 32, "MOVE_RECYCLE" ],
-            [ 36, "MOVE_TRICK" ],
-            [ 39, "MOVE_PSYCHIC" ],
-            [ 43, "MOVE_ROLE_PLAY" ],
-            [ 46, "MOVE_BATON_PASS" ],
-            [ 50, "MOVE_SAFEGUARD" ]
+            [
+                1,
+                "MOVE_MAGICAL_LEAF"
+            ],
+            [
+                1,
+                "MOVE_POWER_SWAP"
+            ],
+            [
+                1,
+                "MOVE_GUARD_SWAP"
+            ],
+            [
+                1,
+                "MOVE_BARRIER"
+            ],
+            [
+                1,
+                "MOVE_CONFUSION"
+            ],
+            [
+                4,
+                "MOVE_COPYCAT"
+            ],
+            [
+                8,
+                "MOVE_MEDITATE"
+            ],
+            [
+                11,
+                "MOVE_ENCORE"
+            ],
+            [
+                15,
+                "MOVE_DOUBLE_SLAP"
+            ],
+            [
+                18,
+                "MOVE_MIMIC"
+            ],
+            [
+                22,
+                "MOVE_LIGHT_SCREEN"
+            ],
+            [
+                22,
+                "MOVE_REFLECT"
+            ],
+            [
+                25,
+                "MOVE_PSYBEAM"
+            ],
+            [
+                29,
+                "MOVE_SUBSTITUTE"
+            ],
+            [
+                32,
+                "MOVE_RECYCLE"
+            ],
+            [
+                36,
+                "MOVE_TRICK"
+            ],
+            [
+                39,
+                "MOVE_PSYCHIC"
+            ],
+            [
+                43,
+                "MOVE_ROLE_PLAY"
+            ],
+            [
+                46,
+                "MOVE_BATON_PASS"
+            ],
+            [
+                50,
+                "MOVE_SAFEGUARD"
+            ]
         ],
         "by_tm": [
             "TM01",
@@ -132,7 +201,7 @@
             "MOVE_TEETER_DANCE"
         ]
     },
-    "evolutions": [  ],
+    "evolutions": [],
     "offspring": "SPECIES_MIME_JR",
     "footprint": {
         "has": true,
@@ -155,9 +224,9 @@
             "name": "MR. MIME",
             "category": "Barrier Pokémon",
             "entry_text": [
-                "It shapes an invisible wall in midair\n",
-                "by minutely vibrating its fingertips\n",
-                "to stop molecules in the air."
+                "It is a pantomime expert that can\n",
+                "create invisible but solid walls\n",
+                "using miming gestures."
             ]
         },
         "fr": {
@@ -203,6 +272,18 @@
                 "パントマイムの　たつじん。\n",
                 "みぶりてぶりで　つくった　カベは\n",
                 "やがて　ほんものに　なるのだ。"
+            ]
+        },
+        "local_version": {
+            "entry_text": [
+                "It shapes an invisible wall in midair\n",
+                "by minutely vibrating its fingertips\n",
+                "to stop molecules in the air."
+            ],
+            "entry_text_fr": [
+                "En modifiant les molécules de l’air\n",
+                "du bout de ses doigts, il parvient\n",
+                "à créer un mur invisible devant lui."
             ]
         }
     },

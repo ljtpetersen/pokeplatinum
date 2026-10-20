@@ -9,11 +9,19 @@
         "Check the marsh with the binoculars\n",
         "to see where the Pokémon you want\f",
         "happen to be. That’s how you win!"
+      ],
+      "fr_FR": [
+        "Monte à l’Observatoire avant le\n",
+        "début d’un Jeu Safari.\r",
+        "Inspecte le marais avec les jumelles\n",
+        "pour connaître l’emplacement des\f",
+        "Pokémon. C’est un bon moyen de gagner!"
       ]
     },
     {
       "id": "GreatMarsh1_Text_SignArea1",
-      "en_US": "Great Marsh Area 1"
+      "en_US": "Great Marsh Area 1",
+      "fr_FR": "Grand Marais Parc 1"
     }
   ]
 }

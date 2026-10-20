@@ -26,5 +26,13 @@
   "battlePocket": "BATTLE_POCKET_MASK_POKE_BALLS",
   "fieldUseFunc": "ITEM_USE_FUNC_NONE",
   "battleUseCategory": "BATTLE_USE_CATEGORY_POKE_BALL",
-  "itemUseParams": null
+  "itemUseParams": null,
+  "name_fr": "Safari Ball",
+  "description_fr": [
+    "Une Poké Ball spéciale dont l’usage\n",
+    "est réservé au Grand Marais. Elle est\n",
+    "décorée d’un motif camouflage."
+  ],
+  "plural_fr": "Safari Ball",
+  "article_fr": null
 }

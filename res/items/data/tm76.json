@@ -27,5 +27,13 @@
   "fieldUseFunc": "ITEM_USE_FUNC_TM_HM",
   "battleUseCategory": "BATTLE_USE_CATEGORY_NONE",
   "itemUseParams": null,
-  "teachesMove": "MOVE_STEALTH_ROCK"
+  "teachesMove": "MOVE_STEALTH_ROCK",
+  "name_fr": "CT76",
+  "description_fr": [
+    "Lance des pierres flottantes autour de\n",
+    "l’ennemi, qui blessent tout ennemi\n",
+    "entrant au combat."
+  ],
+  "plural_fr": "CT76",
+  "article_fr": null
 }

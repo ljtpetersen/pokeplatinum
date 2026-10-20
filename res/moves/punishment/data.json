@@ -27,5 +27,13 @@
     "contest": {
         "effect": "CONTEST_EFFECT_PITY_POINTS",
         "type": "CONTEST_TYPE_SMART"
-    }
+    },
+    "name_fr": "Punition",
+    "description_fr": [
+        "Plus l’ennemi a utilisé\n",
+        "des augmentations de\n",
+        "stats et plus cette\n",
+        "capacité est\n",
+        "puissante."
+    ]
 }

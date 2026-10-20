@@ -24,6 +24,10 @@
             "en_US": [
                 "Beating you would be my 100th\n",
                 "straight win! Here’s to a fun battle!\r"
+            ],
+            "fr_FR": [
+                "Si je te bats, ce sera ma centième\n",
+                "victoire d’affilée! Alors battons-nous!\r"
             ]
         },
         {
@@ -31,6 +35,10 @@
             "en_US": [
                 "How could I lose now?!\n",
                 "This is beyond aggravating!\n"
+            ],
+            "fr_FR": [
+                "Non, non, non, non et non!\n",
+                "Comment ai-je pu perdre? Aaaaargh!\n"
             ]
         },
         {
@@ -38,7 +46,12 @@
             "en_US": [
                 "I wish I could beat Maylene in\n",
                 "Veilstone City one day...\n"
+            ],
+            "fr_FR": [
+                "J’aimerais pouvoir battre Mélina de\n",
+                "Voilaroc un jour...\n"
             ]
         }
-    ]
+    ],
+    "name_fr": "Alison"
 }

@@ -3,15 +3,18 @@
   "messages": [
     {
       "id": "pl_msg_00000665_00000",
-      "en_US": "Guten Morgen."
+      "en_US": "Guten Morgen.",
+      "fr_FR": "Guten Morgen."
     },
     {
       "id": "pl_msg_00000665_00001",
-      "en_US": "Guten Tag."
+      "en_US": "Guten Tag.",
+      "fr_FR": "Guten Tag."
     },
     {
       "id": "pl_msg_00000665_00002",
-      "en_US": "Guten Abend."
+      "en_US": "Guten Abend.",
+      "fr_FR": "Guten Abend."
     }
   ]
 }

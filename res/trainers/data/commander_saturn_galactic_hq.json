@@ -58,7 +58,12 @@
             "en_US": [
                 "You’re tough, kid!\n",
                 "But, I still pity the likes of you.\n"
+            ],
+            "fr_FR": [
+                "T’es coriace, p’tite tête. Mais j’ai\n",
+                "quand même pitié des gens comme toi.\n"
             ]
         }
-    ]
+    ],
+    "name_fr": "Saturne"
 }

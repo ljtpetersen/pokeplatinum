@@ -28,6 +28,32 @@
         "get sent back here, though.\r",
         "That’s how this place is.\n",
         "Go get ’em, Champ-to-be!\r"
+      ],
+      "fr_FR": [
+        "Salut, toi!\n",
+        "Comment ça va, futur Maître?\r",
+        "Laisse-moi te dire que cette Arène,\n",
+        "c’est pas de la tarte! Pourquoi?\r",
+        "Je t’explique!\n",
+        "D’abord, elle est plongée dans le noir!\r",
+        "Oh, pas d’inquiétude à avoir!\n",
+        "J’ai une lampe torche pour toi.\r",
+        "Sache que les Dresseurs à l’intérieur\n",
+        "en ont chacun une, eux aussi.\r",
+        "Si le faisceau de ta lampe en croise un,\n",
+        "ou l’inverse, le combat commence!\r",
+        "Autre détail qui a son importance: il y a\n",
+        "un truc avec les dalles au sol.\r",
+        "D’abord, trouve la dalle {COLOR 2}bleue {COLOR 0}et\n",
+        "mémorise le symbole gravé dessus.\r",
+        "Ensuite, cherche la porte {COLOR 1}rouge\n",
+        "{COLOR 0}arborant le même symbole.\r",
+        "Avance dans l’Arène sans te tromper de\n",
+        "porte et tu atteindras le Champion.\r",
+        "Si tu prends la mauvaise porte, tu\n",
+        "reviendras à l’entrée.\r",
+        "Voilà, tu sais tout.\n",
+        "Fonce, futur Maître!\r"
       ]
     },
     {
@@ -38,6 +64,14 @@
         "You must really like hearing me talk.\r",
         "If you want to hear my long spiel again,\n",
         "just say, “Yes!”"
+      ],
+      "fr_FR": [
+        "Salut, toi!\n",
+        "Comment ça va, futur Maître?\r",
+        "Tu dois vraiment aimer m’écouter\n",
+        "parler.\r",
+        "Si tu veux que je te serve mon baratin\n",
+        "encore une fois, dis simplement “Oui!”"
       ]
     },
     {
@@ -71,11 +105,42 @@
         "But you’ll have to see for yourself.\r",
         "Go get ’em, challenger!\n",
         "I believe in you!"
+      ],
+      "fr_FR": [
+        "Salut, salut, futur Maître!\n",
+        "Cette Arène, c’est pas de la tarte!\r",
+        "Je t’explique!\n",
+        "D’abord, elle est plongée dans le noir!\r",
+        "Sache que les Dresseurs à l’intérieur\n",
+        "sont équipés d’une lampe torche.\r",
+        "Si le faisceau de ta lampe en croise un,\n",
+        "ou l’inverse, le combat commence!\r",
+        "Autre détail qui a son importance: il y a\n",
+        "un truc avec les dalles au sol.\r",
+        "D’abord, trouve la dalle {COLOR 2}bleue {COLOR 0}et\n",
+        "mémorise le symbole gravé dessus.\r",
+        "Ensuite, cherche la porte {COLOR 1}rouge\n",
+        "{COLOR 0}arborant le même symbole.\r",
+        "Avance dans l’Arène sans te tromper de\n",
+        "porte et tu atteindras le Champion.\r",
+        "Si tu prends la mauvaise porte, tu\n",
+        "reviendras à l’entrée.\r",
+        "Oups! Suis-je bête!\n",
+        "J’ai oublié de te dire un truc vital!\r",
+        "Le Champion utilise des Pokémon de type\n",
+        "Spectre.\r",
+        "Attention, les capacités de type Normal\n",
+        "n’ont aucun effet sur eux!\r",
+        "C’est comme s’ils étaient immatériels.\n",
+        "Bah, tu verras par toi-même.\r",
+        "Haut les cœurs, challenger!\n",
+        "Je crois en toi!"
       ]
     },
     {
       "id": "HearthomeGym_Text_GymGuideGoGetEm",
-      "en_US": "OK, go get ’em!"
+      "en_US": "OK, go get ’em!",
+      "fr_FR": "Vas-y, fonce!"
     },
     {
       "id": "HearthomeGym_Text_GymGuideAfterBadge",
@@ -87,6 +152,15 @@
         "At least that’s how I see it!\r",
         "...You do realize I say that to\n",
         "everyone, right?"
+      ],
+      "fr_FR": [
+        "Oh! {STRVAR_1 3, 0, 0}!\n",
+        "Tu as vaincu le Champion d’Arène!\r",
+        "On dirait que ta puissance\n",
+        "n’a plus de limites!\r",
+        "Du moins, c’est ce que je pense!\r",
+        "... Rassure-moi, tu réalises que je dis\n",
+        "ça à tout le monde, hein?"
       ]
     },
     {
@@ -96,6 +170,12 @@
         "Leader: Fantina\r",
         "Certified Trainers:\n",
         "{STRVAR_1 3, 1, 0}"
+      ],
+      "fr_FR": [
+        "Arène Pokémon d’Unionpolis\n",
+        "Champion: Kiméra\r",
+        "Nouveau Dresseur reconnu:\n",
+        "{STRVAR_1 3, 1, 0}"
       ]
     },
     {
@@ -104,6 +184,13 @@
         "Hearthome City Pokémon Gym\n",
         "Leader: Fantina\r",
         "Certified Trainers:\n",
+        "{STRVAR_1 3, 0, 0}\f",
+        "{STRVAR_1 3, 1, 0}"
+      ],
+      "fr_FR": [
+        "Arène Pokémon d’Unionpolis\n",
+        "Champion: Kiméra\r",
+        "Nouveaux Dresseurs reconnus:\n",
         "{STRVAR_1 3, 0, 0}\f",
         "{STRVAR_1 3, 1, 0}"
       ]

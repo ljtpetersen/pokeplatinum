@@ -15,6 +15,19 @@
         "in front of me, right here.\r",
         "From its footprints, I will determine\n",
         "how it feels about you.\r"
+      ],
+      "fr_FR": [
+        "Dr Petitpas: Je n’ai aucun mal à\n",
+        "identifier les Pokémon.\r",
+        "Il me suffit d’observer leurs \n",
+        "empreintes pour connaître leurs\f",
+        "pensées les plus secrètes!\r",
+        "Oh?\n",
+        "Tu restes sceptique?\r",
+        "Très bien, fais marcher ton \n",
+        "{STRVAR_1 0, 0, 0} devant moi.\r",
+        "Je te dirai ce qu’il pense de toi en\n",
+        "observant ses empreintes.\r"
       ]
     },
     {
@@ -26,6 +39,15 @@
         "in front of me, right here.\r",
         "From its footprints, I will determine\n",
         "how it feels about you.\r"
+      ],
+      "fr_FR": [
+        "Dr Petitpas: Tu veux connaître à \n",
+        "nouveau les sentiments du premier\f",
+        "Pokémon de ton équipe?\r",
+        "Très bien, fais marcher ton \n",
+        "{STRVAR_1 0, 0, 0} devant moi.\r",
+        "Je te dirai ce qu’il pense de toi en\n",
+        "observant ses empreintes.\r"
       ]
     },
     {
@@ -33,6 +55,10 @@
       "en_US": [
         "Dr. Footstep: ...And that is what\n",
         "your {STRVAR_1 0, 0, 0} thinks of you."
+      ],
+      "fr_FR": [
+        "Dr Petitpas: ... Voilà ce que ton\n",
+        "{STRVAR_1 0, 0, 0} pense de toi."
       ]
     },
     {
@@ -42,6 +68,12 @@
         "doesn’t leave any footprints.\r",
         "It’s somewhat difficult for me to\n",
         "determine what its thoughts are."
+      ],
+      "fr_FR": [
+        "Dr Petitpas: Tu sais... \n",
+        "{STRVAR_1 0, 0, 0} n’a pas d’empreintes.\r",
+        "Mais j’ai tout de même réussi à lire\n",
+        "ses pensées."
       ]
     },
     {
@@ -49,6 +81,10 @@
       "en_US": [
         "Dr. Footstep: ...Hmm... {STRVAR_1 0, 0, 0}\n",
         "happens to be quite the silent type!"
+      ],
+      "fr_FR": [
+        "Dr Petitpas: ... Hum... {STRVAR_1 0, 0, 0}\n",
+        "n’est pas très causant!"
       ]
     },
     {
@@ -59,6 +95,13 @@
         "I must say, your {STRVAR_1 0, 0, 0} and\n",
         "you share a very close bond.\f",
         "This is for you.\r"
+      ],
+      "fr_FR": [
+        "Dr Petitpas: ... Voilà ce que ton\n",
+        "{STRVAR_1 0, 0, 0} pense de toi.\r",
+        "Je dois dire que toi et ton {STRVAR_1 0, 0, 0}\n",
+        "êtes très proches l’un de l’autre.\f",
+        "Prends ce cadeau.\r"
       ]
     },
     {
@@ -71,6 +114,15 @@
         "However, your {STRVAR_1 0, 0, 0} and\n",
         "you obviously share a close bond.\f",
         "This is for you.\r"
+      ],
+      "fr_FR": [
+        "Dr Petitpas: ... Humm... \n",
+        "{STRVAR_1 0, 0, 0} n’a pas d’empreintes.\r",
+        "Je risque d’avoir du mal à\n",
+        "lire ses pensées.\r",
+        "Mais ton {STRVAR_1 0, 0, 0} et toi êtes\n",
+        "tout de même très proches.\f",
+        "Prends ce cadeau.\r"
       ]
     },
     {
@@ -81,6 +133,13 @@
         "However, your {STRVAR_1 0, 0, 0} and\n",
         "you obviously share a close bond.\f",
         "This is for you.\r"
+      ],
+      "fr_FR": [
+        "Dr Petitpas: ... Hum... {STRVAR_1 0, 0, 0}\n",
+        "n’a pas l’air très causant!\r",
+        "Toutefois, ton {STRVAR_1 0, 0, 0} et toi êtes\n",
+        "tout de même très proches.\f",
+        "Prends ce cadeau.\r"
       ]
     },
     {
@@ -88,6 +147,10 @@
       "en_US": [
         "{STRVAR_1 3, 1, 0} received\n",
         "the Footprint Ribbon.\r"
+      ],
+      "fr_FR": [
+        "{STRVAR_1 3, 1, 0} obtient\n",
+        "le Ruban Empreinte.\r"
       ]
     },
     {
@@ -95,6 +158,10 @@
       "en_US": [
         "{STRVAR_1 3, 1, 0} put the Footprint Ribbon\n",
         "on {STRVAR_1 0, 0, 0}."
+      ],
+      "fr_FR": [
+        "{STRVAR_1 3, 1, 0} met le Ruban \n",
+        "Empreinte sur {STRVAR_1 0, 0, 0}."
       ]
     },
     {
@@ -108,6 +175,17 @@
         "{STRVAR_1 1, 2, 0} will try harder for\n",
         "{STRVAR_1 3, 1, 0}.\r",
         "Please be nicer to me!\r"
+      ],
+      "fr_FR": [
+        "Ooooh... {STRVAR_1 3, 1, 0} ne joue qu’avec\n",
+        "les autres Pokémon...\r",
+        "{STRVAR_1 1, 2, 0} se sent négligé...\r",
+        "{STRVAR_1 3, 1, 0} n’aime peut-être pas\n",
+        "beaucoup {STRVAR_1 1, 2, 0}?\r",
+        "{STRVAR_1 1, 2, 0} va faire des efforts\n",
+        "pour {STRVAR_1 3, 1, 0}.\r",
+        "Fais preuve d’un peu de gentillesse\n",
+        "à mon égard!\r"
       ]
     },
     {
@@ -121,6 +199,16 @@
         "Will I get to go all over with this\n",
         "Trainer?\r",
         "Can we be... Friends?\r"
+      ],
+      "fr_FR": [
+        "Les autres disent qu’il y a des gens qui\n",
+        "sont méchants avec les Pokémon.\r",
+        "Et {STRVAR_1 3, 1, 0}, alors...?\r",
+        "Est-ce que {STRVAR_1 3, 1, 0} saura bien\n",
+        "s’occuper de {STRVAR_1 1, 2, 0}?\r",
+        "Est-ce que je vais pouvoir m’entendre\n",
+        "avec ce Dresseur?\r",
+        "Pouvons-nous devenir... amis?\r"
       ]
     },
     {
@@ -134,6 +222,16 @@
         "ever seen before.\r",
         "I’m gonna get stronger and stronger\n",
         "for {STRVAR_1 3, 1, 0}!\r"
+      ],
+      "fr_FR": [
+        "C’est vraiment marrant cette\n",
+        "aventure avec {STRVAR_1 3, 1, 0}.\r",
+        "{STRVAR_1 1, 2, 0} se rend dans des endroits\n",
+        "où il ne peut pas aller tout seul.\r",
+        "J’ai la chance de combattre des\n",
+        "Pokémon que je n’avais jamais vus.\r",
+        "Je vais devenir de plus en plus fort\n",
+        "pour {STRVAR_1 3, 1, 0}!\r"
       ]
     },
     {
@@ -147,6 +245,16 @@
         "{STRVAR_1 1, 2, 0}’s feelings most!\r",
         "I’m a little hungry...\n",
         "You can tell, right?\r"
+      ],
+      "fr_FR": [
+        "{STRVAR_1 1, 2, 0} et {STRVAR_1 3, 1, 0} forment\n",
+        "un duo de choc, une équipe parfaite!\r",
+        "J’ai rencontré de nombreuses\n",
+        "personnes, mais jusqu’ici...\r",
+        "{STRVAR_1 3, 1, 0} est la seule qui comprenne\n",
+        "les sentiments de {STRVAR_1 1, 2, 0}!\r",
+        "J’ai un peu faim...\n",
+        "Tu l’avais remarqué, non?\r"
       ]
     },
     {
@@ -159,6 +267,16 @@
         "{STRVAR_1 1, 2, 0}, you will understand.\r",
         "Because {STRVAR_1 3, 1, 0} and\n",
         "{STRVAR_1 1, 2, 0} are friends!\r"
+      ],
+      "fr_FR": [
+        "Je sais que les gens et les Pokémon \n",
+        "peuvent devenir amis!\r",
+        "Est-ce que les amis de {STRVAR_1 0, 0, 0}\n",
+        "comprendraient si je leur expliquais?\r",
+        "A voir {STRVAR_1 3, 1, 0} et {STRVAR_1 1, 2, 0},\n",
+        "cela semble pourtant une évidence.\r",
+        "Car {STRVAR_1 3, 1, 0} et\n",
+        "{STRVAR_1 1, 2, 0} sont bons amis!\r"
       ]
     },
     {
@@ -168,6 +286,12 @@
         "Play with me more, more...\r",
         "{STRVAR_1 1, 2, 0} and {STRVAR_1 3, 1, 0},\n",
         "let’s play nicer...\r"
+      ],
+      "fr_FR": [
+        "{STRVAR_1 1, 2, 0} s’ennuie...\n",
+        "Joue avec moi, encore, encore...\r",
+        "{STRVAR_1 1, 2, 0} et {STRVAR_1 3, 1, 0}\n",
+        "doivent jouer ensemble...\r"
       ]
     },
     {
@@ -177,6 +301,12 @@
         "the place...\r",
         "Be nice to {STRVAR_1 1, 2, 0}...\n",
         "Warm and cuddly...\r"
+      ],
+      "fr_FR": [
+        "Je vais voyager partout avec\n",
+        "{STRVAR_1 3, 1, 0}...\r",
+        "Il faut être mimi avec {STRVAR_1 1, 2, 0}...\n",
+        "Des câlins et des bisous...\r"
       ]
     },
     {
@@ -188,6 +318,14 @@
         "triangle ones, wobbly ones...\r",
         "{STRVAR_1 1, 2, 0} wants to see different\n",
         "kinds of Pokémon...\r"
+      ],
+      "fr_FR": [
+        "{STRVAR_1 1, 2, 0} travaille dur pour\n",
+        "faire plaisir à {STRVAR_1 3, 1, 0}.\r",
+        "Les ronds, les carrés, les\n",
+        "triangles, les tout doux...\r",
+        "{STRVAR_1 1, 2, 0} veut voir toutes\n",
+        "sortes de Pokémon...\r"
       ]
     },
     {
@@ -199,6 +337,14 @@
         "can understand.\r",
         "{STRVAR_1 1, 2, 0}’s feelings, {STRVAR_1 3, 1, 0}\n",
         "understands!\r"
+      ],
+      "fr_FR": [
+        "{STRVAR_1 1, 2, 0} et {STRVAR_1 3, 1, 0}\n",
+        "s’entendent à merveille.\r",
+        "{STRVAR_1 3, 1, 0} peut comprendre les\n",
+        "sentiments de {STRVAR_1 1, 2, 0}.\r",
+        "{STRVAR_1 1, 2, 0} peut comprendre les\n",
+        "sentiments de {STRVAR_1 3, 1, 0}!\r"
       ]
     },
     {
@@ -210,6 +356,14 @@
         "about {STRVAR_1 3, 1, 0}!\r",
         "{STRVAR_1 3, 1, 0} and {STRVAR_1 1, 2, 0} are\n",
         "best of friends!\r"
+      ],
+      "fr_FR": [
+        "{STRVAR_1 3, 1, 0} emplit {STRVAR_1 1, 2, 0}\n",
+        "de fierté!\r",
+        "{STRVAR_1 0, 0, 0} se vante d’être avec\n",
+        "{STRVAR_1 3, 1, 0} à tous ses amis!\r",
+        "{STRVAR_1 3, 1, 0} et {STRVAR_1 1, 2, 0} sont\n",
+        "les meilleurs amis du monde!\r"
       ]
     },
     {
@@ -222,6 +376,15 @@
         "I remained in the wild?\r",
         "No, I should give this Trainer\n",
         "a little more of a chance...\r"
+      ],
+      "fr_FR": [
+        "Pourquoi {STRVAR_1 3, 1, 0} n’utilise\n",
+        "que les autres Pokémon?\r",
+        "Personne n’a besoin de moi?\r",
+        "Est-ce que j’aurais mieux fait de\n",
+        "rester vivre dans la nature?\r",
+        "Non, je dois donner une seconde chance\n",
+        "à ce Dresseur...\r"
       ]
     },
     {
@@ -233,6 +396,14 @@
         "that understand human speech...\r",
         "Hehehe, {STRVAR_1 3, 1, 0}, you’re not bad\n",
         "for a human.\r"
+      ],
+      "fr_FR": [
+        "Les humains ne comprennent pas les\n",
+        "cris et les sentiments des Pokémon.\r",
+        "Mais certains d’entre nous comprennent\n",
+        "le langage humain...\r",
+        "Héhéhé, {STRVAR_1 3, 1, 0}, tu n’es pas si\n",
+        "mal pour un être humain.\r"
       ]
     },
     {
@@ -247,6 +418,17 @@
         "Traveling with {STRVAR_1 3, 1, 0} has been\n",
         "rewarding and reassuring.\r",
         "And very entertaining...\r"
+      ],
+      "fr_FR": [
+        "Si un Pokémon devait voyager seul,\n",
+        "ses choix de destination seraient\f",
+        "limités.\r",
+        "Mais en accompagnant un humain, un\n",
+        "Pokémon peut rejoindre les villes et les\f",
+        "régions les plus distantes.\r",
+        "C’est rassurant et enrichissant\n",
+        "de voyager avec {STRVAR_1 3, 1, 0}.\r",
+        "Et c’est plutôt amusant...\r"
       ]
     },
     {
@@ -261,6 +443,17 @@
         "who could be a great partner.\r",
         "A great partner like {STRVAR_1 3, 1, 0},\n",
         "in other words...\r"
+      ],
+      "fr_FR": [
+        "Certains Pokémon méprisent ceux qui\n",
+        "voyagent avec des humains.\r",
+        "Ils les raillent et prétendent qu’ils\n",
+        "ont “oublié la nature”.\r",
+        "Ils ont tort.\r",
+        "Simplement, ils n’ont jamais rencontré\n",
+        "de Dresseur qui leur convienne.\r",
+        "En d’autres termes, un Dresseur\n",
+        "comme {STRVAR_1 3, 1, 0}...\r"
       ]
     },
     {
@@ -274,6 +467,16 @@
         "partner {STRVAR_1 3, 1, 0}.\r",
         "When we travel, I can see wild\n",
         "Pokémon eyeing us enviously...\r"
+      ],
+      "fr_FR": [
+        "{STRVAR_1 3, 1, 0} est... une personne\n",
+        "et un Dresseur remarquable.\r",
+        "Le fait que je sois un {STRVAR_1 0, 0, 0}\n",
+        "d’exception...\r",
+        "Je le dois à {STRVAR_1 3, 1, 0} et à\n",
+        "personne d’autre.\r",
+        "Quand nous voyageons, les Pokémon\n",
+        "sauvages nous épient avec envie...\r"
       ]
     },
     {
@@ -283,6 +486,12 @@
         "me forever?\r",
         "Give me more opportunities for me\n",
         "to shine...\r"
+      ],
+      "fr_FR": [
+        "{STRVAR_1 3, 1, 0} a vraiment l’intention de\n",
+        "m’ignorer pour toujours?\r",
+        "Donne-moi une chance de faire\n",
+        "mes preuves...\r"
       ]
     },
     {
@@ -294,6 +503,14 @@
         "us with kindness...\r",
         "Does {STRVAR_1 3, 1, 0} even like\n",
         "{STRVAR_1 1, 2, 0}?\r"
+      ],
+      "fr_FR": [
+        "Quand on traite un Pokémon en ami,\n",
+        "il vous rend la pareille.\r",
+        "Nous nous attachons aux humains qui\n",
+        "nous traitent avec gentillesse...\r",
+        "J’en viens à me demander si \n",
+        "{STRVAR_1 3, 1, 0} aime {STRVAR_1 1, 2, 0}...\r"
       ]
     },
     {
@@ -303,6 +520,12 @@
         "Who is responsible for making me so?\r",
         "Is it {STRVAR_1 3, 1, 0}’s doing?\n",
         "Is the Trainer owed my thanks?\r"
+      ],
+      "fr_FR": [
+        "Est-ce que {STRVAR_1 1, 2, 0} a progressé?\n",
+        "C’est grâce à qui?\r",
+        "Est-ce grâce à {STRVAR_1 3, 1, 0}?\n",
+        "Faut-il que je remercie mon Dresseur?\r"
       ]
     },
     {
@@ -312,6 +535,12 @@
         "alike in some ways.\r",
         "In humanspeak, we match up well.\n",
         "Does {STRVAR_1 3, 1, 0} think so, too?\r"
+      ],
+      "fr_FR": [
+        "{STRVAR_1 3, 1, 0} et {STRVAR_1 1, 2, 0} se\n",
+        "ressemblent par certains aspects.\r",
+        "En langage humain, je dirais qu’on fait \n",
+        "la paire. {STRVAR_1 3, 1, 0} le pense aussi?\r"
       ]
     },
     {
@@ -323,6 +552,14 @@
         "every bit of power properly.\r",
         "It is a shame that {STRVAR_1 3, 1, 0} is\n",
         "only a human...\r"
+      ],
+      "fr_FR": [
+        "{STRVAR_1 3, 1, 0} m’impressionne, d’autant\n",
+        "plus que c’est un être humain.\r",
+        "Le Dresseur laisse {STRVAR_1 1, 2, 0} \n",
+        "utiliser ses pouvoirs à bon escient.\r",
+        "Mais {STRVAR_1 3, 1, 0} n’est qu’un être\n",
+        "humain. Quel dommage...\r"
       ]
     },
     {
@@ -336,6 +573,16 @@
         "Is the Trainer regretting having me?\r",
         "Does the Trainer dare disrespect\n",
         "this {STRVAR_1 0, 0, 0} so easily?\r"
+      ],
+      "fr_FR": [
+        "{STRVAR_1 3, 1, 0}...\n",
+        "C’est n’importe quoi...\r",
+        "Pourquoi m’avoir fait rejoindre l’équipe,\n",
+        "puis m’avoir appelé pour rien?\r",
+        "Le Dresseur me trouve inutile?\n",
+        "Regrette-t-il de m’avoir capturé?\r",
+        "Il n’oserait quand même pas négliger\n",
+        "un {STRVAR_1 0, 0, 0}?\r"
       ]
     },
     {
@@ -348,6 +595,15 @@
         "{STRVAR_1 0, 0, 0}, am one of the team...\r",
         "That said, I don’t intend to be all\n",
         "cheerful around {STRVAR_1 3, 1, 0}...\r"
+      ],
+      "fr_FR": [
+        "Je ne comprends pas vraiment\n",
+        "{STRVAR_1 3, 1, 0}, en tant qu’être humain...\r",
+        "{STRVAR_1 3, 1, 0} ne doit pas être mal.\r",
+        "Après tout, ce Dresseur a pris un\n",
+        "{STRVAR_1 0, 0, 0} comme moi dans l’équipe.\r",
+        "Ceci étant, {STRVAR_1 3, 1, 0} ne doit pas\n",
+        "s’attendre à ce que je me réjouisse...\r"
       ]
     },
     {
@@ -360,6 +616,15 @@
         "threatening...\r",
         "{STRVAR_1 3, 1, 0} has a strange\n",
         "charisma...\r"
+      ],
+      "fr_FR": [
+        "Notre espèce préfère se terrer dans\n",
+        "les lieux sombres et humides...\r",
+        "Mais avec {STRVAR_1 3, 1, 0}, même les\n",
+        "endroits éclairés et festifs\f",
+        "semblent moins menaçants...\r",
+        "{STRVAR_1 3, 1, 0} possède ce charisme\n",
+        "étrange...\r"
       ]
     },
     {
@@ -370,6 +635,13 @@
         "If my {STRVAR_1 0, 0, 0} friends were to\n",
         "see me now, they would be shocked.\r",
         "Or would they be envious of me...?\r"
+      ],
+      "fr_FR": [
+        "Je n’aurais jamais cru que je voyagerais\n",
+        "un jour avec un être humain...\r",
+        "Si mes amis {STRVAR_1 0, 0, 0} me voyaient,\n",
+        "ils seraient choqués.\r",
+        "Peut-être seraient-ils jaloux...?\r"
       ]
     },
     {
@@ -383,6 +655,16 @@
         "chomp down on the Trainer’s neck...\r",
         "Hahaha... Have no fear...\n",
         "I was merely joking...\r"
+      ],
+      "fr_FR": [
+        "{STRVAR_1 3, 1, 0} est l’être humain le\n",
+        "plus impressionnant que je connaisse.\r",
+        "Il en faut beaucoup pour rendre un\n",
+        "{STRVAR_1 1, 2, 0} radieux et enthousiaste!\r",
+        "Je devrais mordre le cou du Dresseur\n",
+        "en gage d’affection...\r",
+        "Hahaha... N’aie crainte...\n",
+        "C’était juste une blague...\r"
       ]
     },
     {
@@ -392,6 +674,12 @@
         "{STRVAR_1 1, 2, 0} has nothing to do...\r",
         "Keep me too bored, and I’m liable\n",
         "to sneak up and bite...\r"
+      ],
+      "fr_FR": [
+        "Wooooooh...\n",
+        "{STRVAR_1 1, 2, 0} n’a rien à faire...\r",
+        "Continue de me négliger et je vais\n",
+        "finir par te mordre...\r"
       ]
     },
     {
@@ -403,6 +691,14 @@
         "{STRVAR_1 1, 2, 0}?\r",
         "{STRVAR_1 1, 2, 0} doesn’t like...\n",
         "Well, no, maybe not...\r"
+      ],
+      "fr_FR": [
+        "Finirais-je par trouver un humain\n",
+        "qui aime les {STRVAR_1 0, 0, 0}?\r",
+        "Alors? {STRVAR_1 3, 1, 0} aime peut-être\n",
+        "{STRVAR_1 1, 2, 0}?\r",
+        "Pour sa part, {STRVAR_1 1, 2, 0} déteste...\n",
+        "Enfin non, pas tant que ça...\r"
       ]
     },
     {
@@ -413,6 +709,13 @@
         "But {STRVAR_1 1, 2, 0} will be even scarier\n",
         "from now on.\r",
         "That’s what we {STRVAR_1 0, 0, 0} do...\r"
+      ],
+      "fr_FR": [
+        "{STRVAR_1 3, 1, 0} me traite gentiment, sans\n",
+        "avoir peur de {STRVAR_1 1, 2, 0}.\r",
+        "Mais {STRVAR_1 1, 2, 0} va tout faire pour\n",
+        "l’effrayer, à partir de maintenant.\r",
+        "C’est la nature des {STRVAR_1 0, 0, 0}...\r"
       ]
     },
     {
@@ -422,6 +725,12 @@
         "a little about being in the wild...\r",
         "But {STRVAR_1 1, 2, 0} isn’t feeling sad.\n",
         "It’s never boring with {STRVAR_1 3, 1, 0}...\r"
+      ],
+      "fr_FR": [
+        "{STRVAR_1 1, 2, 0} commence à oublier\n",
+        "sa vie dans la nature...\r",
+        "Mais {STRVAR_1 1, 2, 0} n’est pas triste.\n",
+        "On ne s’ennuie pas avec {STRVAR_1 3, 1, 0}...\r"
       ]
     },
     {
@@ -434,6 +743,16 @@
         "shunned...\r",
         "But {STRVAR_1 3, 1, 0} always treats me\n",
         "as a friend and partner...\r"
+      ],
+      "fr_FR": [
+        "Aucun Pokémon ne déteste les\n",
+        "humains...\r",
+        "Seuls les humains n’aiment pas les\n",
+        "Pokémon...\r",
+        "Nous, les {STRVAR_1 0, 0, 0}, sommes\n",
+        "particulièrement haïs...\r",
+        "Mais {STRVAR_1 3, 1, 0} me traite toujours\n",
+        "en ami et en allié...\r"
       ]
     },
     {
@@ -446,6 +765,15 @@
         "If you don’t need me for anything,\n",
         "can I go back to my Ball?\r",
         "Hnurrr...\r"
+      ],
+      "fr_FR": [
+        "Zzzzzz... Hein?\n",
+        "C’est... Où suis-je?\r",
+        "La maison de {STRVAR_1 3, 1, 0}, c’est ça?\n",
+        "C’est pas ça? Zzzzzz...\r",
+        "Puisque tu n’as pas besoin de moi, je\n",
+        "peux rentrer dans ma Ball?\r",
+        "Zzzzzz...\r"
       ]
     },
     {
@@ -461,6 +789,18 @@
         "...Hnurrr...hunh?\n",
         "Oh, I forget where the time goes.\r",
         "Hnurrrr...\r"
+      ],
+      "fr_FR": [
+        "Zzzz... Moi? Hum...\n",
+        "J’aime dormir la plupart du temps.\f",
+        "Oh, j’aime aussi manger. Juste après.\r",
+        "Mais ce que je préfère, c’est penser.\n",
+        "Je suis un très grand penseur.\r",
+        "Quand je pense au futur de l’espèce\n",
+        "des {STRVAR_1 0, 0, 0}...\r",
+        "... Zzzzzzz... hein?\n",
+        "Oh, je ne vois pas le temps passer.\r",
+        "Zzzzzzz...\r"
       ]
     },
     {
@@ -475,6 +815,17 @@
         "Will they be for me?\n",
         "Or a no, no, no sort of thing?\r",
         "Hnurrr...\r"
+      ],
+      "fr_FR": [
+        "Zzzzz... Moi? Hum...\n",
+        "Il y a beaucoup de types de capacités.\r",
+        "J’aime celles de type Ténèbres, oh,\n",
+        "et aussi les types Dragon...\r",
+        "Seraient-ils bons pour ce\n",
+        "{STRVAR_1 0, 0, 0}?\r",
+        "Seraient-ils bons pour moi?\n",
+        "Ou vraiment très, très, très mauvais?\r",
+        "Zzzzzz...\r"
       ]
     },
     {
@@ -490,6 +841,18 @@
         "Do you think I’m sort of funky?\r",
         "No? No funk for me?\n",
         "Hnurrr...\r"
+      ],
+      "fr_FR": [
+        "Zzzzzz... Je ne sais pas par\n",
+        "où commencer...\r",
+        "Je vivais paisiblement avant de \n",
+        "rencontrer {STRVAR_1 3, 1, 0}. Mince.\r",
+        "Mais je commence à apprécier de\n",
+        "voyager avec {STRVAR_1 3, 1, 0}.\r",
+        "Je me sens plutôt funky.\n",
+        "Est-ce que tu me trouves funky?\r",
+        "Non? Je ne suis pas le funk incarné?\n",
+        "Zzzzzzzzzzz...\r"
       ]
     },
     {
@@ -504,6 +867,17 @@
         "All the time, I think hard how to help\n",
         "{STRVAR_1 3, 1, 0}. I concentrate!\r",
         "Hnurrr...\r"
+      ],
+      "fr_FR": [
+        "Zzzzz... Moi? Hum...\n",
+        "Les autres Pokémon me disent...\r",
+        "“Tu ne réfléchis donc jamais?”\n",
+        "C’est vraiment très insultant.\r",
+        "De plus, ce n’est pas vrai.\n",
+        "Penser, penser, je ne fais que ça.\r",
+        "Tout le temps. Je réfléchis pour aider\n",
+        "{STRVAR_1 3, 1, 0}. Je me concentre!\r",
+        "Zzzzzzzz...\r"
       ]
     },
     {
@@ -513,6 +887,12 @@
         "I really don’t? What is this?\f",
         "I don’t know what to say?\f",
         "Hnurrr...\r"
+      ],
+      "fr_FR": [
+        "Zzzzz... Je ne savais pas ça?\n",
+        "Vraiment pas? Qu’est-ce que c’est?\f",
+        "Je ne sais pas quoi dire?\f",
+        "Zzzzz...\r"
       ]
     },
     {
@@ -523,6 +903,13 @@
         "As motivated as the average.\f",
         "But it’s not so simple as that.\f",
         "Hnurrr...\r"
+      ],
+      "fr_FR": [
+        "Zzzz... Eh bien, je...\n",
+        "Je pense être un Pokémon motivé.\f",
+        "Je retiens juste un peu ma motivation.\f",
+        "Mais ce n’est pas si simple.\f",
+        "Zzzzz...\r"
       ]
     },
     {
@@ -533,6 +920,13 @@
         "That’s what we try to do, I think.\f",
         "That is for the best.\f",
         "Hnurrrr...\r"
+      ],
+      "fr_FR": [
+        "Zzzz... Comment expliquer?\n",
+        "Nous prenons soin l’un de l’autre.\f",
+        "Enfin, nous essayons, je crois.\f",
+        "C’est une bonne chose.\f",
+        "Zzzzz...\r"
       ]
     },
     {
@@ -545,6 +939,14 @@
         "{STRVAR_1 3, 1, 0} and I are together\n",
         "in synchronicity like twins.\r",
         "Hnurrr...\r"
+      ],
+      "fr_FR": [
+        "Zzzz... Comment expliquer?\n",
+        "Comment devrais-je nous décrire?\r",
+        "On est comme les deux doigts de la main.\r",
+        "{STRVAR_1 3, 1, 0} et moi, nous sommes\n",
+        "synchrones, comme deux jumeaux.\r",
+        "Zzzzzz...\r"
       ]
     },
     {
@@ -557,6 +959,15 @@
         "Hall of Fame...\n",
         "Words so sweet fall from my mouth.\r",
         "Hnurrr...\r"
+      ],
+      "fr_FR": [
+        "Zzzzzz...\n",
+        "Eh bien, que dire de plus?\r",
+        "Nous sommes arrivés si loin, nous\n",
+        "ne pouvons plus reculer maintenant.\r",
+        "Le Panthéon...\n",
+        "Ces mots sonnent si doux.\r",
+        "Zzzzz...\r"
       ]
     },
     {
@@ -565,6 +976,14 @@
         "Sssshhnnn...\n",
         "...\f",
         "...Ssshhhnnn...\f",
+        "...\f",
+        "Ssshhhnnn...\f",
+        "...\r"
+      ],
+      "fr_FR": [
+        "Sssshhnnn...\n",
+        "...\f",
+        "... Ssshhhnnn...\f",
         "...\f",
         "Ssshhhnnn...\f",
         "...\r"

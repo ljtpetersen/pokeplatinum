@@ -77,6 +77,10 @@
             "en_US": [
                 "I welcome you, young Trainer.\n",
                 "Allow me to demonstrate my power."
+            ],
+            "fr_FR": [
+                "Bienvenue, Dresseur.\n",
+                "Laisse-moi te montrer ma puissance."
             ]
         },
         {
@@ -84,6 +88,10 @@
             "en_US": [
                 "Young Trainer, do you have any idea\n",
                 "what my power signifies?\r"
+            ],
+            "fr_FR": [
+                "Dresseur, as-tu la moindre idée de\n",
+                "l’étendue de ma puissance?\r"
             ]
         },
         {
@@ -91,7 +99,12 @@
             "en_US": [
                 "You’ve surpassed me in your love of\n",
                 "Pokémon. You’re the truest of fans.\r"
+            ],
+            "fr_FR": [
+                "Tu m’as terrassé. Tu es digne de\n",
+                "devenir un vrai Pokéfan.\r"
             ]
         }
-    ]
+    ],
+    "name_fr": "Téva"
 }

@@ -56,15 +56,19 @@
     "messages": [
         {
             "type": "TRMSG_PRE_BATTLE",
-            "en_US": "And we’re off!"
+            "en_US": "And we’re off!",
+            "fr_FR": "Et c’est parti!"
         },
         {
             "type": "TRMSG_WIN",
-            "en_US": "We did it, yeah!\r"
+            "en_US": "We did it, yeah!\r",
+            "fr_FR": "Gagné! Youpi!\r"
         },
         {
             "type": "TRMSG_DEFEAT",
-            "en_US": "Uncle!\r"
+            "en_US": "Uncle!\r",
+            "fr_FR": "Je vais le dire!\r"
         }
-    ]
+    ],
+    "name_fr": "Irvin"
 }

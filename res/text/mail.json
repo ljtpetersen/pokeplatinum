@@ -3,22 +3,26 @@
   "messages": [
     {
       "id": "Mail_Text_Confirm",
-      "en_US": "CONFIRM"
+      "en_US": "CONFIRM",
+      "fr_FR": "CONFIRMER"
     },
     {
       "id": "Mail_Text_Cancel",
-      "en_US": "CANCEL"
+      "en_US": "CANCEL",
+      "fr_FR": "QUITTER"
     },
     {
       "id": "Mail_Text_EnterPhraseOrWord",
-      "en_US": "Please enter a phrase or word."
+      "en_US": "Please enter a phrase or word.",
+      "fr_FR": "Entrez une expression ou un mot."
     },
     {
       "id": "Mail_Text_StopGivingMailPrompt",
       "en_US": [
         "Stop giving the Pokémon\n",
         "Mail?"
-      ]
+      ],
+      "fr_FR": "Abandonner?"
     }
   ]
 }

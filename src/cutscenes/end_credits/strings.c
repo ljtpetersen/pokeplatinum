@@ -4,6 +4,7 @@
 #include <string.h>
 
 #include "constants/graphics.h"
+#include "constants/platinum_version.h"
 
 #include "bg_window.h"
 #include "font.h"
@@ -28,6 +29,7 @@ static const struct {
     u16 centered;
 } sEndCreditStringProps[] = {
     { .messageID = pl_msg_00000548_00000, .yOffset = 0, .centered = TRUE },
+#if POKEPLATINUM_VERSION <= POKEPLATINUM_VERSION_EU
     { .messageID = pl_msg_00000548_00001, .yOffset = 16, .centered = TRUE },
     { .messageID = pl_msg_00000548_00002, .yOffset = 146, .centered = FALSE },
     { .messageID = pl_msg_00000548_00003, .yOffset = 167, .centered = FALSE },
@@ -264,6 +266,7 @@ static const struct {
     { .messageID = pl_msg_00000548_00234, .yOffset = 7544, .centered = FALSE },
     { .messageID = pl_msg_00000548_00235, .yOffset = 7565, .centered = FALSE },
     { .messageID = pl_msg_00000548_00236, .yOffset = 7581, .centered = FALSE }
+#endif
 };
 
 static void EndCreditsStrings_VBlankCallback(SysTask *sysTask, void *pManager);

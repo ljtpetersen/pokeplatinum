@@ -25,5 +25,12 @@
     "contest": {
         "effect": "CONTEST_EFFECT_BASIC",
         "type": "CONTEST_TYPE_BEAUTY"
-    }
+    },
+    "name_fr": "Flammèche",
+    "description_fr": [
+        "L’ennemi est attaqué\n",
+        "par de faibles\n",
+        "flammes. Peut aussi le\n",
+        "brûler."
+    ]
 }

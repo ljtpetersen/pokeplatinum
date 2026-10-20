@@ -33,11 +33,16 @@
             "en_US": [
                 "All right, my Pokémon squad!\n",
                 "Get out there and kick up a storm!\r"
+            ],
+            "fr_FR": [
+                "Equipe Pokémon, en formation!\n",
+                "Technique de la tempête mystique! Yaaa!\r"
             ]
         },
         {
             "type": "TRMSG_DEFEAT",
-            "en_US": "The squad failed to hit its stride...\n"
+            "en_US": "The squad failed to hit its stride...\n",
+            "fr_FR": "Equipe Pokémon, repli stratégique!"
         },
         {
             "type": "TRMSG_POST_BATTLE",
@@ -45,6 +50,11 @@
                 "Hmm...\r",
                 "Gazing out over the sea doesn’t do a\n",
                 "thing for toughening up my Pokémon!\n"
+            ],
+            "fr_FR": [
+                "Hum...\r",
+                "Rester là à regarder la mer ne va pas\n",
+                "nous aider à améliorer nos techniques.\n"
             ]
         },
         {
@@ -53,7 +63,13 @@
                 "Ah, it’s been a long time!\r",
                 "I have been toughening my fists\n",
                 "against the sea, just as before!\r"
+            ],
+            "fr_FR": [
+                "Ah, ça faisait longtemps!\r",
+                "J’ai endurci mes poings contre la mer,\n",
+                "comme avant!\r"
             ]
         }
-    ]
+    ],
+    "name_fr": "Daisuke"
 }

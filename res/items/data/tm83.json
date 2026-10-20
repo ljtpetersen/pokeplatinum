@@ -27,5 +27,13 @@
   "fieldUseFunc": "ITEM_USE_FUNC_TM_HM",
   "battleUseCategory": "BATTLE_USE_CATEGORY_NONE",
   "itemUseParams": null,
-  "teachesMove": "MOVE_NATURAL_GIFT"
+  "teachesMove": "MOVE_NATURAL_GIFT",
+  "name_fr": "CT83",
+  "description_fr": [
+    "Avant d’attaquer, le lanceur rassemble\n",
+    "ses forces grâce à sa Baie. Elle\n",
+    "détermine le type et la puissance."
+  ],
+  "plural_fr": "CT83",
+  "article_fr": null
 }

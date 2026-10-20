@@ -26,5 +26,13 @@
     "contest": {
         "effect": "CONTEST_EFFECT_BASIC",
         "type": "CONTEST_TYPE_COOL"
-    }
+    },
+    "name_fr": "Aile d’Acier",
+    "description_fr": [
+        "Le lanceur frappe\n",
+        "l’ennemi avec des\n",
+        "ailes d’acier. Peut\n",
+        "aussi augmenter la\n",
+        "Défense du lanceur."
+    ]
 }

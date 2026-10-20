@@ -3,7 +3,8 @@
   "messages": [
     {
       "id": "LinkSearcher_Text_Title",
-      "en_US": "LINK SEARCHER"
+      "en_US": "LINK SEARCHER",
+      "fr_FR": "CHERCHE-CONNEXION"
     },
     {
       "id": "LinkSearcher_Text_Searching",
@@ -11,46 +12,65 @@
         "Searching for wireless\n",
         "communications activity\n",
         "Please wait."
+      ],
+      "fr_FR": [
+        "Recherche de communication sans fil\n",
+        "en cours... Veuillez patienter."
       ]
     },
     {
       "id": "LinkSearcher_Text_Error",
-      "en_US": "Error!"
+      "en_US": "Error!",
+      "fr_FR": "Erreur!"
     },
     {
       "id": "LinkSearcher_Text_Unusable",
-      "en_US": "Search is unusable here."
+      "en_US": "Search is unusable here.",
+      "fr_FR": "Recherche impossible ici."
     },
     {
       "id": "LinkSearcher_Text_DontMove",
       "en_US": [
         "Please don’t move\n",
         "while searching."
+      ],
+      "fr_FR": [
+        "Veuillez ne pas bouger\n",
+        "pendant la recherche."
       ]
     },
     {
       "id": "LinkSearcher_Text_Status",
-      "en_US": "LINK STATUS"
+      "en_US": "LINK STATUS",
+      "fr_FR": "STATUT CONNEXION"
     },
     {
       "id": "LinkSearcher_Text_UnionRoom",
-      "en_US": "Union Room"
+      "en_US": "Union Room",
+      "fr_FR": "Salle Union"
     },
     {
       "id": "LinkSearcher_Text_Underground",
-      "en_US": "Underground"
+      "en_US": "Underground",
+      "fr_FR": "Souterrain"
     },
     {
       "id": "LinkSearcher_Text_Colosseum",
-      "en_US": "Colosseum"
+      "en_US": "Colosseum",
+      "fr_FR": "Colisée"
     },
     {
       "id": "LinkSearcher_Text_OtherLinks",
-      "en_US": "Other Links"
+      "en_US": "Other Links",
+      "fr_FR": "Autres connexions"
     },
     {
       "id": "LinkSearcher_Text_TouchToBegin",
-      "en_US": "Touch to begin communication!"
+      "en_US": "Touch to begin communication!",
+      "fr_FR": [
+        "Touchez pour lancer la\n",
+        "communication!"
+      ]
     }
   ]
 }

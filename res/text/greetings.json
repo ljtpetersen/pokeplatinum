@@ -3,431 +3,538 @@
   "messages": [
     {
       "id": "Greetings_Text_Konnichiwa",
-      "en_US": "KONNICHIWA"
+      "en_US": "KONNICHIWA",
+      "fr_FR": "KONNICHIWA"
     },
     {
       "id": "Greetings_Text_Hello",
-      "en_US": "HELLO"
+      "en_US": "HELLO",
+      "fr_FR": "HELLO"
     },
     {
       "id": "Greetings_Text_Bonjour",
-      "en_US": "BONJOUR"
+      "en_US": "BONJOUR",
+      "fr_FR": "BONJOUR"
     },
     {
       "id": "Greetings_Text_Ciao",
-      "en_US": "CIAO"
+      "en_US": "CIAO",
+      "fr_FR": "CIAO"
     },
     {
       "id": "Greetings_Text_Hallo",
-      "en_US": "HALLO"
+      "en_US": "HALLO",
+      "fr_FR": "HALLO"
     },
     {
       "id": "Greetings_Text_Hola",
-      "en_US": "HOLA"
+      "en_US": "HOLA",
+      "fr_FR": "HOLA"
     },
     {
       "id": "Greetings_Text_OhWell",
-      "en_US": "OH WELL"
+      "en_US": "OH WELL",
+      "fr_FR": "OH BON"
     },
     {
       "id": "Greetings_Text_Aah",
-      "en_US": "AAH"
+      "en_US": "AAH",
+      "fr_FR": "AAH"
     },
     {
       "id": "Greetings_Text_Ahaha",
-      "en_US": "AHAHA"
+      "en_US": "AHAHA",
+      "fr_FR": "HA HA HA"
     },
     {
       "id": "Greetings_Text_Huh_Unused",
-      "en_US": "HUH?"
+      "en_US": "HUH?",
+      "fr_FR": "HO"
     },
     {
       "id": "Greetings_Text_Thanks",
-      "en_US": "THANKS"
+      "en_US": "THANKS",
+      "fr_FR": "MERCI BIEN"
     },
     {
       "id": "Greetings_Text_NoProblem",
-      "en_US": "NO PROBLEM"
+      "en_US": "NO PROBLEM",
+      "fr_FR": "PAS DE SOUCI"
     },
     {
       "id": "Greetings_Text_Nope",
-      "en_US": "NOPE"
+      "en_US": "NOPE",
+      "fr_FR": "NAN"
     },
     {
       "id": "Greetings_Text_Yes",
-      "en_US": "YES"
+      "en_US": "YES",
+      "fr_FR": "OUI"
     },
     {
       "id": "Greetings_Text_HereGoes",
-      "en_US": "HERE GOES"
+      "en_US": "HERE GOES",
+      "fr_FR": "DEBUTONS"
     },
     {
       "id": "Greetings_Text_LetsGo",
-      "en_US": "LET’S GO"
+      "en_US": "LET’S GO",
+      "fr_FR": "C’EST PARTI"
     },
     {
       "id": "Greetings_Text_HereICome",
-      "en_US": "HERE I COME"
+      "en_US": "HERE I COME",
+      "fr_FR": "J’ARRIVE"
     },
     {
       "id": "Greetings_Text_Yeah",
-      "en_US": "YEAH"
+      "en_US": "YEAH",
+      "fr_FR": "YAAAH"
     },
     {
       "id": "Greetings_Text_Welcome_Unused",
-      "en_US": "WELCOME"
+      "en_US": "WELCOME",
+      "fr_FR": "BIENVENUE"
     },
     {
       "id": "Greetings_Text_Urgh",
-      "en_US": "URGH"
+      "en_US": "URGH",
+      "fr_FR": "URGH"
     },
     {
       "id": "Greetings_Text_LetMeThink",
-      "en_US": "LET ME THINK"
+      "en_US": "LET ME THINK",
+      "fr_FR": "HEU, NON"
     },
     {
       "id": "Greetings_Text_Hmm",
-      "en_US": "HMM"
+      "en_US": "HMM",
+      "fr_FR": "HUMMM"
     },
     {
       "id": "Greetings_Text_Whoa",
-      "en_US": "WHOA"
+      "en_US": "WHOA",
+      "fr_FR": "WOOOH"
     },
     {
       "id": "Greetings_Text_Wroooaar",
-      "en_US": "WROOOAAR!"
+      "en_US": "WROOOAAR!",
+      "fr_FR": "GROOOAR"
     },
     {
       "id": "Greetings_Text_Wow",
-      "en_US": "WOW"
+      "en_US": "WOW",
+      "fr_FR": "WAOUH"
     },
     {
       "id": "Greetings_Text_Snicker",
-      "en_US": "SNICKER"
+      "en_US": "SNICKER",
+      "fr_FR": "GLOUSSEMENT"
     },
     {
       "id": "Greetings_Text_CuteLaugh",
-      "en_US": "CUTE LAUGH"
+      "en_US": "CUTE LAUGH",
+      "fr_FR": "RIRE GENE"
     },
     {
       "id": "Greetings_Text_Unbelievable",
-      "en_US": "UNBELIEVABLE"
+      "en_US": "UNBELIEVABLE",
+      "fr_FR": "INCROYABLE"
     },
     {
       "id": "Greetings_Text_Cries",
-      "en_US": "CRIES"
+      "en_US": "CRIES",
+      "fr_FR": "OUIN"
     },
     {
       "id": "Greetings_Text_OK",
-      "en_US": "OK"
+      "en_US": "OK",
+      "fr_FR": "OK"
     },
     {
       "id": "Greetings_Text_Agree",
-      "en_US": "AGREE"
+      "en_US": "AGREE",
+      "fr_FR": "D’ACCORD"
     },
     {
       "id": "Greetings_Text_Eh",
-      "en_US": "EH?"
+      "en_US": "EH?",
+      "fr_FR": "QUOI?"
     },
     {
       "id": "Greetings_Text_Boohoo",
-      "en_US": "BOO-HOO"
+      "en_US": "BOO-HOO",
+      "fr_FR": "BOU-HOU"
     },
     {
       "id": "Greetings_Text_Hehehe",
-      "en_US": "HEHEHE"
+      "en_US": "HEHEHE",
+      "fr_FR": "HE HE HE"
     },
     {
       "id": "Greetings_Text_Hey",
-      "en_US": "HEY"
+      "en_US": "HEY",
+      "fr_FR": "AIE AIE AIE"
     },
     {
       "id": "Greetings_Text_OhYeah",
-      "en_US": "OH, YEAH"
+      "en_US": "OH, YEAH",
+      "fr_FR": "OH, OUI"
     },
     {
       "id": "Greetings_Text_OhWow",
-      "en_US": "OH WOW!"
+      "en_US": "OH WOW!",
+      "fr_FR": "OH, WAOUH"
     },
     {
       "id": "Greetings_Text_Heeey",
-      "en_US": "HEEEY"
+      "en_US": "HEEEY",
+      "fr_FR": "HE HO"
     },
     {
       "id": "Greetings_Text_Greetings",
-      "en_US": "GREETINGS"
+      "en_US": "GREETINGS",
+      "fr_FR": "SALUTATIONS"
     },
     {
       "id": "Greetings_Text_Oops",
-      "en_US": "OOPS"
+      "en_US": "OOPS",
+      "fr_FR": "OUPS"
     },
     {
       "id": "Greetings_Text_WellDone",
-      "en_US": "WELL DONE"
+      "en_US": "WELL DONE",
+      "fr_FR": "BRAVO"
     },
     {
       "id": "Greetings_Text_OhMy",
-      "en_US": "OH MY"
+      "en_US": "OH MY",
+      "fr_FR": "HO LA LA"
     },
     {
       "id": "Greetings_Text_Eek",
-      "en_US": "EEK"
+      "en_US": "EEK",
+      "fr_FR": "OUILLE"
     },
     {
       "id": "Greetings_Text_Yaaah",
-      "en_US": "YAAAH"
+      "en_US": "YAAAH",
+      "fr_FR": "GAAAH"
     },
     {
       "id": "Greetings_Text_Giggle",
-      "en_US": "GIGGLE"
+      "en_US": "GIGGLE",
+      "fr_FR": "HI HI HOU"
     },
     {
       "id": "Greetings_Text_GiveMe",
-      "en_US": "GIVE ME"
+      "en_US": "GIVE ME",
+      "fr_FR": "DONNE-MOI"
     },
     {
       "id": "Greetings_Text_Gwahahaha",
-      "en_US": "GWAHAHAHA"
+      "en_US": "GWAHAHAHA",
+      "fr_FR": "GRRR"
     },
     {
       "id": "Greetings_Text_Ugh",
-      "en_US": "UGH"
+      "en_US": "UGH",
+      "fr_FR": "ARGH"
     },
     {
       "id": "Greetings_Text_Sorry",
-      "en_US": "SORRY"
+      "en_US": "SORRY",
+      "fr_FR": "EXCUSE-MOI"
     },
     {
       "id": "Greetings_Text_ForgiveMe",
-      "en_US": "FORGIVE ME"
+      "en_US": "FORGIVE ME",
+      "fr_FR": "PARDONNE-MOI"
     },
     {
       "id": "Greetings_Text_ImSorry",
-      "en_US": "I’M SORRY"
+      "en_US": "I’M SORRY",
+      "fr_FR": "EXCUSE"
     },
     {
       "id": "Greetings_Text_HeyExclamation",
-      "en_US": "HEY!"
+      "en_US": "HEY!",
+      "fr_FR": "HE TOI"
     },
     {
       "id": "Greetings_Text_GoodBye",
-      "en_US": "GOOD-BYE"
+      "en_US": "GOOD-BYE",
+      "fr_FR": "AU REVOIR"
     },
     {
       "id": "Greetings_Text_ThankYou",
-      "en_US": "THANK YOU"
+      "en_US": "THANK YOU",
+      "fr_FR": "MERCI"
     },
     {
       "id": "Greetings_Text_IveArrived",
-      "en_US": "I’VE ARRIVED"
+      "en_US": "I’VE ARRIVED",
+      "fr_FR": "JE SUIS LA"
     },
     {
       "id": "Greetings_Text_Weep",
-      "en_US": "WEEP"
+      "en_US": "WEEP",
+      "fr_FR": "PLEURS"
     },
     {
       "id": "Greetings_Text_PardonMe",
-      "en_US": "PARDON ME"
+      "en_US": "PARDON ME",
+      "fr_FR": "MES EXCUSES"
     },
     {
       "id": "Greetings_Text_SoSorry",
-      "en_US": "SO SORRY"
+      "en_US": "SO SORRY",
+      "fr_FR": "JE M’EXCUSE"
     },
     {
       "id": "Greetings_Text_SeeYa",
-      "en_US": "SEE YA"
+      "en_US": "SEE YA",
+      "fr_FR": "A PLUS"
     },
     {
       "id": "Greetings_Text_ExcuseMe",
-      "en_US": "EXCUSE ME"
+      "en_US": "EXCUSE ME",
+      "fr_FR": "PARDON"
     },
     {
       "id": "Greetings_Text_OkayThen",
-      "en_US": "OKAY THEN"
+      "en_US": "OKAY THEN",
+      "fr_FR": "EH BIEN"
     },
     {
       "id": "Greetings_Text_Tut",
-      "en_US": "TUT"
+      "en_US": "TUT",
+      "fr_FR": "PSHT"
     },
     {
       "id": "Greetings_Text_Blush",
-      "en_US": "BLUSH"
+      "en_US": "BLUSH",
+      "fr_FR": "ÇA ME GENE"
     },
     {
       "id": "Greetings_Text_GoAhead",
-      "en_US": "GO AHEAD"
+      "en_US": "GO AHEAD",
+      "fr_FR": "VAS-Y"
     },
     {
       "id": "Greetings_Text_Cheers",
-      "en_US": "CHEERS"
+      "en_US": "CHEERS",
+      "fr_FR": "MILLE MERCIS"
     },
     {
       "id": "Greetings_Text_HeyQuestion",
-      "en_US": "HEY?"
+      "en_US": "HEY?",
+      "fr_FR": "HE?"
     },
     {
       "id": "Greetings_Text_WhatsUp",
-      "en_US": "WHAT’S UP?"
+      "en_US": "WHAT’S UP?",
+      "fr_FR": "QU’Y A-T-IL?"
     },
     {
       "id": "Greetings_Text_Huh",
-      "en_US": "HUH?"
+      "en_US": "HUH?",
+      "fr_FR": "HEIN"
     },
     {
       "id": "Greetings_Text_No",
-      "en_US": "NO"
+      "en_US": "NO",
+      "fr_FR": "NON"
     },
     {
       "id": "Greetings_Text_Sigh",
-      "en_US": "SIGH"
+      "en_US": "SIGH",
+      "fr_FR": "PFF"
     },
     {
       "id": "Greetings_Text_Hi",
-      "en_US": "HI"
+      "en_US": "HI",
+      "fr_FR": "COMPRIS"
     },
     {
       "id": "Greetings_Text_Yep",
-      "en_US": "YEP"
+      "en_US": "YEP",
+      "fr_FR": "OUAIP"
     },
     {
       "id": "Greetings_Text_YeahYeah",
-      "en_US": "YEAH, YEAH"
+      "en_US": "YEAH, YEAH",
+      "fr_FR": "OUAIS OUAIS"
     },
     {
       "id": "Greetings_Text_ByeBye",
-      "en_US": "BYE-BYE"
+      "en_US": "BYE-BYE",
+      "fr_FR": "BYE"
     },
     {
       "id": "Greetings_Text_MeetYou",
-      "en_US": "MEET YOU"
+      "en_US": "MEET YOU",
+      "fr_FR": "ENCHANTE"
     },
     {
       "id": "Greetings_Text_Hahaha",
-      "en_US": "HAHAHA"
+      "en_US": "HAHAHA",
+      "fr_FR": "HAHAHA"
     },
     {
       "id": "Greetings_Text_Aiyeeh",
-      "en_US": "AIYEEH"
+      "en_US": "AIYEEH",
+      "fr_FR": "AYAHHHH"
     },
     {
       "id": "Greetings_Text_Hiyah",
-      "en_US": "HIYAH"
+      "en_US": "HIYAH",
+      "fr_FR": "ME VOILA"
     },
     {
       "id": "Greetings_Text_Muhahaha",
-      "en_US": "MUHAHAHA"
+      "en_US": "MUHAHAHA",
+      "fr_FR": "NIARK-NIARK"
     },
     {
       "id": "Greetings_Text_LOL",
-      "en_US": "LOL"
+      "en_US": "LOL",
+      "fr_FR": "TROP DROLE"
     },
     {
       "id": "Greetings_Text_Snort",
-      "en_US": "SNORT"
+      "en_US": "SNORT",
+      "fr_FR": "RRRH"
     },
     {
       "id": "Greetings_Text_Humph",
-      "en_US": "HUMPH"
+      "en_US": "HUMPH",
+      "fr_FR": "HOUF"
     },
     {
       "id": "Greetings_Text_Hey_Unused",
-      "en_US": "HEY"
+      "en_US": "HEY",
+      "fr_FR": "HE"
     },
     {
       "id": "Greetings_Text_HeheheHyphens",
-      "en_US": "HE-HE-HE"
+      "en_US": "HE-HE-HE",
+      "fr_FR": "HEHEHE"
     },
     {
       "id": "Greetings_Text_Heh",
-      "en_US": "HEH"
+      "en_US": "HEH",
+      "fr_FR": "HEEEE"
     },
     {
       "id": "Greetings_Text_Hohoho",
-      "en_US": "HOHOHO"
+      "en_US": "HOHOHO",
+      "fr_FR": "HO HO HO"
     },
     {
       "id": "Greetings_Text_ThereYouGo",
-      "en_US": "THERE YOU GO"
+      "en_US": "THERE YOU GO",
+      "fr_FR": "VOILA"
     },
     {
       "id": "Greetings_Text_OhDear",
-      "en_US": "OH, DEAR"
+      "en_US": "OH, DEAR",
+      "fr_FR": "DIS DONC"
     },
     {
       "id": "Greetings_Text_ByeForNow",
-      "en_US": "BYE FOR NOW"
+      "en_US": "BYE FOR NOW",
+      "fr_FR": "A PLUS TARD"
     },
     {
       "id": "Greetings_Text_Angry",
-      "en_US": "ANGRY"
+      "en_US": "ANGRY",
+      "fr_FR": "ENRAGE"
     },
     {
       "id": "Greetings_Text_Mufufu",
-      "en_US": "MUFUFU"
+      "en_US": "MUFUFU",
+      "fr_FR": "MOUAHAHA"
     },
     {
       "id": "Greetings_Text_Mmm",
-      "en_US": "MMM"
+      "en_US": "MMM",
+      "fr_FR": "RICTUS"
     },
     {
       "id": "Greetings_Text_HelloQuestion",
-      "en_US": "HELLO?"
+      "en_US": "HELLO?",
+      "fr_FR": "QUI EST LA?"
     },
     {
       "id": "Greetings_Text_HiThere",
-      "en_US": "HI THERE"
+      "en_US": "HI THERE",
+      "fr_FR": "SALUT TOI"
     },
     {
       "id": "Greetings_Text_NoWay",
-      "en_US": "NO WAY"
+      "en_US": "NO WAY",
+      "fr_FR": "PAS QUESTION"
     },
     {
       "id": "Greetings_Text_Yahoo",
-      "en_US": "YAHOO"
+      "en_US": "YAHOO",
+      "fr_FR": "HOUHOU"
     },
     {
       "id": "Greetings_Text_Yo",
-      "en_US": "YO"
+      "en_US": "YO",
+      "fr_FR": "YO"
     },
     {
       "id": "Greetings_Text_Welcome",
-      "en_US": "WELCOME"
+      "en_US": "WELCOME",
+      "fr_FR": "BIENVENUE!"
     },
     {
       "id": "Greetings_Text_OK_Unused",
-      "en_US": "OK"
+      "en_US": "OK",
+      "fr_FR": "BIEN"
     },
     {
       "id": "Greetings_Text_Regards",
-      "en_US": "REGARDS"
+      "en_US": "REGARDS",
+      "fr_FR": "C’EST ÇA"
     },
     {
       "id": "Greetings_Text_Lalala",
-      "en_US": "LALALA"
+      "en_US": "LALALA",
+      "fr_FR": "LA LA LA"
     },
     {
       "id": "Greetings_Text_Yay",
-      "en_US": "YAY"
+      "en_US": "YAY",
+      "fr_FR": "YESSS"
     },
     {
       "id": "Greetings_Text_Wail",
-      "en_US": "WAIL"
+      "en_US": "WAIL",
+      "fr_FR": "BOUHOUHOU"
     },
     {
       "id": "Greetings_Text_Wow_Unused",
-      "en_US": "WOW"
+      "en_US": "WOW",
+      "fr_FR": "WOUHOU"
     },
     {
       "id": "Greetings_Text_Boo",
-      "en_US": "BOO!"
+      "en_US": "BOO!",
+      "fr_FR": "ÇA ALORS"
     },
     {
       "id": "Greetings_Text_Wahaha",
-      "en_US": "WAHAHA"
+      "en_US": "WAHAHA",
+      "fr_FR": "OUHAHAHA"
     },
     {
       "id": "Greetings_Text_Ellipsis",
-      "en_US": "..."
+      "en_US": "...",
+      "fr_FR": "..."
     }
   ]
 }

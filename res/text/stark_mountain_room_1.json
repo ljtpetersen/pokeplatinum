@@ -14,6 +14,19 @@
         "Don’t play that card with me!\r",
         "Fine! You don’t want to talk?\n",
         "I’ll bash you and make you talk!\r"
+      ],
+      "fr_FR": [
+        "Mars: Hé! Toi!\n",
+        "Dis-nous où est passé Maître Hélio.\r",
+        "Vous étiez où après votre disparition,\n",
+        "aux Colonnes Lances?\r",
+        "Hein? Dans le Monde Distorsion?!\n",
+        "Celui où vit GIRATINA?\r",
+        "Tu racontes n’importe quoi!\n",
+        "Ne joue pas à ça avec moi!\r",
+        "Tu refuses de dire la vérité?\n",
+        "T’inquiète, j’ai les moyens de\f",
+        "te faire parler!\r"
       ]
     },
     {
@@ -22,6 +35,12 @@
         "Mars: My Pokémon let me down again!\r",
         "How am I supposed to get information\n",
         "about our missing Master Cyrus?\r"
+      ],
+      "fr_FR": [
+        "Mars: Mes Pokémon m’ont encore laissé\n",
+        "tomber!\r",
+        "Comment suis-je censée recueillir des\n",
+        "informations sur notre maître disparu?\r"
       ]
     },
     {
@@ -34,11 +53,20 @@
         "Fine. I’ll go up next.\r",
         "I want to know what became of Master\n",
         "Cyrus, too.\r"
+      ],
+      "fr_FR": [
+        "Jupiter: Mars...\n",
+        "Quelle faiblesse, c’est pitoyable.\r",
+        "J’ai honte d’être Commandant comme toi.\n",
+        "A mon tour, maintenant.\r",
+        "Moi aussi, je veux découvrir ce qu’est\n",
+        "devenu Hélio.\r"
       ]
     },
     {
       "id": "StarkMountainRoom1_Text_HowDareYou",
-      "en_US": "Jupiter: ...How dare you!\r"
+      "en_US": "Jupiter: ...How dare you!\r",
+      "fr_FR": "Jupiter: Comment oses-tu?!\r"
     },
     {
       "id": "StarkMountainRoom1_Text_ThatsItForMe",
@@ -49,6 +77,14 @@
         "I should go there, right?\r",
         "I’m quits with Team Galactic.\n",
         "Jupiter, you can deal with it!\r"
+      ],
+      "fr_FR": [
+        "Mars: OK! Ça suffit!\n",
+        "Je vais chercher Maître Hélio.\r",
+        "Le Monde Distorsion, c’est bien ça?\n",
+        "Je m’y rends de ce pas.\r",
+        "La Team Galaxie, c’est fini pour moi.\n",
+        "Jupiter, débrouille-toi toute seule!\r"
       ]
     },
     {
@@ -61,6 +97,15 @@
         "Master Cyrus around.\r",
         "So, old-timer, go ahead.\n",
         "Do what you want with Team Galactic.\r"
+      ],
+      "fr_FR": [
+        "Jupiter: Ça m’a toujours hérissée de\n",
+        "suivre Mars dans ses décisions, mais...\r",
+        "Je raccroche, moi aussi.\r",
+        "La Team Galaxie n’a plus aucun intérêt\n",
+        "sans Maître Hélio.\r",
+        "Mon vieux, fais ce que tu veux de la\n",
+        "Team Galaxie. Tu as carte blanche.\r"
       ]
     },
     {
@@ -69,6 +114,12 @@
         "Mars: There you have it. We’re going\n",
         "back to being ordinary girls.\r",
         "You can mop up whichever way you want.\r"
+      ],
+      "fr_FR": [
+        "Mars: Nous voilà de retour à nos vies\n",
+        "de jeunes filles ordinaires.\r",
+        "Tu peux faire le ménage, si ça te\n",
+        "chante.\r"
       ]
     },
     {
@@ -78,6 +129,13 @@
         "An “ordinary girl” you’re not.\r",
         "What should I do now?\n",
         "Is leaving on a journey the right idea?\r"
+      ],
+      "fr_FR": [
+        "Jupiter: Tu parles...\n",
+        "Une “fille ordinaire”?\f",
+        "Et puis quoi encore...\r",
+        "Bon, que faire maintenant?\n",
+        "Partir en voyage, peut-être?\r"
       ]
     },
     {
@@ -93,6 +151,18 @@
         "creation for his ludicrous vision.\r",
         "It’s no thanks to him that I have to\n",
         "struggle with the pieces.\r"
+      ],
+      "fr_FR": [
+        "Pluton: Pfff...\n",
+        "Si impressionnables et impétueuses.\r",
+        "Pourquoi une telle admiration pour\n",
+        "cet Hélio, immature et imbu de sa\f",
+        "personne?\r",
+        "Il prend la peine de fonder la Team\n",
+        "Galaxie et finit par tout détruire au\f",
+        "nom de son rêve ridicule.\r",
+        "A cause de lui, me voilà contraint de\n",
+        "recoller les morceaux.\r"
       ]
     },
     {
@@ -108,6 +178,19 @@
         "who did all suffered consequences.\r",
         "We’ll be off to collect the Magma Stone.\n",
         "It’s all for the money!\r"
+      ],
+      "fr_FR": [
+        "Mais je m’en accommoderai.\r",
+        "Laissons les jeunes rêver. Quant à moi,\n",
+        "je préfère garder les pieds sur terre.\r",
+        "L’argent est la seule chose qui compte.\n",
+        "Toi, le marmot. Ce n’est pas moi qui\f",
+        "irai te chercher des noises.\r",
+        "Il m’a suffi de voir ce qui est arrivé\n",
+        "à ceux qui ont fait cette erreur.\r",
+        "Partons sans plus attendre en quête de\n",
+        "la Pierre Magma. Avec elle, je suis sûr\f",
+        "de toucher le pactole!\r"
       ]
     }
   ]

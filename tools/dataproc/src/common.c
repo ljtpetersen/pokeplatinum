@@ -374,6 +374,62 @@ char* strupper(const char *s) {
     return capped;
 }
 
+char* strupper_remove_accents(const char *s) {
+    unsigned char *capped = calloc(strlen(s) + 1, 1);
+    for (size_t i = 0, j = 0; i < strlen(s); i++, j++) {
+        capped[j] = (unsigned char)s[i];
+        if (capped[j] >= 'a' && capped[j] <= 'z') capped[j] -= ('a' - 'A');
+        // uses UTF-8 encoding.
+        if (capped[j] == 0xC3 && (s[i + 1] & 0x3F) >= 0x20) {
+            unsigned char second = ((unsigned char)s[i + 1]) & 0x3F;
+            if (second >= 0x20 && second <= 0x25) {
+                capped[j] = 'A';
+            } else if (second == 0x26) {
+                // corresponds to Æ
+                capped[++j] = 0x86;
+            } else if (second == 0x27) {
+                // corresponds to Ç
+                capped[++j] = 0x87;
+            } else if (second >= 0x28 && second <= 0x2B) {
+                capped[j] = 'E';
+            } else if (second >= 0x2C && second <= 0x2F) {
+                capped[j] = 'I';
+            } else if (second == 0x30) {
+                // corresponds to Đ
+                capped[++j] = 0x90;
+            } else if (second == 0x31) {
+                capped[j] = 'N';
+            } else if (second >= 0x32 && second <= 0x36) {
+                capped[j] = 'O';
+            } else if (second == 0x38) {
+                // corresponds to Ø
+                capped[++j] = 0x98;
+            } else if (second >= 0x39 && second <= 0x3C) {
+                capped[j] = 'U';
+            } else if (second == 0x3D || second == 0x3F) {
+                capped[j] = 'Y';
+            } else {
+                // corresponds to Þ
+                capped[++j] = 0x9E;
+            }
+            ++i;
+        } else if (capped[j] == 0xC5) {
+            if (((unsigned char)s[i + 1]) == 0x93) {
+                // corresponds to Œ
+                capped[++j] = 0x92;
+            } else if (((unsigned char)s[i + 1]) == 0x9F) {
+                // corresponds to Ş
+                capped[++j] = 0x9E;
+            } else {
+                continue;
+            }
+            ++i;
+        }
+    }
+
+    return (char *)capped;
+}
+
 char* strlower(const char *s) {
     char *capped = calloc(strlen(s) + 1, 1);
     for (size_t i = 0; i < strlen(s); i++) {
@@ -642,11 +698,11 @@ void bank_pushnode(datanode_t *root, const char *id, datanode_t content) {
     dp_obj_putstring(&entry, "id", id);
 
     if (content.type == DATAPROC_T_STRING) {
-        dp_obj_putstring(&entry, "en_US", dp_string(content));
+        dp_obj_putstring(&entry, TEXT_BANK_KEY, dp_string(content));
     }
     else if (content.type == DATAPROC_T_ARRAY) {
         size_t     count = dp_arrlen(content);
-        datanode_t lines = dp_obj_putarray(&entry, "en_US");
+        datanode_t lines = dp_obj_putarray(&entry, TEXT_BANK_KEY);
         for (size_t i = 0; i < count; i++) {
             dp_arr_appstring(&lines, dp_string(dp_arrelem(content, i)));
         }
@@ -659,7 +715,7 @@ void bank_pushnode(datanode_t *root, const char *id, datanode_t content) {
 void bank_pushraw(datanode_t *root, const char *id, const char *content) {
     datanode_t entry = dp_arr_appobject(root);
     dp_obj_putstring(&entry, "id", id);
-    dp_obj_putstring(&entry, "en_US", content);
+    dp_obj_putstring(&entry, TEXT_BANK_KEY, content);
 }
 
 void bank_pushgarbage(datanode_t *root, const char *id, uint64_t size) {
@@ -675,7 +731,7 @@ void bank_pushlines(datanode_t *root, const char *id, ...) {
     datanode_t entry = dp_arr_appobject(root);
     dp_obj_putstring(&entry, "id", id);
 
-    datanode_t lines = dp_obj_putarray(&entry, "en_US");
+    datanode_t lines = dp_obj_putarray(&entry, TEXT_BANK_KEY);
     for (;;) {
         const char *line = va_arg(content, const char *);
         if (!line) break;

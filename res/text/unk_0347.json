@@ -3,11 +3,13 @@
   "messages": [
     {
       "id": "pl_msg_00000347_00000",
-      "en_US": "Ratio"
+      "en_US": "Ratio",
+      "fr_FR": "Ratio"
     },
     {
       "id": "pl_msg_00000347_00001",
-      "en_US": "Height"
+      "en_US": "Height",
+      "fr_FR": "Height"
     },
     {
       "id": "pl_msg_00000347_00002",
@@ -21,83 +23,113 @@
         "L: Next Pokémon\n",
         "R: Previous Pokémon\n",
         "SELECT: Switch gender"
+      ],
+      "fr_FR": [
+        "LEFT: Shrink\n",
+        "RIGHT: Enlarge\n",
+        "UP: Move upward\n",
+        "DOWN: Move downward\n",
+        "A: Change\n",
+        "B: Cancel\n",
+        "L: Next Pokémon\n",
+        "R: Previous Pokémon\n",
+        "SELECT: Switch gender"
       ]
     },
     {
       "id": "pl_msg_00000347_00003",
-      "en_US": "Player (Girl)"
+      "en_US": "Player (Girl)",
+      "fr_FR": "Player (Girl)"
     },
     {
       "id": "pl_msg_00000347_00004",
-      "en_US": "0"
+      "en_US": "0",
+      "fr_FR": "0"
     },
     {
       "id": "pl_msg_00000347_00005",
-      "en_US": "1"
+      "en_US": "1",
+      "fr_FR": "1"
     },
     {
       "id": "pl_msg_00000347_00006",
-      "en_US": "2"
+      "en_US": "2",
+      "fr_FR": "2"
     },
     {
       "id": "pl_msg_00000347_00007",
-      "en_US": "3"
+      "en_US": "3",
+      "fr_FR": "3"
     },
     {
       "id": "pl_msg_00000347_00008",
-      "en_US": "4"
+      "en_US": "4",
+      "fr_FR": "4"
     },
     {
       "id": "pl_msg_00000347_00009",
-      "en_US": "5"
+      "en_US": "5",
+      "fr_FR": "5"
     },
     {
       "id": "pl_msg_00000347_00010",
-      "en_US": "6"
+      "en_US": "6",
+      "fr_FR": "6"
     },
     {
       "id": "pl_msg_00000347_00011",
-      "en_US": "7"
+      "en_US": "7",
+      "fr_FR": "7"
     },
     {
       "id": "pl_msg_00000347_00012",
-      "en_US": "8"
+      "en_US": "8",
+      "fr_FR": "8"
     },
     {
       "id": "pl_msg_00000347_00013",
-      "en_US": "9"
+      "en_US": "9",
+      "fr_FR": "9"
     },
     {
       "id": "pl_msg_00000347_00014",
-      "en_US": "A"
+      "en_US": "A",
+      "fr_FR": "A"
     },
     {
       "id": "pl_msg_00000347_00015",
-      "en_US": "B"
+      "en_US": "B",
+      "fr_FR": "B"
     },
     {
       "id": "pl_msg_00000347_00016",
-      "en_US": "C"
+      "en_US": "C",
+      "fr_FR": "C"
     },
     {
       "id": "pl_msg_00000347_00017",
-      "en_US": "D"
+      "en_US": "D",
+      "fr_FR": "D"
     },
     {
       "id": "pl_msg_00000347_00018",
-      "en_US": "E"
+      "en_US": "E",
+      "fr_FR": "E"
     },
     {
       "id": "pl_msg_00000347_00019",
-      "en_US": "F"
+      "en_US": "F",
+      "fr_FR": "F"
     },
     {
       "id": "pl_msg_00000347_00020",
-      "en_US": "Player (Boy)"
+      "en_US": "Player (Boy)",
+      "fr_FR": "Player (Boy)"
     },
     {
       "id": "pl_msg_00000347_00021",
-      "en_US": "In progress"
+      "en_US": "In progress",
+      "fr_FR": "In progress"
     }
   ]
 }

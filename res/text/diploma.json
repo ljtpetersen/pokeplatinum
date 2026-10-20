@@ -3,7 +3,8 @@
   "messages": [
     {
       "id": "Diploma_Text_Player",
-      "en_US": "PLAYER: {STRVAR_1 3, 0, 0}"
+      "en_US": "PLAYER: {STRVAR_1 3, 0, 0}",
+      "fr_FR": "JOUEUR: {STRVAR_1 3, 0, 0}"
     },
     {
       "id": "Diploma_Text_Sinnoh",
@@ -12,6 +13,11 @@
         "you have made the great\n",
         "achievement of meeting all\n",
         "the Pokémon in Sinnoh."
+      ],
+      "fr_FR": [
+        "Ce document certifie que vous\n",
+        "avez rencontré tous les\n",
+        "Pokémon de la région de Sinnoh."
       ]
     },
     {
@@ -21,11 +27,17 @@
         "that you have successfully\n",
         "completed your\n",
         "National Pokédex."
+      ],
+      "fr_FR": [
+        "Ce document certifie que vous\n",
+        "avez complété votre Pokédex\n",
+        "National."
       ]
     },
     {
       "id": "Diploma_Text_GameFreak",
-      "en_US": "GAME FREAK"
+      "en_US": "GAME FREAK",
+      "fr_FR": "GAME FREAK"
     }
   ]
 }

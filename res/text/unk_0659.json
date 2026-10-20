@@ -3,43 +3,53 @@
   "messages": [
     {
       "id": "pl_msg_00000659_00000",
-      "en_US": "No"
+      "en_US": "No",
+      "fr_FR": "Non"
     },
     {
       "id": "pl_msg_00000659_00001",
-      "en_US": "No"
+      "en_US": "No",
+      "fr_FR": "Non"
     },
     {
       "id": "pl_msg_00000659_00002",
-      "en_US": "Its coolness"
+      "en_US": "Its coolness",
+      "fr_FR": "Son sang-froid"
     },
     {
       "id": "pl_msg_00000659_00003",
-      "en_US": "No"
+      "en_US": "No",
+      "fr_FR": "Non"
     },
     {
       "id": "pl_msg_00000659_00004",
-      "en_US": "Two or three"
+      "en_US": "Two or three",
+      "fr_FR": "A deux ou trois"
     },
     {
       "id": "pl_msg_00000659_00005",
-      "en_US": "As an adult"
+      "en_US": "As an adult",
+      "fr_FR": "Adulte"
     },
     {
       "id": "pl_msg_00000659_00006",
-      "en_US": "Fire type"
+      "en_US": "Fire type",
+      "fr_FR": "Feu"
     },
     {
       "id": "pl_msg_00000659_00007",
-      "en_US": "Defense first"
+      "en_US": "Defense first",
+      "fr_FR": "Défensive"
     },
     {
       "id": "pl_msg_00000659_00008",
-      "en_US": "Friends"
+      "en_US": "Friends",
+      "fr_FR": "Amis"
     },
     {
       "id": "pl_msg_00000659_00009",
-      "en_US": "No"
+      "en_US": "No",
+      "fr_FR": "Non"
     }
   ]
 }

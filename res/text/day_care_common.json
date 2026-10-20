@@ -9,6 +9,13 @@
         "of other Trainers.\r",
         "If you’d like us to raise your\n",
         "Pokémon, have a word with my wife."
+      ],
+      "fr_FR": [
+        "Je suis l’Hôte de la Pension.\r",
+        "Nous bichonnons les Pokémon\n",
+        "chéris des Dresseurs.\r",
+        "Va voir ma femme si tu veux\n",
+        "nous confier tes Pokémon."
       ]
     },
     {
@@ -21,6 +28,16 @@
         "We don’t know how it got there,\n",
         "but your Pokémon had it.\r",
         "You do want it, don’t you?"
+      ],
+      "fr_FR": [
+        "Ah, c’est toi!\r",
+        "On a eu une surprise en élevant tes\n",
+        "Pokémon!\r",
+        "Un beau matin, l’un d’entre eux est\n",
+        "venu avec un Oeuf!\r",
+        "On ne sait pas où il l’a trouvé,\n",
+        "mais c’est celui de ton Pokémon.\r",
+        "Tu comptes le prendre, n’est-ce pas?"
       ]
     },
     {
@@ -28,6 +45,10 @@
       "en_US": [
         "Ah, it’s you! Good to see you.\n",
         "Your {STRVAR_1 0, 0, 0}’s doing just fine."
+      ],
+      "fr_FR": [
+        "Ah, c’est toi! Content de te voir. Ton\n",
+        "{STRVAR_1 0, 0, 0} se porte comme un charme."
       ]
     },
     {
@@ -35,6 +56,10 @@
       "en_US": [
         "Well then, I’ll hang on to it.\n",
         "Thanks!"
+      ],
+      "fr_FR": [
+        "Dans ce cas, je vais m’en occuper.\n",
+        "Merci bien!"
       ]
     },
     {
@@ -42,6 +67,10 @@
       "en_US": [
         "You have no room for it right now...\n",
         "Come back when you’ve made room."
+      ],
+      "fr_FR": [
+        "Tu n’as pas de place, on dirait...\n",
+        "Reviens plus tard."
       ]
     },
     {
@@ -49,11 +78,16 @@
       "en_US": [
         "{STRVAR_1 3, 0, 0} received the Egg from\n",
         "the Day-Care Man."
+      ],
+      "fr_FR": [
+        "{STRVAR_1 3, 0, 0} obtient l’Oeuf de la part\n",
+        "de l’Hôte de la Pension."
       ]
     },
     {
       "id": "DayCareCommon_Text_TakeGoodCareOfIt",
-      "en_US": "You take good care of it."
+      "en_US": "You take good care of it.",
+      "fr_FR": "Prends-en bien soin."
     },
     {
       "id": "DayCareCommon_Text_SawPokemonReceivingMail",
@@ -63,6 +97,13 @@
         "{STRVAR_1 0, 2, 0}.\r",
         "I may even have seen it receiving\n",
         "a piece of Mail."
+      ],
+      "fr_FR": [
+        "Au fait, ton {STRVAR_1 0, 0, 0} a l’air\n",
+        "de bien s’entendre avec le {STRVAR_1 0, 2, 0}\f",
+        "de {STRVAR_1 3, 1, 0}.\r",
+        "Je crois même qu’il a reçu\n",
+        "une Lettre."
       ]
     },
     {
@@ -70,6 +111,10 @@
       "en_US": [
         "If you want to pick up your Pokémon,\n",
         "have a word with my wife."
+      ],
+      "fr_FR": [
+        "Parle à ma femme si tu veux\n",
+        "récupérer ton Pokémon."
       ]
     },
     {
@@ -79,6 +124,12 @@
         "Good to see you!\r",
         "Your {STRVAR_1 0, 0, 0} and {STRVAR_1 0, 1, 0}\n",
         "are doing just fine.\r"
+      ],
+      "fr_FR": [
+        "Ah, c’est toi!\n",
+        "Content de te voir!\r",
+        "Ton {STRVAR_1 0, 0, 0} et ton {STRVAR_1 0, 1, 0}\n",
+        "se portent bien.\r"
       ]
     },
     {
@@ -86,28 +137,39 @@
       "en_US": [
         "I really will keep it.\n",
         "You do want this, yes?"
+      ],
+      "fr_FR": [
+        "Je vais vraiment le garder.\n",
+        "Tu le veux, ou pas?"
       ]
     },
     {
       "id": "DayCareCommon_Text_TheTwoGetAlongVeryWell",
-      "en_US": "The two seem to get along very well."
+      "en_US": "The two seem to get along very well.",
+      "fr_FR": "Ils ont l’air de très bien s’entendre."
     },
     {
       "id": "DayCareCommon_Text_TheTwoGetAlong",
-      "en_US": "The two seem to get along."
+      "en_US": "The two seem to get along.",
+      "fr_FR": "Ils ont l’air de s’entendre."
     },
     {
       "id": "DayCareCommon_Text_TheTwoDontLikeEachOther",
       "en_US": [
         "The two don’t seem to like each\n",
         "other much."
-      ]
+      ],
+      "fr_FR": "Ils ont l’air de ne pas s’aimer."
     },
     {
       "id": "DayCareCommon_Text_TheTwoPlayWithOtherPokemon",
       "en_US": [
         "The two prefer to play with other\n",
         "Pokémon more than with each other."
+      ],
+      "fr_FR": [
+        "Ils préfèrent jouer avec d’autres\n",
+        "Pokémon plutôt qu’ensemble."
       ]
     },
     {
@@ -117,6 +179,12 @@
         "We can raise Pokémon for you.\r",
         "Would you like us to raise your\n",
         "Pokémon?"
+      ],
+      "fr_FR": [
+        "Je suis l’Hôtesse de la Pension.\n",
+        "Nous pouvons élever des Pokémon\f",
+        "pour toi.\r",
+        "Tu veux qu’on en élève un?"
       ]
     },
     {
@@ -124,7 +192,8 @@
       "en_US": [
         "Which Pokémon should we raise for\n",
         "you?\r"
-      ]
+      ],
+      "fr_FR": "Quel Pokémon veux-tu que l’on élève?\r"
     },
     {
       "id": "DayCareCommon_Text_WellRaiseYourPokemon_ArrowPrompt",
@@ -132,6 +201,11 @@
         "Fine, we’ll raise your {STRVAR_1 0, 0, 0}\n",
         "for a while.\r",
         "Come back for it later.\r"
+      ],
+      "fr_FR": [
+        "Très bien, nous allons nous occuper de\n",
+        "{STRVAR_1 0, 0, 0} pendant quelque temps.\r",
+        "Reviens le chercher plus tard.\r"
       ]
     },
     {
@@ -139,6 +213,10 @@
       "en_US": [
         "We can raise two of your Pokémon.\n",
         "Would you like us to raise another?"
+      ],
+      "fr_FR": [
+        "Nous pouvons élever deux Pokémon.\n",
+        "Tu veux qu’on en élève un autre?"
       ]
     },
     {
@@ -146,6 +224,10 @@
       "en_US": [
         "Ah, there you are!\n",
         "My husband was looking for you."
+      ],
+      "fr_FR": [
+        "Ah, te voilà!\n",
+        "Mon mari te cherchait."
       ]
     },
     {
@@ -153,24 +235,34 @@
       "en_US": [
         "Oh, fine, then.\n",
         "Come again."
+      ],
+      "fr_FR": [
+        "Oh, très bien.\n",
+        "Reviens plus tard, dans ce cas."
       ]
     },
     {
       "id": "DayCareCommon_Text_NotEnoughMoney",
-      "en_US": "You don’t have enough money..."
+      "en_US": "You don’t have enough money...",
+      "fr_FR": "Tu n’as pas assez d’argent..."
     },
     {
       "id": "DayCareCommon_Text_DoYouWantOtherBackToo",
       "en_US": [
         "Do you want to take back the other\n",
         "one, too?"
-      ]
+      ],
+      "fr_FR": "Veux-tu également récupérer l’autre?"
     },
     {
       "id": "DayCareCommon_Text_VeryGoodComeAgain",
       "en_US": [
         "Very good.\n",
         "Come again."
+      ],
+      "fr_FR": [
+        "Très bien.\n",
+        "A une prochaine fois."
       ]
     },
     {
@@ -178,6 +270,10 @@
       "en_US": [
         "Ah, it’s you! Good to see you.\n",
         "Now, about your Pokémon...\r"
+      ],
+      "fr_FR": [
+        "Ah, c’est toi! Ravie de te voir.\n",
+        "A propos...\r"
       ]
     },
     {
@@ -185,6 +281,10 @@
       "en_US": [
         "By level, your {STRVAR_1 0, 0, 0} has\n",
         "grown by about {STRVAR_1 51, 1, 0}.\r"
+      ],
+      "fr_FR": [
+        "Ton {STRVAR_1 0, 0, 0} est monté\n",
+        "de {STRVAR_1 51, 1, 0} niveau(x).\r"
       ]
     },
     {
@@ -192,17 +292,26 @@
       "en_US": [
         "Your Pokémon team is full.\n",
         "Make room, then come see me."
+      ],
+      "fr_FR": [
+        "Ton équipe Pokémon est au complet.\n",
+        "Fais de la place et reviens me voir."
       ]
     },
     {
       "id": "DayCareCommon_Text_TakeBackWhichPokemon",
-      "en_US": "Which Pokémon will you take back?"
+      "en_US": "Which Pokémon will you take back?",
+      "fr_FR": "Quel Pokémon veux-tu récupérer?"
     },
     {
       "id": "DayCareCommon_Text_PokemonBackCostsX",
       "en_US": [
         "If you want your {STRVAR_1 0, 0, 0} back,\n",
         "it will cost ${STRVAR_1 53, 1, 0}."
+      ],
+      "fr_FR": [
+        "Si tu veux récupérer ton {STRVAR_1 0, 0, 0},\n",
+        "tu dois payer {STRVAR_1 53, 1, 0} $."
       ]
     },
     {
@@ -210,6 +319,10 @@
       "en_US": [
         "Excellent!\n",
         "Here’s your Pokémon.\r"
+      ],
+      "fr_FR": [
+        "Parfait!\n",
+        "Voilà ton Pokémon.\r"
       ]
     },
     {
@@ -217,6 +330,10 @@
       "en_US": [
         "{STRVAR_1 3, 1, 0} took {STRVAR_1 0, 0, 0} back\n",
         "from the Day-Care Lady.\r"
+      ],
+      "fr_FR": [
+        "{STRVAR_1 3, 1, 0} reprend le {STRVAR_1 0, 0, 0}\n",
+        "à l’Hôtesse de la Pension.\r"
       ]
     },
     {
@@ -226,11 +343,17 @@
         "Pokémon with you.\r",
         "You can’t go off without a Pokémon.\n",
         "Come back another time."
+      ],
+      "fr_FR": [
+        "Oh? Mais tu n’as qu’un Pokémon.\r",
+        "Tu ne peux pas repartir sans Pokémon.\n",
+        "Reviens une autre fois."
       ]
     },
     {
       "id": "DayCareCommon_Text_DoYouWantPokemonBack",
-      "en_US": "Do you want your Pokémon back?"
+      "en_US": "Do you want your Pokémon back?",
+      "fr_FR": "Veux-tu reprendre ton Pokémon?"
     },
     {
       "id": "DayCareCommon_Text_WhatWillYouBattleWith",
@@ -238,6 +361,11 @@
         "If you leave me that Pokémon,\n",
         "what are you gonna battle with?\r",
         "Come back another time."
+      ],
+      "fr_FR": [
+        "Si tu me laisses ce Pokémon, comment\n",
+        "vas-tu faire pour te battre?\r",
+        "Reviens me voir une autre fois."
       ]
     },
     {
@@ -248,6 +376,14 @@
         "me, you’ll be left with just one.\r",
         "You will be better off if you catch\n",
         "some more, if I do say so myself."
+      ],
+      "fr_FR": [
+        "Hein?\n",
+        "Bon.\r",
+        "Si tu me laisses ce Pokémon, il ne\n",
+        "t’en restera qu’un.\r",
+        "Je te conseille d’en attraper\n",
+        "quelques-uns de plus."
       ]
     },
     {
@@ -255,6 +391,10 @@
       "en_US": [
         "Now, now.\n",
         "That is merely an Egg!"
+      ],
+      "fr_FR": [
+        "Voyons, voyons...\n",
+        "Ce n’est qu’un Oeuf!"
       ]
     },
     {
@@ -263,27 +403,38 @@
         "Fine, we’ll raise your {STRVAR_1 0, 0, 0}\n",
         "for a while.\r",
         "Come back for it later."
+      ],
+      "fr_FR": [
+        "Très bien, nous allons nous occuper de\n",
+        "ton {STRVAR_1 0, 0, 0} pendant quelque\f",
+        "temps.\r",
+        "Reviens le chercher plus tard."
       ]
     },
     {
       "id": "DayCareCommon_Text_Huh",
-      "en_US": "Huh?"
+      "en_US": "Huh?",
+      "fr_FR": "Hein?"
     },
     {
       "id": "DayCareCommon_Text_00038",
-      "en_US": "Lv. {STRVAR_1 52, 1, 0}"
+      "en_US": "Lv. {STRVAR_1 52, 1, 0}",
+      "fr_FR": "N. {STRVAR_1 52, 1, 0}"
     },
     {
       "id": "DayCareCommon_Text_00039",
-      "en_US": "{STRVAR_1 0, 0, 0}♂"
+      "en_US": "{STRVAR_1 0, 0, 0}♂",
+      "fr_FR": "{STRVAR_1 0, 0, 0} ♂"
     },
     {
       "id": "DayCareCommon_Text_00040",
-      "en_US": "{STRVAR_1 0, 0, 0}♀"
+      "en_US": "{STRVAR_1 0, 0, 0}♀",
+      "fr_FR": "{STRVAR_1 0, 0, 0} ♀"
     },
     {
       "id": "DayCareCommon_Text_00041",
-      "en_US": "{STRVAR_1 0, 0, 0}"
+      "en_US": "{STRVAR_1 0, 0, 0}",
+      "fr_FR": "{STRVAR_1 0, 0, 0}"
     }
   ]
 }

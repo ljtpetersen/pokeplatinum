@@ -26,5 +26,13 @@
     "contest": {
         "effect": "CONTEST_EFFECT_TWO_VOLTAGE_IN_A_ROW_ADVANTAGE",
         "type": "CONTEST_TYPE_SMART"
-    }
+    },
+    "name_fr": "Vampirisme",
+    "description_fr": [
+        "Une attaque qui aspire\n",
+        "le sang de l’ennemi.\n",
+        "La moitié des dégâts\n",
+        "sont convertis en\n",
+        "PV pour le lanceur."
+    ]
 }

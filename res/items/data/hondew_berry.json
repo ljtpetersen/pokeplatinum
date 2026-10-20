@@ -44,5 +44,13 @@
     "bitterness": 10,
     "sourness": 0,
     "smoothness": 20
-  }
+  },
+  "name_fr": "Baie Lonme",
+  "description_fr": [
+    "Ingrédient pour Poffin.\n",
+    "Rend les Pokémon plus amicaux, mais\n",
+    "baisse leur stat Atq. Spé. de base."
+  ],
+  "plural_fr": "Baie Lonme",
+  "article_fr": null
 }

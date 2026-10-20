@@ -26,5 +26,13 @@
   "battlePocket": "BATTLE_POCKET_MASK_NONE",
   "fieldUseFunc": "ITEM_USE_FUNC_NONE",
   "battleUseCategory": "BATTLE_USE_CATEGORY_NONE",
-  "itemUseParams": null
+  "itemUseParams": null,
+  "name_fr": "Mouch. Choix",
+  "description_fr": [
+    "Objet à tenir augmentant la Vitesse,\n",
+    "mais ne permettant l’utilisation que\n",
+    "d’une sorte de capacité."
+  ],
+  "plural_fr": "Mouch. Choix",
+  "article_fr": null
 }

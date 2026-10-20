@@ -23,6 +23,10 @@
             "en_US": [
                 "Well, what have we here?\n",
                 "A Trainer who’s lost their way?\r"
+            ],
+            "fr_FR": [
+                "Eh bien, qu’avons-nous là?\n",
+                "Un Dresseur qui a perdu son chemin?\r"
             ]
         },
         {
@@ -30,6 +34,10 @@
             "en_US": [
                 "You’re lost but you won!\n",
                 "That burns me up to eleven!\n"
+            ],
+            "fr_FR": [
+                "Tu as perdu ton chemin, mais tu as \n",
+                "gagné ce combat! Ça m’énerve, ça!\n"
             ]
         },
         {
@@ -37,7 +45,12 @@
             "en_US": [
                 "You barged right into our HQ?\n",
                 "You must not know what fear is, kid!\n"
+            ],
+            "fr_FR": [
+                "Tu fais irruption dans notre QG, l’air\n",
+                "de rien? T’as pas froid aux yeux, toi!\n"
             ]
         }
-    ]
+    ],
+    "name_fr": "Sbire"
 }

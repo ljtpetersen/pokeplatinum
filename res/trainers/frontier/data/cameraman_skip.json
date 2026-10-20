@@ -105,6 +105,10 @@
             "en_US": [
                 "I’ve waited all my life for someone like\n",
                 "you. I’m never letting you go."
+            ],
+            "fr_FR": [
+                "Toute ma vie, j’ai attendu quelqu’un\n",
+                "comme toi. Tu es à moi."
             ]
         },
         {
@@ -112,6 +116,10 @@
             "en_US": [
                 "It was a ploy to confuse you with\n",
                 "words out of some romance movie.\r"
+            ],
+            "fr_FR": [
+                "Est-ce que cette réplique tirée d’un\n",
+                "film d’amour a gêné ta concentration?\r"
             ]
         },
         {
@@ -119,7 +127,12 @@
             "en_US": [
                 "Now, go on, don’t let me hold you back.\n",
                 "Seize your chance at happiness!\r"
+            ],
+            "fr_FR": [
+                "Et moi qui pensais te déconcentrer avec\n",
+                "ma réplique de film d’amour...\r"
             ]
         }
-    ]
+    ],
+    "name_fr": "Kerwan"
 }

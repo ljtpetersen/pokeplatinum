@@ -28,5 +28,12 @@
   "battleUseCategory": "BATTLE_USE_CATEGORY_HEALING",
   "itemUseParams": {
     "hpRestored": 20
-  }
+  },
+  "name_fr": "Potion",
+  "description_fr": [
+    "Un spray qui soigne les blessures.\n",
+    "Restaure 20 PV à un Pokémon."
+  ],
+  "plural_fr": "Potion",
+  "article_fr": null
 }

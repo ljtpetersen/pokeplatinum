@@ -30,6 +30,10 @@
             "en_US": [
                 "Oh, I don’t know.\n",
                 "Should I play a little again?\r"
+            ],
+            "fr_FR": [
+                "Oh, je ne sais pas.\n",
+                "Devrais-je jouer encore un peu?\r"
             ]
         },
         {
@@ -37,7 +41,12 @@
             "en_US": [
                 "Oh, boo!\n",
                 "How insulting!\n"
+            ],
+            "fr_FR": [
+                "Oh, bouh!\n",
+                "C’est insultant!\n"
             ]
         }
-    ]
+    ],
+    "name_fr": "Meg"
 }

@@ -6,6 +6,10 @@
       "en_US": [
         "Press the A Button to save a Battle\n",
         "Video of this battle."
+      ],
+      "fr_FR": [
+        "Appuyez sur le bouton A pour\n",
+        "sauvegarder la Vidéo de combat."
       ]
     },
     {
@@ -13,6 +17,10 @@
       "en_US": [
         "Would you like to save the last battle\n",
         "as your Battle Video?"
+      ],
+      "fr_FR": [
+        "Voulez-vous enregistrer la vidéo du\n",
+        "dernier combat sur le Magnéto VS?"
       ]
     },
     {
@@ -20,6 +28,10 @@
       "en_US": [
         "Delete your existing Battle Video and\n",
         "save the last battle?"
+      ],
+      "fr_FR": [
+        "Effacer la Vidéo de combat précédente\n",
+        "pour enregistrer ce combat?"
       ]
     },
     {
@@ -32,17 +44,23 @@
     },
     {
       "id": "pl_msg_00000605_00005",
-      "en_US": "Please wait a moment."
+      "en_US": "Please wait a moment.",
+      "fr_FR": "Veuillez patienter."
     },
     {
       "id": "pl_msg_00000605_00006",
-      "en_US": "The Battle Video has been saved."
+      "en_US": "The Battle Video has been saved.",
+      "fr_FR": "La Vidéo de combat a été sauvegardée."
     },
     {
       "id": "pl_msg_00000605_00007",
       "en_US": [
         "There was an error.\n",
         "The Battle Video couldn’t be saved."
+      ],
+      "fr_FR": [
+        "Une erreur est survenue.\n",
+        "La sauvegarde a échoué."
       ]
     },
     {
@@ -50,6 +68,10 @@
       "en_US": [
         "Saving...\n",
         "Don’t turn off the power."
+      ],
+      "fr_FR": [
+        "Sauvegarde en cours...\n",
+        "Ne pas éteindre."
       ]
     },
     {
@@ -57,6 +79,10 @@
       "en_US": [
         "Awaiting your friend’s decision.\n",
         "Please wait."
+      ],
+      "fr_FR": [
+        "En attente d’une réponse de votre ami.\n",
+        "Veuillez patienter."
       ]
     }
   ]

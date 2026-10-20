@@ -59,6 +59,10 @@
             "en_US": [
                 "Well, shall we?\n",
                 "Time is money, and the meter is running."
+            ],
+            "fr_FR": [
+                "On y va? Le temps, c’est de l’argent.\n",
+                "Le compteur tourne!"
             ]
         },
         {
@@ -66,6 +70,10 @@
             "en_US": [
                 "Well, I’ll take my leave. Yet another\n",
                 "fancy dinner date, you know. Adieu!\r"
+            ],
+            "fr_FR": [
+                "Bien, il est temps pour moi de partir.\n",
+                "J’ai une réservation au restaurant.\r"
             ]
         },
         {
@@ -73,7 +81,12 @@
             "en_US": [
                 "It’s my loss, is it? So be it.\n",
                 "I had to leave for a date anyway.\r"
+            ],
+            "fr_FR": [
+                "J’ai échoué? Peu importe, on m’attend\n",
+                "pour le dîner, et je dois partir.\r"
             ]
         }
-    ]
+    ],
+    "name_fr": "Arsène"
 }

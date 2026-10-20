@@ -28,5 +28,12 @@
     "contest": {
         "effect": "CONTEST_EFFECT_FIRST_PERFORMANCE_ADVANTAGE",
         "type": "CONTEST_TYPE_CUTE"
-    }
+    },
+    "name_fr": "Griffe Ombre",
+    "description_fr": [
+        "Attaque avec une\n",
+        "griffe puissante faite\n",
+        "d’ombres. Taux de\n",
+        "critiques élevé."
+    ]
 }

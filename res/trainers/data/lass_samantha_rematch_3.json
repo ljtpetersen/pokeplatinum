@@ -42,6 +42,11 @@
                 "Oh, thank you for the last time.\r",
                 "May I please trouble you for\n",
                 "another battle?\r"
+            ],
+            "fr_FR": [
+                "Oh, merci pour le dernier combat.\r",
+                "Ça te dérangerait si on en faisait\n",
+                "un autre?\r"
             ]
         },
         {
@@ -49,7 +54,12 @@
             "en_US": [
                 "Oh...\n",
                 "You’re so strong...\n"
+            ],
+            "fr_FR": [
+                "Oh...\n",
+                "Quelle puissance...\n"
             ]
         }
-    ]
+    ],
+    "name_fr": "Rachel"
 }

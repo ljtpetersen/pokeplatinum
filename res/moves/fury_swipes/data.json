@@ -28,5 +28,12 @@
     "contest": {
         "effect": "CONTEST_EFFECT_CONSECUTIVE_USE",
         "type": "CONTEST_TYPE_TOUGH"
-    }
+    },
+    "name_fr": "Combo-Griffe",
+    "description_fr": [
+        "L’ennemi est lacéré\n",
+        "par des faux ou des\n",
+        "griffes de 2 à 5\n",
+        "fois."
+    ]
 }

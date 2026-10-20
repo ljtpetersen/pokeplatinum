@@ -25,6 +25,10 @@
             "en_US": [
                 "Where am I? Am I lost? Who are you?\n",
                 "Are you a Pokémon Trainer?\r"
+            ],
+            "fr_FR": [
+                "Où suis-je? Je suis perdue? Qui es-tu?\n",
+                "Es-tu un Dresseur de Pokémon?\r"
             ]
         },
         {
@@ -32,6 +36,10 @@
             "en_US": [
                 "OK, so we’re both Trainers.\n",
                 "That’s a start, right?\n"
+            ],
+            "fr_FR": [
+                "OK, alors on est tous les deux\n",
+                "Dresseurs. C’est un début, pas vrai?\n"
             ]
         },
         {
@@ -41,7 +49,14 @@
                 "the Cycling Road.\r",
                 "I didn’t think I would get lost\n",
                 "in a place like this..."
+            ],
+            "fr_FR": [
+                "Je voulais juste pique-niquer sous\n",
+                "la Piste Cyclable.\r",
+                "Je ne pensais pas que je me perdrais\n",
+                "dans un endroit comme ça..."
             ]
         }
-    ]
+    ],
+    "name_fr": "Erin"
 }

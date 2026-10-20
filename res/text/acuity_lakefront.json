@@ -13,6 +13,18 @@
         "get the Snowpoint Gym Badge.\r",
         "Anyway, I’m off.\n",
         "Team Galactic! I’m coming for you!\r"
+      ],
+      "fr_FR": [
+        "{STRVAR_1 3, 0, 0}: Hé, {STRVAR_1 3, 1, 0}!\n",
+        "Alors, te voilà enfin?\f",
+        "Qu’est-ce que tu peux traîner!\r",
+        "Ecoute, {STRVAR_1 3, 1, 0}. Tu vois comme\n",
+        "la roche est irrégulière ici?\r",
+        "Tu ne pourras escalader la paroi\n",
+        "qu’après avoir obtenu le Badge\f",
+        "d’Arène de Frimapic.\r",
+        "Bon, je te laisse.\n",
+        "Team Galaxie, j’arriiive!\r"
       ]
     },
     {
@@ -20,6 +32,10 @@
       "en_US": [
         "We’re here to make sure Snowpoint’s\n",
         "Gym Leader doesn’t disturb us!"
+      ],
+      "fr_FR": [
+        "On doit s’assurer que le Champion\n",
+        "de Frimapic ne nous dérangera pas!"
       ]
     },
     {
@@ -29,6 +45,12 @@
         "too?\r",
         "You must be bored to fight your\n",
         "way through the snow to get here..."
+      ],
+      "fr_FR": [
+        "Toi aussi, tu es ici pour voir le\n",
+        "Pokémon du lac?\r",
+        "Tu dois t’ennuyer pour avoir eu le\n",
+        "courage d’affronter la route enneigée."
       ]
     },
     {
@@ -38,6 +60,12 @@
         "assignment!\r",
         "I’ll make this a success and earn\n",
         "myself a CLEFAIRY!"
+      ],
+      "fr_FR": [
+        "Monter la garde, c’est une mission\n",
+        "de premier ordre!\r",
+        "Je vais faire des étincelles et\n",
+        "gagner un MELOFEE!"
       ]
     },
     {
@@ -47,11 +75,19 @@
         "appear to be connected somehow.\r",
         "When they blew up Lake Valor, a cavern\n",
         "appeared in the middle of this lake!"
+      ],
+      "fr_FR": [
+        "Un lien semble unir les\n",
+        "Pokémon des trois lacs.\r",
+        "Quand ils ont fait exploser le Lac\n",
+        "Courage, une caverne est apparue\f",
+        "en plein milieu!"
       ]
     },
     {
       "id": "AcuityLakefront_Text_SignLakeAcuityAhead",
-      "en_US": "Lake Acuity ahead"
+      "en_US": "Lake Acuity ahead",
+      "fr_FR": "Lac Savoir droit devant"
     }
   ]
 }

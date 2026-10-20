@@ -3,259 +3,328 @@
   "messages": [
     {
       "id": "pl_msg_00000348_00000",
-      "en_US": "Junichi"
+      "en_US": "Junichi",
+      "fr_FR": "Junichi"
     },
     {
       "id": "pl_msg_00000348_00001",
-      "en_US": "Ken"
+      "en_US": "Ken",
+      "fr_FR": "Ken"
     },
     {
       "id": "pl_msg_00000348_00002",
-      "en_US": "Shigeki"
+      "en_US": "Shigeki",
+      "fr_FR": "Shigeki"
     },
     {
       "id": "pl_msg_00000348_00003",
-      "en_US": "Tetsuya"
+      "en_US": "Tetsuya",
+      "fr_FR": "Tetsuya"
     },
     {
       "id": "pl_msg_00000348_00004",
-      "en_US": "Shigeru"
+      "en_US": "Shigeru",
+      "fr_FR": "Shigeru"
     },
     {
       "id": "pl_msg_00000348_00005",
-      "en_US": "Takao"
+      "en_US": "Takao",
+      "fr_FR": "Takao"
     },
     {
       "id": "pl_msg_00000348_00006",
-      "en_US": "Omar"
+      "en_US": "Omar",
+      "fr_FR": "Omar"
     },
     {
       "id": "pl_msg_00000348_00007",
-      "en_US": "Deshawn"
+      "en_US": "Deshawn",
+      "fr_FR": "Deshawn"
     },
     {
       "id": "pl_msg_00000348_00008",
-      "en_US": "Hisashi"
+      "en_US": "Hisashi",
+      "fr_FR": "Hisashi"
     },
     {
       "id": "pl_msg_00000348_00009",
-      "en_US": "Kevin"
+      "en_US": "Kevin",
+      "fr_FR": "Kevin"
     },
     {
       "id": "pl_msg_00000348_00010",
-      "en_US": "Sosuke"
+      "en_US": "Sosuke",
+      "fr_FR": "Sosuke"
     },
     {
       "id": "pl_msg_00000348_00011",
-      "en_US": "Akito"
+      "en_US": "Akito",
+      "fr_FR": "Akito"
     },
     {
       "id": "pl_msg_00000348_00012",
-      "en_US": "Antonio"
+      "en_US": "Antonio",
+      "fr_FR": "Antonio"
     },
     {
       "id": "pl_msg_00000348_00013",
-      "en_US": "Mickey"
+      "en_US": "Mickey",
+      "fr_FR": "Mickey"
     },
     {
       "id": "pl_msg_00000348_00014",
-      "en_US": "Briana"
+      "en_US": "Briana",
+      "fr_FR": "Briana"
     },
     {
       "id": "pl_msg_00000348_00015",
-      "en_US": "Futti"
+      "en_US": "Futti",
+      "fr_FR": "Futti"
     },
     {
       "id": "pl_msg_00000348_00016",
-      "en_US": "Nathan"
+      "en_US": "Nathan",
+      "fr_FR": "Nathan"
     },
     {
       "id": "pl_msg_00000348_00017",
-      "en_US": "Tori"
+      "en_US": "Tori",
+      "fr_FR": "Tori"
     },
     {
       "id": "pl_msg_00000348_00018",
-      "en_US": "Yagi-chan"
+      "en_US": "Yagi-chan",
+      "fr_FR": "Yagi-chan"
     },
     {
       "id": "pl_msg_00000348_00019",
-      "en_US": "Jason"
+      "en_US": "Jason",
+      "fr_FR": "Jason"
     },
     {
       "id": "pl_msg_00000348_00020",
-      "en_US": "James"
+      "en_US": "James",
+      "fr_FR": "James"
     },
     {
       "id": "pl_msg_00000348_00021",
-      "en_US": "Seven"
+      "en_US": "Seven",
+      "fr_FR": "Seven"
     },
     {
       "id": "pl_msg_00000348_00022",
-      "en_US": "Griffin"
+      "en_US": "Griffin",
+      "fr_FR": "Griffin"
     },
     {
       "id": "pl_msg_00000348_00023",
-      "en_US": "Bouz"
+      "en_US": "Bouz",
+      "fr_FR": "Bouz"
     },
     {
       "id": "pl_msg_00000348_00024",
-      "en_US": "Masao"
+      "en_US": "Masao",
+      "fr_FR": "Masao"
     },
     {
       "id": "pl_msg_00000348_00025",
-      "en_US": "Nammer"
+      "en_US": "Nammer",
+      "fr_FR": "Nammer"
     },
     {
       "id": "pl_msg_00000348_00026",
-      "en_US": "Cassidy"
+      "en_US": "Cassidy",
+      "fr_FR": "Cassidy"
     },
     {
       "id": "pl_msg_00000348_00027",
-      "en_US": "Brandon"
+      "en_US": "Brandon",
+      "fr_FR": "Brandon"
     },
     {
       "id": "pl_msg_00000348_00028",
-      "en_US": "Nozomu"
+      "en_US": "Nozomu",
+      "fr_FR": "Nozomu"
     },
     {
       "id": "pl_msg_00000348_00029",
-      "en_US": "Tomoya"
+      "en_US": "Tomoya",
+      "fr_FR": "Tomoya"
     },
     {
       "id": "pl_msg_00000348_00030",
-      "en_US": "Marumain"
+      "en_US": "Marumain",
+      "fr_FR": "Marumain"
     },
     {
       "id": "pl_msg_00000348_00031",
-      "en_US": "Gino"
+      "en_US": "Gino",
+      "fr_FR": "Gino"
     },
     {
       "id": "pl_msg_00000348_00032",
-      "en_US": "Willy"
+      "en_US": "Willy",
+      "fr_FR": "Willy"
     },
     {
       "id": "pl_msg_00000348_00033",
-      "en_US": "Francisco"
+      "en_US": "Francisco",
+      "fr_FR": "Francisco"
     },
     {
       "id": "pl_msg_00000348_00034",
-      "en_US": "Ricardo"
+      "en_US": "Ricardo",
+      "fr_FR": "Ricardo"
     },
     {
       "id": "pl_msg_00000348_00035",
-      "en_US": "Takeshi"
+      "en_US": "Takeshi",
+      "fr_FR": "Takeshi"
     },
     {
       "id": "pl_msg_00000348_00036",
-      "en_US": "Jamie"
+      "en_US": "Jamie",
+      "fr_FR": "Jamie"
     },
     {
       "id": "pl_msg_00000348_00037",
-      "en_US": "Carl"
+      "en_US": "Carl",
+      "fr_FR": "Carl"
     },
     {
       "id": "pl_msg_00000348_00038",
-      "en_US": "Jared"
+      "en_US": "Jared",
+      "fr_FR": "Jared"
     },
     {
       "id": "pl_msg_00000348_00039",
-      "en_US": "Hiro"
+      "en_US": "Hiro",
+      "fr_FR": "Hiro"
     },
     {
       "id": "pl_msg_00000348_00040",
-      "en_US": "Toshinobu"
+      "en_US": "Toshinobu",
+      "fr_FR": "Toshinobu"
     },
     {
       "id": "pl_msg_00000348_00041",
-      "en_US": "Tony"
+      "en_US": "Tony",
+      "fr_FR": "Tony"
     },
     {
       "id": "pl_msg_00000348_00042",
-      "en_US": "Drake"
+      "en_US": "Drake",
+      "fr_FR": "Drake"
     },
     {
       "id": "pl_msg_00000348_00043",
-      "en_US": "Karina"
+      "en_US": "Karina",
+      "fr_FR": "Karina"
     },
     {
       "id": "pl_msg_00000348_00044",
       "en_US": "マナ"
     },
     {
+      "id": "pl_msg_00000348_00044",
+      "en_US": null,
+      "en_GB": null,
+      "garbage": 0
+    },
+    {
       "id": "pl_msg_00000348_00045",
-      "en_US": "Josh"
+      "en_US": "Josh",
+      "fr_FR": "Josh"
     },
     {
       "id": "pl_msg_00000348_00046",
-      "en_US": "Nick"
+      "en_US": "Nick",
+      "fr_FR": "Nick"
     },
     {
       "id": "pl_msg_00000348_00047",
-      "en_US": "Kassandra"
+      "en_US": "Kassandra",
+      "fr_FR": "Kassandra"
     },
     {
       "id": "pl_msg_00000348_00048",
-      "en_US": "Aubree"
+      "en_US": "Aubree",
+      "fr_FR": "Aubree"
     },
     {
       "id": "pl_msg_00000348_00049",
-      "en_US": "Diamond"
+      "en_US": "Diamond",
+      "fr_FR": "Diamond"
     },
     {
       "id": "pl_msg_00000348_00050",
-      "en_US": "Pearl"
+      "en_US": "Pearl",
+      "fr_FR": "Pearl"
     },
     {
       "id": "pl_msg_00000348_00051",
-      "en_US": "NG Host"
+      "en_US": "NG Host",
+      "fr_FR": "NG Host"
     },
     {
       "id": "pl_msg_00000348_00052",
-      "en_US": "Kaede"
+      "en_US": "Kaede",
+      "fr_FR": "Kaede"
     },
     {
       "id": "pl_msg_00000348_00053",
-      "en_US": "Pukashu"
+      "en_US": "Pukashu",
+      "fr_FR": "Pukashu"
     },
     {
       "id": "pl_msg_00000348_00054",
-      "en_US": "Masarin"
+      "en_US": "Masarin",
+      "fr_FR": "Masarin"
     },
     {
       "id": "pl_msg_00000348_00055",
-      "en_US": "Noririn"
+      "en_US": "Noririn",
+      "fr_FR": "Noririn"
     },
     {
       "id": "pl_msg_00000348_00056",
-      "en_US": "Taylor"
+      "en_US": "Taylor",
+      "fr_FR": "Taylor"
     },
     {
       "id": "pl_msg_00000348_00057",
-      "en_US": "T-1"
+      "en_US": "T-1",
+      "fr_FR": "T-1"
     },
     {
       "id": "pl_msg_00000348_00058",
-      "en_US": "Kenneth"
+      "en_US": "Kenneth",
+      "fr_FR": "Kenneth"
     },
     {
       "id": "pl_msg_00000348_00059",
-      "en_US": "Torecheko"
+      "en_US": "Torecheko",
+      "fr_FR": "Torecheko"
     },
     {
       "id": "pl_msg_00000348_00060",
-      "en_US": "Norihide"
+      "en_US": "Norihide",
+      "fr_FR": "Norihide"
     },
     {
       "id": "pl_msg_00000348_00061",
-      "en_US": "Nori☆"
+      "en_US": "Nori☆",
+      "fr_FR": "Nori☆"
     },
     {
       "id": "pl_msg_00000348_00062",
-      "en_US": "WWWWWWW"
+      "en_US": "WWWWWWW",
+      "fr_FR": "WWWWWWW"
     },
     {
       "id": "pl_msg_00000348_00063",
-      "en_US": "Plato"
+      "en_US": "Plato",
+      "fr_FR": "Plato"
     }
   ]
 }

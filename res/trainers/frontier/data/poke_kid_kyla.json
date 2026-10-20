@@ -45,6 +45,10 @@
             "en_US": [
                 "I once saw a lady wearing the same\n",
                 "outfit as me."
+            ],
+            "fr_FR": [
+                "L’autre jour, j’ai vu une dame qui\n",
+                "portait le même costume que moi."
             ]
         },
         {
@@ -52,14 +56,20 @@
             "en_US": [
                 "She said, “You’re showing serious\n",
                 "fashion chops.”\r"
-            ]
+            ],
+            "fr_FR": "“J’adore ton style”, elle m’a dit.\r"
         },
         {
             "type": "TRMSG_DEFEAT",
             "en_US": [
                 "She said, “You’re kidding me, am I\n",
                 "right?”\r"
+            ],
+            "fr_FR": [
+                "Elle m’a regardée et elle m’a dit:\n",
+                "“C’est une blague, j’espère!”\r"
             ]
         }
-    ]
+    ],
+    "name_fr": "Krys"
 }

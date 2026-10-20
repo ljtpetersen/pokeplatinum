@@ -9,11 +9,19 @@
         "If you’re thinking about going deep\n",
         "into the marsh, I recommend you take\f",
         "the Great Marsh Quick Trams."
+      ],
+      "fr_FR": [
+        "Dans le marais, libre comme l’air,\n",
+        "mon tramway file en un éclair!~♫\r",
+        "Si tu comptes te rendre au plus profond\n",
+        "du marais, je te recommande de prendre\f",
+        "le Tram Eclair du Grand Marais."
       ]
     },
     {
       "id": "GreatMarsh5_Text_SignArea5",
-      "en_US": "Great Marsh Area 5"
+      "en_US": "Great Marsh Area 5",
+      "fr_FR": "Grand Marais Parc 5"
     }
   ]
 }

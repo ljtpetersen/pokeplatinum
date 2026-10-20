@@ -26,5 +26,13 @@
     "contest": {
         "effect": "CONTEST_EFFECT_FIRST_PERFORMANCE_ADVANTAGE",
         "type": "CONTEST_TYPE_COOL"
-    }
+    },
+    "name_fr": "Coupe Psycho",
+    "description_fr": [
+        "Le lanceur entaille\n",
+        "l’ennemi grâce à des\n",
+        "lames faites de pou-\n",
+        "voir psychique. Taux\n",
+        "de critiques élevé."
+    ]
 }

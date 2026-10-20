@@ -33,11 +33,17 @@
                 "We are acquiring Pokémon for a most\n",
                 "astonishing undertaking!\r",
                 "Your meddling won’t be tolerated!\r"
+            ],
+            "fr_FR": [
+                "Nous nous procurons des Pokémon dans\n",
+                "un but bien précis!\r",
+                "Ne viens pas te mêler de nos affaires!\r"
             ]
         },
         {
             "type": "TRMSG_DEFEAT",
-            "en_US": "I feel like I got meddled with...\n"
+            "en_US": "I feel like I got meddled with...\n",
+            "fr_FR": "Il a fallu que tu t’en mêles...\n"
         },
         {
             "type": "TRMSG_POST_BATTLE",
@@ -46,7 +52,14 @@
                 "most certainly breathtaking.\r",
                 "If you ever hope to see its glorious\n",
                 "unveiling, then don’t meddle with us!\n"
+            ],
+            "fr_FR": [
+                "Notre opération sans concession\n",
+                "t’épatera pour de bon!\r",
+                "Si tu comptes en voir l’exécution,\n",
+                "mêle-toi plutôt de tes oignons."
             ]
         }
-    ]
+    ],
+    "name_fr": "Sbire"
 }

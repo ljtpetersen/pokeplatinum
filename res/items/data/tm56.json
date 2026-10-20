@@ -27,5 +27,13 @@
   "fieldUseFunc": "ITEM_USE_FUNC_TM_HM",
   "battleUseCategory": "BATTLE_USE_CATEGORY_NONE",
   "itemUseParams": null,
-  "teachesMove": "MOVE_FLING"
+  "teachesMove": "MOVE_FLING",
+  "name_fr": "CT56",
+  "description_fr": [
+    "Le lanceur envoie l’objet qu’il tient\n",
+    "sur l’ennemi. La puissance et les effets\n",
+    "dépendent de l’objet."
+  ],
+  "plural_fr": "CT56",
+  "article_fr": null
 }

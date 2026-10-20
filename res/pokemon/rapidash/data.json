@@ -7,7 +7,10 @@
         "special_attack": 80,
         "special_defense": 80
     },
-    "types": [ "TYPE_FIRE", "TYPE_FIRE" ],
+    "types": [
+        "TYPE_FIRE",
+        "TYPE_FIRE"
+    ],
     "catch_rate": 60,
     "base_exp_reward": 192,
     "ev_yields": {
@@ -26,31 +29,88 @@
     "hatch_cycles": 20,
     "base_friendship": 70,
     "exp_rate": "EXP_RATE_MEDIUM_FAST",
-    "egg_groups": [ "EGG_GROUP_FIELD", "EGG_GROUP_FIELD" ],
-    "abilities": [ "ABILITY_RUN_AWAY", "ABILITY_FLASH_FIRE" ],
+    "egg_groups": [
+        "EGG_GROUP_FIELD",
+        "EGG_GROUP_FIELD"
+    ],
+    "abilities": [
+        "ABILITY_RUN_AWAY",
+        "ABILITY_FLASH_FIRE"
+    ],
     "safari_flee_rate": 0,
     "body_color": "MON_COLOR_YELLOW",
     "flip_sprite": false,
     "icon_palette": 0,
     "learnset": {
         "by_level": [
-            [ 1, "MOVE_POISON_JAB" ],
-            [ 1, "MOVE_MEGAHORN" ],
-            [ 1, "MOVE_GROWL" ],
-            [ 1, "MOVE_QUICK_ATTACK" ],
-            [ 1, "MOVE_TAIL_WHIP" ],
-            [ 1, "MOVE_EMBER" ],
-            [ 6, "MOVE_TAIL_WHIP" ],
-            [ 10, "MOVE_EMBER" ],
-            [ 15, "MOVE_FLAME_WHEEL" ],
-            [ 19, "MOVE_STOMP" ],
-            [ 24, "MOVE_FIRE_SPIN" ],
-            [ 28, "MOVE_TAKE_DOWN" ],
-            [ 33, "MOVE_AGILITY" ],
-            [ 37, "MOVE_FIRE_BLAST" ],
-            [ 40, "MOVE_FURY_ATTACK" ],
-            [ 47, "MOVE_BOUNCE" ],
-            [ 56, "MOVE_FLARE_BLITZ" ]
+            [
+                1,
+                "MOVE_POISON_JAB"
+            ],
+            [
+                1,
+                "MOVE_MEGAHORN"
+            ],
+            [
+                1,
+                "MOVE_GROWL"
+            ],
+            [
+                1,
+                "MOVE_QUICK_ATTACK"
+            ],
+            [
+                1,
+                "MOVE_TAIL_WHIP"
+            ],
+            [
+                1,
+                "MOVE_EMBER"
+            ],
+            [
+                6,
+                "MOVE_TAIL_WHIP"
+            ],
+            [
+                10,
+                "MOVE_EMBER"
+            ],
+            [
+                15,
+                "MOVE_FLAME_WHEEL"
+            ],
+            [
+                19,
+                "MOVE_STOMP"
+            ],
+            [
+                24,
+                "MOVE_FIRE_SPIN"
+            ],
+            [
+                28,
+                "MOVE_TAKE_DOWN"
+            ],
+            [
+                33,
+                "MOVE_AGILITY"
+            ],
+            [
+                37,
+                "MOVE_FIRE_BLAST"
+            ],
+            [
+                40,
+                "MOVE_FURY_ATTACK"
+            ],
+            [
+                47,
+                "MOVE_BOUNCE"
+            ],
+            [
+                56,
+                "MOVE_FLARE_BLITZ"
+            ]
         ],
         "by_tm": [
             "TM06",
@@ -88,7 +148,7 @@
             "MOVE_SWIFT"
         ]
     },
-    "evolutions": [  ],
+    "evolutions": [],
     "offspring": "SPECIES_PONYTA",
     "footprint": {
         "has": true,
@@ -111,9 +171,9 @@
             "name": "RAPIDASH",
             "category": "Fire Horse Pokémon",
             "entry_text": [
-                "When at an all-out gallop, its\n",
-                "blazing mane sparkles, enhancing\n",
-                "its beautiful appearance."
+                "It gallops at nearly 150 mph.\n",
+                "With its mane blazing ferociously,\n",
+                "it races as if it were an arrow."
             ]
         },
         "fr": {
@@ -159,6 +219,18 @@
                 "はしる　そくどは　じそく２４０キロ。\n",
                 "たてがみの　ほのおが　はげしく　もえ\n",
                 "やの　ように　かけぬける。"
+            ]
+        },
+        "local_version": {
+            "entry_text": [
+                "When at an all-out gallop, its\n",
+                "blazing mane sparkles, enhancing\n",
+                "its beautiful appearance."
+            ],
+            "entry_text_fr": [
+                "Au grand galop, sa crinière de feu\n",
+                "disperse au vent une myriade\n",
+                "d’étincelles ardentes."
             ]
         }
     },

@@ -21,5 +21,12 @@
     "contest": {
         "effect": "CONTEST_EFFECT_RANDOM_ORDER",
         "type": "CONTEST_TYPE_CUTE"
-    }
+    },
+    "name_fr": "Par Ici",
+    "description_fr": [
+        "Attire l’attention.\n",
+        "Les ennemis\n",
+        "n’attaquent que le\n",
+        "lanceur."
+    ]
 }

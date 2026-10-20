@@ -42,17 +42,28 @@
                 "Well, I am fishing, but...\r",
                 "Very well!\n",
                 "I accept your challenge!\r"
+            ],
+            "fr_FR": [
+                "Bon, j’étais en train de pêcher,\n",
+                "mais...\r",
+                "Très bien!\n",
+                "Je relève ton défi!\r"
             ]
         },
         {
             "type": "TRMSG_DEFEAT",
-            "en_US": "A bittersweet smile is on my lips.\n"
+            "en_US": "A bittersweet smile is on my lips.\n",
+            "fr_FR": "La défaite est un peu amère."
         },
         {
             "type": "TRMSG_POST_BATTLE",
             "en_US": [
                 "I’ve gone down in defeat.\n",
                 "Whatever more is there to say?\n"
+            ],
+            "fr_FR": [
+                "Le poids de la défaite est lourd.\n",
+                "C’est tout ce que j’ai à dire."
             ]
         },
         {
@@ -61,7 +72,13 @@
                 "Well, just as before, I’m fishing, but...\r",
                 "Very well!\n",
                 "I accept your challenge!\r"
+            ],
+            "fr_FR": [
+                "Comme la dernière fois, j’étais en train\n",
+                "de pêcher, mais bon...\r",
+                "Je relève ton défi!\r"
             ]
         }
-    ]
+    ],
+    "name_fr": "Jordy"
 }

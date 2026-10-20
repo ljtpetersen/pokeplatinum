@@ -39,5 +39,13 @@
     "bitterness": 0,
     "sourness": 40,
     "smoothness": 60
-  }
+  },
+  "name_fr": "Baie Pommo",
+  "description_fr": [
+    "Ingrédient pour Poffin. Tenue, cette\n",
+    "Baie fait subir des dommages au lanceur\n",
+    "d’une attaque spéciale qui a touché."
+  ],
+  "plural_fr": "Baie Pommo",
+  "article_fr": null
 }

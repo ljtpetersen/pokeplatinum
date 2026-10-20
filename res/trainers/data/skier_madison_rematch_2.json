@@ -24,11 +24,18 @@
                 "You really must like snow.\r",
                 "After all, if you didn’t, I doubt that\n",
                 "you’d come here so often!\r"
+            ],
+            "fr_FR": [
+                "Tu dois vraiment aimer la neige.\r",
+                "Si ce n’était pas le cas, je ne te\n",
+                "verrais pas aussi souvent dans le coin!\r"
             ]
         },
         {
             "type": "TRMSG_DEFEAT",
-            "en_US": "The conditions weren’t very good.\n"
+            "en_US": "The conditions weren’t very good.\n",
+            "fr_FR": "Le temps n’était pas idéal.\n"
         }
-    ]
+    ],
+    "name_fr": "Julie"
 }

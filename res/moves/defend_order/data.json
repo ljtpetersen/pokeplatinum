@@ -24,5 +24,13 @@
     "contest": {
         "effect": "CONTEST_EFFECT_DOUBLE_NEXT_TURN",
         "type": "CONTEST_TYPE_SMART"
-    }
+    },
+    "name_fr": "Appel Défens",
+    "description_fr": [
+        "Le lanceur appelle\n",
+        "ses sous-fifres pour\n",
+        "former un bouclier qui\n",
+        "augmente sa Défense\n",
+        "et sa Déf. Spé."
+    ]
 }

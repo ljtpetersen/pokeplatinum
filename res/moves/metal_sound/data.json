@@ -26,5 +26,13 @@
     "contest": {
         "effect": "CONTEST_EFFECT_LOWERS_VOLTAGE",
         "type": "CONTEST_TYPE_SMART"
-    }
+    },
+    "name_fr": "Strido-Son",
+    "description_fr": [
+        "Un cri horrible pareil\n",
+        "à un crissement \n",
+        "métallique qui\n",
+        "réduit la Déf. Spé.\n",
+        "de l’ennemi."
+    ]
 }

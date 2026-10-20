@@ -26,5 +26,12 @@
   "battlePocket": "BATTLE_POCKET_MASK_NONE",
   "fieldUseFunc": "ITEM_USE_FUNC_NONE",
   "battleUseCategory": "BATTLE_USE_CATEGORY_NONE",
-  "itemUseParams": null
+  "itemUseParams": null,
+  "name_fr": "Poudreclaire",
+  "description_fr": [
+    "Objet à tenir qui intimide et baisse\n",
+    "la précision de l’ennemi."
+  ],
+  "plural_fr": "Poudreclaire",
+  "article_fr": null
 }

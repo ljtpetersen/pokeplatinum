@@ -59,6 +59,10 @@
             "en_US": [
                 "I’ve been devising ways of raising tough\n",
                 "Pokémon from the genetic level."
+            ],
+            "fr_FR": [
+                "Je réfléchis à un projet ambitieux de\n",
+                "manipulation génétique sur les Pokémon."
             ]
         },
         {
@@ -66,6 +70,10 @@
             "en_US": [
                 "You can’t overlook the role of\n",
                 "knowledge in raising tough Pokémon.\r"
+            ],
+            "fr_FR": [
+                "Avec une approche scientifique, on peut\n",
+                "optimiser l’élevage des Pokémon.\r"
             ]
         },
         {
@@ -73,7 +81,12 @@
             "en_US": [
                 "I need to study and understand what\n",
                 "genetics is about first.\r"
+            ],
+            "fr_FR": [
+                "Bon, il faudra que j’étudie un peu le\n",
+                "sujet. Je n’y connais rien en génétique.\r"
             ]
         }
-    ]
+    ],
+    "name_fr": "Sonya"
 }

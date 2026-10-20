@@ -77,6 +77,10 @@
             "en_US": [
                 "I collect and battle Pokémon so I can\n",
                 "brag to my peers."
+            ],
+            "fr_FR": [
+                "Je collectionne et j’entraîne des\n",
+                "Pokémon pour frimer devant mes amis."
             ]
         },
         {
@@ -84,6 +88,10 @@
             "en_US": [
                 "I’m not all that interested in winning\n",
                 "or losing to begin with.\r"
+            ],
+            "fr_FR": [
+                "Gagner ou perdre... Cela n’a aucune\n",
+                "importance pour moi.\r"
             ]
         },
         {
@@ -91,7 +99,12 @@
             "en_US": [
                 "You’ve won the battle. But, in terms of\n",
                 "the Pokémon involved, I clearly win."
+            ],
+            "fr_FR": [
+                "Tu as gagné le combat, mais pour ce qui\n",
+                "est du style, je te domine largement."
             ]
         }
-    ]
+    ],
+    "name_fr": "Malek"
 }

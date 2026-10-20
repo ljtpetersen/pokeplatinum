@@ -85,6 +85,10 @@
             "en_US": [
                 "On behalf of my village, I take on this\n",
                 "challenge!"
+            ],
+            "fr_FR": [
+                "Je suis là pour représenter\n",
+                "mon village!"
             ]
         },
         {
@@ -92,6 +96,10 @@
             "en_US": [
                 "Thank you, everyone!\n",
                 "Thank you for your vocal support!\r"
+            ],
+            "fr_FR": [
+                "Oui! Tout le monde au village sera\n",
+                "fier de moi!\r"
             ]
         },
         {
@@ -99,7 +107,12 @@
             "en_US": [
                 "Fellow villagers, I’m sorry!\n",
                 "My best wasn’t enough!\r"
+            ],
+            "fr_FR": [
+                "Oh non! Les gens du village vont\n",
+                "être tellement déçus...\r"
             ]
         }
-    ]
+    ],
+    "name_fr": "Cylia"
 }

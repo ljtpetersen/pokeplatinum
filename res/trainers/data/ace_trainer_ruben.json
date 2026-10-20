@@ -45,6 +45,11 @@
                 "There’s something about you...\n",
                 "You’re not just anybody.\r",
                 "I challenge you!\r"
+            ],
+            "fr_FR": [
+                "Il y a quelque chose chez toi...\n",
+                "Tu n’es pas n’importe qui.\r",
+                "Je te lance un défi!\r"
             ]
         },
         {
@@ -52,6 +57,10 @@
             "en_US": [
                 "You’re at a different level of\n",
                 "expertise for sure!\n"
+            ],
+            "fr_FR": [
+                "De toute évidence, nous ne sommes pas\n",
+                "du même niveau!\n"
             ]
         },
         {
@@ -59,6 +68,10 @@
             "en_US": [
                 "You’ve won countless times...\n",
                 "That has made you very powerful.\n"
+            ],
+            "fr_FR": [
+                "Tu as gagné tellement souvent...\n",
+                "C’est ce qui a augmenté ta force.\n"
             ]
         },
         {
@@ -67,7 +80,13 @@
                 "There’s something about you...\n",
                 "You still remain extraordinary.\r",
                 "I challenge you again!\r"
+            ],
+            "fr_FR": [
+                "Il y a quelque chose chez toi...\n",
+                "Tu es toujours extraordinaire.\r",
+                "Je te défie à nouveau!\r"
             ]
         }
-    ]
+    ],
+    "name_fr": "Basile"
 }

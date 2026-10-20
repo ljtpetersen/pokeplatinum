@@ -47,6 +47,14 @@
                 "become tougher.\r",
                 "It’s all good.\n",
                 "This calls for a battle!\r"
+            ],
+            "fr_FR": [
+                "Si nous nous battions, tu deviendrais\n",
+                "un meilleur Dresseur.\r",
+                "De la même manière, mes Pokémon\n",
+                "deviendraient plus puissants.\r",
+                "Tout le monde serait gagnant.\n",
+                "Alors qu’est-ce qu’on attend?\r"
             ]
         },
         {
@@ -54,6 +62,10 @@
             "en_US": [
                 "You know, I would have really enjoyed\n",
                 "a win there. Would’ve been real nice.\n"
+            ],
+            "fr_FR": [
+                "Tu sais, j’aurais apprécié de gagner.\n",
+                "Ça aurait été vraiment sympa.\n"
             ]
         },
         {
@@ -63,7 +75,14 @@
                 "now it’s home to many Pokémon.\r",
                 "I guess everything finds a place\n",
                 "to call home someday..."
+            ],
+            "fr_FR": [
+                "Cette mine abandonnée sert désormais\n",
+                "de maison à de nombreux Pokémon.\r",
+                "Un jour ou l’autre, tout le monde finit\n",
+                "par trouver un foyer..."
             ]
         }
-    ]
+    ],
+    "name_fr": "Aurélien"
 }

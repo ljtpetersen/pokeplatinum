@@ -27,5 +27,12 @@
     "contest": {
         "effect": "CONTEST_EFFECT_NO_VOLTAGE_DOWN",
         "type": "CONTEST_TYPE_SMART"
-    }
+    },
+    "name_fr": "Para-Spore",
+    "description_fr": [
+        "Le lanceur répand une\n",
+        "poudre paralysante\n",
+        "sur l’ennemi. Peut le\n",
+        "paralyser."
+    ]
 }

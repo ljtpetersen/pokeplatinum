@@ -109,6 +109,10 @@
             "en_US": [
                 "Clear the way! Out of the way!\n",
                 "Wait! Don’t go! We have to battle!"
+            ],
+            "fr_FR": [
+                "Dégagez la route! Faites place!\n",
+                "Euh... une seconde! Je dois combattre!"
             ]
         },
         {
@@ -116,6 +120,10 @@
             "en_US": [
                 "Come on, take it up a gear!\n",
                 "Keep up with me!\r"
+            ],
+            "fr_FR": [
+                "Alors? Tu as du mal à suivre?\n",
+                "Passe à la vitesse supérieure!\r"
             ]
         },
         {
@@ -123,7 +131,12 @@
             "en_US": [
                 "OK, out of the way! Clear the way!\n",
                 "Let this loser run away!\r"
+            ],
+            "fr_FR": [
+                "OK, faites place! Laissez passer!\n",
+                "Laissez sortir le perdant!\r"
             ]
         }
-    ]
+    ],
+    "name_fr": "Wayne"
 }

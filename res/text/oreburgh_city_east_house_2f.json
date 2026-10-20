@@ -8,6 +8,12 @@
         "with the utmost care.\r",
         "We avoid causing any damage to\n",
         "the natural habitats of Pokémon."
+      ],
+      "fr_FR": [
+        "La Mine de Charbourg est exploitée avec\n",
+        "le plus grand soin.\r",
+        "Nous évitons de causer des dommages\n",
+        "aux habitats naturels des Pokémon."
       ]
     },
     {
@@ -17,6 +23,12 @@
         "twinkling brightly!\r",
         "Seeing that makes me happy!\n",
         "Here, I want you to have this!\r"
+      ],
+      "fr_FR": [
+        "Waouh... Les yeux de tes Pokémon\n",
+        "brillent de mille feux!\r",
+        "Ça me rend heureux de voir ça!\n",
+        "Tiens, je veux te donner ça!\r"
       ]
     },
     {
@@ -26,6 +38,12 @@
         "their Poké Balls?\r",
         "I try to think about what would be\n",
         "the best Poké Balls for them."
+      ],
+      "fr_FR": [
+        "Tu sais, les Pokémon passent beaucoup\n",
+        "de temps dans leurs Poké Balls...\r",
+        "J’essaie de deviner quelle serait la\n",
+        "meilleure Poké Ball pour eux."
       ]
     },
     {
@@ -35,6 +53,13 @@
         "a fully automated system.\r",
         "Machines do all the work automatically.\n",
         "So, it’s all very easy."
+      ],
+      "fr_FR": [
+        "La Mine de Charbourg est équipée d’un\n",
+        "système entièrement automatisé pour\f",
+        "transporter le charbon à l’extérieur.\r",
+        "Ce sont les machines qui font tout le\n",
+        "travail. Ça nous simplifie la vie!"
       ]
     }
   ]

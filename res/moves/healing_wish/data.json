@@ -22,5 +22,13 @@
     "contest": {
         "effect": "CONTEST_EFFECT_VOLTAGE",
         "type": "CONTEST_TYPE_CUTE"
-    }
+    },
+    "name_fr": "Voeu Soin",
+    "description_fr": [
+        "Le lanceur tombe\n",
+        "K.O. pour soigner les\n",
+        "PV et le statut du\n",
+        "Pokémon qui passe\n",
+        "après lui."
+    ]
 }

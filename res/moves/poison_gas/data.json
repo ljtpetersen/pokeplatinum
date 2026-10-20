@@ -26,5 +26,12 @@
     "contest": {
         "effect": "CONTEST_EFFECT_BASIC",
         "type": "CONTEST_TYPE_SMART"
-    }
+    },
+    "name_fr": "Gaz Toxik",
+    "description_fr": [
+        "Un nuage de gaz\n",
+        "toxique est projeté\n",
+        "au visage de l’ennemi.\n",
+        "Peut l’empoisonner."
+    ]
 }

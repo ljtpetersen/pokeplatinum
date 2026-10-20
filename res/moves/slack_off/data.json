@@ -24,5 +24,12 @@
     "contest": {
         "effect": "CONTEST_EFFECT_VOLTAGE",
         "type": "CONTEST_TYPE_CUTE"
-    }
+    },
+    "name_fr": "Paresse",
+    "description_fr": [
+        "Le lanceur se tourne\n",
+        "les pouces et\n",
+        "récupère jusqu’à la\n",
+        "moitié de ses PV max."
+    ]
 }

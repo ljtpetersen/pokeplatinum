@@ -83,6 +83,10 @@
             "en_US": [
                 "I hear my Pokémon calling out...\n",
                 "They clamor to battle..."
+            ],
+            "fr_FR": [
+                "Le grand esprit Pokémon me parle...\n",
+                "Il me pousse à combattre..."
             ]
         },
         {
@@ -90,6 +94,10 @@
             "en_US": [
                 "I hear my Pokémon calling out...\n",
                 "They call for your return...\r"
+            ],
+            "fr_FR": [
+                "Le grand esprit Pokémon me parle...\n",
+                "Il espère t’affronter à nouveau...\r"
             ]
         },
         {
@@ -97,7 +105,12 @@
             "en_US": [
                 "I hear my Pokémon calling out...\n",
                 "They tell me of the fun they had...\r"
+            ],
+            "fr_FR": [
+                "Le grand esprit Pokémon me parle...\n",
+                "Il se dit satisfait de ce combat...\r"
             ]
         }
-    ]
+    ],
+    "name_fr": "Iseult"
 }

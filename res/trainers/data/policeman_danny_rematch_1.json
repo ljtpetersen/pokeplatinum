@@ -32,11 +32,17 @@
             "en_US": [
                 "Whoa! Hold it right there!\n",
                 "I’ve spotted a sneaky Trainer!\r"
+            ],
+            "fr_FR": [
+                "Hop, hop, hop! Un instant!\n",
+                "J’ai repéré un Dresseur fourbe!\r"
             ]
         },
         {
             "type": "TRMSG_DEFEAT",
-            "en_US": "Beaten by sneakiness again...\n"
+            "en_US": "Beaten by sneakiness again...\n",
+            "fr_FR": "La fourberie a encore eu le dernier mot.\n"
         }
-    ]
+    ],
+    "name_fr": "Melvin"
 }

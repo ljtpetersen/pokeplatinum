@@ -7,7 +7,10 @@
         "special_attack": 70,
         "special_defense": 70
     },
-    "types": [ "TYPE_NORMAL", "TYPE_NORMAL" ],
+    "types": [
+        "TYPE_NORMAL",
+        "TYPE_NORMAL"
+    ],
     "catch_rate": 45,
     "base_exp_reward": 145,
     "ev_yields": {
@@ -26,22 +29,52 @@
     "hatch_cycles": 25,
     "base_friendship": 70,
     "exp_rate": "EXP_RATE_MEDIUM_FAST",
-    "egg_groups": [ "EGG_GROUP_FAIRY", "EGG_GROUP_AMORPHOUS" ],
-    "abilities": [ "ABILITY_FORECAST", "ABILITY_NONE" ],
+    "egg_groups": [
+        "EGG_GROUP_FAIRY",
+        "EGG_GROUP_AMORPHOUS"
+    ],
+    "abilities": [
+        "ABILITY_FORECAST",
+        "ABILITY_NONE"
+    ],
     "safari_flee_rate": 0,
     "body_color": "MON_COLOR_WHITE",
     "flip_sprite": false,
     "icon_palette": 0,
     "learnset": {
         "by_level": [
-            [ 1, "MOVE_TACKLE" ],
-            [ 10, "MOVE_WATER_GUN" ],
-            [ 10, "MOVE_EMBER" ],
-            [ 10, "MOVE_POWDER_SNOW" ],
-            [ 20, "MOVE_RAIN_DANCE" ],
-            [ 20, "MOVE_SUNNY_DAY" ],
-            [ 20, "MOVE_HAIL" ],
-            [ 30, "MOVE_WEATHER_BALL" ]
+            [
+                1,
+                "MOVE_TACKLE"
+            ],
+            [
+                10,
+                "MOVE_WATER_GUN"
+            ],
+            [
+                10,
+                "MOVE_EMBER"
+            ],
+            [
+                10,
+                "MOVE_POWDER_SNOW"
+            ],
+            [
+                20,
+                "MOVE_RAIN_DANCE"
+            ],
+            [
+                20,
+                "MOVE_SUNNY_DAY"
+            ],
+            [
+                20,
+                "MOVE_HAIL"
+            ],
+            [
+                30,
+                "MOVE_WEATHER_BALL"
+            ]
         ],
         "by_tm": [
             "TM03",
@@ -97,7 +130,7 @@
             "MOVE_OMINOUS_WIND"
         ]
     },
-    "evolutions": [  ],
+    "evolutions": [],
     "offspring": "SPECIES_CASTFORM",
     "footprint": {
         "has": false,
@@ -168,6 +201,18 @@
                 "てんきによって　すがたが　かわる。\n",
                 "みずの　ぶんしと　そっくりなことが\n",
                 "さいきんになって　はっけんされた。"
+            ]
+        },
+        "local_version": {
+            "entry_text": [
+                "Its appearance changes with the\n",
+                "weather. Recently, its molecules\n",
+                "were found to be just like water."
+            ],
+            "entry_text_fr": [
+                "Son aspect change avec la météo.\n",
+                "On a récemment découvert que ses\n",
+                "molécules étaient pareilles à l’eau."
             ]
         }
     },

@@ -27,5 +27,13 @@
     "contest": {
         "effect": "CONTEST_EFFECT_FIRST_PERFORMANCE_ADVANTAGE",
         "type": "CONTEST_TYPE_BEAUTY"
-    }
+    },
+    "name_fr": "Plaie-Croix",
+    "description_fr": [
+        "Le lanceur taillade\n",
+        "l’ennemi en utilisant\n",
+        "ses faux ou ses\n",
+        "griffes comme une\n",
+        "paire de ciseaux."
+    ]
 }

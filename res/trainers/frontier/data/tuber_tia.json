@@ -52,15 +52,19 @@
     "messages": [
         {
             "type": "TRMSG_PRE_BATTLE",
-            "en_US": "I just now got back from my vacation."
+            "en_US": "I just now got back from my vacation.",
+            "fr_FR": "Je reviens tout juste de vacances.\n"
         },
         {
             "type": "TRMSG_WIN",
-            "en_US": "The beach is a good place to show off.\r"
+            "en_US": "The beach is a good place to show off.\r",
+            "fr_FR": "J’adore frimer sur la plage.\r"
         },
         {
             "type": "TRMSG_DEFEAT",
-            "en_US": "Ooh, my sunburn is itching.\r"
+            "en_US": "Ooh, my sunburn is itching.\r",
+            "fr_FR": "Aïe, mes coups de soleil me font mal.\r"
         }
-    ]
+    ],
+    "name_fr": "Mélissa"
 }

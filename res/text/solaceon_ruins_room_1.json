@@ -10,6 +10,14 @@
         "TOP LEFT\r",
         "TOP LEFT\r",
         "LOWER LEFT"
+      ],
+      "fr_FR": [
+        "EN HAUT A DROITE\r",
+        "EN BAS A GAUCHE\r",
+        "EN HAUT A DROITE\r",
+        "EN HAUT A GAUCHE\r",
+        "EN HAUT A GAUCHE\r",
+        "EN BAS A GAUCHE"
       ]
     }
   ]

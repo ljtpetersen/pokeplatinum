@@ -27,5 +27,13 @@
   "fieldUseFunc": "ITEM_USE_FUNC_TM_HM",
   "battleUseCategory": "BATTLE_USE_CATEGORY_NONE",
   "itemUseParams": null,
-  "teachesMove": "MOVE_PSYCHIC"
+  "teachesMove": "MOVE_PSYCHIC",
+  "name_fr": "CT29",
+  "description_fr": [
+    "Une puissante force télékinésique\n",
+    "frappe l’ennemi. Peut aussi faire\n",
+    "baisser sa Déf. Spé."
+  ],
+  "plural_fr": "CT29",
+  "article_fr": null
 }

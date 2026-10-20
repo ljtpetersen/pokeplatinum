@@ -7,7 +7,10 @@
         "special_attack": 47,
         "special_defense": 138
     },
-    "types": [ "TYPE_ROCK", "TYPE_STEEL" ],
+    "types": [
+        "TYPE_ROCK",
+        "TYPE_STEEL"
+    ],
     "catch_rate": 45,
     "base_exp_reward": 199,
     "ev_yields": {
@@ -26,28 +29,76 @@
     "hatch_cycles": 30,
     "base_friendship": 70,
     "exp_rate": "EXP_RATE_ERRATIC",
-    "egg_groups": [ "EGG_GROUP_MONSTER", "EGG_GROUP_MONSTER" ],
-    "abilities": [ "ABILITY_STURDY", "ABILITY_NONE" ],
+    "egg_groups": [
+        "EGG_GROUP_MONSTER",
+        "EGG_GROUP_MONSTER"
+    ],
+    "abilities": [
+        "ABILITY_STURDY",
+        "ABILITY_NONE"
+    ],
     "safari_flee_rate": 0,
     "body_color": "MON_COLOR_GRAY",
     "flip_sprite": false,
     "icon_palette": 1,
     "learnset": {
         "by_level": [
-            [ 1, "MOVE_TACKLE" ],
-            [ 1, "MOVE_PROTECT" ],
-            [ 1, "MOVE_TAUNT" ],
-            [ 1, "MOVE_METAL_SOUND" ],
-            [ 6, "MOVE_TAUNT" ],
-            [ 10, "MOVE_METAL_SOUND" ],
-            [ 15, "MOVE_TAKE_DOWN" ],
-            [ 19, "MOVE_IRON_DEFENSE" ],
-            [ 24, "MOVE_SWAGGER" ],
-            [ 28, "MOVE_ANCIENT_POWER" ],
-            [ 30, "MOVE_BLOCK" ],
-            [ 36, "MOVE_ENDURE" ],
-            [ 43, "MOVE_METAL_BURST" ],
-            [ 52, "MOVE_IRON_HEAD" ]
+            [
+                1,
+                "MOVE_TACKLE"
+            ],
+            [
+                1,
+                "MOVE_PROTECT"
+            ],
+            [
+                1,
+                "MOVE_TAUNT"
+            ],
+            [
+                1,
+                "MOVE_METAL_SOUND"
+            ],
+            [
+                6,
+                "MOVE_TAUNT"
+            ],
+            [
+                10,
+                "MOVE_METAL_SOUND"
+            ],
+            [
+                15,
+                "MOVE_TAKE_DOWN"
+            ],
+            [
+                19,
+                "MOVE_IRON_DEFENSE"
+            ],
+            [
+                24,
+                "MOVE_SWAGGER"
+            ],
+            [
+                28,
+                "MOVE_ANCIENT_POWER"
+            ],
+            [
+                30,
+                "MOVE_BLOCK"
+            ],
+            [
+                36,
+                "MOVE_ENDURE"
+            ],
+            [
+                43,
+                "MOVE_METAL_BURST"
+            ],
+            [
+                52,
+                "MOVE_IRON_HEAD"
+            ]
         ],
         "by_tm": [
             "TM05",
@@ -105,7 +156,7 @@
             "MOVE_MAGNET_RISE"
         ]
     },
-    "evolutions": [  ],
+    "evolutions": [],
     "offspring": "SPECIES_SHIELDON",
     "footprint": {
         "has": true,
@@ -128,9 +179,9 @@
             "name": "BASTIODON",
             "category": "Shield Pokémon",
             "entry_text": [
-                "When they lined up side by side, no\n",
-                "foe could break through. They\n",
-                "shielded their young in that way."
+                "Any frontal attack is repulsed.\n",
+                "It is a docile Pokémon that\n",
+                "feeds on grass and berries."
             ]
         },
         "fr": {
@@ -176,6 +227,18 @@
                 "しょうめんからの　こうげきは\n",
                 "すべて　はねかえす。くさや　きのみを\n",
                 "たべる　おとなしい　せいかく。"
+            ]
+        },
+        "local_version": {
+            "entry_text": [
+                "When they lined up side by side, no\n",
+                "foe could break through. They\n",
+                "shielded their young in that way."
+            ],
+            "entry_text_fr": [
+                "En groupe, ils protègent leurs\n",
+                "petits en formant autour d’eux\n",
+                "une impénétrable muraille."
             ]
         }
     },

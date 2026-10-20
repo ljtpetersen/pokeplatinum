@@ -12,6 +12,16 @@
         "the Eterna City side?\r",
         "Oh, didn’t I need hidden moves like\n",
         "Surf, too?"
+      ],
+      "fr_FR": [
+        "Pas moyen d’atteindre le sommet du \n",
+        "Mont Couronné depuis cette face!\r",
+        "Oh, oh... Tu crois que j’aurais dû\n",
+        "tenter l’ascension depuis Charbourg\f",
+        "au lieu de Vestigion?\r",
+        "J’y pense... J’aurais peut-être besoin\n",
+        "de capacités secrètes telles que Surf,\f",
+        "aussi..."
       ]
     },
     {
@@ -20,6 +30,12 @@
         "Grunt 1: The fog is so thick ahead\n",
         "I can’t even see my own hand!\r",
         "Can you use Defog so we can see?\r"
+      ],
+      "fr_FR": [
+        "Sbire 1: Tu parles d’une purée de pois!\n",
+        "On n’y voit pas à vingt centimètres!\r",
+        "Tu peux utiliser Anti-Brume pour qu’on\n",
+        "y voie un peu plus clair?\r"
       ]
     },
     {
@@ -29,6 +45,12 @@
         "can’t use Defog, either.\r",
         "I think we’re stuck.\n",
         "Let’s wait till the others get here.\r"
+      ],
+      "fr_FR": [
+        "Sbire 2: Hein? Le Pokémon qu’ils m’ont\n",
+        "donné ne peut pas utiliser Anti-Brume.\r",
+        "On est coincés.\n",
+        "Attendons que les autres arrivent.\r"
       ]
     }
   ]

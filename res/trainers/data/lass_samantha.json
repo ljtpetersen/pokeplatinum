@@ -24,6 +24,10 @@
             "en_US": [
                 "May I please trouble you for a\n",
                 "battle?\r"
+            ],
+            "fr_FR": [
+                "Ça te dérangerait de \n",
+                "combattre contre moi?\r"
             ]
         },
         {
@@ -31,6 +35,10 @@
             "en_US": [
                 "Oh...\n",
                 "You’re so strong...\n"
+            ],
+            "fr_FR": [
+                "Oh...\n",
+                "Je ne suis pas assez forte pour toi...\n"
             ]
         },
         {
@@ -38,6 +46,10 @@
             "en_US": [
                 "Maybe I could have won if my Pokémon\n",
                 "was holding a Berry...\n"
+            ],
+            "fr_FR": [
+                "Peut-être que j’aurais gagné si \n",
+                "mon Pokémon avait tenu une Baie...\n"
             ]
         },
         {
@@ -45,7 +57,12 @@
             "en_US": [
                 "Excuse me, may I please trouble you to\n",
                 "have one more battle?\r"
+            ],
+            "fr_FR": [
+                "Excuse-moi de te déranger, un autre\n",
+                "combat, ça te dirait?\r"
             ]
         }
-    ]
+    ],
+    "name_fr": "Rachel"
 }

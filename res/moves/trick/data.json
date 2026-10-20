@@ -24,5 +24,13 @@
     "contest": {
         "effect": "CONTEST_EFFECT_STEAL_VOLTAGE",
         "type": "CONTEST_TYPE_SMART"
-    }
+    },
+    "name_fr": "Tourmagik",
+    "description_fr": [
+        "Le lanceur prend\n",
+        "l’ennemi au dépourvu\n",
+        "et l’oblige à échanger\n",
+        "son objet contre\n",
+        "le sien."
+    ]
 }

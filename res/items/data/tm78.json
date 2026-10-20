@@ -27,5 +27,13 @@
   "fieldUseFunc": "ITEM_USE_FUNC_TM_HM",
   "battleUseCategory": "BATTLE_USE_CATEGORY_NONE",
   "itemUseParams": null,
-  "teachesMove": "MOVE_CAPTIVATE"
+  "teachesMove": "MOVE_CAPTIVATE",
+  "name_fr": "CT78",
+  "description_fr": [
+    "Si l’ennemi est de sexe opposé au\n",
+    "lanceur, il est séduit et sa stat Atq.\n",
+    "Spé. baisse fortement."
+  ],
+  "plural_fr": "CT78",
+  "article_fr": null
 }

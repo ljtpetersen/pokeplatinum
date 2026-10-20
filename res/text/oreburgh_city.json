@@ -18,6 +18,22 @@
         "to the coal mine.\r",
         "If you want to take on the Gym Leader,\n",
         "you’d better go off to the mine!"
+      ],
+      "fr_FR": [
+        "{STRVAR_1 3, 0, 0}: Hein?\r",
+        "Oh, c’est toi, {STRVAR_1 3, 1, 0}!\n",
+        "Enfin! J’ai failli attendre!\f",
+        "Tu traînes, comme toujours!\r",
+        "Bref, le Champion d’Arène, c’est un\n",
+        "coriace de chez coriace!\r",
+        "Je me demande comment il s’en\n",
+        "sortirait s’il affrontait mon père...\r",
+        "Hein?\n",
+        "Oh, je m’égare.\r",
+        "Bon, le Champion d’Arène est parti\n",
+        "à la mine.\r",
+        "Alors si tu as l’intention de le défier,\n",
+        "tu ferais bien d’y aller!"
       ]
     },
     {
@@ -27,11 +43,19 @@
         "Leader went down to the Oreburgh Mine.\r",
         "If you want to take the Gym challenge,\n",
         "you have to go down to the mine."
+      ],
+      "fr_FR": [
+        "{STRVAR_1 3, 0, 0}: Je t’ai dit que le\n",
+        "Champion d’Arène était à la Mine de\f",
+        "Charbourg.\r",
+        "Alors si tu veux le défier, c’est là-bas\n",
+        "que tu le trouveras."
       ]
     },
     {
       "id": "OreburghCity_Text_BigThud",
-      "en_US": "{SIZE 200}Thud!!{SIZE 100}\r"
+      "en_US": "{SIZE 200}Thud!!{SIZE 100}\r",
+      "fr_FR": "{SIZE 200}Boum!!!{SIZE 100}\r"
     },
     {
       "id": "OreburghCity_Text_EternaCityNextPlaceWithAGym",
@@ -40,6 +64,12 @@
         "You got the Gym Badge, huh?\r",
         "Eterna City is the next place with\n",
         "a Gym that gives away Badges, right?\r"
+      ],
+      "fr_FR": [
+        "{STRVAR_1 3, 0, 0}: Oups! {STRVAR_1 3, 1, 0}!\n",
+        "Tu as obtenu le Badge, hein?\r",
+        "Vestigion est la prochaine ville avec\n",
+        "une Arène où obtenir un Badge, non?\r"
       ]
     },
     {
@@ -49,6 +79,14 @@
         "you can’t go there without a Bicycle.\r",
         "I made my team battle and toughened\n",
         "them up, so it wasn’t a waste.\r"
+      ],
+      "fr_FR": [
+        "Alors, ouais, je suis allé vers la Route\n",
+        "207, mais tu ne peux pas la traverser\f",
+        "sans Bicyclette.\r",
+        "J’ai fait combattre mon équipe pour la\n",
+        "renforcer, au moins je n’y suis pas allé\f",
+        "pour rien.\r"
       ]
     },
     {
@@ -59,6 +97,14 @@
         "Ten seconds before I dash!\r",
         "Nine...\r",
         "Bah! Who’s got time to count?!\r"
+      ],
+      "fr_FR": [
+        "Je retourne à Féli-Cité.\n",
+        "Prochain arrêt, le Badge de l’Arène\f",
+        "de Vestigion!\r",
+        "Dix secondes avant le départ!\r",
+        "Neuf...\r",
+        "Bah! Qui a le temps de compter?!\r"
       ]
     },
     {
@@ -69,6 +115,13 @@
         "You don’t have a single Gym Badge?\r",
         "You’d better do something about that!\n",
         "I’ll take you to the Pokémon Gym.\r"
+      ],
+      "fr_FR": [
+        "Salut, Dresseur!\r",
+        "Hein? Oh, oh!\n",
+        "Tu n’as aucun Badge d’Arène?\r",
+        "Tu ferais mieux d’y remédier, et vite!\n",
+        "Viens, je t’emmène à l’Arène Pokémon.\r"
       ]
     },
     {
@@ -76,6 +129,10 @@
       "en_US": [
         "Huh?\n",
         "There’s someone there."
+      ],
+      "fr_FR": [
+        "Hein?\n",
+        "Il y a quelqu’un."
       ]
     },
     {
@@ -84,6 +141,10 @@
         "Is that guy in front of the Gym\n",
         "your friend?\r",
         "He’s sort of twitchy and impatient."
+      ],
+      "fr_FR": [
+        "Ce garçon devant l’Arène est ton ami?\r",
+        "Il a l’air crispé et impatient."
       ]
     },
     {
@@ -91,6 +152,10 @@
       "en_US": [
         "Oh, hi, you’re back!\n",
         "The Gym Leader’s waiting for you."
+      ],
+      "fr_FR": [
+        "Ah, salut, te revoilà!\n",
+        "Le Champion d’Arène t’attend!"
       ]
     },
     {
@@ -99,6 +164,11 @@
         "Can I see your Trainer Case?\r",
         "It’s got the Gym Badge you just\n",
         "won, right?"
+      ],
+      "fr_FR": [
+        "Puis-je voir ton Etui Dresseur?\r",
+        "Dedans, il y a le Badge que tu viens\n",
+        "juste de gagner, pas vrai?"
       ]
     },
     {
@@ -106,6 +176,10 @@
       "en_US": [
         "The Gym Leader went off to work in\n",
         "the mine."
+      ],
+      "fr_FR": [
+        "Le Champion est parti travailler\n",
+        "à la mine."
       ]
     },
     {
@@ -115,6 +189,11 @@
         "the mine’s safety supervisor.\r",
         "He’s an expert in more than just one\n",
         "field!"
+      ],
+      "fr_FR": [
+        "Notre Champion est jeune, mais c’est le\n",
+        "chef de la sécurité de la mine.\r",
+        "C’est un expert dans plus d’un domaine!"
       ]
     },
     {
@@ -124,6 +203,12 @@
         "They’re digging for coal under the\n",
         "sea as we speak...\r",
         "It’s amazing how they do it!"
+      ],
+      "fr_FR": [
+        "Tout le monde est fier de la mine.\r",
+        "On cherche du charbon sous la mer au\n",
+        "moment où je te parle...\r",
+        "C’est impressionnant ce qu’ils font!"
       ]
     },
     {
@@ -133,6 +218,12 @@
         "that towers above everything.\r",
         "It divides Sinnoh into two distinct\n",
         "halves."
+      ],
+      "fr_FR": [
+        "Droit devant, il y a une énorme\n",
+        "montagne qui surplombe tout.\r",
+        "Elle divise Sinnoh en deux moitiés\n",
+        "distinctes."
       ]
     },
     {
@@ -140,6 +231,10 @@
       "en_US": [
         "Have you seen the vents?\n",
         "They release steam from down below."
+      ],
+      "fr_FR": [
+        "Tu as vu les conduits d’aération?\n",
+        "Ils évacuent la vapeur du sous-sol."
       ]
     },
     {
@@ -149,6 +244,12 @@
         "down below with the fresh air outside.\r",
         "Looking down them gives me the urge\n",
         "to start yelling into ’em! Hello!"
+      ],
+      "fr_FR": [
+        "Ces conduits échangent l’air chaud du\n",
+        "sous-sol contre de l’air frais.\r",
+        "A force de les regarder, j’ai envie de\n",
+        "crier dedans! Bonjour!"
       ]
     },
     {
@@ -159,6 +260,13 @@
         "But working alongside Pokémon...\n",
         "It gives me a boost somehow.\r",
         "Here, take one of these.\r"
+      ],
+      "fr_FR": [
+        "C’est sûr, c’est un travail très, très\n",
+        "difficile.\r",
+        "Mais travailler avec des Pokémon...\n",
+        "me remplit d’énergie.\r",
+        "Tiens, prends ça.\r"
       ]
     },
     {
@@ -166,6 +274,10 @@
       "en_US": [
         "Feeling hale and hearty puts a smile\n",
         "on my face. And that makes me happy."
+      ],
+      "fr_FR": [
+        "Me sentir plein de vigueur me fait\n",
+        "sourire. Et ça me rend heureux."
       ]
     },
     {
@@ -174,6 +286,11 @@
         "This pile of dirty sand is called\n",
         "a slag heap.\r",
         "It’s the waste from sorting coal."
+      ],
+      "fr_FR": [
+        "Ce tas de sable tout sale est appelé\n",
+        "un crassier.\r",
+        "Ce sont les scories du charbon."
       ]
     },
     {
@@ -181,6 +298,10 @@
       "en_US": [
         "Chop, chop, MACHOP!\n",
         "Chop, chop away on rocks! ~♫"
+      ],
+      "fr_FR": [
+        "Frappe, frappe, MACHOC!\n",
+        "Frappe et casse les rocs! ~♫"
       ]
     },
     {
@@ -190,6 +311,12 @@
         "can be used over and over.\r",
         "It’s tricky trying to decide which\n",
         "Pokémon should learn what moves."
+      ],
+      "fr_FR": [
+        "Les CT sont à usage unique, mais les CS\n",
+        "peuvent s’utiliser autant qu’on veut.\r",
+        "C’est dur de décider quel Pokémon doit\n",
+        "apprendre telle ou telle capacité."
       ]
     },
     {
@@ -199,6 +326,13 @@
         "Shoes on, I’m the center of attention!\r",
         "...At least that’s what it feels like.\n",
         "There’s always someone looking at me."
+      ],
+      "fr_FR": [
+        "Quand je cours avec les Chaussures de\n",
+        "Sport, j’attire tous les regards!\r",
+        "Enfin, c’est l’impression que j’ai...\n",
+        "Il y a toujours quelqu’un en train de\f",
+        "m’observer."
       ]
     },
     {
@@ -207,25 +341,37 @@
         "Natural time capsules buried many,\n",
         "many years ago...\r",
         "That’s what Fossils are."
+      ],
+      "fr_FR": [
+        "Des capsules temporelles enfouies il y a\n",
+        "des lustres par la nature...\r",
+        "Voilà ce que sont les Fossiles."
       ]
     },
     {
       "id": "OreburghCity_Text_MachopCryMachoChopo",
-      "en_US": "MACHOP: Macho! Chopo!"
+      "en_US": "MACHOP: Macho! Chopo!",
+      "fr_FR": "MACHOC: Macho! Choco!"
     },
     {
       "id": "OreburghCity_Text_MachopCryPigyooh",
-      "en_US": "MACHOP: Pigyooh!"
+      "en_US": "MACHOP: Pigyooh!",
+      "fr_FR": "MACHOC: Pikooo!"
     },
     {
       "id": "OreburghCity_Text_MachopCryGwoohGogogooh",
-      "en_US": "MACHOP: Gwooh! Gogogooh!"
+      "en_US": "MACHOP: Gwooh! Gogogooh!",
+      "fr_FR": "MACHOC: Gwooo! Gogogooo!"
     },
     {
       "id": "OreburghCity_Text_MapSign",
       "en_US": [
         "Oreburgh City\n",
         "City of Energy"
+      ],
+      "fr_FR": [
+        "Charbourg\n",
+        "Ville de l’énergie"
       ]
     },
     {
@@ -234,6 +380,11 @@
         "Oreburgh City Pokémon Gym\n",
         "Leader: Roark\f",
         "“Call me Roark the Rock!”"
+      ],
+      "fr_FR": [
+        "Arène Pokémon de Charbourg\n",
+        "Champion: Pierrick\f",
+        "“Appelez-moi Pierrick le Roc!”"
       ]
     },
     {
@@ -241,6 +392,10 @@
       "en_US": [
         "Oreburgh Mining Museum\n",
         "“Coal Mining and You!”"
+      ],
+      "fr_FR": [
+        "Musée Minier de Charbourg\n",
+        "La mine de charbon et vous!"
       ]
     },
     {
@@ -248,6 +403,10 @@
       "en_US": [
         "Oreburgh Mine\n",
         "Beware of Busy Pokémon!"
+      ],
+      "fr_FR": [
+        "Mine de Charbourg\n",
+        "Attention aux Pokémon qui travaillent!"
       ]
     }
   ]

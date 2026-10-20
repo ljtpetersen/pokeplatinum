@@ -24,11 +24,18 @@
                 "Hi, hi!\n",
                 "I’m a Pokémon!\r",
                 "...You knew that, didn’t you?\r"
+            ],
+            "fr_FR": [
+                "Bonjour, bonjour!\n",
+                "Je suis un Pokémon!\r",
+                "Hé, tu avais remarqué, non?\r"
             ]
         },
         {
             "type": "TRMSG_DEFEAT",
-            "en_US": "I’m so angry...\n"
+            "en_US": "I’m so angry...\n",
+            "fr_FR": "Je suis tellement en colère...\n"
         }
-    ]
+    ],
+    "name_fr": "Tara"
 }

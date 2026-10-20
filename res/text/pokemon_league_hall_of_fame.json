@@ -6,6 +6,10 @@
       "en_US": [
         "Rowan: It’s been a long while since\n",
         "I last entered this room...\r"
+      ],
+      "fr_FR": [
+        "Sorbier: La dernière fois que je suis \n",
+        "venu ici remonte à bien longtemps...\r"
       ]
     },
     {
@@ -14,6 +18,11 @@
         "Rowan: No matter how many times\n",
         "I come here, I always find myself\f",
         "standing up straighter than usual.\r"
+      ],
+      "fr_FR": [
+        "Sorbier: A chaque fois que je \n",
+        "pénètre en ce lieu, je ne peux\f",
+        "m’empêcher d’être solennel.\r"
       ]
     },
     {
@@ -22,6 +31,11 @@
         "Cynthia: If your last time here was\n",
         "when I became Champion, then yes,\f",
         "that would be quite a long time ago.\r"
+      ],
+      "fr_FR": [
+        "Cynthia: Si la dernière fois remonte\n",
+        "à mon couronnement, en effet,\f",
+        "ça fait un bon bout de temps.\r"
       ]
     },
     {
@@ -32,6 +46,13 @@
         "This room is a legacy to the hopes,\n",
         "dreams, and struggles of Pokémon\f",
         "and their Trainers to excel.\r"
+      ],
+      "fr_FR": [
+        "Cynthia: C’est une réaction \n",
+        "naturelle, professeur.\r",
+        "Cette salle est un sanctuaire à la \n",
+        "gloire des espoirs et des rêves des\f",
+        "Dresseurs et de leurs Pokémon.\r"
       ]
     },
     {
@@ -39,6 +60,10 @@
       "en_US": [
         "Cynthia: {STRVAR_1 3, 0, 0}, welcome\n",
         "to the Hall of Fame.\r"
+      ],
+      "fr_FR": [
+        "Cynthia: {STRVAR_1 3, 0, 0}, bienvenue au \n",
+        "Panthéon des Dresseurs.\r"
       ]
     },
     {
@@ -46,6 +71,10 @@
       "en_US": [
         "Cynthia: {STRVAR_1 3, 0, 0}, welcome\n",
         "to the Hall of Fame.\r"
+      ],
+      "fr_FR": [
+        "Cynthia: {STRVAR_1 3, 0, 0}, bienvenue au \n",
+        "Panthéon des Dresseurs.\r"
       ]
     },
     {
@@ -62,6 +91,17 @@
         "many challenging battles.\r",
         "This machine will make a permanent\n",
         "record of your achievement.\r"
+      ],
+      "fr_FR": [
+        "Ton nom et ceux de tes Pokémon \n",
+        "seront inscrits ici à jamais.\r",
+        "Les souvenirs de tes aventures \n",
+        "resteront gravés ici.\r",
+        "Rappelle-toi que tes Pokémon sont tes \n",
+        "partenaires, qu’ils grandissent avec\f",
+        "toi, à travers toutes les épreuves.\r",
+        "Cette machine va enregistrer \n",
+        "vos prouesses pour l’éternité.\r"
       ]
     }
   ]

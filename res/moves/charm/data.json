@@ -27,5 +27,13 @@
     "contest": {
         "effect": "CONTEST_EFFECT_NO_VOLTAGE_DOWN",
         "type": "CONTEST_TYPE_CUTE"
-    }
+    },
+    "name_fr": "Charme",
+    "description_fr": [
+        "Le lanceur fait les\n",
+        "yeux doux pour berner\n",
+        "l’ennemi et réduire\n",
+        "considérablement\n",
+        "son Attaque."
+    ]
 }

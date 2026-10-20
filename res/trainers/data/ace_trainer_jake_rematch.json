@@ -46,6 +46,12 @@
                 "a chance to show you my skill.\r",
                 "This time, I’ll shows you why they\n",
                 "consider me an ace!\r"
+            ],
+            "fr_FR": [
+                "La dernière fois, tu m’as battu avant\n",
+                "que j’aie pu faire mes preuves.\r",
+                "Cette fois, je vais te montrer pourquoi\n",
+                "on me considère comme un Topdresseur!\r"
             ]
         },
         {
@@ -53,7 +59,12 @@
             "en_US": [
                 "I’m burning with jealousy over your\n",
                 "talent!\n"
+            ],
+            "fr_FR": [
+                "Tu as un tel talent naturel, je suis\n",
+                "vert de jalousie!\n"
             ]
         }
-    ]
+    ],
+    "name_fr": "Cyril"
 }

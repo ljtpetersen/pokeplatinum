@@ -32,6 +32,10 @@
             "en_US": [
                 "I’ve been skiing with Pokémon since\n",
                 "I was just five years old.\r"
+            ],
+            "fr_FR": [
+                "Je skie avec des Pokémon depuis l’âge\n",
+                "de cinq ans.\r"
             ]
         },
         {
@@ -39,6 +43,10 @@
             "en_US": [
                 "Hunh, what...?\n",
                 "I repeat, hunh, what...?\n"
+            ],
+            "fr_FR": [
+                "Hein? Quoi?\n",
+                "Je répète: hein? Quoi?\n"
             ]
         },
         {
@@ -46,6 +54,10 @@
             "en_US": [
                 "The scenery doesn’t change very much\n",
                 "around here. Don’t go getting lost!\n"
+            ],
+            "fr_FR": [
+                "Le paysage n’est pas très varié, dans\n",
+                "le coin. Ne va pas te perdre!\n"
             ]
         },
         {
@@ -53,7 +65,12 @@
             "en_US": [
                 "Oh... Did you maybe get lost again?\n",
                 "You should pay more attention!\r"
+            ],
+            "fr_FR": [
+                "Oh... Tu as encore perdu ton chemin?\n",
+                "Tu devrais faire plus attention!\r"
             ]
         }
-    ]
+    ],
+    "name_fr": "Marilou"
 }

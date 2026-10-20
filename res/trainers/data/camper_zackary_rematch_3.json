@@ -44,6 +44,10 @@
             "en_US": [
                 "While I was enjoying camping, my\n",
                 "Pokémon got all big and buffed up!\r"
+            ],
+            "fr_FR": [
+                "Pendant que je campais, mes Pokémon\n",
+                "ont grandi et se sont endurcis!\r"
             ]
         },
         {
@@ -51,7 +55,12 @@
             "en_US": [
                 "Wawawaah!\n",
                 "I’m out of Pokémon that can battle!\n"
+            ],
+            "fr_FR": [
+                "Ouin, ouin, ouin!\n",
+                "Je n’ai plus de Pokémon pour le combat!\n"
             ]
         }
-    ]
+    ],
+    "name_fr": "Corentin"
 }

@@ -3,499 +3,623 @@
   "messages": [
     {
       "id": "pl_msg_00000611_00000",
-      "en_US": " -"
+      "en_US": " -",
+      "fr_FR": "-"
     },
     {
       "id": "pl_msg_00000611_00001",
-      "en_US": "STENCH"
+      "en_US": "STENCH",
+      "fr_FR": "PUANTEUR"
     },
     {
       "id": "pl_msg_00000611_00002",
-      "en_US": "DRIZZLE"
+      "en_US": "DRIZZLE",
+      "fr_FR": "CRACHIN"
     },
     {
       "id": "pl_msg_00000611_00003",
-      "en_US": "SPEED BOOST"
+      "en_US": "SPEED BOOST",
+      "fr_FR": "TURBO"
     },
     {
       "id": "pl_msg_00000611_00004",
-      "en_US": "BATTLE ARMOR"
+      "en_US": "BATTLE ARMOR",
+      "fr_FR": "ARMURBASTON"
     },
     {
       "id": "pl_msg_00000611_00005",
-      "en_US": "STURDY"
+      "en_US": "STURDY",
+      "fr_FR": "FERMETE"
     },
     {
       "id": "pl_msg_00000611_00006",
-      "en_US": "DAMP"
+      "en_US": "DAMP",
+      "fr_FR": "MOITEUR"
     },
     {
       "id": "pl_msg_00000611_00007",
-      "en_US": "LIMBER"
+      "en_US": "LIMBER",
+      "fr_FR": "ECHAUFFEMENT"
     },
     {
       "id": "pl_msg_00000611_00008",
-      "en_US": "SAND VEIL"
+      "en_US": "SAND VEIL",
+      "fr_FR": "VOILE SABLE"
     },
     {
       "id": "pl_msg_00000611_00009",
-      "en_US": "STATIC"
+      "en_US": "STATIC",
+      "fr_FR": "STATIK"
     },
     {
       "id": "pl_msg_00000611_00010",
-      "en_US": "VOLT ABSORB"
+      "en_US": "VOLT ABSORB",
+      "fr_FR": "ABSORB VOLT"
     },
     {
       "id": "pl_msg_00000611_00011",
-      "en_US": "WATER ABSORB"
+      "en_US": "WATER ABSORB",
+      "fr_FR": "ABSORB EAU"
     },
     {
       "id": "pl_msg_00000611_00012",
-      "en_US": "OBLIVIOUS"
+      "en_US": "OBLIVIOUS",
+      "fr_FR": "BENET"
     },
     {
       "id": "pl_msg_00000611_00013",
-      "en_US": "CLOUD NINE"
+      "en_US": "CLOUD NINE",
+      "fr_FR": "CIEL GRIS"
     },
     {
       "id": "pl_msg_00000611_00014",
-      "en_US": "COMPOUNDEYES"
+      "en_US": "COMPOUNDEYES",
+      "fr_FR": "OEIL COMPOSE"
     },
     {
       "id": "pl_msg_00000611_00015",
-      "en_US": "INSOMNIA"
+      "en_US": "INSOMNIA",
+      "fr_FR": "INSOMNIA"
     },
     {
       "id": "pl_msg_00000611_00016",
-      "en_US": "COLOR CHANGE"
+      "en_US": "COLOR CHANGE",
+      "fr_FR": "DEGUISEMENT"
     },
     {
       "id": "pl_msg_00000611_00017",
-      "en_US": "IMMUNITY"
+      "en_US": "IMMUNITY",
+      "fr_FR": "VACCIN"
     },
     {
       "id": "pl_msg_00000611_00018",
-      "en_US": "FLASH FIRE"
+      "en_US": "FLASH FIRE",
+      "fr_FR": "TORCHE"
     },
     {
       "id": "pl_msg_00000611_00019",
-      "en_US": "SHIELD DUST"
+      "en_US": "SHIELD DUST",
+      "fr_FR": "ECRAN POUDRE"
     },
     {
       "id": "pl_msg_00000611_00020",
-      "en_US": "OWN TEMPO"
+      "en_US": "OWN TEMPO",
+      "fr_FR": "TEMPO PERSO"
     },
     {
       "id": "pl_msg_00000611_00021",
-      "en_US": "SUCTION CUPS"
+      "en_US": "SUCTION CUPS",
+      "fr_FR": "VENTOUSE"
     },
     {
       "id": "pl_msg_00000611_00022",
-      "en_US": "INTIMIDATE"
+      "en_US": "INTIMIDATE",
+      "fr_FR": "INTIMIDATION"
     },
     {
       "id": "pl_msg_00000611_00023",
-      "en_US": "SHADOW TAG"
+      "en_US": "SHADOW TAG",
+      "fr_FR": "MARQUE OMBRE"
     },
     {
       "id": "pl_msg_00000611_00024",
-      "en_US": "ROUGH SKIN"
+      "en_US": "ROUGH SKIN",
+      "fr_FR": "PEAU DURE"
     },
     {
       "id": "pl_msg_00000611_00025",
-      "en_US": "WONDER GUARD"
+      "en_US": "WONDER GUARD",
+      "fr_FR": "GARDE MYSTIK"
     },
     {
       "id": "pl_msg_00000611_00026",
-      "en_US": "LEVITATE"
+      "en_US": "LEVITATE",
+      "fr_FR": "LEVITATION"
     },
     {
       "id": "pl_msg_00000611_00027",
-      "en_US": "EFFECT SPORE"
+      "en_US": "EFFECT SPORE",
+      "fr_FR": "POSE SPORE"
     },
     {
       "id": "pl_msg_00000611_00028",
-      "en_US": "SYNCHRONIZE"
+      "en_US": "SYNCHRONIZE",
+      "fr_FR": "SYNCHRO"
     },
     {
       "id": "pl_msg_00000611_00029",
-      "en_US": "CLEAR BODY"
+      "en_US": "CLEAR BODY",
+      "fr_FR": "CORPS SAIN"
     },
     {
       "id": "pl_msg_00000611_00030",
-      "en_US": "NATURAL CURE"
+      "en_US": "NATURAL CURE",
+      "fr_FR": "MEDIC NATURE"
     },
     {
       "id": "pl_msg_00000611_00031",
-      "en_US": "LIGHTNINGROD"
+      "en_US": "LIGHTNINGROD",
+      "fr_FR": "PARATONNERRE"
     },
     {
       "id": "pl_msg_00000611_00032",
-      "en_US": "SERENE GRACE"
+      "en_US": "SERENE GRACE",
+      "fr_FR": "SERENITE"
     },
     {
       "id": "pl_msg_00000611_00033",
-      "en_US": "SWIFT SWIM"
+      "en_US": "SWIFT SWIM",
+      "fr_FR": "GLISSADE"
     },
     {
       "id": "pl_msg_00000611_00034",
-      "en_US": "CHLOROPHYLL"
+      "en_US": "CHLOROPHYLL",
+      "fr_FR": "CHLOROPHYLE"
     },
     {
       "id": "pl_msg_00000611_00035",
-      "en_US": "ILLUMINATE"
+      "en_US": "ILLUMINATE",
+      "fr_FR": "LUMIATIRANCE"
     },
     {
       "id": "pl_msg_00000611_00036",
-      "en_US": "TRACE"
+      "en_US": "TRACE",
+      "fr_FR": "CALQUE"
     },
     {
       "id": "pl_msg_00000611_00037",
-      "en_US": "HUGE POWER"
+      "en_US": "HUGE POWER",
+      "fr_FR": "COLOFORCE"
     },
     {
       "id": "pl_msg_00000611_00038",
-      "en_US": "POISON POINT"
+      "en_US": "POISON POINT",
+      "fr_FR": "POINT POISON"
     },
     {
       "id": "pl_msg_00000611_00039",
-      "en_US": "INNER FOCUS"
+      "en_US": "INNER FOCUS",
+      "fr_FR": "ATTENTION"
     },
     {
       "id": "pl_msg_00000611_00040",
-      "en_US": "MAGMA ARMOR"
+      "en_US": "MAGMA ARMOR",
+      "fr_FR": "ARMUMAGMA"
     },
     {
       "id": "pl_msg_00000611_00041",
-      "en_US": "WATER VEIL"
+      "en_US": "WATER VEIL",
+      "fr_FR": "IGNIFU-VOILE"
     },
     {
       "id": "pl_msg_00000611_00042",
-      "en_US": "MAGNET PULL"
+      "en_US": "MAGNET PULL",
+      "fr_FR": "MAGNEPIEGE"
     },
     {
       "id": "pl_msg_00000611_00043",
-      "en_US": "SOUNDPROOF"
+      "en_US": "SOUNDPROOF",
+      "fr_FR": "ANTI-BRUIT"
     },
     {
       "id": "pl_msg_00000611_00044",
-      "en_US": "RAIN DISH"
+      "en_US": "RAIN DISH",
+      "fr_FR": "CUVETTE"
     },
     {
       "id": "pl_msg_00000611_00045",
-      "en_US": "SAND STREAM"
+      "en_US": "SAND STREAM",
+      "fr_FR": "SABLE VOLANT"
     },
     {
       "id": "pl_msg_00000611_00046",
-      "en_US": "PRESSURE"
+      "en_US": "PRESSURE",
+      "fr_FR": "PRESSION"
     },
     {
       "id": "pl_msg_00000611_00047",
-      "en_US": "THICK FAT"
+      "en_US": "THICK FAT",
+      "fr_FR": "ISOGRAISSE"
     },
     {
       "id": "pl_msg_00000611_00048",
-      "en_US": "EARLY BIRD"
+      "en_US": "EARLY BIRD",
+      "fr_FR": "MATINAL"
     },
     {
       "id": "pl_msg_00000611_00049",
-      "en_US": "FLAME BODY"
+      "en_US": "FLAME BODY",
+      "fr_FR": "CORPS ARDENT"
     },
     {
       "id": "pl_msg_00000611_00050",
-      "en_US": "RUN AWAY"
+      "en_US": "RUN AWAY",
+      "fr_FR": "FUITE"
     },
     {
       "id": "pl_msg_00000611_00051",
-      "en_US": "KEEN EYE"
+      "en_US": "KEEN EYE",
+      "fr_FR": "REGARD VIF"
     },
     {
       "id": "pl_msg_00000611_00052",
-      "en_US": "HYPER CUTTER"
+      "en_US": "HYPER CUTTER",
+      "fr_FR": "HYPER CUTTER"
     },
     {
       "id": "pl_msg_00000611_00053",
-      "en_US": "PICKUP"
+      "en_US": "PICKUP",
+      "fr_FR": "RAMASSAGE"
     },
     {
       "id": "pl_msg_00000611_00054",
-      "en_US": "TRUANT"
+      "en_US": "TRUANT",
+      "fr_FR": "ABSENTEISME"
     },
     {
       "id": "pl_msg_00000611_00055",
-      "en_US": "HUSTLE"
+      "en_US": "HUSTLE",
+      "fr_FR": "AGITATION"
     },
     {
       "id": "pl_msg_00000611_00056",
-      "en_US": "CUTE CHARM"
+      "en_US": "CUTE CHARM",
+      "fr_FR": "JOLI SOURIRE"
     },
     {
       "id": "pl_msg_00000611_00057",
-      "en_US": "PLUS"
+      "en_US": "PLUS",
+      "fr_FR": "PLUS"
     },
     {
       "id": "pl_msg_00000611_00058",
-      "en_US": "MINUS"
+      "en_US": "MINUS",
+      "fr_FR": "MINUS"
     },
     {
       "id": "pl_msg_00000611_00059",
-      "en_US": "FORECAST"
+      "en_US": "FORECAST",
+      "fr_FR": "METEO"
     },
     {
       "id": "pl_msg_00000611_00060",
-      "en_US": "STICKY HOLD"
+      "en_US": "STICKY HOLD",
+      "fr_FR": "GLUE"
     },
     {
       "id": "pl_msg_00000611_00061",
-      "en_US": "SHED SKIN"
+      "en_US": "SHED SKIN",
+      "fr_FR": "MUE"
     },
     {
       "id": "pl_msg_00000611_00062",
-      "en_US": "GUTS"
+      "en_US": "GUTS",
+      "fr_FR": "CRAN"
     },
     {
       "id": "pl_msg_00000611_00063",
-      "en_US": "MARVEL SCALE"
+      "en_US": "MARVEL SCALE",
+      "fr_FR": "ECAILLE SPE."
     },
     {
       "id": "pl_msg_00000611_00064",
-      "en_US": "LIQUID OOZE"
+      "en_US": "LIQUID OOZE",
+      "fr_FR": "SUINTEMENT"
     },
     {
       "id": "pl_msg_00000611_00065",
-      "en_US": "OVERGROW"
+      "en_US": "OVERGROW",
+      "fr_FR": "ENGRAIS"
     },
     {
       "id": "pl_msg_00000611_00066",
-      "en_US": "BLAZE"
+      "en_US": "BLAZE",
+      "fr_FR": "BRASIER"
     },
     {
       "id": "pl_msg_00000611_00067",
-      "en_US": "TORRENT"
+      "en_US": "TORRENT",
+      "fr_FR": "TORRENT"
     },
     {
       "id": "pl_msg_00000611_00068",
-      "en_US": "SWARM"
+      "en_US": "SWARM",
+      "fr_FR": "ESSAIM"
     },
     {
       "id": "pl_msg_00000611_00069",
-      "en_US": "ROCK HEAD"
+      "en_US": "ROCK HEAD",
+      "fr_FR": "TETE DE ROC"
     },
     {
       "id": "pl_msg_00000611_00070",
-      "en_US": "DROUGHT"
+      "en_US": "DROUGHT",
+      "fr_FR": "SECHERESSE"
     },
     {
       "id": "pl_msg_00000611_00071",
-      "en_US": "ARENA TRAP"
+      "en_US": "ARENA TRAP",
+      "fr_FR": "PIEGE"
     },
     {
       "id": "pl_msg_00000611_00072",
-      "en_US": "VITAL SPIRIT"
+      "en_US": "VITAL SPIRIT",
+      "fr_FR": "ESPRIT VITAL"
     },
     {
       "id": "pl_msg_00000611_00073",
-      "en_US": "WHITE SMOKE"
+      "en_US": "WHITE SMOKE",
+      "fr_FR": "ECRAN FUMEE"
     },
     {
       "id": "pl_msg_00000611_00074",
-      "en_US": "PURE POWER"
+      "en_US": "PURE POWER",
+      "fr_FR": "FORCE PURE"
     },
     {
       "id": "pl_msg_00000611_00075",
-      "en_US": "SHELL ARMOR"
+      "en_US": "SHELL ARMOR",
+      "fr_FR": "COQUE ARMURE"
     },
     {
       "id": "pl_msg_00000611_00076",
-      "en_US": "AIR LOCK"
+      "en_US": "AIR LOCK",
+      "fr_FR": "AIR LOCK"
     },
     {
       "id": "pl_msg_00000611_00077",
-      "en_US": "TANGLED FEET"
+      "en_US": "TANGLED FEET",
+      "fr_FR": "PIEDS CONFUS"
     },
     {
       "id": "pl_msg_00000611_00078",
-      "en_US": "MOTOR DRIVE"
+      "en_US": "MOTOR DRIVE",
+      "fr_FR": "MOTORISE"
     },
     {
       "id": "pl_msg_00000611_00079",
-      "en_US": "RIVALRY"
+      "en_US": "RIVALRY",
+      "fr_FR": "RIVALITE"
     },
     {
       "id": "pl_msg_00000611_00080",
-      "en_US": "STEADFAST"
+      "en_US": "STEADFAST",
+      "fr_FR": "IMPASSIBLE"
     },
     {
       "id": "pl_msg_00000611_00081",
-      "en_US": "SNOW CLOAK"
+      "en_US": "SNOW CLOAK",
+      "fr_FR": "RIDEAU NEIGE"
     },
     {
       "id": "pl_msg_00000611_00082",
-      "en_US": "GLUTTONY"
+      "en_US": "GLUTTONY",
+      "fr_FR": "GLOUTONNERIE"
     },
     {
       "id": "pl_msg_00000611_00083",
-      "en_US": "ANGER POINT"
+      "en_US": "ANGER POINT",
+      "fr_FR": "COLERIQUE"
     },
     {
       "id": "pl_msg_00000611_00084",
-      "en_US": "UNBURDEN"
+      "en_US": "UNBURDEN",
+      "fr_FR": "DELESTAGE"
     },
     {
       "id": "pl_msg_00000611_00085",
-      "en_US": "HEATPROOF"
+      "en_US": "HEATPROOF",
+      "fr_FR": "IGNIFUGE"
     },
     {
       "id": "pl_msg_00000611_00086",
-      "en_US": "SIMPLE"
+      "en_US": "SIMPLE",
+      "fr_FR": "SIMPLE"
     },
     {
       "id": "pl_msg_00000611_00087",
-      "en_US": "DRY SKIN"
+      "en_US": "DRY SKIN",
+      "fr_FR": "PEAU SECHE"
     },
     {
       "id": "pl_msg_00000611_00088",
-      "en_US": "DOWNLOAD"
+      "en_US": "DOWNLOAD",
+      "fr_FR": "TELECHARGE"
     },
     {
       "id": "pl_msg_00000611_00089",
-      "en_US": "IRON FIST"
+      "en_US": "IRON FIST",
+      "fr_FR": "POING DE FER"
     },
     {
       "id": "pl_msg_00000611_00090",
-      "en_US": "POISON HEAL"
+      "en_US": "POISON HEAL",
+      "fr_FR": "SOIN POISON"
     },
     {
       "id": "pl_msg_00000611_00091",
-      "en_US": "ADAPTABILITY"
+      "en_US": "ADAPTABILITY",
+      "fr_FR": "ADAPTABILITE"
     },
     {
       "id": "pl_msg_00000611_00092",
-      "en_US": "SKILL LINK"
+      "en_US": "SKILL LINK",
+      "fr_FR": "MULTI-COUPS"
     },
     {
       "id": "pl_msg_00000611_00093",
-      "en_US": "HYDRATION"
+      "en_US": "HYDRATION",
+      "fr_FR": "HYDRATATION"
     },
     {
       "id": "pl_msg_00000611_00094",
-      "en_US": "SOLAR POWER"
+      "en_US": "SOLAR POWER",
+      "fr_FR": "FORCE SOLEIL"
     },
     {
       "id": "pl_msg_00000611_00095",
-      "en_US": "QUICK FEET"
+      "en_US": "QUICK FEET",
+      "fr_FR": "PIED VELOCE"
     },
     {
       "id": "pl_msg_00000611_00096",
-      "en_US": "NORMALIZE"
+      "en_US": "NORMALIZE",
+      "fr_FR": "NORMALISE"
     },
     {
       "id": "pl_msg_00000611_00097",
-      "en_US": "SNIPER"
+      "en_US": "SNIPER",
+      "fr_FR": "SNIPER"
     },
     {
       "id": "pl_msg_00000611_00098",
-      "en_US": "MAGIC GUARD"
+      "en_US": "MAGIC GUARD",
+      "fr_FR": "GARDE MAGIK"
     },
     {
       "id": "pl_msg_00000611_00099",
-      "en_US": "NO GUARD"
+      "en_US": "NO GUARD",
+      "fr_FR": "ANNULE GARDE"
     },
     {
       "id": "pl_msg_00000611_00100",
-      "en_US": "STALL"
+      "en_US": "STALL",
+      "fr_FR": "FREIN"
     },
     {
       "id": "pl_msg_00000611_00101",
-      "en_US": "TECHNICIAN"
+      "en_US": "TECHNICIAN",
+      "fr_FR": "TECHNICIEN"
     },
     {
       "id": "pl_msg_00000611_00102",
-      "en_US": "LEAF GUARD"
+      "en_US": "LEAF GUARD",
+      "fr_FR": "FEUIL. GARDE"
     },
     {
       "id": "pl_msg_00000611_00103",
-      "en_US": "KLUTZ"
+      "en_US": "KLUTZ",
+      "fr_FR": "MALADRESSE"
     },
     {
       "id": "pl_msg_00000611_00104",
-      "en_US": "MOLD BREAKER"
+      "en_US": "MOLD BREAKER",
+      "fr_FR": "BRISE MOULE"
     },
     {
       "id": "pl_msg_00000611_00105",
-      "en_US": "SUPER LUCK"
+      "en_US": "SUPER LUCK",
+      "fr_FR": "CHANCEUX"
     },
     {
       "id": "pl_msg_00000611_00106",
-      "en_US": "AFTERMATH"
+      "en_US": "AFTERMATH",
+      "fr_FR": "BOOM FINAL"
     },
     {
       "id": "pl_msg_00000611_00107",
-      "en_US": "ANTICIPATION"
+      "en_US": "ANTICIPATION",
+      "fr_FR": "ANTICIPATION"
     },
     {
       "id": "pl_msg_00000611_00108",
-      "en_US": "FOREWARN"
+      "en_US": "FOREWARN",
+      "fr_FR": "PREDICTION"
     },
     {
       "id": "pl_msg_00000611_00109",
-      "en_US": "UNAWARE"
+      "en_US": "UNAWARE",
+      "fr_FR": "INCONSCIENT"
     },
     {
       "id": "pl_msg_00000611_00110",
-      "en_US": "TINTED LENS"
+      "en_US": "TINTED LENS",
+      "fr_FR": "LENTITEINTEE"
     },
     {
       "id": "pl_msg_00000611_00111",
-      "en_US": "FILTER"
+      "en_US": "FILTER",
+      "fr_FR": "FILTRE"
     },
     {
       "id": "pl_msg_00000611_00112",
-      "en_US": "SLOW START"
+      "en_US": "SLOW START",
+      "fr_FR": "DEBUT CALME"
     },
     {
       "id": "pl_msg_00000611_00113",
-      "en_US": "SCRAPPY"
+      "en_US": "SCRAPPY",
+      "fr_FR": "QUERELLEUR"
     },
     {
       "id": "pl_msg_00000611_00114",
-      "en_US": "STORM DRAIN"
+      "en_US": "STORM DRAIN",
+      "fr_FR": "LAVABO"
     },
     {
       "id": "pl_msg_00000611_00115",
-      "en_US": "ICE BODY"
+      "en_US": "ICE BODY",
+      "fr_FR": "CORPS GEL"
     },
     {
       "id": "pl_msg_00000611_00116",
-      "en_US": "SOLID ROCK"
+      "en_US": "SOLID ROCK",
+      "fr_FR": "SOLIDE ROC"
     },
     {
       "id": "pl_msg_00000611_00117",
-      "en_US": "SNOW WARNING"
+      "en_US": "SNOW WARNING",
+      "fr_FR": "ALERTE NEIGE"
     },
     {
       "id": "pl_msg_00000611_00118",
-      "en_US": "HONEY GATHER"
+      "en_US": "HONEY GATHER",
+      "fr_FR": "CHERCHE MIEL"
     },
     {
       "id": "pl_msg_00000611_00119",
-      "en_US": "FRISK"
+      "en_US": "FRISK",
+      "fr_FR": "FOUILLE"
     },
     {
       "id": "pl_msg_00000611_00120",
-      "en_US": "RECKLESS"
+      "en_US": "RECKLESS",
+      "fr_FR": "TEMERAIRE"
     },
     {
       "id": "pl_msg_00000611_00121",
-      "en_US": "MULTITYPE"
+      "en_US": "MULTITYPE",
+      "fr_FR": "MULTI-TYPE"
     },
     {
       "id": "pl_msg_00000611_00122",
-      "en_US": "FLOWER GIFT"
+      "en_US": "FLOWER GIFT",
+      "fr_FR": "DON FLORAL"
     },
     {
       "id": "pl_msg_00000611_00123",
-      "en_US": "BAD DREAMS"
+      "en_US": "BAD DREAMS",
+      "fr_FR": "MAUVAIS REVE"
     }
   ]
 }

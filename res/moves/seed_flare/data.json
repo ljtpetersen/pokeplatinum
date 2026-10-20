@@ -27,5 +27,13 @@
     "contest": {
         "effect": "CONTEST_EFFECT_MAX_VOLTAGE_ADVANTAGE",
         "type": "CONTEST_TYPE_COOL"
-    }
+    },
+    "name_fr": "Fulmigraine",
+    "description_fr": [
+        "Le corps du lanceur\n",
+        "émet une onde de\n",
+        "choc. Peut aussi\n",
+        "baisser la Déf. Spé.\n",
+        "de la cible."
+    ]
 }

@@ -27,5 +27,13 @@
   "fieldUseFunc": "ITEM_USE_FUNC_TM_HM",
   "battleUseCategory": "BATTLE_USE_CATEGORY_NONE",
   "itemUseParams": null,
-  "teachesMove": "MOVE_PLUCK"
+  "teachesMove": "MOVE_PLUCK",
+  "name_fr": "CT88",
+  "description_fr": [
+    "Le lanceur picore l’ennemi. S’il tient\n",
+    "une Baie, le lanceur s’en empare et\n",
+    "profite de ses effets."
+  ],
+  "plural_fr": "CT88",
+  "article_fr": null
 }

@@ -34,5 +34,13 @@
     "healParalysis": true,
     "healConfusion": true,
     "hpRestored": -1
-  }
+  },
+  "name_fr": "Guérison",
+  "description_fr": [
+    "Un médicament qui restaure tous les\n",
+    "PV d’un Pokémon et soigne tous ses\n",
+    "problèmes de statut."
+  ],
+  "plural_fr": "Guérison",
+  "article_fr": null
 }

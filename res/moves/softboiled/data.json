@@ -25,5 +25,13 @@
     "contest": {
         "effect": "CONTEST_EFFECT_VOLTAGE",
         "type": "CONTEST_TYPE_BEAUTY"
-    }
+    },
+    "name_fr": "E-Coque",
+    "description_fr": [
+        "Le lanceur récupère\n",
+        "jusqu’à la moitié de\n",
+        "ses PV max. En\n",
+        "dehors des combats,\n",
+        "restaure des PV."
+    ]
 }

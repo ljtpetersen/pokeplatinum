@@ -13,6 +13,17 @@
         "of yours if you’d like.\r",
         "I’ll do it if you’ll trade me\n",
         "a Heart Scale.\r"
+      ],
+      "fr_FR": [
+        "On m’appelle le Dingue des Capacités,\n",
+        "mais je préfère Maître des Capacités.\r",
+        "Je connais toutes les capacités que les\n",
+        "Pokémon apprennent en gagnant des\f",
+        "niveaux. Je peux aussi les enseigner.\r",
+        "Je peux apprendre une capacité à l’un\n",
+        "de tes Pokémon, si tu veux.\r",
+        "Mais pour ce service, tu devras\n",
+        "m’apporter une Ecaillecoeur.\r"
       ]
     },
     {
@@ -22,6 +33,12 @@
         "goodness Heart Scale!\r",
         "Let me guess, you want me to teach\n",
         "one of your Pokémon a move?\r"
+      ],
+      "fr_FR": [
+        "Oh! C’est ça! C’est une authentique\n",
+        "Ecaillecoeur!\r",
+        "Laisse-moi deviner, tu veux que \n",
+        "j’enseigne une capacité à un Pokémon?\r"
       ]
     },
     {
@@ -29,15 +46,25 @@
       "en_US": [
         "If any of your Pokémon needs to learn a\n",
         "move, come back with a Heart Scale."
+      ],
+      "fr_FR": [
+        "Reviens avec une Ecaillecoeur pour\n",
+        "qu’un de tes Pokémon apprenne une\f",
+        "capacité."
       ]
     },
     {
       "id": "PastoriaCityEastHouse_Text_TutorWhichPokemon",
-      "en_US": "Which Pokémon needs tutoring?\r"
+      "en_US": "Which Pokémon needs tutoring?\r",
+      "fr_FR": [
+        "Quel Pokémon a besoin de mon\n",
+        "enseignement?\r"
+      ]
     },
     {
       "id": "PastoriaCityEastHouse_Text_TeachWhichMove",
-      "en_US": "Which move should I teach?\r"
+      "en_US": "Which move should I teach?\r",
+      "fr_FR": "Quelle capacité dois-je lui enseigner?\r"
     },
     {
       "id": "PastoriaCityEastHouse_Text_NoMovesToTeach",
@@ -45,6 +72,11 @@
         "Sorry...\r",
         "There isn’t any move I can teach\n",
         "that Pokémon."
+      ],
+      "fr_FR": [
+        "Désolé...\r",
+        "Je n’ai rien à apprendre\n",
+        "à ce Pokémon."
       ]
     },
     {
@@ -53,6 +85,11 @@
         "Hunh?\r",
         "Don’t you think it’d be tough for\n",
         "an Egg to learn a move?"
+      ],
+      "fr_FR": [
+        "Quoi?\r",
+        "Cet Oeuf est encore un peu jeune pour\n",
+        "apprendre à se battre, non?"
       ]
     },
     {
@@ -96,6 +133,10 @@
       "en_US": [
         "{STRVAR_1 3, 3, 0} handed over\n",
         "{STRVAR_1 8, 4, 0} in exchange."
+      ],
+      "fr_FR": [
+        "{STRVAR_1 3, 3, 0} donne une\n",
+        "{STRVAR_1 8, 4, 0} en échange."
       ]
     },
     {
@@ -105,6 +146,13 @@
         "brother.\r",
         "The newspaper there gives me Heart\n",
         "Scales for running errands."
+      ],
+      "fr_FR": [
+        "Je me rends souvent à Bonville pour mon\n",
+        "grand frère.\r",
+        "Le rédacteur en chef du journal me\n",
+        "donne des Ecaillecoeurs en échange\f",
+        "de menus services."
       ]
     }
   ]

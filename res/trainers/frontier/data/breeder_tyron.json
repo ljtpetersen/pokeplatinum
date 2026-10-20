@@ -77,6 +77,10 @@
             "en_US": [
                 "I’m no green thumb at growing Berries.\n",
                 "Raising Pokémon is where I shine."
+            ],
+            "fr_FR": [
+                "Je n’ai pas la main verte avec les Baies,\n",
+                "mais je suis doué avec les Pokémon! "
             ]
         },
         {
@@ -84,6 +88,10 @@
             "en_US": [
                 "I can give you tips on raising Pokémon\n",
                 "so they’ll grow tough.\r"
+            ],
+            "fr_FR": [
+                "Viens me voir si tu as besoin de conseils\n",
+                "sur la manière d’élever tes Pokémon.\r"
             ]
         },
         {
@@ -91,7 +99,12 @@
             "en_US": [
                 "Raising a living thing is never an easy\n",
                 "job...\r"
+            ],
+            "fr_FR": [
+                "Elever un Pokémon demande énormément\n",
+                "de soin...\r"
             ]
         }
-    ]
+    ],
+    "name_fr": "Taylor"
 }

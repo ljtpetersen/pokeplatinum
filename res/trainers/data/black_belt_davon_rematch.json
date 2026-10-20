@@ -42,11 +42,17 @@
             "en_US": [
                 "This time! This time I will win!\n",
                 "My spirit is renewed and strong!\r"
+            ],
+            "fr_FR": [
+                "Cette fois-ci, je vais gagner!\n",
+                "Mon esprit est régénéré et fort!\r"
             ]
         },
         {
             "type": "TRMSG_DEFEAT",
-            "en_US": "My spirit is broken...\n"
+            "en_US": "My spirit is broken...\n",
+            "fr_FR": "Mon esprit est brisé...\n"
         }
-    ]
+    ],
+    "name_fr": "Toshi"
 }

@@ -8,6 +8,12 @@
         "{STRVAR_1 7, 0, 0} nature?\r",
         "Did you know that a Pokémon’s nature\n",
         "determines how it will grow?"
+      ],
+      "fr_FR": [
+        "Ton Pokémon est {STRVAR_1 7, 0, 0} de\n",
+        "nature?\r",
+        "Sais-tu que la nature d’un Pokémon\n",
+        "influence son évolution?"
       ]
     },
     {
@@ -17,6 +23,12 @@
         "the olden days.\r",
         "They say there were big Pokémon\n",
         "ranches ’round these parts."
+      ],
+      "fr_FR": [
+        "De nombreux Pokémon anciens\n",
+        "vivent dans cette région.\r",
+        "On raconte qu’il y avait de grandes\n",
+        "fermes de Pokémon par ici."
       ]
     }
   ]

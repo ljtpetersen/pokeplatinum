@@ -45,11 +45,18 @@
                 "There has to be a meaning!\r",
                 "But its significance eludes me, and\n",
                 "that’s gotten me cranky!\r"
+            ],
+            "fr_FR": [
+                "Des ruines antiques hantées par les\n",
+                "ZARBI... Qu’est-ce que ça veut dire?\r",
+                "Je n’arrive pas à percer ce mystère,\n",
+                "et ça me met de mauvaise humeur!\r"
             ]
         },
         {
             "type": "TRMSG_DEFEAT",
-            "en_US": "The search must continue!\n"
+            "en_US": "The search must continue!\n",
+            "fr_FR": "Les recherches doivent continuer!\n"
         },
         {
             "type": "TRMSG_POST_BATTLE",
@@ -59,7 +66,15 @@
                 "of some strange language...\r",
                 "Can they be trying to convey a message\n",
                 "to us?\n"
+            ],
+            "fr_FR": [
+                "La fonction de ces ruines antiques...\r",
+                "Et ces Pokémon qui ressemblent aux\n",
+                "lettres d’un alphabet mystérieux...\r",
+                "Se pourrait-il qu’ils essaient de\n",
+                "nous transmettre un message?\n"
             ]
         }
-    ]
+    ],
+    "name_fr": "Ethan"
 }

@@ -32,6 +32,10 @@
             "en_US": [
                 "The camera is our witness!\n",
                 "It has recorded our defeat...\n"
+            ],
+            "fr_FR": [
+                "La caméra est notre témoin!\n",
+                "Elle a enregistré notre défaite...\n"
             ]
         },
         {
@@ -39,7 +43,12 @@
             "en_US": [
                 "You have a superstar quality!\n",
                 "You sure could become a celebrity!\n"
+            ],
+            "fr_FR": [
+                "Tu as de grandes qualités!\n",
+                "Tu pourrais devenir célèbre!\n"
             ]
         }
-    ]
+    ],
+    "name_fr": "Jill & Jak"
 }

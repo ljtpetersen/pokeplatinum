@@ -43,11 +43,16 @@
             "en_US": [
                 "My Pokémon can destroy anything.\n",
                 "And you think you can win?!\r"
+            ],
+            "fr_FR": [
+                "Mes Pokémon peuvent détruire n’importe\n",
+                "quoi. Et tu crois pouvoir me vaincre?!\r"
             ]
         },
         {
             "type": "TRMSG_DEFEAT",
-            "en_US": "We weren’t up to the task!\n"
+            "en_US": "We weren’t up to the task!\n",
+            "fr_FR": "Nous n’étions pas de taille!\n"
         },
         {
             "type": "TRMSG_POST_BATTLE",
@@ -55,7 +60,13 @@
                 "Even though my team could break\n",
                 "bricks and shatter boulders, they\f",
                 "failed to dent your spirits!\n"
+            ],
+            "fr_FR": [
+                "Même si mon équipe peut casser des\n",
+                "briques et briser des rochers, elle\f",
+                "n’arrive pas à écorner ton courage!\n"
             ]
         }
-    ]
+    ],
+    "name_fr": "Hiroshi"
 }

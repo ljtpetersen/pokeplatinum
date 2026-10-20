@@ -28,6 +28,10 @@
             "en_US": [
                 "Oh, I don’t know.\n",
                 "Should I play a little?\r"
+            ],
+            "fr_FR": [
+                "Est-ce que j’ai envie de combattre?\n",
+                "Oh, je ne sais pas...\r"
             ]
         },
         {
@@ -35,6 +39,10 @@
             "en_US": [
                 "Oh, boo!\n",
                 "How insulting!\n"
+            ],
+            "fr_FR": [
+                "Oh, bouh!\n",
+                "Quelle disgrâce!\n"
             ]
         },
         {
@@ -42,6 +50,10 @@
             "en_US": [
                 "Listen very closely...\n",
                 "Can you hear the cries of Pokémon?\n"
+            ],
+            "fr_FR": [
+                "Ecoute attentivement...\n",
+                "Tu entends ces cris de Pokémon?\n"
             ]
         },
         {
@@ -49,7 +61,12 @@
             "en_US": [
                 "Oh, I don’t know.\n",
                 "Should I play a little again?\r"
+            ],
+            "fr_FR": [
+                "Si j’ai envie de combattre à nouveau?\n",
+                "Oh, je ne sais pas...\r"
             ]
         }
-    ]
+    ],
+    "name_fr": "Meg"
 }

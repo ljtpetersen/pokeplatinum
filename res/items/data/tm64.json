@@ -27,5 +27,13 @@
   "fieldUseFunc": "ITEM_USE_FUNC_TM_HM",
   "battleUseCategory": "BATTLE_USE_CATEGORY_NONE",
   "itemUseParams": null,
-  "teachesMove": "MOVE_EXPLOSION"
+  "teachesMove": "MOVE_EXPLOSION",
+  "name_fr": "CT64",
+  "description_fr": [
+    "Le lanceur explose et inflige des\n",
+    "dégâts à tous les autres Pokémon\n",
+    "au combat. Met K.O. le lanceur."
+  ],
+  "plural_fr": "CT64",
+  "article_fr": null
 }

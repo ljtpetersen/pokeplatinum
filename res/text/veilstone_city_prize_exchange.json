@@ -7,17 +7,27 @@
         "Welcome!\r",
         "You may exchange your Coins for\n",
         "fabulous prizes here!\r"
+      ],
+      "fr_FR": [
+        "Bienvenue!\r",
+        "Nous échangeons vos Jetons\n",
+        "contre des prix fantastiques!\r"
       ]
     },
     {
       "id": "VeilstoneCityPrizeExchange_Text_WhichPrize",
-      "en_US": "Which prize would you like?"
+      "en_US": "Which prize would you like?",
+      "fr_FR": "Quel prix vous ferait plaisir?"
     },
     {
       "id": "VeilstoneCityPrizeExchange_Text_IsYourChoiceThisItem",
       "en_US": [
         "So your choice is\n",
         "the {STRVAR_1 8, 0, 0}?"
+      ],
+      "fr_FR": [
+        "Alors, vous avez choisi\n",
+        "l’objet {STRVAR_1 8, 0, 0}?"
       ]
     },
     {
@@ -25,21 +35,31 @@
       "en_US": [
         "So your choice is {STRVAR_1 8, 0, 0}:\n",
         "{STRVAR_1 6, 1, 0}?"
+      ],
+      "fr_FR": [
+        "Alors, vous avez choisi la\n",
+        "{STRVAR_1 8, 0, 0}: {STRVAR_1 6, 1, 0}?"
       ]
     },
     {
       "id": "VeilstoneCityPrizeExchange_Text_HereYouGo",
-      "en_US": "Here you go!"
+      "en_US": "Here you go!",
+      "fr_FR": "Et voilà!"
     },
     {
       "id": "VeilstoneCityPrizeExchange_Text_NotEnoughCoins",
-      "en_US": "You don’t have enough Coins.\r"
+      "en_US": "You don’t have enough Coins.\r",
+      "fr_FR": "Vous n’avez pas assez de Jetons.\r"
     },
     {
       "id": "VeilstoneCityPrizeExchange_Text_NoRoomAvailable",
       "en_US": [
         "There isn’t any room available for\n",
         "that {STRVAR_1 8, 0, 0}.\r"
+      ],
+      "fr_FR": [
+        "Il n’y a plus de place disponible\n",
+        "pour l’objet {STRVAR_1 8, 0, 0}.\r"
       ]
     },
     {
@@ -47,6 +67,10 @@
       "en_US": [
         "Oh, is that so? \n",
         "Please come back with some Coins!"
+      ],
+      "fr_FR": [
+        "Oh, vraiment? \n",
+        "Revenez avec des Jetons!"
       ]
     },
     {
@@ -62,6 +86,20 @@
         "So, want me to use my hidden power?\r",
         "I’ll tell you what type your Pokémon’s\n",
         "Hidden Power will be."
+      ],
+      "fr_FR": [
+        "Ce matin au réveil, j’ai pris conscience\n",
+        "de mon potentiel!\r",
+        "De quel potentiel je parle?\n",
+        "Quelle est ma puissance cachée?\r",
+        "Eh bien je suis capable d’identifier\n",
+        "la puissance cachée des Pokémon.\r",
+        "Je peux prédire le type d’attaque\n",
+        "que la capacité Puis. Cachée leur\f",
+        "enseignera.\r",
+        "Tu veux que je t’en fasse profiter?\r",
+        "Je vais tout te dire sur la puissance\n",
+        "cachée de ton équipe de Pokémon."
       ]
     },
     {
@@ -70,6 +108,11 @@
         "I’ll tell you what type your Pokémon’s\n",
         "Hidden Power will be.\r",
         "My own hidden power lets me do that."
+      ],
+      "fr_FR": [
+        "Je peux tout te dire sur le type de la\n",
+        "puissance cachée de ton équipe.\r",
+        "C’est ma puissance cachée à moi."
       ]
     },
     {
@@ -78,6 +121,11 @@
         "If this Pokémon were to learn\n",
         "Hidden Power, the move’s type\f",
         "would be {STRVAR_1 15, 0, 0}."
+      ],
+      "fr_FR": [
+        "Si ce Pokémon apprenait Puis. Cachée,\n",
+        "ce serait une capacité de type\f",
+        "{STRVAR_1 15, 0, 0}."
       ]
     },
     {
@@ -85,6 +133,10 @@
       "en_US": [
         "This Pokémon’s Hidden Power is the\n",
         "{STRVAR_1 15, 0, 0} type."
+      ],
+      "fr_FR": [
+        "La puissance cachée de ce Pokémon est\n",
+        "de type {STRVAR_1 15, 0, 0}."
       ]
     },
     {
@@ -92,6 +144,11 @@
       "en_US": [
         "If you want to know, ask me, and I’ll\n",
         "activate my hidden power for you."
+      ],
+      "fr_FR": [
+        "Si tu changes d’avis, fais-le-moi savoir\n",
+        "et je mettrai ma puissance cachée à\f",
+        "ton service."
       ]
     },
     {
@@ -99,6 +156,10 @@
       "en_US": [
         "A move that an Egg can learn?!\n",
         "That’s flat-out impossible."
+      ],
+      "fr_FR": [
+        "Attends, il s’agit d’un Oeuf?!\n",
+        "Un Oeuf ne peut apprendre de capacité."
       ]
     },
     {
@@ -106,6 +167,10 @@
       "en_US": [
         "Oh, no. This Pokémon can’t learn the\n",
         "move Hidden Power in the first place."
+      ],
+      "fr_FR": [
+        "Oh, non. Ce Pokémon est incapable\n",
+        "d’apprendre Puis. Cachée."
       ]
     },
     {
@@ -113,6 +178,10 @@
       "en_US": [
         "They have prizes I really want.\n",
         "But Coins, I have none!"
+      ],
+      "fr_FR": [
+        "Je rêve d’avoir certains de leurs prix!\n",
+        "Mais je n’ai pas l’ombre d’un Jeton!"
       ]
     }
   ]

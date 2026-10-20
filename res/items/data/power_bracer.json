@@ -26,5 +26,13 @@
   "battlePocket": "BATTLE_POCKET_MASK_NONE",
   "fieldUseFunc": "ITEM_USE_FUNC_NONE",
   "battleUseCategory": "BATTLE_USE_CATEGORY_NONE",
-  "itemUseParams": null
+  "itemUseParams": null,
+  "name_fr": "Poign. Pouv.",
+  "description_fr": [
+    "Objet à tenir augmentant l’Attaque lors\n",
+    "des montées de niveau, mais réduisant\n",
+    "la stat Vitesse."
+  ],
+  "plural_fr": "Poign. Pouv.",
+  "article_fr": null
 }

@@ -26,5 +26,13 @@
   "battlePocket": "BATTLE_POCKET_MASK_BATTLE_ITEMS",
   "fieldUseFunc": "ITEM_USE_FUNC_NONE",
   "battleUseCategory": "BATTLE_USE_CATEGORY_ESCAPING",
-  "itemUseParams": {}
+  "itemUseParams": {},
+  "name_fr": "Poképoupée",
+  "description_fr": [
+    "Poupée qui attire les Pokémon. Permet\n",
+    "de s’enfuir d’un combat contre un\n",
+    "Pokémon sauvage."
+  ],
+  "plural_fr": "Poképoupée",
+  "article_fr": null
 }

@@ -6,6 +6,10 @@
       "en_US": [
         "Look! These are Poké Balls!\n",
         "There is a Pokémon in each one!\r"
+      ],
+      "fr_FR": [
+        "Regarde! Ce sont des Poké Balls!\n",
+        "Chacune contient un Pokémon!\r"
       ]
     },
     {
@@ -13,6 +17,10 @@
       "en_US": [
         "{COLOR 3}Tiny Leaf Pokémon TURTWIG{COLOR 0}!\n",
         "Will you take this Pokémon?"
+      ],
+      "fr_FR": [
+        "{COLOR 3}Pokémon Minifeuille TORTIPOUSS{COLOR 0}!\n",
+        "Veux-tu prendre ce Pokémon?"
       ]
     },
     {
@@ -20,6 +28,10 @@
       "en_US": [
         "{COLOR 1}Chimp Pokémon CHIMCHAR{COLOR 0}!\n",
         "Do you choose this Pokémon?"
+      ],
+      "fr_FR": [
+        "{COLOR 1}Pokémon Chimpanzé OUISTICRAM{COLOR 0}!\n",
+        "Est-ce le Pokémon que tu veux?"
       ]
     },
     {
@@ -27,6 +39,10 @@
       "en_US": [
         "{COLOR 2}Penguin Pokémon{COLOR 0} {COLOR 2}PIPLUP{COLOR 0}!\n",
         "Is this Pokémon the one for you?"
+      ],
+      "fr_FR": [
+        "{COLOR 2}Pokémon Pingouin TIPLOUF{COLOR 0}!\n",
+        "Vas-tu choisir ce Pokémon?"
       ]
     },
     {
@@ -46,6 +62,10 @@
       "en_US": [
         "Now choose!\n",
         "Which Pokémon will it be?"
+      ],
+      "fr_FR": [
+        "Choisis maintenant! Quel Pokémon\n",
+        "sera ton partenaire?"
       ]
     }
   ]

@@ -8,20 +8,32 @@
         "of Pastoria’s Safari Game!\r",
         "All you can catch for just $500!\n",
         "Would you like to play a Safari Game?"
+      ],
+      "fr_FR": [
+        "Bienvenue au Grand Marais!\n",
+        "Il abrite le Jeu Safari de Verchamps!\r",
+        "Attrapez-les tous pour 500 $!\n",
+        "Voulez-vous participer au Jeu Safari?"
       ]
     },
     {
       "id": "PastoriaCityObservatoryGate1F_Text_ThatWillBe500",
-      "en_US": "That will be $500, please.\r"
+      "en_US": "That will be $500, please.\r",
+      "fr_FR": "Cela fera 500 $, s’il vous plaît.\r"
     },
     {
       "id": "PastoriaCityObservatoryGate1F_Text_HereAreSafariBalls",
-      "en_US": "Here are your Safari Balls.\r"
+      "en_US": "Here are your Safari Balls.\r",
+      "fr_FR": "Voici vos Safari Balls.\r"
     },
     {
       "id": "PastoriaCityObservatoryGate1F_Text_PlayerReceived30SafariBalls",
       "en_US": [
         "{STRVAR_1 3, 0, 0} received\n",
+        "30 Safari Balls.\r"
+      ],
+      "fr_FR": [
+        "{STRVAR_1 3, 0, 0} reçoit\n",
         "30 Safari Balls.\r"
       ]
     },
@@ -32,6 +44,12 @@
         "is over.\r",
         "Until then, enjoy yourself, please!\n",
         "Off you go on your wild excursion!\r"
+      ],
+      "fr_FR": [
+        "Nous vous préviendrons quand la partie\n",
+        "sera finie.\r",
+        "En attendant, amusez-vous bien!\n",
+        "En avant pour une équipée sauvage!\r"
       ]
     },
     {
@@ -39,6 +57,10 @@
       "en_US": [
         "OK.\n",
         "Please come again!\r"
+      ],
+      "fr_FR": [
+        "Très bien.\n",
+        "Revenez vite!\r"
       ]
     },
     {
@@ -46,6 +68,10 @@
       "en_US": [
         "You don’t have enough money.\n",
         "Sorry.\r"
+      ],
+      "fr_FR": [
+        "Quel dommage.\n",
+        "Vous n’avez pas assez d’argent.\r"
       ]
     },
     {
@@ -53,6 +79,10 @@
       "en_US": [
         "I’m sorry, you don’t have enough\n",
         "room to catch any more Pokémon.\r"
+      ],
+      "fr_FR": [
+        "Toutes mes excuses, vous n’avez plus la\n",
+        "place de capturer des Pokémon.\r"
       ]
     },
     {
@@ -65,6 +95,15 @@
         "Which brings us to...\r",
         "All you can catch for just $500!\n",
         "Would you like to play a Safari Game?"
+      ],
+      "fr_FR": [
+        "Bienvenue au Grand Marais!\n",
+        "Il abrite le Jeu Safari de Verchamps!\r",
+        "Dernièrement, on a aperçu de\n",
+        "nouveaux Pokémon dans le coin.\r",
+        "Ça me fait penser...\r",
+        "Attrapez-les tous pour 500 $!\n",
+        "Voulez-vous participer au Jeu Safari?"
       ]
     },
     {
@@ -72,6 +111,10 @@
       "en_US": [
         "You still have time left. Are you sure\n",
         "you want to exit the Great Marsh?"
+      ],
+      "fr_FR": [
+        "Il vous reste du temps. Voulez-vous\n",
+        "vraiment quitter le Grand Marais?"
       ]
     },
     {
@@ -82,6 +125,13 @@
         "Safari Balls.\r",
         "Thank you for playing.\n",
         "We hope to see you again.\r"
+      ],
+      "fr_FR": [
+        "Très bien.\r",
+        "Je vous débarrasse des Safari Balls\n",
+        "restantes.\r",
+        "Merci d’avoir joué.\n",
+        "Nous espérons vous revoir bientôt.\r"
       ]
     },
     {
@@ -89,6 +139,10 @@
       "en_US": [
         "Please enjoy the rest of your wild\n",
         "Safari Game adventure!\r"
+      ],
+      "fr_FR": [
+        "Amusez-vous bien durant le reste de\n",
+        "votre aventure au Jeu Safari!\r"
       ]
     },
     {
@@ -96,6 +150,10 @@
       "en_US": [
         "Welcome to the Great Marsh!\n",
         "Is this your first Safari Game?"
+      ],
+      "fr_FR": [
+        "Bienvenue au Grand Marais!\n",
+        "C’est votre premier Jeu Safari?"
       ]
     },
     {
@@ -110,6 +168,17 @@
         "500 steps.\r",
         "Please do enjoy the untamed nature\n",
         "of the Great Marsh!"
+      ],
+      "fr_FR": [
+        "En entrant dans le Grand Marais, vous\n",
+        "commencez avec 30 Safari Balls.\r",
+        "C’est le seul type de Ball que vous \n",
+        "pouvez utiliser durant le Jeu Safari.\r",
+        "La partie se termine lorsque vous êtes\n",
+        "à court de Safari Balls ou que vous\f",
+        "avez fait 500 pas.\r",
+        "Profitez bien de la faune sauvage\n",
+        "du Grand Marais!"
       ]
     },
     {
@@ -117,6 +186,10 @@
       "en_US": [
         "I see.\n",
         "Enjoy your Safari Game!"
+      ],
+      "fr_FR": [
+        "Je vois.\n",
+        "Amusez-vous bien au Jeu Safari!"
       ]
     },
     {
@@ -132,6 +205,18 @@
         "more Pokémon in one Safari Game.\r",
         "If you can do that, I’ll give you the\n",
         "Pokétch app Matchup Checker."
+      ],
+      "fr_FR": [
+        "Bien le bonjour.\n",
+        "Tu es en route pour un Jeu Safari?\r",
+        "Ça te dirait de tester un jeu de mon cru\n",
+        "pendant que t’y es?\r",
+        "Il n’y a qu’une règle et elle est simple.\r",
+        "Tout ce que tu as à faire, c’est\n",
+        "capturer au moins cinq Pokémon\f",
+        "au cours d’un Jeu Safari.\r",
+        "Si tu y arrives, je te donnerai le\n",
+        "logiciel Pokémontre Testeur d’Affinités."
       ]
     },
     {
@@ -151,6 +236,14 @@
         "Isn’t that something!\r",
         "Well, here you are, then.\n",
         "The Pokétch app Matchup Checker.\r"
+      ],
+      "fr_FR": [
+        "Combien de Pokémon as-tu attrapés\n",
+        "pendant le Jeu Safari? Au moins cinq?\r",
+        "Mais oui! Tu as réussi!\n",
+        "Belle performance!\r",
+        "Voilà pour toi. Comme promis, le logiciel\n",
+        "Pokémontre Testeur d’Affinités.\r"
       ]
     },
     {
@@ -160,6 +253,13 @@
         "how Pokémon types match up.\r",
         "It won’t help tell us how we match up\n",
         "as friends, though."
+      ],
+      "fr_FR": [
+        "Le Testeur d’Affinités évalue la\n",
+        "compatibilité entre les types de\f",
+        "Pokémon.\r",
+        "Cependant il est incapable d’évaluer\n",
+        "nos atomes crochus à nous."
       ]
     },
     {

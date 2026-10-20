@@ -26,5 +26,12 @@
     "contest": {
         "effect": "CONTEST_EFFECT_MAX_VOLTAGE_ADVANTAGE",
         "type": "CONTEST_TYPE_SMART"
-    }
+    },
+    "name_fr": "Ball’Brume",
+    "description_fr": [
+        "Une bulle de brume\n",
+        "inflige des dégâts à\n",
+        "l’ennemi. Peut aussi\n",
+        "réduire son Atq. Spé."
+    ]
 }

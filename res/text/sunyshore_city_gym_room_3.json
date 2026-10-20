@@ -17,6 +17,20 @@
         "done.\r",
         "I hope you’re the Trainer who’ll make\n",
         "me remember how fun it is to battle!\r"
+      ],
+      "fr_FR": [
+        "Tu viens me défier? D’autres Dresseurs \n",
+        "viennent me défier de temps en temps...\r",
+        "Mais les combats sont ennuyeux\n",
+        "et les victoires trop faciles.\r",
+        "Pff...\n",
+        "Je suis Tanguy, le Champion d’Arène.\r",
+        "On dit que je suis le plus grand\n",
+        "Champion de Sinnoh, mais...\r",
+        "Peu importe, finissons-en\n",
+        "au plus vite.\r",
+        "Peut-être qu’avec un peu de chance tu\n",
+        "seras le Dresseur que j’attendais...\r"
       ]
     },
     {
@@ -31,6 +45,17 @@
         "to greater heights!\r",
         "This is your eighth Gym Badge.\n",
         "You’ve earned this!\r"
+      ],
+      "fr_FR": [
+        "... Hé... Hé, hé.\r",
+        "Ha, ha, ha!\r",
+        "Je ne m’étais pas autant amusé \n",
+        "depuis... Ha, je ne me souviens pas!\r",
+        "Je suis curieux et pressé de voir \n",
+        "jusqu’à quels sommets toi et tes\f",
+        "Pokémon allez grimper!\r",
+        "Voici ton huitième Badge d’Arène, \n",
+        "tu l’as bien mérité!\r"
       ]
     },
     {
@@ -38,6 +63,10 @@
       "en_US": [
         "{STRVAR_1 3, 0, 0} received\n",
         "the Beacon Badge from Volkner."
+      ],
+      "fr_FR": [
+        "{STRVAR_1 3, 0, 0} obtient le\n",
+        "Badge Phare de Tanguy."
       ]
     },
     {
@@ -52,6 +81,17 @@
         "eight Badges, any Pokémon at any\f",
         "level will now obey you without fail.\r",
         "I want you to take this, too.\r"
+      ],
+      "fr_FR": [
+        "Ce Badge Phare te permet d’utiliser la \n",
+        "capacité Cascade même quand tu ne\f",
+        "combats pas.\r",
+        "C’est indispensable si tu veux te lancer\n",
+        "à l’assaut de la Ligue.\r",
+        "De plus, maintenant que tu as les huit \n",
+        "Badges, tous les Pokémon t’obéiront\f",
+        "au doigt et à l’œil.\r",
+        "Tiens, prends aussi ceci.\r"
       ]
     },
     {
@@ -61,6 +101,13 @@
         "is the move {STRVAR_1 6, 1, 0}.\r",
         "It may raise Special Attack if it\n",
         "lands. It’s electrifying!"
+      ],
+      "fr_FR": [
+        "La {STRVAR_1 8, 0, 0} contient \n",
+        "la capacité {STRVAR_1 6, 1, 0}.\r",
+        "Quand elle réussit, elle te permet \n",
+        "d’augmenter l’Attaque Spéciale.\r",
+        "C’est plutôt cool!"
       ]
     },
     {
@@ -75,6 +122,16 @@
         "your mastery of your team.\r",
         "Against you, even the Elite Four will\n",
         "be pushed to fend off your challenge!"
+      ],
+      "fr_FR": [
+        "Pour toi, la prochaine étape \n",
+        "est la Ligue Pokémon.\r",
+        "Traverse la mer et triomphe de\n",
+        "l’épreuve qu’est la Route Victoire.\r",
+        "Montre la valeur de ton équipe \n",
+        "aux membres de la Ligue.\r",
+        "Contre toi, même le Conseil 4 \n",
+        "aura du mal à résister!"
       ]
     }
   ]

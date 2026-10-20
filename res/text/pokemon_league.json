@@ -6,15 +6,21 @@
       "en_US": [
         "Pokémon League\n",
         "The Pinnacle of Trainerdom!"
+      ],
+      "fr_FR": [
+        "Ligue Pokémon\n",
+        "La consécration du Dresseur!"
       ]
     },
     {
       "id": "PokemonLeague_Text_PokemonLeagueAhead",
-      "en_US": "Pokémon League Ahead"
+      "en_US": "Pokémon League Ahead",
+      "fr_FR": "Ligue Pokémon droit devant"
     },
     {
       "id": "PokemonLeague_Text_VictoryRoadAhead",
-      "en_US": "Victory Road Ahead"
+      "en_US": "Victory Road Ahead",
+      "fr_FR": "Route Victoire droit devant"
     }
   ]
 }

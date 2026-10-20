@@ -8,6 +8,12 @@
         "This is the Canalave Library.\r",
         "Please keep quiet while you’re on\n",
         "the premises."
+      ],
+      "fr_FR": [
+        "Bonjour et bienvenue à \n",
+        "la Bibliothèque de Joliberges.\r",
+        "Veuillez ne pas faire de bruit\n",
+        "dans l’enceinte de l’établissement."
       ]
     },
     {
@@ -23,17 +29,33 @@
         "{SIZE 200}“Help meee!!”{SIZE 100}\r",
         "{SIZE 200}{SIZE 100}No, really, that wasn’t me\n",
         "screaming!"
+      ],
+      "fr_FR": [
+        "Bon... bonjour et bienvenue à \n",
+        "la Bibliothèque de Joliberges.\r",
+        "Veuillez ne pas faire de bruit\n",
+        "dans l’enceinte de l’établissement.\r",
+        "Au fait, ce n’était pas moi qui criais\r",
+        "{SIZE 200}“Gyaaah!!!”{SIZE 100}\r",
+        "{SIZE 200}{SIZE 100}et\r",
+        "{SIZE 200}“Au secouuurs!!!”{SIZE 100}\r",
+        "{SIZE 200}{SIZE 100}Non, vraiment, ce n’était pas moi!"
       ]
     },
     {
       "id": "CanalaveLibrary1F_Text_Ellipsis",
-      "en_US": "...\r"
+      "en_US": "...\r",
+      "fr_FR": "...\r"
     },
     {
       "id": "CanalaveLibrary1F_Text_DontDisturbMe",
       "en_US": [
         "What is it? Please don’t disturb\n",
         "me when I’m reading.\r"
+      ],
+      "fr_FR": [
+        "Qu’est-ce qu’il y a? Evite de me\n",
+        "déranger quand je lis.\r"
       ]
     },
     {
@@ -43,6 +65,13 @@
         "disturb me while I’m reading...\r",
         "I shouldn’t even have bothered...\n",
         "I’m all agitated now!"
+      ],
+      "fr_FR": [
+        "J’ai demandé aux gens de ne pas me\n",
+        "déranger pendant que je lisais...\r",
+        "Je n’aurais pas dû prendre cette\n",
+        "peine... Je n’arrive plus du tout à\f",
+        "me concentrer!"
       ]
     },
     {
@@ -50,6 +79,10 @@
       "en_US": [
         "The ceiling-high bookshelves are\n",
         "crammed with books."
+      ],
+      "fr_FR": [
+        "Les rayons remplis de livres\n",
+        "montent jusqu’au plafond."
       ]
     },
     {
@@ -57,6 +90,10 @@
       "en_US": [
         "The shelves are lined with books\n",
         "worn from being read by many people."
+      ],
+      "fr_FR": [
+        "Les étagères sont remplies de livres \n",
+        "usés par des années de lecture."
       ]
     },
     {
@@ -67,6 +104,14 @@
         "Books are wonderful things.\r",
         "The thoughts of people written in books\n",
         "stretch beyond time and space.\r"
+      ],
+      "fr_FR": [
+        "Lucio: Ah, bonjour...\n",
+        "Tu es là pour lire, toi aussi?\r",
+        "Les livres sont fascinants.\r",
+        "Couchées sur le papier, les pensées de\n",
+        "nos ancêtres s’étendent par-delà le\f",
+        "temps et l’espace.\r"
       ]
     },
     {
@@ -74,6 +119,10 @@
       "en_US": [
         "I imagine we’ll see each other again\n",
         "at the Pokémon League. Take care.\r"
+      ],
+      "fr_FR": [
+        "J’imagine qu’on se reverra à la Ligue\n",
+        "Pokémon. D’ici là, bonne continuation.\r"
       ]
     },
     {
@@ -91,6 +140,20 @@
         "conclusion seeing the night sky...\r",
         "It’s an affirmation of life.\n",
         "It’s very moving.\r"
+      ],
+      "fr_FR": [
+        "J’étais en train de lire le recueil\n",
+        "épistolaire d’un artiste d’autrefois.\r",
+        "Ce sont les lettres de l’artiste à son\n",
+        "frère.\r",
+        "“Les étoiles au firmament nous\n",
+        "observent depuis l’espace infini.\r",
+        "Sentir leur lointain regard me\n",
+        "redonne goût à la vie.”\r",
+        "L’artiste a dû écrire ça par une belle\n",
+        "nuit étoilée...\r",
+        "Cette affirmation de la vie...\n",
+        "C’est si émouvant.\r"
       ]
     },
     {
@@ -105,6 +168,18 @@
         "The end will also be without humans.”\r",
         "The world we share with Pokémon...\n",
         "Does it exist for us?\r"
+      ],
+      "fr_FR": [
+        "J’étais en train de lire un traité\n",
+        "analytique sur l’humanité.\r",
+        "C’est une étude de l’espèce humaine\n",
+        "d’un point de vue socioculturel.\r",
+        "Voilà un passage qui fait réfléchir: \n",
+        "“Au commencement, il n’y avait pas\r",
+        "d’humains. Il n’y en aura pas non plus\n",
+        "à la fin.”\r",
+        "Ce monde que nous partageons avec les\n",
+        "Pokémon... Nous était-il destiné?\r"
       ]
     },
     {
@@ -120,6 +195,20 @@
         "in an effort to heal itself.\r",
         "The Poké Ball was invented to take\n",
         "advantage of that protective instinct.\r"
+      ],
+      "fr_FR": [
+        "J’étais en train de lire un recueil\n",
+        "d’observations sur les Pokémon dans\f",
+        "leur milieu naturel.\r",
+        "Un des articles aborde la raison pour\n",
+        "laquelle un Pokémon entre dans une\f",
+        "Poké Ball.\r",
+        "D’après cet article, c’est un\n",
+        "comportement d’ordre instinctif.\r",
+        "Un Pokémon affaibli se roule en boule\n",
+        "pour essayer de soigner ses blessures.\r",
+        "La Poké Ball fut inventée pour mettre à\n",
+        "profit cet instinct.\r"
       ]
     },
     {
@@ -132,6 +221,16 @@
         "“Though love may lose, kindness wins.”\r",
         "I find that philosophical and, at the\n",
         "same time, compassionate.\r"
+      ],
+      "fr_FR": [
+        "J’étais en train de lire un essai sur\n",
+        "la science-fiction.\r",
+        "J’y ai trouvé une citation remarquable\n",
+        "attribuée à un romancier.\r",
+        "“L’amour perd parfois, la gentillesse\n",
+        "gagne toujours.”\r",
+        "Je trouve ça philosophique et plein de\n",
+        "compassion.\r"
       ]
     },
     {
@@ -145,6 +244,16 @@
         "the basic tenets of the universe...\r",
         "It fills me with a serene sense of\n",
         "inspiration.\r"
+      ],
+      "fr_FR": [
+        "J’étais en train de lire un livre de\n",
+        "philosophie qui nous vient d’une\f",
+        "lointaine civilisation antique.\r",
+        "Pour eux, le mot “univers” englobait\n",
+        "à la fois le temps et l’espace.\r",
+        "Qu’une civilisation si ancienne ait pu\n",
+        "saisir le concept d’univers...\r",
+        "Ça me remplit d’une douce sérénité.\r"
       ]
     }
   ]

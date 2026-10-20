@@ -23,11 +23,17 @@
             "en_US": [
                 "Knowing you to be an expert,\n",
                 "I challenge you to a rematch!\r"
+            ],
+            "fr_FR": [
+                "Je sais que tu fais partie des pros, mais\n",
+                "je te propose quand même une revanche!\r"
             ]
         },
         {
             "type": "TRMSG_DEFEAT",
-            "en_US": "I can see why you’re an expert...\n"
+            "en_US": "I can see why you’re an expert...\n",
+            "fr_FR": "Je comprends pourquoi tu es si pro...\n"
         }
-    ]
+    ],
+    "name_fr": "Edouard"
 }

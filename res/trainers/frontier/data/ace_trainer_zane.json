@@ -77,6 +77,10 @@
             "en_US": [
                 "Ooh, it gives me shivers...\n",
                 "I live for this moment."
+            ],
+            "fr_FR": [
+                "Ooh, j’en ai des frissons.\n",
+                "J’adore les combats!"
             ]
         },
         {
@@ -84,6 +88,10 @@
             "en_US": [
                 "Oh, yeah... That’s it...\n",
                 "Perfection doesn’t come better...\r"
+            ],
+            "fr_FR": [
+                "Brr! Et voilà! La définition\n",
+                "même du talent...\r"
             ]
         },
         {
@@ -91,7 +99,12 @@
             "en_US": [
                 "It’s gotten so I can’t live without\n",
                 "battling anymore.\r"
+            ],
+            "fr_FR": [
+                "Je n’imagine pas la vie sans combats\n",
+                "de Pokémon. Ce serait horrible.\r"
             ]
         }
-    ]
+    ],
+    "name_fr": "Todd"
 }

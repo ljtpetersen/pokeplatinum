@@ -24,5 +24,12 @@
     "contest": {
         "effect": "CONTEST_EFFECT_SUPPRESS_VOLTAGE",
         "type": "CONTEST_TYPE_CUTE"
-    }
+    },
+    "name_fr": "Boul’Armure",
+    "description_fr": [
+        "Le lanceur s’enroule\n",
+        "pour cacher ses\n",
+        "points faibles, ce qui\n",
+        "augmente sa Défense."
+    ]
 }

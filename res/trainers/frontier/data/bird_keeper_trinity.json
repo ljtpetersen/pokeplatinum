@@ -29,6 +29,10 @@
             "en_US": [
                 "I can’t fly...\n",
                 "But these babies can soar..."
+            ],
+            "fr_FR": [
+                "Je ne peux pas voler...\n",
+                "Mais je peux te battre..."
             ]
         },
         {
@@ -36,6 +40,10 @@
             "en_US": [
                 "My spirit has been uplifted to the\n",
                 "skies... Thank you, everyone...\r"
+            ],
+            "fr_FR": [
+                "Mon corps reste au sol, mais\n",
+                "mon esprit s’élève... Merci...\r"
             ]
         },
         {
@@ -43,7 +51,12 @@
             "en_US": [
                 "You broke my wings...\n",
                 "I won’t ever forget you...\r"
+            ],
+            "fr_FR": [
+                "Tu m’as coupé les ailes...\n",
+                "Je ne te le pardonnerai jamais...\r"
             ]
         }
-    ]
+    ],
+    "name_fr": "Tania"
 }

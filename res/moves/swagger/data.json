@@ -27,5 +27,13 @@
     "contest": {
         "effect": "CONTEST_EFFECT_NO_VOLTAGE_DOWN",
         "type": "CONTEST_TYPE_CUTE"
-    }
+    },
+    "name_fr": "Vantardise",
+    "description_fr": [
+        "Fait enrager l’ennemi\n",
+        "et le plonge dans la\n",
+        "confusion, mais\n",
+        "augmente fortement\n",
+        "son Attaque."
+    ]
 }

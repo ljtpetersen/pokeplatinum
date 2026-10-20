@@ -87,6 +87,10 @@
             "en_US": [
                 "My needs are simple.\n",
                 "Fishing and Moomoo Milk are all I need."
+            ],
+            "fr_FR": [
+                "C’est simple, dans la vie, j’ai deux\n",
+                "passions: la pêche et le Lait Meumeu."
             ]
         },
         {
@@ -94,14 +98,20 @@
             "en_US": [
                 "Winning or losing isn’t something I pay\n",
                 "heed to.\r"
-            ]
+            ],
+            "fr_FR": "Gagner ou perdre, ça m’est bien égal.\r"
         },
         {
             "type": "TRMSG_DEFEAT",
             "en_US": [
                 "I could use some Moomoo Milk right\n",
                 "about now.\r"
+            ],
+            "fr_FR": [
+                "Tu n’aurais pas un peu de\n",
+                "Lait Meumeu à m’offrir?\r"
             ]
         }
-    ]
+    ],
+    "name_fr": "Emil"
 }

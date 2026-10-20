@@ -24,6 +24,10 @@
             "en_US": [
                 "Oh, a weak-looking Trainer...\n",
                 "Do you want to have a go?\r"
+            ],
+            "fr_FR": [
+                "Ah, un Dresseur à l’air plutôt faible...\n",
+                "Tu veux tenter ta chance contre moi?\r"
             ]
         },
         {
@@ -31,6 +35,10 @@
             "en_US": [
                 "Aww...\n",
                 "I should have said no.\n"
+            ],
+            "fr_FR": [
+                "Ouille...\n",
+                "J’aurais dû m’abstenir.\n"
             ]
         },
         {
@@ -38,6 +46,10 @@
             "en_US": [
                 "Oh, you’re so mean!\n",
                 "I just started training Pokémon!\n"
+            ],
+            "fr_FR": [
+                "Hé, c’était vraiment méchant! Je\n",
+                "commence juste à élever des Pokémon!\n"
             ]
         },
         {
@@ -45,7 +57,12 @@
             "en_US": [
                 "Hi, pretty-tough Trainer!\n",
                 "Will you give me a rematch?\r"
+            ],
+            "fr_FR": [
+                "Salut, Dresseur plutôt doué! \n",
+                "Tu veux bien me donner ma revanche?\r"
             ]
         }
-    ]
+    ],
+    "name_fr": "Sarah"
 }

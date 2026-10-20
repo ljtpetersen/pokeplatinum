@@ -26,5 +26,13 @@
   "fieldUseFunc": "ITEM_USE_FUNC_TM_HM",
   "battleUseCategory": "BATTLE_USE_CATEGORY_NONE",
   "itemUseParams": null,
-  "teachesMove": "MOVE_SKILL_SWAP"
+  "teachesMove": "MOVE_SKILL_SWAP",
+  "name_fr": "CT48",
+  "description_fr": [
+    "Le lanceur utilise ses pouvoirs\n",
+    "psychiques pour échanger sa capacité\n",
+    "spéciale avec l’ennemi."
+  ],
+  "plural_fr": "CT48",
+  "article_fr": null
 }

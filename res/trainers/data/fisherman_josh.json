@@ -32,6 +32,10 @@
             "en_US": [
                 "I wish some fishing-loving lady’d come\n",
                 "along. But no, it’s all just Trainers.\r"
+            ],
+            "fr_FR": [
+                "Ah, si une jolie demoiselle passait par\n",
+                "là. Mais non, que des Dresseurs...\r"
             ]
         },
         {
@@ -39,6 +43,10 @@
             "en_US": [
                 "Sure, so I lost.\n",
                 "But I’ll keep on fishing.\n"
+            ],
+            "fr_FR": [
+                "Très bien, j’ai perdu.\n",
+                "Mais ça ne m’empêchera pas de pêcher.\n"
             ]
         },
         {
@@ -46,6 +54,10 @@
             "en_US": [
                 "If you know of any ladies that like\n",
                 "fishing, help me reel ’em in!\n"
+            ],
+            "fr_FR": [
+                "Si tu connais une belle demoiselle qui\n",
+                "aime la pêche, présente-la-moi!"
             ]
         },
         {
@@ -53,7 +65,12 @@
             "en_US": [
                 "Umm... Yeah. Weren’t you that person\n",
                 "who preferred Pokémon over fishing?\r"
+            ],
+            "fr_FR": [
+                "Hum... Ah mais oui! C’est pas toi qui\n",
+                "préférais les Pokémon à la pêche?\r"
             ]
         }
-    ]
+    ],
+    "name_fr": "Mathis"
 }

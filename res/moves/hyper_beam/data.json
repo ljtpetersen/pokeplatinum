@@ -27,5 +27,13 @@
     "contest": {
         "effect": "CONTEST_EFFECT_MAX_VOLTAGE_ADVANTAGE",
         "type": "CONTEST_TYPE_COOL"
-    }
+    },
+    "name_fr": "Ultralaser",
+    "description_fr": [
+        "Projette un puissant\n",
+        "rayon sur l’ennemi. Le\n",
+        "lanceur doit se\n",
+        "reposer au tour\n",
+        "suivant."
+    ]
 }

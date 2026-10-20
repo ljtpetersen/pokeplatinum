@@ -58,6 +58,11 @@
                 "Very well. I’ve decided.\r",
                 "I’ll battle one last time, with you,\n",
                 "then I’m retiring as a Trainer.\r"
+            ],
+            "fr_FR": [
+                "Très bien, c’est décidé.\r",
+                "Ce combat contre toi sera mon dernier!\n",
+                "Après, je prends ma retraite.\r"
             ]
         },
         {
@@ -65,6 +70,10 @@
             "en_US": [
                 "I’ve lost, but...\n",
                 "What is this rush I feel?!\n"
+            ],
+            "fr_FR": [
+                "J’ai perdu, mais... la passion du combat\n",
+                "s’est emparée de moi!\n"
             ]
         },
         {
@@ -75,6 +84,13 @@
                 "Retire? Perish that thought!\r",
                 "I’ll become a lot tougher.\n",
                 "Next time, victory is mine!\n"
+            ],
+            "fr_FR": [
+                "Oui! La passion!\n",
+                "Les Pokémon, c’est ma vie!\f",
+                "La retraite? JAMAIS!\r",
+                "Je reprends l’entraînement.\n",
+                "La prochaine fois, je te vaincrai!\n"
             ]
         },
         {
@@ -84,7 +100,14 @@
                 "technique...\r",
                 "Let us battle again to see who wins\n",
                 "this time!\r"
+            ],
+            "fr_FR": [
+                "La puissance de la jeunesse face à\n",
+                "la technique d’un ancien...\r",
+                "Affrontons-nous à nouveau pour\n",
+                "voir qui triomphera!\r"
             ]
         }
-    ]
+    ],
+    "name_fr": "Théobald"
 }

@@ -42,6 +42,11 @@
                 "For the sake of my collection, I\n",
                 "take on people I know I can’t beat.\f",
                 "That’s what a Collector does.\r"
+            ],
+            "fr_FR": [
+                "J’affronte des Dresseurs plus forts\n",
+                "que moi pour compléter ma collection.\r",
+                "C’est ça, être un Collec.\r"
             ]
         },
         {
@@ -49,6 +54,10 @@
             "en_US": [
                 "That attack right then was remarkable!\n",
                 "You ought to be proud of it!\n"
+            ],
+            "fr_FR": [
+                "Ta dernière attaque était magistrale!\n",
+                "Je suis heureux de t’avoir affronté!\n"
             ]
         },
         {
@@ -58,6 +67,13 @@
                 "others don’t.\r",
                 "Oh, I’m also proud about winning second\n",
                 "prize in one of Jubilife TV’s drawings.\n"
+            ],
+            "fr_FR": [
+                "Je suis fier d’avoir des Pokémon que\n",
+                "les autres n’ont pas.\r",
+                "Oh, et je suis aussi fier d’avoir reçu\n",
+                "le deuxième prix au tirage au sort\f",
+                "quotidien de Féli-Télé.\n"
             ]
         },
         {
@@ -66,7 +82,13 @@
                 "For the sake of my collection, I\n",
                 "keep battling people I can’t beat.\r",
                 "That’s what a Collector does.\r"
+            ],
+            "fr_FR": [
+                "Pour ma collection, je combats sans\n",
+                "cesse des gens trop forts pour moi.\r",
+                "C’est ça, être un Collec.\r"
             ]
         }
-    ]
+    ],
+    "name_fr": "Reno"
 }

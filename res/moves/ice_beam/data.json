@@ -25,5 +25,11 @@
     "contest": {
         "effect": "CONTEST_EFFECT_FIRST_PERFORMANCE_ADVANTAGE",
         "type": "CONTEST_TYPE_BEAUTY"
-    }
+    },
+    "name_fr": "Laser Glace",
+    "description_fr": [
+        "Un rayon de glace\n",
+        "frappe l’ennemi. Peut\n",
+        "aussi le geler."
+    ]
 }

@@ -27,5 +27,13 @@
   "fieldUseFunc": "ITEM_USE_FUNC_TM_HM",
   "battleUseCategory": "BATTLE_USE_CATEGORY_NONE",
   "itemUseParams": null,
-  "teachesMove": "MOVE_DOUBLE_TEAM"
+  "teachesMove": "MOVE_DOUBLE_TEAM",
+  "name_fr": "CT32",
+  "description_fr": [
+    "Le lanceur se déplace si vite qu’il crée\n",
+    "des copies illusoires de lui, augmentant\n",
+    "son esquive."
+  ],
+  "plural_fr": "CT32",
+  "article_fr": null
 }

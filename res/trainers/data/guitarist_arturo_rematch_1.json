@@ -23,7 +23,12 @@
             "en_US": [
                 "You beat me, but...\n",
                 "I feel totally amped to jam harder!\n"
+            ],
+            "fr_FR": [
+                "Tu m’as battu, mais...\n",
+                "je suis prêt à jouer plus fort!\n"
             ]
         }
-    ]
+    ],
+    "name_fr": "Joseph"
 }

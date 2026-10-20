@@ -10,6 +10,14 @@
         "I want people to think about that.\r",
         "That’s why I give away the Technical\n",
         "Machine Fling.\r"
+      ],
+      "fr_FR": [
+        "On dit que les Poké Balls sont les seuls\n",
+        "objets que l’on peut lancer!\r",
+        "Mais est-ce vraiment le cas?!\n",
+        "Je veux que les gens y réfléchissent.\r",
+        "C’est la raison pour laquelle j’offre\n",
+        "cette Capsule Technique, Dégommage.\r"
       ]
     },
     {
@@ -21,6 +29,14 @@
         "item is hurled.\r",
         "Remember, the move Fling fails if the\n",
         "Pokémon isn’t holding anything."
+      ],
+      "fr_FR": [
+        "En utilisant cette capacité, le Pokémon\n",
+        "projette un objet tenu sur l’ennemi.\r",
+        "L’effet de la capacité dépend de \n",
+        "l’objet en question.\r",
+        "Mais n’oublie pas qu’elle échouera si\n",
+        "le Pokémon ne tient aucun objet."
       ]
     },
     {
@@ -31,6 +47,13 @@
         "But those days are long gone now...\r",
         "Now I get annoyed if I can’t beat my\n",
         "record by even an inch..."
+      ],
+      "fr_FR": [
+        "Quand j’ai commencé à pêcher, chaque\n",
+        "prise me comblait de joie.\r",
+        "Mais de l’eau a coulé sous les ponts...\r",
+        "Maintenant, je fais la tête quand je\n",
+        "n’arrive pas à battre mon record..."
       ]
     },
     {
@@ -38,6 +61,10 @@
       "en_US": [
         "I can’t explain it.\n",
         "I get more easily agitated at night."
+      ],
+      "fr_FR": [
+        "Je ne saurais dire pourquoi, mais je\n",
+        "suis plus souvent agité, la nuit."
       ]
     },
     {
@@ -45,6 +72,10 @@
       "en_US": [
         "Rt. 222\n",
         "Hotel Grand Lake"
+      ],
+      "fr_FR": [
+        "Route 222\n",
+        "Hôtel Grand Lac"
       ]
     },
     {
@@ -52,12 +83,20 @@
       "en_US": [
         "Rt. 222\n",
         "Sunyshore City"
+      ],
+      "fr_FR": [
+        "Route 222\n",
+        "Rivamar"
       ]
     },
     {
       "id": "Route222_Text_SignPikachuFanClub",
       "en_US": [
         "PIKACHU Fan Club\n",
+        "Pikapikapikah! Pikapika?"
+      ],
+      "fr_FR": [
+        "Fan Club PIKACHU\n",
         "Pikapikapikah! Pikapika?"
       ]
     },
@@ -66,6 +105,10 @@
       "en_US": [
         "Pokémon Size Contest\n",
         "Big Pokémon Wanted!"
+      ],
+      "fr_FR": [
+        "Concours de Taille Pokémon\n",
+        "Vive les grands Pokémon!"
       ]
     }
   ]

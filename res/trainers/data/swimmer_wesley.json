@@ -32,17 +32,26 @@
             "en_US": [
                 "I’ve decided!\n",
                 "I’m off to the Pokémon League if I win!\r"
+            ],
+            "fr_FR": [
+                "C’est décidé! Si je gagne, je pars pour\n",
+                "la Ligue Pokémon!\r"
             ]
         },
         {
             "type": "TRMSG_DEFEAT",
-            "en_US": "Blblblblugh...\n"
+            "en_US": "Blblblblugh...\n",
+            "fr_FR": "Glouglouglou...\n"
         },
         {
             "type": "TRMSG_POST_BATTLE",
             "en_US": [
                 "It’s OK. Just let me float away\n",
                 "like driftwood...\n"
+            ],
+            "fr_FR": [
+                "C’est bon. Laisse-moi partir à la\n",
+                "dérive comme un vulgaire bout de bois...\n"
             ]
         },
         {
@@ -50,7 +59,12 @@
             "en_US": [
                 "This is it! I’m going to beat you, then\n",
                 "I’m off to the Pokémon League!\r"
+            ],
+            "fr_FR": [
+                "C’est le moment! Je vais te battre et\n",
+                "partir pour la Ligue Pokémon!\r"
             ]
         }
-    ]
+    ],
+    "name_fr": "Gilles"
 }

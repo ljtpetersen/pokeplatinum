@@ -13,11 +13,24 @@
         "But they also get less likely to bolt\n",
         "out of anger.\r",
         "Urgh, what to do...?"
+      ],
+      "fr_FR": [
+        "Jette de la nourriture à un Pokémon et\n",
+        "il y aura plus de risques qu’il fuie...\r",
+        "Mais pendant qu’il mange, il sera plus\n",
+        "facile à capturer.\r",
+        "Si tu lui jettes de la boue, c’est\n",
+        "l’inverse qui se produit.\r",
+        "Il sera plus difficile à capturer...\r",
+        "Mais il y aura moins de chances qu’il\n",
+        "fuie sous le coup de la colère.\r",
+        "Argh, que faire...?"
       ]
     },
     {
       "id": "GreatMarsh3_Text_SignArea3",
-      "en_US": "Great Marsh Area 3"
+      "en_US": "Great Marsh Area 3",
+      "fr_FR": "Grand Marais Parc 3"
     }
   ]
 }

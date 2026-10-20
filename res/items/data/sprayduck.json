@@ -26,5 +26,13 @@
   "battlePocket": "BATTLE_POCKET_MASK_NONE",
   "fieldUseFunc": "ITEM_USE_FUNC_SPRAYDUCK",
   "battleUseCategory": "BATTLE_USE_CATEGORY_NONE",
-  "itemUseParams": null
+  "itemUseParams": null,
+  "name_fr": "Kwakarrosoir",
+  "description_fr": [
+    "Arrosoir en forme de PSYKOKWAK. Aide\n",
+    "à la croissance des Baies plantées dans\n",
+    "les sols meubles."
+  ],
+  "plural_fr": "Kwakarrosoir",
+  "article_fr": null
 }

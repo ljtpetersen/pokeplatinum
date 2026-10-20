@@ -52,6 +52,25 @@
         "All right, gang, come on down to\n",
         "the Battle Tower and get down!\r",
         "Keep it real! Wa-hey!"
+      ],
+      "fr_FR": [
+        "DJ: Yé-hé!\r",
+        "C’est l’heure des Chroniques\n",
+        "de la Tour de Combat que regardent les\f",
+        "fans de combat dans le monde entier!\r",
+        "Aujourd’hui, nous nous intéressons à\n",
+        "{STRVAR_1 3, 1, 0}, qui a obtenu {STRVAR_1 52, 0, 0}\f",
+        "victoires d’affilée à la Tour de Combat!\r",
+        "Voyons ce que ce brave Dresseur avait\n",
+        "à nous dire à ce sujet.\r",
+        "Vas-y, {STRVAR_1 3, 1, 0}!\r",
+        "“{STRVAR_1 28, 2, 0}!”\r",
+        "Yé-hé! Bravo!\r",
+        "On peut voir que ce Dresseur est\n",
+        "heureux de ces {STRVAR_1 52, 0, 0} victoires!\r",
+        "Yo, Dresseurs, ramenez-vous à la\n",
+        "Tour de Combat et bougez-vous!\r",
+        "Restez vrais! Yé-hé!"
       ]
     },
     {
@@ -73,6 +92,25 @@
         "All right, gang, come on down to\n",
         "the Battle Tower and get down!\r",
         "Keep it real! Wa-hey!"
+      ],
+      "fr_FR": [
+        "DJ: Yé-hé!\r",
+        "C’est l’heure des Chroniques\n",
+        "de la Tour de Combat que regardent les\f",
+        "fans de combat dans le monde entier!\r",
+        "Aujourd’hui, nous nous intéressons à\n",
+        "{STRVAR_1 3, 1, 0}, qui a failli obtenir {STRVAR_1 52, 0, 0}\f",
+        "victoires d’affilée à la Tour de Combat!\r",
+        "Voyons ce que ce pauvre Dresseur avait\n",
+        "à nous dire à ce sujet.\r",
+        "Vas-y, {STRVAR_1 3, 1, 0}!\r",
+        "“{STRVAR_1 28, 2, 0}”!\r",
+        "Yé-hé! C’est trop triste!\r",
+        "Ce sont les dures réalités du combat,\n",
+        "et elles ne sont pas belles à voir!\r",
+        "Yo, Dresseurs, ramenez-vous à la\n",
+        "Tour de Combat et bougez-vous!\r",
+        "Restez vrais! Yé-hé!"
       ]
     },
     {
@@ -87,6 +125,18 @@
         "OK, viewers, keep showing us the\n",
         "Pokémon that are your pride and joy!\r",
         "Let’s meet again!"
+      ],
+      "fr_FR": [
+        "Animateur: Bonjour, ici Fan de Pokémon.\r",
+        "Aujourd’hui, nous nous intéressons à\n",
+        "{STRVAR_1 1, 2, 0}, un {STRVAR_1 0, 1, 0} dont\f",
+        "s’occupe {STRVAR_1 3, 0, 0}.\r",
+        "Pour {STRVAR_1 3, 0, 0}, {STRVAR_1 1, 2, 0} est\n",
+        "“{STRVAR_1 28, 3, 0}”!\r",
+        "OK, chers téléspectateurs, continuez à\n",
+        "nous faire connaître les Pokémon qui\f",
+        "font votre joie et votre fierté!\r",
+        "A très bientôt!"
       ]
     },
     {
@@ -101,6 +151,17 @@
         "OK, viewers, keep showing us the\n",
         "Pokémon that are your pride and joy!\r",
         "Let’s meet again!"
+      ],
+      "fr_FR": [
+        "Animateur: Bonjour, ici Fan de Pokémon.\r",
+        "Aujourd’hui, nous nous intéressons au\n",
+        "cher {STRVAR_1 0, 1, 0} de {STRVAR_1 3, 0, 0}.\r",
+        "Pour {STRVAR_1 3, 0, 0}, ce {STRVAR_1 0, 1, 0} est\n",
+        "“{STRVAR_1 28, 3, 0}”!\r",
+        "OK, chers téléspectateurs, continuez à\n",
+        "nous faire connaître les Pokémon qui\f",
+        "font votre joie et votre fierté!\r",
+        "A très bientôt!"
       ]
     },
     {
@@ -136,6 +197,24 @@
         "show off your coolness with the\f",
         "{STRVAR_1 24, 1, 0} app too?\r",
         "See you again next time..."
+      ],
+      "fr_FR": [
+        "Animateur: Désolé de vous avoir fait\n",
+        "attendre, c’est l’heure d’Experts\f",
+        "Pokémontre!\r",
+        "Aujourd’hui, nous nous intéressons\n",
+        "au logiciel Pokémontre\f",
+        "préféré de {STRVAR_1 3, 0, 0}.\r",
+        "{STRVAR_1 3, 0, 0} préfère le logiciel\n",
+        "{STRVAR_1 24, 1, 0}.\r",
+        "Quand on lui demande pourquoi, le\n",
+        "Dresseur répond: “{STRVAR_1 28, 2, 0}”.\r",
+        "Bien joué, {STRVAR_1 3, 0, 0}, ton choix est\n",
+        "cool et bien calculé.\r",
+        "Faites comme {STRVAR_1 3, 0, 0} et montrez\n",
+        "que vous êtes cool avec le logiciel\f",
+        "{STRVAR_1 24, 1, 0}, vous aussi!\r",
+        "A très bientôt, mes chéris..."
       ]
     },
     {
@@ -162,6 +241,30 @@
         "Thanks for your time!\r",
         "That’s it for my report from the\n",
         "Contest Hall!"
+      ],
+      "fr_FR": [
+        "Interviewer: Nous sommes en \n",
+        "direct de la Salle de Concours!\r",
+        "L’atmosphère est chargée de passion,\n",
+        "les Dresseurs ont beaucoup d’espoir\f",
+        "pour leurs très chers Pokémon!\r",
+        "Des participants se dirigent vers moi!\n",
+        "Ils viennent juste de finir un Concours!\r",
+        "Demandons-leur une interview!\r",
+        "Interviewer: Bonjour! Féli-Télé!\r",
+        "Ce {STRVAR_1 0, 0, 0} a participé à un\n",
+        "Concours?\r",
+        "Oh, vous avez fait un\n",
+        "{STRVAR_1 34, 1, 0}\f",
+        "{STRVAR_1 35, 2, 0}?\r",
+        "Et vous avez obtenu la place...?\n",
+        "... Nº {STRVAR_1 50, 3, 0}.\r",
+        "Que pensez-vous de ce résultat?\r",
+        "{STRVAR_1 3, 4, 0}: “{STRVAR_1 28, 5, 0}”.\r",
+        "Interviewer: Je vois! Merci d’avoir pris\n",
+        "le temps de nous répondre!\r",
+        "C’est tout pour notre reportage en\n",
+        "direct de la Salle de Concours!"
       ]
     },
     {
@@ -189,6 +292,29 @@
         "Thanks for your time!\r",
         "That’s it for my report from the\n",
         "Contest Hall!"
+      ],
+      "fr_FR": [
+        "Interviewer: Nous sommes en direct \n",
+        "de la Salle de Concours!\r",
+        "L’atmosphère est chargée de passion,\n",
+        "les Dresseurs ont beaucoup d’espoir\f",
+        "pour leurs très chers Pokémon!\r",
+        "Des participants se dirigent vers moi!\n",
+        "Ils viennent juste de finir un Concours!\r",
+        "Oh, waouh, voici le gagnant de ce\n",
+        "Concours!\r",
+        "Demandons-lui une interview!\r",
+        "Interviewer: Bonjour! Féli-Télé!\n",
+        "Félicitations pour votre victoire!\r",
+        "Ce {STRVAR_1 0, 0, 0} a gagné un Concours\n",
+        "{STRVAR_1 34, 1, 0}\f",
+        "{STRVAR_1 35, 2, 0}?\r",
+        "Que pensez-vous de ce résultat?\r",
+        "{STRVAR_1 3, 4, 0}: “{STRVAR_1 28, 5, 0}”.\r",
+        "Interviewer: Je vois! Merci d’avoir pris\n",
+        "le temps de nous répondre!\r",
+        "C’est tout pour notre reportage en\n",
+        "direct de la Salle de Concours!"
       ]
     },
     {
@@ -223,6 +349,33 @@
         "I’d like to cover it on this show.\r",
         "What do you say to that, folks?\r",
         "Audience: Right on!"
+      ],
+      "fr_FR": [
+        "Animateur: Merci de nous rejoindre pour\n",
+        "ce numéro de Bravo Photo!\r",
+        "Public: Bravo!\r",
+        "Animateur: Aujourd’hui, nous \n",
+        "admirons la photo du\f",
+        "{STRVAR_1 0, 1, 0} de {STRVAR_1 3, 0, 0}.\r",
+        "C’est d’accord pour tout le monde?\r",
+        "Public: Oui, bravo!\r",
+        "Animateur: Alors, la voici!\n",
+        "La photo de {STRVAR_1 3, 0, 0}!\r",
+        "Public: Bravo!\r",
+        "Animateur: Je suis bien d’accord!\n",
+        "C’est une photo de toute beauté!\r",
+        "Elle a capturé tout le charme du\n",
+        "{STRVAR_1 0, 1, 0}.\r",
+        "Public: Bravo!\r",
+        "Animateur: {STRVAR_1 3, 0, 0} nous a expliqué\n",
+        "les sentiments derrière cette photo.\r",
+        "Le Dresseur a déclaré:\n",
+        "“{STRVAR_1 28, 2, 0}”.\r",
+        "Public: Oooooh!\r",
+        "Animateur: Si quelqu’un affiche une\n",
+        "autre photo, j’irai couvrir l’histoire.\r",
+        "Que dites-vous de cela, les amis?\r",
+        "Public: Bravo!"
       ]
     },
     {
@@ -243,6 +396,24 @@
         "But they clam up if you get them\n",
         "alone with another person.\r",
         "Did this analysis sound good to you?"
+      ],
+      "fr_FR": [
+        "Présentateur: C’est l’heure de\n",
+        "Personnalités de Dresseurs!\r",
+        "Aujourd’hui, nous consacrons notre\n",
+        "émission à {STRVAR_1 3, 0, 0}.\r",
+        "Lors de l’interview, notre Dresseur a\n",
+        "dit préférer le type Normal.\r",
+        "Alors, quelle est la personnalité de\n",
+        "ceux qui aiment le type Normal?\r",
+        "Nos experts affirment qu’ils sont gais\n",
+        "mais en fait très timides.\r",
+        "Ils ont tendance à être turbulents et à\n",
+        "aimer s’amuser en groupe.\r",
+        "Mais ils se ferment comme des huîtres si\n",
+        "on les laisse seuls avec quelqu’un.\r",
+        "Est-ce que cette analyse vous semble\n",
+        "correcte?"
       ]
     },
     {
@@ -263,6 +434,24 @@
         "But if they are hurting, they will\n",
         "try to deal with it themselves.\r",
         "Did this analysis sound good to you?"
+      ],
+      "fr_FR": [
+        "Présentateur: C’est l’heure de\n",
+        "Personnalités de Dresseurs!\r",
+        "Aujourd’hui, nous consacrons notre\n",
+        "émission à {STRVAR_1 3, 0, 0}.\r",
+        "Lors de l’interview, notre Dresseur a\n",
+        "dit préférer le type Feu.\r",
+        "Alors, quelle est la personnalité de\n",
+        "ceux qui aiment le type Feu?\r",
+        "Nos experts affirment qu’ils ont\n",
+        "tendance à être très autonomes.\r",
+        "Si leurs amis sont déprimés, ils sont les\n",
+        "premiers à leur remonter le moral.\r",
+        "Mais s’ils souffrent, ils essaient de\n",
+        "résoudre le problème eux-mêmes.\r",
+        "Est-ce que cette analyse vous semble\n",
+        "correcte?"
       ]
     },
     {
@@ -283,6 +472,24 @@
         "They tend to stick loyally with\n",
         "whatever they like.\r",
         "Did this analysis sound good to you?"
+      ],
+      "fr_FR": [
+        "Présentateur: C’est l’heure de\n",
+        "Personnalités de Dresseurs!\r",
+        "Aujourd’hui, nous consacrons notre\n",
+        "émission à {STRVAR_1 3, 0, 0}.\r",
+        "Lors de l’interview, notre Dresseur a\n",
+        "dit préférer le type Eau.\r",
+        "Alors, quelle est la personnalité de\n",
+        "ceux qui aiment le type Eau?\r",
+        "Nos experts affirment qu’ils ont\n",
+        "tendance à avoir leurs propres valeurs.\r",
+        "Ils ne suivent pas facilement les modes\n",
+        "ou les tendances.\r",
+        "Ils sont extrêmement loyaux envers\n",
+        "ceux qu’ils apprécient.\r",
+        "Est-ce que cette analyse vous semble\n",
+        "correcte?"
       ]
     },
     {
@@ -305,6 +512,25 @@
         "hangers and what erasers they use.\r",
         "Did this analysis sound good\n",
         "to you?"
+      ],
+      "fr_FR": [
+        "Présentateur: C’est l’heure de\n",
+        "Personnalités de Dresseurs!\r",
+        "Aujourd’hui, nous consacrons notre\n",
+        "émission à {STRVAR_1 3, 0, 0}.\r",
+        "Lors de l’interview, notre Dresseur a\n",
+        "dit préférer le type Electrik.\r",
+        "Alors, quelle est la personnalité de\n",
+        "ceux qui aiment le type Electrik?\r",
+        "Nos experts affirment qu’ils sont très\n",
+        "au fait de la mode.\r",
+        "Ils ont peut-être l’air désinvolte mais\n",
+        "ce n’est qu’une apparence.\r",
+        "Ils ont tendance à être exigeants en\n",
+        "ce qui concerne vêtements, cintres et\f",
+        "même les gommes qu’ils utilisent.\r",
+        "Est-ce que cette analyse vous semble\n",
+        "correcte?"
       ]
     },
     {
@@ -325,6 +551,24 @@
         "However, they have trouble deciding\n",
         "when a job is done well enough.\r",
         "Did this analysis sound good to you?"
+      ],
+      "fr_FR": [
+        "Présentateur: C’est l’heure de\n",
+        "Personnalités de Dresseurs!\r",
+        "Aujourd’hui, nous consacrons notre\n",
+        "émission à {STRVAR_1 3, 0, 0}.\r",
+        "Lors de l’interview, notre Dresseur a\n",
+        "dit préférer le type Plante.\r",
+        "Alors, quelle est la personnalité de\n",
+        "ceux qui aiment le type Plante?\r",
+        "Nos experts affirment qu’ils ne suivent\n",
+        "que leur propre rythme.\r",
+        "Ils sont motivés et capables de\n",
+        "terminer des projets seuls.\r",
+        "Mais ils ont du mal à décider quand un\n",
+        "travail est suffisamment bien fait.\r",
+        "Est-ce que cette analyse vous semble\n",
+        "correcte?"
       ]
     },
     {
@@ -345,6 +589,24 @@
         "However, they may also become upset\n",
         "if their efforts go unnoticed.\r",
         "Did this analysis sound good to you?"
+      ],
+      "fr_FR": [
+        "Présentateur: C’est l’heure de\n",
+        "Personnalités de Dresseurs!\r",
+        "Aujourd’hui, nous consacrons notre\n",
+        "émission à {STRVAR_1 3, 0, 0}.\r",
+        "Lors de l’interview, notre Dresseur a\n",
+        "dit préférer le type Glace.\r",
+        "Alors, quelle est la personnalité de\n",
+        "ceux qui aiment le type Glace?\r",
+        "Nos experts affirment qu’ils ont le\n",
+        "cœur pur et de bonnes intentions.\r",
+        "Ils aident de manière désintéressée\n",
+        "leurs amis les plus proches.\r",
+        "Mais ils s’énervent vite si leurs efforts\n",
+        "ne sont pas remarqués.\r",
+        "Est-ce que cette analyse vous semble\n",
+        "correcte?"
       ]
     },
     {
@@ -365,6 +627,24 @@
         "They constantly try to reinvent\n",
         "themselves to chase their dreams.\r",
         "Did this analysis sound good to you?"
+      ],
+      "fr_FR": [
+        "Présentateur: C’est l’heure de\n",
+        "Personnalités de Dresseurs!\r",
+        "Aujourd’hui, nous consacrons notre\n",
+        "émission à {STRVAR_1 3, 0, 0}.\r",
+        "Lors de l’interview, notre Dresseur a\n",
+        "dit préférer le type Combat.\r",
+        "Alors, quelle est la personnalité de\n",
+        "ceux qui aiment le type Combat?\r",
+        "Nos experts affirment que ce sont de\n",
+        "grands romantiques.\r",
+        "Ils sont loyaux envers les idées et les\n",
+        "choses qui leur sont chères.\r",
+        "Ils se réinventent constamment pour\n",
+        "pouvoir poursuivre leurs rêves.\r",
+        "Est-ce que cette analyse vous semble\n",
+        "correcte?"
       ]
     },
     {
@@ -385,6 +665,24 @@
         "But they also know when to give\n",
         "people some space.\r",
         "Did this analysis sound good to you?"
+      ],
+      "fr_FR": [
+        "Présentateur: C’est l’heure de\n",
+        "Personnalités de Dresseurs!\r",
+        "Aujourd’hui, nous consacrons notre\n",
+        "émission à {STRVAR_1 3, 0, 0}.\r",
+        "Lors de l’interview, notre Dresseur a\n",
+        "dit préférer le type Poison.\r",
+        "Alors, quelle est la personnalité de\n",
+        "ceux qui aiment le type Poison?\r",
+        "Nos experts affirment qu’ils sont\n",
+        "sensibles et compatissants.\r",
+        "Ils savent comment réconforter les\n",
+        "gens qui dépriment.\r",
+        "Mais ils savent quand il vaut mieux\n",
+        "laisser les gens en paix.\r",
+        "Est-ce que cette analyse vous semble\n",
+        "correcte?"
       ]
     },
     {
@@ -406,6 +704,25 @@
         "Their rooms are easily identifiable\n",
         "by stacks of books, games, etc.\r",
         "Did this analysis sound good to you?"
+      ],
+      "fr_FR": [
+        "Présentateur: C’est l’heure de\n",
+        "Personnalités de Dresseurs!\r",
+        "Aujourd’hui, nous consacrons notre\n",
+        "émission à {STRVAR_1 3, 0, 0}.\r",
+        "Lors de l’interview, notre Dresseur a\n",
+        "dit préférer le type Sol.\r",
+        "Alors, quelle est la personnalité de\n",
+        "ceux qui aiment le type Sol?\r",
+        "Nos experts affirment qu’ils aiment les\n",
+        "choses amusantes.\r",
+        "Ils sont toujours ouverts aux choses\n",
+        "qui semblent intéressantes, même si ça\f",
+        "ne les attire pas personnellement.\r",
+        "Leur chambre est toujours pleine de\n",
+        "livres, de jeux, etc.\r",
+        "Est-ce que cette analyse vous semble\n",
+        "correcte?"
       ]
     },
     {
@@ -427,6 +744,26 @@
         "to make it appear as if the group came\f",
         "up with the solution.\r",
         "Did this analysis sound good to you?"
+      ],
+      "fr_FR": [
+        "Présentateur: C’est l’heure de\n",
+        "Personnalités de Dresseurs!\r",
+        "Aujourd’hui, nous consacrons notre\n",
+        "émission à {STRVAR_1 3, 0, 0}.\r",
+        "Lors de l’interview, notre Dresseur a\n",
+        "dit préférer le type Vol.\r",
+        "Alors, quelle est la personnalité de\n",
+        "ceux qui aiment le type Vol?\r",
+        "Nos experts affirment qu’ils sont\n",
+        "intelligents mais modestes.\r",
+        "Quand ils cherchent la solution à un\n",
+        "problème en groupe, ils la trouvent\f",
+        "toujours en premier.\r",
+        "Mais ils distilleront les idées qui\n",
+        "laisseront croire au groupe qu’ils\f",
+        "ont trouvé la solution ensemble.\r",
+        "Est-ce que cette analyse vous semble\n",
+        "correcte?"
       ]
     },
     {
@@ -447,6 +784,25 @@
         "They can thank their opponents with\n",
         "a smile regardless of the outcome.\r",
         "Did this analysis sound good to you?"
+      ],
+      "fr_FR": [
+        "Présentateur: C’est l’heure de\n",
+        "Personnalités de Dresseurs!\r",
+        "Aujourd’hui, nous consacrons notre\n",
+        "émission à {STRVAR_1 3, 0, 0}.\r",
+        "Lors de l’interview, notre Dresseur a\n",
+        "dit préférer le type Psy.\r",
+        "Alors, quelle est la personnalité de\n",
+        "ceux qui aiment le type Psy?\r",
+        "Nos experts affirment qu’ils sont très\n",
+        "optimistes et joyeux.\r",
+        "S’ils affrontent des amis, ils sont déjà\n",
+        "heureux rien que de combattre.\r",
+        "Ils arrivent à remercier leurs\n",
+        "adversaires avec le sourire, peu\f",
+        "importe le résultat.\r",
+        "Est-ce que cette analyse vous semble\n",
+        "correcte?"
       ]
     },
     {
@@ -467,6 +823,24 @@
         "They won’t think twice before taking\n",
         "hours to explain their hobbies.\r",
         "Did this analysis sound good to you?"
+      ],
+      "fr_FR": [
+        "Présentateur: C’est l’heure de\n",
+        "Personnalités de Dresseurs!\r",
+        "Aujourd’hui, nous consacrons notre\n",
+        "émission à {STRVAR_1 3, 0, 0}.\r",
+        "Lors de l’interview, notre Dresseur a\n",
+        "dit préférer le type Insecte.\r",
+        "Alors, quelle est la personnalité de\n",
+        "ceux qui aiment le type Insecte?\r",
+        "Nos experts affirment qu’ils sont\n",
+        "enthousiastes et joyeux.\r",
+        "S’ils aiment quelque chose, ils veulent\n",
+        "en faire profiter les autres.\r",
+        "Ça ne les dérange pas de parler pendant\n",
+        "des heures de leurs hobbies.\r",
+        "Est-ce que cette analyse vous semble\n",
+        "correcte?"
       ]
     },
     {
@@ -487,6 +861,24 @@
         "They can be counted on to provide\n",
         "sure support in tight situations.\r",
         "Did this analysis sound good to you?"
+      ],
+      "fr_FR": [
+        "Présentateur: C’est l’heure de\n",
+        "Personnalités de Dresseurs!\r",
+        "Aujourd’hui, nous consacrons notre\n",
+        "émission à {STRVAR_1 3, 0, 0}.\r",
+        "Lors de l’interview, notre Dresseur a\n",
+        "dit préférer le type Roche.\r",
+        "Alors, quelle est la personnalité de\n",
+        "ceux qui aiment le type Roche?\r",
+        "Nos experts affirment qu’ils sont\n",
+        "calmes et d’un grand soutien.\r",
+        "Ils restent calmes et optimistes même\n",
+        "quand les autres paniquent.\r",
+        "On peut compter sur leur soutien lors\n",
+        "de situations difficiles.\r",
+        "Est-ce que cette analyse vous semble\n",
+        "correcte?"
       ]
     },
     {
@@ -507,6 +899,24 @@
         "Instead, they’ll try to replicate the\n",
         "experience for their friends.\r",
         "Did this analysis sound good to you?"
+      ],
+      "fr_FR": [
+        "Présentateur: C’est l’heure de\n",
+        "Personnalités de Dresseurs!\r",
+        "Aujourd’hui, nous consacrons notre\n",
+        "émission à {STRVAR_1 3, 0, 0}.\r",
+        "Lors de l’interview, notre Dresseur a\n",
+        "dit préférer le type Spectre.\r",
+        "Alors, quelle est la personnalité de\n",
+        "ceux qui aiment le type Spectre?\r",
+        "Nos experts affirment qu’ils \n",
+        "aiment s’amuser.\r",
+        "Si une chose les rend heureux, ils\n",
+        "ne le diront pas forcément.\r",
+        "Mais ils essaieront de reproduire\n",
+        "l’expérience pour leurs amis.\r",
+        "Est-ce que cette analyse vous semble\n",
+        "correcte?"
       ]
     },
     {
@@ -527,6 +937,24 @@
         "...But they would rather leave the\n",
         "gifts at the friend’s door.\r",
         "Did this analysis sound good to you?"
+      ],
+      "fr_FR": [
+        "Présentateur: C’est l’heure de\n",
+        "Personnalités de Dresseurs!\r",
+        "Aujourd’hui, nous consacrons notre\n",
+        "émission à {STRVAR_1 3, 0, 0}.\r",
+        "Lors de l’interview, notre Dresseur a\n",
+        "dit préférer le type Dragon.\r",
+        "Alors, quelle est la personnalité de\n",
+        "ceux qui aiment le type Dragon?\r",
+        "Nos experts affirment qu’ils \n",
+        "sont assez timides.\r",
+        "Ils sont assez attentifs pour acheter\n",
+        "un cadeau d’anniversaire à leurs amis...\r",
+        "Mais ils préfèreront le laisser\n",
+        "devant leur porte.\r",
+        "Est-ce que cette analyse vous semble\n",
+        "correcte?"
       ]
     },
     {
@@ -547,6 +975,24 @@
         "They can be entertained by their\n",
         "favorite things over and over.\r",
         "Did this analysis sound good to you?"
+      ],
+      "fr_FR": [
+        "Présentateur: C’est l’heure de\n",
+        "Personnalités de Dresseurs!\r",
+        "Aujourd’hui, nous consacrons notre\n",
+        "émission à {STRVAR_1 3, 0, 0}.\r",
+        "Lors de l’interview, notre Dresseur a\n",
+        "dit préférer le type Ténèbres.\r",
+        "Alors, quelle est la personnalité de\n",
+        "ceux qui aiment le type Ténèbres?\r",
+        "Nos experts affirment qu’ils ont des\n",
+        "goûts très particuliers.\r",
+        "Ils ont des goûts précis en matière de\n",
+        "musique, littérature, cinéma, etc.\r",
+        "Ils peuvent s’amuser avec leurs objets\n",
+        "préférés durant des heures.\r",
+        "Est-ce que cette analyse vous semble\n",
+        "correcte?"
       ]
     },
     {
@@ -568,6 +1014,25 @@
         "The miraculous part is how they make\n",
         "one of their dreams come true.\r",
         "Did this analysis sound good to you?"
+      ],
+      "fr_FR": [
+        "Présentateur: C’est l’heure de\n",
+        "Personnalités de Dresseurs!\r",
+        "Aujourd’hui, nous consacrons notre\n",
+        "émission à {STRVAR_1 3, 0, 0}.\r",
+        "Lors de l’interview, notre Dresseur a\n",
+        "dit préférer le type Acier.\r",
+        "Alors, quelle est la personnalité de\n",
+        "ceux qui aiment le type Acier?\r",
+        "Nos experts affirment qu’ils sont du\n",
+        "genre à faire des miracles.\r",
+        "Ce sont des rêveurs qui vont se\n",
+        "coucher avec la tête pleine de\f",
+        "projets.\r",
+        "Le vrai miracle tient à la façon dont\n",
+        "ils parviennent parfois à les réaliser.\r",
+        "Est-ce que cette analyse vous semble\n",
+        "correcte?"
       ]
     },
     {
@@ -593,6 +1058,30 @@
         "{STRVAR_1 3, 0, 0} and get cooking!\r",
         "Back next time with more mouthwatering\n",
         "Poffins!"
+      ],
+      "fr_FR": [
+        "Animateur: Bienvenue à Hip Hip\n",
+        "Hip-Poffin! Comment allez-vous?\r",
+        "Notre invité aujourd’hui est le Poffin\n",
+        "Maniac.\r",
+        "Poffin Maniac: Comment allez-vous?\r",
+        "Animateur: Aujourd’hui, nous avons un\n",
+        "Poffin remué, pas secoué, fait par\f",
+        "{STRVAR_1 3, 0, 0}.\r",
+        "Poffin Maniac: Oh!\n",
+        "{STRVAR_1 9, 1, 0}, ouais!\r",
+        "Manger celui-ci serait comme avaler une\n",
+        "perle de Poffin!\r",
+        "Animateur: Après avoir vu le Poffin cuit,\n",
+        "{STRVAR_1 3, 0, 0} nous a déclaré:\f",
+        "“{STRVAR_1 28, 2, 0}”!\r",
+        "Poffin Maniac: Oh, j’adorerais manger\n",
+        "un de ces Poffins!\r",
+        "Animateur: Chers téléspectateurs,\n",
+        "prenez exemple sur {STRVAR_1 3, 0, 0} et\f",
+        "cuisinez des Poffins!\r",
+        "A très bientôt pour encore plus\n",
+        "d’appétissants Poffins!"
       ]
     },
     {
@@ -618,6 +1107,30 @@
         "{STRVAR_1 3, 0, 0} and get cooking!\r",
         "Back next time with more mouthwatering\n",
         "Poffins!"
+      ],
+      "fr_FR": [
+        "Animateur: Bienvenue à Hip Hip\n",
+        "Hip-Poffin! Comment allez-vous?\r",
+        "Notre invité aujourd’hui est le Poffin\n",
+        "Maniac.\r",
+        "Poffin Maniac: Comment allez-vous?\r",
+        "Animateur: Aujourd’hui, nous avons un\n",
+        "Poffin remué, pas secoué, fait par\f",
+        "{STRVAR_1 3, 0, 0}.\r",
+        "Poffin Maniac: Oh!\n",
+        "{STRVAR_1 9, 1, 0}, ouais!\r",
+        "Manger celui-ci serait comme avaler un\n",
+        "opéra de Poffins!\r",
+        "Animateur: Après avoir vu le Poffin cuit,\n",
+        "{STRVAR_1 3, 0, 0} nous a déclaré:\f",
+        "“{STRVAR_1 28, 2, 0}!”\r",
+        "Poffin Maniac: Oh, j’adorerais manger\n",
+        "un de ces Poffins!\r",
+        "Animateur: Chers téléspectateurs,\n",
+        "prenez exemple sur {STRVAR_1 3, 0, 0} et\f",
+        "cuisinez des Poffins!\r",
+        "A très bientôt pour encore plus\n",
+        "d’appétissants Poffins!"
       ]
     },
     {
@@ -643,6 +1156,30 @@
         "{STRVAR_1 3, 0, 0} and get cooking!\r",
         "Back next time with more mouthwatering\n",
         "Poffins!"
+      ],
+      "fr_FR": [
+        "Animateur: Bienvenue à Hip Hip\n",
+        "Hip-Poffin! Comment allez-vous?\r",
+        "Notre invité aujourd’hui est le Poffin\n",
+        "Maniac.\r",
+        "Poffin Maniac: Comment allez-vous?\r",
+        "Animateur: Aujourd’hui, nous avons un\n",
+        "Poffin remué, pas secoué, fait par\f",
+        "{STRVAR_1 3, 0, 0}.\r",
+        "Poffin Maniac: Oh!\n",
+        "{STRVAR_1 9, 1, 0}, ouais!\r",
+        "Manger celui-ci serait comme avaler un\n",
+        "Poffin trampoline!\r",
+        "Animateur: Après avoir vu le Poffin cuit,\n",
+        "{STRVAR_1 3, 0, 0} nous a déclaré:\f",
+        "“{STRVAR_1 28, 2, 0}”!\r",
+        "Poffin Maniac: Oh, j’adorerais manger\n",
+        "un de ces Poffins!\r",
+        "Animateur: Chers téléspectateurs,\n",
+        "prenez exemple sur {STRVAR_1 3, 0, 0} et\f",
+        "cuisinez des Poffins!\r",
+        "A très bientôt pour encore plus\n",
+        "d’appétissants Poffins!"
       ]
     },
     {
@@ -668,6 +1205,30 @@
         "{STRVAR_1 3, 0, 0} and get cooking!\r",
         "Back next time with more mouthwatering\n",
         "Poffins!"
+      ],
+      "fr_FR": [
+        "Animateur: Bienvenue à Hip Hip\n",
+        "Hip-Poffin! Comment allez-vous?\r",
+        "Notre invité aujourd’hui est le Poffin\n",
+        "Maniac.\r",
+        "Poffin Maniac: Comment allez-vous?\r",
+        "Animateur: Aujourd’hui, nous avons un\n",
+        "Poffin remué, pas secoué, fait par\f",
+        "{STRVAR_1 3, 0, 0}.\r",
+        "Poffin Maniac: Oh!\n",
+        "{STRVAR_1 9, 1, 0}, ouais!\r",
+        "Je ne trouve pas mes mots face à un\n",
+        "résultat tellement inattendu!\r",
+        "Animateur: Après avoir vu le Poffin cuit,\n",
+        "{STRVAR_1 3, 0, 0} nous a déclaré:\f",
+        "“{STRVAR_1 28, 2, 0}”!\r",
+        "Poffin Maniac: Oh, j’adorerais manger\n",
+        "un de ces Poffins!\r",
+        "Animateur: Chers téléspectateurs,\n",
+        "prenez exemple sur {STRVAR_1 3, 0, 0} et\f",
+        "cuisinez des Poffins!\r",
+        "A très bientôt pour encore plus\n",
+        "d’appétissants Poffins!"
       ]
     },
     {
@@ -693,6 +1254,30 @@
         "{STRVAR_1 3, 0, 0} and get cooking!\r",
         "Back next time with more mouthwatering\n",
         "Poffins!"
+      ],
+      "fr_FR": [
+        "Animateur: Bienvenue à Hip Hip\n",
+        "Hip-Poffin! Comment allez-vous?\r",
+        "Notre invité aujourd’hui est le Poffin\n",
+        "Maniac.\r",
+        "Poffin Maniac: Comment allez-vous?\r",
+        "Animateur: Aujourd’hui, nous avons un\n",
+        "Poffin remué, pas secoué, fait par\f",
+        "{STRVAR_1 3, 0, 0}.\r",
+        "Poffin Maniac: Oh!\n",
+        "{STRVAR_1 9, 1, 0}, ouais!\r",
+        "Manger celui-ci serait comme avoir une\n",
+        "connexion Wi-Fi Nintendo dans la bouche!\r",
+        "Animateur: Après avoir vu le Poffin cuit,\n",
+        "{STRVAR_1 3, 0, 0} nous a déclaré:\f",
+        "“{STRVAR_1 28, 2, 0}”!\r",
+        "Poffin Maniac: Oh, j’adorerais manger\n",
+        "un de ces Poffins!\r",
+        "Animateur: Chers téléspectateurs,\n",
+        "prenez exemple sur {STRVAR_1 3, 0, 0} et\f",
+        "cuisinez des Poffins!\r",
+        "A très bientôt pour encore plus\n",
+        "d’appétissants Poffins!"
       ]
     },
     {
@@ -724,6 +1309,31 @@
         "Bonding with Pokémon...\n",
         "It makes me feel warm all over.\r",
         "Until next time, adieu."
+      ],
+      "fr_FR": [
+        "Animateur: Bonjour tout le monde.\n",
+        "J’espère que vous allez bien.\r",
+        "Merci de me rejoindre pour ce numéro de\n",
+        "Square Paisible en Direct.\r",
+        "Aujourd’hui, nous allons suivre \n",
+        "{STRVAR_1 3, 0, 0} durant sa promenade.\r",
+        "Vous serez sûrement d’accord \n",
+        "avec moi pour dire que c’est\f",
+        "tout à fait charmant.\r",
+        "{STRVAR_1 3, 0, 0} a fait une promenade avec\n",
+        "son cher partenaire {STRVAR_1 0, 1, 0}.\r",
+        "Ils ont marché, marché, et encore\n",
+        "marché...\r",
+        "{STRVAR_1 0, 1, 0} a tellement apprécié qu’il\n",
+        "a cherché et trouvé des objets tels\f",
+        "que {STRVAR_1 31, 3, 0}.\r",
+        "{STRVAR_1 3, 0, 0} et {STRVAR_1 0, 1, 0} ont\n",
+        "passé un excellent moment ensemble.\r",
+        "Le Dresseur a décrit leurs sentiments\n",
+        "communs comme “{STRVAR_1 28, 5, 0}”.\r",
+        "Créer un lien avec les Pokémon...\n",
+        "Ça vous fait chaud au cœur.\r",
+        "A très bientôt, j’espère!"
       ]
     },
     {
@@ -748,6 +1358,28 @@
         "Bonding with Pokémon...\n",
         "It makes me feel warm all over.\r",
         "Until next time, adieu."
+      ],
+      "fr_FR": [
+        "Animateur: Bonjour tout le monde.\n",
+        "J’espère que vous allez bien.\r",
+        "Merci de me rejoindre pour ce numéro de\n",
+        "Square Paisible en Direct.\r",
+        "Aujourd’hui, nous allons suivre \n",
+        "{STRVAR_1 3, 0, 0} durant sa promenade.\r",
+        "Vous serez sûrement d’accord \n",
+        "avec moi pour dire que c’est\f",
+        "tout à fait charmant.\r",
+        "{STRVAR_1 3, 0, 0} a fait une promenade avec\n",
+        "son cher partenaire {STRVAR_1 0, 1, 0}.\r",
+        "Ils ont marché, marché, et encore\n",
+        "marché...\r",
+        "{STRVAR_1 3, 0, 0} et {STRVAR_1 0, 1, 0} ont\n",
+        "passé un excellent moment ensemble.\r",
+        "Le Dresseur a décrit leurs sentiments\n",
+        "communs comme “{STRVAR_1 28, 5, 0}”.\r",
+        "Créer un lien avec les Pokémon...\n",
+        "Ça vous fait chaud au cœur.\r",
+        "A très bientôt, j’espère!"
       ]
     },
     {
@@ -775,6 +1407,31 @@
         "Bonding with Pokémon...\n",
         "It makes me feel warm all over.\r",
         "Until next time, adieu."
+      ],
+      "fr_FR": [
+        "Animateur: Bonjour tout le monde.\n",
+        "J’espère que vous allez bien.\r",
+        "Merci de me rejoindre pour ce numéro de\n",
+        "Square Paisible en Direct.\r",
+        "Aujourd’hui, nous allons suivre \n",
+        "{STRVAR_1 3, 0, 0} durant sa promenade.\r",
+        "Vous serez sûrement d’accord \n",
+        "avec moi pour dire que c’est\f",
+        "tout à fait charmant.\r",
+        "{STRVAR_1 3, 0, 0} a fait une promenade avec\n",
+        "son cher partenaire {STRVAR_1 0, 1, 0}.\r",
+        "Ils ont marché, marché, et encore\n",
+        "marché...\r",
+        "{STRVAR_1 0, 1, 0} a tellement apprécié qu’il\n",
+        "a cherché et trouvé des objets tels\f",
+        "que la {STRVAR_1 8, 3, 0}.\r",
+        "{STRVAR_1 3, 0, 0} et {STRVAR_1 0, 1, 0} ont\n",
+        "passé un excellent moment ensemble.\r",
+        "Le Dresseur a décrit leurs sentiments\n",
+        "communs comme “{STRVAR_1 28, 5, 0}”.\r",
+        "Créer un lien avec les Pokémon...\n",
+        "Ça vous fait chaud au cœur.\r",
+        "A très bientôt, j’espère!"
       ]
     },
     {
@@ -799,6 +1456,31 @@
         "I hope {STRVAR_1 1, 2, 0} will keep winning\n",
         "with {STRVAR_1 28, 3, 0} power!\r",
         "That’s all for now!"
+      ],
+      "fr_FR": [
+        "Interviewer: Bienvenue dans cette\n",
+        "édition des Echos de la Zone de Combat!\r",
+        "Notre rendez-vous du jour est\n",
+        "consacré à la Scène de Combat.\r",
+        "Je suis en compagnie d’un Dresseur de\n",
+        "grand talent qui a remporté ici\f",
+        "pas moins de 50 victoires d’affilée!\r",
+        "Ce Dresseur s’appelle {STRVAR_1 3, 0, 0}! Il\n",
+        "participait avec son {STRVAR_1 0, 1, 0}\f",
+        "{STRVAR_1 1, 2, 0}!\r",
+        "Félicitations, {STRVAR_1 3, 0, 0}. Vous\n",
+        "avez l’air satisfait!\r",
+        "A votre avis, comment se sent votre\n",
+        "{STRVAR_1 1, 2, 0} après ces victoires?\r",
+        "{STRVAR_1 3, 0, 0}: {STRVAR_1 28, 3, 0}.\r",
+        "Interviewer: Oh! Je vois!\n",
+        "Une réponse très inspirée!\f",
+        "Merci de nous avoir accordé du temps.\r",
+        "J’espère que {STRVAR_1 1, 2, 0} continuera\n",
+        "sur sa lancée et saura rester\f",
+        "{STRVAR_1 28, 3, 0}!\r",
+        "Et c’est déjà la fin de cette édition!\n",
+        "A bientôt!"
       ]
     },
     {
@@ -814,6 +1496,19 @@
         "{STRVAR_1 3, 0, 0}: {STRVAR_1 28, 1, 0} Gym.\r",
         "Reporter: Well, how about that!\n",
         "See you again on our next broadcast!"
+      ],
+      "fr_FR": [
+        "Interviewer: C’est parti pour une\n",
+        "nouvelle interview Face à Face!\r",
+        "Aujourd’hui, nous nous trouvons en\n",
+        "face à face avec {STRVAR_1 3, 0, 0}.\r",
+        "{STRVAR_1 3, 0, 0}, si vous étiez\n",
+        "Champion d’Arène...\r",
+        "Comment appelleriez-vous votre\n",
+        "Arène?\r",
+        "{STRVAR_1 3, 0, 0}: L’Arène {STRVAR_1 28, 1, 0}.\r",
+        "Interviewer: Fascinant! Merci et à\n",
+        "bientôt pour une nouvelle interview!"
       ]
     },
     {
@@ -829,6 +1524,18 @@
         "{STRVAR_1 3, 0, 0}: {STRVAR_1 28, 1, 0}.\r",
         "Reporter: Well, how about that!\n",
         "See you again on our next broadcast!"
+      ],
+      "fr_FR": [
+        "Interviewer: C’est parti pour une\n",
+        "nouvelle interview Face à Face!\r",
+        "Aujourd’hui, nous nous trouvons en\n",
+        "face à face avec {STRVAR_1 3, 0, 0}.\r",
+        "{STRVAR_1 3, 0, 0}, si votre mère était\n",
+        "un Pokémon...\r",
+        "A votre avis, lequel serait-elle?\r",
+        "{STRVAR_1 3, 0, 0}: {STRVAR_1 28, 1, 0}.\r",
+        "Interviewer: Fascinant! Merci et à\n",
+        "bientôt pour une nouvelle interview!"
       ]
     },
     {
@@ -843,6 +1550,17 @@
         "{STRVAR_1 3, 0, 0}: {STRVAR_1 28, 1, 0}.\r",
         "Reporter: Well, how about that!\n",
         "See you again on our next broadcast!"
+      ],
+      "fr_FR": [
+        "Interviewer: C’est parti pour une\n",
+        "nouvelle interview Face à Face!\r",
+        "Aujourd’hui, nous nous trouvons en\n",
+        "face à face avec {STRVAR_1 3, 0, 0}.\r",
+        "{STRVAR_1 3, 0, 0}, quelle est la chose\n",
+        "la plus importante dans votre vie?\r",
+        "{STRVAR_1 3, 0, 0}: {STRVAR_1 28, 1, 0}.\r",
+        "Interviewer: Fascinant! Merci et à\n",
+        "bientôt pour une nouvelle interview!"
       ]
     },
     {
@@ -859,6 +1577,20 @@
         "{STRVAR_1 3, 0, 0}: {STRVAR_1 28, 1, 0}.\r",
         "Reporter: Well, how about that!\n",
         "See you again on our next broadcast!"
+      ],
+      "fr_FR": [
+        "Interviewer: C’est parti pour une\n",
+        "nouvelle interview Face à Face!\r",
+        "Aujourd’hui, nous nous trouvons en\n",
+        "face à face avec {STRVAR_1 3, 0, 0}.\r",
+        "{STRVAR_1 3, 0, 0}, imaginez que vous\n",
+        "êtes en retard à un rendez-vous.\r",
+        "Vous courez, vous courez et soudain...\n",
+        "boum! Vous tombez sur quelqu’un.\f",
+        "De quel genre de personne s’agit-il?\r",
+        "{STRVAR_1 3, 0, 0}: {STRVAR_1 28, 1, 0}.\r",
+        "Interviewer: Fascinant! Merci et à\n",
+        "bientôt pour une nouvelle interview!"
       ]
     },
     {
@@ -883,6 +1615,29 @@
         "a deeply trusted friend.\r",
         "Thank you so much!\n",
         "That’s all for now!"
+      ],
+      "fr_FR": [
+        "Interviewer: Bienvenue dans cette\n",
+        "édition des Echos de la Zone de Combat!\r",
+        "Notre rendez-vous du jour est\n",
+        "consacré à la Tour de Combat.\r",
+        "Nous sommes venus regarder deux amis\n",
+        "qui ont choisi de relever ensemble\f",
+        "ce défi de la Tour de Combat.\r",
+        "Oh! Ils viennent de terminer.\r",
+        "{STRVAR_1 3, 0, 0} et {STRVAR_1 3, 1, 0} viennent\n",
+        "tout juste de se dire au revoir.\r",
+        "Alors, {STRVAR_1 3, 0, 0}! On dirait que\n",
+        "{STRVAR_1 3, 1, 0} et vous formez une bonne\f",
+        "équipe.\r",
+        "Dites-nous un peu, quel genre de\n",
+        "Dresseur est donc {STRVAR_1 3, 1, 0}?\r",
+        "{STRVAR_1 3, 0, 0}: {STRVAR_1 28, 2, 0}.\r",
+        "Interviewer: Oh! Je vois!\n",
+        "Vous devez bien vous connaître!\f",
+        "Merci de nous avoir accordé du temps.\r",
+        "Et c’est déjà la fin de cette édition!\n",
+        "A bientôt!"
       ]
     },
     {
@@ -907,6 +1662,29 @@
         "a deeply trusted friend.\r",
         "Thank you so much!\n",
         "That’s all for now!"
+      ],
+      "fr_FR": [
+        "Interviewer: Bienvenue dans cette\n",
+        "édition des Echos de la Zone de Combat!\r",
+        "Notre rendez-vous du jour est\n",
+        "consacré au Castel de Combat.\r",
+        "Nous sommes venus regarder deux amis\n",
+        "qui ont choisi de relever ensemble\f",
+        "ce défi du Castel de Combat.\r",
+        "Oh! Ils viennent de terminer.\r",
+        "{STRVAR_1 3, 0, 0} et {STRVAR_1 3, 1, 0} viennent\n",
+        "tout juste de se dire au revoir.\r",
+        "Alors, {STRVAR_1 3, 0, 0}! On dirait que\n",
+        "{STRVAR_1 3, 1, 0} et vous formez une bonne\f",
+        "équipe.\r",
+        "Dites-nous un peu, quel genre de\n",
+        "Dresseur est donc {STRVAR_1 3, 1, 0}?\r",
+        "{STRVAR_1 3, 0, 0}: {STRVAR_1 28, 2, 0}.\r",
+        "Interviewer: Oh! Je vois!\n",
+        "Vous devez bien vous connaître!\f",
+        "Merci de nous avoir accordé du temps.\r",
+        "Et c’est déjà la fin de cette édition!\n",
+        "A bientôt!"
       ]
     },
     {
@@ -931,6 +1709,29 @@
         "a deeply trusted friend.\r",
         "Thank you so much!\n",
         "That’s all for now!"
+      ],
+      "fr_FR": [
+        "Interviewer: Bienvenue dans cette\n",
+        "édition des Echos de la Zone de Combat!\r",
+        "Notre rendez-vous du jour est\n",
+        "consacré à la Scène de Combat.\r",
+        "Nous sommes venus regarder deux amis\n",
+        "qui ont choisi de relever ensemble\f",
+        "ce défi de la Scène de Combat.\r",
+        "Oh! Ils viennent de terminer.\r",
+        "{STRVAR_1 3, 0, 0} et {STRVAR_1 3, 1, 0} viennent\n",
+        "tout juste de se dire au revoir.\r",
+        "Alors, {STRVAR_1 3, 0, 0}! On dirait que\n",
+        "{STRVAR_1 3, 1, 0} et vous formez une bonne\f",
+        "équipe.\r",
+        "Dites-nous un peu, quel genre de\n",
+        "Dresseur est donc {STRVAR_1 3, 1, 0}?\r",
+        "{STRVAR_1 3, 0, 0}: {STRVAR_1 28, 2, 0}.\r",
+        "Interviewer: Oh! Je vois!\n",
+        "Vous devez bien vous connaître!\f",
+        "Merci de nous avoir accordé du temps.\r",
+        "Et c’est déjà la fin de cette édition!\n",
+        "A bientôt!"
       ]
     },
     {
@@ -955,6 +1756,29 @@
         "a deeply trusted friend.\r",
         "Thank you so much!\n",
         "That’s all for now!"
+      ],
+      "fr_FR": [
+        "Interviewer: Bienvenue dans cette\n",
+        "édition des Echos de la Zone de Combat!\r",
+        "Notre rendez-vous du jour est\n",
+        "consacré à l’Usine de Combat.\r",
+        "Nous sommes venus regarder deux amis\n",
+        "qui ont choisi de relever ensemble\f",
+        "ce défi de l’Usine de Combat.\r",
+        "Oh! Ils viennent de terminer.\r",
+        "{STRVAR_1 3, 0, 0} et {STRVAR_1 3, 1, 0} viennent\n",
+        "tout juste de se dire au revoir.\r",
+        "Alors, {STRVAR_1 3, 0, 0}! On dirait que\n",
+        "{STRVAR_1 3, 1, 0} et vous formez une bonne\f",
+        "équipe.\r",
+        "Dites-nous un peu, quel genre de\n",
+        "Dresseur est donc {STRVAR_1 3, 1, 0}?\r",
+        "{STRVAR_1 3, 0, 0}: {STRVAR_1 28, 2, 0}.\r",
+        "Interviewer: Oh! Je vois!\n",
+        "Vous devez bien vous connaître!\f",
+        "Merci de nous avoir accordé du temps.\r",
+        "Et c’est déjà la fin de cette édition!\n",
+        "A bientôt!"
       ]
     },
     {
@@ -979,6 +1803,29 @@
         "a deeply trusted friend.\r",
         "Thank you so much!\n",
         "That’s all for now!"
+      ],
+      "fr_FR": [
+        "Interviewer: Bienvenue dans cette\n",
+        "édition des Echos de la Zone de Combat!\r",
+        "Notre rendez-vous du jour est\n",
+        "consacré à l’Arcade de Combat.\r",
+        "Nous sommes venus regarder deux amis\n",
+        "qui ont choisi de relever ensemble\f",
+        "ce défi de l’Arcade de Combat.\r",
+        "Oh! Ils viennent de terminer.\r",
+        "{STRVAR_1 3, 0, 0} et {STRVAR_1 3, 1, 0} viennent\n",
+        "tout juste de se dire au revoir.\r",
+        "Alors, {STRVAR_1 3, 0, 0}! On dirait que\n",
+        "{STRVAR_1 3, 1, 0} et vous formez une bonne\f",
+        "équipe.\r",
+        "Dites-nous un peu, quel genre de\n",
+        "Dresseur est donc {STRVAR_1 3, 1, 0}?\r",
+        "{STRVAR_1 3, 0, 0}: {STRVAR_1 28, 2, 0}.\r",
+        "Interviewer: Oh! Je vois!\n",
+        "Vous devez bien vous connaître!\f",
+        "Merci de nous avoir accordé du temps.\r",
+        "Et c’est déjà la fin de cette édition!\n",
+        "A bientôt!"
       ]
     }
   ]

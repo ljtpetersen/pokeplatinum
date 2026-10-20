@@ -21,6 +21,25 @@
         "it would be the {STRVAR_1 15, 2, 0} type?\r",
         "Please look forward to the next\n",
         "show!"
+      ],
+      "fr_FR": [
+        "Interviewer: Bonjour! Il est l’heure\n",
+        "d’A la découverte des Groupes.\r",
+        "Aujourd’hui, nous nous intéressons au\n",
+        "Dresseur {STRVAR_1 3, 0, 0}.\r",
+        "Ce Dresseur est membre du Groupe\n",
+        "{STRVAR_1 5, 1, 0}.\r",
+        "Oh, ce doit être {STRVAR_1 3, 0, 0}, là-bas.\r",
+        "Ce Dresseur a l’air d’apprécier d’être\n",
+        "membre de ce groupe.\r",
+        "C’est presque comme si ce groupe était\n",
+        "devenu sa seconde famille!\r",
+        "De quel type de groupe s’agit-il?\r",
+        "Euh, cela n’engage que moi, mais\n",
+        "il me semble que c’est un groupe\f",
+        "de type {STRVAR_1 15, 2, 0}...\r",
+        "Nous espérons que vous regarderez\n",
+        "notre prochaine émission!"
       ]
     },
     {
@@ -36,6 +55,18 @@
         "the sun here!\r",
         "That’s the weather brought to you\n",
         "by Helena!"
+      ],
+      "fr_FR": [
+        "Domi: Ici Domi qui vous présente la\n",
+        "météo en direct sur le terrain!\r",
+        "Un ciel sans nuage couronne\n",
+        "{STRVAR_1 4, 0, 0}!\r",
+        "Je devrais profiter de cette occasion\n",
+        "pour faire une lessive!\r",
+        "Ce sera bien de faire sécher mon linge\n",
+        "au soleil!\r",
+        "C’était votre bulletin météo présenté\n",
+        "par Domi!"
       ]
     },
     {
@@ -50,6 +81,18 @@
         "you’d dry off quickly today!\r",
         "That’s the weather brought to you\n",
         "by Helena!"
+      ],
+      "fr_FR": [
+        "Domi: Ici Domi qui vous présente la\n",
+        "météo en direct sur le terrain!\r",
+        "Un ciel clair surplombe\n",
+        "{STRVAR_1 4, 0, 0}!\r",
+        "C’est un jour idéal pour faire une\n",
+        "balade à vélo!\r",
+        "Si vous tombiez dans un ruisseau, \n",
+        "vous sécheriez en moins de deux!\r",
+        "C’était votre bulletin météo \n",
+        "présenté par Domi!"
       ]
     },
     {
@@ -67,6 +110,20 @@
         "whistling performance?\r",
         "That’s the weather brought to you\n",
         "by Helena!"
+      ],
+      "fr_FR": [
+        "Domi: Ici Domi qui vous présente la\n",
+        "météo en direct sur le terrain!\r",
+        "Il n’y a que du ciel bleu sur\n",
+        "{STRVAR_1 4, 0, 0}!\r",
+        "Ce serait dommage de rester enfermé\n",
+        "par un temps pareil!\r",
+        "Pourquoi ne pas sortir vous prélasser\n",
+        "au soleil?\r",
+        "Pourquoi ne pas tenter un concert solo\n",
+        "de sifflements?\r",
+        "C’était votre bulletin météo présenté\n",
+        "par Domi!"
       ]
     },
     {
@@ -82,6 +139,17 @@
         "the smiling sun!\r",
         "That’s the weather brought to you\n",
         "by Helena!"
+      ],
+      "fr_FR": [
+        "Domi: Ici Domi qui vous présente la\n",
+        "météo en direct sur le terrain!\r",
+        "Ah, {STRVAR_1 4, 0, 0}... Il n’y a pas un\n",
+        "nuage dans le ciel!\r",
+        "C’est le jour idéal pour se faire\n",
+        "photographier.\r",
+        "La lumière du soleil embellit les gens!\r",
+        "C’était votre bulletin météo présenté\n",
+        "par Domi!"
       ]
     },
     {
@@ -97,6 +165,18 @@
         "sunburned!\r",
         "That’s the weather brought to you\n",
         "by Helena!"
+      ],
+      "fr_FR": [
+        "Domi: Ici Domi qui vous présente la\n",
+        "météo en direct sur le terrain!\r",
+        "Un ciel morose et gris recouvre\n",
+        "{STRVAR_1 4, 0, 0}.\r",
+        "Mais attention! Ne vous laissez pas\n",
+        "avoir par l’absence de soleil!\r",
+        "C’est par ce genre de temps qu’on \n",
+        "attrape des coups de soleil!\r",
+        "C’était votre bulletin météo présenté\n",
+        "par Domi!"
       ]
     },
     {
@@ -114,6 +194,19 @@
         "running to avoid the downpour.\r",
         "That’s the weather brought to you\n",
         "by Helena!"
+      ],
+      "fr_FR": [
+        "Domi: Ici Domi qui vous présente la\n",
+        "météo en direct sur le terrain!\r",
+        "La pluie tombe sur {STRVAR_1 4, 0, 0}.\r",
+        "Par un temps pareil, autant rester à la\n",
+        "maison à écouter de la musique.\r",
+        "Ou à boire un thé en regardant par la\n",
+        "fenêtre la pluie arroser les plantes.\r",
+        "Et peut-être même ricaner en regardant\n",
+        "les gens essayer d’éviter l’averse.\r",
+        "C’était votre bulletin météo présenté\n",
+        "par Domi!"
       ]
     },
     {
@@ -129,6 +222,18 @@
         "Think of the dramatic possibilities!\r",
         "That’s the weather brought to you\n",
         "by Helena!"
+      ],
+      "fr_FR": [
+        "Domi: Ici Domi qui vous présente la\n",
+        "météo en direct sur le terrain!\r",
+        "Une pluie incessante continue de tomber\n",
+        "sur {STRVAR_1 4, 0, 0}!\r",
+        "Profitez-en pour crier vers le ciel le\n",
+        "nom de celui ou celle que vous aimez!\r",
+        "Laissez tomber votre parapluie!\n",
+        "Pensez à toutes les possibilités!\r",
+        "C’était votre bulletin météo présenté\n",
+        "par Domi!"
       ]
     },
     {
@@ -146,6 +251,21 @@
         "to curl up with my CLEFAIRY.\r",
         "That’s the weather brought to you\n",
         "by Helena!"
+      ],
+      "fr_FR": [
+        "Domi: Ici Domi qui vous présente la\n",
+        "météo en direct sur le terrain!\r",
+        "Il fait froid!\n",
+        "La neige tombe sur {STRVAR_1 4, 0, 0}!\r",
+        "J’aurais voulu faire l’enfant et\n",
+        "batifoler dans la neige pour\f",
+        "faire fondre mes téléspectateurs...\r",
+        "Mais il fait décidément \n",
+        "trop froid.\r",
+        "Je rentre à la maison auprès de mon\n",
+        "MELOFEE juste après l’émission!\r",
+        "C’était votre bulletin météo présenté\n",
+        "par Domi!"
       ]
     },
     {
@@ -162,6 +282,19 @@
         "don’t fall asleep!\r",
         "That’s the weather brought to you\n",
         "by Helena!"
+      ],
+      "fr_FR": [
+        "Domi: Ici Domi qui vous présente la\n",
+        "météo en direct sur le terrain!\r",
+        "Le blizzard recouvre\n",
+        "{STRVAR_1 4, 0, 0}!\r",
+        "Certains d’entre vous braveront\n",
+        "peut-être les conditions extrêmes dans\f",
+        "l’espoir de trouver un Pokémon rare.\r",
+        "Alors couvrez-vous bien et essayez\n",
+        "de ne pas vous endormir!\r",
+        "C’était votre bulletin météo présenté\n",
+        "par Domi!"
       ]
     },
     {
@@ -183,6 +316,23 @@
         "...May I please go inside now?\r",
         "That’s the weather brought to you\n",
         "by Helena!"
+      ],
+      "fr_FR": [
+        "Domi: Ici Domi qui vous présente la\n",
+        "météo en direct sur le terrain!\r",
+        "C-Comme v-vous p-pouvez le v-voir...\r",
+        "Un violent blizzard assiège\n",
+        "{STRVAR_1 4, 0, 0}!\r",
+        "Mes cheveux, mes cils et même mes\n",
+        "sourcils sont recouverts de glace!\r",
+        "Je suis heureuse d’avoir eu l’idée\n",
+        "d’acheter un nouveau manteau!\r",
+        "Mais malgré ces conditions effroyables,\n",
+        "on trouve toujours des Dresseurs!\r",
+        "C’est insensé, et cependant, je ne peux\n",
+        "m’empêcher d’éprouver du respect.\r",
+        "C’était votre bulletin météo présenté\n",
+        "par Domi!"
       ]
     },
     {
@@ -200,6 +350,19 @@
         "Let’s finish this now!\r",
         "That’s the weather brought to you\n",
         "by Helena!"
+      ],
+      "fr_FR": [
+        "Domi: Ici Domi qui vous présente la\n",
+        "météo en direct sur le terrain!\r",
+        "Ahhhhhhh! Des éclairs s’abattent\n",
+        "sur {STRVAR_1 4, 0, 0}!\r",
+        "Il y a une tempête!\r",
+        "C’est...\n",
+        "Ahhhhhhh!\r",
+        "La caméra fait office de paratonnerre!\n",
+        "Finissons-en!\r",
+        "C’était votre bulletin météo présenté\n",
+        "par Domi!"
       ]
     },
     {
@@ -221,6 +384,25 @@
         "to propose to your girl!\r",
         "That’s the weather brought to you\n",
         "by Helena!"
+      ],
+      "fr_FR": [
+        "Domi: Ici Domi qui vous présente la\n",
+        "météo en direct sur le terrain!\r",
+        "Aujourd’hui, nous vous montrons une\n",
+        "chose que l’on voit rarement.\r",
+        "De la poussière de diamant est visible\n",
+        "dans le ciel à {STRVAR_1 4, 0, 0}!\r",
+        "Ce nuage brillant de glace est\n",
+        "incroyablement beau!\r",
+        "Les couples devraient sortir\n",
+        "profiter de cette expérience\f",
+        "magique et romantique!\r",
+        "Une fille peut se sentir comme \n",
+        "une princesse par un jour pareil.\r",
+        "Les garçons, c’est le jour idéal pour\n",
+        "demander votre copine en mariage!\r",
+        "C’était votre bulletin météo présenté\n",
+        "par Domi!"
       ]
     },
     {
@@ -250,6 +432,34 @@
         "Drop into Twinleaf Town and scope out\n",
         "what makes it special!\r",
         "See you around, folks!"
+      ],
+      "fr_FR": [
+        "Animateur: C’est parti pour\n",
+        "1-2-3 Conseils!\r",
+        "L’émission du jour est consacrée\n",
+        "aux immanquables de Bonaugure.\r",
+        "En numéro 3, nous vous conseillons...\n",
+        "de discuter avec l’homme impressionné\f",
+        "par la technologie!\r",
+        "En numéro 2, nous recommandons...\n",
+        "Euh... Une seconde!\r",
+        "C’est un match nul! Deux bâtiments\n",
+        "se partagent la première place!\r",
+        "De quoi s’agit-il?\n",
+        "Voici la réponse!\r",
+        "Mon premier... est une résidence\n",
+        "coquette et familiale...\r",
+        "C’est là qu’habite {STRVAR_1 3, 0, 0}!\r",
+        "Et tout aussi intéressante à voir,\n",
+        "nous vous conseillons...\r",
+        "une autre résidence familiale!\r",
+        "Celle où habite {STRVAR_1 3, 1, 0}!\n",
+        "Qui n’aimerait pas vivre ici?\r",
+        "Alors! Qu’avez-vous pensé de notre\n",
+        "classement?\r",
+        "Venez visiter Bonaugure et établissez\n",
+        "le vôtre!\r",
+        "A la prochaine fois!"
       ]
     },
     {
@@ -275,6 +485,30 @@
         "Slide into Sandgem Town and check out\n",
         "what makes it unique!\r",
         "See you around, folks!"
+      ],
+      "fr_FR": [
+        "Animateur: C’est parti pour\n",
+        "1-2-3 Conseils!\r",
+        "L’émission du jour est consacrée\n",
+        "aux immanquables de Littorella.\r",
+        "En numéro 3, nous vous conseillons...\n",
+        "de visiter la maison où habite\f",
+        "{STRVAR_1 3, 1, 0}!\r",
+        "En numéro 2, nous recommandons...\n",
+        "le Labo Pokémon! Incontournable!\r",
+        "Et quel bâtiment occupe donc la\n",
+        "première place? Voici la réponse!\r",
+        "Il s’agit... du Centre Pokémon local!\r",
+        "Mais il y a une bonne raison pour\n",
+        "qu’il occupe cette place...\r",
+        "Il s’agit simplement du seul Centre\n",
+        "Pokémon du coin! Pour une raison,\f",
+        "c’est une excellente raison!\r",
+        "Alors! Qu’avez-vous pensé de notre\n",
+        "classement?\r",
+        "Venez visiter Littorella et établissez\n",
+        "le vôtre!\r",
+        "A la prochaine fois!"
       ]
     },
     {
@@ -298,6 +532,26 @@
         "Make a visit to Floaroma Town and\n",
         "experience its charms!\r",
         "See you around, folks!"
+      ],
+      "fr_FR": [
+        "Animateur: C’est parti pour\n",
+        "1-2-3 Conseils!\r",
+        "L’émission du jour est consacrée\n",
+        "aux immanquables de Floraville.\r",
+        "En numéro 3, nous vous conseillons...\n",
+        "l’entrée de la ville! Un passage obligé!\r",
+        "En numéro 2, nous recommandons...\n",
+        "le Fleuriste Un Bouquet de Couleurs!\r",
+        "Et quel endroit occupe donc la\n",
+        "première place? Voici la réponse!\r",
+        "Il s’agit... du Pré Floraville!\r",
+        "Une véritable oasis florale sans\n",
+        "équivalent dans tout Sinnoh!\r",
+        "Alors! Qu’avez-vous pensé de notre\n",
+        "classement?\r",
+        "Venez visiter Floraville et établissez\n",
+        "le vôtre!\r",
+        "A la prochaine fois!"
       ]
     },
     {
@@ -321,6 +575,28 @@
         "Come on down to Solaceon Town and\n",
         "see what it has to offer!\r",
         "See you around, folks!"
+      ],
+      "fr_FR": [
+        "Animateur: C’est parti pour\n",
+        "1-2-3 Conseils!\r",
+        "L’émission du jour est consacrée\n",
+        "aux immanquables de Bonville.\r",
+        "En numéro 3, nous vous conseillons...\n",
+        "la Dépêche Pokémon! Le rendez-vous de\f",
+        "tous les apprentis journalistes.\r",
+        "En numéro 2, nous recommandons...\n",
+        "les Ruines Bonville! Quels mystères\f",
+        "renferment-elles?\r",
+        "Et quel endroit occupe donc la\n",
+        "première place? Voici la réponse!\r",
+        "Il s’agit... de la Pension Pokémon!\r",
+        "Là où les Oeufs apparaissent lorsqu’on\n",
+        "s’y attend le moins!\r",
+        "Alors! Qu’avez-vous pensé de notre\n",
+        "classement?\r",
+        "Venez visiter Bonville et établissez\n",
+        "le vôtre!\r",
+        "A la prochaine fois!"
       ]
     },
     {
@@ -345,6 +621,28 @@
         "Be sure to visit Celestic Town and take\n",
         "in its appealing nature!\r",
         "See you around, folks!"
+      ],
+      "fr_FR": [
+        "Animateur: C’est parti pour\n",
+        "1-2-3 Conseils!\r",
+        "L’émission du jour est consacrée\n",
+        "aux immanquables de Célestia.\r",
+        "En numéro 3, nous vous conseillons...\n",
+        "la chapelle rouge au cœur la ville!\r",
+        "En numéro 2, nous recommandons...\n",
+        "un joyau du patrimoine local!\r",
+        "Une demeure traditionnelle! Je parle\n",
+        "bien sûr de la maison de la doyenne!\r",
+        "Et quel endroit occupe donc la\n",
+        "première place? Voici la réponse!\r",
+        "Il s’agit... de la grotte de Célestia!\r",
+        "Celle qui contient de mystérieuses\n",
+        "peintures rupestres!\r",
+        "Alors! Qu’avez-vous pensé de notre\n",
+        "classement?\r",
+        "Venez visiter Célestia et établissez\n",
+        "le vôtre!\r",
+        "A la prochaine fois!"
       ]
     },
     {
@@ -370,6 +668,30 @@
         "If you find yourself in Jubilife, you owe\n",
         "it to yourself to check it out!\r",
         "See you around, folks!"
+      ],
+      "fr_FR": [
+        "Animateur: C’est parti pour\n",
+        "1-2-3 Conseils!\r",
+        "L’émission du jour est consacrée\n",
+        "aux immanquables de Féli-Cité.\r",
+        "En numéro 3, nous vous conseillons...\n",
+        "la Pokémontre S.A.!\r",
+        "Tout le monde adore les logiciels\n",
+        "Pokémontre!\r",
+        "En numéro 2, nous recommandons...\n",
+        "le siège de Féli-Télé!\r",
+        "L’écran géant qui orne sa façade\n",
+        "vaut le détour!\r",
+        "Et quel endroit occupe donc la\n",
+        "première place? Voici la réponse!\r",
+        "Il s’agit... du Terminal Mondial!\r",
+        "Avez-vous déjà essayé tous les\n",
+        "téléporteurs?\r",
+        "Alors! Qu’avez-vous pensé de notre\n",
+        "classement?\r",
+        "Venez visiter Féli-Cité et établissez\n",
+        "le vôtre!\r",
+        "A la prochaine fois!"
       ]
     },
     {
@@ -395,6 +717,30 @@
         "If you set foot in Canalave, be sure\n",
         "to explore every nook and cranny!\r",
         "See you around, folks!"
+      ],
+      "fr_FR": [
+        "Animateur: C’est parti pour\n",
+        "1-2-3 Conseils!\r",
+        "L’émission du jour est consacrée\n",
+        "aux immanquables de Joliberges.\r",
+        "En numéro 3, nous vous conseillons...\n",
+        "la Bibliothèque de Joliberges!\r",
+        "L’adresse préférée des amoureux\n",
+        "des livres!\r",
+        "En numéro 2, nous recommandons...\n",
+        "le pont mobile!\r",
+        "Cet ouvrage imposant coupe la ville en\n",
+        "deux lorsqu’il est ouvert!\r",
+        "Et quel endroit occupe donc la\n",
+        "première place? Voici la réponse!\r",
+        "Il s’agit... du port de Joliberges!\r",
+        "Tout le monde est prêt pour un tour\n",
+        "au large?\r",
+        "Alors! Qu’avez-vous pensé de notre\n",
+        "classement?\r",
+        "Venez visiter Joliberges et établissez\n",
+        "le vôtre!\r",
+        "A la prochaine fois!"
       ]
     },
     {
@@ -420,6 +766,29 @@
         "On a visit to Oreburgh, be sure to take\n",
         "in its many sights!\r",
         "See you around, folks!"
+      ],
+      "fr_FR": [
+        "Animateur: C’est parti pour\n",
+        "1-2-3 Conseils!\r",
+        "L’émission du jour est consacrée\n",
+        "aux immanquables de Charbourg.\r",
+        "En numéro 3, nous vous conseillons...\n",
+        "les tapis roulants transportant le\f",
+        "charbon! Une véritable rivière noire!\r",
+        "En numéro 2, nous recommandons...\n",
+        "le Musée Minier!\r",
+        "Que tous ceux qui ont déterré des\n",
+        "fossiles les amènent sans hésiter!\r",
+        "Et quel endroit occupe donc la\n",
+        "première place? Voici la réponse!\r",
+        "Il s’agit... de la Mine de Charbourg!\n",
+        "Les efforts des mineurs font la\f",
+        "fierté de la ville!\r",
+        "Alors! Qu’avez-vous pensé de notre\n",
+        "classement?\r",
+        "Venez visiter Charbourg et établissez\n",
+        "le vôtre!\r",
+        "A la prochaine fois!"
       ]
     },
     {
@@ -447,6 +816,31 @@
         "Pay a visit to Eterna and scope out\n",
         "what it has to offer!\r",
         "See you around, folks!"
+      ],
+      "fr_FR": [
+        "Animateur: C’est parti pour\n",
+        "1-2-3 Conseils!\r",
+        "L’émission du jour est consacrée\n",
+        "aux immanquables de Vestigion.\r",
+        "En numéro 3, nous vous conseillons...\n",
+        "le Spécialiste des Noms!\r",
+        "Est-ce que changer de nom change\n",
+        "la vie?\r",
+        "En numéro 2, nous recommandons...\n",
+        "la maison de l’homme du Souterrain!\r",
+        "Une référence pour tous les\f",
+        "explorateurs!\r",
+        "Et quel endroit occupe donc la\n",
+        "première place? Voici la réponse!\r",
+        "Il s’agit... du Bâtiment de la\f",
+        "Team Galaxie!\r",
+        "Sa silhouette imposante, implacable\n",
+        "et froide jette une ombre sur la ville!\r",
+        "Alors! Qu’avez-vous pensé de notre\n",
+        "classement?\r",
+        "Venez visiter Vestigion et établissez\n",
+        "le vôtre!\r",
+        "A la prochaine fois!"
       ]
     },
     {
@@ -473,6 +867,31 @@
         "Cruise by Hearthome City and get a feel\n",
         "for all its entertaining delights!\r",
         "See you around, folks!"
+      ],
+      "fr_FR": [
+        "Animateur: C’est parti pour\n",
+        "1-2-3 Conseils!\r",
+        "L’émission du jour est consacrée\n",
+        "aux immanquables d’Unionpolis.\r",
+        "En numéro 3, nous vous conseillons...\n",
+        "la Poffinerie!\r",
+        "Pour montrer à tout le monde que vous\n",
+        "êtes un cordon bleu!\r",
+        "En numéro 2, nous recommandons...\n",
+        "le Square Paisible!\r",
+        "Pour passer un moment agréable avec\n",
+        "un Pokémon, et peut-être trouver un\f",
+        "trésor caché par terre?\r",
+        "Et quel endroit occupe donc la\n",
+        "première place? Voici la réponse!\r",
+        "Il s’agit... de la Salle de Concours!\r",
+        "Avez-vous ce qu’il faut pour devenir\n",
+        "un maître des Concours?\r",
+        "Alors! Qu’avez-vous pensé de notre\n",
+        "classement?\r",
+        "Venez visiter Unionpolis et établissez\n",
+        "le vôtre!\r",
+        "A la prochaine fois!"
       ]
     },
     {
@@ -497,6 +916,29 @@
         "Check out Pastoria City and do a tour\n",
         "of all its sights and sounds!\r",
         "See you around, folks!"
+      ],
+      "fr_FR": [
+        "Animateur: C’est parti pour\n",
+        "1-2-3 Conseils!\r",
+        "L’émission du jour est consacrée\n",
+        "aux immanquables de Verchamps.\r",
+        "En numéro 3, nous vous conseillons...\n",
+        "l’Observatoire du Grand Marais!\r",
+        "Aucun Pokémon n’échappera à votre\n",
+        "regard!\r",
+        "En numéro 2, nous recommandons...\n",
+        "le Grand Marais et son Tram Eclair!\r",
+        "S’il est moins rapide que son nom le\n",
+        "laisse penser, il reste très pratique!\r",
+        "Et quelle curiosité occupe donc la\n",
+        "première place? Voici la réponse!\r",
+        "Il s’agit... de CRADOPAUD, la mascotte\n",
+        "officielle de Verchamps!\r",
+        "Alors! Qu’avez-vous pensé de notre\n",
+        "classement?\r",
+        "Venez visiter Verchamps et établissez\n",
+        "le vôtre!\r",
+        "A la prochaine fois!"
       ]
     },
     {
@@ -523,6 +965,30 @@
         "Come out to Veilstone and get in on its\n",
         "charm!\r",
         "See you around, folks!"
+      ],
+      "fr_FR": [
+        "Animateur: C’est parti pour\n",
+        "1-2-3 Conseils!\r",
+        "L’émission du jour est consacrée\n",
+        "aux immanquables de Voilaroc.\r",
+        "En numéro 3, nous vous conseillons...\n",
+        "le Centre Commercial Voilaroc!\r",
+        "Idéal pour faire le plein d’articles\n",
+        "et le vide dans votre portefeuille!\r",
+        "En numéro 2, nous recommandons...\n",
+        "le Casino de Voilaroc!\f",
+        "Mais attention à ne pas en abuser!\r",
+        "Et quel endroit occupe donc la\n",
+        "première place? Voici la réponse!\r",
+        "Il s’agit... du Bâtiment Galaxie\n",
+        "de Voilaroc!\r",
+        "Mais à quoi ces antennes peuvent-elles\n",
+        "bien servir?\r",
+        "Alors! Qu’avez-vous pensé de notre\n",
+        "classement?\r",
+        "Venez visiter Voilaroc et établissez\n",
+        "le vôtre!\r",
+        "A la prochaine fois!"
       ]
     },
     {
@@ -547,6 +1013,27 @@
         "Do visit Sunyshore and check out all\n",
         "of its appeal!\r",
         "See you around, folks!"
+      ],
+      "fr_FR": [
+        "Animateur: C’est parti pour\n",
+        "1-2-3 Conseils!\r",
+        "L’émission du jour est consacrée\n",
+        "aux immanquables de Rivamar.\r",
+        "En numéro 3, nous vous conseillons...\n",
+        "le Phare Panorama!\r",
+        "En numéro 2, nous recommandons...\n",
+        "le Rocher Pokémon!\f",
+        "A quel Pokémon vous fait-il penser?\r",
+        "Et quel endroit occupe donc la\n",
+        "première place? Voici la réponse!\r",
+        "Il s’agit... du Marché de Rivamar!\n",
+        "Une étape appréciée des Dresseurs\f",
+        "les plus sagaces!\r",
+        "Alors! Qu’avez-vous pensé de notre\n",
+        "classement?\r",
+        "Venez visiter Rivamar et établissez\n",
+        "le vôtre!\r",
+        "A la prochaine fois!"
       ]
     },
     {
@@ -570,6 +1057,28 @@
         "If you’re in Snowpoint’s vicinities,\n",
         "you owe it to yourself to check it out!\r",
         "See you around, folks!"
+      ],
+      "fr_FR": [
+        "Animateur: C’est parti pour\n",
+        "1-2-3 Conseils!\r",
+        "L’émission du jour est consacrée\n",
+        "aux immanquables de Frimapic.\r",
+        "En numéro 3, nous vous conseillons...\n",
+        "le service de ferries!\f",
+        "Mais où vous emmènera-t-on?\r",
+        "En numéro 2, nous recommandons...\n",
+        "Le Temple Frimapic!\f",
+        "Qui sait ce qui se trouve à l’intérieur?\r",
+        "Et quelle curiosité occupe donc la\n",
+        "première place? Voici la réponse!\r",
+        "Il s’agit... de la poussière de diamant!\n",
+        "Peut-être aurez-vous la chance de la\f",
+        "voir un de ces jours?\r",
+        "Alors! Qu’avez-vous pensé de notre\n",
+        "classement?\r",
+        "Venez visiter Frimapic et établissez\n",
+        "le vôtre!\r",
+        "A la prochaine fois!"
       ]
     },
     {
@@ -582,6 +1091,18 @@
         "Wherever you go, be like us and check\n",
         "it out from stem to stern!\r",
         "See you around, folks!"
+      ],
+      "fr_FR": [
+        "Animateur: Retrouvez-nous bientôt pour\n",
+        "1-2-3 Conseils!\r",
+        "Quelle sera notre prochaine\n",
+        "destination?\r",
+        "Quelle ville allons-nous vous\n",
+        "présenter? La vôtre?\r",
+        "Quoi qu’il en soit, n’oubliez jamais\n",
+        "de voyager, et visitez autant de lieux\f",
+        "que possible!\r",
+        "A la prochaine fois!"
       ]
     },
     {
@@ -607,6 +1128,23 @@
         "Then make your way to\n",
         "{STRVAR_1 4, 0, 0} right now!\r",
         "That concludes this news flash."
+      ],
+      "fr_FR": [
+        "Présentateur: Flash Info!\r",
+        "Nous venons d’apprendre que des\n",
+        "hordes de {STRVAR_1 0, 1, 0} ont été\f",
+        "aperçues près de {STRVAR_1 4, 0, 0}.\r",
+        "Si jamais vous éprouvez l’envie que des\n",
+        "{STRVAR_1 0, 1, 0} vous entourent...\r",
+        "Ou si vous voulez monter une équipe\n",
+        "rien qu’avec des {STRVAR_1 0, 1, 0}...\r",
+        "Ou si vous voulez les porter \n",
+        "sur votre tête...\r",
+        "Si vous êtes un Dresseur vraiment \n",
+        "fan des {STRVAR_1 0, 1, 0}...\r",
+        "Alors dirigez-vous tout de suite vers\n",
+        "{STRVAR_1 4, 0, 0}!\r",
+        "Ainsi se termine notre Flash Info."
       ]
     },
     {
@@ -633,6 +1171,25 @@
         "A chance encounter with greatness--\n",
         "that’s me--is always possible!\r",
         "See you again!"
+      ],
+      "fr_FR": [
+        "Topdresseur: Salut, comment\n",
+        "allez-vous, fans de Pokémon?\r",
+        "Merci de regarder la Chaîne Efficacité!\r",
+        "Hé, les fans, vous avez tous utilisé les\n",
+        "capacités de type {STRVAR_1 15, 0, 0}, pas vrai?\r",
+        "Elles sont super efficaces contre les\n",
+        "Pokémon de type {STRVAR_1 15, 1, 0}!\r",
+        "Je vous le dis, ça fait le même effet que\n",
+        "me voir en personne!\r",
+        "C’est tout pour aujourd’hui, mais\n",
+        "n’oubliez pas de m’envoyer vos lettres!\r",
+        "Donnez-les à votre Pokémon Oiseau,\n",
+        "puis libérez ce dernier dans le ciel!\r",
+        "Une rencontre avec la célébrité,\n",
+        "c’est-à-dire moi, est\f",
+        "toujours possible!\r",
+        "A plus tard!"
       ]
     },
     {
@@ -655,6 +1212,25 @@
         "A chance encounter with greatness--\n",
         "that’s me--is always possible!\r",
         "See you again!"
+      ],
+      "fr_FR": [
+        "Topdresseur: Salut, comment\n",
+        "allez-vous, fans de Pokémon?\r",
+        "Merci de regarder la Chaîne Efficacité!\r",
+        "Hé, les fans, vous avez tous utilisé les\n",
+        "capacités de type {STRVAR_1 15, 0, 0}, pas vrai?\r",
+        "Elles sont efficaces contre les Pokémon\n",
+        "de type {STRVAR_1 15, 1, 0}!\r",
+        "Elles sont normales, comme les\n",
+        "Topdresseurs le sont pour moi!\r",
+        "C’est tout pour aujourd’hui, mais\n",
+        "n’oubliez pas de m’envoyer vos lettres!\r",
+        "Donnez-les à votre Pokémon Oiseau,\n",
+        "puis libérez ce dernier dans le ciel!\r",
+        "Une rencontre avec la célébrité,\n",
+        "c’est-à-dire moi, est\f",
+        "toujours possible!\r",
+        "A plus tard!"
       ]
     },
     {
@@ -677,6 +1253,25 @@
         "A chance encounter with greatness--\n",
         "that’s me--is always possible!\r",
         "See you again!"
+      ],
+      "fr_FR": [
+        "Topdresseur: Salut, comment\n",
+        "allez-vous, fans de Pokémon?\r",
+        "Merci de regarder la Chaîne Efficacité!\r",
+        "Hé, les fans, vous avez tous utilisé les\n",
+        "capacités de type {STRVAR_1 15, 0, 0}, pas vrai?\r",
+        "Elles ne sont pas très efficaces\n",
+        "contre les Pokémon de type {STRVAR_1 15, 1, 0}!\r",
+        "En fait, elles sont faibles comme les \n",
+        "aspirants Dresseur qui me copient!\r",
+        "C’est tout pour aujourd’hui, mais\n",
+        "n’oubliez pas de m’envoyer vos lettres!\r",
+        "Donnez-les à votre Pokémon Oiseau,\n",
+        "puis libérez ce dernier dans le ciel!\r",
+        "Une rencontre avec la célébrité,\n",
+        "c’est-à-dire moi, est\f",
+        "toujours possible!\r",
+        "A plus tard!"
       ]
     },
     {
@@ -700,6 +1295,26 @@
         "A chance encounter with greatness--\n",
         "that’s me--is always possible!\r",
         "See you again!"
+      ],
+      "fr_FR": [
+        "Topdresseur: Salut, comment\n",
+        "allez-vous, fans de Pokémon?\r",
+        "Merci de regarder la Chaîne Efficacité!\r",
+        "Hé, les fans, vous avez tous utilisé les\n",
+        "capacités de type {STRVAR_1 15, 0, 0}, pas vrai?\r",
+        "Elles ne sont pas du tout efficaces\n",
+        "contre les Pokémon de type {STRVAR_1 15, 1, 0}!\r",
+        "C’est une perte de temps, comme la\n",
+        "façon dont les autres Dresseurs\f",
+        "veulent m’affronter par jalousie!\r",
+        "C’est tout pour aujourd’hui, mais\n",
+        "n’oubliez pas de m’envoyer vos lettres!\r",
+        "Donnez-les à votre Pokémon Oiseau,\n",
+        "puis libérez ce dernier dans le ciel!\r",
+        "Une rencontre avec la célébrité,\n",
+        "c’est-à-dire moi, est\f",
+        "toujours possible!\r",
+        "A plus tard!"
       ]
     },
     {
@@ -725,6 +1340,25 @@
         "As gifts for you!\r",
         "Say hey! Check your Berries today!\n",
         "Thanks, everyone!"
+      ],
+      "fr_FR": [
+        "Prof. Baies: Hé, hé, hé, comment se\n",
+        "portent vos Baies aujourd’hui?\r",
+        "Hé, hé, hé, fans de Baies, comment ça\n",
+        "va aujourd’hui? Bien?\r",
+        "Assez plaisanté, débutons notre numéro\n",
+        "de Chasseur de Baies!\r",
+        "{STRVAR_1 4, 0, 0}... J’y suis allé dans\n",
+        "l’espoir de trouver des Baies grâce à\f",
+        "mon odorat!\r",
+        "Et j’en ai trouvé!\r",
+        "Mon voyage a été couronné de succès!\r",
+        "J’ai le cœur qui bat à cent à l’heure!\n",
+        "Je me sens fiévreux!\r",
+        "Mais je les ai laissées sur place.\n",
+        "En cadeau pour vous!\r",
+        "Hé, hé, hé! Soignez bien vos Baies!\n",
+        "Merci à tous!"
       ]
     },
     {
@@ -750,6 +1384,26 @@
         "they will come, they will come!\r",
         "Say hey! Check your Berries today!\n",
         "Thanks, everyone!"
+      ],
+      "fr_FR": [
+        "Prof. Baies: Hé, hé, hé, comment se\n",
+        "portent vos Baies aujourd’hui?\r",
+        "Hé, hé, hé, fans de Baies, comment ça\n",
+        "va aujourd’hui? Bien?\r",
+        "Assez plaisanté, débutons notre numéro\n",
+        "de Chasseur de Baies!\r",
+        "{STRVAR_1 4, 0, 0}... J’y suis allé dans\n",
+        "l’espoir de trouver des Baies grâce à\f",
+        "mon odorat!\r",
+        "Mais il n’y en avait pas...\r",
+        "Il y a encore de l’espoir quand même,\n",
+        "car il y a des plants!\r",
+        "Leur parfum me chatouillait les narines!\n",
+        "Les plants fleurissent dans mon cœur!\r",
+        "Je me suis senti mieux sachant que des\n",
+        "Baies allaient mûrir!\r",
+        "Hé, hé, hé! Soignez bien vos Baies!\n",
+        "Merci à tous!"
       ]
     },
     {
@@ -772,6 +1426,24 @@
         "its flowers in bloom!\r",
         "Say hey! Check your Berries today!\n",
         "Thanks, everyone!"
+      ],
+      "fr_FR": [
+        "Prof. Baies: Hé, hé, hé, comment se\n",
+        "portent vos Baies aujourd’hui?\r",
+        "Hé, hé, hé, fans de Baies, comment ça\n",
+        "va aujourd’hui? Bien?\r",
+        "Assez plaisanté, débutons notre numéro\n",
+        "de Chasseur de Baies!\r",
+        "{STRVAR_1 4, 0, 0}... J’y suis allé dans\n",
+        "l’espoir de trouver des Baies grâce à\f",
+        "mon odorat!\r",
+        "Mais il n’y en avait pas...\r",
+        "Il y a encore de l’espoir quand même!\r",
+        "Parce que la tige des plants croît,\n",
+        "comme mon espoir!\r",
+        "Il me tarde vraiment de les voir fleurir!\r",
+        "Hé, hé, hé! Soignez bien vos Baies!\n",
+        "Merci à tous!"
       ]
     },
     {
@@ -794,6 +1466,25 @@
         "it under!\r",
         "Say hey! Check your Berries today!\n",
         "Thanks, everyone!"
+      ],
+      "fr_FR": [
+        "Prof. Baies: Hé, hé, hé, comment se\n",
+        "portent vos Baies aujourd’hui?\r",
+        "Hé, hé, hé, fans de Baies, comment ça\n",
+        "va aujourd’hui? Bien?\r",
+        "Assez plaisanté, débutons notre numéro\n",
+        "de Chasseur de Baies!\r",
+        "{STRVAR_1 4, 0, 0}... J’y suis allé dans\n",
+        "l’espoir de trouver des Baies grâce à\f",
+        "mon odorat!\r",
+        "Mais il n’y en avait pas...\r",
+        "Il y a encore de l’espoir quand même!\r",
+        "Parce que les plants ont germé!\n",
+        "C’est la célébration de la vie!\r",
+        "A vous tous qui me regardez, ne les\n",
+        "piétinez pas!\r",
+        "Hé, hé, hé! Soignez bien vos Baies!\n",
+        "Merci à tous!"
       ]
     },
     {
@@ -817,6 +1508,25 @@
         "for having picked Berries!\r",
         "Say hey! Plant your Berries today!\n",
         "Thanks, everyone!"
+      ],
+      "fr_FR": [
+        "Prof. Baies: Hé, hé, hé, comment se\n",
+        "portent vos Baies aujourd’hui?\r",
+        "Hé, hé, hé, fans de Baies, comment ça va\n",
+        "aujourd’hui? Bien?\r",
+        "Assez plaisanté, débutons notre numéro\n",
+        "de Chasseur de Baies!\r",
+        "{STRVAR_1 4, 0, 0}... J’y suis allé dans\n",
+        "l’espoir de trouver des Baies grâce à\f",
+        "mon odorat!\r",
+        "Mais il n’y en avait pas...\r",
+        "J’ai perdu mon temps!\n",
+        "J’ai voyagé en vain!\r",
+        "Mon excitation se fane et meurt...\r",
+        "Mais cela veut dire qu’une personne est\n",
+        "heureuse d’avoir ramassé des Baies!\r",
+        "Hé, hé, hé! Plantez des Baies!\n",
+        "Merci à tous!"
       ]
     },
     {
@@ -853,6 +1563,32 @@
         "at me!\r",
         "It’s time for me to go!\n",
         "So long!"
+      ],
+      "fr_FR": [
+        "Chercheur: C’est l’heure d’Etudions\n",
+        "les Pokémon!\r",
+        "Aujourd’hui, nous allons observer\n",
+        "un Pokémon sauvage en\f",
+        "direct sur le terrain.\r",
+        "OK, débutons, un {STRVAR_1 0, 0, 0} sauvage\n",
+        "vient justement d’apparaître...\r",
+        "Oh? On dirait qu’il tient quelque chose!\n",
+        "Approchons-nous doucement pour voir!\r",
+        "Salut, toi!\n",
+        "Puis-je jeter un œil?\r",
+        "... Ouille! Ouille!\n",
+        "Il m’a griffé le doigt!\r",
+        "Mais, OK, nous savons maintenant qu’un\n",
+        "{STRVAR_1 0, 0, 0} sauvage peut parfois\f",
+        "tenir l’objet {STRVAR_1 8, 1, 0}.\r",
+        "Merci, {STRVAR_1 0, 0, 0}, je te rends\n",
+        "ton objet...\r",
+        "Aïe! Ouille, ouille, ouille!\n",
+        "Il m’a encore griffé!\r",
+        "Comme d’habitude, un Pokémon s’est\n",
+        "énervé contre moi!\r",
+        "Il est temps pour moi de vous quitter!\n",
+        "A bientôt!"
       ]
     },
     {
@@ -869,6 +1605,23 @@
         "{STRVAR_1 7, 0, 0} nature and confirmed it!\r",
         "Also, I think I have a cheerful nature.\n",
         "See ya."
+      ],
+      "fr_FR": [
+        "Richard: Mon père, c’est le président\n",
+        "de Féli-Télé, et j’ai le droit de\f",
+        "présenter mon émission à moi.\r",
+        "Alors je vais parler... de la nature\n",
+        "des Pokémon! Na!\r",
+        "Je vous ferai dire qu’un Pokémon\n",
+        "{STRVAR_1 7, 0, 0} aura une super stat\f",
+        "{STRVAR_1 13, 1, 0}!\r",
+        "Promis juré!\r",
+        "Je le sais parce que j’ai élevé plus d’un\n",
+        "Pokémon {STRVAR_1 7, 0, 0}! J’en ai élevé au\f",
+        "moins mille! Pour de vrai!\r",
+        "Et ma nature à moi, c’est gentoyeux.\n",
+        "Gentil et joyeux!\r",
+        "Allez, au revoir les gens!"
       ]
     },
     {
@@ -885,6 +1638,21 @@
         "Poffins and tested it myself.\r",
         "Also, I like hot milk.\n",
         "See ya."
+      ],
+      "fr_FR": [
+        "Richard: Mon père, c’est le président\n",
+        "de Féli-Télé, et j’ai le droit de\f",
+        "présenter mon émission à moi.\r",
+        "Alors je vais parler... de la nature\n",
+        "des Pokémon! Na!\r",
+        "Je vous ferai dire qu’un Pokémon\n",
+        "{STRVAR_1 7, 0, 0} sera un fan du\f",
+        "{STRVAR_1 16, 2, 0}.\r",
+        "Promis juré!\r",
+        "Je le sais parce que j’en ai acheté mille\n",
+        "pour vérifier!\r",
+        "Et moi, j’aime le lait chaud, d’abord.\n",
+        "Allez, au revoir les gens!"
       ]
     },
     {
@@ -902,6 +1670,21 @@
         "it myself.\r",
         "Also, I like hot milk.\n",
         "See ya."
+      ],
+      "fr_FR": [
+        "Richard: Mon père, c’est le président\n",
+        "de Féli-Télé, et j’ai le droit de\f",
+        "présenter mon émission à moi.\r",
+        "Alors je vais parler... de la nature\n",
+        "des Pokémon! Na!\r",
+        "Je vous ferai dire qu’un Pokémon\n",
+        "{STRVAR_1 7, 0, 0} n’a aucune préférence en\f",
+        "matière de Poffins.\r",
+        "Promis juré!\r",
+        "Je le sais parce que j’ai acheté mille\n",
+        "Poffins différents pour vérifier!\r",
+        "Et moi, j’aime le lait chaud, d’abord.\n",
+        "Allez, au revoir les gens!"
       ]
     },
     {
@@ -930,6 +1713,23 @@
         "Then hurry! Make your way to\n",
         "{STRVAR_1 4, 0, 0} right now!\r",
         "That concludes this news flash."
+      ],
+      "fr_FR": [
+        "Présentateur: Flash Info!\r",
+        "Nous venons d’apprendre que\n",
+        "{STRVAR_1 0, 1, 0} a été aperçu\f",
+        "vers {STRVAR_1 4, 0, 0}.\r",
+        "Si jamais vous éprouvez l’envie de voir\n",
+        "{STRVAR_1 0, 1, 0} de vos propres yeux...\r",
+        "Ou si vous êtes assez téméraire pour\n",
+        "tenter de le capturer...\r",
+        "Si les difficultés ne sont rien face à\n",
+        "votre désir d’apercevoir ce Pokémon...\r",
+        "Si l’idée même de vous trouver près de\n",
+        "lui vous comble de joie...\r",
+        "N’hésitez pas!\n",
+        "Destination: {STRVAR_1 4, 0, 0}!\r",
+        "Ainsi se termine notre Flash Info."
       ]
     },
     {
@@ -956,6 +1756,22 @@
         "a better title could have been found.\r",
         "All controversy aside, it’s certainly\n",
         "worth seeing. Please do visit!"
+      ],
+      "fr_FR": [
+        "Interviewer: Reportage en direct depuis\n",
+        "le premier étage de Féli-Télé.\r",
+        "Je suis venue examiner une nouvelle\n",
+        "photo intitulée “{STRVAR_1 28, 1, 0}”\f",
+        "qui appartient à {STRVAR_1 3, 0, 0}.\r",
+        "Oh, est-ce celle-ci?\n",
+        "Voyons voir...\r",
+        "Le titre “{STRVAR_1 28, 1, 0}” semble\n",
+        "bien adapté à cette photo...\r",
+        "Mais on ne peut s’empêcher de \n",
+        "penser qu’on aurait pu lui trouver\f",
+        "un titre encore meilleur.\r",
+        "Toute controverse à part, elle vaut le\n",
+        "coup d’œil! Allez la voir!"
       ]
     },
     {

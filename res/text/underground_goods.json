@@ -3,589 +3,738 @@
   "messages": [
     {
       "id": "UndergroundGoods_Text_Close",
-      "en_US": "CLOSE"
+      "en_US": "CLOSE",
+      "fr_FR": "Fermer"
     },
     {
       "id": "UndergroundGoods_Text_PCNormalFlag_Unused",
-      "en_US": "PC"
+      "en_US": "PC",
+      "fr_FR": "PC"
     },
     {
       "id": "UndergroundGoods_Text_PCBronzeFlag_Unused",
-      "en_US": "PC"
+      "en_US": "PC",
+      "fr_FR": "PC"
     },
     {
       "id": "UndergroundGoods_Text_PCSilverFlag_Unused",
-      "en_US": "PC"
+      "en_US": "PC",
+      "fr_FR": "PC"
     },
     {
       "id": "UndergroundGoods_Text_PCGoldFlag_Unused",
-      "en_US": "PC"
+      "en_US": "PC",
+      "fr_FR": "PC"
     },
     {
       "id": "UndergroundGoods_Text_PCPlatinumFlag_Unused",
-      "en_US": "PC"
+      "en_US": "PC",
+      "fr_FR": "PC"
     },
     {
       "id": "UndergroundGoods_Text_BigBoulder_Unused",
-      "en_US": "Big Boulder"
+      "en_US": "Big Boulder",
+      "fr_FR": "Gros Rocher"
     },
     {
       "id": "UndergroundGoods_Text_YellowCushion",
-      "en_US": "Yellow Cushion"
+      "en_US": "Yellow Cushion",
+      "fr_FR": "Coussin Jaune"
     },
     {
       "id": "UndergroundGoods_Text_BlueCushion",
-      "en_US": "Blue Cushion"
+      "en_US": "Blue Cushion",
+      "fr_FR": "Coussin Bleu"
     },
     {
       "id": "UndergroundGoods_Text_WoodenChair",
-      "en_US": "Wooden Chair"
+      "en_US": "Wooden Chair",
+      "fr_FR": "Siège en Bois"
     },
     {
       "id": "UndergroundGoods_Text_BigTable",
-      "en_US": "Big Table"
+      "en_US": "Big Table",
+      "fr_FR": "Grande Table"
     },
     {
       "id": "UndergroundGoods_Text_PlainTable",
-      "en_US": "Plain Table"
+      "en_US": "Plain Table",
+      "fr_FR": "Table Simple"
     },
     {
       "id": "UndergroundGoods_Text_SmallTable",
-      "en_US": "Small Table"
+      "en_US": "Small Table",
+      "fr_FR": "Petite Table"
     },
     {
       "id": "UndergroundGoods_Text_LongTable",
-      "en_US": "Long Table"
+      "en_US": "Long Table",
+      "fr_FR": "Table Verticale"
     },
     {
       "id": "UndergroundGoods_Text_WideTable",
-      "en_US": "Wide Table"
+      "en_US": "Wide Table",
+      "fr_FR": "Table Horizont."
     },
     {
       "id": "UndergroundGoods_Text_PokeTable",
-      "en_US": "Poké Table"
+      "en_US": "Poké Table",
+      "fr_FR": "Table Poké"
     },
     {
       "id": "UndergroundGoods_Text_BigBookshelf",
-      "en_US": "Big Bookshelf"
+      "en_US": "Big Bookshelf",
+      "fr_FR": "Grande Biblio"
     },
     {
       "id": "UndergroundGoods_Text_SmallBookshelf",
-      "en_US": "Small Bookshelf"
+      "en_US": "Small Bookshelf",
+      "fr_FR": "Petite Biblio"
     },
     {
       "id": "UndergroundGoods_Text_ResearchShelf",
-      "en_US": "Research Shelf"
+      "en_US": "Research Shelf",
+      "fr_FR": "Meuble Archives"
     },
     {
       "id": "UndergroundGoods_Text_BikeRack",
-      "en_US": "Bike Rack"
+      "en_US": "Bike Rack",
+      "fr_FR": "Etabli"
     },
     {
       "id": "UndergroundGoods_Text_ShopShelf",
-      "en_US": "Shop Shelf"
+      "en_US": "Shop Shelf",
+      "fr_FR": "Etagère Magasin"
     },
     {
       "id": "UndergroundGoods_Text_DisplayShelf",
-      "en_US": "Display Shelf"
+      "en_US": "Display Shelf",
+      "fr_FR": "Présentoir"
     },
     {
       "id": "UndergroundGoods_Text_Cupboard",
-      "en_US": "Cupboard"
+      "en_US": "Cupboard",
+      "fr_FR": "Buffet"
     },
     {
       "id": "UndergroundGoods_Text_WoodDresser",
-      "en_US": "Wood Dresser"
+      "en_US": "Wood Dresser",
+      "fr_FR": "Armoire Bois"
     },
     {
       "id": "UndergroundGoods_Text_PinkDresser",
-      "en_US": "Pink Dresser"
+      "en_US": "Pink Dresser",
+      "fr_FR": "Armoire Rose"
     },
     {
       "id": "UndergroundGoods_Text_TV",
-      "en_US": "TV"
+      "en_US": "TV",
+      "fr_FR": "TV"
     },
     {
       "id": "UndergroundGoods_Text_Refrigerator",
-      "en_US": "Refrigerator"
+      "en_US": "Refrigerator",
+      "fr_FR": "Réfrigérateur"
     },
     {
       "id": "UndergroundGoods_Text_PrettySink",
-      "en_US": "Pretty Sink"
+      "en_US": "Pretty Sink",
+      "fr_FR": "Bel Evier"
     },
     {
       "id": "UndergroundGoods_Text_FeatheryBed",
-      "en_US": "Feathery Bed"
+      "en_US": "Feathery Bed",
+      "fr_FR": "Lit en Plumes"
     },
     {
       "id": "UndergroundGoods_Text_TrashCan",
-      "en_US": "Trash Can"
+      "en_US": "Trash Can",
+      "fr_FR": "Poubelle"
     },
     {
       "id": "UndergroundGoods_Text_CardboardBox",
-      "en_US": "Cardboard Box"
+      "en_US": "Cardboard Box",
+      "fr_FR": "Carton"
     },
     {
       "id": "UndergroundGoods_Text_Crate",
-      "en_US": "Crate"
+      "en_US": "Crate",
+      "fr_FR": "Caisse"
     },
     {
       "id": "UndergroundGoods_Text_Container",
-      "en_US": "Container"
+      "en_US": "Container",
+      "fr_FR": "Conteneur"
     },
     {
       "id": "UndergroundGoods_Text_OilDrum",
-      "en_US": "Oil Drum"
+      "en_US": "Oil Drum",
+      "fr_FR": "Baril"
     },
     {
       "id": "UndergroundGoods_Text_BigOilDrum",
-      "en_US": "Big Oil Drum"
+      "en_US": "Big Oil Drum",
+      "fr_FR": "Set de Barils"
     },
     {
       "id": "UndergroundGoods_Text_IronBeam",
-      "en_US": "Iron Beam"
+      "en_US": "Iron Beam",
+      "fr_FR": "Poutres Métal"
     },
     {
       "id": "UndergroundGoods_Text_PottedPlant",
-      "en_US": "Potted Plant"
+      "en_US": "Potted Plant",
+      "fr_FR": "Plante en Pot"
     },
     {
       "id": "UndergroundGoods_Text_PokePlant",
-      "en_US": "Poké Flower"
+      "en_US": "Poké Flower",
+      "fr_FR": "Fleur Poké"
     },
     {
       "id": "UndergroundGoods_Text_HealingMachine",
-      "en_US": "Healing Machine"
+      "en_US": "Healing Machine",
+      "fr_FR": "Machine Soins"
     },
     {
       "id": "UndergroundGoods_Text_LabMachine",
-      "en_US": "Lab Machine"
+      "en_US": "Lab Machine",
+      "fr_FR": "Machine Labo"
     },
     {
       "id": "UndergroundGoods_Text_TestMachine",
-      "en_US": "Test Machine"
+      "en_US": "Test Machine",
+      "fr_FR": "Machine Test"
     },
     {
       "id": "UndergroundGoods_Text_GameSystem",
-      "en_US": "Game System"
+      "en_US": "Game System",
+      "fr_FR": "Console de Jeu"
     },
     {
       "id": "UndergroundGoods_Text_VendingMachine",
-      "en_US": "Vending Machine"
+      "en_US": "Vending Machine",
+      "fr_FR": "Distributeur"
     },
     {
       "id": "UndergroundGoods_Text_RedBike",
-      "en_US": "Red Bike"
+      "en_US": "Red Bike",
+      "fr_FR": "Vélo Rouge"
     },
     {
       "id": "UndergroundGoods_Text_GreenBike",
-      "en_US": "Green Bike"
+      "en_US": "Green Bike",
+      "fr_FR": "Vélo Vert"
     },
     {
       "id": "UndergroundGoods_Text_Binoculars",
-      "en_US": "Binoculars"
+      "en_US": "Binoculars",
+      "fr_FR": "Jumelles"
     },
     {
       "id": "UndergroundGoods_Text_Globe",
-      "en_US": "Globe"
+      "en_US": "Globe",
+      "fr_FR": "Globe Terrestre"
     },
     {
       "id": "UndergroundGoods_Text_GymStatue",
-      "en_US": "Gym Statue"
+      "en_US": "Gym Statue",
+      "fr_FR": "Statue Arène"
     },
     {
       "id": "UndergroundGoods_Text_RedTent",
-      "en_US": "Red Tent"
+      "en_US": "Red Tent",
+      "fr_FR": "Tente Rouge"
     },
     {
       "id": "UndergroundGoods_Text_BlueTent",
-      "en_US": "Blue Tent"
+      "en_US": "Blue Tent",
+      "fr_FR": "Tente Bleue"
     },
     {
       "id": "UndergroundGoods_Text_ClearTent",
-      "en_US": "Clear Tent"
+      "en_US": "Clear Tent",
+      "fr_FR": "Tente Transpa."
     },
     {
       "id": "UndergroundGoods_Text_MazeBlock1",
-      "en_US": "Maze Block 1"
+      "en_US": "Maze Block 1",
+      "fr_FR": "Bloc Laby. 1"
     },
     {
       "id": "UndergroundGoods_Text_MazeBlock2",
-      "en_US": "Maze Block 2"
+      "en_US": "Maze Block 2",
+      "fr_FR": "Bloc Laby. 2"
     },
     {
       "id": "UndergroundGoods_Text_MazeBlock3",
-      "en_US": "Maze Block 3"
+      "en_US": "Maze Block 3",
+      "fr_FR": "Bloc Laby. 3"
     },
     {
       "id": "UndergroundGoods_Text_MazeBlock4",
-      "en_US": "Maze Block 4"
+      "en_US": "Maze Block 4",
+      "fr_FR": "Bloc Laby. 4"
     },
     {
       "id": "UndergroundGoods_Text_MazeBlock5",
-      "en_US": "Maze Block 5"
+      "en_US": "Maze Block 5",
+      "fr_FR": "Bloc Laby. 5"
     },
     {
       "id": "UndergroundGoods_Text_HoleTool",
-      "en_US": "Hole Tool"
+      "en_US": "Hole Tool",
+      "fr_FR": "Outil Trou"
     },
     {
       "id": "UndergroundGoods_Text_PitTool",
-      "en_US": "Pit Tool"
+      "en_US": "Pit Tool",
+      "fr_FR": "Outil Grotrou"
     },
     {
       "id": "UndergroundGoods_Text_SmokeTool",
-      "en_US": "Smoke Tool"
+      "en_US": "Smoke Tool",
+      "fr_FR": "Outil Fumée"
     },
     {
       "id": "UndergroundGoods_Text_BigSmokeTool",
-      "en_US": "Big Smoke Tool"
+      "en_US": "Big Smoke Tool",
+      "fr_FR": "Outil Nuage"
     },
     {
       "id": "UndergroundGoods_Text_RockTool",
-      "en_US": "Rock Tool"
+      "en_US": "Rock Tool",
+      "fr_FR": "Outil Rocher"
     },
     {
       "id": "UndergroundGoods_Text_RockfallTool",
-      "en_US": "Rockfall Tool"
+      "en_US": "Rockfall Tool",
+      "fr_FR": "Outil Grorocher"
     },
     {
       "id": "UndergroundGoods_Text_FoamTool",
-      "en_US": "Foam Tool"
+      "en_US": "Foam Tool",
+      "fr_FR": "Outil Mousse"
     },
     {
       "id": "UndergroundGoods_Text_BubbleTool",
-      "en_US": "Bubble Tool"
+      "en_US": "Bubble Tool",
+      "fr_FR": "Outil Bulle"
     },
     {
       "id": "UndergroundGoods_Text_AlertTool1",
-      "en_US": "Alert Tool 1"
+      "en_US": "Alert Tool 1",
+      "fr_FR": "Outil Alerte 1"
     },
     {
       "id": "UndergroundGoods_Text_AlertTool2",
-      "en_US": "Alert Tool 2"
+      "en_US": "Alert Tool 2",
+      "fr_FR": "Outil Alerte 2"
     },
     {
       "id": "UndergroundGoods_Text_AlertTool3",
-      "en_US": "Alert Tool 3"
+      "en_US": "Alert Tool 3",
+      "fr_FR": "Outil Alerte 3"
     },
     {
       "id": "UndergroundGoods_Text_AlertTool4",
-      "en_US": "Alert Tool 4"
+      "en_US": "Alert Tool 4",
+      "fr_FR": "Outil Alerte 4"
     },
     {
       "id": "UndergroundGoods_Text_LeafTool",
-      "en_US": "Leaf Tool"
+      "en_US": "Leaf Tool",
+      "fr_FR": "Outil Feuille"
     },
     {
       "id": "UndergroundGoods_Text_FlowerTool",
-      "en_US": "Flower Tool"
+      "en_US": "Flower Tool",
+      "fr_FR": "Outil Fleur"
     },
     {
       "id": "UndergroundGoods_Text_EmberTool",
-      "en_US": "Ember Tool"
+      "en_US": "Ember Tool",
+      "fr_FR": "Outil Feu"
     },
     {
       "id": "UndergroundGoods_Text_FireTool",
-      "en_US": "Fire Tool"
+      "en_US": "Fire Tool",
+      "fr_FR": "Outil Brasier"
     },
     {
       "id": "UndergroundGoods_Text_CuteCup",
-      "en_US": "Cute Cup"
+      "en_US": "Cute Cup",
+      "fr_FR": "Coupe Grâce"
     },
     {
       "id": "UndergroundGoods_Text_CoolCup",
-      "en_US": "Cool Cup"
+      "en_US": "Cool Cup",
+      "fr_FR": "Coupe Sg-fd"
     },
     {
       "id": "UndergroundGoods_Text_BeautyCup",
-      "en_US": "Beauty Cup"
+      "en_US": "Beauty Cup",
+      "fr_FR": "Coupe Beauté"
     },
     {
       "id": "UndergroundGoods_Text_ToughCup",
-      "en_US": "Tough Cup"
+      "en_US": "Tough Cup",
+      "fr_FR": "Coupe Robust."
     },
     {
       "id": "UndergroundGoods_Text_CleverCup",
-      "en_US": "Clever Cup"
+      "en_US": "Clever Cup",
+      "fr_FR": "Coupe Intellig."
     },
     {
       "id": "UndergroundGoods_Text_BlueCrystal",
-      "en_US": "Blue Crystal"
+      "en_US": "Blue Crystal",
+      "fr_FR": "Cristal Bleu"
     },
     {
       "id": "UndergroundGoods_Text_PinkCrystal",
-      "en_US": "Pink Crystal"
+      "en_US": "Pink Crystal",
+      "fr_FR": "Cristal Rose"
     },
     {
       "id": "UndergroundGoods_Text_RedCrystal",
-      "en_US": "Red Crystal"
+      "en_US": "Red Crystal",
+      "fr_FR": "Cristal Rouge"
     },
     {
       "id": "UndergroundGoods_Text_YellowCrystal",
-      "en_US": "Yellow Crystal"
+      "en_US": "Yellow Crystal",
+      "fr_FR": "Cristal Jaune"
     },
     {
       "id": "UndergroundGoods_Text_PrettyGem",
-      "en_US": "Pretty Gem"
+      "en_US": "Pretty Gem",
+      "fr_FR": "Jolie Gemme"
     },
     {
       "id": "UndergroundGoods_Text_ShinyGem",
-      "en_US": "Shiny Gem"
+      "en_US": "Shiny Gem",
+      "fr_FR": "Gemme Brillante"
     },
     {
       "id": "UndergroundGoods_Text_MysticGem",
-      "en_US": "Mystic Gem"
+      "en_US": "Mystic Gem",
+      "fr_FR": "Gemme Mystique"
     },
     {
       "id": "UndergroundGoods_Text_GlitterGem",
-      "en_US": "Glitter Gem"
+      "en_US": "Glitter Gem",
+      "fr_FR": "Gemme Pailletée"
     },
     {
       "id": "UndergroundGoods_Text_BronzeTrophy",
-      "en_US": "Bronze Trophy"
+      "en_US": "Bronze Trophy",
+      "fr_FR": "Trophée Bronze"
     },
     {
       "id": "UndergroundGoods_Text_SilverTrophy",
-      "en_US": "Silver Trophy"
+      "en_US": "Silver Trophy",
+      "fr_FR": "Trophée Argent"
     },
     {
       "id": "UndergroundGoods_Text_GoldTrophy",
-      "en_US": "Gold Trophy"
+      "en_US": "Gold Trophy",
+      "fr_FR": "Trophée Or"
     },
     {
       "id": "UndergroundGoods_Text_GreatTrophy_Unused",
-      "en_US": "Great Trophy"
+      "en_US": "Great Trophy",
+      "fr_FR": "Grand Trophée"
     },
     {
       "id": "UndergroundGoods_Text_BallOrnament_Unused",
-      "en_US": "Ball Ornament"
+      "en_US": "Ball Ornament",
+      "fr_FR": "Ornement Ball"
     },
     {
       "id": "UndergroundGoods_Text_RoundOrnament_Unused",
-      "en_US": "Round Ornament"
+      "en_US": "Round Ornament",
+      "fr_FR": "Ornement Rond"
     },
     {
       "id": "UndergroundGoods_Text_ClearOrnament_Unused",
-      "en_US": "Clear Ornament"
+      "en_US": "Clear Ornament",
+      "fr_FR": "Ornement Clair"
     },
     {
       "id": "UndergroundGoods_Text_CharmanderDoll",
-      "en_US": "CHARMANDER Doll"
+      "en_US": "CHARMANDER Doll",
+      "fr_FR": "Poup. SALAMECHE"
     },
     {
       "id": "UndergroundGoods_Text_BulbasaurDoll",
-      "en_US": "BULBASAUR Doll"
+      "en_US": "BULBASAUR Doll",
+      "fr_FR": "P. BULBIZARRE"
     },
     {
       "id": "UndergroundGoods_Text_SquirtleDoll",
-      "en_US": "SQUIRTLE Doll"
+      "en_US": "SQUIRTLE Doll",
+      "fr_FR": "Poupée CARAPUCE"
     },
     {
       "id": "UndergroundGoods_Text_CyndaquilDoll",
-      "en_US": "CYNDAQUIL Doll"
+      "en_US": "CYNDAQUIL Doll",
+      "fr_FR": "Poup.HERICENDRE"
     },
     {
       "id": "UndergroundGoods_Text_ChikoritaDoll",
-      "en_US": "CHIKORITA Doll"
+      "en_US": "CHIKORITA Doll",
+      "fr_FR": "Poup. GERMIGNON"
     },
     {
       "id": "UndergroundGoods_Text_TotodileDoll",
-      "en_US": "TOTODILE Doll"
+      "en_US": "TOTODILE Doll",
+      "fr_FR": "Poupée KAIMINUS"
     },
     {
       "id": "UndergroundGoods_Text_TorchicDoll",
-      "en_US": "TORCHIC Doll"
+      "en_US": "TORCHIC Doll",
+      "fr_FR": "Poup.POUSSIFEU"
     },
     {
       "id": "UndergroundGoods_Text_TreeckoDoll",
-      "en_US": "TREECKO Doll"
+      "en_US": "TREECKO Doll",
+      "fr_FR": "Poupée ARCKO"
     },
     {
       "id": "UndergroundGoods_Text_MudkipDoll",
-      "en_US": "MUDKIP Doll"
+      "en_US": "MUDKIP Doll",
+      "fr_FR": "Poupée GOBOU"
     },
     {
       "id": "UndergroundGoods_Text_ChimcharDoll",
-      "en_US": "CHIMCHAR Doll"
+      "en_US": "CHIMCHAR Doll",
+      "fr_FR": "P. OUISTICRAM"
     },
     {
       "id": "UndergroundGoods_Text_TurtwigDoll",
-      "en_US": "TURTWIG Doll"
+      "en_US": "TURTWIG Doll",
+      "fr_FR": "P. TORTIPOUSS"
     },
     {
       "id": "UndergroundGoods_Text_PiplupDoll",
-      "en_US": "PIPLUP Doll"
+      "en_US": "PIPLUP Doll",
+      "fr_FR": "Poupée TIPLOUF"
     },
     {
       "id": "UndergroundGoods_Text_PikachuDoll",
-      "en_US": "PIKACHU Doll"
+      "en_US": "PIKACHU Doll",
+      "fr_FR": "Poupée PIKACHU"
     },
     {
       "id": "UndergroundGoods_Text_PlusleDoll",
-      "en_US": "PLUSLE Doll"
+      "en_US": "PLUSLE Doll",
+      "fr_FR": "Poupée POSIPI"
     },
     {
       "id": "UndergroundGoods_Text_MinunDoll",
-      "en_US": "MINUN Doll"
+      "en_US": "MINUN Doll",
+      "fr_FR": "Poupée NEGAPI"
     },
     {
       "id": "UndergroundGoods_Text_ClefairyDoll",
-      "en_US": "CLEFAIRY Doll"
+      "en_US": "CLEFAIRY Doll",
+      "fr_FR": "Poupée MELOFEE"
     },
     {
       "id": "UndergroundGoods_Text_JigglypuffDoll",
-      "en_US": "JIGGLYPUFF Doll"
+      "en_US": "JIGGLYPUFF Doll",
+      "fr_FR": "Poup. RONDOUDOU"
     },
     {
       "id": "UndergroundGoods_Text_WobbuffetDoll",
-      "en_US": "WOBBUFFET Doll"
+      "en_US": "WOBBUFFET Doll",
+      "fr_FR": "Poup. QULBUTOKE"
     },
     {
       "id": "UndergroundGoods_Text_MeowthDoll",
-      "en_US": "MEOWTH Doll"
+      "en_US": "MEOWTH Doll",
+      "fr_FR": "Poupée MIAOUSS"
     },
     {
       "id": "UndergroundGoods_Text_SkittyDoll",
-      "en_US": "SKITTY Doll"
+      "en_US": "SKITTY Doll",
+      "fr_FR": "Poupée SKITTY"
     },
     {
       "id": "UndergroundGoods_Text_GlameowDoll",
-      "en_US": "GLAMEOW Doll"
+      "en_US": "GLAMEOW Doll",
+      "fr_FR": "Poupée CHAGLAM"
     },
     {
       "id": "UndergroundGoods_Text_BunearyDoll",
-      "en_US": "BUNEARY Doll"
+      "en_US": "BUNEARY Doll",
+      "fr_FR": "P. LAPOREILLE"
     },
     {
       "id": "UndergroundGoods_Text_WeavileDoll",
-      "en_US": "WEAVILE Doll"
+      "en_US": "WEAVILE Doll",
+      "fr_FR": "Poupée DIMORET"
     },
     {
       "id": "UndergroundGoods_Text_MunchlaxDoll",
-      "en_US": "MUNCHLAX Doll"
+      "en_US": "MUNCHLAX Doll",
+      "fr_FR": "Poupée GOINFREX"
     },
     {
       "id": "UndergroundGoods_Text_BonslyDoll",
-      "en_US": "BONSLY Doll"
+      "en_US": "BONSLY Doll",
+      "fr_FR": "Poupée MANZAI"
     },
     {
       "id": "UndergroundGoods_Text_MimeJrDoll",
-      "en_US": "MIME JR. Doll"
+      "en_US": "MIME JR. Doll",
+      "fr_FR": "Poupée MIME JR."
     },
     {
       "id": "UndergroundGoods_Text_LucarioDoll",
-      "en_US": "LUCARIO Doll"
+      "en_US": "LUCARIO Doll",
+      "fr_FR": "Poupée LUCARIO"
     },
     {
       "id": "UndergroundGoods_Text_MantykeDoll",
-      "en_US": "MANTYKE Doll"
+      "en_US": "MANTYKE Doll",
+      "fr_FR": "Poup. BABIMANTA"
     },
     {
       "id": "UndergroundGoods_Text_BuizelDoll",
-      "en_US": "BUIZEL Doll"
+      "en_US": "BUIZEL Doll",
+      "fr_FR": "P. MUSTEBOUEE"
     },
     {
       "id": "UndergroundGoods_Text_ChatotDoll",
-      "en_US": "CHATOT Doll"
+      "en_US": "CHATOT Doll",
+      "fr_FR": "Poup. PIJAKO"
     },
     {
       "id": "UndergroundGoods_Text_ManaphyDoll_Unused",
-      "en_US": "MANAPHY Doll"
+      "en_US": "MANAPHY Doll",
+      "fr_FR": "Poupée MANAPHY"
     },
     {
       "id": "UndergroundGoods_Text_SnorlaxDoll",
-      "en_US": "SNORLAX Doll"
+      "en_US": "SNORLAX Doll",
+      "fr_FR": "Poupée RONFLEX"
     },
     {
       "id": "UndergroundGoods_Text_WailordDoll",
-      "en_US": "WAILORD Doll"
+      "en_US": "WAILORD Doll",
+      "fr_FR": "Poupée WAILORD"
     },
     {
       "id": "UndergroundGoods_Text_MagnezoneDoll_Unused",
-      "en_US": "MAGNEZONE Doll"
+      "en_US": "MAGNEZONE Doll",
+      "fr_FR": "Poup. MAGNEZONE"
     },
     {
       "id": "UndergroundGoods_Text_DrifloonDoll",
-      "en_US": "DRIFLOON Doll"
+      "en_US": "DRIFLOON Doll",
+      "fr_FR": "Poupée BAUDRIVE"
     },
     {
       "id": "UndergroundGoods_Text_HappinyDoll",
-      "en_US": "HAPPINY Doll"
+      "en_US": "HAPPINY Doll",
+      "fr_FR": "Poupée PTIRAVI"
     },
     {
       "id": "UndergroundGoods_Text_PachirisuDoll",
-      "en_US": "PACHIRISU Doll"
+      "en_US": "PACHIRISU Doll",
+      "fr_FR": "Poup. PACHIRISU"
     },
     {
       "id": "UndergroundGoods_Text_SecretBaseEntranceSouth_Dummy",
-      "en_US": " -"
+      "en_US": " -",
+      "fr_FR": " -"
     },
     {
       "id": "UndergroundGoods_Text_SecretBaseEntranceNorth_Dummy",
-      "en_US": " -"
+      "en_US": " -",
+      "fr_FR": " -"
     },
     {
       "id": "UndergroundGoods_Text_SecretBaseEntranceEast_Dummy",
-      "en_US": " -"
+      "en_US": " -",
+      "fr_FR": " -"
     },
     {
       "id": "UndergroundGoods_Text_SecretBaseEntranceWest_Dummy",
-      "en_US": " -"
+      "en_US": " -",
+      "fr_FR": " -"
     },
     {
       "id": "UndergroundGoods_Text_WideSofa",
-      "en_US": "Wide Sofa"
+      "en_US": "Wide Sofa",
+      "fr_FR": "Large Canapé"
     },
     {
       "id": "UndergroundGoods_Text_Bonsai",
-      "en_US": "Bonsai"
+      "en_US": "Bonsai",
+      "fr_FR": "Bonsaï"
     },
     {
       "id": "UndergroundGoods_Text_DaintyFlowers",
-      "en_US": "Dainty Flowers"
+      "en_US": "Dainty Flowers",
+      "fr_FR": "Fleurs Fines"
     },
     {
       "id": "UndergroundGoods_Text_LovelyFlowers",
-      "en_US": "Lovely Flowers"
+      "en_US": "Lovely Flowers",
+      "fr_FR": "Belles Fleurs"
     },
     {
       "id": "UndergroundGoods_Text_PrettyFlowers",
-      "en_US": "Pretty Flowers"
+      "en_US": "Pretty Flowers",
+      "fr_FR": "Jolies Fleurs"
     },
     {
       "id": "UndergroundGoods_Text_LavishFlowers",
-      "en_US": "Lavish Flowers"
+      "en_US": "Lavish Flowers",
+      "fr_FR": "Fleurs Superbes"
     },
     {
       "id": "UndergroundGoods_Text_CloseDescription",
-      "en_US": "Close the Bag."
+      "en_US": "Close the Bag.",
+      "fr_FR": "Fermer le Sac."
     },
     {
       "id": "UndergroundGoods_Text_PCBronzeFlagDescription_Unused",
-      "en_US": "dummy"
+      "en_US": "dummy",
+      "fr_FR": "dummy"
     },
     {
       "id": "UndergroundGoods_Text_PCSilverFlagDescription_Unused",
-      "en_US": "dummy"
+      "en_US": "dummy",
+      "fr_FR": "dummy"
     },
     {
       "id": "UndergroundGoods_Text_PCGoldFlagDescription_Unused",
-      "en_US": "dummy"
+      "en_US": "dummy",
+      "fr_FR": "dummy"
     },
     {
       "id": "UndergroundGoods_Text_PCPlatinumFlagDescription_Unused",
-      "en_US": "dummy"
+      "en_US": "dummy",
+      "fr_FR": "dummy"
     },
     {
       "id": "UndergroundGoods_Text_BigBoulderDescription_Unused",
-      "en_US": "dummy"
+      "en_US": "dummy",
+      "fr_FR": "dummy"
     },
     {
       "id": "UndergroundGoods_Text_YellowCushionDescription",
       "en_US": [
         "A yellow cushion that can be placed\n",
         "inside your Secret Base."
+      ],
+      "fr_FR": [
+        "Un coussin jaune qui peut être placé\n",
+        "dans votre Base Secrète."
       ]
     },
     {
@@ -593,6 +742,10 @@
       "en_US": [
         "A blue cushion that can be placed\n",
         "inside your Secret Base."
+      ],
+      "fr_FR": [
+        "Un coussin bleu qui peut être placé\n",
+        "dans votre Base Secrète."
       ]
     },
     {
@@ -600,6 +753,10 @@
       "en_US": [
         "A small wooden chair that can be\n",
         "placed inside your Secret Base."
+      ],
+      "fr_FR": [
+        "Un tabouret en bois qui peut être placé\n",
+        "dans votre Base Secrète."
       ]
     },
     {
@@ -607,6 +764,10 @@
       "en_US": [
         "A very big table that can be placed\n",
         "inside your Secret Base."
+      ],
+      "fr_FR": [
+        "Une grande table qui peut être placée\n",
+        "dans votre Base Secrète."
       ]
     },
     {
@@ -614,6 +775,10 @@
       "en_US": [
         "An ordinary table that can be placed\n",
         "inside your Secret Base."
+      ],
+      "fr_FR": [
+        "Une table toute simple qui peut\n",
+        "être placée dans votre Base Secrète."
       ]
     },
     {
@@ -621,6 +786,10 @@
       "en_US": [
         "A very small table that can be placed\n",
         "inside your Secret Base."
+      ],
+      "fr_FR": [
+        "Une petite table qui peut être placée\n",
+        "dans votre Base Secrète."
       ]
     },
     {
@@ -628,6 +797,10 @@
       "en_US": [
         "A vertically long table that can be\n",
         "placed inside your Secret Base."
+      ],
+      "fr_FR": [
+        "Une table à placer verticalement dans\n",
+        "votre Base Secrète."
       ]
     },
     {
@@ -635,6 +808,10 @@
       "en_US": [
         "A horizontally wide table that can be\n",
         "placed inside your Secret Base."
+      ],
+      "fr_FR": [
+        "Une table à placer horizontalement\n",
+        "dans votre Base Secrète."
       ]
     },
     {
@@ -642,6 +819,10 @@
       "en_US": [
         "A glass-topped table that can be\n",
         "seen in Pokémon Centers."
+      ],
+      "fr_FR": [
+        "Une table en verre qu’on peut trouver\n",
+        "dans les Centres Pokémon."
       ]
     },
     {
@@ -649,6 +830,10 @@
       "en_US": [
         "A big bookshelf that can be placed\n",
         "inside your Secret Base."
+      ],
+      "fr_FR": [
+        "Une grande bibliothèque qui peut être\n",
+        "placée dans votre Base Secrète."
       ]
     },
     {
@@ -656,6 +841,10 @@
       "en_US": [
         "A small bookshelf that can be placed\n",
         "inside your Secret Base."
+      ],
+      "fr_FR": [
+        "Une petite bibliothèque qui peut être\n",
+        "placée dans votre Base Secrète."
       ]
     },
     {
@@ -663,6 +852,10 @@
       "en_US": [
         "A rack that is perfect for storing\n",
         "all kinds of research documents."
+      ],
+      "fr_FR": [
+        "Un meuble parfait pour conserver\n",
+        "des documents de recherche."
       ]
     },
     {
@@ -670,6 +863,10 @@
       "en_US": [
         "A rack of tools like those seen\n",
         "in the Cycle Shop."
+      ],
+      "fr_FR": [
+        "Un établi pareil à ceux de la\n",
+        "Boutique de Vélo."
       ]
     },
     {
@@ -677,6 +874,10 @@
       "en_US": [
         "A shelf stocked full of merchandise\n",
         "like at any Poké Mart."
+      ],
+      "fr_FR": [
+        "Une étagère pleine de marchandises\n",
+        "comme celles de la Boutique Pokémon."
       ]
     },
     {
@@ -684,6 +885,10 @@
       "en_US": [
         "A shelf stocked with a variety of\n",
         "merchandise like at any Poké Mart."
+      ],
+      "fr_FR": [
+        "Un présentoir avec des marchandises\n",
+        "comme celles de la Boutique Pokémon."
       ]
     },
     {
@@ -691,6 +896,10 @@
       "en_US": [
         "A fancy cupboard for storing all\n",
         "sorts of kitchenware."
+      ],
+      "fr_FR": [
+        "Un joli buffet pour ranger le matériel\n",
+        "de cuisine."
       ]
     },
     {
@@ -698,13 +907,18 @@
       "en_US": [
         "A wooden dresser with a\n",
         "distinguished air."
-      ]
+      ],
+      "fr_FR": "Une armoire en bois plutôt chic."
     },
     {
       "id": "UndergroundGoods_Text_PinkDresserDescription",
       "en_US": [
         "A fashionable dresser in a pretty\n",
         "pink color."
+      ],
+      "fr_FR": [
+        "Une armoire à la mode d’une jolie\n",
+        "couleur rose."
       ]
     },
     {
@@ -712,6 +926,10 @@
       "en_US": [
         "A big toy TV.\n",
         "It is very well made."
+      ],
+      "fr_FR": [
+        "Un grand jouet en forme de télé,\n",
+        "d’excellente facture."
       ]
     },
     {
@@ -719,6 +937,10 @@
       "en_US": [
         "A big, white toy refrigerator.\n",
         "It is very well made."
+      ],
+      "fr_FR": [
+        "Un grand jouet en forme de réfrigé-\n",
+        "rateur blanc, d’excellente facture."
       ]
     },
     {
@@ -726,6 +948,10 @@
       "en_US": [
         "A toy sink.\n",
         "It is very well made."
+      ],
+      "fr_FR": [
+        "Un jouet en forme d’évier, d’excellente\n",
+        "facture."
       ]
     },
     {
@@ -733,24 +959,34 @@
       "en_US": [
         "A very fluffy bed where one can\n",
         "enjoy pleasant dreams."
+      ],
+      "fr_FR": [
+        "Un lit très douillet où l’on fait de\n",
+        "beaux rêves."
       ]
     },
     {
       "id": "UndergroundGoods_Text_TrashCanDescription",
-      "en_US": "A round, green-colored trash can."
+      "en_US": "A round, green-colored trash can.",
+      "fr_FR": "Une poubelle ronde de couleur verte."
     },
     {
       "id": "UndergroundGoods_Text_CardboardBoxDescription",
       "en_US": [
         "A small cardboard box. It is\n",
         "convenient for storing things."
-      ]
+      ],
+      "fr_FR": "Carton utile pour stocker des choses."
     },
     {
       "id": "UndergroundGoods_Text_CrateDescription",
       "en_US": [
         "A large wooden crate that is filled\n",
         "with all sorts of things."
+      ],
+      "fr_FR": [
+        "Une grande caisse en bois, remplie de\n",
+        "toutes sortes de choses."
       ]
     },
     {
@@ -758,6 +994,10 @@
       "en_US": [
         "A large container that is filled with\n",
         "a variety of things."
+      ],
+      "fr_FR": [
+        "Un grand conteneur rempli de toutes\n",
+        "sortes de choses."
       ]
     },
     {
@@ -765,13 +1005,18 @@
       "en_US": [
         "A red oil drum like those seen in\n",
         "factories."
-      ]
+      ],
+      "fr_FR": "Un baril rouge comme ceux des usines."
     },
     {
       "id": "UndergroundGoods_Text_BigOilDrumDescription",
       "en_US": [
         "A cluster of oil drums like those\n",
         "seen in factories."
+      ],
+      "fr_FR": [
+        "Un ensemble de barils comme ceux\n",
+        "des usines."
       ]
     },
     {
@@ -779,6 +1024,10 @@
       "en_US": [
         "A red iron beam like those seen at\n",
         "building construction sites."
+      ],
+      "fr_FR": [
+        "Poutres métalliques rouges comme\n",
+        "celles des chantiers de construction."
       ]
     },
     {
@@ -786,6 +1035,10 @@
       "en_US": [
         "A potted plant that adds a touch\n",
         "of wild nature."
+      ],
+      "fr_FR": [
+        "Une plante en pot qui ajoute une touche\n",
+        "de verdure."
       ]
     },
     {
@@ -793,6 +1046,10 @@
       "en_US": [
         "A small flower like those seen at\n",
         "any Pokémon Center."
+      ],
+      "fr_FR": [
+        "Une petite fleur comme celles qu’on\n",
+        "peut voir dans les Centres Pokémon."
       ]
     },
     {
@@ -800,6 +1057,10 @@
       "en_US": [
         "A machine used to heal Pokémon like\n",
         "those at any Pokémon Center."
+      ],
+      "fr_FR": [
+        "Une machine qui soigne les Pokémon\n",
+        "comme celles des Centres Pokémon."
       ]
     },
     {
@@ -807,6 +1068,10 @@
       "en_US": [
         "A brightly illuminated machine used\n",
         "for Pokémon research."
+      ],
+      "fr_FR": [
+        "Une machine très lumineuse utilisée pour\n",
+        "la recherche Pokémon."
       ]
     },
     {
@@ -814,6 +1079,10 @@
       "en_US": [
         "A flickering, illuminated machine\n",
         "used for conducting experiments."
+      ],
+      "fr_FR": [
+        "Une machine aux lumières clignotantes\n",
+        "utilisée pour faire des tests."
       ]
     },
     {
@@ -821,6 +1090,10 @@
       "en_US": [
         "A brand-new game system like the\n",
         "one at home."
+      ],
+      "fr_FR": [
+        "Une console dernier cri comme\n",
+        "celle de la maison."
       ]
     },
     {
@@ -828,6 +1101,10 @@
       "en_US": [
         "A toy replica of a vending machine.\n",
         "It doesn’t actually work."
+      ],
+      "fr_FR": [
+        "Une réplique d’un distributeur.\n",
+        "Ne fonctionne pas."
       ]
     },
     {
@@ -835,6 +1112,10 @@
       "en_US": [
         "A red Bicycle replica. It is like\n",
         "those displayed at the Cycle Shop."
+      ],
+      "fr_FR": [
+        "Une réplique d’une Bicyclette rouge\n",
+        "pareille à celles de la Boutique de Vélo."
       ]
     },
     {
@@ -842,6 +1123,10 @@
       "en_US": [
         "A green Bicycle replica. It is like\n",
         "those displayed at the Cycle Shop."
+      ],
+      "fr_FR": [
+        "Une réplique d’une Bicyclette verte\n",
+        "pareille à celles de la Boutique de Vélo."
       ]
     },
     {
@@ -849,6 +1134,10 @@
       "en_US": [
         "A pair of high-powered\n",
         "replica binoculars."
+      ],
+      "fr_FR": [
+        "Une réplique d’une paire de jumelles\n",
+        "puissantes."
       ]
     },
     {
@@ -856,6 +1145,10 @@
       "en_US": [
         "It attests to the fact that you have\n",
         "friends from all over."
+      ],
+      "fr_FR": [
+        "Atteste du fait que vous avez des amis\n",
+        "dans le monde entier."
       ]
     },
     {
@@ -863,6 +1156,10 @@
       "en_US": [
         "A stone statue of a Pokémon like\n",
         "those at Pokémon Gyms."
+      ],
+      "fr_FR": [
+        "Une statue en pierre d’un Pokémon\n",
+        "comme celles des Arènes Pokémon."
       ]
     },
     {
@@ -870,6 +1167,10 @@
       "en_US": [
         "A large red tent.\n",
         "You can hide inside it."
+      ],
+      "fr_FR": [
+        "Une grande tente rouge. On peut se\n",
+        "cacher dedans."
       ]
     },
     {
@@ -877,6 +1178,10 @@
       "en_US": [
         "A large blue tent.\n",
         "You can hide inside it."
+      ],
+      "fr_FR": [
+        "Une grande tente bleue. On peut se\n",
+        "cacher dedans."
       ]
     },
     {
@@ -884,6 +1189,10 @@
       "en_US": [
         "A large transparent tent.\n",
         "You can go inside it."
+      ],
+      "fr_FR": [
+        "Une grande tente transparente.\n",
+        "On peut entrer dedans."
       ]
     },
     {
@@ -891,6 +1200,10 @@
       "en_US": [
         "A block for constructing a maze.\n",
         "It is blocked at the top."
+      ],
+      "fr_FR": [
+        "Bloc pour construire un labyrinthe.\n",
+        "Son sommet est bouché."
       ]
     },
     {
@@ -898,6 +1211,10 @@
       "en_US": [
         "A block for constructing a maze.\n",
         "It is blocked at the right."
+      ],
+      "fr_FR": [
+        "Bloc pour construire un labyrinthe.\n",
+        "Le côté droit est bouché."
       ]
     },
     {
@@ -905,6 +1222,10 @@
       "en_US": [
         "A block for constructing a maze.\n",
         "It is blocked at the bottom."
+      ],
+      "fr_FR": [
+        "Bloc pour construire un labyrinthe.\n",
+        "Sa base est bouchée."
       ]
     },
     {
@@ -912,6 +1233,10 @@
       "en_US": [
         "A block for constructing a maze.\n",
         "It is blocked at the left."
+      ],
+      "fr_FR": [
+        "Bloc pour construire un labyrinthe.\n",
+        "Le côté gauche est bouché."
       ]
     },
     {
@@ -919,6 +1244,10 @@
       "en_US": [
         "A block for constructing a maze.\n",
         "It is not blocked anywhere."
+      ],
+      "fr_FR": [
+        "Bloc pour construire un labyrinthe.\n",
+        "Il n’est pas bouché."
       ]
     },
     {
@@ -926,6 +1255,10 @@
       "en_US": [
         "A Tool that makes a big pitfall\n",
         "to immobilize the victim."
+      ],
+      "fr_FR": [
+        "Outil qui creuse un trou pour immobiliser\n",
+        "la victime."
       ]
     },
     {
@@ -933,6 +1266,10 @@
       "en_US": [
         "A Tool that makes a huge pitfall\n",
         "to immobilize the victim."
+      ],
+      "fr_FR": [
+        "Outil qui creuse un gros trou pour\n",
+        "immobiliser la victime."
       ]
     },
     {
@@ -940,6 +1277,10 @@
       "en_US": [
         "A Tool that releases obscuring smoke.\n",
         "The smoke can be rubbed away."
+      ],
+      "fr_FR": [
+        "Outil qui libère une fumée noire\n",
+        "qui peut être dissipée."
       ]
     },
     {
@@ -947,6 +1288,10 @@
       "en_US": [
         "A Tool that releases billowing smoke.\n",
         "The smoke can be rubbed away."
+      ],
+      "fr_FR": [
+        "Outil qui libère un gros nuage de fumée\n",
+        "noire qui peut être dissipé."
       ]
     },
     {
@@ -954,6 +1299,10 @@
       "en_US": [
         "A Tool that makes blocking boulders.\n",
         "Break the boulders to get free."
+      ],
+      "fr_FR": [
+        "Outil qui crée un rocher. Brisez-le\n",
+        "pour vous libérer."
       ]
     },
     {
@@ -961,6 +1310,10 @@
       "en_US": [
         "A Tool that makes Big Boulders.\n",
         "Break the boulders to get free."
+      ],
+      "fr_FR": [
+        "Outil qui crée un Gros Rocher.\n",
+        "Brisez-le pour vous libérer."
       ]
     },
     {
@@ -968,6 +1321,10 @@
       "en_US": [
         "A Tool that releases bubbles.\n",
         "Pop the bubbles to get free."
+      ],
+      "fr_FR": [
+        "Outil qui libère quelques bulles.\n",
+        "Eclatez-les pour vous libérer."
       ]
     },
     {
@@ -975,6 +1332,10 @@
       "en_US": [
         "A Tool that releases a mass of\n",
         "bubbles. Pop them to get free."
+      ],
+      "fr_FR": [
+        "Outil qui libère beaucoup de bulles.\n",
+        "Eclatez-les pour vous libérer."
       ]
     },
     {
@@ -982,13 +1343,18 @@
       "en_US": [
         "Stepping on this Tool sends \n",
         "greetings to everyone near you."
-      ]
+      ],
+      "fr_FR": "Outil qui salue les personnes proches."
     },
     {
       "id": "UndergroundGoods_Text_AlertTool2Description",
       "en_US": [
         "Stepping on this Tool sends\n",
         "farewells to everyone near you."
+      ],
+      "fr_FR": [
+        "Outil qui dit au revoir aux personnes\n",
+        "proches."
       ]
     },
     {
@@ -996,6 +1362,10 @@
       "en_US": [
         "Stepping on this Tool tells all nearby\n",
         "that you are going to the Union Room."
+      ],
+      "fr_FR": [
+        "Outil qui dit aux personnes proches que\n",
+        "vous voulez aller dans la Salle Union."
       ]
     },
     {
@@ -1003,6 +1373,10 @@
       "en_US": [
         "Stepping on this Tool alerts everyone\n",
         "to gather around you."
+      ],
+      "fr_FR": [
+        "Outil qui appelle tout le monde à venir\n",
+        "vers vous."
       ]
     },
     {
@@ -1010,6 +1384,10 @@
       "en_US": [
         "This Tool releases immobilizing leaves.\n",
         "Blow the leaves away to get free."
+      ],
+      "fr_FR": [
+        "Outil qui libère des feuilles paraly-\n",
+        "santes. Soufflez pour vous libérer."
       ]
     },
     {
@@ -1017,6 +1395,10 @@
       "en_US": [
         "This Tool releases many flowers.\n",
         "Blow the flowers away to get free."
+      ],
+      "fr_FR": [
+        "Outil qui libère de nombreuses fleurs.\n",
+        "Soufflez pour vous libérer."
       ]
     },
     {
@@ -1024,6 +1406,10 @@
       "en_US": [
         "This Tool releases immobilizing embers.\n",
         "Blow the embers away to get free."
+      ],
+      "fr_FR": [
+        "Outil qui crée une flamme paralysante.\n",
+        "Soufflez pour vous libérer."
       ]
     },
     {
@@ -1031,6 +1417,10 @@
       "en_US": [
         "This Tool releases billowing flames.\n",
         "Blow the flames away to get free."
+      ],
+      "fr_FR": [
+        "Outil qui crée une grande flamme para-\n",
+        "lysante. Soufflez pour vous libérer."
       ]
     },
     {
@@ -1038,6 +1428,10 @@
       "en_US": [
         "A winner’s cup that is awarded only\n",
         "to a truly cute Pokémon."
+      ],
+      "fr_FR": [
+        "Coupe récompensant les Pokémon les\n",
+        "plus gracieux."
       ]
     },
     {
@@ -1045,6 +1439,10 @@
       "en_US": [
         "A winner’s cup that is awarded only\n",
         "to a truly cool Pokémon."
+      ],
+      "fr_FR": [
+        "Coupe récompensant les Pokémon\n",
+        "ayant le plus de Sang-froid."
       ]
     },
     {
@@ -1052,6 +1450,10 @@
       "en_US": [
         "A winner’s cup that is awarded only\n",
         "to a truly beautiful Pokémon."
+      ],
+      "fr_FR": [
+        "Coupe récompensant les Pokémon les\n",
+        "plus beaux."
       ]
     },
     {
@@ -1059,6 +1461,10 @@
       "en_US": [
         "A winner’s cup that is awarded only\n",
         "to a truly tough Pokémon."
+      ],
+      "fr_FR": [
+        "Coupe récompensant les Pokémon les\n",
+        "plus robustes."
       ]
     },
     {
@@ -1066,6 +1472,10 @@
       "en_US": [
         "A winner’s cup that is awarded only\n",
         "to a truly smart Pokémon."
+      ],
+      "fr_FR": [
+        "Coupe récompensant les Pokémon les\n",
+        "plus intelligents."
       ]
     },
     {
@@ -1073,6 +1483,10 @@
       "en_US": [
         "A rare blue crystal awarded to\n",
         "helpful people."
+      ],
+      "fr_FR": [
+        "Cristal bleu très rare récompensant les\n",
+        "personnes généreuses."
       ]
     },
     {
@@ -1080,6 +1494,10 @@
       "en_US": [
         "A rare pink crystal awarded to\n",
         "kindhearted people."
+      ],
+      "fr_FR": [
+        "Cristal rose très rare récompensant\n",
+        "les personnes gentilles."
       ]
     },
     {
@@ -1087,6 +1505,10 @@
       "en_US": [
         "A rare red crystal that is awarded\n",
         "to hardworking people."
+      ],
+      "fr_FR": [
+        "Cristal rouge très rare récompensant\n",
+        "les personnes travailleuses."
       ]
     },
     {
@@ -1094,6 +1516,10 @@
       "en_US": [
         "A rare yellow crystal awarded to\n",
         "steady, determined people."
+      ],
+      "fr_FR": [
+        "Cristal jaune très rare récompensant\n",
+        "les personnes déterminées."
       ]
     },
     {
@@ -1101,13 +1527,18 @@
       "en_US": [
         "A pretty gem that has been cut\n",
         "beautifully."
-      ]
+      ],
+      "fr_FR": "Une jolie gemme très bien taillée."
     },
     {
       "id": "UndergroundGoods_Text_ShinyGemDescription",
       "en_US": [
         "A gleaming gem that has been polished\n",
         "like a mirror."
+      ],
+      "fr_FR": [
+        "Une gemme brillante qui a été polie\n",
+        "comme un miroir."
       ]
     },
     {
@@ -1115,6 +1546,10 @@
       "en_US": [
         "A gem that casts a mystic light.\n",
         "It is difficult to obtain."
+      ],
+      "fr_FR": [
+        "Une gemme qui brille d’une lueur\n",
+        "mystique. Difficile à obtenir."
       ]
     },
     {
@@ -1122,6 +1557,10 @@
       "en_US": [
         "An extremely valuable gem that\n",
         "glitters dazzlingly."
+      ],
+      "fr_FR": [
+        "Une gemme de très grande valeur qui\n",
+        "brille de manière éblouissante."
       ]
     },
     {
@@ -1129,6 +1568,10 @@
       "en_US": [
         "A trophy made of bronze that is\n",
         "awarded only to tough Pokémon."
+      ],
+      "fr_FR": [
+        "Un trophée en bronze offert aux\n",
+        "Pokémon robustes."
       ]
     },
     {
@@ -1136,6 +1579,10 @@
       "en_US": [
         "A silver-colored trophy that is\n",
         "awarded only to very tough Pokémon."
+      ],
+      "fr_FR": [
+        "Un trophée en argent offert aux\n",
+        "Pokémon très robustes."
       ]
     },
     {
@@ -1143,6 +1590,10 @@
       "en_US": [
         "A gold-colored trophy that is awarded\n",
         "only to fantastically tough Pokémon."
+      ],
+      "fr_FR": [
+        "Un trophée doré offert aux Pokémon\n",
+        "incroyablement robustes."
       ]
     },
     {
@@ -1150,6 +1601,10 @@
       "en_US": [
         "An impressive trophy awarded only to\n",
         "seemingly indefatigable Pokémon."
+      ],
+      "fr_FR": [
+        "Un trophée impressionnant offert aux\n",
+        "Pokémon infatigables."
       ]
     },
     {
@@ -1157,6 +1612,10 @@
       "en_US": [
         "A commemorative object modeled\n",
         "after a Poké Ball."
+      ],
+      "fr_FR": [
+        "Objet commémoratif en forme de\n",
+        "Poké Ball."
       ]
     },
     {
@@ -1164,6 +1623,10 @@
       "en_US": [
         "A very valuable round object that\n",
         "glows in seven colors."
+      ],
+      "fr_FR": [
+        "Objet rond de grande valeur qui brille\n",
+        "comme un arc-en-ciel."
       ]
     },
     {
@@ -1171,177 +1634,223 @@
       "en_US": [
         "A very valuable object that is\n",
         "crystal clear."
-      ]
+      ],
+      "fr_FR": "Objet translucide de grande valeur."
     },
     {
       "id": "UndergroundGoods_Text_CharmanderDollDescription",
-      "en_US": "A cute CHARMANDER Doll."
+      "en_US": "A cute CHARMANDER Doll.",
+      "fr_FR": "Une jolie poupée SALAMECHE."
     },
     {
       "id": "UndergroundGoods_Text_BulbasaurDollDescription",
-      "en_US": "A cute BULBASAUR Doll."
+      "en_US": "A cute BULBASAUR Doll.",
+      "fr_FR": "Une jolie poupée BULBIZARRE."
     },
     {
       "id": "UndergroundGoods_Text_SquirtleDollDescription",
-      "en_US": "A cute SQUIRTLE Doll."
+      "en_US": "A cute SQUIRTLE Doll.",
+      "fr_FR": "Une jolie poupée CARAPUCE."
     },
     {
       "id": "UndergroundGoods_Text_CyndaquilDollDescription",
-      "en_US": "A cute CYNDAQUIL Doll."
+      "en_US": "A cute CYNDAQUIL Doll.",
+      "fr_FR": "Une jolie poupée HERICENDRE."
     },
     {
       "id": "UndergroundGoods_Text_ChikoritaDollDescription",
-      "en_US": "A cute CHIKORITA Doll."
+      "en_US": "A cute CHIKORITA Doll.",
+      "fr_FR": "Une jolie poupée GERMIGNON."
     },
     {
       "id": "UndergroundGoods_Text_TotodileDollDescription",
-      "en_US": "A cute TOTODILE Doll."
+      "en_US": "A cute TOTODILE Doll.",
+      "fr_FR": "Une jolie poupée KAIMINUS."
     },
     {
       "id": "UndergroundGoods_Text_TorchicDollDescription",
-      "en_US": "A cute TORCHIC Doll."
+      "en_US": "A cute TORCHIC Doll.",
+      "fr_FR": "Une jolie poupée POUSSIFEU."
     },
     {
       "id": "UndergroundGoods_Text_TreeckoDollDescription",
-      "en_US": "A cute TREECKO Doll."
+      "en_US": "A cute TREECKO Doll.",
+      "fr_FR": "Une jolie poupée ARCKO."
     },
     {
       "id": "UndergroundGoods_Text_MudkipDollDescription",
-      "en_US": "A cute MUDKIP Doll."
+      "en_US": "A cute MUDKIP Doll.",
+      "fr_FR": "Une jolie poupée GOBOU."
     },
     {
       "id": "UndergroundGoods_Text_ChimcharDollDescription",
-      "en_US": "A cute CHIMCHAR Doll."
+      "en_US": "A cute CHIMCHAR Doll.",
+      "fr_FR": "Une jolie poupée OUISTICRAM."
     },
     {
       "id": "UndergroundGoods_Text_TurtwigDollDescription",
-      "en_US": "A cute TURTWIG Doll."
+      "en_US": "A cute TURTWIG Doll.",
+      "fr_FR": "Une jolie poupée TORTIPOUSS."
     },
     {
       "id": "UndergroundGoods_Text_PiplupDollDescription",
-      "en_US": "A cute PIPLUP Doll."
+      "en_US": "A cute PIPLUP Doll.",
+      "fr_FR": "Une jolie poupée TIPLOUF."
     },
     {
       "id": "UndergroundGoods_Text_PikachuDollDescription",
-      "en_US": "A cute PIKACHU Doll."
+      "en_US": "A cute PIKACHU Doll.",
+      "fr_FR": "Une jolie poupée PIKACHU."
     },
     {
       "id": "UndergroundGoods_Text_PlusleDollDescription",
-      "en_US": "A cute PLUSLE Doll."
+      "en_US": "A cute PLUSLE Doll.",
+      "fr_FR": "Une jolie poupée POSIPI."
     },
     {
       "id": "UndergroundGoods_Text_MinunDollDescription",
-      "en_US": "A cute MINUN Doll."
+      "en_US": "A cute MINUN Doll.",
+      "fr_FR": "Une jolie poupée NEGAPI."
     },
     {
       "id": "UndergroundGoods_Text_ClefairyDollDescription",
-      "en_US": "A cute CLEFAIRY Doll."
+      "en_US": "A cute CLEFAIRY Doll.",
+      "fr_FR": "Une jolie poupée MELOFEE."
     },
     {
       "id": "UndergroundGoods_Text_JigglypuffDollDescription",
-      "en_US": "A cute JIGGLYPUFF Doll."
+      "en_US": "A cute JIGGLYPUFF Doll.",
+      "fr_FR": "Une jolie poupée RONDOUDOU."
     },
     {
       "id": "UndergroundGoods_Text_WobbuffetDollDescription",
-      "en_US": "A cute WOBBUFFET Doll."
+      "en_US": "A cute WOBBUFFET Doll.",
+      "fr_FR": "Une jolie poupée QULBUTOKE."
     },
     {
       "id": "UndergroundGoods_Text_MeowthDollDescription",
-      "en_US": "A cute MEOWTH Doll."
+      "en_US": "A cute MEOWTH Doll.",
+      "fr_FR": "Une jolie poupée MIAOUSS."
     },
     {
       "id": "UndergroundGoods_Text_SkittyDollDescription",
-      "en_US": "A cute SKITTY Doll."
+      "en_US": "A cute SKITTY Doll.",
+      "fr_FR": "Une jolie poupée SKITTY."
     },
     {
       "id": "UndergroundGoods_Text_GlameowDollDescription",
-      "en_US": "A cute GLAMEOW Doll."
+      "en_US": "A cute GLAMEOW Doll.",
+      "fr_FR": "Une jolie poupée CHAGLAM."
     },
     {
       "id": "UndergroundGoods_Text_BunearyDollDescription",
-      "en_US": "A cute BUNEARY Doll."
+      "en_US": "A cute BUNEARY Doll.",
+      "fr_FR": "Une jolie poupée LAPOREILLE."
     },
     {
       "id": "UndergroundGoods_Text_WeavileDollDescription",
-      "en_US": "A cute WEAVILE Doll."
+      "en_US": "A cute WEAVILE Doll.",
+      "fr_FR": "Une jolie poupée DIMORET."
     },
     {
       "id": "UndergroundGoods_Text_MunchlaxDollDescription",
-      "en_US": "A cute MUNCHLAX Doll."
+      "en_US": "A cute MUNCHLAX Doll.",
+      "fr_FR": "Une jolie poupée GOINFREX."
     },
     {
       "id": "UndergroundGoods_Text_BonslyDollDescription",
-      "en_US": "A cute BONSLY Doll."
+      "en_US": "A cute BONSLY Doll.",
+      "fr_FR": "Une jolie poupée MANZAI."
     },
     {
       "id": "UndergroundGoods_Text_MimeJrDollDescription",
-      "en_US": "A cute MIME JR. Doll."
+      "en_US": "A cute MIME JR. Doll.",
+      "fr_FR": "Une jolie poupée MIME JR."
     },
     {
       "id": "UndergroundGoods_Text_LucarioDollDescription",
-      "en_US": "A rare LUCARIO Doll."
+      "en_US": "A rare LUCARIO Doll.",
+      "fr_FR": "Une poupée LUCARIO rare."
     },
     {
       "id": "UndergroundGoods_Text_MantykeDollDescription",
-      "en_US": "A cute MANTYKE Doll."
+      "en_US": "A cute MANTYKE Doll.",
+      "fr_FR": "Une jolie poupée BABIMANTA."
     },
     {
       "id": "UndergroundGoods_Text_BuizelDollDescription",
-      "en_US": "A cute BUIZEL Doll."
+      "en_US": "A cute BUIZEL Doll.",
+      "fr_FR": "Une jolie poupée MUSTEBOUEE."
     },
     {
       "id": "UndergroundGoods_Text_ChatotDollDescription",
-      "en_US": "A cute CHATOT Doll."
+      "en_US": "A cute CHATOT Doll.",
+      "fr_FR": "Une jolie poupée PIJAKO."
     },
     {
       "id": "UndergroundGoods_Text_ManaphyDollDescription_Unused",
-      "en_US": "A rare MANAPHY Doll."
+      "en_US": "A rare MANAPHY Doll.",
+      "fr_FR": "Une poupée MANAPHY rare."
     },
     {
       "id": "UndergroundGoods_Text_SnorlaxDollDescription",
-      "en_US": "A big SNORLAX Doll."
+      "en_US": "A big SNORLAX Doll.",
+      "fr_FR": "Une grande poupée RONFLEX."
     },
     {
       "id": "UndergroundGoods_Text_WailordDollDescription",
-      "en_US": "A big WAILORD Doll."
+      "en_US": "A big WAILORD Doll.",
+      "fr_FR": "Une grande poupée WAILORD."
     },
     {
       "id": "UndergroundGoods_Text_MagnezoneDollDescription_Unused",
-      "en_US": "A big MAGNEZONE Doll."
+      "en_US": "A big MAGNEZONE Doll.",
+      "fr_FR": "Une grande poupée MAGNEZONE."
     },
     {
       "id": "UndergroundGoods_Text_DrifloonDollDescription",
-      "en_US": "A cute DRIFLOON Doll."
+      "en_US": "A cute DRIFLOON Doll.",
+      "fr_FR": "Une jolie poupée BAUDRIVE."
     },
     {
       "id": "UndergroundGoods_Text_HappinyDollDescription",
-      "en_US": "A cute HAPPINY Doll."
+      "en_US": "A cute HAPPINY Doll.",
+      "fr_FR": "Une jolie poupée PTIRAVI."
     },
     {
       "id": "UndergroundGoods_Text_PachirisuDollDescription",
-      "en_US": "A cute PACHIRISU Doll."
+      "en_US": "A cute PACHIRISU Doll.",
+      "fr_FR": "Une jolie poupée PACHIRISU."
     },
     {
       "id": "UndergroundGoods_Text_SecretBaseEntranceSouthDescription_Dummy",
-      "en_US": " -"
+      "en_US": " -",
+      "fr_FR": " -"
     },
     {
       "id": "UndergroundGoods_Text_SecretBaseEntranceNorthDescription_Dummy",
-      "en_US": " -"
+      "en_US": " -",
+      "fr_FR": " -"
     },
     {
       "id": "UndergroundGoods_Text_SecretBaseEntranceEastDescription_Dummy",
-      "en_US": " -"
+      "en_US": " -",
+      "fr_FR": " -"
     },
     {
       "id": "UndergroundGoods_Text_SecretBaseEntranceWestDescription_Dummy",
-      "en_US": " -"
+      "en_US": " -",
+      "fr_FR": " -"
     },
     {
       "id": "UndergroundGoods_Text_WideSofaDescription",
       "en_US": [
         "A wide, blue sofa.\n",
         "It has room for two."
+      ],
+      "fr_FR": [
+        "Un large canapé bleu.\n",
+        "Il y a de la place pour deux."
       ]
     },
     {
@@ -1349,34 +1858,47 @@
       "en_US": [
         "A restrained and evocative miniature\n",
         "tree shaped by a master."
+      ],
+      "fr_FR": [
+        "Un arbre miniature, sobre et\n",
+        "évocateur, taillé par un maître."
       ]
     },
     {
       "id": "UndergroundGoods_Text_DaintyFlowersDescription",
-      "en_US": "A pot of very pretty flowers."
+      "en_US": "A pot of very pretty flowers.",
+      "fr_FR": "Un pot de fleurs délicates."
     },
     {
       "id": "UndergroundGoods_Text_LovelyFlowersDescription",
-      "en_US": "A pot of very beautiful flowers."
+      "en_US": "A pot of very beautiful flowers.",
+      "fr_FR": "Un pot de très belles fleurs."
     },
     {
       "id": "UndergroundGoods_Text_PrettyFlowersDescription",
-      "en_US": "A pot of very cute flowers."
+      "en_US": "A pot of very cute flowers.",
+      "fr_FR": "Un pot de très jolies fleurs."
     },
     {
       "id": "UndergroundGoods_Text_LavishFlowersDescription",
       "en_US": [
         "A planter that is bursting with a\n",
         "gorgeous selection of flowers."
+      ],
+      "fr_FR": [
+        "Une jardinière remplie de fleurs\n",
+        "magnifiques."
       ]
     },
     {
       "id": "UndergroundGoods_Text_Exit",
-      "en_US": "EXIT"
+      "en_US": "EXIT",
+      "fr_FR": "Quitter"
     },
     {
       "id": "UndergroundGoods_Text_ExitDescription",
-      "en_US": "Exit from decorating."
+      "en_US": "Exit from decorating.",
+      "fr_FR": "Arrêter de décorer."
     }
   ]
 }

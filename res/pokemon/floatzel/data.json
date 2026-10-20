@@ -7,7 +7,10 @@
         "special_attack": 85,
         "special_defense": 50
     },
-    "types": [ "TYPE_WATER", "TYPE_WATER" ],
+    "types": [
+        "TYPE_WATER",
+        "TYPE_WATER"
+    ],
     "catch_rate": 75,
     "base_exp_reward": 178,
     "ev_yields": {
@@ -26,28 +29,76 @@
     "hatch_cycles": 20,
     "base_friendship": 70,
     "exp_rate": "EXP_RATE_MEDIUM_FAST",
-    "egg_groups": [ "EGG_GROUP_WATER_1", "EGG_GROUP_FIELD" ],
-    "abilities": [ "ABILITY_SWIFT_SWIM", "ABILITY_NONE" ],
+    "egg_groups": [
+        "EGG_GROUP_WATER_1",
+        "EGG_GROUP_FIELD"
+    ],
+    "abilities": [
+        "ABILITY_SWIFT_SWIM",
+        "ABILITY_NONE"
+    ],
     "safari_flee_rate": 0,
     "body_color": "MON_COLOR_BROWN",
     "flip_sprite": false,
     "icon_palette": 0,
     "learnset": {
         "by_level": [
-            [ 1, "MOVE_ICE_FANG" ],
-            [ 1, "MOVE_SONIC_BOOM" ],
-            [ 1, "MOVE_GROWL" ],
-            [ 1, "MOVE_WATER_SPORT" ],
-            [ 1, "MOVE_QUICK_ATTACK" ],
-            [ 3, "MOVE_QUICK_ATTACK" ],
-            [ 6, "MOVE_WATER_GUN" ],
-            [ 10, "MOVE_PURSUIT" ],
-            [ 15, "MOVE_SWIFT" ],
-            [ 21, "MOVE_AQUA_JET" ],
-            [ 26, "MOVE_CRUNCH" ],
-            [ 29, "MOVE_AGILITY" ],
-            [ 39, "MOVE_WHIRLPOOL" ],
-            [ 50, "MOVE_RAZOR_WIND" ]
+            [
+                1,
+                "MOVE_ICE_FANG"
+            ],
+            [
+                1,
+                "MOVE_SONIC_BOOM"
+            ],
+            [
+                1,
+                "MOVE_GROWL"
+            ],
+            [
+                1,
+                "MOVE_WATER_SPORT"
+            ],
+            [
+                1,
+                "MOVE_QUICK_ATTACK"
+            ],
+            [
+                3,
+                "MOVE_QUICK_ATTACK"
+            ],
+            [
+                6,
+                "MOVE_WATER_GUN"
+            ],
+            [
+                10,
+                "MOVE_PURSUIT"
+            ],
+            [
+                15,
+                "MOVE_SWIFT"
+            ],
+            [
+                21,
+                "MOVE_AQUA_JET"
+            ],
+            [
+                26,
+                "MOVE_CRUNCH"
+            ],
+            [
+                29,
+                "MOVE_AGILITY"
+            ],
+            [
+                39,
+                "MOVE_WHIRLPOOL"
+            ],
+            [
+                50,
+                "MOVE_RAZOR_WIND"
+            ]
         ],
         "by_tm": [
             "TM01",
@@ -100,7 +151,7 @@
             "MOVE_SWIFT"
         ]
     },
-    "evolutions": [  ],
+    "evolutions": [],
     "offspring": "SPECIES_BUIZEL",
     "footprint": {
         "has": true,
@@ -123,9 +174,9 @@
             "name": "FLOATZEL",
             "category": "Sea Weasel Pokémon",
             "entry_text": [
-                "It is a common sight around\n",
-                "fishing ports. It is known to\n",
-                "rescue people and carry off prey."
+                "It floats using its well-developed\n",
+                "flotation sac. It assists in the\n",
+                "rescues of drowning people."
             ]
         },
         "fr": {
@@ -171,6 +222,18 @@
                 "はったつした　うきぶくろで　うかぶ。\n",
                 "おぼれた　ひとを　きゅうじょする\n",
                 "てつだいを　している　ポケモンだ。"
+            ]
+        },
+        "local_version": {
+            "entry_text": [
+                "It is a common sight around\n",
+                "fishing ports. It is known to\n",
+                "rescue people and carry off prey."
+            ],
+            "entry_text_fr": [
+                "Il chasse souvent près des ports\n",
+                "de pêche où il sauve parfois les\n",
+                "gens tombés à la mer."
             ]
         }
     },

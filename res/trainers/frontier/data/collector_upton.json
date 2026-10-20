@@ -59,6 +59,10 @@
             "en_US": [
                 "I put this team together with my\n",
                 "Internet buddies. It took us all day!"
+            ],
+            "fr_FR": [
+                "J’ai monté un groupe de recherche\n",
+                "Pokémon avec des amis sur Internet!"
             ]
         },
         {
@@ -66,6 +70,10 @@
             "en_US": [
                 "We won! I need to thank my Internet\n",
                 "buddies for their advice!\r"
+            ],
+            "fr_FR": [
+                "Gagné! Et j’ai récolté plein d’infos\n",
+                "utiles pour mon groupe de recherche!\r"
             ]
         },
         {
@@ -73,7 +81,12 @@
             "en_US": [
                 "Aww, darn it! We lost?!\n",
                 "I’ll report it to my Internet buddies!\r"
+            ],
+            "fr_FR": [
+                "Argh! Perdu! Je vais devoir annoncer\n",
+                "ça aux membres de mon groupe...\r"
             ]
         }
-    ]
+    ],
+    "name_fr": "Ulrich"
 }

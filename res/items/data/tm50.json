@@ -27,5 +27,13 @@
   "fieldUseFunc": "ITEM_USE_FUNC_TM_HM",
   "battleUseCategory": "BATTLE_USE_CATEGORY_NONE",
   "itemUseParams": null,
-  "teachesMove": "MOVE_OVERHEAT"
+  "teachesMove": "MOVE_OVERHEAT",
+  "name_fr": "CT50",
+  "description_fr": [
+    "Attaque l’ennemi à pleine puissance.\n",
+    "Le contrecoup baisse énormément\n",
+    "l’Atq. Spé. du lanceur."
+  ],
+  "plural_fr": "CT50",
+  "article_fr": null
 }

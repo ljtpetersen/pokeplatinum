@@ -103,6 +103,10 @@
             "en_US": [
                 "Oh, yeah? When the going gets tough,\n",
                 "my Pokémon get tougher!\n"
+            ],
+            "fr_FR": [
+                "Ah, ouais? Quand les choses se corsent,\n",
+                "mes Pokémon deviennent plus forts!\n"
             ]
         },
         {
@@ -110,7 +114,12 @@
             "en_US": [
                 "What just went down?!\n",
                 "You’re telling me I lost again?!\n"
+            ],
+            "fr_FR": [
+                "Qu’est-ce qui vient de se passer?!\n",
+                "Tu veux dire que j’ai encore perdu?!\n"
             ]
         }
-    ]
+    ],
+    "name_fr": "Eddy"
 }

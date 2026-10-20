@@ -77,6 +77,10 @@
             "en_US": [
                 "Whether it be work or play, I’m with my\n",
                 "Pokémon all day."
+            ],
+            "fr_FR": [
+                "Je joue avec eux, je travaille avec eux:\n",
+                "je passe mon temps avec les Pokémon."
             ]
         },
         {
@@ -84,6 +88,10 @@
             "en_US": [
                 "Life without Pokémon?\n",
                 "I can’t picture that.\r"
+            ],
+            "fr_FR": [
+                "Une vie sans Pokémon?\n",
+                "Je n’y pense même pas.\r"
             ]
         },
         {
@@ -91,7 +99,12 @@
             "en_US": [
                 "It’s like I’m married to my Pokémon.\n",
                 "I’m not married, though.\r"
+            ],
+            "fr_FR": [
+                "C’est comme si j’étais marié avec les\n",
+                "Pokémon. Sans être vraiment marié.\r"
             ]
         }
-    ]
+    ],
+    "name_fr": "Vernon"
 }

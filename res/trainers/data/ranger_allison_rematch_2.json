@@ -34,11 +34,17 @@
             "en_US": [
                 "What do you think? The environment\n",
                 "is unharmed in this area.\r"
+            ],
+            "fr_FR": [
+                "Qu’en penses-tu? La nature est\n",
+                "intacte dans les environs.\r"
             ]
         },
         {
             "type": "TRMSG_DEFEAT",
-            "en_US": "We have to get tougher than this..."
+            "en_US": "We have to get tougher than this...",
+            "fr_FR": "Nous avons des progrès à faire..."
         }
-    ]
+    ],
+    "name_fr": "Estelle"
 }

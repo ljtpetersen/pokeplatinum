@@ -8,6 +8,12 @@
         "Over here.\r",
         "This gathering of the Team Galactic...\n",
         "What is the meaning of it?\r"
+      ],
+      "fr_FR": [
+        "Beladonis: Psst! Par ici.\n",
+        "Regarde ça.\r",
+        "La Team Galaxie est en pleine réunion...\n",
+        "Mais pourquoi?\r"
       ]
     },
     {
@@ -30,6 +36,24 @@
         "with my entire body and being.\r",
         "The world should be complete.\n",
         "The world must change.\r"
+      ],
+      "fr_FR": [
+        "Hélio: Chers membres de la Team\n",
+        "Galaxie, merci de votre attention!\r",
+        "Mon nom est Hélio.\r",
+        "Le monde dans lequel nous vivons n’est\n",
+        "qu’une grossière ébauche marquée par\f",
+        "l’imperfection.\r",
+        "Il a toujours fallu se battre pour y\n",
+        "survivre, et cela continuera.\r",
+        "Les Pokémon et les humains, eux aussi,\n",
+        "sont des êtres incomplets.\r",
+        "Ainsi, nous abîmons tout ce que nous\n",
+        "touchons. Ah, tant de laideur!\r",
+        "J’exècre cette imperfection qui révolte\n",
+        "tout mon être et me soulève le cœur.\r",
+        "Le monde devrait être complet.\n",
+        "Le monde doit changer.\r"
       ]
     },
     {
@@ -46,6 +70,21 @@
         "the energy to change the world!\r",
         "The power of dreams is within our\n",
         "grasp!\r"
+      ],
+      "fr_FR": [
+        "Qui, me direz-vous, sera l’instigateur\n",
+        "de cette révolution?\r",
+        "Moi, Hélio, avec la Team Galaxie à mes\n",
+        "côtés. Oui, vous tous.\r",
+        "Ensemble, nous nous sommes penchés\n",
+        "sur les mythes pour en dévoiler les\f",
+        "secrets.\r",
+        "Ensemble, nous avons capturé des\n",
+        "Pokémon légendaires.\r",
+        "A présent, nous sommes enfin prêts à\n",
+        "changer le monde!\r",
+        "Nous avons le pouvoir de concrétiser\n",
+        "nos rêves!\r"
       ]
     },
     {
@@ -59,15 +98,28 @@
         "Though our missions may differ, our\n",
         "hearts beat as one.\r",
         "Let there be glory for Team Galactic!\r"
+      ],
+      "fr_FR": [
+        "Comprenez-moi bien, chers camarades!\r",
+        "Le monde parfait dont je rêve depuis si\n",
+        "longtemps est sur le point de prendre\f",
+        "corps.\r",
+        "A tous ceux qui sont partis pour le Mont\n",
+        "Couronné, et à ceux qui restent ici...\r",
+        "Bien que nos missions diffèrent,\n",
+        "puissent nos cœurs battre à l’unisson.\r",
+        "Gloire à la Team Galaxie!\r"
       ]
     },
     {
       "id": "GalacticHQHall_Text_GruntsWroooar",
-      "en_US": "Grunts: WROOOAR!!\r"
+      "en_US": "Grunts: WROOOAR!!\r",
+      "fr_FR": "Sbires: HOURRAAAA!!\r"
     },
     {
       "id": "GalacticHQHall_Text_CyrusIsTheGreatest",
-      "en_US": "Grunt: Master Cyrus is the greatest!\r"
+      "en_US": "Grunt: Master Cyrus is the greatest!\r",
+      "fr_FR": "Sbire: Longue vie à Hélio notre maître!\r"
     },
     {
       "id": "GalacticHQHall_Text_QuiteThePerformance",
@@ -89,6 +141,26 @@
         "And it is my job, therefore.\r",
         "We shall part ways here.\n",
         "Take extra care, my friend!\r"
+      ],
+      "fr_FR": [
+        "Beladonis: Impressionnant...\r",
+        "C’était donc Hélio, le patron de la\n",
+        "Team Galaxie.\r",
+        "Quel orateur charismatique! Admirable\n",
+        "pour un jeune homme de 27 ans.\r",
+        "Je n’en dirais pas tant du contenu de\n",
+        "son discours. Un monde pour la seule\f",
+        "Team Galaxie?\r",
+        "C’est grotesque! A tel point que j’en\n",
+        "ai la tête qui tourne.\r",
+        "Un monde nouveau? Nouveau en quoi?\n",
+        "Et ce monde incomplet dont il parle?\r",
+        "Les Forces de Police Internationales\n",
+        "ont du pain sur la planche.\r",
+        "Pas de souci, l’agent Beladonis\n",
+        "est sur le coup!\r",
+        "Le devoir m’appelle.\n",
+        "Prudence, camarade!\r"
       ]
     },
     {

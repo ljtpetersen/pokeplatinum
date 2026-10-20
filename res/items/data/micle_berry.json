@@ -39,5 +39,13 @@
     "bitterness": 0,
     "sourness": 0,
     "smoothness": 60
-  }
+  },
+  "name_fr": "Baie Micle",
+  "description_fr": [
+    "Ingrédient pour Poffin. Tenue, cette\n",
+    "Baie augmente une fois la précision\n",
+    "d’une capacité si nécessaire."
+  ],
+  "plural_fr": "Baie Micle",
+  "article_fr": null
 }

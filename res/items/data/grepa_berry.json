@@ -44,5 +44,13 @@
     "bitterness": 0,
     "sourness": 10,
     "smoothness": 20
-  }
+  },
+  "name_fr": "Baie Résin",
+  "description_fr": [
+    "Ingrédient pour Poffin.\n",
+    "Rend les Pokémon plus amicaux, mais\n",
+    "baisse leur stat Déf. Spé. de base."
+  ],
+  "plural_fr": "Baie Résin",
+  "article_fr": null
 }

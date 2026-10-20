@@ -23,6 +23,10 @@
             "en_US": [
                 "Poof!\r",
                 "You’ve got a good eye spotting me!\r"
+            ],
+            "fr_FR": [
+                "Hop!\r",
+                "Tu as l’œil pour me repérer!\r"
             ]
         },
         {
@@ -30,6 +34,10 @@
             "en_US": [
                 "You also saw through my weak\n",
                 "spots...\n"
+            ],
+            "fr_FR": [
+                "Tu as aussi su repérer\n",
+                "mes points faibles...\n"
             ]
         },
         {
@@ -37,6 +45,10 @@
             "en_US": [
                 "I’ll play with my Pokémon--even in a\n",
                 "blizzard!\n"
+            ],
+            "fr_FR": [
+                "Je jouerais n’importe où avec mes \n",
+                "Pokémon... Même dans le blizzard!\n"
             ]
         },
         {
@@ -44,7 +56,12 @@
             "en_US": [
                 "Poof!\r",
                 "You saw through my camouflage again!\r"
+            ],
+            "fr_FR": [
+                "Hop!\r",
+                "Tu as encore déjoué mon déguisement!\r"
             ]
         }
-    ]
+    ],
+    "name_fr": "Adel"
 }

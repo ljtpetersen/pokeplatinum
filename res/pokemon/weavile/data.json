@@ -7,7 +7,10 @@
         "special_attack": 45,
         "special_defense": 85
     },
-    "types": [ "TYPE_DARK", "TYPE_ICE" ],
+    "types": [
+        "TYPE_DARK",
+        "TYPE_ICE"
+    ],
     "catch_rate": 45,
     "base_exp_reward": 199,
     "ev_yields": {
@@ -26,31 +29,88 @@
     "hatch_cycles": 20,
     "base_friendship": 35,
     "exp_rate": "EXP_RATE_MEDIUM_SLOW",
-    "egg_groups": [ "EGG_GROUP_FIELD", "EGG_GROUP_FIELD" ],
-    "abilities": [ "ABILITY_PRESSURE", "ABILITY_PRESSURE" ],
+    "egg_groups": [
+        "EGG_GROUP_FIELD",
+        "EGG_GROUP_FIELD"
+    ],
+    "abilities": [
+        "ABILITY_PRESSURE",
+        "ABILITY_PRESSURE"
+    ],
     "safari_flee_rate": 0,
     "body_color": "MON_COLOR_BLACK",
     "flip_sprite": false,
     "icon_palette": 0,
     "learnset": {
         "by_level": [
-            [ 1, "MOVE_EMBARGO" ],
-            [ 1, "MOVE_REVENGE" ],
-            [ 1, "MOVE_ASSURANCE" ],
-            [ 1, "MOVE_SCRATCH" ],
-            [ 1, "MOVE_LEER" ],
-            [ 1, "MOVE_TAUNT" ],
-            [ 1, "MOVE_QUICK_ATTACK" ],
-            [ 8, "MOVE_QUICK_ATTACK" ],
-            [ 10, "MOVE_SCREECH" ],
-            [ 14, "MOVE_FAINT_ATTACK" ],
-            [ 21, "MOVE_FURY_SWIPES" ],
-            [ 24, "MOVE_NASTY_PLOT" ],
-            [ 28, "MOVE_ICY_WIND" ],
-            [ 35, "MOVE_NIGHT_SLASH" ],
-            [ 38, "MOVE_FLING" ],
-            [ 42, "MOVE_METAL_CLAW" ],
-            [ 49, "MOVE_DARK_PULSE" ]
+            [
+                1,
+                "MOVE_EMBARGO"
+            ],
+            [
+                1,
+                "MOVE_REVENGE"
+            ],
+            [
+                1,
+                "MOVE_ASSURANCE"
+            ],
+            [
+                1,
+                "MOVE_SCRATCH"
+            ],
+            [
+                1,
+                "MOVE_LEER"
+            ],
+            [
+                1,
+                "MOVE_TAUNT"
+            ],
+            [
+                1,
+                "MOVE_QUICK_ATTACK"
+            ],
+            [
+                8,
+                "MOVE_QUICK_ATTACK"
+            ],
+            [
+                10,
+                "MOVE_SCREECH"
+            ],
+            [
+                14,
+                "MOVE_FAINT_ATTACK"
+            ],
+            [
+                21,
+                "MOVE_FURY_SWIPES"
+            ],
+            [
+                24,
+                "MOVE_NASTY_PLOT"
+            ],
+            [
+                28,
+                "MOVE_ICY_WIND"
+            ],
+            [
+                35,
+                "MOVE_NIGHT_SLASH"
+            ],
+            [
+                38,
+                "MOVE_FLING"
+            ],
+            [
+                42,
+                "MOVE_METAL_CLAW"
+            ],
+            [
+                49,
+                "MOVE_DARK_PULSE"
+            ]
         ],
         "by_tm": [
             "TM01",
@@ -116,7 +176,7 @@
             "MOVE_SWIFT"
         ]
     },
-    "evolutions": [  ],
+    "evolutions": [],
     "offspring": "SPECIES_SNEASEL",
     "footprint": {
         "has": true,
@@ -139,9 +199,9 @@
             "name": "WEAVILE",
             "category": "Sharp Claw Pokémon",
             "entry_text": [
-                "Evolution made it even more\n",
-                "devious. It communicates by clawing\n",
-                "signs in boulders."
+                "They live in cold regions, forming\n",
+                "groups of four or five that hunt\n",
+                "prey with impressive coordination."
             ]
         },
         "fr": {
@@ -187,6 +247,18 @@
                 "さむい　ちいきで　くらす　ポケモン。\n",
                 "４、５ひきの　グル－プは　みごとな\n",
                 "れんけいで　えものを　おいつめる。"
+            ]
+        },
+        "local_version": {
+            "entry_text": [
+                "Evolution made it even more\n",
+                "devious. It communicates by clawing\n",
+                "signs in boulders."
+            ],
+            "entry_text_fr": [
+                "L’évolution l’a rendu encore plus\n",
+                "retors. Il communique en griffant\n",
+                "des signes dans les pierres."
             ]
         }
     },

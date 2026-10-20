@@ -6,6 +6,10 @@
       "en_US": [
         "Hello, hello. Would you like to hear\n",
         "a trendy saying?"
+      ],
+      "fr_FR": [
+        "Bonjour, bonjour. Tu veux connaître\n",
+        "une expression à la mode?"
       ]
     },
     {
@@ -17,6 +21,13 @@
         "{STRVAR_1 28, 0, 0}!\r",
         "That’s a trendy sort of thing\n",
         "to say."
+      ],
+      "fr_FR": [
+        "Très bien...\r",
+        "Pour toi, l’expression à la mode\n",
+        "serait certainement...\r",
+        "{STRVAR_1 28, 0, 0}!\r",
+        "C’est trop fashion!"
       ]
     },
     {
@@ -24,6 +35,10 @@
       "en_US": [
         "Oh, come on now. With an attitude like\n",
         "that, you’ll fall behind the times!"
+      ],
+      "fr_FR": [
+        "Oh, allez. Avec cette attitude, tu\n",
+        "finiras complètement has-been!"
       ]
     },
     {
@@ -31,6 +46,10 @@
       "en_US": [
         "I hope you’ll use trendy sayings\n",
         "in a trendy way."
+      ],
+      "fr_FR": [
+        "Avec ces expressions à la mode, tu\n",
+        "deviendras la coqueluche des paparazzi."
       ]
     },
     {
@@ -38,6 +57,10 @@
       "en_US": [
         "Hello, hello. Are you using trendy\n",
         "sayings?"
+      ],
+      "fr_FR": [
+        "Bonjour, bonjour. Alors, tu les utilises\n",
+        "mes expressions à la mode?"
       ]
     },
     {
@@ -54,31 +77,50 @@
         "Share colored Shards with me, and I’ll\n",
         "teach your Pokémon some moves.\r",
         "Want me to teach a move?"
+      ],
+      "fr_FR": [
+        "Je peux enseigner des capacités à tes\n",
+        "Pokémon en échange de Tessons colorés.\r",
+        "Alors, ça t’intéresse?"
       ]
     },
     {
       "id": "SnowpointCityEastHouse_Text_BeSeeingYou",
-      "en_US": "Be seeing you, then!"
+      "en_US": "Be seeing you, then!",
+      "fr_FR": "Très bien. A la prochaine!"
     },
     {
       "id": "SnowpointCityEastHouse_Text_WhichPokemon",
-      "en_US": "Which Pokémon will it be?\r"
+      "en_US": "Which Pokémon will it be?\r",
+      "fr_FR": [
+        "A quel Pokémon dois-je enseigner\n",
+        "une capacité?\r"
+      ]
     },
     {
       "id": "SnowpointCityEastHouse_Text_NoMovesToTeach",
       "en_US": [
         "There are no moves that can be taught\n",
         "to this Pokémon."
+      ],
+      "fr_FR": [
+        "Je ne peux rien apprendre à ce\n",
+        "Pokémon."
       ]
     },
     {
       "id": "SnowpointCityEastHouse_Text_NotEnoughShards",
-      "en_US": "You don’t have enough Shards."
+      "en_US": "You don’t have enough Shards.",
+      "fr_FR": "Tu n’as pas assez de Tessons."
     },
     {
       "id": "SnowpointCityEastHouse_Text_TeachWhichMove",
       "en_US": [
         "Teach which move to\n",
+        "{STRVAR_1 1, 0, 0}?"
+      ],
+      "fr_FR": [
+        "Enseigner quelle capacité à\n",
         "{STRVAR_1 1, 0, 0}?"
       ]
     },
@@ -95,6 +137,10 @@
       "en_US": [
         "{STRVAR_1 1, 0, 0} learned\n",
         "{STRVAR_1 6, 1, 0}."
+      ],
+      "fr_FR": [
+        "{STRVAR_1 1, 0, 0} apprend\n",
+        "{STRVAR_1 6, 1, 0}."
       ]
     },
     {
@@ -106,6 +152,14 @@
         "than four moves.\r",
         "Delete an older move to make\n",
         "room for {STRVAR_1 6, 1, 0}?"
+      ],
+      "fr_FR": [
+        "{STRVAR_1 1, 0, 0} tente d’apprendre\n",
+        "{STRVAR_1 6, 1, 0}.\r",
+        "Mais {STRVAR_1 1, 0, 0} ne peut pas\n",
+        "apprendre plus de quatre capacités.\r",
+        "Effacer une capacité pour\n",
+        "{STRVAR_1 6, 1, 0}?"
       ]
     },
     {
@@ -113,13 +167,18 @@
       "en_US": [
         "Stop trying to teach\n",
         "{STRVAR_1 6, 1, 0}?"
-      ]
+      ],
+      "fr_FR": "Arrêter d’apprendre {STRVAR_1 6, 1, 0}?"
     },
     {
       "id": "SnowpointCityEastHouse_Text_PokemonDidntLearnMove",
       "en_US": [
         "{STRVAR_1 1, 0, 0} did not learn the\n",
         "move {STRVAR_1 6, 1, 0}.\r"
+      ],
+      "fr_FR": [
+        "{STRVAR_1 1, 0, 0} n’a pas appris la capacité\n",
+        "{STRVAR_1 6, 1, 0}.\r"
       ]
     },
     {
@@ -127,11 +186,16 @@
       "en_US": [
         "{STRVAR_1 6, 1, 0} is the move that\n",
         "you want forgotten?"
+      ],
+      "fr_FR": [
+        "{STRVAR_1 6, 1, 0} est la capacité qui doit\n",
+        "être oubliée?"
       ]
     },
     {
       "id": "SnowpointCityEastHouse_Text_OneTwoThreePoof",
-      "en_US": "1{PAUSE 20}, 2{PAUSE 20}, and{PAUSE 20}... {PAUSE 20}... Poof!"
+      "en_US": "1{PAUSE 20}, 2{PAUSE 20}, and{PAUSE 20}... {PAUSE 20}... Poof!",
+      "fr_FR": "1{PAUSE 20}, 2{PAUSE 20} et {PAUSE 20}... {PAUSE 20}... Tadaa!"
     },
     {
       "id": "SnowpointCityEastHouse_Text_PokemonForgotMove",
@@ -139,12 +203,21 @@
         "{STRVAR_1 1, 0, 0} forgot\n",
         "{STRVAR_1 6, 1, 0}.\r",
         "And..."
+      ],
+      "fr_FR": [
+        "{STRVAR_1 1, 0, 0} oublie\n",
+        "{STRVAR_1 6, 1, 0}.\r",
+        "Et..."
       ]
     },
     {
       "id": "SnowpointCityEastHouse_Text_PokemonLearnedMove2",
       "en_US": [
         "{STRVAR_1 1, 0, 0} learned\n",
+        "{STRVAR_1 6, 1, 0}."
+      ],
+      "fr_FR": [
+        "{STRVAR_1 1, 0, 0} apprend\n",
         "{STRVAR_1 6, 1, 0}."
       ]
     },
@@ -153,6 +226,10 @@
       "en_US": [
         "It’s beyond my ability to teach moves\n",
         "to an Egg!"
+      ],
+      "fr_FR": [
+        "Je suis incapable d’enseigner une\n",
+        "capacité à un Oeuf!"
       ]
     }
   ]

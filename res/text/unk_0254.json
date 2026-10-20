@@ -7,18 +7,24 @@
     },
     {
       "id": "pl_msg_00000254_00001",
-      "en_US": "I lost!"
+      "en_US": "I lost!",
+      "fr_FR": "J’ai perdu!"
     },
     {
       "id": "pl_msg_00000254_00002",
       "en_US": [
         "When Trainers lock eyes with you,\n",
         "it’s the signal to battle!"
+      ],
+      "fr_FR": [
+        "Si tu croises le regard d’un Dresseur,\n",
+        "tu dois l’affronter! C’est la règle!"
       ]
     },
     {
       "id": "pl_msg_00000254_00003",
-      "en_US": "Floaroma Garden"
+      "en_US": "Floaroma Garden",
+      "fr_FR": "Jardin de Floraville"
     }
   ]
 }

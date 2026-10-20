@@ -21,5 +21,12 @@
     "contest": {
         "effect": "CONTEST_EFFECT_SUPPRESS_VOLTAGE",
         "type": "CONTEST_TYPE_BEAUTY"
-    }
+    },
+    "name_fr": "Zénith",
+    "description_fr": [
+        "Fait briller le soleil\n",
+        "pendant 5 tours et\n",
+        "améliore les capacités\n",
+        "de type Feu."
+    ]
 }

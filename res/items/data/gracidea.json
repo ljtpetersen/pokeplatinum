@@ -26,5 +26,13 @@
   "battlePocket": "BATTLE_POCKET_MASK_NONE",
   "fieldUseFunc": "ITEM_USE_FUNC_GRACIDEA",
   "battleUseCategory": "BATTLE_USE_CATEGORY_NONE",
-  "itemUseParams": null
+  "itemUseParams": null,
+  "name_fr": "Gracidée",
+  "description_fr": [
+    "Fleur que l’on offre en gage de\n",
+    "reconnaissance, notamment à\n",
+    "l’occasion d’un anniversaire."
+  ],
+  "plural_fr": "Gracidée",
+  "article_fr": null
 }

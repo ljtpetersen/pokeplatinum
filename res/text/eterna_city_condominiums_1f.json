@@ -8,6 +8,12 @@
         "I am the official Name Rater!\r",
         "Want me to rate the nicknames of\n",
         "your Pokémon?"
+      ],
+      "fr_FR": [
+        "Bonjour, bonjour!\n",
+        "Je suis le Spécialiste des Noms!\r",
+        "Tu veux que j’évalue le surnom\n",
+        "de tes Pokémon?"
       ]
     },
     {
@@ -15,6 +21,10 @@
       "en_US": [
         "Which Pokémon’s nickname should\n",
         "I critique?"
+      ],
+      "fr_FR": [
+        "Quel est le Pokémon dont je dois\n",
+        "évaluer le surnom?"
       ]
     },
     {
@@ -25,6 +35,13 @@
         "But would you like to give it\n",
         "an even better name?\r",
         "How about it?"
+      ],
+      "fr_FR": [
+        "{STRVAR_1 1, 0, 0}, c’est ça?\n",
+        "C’est un surnom acceptable!\r",
+        "Mais que dirais-tu de lui trouver\n",
+        "un nom encore meilleur?\r",
+        "Alors, ça te dit?"
       ]
     },
     {
@@ -32,6 +49,10 @@
       "en_US": [
         "Ah, good. Then, what shall the new\n",
         "nickname be?"
+      ],
+      "fr_FR": [
+        "Ah, très bien. Alors, quel est son\n",
+        "nouveau surnom?"
       ]
     },
     {
@@ -41,6 +62,12 @@
         "shall be known as {STRVAR_1 1, 0, 0}!\r",
         "It is a better name than before!\n",
         "How fortunate for you!"
+      ],
+      "fr_FR": [
+        "Et voilà! Dorénavant, ce Pokémon sera\n",
+        "connu sous le nom de {STRVAR_1 1, 0, 0}!\r",
+        "Ce nom est beaucoup mieux qu’avant!\n",
+        "Tu as fait le bon choix!"
       ]
     },
     {
@@ -48,6 +75,10 @@
       "en_US": [
         "I see.\n",
         "Please come visit again."
+      ],
+      "fr_FR": [
+        "Je vois.\n",
+        "N’hésite pas à revenir me voir."
       ]
     },
     {
@@ -58,6 +89,13 @@
         "It looks no different from before,\n",
         "and yet, this is vastly superior!\r",
         "How fortunate for you!"
+      ],
+      "fr_FR": [
+        "Et voilà! Dorénavant, ce Pokémon sera\n",
+        "connu sous le nom de {STRVAR_1 1, 0, 0}!\r",
+        "On ne dirait pas comme ça, mais\n",
+        "ce nom est bien meilleur!\r",
+        "Tu as fait le bon choix!"
       ]
     },
     {
@@ -66,6 +104,11 @@
         "{STRVAR_1 1, 0, 0}, is it?\n",
         "That is a truly impeccable name!\r",
         "Take good care of {STRVAR_1 1, 0, 0}!"
+      ],
+      "fr_FR": [
+        "{STRVAR_1 1, 0, 0}, c’est ça?\n",
+        "Ce nom est impeccable!\r",
+        "Prends bien soin de {STRVAR_1 1, 0, 0}!"
       ]
     },
     {
@@ -73,6 +116,10 @@
       "en_US": [
         "Now, now. That is merely an Egg!\n",
         "An Egg can go by no other name!\n"
+      ],
+      "fr_FR": [
+        "Allons... C’est encore un Oeuf! Un\n",
+        "Oeuf, c’est un Oeuf et puis c’est tout!\n"
       ]
     },
     {
@@ -81,6 +128,11 @@
         "Excuse me, but do you got that\n",
         "Pokémon named BUIZEL?\r",
         "Wanna trade it for my CHATOT?"
+      ],
+      "fr_FR": [
+        "Excuse-moi, tu n’aurais pas le\n",
+        "Pokémon nommé MUSTEBOUEE?\r",
+        "Tu me l’échanges contre un PIJAKO?"
       ]
     },
     {
@@ -92,11 +144,20 @@
         "speech pretty quickly.\r",
         "Try out its move Chatter.\n",
         "You’ll totally see what I mean."
+      ],
+      "fr_FR": [
+        "Ouais! Trop génial! Un MUSTEBOUEE!\n",
+        "Juré, j’en prendrai bien soin!\r",
+        "Ah oui, un PIJAKO peut apprendre à\n",
+        "parler notre langue très rapidement.\r",
+        "Essaie sa capacité Babil.\n",
+        "Tu comprendras tout de suite."
       ]
     },
     {
       "id": "EternaCityCondominiums1F_Text_IWantBuizel",
-      "en_US": "What I totally want is a BUIZEL..."
+      "en_US": "What I totally want is a BUIZEL...",
+      "fr_FR": "J’ai tellement envie d’un MUSTEBOUEE..."
     },
     {
       "id": "EternaCityCondominiums1F_Text_OhOKTotallyGotIt",
@@ -105,6 +166,12 @@
         "It’s all right if you don’t want to.\r",
         "But if you change your mind,\n",
         "let’s totally trade some Pokémon."
+      ],
+      "fr_FR": [
+        "Oh, d’accord, pigé.\n",
+        "Tu fais comme tu veux, hein.\r",
+        "Mais si tu changes d’avis, je serai là\n",
+        "pour échanger des Pokémon."
       ]
     },
     {
@@ -116,6 +183,15 @@
         "that move outside of battle.\r",
         "It’ll forget any speech you taught it\n",
         "if you stick it in a PC Box, though."
+      ],
+      "fr_FR": [
+        "Est-ce que le PIJAKO que je t’ai\n",
+        "échangé a appris la capacité Babil?\r",
+        "Il imite ta voix quand tu l’utilises\n",
+        "en dehors du combat.\r",
+        "Par contre, si tu le mets dans une\n",
+        "Boîte du PC, il oubliera tous les mots\f",
+        "appris précédemment."
       ]
     },
     {
@@ -123,6 +199,10 @@
       "en_US": [
         "Hi! I’m the building superintendent.\n",
         "I maintain a vigilant 24-hour watch!"
+      ],
+      "fr_FR": [
+        "Salut! Je suis le directeur du\n",
+        "bâtiment. Je suis de garde 24h/24!"
       ]
     },
     {
@@ -130,6 +210,10 @@
       "en_US": [
         "I’m...building...superintendent...\n",
         "...maintain...24-hour watch... Zzz..."
+      ],
+      "fr_FR": [
+        "Chuis... directeur... bâtiment...\n",
+        "... de garde... 24h/24... Zzz..."
       ]
     }
   ]

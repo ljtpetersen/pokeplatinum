@@ -27,5 +27,13 @@
     "contest": {
         "effect": "CONTEST_EFFECT_BASIC",
         "type": "CONTEST_TYPE_COOL"
-    }
+    },
+    "name_fr": "Pied Sauté",
+    "description_fr": [
+        "Le lanceur s’envole\n",
+        "pour décocher un\n",
+        "coup de pied sauté.\n",
+        "S’il échoue, le\n",
+        "lanceur se blesse."
+    ]
 }

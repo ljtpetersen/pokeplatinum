@@ -25,5 +25,13 @@
     "contest": {
         "effect": "CONTEST_EFFECT_FIRST_NEXT_TURN",
         "type": "CONTEST_TYPE_COOL"
-    }
+    },
+    "name_fr": "Hâte",
+    "description_fr": [
+        "Le lanceur se relaxe\n",
+        "et allège son corps\n",
+        "pour augmenter\n",
+        "considérablement sa\n",
+        "Vitesse."
+    ]
 }

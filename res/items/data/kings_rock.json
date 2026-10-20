@@ -26,5 +26,13 @@
   "battlePocket": "BATTLE_POCKET_MASK_NONE",
   "fieldUseFunc": "ITEM_USE_FUNC_NONE",
   "battleUseCategory": "BATTLE_USE_CATEGORY_NONE",
-  "itemUseParams": null
+  "itemUseParams": null,
+  "name_fr": "Roche Royale",
+  "description_fr": [
+    "Objet à tenir. Peut apeurer l’ennemi\n",
+    "lorsque le porteur lui inflige des\n",
+    "dégâts."
+  ],
+  "plural_fr": "Roche Royale",
+  "article_fr": null
 }

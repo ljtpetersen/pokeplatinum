@@ -105,15 +105,22 @@
             "en_US": [
                 "Bring it on!\n",
                 "Ooooh! Haaah!"
+            ],
+            "fr_FR": [
+                "Et c’est parti!\n",
+                "Ooooh! Haaa!"
             ]
         },
         {
             "type": "TRMSG_WIN",
-            "en_US": "Thank you kindly!\r"
+            "en_US": "Thank you kindly!\r",
+            "fr_FR": "Merci bien!\r"
         },
         {
             "type": "TRMSG_DEFEAT",
-            "en_US": "Thanks for having me!\r"
+            "en_US": "Thanks for having me!\r",
+            "fr_FR": "Merci beaucoup!\r"
         }
-    ]
+    ],
+    "name_fr": "Luke"
 }

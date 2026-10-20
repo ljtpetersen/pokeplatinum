@@ -27,5 +27,13 @@
   "fieldUseFunc": "ITEM_USE_FUNC_TM_HM",
   "battleUseCategory": "BATTLE_USE_CATEGORY_NONE",
   "itemUseParams": null,
-  "teachesMove": "MOVE_BLIZZARD"
+  "teachesMove": "MOVE_BLIZZARD",
+  "name_fr": "CT14",
+  "description_fr": [
+    "Une violente tempête de neige est\n",
+    "déclenchée sur l’ennemi. Peut aussi\n",
+    "le geler."
+  ],
+  "plural_fr": "CT14",
+  "article_fr": null
 }

@@ -85,6 +85,10 @@
             "en_US": [
                 "Aren’t they pretty? Adorable?\n",
                 "They’re my beloved Pokémon."
+            ],
+            "fr_FR": [
+                "Je craque toujours pour les Pokémon\n",
+                "tout mignons."
             ]
         },
         {
@@ -92,6 +96,10 @@
             "en_US": [
                 "You worked so hard! I’ll give you a nice\n",
                 "massage at home.\r"
+            ],
+            "fr_FR": [
+                "Excellent! Il ne faut jamais\n",
+                "sous-estimer son adversaire!\r"
             ]
         },
         {
@@ -99,7 +107,12 @@
             "en_US": [
                 "What are you doing to my Pokémon?!\n",
                 "What if you hurt them?!\r"
+            ],
+            "fr_FR": [
+                "Hé! Tu devrais y aller plus doucement!\n",
+                "Les Pokémon sont des êtres fragiles!\r"
             ]
         }
-    ]
+    ],
+    "name_fr": "Kurt"
 }

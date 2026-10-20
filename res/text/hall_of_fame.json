@@ -6,28 +6,37 @@
       "en_US": [
         "Welcome to the\n",
         "Hall of Fame!"
-      ]
+      ],
+      "fr_FR": "Bienvenue au Panthéon!"
     },
     {
       "id": "HallOfFame_Text_PokemonInfoMale",
-      "en_US": "{STRVAR_1 0, 0, 0} ♂ Lv.{STRVAR_1 52, 1, 0}"
+      "en_US": "{STRVAR_1 0, 0, 0} ♂ Lv.{STRVAR_1 52, 1, 0}",
+      "fr_FR": "{STRVAR_1 0, 0, 0} ♂ N. {STRVAR_1 52, 1, 0}"
     },
     {
       "id": "HallOfFame_Text_PokemonInfoFemale",
-      "en_US": "{STRVAR_1 0, 0, 0} ♀ Lv.{STRVAR_1 52, 1, 0}"
+      "en_US": "{STRVAR_1 0, 0, 0} ♀ Lv.{STRVAR_1 52, 1, 0}",
+      "fr_FR": "{STRVAR_1 0, 0, 0} ♀ N. {STRVAR_1 52, 1, 0}"
     },
     {
       "id": "HallOfFame_Text_PokemonInfoGenderless",
-      "en_US": "{STRVAR_1 0, 0, 0} Lv.{STRVAR_1 52, 1, 0}"
+      "en_US": "{STRVAR_1 0, 0, 0} Lv.{STRVAR_1 52, 1, 0}",
+      "fr_FR": "{STRVAR_1 0, 0, 0} N. {STRVAR_1 52, 1, 0}"
     },
     {
       "id": "HallOfFame_Text_OT",
-      "en_US": "OT/{STRVAR_1 3, 0, 0}"
+      "en_US": "OT/{STRVAR_1 3, 0, 0}",
+      "fr_FR": "DO/{STRVAR_1 3, 0, 0}"
     },
     {
       "id": "HallOfFame_Text_MetAt",
       "en_US": [
         "Met at\n",
+        "{STRVAR_1 4, 0, 0}."
+      ],
+      "fr_FR": [
+        "Lieu de rencontre:\n",
         "{STRVAR_1 4, 0, 0}."
       ]
     },
@@ -36,6 +45,10 @@
       "en_US": [
         "Hatched at\n",
         "{STRVAR_1 4, 0, 0}."
+      ],
+      "fr_FR": [
+        "Lieu d’éclosion:\n",
+        "{STRVAR_1 4, 0, 0}."
       ]
     },
     {
@@ -43,13 +56,18 @@
       "en_US": [
         "Obtained in a link\n",
         "trade."
-      ]
+      ],
+      "fr_FR": "Obtenu dans un échange."
     },
     {
       "id": "HallOfFame_Text_ArrivedFromKanto",
       "en_US": [
         "Arrived from the Kanto\n",
         "region."
+      ],
+      "fr_FR": [
+        "Vient de la région de\n",
+        "Kanto."
       ]
     },
     {
@@ -57,6 +75,10 @@
       "en_US": [
         "Arrived from the Hoenn\n",
         "region."
+      ],
+      "fr_FR": [
+        "Vient de la région de\n",
+        "Hoenn."
       ]
     },
     {
@@ -64,22 +86,29 @@
       "en_US": [
         "Arrived from a distant\n",
         "land."
-      ]
+      ],
+      "fr_FR": "Vient d’un pays lointain."
     },
     {
       "id": "HallOfFame_Text_ObtainedInFatefulEncounter",
       "en_US": [
         "Obtained in a fateful\n",
         "encounter."
+      ],
+      "fr_FR": [
+        "Obtenu lors d’un\n",
+        "événement spécial."
       ]
     },
     {
       "id": "HallOfFame_Text_LeagueChampionCongratulations",
-      "en_US": "League Champion! Congratulations!"
+      "en_US": "League Champion! Congratulations!",
+      "fr_FR": "Maître de la Ligue! Félicitations!"
     },
     {
       "id": "HallOfFame_Text_PlayerInfo",
-      "en_US": "{STRVAR_1 3, 0, 0} ID: {STRVAR_1 54, 1, 0} Time: {STRVAR_1 52, 2, 0}:{STRVAR_1 51, 3, 0}"
+      "en_US": "{STRVAR_1 3, 0, 0} ID: {STRVAR_1 54, 1, 0} Time: {STRVAR_1 52, 2, 0}:{STRVAR_1 51, 3, 0}",
+      "fr_FR": "{STRVAR_1 3, 0, 0} ID: {STRVAR_1 54, 1, 0} Temps: {STRVAR_1 52, 2, 0}:{STRVAR_1 51, 3, 0}"
     }
   ]
 }

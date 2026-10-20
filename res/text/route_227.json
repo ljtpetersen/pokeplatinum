@@ -10,6 +10,14 @@
         "can you do me a favor?\r",
         "I’d like you to patrol Stark Mountain\n",
         "for me."
+      ],
+      "fr_FR": [
+        "Cornil: Yo, mais c’est {STRVAR_1 3, 0, 0}!\n",
+        "Tu vas t’entraîner, pas vrai?\r",
+        "Pendant que tu y es, tu peux me\n",
+        "rendre un service?\r",
+        "Va patrouiller au Mont Abrupt,\n",
+        "s’il te plaît."
       ]
     },
     {
@@ -25,6 +33,19 @@
         "about vandals in Stark Mountain.\r",
         "They say goons in space suits are\n",
         "causing trouble there.\r"
+      ],
+      "fr_FR": [
+        "Cornil: Il y a un volcan par là-bas.\n",
+        "Le Mont Abrupt.\r",
+        "Ses profondeurs abritent une pierre\n",
+        "spéciale du nom de Pierre Magma.\r",
+        "Tout ce que je sais, c’est qu’elle est\n",
+        "d’une importance vitale. Elle maintient\f",
+        "un Pokémon endormi.\r",
+        "Mais ces temps-ci, le bruit court qu’il\n",
+        "y aurait des voyous au Mont Abrupt.\r",
+        "On raconte qu’ils sont déguisés en\n",
+        "cosmonautes.\r"
       ]
     },
     {
@@ -36,6 +57,14 @@
         "because my Pokémon’s low on HP.\r",
         "So, if you could get up to Stark\n",
         "Mountain now, that’d be great. Thanks!\r"
+      ],
+      "fr_FR": [
+        "Hein?\n",
+        "Moi?\r",
+        "Je me rends au Centre Pokémon pour y\n",
+        "faire soigner mes Pokémon épuisés.\r",
+        "Alors si tu pouvais t’occuper d’aller au\n",
+        "Mont Abrupt pour moi, ce serait super!\r"
       ]
     },
     {
@@ -43,6 +72,10 @@
       "en_US": [
         "I’ll keep asking the same thing over and\n",
         "over until you say “Yes!”\r"
+      ],
+      "fr_FR": [
+        "Je ne lâcherai pas prise tant que\n",
+        "tu n’auras pas dit “Oui”!\r"
       ]
     },
     {
@@ -52,6 +85,11 @@
         "Patrol Stark Mountain for me!\r",
         "Don’t worry about me.\n",
         "Not even a little bit, OK?"
+      ],
+      "fr_FR": [
+        "Cornil: OK! A toi de jouer!\n",
+        "Va patrouiller au Mont Abrupt!\r",
+        "Ne t’inquiète pas pour moi, OK?"
       ]
     },
     {
@@ -65,6 +103,16 @@
         "tougher...\r",
         "And, in doing that, they develop\n",
         "closer bonds with their Pokémon...\r"
+      ],
+      "fr_FR": [
+        "Lovis: Oh, c’est toi, {STRVAR_1 3, 0, 0}!\n",
+        "Ça faisait un bail!\r",
+        "Tu as fait tellement de progrès que tu \n",
+        "viens t’entraîner ici maintenant?\r",
+        "Tout le monde devient \n",
+        "de plus en plus fort...\r",
+        "Et en même temps, chacun développe des\n",
+        "liens plus étroits avec ses Pokémon...\r"
       ]
     },
     {
@@ -72,6 +120,10 @@
       "en_US": [
         "{STRVAR_1 3, 1, 0}: That’s my master!\n",
         "Those are words of wisdom!\r"
+      ],
+      "fr_FR": [
+        "{STRVAR_1 3, 1, 0}: Maître, quelle infinie\n",
+        "sagesse!\r"
       ]
     },
     {
@@ -83,6 +135,15 @@
         "accepting you as an apprentice!\r",
         "I mean, if it’s wrestling moves, I can\n",
         "show you all you like, but...\r"
+      ],
+      "fr_FR": [
+        "Lovis: Quoi? Tu n’as toujours pas\n",
+        "compris le message?\r",
+        "Je ne me rappelle pas t’avoir jamais\n",
+        "pris comme apprenti!\r",
+        "Si tu t’intéresses au catch, je peux te\n",
+        "faire une démonstration, mais ça\f",
+        "s’arrête là.\r"
       ]
     },
     {
@@ -92,6 +153,12 @@
         "that way!\r",
         "You’ve got to get me into that club\n",
         "in the Survival Area!\r"
+      ],
+      "fr_FR": [
+        "{STRVAR_1 3, 1, 0}: Oooh, Maître, ne soyez\n",
+        "pas comme ça!\r",
+        "Vous devez me faire entrer dans\n",
+        "ce club à l’Aire de Survie!\r"
       ]
     },
     {
@@ -110,6 +177,23 @@
         "be fully prepared!\r",
         "I’ve got to get ready for another\n",
         "tournament. Farewell!\r"
+      ],
+      "fr_FR": [
+        "Lovis: Comment me suis-je mis dans\n",
+        "un tel pétrin...?\r",
+        "Enfin bref, alors tu vas au Mont\n",
+        "Abrupt, {STRVAR_1 3, 0, 0}?\r",
+        "Tu y croiseras des Pokémon sauvages\n",
+        "très puissants...\r",
+        "Toi et ton équipe risquez de passer un\n",
+        "sale quart d’heure, si vous n’êtes pas\f",
+        "suffisamment entraînés...\r",
+        "Cela dit, ce genre de challenge est\n",
+        "toujours riche en émotions fortes...\r",
+        "A partir du moment où tu sais ce\n",
+        "que tu fais!\r",
+        "Bon, j’ai un tournoi de prévu, je dois\n",
+        "me préparer. A un de ces jours!\r"
       ]
     },
     {
@@ -119,6 +203,12 @@
         "a little tougher again.\r",
         "That’s why I’m off to the Battle\n",
         "Frontier so I can make some challenges!\r"
+      ],
+      "fr_FR": [
+        "{STRVAR_1 3, 1, 0}: Tu sais, je crois que je\n",
+        "me suis encore amélioré, dernièrement.\r",
+        "Du coup, je vais relever le défi de la\n",
+        "Zone de Combat!\r"
       ]
     },
     {
@@ -126,6 +216,10 @@
       "en_US": [
         "Master!\n",
         "Wait for me!\r"
+      ],
+      "fr_FR": [
+        "Maître!\n",
+        "Attendez-moi!\r"
       ]
     },
     {
@@ -133,6 +227,10 @@
       "en_US": [
         "Rt. 227\n",
         "Stark Mountain"
+      ],
+      "fr_FR": [
+        "Route 227\n",
+        "Mont Abrupt"
       ]
     }
   ]

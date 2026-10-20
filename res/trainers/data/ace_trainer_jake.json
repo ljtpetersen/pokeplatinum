@@ -43,6 +43,11 @@
                 "They call me an Ace Trainer.\r",
                 "Allow me to demonstrate the talent\n",
                 "that makes me so!\r"
+            ],
+            "fr_FR": [
+                "On me considère comme un Topdresseur.\r",
+                "Laisse-moi te montrer le talent qui me\n",
+                "vaut cet honneur!\r"
             ]
         },
         {
@@ -50,6 +55,10 @@
             "en_US": [
                 "I’m burning with jealousy over your\n",
                 "raw talent!\n"
+            ],
+            "fr_FR": [
+                "Tu as un tel talent naturel, je suis\n",
+                "vert de jalousie!\n"
             ]
         },
         {
@@ -57,6 +66,10 @@
             "en_US": [
                 "I think keeping up the effort to\n",
                 "better yourself is a talent in itself.\n"
+            ],
+            "fr_FR": [
+                "Produire les efforts nécessaires pour\n",
+                "s’améliorer, c’est un talent en soi.\n"
             ]
         },
         {
@@ -66,7 +79,14 @@
                 "showcase my talent.\r",
                 "This time, I’ll conclusively demonstrate\n",
                 "the might of an Ace Trainer!\r"
+            ],
+            "fr_FR": [
+                "La dernière fois, j’ai dû m’incliner\n",
+                "avant de pouvoir montrer mes talents.\r",
+                "Cette fois, je vais te montrer la\n",
+                "puissance du Topdresseur!\r"
             ]
         }
-    ]
+    ],
+    "name_fr": "Cyril"
 }

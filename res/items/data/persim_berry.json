@@ -41,5 +41,13 @@
     "bitterness": 0,
     "sourness": 10,
     "smoothness": 20
-  }
+  },
+  "name_fr": "Baie Kika",
+  "description_fr": [
+    "Ingrédient pour Poffin.\n",
+    "Utilisée ou tenue, cette Baie soigne\n",
+    "la confusion."
+  ],
+  "plural_fr": "Baie Kika",
+  "article_fr": null
 }

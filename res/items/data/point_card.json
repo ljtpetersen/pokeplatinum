@@ -25,5 +25,12 @@
   "battlePocket": "BATTLE_POCKET_MASK_NONE",
   "fieldUseFunc": "ITEM_USE_FUNC_BAG_MESSAGE",
   "battleUseCategory": "BATTLE_USE_CATEGORY_NONE",
-  "itemUseParams": null
+  "itemUseParams": null,
+  "name_fr": "Carte Points",
+  "description_fr": [
+    "Carte indiquant le nombre de Points de\n",
+    "Combat obtenus."
+  ],
+  "plural_fr": "Carte Points",
+  "article_fr": null
 }

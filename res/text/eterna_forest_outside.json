@@ -6,6 +6,10 @@
       "en_US": [
         "Oh, are you collecting Accessories?\n",
         "I’ve got something for you.\r"
+      ],
+      "fr_FR": [
+        "Oh, tu collectionnes les Accessoires?\n",
+        "J’ai quelque chose pour toi.\r"
       ]
     },
     {
@@ -16,6 +20,13 @@
         "I sometimes worry for days on end\n",
         "about what Accessories I should be\f",
         "putting on my Pokémon."
+      ],
+      "fr_FR": [
+        "Je récolte des Baies et les échange\n",
+        "contre des Accessoires à Floraville.\r",
+        "Je me demande parfois, pendant des\n",
+        "jours, quels Accessoires je devrais\f",
+        "mettre sur mon Pokémon."
       ]
     },
     {

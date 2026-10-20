@@ -27,5 +27,13 @@
     "contest": {
         "effect": "CONTEST_EFFECT_MAX_VOLTAGE_ADVANTAGE",
         "type": "CONTEST_TYPE_BEAUTY"
-    }
+    },
+    "name_fr": "Surchauffe",
+    "description_fr": [
+        "Attaque l’ennemi à\n",
+        "pleine puissance. Le\n",
+        "contrecoup baisse\n",
+        "énormément l’Atq.\n",
+        "Spé. du lanceur."
+    ]
 }

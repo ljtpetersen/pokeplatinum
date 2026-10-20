@@ -77,6 +77,10 @@
             "en_US": [
                 "Oh! Hold on a second!\n",
                 "Incoming text message!"
+            ],
+            "fr_FR": [
+                "Oh! Une petite seconde!\n",
+                "Je viens de recevoir un message!"
             ]
         },
         {
@@ -84,6 +88,10 @@
             "en_US": [
                 "Ticka-ticka-ticka... Ticka-tick...\n",
                 "Huh? Is it over already?\r"
+            ],
+            "fr_FR": [
+                "Tic-tic-tic... Tic-tic...\n",
+                "Hein? Le combat est terminé?\r"
             ]
         },
         {
@@ -91,7 +99,12 @@
             "en_US": [
                 "Hey, stop that!\n",
                 "No peeking at my text messages!\r"
+            ],
+            "fr_FR": [
+                "Hé, arrête tout de suite!\n",
+                "C’est un message personnel!\r"
             ]
         }
-    ]
+    ],
+    "name_fr": "Nabil"
 }

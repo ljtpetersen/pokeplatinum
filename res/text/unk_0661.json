@@ -3,17 +3,23 @@
   "messages": [
     {
       "id": "pl_msg_00000661_00000",
-      "en_US": "Have you ever seen a Pokémon movie?"
+      "en_US": "Have you ever seen a Pokémon movie?",
+      "fr_FR": "Avez-vous déjà vu un film Pokémon?"
     },
     {
       "id": "pl_msg_00000661_00001",
-      "en_US": "Do you have any Pokémon plush dolls?"
+      "en_US": "Do you have any Pokémon plush dolls?",
+      "fr_FR": "Possédez-vous une peluche Pokémon?"
     },
     {
       "id": "pl_msg_00000661_00002",
       "en_US": [
         "What do you like most about your\n",
         "favorite Pokémon?"
+      ],
+      "fr_FR": [
+        "Quel est le point fort de votre\n",
+        "Pokémon favori?"
       ]
     },
     {
@@ -21,6 +27,10 @@
       "en_US": [
         "Have you ever received a Pokémon as\n",
         "a gift in an event?"
+      ],
+      "fr_FR": [
+        "Avez-vous déjà obtenu un Pokémon\n",
+        "lors d’un événement?"
       ]
     },
     {
@@ -28,33 +38,54 @@
       "en_US": [
         "How many Pokémon games have you played\n",
         "before this?"
+      ],
+      "fr_FR": [
+        "A combien d’autres jeux Pokémon\n",
+        "avez-vous joué?"
       ]
     },
     {
       "id": "pl_msg_00000661_00005",
-      "en_US": "When did you start playing Pokémon?"
+      "en_US": "When did you start playing Pokémon?",
+      "fr_FR": [
+        "Vous avez commencé à jouer à Pokémon\n",
+        "lorsque vous étiez..."
+      ]
     },
     {
       "id": "pl_msg_00000661_00006",
       "en_US": [
         "If you were a Pokémon, which of these\n",
         "types would you like to be?"
+      ],
+      "fr_FR": [
+        "Si vous étiez un Pokémon, vous aimeriez\n",
+        "être de type..."
       ]
     },
     {
       "id": "pl_msg_00000661_00007",
-      "en_US": "What’s your strategy in battle?"
+      "en_US": "What’s your strategy in battle?",
+      "fr_FR": "Quelle est votre stratégie de combat?"
     },
     {
       "id": "pl_msg_00000661_00008",
       "en_US": [
         "Whom would you recruit into playing\n",
         "Pokémon as a beginner?"
+      ],
+      "fr_FR": [
+        "A qui aimeriez-vous faire découvrir\n",
+        "Pokémon?"
       ]
     },
     {
       "id": "pl_msg_00000661_00009",
-      "en_US": "Have you ever been to a Pokémon event?"
+      "en_US": "Have you ever been to a Pokémon event?",
+      "fr_FR": [
+        "Avez-vous déjà participé à\n",
+        "un événement Pokémon?"
+      ]
     }
   ]
 }

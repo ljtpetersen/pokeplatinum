@@ -59,18 +59,31 @@
             "en_US": [
                 "I have a ton more experience than you.\n",
                 "What will you do about it?"
+            ],
+            "fr_FR": [
+                "J’ai beaucoup plus d’expérience que\n",
+                "toi. Ça t’impressionne?"
             ]
         },
         {
             "type": "TRMSG_WIN",
-            "en_US": "Not bad, but you need more maturing.\r"
+            "en_US": "Not bad, but you need more maturing.\r",
+            "fr_FR": [
+                "Pas mal, mais tu vas devoir mûrir\n",
+                "encore un peu.\r"
+            ]
         },
         {
             "type": "TRMSG_DEFEAT",
             "en_US": [
                 "Experience alone doesn’t ensure any\n",
                 "wins, I’m learning.\r"
+            ],
+            "fr_FR": [
+                "L’expérience ne suffit pas toujours\n",
+                "pour gagner, apparemment.\r"
             ]
         }
-    ]
+    ],
+    "name_fr": "Colombe"
 }

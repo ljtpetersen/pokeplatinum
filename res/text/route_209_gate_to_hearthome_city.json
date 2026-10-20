@@ -8,6 +8,12 @@
         "ahead.\r",
         "I wonder what it is?\n",
         "It’s got me very curious."
+      ],
+      "fr_FR": [
+        "Il y a un pilier en pierre fendu\n",
+        "droit devant.\r",
+        "Je me demande ce que c’est...\n",
+        "Il éveille ma curiosité."
       ]
     },
     {
@@ -21,6 +27,17 @@
         "expected to be ready for a battle.\r",
         "No whining! No waiting!\n",
         "Let’s get the show started!\r"
+      ],
+      "fr_FR": [
+        "{STRVAR_1 3, 0, 0}: Ta-daah!\n",
+        "Tu m’as fait attendre, {STRVAR_1 3, 1, 0}!\r",
+        "Mettons les progrès que nous avons\n",
+        "faits à l’épreuve, toi et moi!\r",
+        "Hé réveille-toi, tu es Dresseur! Et un\n",
+        "Dresseur se doit d’être toujours prêt\f",
+        "à combattre!\r",
+        "Y a pas de gémissement qui tienne!\n",
+        "Que le spectacle commence!\r"
       ]
     },
     {
@@ -41,6 +58,24 @@
         "See ya, {STRVAR_1 3, 1, 0}!\r",
         "You’ll be shocked by my growth the\n",
         "next time we meet!\r"
+      ],
+      "fr_FR": [
+        "{STRVAR_1 3, 0, 0}: Ouaaah!\r",
+        "On dirait que ma stratégie infaillible\n",
+        "ne fonctionne pas.\r",
+        "Dis, {STRVAR_1 3, 1, 0}.\n",
+        "Tu te rappelles ce que je t’avais dit?\r",
+        "Fais en sorte que toutes tes attaques\n",
+        "atteignent leur cible et évite les\f",
+        "attaques ennemies.\r",
+        "Je pensais tenir la tactique parfaite,\n",
+        "mais elle ne vaut pas un clou.\r",
+        "Je vais devoir ravaler ma fierté et\n",
+        "entraîner encore mon équipe.\r",
+        "Bref, passons! Je pars pour Bonville!\n",
+        "A la revoyure, {STRVAR_1 3, 1, 0}!\r",
+        "La prochaine fois, je serai si fort que\n",
+        "t’en reviendras pas!\r"
       ]
     }
   ]

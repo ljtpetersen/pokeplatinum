@@ -59,6 +59,11 @@
                 "I’ve seen countless Trainers and\n",
                 "even more Pokémon!\r",
                 "So, what kind of a Trainer are you?\r"
+            ],
+            "fr_FR": [
+                "J’ai vu un nombre incalculable de\n",
+                "Dresseurs et encore plus de Pokémon!\r",
+                "Alors, quel type de Dresseur es-tu?\r"
             ]
         },
         {
@@ -66,6 +71,10 @@
             "en_US": [
                 "I see...\n",
                 "Simply outstanding."
+            ],
+            "fr_FR": [
+                "Je vois...\n",
+                "Tout simplement remarquable."
             ]
         },
         {
@@ -75,6 +84,12 @@
                 "even more Pokémon.\r",
                 "You’re a strong Trainer.\n",
                 "Moreover, your heart is strong.\n"
+            ],
+            "fr_FR": [
+                "J’ai vu un nombre incalculable de\n",
+                "Dresseurs et encore plus de Pokémon!\r",
+                "Tu es un Dresseur puissant.\n",
+                "En plus, ton cœur est fort.\n"
             ]
         },
         {
@@ -84,7 +99,14 @@
                 "use that as an excuse to slack off.\r",
                 "I take pride in challenging those\n",
                 "who have bested me before!\r"
+            ],
+            "fr_FR": [
+                "Je suis bien un Vénérable, mais je n’en\n",
+                "profite pas pour me détendre.\r",
+                "Je m’enorgueillis de défier ceux qui\n",
+                "m’ont déjà vaincu!\r"
             ]
         }
-    ]
+    ],
+    "name_fr": "Clément"
 }

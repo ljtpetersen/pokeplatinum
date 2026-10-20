@@ -25,5 +25,13 @@
     "contest": {
         "effect": "CONTEST_EFFECT_SUPPRESS_VOLTAGE",
         "type": "CONTEST_TYPE_BEAUTY"
-    }
+    },
+    "name_fr": "Anti-Brume",
+    "description_fr": [
+        "Dégage les obstacles\n",
+        "pour baisser l’esquive\n",
+        "de l’ennemi. Permet\n",
+        "aussi de chasser le\n",
+        "brouillard."
+    ]
 }

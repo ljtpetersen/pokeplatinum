@@ -12,6 +12,16 @@
         "me think you’re gonna try to get in.\r",
         "OK, then.\n",
         "You’ll have to battle me for it!\r"
+      ],
+      "fr_FR": [
+        "Tu n’as pas intérêt à aller aux\n",
+        "Eoliennes.\r",
+        "J’ai reçu l’ordre de ne laisser passer\n",
+        "que les membres de la Team Galaxie.\r",
+        "Ta façon de me regarder me fait croire\n",
+        "que tu vas essayer quand même.\r",
+        "Bon, OK. Tu vas devoir me combattre\n",
+        "d’abord!\r"
       ]
     },
     {
@@ -27,6 +37,19 @@
         "the only other one!\r",
         "Hahaha! In that sense, I’m no longer\n",
         "the loser!\r"
+      ],
+      "fr_FR": [
+        "Battu par un tout jeune Dresseur.\n",
+        "Si c’est pas malheureux...\r",
+        "Mais tu ne pourras rien faire si je\n",
+        "m’enferme à l’intérieur avec la\f",
+        "Clé Centrale!\r",
+        "C’est vrai, car l’autre Clé Centrale\n",
+        "n’est pas ici!\r",
+        "Mes collègues de la zone fleurie ont\n",
+        "l’unique autre exemplaire!\r",
+        "Ha, ha, ha! D’une certaine manière, je\n",
+        "ne suis plus le perdant de l’histoire!\r"
       ]
     },
     {
@@ -43,6 +66,18 @@
         "You are a Trainer, but...?\r",
         "Very well!\n",
         "I shall go investigate inside!\r"
+      ],
+      "fr_FR": [
+        "Beladonis: Ah, oui, c’est toi.\r",
+        "On raconte que la Team Galaxie a été\n",
+        "aperçue près de cette centrale.\r",
+        "C’est la raison de ma présence ici.\n",
+        "Alors, où sont-ils, ces criminels?\r",
+        "...\r",
+        "Tu les as fait fuir, dis-tu?\n",
+        "Tu es un Dresseur, mais...?\r",
+        "Soit!\n",
+        "Je vais mener l’enquête à l’intérieur!\r"
       ]
     },
     {
@@ -57,21 +92,38 @@
         "I have received tips that the Team\n",
         "Galactic hideout is in Eterna City.\r",
         "To there, I must be off!\r"
+      ],
+      "fr_FR": [
+        "Beladonis: Magnifique!\n",
+        "Tout ce que tu as dit est vrai!\r",
+        "Superbe! Tu as beau être jeune, tu es\n",
+        "un Dresseur-né!\r",
+        "Parfait!\n",
+        "Je m’en vais traquer les coupables!\r",
+        "D’après mes tuyaux, Vestigion\n",
+        "abriterait le repaire de la Team Galaxie.\r",
+        "Ce sera donc ma prochaine étape!\r"
       ]
     },
     {
       "id": "ValleyWindworksOutside_Text_Kerchunk",
-      "en_US": "Ker-chunk!\r"
+      "en_US": "Ker-chunk!\r",
+      "fr_FR": "Clic!\r"
     },
     {
       "id": "ValleyWindworksOutside_Text_ItsLockedFromInside",
-      "en_US": "It’s locked from inside!"
+      "en_US": "It’s locked from inside!",
+      "fr_FR": "C’est fermé de l’intérieur!"
     },
     {
       "id": "ValleyWindworksOutside_Text_UseTheWorksKey",
       "en_US": [
         "It’s locked from inside!\r",
         "Use the Works Key?"
+      ],
+      "fr_FR": [
+        "C’est fermé à clé!\r",
+        "Utiliser la Clé Centrale?"
       ]
     },
     {
@@ -79,17 +131,26 @@
       "en_US": [
         "Ker-chunk!\r",
         "The door to Valley Windworks opened!"
+      ],
+      "fr_FR": [
+        "Clic!\r",
+        "La porte des Eoliennes s’ouvre!"
       ]
     },
     {
       "id": "ValleyWindworksOutside_Text_DrifloonCry",
-      "en_US": "Floooooon!\r"
+      "en_US": "Floooooon!\r",
+      "fr_FR": "Driiiiive!\r"
     },
     {
       "id": "ValleyWindworksOutside_Text_SignValleyWindworks",
       "en_US": [
         "Valley Windworks\n",
         "Ecological, Wind-Driven Energy"
+      ],
+      "fr_FR": [
+        "Les Eoliennes\n",
+        "Energie éolienne écologique"
       ]
     }
   ]

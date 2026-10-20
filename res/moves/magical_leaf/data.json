@@ -26,5 +26,13 @@
     "contest": {
         "effect": "CONTEST_EFFECT_FIRST_PERFORMANCE_ADVANTAGE",
         "type": "CONTEST_TYPE_BEAUTY"
-    }
+    },
+    "name_fr": "Feuillemagik",
+    "description_fr": [
+        "Le lanceur disperse\n",
+        "d’étranges feuilles\n",
+        "qui poursuivent\n",
+        "l’ennemi. N’échoue\n",
+        "jamais."
+    ]
 }

@@ -27,5 +27,12 @@
     "contest": {
         "effect": "CONTEST_EFFECT_FINAL_PERFORMANCE_ADVANTAGE",
         "type": "CONTEST_TYPE_COOL"
-    }
+    },
+    "name_fr": "Dracocharge",
+    "description_fr": [
+        "Le lanceur frappe\n",
+        "l’ennemi d’un air\n",
+        "menaçant. Peut aussi\n",
+        "apeurer l’ennemi."
+    ]
 }

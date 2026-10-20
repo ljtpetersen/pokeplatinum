@@ -43,6 +43,10 @@
             "en_US": [
                 "How insolent.\n",
                 "Take a bite of this, child!\n"
+            ],
+            "fr_FR": [
+                "Quelle insolence!\n",
+                "Prends ça, minus!\n"
             ]
         },
         {
@@ -50,7 +54,12 @@
             "en_US": [
                 "Losing to some child...\n",
                 "Being careless cost me too much.\n"
+            ],
+            "fr_FR": [
+                "Perdre contre un enfant...\n",
+                "Ma négligence me coûte cher.\n"
             ]
         }
-    ]
+    ],
+    "name_fr": "Jupiter"
 }

@@ -25,5 +25,12 @@
     "contest": {
         "effect": "CONTEST_EFFECT_RANDOM_ORDER",
         "type": "CONTEST_TYPE_SMART"
-    }
+    },
+    "name_fr": "Force Cachée",
+    "description_fr": [
+        "Les effets de cette\n",
+        "attaque varient en\n",
+        "fonction de\n",
+        "l’environnement."
+    ]
 }

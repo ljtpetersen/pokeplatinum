@@ -26,5 +26,13 @@
   "battlePocket": "BATTLE_POCKET_MASK_NONE",
   "fieldUseFunc": "ITEM_USE_FUNC_NONE",
   "battleUseCategory": "BATTLE_USE_CATEGORY_NONE",
-  "itemUseParams": null
+  "itemUseParams": null,
+  "name_fr": "Ceint. Pouv.",
+  "description_fr": [
+    "Objet à tenir augmentant la Défense\n",
+    "lors des montées de niveau, mais\n",
+    "réduisant la stat Vitesse."
+  ],
+  "plural_fr": "Ceint. Pouv.",
+  "article_fr": null
 }

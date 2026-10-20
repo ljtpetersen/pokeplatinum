@@ -27,5 +27,13 @@
     "contest": {
         "effect": "CONTEST_EFFECT_FINAL_PERFORMANCE_ADVANTAGE",
         "type": "CONTEST_TYPE_COOL"
-    }
+    },
+    "name_fr": "Escalade",
+    "description_fr": [
+        "Charge pouvant\n",
+        "rendre l’ennemi\n",
+        "confus. Permet aussi\n",
+        "d’escalader des\n",
+        "parois rocheuses."
+    ]
 }

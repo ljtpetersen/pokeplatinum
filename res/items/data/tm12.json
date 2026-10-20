@@ -27,5 +27,12 @@
   "fieldUseFunc": "ITEM_USE_FUNC_TM_HM",
   "battleUseCategory": "BATTLE_USE_CATEGORY_NONE",
   "itemUseParams": null,
-  "teachesMove": "MOVE_TAUNT"
+  "teachesMove": "MOVE_TAUNT",
+  "name_fr": "CT12",
+  "description_fr": [
+    "Provoque l’ennemi. L’oblige à n’utiliser\n",
+    "que des attaques pendant 2 à 4 tours."
+  ],
+  "plural_fr": "CT12",
+  "article_fr": null
 }

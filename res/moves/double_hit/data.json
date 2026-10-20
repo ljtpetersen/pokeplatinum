@@ -26,5 +26,11 @@
     "contest": {
         "effect": "CONTEST_EFFECT_CONSECUTIVE_USE",
         "type": "CONTEST_TYPE_SMART"
-    }
+    },
+    "name_fr": "Coup Double",
+    "description_fr": [
+        "Un coup de queue qui\n",
+        "frappe l’ennemi deux\n",
+        "fois d’affilée."
+    ]
 }

@@ -59,6 +59,12 @@
                 "battles in stride.\r",
                 "I need to stay cool and calm whether\n",
                 "I win or lose.\r"
+            ],
+            "fr_FR": [
+                "En tant que Topdresseur, je dois \n",
+                "prendre les combats avec philosophie.\r",
+                "Je dois rester cool, dans la victoire\n",
+                "comme dans la défaite.\r"
             ]
         },
         {
@@ -66,6 +72,10 @@
             "en_US": [
                 "Aiyeeeeh!\n",
                 "We lost!\n"
+            ],
+            "fr_FR": [
+                "NOOOOOOOOON!\n",
+                "ON A PERDU!\n"
             ]
         },
         {
@@ -73,6 +83,10 @@
             "en_US": [
                 "How dare you beat us!\n",
                 "Go away! Go!\n"
+            ],
+            "fr_FR": [
+                "Comment oses-tu nous battre?!\n",
+                "Déguerpis! Ouste!\n"
             ]
         },
         {
@@ -81,7 +95,13 @@
                 "Last time, I got a little emotional\n",
                 "over losing...\r",
                 "I’ll stay cool and calm today!\r"
+            ],
+            "fr_FR": [
+                "La dernière fois, j’ai un peu\n",
+                "perdu mon calme en perdant...\r",
+                "Aujourd’hui, je resterai cool!\r"
             ]
         }
-    ]
+    ],
+    "name_fr": "Karen"
 }

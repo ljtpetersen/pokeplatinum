@@ -23,6 +23,10 @@
             "en_US": [
                 "Welcome!\n",
                 "This place is my pride and joy!\r"
+            ],
+            "fr_FR": [
+                "Bienvenue!\n",
+                "Cet endroit est ma plus grande fierté!\r"
             ]
         },
         {
@@ -30,6 +34,10 @@
             "en_US": [
                 "I take losses with an unusually big\n",
                 "smile! Do you find that odd at all?\n"
+            ],
+            "fr_FR": [
+                "Je prends toujours la défaite avec un\n",
+                "grand sourire! Tu trouves ça bizarre?\n"
             ]
         },
         {
@@ -38,7 +46,13 @@
                 "After a match, you should have some\n",
                 "Moomoo Milk to quench your thirst!\r",
                 "Just chug it right down! Glug glug!\n"
+            ],
+            "fr_FR": [
+                "Après un combat, il faut boire du Lait\n",
+                "Meumeu pour étancher sa soif!\r",
+                "Faut tout boire d’un trait! Glouglou!\n"
             ]
         }
-    ]
+    ],
+    "name_fr": "Kati"
 }

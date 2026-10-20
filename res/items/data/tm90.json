@@ -27,5 +27,13 @@
   "fieldUseFunc": "ITEM_USE_FUNC_TM_HM",
   "battleUseCategory": "BATTLE_USE_CATEGORY_NONE",
   "itemUseParams": null,
-  "teachesMove": "MOVE_SUBSTITUTE"
+  "teachesMove": "MOVE_SUBSTITUTE",
+  "name_fr": "CT90",
+  "description_fr": [
+    "Le lanceur fait une copie de lui-même\n",
+    "en sacrifiant quelques PV. La copie sert\n",
+    "de leurre."
+  ],
+  "plural_fr": "CT90",
+  "article_fr": null
 }

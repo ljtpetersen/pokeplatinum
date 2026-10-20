@@ -26,5 +26,13 @@
   "battlePocket": "BATTLE_POCKET_MASK_NONE",
   "fieldUseFunc": "ITEM_USE_FUNC_NONE",
   "battleUseCategory": "BATTLE_USE_CATEGORY_NONE",
-  "itemUseParams": null
+  "itemUseParams": null,
+  "name_fr": "Orbe Platiné",
+  "description_fr": [
+    "Mystérieux objet destiné à GIRATINA.\n",
+    "Améliore les capacités de type Dragon\n",
+    "ou Spectre."
+  ],
+  "plural_fr": "Orbe Platiné",
+  "article_fr": null
 }

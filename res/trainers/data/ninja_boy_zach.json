@@ -41,6 +41,10 @@
             "en_US": [
                 "ZUBAT! Doesn’t that sound like a\n",
                 "ninja bursting from cover?\r"
+            ],
+            "fr_FR": [
+                "NOSFERAPTI sait se faire tout petit...\n",
+                "C’est le meilleur ami du ninja!\r"
             ]
         },
         {
@@ -48,6 +52,10 @@
             "en_US": [
                 "Oh!\n",
                 "My ZUBAT tristars...\n"
+            ],
+            "fr_FR": [
+                "Oh!\n",
+                "Mon trio de NOSFERAPTI...\n"
             ]
         },
         {
@@ -57,6 +65,12 @@
                 "one way a ninja battles.\r",
                 "A Pokémon can’t overcome its\n",
                 "confusion unless it switches out.\n"
+            ],
+            "fr_FR": [
+                "Semer la confusion dans l’esprit de\n",
+                "l’ennemi est une technique ninja.\r",
+                "Un Pokémon ne peut pas surmonter sa\n",
+                "confusion à moins de se retirer.\n"
             ]
         },
         {
@@ -64,7 +78,12 @@
             "en_US": [
                 "The shinobi live by speed!\n",
                 "I’ll get in my attacks before you do!\r"
+            ],
+            "fr_FR": [
+                "Les ninjas sont rapides comme l’éclair!\n",
+                "Mes frappes te prendront de vitesse!\r"
             ]
         }
-    ]
+    ],
+    "name_fr": "Jérémie"
 }

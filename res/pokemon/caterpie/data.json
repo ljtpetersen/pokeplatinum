@@ -7,7 +7,10 @@
         "special_attack": 20,
         "special_defense": 20
     },
-    "types": [ "TYPE_BUG", "TYPE_BUG" ],
+    "types": [
+        "TYPE_BUG",
+        "TYPE_BUG"
+    ],
     "catch_rate": 255,
     "base_exp_reward": 53,
     "ev_yields": {
@@ -26,20 +29,37 @@
     "hatch_cycles": 15,
     "base_friendship": 70,
     "exp_rate": "EXP_RATE_MEDIUM_FAST",
-    "egg_groups": [ "EGG_GROUP_BUG", "EGG_GROUP_BUG" ],
-    "abilities": [ "ABILITY_SHIELD_DUST", "ABILITY_NONE" ],
+    "egg_groups": [
+        "EGG_GROUP_BUG",
+        "EGG_GROUP_BUG"
+    ],
+    "abilities": [
+        "ABILITY_SHIELD_DUST",
+        "ABILITY_NONE"
+    ],
     "safari_flee_rate": 0,
     "body_color": "MON_COLOR_GREEN",
     "flip_sprite": false,
     "icon_palette": 1,
     "learnset": {
         "by_level": [
-            [ 1, "MOVE_TACKLE" ],
-            [ 1, "MOVE_STRING_SHOT" ],
-            [ 15, "MOVE_BUG_BITE" ]
+            [
+                1,
+                "MOVE_TACKLE"
+            ],
+            [
+                1,
+                "MOVE_STRING_SHOT"
+            ],
+            [
+                15,
+                "MOVE_BUG_BITE"
+            ]
         ],
-        "by_tm": [  ],
-        "by_tutor": [ "MOVE_SNORE" ]
+        "by_tm": [],
+        "by_tutor": [
+            "MOVE_SNORE"
+        ]
     },
     "evolutions": [
         [
@@ -118,6 +138,18 @@
                 "あかい　しょっかくから　においを\n",
                 "だして　てきを　おいはらう。\n",
                 "だっぴを　くりかえし　おおきくなる。"
+            ]
+        },
+        "local_version": {
+            "entry_text": [
+                "It releases a stench from its red\n",
+                "antenna to repel enemies. It\n",
+                "grows by molting repeatedly."
+            ],
+            "entry_text_fr": [
+                "Ses antennes rouges libèrent une\n",
+                "puanteur qui repousse l’ennemi. Il\n",
+                "grandit par mues régulières."
             ]
         }
     },

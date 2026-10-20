@@ -33,17 +33,26 @@
             "en_US": [
                 "Liv: We can one-shot this Trainer,\n",
                 "can’t we, Liz?\r"
+            ],
+            "fr_FR": [
+                "Lia: Je sens qu’on ne va faire qu’une \n",
+                "bouchée de ce Dresseur, Liz!\r"
             ]
         },
         {
             "type": "TRMSG_DOUBLE_BATTLE_DEFEAT_1",
-            "en_US": "Liv: Oh, oh, oh?\n"
+            "en_US": "Liv: Oh, oh, oh?\n",
+            "fr_FR": "Lia: Oh, oh, oh?\n"
         },
         {
             "type": "TRMSG_POST_DOUBLE_BATTLE_1",
             "en_US": [
                 "Liv: This Trainer...will brag about\n",
                 "beating us, Liz.\n"
+            ],
+            "fr_FR": [
+                "Lia: Liz, ce Dresseur va dire à tout le\n",
+                "monde qu’il nous a battues! La honte!\n"
             ]
         },
         {
@@ -51,6 +60,10 @@
             "en_US": [
                 "Liv: You only have one Pokémon?\n",
                 "That’s so boring!"
+            ],
+            "fr_FR": [
+                "Lia: Tu n’as qu’un seul Pokémon?\n",
+                "C’est d’un ennui!"
             ]
         },
         {
@@ -58,6 +71,10 @@
             "en_US": [
                 "Liv: Oh! You’re that Trainer!\n",
                 "Let’s get payback, Liz!\r"
+            ],
+            "fr_FR": [
+                "Lia: Eh, tu es le Dresseur de la \n",
+                "dernière fois! Liz, notre revanche!\r"
             ]
         },
         {
@@ -65,17 +82,26 @@
             "en_US": [
                 "Liz: We’re the strongest in our\n",
                 "class!\r"
+            ],
+            "fr_FR": [
+                "Liz: Nous sommes les plus \n",
+                "fortes de la classe!\r"
             ]
         },
         {
             "type": "TRMSG_DOUBLE_BATTLE_DEFEAT_2",
-            "en_US": "Liz: Oh, but, wait!\n"
+            "en_US": "Liz: Oh, but, wait!\n",
+            "fr_FR": "Liz: Oh, mais attends un peu!\n"
         },
         {
             "type": "TRMSG_POST_DOUBLE_BATTLE_2",
             "en_US": [
                 "Liz: This Trainer...is really happy about\n",
                 "beating us, Liv.\n"
+            ],
+            "fr_FR": [
+                "Liz: Lia, ça a l’air de faire plaisir à ce\n",
+                "Dresseur de nous avoir battues."
             ]
         },
         {
@@ -83,6 +109,10 @@
             "en_US": [
                 "Liz: Um, will you battle with us?\n",
                 "Me and Liv?\n"
+            ],
+            "fr_FR": [
+                "Liz: Euh, tu veux bien faire un \n",
+                "combat contre Lia et moi?\n"
             ]
         },
         {
@@ -90,7 +120,12 @@
             "en_US": [
                 "Liz: We’re the best in our class.\n",
                 "We can’t be losers all the time!\r"
+            ],
+            "fr_FR": [
+                "Liz: Nous sommes les meilleures de la \n",
+                "classe, on ne perdra pas à chaque fois!\r"
             ]
         }
-    ]
+    ],
+    "name_fr": "Lia & Liz"
 }

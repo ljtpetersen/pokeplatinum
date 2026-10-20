@@ -25,6 +25,10 @@
             "en_US": [
                 "Try not to be shocked when you lay your\n",
                 "eyes on my Pokémon!\r"
+            ],
+            "fr_FR": [
+                "J’espère que tu n’auras pas trop peur\n",
+                "en voyant mon Pokémon!\r"
             ]
         },
         {
@@ -32,13 +36,19 @@
             "en_US": [
                 "Oh, my...\n",
                 "Good golly ’n’ gosh...\n"
-            ]
+            ],
+            "fr_FR": "Nom... d’un... Pokémon...\n"
         },
         {
             "type": "TRMSG_POST_BATTLE",
             "en_US": [
                 "A dragon Pokémon’s real power is\n",
                 "nothing like mine!\n"
+            ],
+            "fr_FR": [
+                "Le véritable pouvoir des Pokémon\n",
+                "de type Dragon surpasse largement\f",
+                "le mien!\n"
             ]
         },
         {
@@ -47,7 +57,13 @@
                 "You again?\r",
                 "You must really like that dragon\n",
                 "Pokémon I use.\r"
+            ],
+            "fr_FR": [
+                "Encore toi?\r",
+                "Tu dois vraiment adorer mon\n",
+                "Pokémon Dragon.\r"
             ]
         }
-    ]
+    ],
+    "name_fr": "Joël"
 }

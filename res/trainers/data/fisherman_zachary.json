@@ -41,6 +41,10 @@
             "en_US": [
                 "I fished up some tough Pokémon!\n",
                 "Let’s have ourselves a battle!\r"
+            ],
+            "fr_FR": [
+                "J’ai attrapé de sacrés Pokémon! \n",
+                "Je te propose de faire un combat!\r"
             ]
         },
         {
@@ -48,6 +52,10 @@
             "en_US": [
                 "Losing to a kid has me gasping like\n",
                 "a MAGIKARP...\n"
+            ],
+            "fr_FR": [
+                "Cette défaite me laisse aussi désemparé\n",
+                "qu’un MAGICARPE hors de l’eau...\n"
             ]
         },
         {
@@ -55,6 +63,10 @@
             "en_US": [
                 "My feet are tangled, too!\n",
                 "Ouch! Ouch!\n"
+            ],
+            "fr_FR": [
+                "La défaite me donne aussi des crampes \n",
+                "aux orteils! Aïe, ouille, aïe!\n"
             ]
         },
         {
@@ -62,7 +74,12 @@
             "en_US": [
                 "I’m going to win this time!\n",
                 "I said I’ll win, and I mean it!\r"
+            ],
+            "fr_FR": [
+                "Cette fois-ci, je vais gagner! \n",
+                "Et je parle sérieusement!\r"
             ]
         }
-    ]
+    ],
+    "name_fr": "Pacôme"
 }

@@ -6,6 +6,10 @@
       "en_US": [
         "Hello.\n",
         "May I help you with anything?"
+      ],
+      "fr_FR": [
+        "Bonjour.\n",
+        "Je peux vous renseigner?"
       ]
     },
     {
@@ -13,17 +17,26 @@
       "en_US": [
         "Hello, {STRVAR_1 3, 0, 0}.\n",
         "May I help you with anything?"
+      ],
+      "fr_FR": [
+        "Bonjour, {STRVAR_1 3, 0, 0}.\n",
+        "Je peux vous aider?"
       ]
     },
     {
       "id": "VeilstoneStore4F_Text_PleaseEnjoyYourself",
-      "en_US": "Please enjoy yourself."
+      "en_US": "Please enjoy yourself.",
+      "fr_FR": "Faites comme chez vous."
     },
     {
       "id": "VeilstoneStore4F_Text_YellowCushionIsPopular",
       "en_US": [
         "The Yellow Cushion is popular for its\n",
         "perfect balance of soft and firm."
+      ],
+      "fr_FR": [
+        "Le Coussin Jaune a beaucoup de succès.\n",
+        "Il n’est ni trop mou, ni trop dur."
       ]
     },
     {
@@ -31,6 +44,10 @@
       "en_US": [
         "You would be surprised at how many\n",
         "customers buy Cupboards."
+      ],
+      "fr_FR": [
+        "Vous n’imaginez pas le nombre de\n",
+        "gens qui achètent un Buffet."
       ]
     },
     {
@@ -38,6 +55,10 @@
       "en_US": [
         "The BUIZEL Doll is very popular due\n",
         "to its nautical image."
+      ],
+      "fr_FR": [
+        "La P. MUSTEBOUEE a le vent en poupe car\n",
+        "le thème marin est très à la mode."
       ]
     },
     {
@@ -45,6 +66,10 @@
       "en_US": [
         "Let me think... The MANTYKE Doll has\n",
         "been a hot seller recently."
+      ],
+      "fr_FR": [
+        "Voyons voir... La Poup. BABIMANTA se \n",
+        "vend très bien ces temps-ci."
       ]
     },
     {
@@ -54,6 +79,12 @@
         "chuck a Quick Ball right off the bat!\r",
         "If it’s taking a long time to catch,\n",
         "the situation calls for a Timer Ball!"
+      ],
+      "fr_FR": [
+        "Si tu croises un Pokémon sauvage, jette\n",
+        "une Rapide Ball au début du combat!\r",
+        "Si le combat s’éternise et que tu veux\n",
+        "le capturer, il te faut une Chrono Ball!"
       ]
     },
     {
@@ -61,6 +92,11 @@
       "en_US": [
         "That boy doesn’t have any Pokémon,\n",
         "but he says he’s training his image!"
+      ],
+      "fr_FR": [
+        "Ce petit n’a pas de Pokémon, tout ce\n",
+        "qu’il sait dresser, c’est l’oreille!\f",
+        "Mais ça lui aura permis de se cultiver..."
       ]
     },
     {
@@ -68,6 +104,10 @@
       "en_US": [
         "We need another copy of the game so I\n",
         "can challenge my papa!"
+      ],
+      "fr_FR": [
+        "Il me faut un autre exemplaire du\n",
+        "jeu pour pouvoir défier mon papa!"
       ]
     },
     {
@@ -79,6 +119,14 @@
         "3F: TM Corner\r",
         "4F: Poké Dolls & Goods\r",
         "5F: Rooftop Plaza"
+      ],
+      "fr_FR": [
+        "-1: Alimentation\r",
+        "RC: Espace Dresseurs\r",
+        "1¹: Fournitures de Combat\r",
+        "2⁴: Centre CT\r",
+        "3⁴: Poupées Pokémon et articles\r",
+        "4⁴: Terrasse"
       ]
     }
   ]

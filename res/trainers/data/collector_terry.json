@@ -23,6 +23,10 @@
             "en_US": [
                 "You look like you might just have\n",
                 "the Pokémon I’ve been looking for!\r"
+            ],
+            "fr_FR": [
+                "Tu pourrais bien avoir le Pokémon\n",
+                "que je recherche!\r"
             ]
         },
         {
@@ -30,6 +34,10 @@
             "en_US": [
                 "You didn’t have a single Pokémon\n",
                 "I wanted... You’re no Collector!\n"
+            ],
+            "fr_FR": [
+                "Tu n’avais pas un seul Pokémon que\n",
+                "je voulais... Tu n’es pas un Collec!\n"
             ]
         },
         {
@@ -39,7 +47,14 @@
                 "every Pokémon without anyone’s help.\r",
                 "...I do have friends, though.\n",
                 "No, seriously! I do!\n"
+            ],
+            "fr_FR": [
+                "Je suis très difficile, je veux collecter\n",
+                "tous les Pokémon sans aucune aide.\r",
+                "Ça ne veut pas dire que je n’ai pas\n",
+                "d’amis. Bien sûr que j’en ai!\n"
             ]
         }
-    ]
+    ],
+    "name_fr": "Robin"
 }

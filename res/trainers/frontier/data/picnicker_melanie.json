@@ -59,6 +59,10 @@
             "en_US": [
                 "My daddy is a real mountain man. Does\n",
                 "that make my mom a mountain woman?"
+            ],
+            "fr_FR": [
+                "Mon père est un montagnard, donc ma\n",
+                "mère est une montagnarde... Non?"
             ]
         },
         {
@@ -66,6 +70,10 @@
             "en_US": [
                 "Mountain woman sounds icky.\n",
                 "Not for me, thank you!\r"
+            ],
+            "fr_FR": [
+                "Moi, je n’ai jamais voulu être une\n",
+                "montagnarde, tu sais!\r"
             ]
         },
         {
@@ -73,7 +81,12 @@
             "en_US": [
                 "I’m their daughter. Is a mountain\n",
                 "woman my destiny?\r"
+            ],
+            "fr_FR": [
+                "Je suis leur fille. Cela veut dire que moi\n",
+                "aussi, je finirai montagnarde?\r"
             ]
         }
-    ]
+    ],
+    "name_fr": "Mélanie"
 }

@@ -31,11 +31,17 @@
                 "This is the toughest Gym in Sinnoh.\r",
                 "That’s why I’m here--to learn the\n",
                 "best battle techniques around!\r"
+            ],
+            "fr_FR": [
+                "C’est l’Arène la plus difficile de Sinnoh.\r",
+                "Je suis là pour ça, pour apprendre les\n",
+                "meilleures techniques de combat!\r"
             ]
         },
         {
             "type": "TRMSG_DEFEAT",
-            "en_US": "...You’re tough.\n"
+            "en_US": "...You’re tough.\n",
+            "fr_FR": "... Quelle force.\n"
         },
         {
             "type": "TRMSG_POST_BATTLE",
@@ -43,7 +49,13 @@
                 "You just showed me that there’s\n",
                 "still lots I need to learn.\r",
                 "The world of Pokémon is deep!\n"
+            ],
+            "fr_FR": [
+                "Tu m’as démontré qu’il me reste\n",
+                "encore beaucoup à apprendre.\r",
+                "Le monde des Pokémon est infini!\n"
             ]
         }
-    ]
+    ],
+    "name_fr": "Jean-Paul"
 }

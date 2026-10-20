@@ -26,5 +26,12 @@
     "contest": {
         "effect": "CONTEST_EFFECT_DOUBLE_NEXT_TURN",
         "type": "CONTEST_TYPE_SMART"
-    }
+    },
+    "name_fr": "Vent Mauvais",
+    "description_fr": [
+        "Le lanceur crée une\n",
+        "violente bourrasque.\n",
+        "Peut aussi augmenter\n",
+        "toutes ses stats."
+    ]
 }

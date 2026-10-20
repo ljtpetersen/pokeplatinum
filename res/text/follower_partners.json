@@ -12,6 +12,12 @@
         "You can choose first. Go ahead.\r",
         "You know, like, I’m gonna be a man\n",
         "about it. Yeah, I’m slick."
+      ],
+      "fr_FR": [
+        "Vas-y, {STRVAR_1 3, 1, 0}.\n",
+        "Tu peux choisir en premier. Allez!\r",
+        "Eh oui, je peux réagir en homme. Etre\n",
+        "humble et patient, tout ça. Ouaip."
       ]
     },
     {
@@ -23,6 +29,15 @@
         "Pokémon would use them!\r",
         "Yeah, I’m going to battle tons and get\n",
         "real close with Pokémon."
+      ],
+      "fr_FR": [
+        "{STRVAR_1 3, 0, 0}: Ce combat de Pokémon...\r",
+        "T’as pas trouvé ça trop génial?\r",
+        "Sans rire, je choisis une capacité, et\n",
+        "boum! Mon Pokémon attaque!\r",
+        "Tu sais quoi, je vais faire des tas\n",
+        "de combats et devenir super proche\f",
+        "de mon Pokémon! Tu verras!"
       ]
     },
     {
@@ -33,6 +48,13 @@
         "A Trainer makes his Pokémon battle\n",
         "by ordering them to use moves.\r",
         "That’s so awesomely cool."
+      ],
+      "fr_FR": [
+        "{STRVAR_1 3, 0, 0}: Les Pokémon ont tous des\n",
+        "capacités différentes, non?\r",
+        "Un Dresseur fait combattre ses Pokémon\n",
+        "en leur faisant utiliser des capacités.\r",
+        "C’est vraiment super cool!"
       ]
     },
     {
@@ -48,6 +70,19 @@
         "{STRVAR_1 0, 1, 0} inside...\r",
         "It makes me feel like I can do anything!\n",
         "Nothing’s impossible!"
+      ],
+      "fr_FR": [
+        "{STRVAR_1 3, 0, 0}: Tu y crois, toi?\n",
+        "Moi, j’ai du mal à y croire.\r",
+        "Toi et moi, on est des Dresseurs de\n",
+        "Pokémon maintenant!\r",
+        "Mais hé, on a plein de choses à\n",
+        "apprendre sur les Pokémon!\r",
+        "Enfin bon, quand je regarde cette\n",
+        "Poké Ball et que je pense à\f",
+        "{STRVAR_1 0, 1, 0}...\r",
+        "Je me dis que je peux y arriver!\n",
+        "Que rien n’est impossible!"
       ]
     },
     {
@@ -57,6 +92,12 @@
         "Pokémon living in it.\r",
         "Everyone says it’s just a legend, but\n",
         "I know I’m right."
+      ],
+      "fr_FR": [
+        "{STRVAR_1 3, 0, 0}: Il y a un Pokémon \n",
+        "mirage qui vit dans ce lac.\r",
+        "Tout le monde dit qu’il n’y a rien du\n",
+        "tout, mais je sais que j’ai raison."
       ]
     },
     {
@@ -70,6 +111,16 @@
         "has to battle me. You watch!\r",
         "With this little guy here, I’m sure I can\n",
         "get that tough."
+      ],
+      "fr_FR": [
+        "{STRVAR_1 3, 0, 0}: Hé, tu as entendu parler\n",
+        "du Maître Pokémon?\r",
+        "C’est un titre qu’on décerne au\n",
+        "Dresseur de Pokémon le plus balèze.\r",
+        "Tu vas voir, je deviendrai super fort\n",
+        "aussi pour pouvoir affronter le Maître!\r",
+        "Mon partenaire et moi, on va lui\n",
+        "montrer ce qu’on sait faire!"
       ]
     },
     {
@@ -79,6 +130,10 @@
         "talking already.\r",
         "I’m itching to get going to the lake.\n",
         "Come on, come on!"
+      ],
+      "fr_FR": [
+        "{STRVAR_1 3, 0, 0}: Bon, assez parlé.\r",
+        "On va au lac, allez, allez, allez!"
       ]
     },
     {
@@ -86,6 +141,10 @@
       "en_US": [
         "{STRVAR_1 3, 0, 0}: All right!\n",
         "Let’s move out! Hustle up!"
+      ],
+      "fr_FR": [
+        "{STRVAR_1 3, 0, 0}: Bon allez, on y va! \n",
+        "Hop, hop, hop!"
       ]
     },
     {
@@ -105,6 +164,10 @@
       "en_US": [
         "Cheryl: It’s startling to see two wild\n",
         "Pokémon appearing at the same time."
+      ],
+      "fr_FR": [
+        "Sara: C’est surprenant de voir deux \n",
+        "Pokémon sauvages surgir en même temps."
       ]
     },
     {
@@ -113,6 +176,12 @@
         "Cheryl: My Pokémon is an excellent\n",
         "healer.\r",
         "But attacking isn’t its strong point."
+      ],
+      "fr_FR": [
+        "Sara: Mon Pokémon est \n",
+        "un très bon soigneur.\r",
+        "Mais il n’est pas très fort en\n",
+        "attaque..."
       ]
     },
     {
@@ -122,17 +191,28 @@
         "you makes me feel elated.\r",
         "If I could predict what you’re about\n",
         "to do, we would make a fierce combo!"
+      ],
+      "fr_FR": [
+        "Sara: {STRVAR_1 3, 0, 0}, j’adore \n",
+        "combattre avec toi.\r",
+        "Si j’arrivais à prévoir ta prochaine \n",
+        "attaque, on pourrait faire des combos!"
       ]
     },
     {
       "id": "FollowerPartners_Text_Cheryl_ThatsSomeNiceMoss",
-      "en_US": "Cheryl: That’s some nice moss..."
+      "en_US": "Cheryl: That’s some nice moss...",
+      "fr_FR": "Sara: Oh, regarde cette mousse..."
     },
     {
       "id": "FollowerPartners_Text_Mira_AreYouGoingToUseThat",
       "en_US": [
         "Mira: Are you going to use that?\n",
         "I will be left all alone..."
+      ],
+      "fr_FR": [
+        "Maïté: Tu vas utiliser ça maintenant?\n",
+        "Je vais me retrouver toute seule..."
       ]
     },
     {
@@ -140,6 +220,10 @@
       "en_US": [
         "Mira: Are you going to use that?\n",
         "I will be left all alone..."
+      ],
+      "fr_FR": [
+        "Maïté: Tu vas utiliser ça maintenant?\n",
+        "Je vais me retrouver toute seule..."
       ]
     },
     {
@@ -147,6 +231,10 @@
       "en_US": [
         "Mira: That isn’t the right way.\n",
         "I’ll be lost if we go down..."
+      ],
+      "fr_FR": [
+        "Maïté: Non, pas par là.\n",
+        "Je vais me perdre si on descend..."
       ]
     },
     {
@@ -156,6 +244,11 @@
         "like Growl and Minimize.\r",
         "Those kinds of moves are my\n",
         "favorites."
+      ],
+      "fr_FR": [
+        "Maïté: J’aime bien les capacités utiles\n",
+        "comme Rugissement et Lilliput.\r",
+        "Je crois que ce sont mes préférées."
       ]
     },
     {
@@ -164,6 +257,10 @@
         "Mira: This cave...\n",
         "It’s so easy to get confused here.\f",
         "Do you know where we are?"
+      ],
+      "fr_FR": [
+        "Maïté: Cette grotte... C’est un vrai \n",
+        "labyrinthe. Tu sais où on est?"
       ]
     },
     {
@@ -174,6 +271,13 @@
         "your Pokémon?\r",
         "Yes! That has to be it!\n",
         "I will try like you!"
+      ],
+      "fr_FR": [
+        "Maïté: {STRVAR_1 3, 0, 0}, tu crois que tu es\n",
+        "un aussi bon Dresseur parce que\f",
+        "tu es tout le temps avec tes Pokémon?\r",
+        "Oui bien sûr, ça ne peut être que ça! \n",
+        "Je vais faire comme toi."
       ]
     },
     {
@@ -181,6 +285,10 @@
       "en_US": [
         "Riley: If you use that, I’ll have to\n",
         "wave good-bye to you now."
+      ],
+      "fr_FR": [
+        "Armand: Si tu utilises ça maintenant, \n",
+        "on va devoir se dire au revoir."
       ]
     },
     {
@@ -188,6 +296,10 @@
       "en_US": [
         "Riley: If you use that move, I’ll have\n",
         "to wave good-bye to you now."
+      ],
+      "fr_FR": [
+        "Armand: Si tu utilises cette capacité, \n",
+        "on va devoir se dire au revoir."
       ]
     },
     {
@@ -196,6 +308,11 @@
         "Riley: Haha, I’d have to agree.\r",
         "People training here would be those\n",
         "with too much time on their hands."
+      ],
+      "fr_FR": [
+        "Armand: Ha, ha, je suis bien d’accord.\r",
+        "Les gens qui s’entraînent ici \n",
+        "ont vraiment du temps à perdre."
       ]
     },
     {
@@ -205,6 +322,12 @@
         "thriving ore mine once upon a time.\r",
         "I guess the steel ore’s played out.\n",
         "There’s only Pokémon here now."
+      ],
+      "fr_FR": [
+        "Armand: Il y avait une mine très \n",
+        "importante ici il y a longtemps.\r",
+        "Les ressources ont dû finir par \n",
+        "s’épuiser. Il ne reste que des Pokémon."
       ]
     },
     {
@@ -215,6 +338,13 @@
         "He’s asked me to become a Gym\n",
         "Leader, but there’s his son Roark\f",
         "to consider as well."
+      ],
+      "fr_FR": [
+        "Armand: Tu as déjà rencontré Charles?\n",
+        "Le Champion d’Arène de Joliberges?\r",
+        "Il m’a demandé de devenir Champion \n",
+        "d’Arène, mais son fils Pierrick\f",
+        "est aussi bien placé pour le poste."
       ]
     },
     {
@@ -227,6 +357,15 @@
         "I wonder?\r",
         "I mean, it’s a lot harder to defeat\n",
         "one’s self than anyone else."
+      ],
+      "fr_FR": [
+        "Armand: Imagine un combat entre \n",
+        "deux Dresseurs qui utilisent des\f",
+        "Pokémon de type Acier.\r",
+        "Est-ce que ça serait un peu comme \n",
+        "combattre contre soi-même?\r",
+        "Je veux dire, c’est toujours plus \n",
+        "difficile de se vaincre soi-même."
       ]
     },
     {
@@ -236,6 +375,11 @@
         "The native Pokémon are restless...\r",
         "I don’t like this...\n",
         "Let’s hurry."
+      ],
+      "fr_FR": [
+        "Armand: Il se passe quelque chose.\n",
+        "Les Pokémon semblent agités...\r",
+        "Je n’aime pas ça... Dépêchons-nous."
       ]
     },
     {
@@ -246,6 +390,12 @@
         "Listen, I have a Pokémon here\n",
         "named Luca.\r",
         "Would you take it with you?\r"
+      ],
+      "fr_FR": [
+        "Armand: Merci, tu m’as donné \n",
+        "un sacré coup de main.\r",
+        "J’ai un Pokémon qui s’appelle Luca. \n",
+        "Tu veux bien le prendre avec toi?\r"
       ]
     },
     {
@@ -254,6 +404,11 @@
         "Riley: Thanks!\r",
         "I want you to show Luca all sorts\n",
         "of worlds.\r"
+      ],
+      "fr_FR": [
+        "Armand: Merci!\r",
+        "Je veux que tu l’emmènes partout et \n",
+        "que tu lui fasses découvrir le monde.\r"
       ]
     },
     {
@@ -264,6 +419,13 @@
         "another Pokémon.\r",
         "All right, then.\n",
         "I’ll wait here for you."
+      ],
+      "fr_FR": [
+        "Armand: Merci...\r",
+        "Mais tu n’as plus de place \n",
+        "pour un autre Pokémon.\r",
+        "Ne t’inquiète pas, \n",
+        "je vais attendre ici."
       ]
     },
     {
@@ -271,6 +433,10 @@
       "en_US": [
         "Riley: I hope you’ll accept it as\n",
         "a token of our friendship."
+      ],
+      "fr_FR": [
+        "Armand: J’espérais que tu allais le \n",
+        "prendre, comme symbole de notre amitié."
       ]
     },
     {
@@ -282,6 +448,13 @@
         "places from now on.\r",
         "It would be great if we could meet\n",
         "again.\r"
+      ],
+      "fr_FR": [
+        "Armand: J’ai passé un bon \n",
+        "moment en ta compagnie.\r",
+        "Maintenant, je vais aller m’entraîner \n",
+        "sous d’autres horizons.\r",
+        "J’espère qu’on se croisera à nouveau!\r"
       ]
     },
     {
@@ -289,6 +462,10 @@
       "en_US": [
         "Marley: ...Are you going to leave\n",
         "me here?"
+      ],
+      "fr_FR": [
+        "Viviane: Tu vas me laisser \n",
+        "là toute seule?"
       ]
     },
     {
@@ -296,6 +473,10 @@
       "en_US": [
         "Marley: ...Are you going to leave\n",
         "me here?"
+      ],
+      "fr_FR": [
+        "Viviane: Tu vas me laisser \n",
+        "là toute seule?"
       ]
     },
     {
@@ -303,21 +484,31 @@
       "en_US": [
         "Marley: ...Sorry, but I’m not\n",
         "going up."
+      ],
+      "fr_FR": [
+        "Viviane: Désolée, mais je ne \n",
+        "monterai pas là-haut."
       ]
     },
     {
       "id": "FollowerPartners_Text_Marley_ItIsntThatWay",
-      "en_US": "Marley: ...It isn’t that way."
+      "en_US": "Marley: ...It isn’t that way.",
+      "fr_FR": "Viviane: Ce n’est pas le bon chemin."
     },
     {
       "id": "FollowerPartners_Text_Marley_YoureVeryChatty",
-      "en_US": "Marley: ...You’re very chatty..."
+      "en_US": "Marley: ...You’re very chatty...",
+      "fr_FR": "Viviane: Tu parles beaucoup..."
     },
     {
       "id": "FollowerPartners_Text_Marley_ThePokemonAmongFlowers",
       "en_US": [
         "Marley: ...The Pokémon among\n",
         "flowers..."
+      ],
+      "fr_FR": [
+        "Viviane: Le Pokémon entouré de\n",
+        "fleurs..."
       ]
     },
     {
@@ -326,6 +517,11 @@
         "Buck: Whoa, {STRVAR_1 3, 0, 0}!\r",
         "If you use that, me and my Pokémon\n",
         "will be left behind. Don’t do it!"
+      ],
+      "fr_FR": [
+        "Cornil: Pas si vite, {STRVAR_1 3, 0, 0}!\r",
+        "Si tu fais ça, on va se retrouver tout\n",
+        "seuls ici, mes Pokémon et moi!"
       ]
     },
     {
@@ -334,6 +530,11 @@
         "Buck: Whoa, {STRVAR_1 3, 0, 0}!\r",
         "If you use that, me and my Pokémon\n",
         "will be left behind. Don’t do it!"
+      ],
+      "fr_FR": [
+        "Cornil: Pas si vite, {STRVAR_1 3, 0, 0}!\r",
+        "Si tu fais ça, on va se retrouver tout\n",
+        "seuls ici, mes Pokémon et moi!"
       ]
     },
     {
@@ -344,6 +545,14 @@
         "making a mess of this place.\r",
         "Especially not those weird Team\n",
         "Galactic goons!"
+      ],
+      "fr_FR": [
+        "Cornil: C’est ici que j’ai entraîné tous\n",
+        "mes Pokémon.\r",
+        "Je n’accepterai pas que des gens sans\n",
+        "scrupules dénaturent cet endroit.\r",
+        "Surtout pas des illuminés de la\n",
+        "Team Galaxie!"
       ]
     },
     {
@@ -355,6 +564,15 @@
         "After all, they try so hard for me.\r",
         "I think it’s my responsibility as a\n",
         "Trainer to recognize their hard work."
+      ],
+      "fr_FR": [
+        "Cornil: Je ne veux pas être invincible\n",
+        "par orgueil, c’est juste que je ne veux\f",
+        "pas décevoir mes Pokémon.\r",
+        "Ils se donnent beaucoup \n",
+        "de mal pour moi.\r",
+        "Je crois que je leur dois bien \n",
+        "ça, pour les remercier."
       ]
     },
     {
@@ -368,6 +586,16 @@
         "I want to be tough on my own terms.\r",
         "It wouldn’t be fair to the Pokémon\n",
         "that chose to be with me."
+      ],
+      "fr_FR": [
+        "Cornil: Mon grand frère est \n",
+        "membre du Conseil 4.\r",
+        "Du coup, c’est normal que je \n",
+        "sois plus fort que la moyenne.\r",
+        "Mais je ne veux pas être le meilleur à \n",
+        "tout prix juste par fierté.\r",
+        "Les Pokémon qui ont choisi de se \n",
+        "joindre à moi méritent mieux que ça."
       ]
     },
     {
@@ -377,6 +605,13 @@
         "Leader or one of the Elite Four...\r",
         "But, then again, it sounds like it’d\n",
         "be a lot of hard work!"
+      ],
+      "fr_FR": [
+        "Cornil: Bien sûr, ça doit être cool\n",
+        "d’être Champion d’Arène ou\f",
+        "membre du Conseil 4...\r",
+        "Mais ça doit être dur d’arriver\n",
+        "jusque-là!"
       ]
     }
   ]

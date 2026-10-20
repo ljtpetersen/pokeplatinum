@@ -3,35 +3,43 @@
   "messages": [
     {
       "id": "pl_msg_00000464_00000",
-      "en_US": "Communicating. Please stand by..."
+      "en_US": "Communicating. Please stand by...",
+      "fr_FR": "Communication en cours..."
     },
     {
       "id": "pl_msg_00000464_00001",
-      "en_US": "The {STRVAR_1 8, 0, 0} went in!"
+      "en_US": "The {STRVAR_1 8, 0, 0} went in!",
+      "fr_FR": "La {STRVAR_1 8, 0, 0} est ajoutée!"
     },
     {
       "id": "pl_msg_00000464_00002",
-      "en_US": "{STRVAR_1 3, 0, 0}"
+      "en_US": "{STRVAR_1 3, 0, 0}",
+      "fr_FR": "{STRVAR_1 3, 0, 0}"
     },
     {
       "id": "pl_msg_00000464_00003",
-      "en_US": "It’ll burn! Stir it!"
+      "en_US": "It’ll burn! Stir it!",
+      "fr_FR": "Ça va brûler! Tournez!"
     },
     {
       "id": "pl_msg_00000464_00004",
-      "en_US": "Too fast! Overflow!"
+      "en_US": "Too fast! Overflow!",
+      "fr_FR": "Trop vite! Ça déborde!"
     },
     {
       "id": "pl_msg_00000464_00005",
-      "en_US": "It’ll burn! Hurry!"
+      "en_US": "It’ll burn! Hurry!",
+      "fr_FR": "Ça va brûler! Vite!"
     },
     {
       "id": "pl_msg_00000464_00006",
-      "en_US": "Slow down a little!"
+      "en_US": "Slow down a little!",
+      "fr_FR": "Ralentissez un peu!"
     },
     {
       "id": "pl_msg_00000464_00007",
-      "en_US": "Quick! Quick!"
+      "en_US": "Quick! Quick!",
+      "fr_FR": "Plus vite! Plus vite!"
     },
     {
       "id": "pl_msg_00000464_00008",
@@ -39,39 +47,48 @@
     },
     {
       "id": "pl_msg_00000464_00009",
-      "en_US": "RESULTS"
+      "en_US": "RESULTS",
+      "fr_FR": "RESULTAT DE LA CUISSON"
     },
     {
       "id": "pl_msg_00000464_00010",
-      "en_US": "Time"
+      "en_US": "Time",
+      "fr_FR": "Temps"
     },
     {
       "id": "pl_msg_00000464_00011",
-      "en_US": "{STRVAR_1 51, 0, 0}:{STRVAR_1 51, 1, 0}:{STRVAR_1 51, 2, 0}"
+      "en_US": "{STRVAR_1 51, 0, 0}:{STRVAR_1 51, 1, 0}:{STRVAR_1 51, 2, 0}",
+      "fr_FR": "{STRVAR_1 51, 0, 0}:{STRVAR_1 51, 1, 0}:{STRVAR_1 51, 2, 0}"
     },
     {
       "id": "pl_msg_00000464_00012",
-      "en_US": "Overflowed"
+      "en_US": "Overflowed",
+      "fr_FR": "Débordé"
     },
     {
       "id": "pl_msg_00000464_00013",
-      "en_US": "{STRVAR_1 53, 0, 0} time"
+      "en_US": "{STRVAR_1 53, 0, 0} time",
+      "fr_FR": "{STRVAR_1 53, 0, 0} fois"
     },
     {
       "id": "pl_msg_00000464_00014",
-      "en_US": "Burned"
+      "en_US": "Burned",
+      "fr_FR": "Brûlé"
     },
     {
       "id": "pl_msg_00000464_00015",
-      "en_US": "{STRVAR_1 53, 0, 0} times"
+      "en_US": "{STRVAR_1 53, 0, 0} times",
+      "fr_FR": "{STRVAR_1 53, 0, 0} fois"
     },
     {
       "id": "pl_msg_00000464_00016",
-      "en_US": "Poffins made:"
+      "en_US": "Poffins made:",
+      "fr_FR": "Nb de Poffins:"
     },
     {
       "id": "pl_msg_00000464_00017",
-      "en_US": "{STRVAR_1 9, 3, 0} Lv. {STRVAR_1 51, 1, 0} x {STRVAR_1 51, 2, 0}"
+      "en_US": "{STRVAR_1 9, 3, 0} Lv. {STRVAR_1 51, 1, 0} x {STRVAR_1 51, 2, 0}",
+      "fr_FR": "{STRVAR_1 9, 3, 0} N. {STRVAR_1 51, 1, 0} x {STRVAR_1 51, 2, 0}"
     },
     {
       "id": "pl_msg_00000464_00018",
@@ -86,6 +103,10 @@
       "en_US": [
         "{STRVAR_1 3, 0, 0} put away the\n",
         "{STRVAR_1 9, 3, 0}(s) in the case."
+      ],
+      "fr_FR": [
+        "{STRVAR_1 3, 0, 0} place le(s) Poffin(s)\n",
+        "dans la Boîte Poffin."
       ]
     },
     {
@@ -93,6 +114,10 @@
       "en_US": [
         "Would you like to keep cooking\n",
         "Poffins?"
+      ],
+      "fr_FR": [
+        "Voulez-vous continuer à cuisiner\n",
+        "des Poffins?"
       ]
     },
     {
@@ -100,6 +125,10 @@
       "en_US": [
         "Someone has dropped out.\n",
         "Cooking will be canceled."
+      ],
+      "fr_FR": [
+        "Quelqu’un a abandonné.\n",
+        "La cuisson va être annulée."
       ]
     },
     {
@@ -107,15 +136,21 @@
       "en_US": [
         "Please choose the Berry you want to\n",
         "cook from your Bag."
+      ],
+      "fr_FR": [
+        "Veuillez choisir dans votre Sac la Baie\n",
+        "que vous voulez cuisiner."
       ]
     },
     {
       "id": "pl_msg_00000464_00024",
-      "en_US": "The Poffin Case is full."
+      "en_US": "The Poffin Case is full.",
+      "fr_FR": "La Boîte Poffin est pleine."
     },
     {
       "id": "pl_msg_00000464_00025",
-      "en_US": "There isn’t a Berry to cook."
+      "en_US": "There isn’t a Berry to cook.",
+      "fr_FR": "Vous n’avez pas de Baie pour cuisiner."
     }
   ]
 }

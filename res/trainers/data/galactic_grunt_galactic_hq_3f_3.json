@@ -33,11 +33,17 @@
                 "Are you enjoying your unescorted,\n",
                 "unauthorized, and unsettling tour\f",
                 "of Team Galactic HQ?\r"
+            ],
+            "fr_FR": [
+                "Ça t’amuse de visiter le QG de la\n",
+                "Team Galaxie sans escorte, sans\f",
+                "permission et sans la moindre gêne?\r"
             ]
         },
         {
             "type": "TRMSG_DEFEAT",
-            "en_US": "Let me do what I want!\n"
+            "en_US": "Let me do what I want!\n",
+            "fr_FR": "Tu vas me laisser faire, oui?!"
         },
         {
             "type": "TRMSG_POST_BATTLE",
@@ -46,7 +52,14 @@
                 "the Team Galactic HQ building.\r",
                 "Soon, all will belong to Team\n",
                 "Galactic, anyway!\n"
+            ],
+            "fr_FR": [
+                "Peu importe ce qui se passe dans le\n",
+                "QG de la Team Galaxie.\r",
+                "Bientôt, tout nous appartiendra\n",
+                "de toute façon!\n"
             ]
         }
-    ]
+    ],
+    "name_fr": "Sbire"
 }

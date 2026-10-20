@@ -26,5 +26,13 @@
   "battlePocket": "BATTLE_POCKET_MASK_NONE",
   "fieldUseFunc": "ITEM_USE_FUNC_NONE",
   "battleUseCategory": "BATTLE_USE_CATEGORY_NONE",
-  "itemUseParams": null
+  "itemUseParams": null,
+  "name_fr": "Orbe Perlé",
+  "description_fr": [
+    "Bel orbe luisant destiné à PALKIA.\n",
+    "Augmente la puissance des capacités de\n",
+    "type Dragon ou Eau."
+  ],
+  "plural_fr": "Orbe Perlé",
+  "article_fr": null
 }

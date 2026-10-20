@@ -26,5 +26,13 @@
     "contest": {
         "effect": "CONTEST_EFFECT_FIRST_PERFORMANCE_ADVANTAGE",
         "type": "CONTEST_TYPE_COOL"
-    }
+    },
+    "name_fr": "Exploforce",
+    "description_fr": [
+        "Le lanceur rassemble\n",
+        "ses forces et laisse\n",
+        "éclater son pouvoir.\n",
+        "Peut aussi baisser la\n",
+        "Déf. Spé. de l’ennemi."
+    ]
 }

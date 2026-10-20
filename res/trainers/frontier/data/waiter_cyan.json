@@ -85,6 +85,10 @@
             "en_US": [
                 "Thank you for your patience.\n",
                 "Here is the battle you’d ordered."
+            ],
+            "fr_FR": [
+                "Merci d’avoir patienté.\n",
+                "Voici le combat que tu as commandé."
             ]
         },
         {
@@ -92,6 +96,10 @@
             "en_US": [
                 "I trust you were satisfied?\n",
                 "I feel shortchanged somewhat.\r"
+            ],
+            "fr_FR": [
+                "J’espère que ce combat t’a donné\n",
+                "satisfaction. Euh... et mon pourboire?\r"
             ]
         },
         {
@@ -99,7 +107,12 @@
             "en_US": [
                 "I trust you were satisfied?\n",
                 "I’ve had my fill.\r"
+            ],
+            "fr_FR": [
+                "J’espère que ce combat t’a donné\n",
+                "satisfaction. Je vais me retirer.\r"
             ]
         }
-    ]
+    ],
+    "name_fr": "Ollie"
 }

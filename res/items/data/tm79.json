@@ -27,5 +27,13 @@
   "fieldUseFunc": "ITEM_USE_FUNC_TM_HM",
   "battleUseCategory": "BATTLE_USE_CATEGORY_NONE",
   "itemUseParams": null,
-  "teachesMove": "MOVE_DARK_PULSE"
+  "teachesMove": "MOVE_DARK_PULSE",
+  "name_fr": "CT79",
+  "description_fr": [
+    "Le lanceur dégage une horrible aura\n",
+    "chargée d’idées noires. Peut aussi\n",
+    "apeurer l’ennemi."
+  ],
+  "plural_fr": "CT79",
+  "article_fr": null
 }

@@ -26,5 +26,13 @@
   "battlePocket": "BATTLE_POCKET_MASK_NONE",
   "fieldUseFunc": "ITEM_USE_FUNC_NONE",
   "battleUseCategory": "BATTLE_USE_CATEGORY_NONE",
-  "itemUseParams": null
+  "itemUseParams": null,
+  "name_fr": "Loupe",
+  "description_fr": [
+    "Objet à tenir. Magnifique loupe\n",
+    "augmentant un peu la précision des\n",
+    "capacités."
+  ],
+  "plural_fr": "Loupe",
+  "article_fr": null
 }

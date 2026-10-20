@@ -25,5 +25,13 @@
     "contest": {
         "effect": "CONTEST_EFFECT_BASIC",
         "type": "CONTEST_TYPE_SMART"
-    }
+    },
+    "name_fr": "Acide",
+    "description_fr": [
+        "Le lanceur attaque\n",
+        "l’ennemi avec un jet\n",
+        "d’acide corrosif. Peut\n",
+        "aussi baisser la Déf.\n",
+        "Spé. de l’ennemi."
+    ]
 }

@@ -3,43 +3,53 @@
   "messages": [
     {
       "id": "BattleParty_Text_PartyPokemon1Name",
-      "en_US": "{STRVAR_1 1, 0, 0}"
+      "en_US": "{STRVAR_1 1, 0, 0}",
+      "fr_FR": "{STRVAR_1 1, 0, 0}"
     },
     {
       "id": "BattleParty_Text_PartyPokemon2Name",
-      "en_US": "{STRVAR_1 1, 0, 0}"
+      "en_US": "{STRVAR_1 1, 0, 0}",
+      "fr_FR": "{STRVAR_1 1, 0, 0}"
     },
     {
       "id": "BattleParty_Text_PartyPokemon3Name",
-      "en_US": "{STRVAR_1 1, 0, 0}"
+      "en_US": "{STRVAR_1 1, 0, 0}",
+      "fr_FR": "{STRVAR_1 1, 0, 0}"
     },
     {
       "id": "BattleParty_Text_PartyPokemon4Name",
-      "en_US": "{STRVAR_1 1, 0, 0}"
+      "en_US": "{STRVAR_1 1, 0, 0}",
+      "fr_FR": "{STRVAR_1 1, 0, 0}"
     },
     {
       "id": "BattleParty_Text_PartyPokemon5Name",
-      "en_US": "{STRVAR_1 1, 0, 0}"
+      "en_US": "{STRVAR_1 1, 0, 0}",
+      "fr_FR": "{STRVAR_1 1, 0, 0}"
     },
     {
       "id": "BattleParty_Text_PartyPokemon6Name",
-      "en_US": "{STRVAR_1 1, 0, 0}"
+      "en_US": "{STRVAR_1 1, 0, 0}",
+      "fr_FR": "{STRVAR_1 1, 0, 0}"
     },
     {
       "id": "BattleParty_Text_ChooseAPokemon",
-      "en_US": "Choose a Pokémon."
+      "en_US": "Choose a Pokémon.",
+      "fr_FR": "Choisir un Pokémon."
     },
     {
       "id": "BattleParty_Text_UseOnWhichPokemon",
-      "en_US": "Use on which Pokémon?"
+      "en_US": "Use on which Pokémon?",
+      "fr_FR": "Utiliser sur quel Pokémon?"
     },
     {
       "id": "BattleParty_Text_PokemonAbilityName",
-      "en_US": "{STRVAR_1 5, 0, 0}"
+      "en_US": "{STRVAR_1 5, 0, 0}",
+      "fr_FR": "{STRVAR_1 5, 0, 0}"
     },
     {
       "id": "BattleParty_Text_PokemonHeldItemName",
-      "en_US": "{STRVAR_1 8, 0, 0}"
+      "en_US": "{STRVAR_1 8, 0, 0}",
+      "fr_FR": "{STRVAR_1 8, 0, 0}"
     },
     {
       "id": "pl_msg_00000003_00010",
@@ -59,135 +69,168 @@
     },
     {
       "id": "BattleParty_Text_PokemonPPLabel",
-      "en_US": "PP"
+      "en_US": "PP",
+      "fr_FR": "PP"
     },
     {
       "id": "BattleParty_Text_ShiftButton",
-      "en_US": "SHIFT"
+      "en_US": "SHIFT",
+      "fr_FR": "ECHANGER"
     },
     {
       "id": "BattleParty_Text_MaleIcon",
-      "en_US": "♂"
+      "en_US": "♂",
+      "fr_FR": "♂"
     },
     {
       "id": "BattleParty_Text_FemaleIcon",
-      "en_US": "♀"
+      "en_US": "♀",
+      "fr_FR": "♀"
     },
     {
       "id": "BattleParty_Text_SummaryButton",
-      "en_US": "SUMMARY"
+      "en_US": "SUMMARY",
+      "fr_FR": "RESUME"
     },
     {
       "id": "BattleParty_Text_CheckMovesButton",
-      "en_US": "CHECK MOVES"
+      "en_US": "CHECK MOVES",
+      "fr_FR": "CAPACITES"
     },
     {
       "id": "BattleParty_Text_PokemonNoItemHeld",
-      "en_US": "No item held"
+      "en_US": "No item held",
+      "fr_FR": "Pas d’objet tenu"
     },
     {
       "id": "pl_msg_00000003_00021",
-      "en_US": "{STRVAR_1 1, 0, 0}"
+      "en_US": "{STRVAR_1 1, 0, 0}",
+      "fr_FR": "{STRVAR_1 1, 0, 0}"
     },
     {
       "id": "pl_msg_00000003_00022",
-      "en_US": "{STRVAR_1 1, 0, 0}"
+      "en_US": "{STRVAR_1 1, 0, 0}",
+      "fr_FR": "{STRVAR_1 1, 0, 0}"
     },
     {
       "id": "BattleParty_Text_PokemonLevelLabel",
-      "en_US": "Lv."
+      "en_US": "Lv.",
+      "fr_FR": "N. "
     },
     {
       "id": "BattleParty_Text_PokemonLevelValue",
-      "en_US": "{STRVAR_1 52, 0, 0}"
+      "en_US": "{STRVAR_1 52, 0, 0}",
+      "fr_FR": "{STRVAR_1 52, 0, 0}"
     },
     {
       "id": "BattleParty_Text_PokemonExpToNextLevelLabel",
-      "en_US": "NEXT LV"
+      "en_US": "NEXT LV",
+      "fr_FR": "NIVEAU SUIVANT"
     },
     {
       "id": "BattleParty_Text_PokemonExpToNextLevelValue",
-      "en_US": "{STRVAR_1 55, 0, 0}"
+      "en_US": "{STRVAR_1 55, 0, 0}",
+      "fr_FR": "{STRVAR_1 55, 0, 0}"
     },
     {
       "id": "pl_msg_00000003_00027",
-      "en_US": "{STRVAR_1 5, 0, 0}"
+      "en_US": "{STRVAR_1 5, 0, 0}",
+      "fr_FR": "{STRVAR_1 5, 0, 0}"
     },
     {
       "id": "BattleParty_Text_PokemonHPStatLabel",
-      "en_US": "HP"
+      "en_US": "HP",
+      "fr_FR": "PV"
     },
     {
       "id": "BattleParty_Text_PokemonHPStatValue",
-      "en_US": "{STRVAR_1 52, 0, 0}"
+      "en_US": "{STRVAR_1 52, 0, 0}",
+      "fr_FR": "{STRVAR_1 52, 0, 0}"
     },
     {
       "id": "BattleParty_Text_PokemonMaxHPStatValue",
-      "en_US": "{STRVAR_1 52, 0, 0}"
+      "en_US": "{STRVAR_1 52, 0, 0}",
+      "fr_FR": "{STRVAR_1 52, 0, 0}"
     },
     {
       "id": "BattleParty_Text_PokemonHPStatDivider",
-      "en_US": "/"
+      "en_US": "/",
+      "fr_FR": "/"
     },
     {
       "id": "BattleParty_Text_PokemonAttackStatLabel",
-      "en_US": "ATTACK"
+      "en_US": "ATTACK",
+      "fr_FR": "ATTAQUE"
     },
     {
       "id": "BattleParty_Text_PokemonAttackStatValue",
-      "en_US": "{STRVAR_1 52, 0, 0}"
+      "en_US": "{STRVAR_1 52, 0, 0}",
+      "fr_FR": "{STRVAR_1 52, 0, 0}"
     },
     {
       "id": "BattleParty_Text_PokemonDefenseStatLabel",
-      "en_US": "DEFENSE"
+      "en_US": "DEFENSE",
+      "fr_FR": "DEFENSE"
     },
     {
       "id": "BattleParty_Text_PokemonDefenseStatValue",
-      "en_US": "{STRVAR_1 52, 0, 0}"
+      "en_US": "{STRVAR_1 52, 0, 0}",
+      "fr_FR": "{STRVAR_1 52, 0, 0}"
     },
     {
       "id": "BattleParty_Text_PokemonSpAtkStatLabel",
-      "en_US": "SP. ATK"
+      "en_US": "SP. ATK",
+      "fr_FR": "ATQ SP"
     },
     {
       "id": "BattleParty_Text_PokemonSpAtkStatValue",
-      "en_US": "{STRVAR_1 52, 0, 0}"
+      "en_US": "{STRVAR_1 52, 0, 0}",
+      "fr_FR": "{STRVAR_1 52, 0, 0}"
     },
     {
       "id": "BattleParty_Text_PokemonSpDefStatLabel",
-      "en_US": "SP. DEF"
+      "en_US": "SP. DEF",
+      "fr_FR": "DEF SP"
     },
     {
       "id": "BattleParty_Text_PokemonSpDefStatValue",
-      "en_US": "{STRVAR_1 52, 0, 0}"
+      "en_US": "{STRVAR_1 52, 0, 0}",
+      "fr_FR": "{STRVAR_1 52, 0, 0}"
     },
     {
       "id": "BattleParty_Text_PokemonSpeedStatLabel",
-      "en_US": "SPEED"
+      "en_US": "SPEED",
+      "fr_FR": "VITESSE"
     },
     {
       "id": "BattleParty_Text_PokemonSpeedStatValue",
-      "en_US": "{STRVAR_1 52, 0, 0}"
+      "en_US": "{STRVAR_1 52, 0, 0}",
+      "fr_FR": "{STRVAR_1 52, 0, 0}"
     },
     {
       "id": "pl_msg_00000003_00042",
-      "en_US": "{STRVAR_1 6, 0, 0}"
+      "en_US": "{STRVAR_1 6, 0, 0}",
+      "fr_FR": "{STRVAR_1 6, 0, 0}"
     },
     {
       "id": "BattleParty_Text_MovePPLabel",
-      "en_US": "PP"
+      "en_US": "PP",
+      "fr_FR": "PP "
     },
     {
       "id": "BattleParty_Text_MoveCurrentPP",
-      "en_US": "{STRVAR_1 51, 0, 0}"
+      "en_US": "{STRVAR_1 51, 0, 0}",
+      "fr_FR": "{STRVAR_1 51, 0, 0}"
     },
     {
       "id": "BattleParty_Text_MoveMaxPP",
-      "en_US": "{STRVAR_1 51, 0, 0}"
+      "en_US": "{STRVAR_1 51, 0, 0}",
+      "fr_FR": "{STRVAR_1 51, 0, 0}"
     },
     {
       "id": "BattleParty_Text_MovePPDivider",
-      "en_US": "/"
+      "en_US": "/",
+      "fr_FR": "/"
     },
     {
       "id": "pl_msg_00000003_00047",
@@ -195,124 +238,160 @@
     },
     {
       "id": "BattleParty_Text_MovePowerLabel",
-      "en_US": "POWER"
+      "en_US": "POWER",
+      "fr_FR": "POUVOIR"
     },
     {
       "id": "BattleParty_Text_MovePowerValue",
-      "en_US": "{STRVAR_1 52, 0, 0}"
+      "en_US": "{STRVAR_1 52, 0, 0}",
+      "fr_FR": "{STRVAR_1 52, 0, 0}"
     },
     {
       "id": "BattleParty_Text_MoveStatNoValue",
-      "en_US": "---"
+      "en_US": "---",
+      "fr_FR": "---"
     },
     {
       "id": "BattleParty_Text_MoveAccuracyLabel",
-      "en_US": "ACCURACY"
+      "en_US": "ACCURACY",
+      "fr_FR": "PRECISION"
     },
     {
       "id": "BattleParty_Text_MoveAccuracyValue",
-      "en_US": "{STRVAR_1 52, 0, 0}"
+      "en_US": "{STRVAR_1 52, 0, 0}",
+      "fr_FR": "{STRVAR_1 52, 0, 0}"
     },
     {
       "id": "BattleParty_Text_MoveCategoryLabel",
-      "en_US": "CATEGORY"
+      "en_US": "CATEGORY",
+      "fr_FR": "CATEGORIE"
     },
     {
       "id": "BattleParty_Text_MoveCategoryPhysical",
-      "en_US": "PHYSICAL"
+      "en_US": "PHYSICAL",
+      "fr_FR": "PHYSIQUE"
     },
     {
       "id": "BattleParty_Text_MoveCategoryStatus",
-      "en_US": "STATUS"
+      "en_US": "STATUS",
+      "fr_FR": "STATUT"
     },
     {
       "id": "BattleParty_Text_MoveCategorySpecial",
-      "en_US": "SPECIAL"
+      "en_US": "SPECIAL",
+      "fr_FR": "SPECIALE"
     },
     {
       "id": "BattleParty_Text_AppealPtsLabel",
-      "en_US": "APPEAL PTS"
+      "en_US": "APPEAL PTS",
+      "fr_FR": "POINTS DE CHARME"
     },
     {
       "id": "BattleParty_Text_ForgetMoveButton",
-      "en_US": "FORGET"
+      "en_US": "FORGET",
+      "fr_FR": "OUBLIER"
     },
     {
       "id": "BattleParty_Text_CancelMoveButton",
-      "en_US": "CANCEL"
+      "en_US": "CANCEL",
+      "fr_FR": "RETOUR"
     },
     {
       "id": "BattleParty_Text_HMMovesCantBeForgotten",
       "en_US": [
         "HM moves can’t be\n",
         "forgotten now."
+      ],
+      "fr_FR": [
+        "Impossible d’oublier\n",
+        "les capacités CS\n",
+        "maintenant."
       ]
     },
     {
       "id": "BattleParty_Text_Move1Name",
-      "en_US": "{STRVAR_1 6, 0, 0}"
+      "en_US": "{STRVAR_1 6, 0, 0}",
+      "fr_FR": "{STRVAR_1 6, 0, 0}"
     },
     {
       "id": "pl_msg_00000003_00062",
-      "en_US": "{STRVAR_1 51, 0, 0}"
+      "en_US": "{STRVAR_1 51, 0, 0}",
+      "fr_FR": "{STRVAR_1 51, 0, 0}"
     },
     {
       "id": "pl_msg_00000003_00063",
-      "en_US": "{STRVAR_1 51, 0, 0}"
+      "en_US": "{STRVAR_1 51, 0, 0}",
+      "fr_FR": "{STRVAR_1 51, 0, 0}"
     },
     {
       "id": "BattleParty_Text_Move2Name",
-      "en_US": "{STRVAR_1 6, 0, 0}"
+      "en_US": "{STRVAR_1 6, 0, 0}",
+      "fr_FR": "{STRVAR_1 6, 0, 0}"
     },
     {
       "id": "pl_msg_00000003_00065",
-      "en_US": "{STRVAR_1 51, 0, 0}"
+      "en_US": "{STRVAR_1 51, 0, 0}",
+      "fr_FR": "{STRVAR_1 51, 0, 0}"
     },
     {
       "id": "pl_msg_00000003_00066",
-      "en_US": "{STRVAR_1 51, 0, 0}"
+      "en_US": "{STRVAR_1 51, 0, 0}",
+      "fr_FR": "{STRVAR_1 51, 0, 0}"
     },
     {
       "id": "BattleParty_Text_Move3Name",
-      "en_US": "{STRVAR_1 6, 0, 0}"
+      "en_US": "{STRVAR_1 6, 0, 0}",
+      "fr_FR": "{STRVAR_1 6, 0, 0}"
     },
     {
       "id": "pl_msg_00000003_00068",
-      "en_US": "{STRVAR_1 51, 0, 0}"
+      "en_US": "{STRVAR_1 51, 0, 0}",
+      "fr_FR": "{STRVAR_1 51, 0, 0}"
     },
     {
       "id": "pl_msg_00000003_00069",
-      "en_US": "{STRVAR_1 51, 0, 0}"
+      "en_US": "{STRVAR_1 51, 0, 0}",
+      "fr_FR": "{STRVAR_1 51, 0, 0}"
     },
     {
       "id": "BattleParty_Text_Move4Name",
-      "en_US": "{STRVAR_1 6, 0, 0}"
+      "en_US": "{STRVAR_1 6, 0, 0}",
+      "fr_FR": "{STRVAR_1 6, 0, 0}"
     },
     {
       "id": "pl_msg_00000003_00071",
-      "en_US": "{STRVAR_1 51, 0, 0}"
+      "en_US": "{STRVAR_1 51, 0, 0}",
+      "fr_FR": "{STRVAR_1 51, 0, 0}"
     },
     {
       "id": "pl_msg_00000003_00072",
-      "en_US": "{STRVAR_1 51, 0, 0}"
+      "en_US": "{STRVAR_1 51, 0, 0}",
+      "fr_FR": "{STRVAR_1 51, 0, 0}"
     },
     {
       "id": "BattleParty_Text_MoveToLearnName",
-      "en_US": "{STRVAR_1 6, 0, 0}"
+      "en_US": "{STRVAR_1 6, 0, 0}",
+      "fr_FR": "{STRVAR_1 6, 0, 0}"
     },
     {
       "id": "pl_msg_00000003_00074",
-      "en_US": "{STRVAR_1 51, 0, 0}"
+      "en_US": "{STRVAR_1 51, 0, 0}",
+      "fr_FR": "{STRVAR_1 51, 0, 0}"
     },
     {
       "id": "pl_msg_00000003_00075",
-      "en_US": "{STRVAR_1 51, 0, 0}"
+      "en_US": "{STRVAR_1 51, 0, 0}",
+      "fr_FR": "{STRVAR_1 51, 0, 0}"
     },
     {
       "id": "BattleParty_Text_CantSwitchWithPokemonAlreadyInBattle",
       "en_US": [
         "{STRVAR_1 1, 0, 0} is already\n",
         "in battle!"
+      ],
+      "fr_FR": [
+        "{STRVAR_1 1, 0, 0} est déjà au\n",
+        "combat!"
       ]
     },
     {
@@ -320,6 +399,10 @@
       "en_US": [
         "{STRVAR_1 1, 0, 0} has no energy\n",
         "left to battle!"
+      ],
+      "fr_FR": [
+        "{STRVAR_1 1, 0, 0} n’a plus d’énergie\n",
+        "pour combattre!"
       ]
     },
     {
@@ -327,35 +410,50 @@
       "en_US": [
         "{STRVAR_1 1, 0, 0} can’t be switched\n",
         "out!"
+      ],
+      "fr_FR": [
+        "{STRVAR_1 1, 0, 0} ne peut pas être\n",
+        "échangé!"
       ]
     },
     {
       "id": "BattleParty_Text_CantSwitchWithEgg",
-      "en_US": "An Egg can’t battle!"
+      "en_US": "An Egg can’t battle!",
+      "fr_FR": "Un Oeuf ne se bat pas, voyons!"
     },
     {
       "id": "BattleParty_Text_CantSwitchWithPartnersPokemon",
       "en_US": [
         "You can’t switch {STRVAR_1 3, 0, 0}’s\n",
         "Pokémon with one of yours!"
+      ],
+      "fr_FR": [
+        "Impossible d’échanger un Pokémon\n",
+        "de {STRVAR_1 3, 0, 0} avec un des vôtres!"
       ]
     },
     {
       "id": "BattleParty_Text_ItemWontHaveAnyEffect",
-      "en_US": "It won’t have any effect."
+      "en_US": "It won’t have any effect.",
+      "fr_FR": "Ça n’aura aucun effet."
     },
     {
       "id": "BattleParty_Text_ItemRestoredHealth",
       "en_US": [
         "{STRVAR_1 1, 0, 0}’s HP was restored\n",
         "by {STRVAR_1 52, 1, 0} point(s)."
-      ]
+      ],
+      "fr_FR": "{STRVAR_1 1, 0, 0} récupère {STRVAR_1 52, 1, 0} PV."
     },
     {
       "id": "BattleParty_Text_ItemCuredPoisoning",
       "en_US": [
         "{STRVAR_1 1, 0, 0} was cured of its\n",
         "poisoning."
+      ],
+      "fr_FR": [
+        "{STRVAR_1 1, 0, 0} n’est plus\n",
+        "empoisonné."
       ]
     },
     {
@@ -363,65 +461,83 @@
       "en_US": [
         "{STRVAR_1 1, 0, 0} was cured of\n",
         "paralysis."
+      ],
+      "fr_FR": [
+        "{STRVAR_1 1, 0, 0} n’est plus\n",
+        "paralysé."
       ]
     },
     {
       "id": "BattleParty_Text_ItemCuredBurn",
-      "en_US": "{STRVAR_1 1, 0, 0}’s burn was healed."
+      "en_US": "{STRVAR_1 1, 0, 0}’s burn was healed.",
+      "fr_FR": "{STRVAR_1 1, 0, 0} n’est plus brûlé."
     },
     {
       "id": "BattleParty_Text_ItemCuredFreeze",
-      "en_US": "{STRVAR_1 1, 0, 0} was thawed out."
+      "en_US": "{STRVAR_1 1, 0, 0} was thawed out.",
+      "fr_FR": "{STRVAR_1 1, 0, 0} est dégelé."
     },
     {
       "id": "BattleParty_Text_ItemRestoredPP",
-      "en_US": "PP was restored."
+      "en_US": "PP was restored.",
+      "fr_FR": "Les PP sont restaurés."
     },
     {
       "id": "BattleParty_Text_ItemRevivedPokemon",
       "en_US": [
         "{STRVAR_1 1, 0, 0} recovered from\n",
         "fainting!"
-      ]
+      ],
+      "fr_FR": "{STRVAR_1 1, 0, 0} n’est plus K.O.!"
     },
     {
       "id": "BattleParty_Text_ItemCuredMultipleStatuses",
-      "en_US": "{STRVAR_1 1, 0, 0} became healthy."
+      "en_US": "{STRVAR_1 1, 0, 0} became healthy.",
+      "fr_FR": "{STRVAR_1 1, 0, 0} retrouve la forme."
     },
     {
       "id": "BattleParty_Text_ItemCuredConfusion",
       "en_US": [
         "{STRVAR_1 1, 0, 0} snapped out of its\n",
         "confusion."
-      ]
+      ],
+      "fr_FR": "{STRVAR_1 1, 0, 0} n’est plus confus!"
     },
     {
       "id": "BattleParty_Text_ItemCuredInfatuation",
       "en_US": [
         "{STRVAR_1 1, 0, 0} got over its\n",
         "infatuation."
-      ]
+      ],
+      "fr_FR": "{STRVAR_1 1, 0, 0} n’est plus amoureux."
     },
     {
       "id": "BattleParty_Text_ItemCuredSleep",
-      "en_US": "{STRVAR_1 1, 0, 0} woke up."
+      "en_US": "{STRVAR_1 1, 0, 0} woke up.",
+      "fr_FR": "{STRVAR_1 1, 0, 0} se réveille!"
     },
     {
       "id": "BattleParty_Text_CantSwitchWithAlreadySelectedPokemon",
       "en_US": [
         "{STRVAR_1 1, 0, 0} has already been\n",
         "selected."
-      ]
+      ],
+      "fr_FR": "{STRVAR_1 1, 0, 0} est déjà sélectionné."
     },
     {
       "id": "BattleParty_Text_RestoreWhichMove",
-      "en_US": "Restore which move?"
+      "en_US": "Restore which move?",
+      "fr_FR": "Laquelle restaurer?"
     },
     {
       "id": "BattleParty_Text_EmbargoPreventsItemUse",
       "en_US": [
         "{STRVAR_1 6, 1, 0}’s effect prevents\n",
         "the item’s use on {STRVAR_1 1, 0, 0}!"
+      ],
+      "fr_FR": [
+        "La capacité {STRVAR_1 6, 1, 0} empêche\n",
+        "d’utiliser l’objet sur {STRVAR_1 1, 0, 0}!"
       ]
     }
   ]

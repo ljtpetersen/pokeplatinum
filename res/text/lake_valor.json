@@ -8,6 +8,12 @@
         "a hitch. The boss should be pleased.\r",
         "Everything is for everyone, and\n",
         "for the good of Team Galactic!\r"
+      ],
+      "fr_FR": [
+        "La mission progresse sans accroc.\n",
+        "Le chef devrait être satisfait.\r",
+        "On fait ça pour le peuple et pour\n",
+        "le bien de la Team Galaxie!\r"
       ]
     },
     {
@@ -22,6 +28,17 @@
         "Team Galactic must be crushed!\r",
         "Even the very thought of opposition\n",
         "will not be tolerated!\r"
+      ],
+      "fr_FR": [
+        "Je reconnais ce visage!\r",
+        "C’est toi qui as attaqué le bâtiment\n",
+        "de la Team Galaxie à Vestigion!\r",
+        "Pff! Jupiter devrait avoir honte, tu es\n",
+        "si jeune.\r",
+        "Mais tous ceux qui résistent\n",
+        "à la Team Galaxie seront détruits!\r",
+        "La seule pensée de résistance ne\n",
+        "saurait être tolérée!\r"
       ]
     },
     {
@@ -38,6 +55,19 @@
         "entirely new universe!\r",
         "You will bear witness, as you are\n",
         "helpless to stop us!\r"
+      ],
+      "fr_FR": [
+        "Gah! Même moi, un Commandant, je ne\n",
+        "peux que te retarder?\r",
+        "Enfin, ce n’est pas grave.\r",
+        "Tu es trop jeune, tu ne pourras\n",
+        "jamais inverser le flot du temps!\r",
+        "La Team Galaxie trouvera les trois\n",
+        "Pokémon légendaires des lacs!\r",
+        "Grâce à leurs pouvoirs, nous\n",
+        "fabriquerons un nouvel univers!\r",
+        "Tu en seras témoin. \n",
+        "Tu ne pourras pas nous arrêter!\r"
       ]
     },
     {
@@ -54,7 +84,8 @@
     },
     {
       "id": "LakeValor_Text_MagikarpisFlopping",
-      "en_US": "A MAGIKARP is weakly flopping about..."
+      "en_US": "A MAGIKARP is weakly flopping about...",
+      "fr_FR": "Un MAGICARPE remue faiblement..."
     }
   ]
 }

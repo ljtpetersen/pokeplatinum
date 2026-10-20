@@ -42,6 +42,10 @@
             "en_US": [
                 "Every drop of sweat I shed makes\n",
                 "me that much stronger!\r"
+            ],
+            "fr_FR": [
+                "Chaque goutte de sueur que je verse me\n",
+                "rend plus puissant!\r"
             ]
         },
         {
@@ -49,6 +53,10 @@
             "en_US": [
                 "I should be lighter by the amount of\n",
                 "sweat I just shed!\r"
+            ],
+            "fr_FR": [
+                "La sueur que j’ai perdue lors de notre\n",
+                "combat m’a rendu plus léger!\r"
             ]
         },
         {
@@ -56,6 +64,10 @@
             "en_US": [
                 "It’s time for another workout.\n",
                 "The more I sweat, the tougher I get!\n"
+            ],
+            "fr_FR": [
+                "C’est l’heure de l’entraînement. Plus\n",
+                "je me dépense, plus je deviens fort!\n"
             ]
         },
         {
@@ -64,7 +76,13 @@
                 "We’re going to win this time!\r",
                 "Don’t believe me?\n",
                 "Then you test it out!\r"
+            ],
+            "fr_FR": [
+                "On va gagner, cette fois!\r",
+                "Tu ne me crois pas?\n",
+                "Approche, viens te mesurer à nous!\r"
             ]
         }
-    ]
+    ],
+    "name_fr": "Etienne"
 }

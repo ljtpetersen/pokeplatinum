@@ -43,11 +43,16 @@
             "en_US": [
                 "Now we shall battle, and from it will\n",
                 "emerge one loser...\r"
+            ],
+            "fr_FR": [
+                "On va se battre maintenant, et un\n",
+                "perdant émergera...\r"
             ]
         },
         {
             "type": "TRMSG_DEFEAT",
-            "en_US": "...!\n"
+            "en_US": "...!\n",
+            "fr_FR": "...!\n"
         },
         {
             "type": "TRMSG_POST_BATTLE",
@@ -55,7 +60,13 @@
                 "I can use psychic powers, but\n",
                 "battling isn’t so simple...\r",
                 "It takes much more to win!\n"
+            ],
+            "fr_FR": [
+                "Je peux utiliser des pouvoirs psychiques\n",
+                "mais combattre ne se résume pas à ça...\r",
+                "Il faut bien plus pour gagner!\n"
             ]
         }
-    ]
+    ],
+    "name_fr": "Mitch"
 }

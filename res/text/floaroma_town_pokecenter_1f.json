@@ -7,6 +7,10 @@
         "If you’ve got Pokémon with you,\n",
         "it’s safe for even a kid like you\f",
         "to go off traveling alone."
+      ],
+      "fr_FR": [
+        "Avec des Pokémon, même un enfant \n",
+        "peut voyager seul en toute sécurité."
       ]
     },
     {
@@ -17,6 +21,13 @@
         "I thought we were done for.\r",
         "And then, all of a sudden, my Pokémon\n",
         "ate the Berry it was holding! Whew!"
+      ],
+      "fr_FR": [
+        "L’autre jour, je me suis battue,\n",
+        "les PV de mon Pokémon étaient bas,\f",
+        "et je pensais qu’on était fichus...\r",
+        "Quand tout d’un coup, mon Pokémon\n",
+        "a mangé la Baie qu’il tenait! Pfiou!"
       ]
     },
     {
@@ -26,6 +37,11 @@
         "electric power lately.\r",
         "Is there some trouble at the Valley\n",
         "Windworks?"
+      ],
+      "fr_FR": [
+        "On a eu des pannes de courant, ces\n",
+        "derniers temps.\r",
+        "Il y a un problème aux Eoliennes?"
       ]
     },
     {
@@ -35,6 +51,11 @@
         "City.\r",
         "You should be prepared for a long\n",
         "journey."
+      ],
+      "fr_FR": [
+        "Il y a un bout de chemin jusqu’à\n",
+        "Vestigion.\r",
+        "Prépare-toi à un long voyage."
       ]
     },
     {
@@ -43,15 +64,22 @@
         "Po-Po-Pokémon!\r",
         "I want to become more like a PIKACHU!\n",
         "Will you battle me?"
+      ],
+      "fr_FR": [
+        "Po-Po-Pokémon!\r",
+        "Ressembler à un PIKACHU, c’est mon\n",
+        "rêve! Allez, un petit combat?"
       ]
     },
     {
       "id": "FloaromaTownPokecenter1F_Text_ArielBattleAccepted_Unused",
-      "en_US": "Pi-Pikachu!\r"
+      "en_US": "Pi-Pikachu!\r",
+      "fr_FR": "Pi-Pikachu!\r"
     },
     {
       "id": "FloaromaTownPokecenter1F_Text_ArielBattleDeclined_Unused",
-      "en_US": "Pi-Pikachu!"
+      "en_US": "Pi-Pikachu!",
+      "fr_FR": "Pikachu!"
     },
     {
       "id": "FloaromaTownPokecenter1F_Text_ArielPostBattle_Unused",
@@ -60,6 +88,13 @@
         "not very much like a Pokémon yet.\r",
         "Don’t give up, me!\n",
         "Become a Pokémon, me!"
+      ],
+      "fr_FR": [
+        "Je sais produire de l’électricité\n",
+        "statique, mais je ne ressemble pas\f",
+        "encore à un Pokémon.\r",
+        "Mais je ne laisserai pas tomber!\n",
+        "Je deviendrai un Pokémon!"
       ]
     }
   ]

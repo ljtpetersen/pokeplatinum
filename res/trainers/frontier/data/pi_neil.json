@@ -27,6 +27,10 @@
             "en_US": [
                 "Perseverance pays off.\n",
                 "A case can turn on that."
+            ],
+            "fr_FR": [
+                "A force de persévérance, on arrive\n",
+                "à tout. Je te jure."
             ]
         },
         {
@@ -34,6 +38,10 @@
             "en_US": [
                 "It makes for more excitement when you\n",
                 "come from behind to take the win.\r"
+            ],
+            "fr_FR": [
+                "Lorsque ton adversaire te croit faible,\n",
+                "la victoire n’a que plus de saveur.\r"
             ]
         },
         {
@@ -41,7 +49,12 @@
             "en_US": [
                 "That was more thrilling than any\n",
                 "stakeout! Thanks for that!\r"
+            ],
+            "fr_FR": [
+                "Extraordinaire! Ce combat était\n",
+                "fascinant! Merci.\r"
             ]
         }
-    ]
+    ],
+    "name_fr": "Nigel"
 }

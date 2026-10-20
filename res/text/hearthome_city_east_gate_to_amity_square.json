@@ -6,6 +6,10 @@
       "en_US": [
         "You can take a cute Pokémon out for\n",
         "a stroll in Amity Square."
+      ],
+      "fr_FR": [
+        "Vous pouvez sortir un Pokémon gracieux\n",
+        "pour le promener au Square Paisible."
       ]
     },
     {
@@ -15,6 +19,12 @@
         "They refused entry to my Pokémon!\r",
         "Oh, my poor GYARADOS and STEELIX!\n",
         "This is discrimination!"
+      ],
+      "fr_FR": [
+        "C’est un scandale!\n",
+        "Ils ont refusé d’inscrire mes Pokémon!\r",
+        "Oh, mes pauvres LEVIATOR et STEELIX!\n",
+        "C’est de la discrimination!"
       ]
     }
   ]

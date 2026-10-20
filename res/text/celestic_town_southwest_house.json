@@ -8,6 +8,12 @@
         "And for that, time is unimportant.\r",
         "Therefore, I have no need for\n",
         "a watch. Take this from me!\r"
+      ],
+      "fr_FR": [
+        "Je dois me concentrer et m’entraîner...\n",
+        "Ne compter ni les heures ni les jours.\r",
+        "C’est pourquoi je n’ai pas besoin\n",
+        "d’une montre. Débarrasse-moi de ça!\r"
       ]
     },
     {
@@ -17,11 +23,18 @@
         "do you prefer?\r",
         "Personally, I like using an hourglass\n",
         "myself."
+      ],
+      "fr_FR": [
+        "Quel type de montre préfères-tu,\n",
+        "analogique ou digitale?\r",
+        "Personnellement, je préfère\n",
+        "les sabliers."
       ]
     },
     {
       "id": "CelesticTownSoutheastHouse_Text_HappinyCry",
-      "en_US": "HAPPINY: Pinny haaa!"
+      "en_US": "HAPPINY: Pinny haaa!",
+      "fr_FR": "PTIRAVI: Ravivivivivi!"
     }
   ]
 }

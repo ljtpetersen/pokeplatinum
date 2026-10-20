@@ -77,6 +77,10 @@
             "en_US": [
                 "From sundown, I live by candlelight\n",
                 "until I go to sleep."
+            ],
+            "fr_FR": [
+                "Avant de dormir, j’aime lire à\n",
+                "la lueur des bougies."
             ]
         },
         {
@@ -84,11 +88,20 @@
             "en_US": [
                 "That’s not to say I don’t have electric\n",
                 "power on the homestead.\r"
+            ],
+            "fr_FR": [
+                "Ne va pas croire que je n’ai pas\n",
+                "l’électricité à la maison, hein?\r"
             ]
         },
         {
             "type": "TRMSG_DEFEAT",
-            "en_US": "Candlelight can be very romantic.\r"
+            "en_US": "Candlelight can be very romantic.\r",
+            "fr_FR": [
+                "Les bougies ont un côté tellement\n",
+                "romantique.\r"
+            ]
         }
-    ]
+    ],
+    "name_fr": "Greta"
 }

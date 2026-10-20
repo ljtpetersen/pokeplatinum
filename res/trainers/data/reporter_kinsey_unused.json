@@ -23,18 +23,28 @@
             "en_US": [
                 "Join me in this on-the-spot report,\n",
                 "live at the scene of a battle!\r"
+            ],
+            "fr_FR": [
+                "Joins-toi à moi pour ce reportage en\n",
+                "direct du lieu du combat!\r"
             ]
         },
         {
             "type": "TRMSG_DEFEAT",
-            "en_US": "The media is the victim!\n"
+            "en_US": "The media is the victim!\n",
+            "fr_FR": "Les médias sont la victime!\n"
         },
         {
             "type": "TRMSG_POST_BATTLE",
             "en_US": [
                 "Interviews are about taking the\n",
                 "initiative. The people need to know.\n"
+            ],
+            "fr_FR": [
+                "Les interviews sont une affaire\n",
+                "d’initiative. Les gens veulent des infos.\n"
             ]
         }
-    ]
+    ],
+    "name_fr": "Célia"
 }

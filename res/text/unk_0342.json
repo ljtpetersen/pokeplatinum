@@ -3,103 +3,128 @@
   "messages": [
     {
       "id": "pl_msg_00000342_00000",
-      "en_US": "Tamada Menu"
+      "en_US": "Tamada Menu",
+      "fr_FR": "Tamada Menu"
     },
     {
       "id": "pl_msg_00000342_00001",
-      "en_US": "Mulch"
+      "en_US": "Mulch",
+      "fr_FR": "Mulch"
     },
     {
       "id": "pl_msg_00000342_00002",
-      "en_US": "Berries"
+      "en_US": "Berries",
+      "fr_FR": "Berries"
     },
     {
       "id": "pl_msg_00000342_00003",
-      "en_US": "Pail"
+      "en_US": "Pail",
+      "fr_FR": "Pail"
     },
     {
       "id": "pl_msg_00000342_00004",
-      "en_US": "Box save"
+      "en_US": "Box save",
+      "fr_FR": "Box save"
     },
     {
       "id": "pl_msg_00000342_00005",
-      "en_US": "Progress save"
+      "en_US": "Progress save",
+      "fr_FR": "Progress save"
     },
     {
       "id": "pl_msg_00000342_00006",
-      "en_US": "Outer save"
+      "en_US": "Outer save",
+      "fr_FR": "Outer save"
     },
     {
       "id": "pl_msg_00000342_00007",
-      "en_US": "Test 1"
+      "en_US": "Test 1",
+      "fr_FR": "Test 1"
     },
     {
       "id": "pl_msg_00000342_00008",
-      "en_US": "Test 2"
+      "en_US": "Test 2",
+      "fr_FR": "Test 2"
     },
     {
       "id": "pl_msg_00000342_00009",
-      "en_US": "Test 3"
+      "en_US": "Test 3",
+      "fr_FR": "Test 3"
     },
     {
       "id": "pl_msg_00000342_00010",
-      "en_US": "TV\n"
+      "en_US": "TV\n",
+      "fr_FR": "TV\n"
     },
     {
       "id": "pl_msg_00000342_00011",
-      "en_US": "TV0"
+      "en_US": "TV0",
+      "fr_FR": "TV0"
     },
     {
       "id": "pl_msg_00000342_00012",
-      "en_US": "TV1"
+      "en_US": "TV1",
+      "fr_FR": "TV1"
     },
     {
       "id": "pl_msg_00000342_00013",
-      "en_US": "TV2"
+      "en_US": "TV2",
+      "fr_FR": "TV2"
     },
     {
       "id": "pl_msg_00000342_00014",
-      "en_US": "TV3"
+      "en_US": "TV3",
+      "fr_FR": "TV3"
     },
     {
       "id": "pl_msg_00000342_00015",
-      "en_US": "TV4"
+      "en_US": "TV4",
+      "fr_FR": "TV4"
     },
     {
       "id": "pl_msg_00000342_00016",
-      "en_US": "TV5"
+      "en_US": "TV5",
+      "fr_FR": "TV5"
     },
     {
       "id": "pl_msg_00000342_00017",
-      "en_US": "TV6"
+      "en_US": "TV6",
+      "fr_FR": "TV6"
     },
     {
       "id": "pl_msg_00000342_00018",
-      "en_US": "TV7"
+      "en_US": "TV7",
+      "fr_FR": "TV7"
     },
     {
       "id": "pl_msg_00000342_00019",
-      "en_US": "TV8"
+      "en_US": "TV8",
+      "fr_FR": "TV8"
     },
     {
       "id": "pl_msg_00000342_00020",
-      "en_US": "Poké Park Data1"
+      "en_US": "Poké Park Data1",
+      "fr_FR": "Poké Park Data1"
     },
     {
       "id": "pl_msg_00000342_00021",
-      "en_US": "Poké Park Data2"
+      "en_US": "Poké Park Data2",
+      "fr_FR": "Poké Park Data2"
     },
     {
       "id": "pl_msg_00000342_00022",
-      "en_US": "Penalties"
+      "en_US": "Penalties",
+      "fr_FR": "Penalties"
     },
     {
       "id": "pl_msg_00000342_00023",
-      "en_US": "ほくべいグル－プ"
+      "en_US": "ほくべいグル－プ",
+      "fr_FR": "ほくべいグル－プ"
     },
     {
       "id": "pl_msg_00000342_00024",
-      "en_US": "US GROUP"
+      "en_US": "US GROUP",
+      "fr_FR": "US GROUP"
     }
   ]
 }

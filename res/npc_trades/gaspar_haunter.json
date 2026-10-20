@@ -1,6 +1,8 @@
 {
     "name": "Gaspar",
+    "name_fr": "Trumi",
     "otName": "Mindy",
+    "otName_fr": "Marlène",
     "species": "SPECIES_HAUNTER",
     "hpIV": 20,
     "atkIV": 25,

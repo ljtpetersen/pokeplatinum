@@ -3,55 +3,68 @@
   "messages": [
     {
       "id": "pl_msg_00000685_00000",
-      "en_US": "None"
+      "en_US": "None",
+      "fr_FR": "Aucun"
     },
     {
       "id": "pl_msg_00000685_00001",
-      "en_US": "East of England"
+      "en_US": "East of England",
+      "fr_FR": "Angleterre de l’Est"
     },
     {
       "id": "pl_msg_00000685_00002",
-      "en_US": "East Midlands"
+      "en_US": "East Midlands",
+      "fr_FR": "Midlands de l’Est"
     },
     {
       "id": "pl_msg_00000685_00003",
-      "en_US": "Greater London"
+      "en_US": "Greater London",
+      "fr_FR": "Grand Londres"
     },
     {
       "id": "pl_msg_00000685_00004",
-      "en_US": "North East England"
+      "en_US": "North East England",
+      "fr_FR": "Angleterre du Nord-Est"
     },
     {
       "id": "pl_msg_00000685_00005",
-      "en_US": "North West England"
+      "en_US": "North West England",
+      "fr_FR": "Angleterre du Nord-Ouest"
     },
     {
       "id": "pl_msg_00000685_00006",
-      "en_US": "Northern Ireland"
+      "en_US": "Northern Ireland",
+      "fr_FR": "Irlande du Nord"
     },
     {
       "id": "pl_msg_00000685_00007",
-      "en_US": "Scotland"
+      "en_US": "Scotland",
+      "fr_FR": "Ecosse"
     },
     {
       "id": "pl_msg_00000685_00008",
-      "en_US": "South East England"
+      "en_US": "South East England",
+      "fr_FR": "Angleterre du Sud-Est"
     },
     {
       "id": "pl_msg_00000685_00009",
-      "en_US": "South West England"
+      "en_US": "South West England",
+      "fr_FR": "Angleterre du Sud-Ouest"
     },
     {
       "id": "pl_msg_00000685_00010",
-      "en_US": "Wales"
+      "en_US": "Wales",
+      "fr_FR": "Pays de Galles"
     },
     {
       "id": "pl_msg_00000685_00011",
-      "en_US": "West Midlands"
+      "en_US": "West Midlands",
+      "fr_FR": "Midlands de l’Ouest"
     },
     {
       "id": "pl_msg_00000685_00012",
-      "en_US": "Yorkshire and the Humber"
+      "en_US": "Yorkshire and the Humber",
+      "fr_FR": "Yorkshire et Humber"
     }
   ]
 }

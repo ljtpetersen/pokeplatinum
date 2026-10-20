@@ -13,6 +13,19 @@
         "And then one day, someone expressed\n",
         "thanks for the blessings of nature.\r",
         "Then, the whole hill burst into bloom."
+      ],
+      "fr_FR": [
+        "Autrefois, Floraville n’était qu’une\n",
+        "colline nue et désolée.\r",
+        "Même les Pokémon l’avaient désertée.\r",
+        "Les gens ont commencé à y planter des\n",
+        "fleurs parce que l’endroit était triste.\r",
+        "Mais rien ne voulait pousser...\n",
+        "Ils ne savaient plus quoi faire...\r",
+        "Et puis un jour, quelqu’un a exprimé\n",
+        "sa gratitude envers la nature.\r",
+        "Et la colline s’est recouverte de\n",
+        "fleurs."
       ]
     },
     {
@@ -20,6 +33,11 @@
       "en_US": [
         "Do you think it’s cute how\n",
         "Pokémon pluck Berries?"
+      ],
+      "fr_FR": [
+        "Tu ne trouves pas que c’est chou cette\n",
+        "façon dont les Pokémon picorent\f",
+        "les Baies?"
       ]
     },
     {
@@ -27,6 +45,10 @@
       "en_US": [
         "Yes! You agreed!\n",
         "Here’s the TM for the move Pluck!\r"
+      ],
+      "fr_FR": [
+        "Oui! Tu es d’accord!\n",
+        "Voilà la CT de la capacité Picore!\r"
       ]
     },
     {
@@ -34,6 +56,10 @@
       "en_US": [
         "Oh...\n",
         "I guess I just like weird things..."
+      ],
+      "fr_FR": [
+        "Oh...\n",
+        "J’imagine que j’ai des goûts bizarres..."
       ]
     },
     {
@@ -43,11 +69,19 @@
         "a Berry held by its foe in battle.\r",
         "I like how it steals a Berry.\n",
         "It’s so cute!"
+      ],
+      "fr_FR": [
+        "Quand un Pokémon utilise Picore, il\n",
+        "mange une Baie tenue par l’ennemi\f",
+        "au combat.\r",
+        "J’aime la manière dont les Pokémon\n",
+        "mangent les Baies. C’est si mignon!"
       ]
     },
     {
       "id": "FloaromaTownMiddleHouse_Text_ClefairyCry",
-      "en_US": "CLEFAIRY: Rii?"
+      "en_US": "CLEFAIRY: Rii?",
+      "fr_FR": "MELOFEE: Fée?"
     }
   ]
 }

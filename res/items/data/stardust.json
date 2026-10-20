@@ -26,5 +26,13 @@
   "battlePocket": "BATTLE_POCKET_MASK_NONE",
   "fieldUseFunc": "ITEM_USE_FUNC_NONE",
   "battleUseCategory": "BATTLE_USE_CATEGORY_NONE",
-  "itemUseParams": {}
+  "itemUseParams": {},
+  "name_fr": "Pouss.Etoile",
+  "description_fr": [
+    "Sable rouge ravissant, aux grains très\n",
+    "fins. Peut être vendu à bon prix aux\n",
+    "magasins."
+  ],
+  "plural_fr": "Pouss.Etoile",
+  "article_fr": null
 }

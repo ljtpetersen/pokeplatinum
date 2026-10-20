@@ -8,6 +8,12 @@
         "Stark Mountain!\r",
         "Now we need to get deep inside.\n",
         "Let’s do this!\r"
+      ],
+      "fr_FR": [
+        "Sbire 1: Nous y voilà!\n",
+        "Le Mont Abrupt!\r",
+        "Il ne nous reste qu’à en atteindre les\n",
+        "tréfonds! Allons-y!\r"
       ]
     },
     {
@@ -16,6 +22,12 @@
         "Grunt 2: Yeah, but...\n",
         "Can that old guy really take over?\f",
         "Can he replace Master Cyrus?\r"
+      ],
+      "fr_FR": [
+        "Sbire 2: Ouais, mais...\n",
+        "Tu crois que le vieux monsieur est apte\r",
+        "à prendre les rênes? Est-il vraiment à\n",
+        "la hauteur pour remplacer Hélio?\r"
       ]
     },
     {
@@ -26,6 +38,13 @@
         "but he can’t replace Master Cyrus.\r",
         "...Maybe this is a good time for me to\n",
         "be done with this Team Galactic thing...\r"
+      ],
+      "fr_FR": [
+        "Sbire 1: Ouais, je sais...\r",
+        "Pluton a beau être Commandant, il\n",
+        "n’arrive pas à la cheville d’Hélio.\r",
+        "Peut-être que c’est le moment de\n",
+        "quitter la Team Galaxie pour de bon...\r"
       ]
     },
     {
@@ -36,6 +55,13 @@
         "...Gweh! Gah! Geff! Bleah!\r",
         "I have inhaled the volcanic ash by\n",
         "the lungful!\r"
+      ],
+      "fr_FR": [
+        "Beladonis: Aaaah! C’est bon de respirer\n",
+        "l’air pur et frais!\r",
+        "Cof, cof! Gah! Beuh!\r",
+        "J’ai inhalé des tonnes de cendres\n",
+        "volcaniques!\r"
       ]
     },
     {
@@ -50,6 +76,18 @@
         "it will make Stark Mountain erupt.\r",
         "...But I have moved it. It is here.\n",
         "Will this cause the eruption?!\r"
+      ],
+      "fr_FR": [
+        "Ecoutez-moi, vous deux.\n",
+        "Voilà ce qu’ils cherchaient.\r",
+        "La Pierre Magma.\r",
+        "Il paraît que si on la déplaçait, cela\n",
+        "réveillerait HEATRAN.\r",
+        "La légende raconte qu’à son réveil, le\n",
+        "Mont Abrupt entrerait en éruption.\r",
+        "Mais, heureusement, je l’ai prise avant\n",
+        "qu’ils ne s’en emparent. La voilà...\f",
+        "Mince... ça va déclencher l’éruption?!\r"
       ]
     },
     {
@@ -58,6 +96,11 @@
         "Buck: Hey, don’t sweat it, stranger.\r",
         "Give me that Magma Stone.\n",
         "I’ll go put it back for you.\r"
+      ],
+      "fr_FR": [
+        "Cornil: Hé, relax, étranger.\r",
+        "Donne-moi la Pierre Magma.\n",
+        "Je vais la remettre en place pour toi.\r"
       ]
     },
     {
@@ -77,6 +120,21 @@
         "a threat no longer.\r",
         "That being said, it looks like my work\n",
         "here is finally finished.\r"
+      ],
+      "fr_FR": [
+        "Beladonis: Ce garçon est plutôt\n",
+        "énergique dans son genre, non?\r",
+        "{STRVAR_1 3, 0, 0}, il faut que je t’explique\n",
+        "la raison de ma présence ici.\r",
+        "Quand nous nous sommes quittés au Mont\n",
+        "Couronné, j’ai mené mon enquête dans\f",
+        "le repaire de la Team Galaxie.\r",
+        "J’y ai découvert les plans de Pluton\n",
+        "et depuis, je suis en planque ici.\r",
+        "Maintenant que Pluton est en prison, la\n",
+        "Team Galaxie est hors d’état de nuire.\r",
+        "Il semblerait donc que mon travail à\n",
+        "Sinnoh soit enfin terminé.\r"
       ]
     },
     {
@@ -92,6 +150,18 @@
         "It’s in the Survival Area.\r",
         "Be seeing you, stranger, {STRVAR_1 3, 0, 0}!\n",
         "Bye-bye!\r"
+      ],
+      "fr_FR": [
+        "Cornil: Hé, étranger!\n",
+        "J’ai remis la Pierre Magma à sa place.\r",
+        "Tout ira bien. HEATRAN ne se réveillera\n",
+        "pas. Enfin, c’est peu probable.\r",
+        "Dis, {STRVAR_1 3, 0, 0}!\n",
+        "Tu es un formidable Dresseur!\r",
+        "Passe donc chez moi un de ces jours.\n",
+        "J’habite dans l’Aire de Survie.\r",
+        "A plus, étranger!\n",
+        "Ciao, {STRVAR_1 3, 0, 0}!\r"
       ]
     },
     {
@@ -106,6 +176,18 @@
         "I understand it better now.\r",
         "Farewell, {STRVAR_1 3, 0, 0}, my friend!\n",
         "Long may you cherish Pokémon!\r"
+      ],
+      "fr_FR": [
+        "Beladonis: Moi aussi, je vais partir.\r",
+        "“Plus la rencontre est intense,\n",
+        "plus la séparation est triste.”\r",
+        "C’est un dicton que j’ai entendu il y a\n",
+        "bien longtemps, dans un lointain pays.\r",
+        "Je comprends mieux sa signification\n",
+        "à présent...\r",
+        "Adieu, {STRVAR_1 3, 0, 0}, camarade!\n",
+        "Puisses-tu vivre longtemps auprès\f",
+        "des Pokémon!\r"
       ]
     },
     {
@@ -113,6 +195,10 @@
       "en_US": [
         "Stark Mountain\n",
         "Eruption Zone!"
+      ],
+      "fr_FR": [
+        "Mont Abrupt\n",
+        "Zone volcanique!"
       ]
     }
   ]

@@ -30,5 +30,13 @@
     "guardSpec": true,
     "friendshipLow": 1,
     "friendshipMed": 1
-  }
+  },
+  "name_fr": "Défense Spéc",
+  "description_fr": [
+    "Empêche la réduction des stats de tous\n",
+    "les Pokémon de l’équipe pendant 5\n",
+    "tours."
+  ],
+  "plural_fr": "Défense Spéc",
+  "article_fr": null
 }

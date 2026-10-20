@@ -28,5 +28,13 @@
     "contest": {
         "effect": "CONTEST_EFFECT_2_HEARTS_WHEN_VOLTAGE_UP",
         "type": "CONTEST_TYPE_SMART"
-    }
+    },
+    "name_fr": "Noeud Herbe",
+    "description_fr": [
+        "L’ennemi est piégé\n",
+        "dans de l’herbe qui le\n",
+        "fait trébucher. Plus\n",
+        "il est lourd, plus il y\n",
+        "a de dégâts."
+    ]
 }

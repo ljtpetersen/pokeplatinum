@@ -23,11 +23,16 @@
             "en_US": [
                 "I’m determined to go to the Pokémon\n",
                 "League, no matter how hard it is.\r"
+            ],
+            "fr_FR": [
+                "Je suis déterminée à rejoindre la Ligue\n",
+                "Pokémon, même si c’est dur.\r"
             ]
         },
         {
             "type": "TRMSG_DEFEAT",
-            "en_US": "Th-this is so hard...\n"
+            "en_US": "Th-this is so hard...\n",
+            "fr_FR": "C’est... vraiment très dur...\n"
         },
         {
             "type": "TRMSG_POST_BATTLE",
@@ -36,6 +41,12 @@
                 "I mean, this is my dream!\r",
                 "The Pokémon League isn’t going\n",
                 "anywhere, either.\n"
+            ],
+            "fr_FR": [
+                "J’ai perdu, mais je suis toujours\n",
+                "motivée pour réaliser mon rêve!\r",
+                "La Ligue Pokémon ne va pas s’envoler,\n",
+                "rien ne presse.\n"
             ]
         },
         {
@@ -43,7 +54,12 @@
             "en_US": [
                 "It doesn’t matter how long it takes,\n",
                 "I’m going to the Pokémon League!\r"
+            ],
+            "fr_FR": [
+                "Peu importe le temps que ça prendra,\n",
+                "je rejoindrai la Ligue Pokémon!\r"
             ]
         }
-    ]
+    ],
+    "name_fr": "Jade"
 }

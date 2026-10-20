@@ -77,6 +77,10 @@
             "en_US": [
                 "Oi, you! Yeah, you! Snap to it!\n",
                 "I’ll be training you!"
+            ],
+            "fr_FR": [
+                "Hé, toi! Oui, toi! Au travail!\n",
+                "Il faut qu’on s’entraîne!"
             ]
         },
         {
@@ -84,6 +88,10 @@
             "en_US": [
                 "What?! You’re down and out already?!\n",
                 "This is no bed! Get up!\r"
+            ],
+            "fr_FR": [
+                "Quoi? Tu abandonnes déjà?\n",
+                "Inacceptable! Relève-toi!\r"
             ]
         },
         {
@@ -91,7 +99,12 @@
             "en_US": [
                 "Good! Enough!\n",
                 "That will do for today!\r"
+            ],
+            "fr_FR": [
+                "Bien! Très bien, même!\n",
+                "Ça suffit pour aujourd’hui!\r"
             ]
         }
-    ]
+    ],
+    "name_fr": "Yannick"
 }

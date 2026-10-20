@@ -3,7 +3,8 @@
   "messages": [
     {
       "id": "pl_msg_00000020_00000",
-      "en_US": "No. of Hall of Fame entries"
+      "en_US": "No. of Hall of Fame entries",
+      "fr_FR": "Nombre d’entrées au Panthéon"
     },
     {
       "id": "pl_msg_00000020_00001",
@@ -22,6 +23,10 @@
       "en_US": [
         "Battle Tower Single Battle\n",
         "win streak"
+      ],
+      "fr_FR": [
+        "Victoires consécutives à la Tour\n",
+        "de Combat (Solo)"
       ]
     },
     {
@@ -33,6 +38,10 @@
       "en_US": [
         "Battle Tower Double Battle\n",
         "win streak"
+      ],
+      "fr_FR": [
+        "Victoires consécutives à la Tour\n",
+        "de Combat (Duo)"
       ]
     },
     {
@@ -44,6 +53,10 @@
       "en_US": [
         "Battle Tower Multi Battle\n",
         "win streak"
+      ],
+      "fr_FR": [
+        "Victoires consécutives à la Tour\n",
+        "de Combat (Multi)"
       ]
     },
     {
@@ -55,6 +68,10 @@
       "en_US": [
         "Battle Tower partnered\n",
         "Multi Battle win streak"
+      ],
+      "fr_FR": [
+        "Victoires consécutives à la Tour\n",
+        "de Combat (Multi coopératif)"
       ]
     },
     {
@@ -63,7 +80,11 @@
     },
     {
       "id": "pl_msg_00000020_00012",
-      "en_US": "Wi-Fi Battle Tower win streak"
+      "en_US": "Wi-Fi Battle Tower win streak",
+      "fr_FR": [
+        "Victoires consécutives à la Tour\n",
+        "de Combat (Wi-Fi)"
+      ]
     },
     {
       "id": "pl_msg_00000020_00013",
@@ -71,13 +92,21 @@
     },
     {
       "id": "pl_msg_00000020_00014",
-      "en_US": "No. of Contests entered alone"
+      "en_US": "No. of Contests entered alone",
+      "fr_FR": [
+        "Nombre de participations à des\n",
+        "Concours (en solo)"
+      ]
     },
     {
       "id": "pl_msg_00000020_00015",
       "en_US": [
         "No. of Contests entered with\n",
         "friends"
+      ],
+      "fr_FR": [
+        "Nombre de participations à des\n",
+        "Concours (contre des amis)"
       ]
     },
     {
@@ -85,6 +114,10 @@
       "en_US": [
         "No. of Contests entered alone and\n",
         "won"
+      ],
+      "fr_FR": [
+        "Nombre de victoires en Concours\n",
+        "(en solo)"
       ]
     },
     {
@@ -92,6 +125,10 @@
       "en_US": [
         "No. of Contests entered with\n",
         "friends and won"
+      ],
+      "fr_FR": [
+        "Nombre de victoires en Concours\n",
+        "(contre des amis)"
       ]
     },
     {
@@ -116,7 +153,11 @@
     },
     {
       "id": "pl_msg_00000020_00023",
-      "en_US": "No. of times wild Pokémon fled"
+      "en_US": "No. of times wild Pokémon fled",
+      "fr_FR": [
+        "Nombre de fois où des Pokémon\n",
+        "sauvages se sont enfuis"
+      ]
     },
     {
       "id": "pl_msg_00000020_00024",
@@ -124,46 +165,74 @@
     },
     {
       "id": "pl_msg_00000020_00025",
-      "en_US": "No. of Berries planted"
+      "en_US": "No. of Berries planted",
+      "fr_FR": "Nombre de Baies plantées"
     },
     {
       "id": "pl_msg_00000020_00026",
-      "en_US": "No. of steps walked"
+      "en_US": "No. of steps walked",
+      "fr_FR": "Nombre de pas effectués"
     },
     {
       "id": "pl_msg_00000020_00027",
-      "en_US": "No. of times battled wild Pokémon"
+      "en_US": "No. of times battled wild Pokémon",
+      "fr_FR": [
+        "Nombre de combats contre des\n",
+        "Pokémon sauvages"
+      ]
     },
     {
       "id": "pl_msg_00000020_00028",
       "en_US": [
         "No. of Trainer battles excluding\n",
         "Union Room and Frontier"
+      ],
+      "fr_FR": [
+        "Nb de combats contre Dresseurs\n",
+        "(sauf Salle Union & Zone de Combat)"
       ]
     },
     {
       "id": "pl_msg_00000020_00029",
-      "en_US": "No. of Pokémon caught"
+      "en_US": "No. of Pokémon caught",
+      "fr_FR": "Nombre de Pokémon capturés"
     },
     {
       "id": "pl_msg_00000020_00030",
-      "en_US": "No. of Pokémon caught fishing"
+      "en_US": "No. of Pokémon caught fishing",
+      "fr_FR": [
+        "Nombre de Pokémon capturés en\n",
+        "pêchant"
+      ]
     },
     {
       "id": "pl_msg_00000020_00031",
-      "en_US": "No. of Eggs hatched"
+      "en_US": "No. of Eggs hatched",
+      "fr_FR": "Nombre d’Oeufs éclos"
     },
     {
       "id": "pl_msg_00000020_00032",
-      "en_US": "No. of times own Pokémon evolved"
+      "en_US": "No. of times own Pokémon evolved",
+      "fr_FR": [
+        "Nombre de vos Pokémon ayant\n",
+        "évolué"
+      ]
     },
     {
       "id": "pl_msg_00000020_00033",
-      "en_US": "No. of Game Corner slot jackpots"
+      "en_US": "No. of Game Corner slot jackpots",
+      "fr_FR": [
+        "Nombre de jackpots remportés\n",
+        "au Casino de Voilaroc"
+      ]
     },
     {
       "id": "pl_msg_00000020_00034",
-      "en_US": "No. of Battle Tower challenges"
+      "en_US": "No. of Battle Tower challenges",
+      "fr_FR": [
+        "Nombre de participations aux défis\n",
+        "de la Tour de Combat"
+      ]
     },
     {
       "id": "pl_msg_00000020_00035",
@@ -186,6 +255,10 @@
       "en_US": [
         "No. of completed GTS Pokémon\n",
         "trades"
+      ],
+      "fr_FR": [
+        "Nombre d’échanges de Pokémon\n",
+        "conclus grâce à la GTS"
       ]
     },
     {
@@ -193,6 +266,10 @@
       "en_US": [
         "No. of battles won over Nintendo\n",
         "Wi-Fi Connection"
+      ],
+      "fr_FR": [
+        "Nombre de combats remportés via la\n",
+        "connexion Wi-Fi Nintendo"
       ]
     },
     {
@@ -204,6 +281,10 @@
       "en_US": [
         "No. of battles tied over Nintendo\n",
         "Wi-Fi Connection"
+      ],
+      "fr_FR": [
+        "Nombre de matches nuls via la\n",
+        "connexion Wi-Fi Nintendo"
       ]
     },
     {
@@ -211,32 +292,47 @@
       "en_US": [
         "No. of battles won at the Battle\n",
         "Tower"
+      ],
+      "fr_FR": [
+        "Nombre de combats remportés à\n",
+        "la Tour de Combat"
       ]
     },
     {
       "id": "pl_msg_00000020_00044",
-      "en_US": "The total money spent shopping"
+      "en_US": "The total money spent shopping",
+      "fr_FR": "Argent dépensé"
     },
     {
       "id": "pl_msg_00000020_00045",
       "en_US": [
         "No. of Pokémon left with the Day\n",
         "Care"
+      ],
+      "fr_FR": [
+        "Nombre de Pokémon laissés à\n",
+        "la Pension"
       ]
     },
     {
       "id": "pl_msg_00000020_00046",
-      "en_US": "No. of Pokémon defeated"
+      "en_US": "No. of Pokémon defeated",
+      "fr_FR": "Nombre de Pokémon mis K.O."
     },
     {
       "id": "pl_msg_00000020_00047",
-      "en_US": "No. of Pokémon offered on GTS"
+      "en_US": "No. of Pokémon offered on GTS",
+      "fr_FR": "Nombre de Pokémon donnés à la GTS"
     },
     {
       "id": "pl_msg_00000020_00048",
       "en_US": [
         "No. of times Pokémon were traded\n",
         "with friends at the Wi-Fi Club"
+      ],
+      "fr_FR": [
+        "Nombre d’échanges de Pokémon avec\n",
+        "des amis réalisés au Club Wi-Fi"
       ]
     },
     {
@@ -244,6 +340,10 @@
       "en_US": [
         "No. of times you signed your\n",
         "Trainer Card"
+      ],
+      "fr_FR": [
+        "Nombre de fois où vous avez signé\n",
+        "votre Carte Dresseur"
       ]
     },
     {
@@ -251,6 +351,10 @@
       "en_US": [
         "No. of Pokémon extracted from\n",
         "Fossils"
+      ],
+      "fr_FR": [
+        "Nombre de Pokémon recréés à partir\n",
+        "de Fossiles"
       ]
     },
     {
@@ -258,17 +362,26 @@
       "en_US": [
         "No. of times footprints were\n",
         "checked by Dr. Footstep"
+      ],
+      "fr_FR": [
+        "Nombre d’analyses d’empreintes\n",
+        "chez le Dr Petitpas"
       ]
     },
     {
       "id": "pl_msg_00000020_00052",
-      "en_US": "No. of times Mail was sent"
+      "en_US": "No. of times Mail was sent",
+      "fr_FR": "Nombre de Lettres envoyées"
     },
     {
       "id": "pl_msg_00000020_00053",
       "en_US": [
         "No. of wild Pokémon lured using\n",
         "Honey"
+      ],
+      "fr_FR": [
+        "Nombre de Pokémon sauvages\n",
+        "attirés grâce au Miel"
       ]
     },
     {
@@ -276,6 +389,10 @@
       "en_US": [
         "No. of times you talked to someone\n",
         "in the Wi-Fi Plaza"
+      ],
+      "fr_FR": [
+        "Nombre de conversations au\n",
+        "Square Wi-Fi"
       ]
     },
     {
@@ -283,61 +400,96 @@
       "en_US": [
         "Number of Spheres buried in the\n",
         "Underground"
+      ],
+      "fr_FR": [
+        "Nombre de Sphères enterrées\n",
+        "dans le Souterrain"
       ]
     },
     {
       "id": "pl_msg_00000020_00056",
-      "en_US": "No. of times watched TV"
+      "en_US": "No. of times watched TV",
+      "fr_FR": [
+        "Nombre d’émissions télévisées\n",
+        "regardées"
+      ]
     },
     {
       "id": "pl_msg_00000020_00057",
       "en_US": [
         "No. of times Pokémon were given\n",
         "nicknames"
+      ],
+      "fr_FR": [
+        "Nombre de surnoms donnés à\n",
+        "des Pokémon"
       ]
     },
     {
       "id": "pl_msg_00000020_00058",
-      "en_US": "No. of Premier Balls received"
+      "en_US": "No. of Premier Balls received",
+      "fr_FR": "Nombre d’Honor Balls obtenues"
     },
     {
       "id": "pl_msg_00000020_00059",
       "en_US": [
         "Items found by Pokémon in Amity\n",
         "Square"
+      ],
+      "fr_FR": [
+        "Nombre d’objets trouvés par vos\n",
+        "Pokémon au Square Paisible"
       ]
     },
     {
       "id": "pl_msg_00000020_00060",
-      "en_US": "No. of Poffins cooked alone"
+      "en_US": "No. of Poffins cooked alone",
+      "fr_FR": "Nombre de Poffins préparés en solo"
     },
     {
       "id": "pl_msg_00000020_00061",
-      "en_US": "No. of Poffins cooked with friends"
+      "en_US": "No. of Poffins cooked with friends",
+      "fr_FR": [
+        "Nombre de Poffins préparés avec\n",
+        "des amis"
+      ]
     },
     {
       "id": "pl_msg_00000020_00062",
       "en_US": [
         "No. of Pokémon Dress-Up Data\n",
         "photos taken"
-      ]
+      ],
+      "fr_FR": "Nombre de Clichés habillage pris"
     },
     {
       "id": "pl_msg_00000020_00063",
       "en_US": [
         "No. of boulders pushed using the\n",
         "hidden move Strength"
+      ],
+      "fr_FR": [
+        "Nombre de rochers déplacés avec\n",
+        "la capacité secrète Force"
       ]
     },
     {
       "id": "pl_msg_00000020_00064",
-      "en_US": "No. of times mired in a swamp"
+      "en_US": "No. of times mired in a swamp",
+      "fr_FR": [
+        "Nombre de fois où vous vous êtes\n",
+        "embourbé(e) dans les marécages"
+      ]
     },
     {
       "id": "pl_msg_00000020_00065",
       "en_US": [
         "No. of matches against your rival &\n",
         "Gym Leaders at the Battleground"
+      ],
+      "fr_FR": [
+        "Nombre de combats effectués au\n",
+        "Café Combats"
       ]
     },
     {
@@ -345,6 +497,10 @@
       "en_US": [
         "No. of facilities challenged at the\n",
         "Battle Frontier"
+      ],
+      "fr_FR": [
+        "Nombre de bâtiments visités dans\n",
+        "la Zone de Combat"
       ]
     },
     {
@@ -352,29 +508,53 @@
       "en_US": [
         "No. of times you met the Frontier\n",
         "Brains"
+      ],
+      "fr_FR": [
+        "Nombre de combats contre des\n",
+        "Meneurs de Zone"
       ]
     },
     {
       "id": "pl_msg_00000020_00068",
-      "en_US": "No. of wins at the Battle Factory"
+      "en_US": "No. of wins at the Battle Factory",
+      "fr_FR": [
+        "Nombre de victoires à l’Usine\n",
+        "de Combat"
+      ]
     },
     {
       "id": "pl_msg_00000020_00069",
-      "en_US": "No. of wins at the Battle Castle"
+      "en_US": "No. of wins at the Battle Castle",
+      "fr_FR": [
+        "Nombre de victoires au Castel\n",
+        "de Combat"
+      ]
     },
     {
       "id": "pl_msg_00000020_00070",
-      "en_US": "No. of wins at the Battle Hall"
+      "en_US": "No. of wins at the Battle Hall",
+      "fr_FR": [
+        "Nombre de victoires à la Scène\n",
+        "de Combat"
+      ]
     },
     {
       "id": "pl_msg_00000020_00071",
-      "en_US": "No. of wins at the Battle Arcade"
+      "en_US": "No. of wins at the Battle Arcade",
+      "fr_FR": [
+        "Nombre de victoires à l’Arcade\n",
+        "de Combat"
+      ]
     },
     {
       "id": "pl_msg_00000020_00072",
       "en_US": [
         "No. of Pokémon trades at the\n",
         "Battle Factory"
+      ],
+      "fr_FR": [
+        "Nombre d’échanges de Pokémon à\n",
+        "l’Usine de Combat"
       ]
     },
     {
@@ -382,6 +562,10 @@
       "en_US": [
         "Total Castle Points earned at the\n",
         "Battle Castle"
+      ],
+      "fr_FR": [
+        "Points Castel remportés au Castel\n",
+        "de Combat"
       ]
     },
     {
@@ -389,6 +573,10 @@
       "en_US": [
         "No. of wins over Rank 10 Pokémon\n",
         "at the Battle Hall"
+      ],
+      "fr_FR": [
+        "Nb de victoires face à des Pokémon\n",
+        "de rang 10 à la Scène de Combat"
       ]
     },
     {
@@ -396,29 +584,53 @@
       "en_US": [
         "Battle Points earned from the\n",
         "Battle Arcade game board"
+      ],
+      "fr_FR": [
+        "Points de Combat remportés grâce\n",
+        "au tableau de l’Arcade de Combat"
       ]
     },
     {
       "id": "pl_msg_00000020_00076",
-      "en_US": "Total Battle Points won"
+      "en_US": "Total Battle Points won",
+      "fr_FR": [
+        "Somme des Points de Combat\n",
+        "remportés"
+      ]
     },
     {
       "id": "pl_msg_00000020_00077",
-      "en_US": "Total Battle Points spent"
+      "en_US": "Total Battle Points spent",
+      "fr_FR": [
+        "Somme des Points de Combat\n",
+        "dépensés"
+      ]
     },
     {
       "id": "pl_msg_00000020_00078",
-      "en_US": "No. of Wi-Fi Plaza Games played"
+      "en_US": "No. of Wi-Fi Plaza Games played",
+      "fr_FR": [
+        "Nombre de parties de Jeux\n",
+        "du Square "
+      ]
     },
     {
       "id": "pl_msg_00000020_00079",
-      "en_US": "No. of Eggs traded using Spin Trade"
+      "en_US": "No. of Eggs traded using Spin Trade",
+      "fr_FR": [
+        "Nombre d’Oeufs échangés dans\n",
+        "Oeuf Surprise"
+      ]
     },
     {
       "id": "pl_msg_00000020_00080",
       "en_US": [
         "No. of Star Pieces traded at the\n",
         "Fuego Ironworks"
+      ],
+      "fr_FR": [
+        "Nombre de Morc. Etoile échangés à\n",
+        "la Forge Fuego"
       ]
     },
     {
@@ -426,6 +638,10 @@
       "en_US": [
         "Battle Points earned from the\n",
         "Battle Arcade game board"
+      ],
+      "fr_FR": [
+        "Points de Combat remportés grâce\n",
+        "au tableau de l’Arcade de Combat"
       ]
     },
     {
@@ -433,23 +649,43 @@
       "en_US": [
         "No. of items and Berries earned\n",
         "from the Battle Arcade game board"
+      ],
+      "fr_FR": [
+        "Nb d’objets et Baies gagnés grâce\n",
+        "au tableau de l’Arcade de Combat"
       ]
     },
     {
       "id": "pl_msg_00000020_00083",
-      "en_US": "Total Battle Points won"
+      "en_US": "Total Battle Points won",
+      "fr_FR": [
+        "Somme des Points de Combat\n",
+        "remportés"
+      ]
     },
     {
       "id": "pl_msg_00000020_00084",
-      "en_US": "Total Battle Points spent"
+      "en_US": "Total Battle Points spent",
+      "fr_FR": [
+        "Somme des Points de Combat\n",
+        "dépensés"
+      ]
     },
     {
       "id": "pl_msg_00000020_00085",
-      "en_US": "No. of wins in Wi-Fi Plaza games"
+      "en_US": "No. of wins in Wi-Fi Plaza games",
+      "fr_FR": [
+        "Nombre de victoires dans les\n",
+        "Jeux du Square"
+      ]
     },
     {
       "id": "pl_msg_00000020_00086",
-      "en_US": "No. of Eggs traded using Spin Trade"
+      "en_US": "No. of Eggs traded using Spin Trade",
+      "fr_FR": [
+        "Nombre d’Oeufs échangés dans\n",
+        "Oeuf Surprise"
+      ]
     },
     {
       "id": "pl_msg_00000020_00087",
@@ -485,7 +721,8 @@
     },
     {
       "id": "pl_msg_00000020_00095",
-      "en_US": "{STRVAR_1 59, 2, 0}"
+      "en_US": "{STRVAR_1 59, 2, 0}",
+      "fr_FR": "{STRVAR_1 59, 2, 0}"
     },
     {
       "id": "pl_msg_00000020_00096",
@@ -501,7 +738,8 @@
     },
     {
       "id": "pl_msg_00000020_00099",
-      "en_US": "{STRVAR_1 59, 2, 0}"
+      "en_US": "{STRVAR_1 59, 2, 0}",
+      "fr_FR": "{STRVAR_1 59, 2, 0}"
     },
     {
       "id": "pl_msg_00000020_00100",
@@ -509,7 +747,8 @@
     },
     {
       "id": "pl_msg_00000020_00101",
-      "en_US": "{STRVAR_1 59, 2, 0}"
+      "en_US": "{STRVAR_1 59, 2, 0}",
+      "fr_FR": "{STRVAR_1 59, 2, 0}"
     },
     {
       "id": "pl_msg_00000020_00102",
@@ -517,7 +756,8 @@
     },
     {
       "id": "pl_msg_00000020_00103",
-      "en_US": "{STRVAR_1 59, 2, 0}"
+      "en_US": "{STRVAR_1 59, 2, 0}",
+      "fr_FR": "{STRVAR_1 59, 2, 0}"
     },
     {
       "id": "pl_msg_00000020_00104",
@@ -525,7 +765,8 @@
     },
     {
       "id": "pl_msg_00000020_00105",
-      "en_US": "{STRVAR_1 59, 2, 0}"
+      "en_US": "{STRVAR_1 59, 2, 0}",
+      "fr_FR": "{STRVAR_1 59, 2, 0}"
     },
     {
       "id": "pl_msg_00000020_00106",
@@ -533,7 +774,8 @@
     },
     {
       "id": "pl_msg_00000020_00107",
-      "en_US": "{STRVAR_1 59, 2, 0}"
+      "en_US": "{STRVAR_1 59, 2, 0}",
+      "fr_FR": "{STRVAR_1 59, 2, 0}"
     },
     {
       "id": "pl_msg_00000020_00108",
@@ -541,19 +783,23 @@
     },
     {
       "id": "pl_msg_00000020_00109",
-      "en_US": "{STRVAR_1 59, 2, 0}"
+      "en_US": "{STRVAR_1 59, 2, 0}",
+      "fr_FR": "{STRVAR_1 59, 2, 0}"
     },
     {
       "id": "pl_msg_00000020_00110",
-      "en_US": "{STRVAR_1 59, 2, 0}"
+      "en_US": "{STRVAR_1 59, 2, 0}",
+      "fr_FR": "{STRVAR_1 59, 2, 0}"
     },
     {
       "id": "pl_msg_00000020_00111",
-      "en_US": "{STRVAR_1 59, 2, 0}"
+      "en_US": "{STRVAR_1 59, 2, 0}",
+      "fr_FR": "{STRVAR_1 59, 2, 0}"
     },
     {
       "id": "pl_msg_00000020_00112",
-      "en_US": "{STRVAR_1 59, 2, 0}"
+      "en_US": "{STRVAR_1 59, 2, 0}",
+      "fr_FR": "{STRVAR_1 59, 2, 0}"
     },
     {
       "id": "pl_msg_00000020_00113",
@@ -577,7 +823,8 @@
     },
     {
       "id": "pl_msg_00000020_00118",
-      "en_US": "{STRVAR_1 59, 2, 0}"
+      "en_US": "{STRVAR_1 59, 2, 0}",
+      "fr_FR": "{STRVAR_1 59, 2, 0}"
     },
     {
       "id": "pl_msg_00000020_00119",
@@ -585,43 +832,53 @@
     },
     {
       "id": "pl_msg_00000020_00120",
-      "en_US": "{STRVAR_1 59, 2, 0}"
+      "en_US": "{STRVAR_1 59, 2, 0}",
+      "fr_FR": "{STRVAR_1 59, 2, 0}"
     },
     {
       "id": "pl_msg_00000020_00121",
-      "en_US": "{STRVAR_1 59, 2, 0}"
+      "en_US": "{STRVAR_1 59, 2, 0}",
+      "fr_FR": "{STRVAR_1 59, 2, 0}"
     },
     {
       "id": "pl_msg_00000020_00122",
-      "en_US": "{STRVAR_1 59, 2, 0}"
+      "en_US": "{STRVAR_1 59, 2, 0}",
+      "fr_FR": "{STRVAR_1 59, 2, 0}"
     },
     {
       "id": "pl_msg_00000020_00123",
-      "en_US": "{STRVAR_1 59, 2, 0}"
+      "en_US": "{STRVAR_1 59, 2, 0}",
+      "fr_FR": "{STRVAR_1 59, 2, 0}"
     },
     {
       "id": "pl_msg_00000020_00124",
-      "en_US": "{STRVAR_1 59, 2, 0}"
+      "en_US": "{STRVAR_1 59, 2, 0}",
+      "fr_FR": "{STRVAR_1 59, 2, 0}"
     },
     {
       "id": "pl_msg_00000020_00125",
-      "en_US": "{STRVAR_1 59, 2, 0}"
+      "en_US": "{STRVAR_1 59, 2, 0}",
+      "fr_FR": "{STRVAR_1 59, 2, 0}"
     },
     {
       "id": "pl_msg_00000020_00126",
-      "en_US": "{STRVAR_1 59, 2, 0}"
+      "en_US": "{STRVAR_1 59, 2, 0}",
+      "fr_FR": "{STRVAR_1 59, 2, 0}"
     },
     {
       "id": "pl_msg_00000020_00127",
-      "en_US": "{STRVAR_1 59, 2, 0}"
+      "en_US": "{STRVAR_1 59, 2, 0}",
+      "fr_FR": "{STRVAR_1 59, 2, 0}"
     },
     {
       "id": "pl_msg_00000020_00128",
-      "en_US": "{STRVAR_1 59, 2, 0}"
+      "en_US": "{STRVAR_1 59, 2, 0}",
+      "fr_FR": "{STRVAR_1 59, 2, 0}"
     },
     {
       "id": "pl_msg_00000020_00129",
-      "en_US": "{STRVAR_1 59, 2, 0}"
+      "en_US": "{STRVAR_1 59, 2, 0}",
+      "fr_FR": "{STRVAR_1 59, 2, 0}"
     },
     {
       "id": "pl_msg_00000020_00130",
@@ -641,11 +898,13 @@
     },
     {
       "id": "pl_msg_00000020_00134",
-      "en_US": "{STRVAR_1 59, 2, 0}"
+      "en_US": "{STRVAR_1 59, 2, 0}",
+      "fr_FR": "{STRVAR_1 59, 2, 0}"
     },
     {
       "id": "pl_msg_00000020_00135",
-      "en_US": "{STRVAR_1 59, 2, 0}"
+      "en_US": "{STRVAR_1 59, 2, 0}",
+      "fr_FR": "{STRVAR_1 59, 2, 0}"
     },
     {
       "id": "pl_msg_00000020_00136",
@@ -653,183 +912,228 @@
     },
     {
       "id": "pl_msg_00000020_00137",
-      "en_US": "{STRVAR_1 59, 2, 0}"
+      "en_US": "{STRVAR_1 59, 2, 0}",
+      "fr_FR": "{STRVAR_1 59, 2, 0}"
     },
     {
       "id": "pl_msg_00000020_00138",
-      "en_US": "{STRVAR_1 59, 2, 0}"
+      "en_US": "{STRVAR_1 59, 2, 0}",
+      "fr_FR": "{STRVAR_1 59, 2, 0}"
     },
     {
       "id": "pl_msg_00000020_00139",
-      "en_US": "${STRVAR_1 59, 2, 0}"
+      "en_US": "${STRVAR_1 59, 2, 0}",
+      "fr_FR": "{STRVAR_1 59, 2, 0} $"
     },
     {
       "id": "pl_msg_00000020_00140",
-      "en_US": "{STRVAR_1 59, 2, 0}"
+      "en_US": "{STRVAR_1 59, 2, 0}",
+      "fr_FR": "{STRVAR_1 59, 2, 0}"
     },
     {
       "id": "pl_msg_00000020_00141",
-      "en_US": "{STRVAR_1 59, 2, 0}"
+      "en_US": "{STRVAR_1 59, 2, 0}",
+      "fr_FR": "{STRVAR_1 59, 2, 0}"
     },
     {
       "id": "pl_msg_00000020_00142",
-      "en_US": "{STRVAR_1 59, 2, 0}"
+      "en_US": "{STRVAR_1 59, 2, 0}",
+      "fr_FR": "{STRVAR_1 59, 2, 0}"
     },
     {
       "id": "pl_msg_00000020_00143",
-      "en_US": "{STRVAR_1 59, 2, 0}"
+      "en_US": "{STRVAR_1 59, 2, 0}",
+      "fr_FR": "{STRVAR_1 59, 2, 0}"
     },
     {
       "id": "pl_msg_00000020_00144",
-      "en_US": "{STRVAR_1 59, 2, 0}"
+      "en_US": "{STRVAR_1 59, 2, 0}",
+      "fr_FR": "{STRVAR_1 59, 2, 0}"
     },
     {
       "id": "pl_msg_00000020_00145",
-      "en_US": "{STRVAR_1 59, 2, 0}"
+      "en_US": "{STRVAR_1 59, 2, 0}",
+      "fr_FR": "{STRVAR_1 59, 2, 0}"
     },
     {
       "id": "pl_msg_00000020_00146",
-      "en_US": "{STRVAR_1 59, 2, 0}"
+      "en_US": "{STRVAR_1 59, 2, 0}",
+      "fr_FR": "{STRVAR_1 59, 2, 0}"
     },
     {
       "id": "pl_msg_00000020_00147",
-      "en_US": "{STRVAR_1 59, 2, 0}"
+      "en_US": "{STRVAR_1 59, 2, 0}",
+      "fr_FR": "{STRVAR_1 59, 2, 0}"
     },
     {
       "id": "pl_msg_00000020_00148",
-      "en_US": "{STRVAR_1 59, 2, 0}"
+      "en_US": "{STRVAR_1 59, 2, 0}",
+      "fr_FR": "{STRVAR_1 59, 2, 0}"
     },
     {
       "id": "pl_msg_00000020_00149",
-      "en_US": "{STRVAR_1 59, 2, 0}"
+      "en_US": "{STRVAR_1 59, 2, 0}",
+      "fr_FR": "{STRVAR_1 59, 2, 0}"
     },
     {
       "id": "pl_msg_00000020_00150",
-      "en_US": "{STRVAR_1 59, 2, 0}"
+      "en_US": "{STRVAR_1 59, 2, 0}",
+      "fr_FR": "{STRVAR_1 59, 2, 0}"
     },
     {
       "id": "pl_msg_00000020_00151",
-      "en_US": "{STRVAR_1 59, 2, 0}"
+      "en_US": "{STRVAR_1 59, 2, 0}",
+      "fr_FR": "{STRVAR_1 59, 2, 0}"
     },
     {
       "id": "pl_msg_00000020_00152",
-      "en_US": "{STRVAR_1 59, 2, 0}"
+      "en_US": "{STRVAR_1 59, 2, 0}",
+      "fr_FR": "{STRVAR_1 59, 2, 0}"
     },
     {
       "id": "pl_msg_00000020_00153",
-      "en_US": "{STRVAR_1 59, 2, 0}"
+      "en_US": "{STRVAR_1 59, 2, 0}",
+      "fr_FR": "{STRVAR_1 59, 2, 0}"
     },
     {
       "id": "pl_msg_00000020_00154",
-      "en_US": "{STRVAR_1 59, 2, 0}"
+      "en_US": "{STRVAR_1 59, 2, 0}",
+      "fr_FR": "{STRVAR_1 59, 2, 0}"
     },
     {
       "id": "pl_msg_00000020_00155",
-      "en_US": "{STRVAR_1 59, 2, 0}"
+      "en_US": "{STRVAR_1 59, 2, 0}",
+      "fr_FR": "{STRVAR_1 59, 2, 0}"
     },
     {
       "id": "pl_msg_00000020_00156",
-      "en_US": "{STRVAR_1 59, 2, 0}"
+      "en_US": "{STRVAR_1 59, 2, 0}",
+      "fr_FR": "{STRVAR_1 59, 2, 0}"
     },
     {
       "id": "pl_msg_00000020_00157",
-      "en_US": "{STRVAR_1 59, 2, 0}"
+      "en_US": "{STRVAR_1 59, 2, 0}",
+      "fr_FR": "{STRVAR_1 59, 2, 0}"
     },
     {
       "id": "pl_msg_00000020_00158",
-      "en_US": "{STRVAR_1 59, 2, 0}"
+      "en_US": "{STRVAR_1 59, 2, 0}",
+      "fr_FR": "{STRVAR_1 59, 2, 0}"
     },
     {
       "id": "pl_msg_00000020_00159",
-      "en_US": "{STRVAR_1 59, 2, 0}"
+      "en_US": "{STRVAR_1 59, 2, 0}",
+      "fr_FR": "{STRVAR_1 59, 2, 0}"
     },
     {
       "id": "pl_msg_00000020_00160",
-      "en_US": "{STRVAR_1 59, 2, 0}"
+      "en_US": "{STRVAR_1 59, 2, 0}",
+      "fr_FR": "{STRVAR_1 59, 2, 0}"
     },
     {
       "id": "pl_msg_00000020_00161",
-      "en_US": "{STRVAR_1 59, 2, 0}"
+      "en_US": "{STRVAR_1 59, 2, 0}",
+      "fr_FR": "{STRVAR_1 59, 2, 0}"
     },
     {
       "id": "pl_msg_00000020_00162",
-      "en_US": "{STRVAR_1 59, 2, 0}"
+      "en_US": "{STRVAR_1 59, 2, 0}",
+      "fr_FR": "{STRVAR_1 59, 2, 0}"
     },
     {
       "id": "pl_msg_00000020_00163",
-      "en_US": "{STRVAR_1 59, 2, 0}"
+      "en_US": "{STRVAR_1 59, 2, 0}",
+      "fr_FR": "{STRVAR_1 59, 2, 0}"
     },
     {
       "id": "pl_msg_00000020_00164",
-      "en_US": "{STRVAR_1 59, 2, 0}"
+      "en_US": "{STRVAR_1 59, 2, 0}",
+      "fr_FR": "{STRVAR_1 59, 2, 0}"
     },
     {
       "id": "pl_msg_00000020_00165",
-      "en_US": "{STRVAR_1 59, 2, 0}"
+      "en_US": "{STRVAR_1 59, 2, 0}",
+      "fr_FR": "{STRVAR_1 59, 2, 0}"
     },
     {
       "id": "pl_msg_00000020_00166",
-      "en_US": "{STRVAR_1 59, 2, 0}"
+      "en_US": "{STRVAR_1 59, 2, 0}",
+      "fr_FR": "{STRVAR_1 59, 2, 0}"
     },
     {
       "id": "pl_msg_00000020_00167",
-      "en_US": "{STRVAR_1 59, 2, 0}"
+      "en_US": "{STRVAR_1 59, 2, 0}",
+      "fr_FR": "{STRVAR_1 59, 2, 0}"
     },
     {
       "id": "pl_msg_00000020_00168",
-      "en_US": "{STRVAR_1 59, 2, 0} CP"
+      "en_US": "{STRVAR_1 59, 2, 0} CP",
+      "fr_FR": "{STRVAR_1 59, 2, 0} PCa"
     },
     {
       "id": "pl_msg_00000020_00169",
-      "en_US": "{STRVAR_1 59, 2, 0}"
+      "en_US": "{STRVAR_1 59, 2, 0}",
+      "fr_FR": "{STRVAR_1 59, 2, 0}"
     },
     {
       "id": "pl_msg_00000020_00170",
-      "en_US": "{STRVAR_1 59, 2, 0} BP"
+      "en_US": "{STRVAR_1 59, 2, 0} BP",
+      "fr_FR": "{STRVAR_1 59, 2, 0} PCo"
     },
     {
       "id": "pl_msg_00000020_00171",
-      "en_US": "{STRVAR_1 59, 2, 0} BP"
+      "en_US": "{STRVAR_1 59, 2, 0} BP",
+      "fr_FR": "{STRVAR_1 59, 2, 0} PCo"
     },
     {
       "id": "pl_msg_00000020_00172",
-      "en_US": "{STRVAR_1 59, 2, 0} BP"
+      "en_US": "{STRVAR_1 59, 2, 0} BP",
+      "fr_FR": "{STRVAR_1 59, 2, 0} PCo"
     },
     {
       "id": "pl_msg_00000020_00173",
-      "en_US": "{STRVAR_1 59, 2, 0}"
+      "en_US": "{STRVAR_1 59, 2, 0}",
+      "fr_FR": "{STRVAR_1 59, 2, 0}"
     },
     {
       "id": "pl_msg_00000020_00174",
-      "en_US": "{STRVAR_1 59, 2, 0}"
+      "en_US": "{STRVAR_1 59, 2, 0}",
+      "fr_FR": "{STRVAR_1 59, 2, 0}"
     },
     {
       "id": "pl_msg_00000020_00175",
-      "en_US": "{STRVAR_1 59, 2, 0}"
+      "en_US": "{STRVAR_1 59, 2, 0}",
+      "fr_FR": "{STRVAR_1 59, 2, 0}"
     },
     {
       "id": "pl_msg_00000020_00176",
-      "en_US": "{STRVAR_1 59, 2, 0} BP"
+      "en_US": "{STRVAR_1 59, 2, 0} BP",
+      "fr_FR": "{STRVAR_1 59, 2, 0} PCo"
     },
     {
       "id": "pl_msg_00000020_00177",
-      "en_US": "{STRVAR_1 59, 2, 0}"
+      "en_US": "{STRVAR_1 59, 2, 0}",
+      "fr_FR": "{STRVAR_1 59, 2, 0}"
     },
     {
       "id": "pl_msg_00000020_00178",
-      "en_US": "{STRVAR_1 59, 2, 0} BP"
+      "en_US": "{STRVAR_1 59, 2, 0} BP",
+      "fr_FR": "{STRVAR_1 59, 2, 0} PCo"
     },
     {
       "id": "pl_msg_00000020_00179",
-      "en_US": "{STRVAR_1 59, 2, 0} BP"
+      "en_US": "{STRVAR_1 59, 2, 0} BP",
+      "fr_FR": "{STRVAR_1 59, 2, 0} PCo"
     },
     {
       "id": "pl_msg_00000020_00180",
-      "en_US": "{STRVAR_1 59, 2, 0}"
+      "en_US": "{STRVAR_1 59, 2, 0}",
+      "fr_FR": "{STRVAR_1 59, 2, 0}"
     },
     {
       "id": "pl_msg_00000020_00181",
-      "en_US": "{STRVAR_1 59, 2, 0}"
+      "en_US": "{STRVAR_1 59, 2, 0}",
+      "fr_FR": "{STRVAR_1 59, 2, 0}"
     }
   ]
 }

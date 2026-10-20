@@ -10,6 +10,14 @@
         "way back.\r",
         "My son and grandchild help Rowan\n",
         "with his studies now."
+      ],
+      "fr_FR": [
+        "Ah, alors Sorbier est de retour?\n",
+        "C’est un homme plutôt remarquable.\r",
+        "Ça fait très, très longtemps qu’il\n",
+        "étudie les Pokémon.\r",
+        "Mon fils et son enfant aident Sorbier\n",
+        "dans ses recherches désormais."
       ]
     },
     {
@@ -26,6 +34,19 @@
         "No, 400...\r",
         "No, no, no! There’re a lot more\n",
         "kinds of Pokémon than that!"
+      ],
+      "fr_FR": [
+        "Oh, mince!\n",
+        "Tu as un Pokédex National?\f",
+        "Si c’est pas fantastique!\r",
+        "Sorbier va être ravi. Ça va beaucoup\n",
+        "l’aider dans ses recherches.\r",
+        "Mais, jeune Dresseur...\n",
+        "Tu dois savoir ceci.\r",
+        "Dans ce monde, il y a 300...\n",
+        "Non, 400...\r",
+        "Non, non, non! Il y a encore plus\n",
+        "d’espèces de Pokémon que ça!"
       ]
     },
     {
@@ -39,6 +60,16 @@
         "for the professor!\r",
         "Wow! That’s the same as my big\n",
         "sister! Go for it!"
+      ],
+      "fr_FR": [
+        "Qui es-tu?\r",
+        "...\r",
+        "Oh...\r",
+        "Tu es {STRVAR_1 3, 0, 0}?\r",
+        "Hé, tu travailles sur le Pokédex du\n",
+        "professeur!\r",
+        "Waouh! Ma grande sœur fait la même\n",
+        "chose! Courage!"
       ]
     },
     {
@@ -52,6 +83,16 @@
         "for the professor!\r",
         "Wow! That’s the same as my big\n",
         "brother! Go for it!"
+      ],
+      "fr_FR": [
+        "Qui es-tu?\r",
+        "...\r",
+        "Oh...\r",
+        "Tu es {STRVAR_1 3, 0, 0}?\r",
+        "Hé, tu fais ce truc de Pokédex pour le\n",
+        "professeur!\r",
+        "Waouh! Mon grand frère fait la même\n",
+        "chose! Courage!"
       ]
     },
     {
@@ -62,6 +103,13 @@
         "is a massive outbreak of Pokémon!\r",
         "That’d be great for filling up your\n",
         "Pokédex!"
+      ],
+      "fr_FR": [
+        "Oh, salut, {STRVAR_1 3, 0, 0}!\r",
+        "Un bulletin d’information a annoncé\n",
+        "une apparition massive de Pokémon!\r",
+        "Ça va sûrement beaucoup t’aider pour\n",
+        "compléter ton Pokédex!"
       ]
     },
     {
@@ -74,6 +122,15 @@
         "{STRVAR_1 3, 0, 0}, you have to hurry!\r",
         "I want you to do better than my\n",
         "sister Dawn!"
+      ],
+      "fr_FR": [
+        "Laisse-moi réfléchir...\n",
+        "Que disait ce bulletin déjà...?\r",
+        "{STRVAR_1 4, 1, 0}! Ils ont dit qu’il y\n",
+        "avait plein de {STRVAR_1 0, 2, 0} là-bas!\r",
+        "{STRVAR_1 3, 0, 0}, tu dois te dépêcher!\r",
+        "Je veux que tu réussisses mieux que ma\n",
+        "sœur Aurore!"
       ]
     },
     {
@@ -86,6 +143,15 @@
         "{STRVAR_1 3, 0, 0}, you have to hurry!\r",
         "I want you to do better than my\n",
         "brother Lucas!"
+      ],
+      "fr_FR": [
+        "Laisse-moi réfléchir...\n",
+        "Que disait ce bulletin déjà...?\r",
+        "{STRVAR_1 4, 1, 0}! Ils ont dit qu’il y\n",
+        "avait plein de {STRVAR_1 0, 2, 0} là-bas!\r",
+        "{STRVAR_1 3, 0, 0}, tu dois te dépêcher!\r",
+        "Je veux que tu réussisses mieux que mon\n",
+        "frère Louka!"
       ]
     }
   ]

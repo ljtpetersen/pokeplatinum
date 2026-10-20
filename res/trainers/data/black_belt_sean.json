@@ -42,11 +42,19 @@
             "en_US": [
                 "Hah! Hah!\n",
                 "I’m psyched for this! Here goes!\r"
+            ],
+            "fr_FR": [
+                "Ha! Ha!\n",
+                "Je suis super motivé! C’est parti!\r"
             ]
         },
         {
             "type": "TRMSG_DEFEAT",
-            "en_US": "I don’t get why we can’t win.\n"
+            "en_US": "I don’t get why we can’t win.\n",
+            "fr_FR": [
+                "Je ne comprends pas pourquoi on\n",
+                "n’arrive pas à gagner.\n"
+            ]
         },
         {
             "type": "TRMSG_POST_BATTLE",
@@ -55,6 +63,12 @@
                 "I don’t think about tomorrow.\f",
                 "I only live today to the fullest.\f",
                 "That’s my policy!\n"
+            ],
+            "fr_FR": [
+                "Je ne ressasse pas le passé.\n",
+                "Je ne me projette pas dans l’avenir.\f",
+                "Je me contente de vivre le présent.\f",
+                "Voilà ma philosophie!\n"
             ]
         },
         {
@@ -62,7 +76,12 @@
             "en_US": [
                 "Hiyah! Hiyah! Hiyah! Hiyah!\n",
                 "This time, I’m properly psyched!\r"
+            ],
+            "fr_FR": [
+                "Ha! Ha!\n",
+                "Ce coup-ci, je suis super motivé!\r"
             ]
         }
-    ]
+    ],
+    "name_fr": "Fusaaki"
 }

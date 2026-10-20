@@ -3,31 +3,38 @@
   "messages": [
     {
       "id": "BattleCastleSelfApp_Text_PlayerName",
-      "en_US": "{STRVAR_1 3, 0, 0}"
+      "en_US": "{STRVAR_1 3, 0, 0}",
+      "fr_FR": "{STRVAR_1 3, 0, 0}"
     },
     {
       "id": "BattleCastleSelfApp_Text_PartnerName",
-      "en_US": "{STRVAR_1 3, 0, 0}"
+      "en_US": "{STRVAR_1 3, 0, 0}",
+      "fr_FR": "{STRVAR_1 3, 0, 0}"
     },
     {
       "id": "BattleCastleSelfApp_Text_CastlePoints",
-      "en_US": "{STRVAR_1 53, 0, 0} CP"
+      "en_US": "{STRVAR_1 53, 0, 0} CP",
+      "fr_FR": "{STRVAR_1 53, 0, 0} PCa"
     },
     {
       "id": "BattleCastleSelfApp_Text_PartnersCastlePoints",
-      "en_US": "{STRVAR_1 53, 0, 0} CP"
+      "en_US": "{STRVAR_1 53, 0, 0} CP",
+      "fr_FR": "{STRVAR_1 53, 0, 0} PCa"
     },
     {
       "id": "BattleCastleSelfApp_Text_CastlePointsItemSelect",
-      "en_US": "{STRVAR_1 53, 0, 0} CP"
+      "en_US": "{STRVAR_1 53, 0, 0} CP",
+      "fr_FR": "{STRVAR_1 53, 0, 0} PCa"
     },
     {
       "id": "BattleCastleSelfApp_Text_ChoosePokemon",
-      "en_US": "Please choose your Pokémon."
+      "en_US": "Please choose your Pokémon.",
+      "fr_FR": "Faites votre sélection."
     },
     {
       "id": "BattleCastleSelfApp_Text_Exit",
-      "en_US": "EXIT"
+      "en_US": "EXIT",
+      "fr_FR": "QUIT."
     },
     {
       "id": "BattleCastleSelfApp_Text_Dummy1",
@@ -35,37 +42,51 @@
     },
     {
       "id": "BattleCastleSelfApp_Text_PartnerChoseToExit",
-      "en_US": "{STRVAR_1 3, 0, 0} chose to exit."
+      "en_US": "{STRVAR_1 3, 0, 0} chose to exit.",
+      "fr_FR": "{STRVAR_1 3, 0, 0} a choisi de quitter."
     },
     {
       "id": "BattleCastleSelfApp_Text_Heal",
-      "en_US": "HEAL"
+      "en_US": "HEAL",
+      "fr_FR": "SOIGNER"
     },
     {
       "id": "BattleCastleSelfApp_Text_Rental",
-      "en_US": "RENTAL"
+      "en_US": "RENTAL",
+      "fr_FR": "LOUER"
     },
     {
       "id": "BattleCastleSelfApp_Text_Summary",
-      "en_US": "SUMMARY"
+      "en_US": "SUMMARY",
+      "fr_FR": "RESUME"
     },
     {
       "id": "BattleCastleSelfApp_Text_Moves",
-      "en_US": "MOVES"
+      "en_US": "MOVES",
+      "fr_FR": "CAPACITES"
     },
     {
       "id": "BattleCastleSelfApp_Text_Cancel",
-      "en_US": "CANCEL"
+      "en_US": "CANCEL",
+      "fr_FR": "ANNULER"
     },
     {
       "id": "BattleCastleSelfApp_Text_RestoreHPOrPP",
-      "en_US": "Restore HP and/or PP."
+      "en_US": "Restore HP and/or PP.",
+      "fr_FR": [
+        "Restaurer les PV et/ou\n",
+        "les PP de vos Pokémon."
+      ]
     },
     {
       "id": "BattleCastleSelfApp_Text_RentBerryOrItem",
       "en_US": [
         "You may rent a Berry or\n",
         "an item."
+      ],
+      "fr_FR": [
+        "Louer une Baie ou un\n",
+        "objet pour vos Pokémon."
       ]
     },
     {
@@ -73,6 +94,10 @@
       "en_US": [
         "Check stats, including\n",
         "ability and nature."
+      ],
+      "fr_FR": [
+        "Stats, capacité spéciale\n",
+        "et nature du Pokémon."
       ]
     },
     {
@@ -80,6 +105,10 @@
       "en_US": [
         "Check moves and their\n",
         "PP."
+      ],
+      "fr_FR": [
+        "Voir les capacités et les\n",
+        "PP associés."
       ]
     },
     {
@@ -87,37 +116,51 @@
       "en_US": [
         "Go back to the Pokémon-\n",
         "selection page."
+      ],
+      "fr_FR": [
+        "Revenir à la sélection\n",
+        "des Pokémon."
       ]
     },
     {
       "id": "BattleCastleSelfApp_Text_RestoreHP",
-      "en_US": "RESTORE HP"
+      "en_US": "RESTORE HP",
+      "fr_FR": "SOIN PV"
     },
     {
       "id": "BattleCastleSelfApp_Text_RestorePP",
-      "en_US": "RESTORE PP"
+      "en_US": "RESTORE PP",
+      "fr_FR": "SOIN PP"
     },
     {
       "id": "BattleCastleSelfApp_Text_RestoreAll",
-      "en_US": "RESTORE ALL"
+      "en_US": "RESTORE ALL",
+      "fr_FR": "SOIN PV ET PP"
     },
     {
       "id": "BattleCastleSelfApp_Text_RankUp",
-      "en_US": "RANK UP"
+      "en_US": "RANK UP",
+      "fr_FR": "RANG SUP."
     },
     {
       "id": "BattleCastleSelfApp_Text_Cancel2",
-      "en_US": "CANCEL"
+      "en_US": "CANCEL",
+      "fr_FR": "ANNULER"
     },
     {
       "id": "BattleCastleSelfApp_Text_WhichToUse",
-      "en_US": "Which would you like to use?"
+      "en_US": "Which would you like to use?",
+      "fr_FR": "Que voulez-vous faire?"
     },
     {
       "id": "BattleCastleSelfApp_Text_RankUpToRestorePP",
       "en_US": [
         "You will be able to restore PP by going\n",
         "up in rank."
+      ],
+      "fr_FR": [
+        "Améliorer votre rang vous permettra\n",
+        "de restaurer les PP."
       ]
     },
     {
@@ -125,15 +168,21 @@
       "en_US": [
         "You will be able to restore both HP and\n",
         "PP by going up in rank."
+      ],
+      "fr_FR": [
+        "Améliorer votre rang vous permettra\n",
+        "de restaurer les PV et PP."
       ]
     },
     {
       "id": "BattleCastleSelfApp_Text_RankCannotBeRaised",
-      "en_US": "Your rank cannot be raised any higher."
+      "en_US": "Your rank cannot be raised any higher.",
+      "fr_FR": "Vous avez atteint le rang le plus élevé."
     },
     {
       "id": "BattleCastleSelfApp_Text_ReturnToPrevious",
-      "en_US": "Return to previous selections."
+      "en_US": "Return to previous selections.",
+      "fr_FR": "Revenir au menu précédent."
     },
     {
       "id": "BattleCastleSelfApp_Text_Dummy2",
@@ -141,36 +190,49 @@
     },
     {
       "id": "BattleCastleSelfApp_Text_Yes",
-      "en_US": "YES"
+      "en_US": "YES",
+      "fr_FR": "OUI"
     },
     {
       "id": "BattleCastleSelfApp_Text_No",
-      "en_US": "NO"
+      "en_US": "NO",
+      "fr_FR": "NON"
     },
     {
       "id": "BattleCastleSelfApp_Text_NotEnoughCP",
-      "en_US": "You don’t have enough CP."
+      "en_US": "You don’t have enough CP.",
+      "fr_FR": "Vous n’avez pas assez de PCa."
     },
     {
       "id": "BattleCastleSelfApp_Text_HealRankTooLow",
       "en_US": [
         "You are too low in healing rank to use\n",
         "this menu item."
+      ],
+      "fr_FR": [
+        "Vous devez améliorer votre rang pour\n",
+        "pouvoir utiliser cette fonction."
       ]
     },
     {
       "id": "BattleCastleSelfApp_Text_HPWillBeRestored",
-      "en_US": "{STRVAR_1 0, 0, 0}’s HP will be restored."
+      "en_US": "{STRVAR_1 0, 0, 0}’s HP will be restored.",
+      "fr_FR": "Les PV de {STRVAR_1 0, 0, 0} sont restaurés."
     },
     {
       "id": "BattleCastleSelfApp_Text_PPWillBeRestored",
-      "en_US": "{STRVAR_1 0, 0, 0}’s PP will be restored."
+      "en_US": "{STRVAR_1 0, 0, 0}’s PP will be restored.",
+      "fr_FR": "Les PP de {STRVAR_1 0, 0, 0} sont restaurés."
     },
     {
       "id": "BattleCastleSelfApp_Text_HPAndPPWillBeRestored",
       "en_US": [
         "{STRVAR_1 0, 0, 0}’s HP and PP will be\n",
         "restored."
+      ],
+      "fr_FR": [
+        "Les PV et les PP de {STRVAR_1 0, 0, 0}\n",
+        "sont restaurés."
       ]
     },
     {
@@ -178,13 +240,18 @@
       "en_US": [
         "There is no benefit to using that\n",
         "command."
-      ]
+      ],
+      "fr_FR": "Ceci n’aura aucun effet."
     },
     {
       "id": "BattleCastleSelfApp_Text_RankUpForCP",
       "en_US": [
         "Would you like to up your rank\n",
         "for {STRVAR_1 52, 0, 0} CP?"
+      ],
+      "fr_FR": [
+        "Voulez-vous améliorer votre\n",
+        "rang pour {STRVAR_1 52, 0, 0} PCa?"
       ]
     },
     {
@@ -197,13 +264,18 @@
     },
     {
       "id": "BattleCastleSelfApp_Text_NotEnoughCP2",
-      "en_US": "You don’t have enough CP."
+      "en_US": "You don’t have enough CP.",
+      "fr_FR": "Vous n’avez pas assez de PCa."
     },
     {
       "id": "BattleCastleSelfApp_Text_GainedAbilityToRestorePP",
       "en_US": [
         "{STRVAR_1 3, 5, 0} gained the ability to\n",
         "restore PP!"
+      ],
+      "fr_FR": [
+        "{STRVAR_1 3, 5, 0} peut désormais restaurer\n",
+        "les PP!"
       ]
     },
     {
@@ -211,37 +283,51 @@
       "en_US": [
         "{STRVAR_1 3, 5, 0} gained the ability to\n",
         "restore both HP and PP!"
+      ],
+      "fr_FR": [
+        "{STRVAR_1 3, 5, 0} peut désormais restaurer\n",
+        "les PV et PP!"
       ]
     },
     {
       "id": "BattleCastleSelfApp_Text_Berries",
-      "en_US": "BERRIES"
+      "en_US": "BERRIES",
+      "fr_FR": "BAIES"
     },
     {
       "id": "BattleCastleSelfApp_Text_Items",
-      "en_US": "ITEMS"
+      "en_US": "ITEMS",
+      "fr_FR": "OBJETS"
     },
     {
       "id": "BattleCastleSelfApp_Text_RankUp2",
-      "en_US": "RANK UP"
+      "en_US": "RANK UP",
+      "fr_FR": "RANG SUP."
     },
     {
       "id": "BattleCastleSelfApp_Text_Cancel3",
-      "en_US": "CANCEL"
+      "en_US": "CANCEL",
+      "fr_FR": "ANNULER"
     },
     {
       "id": "BattleCastleSelfApp_Text_MayRentBerry",
-      "en_US": "You may rent a Berry for this Pokémon."
+      "en_US": "You may rent a Berry for this Pokémon.",
+      "fr_FR": "Louer une Baie pour ce Pokémon."
     },
     {
       "id": "BattleCastleSelfApp_Text_MayRentItem",
-      "en_US": "You may rent an item for this Pokémon."
+      "en_US": "You may rent an item for this Pokémon.",
+      "fr_FR": "Louer un objet pour ce Pokémon."
     },
     {
       "id": "BattleCastleSelfApp_Text_RankUpToRentItem",
       "en_US": [
         "You will be able to rent an item for\n",
         "your Pokémon by going up in rank."
+      ],
+      "fr_FR": [
+        "Améliorer votre rang vous permettra\n",
+        "de louer des objets pour vos Pokémon."
       ]
     },
     {
@@ -249,21 +335,31 @@
       "en_US": [
         "Your choices of items and Berries will\n",
         "be expanded by going up in rank."
+      ],
+      "fr_FR": [
+        "Améliorer votre rang augmentera le\n",
+        "nombre de Baies et d’objets disponibles."
       ]
     },
     {
       "id": "BattleCastleSelfApp_Text_RankCannotBeRaised2",
-      "en_US": "Your rank cannot be raised any higher."
+      "en_US": "Your rank cannot be raised any higher.",
+      "fr_FR": "Vous avez atteint le rang le plus élevé."
     },
     {
       "id": "BattleCastleSelfApp_Text_ReturnToPrevious2",
-      "en_US": "Return to previous selections."
+      "en_US": "Return to previous selections.",
+      "fr_FR": "Revenir au menu précédent."
     },
     {
       "id": "BattleCastleSelfApp_Text_RentalRankTooLow",
       "en_US": [
         "You are too low in rental rank to use\n",
         "CP."
+      ],
+      "fr_FR": [
+        "Vous devez améliorer votre rang pour\n",
+        "pouvoir utiliser cette fonction."
       ]
     },
     {
@@ -271,6 +367,10 @@
       "en_US": [
         "It will cost {STRVAR_1 51, 0, 0} CP.\n",
         "Is that OK?"
+      ],
+      "fr_FR": [
+        "Cela coûte {STRVAR_1 51, 0, 0} PCa.\n",
+        "Confirmer?"
       ]
     },
     {
@@ -290,12 +390,20 @@
       "en_US": [
         "{STRVAR_1 0, 0, 0} was given the\n",
         "{STRVAR_1 8, 1, 0} to hold."
+      ],
+      "fr_FR": [
+        "{STRVAR_1 0, 0, 0} tient désormais\n",
+        "{STRVAR_1 8, 1, 0}."
       ]
     },
     {
       "id": "BattleCastleSelfApp_Text_AlreadyHoldingItem",
       "en_US": [
         "{STRVAR_1 0, 0, 0} is already holding\n",
+        "{STRVAR_1 8, 1, 0}."
+      ],
+      "fr_FR": [
+        "{STRVAR_1 0, 0, 0} tient déjà\n",
         "{STRVAR_1 8, 1, 0}."
       ]
     },
@@ -304,7 +412,8 @@
       "en_US": [
         "Would you like to switch the\n",
         "two items?"
-      ]
+      ],
+      "fr_FR": "Voulez-vous échanger les deux objets?"
     },
     {
       "id": "BattleCastleSelfApp_Text_Dummy8",
@@ -335,6 +444,10 @@
       "en_US": [
         "{STRVAR_1 3, 5, 0} gained the ability to\n",
         "rent items!"
+      ],
+      "fr_FR": [
+        "{STRVAR_1 3, 5, 0} peut désormais louer\n",
+        "des objets!"
       ]
     },
     {
@@ -342,99 +455,126 @@
       "en_US": [
         "{STRVAR_1 3, 5, 0} expanded the variety of\n",
         "rentable Berries and items!"
+      ],
+      "fr_FR": [
+        "{STRVAR_1 3, 5, 0} a maintenant accès à un\n",
+        "large choix de Baies et d’objets!"
       ]
     },
     {
       "id": "BattleCastleSelfApp_Text_Item",
-      "en_US": "Item"
+      "en_US": "Item",
+      "fr_FR": "Objet"
     },
     {
       "id": "BattleCastleSelfApp_Text_ItemValue",
-      "en_US": "{COLOR 2}{STRVAR_1 8, 0, 0}{COLOR 0}"
+      "en_US": "{COLOR 2}{STRVAR_1 8, 0, 0}{COLOR 0}",
+      "fr_FR": "{COLOR 2}{STRVAR_1 8, 0, 0}{COLOR 0}"
     },
     {
       "id": "BattleCastleSelfApp_Text_Nature",
-      "en_US": "Nature"
+      "en_US": "Nature",
+      "fr_FR": "Nature"
     },
     {
       "id": "BattleCastleSelfApp_Text_NatureValue",
-      "en_US": "{COLOR 2}{STRVAR_1 7, 0, 0}{COLOR 0}"
+      "en_US": "{COLOR 2}{STRVAR_1 7, 0, 0}{COLOR 0}",
+      "fr_FR": "{COLOR 2}{STRVAR_1 7, 0, 0}{COLOR 0}"
     },
     {
       "id": "BattleCastleSelfApp_Text_Ability",
-      "en_US": "Ability"
+      "en_US": "Ability",
+      "fr_FR": "Cap. Spé."
     },
     {
       "id": "BattleCastleSelfApp_Text_AbilityValue",
-      "en_US": "{COLOR 2}{STRVAR_1 5, 0, 0}{COLOR 0}"
+      "en_US": "{COLOR 2}{STRVAR_1 5, 0, 0}{COLOR 0}",
+      "fr_FR": "{COLOR 2}{STRVAR_1 5, 0, 0}{COLOR 0}"
     },
     {
       "id": "BattleCastleSelfApp_Text_Attack",
-      "en_US": "Attack"
+      "en_US": "Attack",
+      "fr_FR": "Attaque"
     },
     {
       "id": "BattleCastleSelfApp_Text_AttackValue",
-      "en_US": "{COLOR 2}{STRVAR_1 52, 0, 0}{COLOR 0}"
+      "en_US": "{COLOR 2}{STRVAR_1 52, 0, 0}{COLOR 0}",
+      "fr_FR": "{COLOR 2}{STRVAR_1 52, 0, 0}{COLOR 0}"
     },
     {
       "id": "BattleCastleSelfApp_Text_Defense",
-      "en_US": "Defense"
+      "en_US": "Defense",
+      "fr_FR": "Défense"
     },
     {
       "id": "BattleCastleSelfApp_Text_DefenseValue",
-      "en_US": "{COLOR 2}{STRVAR_1 52, 0, 0}{COLOR 0}"
+      "en_US": "{COLOR 2}{STRVAR_1 52, 0, 0}{COLOR 0}",
+      "fr_FR": "{COLOR 2}{STRVAR_1 52, 0, 0}{COLOR 0}"
     },
     {
       "id": "BattleCastleSelfApp_Text_SpAttack",
-      "en_US": "Sp. Atk"
+      "en_US": "Sp. Atk",
+      "fr_FR": "Atq. Spé."
     },
     {
       "id": "BattleCastleSelfApp_Text_SpAttackValue",
-      "en_US": "{COLOR 2}{STRVAR_1 52, 0, 0}{COLOR 0}"
+      "en_US": "{COLOR 2}{STRVAR_1 52, 0, 0}{COLOR 0}",
+      "fr_FR": "{COLOR 2}{STRVAR_1 52, 0, 0}{COLOR 0}"
     },
     {
       "id": "BattleCastleSelfApp_Text_SpDefense",
-      "en_US": "Sp. Def"
+      "en_US": "Sp. Def",
+      "fr_FR": "Déf. Spé."
     },
     {
       "id": "BattleCastleSelfApp_Text_SpDefenseValue",
-      "en_US": "{COLOR 2}{STRVAR_1 52, 0, 0}{COLOR 0}"
+      "en_US": "{COLOR 2}{STRVAR_1 52, 0, 0}{COLOR 0}",
+      "fr_FR": "{COLOR 2}{STRVAR_1 52, 0, 0}{COLOR 0}"
     },
     {
       "id": "BattleCastleSelfApp_Text_Speed",
-      "en_US": "Speed"
+      "en_US": "Speed",
+      "fr_FR": "Vitesse"
     },
     {
       "id": "BattleCastleSelfApp_Text_SpeedValue",
-      "en_US": "{COLOR 2}{STRVAR_1 52, 0, 0}{COLOR 0}"
+      "en_US": "{COLOR 2}{STRVAR_1 52, 0, 0}{COLOR 0}",
+      "fr_FR": "{COLOR 2}{STRVAR_1 52, 0, 0}{COLOR 0}"
     },
     {
       "id": "BattleCastleSelfApp_Text_MaleSymbol",
-      "en_US": "♂"
+      "en_US": "♂",
+      "fr_FR": "♂"
     },
     {
       "id": "BattleCastleSelfApp_Text_FemaleSymbol",
-      "en_US": "♀"
+      "en_US": "♀",
+      "fr_FR": "♀"
     },
     {
       "id": "BattleCastleSelfApp_Text_MoveName1",
-      "en_US": "{STRVAR_1 6, 0, 0}"
+      "en_US": "{STRVAR_1 6, 0, 0}",
+      "fr_FR": "{STRVAR_1 6, 0, 0}"
     },
     {
       "id": "BattleCastleSelfApp_Text_MoveName2",
-      "en_US": "{STRVAR_1 6, 1, 0}"
+      "en_US": "{STRVAR_1 6, 1, 0}",
+      "fr_FR": "{STRVAR_1 6, 1, 0}"
     },
     {
       "id": "BattleCastleSelfApp_Text_MoveName3",
-      "en_US": "{STRVAR_1 6, 2, 0}"
+      "en_US": "{STRVAR_1 6, 2, 0}",
+      "fr_FR": "{STRVAR_1 6, 2, 0}"
     },
     {
       "id": "BattleCastleSelfApp_Text_MoveName4",
-      "en_US": "{STRVAR_1 6, 3, 0}"
+      "en_US": "{STRVAR_1 6, 3, 0}",
+      "fr_FR": "{STRVAR_1 6, 3, 0}"
     },
     {
       "id": "BattleCastleSelfApp_Text_MovePP",
-      "en_US": "{COLOR 2}{STRVAR_1 51, 4, 0}{COLOR 0}/{COLOR 2}{STRVAR_1 51, 5, 0}{COLOR 0}"
+      "en_US": "{COLOR 2}{STRVAR_1 51, 4, 0}{COLOR 0}/{COLOR 2}{STRVAR_1 51, 5, 0}{COLOR 0}",
+      "fr_FR": "{COLOR 2}{STRVAR_1 51, 4, 0}{COLOR 0}/{COLOR 2}{STRVAR_1 51, 5, 0}{COLOR 0}"
     }
   ]
 }

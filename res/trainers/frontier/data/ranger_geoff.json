@@ -65,6 +65,10 @@
             "en_US": [
                 "Whoa-whoa-whoa... Careful now!\n",
                 "Maintaining balance is the key!"
+            ],
+            "fr_FR": [
+                "Doucement, doucement! L’é-qui-libre!\n",
+                "Voilà la clé!"
             ]
         },
         {
@@ -72,6 +76,10 @@
             "en_US": [
                 "Whoops...! Almost went over!\n",
                 "Have to be careful here...\r"
+            ],
+            "fr_FR": [
+                "Hooooolà! J’ai failli tomber, il faut\n",
+                "que je sois plus prudent.\r"
             ]
         },
         {
@@ -79,7 +87,12 @@
             "en_US": [
                 "...Waaaaaah...\n",
                 "Thud!\r"
+            ],
+            "fr_FR": [
+                "Aaaaaaah!\n",
+                "Boum!\r"
             ]
         }
-    ]
+    ],
+    "name_fr": "Gaby"
 }

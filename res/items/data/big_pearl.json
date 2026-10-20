@@ -26,5 +26,13 @@
   "battlePocket": "BATTLE_POCKET_MASK_NONE",
   "fieldUseFunc": "ITEM_USE_FUNC_NONE",
   "battleUseCategory": "BATTLE_USE_CATEGORY_NONE",
-  "itemUseParams": {}
+  "itemUseParams": {},
+  "name_fr": "Grande Perle",
+  "description_fr": [
+    "Une grande perle qui brille d’une jolie\n",
+    "couleur argent. Peut être vendue à\n",
+    "bon prix aux magasins."
+  ],
+  "plural_fr": "Grande Perle",
+  "article_fr": null
 }

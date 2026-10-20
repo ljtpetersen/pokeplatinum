@@ -29,5 +29,13 @@
   "itemUseParams": {
     "revive": true,
     "hpRestored": -2
-  }
+  },
+  "name_fr": "Rappel",
+  "description_fr": [
+    "Un médicament qui ranime un Pokémon\n",
+    "K.O. et restaure la moitié de ses PV\n",
+    "max."
+  ],
+  "plural_fr": "Rappel",
+  "article_fr": null
 }

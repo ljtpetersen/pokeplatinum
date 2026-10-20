@@ -6,6 +6,10 @@
       "en_US": [
         "To sit back and fish casually...\n",
         "It’s a grown-up’s hobby."
+      ],
+      "fr_FR": [
+        "Se détendre et pêcher tranquillement...\n",
+        "C’est un hobby d’adulte."
       ]
     },
     {
@@ -13,6 +17,10 @@
       "en_US": [
         "Rt. 205\n",
         "Eterna Forest"
+      ],
+      "fr_FR": [
+        "Route 205\n",
+        "Forêt de Vestigion"
       ]
     },
     {
@@ -20,6 +28,10 @@
       "en_US": [
         "Rt. 205\n",
         "Eterna City"
+      ],
+      "fr_FR": [
+        "Route 205\n",
+        "Vestigion"
       ]
     }
   ]

@@ -3,115 +3,143 @@
   "messages": [
     {
       "id": "pl_msg_00000678_00000",
-      "en_US": "None"
+      "en_US": "None",
+      "fr_FR": "Aucun"
     },
     {
       "id": "pl_msg_00000678_00001",
-      "en_US": "Acre"
+      "en_US": "Acre",
+      "fr_FR": "Acre"
     },
     {
       "id": "pl_msg_00000678_00002",
-      "en_US": "Rondonia"
+      "en_US": "Rondonia",
+      "fr_FR": "Rondônia"
     },
     {
       "id": "pl_msg_00000678_00003",
-      "en_US": "Alagoas"
+      "en_US": "Alagoas",
+      "fr_FR": "Alagoas"
     },
     {
       "id": "pl_msg_00000678_00004",
-      "en_US": "Amapa"
+      "en_US": "Amapa",
+      "fr_FR": "Amapá"
     },
     {
       "id": "pl_msg_00000678_00005",
-      "en_US": "Amazonas"
+      "en_US": "Amazonas",
+      "fr_FR": "Amazonas"
     },
     {
       "id": "pl_msg_00000678_00006",
-      "en_US": "Bahia"
+      "en_US": "Bahia",
+      "fr_FR": "Bahia"
     },
     {
       "id": "pl_msg_00000678_00007",
-      "en_US": "Ceara"
+      "en_US": "Ceara",
+      "fr_FR": "Ceará"
     },
     {
       "id": "pl_msg_00000678_00008",
-      "en_US": "Distrito Federal"
+      "en_US": "Distrito Federal",
+      "fr_FR": "District fédéral"
     },
     {
       "id": "pl_msg_00000678_00009",
-      "en_US": "Espirito Santo"
+      "en_US": "Espirito Santo",
+      "fr_FR": "Espírito Santo"
     },
     {
       "id": "pl_msg_00000678_00010",
-      "en_US": "Goias"
+      "en_US": "Goias",
+      "fr_FR": "Goiás"
     },
     {
       "id": "pl_msg_00000678_00011",
-      "en_US": "Maranhao"
+      "en_US": "Maranhao",
+      "fr_FR": "Maranhão"
     },
     {
       "id": "pl_msg_00000678_00012",
-      "en_US": "Mato Grosso"
+      "en_US": "Mato Grosso",
+      "fr_FR": "Mato Grosso"
     },
     {
       "id": "pl_msg_00000678_00013",
-      "en_US": "Mato Grosso do Sul"
+      "en_US": "Mato Grosso do Sul",
+      "fr_FR": "Mato Grosso do Sul"
     },
     {
       "id": "pl_msg_00000678_00014",
-      "en_US": "Minas Gerais"
+      "en_US": "Minas Gerais",
+      "fr_FR": "Minas Gerais"
     },
     {
       "id": "pl_msg_00000678_00015",
-      "en_US": "Para"
+      "en_US": "Para",
+      "fr_FR": "Pará"
     },
     {
       "id": "pl_msg_00000678_00016",
-      "en_US": "Paraiba"
+      "en_US": "Paraiba",
+      "fr_FR": "Paraíba"
     },
     {
       "id": "pl_msg_00000678_00017",
-      "en_US": "Parana"
+      "en_US": "Parana",
+      "fr_FR": "Paraná"
     },
     {
       "id": "pl_msg_00000678_00018",
-      "en_US": "Pernambuco"
+      "en_US": "Pernambuco",
+      "fr_FR": "Pernambouc"
     },
     {
       "id": "pl_msg_00000678_00019",
-      "en_US": "Piaui"
+      "en_US": "Piaui",
+      "fr_FR": "Piauí"
     },
     {
       "id": "pl_msg_00000678_00020",
-      "en_US": "Rio de Janeiro"
+      "en_US": "Rio de Janeiro",
+      "fr_FR": "Rio de Janeiro"
     },
     {
       "id": "pl_msg_00000678_00021",
-      "en_US": "Rio Grande do Sul"
+      "en_US": "Rio Grande do Sul",
+      "fr_FR": "Rio Grande do Sul"
     },
     {
       "id": "pl_msg_00000678_00022",
-      "en_US": "Rio Grande do Norte"
+      "en_US": "Rio Grande do Norte",
+      "fr_FR": "Rio Grande do Norte"
     },
     {
       "id": "pl_msg_00000678_00023",
-      "en_US": "Roraima"
+      "en_US": "Roraima",
+      "fr_FR": "Roraima"
     },
     {
       "id": "pl_msg_00000678_00024",
-      "en_US": "Santa Catarina"
+      "en_US": "Santa Catarina",
+      "fr_FR": "Santa Catarina"
     },
     {
       "id": "pl_msg_00000678_00025",
-      "en_US": "Sao Paulo"
+      "en_US": "Sao Paulo",
+      "fr_FR": "São Paulo"
     },
     {
       "id": "pl_msg_00000678_00026",
-      "en_US": "Sergipe"
+      "en_US": "Sergipe",
+      "fr_FR": "Sergipe"
     },
     {
       "id": "pl_msg_00000678_00027",
-      "en_US": "Tocantins"
+      "en_US": "Tocantins",
+      "fr_FR": "Tocantins"
     }
   ]
 }

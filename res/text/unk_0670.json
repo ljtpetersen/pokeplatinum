@@ -6,6 +6,10 @@
       "en_US": [
         "Enter the Battle Room Number.\n",
         "...B Button: Cancel"
+      ],
+      "fr_FR": [
+        "Entrez le Numéro de la Salle de Combat.\n",
+        "Bouton B: Annuler"
       ]
     },
     {
@@ -13,6 +17,10 @@
       "en_US": [
         "Receiving data for Rank {STRVAR_1 51, 1, 0},\n",
         "Room {STRVAR_1 52, 0, 0}..."
+      ],
+      "fr_FR": [
+        "Réception des données \n",
+        "du Rang {STRVAR_1 51, 1, 0}, Salle {STRVAR_1 52, 0, 0}..."
       ]
     },
     {
@@ -20,45 +28,62 @@
       "en_US": [
         "You may not challenge that Battle\n",
         "Room until the next update.\r"
+      ],
+      "fr_FR": [
+        "Vous ne pouvez pas entrer dans cette \n",
+        "Salle de Combat pour le moment.\r",
+        "Veuillez attendre la \n",
+        "prochaine mise à jour.\r"
       ]
     },
     {
       "id": "pl_msg_00000670_00003",
-      "en_US": "Data has been received.\r"
+      "en_US": "Data has been received.\r",
+      "fr_FR": "Les données ont été reçues.\r"
     },
     {
       "id": "pl_msg_00000670_00004",
-      "en_US": "Cancel your challenge?"
+      "en_US": "Cancel your challenge?",
+      "fr_FR": "Annuler votre défi?"
     },
     {
       "id": "pl_msg_00000670_00005",
       "en_US": [
         "Enter the Rank of the Battle Room\n",
         "to check your records."
+      ],
+      "fr_FR": [
+        "Entrez le Rang de la Salle de Combat \n",
+        "pour afficher les données."
       ]
     },
     {
       "id": "pl_msg_00000670_00006",
-      "en_US": "Enter the Battle Room Number."
+      "en_US": "Enter the Battle Room Number.",
+      "fr_FR": "Entrez le Numéro de la Salle de Combat."
     },
     {
       "id": "pl_msg_00000670_00007",
-      "en_US": "Sending your record data..."
+      "en_US": "Sending your record data...",
+      "fr_FR": "Envoi de vos données..."
     },
     {
       "id": "pl_msg_00000670_00008",
-      "en_US": "Your data has been sent.\r"
+      "en_US": "Your data has been sent.\r",
+      "fr_FR": "Vos données ont été envoyées.\r"
     },
     {
       "id": "pl_msg_00000670_00009",
       "en_US": [
         "Would you like to cancel your data\n",
         "download?"
-      ]
+      ],
+      "fr_FR": "Annuler le téléchargement des données?"
     },
     {
       "id": "pl_msg_00000670_00010",
-      "en_US": "Nintendo Wi-Fi Connection"
+      "en_US": "Nintendo Wi-Fi Connection",
+      "fr_FR": "Connexion Wi-Fi Nintendo"
     },
     {
       "id": "pl_msg_00000670_00011",
@@ -66,6 +91,11 @@
         "The Wi-Fi Battle Tower is currently\n",
         "undergoing maintenance.\r",
         "Please try again later.\r"
+      ],
+      "fr_FR": [
+        "La Tour de Combat Wi-Fi est en\n",
+        "cours de maintenance.\r",
+        "Veuillez réessayer ultérieurement.\r"
       ]
     },
     {
@@ -74,6 +104,11 @@
         "The Wi-Fi Battle Tower is very\n",
         "crowded.\r",
         "Please try again later.\r"
+      ],
+      "fr_FR": [
+        "La Tour de Combat Wi-Fi connaît\n",
+        "un trafic trop important.\r",
+        "Veuillez réessayer ultérieurement.\r"
       ]
     },
     {
@@ -82,6 +117,11 @@
         "Unable to connect to the Wi-Fi\n",
         "Battle Tower.\r",
         "Returning to the reception counter.\r"
+      ],
+      "fr_FR": [
+        "Impossible de se connecter \n",
+        "à la Tour de Combat Wi-Fi.\r",
+        "Retour à la réception.\r"
       ]
     },
     {
@@ -90,6 +130,11 @@
         "You were disconnected from\n",
         "the Wi-Fi Battle Tower.\r",
         "Returning to the reception counter.\r"
+      ],
+      "fr_FR": [
+        "Vous avez été déconnecté \n",
+        "de la Tour de Combat Wi-Fi.\r",
+        "Retour à la réception.\r"
       ]
     },
     {
@@ -97,6 +142,10 @@
       "en_US": [
         "That number cannot be specified for\n",
         "the Wi-Fi Battle Tower.\r"
+      ],
+      "fr_FR": [
+        "Ce numéro n’est pas valide \n",
+        "pour la Tour de Combat Wi-Fi.\r"
       ]
     },
     {
@@ -104,6 +153,10 @@
       "en_US": [
         "Disconnecting from Nintendo Wi-Fi\n",
         "Connection..."
+      ],
+      "fr_FR": [
+        "Déconnexion de la connexion Wi-Fi\n",
+        "Nintendo..."
       ]
     },
     {
@@ -111,6 +164,10 @@
       "en_US": [
         "You are now disconnected from Nintendo\n",
         "Wi-Fi Connection."
+      ],
+      "fr_FR": [
+        "Vous n’êtes plus connecté à la\n",
+        "connexion Wi-Fi Nintendo."
       ]
     }
   ]

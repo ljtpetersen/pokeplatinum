@@ -33,17 +33,29 @@
             "en_US": [
                 "See how Mt. Coronet towers above us.\n",
                 "I want to be big like that one day!\r"
+            ],
+            "fr_FR": [
+                "Le Mont Couronné grimpe jusqu’au ciel.\n",
+                "Un jour, je serai aussi grand que lui!\r"
             ]
         },
         {
             "type": "TRMSG_DEFEAT",
-            "en_US": "You loom before me as a giant presence!\n"
+            "en_US": "You loom before me as a giant presence!\n",
+            "fr_FR": [
+                "Et soudain surgit une présence\n",
+                "menaçante!"
+            ]
         },
         {
             "type": "TRMSG_POST_BATTLE",
             "en_US": [
                 "Mt. Coronet has long been known as\n",
                 "an ancient and mysterious mountain.\n"
+            ],
+            "fr_FR": [
+                "Le Mont Couronné est connu pour être\n",
+                "une montagne ancienne et mystérieuse.\n"
             ]
         },
         {
@@ -52,7 +64,14 @@
                 "Hmm?! \n",
                 "You loom before me again?!\r",
                 "You’re like Mt. Coronet that way!\r"
+            ],
+            "fr_FR": [
+                "Et soudain la présence surgit à\n",
+                "nouveau!\r",
+                "Tu as la tête aussi dure que le Mont\n",
+                "Couronné, dis-moi!\r"
             ]
         }
-    ]
+    ],
+    "name_fr": "Maxime"
 }

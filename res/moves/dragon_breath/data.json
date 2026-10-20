@@ -26,5 +26,13 @@
     "contest": {
         "effect": "CONTEST_EFFECT_FIRST_PERFORMANCE_ADVANTAGE",
         "type": "CONTEST_TYPE_COOL"
-    }
+    },
+    "name_fr": "Dracosouffle",
+    "description_fr": [
+        "Le lanceur souffle\n",
+        "fort sur l’ennemi pour\n",
+        "infliger des dégâts.\n",
+        "Peut aussi le\n",
+        "paralyser."
+    ]
 }

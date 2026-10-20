@@ -31,5 +31,12 @@
     "friendshipLow": 5,
     "friendshipMed": 3,
     "friendshipHigh": 2
-  }
+  },
+  "name_fr": "PP Max",
+  "description_fr": [
+    "Monte les PP d’une capacité à son\n",
+    "maximum."
+  ],
+  "plural_fr": "PP Max",
+  "article_fr": null
 }

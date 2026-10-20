@@ -3,22 +3,29 @@
   "messages": [
     {
       "id": "pl_msg_00000653_00000",
-      "en_US": "{COLOR 1}PLAZA NEWS{COLOR 0}"
+      "en_US": "{COLOR 1}PLAZA NEWS{COLOR 0}",
+      "fr_FR": "{COLOR 1}INFOS SQUARE{COLOR 0}"
     },
     {
       "id": "pl_msg_00000653_00001",
-      "en_US": "TIME"
+      "en_US": "TIME",
+      "fr_FR": "TEMPS"
     },
     {
       "id": "pl_msg_00000653_00002",
       "en_US": [
         "PEOPLE\n",
         "IN PLAZA"
+      ],
+      "fr_FR": [
+        "INVITES\n",
+        "SQUARE"
       ]
     },
     {
       "id": "pl_msg_00000653_00003",
-      "en_US": "LATEST NEWS HEADLINES"
+      "en_US": "LATEST NEWS HEADLINES",
+      "fr_FR": "DERNIERES NOUVELLES"
     },
     {
       "id": "pl_msg_00000653_00004",
@@ -26,99 +33,123 @@
     },
     {
       "id": "pl_msg_00000653_00005",
-      "en_US": "{COLOR 1}{STRVAR_6 0, 0, 0}{COLOR 0}: {COLOR 2}{STRVAR_1 3, 1, 0}{COLOR 0} is seeking players... There is room for {COLOR 1}{STRVAR_1 50, 2, 0}{COLOR 0} more..."
+      "en_US": "{COLOR 1}{STRVAR_6 0, 0, 0}{COLOR 0}: {COLOR 2}{STRVAR_1 3, 1, 0}{COLOR 0} is seeking players... There is room for {COLOR 1}{STRVAR_1 50, 2, 0}{COLOR 0} more...",
+      "fr_FR": "{COLOR 1}{STRVAR_6 0, 0, 0}{COLOR 0}: {COLOR 2}{STRVAR_1 3, 1, 0}{COLOR 0} recherche des participants... Il reste de la place pour {COLOR 1}{STRVAR_1 50, 2, 0}{COLOR 0} autre(s) joueur(s)..."
     },
     {
       "id": "pl_msg_00000653_00006",
-      "en_US": "{COLOR 1}{STRVAR_6 0, 0, 0}{COLOR 0}: {COLOR 2} {STRVAR_1 3, 1, 0}{COLOR 0}, {COLOR 3}{STRVAR_1 3, 2, 0}{COLOR 0}, {COLOR 4}{STRVAR_1 3, 3, 0}{COLOR 0}, and {COLOR 5}{STRVAR_1 3, 4, 0}{COLOR 0} are in play..."
+      "en_US": "{COLOR 1}{STRVAR_6 0, 0, 0}{COLOR 0}: {COLOR 2} {STRVAR_1 3, 1, 0}{COLOR 0}, {COLOR 3}{STRVAR_1 3, 2, 0}{COLOR 0}, {COLOR 4}{STRVAR_1 3, 3, 0}{COLOR 0}, and {COLOR 5}{STRVAR_1 3, 4, 0}{COLOR 0} are in play...",
+      "fr_FR": "{COLOR 1}{STRVAR_6 0, 0, 0}{COLOR 0}: {COLOR 2} {STRVAR_1 3, 1, 0}{COLOR 0}, {COLOR 3}{STRVAR_1 3, 2, 0}{COLOR 0}, {COLOR 4}{STRVAR_1 3, 3, 0}{COLOR 0} et {COLOR 5}{STRVAR_1 3, 4, 0}{COLOR 0} sont en train de jouer..."
     },
     {
       "id": "pl_msg_00000653_00007",
-      "en_US": "{COLOR 2}{STRVAR_1 3, 0, 0}{COLOR 0} and {COLOR 3}{STRVAR_1 3, 1, 0}{COLOR 0} are chatting..."
+      "en_US": "{COLOR 2}{STRVAR_1 3, 0, 0}{COLOR 0} and {COLOR 3}{STRVAR_1 3, 1, 0}{COLOR 0} are chatting...",
+      "fr_FR": "{COLOR 2}{STRVAR_1 3, 0, 0}{COLOR 0} et {COLOR 3}{STRVAR_1 3, 1, 0}{COLOR 0} sont en train de discuter..."
     },
     {
       "id": "pl_msg_00000653_00008",
-      "en_US": "{COLOR 2}{STRVAR_1 3, 0, 0}{COLOR 0} shared a {COLOR 1}{STRVAR_6 2, 2, 0}{COLOR 0} with {COLOR 3}{STRVAR_1 3, 1, 0}{COLOR 0}..."
+      "en_US": "{COLOR 2}{STRVAR_1 3, 0, 0}{COLOR 0} shared a {COLOR 1}{STRVAR_6 2, 2, 0}{COLOR 0} with {COLOR 3}{STRVAR_1 3, 1, 0}{COLOR 0}...",
+      "fr_FR": "{COLOR 2}{STRVAR_1 3, 0, 0}{COLOR 0} a offert son Tape-joujou {COLOR 1}{STRVAR_6 2, 2, 0}{COLOR 0} à {COLOR 3}{STRVAR_1 3, 1, 0}{COLOR 0}..."
     },
     {
       "id": "pl_msg_00000653_00009",
-      "en_US": "{COLOR 1}{STRVAR_6 0, 0, 0}{COLOR 0}: {COLOR 2}{STRVAR_1 3, 1, 0}{COLOR 0} has joined... There is still room for {COLOR 1}{STRVAR_1 50, 2, 0}{COLOR 0} more..."
+      "en_US": "{COLOR 1}{STRVAR_6 0, 0, 0}{COLOR 0}: {COLOR 2}{STRVAR_1 3, 1, 0}{COLOR 0} has joined... There is still room for {COLOR 1}{STRVAR_1 50, 2, 0}{COLOR 0} more...",
+      "fr_FR": "{COLOR 1}{STRVAR_6 0, 0, 0}{COLOR 0}: {COLOR 2}{STRVAR_1 3, 1, 0}{COLOR 0} a rejoint la partie... Il reste de la place pour {COLOR 1}{STRVAR_1 50, 2, 0}{COLOR 0} autre(s) joueur(s)..."
     },
     {
       "id": "pl_msg_00000653_00010",
-      "en_US": "{COLOR 2}{STRVAR_1 3, 0, 0}{COLOR 0}, {COLOR 3}{STRVAR_1 3, 1, 0}{COLOR 0}, {COLOR 4}{STRVAR_1 3, 2, 0}{COLOR 0}, and {COLOR 5}{STRVAR_1 3, 3, 0}{COLOR 0} are checking the {COLOR 1}{STRVAR_6 0, 4, 0}{COLOR 0}..."
+      "en_US": "{COLOR 2}{STRVAR_1 3, 0, 0}{COLOR 0}, {COLOR 3}{STRVAR_1 3, 1, 0}{COLOR 0}, {COLOR 4}{STRVAR_1 3, 2, 0}{COLOR 0}, and {COLOR 5}{STRVAR_1 3, 3, 0}{COLOR 0} are checking the {COLOR 1}{STRVAR_6 0, 4, 0}{COLOR 0}...",
+      "fr_FR": "{COLOR 1}{STRVAR_6 0, 4, 0}{COLOR 0} semble intéresser {COLOR 2}{STRVAR_1 3, 0, 0}{COLOR 0}, {COLOR 3}{STRVAR_1 3, 1, 0}{COLOR 0}, {COLOR 4}{STRVAR_1 3, 2, 0}{COLOR 0} et {COLOR 5}{STRVAR_1 3, 3, 0}{COLOR 0}..."
     },
     {
       "id": "pl_msg_00000653_00011",
-      "en_US": "{COLOR 2}{STRVAR_1 3, 0, 0}{COLOR 0}, {COLOR 3}{STRVAR_1 3, 1, 0}{COLOR 0}, and {COLOR 4}{STRVAR_1 3, 2, 0}{COLOR 0} are checking the {COLOR 1}{STRVAR_6 0, 3, 0}{COLOR 0}..."
+      "en_US": "{COLOR 2}{STRVAR_1 3, 0, 0}{COLOR 0}, {COLOR 3}{STRVAR_1 3, 1, 0}{COLOR 0}, and {COLOR 4}{STRVAR_1 3, 2, 0}{COLOR 0} are checking the {COLOR 1}{STRVAR_6 0, 3, 0}{COLOR 0}...",
+      "fr_FR": "{COLOR 1}{STRVAR_6 0, 3, 0}{COLOR 0} semble intéresser {COLOR 2}{STRVAR_1 3, 0, 0}{COLOR 0}, {COLOR 3}{STRVAR_1 3, 1, 0}{COLOR 0} et {COLOR 4}{STRVAR_1 3, 2, 0}{COLOR 0}..."
     },
     {
       "id": "pl_msg_00000653_00012",
-      "en_US": "{COLOR 2}{STRVAR_1 3, 0, 0}{COLOR 0} and {COLOR 3}{STRVAR_1 3, 1, 0}{COLOR 0} are checking the {COLOR 1}{STRVAR_6 0, 2, 0}{COLOR 0}..."
+      "en_US": "{COLOR 2}{STRVAR_1 3, 0, 0}{COLOR 0} and {COLOR 3}{STRVAR_1 3, 1, 0}{COLOR 0} are checking the {COLOR 1}{STRVAR_6 0, 2, 0}{COLOR 0}...",
+      "fr_FR": "{COLOR 1}{STRVAR_6 0, 2, 0}{COLOR 0} semble intéresser {COLOR 2}{STRVAR_1 3, 0, 0}{COLOR 0} et {COLOR 3}{STRVAR_1 3, 1, 0}{COLOR 0}..."
     },
     {
       "id": "pl_msg_00000653_00013",
-      "en_US": "{COLOR 2}{STRVAR_1 3, 0, 0}{COLOR 0} is checking the {COLOR 1}{STRVAR_6 0, 1, 0}{COLOR 0}..."
+      "en_US": "{COLOR 2}{STRVAR_1 3, 0, 0}{COLOR 0} is checking the {COLOR 1}{STRVAR_6 0, 1, 0}{COLOR 0}...",
+      "fr_FR": "{COLOR 1}{STRVAR_6 0, 1, 0}{COLOR 0} semble intéresser {COLOR 2}{STRVAR_1 3, 0, 0}{COLOR 0}..."
     },
     {
       "id": "pl_msg_00000653_00014",
-      "en_US": "{COLOR 2}{STRVAR_1 3, 0, 0}{COLOR 0} is checking the {COLOR 1}{STRVAR_6 0, 1, 0}{COLOR 0}..."
+      "en_US": "{COLOR 2}{STRVAR_1 3, 0, 0}{COLOR 0} is checking the {COLOR 1}{STRVAR_6 0, 1, 0}{COLOR 0}...",
+      "fr_FR": "{COLOR 1}{STRVAR_6 0, 1, 0}{COLOR 0} semble intéresser {COLOR 2}{STRVAR_1 3, 0, 0}{COLOR 0}..."
     },
     {
       "id": "pl_msg_00000653_00015",
-      "en_US": "It’s almost time for the Wi-Fi Plaza {COLOR 1}{STRVAR_6 1, 0, 0}{COLOR 0}..."
+      "en_US": "It’s almost time for the Wi-Fi Plaza {COLOR 1}{STRVAR_6 1, 0, 0}{COLOR 0}...",
+      "fr_FR": "Notre {COLOR 1}{STRVAR_6 1, 0, 0}{COLOR 0} va bientôt commencer..."
     },
     {
       "id": "pl_msg_00000653_00016",
-      "en_US": "It’s almost time for the Wi-Fi Plaza {COLOR 1}{STRVAR_6 1, 0, 0}{COLOR 0}..."
+      "en_US": "It’s almost time for the Wi-Fi Plaza {COLOR 1}{STRVAR_6 1, 0, 0}{COLOR 0}...",
+      "fr_FR": "Notre {COLOR 1}{STRVAR_6 1, 0, 0}{COLOR 0} va bientôt commencer..."
     },
     {
       "id": "pl_msg_00000653_00017",
-      "en_US": "The Wi-Fi Plaza will be closing soon. We look forward to your next visit."
+      "en_US": "The Wi-Fi Plaza will be closing soon. We look forward to your next visit.",
+      "fr_FR": "Le Square Wi-Fi va bientôt fermer ses portes. Nous vous remercions de votre visite. A bientôt!"
     },
     {
       "id": "pl_msg_00000653_00018",
-      "en_US": "{COLOR 1}{STRVAR_6 0, 0, 0}{COLOR 0}: {COLOR 2}{STRVAR_1 3, 1, 0}{COLOR 0}, {COLOR 3}{STRVAR_1 3, 2, 0}{COLOR 0}, and {COLOR 4}{STRVAR_1 3, 3, 0}{COLOR 0} are in play..."
+      "en_US": "{COLOR 1}{STRVAR_6 0, 0, 0}{COLOR 0}: {COLOR 2}{STRVAR_1 3, 1, 0}{COLOR 0}, {COLOR 3}{STRVAR_1 3, 2, 0}{COLOR 0}, and {COLOR 4}{STRVAR_1 3, 3, 0}{COLOR 0} are in play...",
+      "fr_FR": "{COLOR 1}{STRVAR_6 0, 0, 0}{COLOR 0}: {COLOR 2}{STRVAR_1 3, 1, 0}{COLOR 0}, {COLOR 3}{STRVAR_1 3, 2, 0}{COLOR 0} et {COLOR 4}{STRVAR_1 3, 3, 0}{COLOR 0} sont en train de jouer..."
     },
     {
       "id": "pl_msg_00000653_00019",
-      "en_US": "{COLOR 1}{STRVAR_6 0, 0, 0}{COLOR 0}: {COLOR 2}{STRVAR_1 3, 1, 0}{COLOR 0} and {COLOR 3}{STRVAR_1 3, 2, 0}{COLOR 0} are in play..."
+      "en_US": "{COLOR 1}{STRVAR_6 0, 0, 0}{COLOR 0}: {COLOR 2}{STRVAR_1 3, 1, 0}{COLOR 0} and {COLOR 3}{STRVAR_1 3, 2, 0}{COLOR 0} are in play...",
+      "fr_FR": "{COLOR 1}{STRVAR_6 0, 0, 0}{COLOR 0}: {COLOR 2}{STRVAR_1 3, 1, 0}{COLOR 0} et {COLOR 3}{STRVAR_1 3, 2, 0}{COLOR 0} sont en train de jouer..."
     },
     {
       "id": "pl_msg_00000653_00020",
-      "en_US": "It’s almost time for the Wi-Fi Plaza {COLOR 1}{STRVAR_6 1, 0, 0}{COLOR 0}..."
+      "en_US": "It’s almost time for the Wi-Fi Plaza {COLOR 1}{STRVAR_6 1, 0, 0}{COLOR 0}...",
+      "fr_FR": "Notre {COLOR 1}{STRVAR_6 1, 0, 0}{COLOR 0} va bientôt commencer..."
     },
     {
       "id": "pl_msg_00000653_00021",
-      "en_US": "{COLOR 1}A very special visitor{COLOR 0} has apparently visited..."
+      "en_US": "{COLOR 1}A very special visitor{COLOR 0} has apparently visited...",
+      "fr_FR": "Il semble qu’un {COLOR 1}visiteur de marque{COLOR 0} nous fasse l’honneur de sa visite..."
     },
     {
       "id": "pl_msg_00000653_00022",
-      "en_US": "{COLOR 1}{STRVAR_6 0, 0, 0}{COLOR 0}: {COLOR 2}{STRVAR_1 3, 1, 0}{COLOR 0} has won..."
+      "en_US": "{COLOR 1}{STRVAR_6 0, 0, 0}{COLOR 0}: {COLOR 2}{STRVAR_1 3, 1, 0}{COLOR 0} has won...",
+      "fr_FR": "{COLOR 1}{STRVAR_6 0, 0, 0}{COLOR 0}: {COLOR 2}{STRVAR_1 3, 1, 0}{COLOR 0} a remporté la partie..."
     },
     {
       "id": "pl_msg_00000653_00023",
-      "en_US": "{COLOR 1}{STRVAR_6 0, 0, 0}{COLOR 0}: {COLOR 2}{STRVAR_1 3, 1, 0}{COLOR 0}, {COLOR 3}{STRVAR_1 3, 2, 0}{COLOR 0}, {COLOR 4}{STRVAR_1 3, 3, 0}{COLOR 0}, and {COLOR 5}{STRVAR_1 3, 4, 0}{COLOR 0} have popped ten or more balloons..."
+      "en_US": "{COLOR 1}{STRVAR_6 0, 0, 0}{COLOR 0}: {COLOR 2}{STRVAR_1 3, 1, 0}{COLOR 0}, {COLOR 3}{STRVAR_1 3, 2, 0}{COLOR 0}, {COLOR 4}{STRVAR_1 3, 3, 0}{COLOR 0}, and {COLOR 5}{STRVAR_1 3, 4, 0}{COLOR 0} have popped ten or more balloons...",
+      "fr_FR": "{COLOR 1}{STRVAR_6 0, 0, 0}{COLOR 0}: {COLOR 2}{STRVAR_1 3, 1, 0}{COLOR 0}, {COLOR 3}{STRVAR_1 3, 2, 0}{COLOR 0}, {COLOR 4}{STRVAR_1 3, 3, 0}{COLOR 0} et {COLOR 5}{STRVAR_1 3, 4, 0}{COLOR 0} ont réussi à faire éclater au moins dix ballons..."
     },
     {
       "id": "pl_msg_00000653_00024",
-      "en_US": "{COLOR 1}{STRVAR_6 0, 0, 0}{COLOR 0}: {COLOR 2}{STRVAR_1 3, 1, 0}{COLOR 0} and {COLOR 3}{STRVAR_1 3, 2, 0}{COLOR 0} have won..."
+      "en_US": "{COLOR 1}{STRVAR_6 0, 0, 0}{COLOR 0}: {COLOR 2}{STRVAR_1 3, 1, 0}{COLOR 0} and {COLOR 3}{STRVAR_1 3, 2, 0}{COLOR 0} have won...",
+      "fr_FR": "{COLOR 1}{STRVAR_6 0, 0, 0}{COLOR 0}: {COLOR 2}{STRVAR_1 3, 1, 0}{COLOR 0} et {COLOR 3}{STRVAR_1 3, 2, 0}{COLOR 0} remportent la partie..."
     },
     {
       "id": "pl_msg_00000653_00025",
-      "en_US": "{COLOR 1}{STRVAR_6 0, 0, 0}{COLOR 0}: {COLOR 2}{STRVAR_1 3, 1, 0}{COLOR 0}, {COLOR 3}{STRVAR_1 3, 2, 0}{COLOR 0}, and {COLOR 4}{STRVAR_1 3, 3, 0}{COLOR 0} have won..."
+      "en_US": "{COLOR 1}{STRVAR_6 0, 0, 0}{COLOR 0}: {COLOR 2}{STRVAR_1 3, 1, 0}{COLOR 0}, {COLOR 3}{STRVAR_1 3, 2, 0}{COLOR 0}, and {COLOR 4}{STRVAR_1 3, 3, 0}{COLOR 0} have won...",
+      "fr_FR": "{COLOR 1}{STRVAR_6 0, 0, 0}{COLOR 0}: {COLOR 2}{STRVAR_1 3, 1, 0}{COLOR 0}, {COLOR 3}{STRVAR_1 3, 2, 0}{COLOR 0} et {COLOR 4}{STRVAR_1 3, 3, 0}{COLOR 0} remportent la partie..."
     },
     {
       "id": "pl_msg_00000653_00026",
-      "en_US": "{COLOR 1}{STRVAR_6 0, 0, 0}{COLOR 0}: {COLOR 2}{STRVAR_1 3, 1, 0}{COLOR 0}, {COLOR 3}{STRVAR_1 3, 2, 0}{COLOR 0}, {COLOR 4}{STRVAR_1 3, 3, 0}{COLOR 0}, and {COLOR 5}{STRVAR_1 3, 4, 0}{COLOR 0} have won..."
+      "en_US": "{COLOR 1}{STRVAR_6 0, 0, 0}{COLOR 0}: {COLOR 2}{STRVAR_1 3, 1, 0}{COLOR 0}, {COLOR 3}{STRVAR_1 3, 2, 0}{COLOR 0}, {COLOR 4}{STRVAR_1 3, 3, 0}{COLOR 0}, and {COLOR 5}{STRVAR_1 3, 4, 0}{COLOR 0} have won...",
+      "fr_FR": "{COLOR 1}{STRVAR_6 0, 0, 0}{COLOR 0}: {COLOR 2}{STRVAR_1 3, 1, 0}{COLOR 0}, {COLOR 3}{STRVAR_1 3, 2, 0}{COLOR 0}, {COLOR 4}{STRVAR_1 3, 3, 0}{COLOR 0} et {COLOR 5}{STRVAR_1 3, 4, 0}{COLOR 0} ont tous gagné..."
     },
     {
       "id": "pl_msg_00000653_00027",
-      "en_US": "{COLOR 1}{STRVAR_6 0, 0, 0}{COLOR 0}: {COLOR 2}{STRVAR_1 3, 1, 0}{COLOR 0} and {COLOR 3}{STRVAR_1 3, 2, 0}{COLOR 0} have popped ten or more balloons..."
+      "en_US": "{COLOR 1}{STRVAR_6 0, 0, 0}{COLOR 0}: {COLOR 2}{STRVAR_1 3, 1, 0}{COLOR 0} and {COLOR 3}{STRVAR_1 3, 2, 0}{COLOR 0} have popped ten or more balloons...",
+      "fr_FR": "{COLOR 1}{STRVAR_6 0, 0, 0}{COLOR 0}: {COLOR 2}{STRVAR_1 3, 1, 0}{COLOR 0} et {COLOR 3}{STRVAR_1 3, 2, 0}{COLOR 0} ont réussi à faire éclater au moins dix ballons..."
     },
     {
       "id": "pl_msg_00000653_00028",
-      "en_US": "{COLOR 1}{STRVAR_6 0, 0, 0}{COLOR 0}: {COLOR 2}{STRVAR_1 3, 1, 0}{COLOR 0}, {COLOR 3}{STRVAR_1 3, 2, 0}{COLOR 0}, and {COLOR 4}{STRVAR_1 3, 3, 0}{COLOR 0} have popped ten or more balloons..."
+      "en_US": "{COLOR 1}{STRVAR_6 0, 0, 0}{COLOR 0}: {COLOR 2}{STRVAR_1 3, 1, 0}{COLOR 0}, {COLOR 3}{STRVAR_1 3, 2, 0}{COLOR 0}, and {COLOR 4}{STRVAR_1 3, 3, 0}{COLOR 0} have popped ten or more balloons...",
+      "fr_FR": "{COLOR 1}{STRVAR_6 0, 0, 0}{COLOR 0}: {COLOR 2}{STRVAR_1 3, 1, 0}{COLOR 0}, {COLOR 3}{STRVAR_1 3, 2, 0}{COLOR 0} et {COLOR 4}{STRVAR_1 3, 3, 0}{COLOR 0} ont réussi à faire éclater au moins dix ballons..."
     }
   ]
 }

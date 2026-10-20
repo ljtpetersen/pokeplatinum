@@ -7,6 +7,12 @@
         "Do you make your Pokémon hold items?\r",
         "If you’d like, let one hold this\n",
         "{STRVAR_1 8, 0, 0}.\r"
+      ],
+      "fr_FR": [
+        "Est-ce que tu fais tenir des objets à\n",
+        "tes Pokémon?\r",
+        "Si tu veux, laisses-en un tenir\n",
+        "{STRVAR_1 8, 0, 0}.\r"
       ]
     },
     {
@@ -16,11 +22,18 @@
         "power of Rock-type moves.\r",
         "Unfortunately, none of my Pokémon\n",
         "can use Rock-type moves, so..."
+      ],
+      "fr_FR": [
+        "L’objet {STRVAR_1 8, 0, 0} intensifie la\n",
+        "puissance des attaques Roche.\r",
+        "Malheureusement, aucun de mes Pokémon\n",
+        "n’utilise de capacités Roche, alors..."
       ]
     },
     {
       "id": "OreburghCityNorthwestHouse3F_Text_PsyduckDuuuck",
-      "en_US": "PSYDUCK: Duuuck?"
+      "en_US": "PSYDUCK: Duuuck?",
+      "fr_FR": "PSYKOKWAK: Psy kwah?"
     }
   ]
 }

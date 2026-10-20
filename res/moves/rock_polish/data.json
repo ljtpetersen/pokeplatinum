@@ -23,5 +23,13 @@
     "contest": {
         "effect": "CONTEST_EFFECT_FIRST_NEXT_TURN",
         "type": "CONTEST_TYPE_TOUGH"
-    }
+    },
+    "name_fr": "Poliroche",
+    "description_fr": [
+        "Le lanceur polit son\n",
+        "corps pour diminuer sa\n",
+        "résistance au vent.\n",
+        "Peut augmenter\n",
+        "fortement la Vitesse."
+    ]
 }

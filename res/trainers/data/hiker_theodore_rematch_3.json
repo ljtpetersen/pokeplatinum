@@ -42,11 +42,17 @@
             "en_US": [
                 "Whoa! You startled me!\n",
                 "We may as well have a rematch!\r"
+            ],
+            "fr_FR": [
+                "Ouh, là! Tu m’as fait peur!\n",
+                "Autant faire un combat revanche!\r"
             ]
         },
         {
             "type": "TRMSG_DEFEAT",
-            "en_US": "Your power startles me!\n"
+            "en_US": "Your power startles me!\n",
+            "fr_FR": "Ta puissance me fait trembler!\n"
         }
-    ]
+    ],
+    "name_fr": "Timéo"
 }

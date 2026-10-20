@@ -6,6 +6,11 @@
       "en_US": [
         "The TV has an oddly malevolent feel...\n",
         "It’s as if it is staring..."
+      ],
+      "fr_FR": [
+        "Il se dégage de la télé une sensation\n",
+        "maléfique...\f",
+        "On dirait qu’elle nous regarde..."
       ]
     },
     {
@@ -15,15 +20,23 @@
         "There appears to be a Pokémon?...\r",
         "The Pokémon appears as if it will come\n",
         "out. Want to thump the TV?"
+      ],
+      "fr_FR": [
+        "Dans la télé...\n",
+        "On dirait un Pokémon...\r",
+        "Le Pokémon semble vouloir sortir.\n",
+        "Voulez-vous secouer la télé?"
       ]
     },
     {
       "id": "OldChateauBackMiddleWestRoom_Text_PlayerThumpedTheTVSet",
-      "en_US": "{STRVAR_1 3, 0, 0} thumped the TV set!\r"
+      "en_US": "{STRVAR_1 3, 0, 0} thumped the TV set!\r",
+      "fr_FR": "{STRVAR_1 3, 0, 0} secoue la télé!\r"
     },
     {
       "id": "OldChateauBackMiddleWestRoom_Text_RotomDisappearedIntoTV",
-      "en_US": "ROTOM disappeared into the TV set..."
+      "en_US": "ROTOM disappeared into the TV set...",
+      "fr_FR": "MOTISMA disparaît dans la télé..."
     }
   ]
 }

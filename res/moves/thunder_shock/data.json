@@ -25,5 +25,12 @@
     "contest": {
         "effect": "CONTEST_EFFECT_BASIC",
         "type": "CONTEST_TYPE_COOL"
-    }
+    },
+    "name_fr": "Eclair",
+    "description_fr": [
+        "Une décharge\n",
+        "électrique tombe sur\n",
+        "l’ennemi. Peut aussi le\n",
+        "paralyser."
+    ]
 }

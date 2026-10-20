@@ -57,6 +57,10 @@
             "en_US": [
                 "In my dictionary, there is no entry\n",
                 "for “restraint.”"
+            ],
+            "fr_FR": [
+                "“Doucement” ne fait pas partie\n",
+                "de mon vocabulaire."
             ]
         },
         {
@@ -64,6 +68,10 @@
             "en_US": [
                 "The greatest show of respect among\n",
                 "Trainers is to battle all out.\r"
+            ],
+            "fr_FR": [
+                "Donner tout ce qu’on a au combat\n",
+                "prouve que l’on respecte l’adversaire.\r"
             ]
         },
         {
@@ -71,7 +79,12 @@
             "en_US": [
                 "I went all out and still lost.\n",
                 "Of course it stings.\r"
+            ],
+            "fr_FR": [
+                "J’ai tout donné et j’ai perdu.\n",
+                "Ça fait mal...\r"
             ]
         }
-    ]
+    ],
+    "name_fr": "Natalia"
 }

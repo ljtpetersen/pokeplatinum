@@ -59,6 +59,10 @@
             "en_US": [
                 "You’re my opponent? Oh, all right...\n",
                 "Try not to disappoint me too badly."
+            ],
+            "fr_FR": [
+                "C’est toi mon adversaire? Très bien...\n",
+                "Essaie de ne pas trop me décevoir..."
             ]
         },
         {
@@ -66,6 +70,10 @@
             "en_US": [
                 "My Pokémon are all tops in luxury.\n",
                 "Do you see? This is what power is about.\r"
+            ],
+            "fr_FR": [
+                "Les Pokémon aussi aiment le luxe, tu\n",
+                "sais. C’est un sentiment universel.\r"
             ]
         },
         {
@@ -73,7 +81,12 @@
             "en_US": [
                 "Nyah! I don’t care! I’ve got enough \n",
                 "money to fill a swimming pool!\r"
+            ],
+            "fr_FR": [
+                "Pff! Tu crois que ça m’impressionne?\n",
+                "J’ai assez d’argent pour nager dedans!\r"
             ]
         }
-    ]
+    ],
+    "name_fr": "Hicham"
 }

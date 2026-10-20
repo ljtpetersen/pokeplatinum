@@ -57,6 +57,10 @@
             "en_US": [
                 "I’m burnt out on being an Idol.\n",
                 "I want to go home to the country..."
+            ],
+            "fr_FR": [
+                "J’en ai marre d’être une Star. Je veux\n",
+                "retourner vivre dans ma campagne."
             ]
         },
         {
@@ -64,11 +68,17 @@
             "en_US": [
                 "I can’t quit now!\n",
                 "Kids dream of being me!\r"
+            ],
+            "fr_FR": [
+                "Je ne peux pas tout plaquer comme ça!\n",
+                "Les enfants rêvent d’être comme moi!\r"
             ]
         },
         {
             "type": "TRMSG_DEFEAT",
-            "en_US": "I miss hearing my mother’s voice...\r"
+            "en_US": "I miss hearing my mother’s voice...\r",
+            "fr_FR": "La cuisine de ma mère me manque...\r"
         }
-    ]
+    ],
+    "name_fr": "Tricia"
 }

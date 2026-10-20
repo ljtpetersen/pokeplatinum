@@ -77,6 +77,10 @@
             "en_US": [
                 "I live in the woods.\n",
                 "You know, I’m a Camper."
+            ],
+            "fr_FR": [
+                "Je vis au milieu de la forêt.\n",
+                "Je suis un joyeux Campeur."
             ]
         },
         {
@@ -84,6 +88,10 @@
             "en_US": [
                 "I’m working on making camp life more\n",
                 "comfortable.\r"
+            ],
+            "fr_FR": [
+                "Je fais tout ce que je peux pour rendre\n",
+                "le camping plus confortable.\r"
             ]
         },
         {
@@ -91,7 +99,12 @@
             "en_US": [
                 "I am sick and tired of camping out in the\n",
                 "woods...\r"
+            ],
+            "fr_FR": [
+                "En fait, j’en ai vraiment marre de vivre\n",
+                "dans les bois...\r"
             ]
         }
-    ]
+    ],
+    "name_fr": "Filip"
 }

@@ -9,6 +9,13 @@
         "the whole world about you!\r",
         "It’s merely one of many possibilities!\n",
         "Harrumph!"
+      ],
+      "fr_FR": [
+        "Tes exploits sont incroyables!\r",
+        "Grâce à notre chaîne de télé, on peut\n",
+        "parler de toi au monde entier!\r",
+        "Ce n’est que l’une de nos nombreuses\n",
+        "possibilités!"
       ]
     },
     {
@@ -16,6 +23,10 @@
       "en_US": [
         "“Participation for all” is our TV\n",
         "network’s motto."
+      ],
+      "fr_FR": [
+        "“Tout le monde participe” est le slogan\n",
+        "de notre réseau télé."
       ]
     },
     {
@@ -26,6 +37,13 @@
         "In keeping with that theme, we added\n",
         "variety programs to our scheduling.\r",
         "Please do tune in!"
+      ],
+      "fr_FR": [
+        "Dans le cadre de notre campagne “Un\n",
+        "sourire, ça fait plaisir!”, nous avons\r",
+        "ajouté de nouvelles émissions de\n",
+        "variétés à nos programmes.\r",
+        "Merci de votre fidélité!"
       ]
     }
   ]

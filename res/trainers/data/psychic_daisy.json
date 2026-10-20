@@ -33,6 +33,10 @@
             "en_US": [
                 "Right after this, you will send out your\n",
                 "Pokémon to do battle!\r"
+            ],
+            "fr_FR": [
+                "Après notre conversation, nous allons\n",
+                "combattre!\r"
             ]
         },
         {
@@ -40,6 +44,10 @@
             "en_US": [
                 "After this, I will reluctantly hand over\n",
                 "the prize money to you...\n"
+            ],
+            "fr_FR": [
+                "Après notre conversation, je te\n",
+                "remettrai ta récompense à contrecœur!\n"
             ]
         },
         {
@@ -48,6 +56,11 @@
                 "What will you do after this?\r",
                 "Why don’t you decide for yourself?\n",
                 "It would be much more fun that way!\n"
+            ],
+            "fr_FR": [
+                "Ce que tu vas faire après?\r",
+                "Pourquoi ne pas décider par toi-même?\n",
+                "Ce serait bien plus amusant!\n"
             ]
         },
         {
@@ -55,7 +68,12 @@
             "en_US": [
                 "Right after this, you will hurl a Poké\n",
                 "Ball in an astonishingly cool way!\r"
+            ],
+            "fr_FR": [
+                "Juste après, tu vas lancer une Poké\n",
+                "Ball de manière super cool!\r"
             ]
         }
-    ]
+    ],
+    "name_fr": "Manon"
 }

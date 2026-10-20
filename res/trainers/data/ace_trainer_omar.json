@@ -58,11 +58,19 @@
             "en_US": [
                 "You... One look at you tells me\n",
                 "you’re a real contender!\r"
+            ],
+            "fr_FR": [
+                "Toi... Au premier coup d’œil, on voit\n",
+                "que tu es un adversaire de taille!\r"
             ]
         },
         {
             "type": "TRMSG_DEFEAT",
-            "en_US": "You’re as tough as you look."
+            "en_US": "You’re as tough as you look.",
+            "fr_FR": [
+                "Tu es aussi coriace que tu en as l’air.\n",
+                "Pas de surprise."
+            ]
         },
         {
             "type": "TRMSG_POST_BATTLE",
@@ -70,7 +78,13 @@
                 "One day, people will run to the other\n",
                 "side of the road when I walk by ’em.\r",
                 "It’s a goal of mine I’m working on."
+            ],
+            "fr_FR": [
+                "Un jour, les gens changeront de\n",
+                "trottoir en me croisant.\r",
+                "C’est un de mes objectifs dans la vie."
             ]
         }
-    ]
+    ],
+    "name_fr": "Gilbert"
 }

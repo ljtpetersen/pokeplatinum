@@ -8,6 +8,12 @@
         "more than just exquisite dining.\r",
         "You may also partake in battles.\n",
         "Bon appetit!"
+      ],
+      "fr_FR": [
+        "Notre restaurant ne se contente pas\n",
+        "de servir des plats succulents.\r",
+        "Il propose également d’excellents\n",
+        "combats. Bon appétit!"
       ]
     },
     {
@@ -16,6 +22,11 @@
         "I am so sorry.\n",
         "We are now closed.\f",
         "Please do visit while we are open.\r"
+      ],
+      "fr_FR": [
+        "Toutes mes excuses, nous sommes \n",
+        "fermés. Revenez pendant\f",
+        "les heures d’ouverture.\r"
       ]
     },
     {
@@ -25,6 +36,12 @@
         "for a battle...\r",
         "However, you seem to be short\n",
         "a Pokémon for that."
+      ],
+      "fr_FR": [
+        "Avant de porter un toast, j’aurais\n",
+        "souhaité combattre...\r",
+        "Toutefois, il te manque un\n",
+        "Pokémon pour pouvoir nous affronter."
       ]
     },
     {
@@ -32,6 +49,10 @@
       "en_US": [
         "If you want to have a battle with us,\n",
         "you’ll need to bring more Pokémon."
+      ],
+      "fr_FR": [
+        "Si tu veux te battre avec nous,\n",
+        "il te faudra plus de Pokémon."
       ]
     },
     {
@@ -40,6 +61,10 @@
         "With someone as beautiful as you for\n",
         "my model, I am sure to paint\f",
         "a masterpiece!\r"
+      ],
+      "fr_FR": [
+        "Avec un modèle aussi ravissant, je suis\n",
+        "certain de peindre un chef-d’œuvre!\r"
       ]
     },
     {
@@ -47,6 +72,10 @@
       "en_US": [
         "What is it?\n",
         "Do you wish for a battle?\r"
+      ],
+      "fr_FR": [
+        "Qu’y a-t-il?\n",
+        "Tu veux combattre, c’est ça?\r"
       ]
     },
     {
@@ -59,6 +88,11 @@
         "Though we lost our battle...\n",
         "A toast to your beauty, that no\f",
         "painting could ever hope to capture!"
+      ],
+      "fr_FR": [
+        "Bien que nous ayons perdu ce combat...\n",
+        "Je porte un toast à ta beauté, car un\f",
+        "tableau ne saurait lui rendre justice!"
       ]
     },
     {
@@ -68,6 +102,12 @@
         "here if I agreed to model for him.\r",
         "So, I came along, but I haven’t\n",
         "made up my mind yet.\r"
+      ],
+      "fr_FR": [
+        "Il a dit qu’il m’inviterait au restaurant\n",
+        "si j’acceptais de poser pour lui.\r",
+        "J’ai accepté de venir ici, mais j’hésite\n",
+        "encore à poser...\r"
       ]
     },
     {
@@ -75,6 +115,10 @@
       "en_US": [
         "When I can’t decide, I battle\n",
         "to make the decision!"
+      ],
+      "fr_FR": [
+        "Et quand j’hésite, je prends mes\n",
+        "décisions sur le champ de bataille!"
       ]
     },
     {
@@ -86,6 +130,10 @@
       "en_US": [
         "I’ve decided to model for him.\n",
         "That’s given me an appetite!"
+      ],
+      "fr_FR": [
+        "J’ai décidé de poser pour lui.\n",
+        "Ce combat m’a ouvert l’appétit!"
       ]
     },
     {
@@ -95,6 +143,12 @@
         "sake of my art...\r",
         "That said, my oh my, these meals\n",
         "look awfully pricey...\r"
+      ],
+      "fr_FR": [
+        "L’art est une pratique exigeante,\n",
+        "mais je suis prêt à en payer le prix...\r",
+        "Ceci dit, nom d’un pinceau, ces plats\n",
+        "ne sont vraiment pas donnés...\r"
       ]
     },
     {
@@ -104,6 +158,12 @@
         "Are you feeling hungry, too?\r",
         "Oh, I see, that’s not it!\n",
         "You wanted a battle!"
+      ],
+      "fr_FR": [
+        "Qu’y a-t-il?\n",
+        "Toi aussi, tu as faim?\r",
+        "Oh, je vois, où avais-je la tête?\n",
+        "Tu veux te battre, c’est ça?"
       ]
     },
     {
@@ -112,7 +172,8 @@
     },
     {
       "id": "Restaurant_Text_IsmaelDefeated1",
-      "en_US": "My hors d’oeuvres have gone cold..."
+      "en_US": "My hors d’oeuvres have gone cold...",
+      "fr_FR": "Mes hors-d’œuvre ont refroidi..."
     },
     {
       "id": "Restaurant_Text_HarleyIntro1",
@@ -121,6 +182,12 @@
         "delicious hors d’oeuvres.\r",
         "I don’t want to be all bloated by\n",
         "the time the main dish comes.\r"
+      ],
+      "fr_FR": [
+        "Je dois mettre la pédale douce sur\n",
+        "ces délicieux hors-d’œuvre.\r",
+        "Je ne veux pas être ballonnée au\n",
+        "moment du plat de résistance.\r"
       ]
     },
     {
@@ -129,6 +196,11 @@
         "I’d like a light battle to work up\n",
         "my appetite.\r",
         "Would you care to join us?"
+      ],
+      "fr_FR": [
+        "Je ferais bien un petit combat pour\n",
+        "m’ouvrir l’appétit.\r",
+        "Veux-tu te joindre à nous?"
       ]
     },
     {
@@ -142,6 +214,11 @@
         "cold...\r",
         "These are supposed to be served\n",
         "chilled!"
+      ],
+      "fr_FR": [
+        "Les hors-d’œuvre n’ont pas\n",
+        "refroidi...\r",
+        "Ils sont servis glacés!"
       ]
     },
     {
@@ -153,6 +230,14 @@
         "placement, is vital.\r",
         "In other words, a fine meal can be\n",
         "likened to the finest work of art...\r"
+      ],
+      "fr_FR": [
+        "La valeur d’un plat ne tient pas \n",
+        "seulement à son goût.\r",
+        "La présentation, soit la couleur et\n",
+        "l’arrangement, est également cruciale.\r",
+        "En d’autres termes, un plat réussi peut\n",
+        "être l’équivalent d’une œuvre d’art...\r"
       ]
     },
     {
@@ -161,6 +246,11 @@
         "And in Pokémon battles, I also hope\n",
         "to see beauty.\r",
         "You do agree with me, yes?"
+      ],
+      "fr_FR": [
+        "Je traque la beauté dans les combats\n",
+        "de Pokémon aussi.\r",
+        "Et toi?"
       ]
     },
     {
@@ -174,6 +264,12 @@
         "merely tasty, they are also healthy.\r",
         "Diners need not worry about ruining\n",
         "their figures eating here."
+      ],
+      "fr_FR": [
+        "Les plats servis ici ne sont pas\n",
+        "seulement bons, ils sont aussi sains.\r",
+        "Les clients n’ont pas à craindre pour\n",
+        "leur ligne dans ce restaurant."
       ]
     },
     {
@@ -183,6 +279,12 @@
         "delicious!\r",
         "If I can keep eating this food,\n",
         "I’ll model anytime I can!\r"
+      ],
+      "fr_FR": [
+        "Le plat du jour est absolument\n",
+        "exquis!\r",
+        "Je suis prête à devenir modèle à plein\n",
+        "temps pour manger ici tous les jours!\r"
       ]
     },
     {
@@ -191,6 +293,11 @@
         "I feel guilty just eating all this\n",
         "delicious food like this.\r",
         "I’ll join in the battle, too!"
+      ],
+      "fr_FR": [
+        "Je me sens coupable de déguster\n",
+        "cette délicieuse cuisine.\r",
+        "Je vais me joindre au combat!"
       ]
     },
     {
@@ -204,6 +311,12 @@
         "often rather plump.\r",
         "That means I can keep eating without\n",
         "obsessing over my figure!"
+      ],
+      "fr_FR": [
+        "Les modèles des grands peintres sont\n",
+        "souvent potelés.\r",
+        "Cela signifie que je peux continuer à\n",
+        "manger sans craindre pour mon travail!"
       ]
     },
     {
@@ -211,6 +324,10 @@
       "en_US": [
         "If you want to challenge us, bring\n",
         "some more Pokémon."
+      ],
+      "fr_FR": [
+        "Apporte plus de Pokémon si tu\n",
+        "veux nous défier."
       ]
     },
     {
@@ -218,6 +335,10 @@
       "en_US": [
         "If you want to battle us, you have\n",
         "to have at least two Pokémon!"
+      ],
+      "fr_FR": [
+        "Si tu veux te battre contre nous,\n",
+        "il te faudra au moins deux Pokémon!"
       ]
     },
     {
@@ -225,6 +346,10 @@
       "en_US": [
         "Actually, my father happens to be\n",
         "the chef here.\r"
+      ],
+      "fr_FR": [
+        "A vrai dire, il se trouve que mon\n",
+        "père est le chef de ce restaurant.\r"
       ]
     },
     {
@@ -232,6 +357,10 @@
       "en_US": [
         "What is it? A battle?\n",
         "Bahaha... You think you can beat me?"
+      ],
+      "fr_FR": [
+        "Qu’est-ce que c’est? Un combat?\n",
+        "Bwahaha... Tu crois pouvoir me battre?"
       ]
     },
     {
@@ -243,6 +372,10 @@
       "en_US": [
         "We’ve lost, but let’s make a toast\n",
         "to our future together anyway!"
+      ],
+      "fr_FR": [
+        "Notre défaite ne nous empêchera pas de\n",
+        "porter un toast à notre avenir!"
       ]
     },
     {
@@ -251,6 +384,11 @@
         "Oh, my!\n",
         "Your father is the chef here?\r",
         "How wonderful!\r"
+      ],
+      "fr_FR": [
+        "Nom d’une soupière!\n",
+        "Ton père est le chef de ce restaurant?\r",
+        "C’est merveilleux!\r"
       ]
     },
     {
@@ -260,6 +398,12 @@
         "the hotel and restaurant...\r",
         "Oh, but that’s beside the point.\n",
         "Would you care for a battle?"
+      ],
+      "fr_FR": [
+        "Je ne lui ai rien dit, mais mon père\n",
+        "possède l’hôtel et le restaurant...\r",
+        "Enfin, ce n’est pas important.\n",
+        "Que dirais-tu d’un combat?"
       ]
     },
     {
@@ -271,6 +415,10 @@
       "en_US": [
         "Let’s make a toast to the prosperity\n",
         "of the restaurant!"
+      ],
+      "fr_FR": [
+        "Portons un toast à la réussite\n",
+        "de cet établissement!"
       ]
     },
     {
@@ -278,6 +426,10 @@
       "en_US": [
         "I have to hand it to my father--\n",
         "these hors d’oeuvres are delicious!\r"
+      ],
+      "fr_FR": [
+        "Je dois bien le reconnaître: les\n",
+        "hors-d’œuvre de papa sont délicieux!\r"
       ]
     },
     {
@@ -287,6 +439,12 @@
         "a battle?\r",
         "Well, certainly!\n",
         "I never back down from a challenge!"
+      ],
+      "fr_FR": [
+        "Serais-tu en train de me proposer\n",
+        "un combat?\r",
+        "Mais certainement!\n",
+        "Je ne recule jamais devant un défi!"
       ]
     },
     {
@@ -298,6 +456,10 @@
       "en_US": [
         "Finally. Now we can go about enjoying\n",
         "our meal without disruption."
+      ],
+      "fr_FR": [
+        "Nous pouvons enfin savourer notre plat\n",
+        "sans crainte d’être interrompus."
       ]
     },
     {
@@ -305,6 +467,10 @@
       "en_US": [
         "Yes! This meal is good enough to\n",
         "serve at the hotel.\r"
+      ],
+      "fr_FR": [
+        "Oui! Ce repas est bien assez bon\n",
+        "pour être servi à l’hôtel.\r"
       ]
     },
     {
@@ -314,6 +480,12 @@
         "father owns the restaurant.\r",
         "I’ll have a battle with you if you\n",
         "keep your mouth shut."
+      ],
+      "fr_FR": [
+        "Ne dis pas à mon cavalier que mon père\n",
+        "est le propriétaire de ce restaurant.\r",
+        "J’accepte de te combattre si tu gardes\n",
+        "mon secret."
       ]
     },
     {
@@ -325,6 +497,10 @@
       "en_US": [
         "My date did his best, but you were\n",
         "better than the both of us."
+      ],
+      "fr_FR": [
+        "Mon petit ami a fait de son mieux,\n",
+        "mais nous n’avions pas le niveau."
       ]
     },
     {
@@ -334,6 +510,12 @@
         "my dad’s cooking.\r",
         "She has a dreamy expression after\n",
         "every bite!\r"
+      ],
+      "fr_FR": [
+        "Fufufu, ma petite amie adore\n",
+        "la cuisine de mon père.\r",
+        "A chaque bouchée, elle prend un air\n",
+        "rêveur!\r"
       ]
     },
     {
@@ -342,6 +524,12 @@
         "I’m feeling great!\n",
         "Sure, I’ll have a battle with you.\r",
         "That’s why you approached us, right?"
+      ],
+      "fr_FR": [
+        "Je me sens si bien! Bien sûr, je\n",
+        "veux bien me battre avec toi.\r",
+        "C’est la raison pour laquelle tu\n",
+        "as engagé la conversation, non?"
       ]
     },
     {
@@ -355,6 +543,12 @@
         "snuff...\r",
         "It’s not like my father’s scrumptious\n",
         "cooking..."
+      ],
+      "fr_FR": [
+        "Mes tactiques de Dresseur ne sont\n",
+        "vraiment pas à la hauteur...\r",
+        "Contrairement à la cuisine\n",
+        "exquise de mon père..."
       ]
     },
     {
@@ -364,6 +558,12 @@
         "It reminds me of a world trip I took.\r",
         "My father and I traveled everywhere\n",
         "dining at only the best restaurants.\r"
+      ],
+      "fr_FR": [
+        "Ce délicieux fumet! Il me rappelle l’un\n",
+        "de mes voyages autour du monde.\r",
+        "Mon père et moi avons traversé le globe\n",
+        "pour visiter les meilleurs restaurants.\r"
       ]
     },
     {
@@ -372,6 +572,12 @@
         "Eating this fabulous meal has really\n",
         "lifted my spirits.\r",
         "Join us for a battle?"
+      ],
+      "fr_FR": [
+        "Quel plat fabuleux!\n",
+        "Je suis d’excellente humeur.\r",
+        "Veux-tu te joindre à nous \n",
+        "pour un combat?"
       ]
     },
     {
@@ -385,6 +591,12 @@
         "magical quality to it.\r",
         "It seems to perk people up with\n",
         "energy."
+      ],
+      "fr_FR": [
+        "La cuisine de ton père a quelque\n",
+        "chose de magique.\r",
+        "En tout cas, elle donne un bon\n",
+        "coup de fouet à ses clients."
       ]
     },
     {
@@ -393,6 +605,11 @@
         "If your intention is to test your\n",
         "skill on us, I daresay you ought to\f",
         "bring at least another Pokémon."
+      ],
+      "fr_FR": [
+        "Si tu as l’intention de te mesurer à \n",
+        "nous, force est de constater qu’il\f",
+        "te faudra au moins un autre Pokémon."
       ]
     },
     {
@@ -402,6 +619,12 @@
         "with us? How nice of you.\r",
         "Unfortunately, you simply cannot\n",
         "battle us both with just one Pokémon."
+      ],
+      "fr_FR": [
+        "Oh, tu nous proposes un combat?\n",
+        "C’est vraiment gentil de ta part.\r",
+        "Seulement, tu ne peux pas affronter\n",
+        "deux adversaires avec un seul Pokémon."
       ]
     },
     {
@@ -409,6 +632,10 @@
       "en_US": [
         "Let me propose a toast to many\n",
         "more happy years together.\r"
+      ],
+      "fr_FR": [
+        "Je propose un toast aux longues années\n",
+        "de bonheur qui nous attendent.\r"
       ]
     },
     {
@@ -420,6 +647,14 @@
         "dining experiences.\r",
         "You seem to enjoy battling with\n",
         "Pokémon. Am I right?"
+      ],
+      "fr_FR": [
+        "Depuis que j’ai pris ma retraite, \n",
+        "je voyage avec ma femme.\r",
+        "Nous aimons parcourir le monde en quête\n",
+        "de nouvelles expériences culinaires.\r",
+        "Toi, tu as l’air d’apprécier les combats\n",
+        "de Pokémon. Pas vrai?"
       ]
     },
     {
@@ -431,6 +666,10 @@
       "en_US": [
         "Well, so much for that. Let’s try to\n",
         "enjoy the rest of our meal."
+      ],
+      "fr_FR": [
+        "Ainsi soit-il. En attendant, essayons\n",
+        "d’apprécier le reste du repas."
       ]
     },
     {
@@ -438,6 +677,10 @@
       "en_US": [
         "To our health, welfare, and to fine\n",
         "dining! Cheers!\r"
+      ],
+      "fr_FR": [
+        "A notre santé, à notre bien-être et à \n",
+        "la grande cuisine! A la vôtre!\r"
       ]
     },
     {
@@ -447,6 +690,12 @@
         "the appetite, I find.\r",
         "But that’s neither here nor there.\n",
         "You wanted a battle, surely?"
+      ],
+      "fr_FR": [
+        "Je trouve que ça ouvre l’appétit de\n",
+        "porter un toast avant le repas.\r",
+        "Enfin, je divague.\n",
+        "Tu voulais combattre, c’est bien ça?"
       ]
     },
     {
@@ -460,6 +709,11 @@
         "exhilarating Pokémon battles...\r",
         "There is so much contentment in my\n",
         "life!"
+      ],
+      "fr_FR": [
+        "Des repas de gourmet au restaurant,\n",
+        "des combats de Pokémon palpitants...\r",
+        "J’ai vraiment la belle vie!"
       ]
     },
     {
@@ -470,6 +724,13 @@
         "It appears as if it were only grazed\n",
         "with fire, but in reality, much\f",
         "care has gone into its preparation!\r"
+      ],
+      "fr_FR": [
+        "Hum!\n",
+        "On ne voit pas ça tous les jours!\r",
+        "Ce plat semble à peine cuit, pourtant,\n",
+        "il a fait l’objet d’une attention\f",
+        "toute particulière!\r"
       ]
     },
     {
@@ -480,6 +741,13 @@
         "a glance if a dish is delicious or not.\r",
         "You would battle against such\n",
         "a discerning gourmet?"
+      ],
+      "fr_FR": [
+        "Quand on est un fin gourmet dans mon\n",
+        "genre, on peut dire au premier coup\f",
+        "d’œil si un plat est délicieux ou non.\r",
+        "Accepterais-tu de combattre une\n",
+        "fine bouche comme moi?"
       ]
     },
     {
@@ -492,6 +760,11 @@
         "Well, so much for that.\r",
         "We’ll keep a stiff upper lip and look\n",
         "forward to enjoying the main course."
+      ],
+      "fr_FR": [
+        "Ainsi soit-il.\r",
+        "Nous resterons dignes dans l’adversité\n",
+        "en attendant le plat de résistance."
       ]
     },
     {
@@ -501,6 +774,12 @@
         "divine!\r",
         "They tell me that I can expect the\n",
         "main course to be fantastic!\r"
+      ],
+      "fr_FR": [
+        "Ces hors-d’œuvre sont tout simplement\n",
+        "divins!\r",
+        "J’imagine que je peux m’attendre à un\n",
+        "plat de résistance exceptionnel!\r"
       ]
     },
     {
@@ -509,6 +788,12 @@
         "I thought the main course arrived\n",
         "already...\r",
         "You’re a Trainer seeking battle?"
+      ],
+      "fr_FR": [
+        "J’ai vraiment hâte qu’on me serve la\n",
+        "suite...\r",
+        "En attendant, souhaiterais-tu\n",
+        "combattre contre nous?"
       ]
     },
     {
@@ -520,6 +805,10 @@
       "en_US": [
         "The hors d’oeuvres were most\n",
         "excellent!"
+      ],
+      "fr_FR": [
+        "Les hors-d’œuvre étaient tout\n",
+        "bonnement excellents!"
       ]
     },
     {
@@ -529,6 +818,12 @@
         "The chef flambeed this to perfection!\r",
         "The rich aromas and flavors fill my\n",
         "mouth with joy!\r"
+      ],
+      "fr_FR": [
+        "Miam! Le chef a flambé ce plat\n",
+        "à la perfection!\r",
+        "Mes papilles se régalent de ces arômes\n",
+        "et de ces saveurs divines!\r"
       ]
     },
     {
@@ -538,6 +833,12 @@
         "in the middle of our meal?\r",
         "I would say you’re a very dedicated\n",
         "Trainer, especially for one so young!"
+      ],
+      "fr_FR": [
+        "Tu nous lances un défi au beau\n",
+        "milieu du repas?\r",
+        "Pour un Dresseur aussi jeune,\n",
+        "tu ne manques pas d’audace!"
       ]
     },
     {
@@ -549,6 +850,10 @@
       "en_US": [
         "Ah... I’m very satisfied with our\n",
         "meal and our battle."
+      ],
+      "fr_FR": [
+        "Ah... Le repas, comme le combat, était\n",
+        "un enchantement."
       ]
     },
     {
@@ -558,6 +863,12 @@
         "This sauce!\r",
         "It’s a spicy sauce in Hoenn style\n",
         "made from grated Cheri Berries!\r"
+      ],
+      "fr_FR": [
+        "...!\n",
+        "Cette sauce!\r",
+        "C’est une sauce épicée façon Hoenn\n",
+        "avec une base de Baies Ceriz!\r"
       ]
     },
     {
@@ -566,6 +877,11 @@
         "Would you like to sample a bite?\r",
         "...\n",
         "Oh, right. Pokémon?"
+      ],
+      "fr_FR": [
+        "Tu veux goûter mon plat, c’est ça?\r",
+        "...\n",
+        "Oh, je comprends. Pokémon?"
       ]
     },
     {
@@ -578,6 +894,11 @@
         "Battling is fine, of course.\r",
         "But for me, I would rather be out\n",
         "enjoying good meals."
+      ],
+      "fr_FR": [
+        "Bien sûr, j’adore me battre.\r",
+        "Cependant, je préfère encore\n",
+        "faire de bons repas."
       ]
     },
     {
@@ -585,6 +906,10 @@
       "en_US": [
         "If you want to battle us, you\n",
         "have to have two Pokémon."
+      ],
+      "fr_FR": [
+        "Si tu comptes te battre contre nous,\n",
+        "il te faudra deux Pokémon."
       ]
     },
     {
@@ -592,6 +917,10 @@
       "en_US": [
         "Don’t you have two Pokémon?\n",
         "We’ll have to battle another time!"
+      ],
+      "fr_FR": [
+        "Tu n’as pas deux Pokémon?\n",
+        "Nous devrons combattre une autre fois!"
       ]
     },
     {
@@ -600,6 +929,11 @@
         "Alison, um, I, er...\n",
         "Thank you for coming today...\r",
         "Should we make a toast?\r"
+      ],
+      "fr_FR": [
+        "Ophélie, hum, je, euh...\n",
+        "Merci d’être venue aujourd’hui...\r",
+        "Veux-tu que nous portions un toast?\r"
       ]
     },
     {
@@ -609,6 +943,12 @@
         "shop I go to all the time.\r",
         "We’re incredibly happy together.\n",
         "Would you like to battle us?"
+      ],
+      "fr_FR": [
+        "C’est la vendeuse du magasin\n",
+        "Pokémon où j’ai mes habitudes.\r",
+        "Nous nageons dans le bonheur.\n",
+        "Veux-tu te battre contre nous?"
       ]
     },
     {
@@ -620,6 +960,10 @@
       "en_US": [
         "Oh, no, I’m sorry we lost.\n",
         "Alison, you’re not upset?"
+      ],
+      "fr_FR": [
+        "Oh, non, désolé, nous avons perdu.\n",
+        "Ophélie, tu n’es pas fâchée?"
       ]
     },
     {
@@ -628,6 +972,11 @@
         "Fufu... Eugene, you act so different\n",
         "from the way you do at the shop.\r",
         "You’re surprisingly shy.\r"
+      ],
+      "fr_FR": [
+        "Hihi... Josef, tu ne te comportes\n",
+        "pas de la même façon au magasin.\r",
+        "Tu es si timide aujourd’hui.\r"
       ]
     },
     {
@@ -639,6 +988,15 @@
         "all day long.\r",
         "It naturally made me pretty decent\n",
         "at battling. Want to try me?"
+      ],
+      "fr_FR": [
+        "C’est mon amour des Pokémon qui\n",
+        "me pousse à travailler au magasin.\r",
+        "Grâce à ce travail, je peux passer\n",
+        "toute la journée avec eux.\r",
+        "Naturellement, j’ai pu y développer\n",
+        "mes talents au combat.\r",
+        "Tu veux te mesurer à moi?"
       ]
     },
     {
@@ -652,6 +1010,12 @@
         "or losing.\r",
         "I keep my Pokémon with me because\n",
         "I love them!"
+      ],
+      "fr_FR": [
+        "La victoire, la défaite, ça ne\n",
+        "m’intéresse pas vraiment.\r",
+        "Si je garde mes Pokémon avec moi, c’est\n",
+        "avant tout parce que je les aime!"
       ]
     },
     {
@@ -661,11 +1025,18 @@
         "on a date with you, Alison...\r",
         "They’re probably going to hate me\n",
         "for it...\r"
+      ],
+      "fr_FR": [
+        "Ophélie, si mes copains Pokémon \n",
+        "apprennent qu’on sort ensemble...\r",
+        "Ils vont probablement être fous\n",
+        "de jalousie...\r"
       ]
     },
     {
       "id": "Restaurant_Text_EugeneAskBattle1",
-      "en_US": "Are you Alison’s fan, too?"
+      "en_US": "Are you Alison’s fan, too?",
+      "fr_FR": "Toi aussi, tu es fan d’Ophélie?"
     },
     {
       "id": "Restaurant_Text_Dummy92",
@@ -677,6 +1048,11 @@
         "Alison, seeing your smiling face...\r",
         "I can’t tell if these appetizers\n",
         "are delicious or not!"
+      ],
+      "fr_FR": [
+        "Ophélie, quand tu souris comme ça...\r",
+        "Je n’arrive même plus à savoir si ces\n",
+        "amuse-gueules sont bons ou non!"
       ]
     },
     {
@@ -685,6 +1061,11 @@
         "Sorry? What? Date?\r",
         "Um... Eugene...\n",
         "You are a valued customer and all...\r"
+      ],
+      "fr_FR": [
+        "Pardon? Quoi? Sortir ensemble?\r",
+        "Hum... Josef... Je t’apprécie\n",
+        "en tant que client, mais...\r"
       ]
     },
     {
@@ -695,6 +1076,13 @@
         "So I accepted his invitation.\r",
         "I’ll let my Pokémon decide for my fickle\n",
         "heart. Let’s battle?"
+      ],
+      "fr_FR": [
+        "Malgré ce que j’ai dit, j’admets que\n",
+        "l’invitation était flatteuse.\r",
+        "C’est pourquoi j’ai accepté.\r",
+        "Je laisserai les Pokémon guider mon\n",
+        "cœur hésitant. On combat?"
       ]
     },
     {
@@ -707,6 +1095,11 @@
         "You know, it is true what they say.\n",
         "There is no evil among Pokémon fans!\r",
         "That goes for you and Eugene!"
+      ],
+      "fr_FR": [
+        "Tu sais, ce qu’on dit est vrai. Il y a du\n",
+        "bon dans tous les fans de Pokémon!\r",
+        "Il en va de même pour toi, Josef!"
       ]
     },
     {
@@ -715,6 +1108,11 @@
         "Looks like our main course is here.\n",
         "Please, enjoy yourself.\r",
         "I’ve got the bill covered today!\r"
+      ],
+      "fr_FR": [
+        "On dirait que notre plat de résistance\n",
+        "est là. Je t’en prie, sers-toi.\r",
+        "C’est moi qui régale, aujourd’hui!\r"
       ]
     },
     {
@@ -722,6 +1120,10 @@
       "en_US": [
         "I’ll defeat you and collect the\n",
         "prize money!"
+      ],
+      "fr_FR": [
+        "Je te vaincrai et j’empocherai la\n",
+        "prime!"
       ]
     },
     {
@@ -735,6 +1137,12 @@
         "prize money...\r",
         "Oh, no, it’s OK! No need to worry!\n",
         "I still have my secret stash of cash!"
+      ],
+      "fr_FR": [
+        "Mon portefeuille est vide après avoir\n",
+        "payé la prime...\r",
+        "Oh, non, ça ira! Ne t’inquiète pas!\n",
+        "Il me reste mon bas de laine!"
       ]
     },
     {
@@ -742,6 +1150,10 @@
       "en_US": [
         "Eugene, I think you’re a little\n",
         "awkward, but you’re very earnest.\r"
+      ],
+      "fr_FR": [
+        "Josef, tu es peut-être un peu\n",
+        "maladroit, mais tu es très responsable.\r"
       ]
     },
     {
@@ -751,6 +1163,12 @@
         "be an interesting combination.\r",
         "I think we could battle in an intriguing\n",
         "manner. Do you?"
+      ],
+      "fr_FR": [
+        "On pourrait former un duo intéressant\n",
+        "si je m’alliais à mon voisin de table.\r",
+        "Notre style de combat serait\n",
+        "certainement intriguant. Pas vrai?"
       ]
     },
     {
@@ -763,6 +1181,11 @@
         "The meal was delicious, and our battle\n",
         "was so much fun.\r",
         "I really insist that we split the bill."
+      ],
+      "fr_FR": [
+        "Le repas était délicieux et notre\n",
+        "combat très amusant.\r",
+        "J’insiste pour partager l’addition."
       ]
     },
     {
@@ -770,6 +1193,10 @@
       "en_US": [
         "If you have two Pokémon, I’ll take\n",
         "you on with my mom."
+      ],
+      "fr_FR": [
+        "Si tu amènes deux Pokémon, je te\n",
+        "combattrai avec ma maman."
       ]
     },
     {
@@ -779,6 +1206,11 @@
         "my son, my pride and joy.\r",
         "But you must bring more Pokémon\n",
         "than that."
+      ],
+      "fr_FR": [
+        "Je veux combattre aux côtés de mon\n",
+        "fils. Il est ma joie et ma fierté.\r",
+        "Mais tu dois apporter d’autres Pokémon."
       ]
     },
     {
@@ -786,6 +1218,10 @@
       "en_US": [
         "What should I have today?\n",
         "Juice, ice cream, cake, and, and...\r"
+      ],
+      "fr_FR": [
+        "Aujourd’hui, je vais commander... Un \n",
+        "jus, une glace, un gâteau, et aussi...\r"
       ]
     },
     {
@@ -794,6 +1230,11 @@
         "Oh, hi, Trainer!\r",
         "Want to battle Pokémon with us\n",
         "before we have a yummy meal?"
+      ],
+      "fr_FR": [
+        "Oh, salut Dresseur!\r",
+        "Tu veux faire un combat de Pokémon\n",
+        "avec nous avant ce délicieux repas?"
       ]
     },
     {
@@ -807,6 +1248,12 @@
         "a toast before eating.\r",
         "What’s that for?\n",
         "And I don’t see any bread?"
+      ],
+      "fr_FR": [
+        "Je ne pige pas. Les adultes portent\n",
+        "toujours un toast avant de manger.\r",
+        "Mais à quoi ça sert? Et puis quel toast,\n",
+        "d’abord, je ne vois pas de tartine?!"
       ]
     },
     {
@@ -816,6 +1263,12 @@
         "for doing so well on your test.\r",
         "You may order anything you like.\n",
         "It’s your reward, dearest!\r"
+      ],
+      "fr_FR": [
+        "Mon biquet, maman est si fière de toi,\n",
+        "tu as vraiment survolé cette interro.\r",
+        "Tu peux commander tout ce que tu veux.\n",
+        "C’est ta récompense, mon chéri!\r"
       ]
     },
     {
@@ -826,6 +1279,13 @@
         "a Pokémon prodigy!\r",
         "Would you like to challenge us and\n",
         "see?"
+      ],
+      "fr_FR": [
+        "Tu sais quoi? Mon fils n’est pas\n",
+        "seulement premier de la classe, c’est\f",
+        "également un prodige des Pokémon!\r",
+        "Veux-tu te mesurer à nous pour en\n",
+        "avoir la preuve?"
       ]
     },
     {
@@ -838,6 +1298,11 @@
         "I wish to propose a toast.\r",
         "May my darling Esteban get another\n",
         "100% on a test!"
+      ],
+      "fr_FR": [
+        "Je propose de porter un toast.\r",
+        "A mon Hercule chéri qui aura encore\n",
+        "20/20 à sa prochaine interro!"
       ]
     },
     {
@@ -846,6 +1311,11 @@
         "Wow, they bring out things one dish\n",
         "at a time!\r",
         "It’s not like how it is at home!\r"
+      ],
+      "fr_FR": [
+        "Waouh, ils apportent tous les plats\n",
+        "un par un!\r",
+        "C’est pas pareil qu’à la maison!\r"
       ]
     },
     {
@@ -853,6 +1323,10 @@
       "en_US": [
         "I do my homework while eating.\n",
         "I can battle anytime!"
+      ],
+      "fr_FR": [
+        "Je fais mes devoirs en mangeant.\n",
+        "Je peux combattre n’importe quand!"
       ]
     },
     {
@@ -864,6 +1338,10 @@
       "en_US": [
         "We’re going to eat this delicious\n",
         "stuff now. Bye-bye!"
+      ],
+      "fr_FR": [
+        "On va manger ces plats délicieux,\n",
+        "maintenant. Bye-bye!"
       ]
     },
     {
@@ -871,6 +1349,11 @@
       "en_US": [
         "This restaurant is the talk of the\n",
         "town for the delicious food.\r"
+      ],
+      "fr_FR": [
+        "Tout le monde parle de ce restaurant\n",
+        "en ville. Il faut dire que la nourriture\f",
+        "y est excellente.\r"
       ]
     },
     {
@@ -880,6 +1363,12 @@
         "You want a battle now?\r",
         "Well, that’s all right.\n",
         "It’s not as if I dislike it."
+      ],
+      "fr_FR": [
+        "Je te demande pardon?\n",
+        "Me combattre, maintenant?\r",
+        "Eh bien, pas de problème.\n",
+        "Il faut dire que j’adore ça..."
       ]
     },
     {
@@ -891,6 +1380,10 @@
       "en_US": [
         "Thank you for letting my dear son\n",
         "experience an invaluable lesson."
+      ],
+      "fr_FR": [
+        "Merci d’avoir donné une leçon \n",
+        "inestimable à mon fils."
       ]
     },
     {
@@ -900,6 +1393,12 @@
         "eat like this?\r",
         "I mean without taking their kids\n",
         "along.\r"
+      ],
+      "fr_FR": [
+        "Est-ce que les parents sortent comme\n",
+        "ça, parfois?\r",
+        "Je veux dire, sans emmener leurs\n",
+        "enfants...\r"
       ]
     },
     {
@@ -908,6 +1407,11 @@
         "But that’s OK.\r",
         "It’s way more fun for me to battle\n",
         "than go eat fancy dinners!"
+      ],
+      "fr_FR": [
+        "Oh, mais pas de souci.\r",
+        "C’est plus amusant de combattre\n",
+        "que de manger dans des endroits chic!"
       ]
     },
     {
@@ -916,7 +1420,11 @@
     },
     {
       "id": "Restaurant_Text_EstebanDefeated2",
-      "en_US": "Mom, you gotta make me this at home!"
+      "en_US": "Mom, you gotta make me this at home!",
+      "fr_FR": [
+        "Maman, je veux que tu me cuisines ce\n",
+        "plat à la maison!"
+      ]
     },
     {
       "id": "Restaurant_Text_MeredithIntro2",
@@ -924,6 +1432,11 @@
         "This is a special occasion, Esteban.\r",
         "This is to celebrate your great\n",
         "grades!\r"
+      ],
+      "fr_FR": [
+        "C’est une grande occasion, Hercule.\r",
+        "Nous sommes ici pour fêter tes bonnes\n",
+        "notes!\r"
       ]
     },
     {
@@ -931,6 +1444,10 @@
       "en_US": [
         "Oh? A battle, you say?\n",
         "Well, certainly. Why not?"
+      ],
+      "fr_FR": [
+        "Oh? Un combat?\n",
+        "Oui, bien sûr. Pourquoi pas!"
       ]
     },
     {
@@ -939,13 +1456,18 @@
     },
     {
       "id": "Restaurant_Text_MeredithDefeated2",
-      "en_US": "Is the dessert coming soon?"
+      "en_US": "Is the dessert coming soon?",
+      "fr_FR": "Le dessert arrive bientôt?"
     },
     {
       "id": "Restaurant_Text_EmanuelNeedMultiplePokemon",
       "en_US": [
         "My daughter and I always battle\n",
         "together, none of that one-on-one."
+      ],
+      "fr_FR": [
+        "Ma fille et moi combattons toujours\n",
+        "ensemble, jamais en solitaire."
       ]
     },
     {
@@ -953,6 +1475,10 @@
       "en_US": [
         "I can go against you with Papa.\n",
         "Please bring more Pokémon."
+      ],
+      "fr_FR": [
+        "Je peux t’affronter avec mon papa.\n",
+        "Apporte plus de Pokémon, s’il te plaît."
       ]
     },
     {
@@ -960,6 +1486,10 @@
       "en_US": [
         "Here’s a toast for Mom.\n",
         "May she always be healthy!\r"
+      ],
+      "fr_FR": [
+        "Je porte un toast à ton futur petit\n",
+        "frère ou à ta future petite sœur!\r"
       ]
     },
     {
@@ -971,6 +1501,14 @@
         "my daughter.\r",
         "How would you like a battle with\n",
         "us before we eat?"
+      ],
+      "fr_FR": [
+        "Ma femme est à l’hôpital, elle est\n",
+        "enceinte.\r",
+        "J’ai emmené ma fille ici car je ne\n",
+        "sais pas cuisiner.\r",
+        "Que dirais-tu de nous\n",
+        "affronter avant le repas?"
       ]
     },
     {
@@ -982,6 +1520,10 @@
       "en_US": [
         "The house will be a lot noisier when\n",
         "the baby comes home with Mommy."
+      ],
+      "fr_FR": [
+        "La maison sera moins tranquille quand\n",
+        "maman rentrera avec le bébé."
       ]
     },
     {
@@ -989,6 +1531,10 @@
       "en_US": [
         "I wonder what Mommy will bring home?\n",
         "A baby boy? A baby girl?\r"
+      ],
+      "fr_FR": [
+        "Je me demande ce que maman va ramener?\n",
+        "Une petite rose ou un petit chou?\r"
       ]
     },
     {
@@ -998,6 +1544,12 @@
         "will be a sister.\r",
         "I’m going to be the older sister,\n",
         "so I should get better at Pokémon!"
+      ],
+      "fr_FR": [
+        "Si c’est un garçon, ce sera un frère,\n",
+        "si c’est une fille, une sœur.\r",
+        "Je serai la grande sœur, je dois\n",
+        "m’améliorer en Pokémon!"
       ]
     },
     {
@@ -1009,6 +1561,10 @@
       "en_US": [
         "Little babies cry like Pokémon!\n",
         "Piyaaaah!"
+      ],
+      "fr_FR": [
+        "Les petits bébés, ça pleure comme des\n",
+        "Pokémon! Bouiiiiiiiin!"
       ]
     },
     {
@@ -1016,6 +1572,10 @@
       "en_US": [
         "Wow... Look at these appetizers.\n",
         "This is just so extravagant.\r"
+      ],
+      "fr_FR": [
+        "Waouh... Regarde ces amuse-gueules.\n",
+        "C’est vraiment extravagant.\r"
       ]
     },
     {
@@ -1024,6 +1584,11 @@
         "I’m no cook, I’ll admit that freely.\r",
         "But battling Pokémon... There’s\n",
         "something I’m comfortable with."
+      ],
+      "fr_FR": [
+        "Je suis nul en cuisine, ça je l’admets.\r",
+        "Mais les combats de Pokémon... Voilà un\n",
+        "domaine que je maîtrise."
       ]
     },
     {
@@ -1035,6 +1600,10 @@
       "en_US": [
         "Let’s get over the sting of this loss\n",
         "by enjoying this delicious meal!"
+      ],
+      "fr_FR": [
+        "Surmontons l’amertume de la défaite\n",
+        "en savourant ce délicieux repas!"
       ]
     },
     {
@@ -1042,6 +1611,10 @@
       "en_US": [
         "Wow!\n",
         "This food looks really fancy!\r"
+      ],
+      "fr_FR": [
+        "Waouh!\n",
+        "Ces plats semblent succulents!\r"
       ]
     },
     {
@@ -1051,6 +1624,12 @@
         "go out and eat good food like this!\r",
         "Did you come to this restaurant to\n",
         "battle Pokémon?"
+      ],
+      "fr_FR": [
+        "Papa est un mauvais cuisinier, du coup,\n",
+        "on mange souvent dehors!\r",
+        "Tu viens dans ce restaurant pour\n",
+        "faire des combats de Pokémon?"
       ]
     },
     {
@@ -1062,17 +1641,26 @@
       "en_US": [
         "I’ve never eaten anything like this\n",
         "before."
+      ],
+      "fr_FR": [
+        "Je n’ai jamais rien mangé de tel\n",
+        "auparavant."
       ]
     },
     {
       "id": "Restaurant_Text_EmanuelIntro2",
-      "en_US": "Here’s the main dish!\r"
+      "en_US": "Here’s the main dish!\r",
+      "fr_FR": "Voilà le plat de résistance!\r"
     },
     {
       "id": "Restaurant_Text_EmanuelAskBattle2",
       "en_US": [
         "What is it?\n",
         "Did you want to battle with us?"
+      ],
+      "fr_FR": [
+        "Que se passe-t-il?\n",
+        "Tu voulais te battre contre nous?"
       ]
     },
     {
@@ -1084,6 +1672,10 @@
       "en_US": [
         "Jocelyn, I hope the new baby will be\n",
         "as kindhearted as you."
+      ],
+      "fr_FR": [
+        "Camille, j’espère que le bébé\n",
+        "sera aussi gentil que toi."
       ]
     },
     {
@@ -1091,6 +1683,10 @@
       "en_US": [
         "I wish Mommy were here to eat with\n",
         "us...\r"
+      ],
+      "fr_FR": [
+        "J’aimerais que maman soit là\n",
+        "pour manger avec nous...\r"
       ]
     },
     {
@@ -1098,6 +1694,10 @@
       "en_US": [
         "Mommy gave me my Pokémon.\n",
         "Want to see how tough they are?"
+      ],
+      "fr_FR": [
+        "Maman m’a donné mes Pokémon.\n",
+        "Tu veux voir comme ils sont costauds?"
       ]
     },
     {
@@ -1109,6 +1709,10 @@
       "en_US": [
         "Next time, let’s come with everyone.\n",
         "The baby, too!"
+      ],
+      "fr_FR": [
+        "La prochaine fois, on viendra tous \n",
+        "ensemble. Même le bébé!"
       ]
     },
     {
@@ -1120,6 +1724,14 @@
         "You wanted to battle!\r",
         "You’ll be battling the two of us.\n",
         "You need at least two Pokémon."
+      ],
+      "fr_FR": [
+        "Ouais? Qu’y a-t-il?\n",
+        "Toi aussi, tu veux passer à la télé?\r",
+        "Oh, d’accord, pardon!\n",
+        "Tu veux te battre!\r",
+        "Tu te battras contre nous deux.\n",
+        "Apporte au moins deux Pokémon."
       ]
     },
     {
@@ -1129,6 +1741,12 @@
         "have to wait till we finish filming.\r",
         "Oh, and if you want to battle,\n",
         "bring two Pokémon, OK?"
+      ],
+      "fr_FR": [
+        "Si tu veux un autographe, il faudra \n",
+        "attendre qu’on ait fini de filmer.\r",
+        "Oh, et si tu veux te battre, apporte\n",
+        "au moins deux Pokémon, entendu?"
       ]
     },
     {
@@ -1136,6 +1754,10 @@
       "en_US": [
         "Let’s start with a shot of the\n",
         "drinks as a camera test.\r"
+      ],
+      "fr_FR": [
+        "Commençons par un plan sur les boissons\n",
+        "pour régler la caméra.\r"
       ]
     },
     {
@@ -1143,6 +1765,10 @@
       "en_US": [
         "Hunh? You’re inviting us to battle at\n",
         "a time like this?"
+      ],
+      "fr_FR": [
+        "Hein? Tu nous proposes de combattre\n",
+        "à un moment pareil?"
       ]
     },
     {
@@ -1154,6 +1780,10 @@
       "en_US": [
         "Oh, man...\n",
         "Our drinks are lukewarm now."
+      ],
+      "fr_FR": [
+        "Oh, mince... Nos boissons sont toutes\n",
+        "tièdes, maintenant."
       ]
     },
     {
@@ -1162,6 +1792,11 @@
         "Today’s featured drink is freshly\n",
         "squeezed juice made from ripened\f",
         "Pecha Berries picked this morning!\r"
+      ],
+      "fr_FR": [
+        "La boisson du jour est un jus de Baies\n",
+        "Pêcha pressées très rafraîchissant.\f",
+        "Elles ont été cueillies ce matin!\r"
       ]
     },
     {
@@ -1171,6 +1806,12 @@
         "Pokémon?\r",
         "OK, a quick one before we do any\n",
         "filming for the show."
+      ],
+      "fr_FR": [
+        "Pardon?\n",
+        "Des Pokémon?\r",
+        "D’accord, mais juste un petit combat\n",
+        "avant qu’on reprenne le tournage."
       ]
     },
     {
@@ -1184,6 +1825,11 @@
         "one more time?\r",
         "Today’s featured drink is freshly\n",
         "squeezed..."
+      ],
+      "fr_FR": [
+        "Tu penses qu’on devrait répéter\n",
+        "encore une fois?\r",
+        "La boisson du jour est un jus..."
       ]
     },
     {
@@ -1193,6 +1839,12 @@
         "delicious.\r",
         "Will someone bring me a mist spray\n",
         "so they look even fresher?\r"
+      ],
+      "fr_FR": [
+        "Hé, ces amuse-gueules ont vraiment\n",
+        "l’air délicieux.\r",
+        "Qu’on m’apporte un brumisateur, il faut\n",
+        "qu’ils aient l’air encore plus frais!\r"
       ]
     },
     {
@@ -1203,6 +1855,13 @@
         "Oh, you want a battle?\r",
         "Whatever, then.\n",
         "I’m up for your challenge!"
+      ],
+      "fr_FR": [
+        "Merci, tu as fait vite!\r",
+        "Attends, où est le brumisateur?\n",
+        "Oh, tu veux te battre?\r",
+        "Oh, et puis zut...\n",
+        "Je relève ton défi!"
       ]
     },
     {
@@ -1214,6 +1873,10 @@
       "en_US": [
         "Photographing food isn’t easy.\n",
         "It’s actually very technical."
+      ],
+      "fr_FR": [
+        "C’est pas facile de filmer de la\n",
+        "nourriture. C’est très technique."
       ]
     },
     {
@@ -1221,6 +1884,10 @@
       "en_US": [
         "These look fabulous, too.\n",
         "We need the camera to zoom in more!\r"
+      ],
+      "fr_FR": [
+        "Les amuse-gueules ont l’air fameux.\n",
+        "Plus gros, le zoom, plus gros!\r"
       ]
     },
     {
@@ -1233,6 +1900,15 @@
         "fine-dining experience...\r",
         "I like that!\n",
         "It adds drama to our story!"
+      ],
+      "fr_FR": [
+        "S’il te plaît, ne me parle pas\n",
+        "pendant le tournage!\r",
+        "Quoique... Une minute!\r",
+        "Un Dresseur fait irruption durant\n",
+        "un repas trop tranquille...\r",
+        "C’est bon ça, coco!\n",
+        "Ça apporte une touche dramatique!"
       ]
     },
     {
@@ -1245,6 +1921,11 @@
         "Darling Darryl, are you ready?\r",
         "When I take a bite, I want\n",
         "a close-up of my lips, all right?"
+      ],
+      "fr_FR": [
+        "Ruben chéri, tu es prêt?\r",
+        "Je veux un gros plan sur mes lèvres\n",
+        "quand je croque, d’accord?"
       ]
     },
     {
@@ -1254,6 +1935,12 @@
         "So this is the main dish? Yowza!\r",
         "Let’s get this filming done quick\n",
         "so I can chow down, too!\r"
+      ],
+      "fr_FR": [
+        "Waouh... Alors c’est ça le plat de \n",
+        "résistance? Oh là là!\r",
+        "On se dépêche de filmer, moi aussi\n",
+        "j’ai envie d’y goûter!\r"
       ]
     },
     {
@@ -1261,6 +1948,10 @@
       "en_US": [
         "You’ve been sniffing around a lot...\n",
         "Are you messing with our filming?"
+      ],
+      "fr_FR": [
+        "Tu rôdes toujours dans le coin... Tu\n",
+        "cherches à saboter notre film, ou quoi?"
       ]
     },
     {
@@ -1272,6 +1963,10 @@
       "en_US": [
         "Oh, no... Everything’s gone cold while\n",
         "we were battling..."
+      ],
+      "fr_FR": [
+        "Oh, non... Le temps que nous finissions\n",
+        "le combat, tout a refroidi..."
       ]
     },
     {
@@ -1284,6 +1979,15 @@
         "A hint of an aftertaste, yet crisp...\f",
         "Neither too sweet nor too bitter...\f",
         "My words can’t do this justice!\r"
+      ],
+      "fr_FR": [
+        "Miam!\r",
+        "Mmm... C’est...\n",
+        "A la fois léger et d’une richesse...\f",
+        "Ça fond dans la bouche...\f",
+        "Croustillant, un petit arrière-goût...\f",
+        "Ni trop amer, ni trop sucré...\f",
+        "Les mots me manquent!\r"
       ]
     },
     {
@@ -1293,6 +1997,12 @@
         "food while you’re eating.\r",
         "But I can battle anytime during\n",
         "filming!"
+      ],
+      "fr_FR": [
+        "Ce n’est pas facile de décrire\n",
+        "la nourriture en mangeant.\r",
+        "Par contre, je n’ai aucun problème pour\n",
+        "combattre en plein tournage! On y va?"
       ]
     },
     {
@@ -1305,6 +2015,12 @@
         "Do you know what the most important\n",
         "thing is for gourmet reporting?\r",
         "It’s a...thesaurus-like vocabulary!"
+      ],
+      "fr_FR": [
+        "Tu sais ce que c’est le plus important\n",
+        "quand on est critique gastronomique?\r",
+        "C’est... de posséder un vocabulaire\n",
+        "encyclopédique!"
       ]
     },
     {
@@ -1316,6 +2032,14 @@
         "need two or more Pokémon.\r",
         "Now if you were to bring more\n",
         "Pokémon, I could consider a battle..."
+      ],
+      "fr_FR": [
+        "Je ne le dirai qu’une fois, alors\n",
+        "écoute bien. Je vais parler lentement.\r",
+        "Pour combattre deux Dresseurs, il te \n",
+        "faut deux Pokémon ou plus.\r",
+        "Si tu apportes d’autres Pokémon,\n",
+        "j’envisagerai de te combattre..."
       ]
     },
     {
@@ -1323,6 +2047,10 @@
       "en_US": [
         "Oh, you’ll have to bring more Pokémon\n",
         "than that to battle us!"
+      ],
+      "fr_FR": [
+        "Oh, il te faudra apporter plus de\n",
+        "Pokémon si tu veux nous combattre!"
       ]
     },
     {
@@ -1330,6 +2058,10 @@
       "en_US": [
         "And another brilliant day on the\n",
         "markets! A toast to my Lady Luck!\r"
+      ],
+      "fr_FR": [
+        "J’ai encore fait sauter la Bourse! Quel\n",
+        "gagnant! Je porte un toast à ma muse!\r"
       ]
     },
     {
@@ -1339,6 +2071,12 @@
         "riding a hot streak on the markets.\r",
         "I’m surfing on a wave of good luck!\n",
         "You’re sure you want to battle us?"
+      ],
+      "fr_FR": [
+        "Depuis que je sors avec elle, je suis\n",
+        "le roi de la Bourse!\r",
+        "Je surfe sur la vague du succès!\n",
+        "Tu veux vraiment nous affronter?"
       ]
     },
     {
@@ -1350,6 +2088,10 @@
       "en_US": [
         "This is just a minor setback.\n",
         "I can easily make up for this!"
+      ],
+      "fr_FR": [
+        "Ce n’est qu’un léger contretemps.\n",
+        "Je peux me refaire!"
       ]
     },
     {
@@ -1357,6 +2099,10 @@
       "en_US": [
         "Ooh! All your stocks went up again?\n",
         "You haven’t guessed wrong yet!\r"
+      ],
+      "fr_FR": [
+        "Ooh! Tes actions sont remontées?\n",
+        "Tu avais vu juste!\r"
       ]
     },
     {
@@ -1368,6 +2114,13 @@
         "happens to make a tough Trainer.\r",
         "Are you willing to try your luck\n",
         "against that?"
+      ],
+      "fr_FR": [
+        "Mon petit ami est un magicien\n",
+        "de la Bourse!\r",
+        "Tu sais quoi? En plus d’avoir de la\n",
+        "veine, c’est aussi un bon Dresseur.\r",
+        "Tu veux tenter ta chance contre lui?"
       ]
     },
     {
@@ -1379,6 +2132,10 @@
       "en_US": [
         "It’s just one loss. We can make that\n",
         "back with a big win next time!"
+      ],
+      "fr_FR": [
+        "Une défaite, ce n’est rien. On frappera\n",
+        "un grand coup la prochaine fois!"
       ]
     },
     {
@@ -1387,6 +2144,11 @@
         "There’s no need for technique.\r",
         "You just have to read what’s in your\n",
         "opponent’s heart.\r"
+      ],
+      "fr_FR": [
+        "Inutile de travailler ta technique.\r",
+        "Il suffit de savoir lire le cœur \n",
+        "de ton adversaire.\r"
       ]
     },
     {
@@ -1398,6 +2160,13 @@
         "perceived.\r",
         "Do you... Would you like me to think\n",
         "of you as a tough Trainer?"
+      ],
+      "fr_FR": [
+        "Quand je parle de “cœur”, je ne parle\n",
+        "pas de ce que pense la personne, mais\f",
+        "de la façon dont elle veut être perçue.\r",
+        "Est-ce que... tu aimerais que je te \n",
+        "considère comme un Dresseur coriace?"
       ]
     },
     {
@@ -1409,6 +2178,10 @@
       "en_US": [
         "I had a bad feeling about this\n",
         "Trainer..."
+      ],
+      "fr_FR": [
+        "J’avais un mauvais pressentiment\n",
+        "à propos de ce Dresseur..."
       ]
     },
     {
@@ -1416,6 +2189,10 @@
       "en_US": [
         "No, really? Ooeeeh! That is so neat!\n",
         "How can you tell these things?\r"
+      ],
+      "fr_FR": [
+        "Non, vraiment? Ouaaaah! C’est génial!\n",
+        "Comment tu fais pour deviner tout ça?\r"
       ]
     },
     {
@@ -1426,6 +2203,13 @@
         "lonely child!\r",
         "I don’t think I could ever lose with\n",
         "him. Want to try?"
+      ],
+      "fr_FR": [
+        "Mon petit ami sait bien qu’au fond\n",
+        "de moi, je ne suis qu’une petite fille\f",
+        "seule et terrorisée!\r",
+        "Mais je ne pense pas que je pourrais\n",
+        "perdre à ses côtés. Tu veux te battre?"
       ]
     },
     {
@@ -1437,6 +2221,10 @@
       "en_US": [
         "It’s amazing that you predicted you\n",
         "would lose!"
+      ],
+      "fr_FR": [
+        "Je n’arrive pas à croire que tu aies\n",
+        "prédit ta propre défaite!"
       ]
     },
     {
@@ -1446,6 +2234,12 @@
         "and think of what it represents.\r",
         "We can use that as motivation to\n",
         "keep winning at life!\r"
+      ],
+      "fr_FR": [
+        "Savourons ce magnifique repas et\n",
+        "tentons d’en saisir la symbolique.\r",
+        "Nous pouvons nous en servir pour nous \n",
+        "motiver et continuer de gagner!\r"
       ]
     },
     {
@@ -1457,6 +2251,14 @@
         "and those who duck and cover.\r",
         "You’re the type who accepts\n",
         "challenges, am I right?"
+      ],
+      "fr_FR": [
+        "Personnellement, je crois qu’il existe\n",
+        "deux types de personnes.\r",
+        "Celles qui relèvent les défis\n",
+        "et celles qui courent se réfugier.\r",
+        "Toi, tu es du genre à relever les\n",
+        "défis, pas vrai?"
       ]
     },
     {
@@ -1470,6 +2272,12 @@
         "I’d be a terror on the markets.\r",
         "But you know that’s not really\n",
         "possible."
+      ],
+      "fr_FR": [
+        "Si je pouvais prédire les événements, je\n",
+        "serais le roi des marchés boursiers.\r",
+        "Enfin, tu sais bien que c’est\n",
+        "impossible..."
       ]
     },
     {
@@ -1479,6 +2287,12 @@
         "everything all the time?\r",
         "Do you really have the power of\n",
         "premonition?\r"
+      ],
+      "fr_FR": [
+        "Comment fais-tu pour toujours\n",
+        "deviner juste?\r",
+        "Tu as vraiment le pouvoir de prédire\n",
+        "les événements?\r"
       ]
     },
     {
@@ -1488,6 +2302,12 @@
         "extrasensory power or something.\r",
         "I’m teaming up with a guy like that.\n",
         "Are you sure you want to do this?"
+      ],
+      "fr_FR": [
+        "Je suis convaincue qu’il a des pouvoirs\n",
+        "extrasensoriels, un truc comme ça.\r",
+        "Et n’oublie pas que c’est mon équipier.\n",
+        "Tu veux vraiment aller jusqu’au bout?"
       ]
     },
     {
@@ -1499,6 +2319,10 @@
       "en_US": [
         "If it’s not premonition, did you...\n",
         "Maybe come from the future?"
+      ],
+      "fr_FR": [
+        "Ce n’est pas de la prémonition, mais\n",
+        "alors... Est-ce que tu viens du futur?"
       ]
     },
     {
@@ -1506,6 +2330,10 @@
       "en_US": [
         "One Pokémon is insufficient if you\n",
         "want to battle against us."
+      ],
+      "fr_FR": [
+        "Un Pokémon ne suffira pas si tu\n",
+        "veux te battre contre nous."
       ]
     },
     {
@@ -1513,6 +2341,10 @@
       "en_US": [
         "If you’d bring two or more Pokémon,\n",
         "we could have a battle with you."
+      ],
+      "fr_FR": [
+        "Si tu apportais deux Pokémon ou plus,\n",
+        "nous pourrions nous battre contre toi."
       ]
     },
     {
@@ -1522,6 +2354,12 @@
         "borders on the positively toxic...\r",
         "However, my analysis indicates that it\n",
         "is composed of natural ingredients.\r"
+      ],
+      "fr_FR": [
+        "Hum... La couleur de ce breuvage donne\n",
+        "l’impression que c’est un poison...\r",
+        "Toutefois, mon analyse indique qu’il\n",
+        "est réalisé avec des produits sains.\r"
       ]
     },
     {
@@ -1531,6 +2369,12 @@
         "You are?\r",
         "...\n",
         "...Oh, yes, a Trainer."
+      ],
+      "fr_FR": [
+        "C’est pour quoi?\n",
+        "Tu es?\r",
+        "...\n",
+        "Oh, d’accord, un Dresseur."
       ]
     },
     {
@@ -1542,6 +2386,10 @@
       "en_US": [
         "The results of that battle are\n",
         "insignificant. Let’s drink up."
+      ],
+      "fr_FR": [
+        "Les résultats du combat sont\n",
+        "insignifiants. Buvons nos verres."
       ]
     },
     {
@@ -1551,11 +2399,18 @@
         "I wish you wouldn’t!\r",
         "We’re at a fancy restaurant, and you\n",
         "want to analyze what’s served?\r"
+      ],
+      "fr_FR": [
+        "Oh, chéri!\n",
+        "Tu me fais honte, vraiment!\r",
+        "Nous sommes dans un restaurant chic\n",
+        "et tu veux analyser notre nourriture?\r"
       ]
     },
     {
       "id": "Restaurant_Text_KayleeAskBattle0",
-      "en_US": "Oh, you’re a Trainer?"
+      "en_US": "Oh, you’re a Trainer?",
+      "fr_FR": "Oh, tu es un Dresseur?"
     },
     {
       "id": "Restaurant_Text_Dummy218",
@@ -1567,6 +2422,11 @@
         "Cheers, dear!\r",
         "Please don’t start analyzing what\n",
         "we just drank!"
+      ],
+      "fr_FR": [
+        "A la tienne, chéri!\r",
+        "S’il te plaît, ne commence pas à\n",
+        "analyser ce que nous venons de boire!"
       ]
     },
     {
@@ -1576,6 +2436,12 @@
         "These hors d’oeuvres are fascinating.\r",
         "Plant fiber 20%, iron 5%, protein 35%.\n",
         "Curious and curiouser...\r"
+      ],
+      "fr_FR": [
+        "Intéressant...\n",
+        "Ces hors-d’œuvre sont fascinants.\r",
+        "20% de fibres, 5% de fer, 35% de \n",
+        "protéines, de plus en plus curieux...\r"
       ]
     },
     {
@@ -1583,6 +2449,10 @@
       "en_US": [
         "What is it now? Do you want me to\n",
         "analyze your skill level?"
+      ],
+      "fr_FR": [
+        "Quoi encore? Veux-tu que nous\n",
+        "analysions ton niveau de compétence?"
       ]
     },
     {
@@ -1596,6 +2466,12 @@
         "which is unknown to me.\r",
         "By defining its composition, I feel\n",
         "reassured in my knowledge."
+      ],
+      "fr_FR": [
+        "Quelque chose me pousse à\n",
+        "analyser l’inconnu.\r",
+        "Connaître sa composition me rassure\n",
+        "sur l’état de mes connaissances."
       ]
     },
     {
@@ -1605,6 +2481,12 @@
         "It takes the magic out of a meal.\r",
         "I wish you wouldn’t think about your\n",
         "research while we’re out eating!\r"
+      ],
+      "fr_FR": [
+        "Oh, chéri, tu ne veux pas arrêter?\n",
+        "Ça brise le charme du repas.\r",
+        "J’aimerais que tu cesses de penser\n",
+        "à tes recherches quand on mange!\r"
       ]
     },
     {
@@ -1614,6 +2496,12 @@
         "me with his dedication to research.\r",
         "Would you care to have a battle\n",
         "with us?"
+      ],
+      "fr_FR": [
+        "Je suis toujours surprise de voir à quel\n",
+        "point mon mari vit pour ses recherches.\r",
+        "Accepterais-tu de te battre \n",
+        "contre nous?"
       ]
     },
     {
@@ -1626,6 +2514,11 @@
         "If you were to ask me, I would\n",
         "rather not know about what I don’t\f",
         "understand. It’s simpler that way."
+      ],
+      "fr_FR": [
+        "Pour ma part, je préfère encore ne pas\n",
+        "connaître ce que je ne comprendrais\f",
+        "pas. C’est plus simple comme ça."
       ]
     },
     {
@@ -1635,6 +2528,12 @@
         "should have arrived by now.\r",
         "Perhaps the thermal setting is too\n",
         "low to prepare the food efficiently?\r"
+      ],
+      "fr_FR": [
+        "Selon mes calculs, le plat de\n",
+        "résistance devrait déjà être là.\r",
+        "Le niveau thermique est peut-être\n",
+        "trop bas pour une cuisson efficace?\r"
       ]
     },
     {
@@ -1642,6 +2541,10 @@
       "en_US": [
         "You there!\n",
         "Let’s battle to consume time!"
+      ],
+      "fr_FR": [
+        "Toi!\n",
+        "Combattons, ça fera passer le temps!"
       ]
     },
     {
@@ -1655,6 +2558,12 @@
         "we were battling...\r",
         "The calorie content appears to be\n",
         "alarmingly high."
+      ],
+      "fr_FR": [
+        "Le plat de résistance a été servi\n",
+        "pendant qu’on combattait...\r",
+        "L’apport calorique a l’air pour\n",
+        "le moins alarmant."
       ]
     },
     {
@@ -1664,6 +2573,12 @@
         "impatient over the food, dear.\r",
         "Isn’t this the sort of situation\n",
         "that you brought your Pokémon for?\r"
+      ],
+      "fr_FR": [
+        "Ça ne sert à rien de trépigner en\n",
+        "attendant les plats, chéri.\r",
+        "C’est bien pour ça que tu as pris\n",
+        "ton Pokémon avec toi, non?\r"
       ]
     },
     {
@@ -1672,6 +2587,11 @@
         "Oh, what good timing!\r",
         "Would you join us for a quick\n",
         "battle?"
+      ],
+      "fr_FR": [
+        "Oh, excellent timing!\r",
+        "Veux-tu te joindre à nous pour\n",
+        "un petit combat, vite fait?"
       ]
     },
     {
@@ -1684,6 +2604,11 @@
         "Oh, dear, if we take in too many\n",
         "calories, we can always work them off\f",
         "by battling!"
+      ],
+      "fr_FR": [
+        "Oh, chéri, qu’importe si ces plats sont\n",
+        "trop caloriques, nous pouvons\f",
+        "toujours éliminer en combattant!"
       ]
     }
   ]

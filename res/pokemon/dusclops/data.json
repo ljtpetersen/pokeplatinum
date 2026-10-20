@@ -7,7 +7,10 @@
         "special_attack": 60,
         "special_defense": 130
     },
-    "types": [ "TYPE_GHOST", "TYPE_GHOST" ],
+    "types": [
+        "TYPE_GHOST",
+        "TYPE_GHOST"
+    ],
     "catch_rate": 90,
     "base_exp_reward": 179,
     "ev_yields": {
@@ -26,34 +29,100 @@
     "hatch_cycles": 25,
     "base_friendship": 35,
     "exp_rate": "EXP_RATE_FAST",
-    "egg_groups": [ "EGG_GROUP_AMORPHOUS", "EGG_GROUP_AMORPHOUS" ],
-    "abilities": [ "ABILITY_PRESSURE", "ABILITY_NONE" ],
+    "egg_groups": [
+        "EGG_GROUP_AMORPHOUS",
+        "EGG_GROUP_AMORPHOUS"
+    ],
+    "abilities": [
+        "ABILITY_PRESSURE",
+        "ABILITY_NONE"
+    ],
     "safari_flee_rate": 0,
     "body_color": "MON_COLOR_BLACK",
     "flip_sprite": false,
     "icon_palette": 0,
     "learnset": {
         "by_level": [
-            [ 1, "MOVE_FIRE_PUNCH" ],
-            [ 1, "MOVE_ICE_PUNCH" ],
-            [ 1, "MOVE_THUNDER_PUNCH" ],
-            [ 1, "MOVE_GRAVITY" ],
-            [ 1, "MOVE_BIND" ],
-            [ 1, "MOVE_LEER" ],
-            [ 1, "MOVE_NIGHT_SHADE" ],
-            [ 1, "MOVE_DISABLE" ],
-            [ 6, "MOVE_DISABLE" ],
-            [ 9, "MOVE_FORESIGHT" ],
-            [ 14, "MOVE_ASTONISH" ],
-            [ 17, "MOVE_CONFUSE_RAY" ],
-            [ 22, "MOVE_SHADOW_SNEAK" ],
-            [ 25, "MOVE_PURSUIT" ],
-            [ 30, "MOVE_CURSE" ],
-            [ 33, "MOVE_WILL_O_WISP" ],
-            [ 37, "MOVE_SHADOW_PUNCH" ],
-            [ 43, "MOVE_MEAN_LOOK" ],
-            [ 51, "MOVE_PAYBACK" ],
-            [ 61, "MOVE_FUTURE_SIGHT" ]
+            [
+                1,
+                "MOVE_FIRE_PUNCH"
+            ],
+            [
+                1,
+                "MOVE_ICE_PUNCH"
+            ],
+            [
+                1,
+                "MOVE_THUNDER_PUNCH"
+            ],
+            [
+                1,
+                "MOVE_GRAVITY"
+            ],
+            [
+                1,
+                "MOVE_BIND"
+            ],
+            [
+                1,
+                "MOVE_LEER"
+            ],
+            [
+                1,
+                "MOVE_NIGHT_SHADE"
+            ],
+            [
+                1,
+                "MOVE_DISABLE"
+            ],
+            [
+                6,
+                "MOVE_DISABLE"
+            ],
+            [
+                9,
+                "MOVE_FORESIGHT"
+            ],
+            [
+                14,
+                "MOVE_ASTONISH"
+            ],
+            [
+                17,
+                "MOVE_CONFUSE_RAY"
+            ],
+            [
+                22,
+                "MOVE_SHADOW_SNEAK"
+            ],
+            [
+                25,
+                "MOVE_PURSUIT"
+            ],
+            [
+                30,
+                "MOVE_CURSE"
+            ],
+            [
+                33,
+                "MOVE_WILL_O_WISP"
+            ],
+            [
+                37,
+                "MOVE_SHADOW_PUNCH"
+            ],
+            [
+                43,
+                "MOVE_MEAN_LOOK"
+            ],
+            [
+                51,
+                "MOVE_PAYBACK"
+            ],
+            [
+                61,
+                "MOVE_FUTURE_SIGHT"
+            ]
         ],
         "by_tm": [
             "TM01",
@@ -146,9 +215,9 @@
             "name": "DUSCLOPS",
             "category": "Beckon Pokémon",
             "entry_text": [
-                "It seeks drifting will-o’-the-wisps\n",
-                "and sucks them into its empty body.\n",
-                "What happens inside is a mystery."
+                "Its body is hollow. It is said that\n",
+                "those who look into its body are\n",
+                "sucked into the void."
             ]
         },
         "fr": {
@@ -194,6 +263,18 @@
                 "からだの　なかみは　くうどうに\n",
                 "なっていて　のぞきこんだ　あいてを\n",
                 "すいこんでしまうと　いわれている。"
+            ]
+        },
+        "local_version": {
+            "entry_text": [
+                "It seeks drifting will-o’-the-wisps\n",
+                "and sucks them into its empty body.\n",
+                "What happens inside is a mystery."
+            ],
+            "entry_text_fr": [
+                "Il cherche des feux follets pour\n",
+                "les avaler. Ce qui se passe alors\n",
+                "dans son corps est un mystère."
             ]
         }
     },

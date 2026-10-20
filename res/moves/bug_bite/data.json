@@ -28,5 +28,13 @@
     "contest": {
         "effect": "CONTEST_EFFECT_STEAL_VOLTAGE",
         "type": "CONTEST_TYPE_TOUGH"
-    }
+    },
+    "name_fr": "Piqûre",
+    "description_fr": [
+        "Le lanceur pique\n",
+        "l’ennemi. S’il tient\n",
+        "une Baie, le lanceur\n",
+        "la dévore et obtient\n",
+        "son effet."
+    ]
 }

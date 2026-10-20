@@ -7,6 +7,11 @@
         "The building next door?\r",
         "I see Gym Leaders go in and out every\n",
         "so often."
+      ],
+      "fr_FR": [
+        "J’ai remarqué que des Champions\n",
+        "d’Arène se rendaient régulièrement\f",
+        "dans le bâtiment voisin...\n"
       ]
     },
     {
@@ -15,6 +20,11 @@
         "The Battle Factory lets you make\n",
         "challenges without your own Pokémon.\r",
         "Maybe I should try..."
+      ],
+      "fr_FR": [
+        "A l’Usine de Combat, on ne se bat pas\n",
+        "avec ses propres Pokémon.\r",
+        "Je devrais peut-être essayer..."
       ]
     },
     {
@@ -27,6 +37,14 @@
         "three or four.\r",
         "But one times one is always one.\n",
         "Do you understand that?"
+      ],
+      "fr_FR": [
+        "Dans un Combat Multi, la coopération \n",
+        "avec ton partenaire est essentielle.\r",
+        "En travaillant ensemble, un plus un ne \n",
+        "font pas deux, mais trois, voire quatre!\r",
+        "Mais une fois un fait toujours un, \n",
+        "tu comprends?"
       ]
     },
     {
@@ -35,6 +53,12 @@
         "Some say the universe was shaped by\n",
         "something born from an Egg...\r",
         "A man I met long ago told me that."
+      ],
+      "fr_FR": [
+        "J’ai entendu dire que l’univers a été \n",
+        "créé par quelque chose sorti d’un Oeuf.\r",
+        "C’est un homme que j’ai rencontré il y a\n",
+        "très longtemps qui me l’a affirmé."
       ]
     }
   ]

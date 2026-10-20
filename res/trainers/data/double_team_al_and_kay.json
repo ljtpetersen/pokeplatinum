@@ -43,6 +43,12 @@
                 "Al: I intend to perfect my Double\n",
                 "Battle technique.\r",
                 "That will make me better all around.\r"
+            ],
+            "fr_FR": [
+                "Ali: Je cherche à perfectionner ma\n",
+                "technique de Combat Duo.\r",
+                "Cela me permettra d’améliorer mon\n",
+                "niveau général.\r"
             ]
         },
         {
@@ -50,6 +56,10 @@
             "en_US": [
                 "Al: You! You’re an expert\n",
                 "double battler, too!\n"
+            ],
+            "fr_FR": [
+                "Ali: Toi! Toi aussi, tu te spécialises\n",
+                "dans le combat en double!\n"
             ]
         },
         {
@@ -58,6 +68,11 @@
                 "Al: Your mastery over several\n",
                 "Pokémon at once...\r",
                 "You’re a remarkable Trainer!\n"
+            ],
+            "fr_FR": [
+                "Ali: Cette maîtrise de plusieurs\n",
+                "Pokémon à la fois...\r",
+                "Tu es un Dresseur d’exception!\n"
             ]
         },
         {
@@ -66,6 +81,11 @@
                 "Al: You have but one Pokémon?\r",
                 "I would say that you are taking\n",
                 "Victory Road too lightly, kid.\n"
+            ],
+            "fr_FR": [
+                "Ali: Tu n’as qu’un seul Pokémon?\r",
+                "J’ai l’impression que tu prends la\n",
+                "Route Victoire à la légère.\n"
             ]
         },
         {
@@ -74,6 +94,11 @@
                 "Kay: I want to improve my doubles\n",
                 "technique as much as I can.\r",
                 "That will improve me as a Trainer.\r"
+            ],
+            "fr_FR": [
+                "Kate: Je veux améliorer mes techniques\n",
+                "de double autant que possible.\r",
+                "Cela fera de moi un meilleur Dresseur.\r"
             ]
         },
         {
@@ -81,6 +106,10 @@
             "en_US": [
                 "Kay: My goodness!\n",
                 "You’re great at doubles, too!"
+            ],
+            "fr_FR": [
+                "Kate: Nom d’un Pokémon! Tu\n",
+                "maîtrises aussi les doubles!"
             ]
         },
         {
@@ -89,6 +118,11 @@
                 "Kay: Depending on the combinations,\n",
                 "every kind of Pokémon can excel.\r",
                 "At least, that’s what I think.\n"
+            ],
+            "fr_FR": [
+                "Kate: Chaque Pokémon est utile, tout\n",
+                "dépend des combinaisons.\r",
+                "Du moins, c’est ce que je crois.\n"
             ]
         },
         {
@@ -96,7 +130,12 @@
             "en_US": [
                 "Kay: You’re really going through\n",
                 "Victory Road with only one Pokémon?\n"
+            ],
+            "fr_FR": [
+                "Kate: Tu comptes vraiment traverser la\n",
+                "Route Victoire avec un seul Pokémon?\n"
             ]
         }
-    ]
+    ],
+    "name_fr": "Ali & Kate"
 }

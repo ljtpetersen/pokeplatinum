@@ -59,6 +59,10 @@
             "en_US": [
                 "You and your Pokémon could use an\n",
                 "obedience lesson from me."
+            ],
+            "fr_FR": [
+                "Dresseur, je te conseille de m’obéir.\n",
+                "J’ai horreur de me répéter."
             ]
         },
         {
@@ -66,6 +70,10 @@
             "en_US": [
                 "This isn’t over until I say.\n",
                 "Once more.\r"
+            ],
+            "fr_FR": [
+                "Excellent. Recommençons.\n",
+                "Immédiatement.\r"
             ]
         },
         {
@@ -73,7 +81,12 @@
             "en_US": [
                 "You defy me?\n",
                 "How very amusing.\r"
+            ],
+            "fr_FR": [
+                "Tu oses me défier? Est-ce du courage\n",
+                "ou de l’inconscience?\r"
             ]
         }
-    ]
+    ],
+    "name_fr": "Zabou"
 }

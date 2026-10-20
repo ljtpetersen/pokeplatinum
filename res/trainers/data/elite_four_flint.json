@@ -89,6 +89,10 @@
             "en_US": [
                 "I can feel your determination.\n",
                 "Your will is overpowering me!\n"
+            ],
+            "fr_FR": [
+                "Je peux sentir ta détermination.\n",
+                "Ta volonté me domine!\n"
             ]
         },
         {
@@ -96,6 +100,10 @@
             "en_US": [
                 "This situation...\n",
                 "This is heating up! I’m blazing now!\n"
+            ],
+            "fr_FR": [
+                "Quel combat...\n",
+                "Ça chauffe! Je m’enflamme!\n"
             ]
         },
         {
@@ -108,7 +116,17 @@
                 "I’d never even considered it!\r",
                 "I’m blown away by this!\n",
                 "You and your Pokémon are hot stuff!\n"
+            ],
+            "fr_FR": [
+                "Incroyable!\r",
+                "Je ne m’attendais pas à ça! J’ai perdu?\n",
+                "Je savais que tu avais du talent...\r",
+                "Mais je n’aurais jamais pensé perdre!\n",
+                "Pas une seule seconde!\r",
+                "Je suis époustouflé!\n",
+                "Tes Pokémon et toi êtes fantastiques!\n"
             ]
         }
-    ]
+    ],
+    "name_fr": "Adrien"
 }

@@ -6,6 +6,10 @@
       "en_US": [
         "Oh, hello! It’s been a while since\n",
         "our last customer!"
+      ],
+      "fr_FR": [
+        "Oh, bonjour! Ça fait longtemps que nous\n",
+        "n’avons pas eu de client!"
       ]
     },
     {
@@ -15,6 +19,12 @@
         "how the world looks.\r",
         "Taking off a pair of glasses changes\n",
         "how the world looks, too. Deep, man.\r"
+      ],
+      "fr_FR": [
+        "Avec une paire de lunettes, ta vision\n",
+        "du monde change totalement.\r",
+        "Elle change aussi quand tu les enlèves.\n",
+        "Waouh, c’est vraiment profond.\r"
       ]
     },
     {
@@ -22,6 +32,10 @@
       "en_US": [
         "So, would you like to change how\n",
         "the world looks to your Pokémon?\r"
+      ],
+      "fr_FR": [
+        "Alors, est-ce que tu veux changer la\n",
+        "vision du monde de ton Pokémon?\r"
       ]
     },
     {
@@ -30,6 +44,12 @@
         "Morning is the start of a new day.\r",
         "Put on the Choice Specs and make\n",
         "the right choices.\r"
+      ],
+      "fr_FR": [
+        "Le matin chante le début d’une nouvelle \n",
+        "journée.\r",
+        "Enfile tes Lunet. Choix pour faire le bon\n",
+        "choix.\r"
       ]
     },
     {
@@ -37,6 +57,11 @@
       "en_US": [
         "The sunlight is bright in the day.\n",
         "How about a pair of BlackGlasses?\r"
+      ],
+      "fr_FR": [
+        "En journée, le soleil est aveuglant. \n",
+        "Protège tes yeux avec des\f",
+        "Lunet.Noires!\r"
       ]
     },
     {
@@ -44,6 +69,10 @@
       "en_US": [
         "At night, reflect on what you’ve\n",
         "learned with the Wise Glasses.\r"
+      ],
+      "fr_FR": [
+        "La nuit, réfléchis à ce que tu as appris\n",
+        "grâce aux Lunet. Sages.\r"
       ]
     },
     {
@@ -53,6 +82,12 @@
         "only one kind of move.\r",
         "But they also raise the Pokémon’s\n",
         "Special Attack stat."
+      ],
+      "fr_FR": [
+        "Les Lunet. Choix forcent le Pokémon à\n",
+        "n’utiliser qu’une sorte de capacité.\r",
+        "Mais elles augmentent également son\n",
+        "Attaque Spéciale."
       ]
     },
     {
@@ -60,6 +95,10 @@
       "en_US": [
         "BlackGlasses raise the power of\n",
         "Dark-type moves."
+      ],
+      "fr_FR": [
+        "Les Lunet.Noires augmentent la force\n",
+        "des capacités de type Ténèbres."
       ]
     },
     {
@@ -67,11 +106,16 @@
       "en_US": [
         "The Wise Glasses boost the power of\n",
         "special moves."
+      ],
+      "fr_FR": [
+        "Les Lunet. Sages augmentent la force\n",
+        "des attaques spéciales."
       ]
     },
     {
       "id": "CelesticTownNorthwestHouse_Text_BagIsFull",
-      "en_US": "Your Bag is full!"
+      "en_US": "Your Bag is full!",
+      "fr_FR": "Votre Sac est plein!"
     }
   ]
 }

@@ -24,11 +24,19 @@
             "en_US": [
                 "This karate man’s going to pulverize\n",
                 "you!\r"
+            ],
+            "fr_FR": [
+                "Grâce à mes techniques de Karatéka, \n",
+                "je vais te pulvériser!\r"
             ]
         },
         {
             "type": "TRMSG_DEFEAT",
-            "en_US": "We got pulverized...\n"
+            "en_US": "We got pulverized...\n",
+            "fr_FR": [
+                "Finalement, c’est nous qui avons été\n",
+                "pulvérisés..."
+            ]
         },
         {
             "type": "TRMSG_POST_BATTLE",
@@ -39,6 +47,14 @@
                 "better put it to good use.\r",
                 "Nothing beats some repeated battling\n",
                 "for toughening up your Pokémon.\n"
+            ],
+            "fr_FR": [
+                "On dirait que mon Pokémon et moi\n",
+                "avons encore besoin d’entraînement.\r",
+                "Hé, si tu as un Cherche VS, n’hésite pas\n",
+                "à t’en servir.\r",
+                "Combattre encore et encore, voilà le\n",
+                "secret d’un bon entraînement!\n"
             ]
         },
         {
@@ -46,7 +62,12 @@
             "en_US": [
                 "This karate man hasn’t forgotten\n",
                 "being pulverized by you!\r"
+            ],
+            "fr_FR": [
+                "Je suis le Karatéka que tu as \n",
+                "pulvérisé la dernière fois!\r"
             ]
         }
-    ]
+    ],
+    "name_fr": "Tensui"
 }

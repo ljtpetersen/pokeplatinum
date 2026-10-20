@@ -27,5 +27,12 @@
     "contest": {
         "effect": "CONTEST_EFFECT_CONSECUTIVE_USE",
         "type": "CONTEST_TYPE_BEAUTY"
-    }
+    },
+    "name_fr": "Stalagtite",
+    "description_fr": [
+        "Le lanceur jette des\n",
+        "pics de glace sur\n",
+        "l’ennemi, de 2 à 5\n",
+        "fois de suite."
+    ]
 }

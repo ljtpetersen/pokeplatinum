@@ -26,5 +26,13 @@
     "contest": {
         "effect": "CONTEST_EFFECT_BASIC",
         "type": "CONTEST_TYPE_COOL"
-    }
+    },
+    "name_fr": "Crocs Givre",
+    "description_fr": [
+        "Le lanceur utilise\n",
+        "une morsure\n",
+        "glaciale. Peut aussi\n",
+        "geler ou apeurer\n",
+        "l’ennemi."
+    ]
 }

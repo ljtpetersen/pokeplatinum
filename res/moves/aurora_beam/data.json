@@ -25,5 +25,12 @@
     "contest": {
         "effect": "CONTEST_EFFECT_FIRST_PERFORMANCE_ADVANTAGE",
         "type": "CONTEST_TYPE_BEAUTY"
-    }
+    },
+    "name_fr": "Onde Boréale",
+    "description_fr": [
+        "Envoie un rayon\n",
+        "arc-en-ciel sur\n",
+        "l’ennemi. Peut aussi\n",
+        "baisser son Attaque."
+    ]
 }

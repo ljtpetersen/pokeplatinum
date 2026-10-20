@@ -26,6 +26,10 @@
             "en_US": [
                 "Before I challenge the Pokémon Gym\n",
                 "Leader, I’ll test my strength on you!\r"
+            ],
+            "fr_FR": [
+                "Avant d’affronter le Champion, je\n",
+                "vais m’entraîner avec toi!\r"
             ]
         },
         {
@@ -33,6 +37,10 @@
             "en_US": [
                 "I guess it means I’m not ready for\n",
                 "the Gym challenge yet...\n"
+            ],
+            "fr_FR": [
+                "J’imagine que ça veut dire que je \n",
+                "ne suis pas prêt pour l’Arène...\n"
             ]
         },
         {
@@ -40,6 +48,10 @@
             "en_US": [
                 "I guess if you don’t have a single\n",
                 "Gym Badge, you’re a total nobody...\n"
+            ],
+            "fr_FR": [
+                "Quand tu n’as pas de Badge, les \n",
+                "Dresseurs te regardent de haut.\n"
             ]
         },
         {
@@ -49,7 +61,14 @@
                 "Pokémon Gym Leader.\r",
                 "But before I do, let me test my\n",
                 "strength on you again!\r"
+            ],
+            "fr_FR": [
+                "Je suis presque prêt à affronter le\n",
+                "Champion.\r",
+                "Mais avant, j’aimerais m’entraîner\n",
+                "avec toi encore une fois!\r"
             ]
         }
-    ]
+    ],
+    "name_fr": "Nathan"
 }

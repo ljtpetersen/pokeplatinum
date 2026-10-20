@@ -26,6 +26,10 @@
             "en_US": [
                 "I wield the stupendous power of water!\n",
                 "Don’t think you can win!\r"
+            ],
+            "fr_FR": [
+                "Prépare-toi à faire face à l’incroyable\n",
+                "pouvoir de l’eau! Tu ne me battras pas!\r"
             ]
         },
         {
@@ -33,6 +37,10 @@
             "en_US": [
                 "But the kid wins anyway!\n",
                 "I’m just bowled over!\n"
+            ],
+            "fr_FR": [
+                "Je me suis quand même fait aplatir par\n",
+                "un jeune Dresseur! Je suis sidéré!\n"
             ]
         },
         {
@@ -42,7 +50,14 @@
                 "but don’t let it annoy you.\r",
                 "If you lose sight of yourself, that’s\n",
                 "when you’re set to lose.\n"
+            ],
+            "fr_FR": [
+                "Les variations du niveau d’eau sont\n",
+                "traîtresses, mais ne t’en fais pas.\r",
+                "Le plus important, c’est de rester \n",
+                "confiant. Sinon, c’est fichu.\n"
             ]
         }
-    ]
+    ],
+    "name_fr": "Yves"
 }

@@ -32,5 +32,13 @@
     "friendshipLow": 5,
     "friendshipMed": 3,
     "friendshipHigh": 2
-  }
+  },
+  "name_fr": "Super Bonbon",
+  "description_fr": [
+    "Un bonbon plein d’énergie.\n",
+    "Il permet à un Pokémon de gagner\n",
+    "un niveau d’expérience."
+  ],
+  "plural_fr": "Super Bonbon",
+  "article_fr": null
 }

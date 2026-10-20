@@ -28,5 +28,13 @@
     "contest": {
         "effect": "CONTEST_EFFECT_BASIC",
         "type": "CONTEST_TYPE_COOL"
-    }
+    },
+    "name_fr": "Coupe",
+    "description_fr": [
+        "Coupe l’ennemi avec\n",
+        "des lames ou des\n",
+        "griffes. Hors combat,\n",
+        "permet de couper des\n",
+        "arbres fins."
+    ]
 }

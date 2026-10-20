@@ -28,5 +28,12 @@
   "battleUseCategory": "BATTLE_USE_CATEGORY_HEALING",
   "itemUseParams": {
     "healSleep": true
-  }
+  },
+  "name_fr": "Réveil",
+  "description_fr": [
+    "Un médicament sous forme de spray.\n",
+    "Réveille un Pokémon endormi."
+  ],
+  "plural_fr": "Réveil",
+  "article_fr": null
 }

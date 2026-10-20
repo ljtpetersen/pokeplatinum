@@ -3,95 +3,118 @@
   "messages": [
     {
       "id": "UnionWords_Text_Single",
-      "en_US": "SINGLE"
+      "en_US": "SINGLE",
+      "fr_FR": "SOLO"
     },
     {
       "id": "UnionWords_Text_Double",
-      "en_US": "DOUBLE"
+      "en_US": "DOUBLE",
+      "fr_FR": "DUO"
     },
     {
       "id": "UnionWords_Text_MixBattle",
-      "en_US": "MIX BATTLE"
+      "en_US": "MIX BATTLE",
+      "fr_FR": "COMBAT MIXTE"
     },
     {
       "id": "UnionWords_Text_MultiBattle",
-      "en_US": "MULTI BATTLE"
+      "en_US": "MULTI BATTLE",
+      "fr_FR": "COMBAT MULTI"
     },
     {
       "id": "UnionWords_Text_Level50",
-      "en_US": "LEVEL 50"
+      "en_US": "LEVEL 50",
+      "fr_FR": "NIVEAU 50"
     },
     {
       "id": "UnionWords_Text_Level100",
-      "en_US": "LEVEL 100"
+      "en_US": "LEVEL 100",
+      "fr_FR": "NIVEAU 100"
     },
     {
       "id": "UnionWords_Text_Colosseum",
-      "en_US": "COLOSSEUM"
+      "en_US": "COLOSSEUM",
+      "fr_FR": "COLISEE"
     },
     {
       "id": "UnionWords_Text_Pokemon",
-      "en_US": "POKéMON"
+      "en_US": "POKéMON",
+      "fr_FR": "POKéMON"
     },
     {
       "id": "UnionWords_Text_Drawing",
-      "en_US": "DRAWING"
+      "en_US": "DRAWING",
+      "fr_FR": "DESSIN"
     },
     {
       "id": "UnionWords_Text_Record",
-      "en_US": "RECORD"
+      "en_US": "RECORD",
+      "fr_FR": "RECORD"
     },
     {
       "id": "UnionWords_Text_Gotcha",
-      "en_US": "GOTCHA"
+      "en_US": "GOTCHA",
+      "fr_FR": "JE T’AI EU"
     },
     {
       "id": "UnionWords_Text_Chat",
-      "en_US": "CHAT"
+      "en_US": "CHAT",
+      "fr_FR": "TCHAT"
     },
     {
       "id": "UnionWords_Text_FriendCode",
-      "en_US": "FRIEND CODE"
+      "en_US": "FRIEND CODE",
+      "fr_FR": "CODE AMI"
     },
     {
       "id": "UnionWords_Text_Connection",
-      "en_US": "CONNECTION"
+      "en_US": "CONNECTION",
+      "fr_FR": "CONNEXION"
     },
     {
       "id": "UnionWords_Text_VoiceChat",
-      "en_US": "VOICE CHAT"
+      "en_US": "VOICE CHAT",
+      "fr_FR": "TCHAT VOCAL"
     },
     {
       "id": "UnionWords_Text_WiFi",
-      "en_US": "WI-FI"
+      "en_US": "WI-FI",
+      "fr_FR": "Wi-Fi"
     },
     {
       "id": "UnionWords_Text_Underground",
-      "en_US": "UNDERGROUND"
+      "en_US": "UNDERGROUND",
+      "fr_FR": "SOUTERRAIN"
     },
     {
       "id": "UnionWords_Text_Union",
-      "en_US": "UNION"
+      "en_US": "UNION",
+      "fr_FR": "UNION"
     },
     {
       "id": "UnionWords_Text_Poffin",
-      "en_US": "POFFIN"
+      "en_US": "POFFIN",
+      "fr_FR": "POFFIN"
     },
     {
       "id": "UnionWords_Text_Contest",
-      "en_US": "CONTEST"
+      "en_US": "CONTEST",
+      "fr_FR": "CONCOURS"
     },
     {
       "id": "UnionWords_Text_BattleTower",
-      "en_US": "BATTLE TOWER"
+      "en_US": "BATTLE TOWER",
+      "fr_FR": "TOUR COMBAT"
     },
     {
       "id": "UnionWords_Text_GTS",
-      "en_US": "GTS"
+      "en_US": "GTS",
+      "fr_FR": "GTS"
     },
     {
       "id": "UnionWords_Text_SecretBase",
-      "en_US": "SECRET BASE"
+      "en_US": "SECRET BASE",
+      "fr_FR": "BASE SECRETE"
     }
   ]
 }

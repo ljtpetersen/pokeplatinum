@@ -29,7 +29,9 @@
     "messages": [
         {
             "type": "TRMSG_DEFEAT",
-            "en_US": "No one’s hurt?\n"
+            "en_US": "No one’s hurt?\n",
+            "fr_FR": "Personne n’est blessé?\n"
         }
-    ]
+    ],
+    "name_fr": "Amina"
 }

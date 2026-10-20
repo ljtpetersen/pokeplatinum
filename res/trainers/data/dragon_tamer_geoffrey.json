@@ -34,11 +34,17 @@
             "en_US": [
                 "See the potential of dragon Pokémon!\n",
                 "The Championship is within my sights!\r"
+            ],
+            "fr_FR": [
+                "Tremble devant le pouvoir des\n",
+                "Pokémon de type Dragon!\r",
+                "Je serai le prochain Maître!\r"
             ]
         },
         {
             "type": "TRMSG_DEFEAT",
-            "en_US": "Potential doesn’t mean I can win...\n"
+            "en_US": "Potential doesn’t mean I can win...\n",
+            "fr_FR": "Le potentiel ne fait pas la victoire...\n"
         },
         {
             "type": "TRMSG_POST_BATTLE",
@@ -46,6 +52,11 @@
                 "A Dragon Tamer Champion...\r",
                 "I’ll need to train so much more to\n",
                 "even come close to coming close...\n"
+            ],
+            "fr_FR": [
+                "Je veux devenir Maître Dracologue...\r",
+                "Mais je suis encore loin d’en\n",
+                "avoir le niveau...\n"
             ]
         },
         {
@@ -55,7 +66,13 @@
                 "potential!\r",
                 "I’ve been looking forward to seeing\n",
                 "you again!\r"
+            ],
+            "fr_FR": [
+                "J’ai boosté le potentiel de mes Pokémon\n",
+                "de type Dragon!\r",
+                "Il me tardait de te revoir!\r"
             ]
         }
-    ]
+    ],
+    "name_fr": "Florian"
 }

@@ -7,6 +7,12 @@
         "The coal mine here’s fully automated.\r",
         "Coal mining was brutally hard in the\n",
         "old days, but not anymore!"
+      ],
+      "fr_FR": [
+        "Notre mine de charbon est entièrement\n",
+        "automatisée.\r",
+        "Autrefois, c’était un travail difficile,\n",
+        "la mine, mais plus maintenant!"
       ]
     },
     {
@@ -14,6 +20,10 @@
       "en_US": [
         "You remind me so much of the time\n",
         "I got my first Pokémon."
+      ],
+      "fr_FR": [
+        "Tu me rappelles moi quand j’ai eu mon\n",
+        "premier Pokémon."
       ]
     }
   ]

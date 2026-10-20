@@ -35,6 +35,11 @@
                 "Ah-ha! I found me a Trainer!\r",
                 "I challenge you to battle with\n",
                 "the Pokémon I’ve found!\r"
+            ],
+            "fr_FR": [
+                "Aha! Un Dresseur, enfin!\r",
+                "Tu vas devoir affronter les Pokémon\n",
+                "que j’ai trouvés!\r"
             ]
         },
         {
@@ -42,6 +47,10 @@
             "en_US": [
                 "It’s a challenge trying to win with\n",
                 "Pokémon one isn’t familiar with...\n"
+            ],
+            "fr_FR": [
+                "C’est difficile de gagner avec des\n",
+                "Pokémon qu’on connaît mal...\n"
             ]
         },
         {
@@ -49,6 +58,10 @@
             "en_US": [
                 "Discovery is the treasure I seek.\n",
                 "Collecting a lot is my life!\n"
+            ],
+            "fr_FR": [
+                "Mon but ultime, c’est la connaissance.\n",
+                "Collectionner, c’est ma vie!"
             ]
         },
         {
@@ -57,7 +70,13 @@
                 "Ah-ha! I found me a Trainer!\r",
                 "I challenge you to battle with\n",
                 "the Pokémon I’ve found!\r"
+            ],
+            "fr_FR": [
+                "Aha! J’ai trouvé un Dresseur!\r",
+                "Je te lance un défi avec les \n",
+                "Pokémon que je viens de trouver!\r"
             ]
         }
-    ]
+    ],
+    "name_fr": "Samuel"
 }

@@ -77,6 +77,10 @@
             "en_US": [
                 "I’m one of a kind.\n",
                 "That’s what I’m saying."
+            ],
+            "fr_FR": [
+                "Il n’y en a pas deux comme moi.\n",
+                "Tu peux me croire."
             ]
         },
         {
@@ -84,6 +88,10 @@
             "en_US": [
                 "I keep it real.\n",
                 "That’s what makes me tough.\r"
+            ],
+            "fr_FR": [
+                "Je reste naturel.\n",
+                "C’est ce qui fait ma force.\r"
             ]
         },
         {
@@ -91,7 +99,12 @@
             "en_US": [
                 "I kept it real, but you won anyway.\n",
                 "Your reality was more real.\r"
+            ],
+            "fr_FR": [
+                "Je suis resté naturel, mais j’ai perdu.\n",
+                "J’imagine que ta nature est plus forte.\r"
             ]
         }
-    ]
+    ],
+    "name_fr": "Billy"
 }

@@ -65,6 +65,10 @@
             "en_US": [
                 "That’s right, I’m tough. I won’t lose.\n",
                 "I don’t think losing’s possible."
+            ],
+            "fr_FR": [
+                "Tu as tout compris. Je suis fort. Je ne\n",
+                "perdrai pas. Tu ne peux pas gagner."
             ]
         },
         {
@@ -72,6 +76,10 @@
             "en_US": [
                 "Yup, I’m so tough...\n",
                 "Ehehe... Heeheehee...\r"
+            ],
+            "fr_FR": [
+                "Eh oui... Je suis si fort...\n",
+                "Hé, hé... Hé, hé, hé, hé, hé...\r"
             ]
         },
         {
@@ -79,7 +87,12 @@
             "en_US": [
                 "I lost? But, how...?\n",
                 "What now? What do I do?\r"
+            ],
+            "fr_FR": [
+                "J’ai perdu? Mais pourquoi?\n",
+                "Qu’est-ce que je vais devenir?\r"
             ]
         }
-    ]
+    ],
+    "name_fr": "Steevy"
 }

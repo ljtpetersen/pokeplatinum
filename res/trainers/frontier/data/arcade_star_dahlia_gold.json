@@ -15,6 +15,12 @@
                 "I smile. I cannot help it!\r",
                 "How about you? What do you do?\n",
                 "Do you laugh? Cry? Get angry?"
+            ],
+            "fr_FR": [
+                "Face à un Dresseur épatant,\n",
+                "j’aime combattre en souriant!\r",
+                "Et toi, qu’as-tu donc à l’esprit\n",
+                "lorsqu’un adversaire te défie?"
             ]
         },
         {
@@ -22,6 +28,10 @@
             "en_US": [
                 "Win or lose, whenever I battle someone\n",
                 "wonderful, I am happy!\r"
+            ],
+            "fr_FR": [
+                "La victoire m’importe peu.\n",
+                "Après un combat si joyeux!\r"
             ]
         },
         {
@@ -29,7 +39,12 @@
             "en_US": [
                 "Battling a wonderful Trainer is always\n",
                 "a happy occasion!\r"
+            ],
+            "fr_FR": [
+                "Affronter un Dresseur de talent\n",
+                "est un plaisir de chaque instant!\r"
             ]
         }
-    ]
+    ],
+    "name_fr": "Dahlia"
 }

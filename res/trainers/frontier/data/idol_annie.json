@@ -45,6 +45,10 @@
             "en_US": [
                 "I’m a self-made celebrity.\n",
                 "Do you have a problem with that?"
+            ],
+            "fr_FR": [
+                "Je suis super connue... dans ma famille!\n",
+                "Ça te pose un problème?"
             ]
         },
         {
@@ -52,6 +56,10 @@
             "en_US": [
                 "A celebrity is a celebrity, even if it’s\n",
                 "in my own mind.\r"
+            ],
+            "fr_FR": [
+                "Etre une star, c’est avant tout une\n",
+                "question d’attitude.\r"
             ]
         },
         {
@@ -59,7 +67,12 @@
             "en_US": [
                 "I want to be the center of attention,\n",
                 "just me and only me.\r"
+            ],
+            "fr_FR": [
+                "Les autres ne m’intéressent pas, mais\n",
+                "je leur conseille de s’intéresser à moi.\r"
             ]
         }
-    ]
+    ],
+    "name_fr": "Albe"
 }

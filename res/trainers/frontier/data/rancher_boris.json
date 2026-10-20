@@ -77,18 +77,28 @@
             "en_US": [
                 "You get to be the best by working\n",
                 "harder than everyone else."
+            ],
+            "fr_FR": [
+                "Pour être le meilleur, il faut travailler\n",
+                "plus dur que tout le monde."
             ]
         },
         {
             "type": "TRMSG_WIN",
-            "en_US": "I reckon I’ve been a hard worker.\r"
+            "en_US": "I reckon I’ve been a hard worker.\r",
+            "fr_FR": "J’ai travaillé très dur, je l’avoue.\r"
         },
         {
             "type": "TRMSG_DEFEAT",
             "en_US": [
                 "Work at battling over and over.\n",
                 "Your star will shine one day.\r"
+            ],
+            "fr_FR": [
+                "Je vais continuer à m’entraîner,\n",
+                "encore et encore. Et un jour...\r"
             ]
         }
-    ]
+    ],
+    "name_fr": "Borys"
 }

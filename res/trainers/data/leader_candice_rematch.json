@@ -89,6 +89,10 @@
             "en_US": [
                 "Not yet!\n",
                 "You can’t break our will!\n"
+            ],
+            "fr_FR": [
+                "Ce n’est pas encore fini!\n",
+                "Notre détermination est sans faille!\n"
             ]
         },
         {
@@ -96,7 +100,12 @@
             "en_US": [
                 "You’re mighty!\n",
                 "You’re worthy of lots of respect.\n"
+            ],
+            "fr_FR": [
+                "Quelle force!\n",
+                "Tu mérites tout notre respect.\n"
             ]
         }
-    ]
+    ],
+    "name_fr": "Gladys"
 }

@@ -26,5 +26,11 @@
     "contest": {
         "effect": "CONTEST_EFFECT_FINAL_PERFORMANCE_ADVANTAGE",
         "type": "CONTEST_TYPE_TOUGH"
-    }
+    },
+    "name_fr": "Ultimapoing",
+    "description_fr": [
+        "L’ennemi reçoit un\n",
+        "coup de poing d’une\n",
+        "puissance incroyable."
+    ]
 }

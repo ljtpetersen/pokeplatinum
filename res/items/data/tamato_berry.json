@@ -44,5 +44,13 @@
     "bitterness": 0,
     "sourness": 0,
     "smoothness": 30
-  }
+  },
+  "name_fr": "Baie Tamato",
+  "description_fr": [
+    "Ingrédient pour Poffin.\n",
+    "Rend les Pokémon plus amicaux, mais\n",
+    "baisse leur stat Vitesse de base."
+  ],
+  "plural_fr": "Baie Tamato",
+  "article_fr": null
 }

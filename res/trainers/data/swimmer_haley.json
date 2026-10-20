@@ -32,17 +32,26 @@
             "en_US": [
                 "Hi, wave-riding Trainer!\n",
                 "How about a battle on the sea?\r"
+            ],
+            "fr_FR": [
+                "Salut, Dresseur surfeur! Que dirais-tu\n",
+                "d’une bataille en pleine mer?\r"
             ]
         },
         {
             "type": "TRMSG_DEFEAT",
-            "en_US": "You sure schooled me there.\n"
+            "en_US": "You sure schooled me there.\n",
+            "fr_FR": "Tu m’as mis une belle dérouillée.\n"
         },
         {
             "type": "TRMSG_POST_BATTLE",
             "en_US": [
                 "Maybe I should switch to surfing,\n",
                 "too...\n"
+            ],
+            "fr_FR": [
+                "Je ferais peut-être mieux de me mettre\n",
+                "au surf, moi aussi...\n"
             ]
         },
         {
@@ -50,7 +59,12 @@
             "en_US": [
                 "Hi, we meet again!\n",
                 "Wave-riding Trainer!\r"
+            ],
+            "fr_FR": [
+                "Hé, te revoilà!\n",
+                "En garde, Dresseur surfeur!\r"
             ]
         }
-    ]
+    ],
+    "name_fr": "Anya"
 }

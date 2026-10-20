@@ -26,18 +26,29 @@
                 "What every good picnic needs is a\n",
                 "cute setting, good food, and a fun\f",
                 "battle!\r"
+            ],
+            "fr_FR": [
+                "L’essentiel pour un bon pique-nique,\n",
+                "c’est un chouette endroit, de la bonne\f",
+                "nourriture et un combat sympa!\r"
             ]
         },
         {
             "type": "TRMSG_DEFEAT",
-            "en_US": "That wasn’t any fun for me!\n"
+            "en_US": "That wasn’t any fun for me!\n",
+            "fr_FR": "Ce n’était pas sympa du tout!\n"
         },
         {
             "type": "TRMSG_POST_BATTLE",
             "en_US": [
                 "Why have a picnic here? I don’t know.\n",
                 "There’s no deep meaning to it."
+            ],
+            "fr_FR": [
+                "Pourquoi pique-niquer ici? Je ne sais\n",
+                "pas. Il n’y a pas de raison spéciale."
             ]
         }
-    ]
+    ],
+    "name_fr": "Alexandra"
 }

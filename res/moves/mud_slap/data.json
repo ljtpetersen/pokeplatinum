@@ -24,5 +24,13 @@
     "contest": {
         "effect": "CONTEST_EFFECT_BASIC",
         "type": "CONTEST_TYPE_CUTE"
-    }
+    },
+    "name_fr": "Coud’Boue",
+    "description_fr": [
+        "Le lanceur envoie de\n",
+        "la boue au visage de\n",
+        "l’ennemi pour infliger\n",
+        "des dégâts et baisser\n",
+        "sa précision."
+    ]
 }

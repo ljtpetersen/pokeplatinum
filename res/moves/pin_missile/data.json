@@ -27,5 +27,11 @@
     "contest": {
         "effect": "CONTEST_EFFECT_CONSECUTIVE_USE",
         "type": "CONTEST_TYPE_COOL"
-    }
+    },
+    "name_fr": "Dard-Nuée",
+    "description_fr": [
+        "Envoie une rafale de\n",
+        "dards. Peut toucher\n",
+        "de 2 à 5 fois."
+    ]
 }

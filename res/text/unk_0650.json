@@ -3,22 +3,29 @@
   "messages": [
     {
       "id": "pl_msg_00000650_00000",
-      "en_US": "{STRVAR_1 3, 0, 0}"
+      "en_US": "{STRVAR_1 3, 0, 0}",
+      "fr_FR": "{STRVAR_1 3, 0, 0}"
     },
     {
       "id": "pl_msg_00000650_00001",
-      "en_US": "EXIT"
+      "en_US": "EXIT",
+      "fr_FR": "QUITTER"
     },
     {
       "id": "pl_msg_00000650_00002",
       "en_US": [
         "Do you want to stop playing with the\n",
         "Footprint Stamp?"
+      ],
+      "fr_FR": [
+        "Voulez-vous arrêter de jouer à\n",
+        "Empreintes Poké?"
       ]
     },
     {
       "id": "pl_msg_00000650_00003",
-      "en_US": "The Footprint Stamp is now closed."
+      "en_US": "The Footprint Stamp is now closed.",
+      "fr_FR": "Empreintes Poké est fermé."
     }
   ]
 }

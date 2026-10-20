@@ -32,6 +32,10 @@
             "en_US": [
                 "There are Pokémon that grow stronger\n",
                 "when it’s raining.\r"
+            ],
+            "fr_FR": [
+                "Certains Pokémon deviennent plus\n",
+                "forts lorsqu’il pleut.\r"
             ]
         },
         {
@@ -39,6 +43,10 @@
             "en_US": [
                 "Like rain, my tears flow from losing...\n",
                 "They call me the Rain Woman...\n"
+            ],
+            "fr_FR": [
+                "Mes larmes coulent comme la pluie après\n",
+                "une défaite... Je suis la Pluvieuse...\n"
             ]
         },
         {
@@ -47,11 +55,19 @@
                 "I want to show off my pretty parasol,\n",
                 "but it will get dirty in the rain.\r",
                 "Oh, such a big dilemma!\n"
+            ],
+            "fr_FR": [
+                "J’aimerais m’afficher avec ma belle \n",
+                "ombrelle, mais j’ai peur de la salir\f",
+                "sous la pluie.\r",
+                "Oh, quel cruel dilemme!\n"
             ]
         },
         {
             "type": "TRMSG_REMATCH",
-            "en_US": "On rainy days, I get more energetic!\r"
+            "en_US": "On rainy days, I get more energetic!\r",
+            "fr_FR": "J’ai vraiment la forme quand il pleut!\r"
         }
-    ]
+    ],
+    "name_fr": "Mylène"
 }

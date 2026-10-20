@@ -16,6 +16,15 @@
 #define POKEPLATINUM_GENERATED_LOOKUP
 #define POKEPLATINUM_GENERATED_LOOKUP_IMPL
 
+#if POKEPLATINUM_VERSION < 3
+#define TEXT_BANK_KEY "en_US"
+#define ATTRIBUTE_EXTENSION ""
+#else
+#define TEXT_BANK_KEY "fr_FR"
+#define ATTRIBUTE_EXTENSION "_fr"
+#endif
+
+
 // Make sure that we don't walk into "narc.h", which contains references to the Nitro
 // stuff that we don't care about in these tools.
 #define POKEPLATINUM_NARC_H
@@ -172,6 +181,7 @@ char* strremove(char *s, const char *sub);
 char* strreplace(char *s, char r, char c);
 char* strreplstr(const char *s, const char *repl, const char *with);
 char* strupper(const char *s);
+char* strupper_remove_accents(const char *s);
 char* strlower(const char *s);
 char* strjoin(const char *s, const char *with, const char *sep);
 

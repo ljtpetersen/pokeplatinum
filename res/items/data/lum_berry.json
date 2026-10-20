@@ -46,5 +46,13 @@
     "bitterness": 10,
     "sourness": 0,
     "smoothness": 20
-  }
+  },
+  "name_fr": "Baie Prine",
+  "description_fr": [
+    "Ingrédient pour Poffin.\n",
+    "Utilisée ou tenue, cette Baie soigne\n",
+    "tous les problèmes de statut."
+  ],
+  "plural_fr": "Baie Prine",
+  "article_fr": null
 }

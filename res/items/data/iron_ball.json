@@ -26,5 +26,13 @@
   "battlePocket": "BATTLE_POCKET_MASK_NONE",
   "fieldUseFunc": "ITEM_USE_FUNC_NONE",
   "battleUseCategory": "BATTLE_USE_CATEGORY_NONE",
-  "itemUseParams": null
+  "itemUseParams": null,
+  "name_fr": "Balle Fer",
+  "description_fr": [
+    "Objet à tenir réduisant la Vitesse. Rend\n",
+    "les porteurs de type Vol et lévitant\n",
+    "sensibles aux capacités de type Sol."
+  ],
+  "plural_fr": "Balle Fer",
+  "article_fr": null
 }

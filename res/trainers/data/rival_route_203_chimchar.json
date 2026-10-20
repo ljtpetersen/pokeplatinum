@@ -40,6 +40,10 @@
             "en_US": [
                 "Don’t get cocky!\n",
                 "This isn’t over yet!\n"
+            ],
+            "fr_FR": [
+                "Ne t’emballe pas, ce n’est pas\n",
+                "encore terminé!\n"
             ]
         },
         {
@@ -47,6 +51,10 @@
             "en_US": [
                 "My Pokémon’s getting low on HP...\n",
                 "Things could be tight here.\n"
+            ],
+            "fr_FR": [
+                "Mon Pokémon n’a plus beaucoup de PV...\n",
+                "Les choses se corsent...\n"
             ]
         },
         {
@@ -54,7 +62,12 @@
             "en_US": [
                 "What just happened?\n",
                 "I lost?!\n"
+            ],
+            "fr_FR": [
+                "Qu’est-ce qui s’est passé?\n",
+                "J’ai perdu?!\n"
             ]
         }
-    ]
+    ],
+    "name_fr": "Eddy"
 }

@@ -12,6 +12,16 @@
         "Then you must know Professor Rowan!\r",
         "You’re just the Pokémon-searching\n",
         "expert we’ve been looking for!\r"
+      ],
+      "fr_FR": [
+        "Oh?\n",
+        "Salut, coco!\r",
+        "Tu as vu notre annonce de recrutement\n",
+        "à l’extérieur, c’est ça?\r",
+        "Hé, mais c’est un Pokédex, ça? Tu dois\n",
+        "connaître le Professeur Sorbier!\r",
+        "Nous cherchons justement quelqu’un qui\n",
+        "sache dénicher les Pokémon!\r"
       ]
     },
     {
@@ -21,6 +31,12 @@
         "Good!\r",
         "We’ve got a deadline to meet.\n",
         "Here’s your assignment.\r"
+      ],
+      "fr_FR": [
+        "Te voilà, coco!\n",
+        "Bien!\r",
+        "On a des délais à honorer.\n",
+        "Voici ta mission.\r"
       ]
     },
     {
@@ -32,6 +48,14 @@
         "gonna be able to run our main article.\r",
         "I’ll pay you with a Heart Scale and some\n",
         "Poké Balls for it."
+      ],
+      "fr_FR": [
+        "Je veux que tu m’apportes\n",
+        "un {STRVAR_1 0, 0, 0}.\r",
+        "Il nous le faut aujourd’hui, sinon\n",
+        "notre rubrique tombe à l’eau.\r",
+        "Je te donnerai une Ecaillecoeur et\n",
+        "des Poké Balls en échange, coco."
       ]
     },
     {
@@ -39,6 +63,10 @@
       "en_US": [
         "What’s up? Did you bring us\n",
         "the Pokémon we needed?\r"
+      ],
+      "fr_FR": [
+        "Quoi de neuf, coco? Tu as trouvé le\n",
+        "Pokémon dont nous avons besoin?\r"
       ]
     },
     {
@@ -54,6 +82,18 @@
         "I can write a great article now!\r",
         "This is for your trouble.\n",
         "It’s not much, but thanks!\r"
+      ],
+      "fr_FR": [
+        "Oh! Ohh! Ohhh!\n",
+        "C’est lui, coco! {STRVAR_1 0, 0, 0}!\r",
+        "Merci!\n",
+        "Laisse-moi voir un peu!\r",
+        "... Je vois, hum...\n",
+        "Oui, oui... C’est ça!\r",
+        "Merci! Je vais nous faire un\n",
+        "article du tonnerre!\r",
+        "Voilà ta récompense.\n",
+        "C’est pas grand-chose, mais merci!\r"
       ]
     },
     {
@@ -61,6 +101,10 @@
       "en_US": [
         "You really came through for us!\n",
         "I hope you’ll help us again tomorrow!"
+      ],
+      "fr_FR": [
+        "On te doit vraiment une fière chandelle!\n",
+        "J’espère que tu nous aideras demain!"
       ]
     },
     {
@@ -70,6 +114,12 @@
         "Your Bag is stuffed full.\r",
         "I’ll hold on to these until\n",
         "the next time."
+      ],
+      "fr_FR": [
+        "Oh là! C’est quoi tout ça?\n",
+        "Ton Sac est plein, coco.\r",
+        "Je mets ça de côté en attendant\n",
+        "que tu reviennes."
       ]
     },
     {
@@ -78,6 +128,11 @@
         "Oh, there you are! Here’s your\n",
         "reward for the last assignment!\r",
         "It’s not much, but thanks!\r"
+      ],
+      "fr_FR": [
+        "Oh, c’est toi, coco! Voici ta\n",
+        "récompense pour ta dernière mission!\r",
+        "C’est pas grand-chose, mais merci!\r"
       ]
     },
     {
@@ -91,6 +146,16 @@
         "Poké Balls for it, OK?\r",
         "Bring us the {STRVAR_1 0, 0, 0} before\n",
         "the date rolls over!"
+      ],
+      "fr_FR": [
+        "Y a un problème? Tu n’as toujours pas\n",
+        "capturé notre {STRVAR_1 0, 0, 0}?\r",
+        "On compte sur toi pour nous tirer\n",
+        "d’affaire, coco!\r",
+        "Je te donnerai une Ecaillecoeur et des\n",
+        "Poké Balls pour ta peine.\r",
+        "Amène ce {STRVAR_1 0, 0, 0}\n",
+        "avant la date limite!"
       ]
     },
     {
@@ -100,6 +165,12 @@
         "Pokémon I asked for...\r",
         "Things like that can happen, but\n",
         "we need you to come up big for us!"
+      ],
+      "fr_FR": [
+        "Alors, coco! Tu n’as pas réussi à\n",
+        "rapporter le Pokémon qu’on voulait...\r",
+        "Bon, ça peut arriver, mais on compte \n",
+        "sur toi pour faire ton maximum!"
       ]
     },
     {
@@ -109,6 +180,12 @@
         "based on this!\r",
         "Oh, right! I’ll have another\n",
         "assignment for you tomorrow!"
+      ],
+      "fr_FR": [
+        "Pigé! Je vais m’en servir pour rédiger\n",
+        "un article passionnant!\r",
+        "Oh, j’oubliais! J’aurai encore du\n",
+        "travail pour toi demain, coco!"
       ]
     },
     {
@@ -118,6 +195,11 @@
         "tiny, but it has many fans.\r",
         "That newspaper is printed right\n",
         "here!"
+      ],
+      "fr_FR": [
+        "Le journal de la région de Sinnoh n’est\n",
+        "pas épais, mais il a de nombreux fans.\r",
+        "Il est imprimé ici!"
       ]
     },
     {
@@ -127,11 +209,18 @@
         "is the featured top story.\r",
         "It’s a feature article on new types\n",
         "of Poké Balls.\r"
+      ],
+      "fr_FR": [
+        "“Les Poké Balls de la semaine”\n",
+        "est l’article phare de ce numéro.\r",
+        "C’est un dossier de fond sur les\n",
+        "nouvelles Poké Balls.\r"
       ]
     },
     {
       "id": "SolaceonTownPokemonNewsPress_Text_ReadWhichArticle",
-      "en_US": "Which article would you like to read?"
+      "en_US": "Which article would you like to read?",
+      "fr_FR": "Quel article voulez-vous parcourir?"
     },
     {
       "id": "SolaceonTownPokemonNewsPress_Text_ArticleDuskBall",
@@ -145,6 +234,17 @@
         "Pokémon-catching performance!\r",
         "Keep the dark at bay on your travels\n",
         "with Dusk Balls!"
+      ],
+      "fr_FR": [
+        "Les rues mal éclairées et les grottes\n",
+        "ne sont pas des endroits rassurants.\r",
+        "En cas de danger dans un lieu mal \n",
+        "éclairé, un stock de Sombre Balls\f",
+        "est votre meilleur allié!\r",
+        "Utilisez-les dans le noir pour augmenter\n",
+        "vos chances de capture!\r",
+        "Le noir vous va si bien avec les\n",
+        "Sombre Balls!"
       ]
     },
     {
@@ -163,6 +263,21 @@
         "ails the Pokémon it catches!\r",
         "That’s the Pokémon-friendly Heal Ball!\n",
         "Please, do give it a try!"
+      ],
+      "fr_FR": [
+        "Pour capturer un Pokémon, il est\n",
+        "conseillé de réduire ses PV au\f",
+        "maximum avant de jeter une Ball.\r",
+        "Mais un Pokémon ainsi capturé ne peut\n",
+        "pas combattre immédiatement.\r",
+        "C’est là que la Soin Ball entre\n",
+        "en jeu.\r",
+        "Vous pouvez réduire les PV du Pokémon,\n",
+        "l’endormir ou le paralyser.\r",
+        "La Soin Ball le soigne totalement au\n",
+        "moment de la capture!\r",
+        "La Soin Ball est la meilleure amie des\n",
+        "Pokémon! L’essayer, c’est l’adopter!"
       ]
     },
     {
@@ -178,6 +293,18 @@
         "thrown right at the start of battle!\r",
         "The Quick Ball: the perfect gift for\n",
         "the impatient Trainer!"
+      ],
+      "fr_FR": [
+        "La meilleure façon d’attraper un\n",
+        "Pokémon est de réduire ses PV.\r",
+        "Mais un Pokémon vif peut s’enfuir\n",
+        "si le combat s’éternise.\r",
+        "La Rapide Ball offre une solution\n",
+        "à ce dilemme.\r",
+        "Elle fonctionne mieux lorsqu’on \n",
+        "l’utilise dès le début du combat!\r",
+        "Rapide Ball: le cadeau idéal pour\n",
+        "un Dresseur impatient!"
       ]
     },
     {
@@ -192,6 +319,17 @@
         "for Pokémon caught fishing...\r",
         "The Dive Ball is the Poké Ball you can\n",
         "count on!"
+      ],
+      "fr_FR": [
+        "Les Pokémon de la mer nourricière sont\n",
+        "différents des autres.\r",
+        "Si vous avez le courage de vous frotter\n",
+        "à eux, alors la Scuba Ball est faite\f",
+        "pour vous!\r",
+        "Que vous soyez un plongeur averti ou\n",
+        "un pêcheur invétéré...\r",
+        "Hop, une Scuba Ball, et c’est la\n",
+        "capture assurée!"
       ]
     }
   ]

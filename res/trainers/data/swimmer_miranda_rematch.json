@@ -32,11 +32,17 @@
             "en_US": [
                 "It doesn’t matter how long it takes,\n",
                 "I’m going to the Pokémon League!\r"
+            ],
+            "fr_FR": [
+                "Peu importe le temps que ça prendra,\n",
+                "je rejoindrai la Ligue Pokémon!\r"
             ]
         },
         {
             "type": "TRMSG_DEFEAT",
-            "en_US": "Th-this is so hard...\n"
+            "en_US": "Th-this is so hard...\n",
+            "fr_FR": "C’est... vraiment très dur...\n"
         }
-    ]
+    ],
+    "name_fr": "Jade"
 }

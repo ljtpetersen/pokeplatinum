@@ -1,6 +1,8 @@
 {
     "name": "Foppa",
+    "name_fr": "Bloupi",
     "otName": "Meister",
+    "otName_fr": "Meister",
     "species": "SPECIES_MAGIKARP",
     "hpIV": 15,
     "atkIV": 25,

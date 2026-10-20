@@ -27,5 +27,13 @@
   "fieldUseFunc": "ITEM_USE_FUNC_TM_HM",
   "battleUseCategory": "BATTLE_USE_CATEGORY_NONE",
   "itemUseParams": null,
-  "teachesMove": "MOVE_CALM_MIND"
+  "teachesMove": "MOVE_CALM_MIND",
+  "name_fr": "CT04",
+  "description_fr": [
+    "Le lanceur se concentre et fait le vide\n",
+    "dans son esprit pour monter son\n",
+    "Atq. Spé. et sa Déf. Spé."
+  ],
+  "plural_fr": "CT04",
+  "article_fr": null
 }

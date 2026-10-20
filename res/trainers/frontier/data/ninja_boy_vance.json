@@ -45,6 +45,10 @@
             "en_US": [
                 "So, what exactly is a ninja,\n",
                 "you may ask."
+            ],
+            "fr_FR": [
+                "Alors comme ça, tu te demandes\n",
+                "ce qu’est un ninja."
             ]
         },
         {
@@ -52,11 +56,17 @@
             "en_US": [
                 "A ninja is powerful.\n",
                 "That will do as a start.\r"
+            ],
+            "fr_FR": [
+                "Un ninja est un être puissant.\n",
+                "C’est un bon début.\r"
             ]
         },
         {
             "type": "TRMSG_DEFEAT",
-            "en_US": "Maybe some ninjas are weak?\r"
+            "en_US": "Maybe some ninjas are weak?\r",
+            "fr_FR": "Un ninja... sait perdre avec panache?\r"
         }
-    ]
+    ],
+    "name_fr": "Valdo"
 }

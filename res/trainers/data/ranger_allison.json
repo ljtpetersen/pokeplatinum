@@ -34,17 +34,26 @@
             "en_US": [
                 "Protect the natural environment.\n",
                 "That’s what we Rangers do!\r"
+            ],
+            "fr_FR": [
+                "Le travail des Rangers, c’est de\n",
+                "protéger l’environnement.\r"
             ]
         },
         {
             "type": "TRMSG_DEFEAT",
-            "en_US": "We’ve got to get tougher than this..."
+            "en_US": "We’ve got to get tougher than this...",
+            "fr_FR": "Nous avons des progrès à faire..."
         },
         {
             "type": "TRMSG_POST_BATTLE",
             "en_US": [
                 "I love how natural it is here.\n",
                 "I wish I could live out here.\n"
+            ],
+            "fr_FR": [
+                "J’aime le côté naturel de ce lieu.\n",
+                "J’aimerais tellement pouvoir vivre ici.\n"
             ]
         },
         {
@@ -52,7 +61,12 @@
             "en_US": [
                 "What do you think? The environment\n",
                 "is unharmed in this area.\r"
+            ],
+            "fr_FR": [
+                "Qu’en penses-tu? La nature est\n",
+                "intacte dans les environs.\r"
             ]
         }
-    ]
+    ],
+    "name_fr": "Estelle"
 }

@@ -23,11 +23,16 @@
             "en_US": [
                 "Our time has come!\n",
                 "It’s Team Galactic’s time now!\r"
+            ],
+            "fr_FR": [
+                "Notre heure est venue!\n",
+                "L’heure de la Team Galaxie!\r"
             ]
         },
         {
             "type": "TRMSG_DEFEAT",
-            "en_US": "When’s it gonna be my turn...\n"
+            "en_US": "When’s it gonna be my turn...\n",
+            "fr_FR": "Je n’y arriverai donc jamais...?\n"
         },
         {
             "type": "TRMSG_POST_BATTLE",
@@ -35,7 +40,13 @@
                 "It’s too late!\r",
                 "No amount of desperation from a kid\n",
                 "like you will make a difference!\n"
+            ],
+            "fr_FR": [
+                "C’est trop tard!\r",
+                "Rien que tu puisses faire ne pourra\n",
+                "nous arrêter!"
             ]
         }
-    ]
+    ],
+    "name_fr": "Sbire"
 }

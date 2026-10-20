@@ -27,5 +27,13 @@
   "fieldUseFunc": "ITEM_USE_FUNC_TM_HM",
   "battleUseCategory": "BATTLE_USE_CATEGORY_NONE",
   "itemUseParams": null,
-  "teachesMove": "MOVE_GRASS_KNOT"
+  "teachesMove": "MOVE_GRASS_KNOT",
+  "name_fr": "CT86",
+  "description_fr": [
+    "L’ennemi est piégé dans de l’herbe qui\n",
+    "le fait trébucher. Plus il est lourd,\n",
+    "plus il y a de dégâts."
+  ],
+  "plural_fr": "CT86",
+  "article_fr": null
 }

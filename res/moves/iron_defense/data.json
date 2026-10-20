@@ -25,5 +25,13 @@
     "contest": {
         "effect": "CONTEST_EFFECT_SUPPRESS_VOLTAGE",
         "type": "CONTEST_TYPE_TOUGH"
-    }
+    },
+    "name_fr": "Mur de Fer",
+    "description_fr": [
+        "L’épiderme du lanceur\n",
+        "devient dur comme du\n",
+        "fer, ce qui augmente\n",
+        "considérablement\n",
+        "sa Défense."
+    ]
 }

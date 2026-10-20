@@ -8,6 +8,12 @@
         "in your group here.\r",
         "It makes me try even harder ’cause\n",
         "I can’t stand losing to my friends!"
+      ],
+      "fr_FR": [
+        "Ici, tu peux consulter le classement\n",
+        "des membres de ton groupe.\r",
+        "Ça me donne la rage de vaincre car\n",
+        "je déteste perdre contre mes amis!"
       ]
     },
     {
@@ -16,6 +22,11 @@
         "These rankings are nifty!\r",
         "I’m going to make a group and\n",
         "compete with all my best friends!"
+      ],
+      "fr_FR": [
+        "Ces classements sont chouettes!\r",
+        "Je vais créer un groupe et affronter\n",
+        "tous mes meilleurs amis!"
       ]
     },
     {
@@ -23,6 +34,10 @@
       "en_US": [
         "Sorry, I’m still fine-tuning this\n",
         "thingy here."
+      ],
+      "fr_FR": [
+        "Excuse-moi, je suis encore en plein\n",
+        "ajustement, là."
       ]
     }
   ]

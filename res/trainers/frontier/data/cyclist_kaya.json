@@ -59,6 +59,10 @@
             "en_US": [
                 "I’ll ride toward the breaking dawn with\n",
                 "you on my mind."
+            ],
+            "fr_FR": [
+                "Ta présence m’inspire. Oui, on peut\n",
+                "être à la fois cycliste et philosophe..."
             ]
         },
         {
@@ -66,6 +70,10 @@
             "en_US": [
                 "I will shift my gears higher and higher\n",
                 "until I catch up to you...\r"
+            ],
+            "fr_FR": [
+                "Au fur et à mesure des kilomètres, le\n",
+                "but ultime se rapproche...\r"
             ]
         },
         {
@@ -73,7 +81,12 @@
             "en_US": [
                 "My tires have deflated, and\n",
                 "so has my heart...\r"
+            ],
+            "fr_FR": [
+                "Euh... Je vais me contenter d’être\n",
+                "cycliste aujourd’hui...\r"
             ]
         }
-    ]
+    ],
+    "name_fr": "Kinoa"
 }

@@ -26,5 +26,13 @@
   "battlePocket": "BATTLE_POCKET_MASK_NONE",
   "fieldUseFunc": "ITEM_USE_FUNC_NONE",
   "battleUseCategory": "BATTLE_USE_CATEGORY_NONE",
-  "itemUseParams": {}
+  "itemUseParams": {},
+  "name_fr": "Vieil Ambre",
+  "description_fr": [
+    "Un morceau d’ambre contenant\n",
+    "l’ADN d’un ancien Pokémon. Il est\n",
+    "de couleur jaune."
+  ],
+  "plural_fr": "Vieil Ambre",
+  "article_fr": null
 }

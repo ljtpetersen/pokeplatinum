@@ -26,5 +26,12 @@
     "contest": {
         "effect": "CONTEST_EFFECT_PITY_POINTS",
         "type": "CONTEST_TYPE_SMART"
-    }
+    },
+    "name_fr": "Puis. Cachée",
+    "description_fr": [
+        "Attaque dont la\n",
+        "puissance et le type\n",
+        "dépendent du Pokémon\n",
+        "qui l’utilise."
+    ]
 }

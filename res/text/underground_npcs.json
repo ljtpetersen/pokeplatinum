@@ -6,6 +6,12 @@
       "en_US": [
         "You’ve got a Sphere or two?\n",
         "If you do, I’ll trade you something."
+      ],
+      "fr_FR": [
+        "Moi, les Sphères, c’est mon dada...\n",
+        "Je suis prêt à tout pour en récupérer.\r",
+        "Mais si tu n’en as pas, je rachète aussi\n",
+        "les objets dont tu n’as plus besoin."
       ]
     },
     {
@@ -13,6 +19,10 @@
       "en_US": [
         "Which Sphere will you trade me for\n",
         "my {STRVAR_1 25, 2, 0}?"
+      ],
+      "fr_FR": [
+        "Quelle Sphère voudrais-tu échanger\n",
+        "contre mon objet {STRVAR_1 25, 2, 0}?"
       ]
     },
     {
@@ -20,6 +30,10 @@
       "en_US": [
         "All right!\n",
         "Let’s do this trade!"
+      ],
+      "fr_FR": [
+        "D’accord!\n",
+        "Marché conclu!"
       ]
     },
     {
@@ -27,17 +41,26 @@
       "en_US": [
         "Oh, now wait a second!\n",
         "You don’t have any room for this!"
+      ],
+      "fr_FR": [
+        "Hé, attends une seconde!\n",
+        "Tu n’as pas de place pour ça!"
       ]
     },
     {
       "id": "UndergroundNPCs_Text_WrongKindOfSphere",
-      "en_US": "That’s not the right kind of Sphere!"
+      "en_US": "That’s not the right kind of Sphere!",
+      "fr_FR": "Ce n’est pas le bon type de Sphère!"
     },
     {
       "id": "UndergroundNPCs_Text_SphereTooSmall",
       "en_US": [
         "Hmm...\n",
         "No, this Sphere’s not big enough."
+      ],
+      "fr_FR": [
+        "Hum...\n",
+        "Cette Sphère n’est pas assez grosse."
       ]
     },
     {
@@ -45,28 +68,39 @@
       "en_US": [
         "The {STRVAR_1 25, 2, 0}\n",
         "was obtained!"
-      ]
+      ],
+      "fr_FR": "Vous obtenez l’objet {STRVAR_1 25, 2, 0}!"
     },
     {
       "id": "UndergroundNPCs_Text_YouObtainedSphere",
       "en_US": [
         "You obtained a {STRVAR_1 25, 2, 0},\n",
         "size {STRVAR_1 51, 6, 0}."
+      ],
+      "fr_FR": [
+        "Vous obtenez une {STRVAR_1 25, 2, 0}\n",
+        "de taille {STRVAR_1 51, 6, 0}."
       ]
     },
     {
       "id": "UndergroundNPCs_Text_DoYouNeedAnythingElse",
-      "en_US": "Do you need anything else?"
+      "en_US": "Do you need anything else?",
+      "fr_FR": "Tu as besoin d’autre chose?"
     },
     {
       "id": "UndergroundNPCs_Text_BeSeeingYouThen",
-      "en_US": "I’ll be seeing you, then!"
+      "en_US": "I’ll be seeing you, then!",
+      "fr_FR": "Très bien, à la prochaine!"
     },
     {
       "id": "UndergroundNPCs_Text_ConfirmTradePrompt",
       "en_US": [
         "You’ll trade your {STRVAR_1 25, 2, 0}\n",
         "for my {STRVAR_1 25, 4, 0}?"
+      ],
+      "fr_FR": [
+        "Tu échanges ton objet {STRVAR_1 25, 2, 0}\n",
+        "contre ma {STRVAR_1 25, 4, 0}?"
       ]
     },
     {
@@ -74,6 +108,10 @@
       "en_US": [
         "All right!\n",
         "Let’s trade!"
+      ],
+      "fr_FR": [
+        "D’accord!\n",
+        "Marché conclu!"
       ]
     },
     {
@@ -81,37 +119,51 @@
       "en_US": [
         "Oh, now wait a second! You don’t\n",
         "have room for another Sphere!"
+      ],
+      "fr_FR": [
+        "Hé, attends une seconde! Tu n’as pas\n",
+        "de place pour une autre Sphère!"
       ]
     },
     {
       "id": "UndergroundNPCs_Text_GetTrap",
-      "en_US": "GET TRAP"
+      "en_US": "GET TRAP",
+      "fr_FR": "PRENDRE PIEGE"
     },
     {
       "id": "UndergroundNPCs_Text_GiveTrap",
-      "en_US": "GIVE TRAP"
+      "en_US": "GIVE TRAP",
+      "fr_FR": "DONNER PIEGE"
     },
     {
       "id": "UndergroundNPCs_Text_Exit_Trap",
-      "en_US": "EXIT"
+      "en_US": "EXIT",
+      "fr_FR": "QUITTER"
     },
     {
       "id": "UndergroundNPCs_Text_GetGoods",
-      "en_US": "GET GOODS"
+      "en_US": "GET GOODS",
+      "fr_FR": "PRENDRE"
     },
     {
       "id": "UndergroundNPCs_Text_GiveGoods",
-      "en_US": "GIVE GOODS"
+      "en_US": "GIVE GOODS",
+      "fr_FR": "DONNER"
     },
     {
       "id": "UndergroundNPCs_Text_Exit_Goods",
-      "en_US": "EXIT"
+      "en_US": "EXIT",
+      "fr_FR": "QUITTER"
     },
     {
       "id": "UndergroundNPCs_Text_SpheresOnHand",
       "en_US": [
         "Spheres\n",
         " on hand"
+      ],
+      "fr_FR": [
+        "Sphères\n",
+        "dispo."
       ]
     },
     {
@@ -119,6 +171,10 @@
       "en_US": [
         "Traps on\n",
         " hand"
+      ],
+      "fr_FR": [
+        "Pièges\n",
+        "dispo."
       ]
     },
     {
@@ -126,44 +182,62 @@
       "en_US": [
         "Goods on\n",
         " hand"
+      ],
+      "fr_FR": [
+        "Articles\n",
+        "dispo."
       ]
     },
     {
       "id": "UndergroundNPCs_Text_Cancel",
-      "en_US": "CANCEL"
+      "en_US": "CANCEL",
+      "fr_FR": "ANNULER"
     },
     {
       "id": "UndergroundNPCs_Text_RequiredSphere",
-      "en_US": "Required Sphere"
+      "en_US": "Required Sphere",
+      "fr_FR": "Sphère requise"
     },
     {
       "id": "UndergroundNPCs_Text_OfferedSphere",
-      "en_US": "Offered Sphere"
+      "en_US": "Offered Sphere",
+      "fr_FR": "Sphère proposée"
     },
     {
       "id": "UndergroundNPCs_Text_SphereTemplate",
-      "en_US": "{STRVAR_1 25, 2, 0} {STRVAR_1 51, 6, 0}"
+      "en_US": "{STRVAR_1 25, 2, 0} {STRVAR_1 51, 6, 0}",
+      "fr_FR": "{STRVAR_1 25, 2, 0} {STRVAR_1 51, 6, 0}"
     },
     {
       "id": "UndergroundNPCs_Text_NotForSale",
-      "en_US": "NOT FOR SALE"
+      "en_US": "NOT FOR SALE",
+      "fr_FR": "PAS A VENDRE"
     },
     {
       "id": "UndergroundNPCs_Text_IllTradeSpheresForTreasures",
       "en_US": [
         "You have any treasures? I’ll trade\n",
         "you some Spheres for them."
+      ],
+      "fr_FR": [
+        "Tu as des Trésors? Je te les\n",
+        "échange contre des Sphères."
       ]
     },
     {
       "id": "UndergroundNPCs_Text_GiveTreasures",
-      "en_US": "GIVE TREASURES"
+      "en_US": "GIVE TREASURES",
+      "fr_FR": "DONNER TRESORS"
     },
     {
       "id": "UndergroundNPCs_Text_TreasuresOnHand",
       "en_US": [
         "Treasures\n",
         " on hand"
+      ],
+      "fr_FR": [
+        "Trésors\n",
+        "dispo."
       ]
     },
     {
@@ -433,6 +507,28 @@
         "Man in Eterna City.\r",
         "I have to get going now.\n",
         "I’ll see you around!"
+      ],
+      "fr_FR": [
+        "Pierrick: Hé! {STRVAR_1 3, 0, 0}! C’est la\n",
+        "première fois que tu viens ici, non?\r",
+        "Bienvenue dans le Souterrain de Sinnoh!\r",
+        "Hein? Tu te demandes où c’est?\n",
+        "Regarde un peu ton Radar!\r",
+        "C’est un gigantesque réseau de\n",
+        "galeries qui courent sous Sinnoh.\r",
+        "Quoi? Tu veux savoir ce que je fais\n",
+        "dans les profondeurs?\r",
+        "Ce n’est pas une question facile.\r",
+        "A vrai dire, tu peux faire ce\n",
+        "que tu veux par ici.\r",
+        "Tu peux déterrer des Trésors,\n",
+        "des Sphères, bâtir une Base Secrète...\r",
+        "Tu peux aussi t’amuser avec\n",
+        "des amis.\r",
+        "Tu devrais parler à l’Homme du\n",
+        "Souterrain à Vestigion.\r",
+        "Je dois y aller, maintenant.\n",
+        "A la prochaine!"
       ]
     }
   ]

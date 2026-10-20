@@ -7,7 +7,10 @@
         "special_attack": 90,
         "special_defense": 80
     },
-    "types": [ "TYPE_ELECTRIC", "TYPE_ELECTRIC" ],
+    "types": [
+        "TYPE_ELECTRIC",
+        "TYPE_ELECTRIC"
+    ],
     "catch_rate": 75,
     "base_exp_reward": 122,
     "ev_yields": {
@@ -26,18 +29,36 @@
     "hatch_cycles": 10,
     "base_friendship": 70,
     "exp_rate": "EXP_RATE_MEDIUM_FAST",
-    "egg_groups": [ "EGG_GROUP_FIELD", "EGG_GROUP_FAIRY" ],
-    "abilities": [ "ABILITY_STATIC", "ABILITY_NONE" ],
+    "egg_groups": [
+        "EGG_GROUP_FIELD",
+        "EGG_GROUP_FAIRY"
+    ],
+    "abilities": [
+        "ABILITY_STATIC",
+        "ABILITY_NONE"
+    ],
     "safari_flee_rate": 0,
     "body_color": "MON_COLOR_YELLOW",
     "flip_sprite": false,
     "icon_palette": 0,
     "learnset": {
         "by_level": [
-            [ 1, "MOVE_THUNDER_SHOCK" ],
-            [ 1, "MOVE_TAIL_WHIP" ],
-            [ 1, "MOVE_QUICK_ATTACK" ],
-            [ 1, "MOVE_THUNDERBOLT" ]
+            [
+                1,
+                "MOVE_THUNDER_SHOCK"
+            ],
+            [
+                1,
+                "MOVE_TAIL_WHIP"
+            ],
+            [
+                1,
+                "MOVE_QUICK_ATTACK"
+            ],
+            [
+                1,
+                "MOVE_THUNDERBOLT"
+            ]
         ],
         "by_tm": [
             "TM01",
@@ -89,7 +110,7 @@
             "MOVE_SWIFT"
         ]
     },
-    "evolutions": [  ],
+    "evolutions": [],
     "offspring": "SPECIES_PICHU",
     "footprint": {
         "has": true,
@@ -112,9 +133,9 @@
             "name": "RAICHU",
             "category": "Mouse Pokémon",
             "entry_text": [
-                "Its tail discharges electricity into\n",
-                "the ground, protecting it from\n",
-                "getting shocked."
+                "It turns aggressive if it has too\n",
+                "much electricity in its body. It\n",
+                "discharges power through its tail."
             ]
         },
         "fr": {
@@ -160,6 +181,18 @@
                 "からだの　でんきが　たまりすぎると\n",
                 "こうげきてきな　きもちになる。\n",
                 "しっぽから　でんきを　にがす。"
+            ]
+        },
+        "local_version": {
+            "entry_text": [
+                "Its tail discharges electricity into\n",
+                "the ground, protecting it from\n",
+                "getting shocked."
+            ],
+            "entry_text_fr": [
+                "Il se protège des décharges grâce\n",
+                "à sa queue qui dissipe l’électricité\n",
+                "dans le sol."
             ]
         }
     },

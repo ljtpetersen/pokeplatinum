@@ -109,6 +109,10 @@
             "en_US": [
                 "Safe driving and safer battling.\n",
                 "That’s my motto."
+            ],
+            "fr_FR": [
+                "Au combat ou à vélo, prudence\n",
+                "est le maître mot."
             ]
         },
         {
@@ -116,6 +120,10 @@
             "en_US": [
                 "You can be patient in a battle.\n",
                 "Victory will come eventually.\r"
+            ],
+            "fr_FR": [
+                "Si tu fais preuve de patience au combat,\n",
+                "au final, la victoire te sourira.\r"
             ]
         },
         {
@@ -123,7 +131,12 @@
             "en_US": [
                 "I’ll keep to my own pace.\n",
                 "I’ll catch up to you one day.\r"
+            ],
+            "fr_FR": [
+                "Je fais les choses à mon rythme.\n",
+                "Un jour, je serai meilleure que toi.\r"
             ]
         }
-    ]
+    ],
+    "name_fr": "Hedvige"
 }

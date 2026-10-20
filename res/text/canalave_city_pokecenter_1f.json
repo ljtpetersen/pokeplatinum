@@ -6,6 +6,10 @@
       "en_US": [
         "It’s easy to get to Iron Island.\n",
         "It’s one boat trip from here."
+      ],
+      "fr_FR": [
+        "Pour aller à l’Ile de Fer? C’est un jeu\n",
+        "d’enfant! Suffit de prendre le bateau!"
       ]
     },
     {
@@ -17,6 +21,15 @@
         "until I beat Byron, the Gym Leader.\r",
         "I should make a note of that on the\n",
         "Pokétch app Memo Pad."
+      ],
+      "fr_FR": [
+        "J’ai eu la chance d’obtenir la CS Force\n",
+        "sur l’Ile de Fer.\r",
+        "Mais je ne pourrai déplacer des rochers\n",
+        "avec qu’après avoir vaincu Charles,\f",
+        "le Champion d’Arène.\r",
+        "Je devrais noter ça sur le Carnet de\n",
+        "ma Pokémontre."
       ]
     },
     {
@@ -25,6 +38,12 @@
         "It’s possible for one kind of Pokémon\n",
         "to have different abilities.\r",
         "That’s news to me!"
+      ],
+      "fr_FR": [
+        "Des Pokémon de la même espèce peuvent\n",
+        "avoir des capacités spéciales\f",
+        "différentes.\r",
+        "Je tombe des nues!"
       ]
     },
     {
@@ -36,6 +55,13 @@
         "Plaza.\r",
         "The access to the Wi-Fi Plaza is through\n",
         "the basement of any Pokémon Center."
+      ],
+      "fr_FR": [
+        "Il paraît qu’en te connectant à la\n",
+        "CWF Nintendo, tu peux aller au\f",
+        "Square Wi-Fi. C’est cool, non?\r",
+        "Il est accessible à partir du sous-sol\n",
+        "de n’importe quel Centre Pokémon."
       ]
     },
     {
@@ -43,6 +69,10 @@
       "en_US": [
         "Come on, let’s show off our Pokémon!\n",
         "Let’s do battle, kiddo!"
+      ],
+      "fr_FR": [
+        "Allez, sortons nos Pokémon!\n",
+        "En garde!"
       ]
     },
     {
@@ -50,6 +80,10 @@
       "en_US": [
         "Your spirit’s vibes...\n",
         "You’ve got rock in your veins!\r"
+      ],
+      "fr_FR": [
+        "Ces vibrations qui émanent de toi...\n",
+        "Tu as le rock dans le sang!\r"
       ]
     },
     {
@@ -57,6 +91,10 @@
       "en_US": [
         "My guitar...\n",
         "It lies broken and weeping..."
+      ],
+      "fr_FR": [
+        "Ma guitare...\n",
+        "Elle ne s’en remettra pas..."
       ]
     },
     {
@@ -64,6 +102,10 @@
       "en_US": [
         "Pokémon and rock ’n’ roll are all\n",
         "anyone needs to survive in this world!"
+      ],
+      "fr_FR": [
+        "Les Pokémon et le rock... c’est tout ce\n",
+        "dont on a besoin pour vivre!"
       ]
     }
   ]

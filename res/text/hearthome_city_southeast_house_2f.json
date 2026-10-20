@@ -6,6 +6,10 @@
       "en_US": [
         "I have something for your Pokémon\n",
         "to hold. Take this {STRVAR_1 8, 0, 0}.\r"
+      ],
+      "fr_FR": [
+        "J’ai un cadeau pour ton équipe de\n",
+        "Pokémon. Prends ce {STRVAR_1 8, 0, 0}.\r"
       ]
     },
     {
@@ -17,11 +21,21 @@
         "time it inflicts damage.\r",
         "That was given to me when I was on\n",
         "vacation, but I already had one."
+      ],
+      "fr_FR": [
+        "Le {STRVAR_1 8, 0, 0} doit être tenu par\n",
+        "un Pokémon en combat.\r",
+        "Il restaure quelques PV au porteur\n",
+        "chaque fois que celui-ci inflige\f",
+        "des dégâts.\r",
+        "On me l’a donné quand j’étais en\n",
+        "vacances, mais j’en avais déjà un."
       ]
     },
     {
       "id": "HearthomeCitySoutheastHouse2F_Text_ClefairyCryPippi",
-      "en_US": "CLEFAIRY: Pippi!"
+      "en_US": "CLEFAIRY: Pippi!",
+      "fr_FR": "MELOFEE: Méloféééééée!"
     }
   ]
 }

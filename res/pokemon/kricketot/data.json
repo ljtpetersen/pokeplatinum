@@ -7,7 +7,10 @@
         "special_attack": 25,
         "special_defense": 41
     },
-    "types": [ "TYPE_BUG", "TYPE_BUG" ],
+    "types": [
+        "TYPE_BUG",
+        "TYPE_BUG"
+    ],
     "catch_rate": 255,
     "base_exp_reward": 54,
     "ev_yields": {
@@ -26,19 +29,34 @@
     "hatch_cycles": 15,
     "base_friendship": 70,
     "exp_rate": "EXP_RATE_MEDIUM_SLOW",
-    "egg_groups": [ "EGG_GROUP_BUG", "EGG_GROUP_BUG" ],
-    "abilities": [ "ABILITY_SHED_SKIN", "ABILITY_NONE" ],
+    "egg_groups": [
+        "EGG_GROUP_BUG",
+        "EGG_GROUP_BUG"
+    ],
+    "abilities": [
+        "ABILITY_SHED_SKIN",
+        "ABILITY_NONE"
+    ],
     "safari_flee_rate": 0,
     "body_color": "MON_COLOR_RED",
     "flip_sprite": false,
     "icon_palette": 0,
     "learnset": {
         "by_level": [
-            [ 1, "MOVE_GROWL" ],
-            [ 1, "MOVE_BIDE" ],
-            [ 16, "MOVE_BUG_BITE" ]
+            [
+                1,
+                "MOVE_GROWL"
+            ],
+            [
+                1,
+                "MOVE_BIDE"
+            ],
+            [
+                16,
+                "MOVE_BUG_BITE"
+            ]
         ],
-        "by_tm": [  ],
+        "by_tm": [],
         "by_tutor": [
             "MOVE_MUD_SLAP",
             "MOVE_SNORE",
@@ -75,9 +93,9 @@
             "name": "KRICKETOT",
             "category": "Cricket Pokémon",
             "entry_text": [
-                "Its legs are short. Whenever it\n",
-                "stumbles, its stiff antennae clack\n",
-                "with a xylophone-like sound."
+                "It shakes its head back to front,\n",
+                "causing its antennae to hit each\n",
+                "other and sound like a xylophone."
             ]
         },
         "fr": {
@@ -123,6 +141,18 @@
                 "あたまを　ぜんごに　ゆすって\n",
                 "しょっかくを　ぶつけあうことで\n",
                 "もっきんのような　おとを　ならす。"
+            ]
+        },
+        "local_version": {
+            "entry_text": [
+                "Its legs are short. Whenever it\n",
+                "stumbles, its stiff antennae clack\n",
+                "with a xylophone-like sound."
+            ],
+            "entry_text_fr": [
+                "Quand il tombe du haut de ses\n",
+                "petites pattes, ses antennes\n",
+                "font un bruit de xylophone."
             ]
         }
     },

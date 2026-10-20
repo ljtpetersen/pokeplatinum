@@ -6,11 +6,16 @@
       "en_US": [
         "Welcome to Geonet, the high-tech\n",
         "globe!\r"
+      ],
+      "fr_FR": [
+        "Bienvenue à Géonet,\n",
+        "le globe high-tech!\r"
       ]
     },
     {
       "id": "pl_msg_00000356_00001",
-      "en_US": "What would you like to do?"
+      "en_US": "What would you like to do?",
+      "fr_FR": "Que voulez-vous faire?"
     },
     {
       "id": "pl_msg_00000356_00002",
@@ -23,6 +28,16 @@
         "Nintendo WFC.\r",
         "Would you like to register your\n",
         "home’s location area?"
+      ],
+      "fr_FR": [
+        "Vous pouvez enregistrer ici l’endroit\n",
+        "où vous vivez.\r",
+        "Cette information peut être vue par vos\n",
+        "amis ou des inconnus via la\r",
+        "communication sans fil DS ou via la\n",
+        "CWF Nintendo.\r",
+        "Voulez-vous enregistrer l’endroit où\n",
+        "vous vivez?"
       ]
     },
     {
@@ -30,6 +45,10 @@
       "en_US": [
         "Please select the location in which\n",
         "you live."
+      ],
+      "fr_FR": [
+        "Veuillez sélectionner l’endroit où\n",
+        "vous vivez."
       ]
     },
     {
@@ -37,6 +56,10 @@
       "en_US": [
         "Please select the area in which\n",
         "you live."
+      ],
+      "fr_FR": [
+        "Veuillez sélectionner la zone dans\n",
+        "laquelle vous vivez."
       ]
     },
     {
@@ -46,40 +69,57 @@
         "your registered location data.\r",
         "Should this location be registered\n",
         "as where you live?"
+      ],
+      "fr_FR": [
+        "Une fois l’enregistrement terminé, vous\n",
+        "ne pourrez pas changer ces données.\r",
+        "Voulez-vous enregistrer ces données?"
       ]
     },
     {
       "id": "pl_msg_00000356_00006",
-      "en_US": "{STRVAR_1 36, 0, 0}"
+      "en_US": "{STRVAR_1 36, 0, 0}",
+      "fr_FR": "{STRVAR_1 36, 0, 0}"
     },
     {
       "id": "pl_msg_00000356_00007",
-      "en_US": "{STRVAR_1 37, 0, 0}"
+      "en_US": "{STRVAR_1 37, 0, 0}",
+      "fr_FR": "{STRVAR_1 37, 0, 0}"
     },
     {
       "id": "pl_msg_00000356_00008",
-      "en_US": "YES"
+      "en_US": "YES",
+      "fr_FR": "OUI"
     },
     {
       "id": "pl_msg_00000356_00009",
-      "en_US": "NO"
+      "en_US": "NO",
+      "fr_FR": "NON"
     },
     {
       "id": "pl_msg_00000356_00010",
-      "en_US": "SEE LIST"
+      "en_US": "SEE LIST",
+      "fr_FR": "VOIR LIEUX"
     },
     {
       "id": "pl_msg_00000356_00011",
-      "en_US": "REGISTER"
+      "en_US": "REGISTER",
+      "fr_FR": "ENREGISTRER"
     },
     {
       "id": "pl_msg_00000356_00012",
-      "en_US": "EXIT"
+      "en_US": "EXIT",
+      "fr_FR": "RETOUR"
     },
     {
       "id": "pl_msg_00000356_00013",
       "en_US": [
         "Your registered location:\n",
+        "{STRVAR_1 36, 0, 0}\n",
+        "{STRVAR_1 37, 1, 0}"
+      ],
+      "fr_FR": [
+        "Lieu enregistré:\n",
         "{STRVAR_1 36, 0, 0}\n",
         "{STRVAR_1 37, 1, 0}"
       ]
@@ -89,6 +129,10 @@
       "en_US": [
         "To display registered locations, line up\n",
         "the cursor, and press the X Button."
+      ],
+      "fr_FR": [
+        "Pour afficher un lieu, placez-y le\n",
+        "curseur et appuyez sur le bouton X."
       ]
     }
   ]

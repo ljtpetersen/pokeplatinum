@@ -7,7 +7,10 @@
         "special_attack": 20,
         "special_defense": 40
     },
-    "types": [ "TYPE_NORMAL", "TYPE_NORMAL" ],
+    "types": [
+        "TYPE_NORMAL",
+        "TYPE_NORMAL"
+    ],
     "catch_rate": 150,
     "base_exp_reward": 33,
     "ev_yields": {
@@ -26,20 +29,44 @@
     "hatch_cycles": 10,
     "base_friendship": 70,
     "exp_rate": "EXP_RATE_FAST",
-    "egg_groups": [ "EGG_GROUP_UNDISCOVERED", "EGG_GROUP_UNDISCOVERED" ],
-    "abilities": [ "ABILITY_THICK_FAT", "ABILITY_HUGE_POWER" ],
+    "egg_groups": [
+        "EGG_GROUP_UNDISCOVERED",
+        "EGG_GROUP_UNDISCOVERED"
+    ],
+    "abilities": [
+        "ABILITY_THICK_FAT",
+        "ABILITY_HUGE_POWER"
+    ],
     "safari_flee_rate": 120,
     "body_color": "MON_COLOR_BLUE",
     "flip_sprite": false,
     "icon_palette": 2,
     "learnset": {
         "by_level": [
-            [ 1, "MOVE_SPLASH" ],
-            [ 2, "MOVE_CHARM" ],
-            [ 7, "MOVE_TAIL_WHIP" ],
-            [ 10, "MOVE_BUBBLE" ],
-            [ 15, "MOVE_SLAM" ],
-            [ 18, "MOVE_WATER_GUN" ]
+            [
+                1,
+                "MOVE_SPLASH"
+            ],
+            [
+                2,
+                "MOVE_CHARM"
+            ],
+            [
+                7,
+                "MOVE_TAIL_WHIP"
+            ],
+            [
+                10,
+                "MOVE_BUBBLE"
+            ],
+            [
+                15,
+                "MOVE_SLAM"
+            ],
+            [
+                18,
+                "MOVE_WATER_GUN"
+            ]
         ],
         "by_tm": [
             "TM03",
@@ -87,7 +114,10 @@
         ]
     },
     "evolutions": [
-        [ "EVO_LEVEL_HAPPINESS", "SPECIES_MARILL" ]
+        [
+            "EVO_LEVEL_HAPPINESS",
+            "SPECIES_MARILL"
+        ]
     ],
     "offspring": "SPECIES_AZURILL",
     "footprint": {
@@ -111,9 +141,9 @@
             "name": "AZURILL",
             "category": "Polka Dot Pokémon",
             "entry_text": [
-                "Its tail bounces like a rubber ball.\n",
-                "It flings that tail around to fight\n",
-                "opponents bigger than itself."
+                "A Pokémon that lives by water.\n",
+                "It moves quickly on land by\n",
+                "bouncing on its big tail."
             ]
         },
         "fr": {
@@ -159,6 +189,18 @@
                 "おおきな　しっぽに　のって　はずむと\n",
                 "ちじょうでは　はやく　いどうできる。\n",
                 "みずべで　くらす　ポケモン。"
+            ]
+        },
+        "local_version": {
+            "entry_text": [
+                "Its tail bounces like a rubber ball.\n",
+                "It flings that tail around to fight\n",
+                "opponents bigger than itself."
+            ],
+            "entry_text_fr": [
+                "Sa queue est plus rebondissante\n",
+                "qu’une balle du même nom. C’est\n",
+                "aussi une massue très puissante."
             ]
         }
     },

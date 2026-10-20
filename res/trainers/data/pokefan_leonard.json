@@ -44,6 +44,10 @@
             "en_US": [
                 "I can’t explain it...\n",
                 "Being here compels me to battle!\r"
+            ],
+            "fr_FR": [
+                "Je ne peux pas l’expliquer...\n",
+                "Etre ici me pousse à me battre!\r"
             ]
         },
         {
@@ -51,6 +55,10 @@
             "en_US": [
                 "Hunh?!\n",
                 "What was I just doing?!\n"
+            ],
+            "fr_FR": [
+                "Hein?!\n",
+                "Mais qu’est-ce que je faisais?!\n"
             ]
         },
         {
@@ -59,7 +67,14 @@
                 "The desire to do battle lingers on...\r",
                 "Do such spirits of Pokémon still roam\n",
                 "within these walls?\n"
+            ],
+            "fr_FR": [
+                "La volonté de combattre ne disparaît\n",
+                "jamais...\r",
+                "Est-ce parce que l’esprit des Pokémon\n",
+                "rôde entre ces murs?"
             ]
         }
-    ]
+    ],
+    "name_fr": "Arnie"
 }

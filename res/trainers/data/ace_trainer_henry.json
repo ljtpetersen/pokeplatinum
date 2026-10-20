@@ -46,6 +46,12 @@
                 "if my journey is now coming to an end.\r",
                 "But, before the final chapter is\n",
                 "written, I must pen your defeat!\r"
+            ],
+            "fr_FR": [
+                "La Route Victoire... Quelque part, je\n",
+                "sens que mon voyage touche à sa fin.\r",
+                "Mais avant d’entamer le dernier \n",
+                "chapitre, je dois signer ta défaite!\r"
             ]
         },
         {
@@ -53,6 +59,10 @@
             "en_US": [
                 "That wasn’t how I planned the final\n",
                 "chapter to go in my writing class..."
+            ],
+            "fr_FR": [
+                "Je ne le voyais pas comme ça, mon\n",
+                "dernier chapitre..."
             ]
         },
         {
@@ -62,7 +72,14 @@
                 "your goal.\r",
                 "That perseverance is what’s important\n",
                 "to Trainers. That’s in my book, too."
+            ],
+            "fr_FR": [
+                "Si tu n’abandonnes pas, tu\n",
+                "atteindras ton but.\r",
+                "L’obstination, c’est la première qualité\n",
+                "du Dresseur. Je le dis dans mon livre."
             ]
         }
-    ]
+    ],
+    "name_fr": "Hippolyte"
 }

@@ -59,7 +59,12 @@
             "en_US": [
                 "What’s with you?!\n",
                 "Do you have a vendetta against me?!\n"
+            ],
+            "fr_FR": [
+                "Encore battue...\n",
+                "Tu as une dent contre moi ou quoi?\n"
             ]
         }
-    ]
+    ],
+    "name_fr": "Mars"
 }

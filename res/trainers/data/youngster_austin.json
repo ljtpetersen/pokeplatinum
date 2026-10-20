@@ -41,6 +41,10 @@
             "en_US": [
                 "I wear shorts the whole year!\n",
                 "I’ve got energy to burn!\r"
+            ],
+            "fr_FR": [
+                "Je porte des shorts toute l’année!\n",
+                "Et je suis hyperactif!\r"
             ]
         },
         {
@@ -48,6 +52,10 @@
             "en_US": [
                 "I couldn’t win with just energy...\n",
                 "Nothing’s really that easy!\n"
+            ],
+            "fr_FR": [
+                "Etre hyperactif ne suffit pas...\n",
+                "Ce serait trop facile!\n"
             ]
         },
         {
@@ -55,6 +63,11 @@
             "en_US": [
                 "Pokémon don’t wear clothes.\n",
                 "I worry about them getting cold.\n"
+            ],
+            "fr_FR": [
+                "Les Pokémon ne portent pas de\n",
+                "vêtements. Tu crois qu’ils\f",
+                "risquent d’attraper froid?\n"
             ]
         },
         {
@@ -62,7 +75,12 @@
             "en_US": [
                 "I wear shorts! I have lots of\n",
                 "energy! I’m not losing to you!\r"
+            ],
+            "fr_FR": [
+                "Je porte des shorts! \n",
+                "Je suis hyperactif! Je vais te battre!\r"
             ]
         }
-    ]
+    ],
+    "name_fr": "Julio"
 }

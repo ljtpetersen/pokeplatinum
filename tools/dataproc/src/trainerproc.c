@@ -242,7 +242,7 @@ static void emit_name(datafile_t *df, enum TrainerID trainer, const TrainerHeade
     char buf[BUFSIZE]  = { 0 };
     char buf2[BUFSIZE] = { 0 };
 
-    const char       *name  = string(".name");
+    const char       *name  = string(".name" ATTRIBUTE_EXTENSION);
     enum TrainerClass class = trainer_header->trainerType;
 
     bool compressed = true;
@@ -311,8 +311,8 @@ static void proc_messages(datafile_t *df, enum TrainerID trainer) {
             }
         }
 
-        if (dp_hasmemb(entry, "en_US")) {
-            datanode_t content = dp_objmemb(entry, "en_US");
+        if (dp_hasmemb(entry, TEXT_BANK_KEY)) {
+            datanode_t content = dp_objmemb(entry, TEXT_BANK_KEY);
             if (content.type == DATAPROC_T_STRING) {
                 const char *line           = dp_string(content);
                 p_messages->line_count[i]  = 1;
@@ -335,7 +335,7 @@ static void proc_messages(datafile_t *df, enum TrainerID trainer) {
             p_messages->garbage[i] = dp_u64(dp_objmemb(entry, "garbage"));
         }
         else {
-            dp_error(&entry, "expected exactly one of either 'en_US' or 'garbage'");
+            dp_error(&entry, "expected exactly one of either '" TEXT_BANK_KEY "' or 'garbage'");
         }
     }
 
@@ -386,10 +386,10 @@ static int emit_trainer_messages(enum_seq_t *trainers) {
                 dp_obj_putint(&bank_entry, "garbage", entry->garbage[message_id]);
             }
             else if (entry->line_count[message_id] == 1) {
-                dp_obj_putstring(&bank_entry, "en_US", entry->messages[message_id][0]);
+                dp_obj_putstring(&bank_entry, TEXT_BANK_KEY, entry->messages[message_id][0]);
             }
             else {
-                datanode_t lines = dp_obj_putarray(&bank_entry, "en_US");
+                datanode_t lines = dp_obj_putarray(&bank_entry, TEXT_BANK_KEY);
                 for (size_t line = 0; line < entry->line_count[message_id]; line++) {
                     dp_arr_appstring(&lines, entry->messages[message_id][line]);
                 }

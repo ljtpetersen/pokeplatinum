@@ -21,6 +21,24 @@
         "Electric-type Pokémon!\r",
         "That’s all I have to say.\n",
         "The rest is up to you!"
+      ],
+      "fr_FR": [
+        "Salut!\n",
+        "Comment ça va, futur Maître?\r",
+        "Laisse-moi voir ton Etui Dresseur,\n",
+        "que je compte tes Badges.\r",
+        "Un, deux, trois...\n",
+        "Waouh! Génial! Déjà sept!\r",
+        "Ça veut dire que si tu bats \n",
+        "ce Champion, tu pourras te\f",
+        "lancer dans la Ligue Pokémon!\r",
+        "Ça veut aussi dire que le conseil que je \n",
+        "vais te donner sera le dernier.\r",
+        "Ecoute bien, jeune Dresseur!\n",
+        "Le Champion de cette Arène est un\f",
+        "expert ès Pokémon de type Electrik!\r",
+        "Je n’en dirai pas plus, \n",
+        "à toi de jouer."
       ]
     },
     {
@@ -37,6 +55,19 @@
         "But, I am proud of you!\n",
         "Eight Sinnoh Badges!\f",
         "Way to go, kiddo!"
+      ],
+      "fr_FR": [
+        "Eh, {STRVAR_1 3, 0, 0}!\n",
+        "Tu as battu le Champion?\f",
+        "Mais oui, évidemment!\r",
+        "Mais tu sais quoi?\n",
+        "Je pense que ce n’est pas assez!\r",
+        "Pourquoi?\r",
+        "Parce que toi et tes Pokémon, vous \n",
+        "êtes capables de beaucoup plus!\r",
+        "Mais je suis fier de toi. \n",
+        "Huit Badges de Sinnoh!\f",
+        "La classe, super Dresseur!"
       ]
     },
     {
@@ -44,6 +75,10 @@
       "en_US": [
         "Sunyshore City Pokémon Gym\r",
         "Leader: Volkner"
+      ],
+      "fr_FR": [
+        "Arène Pokémon de Rivamar\r",
+        "Champion: Tanguy"
       ]
     },
     {
@@ -53,6 +88,12 @@
         "Leader: Volkner\n",
         "Certified Trainers:\f",
         "{STRVAR_1 3, 0, 0}"
+      ],
+      "fr_FR": [
+        "Arène Pokémon de Rivamar\r",
+        "Champion: Tanguy\n",
+        "Nouveau Dresseur reconnu:\f",
+        "{STRVAR_1 3, 0, 0}"
       ]
     },
     {
@@ -61,6 +102,13 @@
         "Sunyshore City Pokémon Gym\r",
         "Leader: Volkner\n",
         "Certified Trainers:\f",
+        "{STRVAR_1 3, 0, 0}\f",
+        "{STRVAR_1 3, 1, 0}"
+      ],
+      "fr_FR": [
+        "Arène Pokémon de Rivamar\r",
+        "Champion: Tanguy\n",
+        "Nouveaux Dresseurs reconnus:\f",
         "{STRVAR_1 3, 0, 0}\f",
         "{STRVAR_1 3, 1, 0}"
       ]

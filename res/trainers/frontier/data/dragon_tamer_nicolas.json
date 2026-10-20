@@ -105,6 +105,10 @@
             "en_US": [
                 "Come hither, my Pokémon!\n",
                 "Please get rid of this mean Trainer!"
+            ],
+            "fr_FR": [
+                "Humm... Tu n’as pas l’air commode...\n",
+                "On ne va pas te laisser gagner!"
             ]
         },
         {
@@ -112,6 +116,10 @@
             "en_US": [
                 "Ooh, yes, I love you, my sweeties!\r",
                 "Come here and give me a kiss!"
+            ],
+            "fr_FR": [
+                "Super! Excellent!\r",
+                "On est les meilleurs!"
             ]
         },
         {
@@ -119,7 +127,12 @@
             "en_US": [
                 "How could you?!\n",
                 "You hurt my sweet little ones!\r"
+            ],
+            "fr_FR": [
+                "Comment oses-tu?\n",
+                "Tu nous as blessés, monstre!\r"
             ]
         }
-    ]
+    ],
+    "name_fr": "Nohan"
 }

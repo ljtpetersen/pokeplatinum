@@ -26,5 +26,13 @@
     "contest": {
         "effect": "CONTEST_EFFECT_LOW_VOLTAGE_ADVANTAGE",
         "type": "CONTEST_TYPE_SMART"
-    }
+    },
+    "name_fr": "Stimulant",
+    "description_fr": [
+        "Cette attaque est\n",
+        "doublement efficace\n",
+        "sur les ennemis\n",
+        "paralysés, mais elle\n",
+        "soigne leur paralysie."
+    ]
 }

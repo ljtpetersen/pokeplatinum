@@ -3,103 +3,128 @@
   "messages": [
     {
       "id": "pl_msg_00000457_00000",
-      "en_US": "DIGITAL WATCH"
+      "en_US": "DIGITAL WATCH",
+      "fr_FR": "MONTRE DIGITALE"
     },
     {
       "id": "pl_msg_00000457_00001",
-      "en_US": "CALCULATOR"
+      "en_US": "CALCULATOR",
+      "fr_FR": "CALCULATRICE"
     },
     {
       "id": "pl_msg_00000457_00002",
-      "en_US": "MEMO PAD"
+      "en_US": "MEMO PAD",
+      "fr_FR": "CARNET"
     },
     {
       "id": "pl_msg_00000457_00003",
-      "en_US": "PEDOMETER"
+      "en_US": "PEDOMETER",
+      "fr_FR": "PODOMETRE"
     },
     {
       "id": "pl_msg_00000457_00004",
-      "en_US": "POKéMON LIST"
+      "en_US": "POKéMON LIST",
+      "fr_FR": "EQUIPE POKéMON"
     },
     {
       "id": "pl_msg_00000457_00005",
-      "en_US": "FRIENDSHIP CHECKER"
+      "en_US": "FRIENDSHIP CHECKER",
+      "fr_FR": "CONTROLEUR D’AMITIE"
     },
     {
       "id": "pl_msg_00000457_00006",
-      "en_US": "DOWSING MACHINE"
+      "en_US": "DOWSING MACHINE",
+      "fr_FR": "RADAR A OBJET"
     },
     {
       "id": "pl_msg_00000457_00007",
-      "en_US": "BERRY SEARCHER"
+      "en_US": "BERRY SEARCHER",
+      "fr_FR": "CONTROLEUR DE BAIE"
     },
     {
       "id": "pl_msg_00000457_00008",
-      "en_US": "DAY-CARE CHECKER"
+      "en_US": "DAY-CARE CHECKER",
+      "fr_FR": "CONTROLEUR PENSION"
     },
     {
       "id": "pl_msg_00000457_00009",
-      "en_US": "POKéMON HISTORY"
+      "en_US": "POKéMON HISTORY",
+      "fr_FR": "HISTORIQUE POKéMON"
     },
     {
       "id": "pl_msg_00000457_00010",
-      "en_US": "COUNTER"
+      "en_US": "COUNTER",
+      "fr_FR": "COMPTEUR"
     },
     {
       "id": "pl_msg_00000457_00011",
-      "en_US": "ANALOG WATCH"
+      "en_US": "ANALOG WATCH",
+      "fr_FR": "MONTRE ANALOGIQUE"
     },
     {
       "id": "pl_msg_00000457_00012",
-      "en_US": "MARKING MAP"
+      "en_US": "MARKING MAP",
+      "fr_FR": "CARTE REPERES"
     },
     {
       "id": "pl_msg_00000457_00013",
-      "en_US": "LINK SEARCHER"
+      "en_US": "LINK SEARCHER",
+      "fr_FR": "CHERCHE-CONNEXION"
     },
     {
       "id": "pl_msg_00000457_00014",
-      "en_US": "COIN TOSS"
+      "en_US": "COIN TOSS",
+      "fr_FR": "PILE OU FACE"
     },
     {
       "id": "pl_msg_00000457_00015",
-      "en_US": "MOVE TESTER"
+      "en_US": "MOVE TESTER",
+      "fr_FR": "TESTEUR DE CAPACITES"
     },
     {
       "id": "pl_msg_00000457_00016",
-      "en_US": "CALENDAR"
+      "en_US": "CALENDAR",
+      "fr_FR": "CALENDRIER"
     },
     {
       "id": "pl_msg_00000457_00017",
-      "en_US": "DOT ARTIST"
+      "en_US": "DOT ARTIST",
+      "fr_FR": "DESSINATEUR"
     },
     {
       "id": "pl_msg_00000457_00018",
-      "en_US": "ROULETTE"
+      "en_US": "ROULETTE",
+      "fr_FR": "ROULETTE"
     },
     {
       "id": "pl_msg_00000457_00019",
-      "en_US": "TRAINER COUNTER"
+      "en_US": "TRAINER COUNTER",
+      "fr_FR": "COMPTEUR POKé RADAR"
     },
     {
       "id": "pl_msg_00000457_00020",
-      "en_US": "KITCHEN TIMER"
+      "en_US": "KITCHEN TIMER",
+      "fr_FR": "MINUTEUR"
     },
     {
       "id": "pl_msg_00000457_00021",
-      "en_US": "COLOR CHANGER"
+      "en_US": "COLOR CHANGER",
+      "fr_FR": "CHANGEUR DE COULEUR"
     },
     {
       "id": "pl_msg_00000457_00022",
-      "en_US": "MATCHUP CHECKER"
+      "en_US": "MATCHUP CHECKER",
+      "fr_FR": "TESTEUR D’AFFINITES"
     },
     {
       "id": "pl_msg_00000457_00023",
-      "en_US": "STOPWATCH"
+      "en_US": "STOPWATCH",
+      "fr_FR": "CHRONOMETRE"
     },
     {
       "id": "pl_msg_00000457_00024",
-      "en_US": "ALARM CLOCK"
+      "en_US": "ALARM CLOCK",
+      "fr_FR": "REVEIL"
     }
   ]
 }

@@ -23,17 +23,26 @@
             "en_US": [
                 "How about that!\n",
                 "I’ve netted me a feisty Trainer!\r"
+            ],
+            "fr_FR": [
+                "Tiens donc... Quelle prise!\n",
+                "Un Dresseur coriace! Allez, en avant!\r"
             ]
         },
         {
             "type": "TRMSG_DEFEAT",
-            "en_US": "I let a big win slip away...\n"
+            "en_US": "I let a big win slip away...\n",
+            "fr_FR": "Voilà une belle victoire qui m’échappe...\n"
         },
         {
             "type": "TRMSG_POST_BATTLE",
             "en_US": [
                 "Do you have a fishing rod?\n",
                 "Catch some big ones!\n"
+            ],
+            "fr_FR": [
+                "Tu as une canne à pêche?\n",
+                "Va à la pêche aux Pokémon!\n"
             ]
         },
         {
@@ -41,7 +50,12 @@
             "en_US": [
                 "Hey, you feisty tyke! I caught a big\n",
                 "one! Let’s battle again!\r"
+            ],
+            "fr_FR": [
+                "Eh, Dresseur coriace! J’ai fait une \n",
+                "belle prise! Combattons encore!\r"
             ]
         }
-    ]
+    ],
+    "name_fr": "Parfait"
 }

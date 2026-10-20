@@ -3,20 +3,26 @@
   "messages": [
     {
       "id": "NewmoonIsland_Text_SailBackToCanalave",
-      "en_US": "Should we sail back to Canalave?"
+      "en_US": "Should we sail back to Canalave?",
+      "fr_FR": "On retourne à Joliberges?"
     },
     {
       "id": "NewmoonIsland_Text_AnchorsAweigh",
       "en_US": [
         "Aye, aye!\n",
         "Anchors aweigh!\r"
-      ]
+      ],
+      "fr_FR": "On lève l’ancre!\r"
     },
     {
       "id": "NewmoonIsland_Text_AllRightThen",
       "en_US": [
         "All right, then. Tell me if you’d like\n",
         "to return to Canalave."
+      ],
+      "fr_FR": [
+        "Comme tu veux. Viens me voir si \n",
+        "tu veux retourner à Joliberges."
       ]
     }
   ]

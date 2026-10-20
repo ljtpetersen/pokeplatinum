@@ -59,6 +59,10 @@
             "en_US": [
                 "I think training Pokémon shares a lot of\n",
                 "similarities with a marathon. You?"
+            ],
+            "fr_FR": [
+                "Courir un marathon demande beaucoup\n",
+                "d’efforts. Dresser un Pokémon aussi."
             ]
         },
         {
@@ -66,6 +70,10 @@
             "en_US": [
                 "There’s meaning in sticking with your\n",
                 "training regimen every day.\r"
+            ],
+            "fr_FR": [
+                "C’est important de s’entraîner\n",
+                "un peu tous les jours.\r"
             ]
         },
         {
@@ -73,7 +81,9 @@
             "en_US": [
                 "If you don’t pace yourself, you can’t\n",
                 "win.\r"
-            ]
+            ],
+            "fr_FR": "Je n’ai pas assez bien géré mon effort.\r"
         }
-    ]
+    ],
+    "name_fr": "Stève"
 }

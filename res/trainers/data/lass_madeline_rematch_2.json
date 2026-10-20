@@ -33,11 +33,18 @@
                 "I got a nifty-keen Gym Badge from\n",
                 "the Gym Leader in Oreburgh City!\r",
                 "...Did I show you already?\r"
+            ],
+            "fr_FR": [
+                "J’ai eu un chouette Badge du Champion\n",
+                "d’Arène de Charbourg!\r",
+                "... Je te l’ai déjà montré?\r"
             ]
         },
         {
             "type": "TRMSG_DEFEAT",
-            "en_US": "Oh, I lost! Lalala!\n"
+            "en_US": "Oh, I lost! Lalala!\n",
+            "fr_FR": "Oh, j’ai perdu! Lalala!\n"
         }
-    ]
+    ],
+    "name_fr": "Marianne"
 }

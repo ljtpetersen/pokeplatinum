@@ -26,5 +26,13 @@
   "battlePocket": "BATTLE_POCKET_MASK_NONE",
   "fieldUseFunc": "ITEM_USE_FUNC_ESCAPE_ROPE",
   "battleUseCategory": "BATTLE_USE_CATEGORY_NONE",
-  "itemUseParams": {}
+  "itemUseParams": {},
+  "name_fr": "Corde Sortie",
+  "description_fr": [
+    "Une corde longue et solide permettant\n",
+    "de sortir rapidement d’une grotte ou\n",
+    "d’un donjon."
+  ],
+  "plural_fr": "Corde Sortie",
+  "article_fr": null
 }

@@ -35,6 +35,10 @@
             "en_US": [
                 "My wife and boy are waiting on me back\n",
                 "home. I can’t afford to lose!"
+            ],
+            "fr_FR": [
+                "Ma femme et mon fils comptent sur moi!\n",
+                "Je ne peux pas perdre!"
             ]
         },
         {
@@ -42,6 +46,10 @@
             "en_US": [
                 "I’m sorry, but I had to do this. You’ll\n",
                 "get tougher with a family behind you.\r"
+            ],
+            "fr_FR": [
+                "Je suis désolé pour toi. Je devais\n",
+                "gagner pour ma famille, tu comprends?\r"
             ]
         },
         {
@@ -49,7 +57,12 @@
             "en_US": [
                 "Oh, no! How am I supposed to show my\n",
                 "face around my dear wife and boy now?\r"
+            ],
+            "fr_FR": [
+                "Non! Comment vais-je affronter le\n",
+                "regard de ma femme et de mon fils?\r"
             ]
         }
-    ]
+    ],
+    "name_fr": "Mathias"
 }

@@ -8,6 +8,12 @@
         "you to come somewhere so rustic?\r",
         "Be sure to see the cave painting since\n",
         "you’re already here."
+      ],
+      "fr_FR": [
+        "Qu’est-ce qui t’amène dans un endroit\n",
+        "si reculé?\r",
+        "N’oublie pas d’aller voir les peintures\n",
+        "rupestres tant que tu es là."
       ]
     },
     {
@@ -15,6 +21,10 @@
       "en_US": [
         "They say this town has been here\n",
         "since Sinnoh was made."
+      ],
+      "fr_FR": [
+        "On raconte que cette ville existe\n",
+        "depuis la création de Sinnoh."
       ]
     },
     {
@@ -22,6 +32,10 @@
       "en_US": [
         "Oh? Hm, hm...\n",
         "Your Pokémon is quite interesting!\r"
+      ],
+      "fr_FR": [
+        "Oh? Hum, hum...\n",
+        "Ton Pokémon est fort intéressant!\r"
       ]
     },
     {
@@ -29,6 +43,10 @@
       "en_US": [
         "It clearly likes you very much.\n",
         "You can have this!\r"
+      ],
+      "fr_FR": [
+        "De toute évidence, il t’aime beaucoup.\n",
+        "Tiens, prends ceci!\r"
       ]
     },
     {
@@ -38,6 +56,12 @@
         "and the Pokémon.\r",
         "Developing trust in each other is\n",
         "the key to victory."
+      ],
+      "fr_FR": [
+        "Tout est une question de confiance\n",
+        "entre un Dresseur et son Pokémon.\r",
+        "Savoir instaurer une confiance\n",
+        "mutuelle, c’est la clé de la victoire."
       ]
     },
     {
@@ -47,6 +71,11 @@
         "a very nice way.\r",
         "It will grow even more friendly if\n",
         "you travel with it some more."
+      ],
+      "fr_FR": [
+        "Il s’habitue à toi de fort belle façon.\r",
+        "Il sera encore plus affectueux\n",
+        "si tu continues de voyager avec lui."
       ]
     },
     {
@@ -55,6 +84,11 @@
         "It’s not very used to you yet.\r",
         "You both need to develop trust for\n",
         "one another as Trainer and Pokémon."
+      ],
+      "fr_FR": [
+        "Il n’est pas encore habitué à toi.\r",
+        "Vous devez apprendre à vous faire\n",
+        "confiance, entre Dresseur et Pokémon."
       ]
     },
     {
@@ -63,6 +97,12 @@
         "As a clown, I like to show off Pokémon\n",
         "that are a little out of the ordinary.\r",
         "Want to battle and see for yourself?"
+      ],
+      "fr_FR": [
+        "En tant que Bouffon, j’aime avoir dans\n",
+        "mon équipe des Pokémon qui sortent\f",
+        "de l’ordinaire.\r",
+        "Tu veux que je te montre?"
       ]
     },
     {
@@ -70,6 +110,10 @@
       "en_US": [
         "OK, how shall we do this?\n",
         "Shall we do something fantastical?\r"
+      ],
+      "fr_FR": [
+        "OK, comment va-t-on s’y prendre?\n",
+        "Et si on faisait dans le fantastique?\r"
       ]
     },
     {
@@ -77,6 +121,10 @@
       "en_US": [
         "Oh, how shall I say this...?\n",
         "It makes me all lonely, I say..."
+      ],
+      "fr_FR": [
+        "Oh, comment dire...\n",
+        "Je me sens si seul..."
       ]
     },
     {
@@ -85,6 +133,11 @@
         "Here’s a piece of useless trivia.\n",
         "Fear of clowns is also known as\f",
         "coulrophobia!"
+      ],
+      "fr_FR": [
+        "C’est à côté de la plaque, mais...\r",
+        "La peur des clowns est aussi appelée\n",
+        "coulrophobie."
       ]
     }
   ]

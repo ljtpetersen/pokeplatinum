@@ -6,6 +6,10 @@
       "en_US": [
         "It’s a bed...\n",
         "Want to take a rest?"
+      ],
+      "fr_FR": [
+        "C’est un lit...\n",
+        "Voulez-vous vous reposer?"
       ]
     },
     {
@@ -13,13 +17,18 @@
       "en_US": [
         "{STRVAR_1 3, 0, 0} quickly fell asleep\n",
         "in the bed...\r"
-      ]
+      ],
+      "fr_FR": "{STRVAR_1 3, 0, 0} fait un somme...\r"
     },
     {
       "id": "GalacticHQ2F_Text_PokemonBecameFullyHealed",
       "en_US": [
         "{STRVAR_1 3, 0, 0} and the Pokémon\n",
         "became fully healed from the rest!"
+      ],
+      "fr_FR": [
+        "{STRVAR_1 3, 0, 0} et son équipe Pokémon\n",
+        "sont en pleine forme!"
       ]
     },
     {
@@ -28,11 +37,20 @@
         "There is a report titled “The Pokémon\n",
         "Statues of Eterna.”\r",
         "Would you like to read it?"
+      ],
+      "fr_FR": [
+        "Un rapport intitulé “Les Statues\n",
+        "de Pokémon de Vestigion”.\r",
+        "Voulez-vous le lire?"
       ]
     },
     {
       "id": "GalacticHQ2F_Text_PutReportBack",
-      "en_US": "{STRVAR_1 3, 0, 0} put the report back."
+      "en_US": "{STRVAR_1 3, 0, 0} put the report back.",
+      "fr_FR": [
+        "{STRVAR_1 3, 0, 0} remet le rapport\n",
+        "en place."
+      ]
     },
     {
       "id": "GalacticHQ2F_Text_StatuePlateText1",
@@ -48,6 +66,20 @@
         "The blue text has been extracted using\n",
         "a high-tech device made by the boss.\r",
         "Would you like to keep reading?"
+      ],
+      "fr_FR": [
+        "Premier texte de la statue de Pokémon\n",
+        "(d’après la plaque volée)\r",
+        "“{COLOR 2}La{COLOR 0} création de DIA{COLOR 2}LGA,\n",
+        "le{COLOR 0} maître du temps...\r",
+        "Dans le rire, il y a les larmes...\n",
+        "Et, pareillement {COLOR 2}avec le temps.{COLOR 0}\r",
+        "Le même temps s’écoule {COLOR 2}à jamais.{COLOR 0}\n",
+        "{COLOR 2}Car c’est{COLOR 0} la bénédiction de DIA{COLOR 2}LGA.{COLOR 0}”\r",
+        "Le texte en bleu a été reconstitué par\n",
+        "le patron à l’aide de technologies\f",
+        "ultrasophistiquées.\r",
+        "Continuer à lire?"
       ]
     },
     {
@@ -63,6 +95,19 @@
         "{COLOR 2}It is {COLOR 0}the blessing of PAL{COLOR 2}KIA.{COLOR 0}”\r",
         "The blue text has been extracted using\n",
         "a high-tech device made by the boss.\r"
+      ],
+      "fr_FR": [
+        "Deuxième texte de la statue de Pokémon\n",
+        "(d’après la plaque volée)\r",
+        "“{COLOR 2}La{COLOR 0} naissance de PAL{COLOR 2}KIA.{COLOR 0}\n",
+        "{COLOR 2}Le {COLOR 0}créateur de dimensions parallèles...\r",
+        "Vivant, et non-vivant...\n",
+        "{COLOR 2}Tous les {COLOR 0}gouffres de l’espace...\r",
+        "Arriver dans le même uni{COLOR 2}vers.{COLOR 0}\n",
+        "{COLOR 2}Voilà {COLOR 0}la bénédiction de PAL{COLOR 2}KIA.{COLOR 0}”\r",
+        "Le texte en bleu a été reconstitué par\n",
+        "le patron à l’aide de technologies\f",
+        "ultrasophistiquées.\r"
       ]
     },
     {
@@ -71,6 +116,11 @@
         "Team Galactic Nap Room\r",
         "Ensure the bed is unoccupied\n",
         "before getting into it!"
+      ],
+      "fr_FR": [
+        "Salle de Repos de la Team Galaxie\r",
+        "Vérifiez qu’un lit n’est pas occupé\n",
+        "avant de sauter dedans!"
       ]
     },
     {
@@ -81,6 +131,13 @@
         "system for member use only!\r",
         "Onward to a new universe!\n",
         "Team Galactic!"
+      ],
+      "fr_FR": [
+        "Salle Télé de la Team Galaxie\r",
+        "Installation hi-fi dernier cri\n",
+        "réservée aux membres!\r",
+        "En avant vers un nouvel univers!\n",
+        "Team Galaxie!"
       ]
     },
     {
@@ -90,6 +147,12 @@
         "Everything belongs to Team Galactic!\r",
         "Look beyond the world--space will\n",
         "become Team Galactic’s!"
+      ],
+      "fr_FR": [
+        "Le credo de la Team Galaxie?\n",
+        "Tout appartient à la Team Galaxie!\r",
+        "Nous n’avons que faire du monde...\n",
+        "L’univers nous attend!"
       ]
     },
     {
@@ -101,6 +164,14 @@
         "the partaking of favorite foods!”\r",
         "Foul, unidentifiable substances are\n",
         "caked around the sink..."
+      ],
+      "fr_FR": [
+        "Un message est collé sur l’évier\n",
+        "de la cuisine.\r",
+        "“Partagez vos bons petits plats,\n",
+        "cela amènera santé et bonne fortune!”\r",
+        "Des substances visqueuses \n",
+        "non identifiées bordent l’évier..."
       ]
     },
     {
@@ -112,6 +183,14 @@
         "energy to move us forward!”\r",
         "The refrigerator is filled with murky,\n",
         "sinister drinks and nothing else..."
+      ],
+      "fr_FR": [
+        "Un message est collé sur \n",
+        "le réfrigérateur.\r",
+        "“Buvez jusqu’à plus soif\n",
+        "pour avoir l’énergie d’avancer!”\r",
+        "Le réfrigérateur ne contient que des\n",
+        "boissons boueuses et sinistres..."
       ]
     }
   ]

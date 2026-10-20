@@ -3,75 +3,93 @@
   "messages": [
     {
       "id": "pl_msg_00000624_00000",
-      "en_US": "NORMAL"
+      "en_US": "NORMAL",
+      "fr_FR": "NORMAL"
     },
     {
       "id": "pl_msg_00000624_00001",
-      "en_US": "FIGHTING"
+      "en_US": "FIGHTING",
+      "fr_FR": "COMBAT"
     },
     {
       "id": "pl_msg_00000624_00002",
-      "en_US": "FLYING"
+      "en_US": "FLYING",
+      "fr_FR": "VOL"
     },
     {
       "id": "pl_msg_00000624_00003",
-      "en_US": "POISON"
+      "en_US": "POISON",
+      "fr_FR": "POISON"
     },
     {
       "id": "pl_msg_00000624_00004",
-      "en_US": "GROUND"
+      "en_US": "GROUND",
+      "fr_FR": "SOL"
     },
     {
       "id": "pl_msg_00000624_00005",
-      "en_US": "ROCK"
+      "en_US": "ROCK",
+      "fr_FR": "ROCHE"
     },
     {
       "id": "pl_msg_00000624_00006",
-      "en_US": "BUG"
+      "en_US": "BUG",
+      "fr_FR": "INSECTE"
     },
     {
       "id": "pl_msg_00000624_00007",
-      "en_US": "GHOST"
+      "en_US": "GHOST",
+      "fr_FR": "SPECTRE"
     },
     {
       "id": "pl_msg_00000624_00008",
-      "en_US": "STEEL"
+      "en_US": "STEEL",
+      "fr_FR": "ACIER"
     },
     {
       "id": "pl_msg_00000624_00009",
-      "en_US": "???"
+      "en_US": "???",
+      "fr_FR": "???"
     },
     {
       "id": "pl_msg_00000624_00010",
-      "en_US": "FIRE"
+      "en_US": "FIRE",
+      "fr_FR": "FEU"
     },
     {
       "id": "pl_msg_00000624_00011",
-      "en_US": "WATER"
+      "en_US": "WATER",
+      "fr_FR": "EAU"
     },
     {
       "id": "pl_msg_00000624_00012",
-      "en_US": "GRASS"
+      "en_US": "GRASS",
+      "fr_FR": "PLANTE"
     },
     {
       "id": "pl_msg_00000624_00013",
-      "en_US": "ELECTRIC"
+      "en_US": "ELECTRIC",
+      "fr_FR": "ELECTRIK"
     },
     {
       "id": "pl_msg_00000624_00014",
-      "en_US": "PSYCHIC"
+      "en_US": "PSYCHIC",
+      "fr_FR": "PSY"
     },
     {
       "id": "pl_msg_00000624_00015",
-      "en_US": "ICE"
+      "en_US": "ICE",
+      "fr_FR": "GLACE"
     },
     {
       "id": "pl_msg_00000624_00016",
-      "en_US": "DRAGON"
+      "en_US": "DRAGON",
+      "fr_FR": "DRAGON"
     },
     {
       "id": "pl_msg_00000624_00017",
-      "en_US": "DARK"
+      "en_US": "DARK",
+      "fr_FR": "TENEBRES"
     }
   ]
 }

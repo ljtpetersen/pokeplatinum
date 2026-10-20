@@ -27,5 +27,12 @@
   "fieldUseFunc": "ITEM_USE_FUNC_TM_HM",
   "battleUseCategory": "BATTLE_USE_CATEGORY_NONE",
   "itemUseParams": null,
-  "teachesMove": "MOVE_SECRET_POWER"
+  "teachesMove": "MOVE_SECRET_POWER",
+  "name_fr": "CT43",
+  "description_fr": [
+    "Les effets de cette attaque varient\n",
+    "en fonction de l’environnement."
+  ],
+  "plural_fr": "CT43",
+  "article_fr": null
 }

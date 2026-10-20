@@ -27,5 +27,12 @@
     "contest": {
         "effect": "CONTEST_EFFECT_FIRST_PERFORMANCE_ADVANTAGE",
         "type": "CONTEST_TYPE_COOL"
-    }
+    },
+    "name_fr": "Aéropique",
+    "description_fr": [
+        "Le lanceur prend\n",
+        "l’ennemi de vitesse\n",
+        "et le lacère. N’échoue\n",
+        "jamais."
+    ]
 }

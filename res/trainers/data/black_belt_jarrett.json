@@ -29,6 +29,10 @@
             "en_US": [
                 "Hear the howl of my iron fists!\n",
                 "Howdy! I’m crazy for karate!\r"
+            ],
+            "fr_FR": [
+                "Salut! Je suis un fan de karaté!\n",
+                "Ecoute mes poings d’acier hurler!\r"
             ]
         },
         {
@@ -36,6 +40,10 @@
             "en_US": [
                 "Losing made it clear to me.\n",
                 "You’re crazy about Pokémon!\n"
+            ],
+            "fr_FR": [
+                "Ma défaite le prouve.\n",
+                "Tu es fan de Pokémon!\n"
             ]
         },
         {
@@ -43,7 +51,12 @@
             "en_US": [
                 "I love seeing people who love Pokémon\n",
                 "more than anything!\n"
+            ],
+            "fr_FR": [
+                "J’adore rencontrer des gens qui aiment\n",
+                "les Pokémon plus que tout!\n"
             ]
         }
-    ]
+    ],
+    "name_fr": "Akira"
 }

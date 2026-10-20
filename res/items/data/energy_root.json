@@ -31,5 +31,12 @@
     "friendshipLow": -10,
     "friendshipMed": -10,
     "friendshipHigh": -15
-  }
+  },
+  "name_fr": "Racinénergie",
+  "description_fr": [
+    "Une racine très amère.\n",
+    "Restaure 200 PV à un Pokémon."
+  ],
+  "plural_fr": "Racinénergie",
+  "article_fr": null
 }

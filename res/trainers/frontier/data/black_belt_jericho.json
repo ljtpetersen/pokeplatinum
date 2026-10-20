@@ -57,6 +57,10 @@
             "en_US": [
                 "A professional martial artist is in\n",
                 "perpetual control of his body."
+            ],
+            "fr_FR": [
+                "Un maître des arts martiaux a un\n",
+                "contrôle absolu de son corps."
             ]
         },
         {
@@ -64,6 +68,10 @@
             "en_US": [
                 "A martial artist must be more than\n",
                 "strong. He must also be wise.\r"
+            ],
+            "fr_FR": [
+                "Un maître des arts martiaux est fort,\n",
+                "mais il doit aussi se montrer sage.\r"
             ]
         },
         {
@@ -71,7 +79,12 @@
             "en_US": [
                 "Gah! I overdid my training and ran out\n",
                 "of stamina early...\r"
+            ],
+            "fr_FR": [
+                "Argh! J’étais trop fatigué à cause de\n",
+                "mon entraînement intensif...\r"
             ]
         }
-    ]
+    ],
+    "name_fr": "Kouji"
 }

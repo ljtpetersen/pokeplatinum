@@ -22,5 +22,9 @@
   "battlePocket": "BATTLE_POCKET_MASK_NONE",
   "fieldUseFunc": "ITEM_USE_FUNC_NONE",
   "battleUseCategory": "BATTLE_USE_CATEGORY_NONE",
-  "itemUseParams": null
+  "itemUseParams": null,
+  "name_fr": "Aucun",
+  "description_fr": "???",
+  "plural_fr": "???",
+  "article_fr": null
 }

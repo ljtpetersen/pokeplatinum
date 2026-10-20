@@ -8,6 +8,12 @@
         "Corner!\r",
         "We can exchange your BP\n",
         "for fabulous items.\r"
+      ],
+      "fr_FR": [
+        "Bonjour! Vous êtes au \n",
+        "Service d’Echange.\r",
+        "Nous échangeons vos Points de\n",
+        "Combat contre de magnifiques prix.\r"
       ]
     },
     {
@@ -15,6 +21,10 @@
       "en_US": [
         "Which prize would you like in\n",
         "exchange for your BP?"
+      ],
+      "fr_FR": [
+        "Quel prix voudriez-vous\n",
+        "échanger contre vos PCo?"
       ]
     },
     {
@@ -22,17 +32,26 @@
       "en_US": [
         "You’ve chosen the {STRVAR_1 8, 0, 0}.\n",
         "Is that correct?"
+      ],
+      "fr_FR": [
+        "Vous avez choisi: {STRVAR_1 8, 0, 0},\n",
+        "c’est bien cela?"
       ]
     },
     {
       "id": "BattleParkExchangeServiceCorner_Text_HereIsYourPrize",
-      "en_US": "Here is your prize!\r"
+      "en_US": "Here is your prize!\r",
+      "fr_FR": "Voici votre prix!\r"
     },
     {
       "id": "BattleParkExchangeServiceCorner_Text_NotEnoughBP",
       "en_US": [
         "I’m so sorry...\n",
         "You don’t have enough BP...\r"
+      ],
+      "fr_FR": [
+        "Je suis désolée, mais vous n’avez pas\n",
+        "assez de PCo...\r"
       ]
     },
     {
@@ -40,6 +59,10 @@
       "en_US": [
         "Sorry, your Bag has no room for\n",
         "this {STRVAR_1 8, 0, 0}...\r"
+      ],
+      "fr_FR": [
+        "Désolée, vous n’avez pas assez \n",
+        "de place dans votre Sac...\r"
       ]
     },
     {
@@ -48,6 +71,11 @@
         "Thank you for visiting.\r",
         "Please visit us again when you have\n",
         "saved up BP."
+      ],
+      "fr_FR": [
+        "Merci de votre visite.\r",
+        "Revenez quand vous aurez\n",
+        "gagné plus de PCo."
       ]
     },
     {
@@ -55,6 +83,10 @@
       "en_US": [
         "You’ve chosen {STRVAR_1 8, 0, 0},\n",
         "{STRVAR_1 6, 1, 0}. Is that correct?"
+      ],
+      "fr_FR": [
+        "Vous avez choisi la {STRVAR_1 8, 0, 0}:\n",
+        "{STRVAR_1 6, 1, 0}. C’est bien cela?"
       ]
     },
     {
@@ -62,6 +94,10 @@
       "en_US": [
         "What to get today...\n",
         "Perhaps a Technical Machine will do."
+      ],
+      "fr_FR": [
+        "Alors, qu’est-ce que je vais prendre \n",
+        "aujourd’hui... Une Capsule Technique?"
       ]
     },
     {
@@ -71,6 +107,12 @@
         "crushing power of my darling Pokémon.\r",
         "Are there any prizes that would\n",
         "help them get more power?"
+      ],
+      "fr_FR": [
+        "Tout ce qui m’intéresse, c’est la \n",
+        "puissance de feu de mes chers Pokémon.\r",
+        "Est-ce qu’ils ont un prix qui pourrait \n",
+        "leur donner plus de puissance?"
       ]
     },
     {
@@ -81,6 +123,13 @@
         "grab some prizes here?\r",
         "It might toughen up your Pokémon\n",
         "just enough to do better."
+      ],
+      "fr_FR": [
+        "Comment ça va?\r",
+        "Si ça ne marche pas trop bien, pourquoi\n",
+        "ne pas prendre un objet ici?\r",
+        "Qui sait, il pourrait donner à tes \n",
+        "Pokémon le coup de pouce qu’il faut!"
       ]
     },
     {
@@ -89,6 +138,11 @@
         "Gramma, Gramma!\n",
         "I went and traded!\r",
         "You can have this, Gramma!\r"
+      ],
+      "fr_FR": [
+        "Mamie, mamie!\n",
+        "J’ai fait un échange!\r",
+        "Tiens mamie, c’est pour toi!\r"
       ]
     },
     {
@@ -101,6 +155,15 @@
         "girl...\r",
         "I feel blessed to have a grandchild\n",
         "like you..."
+      ],
+      "fr_FR": [
+        "Oh, qu’est-ce que c’est, ma chérie?\n",
+        "Oh, Bomb-Beurk...\r",
+        "Merci beaucoup, ma chérie!\r",
+        "Tu es une petite-fille très gentille, et \n",
+        "très mignonne, et excellent Dresseur...\r",
+        "J’ai vraiment de la chance d’avoir \n",
+        "une petite-fille comme toi!"
       ]
     },
     {
@@ -110,6 +173,12 @@
         "grandmother upstairs?\r",
         "That girl is a little terror in battle.\n",
         "You never can judge people!"
+      ],
+      "fr_FR": [
+        "Tu as vu cette petite fille avec \n",
+        "sa grand-mère?\r",
+        "Cette petite est une vraie terreur au \n",
+        "combat! Comme quoi, les apparences..."
       ]
     },
     {
@@ -117,6 +186,10 @@
       "en_US": [
         "This building is so grand...\n",
         "Why does it need to be so?"
+      ],
+      "fr_FR": [
+        "Ce bâtiment est tellement immense...\n",
+        "Est-ce bien raisonnable?"
       ]
     },
     {
@@ -126,6 +199,11 @@
         "Corner!\r",
         "Would you like to trade in your BP for\n",
         "some prizes?"
+      ],
+      "fr_FR": [
+        "Bienvenue au Service d’Echange.\r",
+        "Désirez-vous échanger vos Points de\n",
+        "Combat contre des prix?"
       ]
     }
   ]

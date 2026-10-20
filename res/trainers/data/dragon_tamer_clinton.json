@@ -44,6 +44,12 @@
                 "This is a place where tough Trainers\n",
                 "naturally congregate.\r",
                 "It’s ideal for training!\r"
+            ],
+            "fr_FR": [
+                "Les Dresseurs les plus coriaces\n",
+                "se rassemblent souvent par ici.\r",
+                "C’est l’endroit idéal pour\n",
+                "s’entraîner!\r"
             ]
         },
         {
@@ -51,6 +57,10 @@
             "en_US": [
                 "That’s why I like it here; I get to\n",
                 "battle tough characters like you.\n"
+            ],
+            "fr_FR": [
+                "C’est pour ça que j’aime venir ici, pour\n",
+                "me battre contre des cracks comme toi.\n"
             ]
         },
         {
@@ -58,7 +68,12 @@
             "en_US": [
                 "When two roads diverge, you must\n",
                 "choose the path less traveled...\n"
+            ],
+            "fr_FR": [
+                "Arrivé à un croisement, il faut\n",
+                "choisir la route la moins empruntée...\n"
             ]
         }
-    ]
+    ],
+    "name_fr": "Xav"
 }

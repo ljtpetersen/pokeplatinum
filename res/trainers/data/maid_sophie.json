@@ -25,7 +25,9 @@
     "messages": [
         {
             "type": "TRMSG_DEFEAT",
-            "en_US": "You’re so strong!!\n"
+            "en_US": "You’re so strong!!\n",
+            "fr_FR": "Quelle force!!"
         }
-    ]
+    ],
+    "name_fr": "Sophia"
 }

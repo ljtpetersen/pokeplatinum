@@ -29,6 +29,10 @@
             "en_US": [
                 "Wait, please wait...\n",
                 "The winds... I hear them..."
+            ],
+            "fr_FR": [
+                "Un instant, je te prie... J’écoute...\n",
+                "le murmure du vent..."
             ]
         },
         {
@@ -36,6 +40,10 @@
             "en_US": [
                 "I can hear them...\n",
                 "The winds are laughing...\r"
+            ],
+            "fr_FR": [
+                "Le vent...\n",
+                "Le vent est heureux...\r"
             ]
         },
         {
@@ -43,7 +51,12 @@
             "en_US": [
                 "I can hear them...\n",
                 "The winds... They are in tears...\r"
+            ],
+            "fr_FR": [
+                "Le vent...\n",
+                "Le vent est affligé...\r"
             ]
         }
-    ]
+    ],
+    "name_fr": "Mégane"
 }

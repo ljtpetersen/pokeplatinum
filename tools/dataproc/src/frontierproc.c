@@ -189,7 +189,7 @@ static void pack_trainer(datafile_t *df) {
 static void emit_trainer_name(datafile_t *df, const char *stem) {
     char buf[BUFSIZE] = { 0 };
 
-    bank_push(T_TRAINER_NAMES, strfmt("FrontierTrainerNames_Text_%s", stem), string(".name"));
+    bank_push(T_TRAINER_NAMES, strfmt("FrontierTrainerNames_Text_%s", stem), string(".name" ATTRIBUTE_EXTENSION));
 }
 
 static void emit_trainer_messages(datafile_t *df, const char *stem) {
@@ -205,10 +205,10 @@ static void emit_trainer_messages(datafile_t *df, const char *stem) {
 
         const char *type  = dp_string(type_node);
         const char *id    = strfmt("FrontierTrainerMessages_Text_%s_%s", stem, type);
-        if      (dp_hasmemb(message, "en_US"))   bank_push(T_TRAINER_MESSAGES, id, dp_objmemb(message, "en_US"));
+        if      (dp_hasmemb(message, TEXT_BANK_KEY))   bank_push(T_TRAINER_MESSAGES, id, dp_objmemb(message, TEXT_BANK_KEY));
         else if (dp_hasmemb(message, "garbage")) bank_push(T_TRAINER_MESSAGES, id, dp_u64(dp_objmemb(message, "garbage")));
         else {
-            dp_warn(&message, "expected exactly one of either 'en_US' or 'garbage'; preferring 'en_US'");
+            dp_warn(&message, "expected exactly one of either '" TEXT_BANK_KEY "' or 'garbage'; preferring '" TEXT_BANK_KEY "'");
         }
     }
 }

@@ -3,203 +3,253 @@
   "messages": [
     {
       "id": "pl_msg_00000655_00000",
-      "en_US": "Battling"
+      "en_US": "Battling",
+      "fr_FR": "Combattre"
     },
     {
       "id": "pl_msg_00000655_00001",
-      "en_US": "Psychic"
+      "en_US": "Psychic",
+      "fr_FR": "Kinésiste"
     },
     {
       "id": "pl_msg_00000655_00002",
-      "en_US": "Grass type"
+      "en_US": "Grass type",
+      "fr_FR": "Plante"
     },
     {
       "id": "pl_msg_00000655_00003",
-      "en_US": "Trade"
+      "en_US": "Trade",
+      "fr_FR": "Des échanges"
     },
     {
       "id": "pl_msg_00000655_00004",
-      "en_US": "No"
+      "en_US": "No",
+      "fr_FR": "Non"
     },
     {
       "id": "pl_msg_00000655_00005",
-      "en_US": "Department store"
+      "en_US": "Department store",
+      "fr_FR": "Centre commercial"
     },
     {
       "id": "pl_msg_00000655_00006",
-      "en_US": "HP"
+      "en_US": "HP",
+      "fr_FR": "Les PV"
     },
     {
       "id": "pl_msg_00000655_00007",
-      "en_US": "At home"
+      "en_US": "At home",
+      "fr_FR": "Chez moi"
     },
     {
       "id": "pl_msg_00000655_00008",
-      "en_US": "Fallen asleep"
+      "en_US": "Fallen asleep",
+      "fr_FR": "M’endormir"
     },
     {
       "id": "pl_msg_00000655_00009",
-      "en_US": "Poison"
+      "en_US": "Poison",
+      "fr_FR": "Poison"
     },
     {
       "id": "pl_msg_00000655_00010",
-      "en_US": "Paralysis"
+      "en_US": "Paralysis",
+      "fr_FR": "Paralysie"
     },
     {
       "id": "pl_msg_00000655_00011",
-      "en_US": "Antidote"
+      "en_US": "Antidote",
+      "fr_FR": "Les Antidotes"
     },
     {
       "id": "pl_msg_00000655_00012",
-      "en_US": "In tall grass"
+      "en_US": "In tall grass",
+      "fr_FR": "Hautes herbes"
     },
     {
       "id": "pl_msg_00000655_00013",
-      "en_US": "During the day"
+      "en_US": "During the day",
+      "fr_FR": "En journée"
     },
     {
       "id": "pl_msg_00000655_00014",
-      "en_US": "Schoolmates"
+      "en_US": "Schoolmates",
+      "fr_FR": "Mes camarades"
     },
     {
       "id": "pl_msg_00000655_00015",
-      "en_US": "Protein"
+      "en_US": "Protein",
+      "fr_FR": "Protéine"
     },
     {
       "id": "pl_msg_00000655_00016",
-      "en_US": "MIME JR."
+      "en_US": "MIME JR.",
+      "fr_FR": "Cirque Jr."
     },
     {
       "id": "pl_msg_00000655_00017",
-      "en_US": "Accuracy"
+      "en_US": "Accuracy",
+      "fr_FR": "La précision"
     },
     {
       "id": "pl_msg_00000655_00018",
-      "en_US": "No"
+      "en_US": "No",
+      "fr_FR": "Non"
     },
     {
       "id": "pl_msg_00000655_00019",
-      "en_US": "Fresh Water"
+      "en_US": "Fresh Water",
+      "fr_FR": "Eau Fraîche"
     },
     {
       "id": "pl_msg_00000655_00020",
-      "en_US": "Choice Specs"
+      "en_US": "Choice Specs",
+      "fr_FR": "Lunet. Choix"
     },
     {
       "id": "pl_msg_00000655_00021",
-      "en_US": "Nugget"
+      "en_US": "Nugget",
+      "fr_FR": "Pépite"
     },
     {
       "id": "pl_msg_00000655_00022",
-      "en_US": "One from an Egg"
+      "en_US": "One from an Egg",
+      "fr_FR": "Oeuf éclos"
     },
     {
       "id": "pl_msg_00000655_00023",
-      "en_US": "Cute & charming"
+      "en_US": "Cute & charming",
+      "fr_FR": "Charme"
     },
     {
       "id": "pl_msg_00000655_00024",
-      "en_US": "Family"
+      "en_US": "Family",
+      "fr_FR": "Un frère"
     },
     {
       "id": "pl_msg_00000655_00025",
-      "en_US": "Go get captured"
+      "en_US": "Go get captured",
+      "fr_FR": "Avoir un Dresseur"
     },
     {
       "id": "pl_msg_00000655_00026",
-      "en_US": "Losing to a friend"
+      "en_US": "Losing to a friend",
+      "fr_FR": "Combat perdu"
     },
     {
       "id": "pl_msg_00000655_00027",
-      "en_US": "Town music"
+      "en_US": "Town music",
+      "fr_FR": "Thèmes des villes"
     },
     {
       "id": "pl_msg_00000655_00028",
-      "en_US": "Use sometimes"
+      "en_US": "Use sometimes",
+      "fr_FR": "Utiliser au besoin"
     },
     {
       "id": "pl_msg_00000655_00029",
-      "en_US": "Packed tight"
+      "en_US": "Packed tight",
+      "fr_FR": "Pleines à craquer"
     },
     {
       "id": "pl_msg_00000655_00030",
-      "en_US": "Quite different"
+      "en_US": "Quite different",
+      "fr_FR": "Hétérogène"
     },
     {
       "id": "pl_msg_00000655_00031",
-      "en_US": "Mostly Berries"
+      "en_US": "Mostly Berries",
+      "fr_FR": "Des Baies"
     },
     {
       "id": "pl_msg_00000655_00032",
-      "en_US": "Known somewhat"
+      "en_US": "Known somewhat",
+      "fr_FR": "Pas tout le monde"
     },
     {
       "id": "pl_msg_00000655_00033",
-      "en_US": "Running"
+      "en_US": "Running",
+      "fr_FR": "En courant"
     },
     {
       "id": "pl_msg_00000655_00034",
-      "en_US": "Special Attacks"
+      "en_US": "Special Attacks",
+      "fr_FR": "Att. spéciales"
     },
     {
       "id": "pl_msg_00000655_00035",
-      "en_US": "Footprint"
+      "en_US": "Footprint",
+      "fr_FR": "Leurs empreintes"
     },
     {
       "id": "pl_msg_00000655_00036",
-      "en_US": "Bug Pokémon"
+      "en_US": "Bug Pokémon",
+      "fr_FR": "Pokémon Insecte"
     },
     {
       "id": "pl_msg_00000655_00037",
-      "en_US": "Save it"
+      "en_US": "Save it",
+      "fr_FR": "L’économiser"
     },
     {
       "id": "pl_msg_00000655_00038",
-      "en_US": "The hero"
+      "en_US": "The hero",
+      "fr_FR": "Le héros"
     },
     {
       "id": "pl_msg_00000655_00039",
-      "en_US": "Defense stats"
+      "en_US": "Defense stats",
+      "fr_FR": "Sa Défense"
     },
     {
       "id": "pl_msg_00000655_00040",
-      "en_US": "No"
+      "en_US": "No",
+      "fr_FR": "Non"
     },
     {
       "id": "pl_msg_00000655_00041",
-      "en_US": "Thinglike names"
+      "en_US": "Thinglike names",
+      "fr_FR": "Noms d’objets"
     },
     {
       "id": "pl_msg_00000655_00042",
-      "en_US": "Fly"
+      "en_US": "Fly",
+      "fr_FR": "Vol"
     },
     {
       "id": "pl_msg_00000655_00043",
-      "en_US": "Pokémon Center"
+      "en_US": "Pokémon Center",
+      "fr_FR": "Centre Pokémon"
     },
     {
       "id": "pl_msg_00000655_00044",
-      "en_US": "No"
+      "en_US": "No",
+      "fr_FR": "Non"
     },
     {
       "id": "pl_msg_00000655_00045",
-      "en_US": "Surf"
+      "en_US": "Surf",
+      "fr_FR": "Surf"
     },
     {
       "id": "pl_msg_00000655_00046",
-      "en_US": "No"
+      "en_US": "No",
+      "fr_FR": "Non"
     },
     {
       "id": "pl_msg_00000655_00047",
-      "en_US": "Type"
+      "en_US": "Type",
+      "fr_FR": "Son type"
     },
     {
       "id": "pl_msg_00000655_00048",
-      "en_US": "Cool moves!"
+      "en_US": "Cool moves!",
+      "fr_FR": "Les capacités"
     },
     {
       "id": "pl_msg_00000655_00049",
-      "en_US": "High level"
+      "en_US": "High level",
+      "fr_FR": "De haut niveau"
     }
   ]
 }

@@ -59,6 +59,10 @@
             "en_US": [
                 "Over the years, I’ve crossed paths\n",
                 "with many a Trainer."
+            ],
+            "fr_FR": [
+                "J’ai rencontré bon nombre de Dresseurs\n",
+                "au fil des années."
             ]
         },
         {
@@ -66,6 +70,10 @@
             "en_US": [
                 "They were all wonderful Trainers in\n",
                 "their own ways. All fond memories now...\r"
+            ],
+            "fr_FR": [
+                "Beaucoup sont d’excellents Dresseurs,\n",
+                "et des amis fidèles...\r"
             ]
         },
         {
@@ -73,7 +81,12 @@
             "en_US": [
                 "You’re one among those many Trainers.\n",
                 "I’m sorry I wasn’t younger.\r"
+            ],
+            "fr_FR": [
+                "Parmi toutes ces rencontres, la nôtre\n",
+                "aura toujours une place à part.\r"
             ]
         }
-    ]
+    ],
+    "name_fr": "Amande"
 }

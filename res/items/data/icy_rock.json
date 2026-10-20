@@ -26,5 +26,13 @@
   "battlePocket": "BATTLE_POCKET_MASK_NONE",
   "fieldUseFunc": "ITEM_USE_FUNC_NONE",
   "battleUseCategory": "BATTLE_USE_CATEGORY_NONE",
-  "itemUseParams": null
+  "itemUseParams": null,
+  "name_fr": "Roche Glace",
+  "description_fr": [
+    "Objet à tenir augmentant la durée de\n",
+    "la capacité Grêle utilisée par le\n",
+    "porteur."
+  ],
+  "plural_fr": "Roche Glace",
+  "article_fr": null
 }

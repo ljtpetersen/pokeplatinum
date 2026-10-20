@@ -24,5 +24,13 @@
     "contest": {
         "effect": "CONTEST_EFFECT_SUPPRESS_VOLTAGE",
         "type": "CONTEST_TYPE_CUTE"
-    }
+    },
+    "name_fr": "Air Veinard",
+    "description_fr": [
+        "Le lanceur envoie une\n",
+        "incantation vers le\n",
+        "ciel pour empêcher\n",
+        "l’ennemi d’effectuer\n",
+        "des coups critiques."
+    ]
 }

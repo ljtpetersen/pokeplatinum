@@ -7,7 +7,10 @@
         "special_attack": 45,
         "special_defense": 55
     },
-    "types": [ "TYPE_GRASS", "TYPE_GRASS" ],
+    "types": [
+        "TYPE_GRASS",
+        "TYPE_GRASS"
+    ],
     "catch_rate": 45,
     "base_exp_reward": 64,
     "ev_yields": {
@@ -26,26 +29,68 @@
     "hatch_cycles": 20,
     "base_friendship": 70,
     "exp_rate": "EXP_RATE_MEDIUM_SLOW",
-    "egg_groups": [ "EGG_GROUP_MONSTER", "EGG_GROUP_GRASS" ],
-    "abilities": [ "ABILITY_OVERGROW", "ABILITY_NONE" ],
+    "egg_groups": [
+        "EGG_GROUP_MONSTER",
+        "EGG_GROUP_GRASS"
+    ],
+    "abilities": [
+        "ABILITY_OVERGROW",
+        "ABILITY_NONE"
+    ],
     "safari_flee_rate": 0,
     "body_color": "MON_COLOR_GREEN",
     "flip_sprite": false,
     "icon_palette": 1,
     "learnset": {
         "by_level": [
-            [ 1, "MOVE_TACKLE" ],
-            [ 5, "MOVE_WITHDRAW" ],
-            [ 9, "MOVE_ABSORB" ],
-            [ 13, "MOVE_RAZOR_LEAF" ],
-            [ 17, "MOVE_CURSE" ],
-            [ 21, "MOVE_BITE" ],
-            [ 25, "MOVE_MEGA_DRAIN" ],
-            [ 29, "MOVE_LEECH_SEED" ],
-            [ 33, "MOVE_SYNTHESIS" ],
-            [ 37, "MOVE_CRUNCH" ],
-            [ 41, "MOVE_GIGA_DRAIN" ],
-            [ 45, "MOVE_LEAF_STORM" ]
+            [
+                1,
+                "MOVE_TACKLE"
+            ],
+            [
+                5,
+                "MOVE_WITHDRAW"
+            ],
+            [
+                9,
+                "MOVE_ABSORB"
+            ],
+            [
+                13,
+                "MOVE_RAZOR_LEAF"
+            ],
+            [
+                17,
+                "MOVE_CURSE"
+            ],
+            [
+                21,
+                "MOVE_BITE"
+            ],
+            [
+                25,
+                "MOVE_MEGA_DRAIN"
+            ],
+            [
+                29,
+                "MOVE_LEECH_SEED"
+            ],
+            [
+                33,
+                "MOVE_SYNTHESIS"
+            ],
+            [
+                37,
+                "MOVE_CRUNCH"
+            ],
+            [
+                41,
+                "MOVE_GIGA_DRAIN"
+            ],
+            [
+                45,
+                "MOVE_LEAF_STORM"
+            ]
         ],
         "by_tm": [
             "TM06",
@@ -132,9 +177,9 @@
             "name": "TURTWIG",
             "category": "Tiny Leaf Pokémon",
             "entry_text": [
-                "The shell on its back is made of\n",
-                "soil. On a very healthy TURTWIG,\n",
-                "the shell should feel moist."
+                "Made from soil, the shell on its\n",
+                "back hardens when it drinks water.\n",
+                "It lives along lakes."
             ]
         },
         "fr": {
@@ -180,6 +225,18 @@
                 "つちで　できた　せなかの　こうらは\n",
                 "みずを　のむと　さらに　かたくなる。\n",
                 "みずうみの　ほとりで　くらしている。"
+            ]
+        },
+        "local_version": {
+            "entry_text": [
+                "The shell on its back is made of\n",
+                "soil. On a very healthy TURTWIG,\n",
+                "the shell should feel moist."
+            ],
+            "entry_text_fr": [
+                "La coquille sur son dos est faite de\n",
+                "terre. Plus il est en bonne santé,\n",
+                "plus elle est humide."
             ]
         }
     },

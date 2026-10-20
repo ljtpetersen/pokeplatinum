@@ -6,6 +6,10 @@
       "en_US": [
         "Please take your designated position\n",
         "and start the battle."
+      ],
+      "fr_FR": [
+        "Veuillez vous mettre en position et\n",
+        "démarrer le combat."
       ]
     },
     {
@@ -13,6 +17,10 @@
       "en_US": [
         "Please wait a moment...\n",
         "Press the B Button to cancel."
+      ],
+      "fr_FR": [
+        "Veuillez patienter...\n",
+        "Appuyez sur le bouton B pour annuler."
       ]
     },
     {
@@ -21,6 +29,11 @@
         "Let’s check out {STRVAR_1 3, 0, 0}’s\n",
         "Trainer Case...\r",
         "...It’s a Normal Card!"
+      ],
+      "fr_FR": [
+        "Voyons ce que {STRVAR_1 3, 0, 0} a dans\n",
+        "son Etui Dresseur...\r",
+        "Une carte Normale!"
       ]
     },
     {
@@ -29,6 +42,11 @@
         "Let’s check out {STRVAR_1 3, 0, 0}’s\n",
         "Trainer Case...\r",
         "...It’s a Bronze Card!"
+      ],
+      "fr_FR": [
+        "Voyons ce que {STRVAR_1 3, 0, 0} a dans\n",
+        "son Etui Dresseur...\r",
+        "Une carte en Bronze!"
       ]
     },
     {
@@ -37,6 +55,11 @@
         "Let’s check out {STRVAR_1 3, 0, 0}’s\n",
         "Trainer Case...\r",
         "...It’s a Copper Card!"
+      ],
+      "fr_FR": [
+        "Voyons ce que {STRVAR_1 3, 0, 0} a dans\n",
+        "son Etui Dresseur...\r",
+        "Une carte en Cuivre!"
       ]
     },
     {
@@ -45,6 +68,11 @@
         "Let’s check out {STRVAR_1 3, 0, 0}’s\n",
         "Trainer Case...\r",
         "...It’s a Silver Card!"
+      ],
+      "fr_FR": [
+        "Voyons ce que {STRVAR_1 3, 0, 0} a dans\n",
+        "son Etui Dresseur...\r",
+        "Une carte en Argent!"
       ]
     },
     {
@@ -53,6 +81,11 @@
         "Let’s check out {STRVAR_1 3, 0, 0}’s\n",
         "Trainer Case...\r",
         "...It’s a Gold Card!"
+      ],
+      "fr_FR": [
+        "Voyons ce que {STRVAR_1 3, 0, 0} a dans\n",
+        "son Etui Dresseur...\r",
+        "Une carte en Or!"
       ]
     },
     {
@@ -61,6 +94,11 @@
         "Let’s check out {STRVAR_1 3, 0, 0}’s\n",
         "Trainer Case...\r",
         "...It’s a Black Card!"
+      ],
+      "fr_FR": [
+        "Voyons ce que {STRVAR_1 3, 0, 0} a dans\n",
+        "son Etui Dresseur...\r",
+        "Une carte Noire!"
       ]
     },
     {
@@ -72,21 +110,31 @@
       "en_US": [
         "Communication will be ended.\n",
         "Is that OK?"
+      ],
+      "fr_FR": [
+        "La communication va être arrêtée.\n",
+        "Continuer?"
       ]
     },
     {
       "id": "CommunicationClub_Text_Yes",
-      "en_US": "YES"
+      "en_US": "YES",
+      "fr_FR": "OUI"
     },
     {
       "id": "CommunicationClub_Text_No",
-      "en_US": "NO"
+      "en_US": "NO",
+      "fr_FR": "NON"
     },
     {
       "id": "CommunicationClub_Text_EndingCommunication",
       "en_US": [
         "Ending communication.\n",
         "Please wait."
+      ],
+      "fr_FR": [
+        "Fin de la communication.\n",
+        "Veuillez patienter..."
       ]
     },
     {
@@ -94,36 +142,52 @@
       "en_US": [
         "Please choose the Pokémon to be\n",
         "entered.\r"
+      ],
+      "fr_FR": [
+        "Veuillez choisir les Pokémon\n",
+        "devant participer.\r"
       ]
     },
     {
       "id": "CommunicationClub_Text_WaitingForPlayerToChoose",
-      "en_US": "Waiting for {STRVAR_1 3, 0, 0} to choose."
+      "en_US": "Waiting for {STRVAR_1 3, 0, 0} to choose.",
+      "fr_FR": "{STRVAR_1 3, 0, 0} doit effectuer son choix."
     },
     {
       "id": "CommunicationClub_Text_BattleHasBeenCanceled",
-      "en_US": "The battle has been canceled."
+      "en_US": "The battle has been canceled.",
+      "fr_FR": "Le combat a été annulé."
     },
     {
       "id": "CommunicationClub_Text_PleaseComeAgain",
-      "en_US": "Please come again."
+      "en_US": "Please come again.",
+      "fr_FR": "J’espère vous revoir bientôt."
     },
     {
       "id": "CommunicationClub_Text_SelectOpponentsPokemon",
       "en_US": [
         "Please select one of your opponent’s\n",
         "Pokémon."
+      ],
+      "fr_FR": [
+        "Veuillez choisir un des Pokémon de\n",
+        "votre adversaire."
       ]
     },
     {
       "id": "CommunicationClub_Text_IsPokemonYourChoice",
-      "en_US": "Is {STRVAR_1 0, 1, 0} your choice?"
+      "en_US": "Is {STRVAR_1 0, 1, 0} your choice?",
+      "fr_FR": "Vous choisissez {STRVAR_1 0, 1, 0}?"
     },
     {
       "id": "CommunicationClub_Text_SelectThreePokemonToParticipate",
       "en_US": [
         "Please select the three Pokémon\n",
         "that will participate.\r"
+      ],
+      "fr_FR": [
+        "Veuillez choisir les trois Pokémon que\n",
+        "vous souhaitez inscrire.\r"
       ]
     },
     {
@@ -134,23 +198,34 @@
         "other’s Pokémon.\r",
         "Then, you exchange the chosen\n",
         "Pokémon and battle.\r"
+      ],
+      "fr_FR": [
+        "Dans un Combat Mixte, vous choisissez\n",
+        "un des Pokémon de votre adversaire et\f",
+        "il choisit l’un des vôtres.\r",
+        "Ensuite, vous échangez ces Pokémon et\n",
+        "combattez.\r"
       ]
     },
     {
       "id": "CommunicationClub_Text_Cancel",
-      "en_US": "CANCEL"
+      "en_US": "CANCEL",
+      "fr_FR": "ANNULER"
     },
     {
       "id": "CommunicationClub_Text_Summary",
-      "en_US": "SUMMARY"
+      "en_US": "SUMMARY",
+      "fr_FR": "RESUME"
     },
     {
       "id": "CommunicationClub_Text_OK",
-      "en_US": "OK"
+      "en_US": "OK",
+      "fr_FR": "CONFIRMER"
     },
     {
       "id": "CommunicationClub_Text_Cancel2",
-      "en_US": "CANCEL"
+      "en_US": "CANCEL",
+      "fr_FR": "ANNULER"
     }
   ]
 }

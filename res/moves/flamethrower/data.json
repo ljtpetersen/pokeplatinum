@@ -25,5 +25,11 @@
     "contest": {
         "effect": "CONTEST_EFFECT_FIRST_PERFORMANCE_ADVANTAGE",
         "type": "CONTEST_TYPE_BEAUTY"
-    }
+    },
+    "name_fr": "Lance-Flamme",
+    "description_fr": [
+        "L’ennemi reçoit un\n",
+        "torrent de flammes.\n",
+        "Peut aussi le brûler."
+    ]
 }

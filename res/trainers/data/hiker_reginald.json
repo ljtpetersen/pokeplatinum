@@ -30,18 +30,28 @@
     "messages": [
         {
             "type": "TRMSG_PRE_BATTLE",
-            "en_US": "Look! A Trainer lost in Wayward Cave!\r"
+            "en_US": "Look! A Trainer lost in Wayward Cave!\r",
+            "fr_FR": [
+                "Regarde! Un Dresseur perdu dans la\n",
+                "Grotte Revêche!\r"
+            ]
         },
         {
             "type": "TRMSG_DEFEAT",
-            "en_US": "I strayed from the battle plan!\n"
+            "en_US": "I strayed from the battle plan!\n",
+            "fr_FR": "Je n’ai pas suivi le plan de bataille!\n"
         },
         {
             "type": "TRMSG_POST_BATTLE",
             "en_US": [
                 "Me? No, I’m not lost.\n",
                 "I live here!\n"
+            ],
+            "fr_FR": [
+                "Moi? Non, je ne suis pas perdu.\n",
+                "J’habite ici!\n"
             ]
         }
-    ]
+    ],
+    "name_fr": "Malo"
 }

@@ -43,11 +43,21 @@
                 "You’re famous among Team Galactic.\r",
                 "The order has been issued--we get\n",
                 "a promotion if we put you down!\r"
+            ],
+            "fr_FR": [
+                "Hé toi, petit Dresseur! On ne parle que\n",
+                "de toi dans la Team Galaxie.\r",
+                "Mauvaise nouvelle: celui qui te battra\n",
+                "aura une promotion!\r"
             ]
         },
         {
             "type": "TRMSG_DEFEAT",
-            "en_US": "I just blew my promotion...\n"
+            "en_US": "I just blew my promotion...\n",
+            "fr_FR": [
+                "Je peux faire une croix sur ma\n",
+                "promotion..."
+            ]
         },
         {
             "type": "TRMSG_POST_BATTLE",
@@ -55,7 +65,13 @@
                 "What’s so special about you anyway?\r",
                 "You’re just like any other little kid\n",
                 "Trainer you can find anywhere!"
+            ],
+            "fr_FR": [
+                "Qu’as-tu de si spécial, au juste?\r",
+                "Des Dresseurs comme toi, il y en a des\n",
+                "centaines!"
             ]
         }
-    ]
+    ],
+    "name_fr": "Sbire"
 }

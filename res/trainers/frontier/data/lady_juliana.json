@@ -56,18 +56,31 @@
     "messages": [
         {
             "type": "TRMSG_PRE_BATTLE",
-            "en_US": "I can sink your sort with minimal effort."
+            "en_US": "I can sink your sort with minimal effort.",
+            "fr_FR": [
+                "Les gens comme toi, je les remets à\n",
+                "leur place sans effort."
+            ]
         },
         {
             "type": "TRMSG_WIN",
             "en_US": [
                 "It took the barest of effort to win this\n",
                 "match.\r"
+            ],
+            "fr_FR": [
+                "Je n’ai eu aucun effort à fournir pour\n",
+                "remporter la victoire, comme prévu.\r"
             ]
         },
         {
             "type": "TRMSG_DEFEAT",
-            "en_US": "You swamped us with no effort at all...\r"
+            "en_US": "You swamped us with no effort at all...\r",
+            "fr_FR": [
+                "C’est toi qui nous as vaincus\n",
+                "sans effort!\r"
+            ]
         }
-    ]
+    ],
+    "name_fr": "Jehanne"
 }

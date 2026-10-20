@@ -6,6 +6,10 @@
       "en_US": [
         "You’re off to hang with {STRVAR_1 3, 0, 0}\n",
         "again, right? You two sure are tight!"
+      ],
+      "fr_FR": [
+        "Tu vas à nouveau traîner avec\n",
+        "{STRVAR_1 3, 0, 0}, non? Vous êtes très liés!"
       ]
     },
     {
@@ -15,6 +19,13 @@
         "Pokémon a long time ago.\r",
         "It was only to Sandgem, the next town\n",
         "over, though. Yeah, good times..."
+      ],
+      "fr_FR": [
+        "Je suis parti à l’aventure avec des\n",
+        "Pokémon il y a longtemps.\r",
+        "Je ne suis pas allé plus loin que la\n",
+        "ville voisine, Littorella.\r",
+        "Ouais, c’était le bon temps..."
       ]
     }
   ]

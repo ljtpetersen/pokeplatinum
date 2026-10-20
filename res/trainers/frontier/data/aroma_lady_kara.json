@@ -51,15 +51,25 @@
             "en_US": [
                 "Kyahaha! I smell a powerful battle\n",
                 "in the making!"
+            ],
+            "fr_FR": [
+                "Hé, hé! Je sens que notre combat\n",
+                "sera épique!"
             ]
         },
         {
             "type": "TRMSG_WIN",
-            "en_US": "The sweet smell of success!\r"
+            "en_US": "The sweet smell of success!\r",
+            "fr_FR": "J’aime le doux parfum de la victoire!\r"
         },
         {
             "type": "TRMSG_DEFEAT",
-            "en_US": "Defeat smells like a SKUNTANK!\r"
+            "en_US": "Defeat smells like a SKUNTANK!\r",
+            "fr_FR": [
+                "L’odeur de la défaite me rappelle celle\n",
+                "de MOUFOUETTE!\r"
+            ]
         }
-    ]
+    ],
+    "name_fr": "Kara"
 }

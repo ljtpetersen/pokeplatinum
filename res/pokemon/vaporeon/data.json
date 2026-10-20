@@ -7,7 +7,10 @@
         "special_attack": 110,
         "special_defense": 95
     },
-    "types": [ "TYPE_WATER", "TYPE_WATER" ],
+    "types": [
+        "TYPE_WATER",
+        "TYPE_WATER"
+    ],
     "catch_rate": 45,
     "base_exp_reward": 196,
     "ev_yields": {
@@ -26,28 +29,76 @@
     "hatch_cycles": 35,
     "base_friendship": 70,
     "exp_rate": "EXP_RATE_MEDIUM_FAST",
-    "egg_groups": [ "EGG_GROUP_FIELD", "EGG_GROUP_FIELD" ],
-    "abilities": [ "ABILITY_WATER_ABSORB", "ABILITY_WATER_ABSORB" ],
+    "egg_groups": [
+        "EGG_GROUP_FIELD",
+        "EGG_GROUP_FIELD"
+    ],
+    "abilities": [
+        "ABILITY_WATER_ABSORB",
+        "ABILITY_WATER_ABSORB"
+    ],
     "safari_flee_rate": 0,
     "body_color": "MON_COLOR_BLUE",
     "flip_sprite": false,
     "icon_palette": 0,
     "learnset": {
         "by_level": [
-            [ 1, "MOVE_TAIL_WHIP" ],
-            [ 1, "MOVE_TACKLE" ],
-            [ 1, "MOVE_HELPING_HAND" ],
-            [ 8, "MOVE_SAND_ATTACK" ],
-            [ 15, "MOVE_WATER_GUN" ],
-            [ 22, "MOVE_QUICK_ATTACK" ],
-            [ 29, "MOVE_BITE" ],
-            [ 36, "MOVE_AURORA_BEAM" ],
-            [ 43, "MOVE_AQUA_RING" ],
-            [ 50, "MOVE_LAST_RESORT" ],
-            [ 57, "MOVE_HAZE" ],
-            [ 64, "MOVE_ACID_ARMOR" ],
-            [ 71, "MOVE_HYDRO_PUMP" ],
-            [ 78, "MOVE_MUDDY_WATER" ]
+            [
+                1,
+                "MOVE_TAIL_WHIP"
+            ],
+            [
+                1,
+                "MOVE_TACKLE"
+            ],
+            [
+                1,
+                "MOVE_HELPING_HAND"
+            ],
+            [
+                8,
+                "MOVE_SAND_ATTACK"
+            ],
+            [
+                15,
+                "MOVE_WATER_GUN"
+            ],
+            [
+                22,
+                "MOVE_QUICK_ATTACK"
+            ],
+            [
+                29,
+                "MOVE_BITE"
+            ],
+            [
+                36,
+                "MOVE_AURORA_BEAM"
+            ],
+            [
+                43,
+                "MOVE_AQUA_RING"
+            ],
+            [
+                50,
+                "MOVE_LAST_RESORT"
+            ],
+            [
+                57,
+                "MOVE_HAZE"
+            ],
+            [
+                64,
+                "MOVE_ACID_ARMOR"
+            ],
+            [
+                71,
+                "MOVE_HYDRO_PUMP"
+            ],
+            [
+                78,
+                "MOVE_MUDDY_WATER"
+            ]
         ],
         "by_tm": [
             "TM03",
@@ -96,7 +147,7 @@
             "MOVE_SWIFT"
         ]
     },
-    "evolutions": [  ],
+    "evolutions": [],
     "offspring": "SPECIES_EEVEE",
     "footprint": {
         "has": true,
@@ -119,9 +170,9 @@
             "name": "VAPOREON",
             "category": "Bubble Jet Pokémon",
             "entry_text": [
-                "Its cell composition is similar\n",
-                "to water molecules. As a result,\n",
-                "it can melt away into water."
+                "It has evolved to be suitable for\n",
+                "an aquatic life. It can invisibly\n",
+                "melt away into water."
             ]
         },
         "fr": {
@@ -167,6 +218,18 @@
                 "すいちゅうでの　せいかつに　てきした\n",
                 "からだに　しんかした。\n",
                 "みずに　とけると　みえなくなる。"
+            ]
+        },
+        "local_version": {
+            "entry_text": [
+                "Its cell composition is similar\n",
+                "to water molecules. As a result,\n",
+                "it can melt away into water."
+            ],
+            "entry_text_fr": [
+                "Sa composition moléculaire est\n",
+                "proche de celle de l’eau, ce qui\n",
+                "lui permet de se liquéfier."
             ]
         }
     },

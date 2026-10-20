@@ -3,51 +3,63 @@
   "messages": [
     {
       "id": "StartMenu_Text_Pokedex",
-      "en_US": "POKéDEX"
+      "en_US": "POKéDEX",
+      "fr_FR": "POKéDEX"
     },
     {
       "id": "StartMenu_Text_Pokemon",
-      "en_US": "POKéMON"
+      "en_US": "POKéMON",
+      "fr_FR": "POKéMON"
     },
     {
       "id": "StartMenu_Text_Bag",
-      "en_US": "BAG"
+      "en_US": "BAG",
+      "fr_FR": "SAC"
     },
     {
       "id": "StartMenu_Text_PlayerTemplate",
-      "en_US": "{STRVAR_1 3, 0, 0}"
+      "en_US": "{STRVAR_1 3, 0, 0}",
+      "fr_FR": "{STRVAR_1 3, 0, 0}"
     },
     {
       "id": "StartMenu_Text_Save",
-      "en_US": "SAVE"
+      "en_US": "SAVE",
+      "fr_FR": "SAUVER"
     },
     {
       "id": "StartMenu_Text_Options",
-      "en_US": "OPTIONS"
+      "en_US": "OPTIONS",
+      "fr_FR": "OPTIONS"
     },
     {
       "id": "StartMenu_Text_Exit",
-      "en_US": "EXIT"
+      "en_US": "EXIT",
+      "fr_FR": "QUITTER"
     },
     {
       "id": "StartMenu_Text_Chat",
-      "en_US": "CHAT"
+      "en_US": "CHAT",
+      "fr_FR": "TCHAT"
     },
     {
       "id": "StartMenu_Text_Retire",
-      "en_US": "RETIRE"
+      "en_US": "RETIRE",
+      "fr_FR": "PARTIR"
     },
     {
       "id": "StartMenu_Text_SafariBalls",
-      "en_US": "SAFARI BALLS"
+      "en_US": "SAFARI BALLS",
+      "fr_FR": "SAFARI BALLS"
     },
     {
       "id": "StartMenu_Text_ParkBalls",
-      "en_US": "PARK BALLS"
+      "en_US": "PARK BALLS",
+      "fr_FR": "PARC BALLS"
     },
     {
       "id": "StartMenu_Text_BallStock",
-      "en_US": "Stock: {STRVAR_1 51, 0, 0}"
+      "en_US": "Stock: {STRVAR_1 51, 0, 0}",
+      "fr_FR": "Nb: {STRVAR_1 51, 0, 0}"
     }
   ]
 }

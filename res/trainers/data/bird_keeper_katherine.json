@@ -23,6 +23,10 @@
             "en_US": [
                 "I go everywhere with my NOCTOWL.\n",
                 "We’re gonna show you owl best! Ha!\r"
+            ],
+            "fr_FR": [
+                "Mon NOARFANG me suit partout...\n",
+                "Ça lui évite de broyer du noir. Ha!\r"
             ]
         },
         {
@@ -30,6 +34,10 @@
             "en_US": [
                 "We did our best. That’s what\n",
                 "matters. Right?\n"
+            ],
+            "fr_FR": [
+                "On a fait de notre mieux, c’est \n",
+                "ce qui compte. Pas vrai?\n"
             ]
         },
         {
@@ -37,6 +45,10 @@
             "en_US": [
                 "Even on cold days, just being with\n",
                 "my NOCTOWL keeps me warm!\n"
+            ],
+            "fr_FR": [
+                "Quand il fait froid, mon NOARFANG est\n",
+                "là pour me réchauffer le cœur!\n"
             ]
         },
         {
@@ -44,7 +56,12 @@
             "en_US": [
                 "I curled up inside my NOCTOWL’s wings\n",
                 "and waited for you to return!\r"
+            ],
+            "fr_FR": [
+                "Je me suis lovée dans les ailes de mon\n",
+                "NOARFANG en attendant ton retour!\r"
             ]
         }
-    ]
+    ],
+    "name_fr": "Josette"
 }

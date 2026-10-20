@@ -26,5 +26,13 @@
     "contest": {
         "effect": "CONTEST_EFFECT_ALL_SAME_JUDGE",
         "type": "CONTEST_TYPE_BEAUTY"
-    }
+    },
+    "name_fr": "Explosion",
+    "description_fr": [
+        "Le lanceur explose et\n",
+        "inflige des dégâts à\n",
+        "tous les autres\n",
+        "Pokémon au combat.\n",
+        "Met K.O. le lanceur."
+    ]
 }

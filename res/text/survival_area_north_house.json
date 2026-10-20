@@ -7,31 +7,50 @@
         "If you’d share your Shards with me,\n",
         "I can teach some moves.\r",
         "Would you like me to teach a move?"
+      ],
+      "fr_FR": [
+        "Je peux enseigner des capacités à tes\n",
+        "Pokémon contre des Tessons.\r",
+        "Ça t’intéresse?"
       ]
     },
     {
       "id": "SurvivalAreaNorthHouse_Text_SeeYouThen",
-      "en_US": "See you, then!"
+      "en_US": "See you, then!",
+      "fr_FR": "Très bien, à plus tard!"
     },
     {
       "id": "SurvivalAreaNorthHouse_Text_TeachWhichPokemon",
-      "en_US": "Which Pokémon should I teach?\r"
+      "en_US": "Which Pokémon should I teach?\r",
+      "fr_FR": [
+        "A quel Pokémon dois-je enseigner\n",
+        "une capacité?\r"
+      ]
     },
     {
       "id": "SurvivalAreaNorthHouse_Text_NoMovesToTeach",
       "en_US": [
         "There are no moves that can be taught\n",
         "to this Pokémon."
+      ],
+      "fr_FR": [
+        "Je ne peux rien apprendre à ce\n",
+        "Pokémon."
       ]
     },
     {
       "id": "SurvivalAreaNorthHouse_Text_NotEnoughShards",
-      "en_US": "You don’t have enough Shards."
+      "en_US": "You don’t have enough Shards.",
+      "fr_FR": "Tu n’as pas assez de Tessons."
     },
     {
       "id": "SurvivalAreaNorthHouse_Text_TeachWhichMove",
       "en_US": [
         "Which move should be taught to\n",
+        "{STRVAR_1 1, 0, 0}?"
+      ],
+      "fr_FR": [
+        "Quelle capacité dois-je enseigner à\n",
         "{STRVAR_1 1, 0, 0}?"
       ]
     },
@@ -48,6 +67,10 @@
       "en_US": [
         "{STRVAR_1 1, 0, 0} learned\n",
         "{STRVAR_1 6, 1, 0}!"
+      ],
+      "fr_FR": [
+        "{STRVAR_1 1, 0, 0} apprend\n",
+        "{STRVAR_1 6, 1, 0}."
       ]
     },
     {
@@ -59,17 +82,30 @@
         "than four moves.\r",
         "Delete an older move to make\n",
         "room for {STRVAR_1 6, 1, 0}?"
+      ],
+      "fr_FR": [
+        "{STRVAR_1 1, 0, 0} tente d’apprendre\n",
+        "{STRVAR_1 6, 1, 0}.\r",
+        "Mais {STRVAR_1 1, 0, 0} ne peut pas\n",
+        "apprendre plus de quatre capacités.\r",
+        "Effacer une capacité pour\n",
+        "{STRVAR_1 6, 1, 0}?"
       ]
     },
     {
       "id": "SurvivalAreaNorthHouse_Text_StopTryingToTeachMove",
-      "en_US": "Stop trying to teach {STRVAR_1 6, 1, 0}?"
+      "en_US": "Stop trying to teach {STRVAR_1 6, 1, 0}?",
+      "fr_FR": "Arrêter d’enseigner {STRVAR_1 6, 1, 0}?"
     },
     {
       "id": "SurvivalAreaNorthHouse_Text_PokemonDidntLearnMove",
       "en_US": [
         "{STRVAR_1 1, 0, 0} did not learn\n",
         "the move {STRVAR_1 6, 1, 0}.\r"
+      ],
+      "fr_FR": [
+        "{STRVAR_1 1, 0, 0} n’a pas appris la capacité\n",
+        "{STRVAR_1 6, 1, 0}.\r"
       ]
     },
     {
@@ -77,11 +113,16 @@
       "en_US": [
         "Is it OK to forget the\n",
         "move {STRVAR_1 6, 1, 0}?"
+      ],
+      "fr_FR": [
+        "{STRVAR_1 6, 1, 0} est la capacité qui doit\n",
+        "être oubliée?"
       ]
     },
     {
       "id": "SurvivalAreaNorthHouse_Text_OneTwoThreePoof",
-      "en_US": "1,{PAUSE 20} 2,{PAUSE 20} and...{PAUSE 20} ...{PAUSE 20} Poof!"
+      "en_US": "1,{PAUSE 20} 2,{PAUSE 20} and...{PAUSE 20} ...{PAUSE 20} Poof!",
+      "fr_FR": "1{PAUSE 20}, 2{PAUSE 20} et {PAUSE 20}... {PAUSE 20}... Tadaa!"
     },
     {
       "id": "SurvivalAreaNorthHouse_Text_PokemonForgotMove",
@@ -89,17 +130,30 @@
         "{STRVAR_1 1, 0, 0} forgot how to\n",
         "use {STRVAR_1 6, 1, 0}.\r",
         "And..."
+      ],
+      "fr_FR": [
+        "{STRVAR_1 1, 0, 0} oublie\n",
+        "{STRVAR_1 6, 1, 0}.\r",
+        "Et..."
       ]
     },
     {
       "id": "SurvivalAreaNorthHouse_Text_PokemonLearnedMove2",
-      "en_US": "{STRVAR_1 1, 0, 0} learned {STRVAR_1 6, 1, 0}."
+      "en_US": "{STRVAR_1 1, 0, 0} learned {STRVAR_1 6, 1, 0}.",
+      "fr_FR": [
+        "{STRVAR_1 1, 0, 0} apprend\n",
+        "{STRVAR_1 6, 1, 0}."
+      ]
     },
     {
       "id": "SurvivalAreaNorthHouse_Text_CantTeachEgg",
       "en_US": [
         "Teach an Egg a move?\n",
         "That’s out of my league!"
+      ],
+      "fr_FR": [
+        "Je suis incapable d’enseigner une\n",
+        "capacité à un Oeuf!"
       ]
     },
     {
@@ -113,6 +167,17 @@
         "I began looking forward to visitors.\r",
         "Where one lives can change people and\n",
         "Pokémon, that’s what I’m saying."
+      ],
+      "fr_FR": [
+        "J’ai emménagé ici parce que personne\n",
+        "ne pouvait venir sans la capacité\f",
+        "Escalade.\r",
+        "J’en avais marre de voir du monde.\r",
+        "Mais maintenant que je vis loin de tout,\n",
+        "j’espère plus que jamais recevoir de la\f",
+        "visite.\r",
+        "L’endroit où l’on vit peut changer\n",
+        "notre façon de voir les choses."
       ]
     },
     {
@@ -122,6 +187,14 @@
         "Blue Shards are for special effects.\f",
         "Yellow Shards are for status problems.\r",
         "Red Shards are what I like!"
+      ],
+      "fr_FR": [
+        "Les Tessons Rouges augmentent la\n",
+        "puissance, les bleus les impacts\f",
+        "spéciaux.\r",
+        "Quant aux jaunes, c’est pour les\n",
+        "problèmes de statut.\r",
+        "Moi, ceux que j’aime, c’est les rouges!"
       ]
     }
   ]

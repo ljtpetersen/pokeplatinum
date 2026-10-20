@@ -13,6 +13,18 @@
         "On the next screen, select\n",
         "{COLOR 1}LINK WITH POKéMON RANGER{COLOR 0}.\n",
         "Press the A Button to advance."
+      ],
+      "fr_FR": [
+        "Vous avez reçu un message d’un\n",
+        "₧₦ Ranger.\n",
+        "\n",
+        "Vous pouvez recevoir un {COLOR 1}Oeuf de\n",
+        "MANAPHY {COLOR 0}de ce ₧₦ Ranger!\n",
+        "\n",
+        "A l’écran suivant, veuillez choisir\n",
+        "{COLOR 1}Connexion avec un Ranger{COLOR 0}.\n",
+        "Appuyez sur le bouton A pour\n",
+        "continuer."
       ]
     },
     {
@@ -26,6 +38,18 @@
         "At the next screen, select\n",
         "{COLOR 1}Mystery Gift{COLOR 0}.\n",
         "Press the A Button to advance."
+      ],
+      "fr_FR": [
+        "Un signal de Cadeau Myst. a été\n",
+        "reçu!\n",
+        "\n",
+        "Vous pouvez recevoir un Cadeau\n",
+        "Myst.!\n",
+        "\n",
+        "A l’écran suivant, choisissez\n",
+        "{COLOR 1}Cadeau Myst{COLOR 0}.\n",
+        "Appuyez sur le bouton A pour\n",
+        "continuer."
       ]
     },
     {
@@ -39,6 +63,17 @@
         "farther into your adventure and\n",
         "obtain a Pokédex first.\n",
         "Press the A Button to advance."
+      ],
+      "fr_FR": [
+        "Vous avez reçu un message d’un\n",
+        "₧₦ Ranger.\n",
+        "\n",
+        "Cependant, pour communiquer avec\n",
+        "ce ₧₦ Ranger, vous devez\n",
+        "progresser dans le jeu afin\n",
+        "d’obtenir un Pokédex.\n",
+        "Appuyez sur le bouton A pour\n",
+        "continuer."
       ]
     },
     {
@@ -52,6 +87,16 @@
         "your adventure and obtain a\n",
         "Pokédex first.\n",
         "Press the A Button to advance."
+      ],
+      "fr_FR": [
+        "Un signal de Cadeau Myst. a été\n",
+        "reçu.\n",
+        "Cependant, pour pouvoir obtenir\n",
+        "un Cadeau Myst., vous devez\n",
+        "progresser dans l’histoire afin\n",
+        "d’obtenir un Pokédex.\n",
+        "Appuyez sur le bouton A pour\n",
+        "continuer."
       ]
     },
     {
@@ -72,6 +117,19 @@
         "\n",
         "A Button: Begin adventure\n",
         "B Button: Return to the menu"
+      ],
+      "fr_FR": [
+        "\n",
+        "{COLOR 1}ATTENTION!\n",
+        "{COLOR 0}Il y a déjà un fichier de sauvegarde.\n",
+        "Si vous commencez une nouvelle aventure,\n",
+        "vous ne pourrez pas la sauvegarder.\n",
+        "Appuyez sur haut + SELECT + bouton B à\n",
+        "l’écran titre si vous voulez effacer le\n",
+        "fichier de sauvegarde actuel.\n",
+        "\n",
+        "Bouton A: Commencer l’aventure\n",
+        "Bouton B: Retourner au menu"
       ]
     }
   ]

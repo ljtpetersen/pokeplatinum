@@ -27,5 +27,13 @@
   "fieldUseFunc": "ITEM_USE_FUNC_TM_HM",
   "battleUseCategory": "BATTLE_USE_CATEGORY_NONE",
   "itemUseParams": null,
-  "teachesMove": "MOVE_CHARGE_BEAM"
+  "teachesMove": "MOVE_CHARGE_BEAM",
+  "name_fr": "CT57",
+  "description_fr": [
+    "Le lanceur tire un rayon chargé\n",
+    "d’électricité. Peut aussi augmenter\n",
+    "son Atq. Spé."
+  ],
+  "plural_fr": "CT57",
+  "article_fr": null
 }

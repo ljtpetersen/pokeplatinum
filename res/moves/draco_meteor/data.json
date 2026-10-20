@@ -26,5 +26,13 @@
     "contest": {
         "effect": "CONTEST_EFFECT_MAX_VOLTAGE_ADVANTAGE",
         "type": "CONTEST_TYPE_SMART"
-    }
+    },
+    "name_fr": "Draco Météor",
+    "description_fr": [
+        "Le lanceur invoque\n",
+        "des comètes. Le\n",
+        "contrecoup réduit\n",
+        "fortement son\n",
+        "Atq. Spé."
+    ]
 }

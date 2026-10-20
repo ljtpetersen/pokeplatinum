@@ -3,43 +3,56 @@
   "messages": [
     {
       "id": "pl_msg_00000340_00000",
-      "en_US": "Advance: months"
+      "en_US": "Advance: months",
+      "fr_FR": "Advance: months"
     },
     {
       "id": "pl_msg_00000340_00001",
-      "en_US": "Turn back: months"
+      "en_US": "Turn back: months",
+      "fr_FR": "Turn back: months"
     },
     {
       "id": "pl_msg_00000340_00002",
-      "en_US": "Advance: days"
+      "en_US": "Advance: days",
+      "fr_FR": "Advance: days"
     },
     {
       "id": "pl_msg_00000340_00003",
-      "en_US": "Turn back: days"
+      "en_US": "Turn back: days",
+      "fr_FR": "Turn back: days"
     },
     {
       "id": "pl_msg_00000340_00004",
-      "en_US": "Advance: hours"
+      "en_US": "Advance: hours",
+      "fr_FR": "Advance: hours"
     },
     {
       "id": "pl_msg_00000340_00005",
-      "en_US": "Turn back: hours"
+      "en_US": "Turn back: hours",
+      "fr_FR": "Turn back: hours"
     },
     {
       "id": "pl_msg_00000340_00006",
-      "en_US": "Advance: minutes"
+      "en_US": "Advance: minutes",
+      "fr_FR": "Advance: minutes"
     },
     {
       "id": "pl_msg_00000340_00007",
-      "en_US": "Turn back: Minutes"
+      "en_US": "Turn back: Minutes",
+      "fr_FR": "Turn back: Minutes"
     },
     {
       "id": "pl_msg_00000340_00008",
-      "en_US": "Cancel"
+      "en_US": "Cancel",
+      "fr_FR": "Cancel"
     },
     {
       "id": "pl_msg_00000340_00009",
       "en_US": [
+        "{STRVAR_1 51, 0, 0}/{STRVAR_1 51, 1, 0}\n",
+        "{STRVAR_1 51, 2, 0}:{STRVAR_1 51, 3, 0} {STRVAR_1 51, 4, 0}sec."
+      ],
+      "fr_FR": [
         "{STRVAR_1 51, 0, 0}/{STRVAR_1 51, 1, 0}\n",
         "{STRVAR_1 51, 2, 0}:{STRVAR_1 51, 3, 0} {STRVAR_1 51, 4, 0}sec."
       ]

@@ -22,5 +22,13 @@
     "contest": {
         "effect": "CONTEST_EFFECT_PITY_POINTS",
         "type": "CONTEST_TYPE_SMART"
-    }
+    },
+    "name_fr": "Gribouille",
+    "description_fr": [
+        "Permet au lanceur\n",
+        "d’apprendre un coup\n",
+        "utilisé par l’ennemi.\n",
+        "Gribouille disparaît\n",
+        "après utilisation."
+    ]
 }

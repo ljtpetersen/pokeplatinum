@@ -26,5 +26,13 @@
   "battlePocket": "BATTLE_POCKET_MASK_NONE",
   "fieldUseFunc": "ITEM_USE_FUNC_EVO_STONE",
   "battleUseCategory": "BATTLE_USE_CATEGORY_NONE",
-  "itemUseParams": {}
+  "itemUseParams": {},
+  "name_fr": "Pierre Feu",
+  "description_fr": [
+    "Une pierre étrange qui fait évoluer\n",
+    "certaines espèces de Pokémon.\n",
+    "Elle est jaune et orange."
+  ],
+  "plural_fr": "Pierre Feu",
+  "article_fr": null
 }

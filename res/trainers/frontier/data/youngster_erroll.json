@@ -59,6 +59,10 @@
             "en_US": [
                 "My Pokémon are a cut apart from the\n",
                 "usual. Maybe even two cuts!"
+            ],
+            "fr_FR": [
+                "Je suis le meilleur Dresseur\n",
+                "de Pokémon du monde! Juré!"
             ]
         },
         {
@@ -66,6 +70,10 @@
             "en_US": [
                 "Their cutting intensity and solid\n",
                 "attack... Top class, yeah?\r"
+            ],
+            "fr_FR": [
+                "Yes! Encore une victoire\n",
+                "pleine de style!\r"
             ]
         },
         {
@@ -73,7 +81,9 @@
             "en_US": [
                 "Grr...\n",
                 "Rendered harmless...\r"
-            ]
+            ],
+            "fr_FR": "Non! Je n’ai pas réussi...\r"
         }
-    ]
+    ],
+    "name_fr": "Camille"
 }

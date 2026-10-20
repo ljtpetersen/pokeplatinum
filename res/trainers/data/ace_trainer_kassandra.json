@@ -58,11 +58,16 @@
             "en_US": [
                 "You’ve come all this way for Pokémon?\n",
                 "You must be dedicated.\r"
+            ],
+            "fr_FR": [
+                "Tu as fait tout ce chemin pour les\n",
+                "Pokémon? Quelle motivation.\r"
             ]
         },
         {
             "type": "TRMSG_DEFEAT",
-            "en_US": "Your dedication won out.\n"
+            "en_US": "Your dedication won out.\n",
+            "fr_FR": "Ton dévouement t’a valu la victoire.\n"
         },
         {
             "type": "TRMSG_POST_BATTLE",
@@ -71,7 +76,14 @@
                 "other all the time.\r",
                 "That must be why they are so strong\n",
                 "in this area.\n"
+            ],
+            "fr_FR": [
+                "Ici, les Pokémon se combattent les uns\n",
+                "les autres tout le temps.\r",
+                "Ça doit être la raison pour laquelle ils\n",
+                "sont si forts.\n"
             ]
         }
-    ]
+    ],
+    "name_fr": "Tamia"
 }

@@ -33,6 +33,10 @@
             "en_US": [
                 "People claim I’m like an adult. Whatever\n",
                 "could they mean, do you suppose?"
+            ],
+            "fr_FR": [
+                "D’aucuns me trouvent mature pour mon\n",
+                "âge. Je me demande bien pourquoi."
             ]
         },
         {
@@ -40,6 +44,10 @@
             "en_US": [
                 "Ah, yes, quite enjoyable!\n",
                 "We must do this again, surely.\r"
+            ],
+            "fr_FR": [
+                "Cet affrontement fut proprement\n",
+                "délectable. Je t’en sais gré.\r"
             ]
         },
         {
@@ -47,7 +55,12 @@
             "en_US": [
                 "Oh, yes! Smashing!\n",
                 "That chilled me to my toes, it did!\r"
+            ],
+            "fr_FR": [
+                "Excellent! Quelle virtuosité!\n",
+                "Je ne peux qu’admirer tes prouesses!\r"
             ]
         }
-    ]
+    ],
+    "name_fr": "Orson"
 }

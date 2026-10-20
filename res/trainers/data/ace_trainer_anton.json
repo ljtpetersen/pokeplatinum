@@ -30,18 +30,30 @@
                 "blizzards of Snowpoint City.\r",
                 "We’ll show you how it’s toughened\n",
                 "us up!\r"
+            ],
+            "fr_FR": [
+                "On passe tout notre temps à se battre\n",
+                "dans le blizzard de Frimapic.\r",
+                "Je vais te montrer comme il nous a\n",
+                "endurcis!\r"
             ]
         },
         {
             "type": "TRMSG_DEFEAT",
-            "en_US": "What’s with your toughness?!\n"
+            "en_US": "What’s with your toughness?!\n",
+            "fr_FR": "D’où te vient cette force?!\n"
         },
         {
             "type": "TRMSG_POST_BATTLE",
             "en_US": [
                 "You’ve battled all over, you say?\n",
                 "That makes you tough, perhaps.\n"
+            ],
+            "fr_FR": [
+                "Tu as fait des combats partout, tu dis?\n",
+                "C’est peut-être ce qui fait ta force.\n"
             ]
         }
-    ]
+    ],
+    "name_fr": "Maxence"
 }

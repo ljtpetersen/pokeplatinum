@@ -26,5 +26,12 @@
     "contest": {
         "effect": "CONTEST_EFFECT_2_HEARTS_WHEN_VOLTAGE_UP",
         "type": "CONTEST_TYPE_COOL"
-    }
+    },
+    "name_fr": "Elecanon",
+    "description_fr": [
+        "Un boulet de canon\n",
+        "électrifié qui inflige\n",
+        "des dégâts et peut\n",
+        "paralyser l’ennemi."
+    ]
 }

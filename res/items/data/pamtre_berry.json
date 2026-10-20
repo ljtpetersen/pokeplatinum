@@ -39,5 +39,13 @@
     "bitterness": 0,
     "sourness": 0,
     "smoothness": 35
-  }
+  },
+  "name_fr": "Baie Palma",
+  "description_fr": [
+    "Ingrédient pour Poffin. Plantez cette\n",
+    "Baie dans un sol meuble pour obtenir\n",
+    "un plant."
+  ],
+  "plural_fr": "Baie Palma",
+  "article_fr": null
 }

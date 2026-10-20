@@ -26,5 +26,13 @@
   "battlePocket": "BATTLE_POCKET_MASK_NONE",
   "fieldUseFunc": "ITEM_USE_FUNC_NONE",
   "battleUseCategory": "BATTLE_USE_CATEGORY_NONE",
-  "itemUseParams": null
+  "itemUseParams": null,
+  "name_fr": "Chaîne Pouv.",
+  "description_fr": [
+    "Objet à tenir augmentant la Vitesse\n",
+    "lors des montées de niveau mais rédui-\n",
+    "sant la stat Vitesse pendant le combat."
+  ],
+  "plural_fr": "Chaîne Pouv.",
+  "article_fr": null
 }

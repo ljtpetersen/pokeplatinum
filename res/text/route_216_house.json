@@ -6,6 +6,11 @@
       "en_US": [
         "Yahoo! This lodge’s seen better days,\n",
         "but relax, make yourself at home!"
+      ],
+      "fr_FR": [
+        "Salut! Cette cabane a connu des jours\n",
+        "meilleurs, mais fais comme chez toi!\f",
+        "Tu veux te reposer un moment?"
       ]
     },
     {
@@ -13,6 +18,10 @@
       "en_US": [
         "OK! You and your Pokémon are healthy,\n",
         "chipper, and good to go!"
+      ],
+      "fr_FR": [
+        "OK! Toi et ton équipe êtes en pleine\n",
+        "forme, prêts pour un nouveau départ!"
       ]
     },
     {
@@ -21,6 +30,11 @@
         "As you can see, the lodge is beat up.\r",
         "You can do as you like--leave right \n",
         "away, or nap in the bed.\n"
+      ],
+      "fr_FR": [
+        "A vue d’œil, cette cabane est ravagée.\r",
+        "Tu as le choix: reprendre la route ou\n",
+        "piquer un somme.\n"
       ]
     },
     {
@@ -34,6 +48,15 @@
         "ability Thick Fat does?\r",
         "It halves the damage taken from Ice-\n",
         "and Fire-type moves."
+      ],
+      "fr_FR": [
+        "Je n’ai pas d’Isograisse comme certains\n",
+        "Pokémon, alors je dois bien me couvrir\f",
+        "pour ne pas attraper froid.\r",
+        "Au fait, tu connais la capacité\n",
+        "spéciale Isograisse?\r",
+        "Elle divise par deux les dégâts infligés\n",
+        "par les capacités de type Feu et Glace."
       ]
     },
     {
@@ -41,6 +64,10 @@
       "en_US": [
         "It’s a bed...\n",
         "Want to take a rest?"
+      ],
+      "fr_FR": [
+        "C’est un lit...\n",
+        "Voulez-vous faire une sieste?"
       ]
     },
     {
@@ -48,13 +75,18 @@
       "en_US": [
         "{STRVAR_1 3, 0, 0} quickly fell asleep\n",
         "in the bed...\r"
-      ]
+      ],
+      "fr_FR": "{STRVAR_1 3, 0, 0} s’endort rapidement...\r"
     },
     {
       "id": "Route216House_Text_BecameFullyHealed",
       "en_US": [
         "{STRVAR_1 3, 0, 0} and the Pokémon\n",
         "became fully healed from the rest!"
+      ],
+      "fr_FR": [
+        "{STRVAR_1 3, 0, 0} et son équipe Pokémon\n",
+        "sont en pleine forme!"
       ]
     }
   ]

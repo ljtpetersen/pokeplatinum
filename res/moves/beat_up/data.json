@@ -27,5 +27,13 @@
     "contest": {
         "effect": "CONTEST_EFFECT_CONSECUTIVE_USE",
         "type": "CONTEST_TYPE_SMART"
-    }
+    },
+    "name_fr": "Baston",
+    "description_fr": [
+        "Le lanceur appelle les\n",
+        "Pokémon de l’équipe\n",
+        "à attaquer. Plus ils\n",
+        "sont nombreux, plus\n",
+        "il y a de dégâts."
+    ]
 }

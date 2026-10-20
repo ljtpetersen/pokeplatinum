@@ -7,7 +7,10 @@
         "special_attack": 65,
         "special_defense": 45
     },
-    "types": [ "TYPE_ELECTRIC", "TYPE_ELECTRIC" ],
+    "types": [
+        "TYPE_ELECTRIC",
+        "TYPE_ELECTRIC"
+    ],
     "catch_rate": 235,
     "base_exp_reward": 59,
     "ev_yields": {
@@ -26,25 +29,64 @@
     "hatch_cycles": 20,
     "base_friendship": 70,
     "exp_rate": "EXP_RATE_MEDIUM_SLOW",
-    "egg_groups": [ "EGG_GROUP_MONSTER", "EGG_GROUP_FIELD" ],
-    "abilities": [ "ABILITY_STATIC", "ABILITY_NONE" ],
+    "egg_groups": [
+        "EGG_GROUP_MONSTER",
+        "EGG_GROUP_FIELD"
+    ],
+    "abilities": [
+        "ABILITY_STATIC",
+        "ABILITY_NONE"
+    ],
     "safari_flee_rate": 0,
     "body_color": "MON_COLOR_WHITE",
     "flip_sprite": false,
     "icon_palette": 2,
     "learnset": {
         "by_level": [
-            [ 1, "MOVE_TACKLE" ],
-            [ 5, "MOVE_GROWL" ],
-            [ 10, "MOVE_THUNDER_SHOCK" ],
-            [ 14, "MOVE_THUNDER_WAVE" ],
-            [ 19, "MOVE_COTTON_SPORE" ],
-            [ 23, "MOVE_CHARGE" ],
-            [ 28, "MOVE_DISCHARGE" ],
-            [ 32, "MOVE_SIGNAL_BEAM" ],
-            [ 37, "MOVE_LIGHT_SCREEN" ],
-            [ 41, "MOVE_POWER_GEM" ],
-            [ 46, "MOVE_THUNDER" ]
+            [
+                1,
+                "MOVE_TACKLE"
+            ],
+            [
+                5,
+                "MOVE_GROWL"
+            ],
+            [
+                10,
+                "MOVE_THUNDER_SHOCK"
+            ],
+            [
+                14,
+                "MOVE_THUNDER_WAVE"
+            ],
+            [
+                19,
+                "MOVE_COTTON_SPORE"
+            ],
+            [
+                23,
+                "MOVE_CHARGE"
+            ],
+            [
+                28,
+                "MOVE_DISCHARGE"
+            ],
+            [
+                32,
+                "MOVE_SIGNAL_BEAM"
+            ],
+            [
+                37,
+                "MOVE_LIGHT_SCREEN"
+            ],
+            [
+                41,
+                "MOVE_POWER_GEM"
+            ],
+            [
+                46,
+                "MOVE_THUNDER"
+            ]
         ],
         "by_tm": [
             "TM06",
@@ -168,6 +210,18 @@
                 "ふわふわの　たいもうは　せいでんきが\n",
                 "たまると　２ばいに　ふくらむ。\n",
                 "さわると　かんでんしてしまう。"
+            ]
+        },
+        "local_version": {
+            "entry_text": [
+                "Its fluffy coat swells to double\n",
+                "when static electricity builds up.\n",
+                "Touching it can be shocking."
+            ],
+            "entry_text_fr": [
+                "Sa laine fournie enfle lorsqu’il\n",
+                "accumule de l’électricité statique.\n",
+                "Son contact peut choquer. "
             ]
         }
     },

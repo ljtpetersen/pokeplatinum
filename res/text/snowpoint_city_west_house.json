@@ -6,6 +6,10 @@
       "en_US": [
         "I love how my girl has so much\n",
         "vivacity and charm."
+      ],
+      "fr_FR": [
+        "J’adore ma copine. Elle est charmante\n",
+        "et très vive."
       ]
     },
     {
@@ -13,6 +17,10 @@
       "en_US": [
         "Thanks to you, my girl’s been in\n",
         "a really happy mood."
+      ],
+      "fr_FR": [
+        "Grâce à toi, ma copine est d’excellente\n",
+        "humeur."
       ]
     },
     {
@@ -22,6 +30,12 @@
         "called MEDICHAM?\r",
         "If you do, would you like to trade\n",
         "your MEDICHAM for my HAUNTER?"
+      ],
+      "fr_FR": [
+        "Tu n’aurais pas un Pokémon appelé\n",
+        "CHARMINA, par hasard?\r",
+        "Si c’est le cas, tu veux bien échanger\n",
+        "ton CHARMINA contre mon SPECTRUM?"
       ]
     },
     {
@@ -33,11 +47,20 @@
         "prevents it from evolving.\r",
         "Please treat my HAUNTER nicely!\n",
         "I’ll be good to your MEDICHAM, too!"
+      ],
+      "fr_FR": [
+        "Mwahaha! Mon SPECTRUM vient de se\n",
+        "transformer? Nan, je rigole!\r",
+        "Je lui ai donné un objet qui\n",
+        "l’empêche d’évoluer.\r",
+        "Sois sympa avec mon SPECTRUM!\n",
+        "Je m’occuperai bien de ton CHARMINA!"
       ]
     },
     {
       "id": "SnowpointCityWestHouse_Text_IAskedForMedicham",
-      "en_US": "What I asked for was a MEDICHAM...?"
+      "en_US": "What I asked for was a MEDICHAM...?",
+      "fr_FR": "Je t’avais demandé un CHARMINA..."
     },
     {
       "id": "SnowpointCityWestHouse_Text_OKIfYouDontWant",
@@ -45,6 +68,11 @@
         "It’s OK if you don’t want to.\r",
         "But if you change your mind, let’s\n",
         "trade Pokémon."
+      ],
+      "fr_FR": [
+        "Tu as tout à fait le droit de refuser.\r",
+        "Mais si tu changes d’avis, reviens et\n",
+        "nous pourrons échanger nos Pokémon."
       ]
     },
     {
@@ -52,6 +80,10 @@
       "en_US": [
         "Thanks to Pokémon, we got to be\n",
         "friends, didn’t we?"
+      ],
+      "fr_FR": [
+        "Notre amitié, on la doit aux\n",
+        "Pokémon, pas vrai?"
       ]
     }
   ]

@@ -32,6 +32,10 @@
             "en_US": [
                 "Collecting electricity from the Valley\n",
                 "Windworks... That’s our mission.\r"
+            ],
+            "fr_FR": [
+                "Récupérer l’électricité des Eoliennes...\n",
+                "C’est notre mission.\r"
             ]
         },
         {
@@ -39,6 +43,10 @@
             "en_US": [
                 "I really don’t like kids who also\n",
                 "happen to be tough Trainers...\n"
+            ],
+            "fr_FR": [
+                "Je déteste tomber sur des gosses qui\n",
+                "cachent un grand talent de Dresseur...\n"
             ]
         },
         {
@@ -48,7 +56,13 @@
                 "Team Galactic is trying to achieve!\r",
                 "Of course, they don’t tell a grunt\n",
                 "like me anything, either... But still!\n"
+            ],
+            "fr_FR": [
+                "T’as pas la moindre idée du plan\n",
+                "machiavélique de la Team Galaxie!\r",
+                "Bon, moi non plus... Mais quand même!\n"
             ]
         }
-    ]
+    ],
+    "name_fr": "Sbire"
 }

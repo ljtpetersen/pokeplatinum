@@ -41,6 +41,10 @@
             "en_US": [
                 "The Canalave Gym folks use this place\n",
                 "as their training grounds.\r"
+            ],
+            "fr_FR": [
+                "Les membres de l’Arène de Joliberges\n",
+                "utilisent ce lieu pour s’entraîner.\r"
             ]
         },
         {
@@ -48,6 +52,10 @@
             "en_US": [
                 "Maybe I should head to the Gym and\n",
                 "work out there...\n"
+            ],
+            "fr_FR": [
+                "Je devrais peut-être aller à l’Arène\n",
+                "pour m’entraîner...\n"
             ]
         },
         {
@@ -55,7 +63,12 @@
             "en_US": [
                 "Roark spent his childhood playing\n",
                 "here, I think...\n"
+            ],
+            "fr_FR": [
+                "Pierrick a joué toute son enfance ici,\n",
+                "je crois...\n"
             ]
         }
-    ]
+    ],
+    "name_fr": "Roger"
 }

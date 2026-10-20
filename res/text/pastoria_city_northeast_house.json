@@ -7,6 +7,11 @@
         "Howdy, there!\r",
         "Let me examine your Pokémon to see\n",
         "if it’s worthy of a scarf!\r"
+      ],
+      "fr_FR": [
+        "Bien le bonjour!\r",
+        "Laisse-moi examiner ton Pokémon pour\n",
+        "voir s’il mérite un foulard!\r"
       ]
     },
     {
@@ -14,6 +19,10 @@
       "en_US": [
         "Hmhm...\n",
         "I see...\r"
+      ],
+      "fr_FR": [
+        "Hum...\n",
+        "Je vois...\r"
       ]
     },
     {
@@ -26,6 +35,15 @@
         "good, either. It’s just so-so.\r",
         "If you want to improve this one’s\n",
         "condition, feed it some more Poffins!"
+      ],
+      "fr_FR": [
+        "Ce n’est pas ce que j’espérais...\r",
+        "Je ne peux pas te mentir, alors je vais\n",
+        "être direct.\r",
+        "Ce Pokémon n’est ni bon ni mauvais.\n",
+        "Il est tout simplement médiocre.\r",
+        "Si tu veux l’améliorer, donne-lui\n",
+        "plein de Poffins!"
       ]
     },
     {
@@ -35,6 +53,12 @@
         "My hat’s off to you.\r",
         "I was going to give you a scarf, but\n",
         "your Bag’s full."
+      ],
+      "fr_FR": [
+        "Je te tire mon chapeau, ton Pokémon\n",
+        "progresse dans le bon sens.\r",
+        "J’allais te donner un foulard,\n",
+        "mais ton Sac est plein, alors..."
       ]
     },
     {
@@ -44,6 +68,12 @@
         "I’d say it’s pretty impressive!\r",
         "I’ll tell you what, I’ll give you this\n",
         "{STRVAR_1 8, 1, 0}!\r"
+      ],
+      "fr_FR": [
+        "Ton {STRVAR_1 0, 0, 0} a bonne mine!\n",
+        "C’est franchement impressionnant!\r",
+        "Ecoute, je vais même te donner\n",
+        "ce {STRVAR_1 8, 1, 0}!\r"
       ]
     },
     {
@@ -52,6 +82,12 @@
         "The Red Scarf stands for passion!\r",
         "Let a Pokémon hold it to give it an edge\n",
         "in Cool Contests."
+      ],
+      "fr_FR": [
+        "Le Foul. Rouge représente \n",
+        "la passion!\r",
+        "Il donne l’avantage à un Pokémon\n",
+        "durant un Concours de Sang-froid."
       ]
     },
     {
@@ -61,6 +97,12 @@
         "of the sea!\r",
         "Let a Pokémon hold it to give it an edge\n",
         "in Beauty Contests."
+      ],
+      "fr_FR": [
+        "Le Foul. Bleu représente la\n",
+        "mer s’étendant à l’infini!\r",
+        "Il donne l’avantage à un Pokémon\n",
+        "durant un Concours de Beauté."
       ]
     },
     {
@@ -69,6 +111,11 @@
         "The Pink Scarf represents charm!\r",
         "Let a Pokémon hold it to give it an edge\n",
         "in Cute Contests."
+      ],
+      "fr_FR": [
+        "Le Foul. Rose incarne le charme!\r",
+        "Il donne l’avantage à un Pokémon\n",
+        "durant un Concours de Grâce."
       ]
     },
     {
@@ -78,6 +125,12 @@
         "breeze!\r",
         "Let a Pokémon hold it to give it an edge\n",
         "in Smart Contests."
+      ],
+      "fr_FR": [
+        "Le Foul. Vert représente la brise\n",
+        "de printemps!\r",
+        "Il donne l’avantage à un Pokémon\n",
+        "durant un Concours d’Intelligence."
       ]
     },
     {
@@ -86,6 +139,12 @@
         "The Yellow Scarf stands for toughness!\r",
         "Let a Pokémon hold it to give it an edge\n",
         "in Tough Contests."
+      ],
+      "fr_FR": [
+        "Le Foul. Jaune symbolise la\n",
+        "résistance!\r",
+        "Il donne l’avantage à un Pokémon\n",
+        "durant un Concours de Robustesse."
       ]
     },
     {
@@ -93,6 +152,10 @@
       "en_US": [
         "I’m out of scarves to give you!\n",
         "I’m out of things to say, too!"
+      ],
+      "fr_FR": [
+        "Je n’ai plus de foulard à te donner!\n",
+        "Et plus rien à dire non plus!"
       ]
     },
     {
@@ -102,11 +165,18 @@
         "Massage Girl in Veilstone City.\r",
         "They stay in touch by having Pokémon\n",
         "hold Mail for each other."
+      ],
+      "fr_FR": [
+        "La petite amie de mon frère est la\n",
+        "masseuse de Voilaroc.\r",
+        "Ils gardent contact en s’envoyant des\n",
+        "Lettres livrées par Pokémon."
       ]
     },
     {
       "id": "PastoriaCityNortheastHouse_Text_PachirisuCry",
-      "en_US": "PACHIRISU: Suuu pasuu!"
+      "en_US": "PACHIRISU: Suuu pasuu!",
+      "fr_FR": "PACHIRISU: Pachi Pachi!"
     }
   ]
 }

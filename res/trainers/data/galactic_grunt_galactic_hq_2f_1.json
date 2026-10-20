@@ -43,11 +43,21 @@
                 "promotion to Commander.\r",
                 "I’ll impress our great boss by making\n",
                 "you my newest trophy!\r"
+            ],
+            "fr_FR": [
+                "Le chef veut me donner une promotion,\n",
+                "je le sens...\r",
+                "Je vais l’impressionner en faisant\n",
+                "de toi mon nouveau trophée!\r"
             ]
         },
         {
             "type": "TRMSG_DEFEAT",
-            "en_US": "...I wish this never happened."
+            "en_US": "...I wish this never happened.",
+            "fr_FR": [
+                "... J’aimerais que ce ne soit\n",
+                "qu’un rêve."
+            ]
         },
         {
             "type": "TRMSG_POST_BATTLE",
@@ -55,7 +65,14 @@
                 "Losing sets me back to square one...\r",
                 "I’ll probably get busted down to the\n",
                 "gruntiest of the grunts... Humph!"
+            ],
+            "fr_FR": [
+                "Je crois que la promotion va me passer\n",
+                "sous le nez...\r",
+                "Je vais probablement être rétrogradé\n",
+                "sbire des sbires... Pfff!"
             ]
         }
-    ]
+    ],
+    "name_fr": "Sbire"
 }

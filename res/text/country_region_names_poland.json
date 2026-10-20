@@ -3,71 +3,88 @@
   "messages": [
     {
       "id": "pl_msg_00000690_00000",
-      "en_US": "None"
+      "en_US": "None",
+      "fr_FR": "Aucun"
     },
     {
       "id": "pl_msg_00000690_00001",
-      "en_US": "Dolnoslaskie"
+      "en_US": "Dolnoslaskie",
+      "fr_FR": "Basse-Silésie"
     },
     {
       "id": "pl_msg_00000690_00002",
-      "en_US": "Kujawsko-Pomorskie"
+      "en_US": "Kujawsko-Pomorskie",
+      "fr_FR": "Cujavie-Poméranie"
     },
     {
       "id": "pl_msg_00000690_00003",
-      "en_US": "Lubelskie"
+      "en_US": "Lubelskie",
+      "fr_FR": "Lublin"
     },
     {
       "id": "pl_msg_00000690_00004",
-      "en_US": "Lubuskie"
+      "en_US": "Lubuskie",
+      "fr_FR": "Lubusz"
     },
     {
       "id": "pl_msg_00000690_00005",
-      "en_US": "Lodzkie"
+      "en_US": "Lodzkie",
+      "fr_FR": "Lódz"
     },
     {
       "id": "pl_msg_00000690_00006",
-      "en_US": "Malopolskie"
+      "en_US": "Malopolskie",
+      "fr_FR": "Petite-Pologne"
     },
     {
       "id": "pl_msg_00000690_00007",
-      "en_US": "Mazowieckie"
+      "en_US": "Mazowieckie",
+      "fr_FR": "Mazovie"
     },
     {
       "id": "pl_msg_00000690_00008",
-      "en_US": "Opolskie"
+      "en_US": "Opolskie",
+      "fr_FR": "Opole"
     },
     {
       "id": "pl_msg_00000690_00009",
-      "en_US": "Podkarpackie"
+      "en_US": "Podkarpackie",
+      "fr_FR": "Basses-Carpates"
     },
     {
       "id": "pl_msg_00000690_00010",
-      "en_US": "Podlaskie"
+      "en_US": "Podlaskie",
+      "fr_FR": "Podlachie"
     },
     {
       "id": "pl_msg_00000690_00011",
-      "en_US": "Pomorskie"
+      "en_US": "Pomorskie",
+      "fr_FR": "Poméranie"
     },
     {
       "id": "pl_msg_00000690_00012",
-      "en_US": "Slaskie"
+      "en_US": "Slaskie",
+      "fr_FR": "Silésie"
     },
     {
       "id": "pl_msg_00000690_00013",
-      "en_US": "Swietokrzyskie"
+      "en_US": "Swietokrzyskie",
+      "fr_FR": "Sainte-Croix"
     },
     {
       "id": "pl_msg_00000690_00014",
-      "en_US": "Warminsko-Mazurskie"
+      "en_US": "Warminsko-Mazurskie",
+      "fr_FR": "Varmie-Mazurie"
     },
     {
       "id": "pl_msg_00000690_00015",
-      "en_US": "Wielkopolskie"
+      "en_US": "Wielkopolskie",
+      "fr_FR": "Grande-Pologne"
     },
     {
       "id": "pl_msg_00000690_00016",
-      "en_US": "Zachodniopomorskie"
+      "en_US": "Zachodniopomorskie",
+      "fr_FR": "Poméranie Occidentale"
     }
   ]
 }

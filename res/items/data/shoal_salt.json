@@ -26,5 +26,13 @@
   "battlePocket": "BATTLE_POCKET_MASK_NONE",
   "fieldUseFunc": "ITEM_USE_FUNC_NONE",
   "battleUseCategory": "BATTLE_USE_CATEGORY_NONE",
-  "itemUseParams": {}
+  "itemUseParams": {},
+  "name_fr": "Sel Tréfonds",
+  "description_fr": [
+    "Sel pur provenant des profondeurs de\n",
+    "la Grotte Tréfonds. Il est extrêmement\n",
+    "salé."
+  ],
+  "plural_fr": "Sel Tréfonds",
+  "article_fr": null
 }

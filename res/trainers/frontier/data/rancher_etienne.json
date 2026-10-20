@@ -59,6 +59,10 @@
             "en_US": [
                 "I was too lenient with my Pokémon.\n",
                 "They grew up all selfish on me."
+            ],
+            "fr_FR": [
+                "Il ne faut pas être trop souple avec\n",
+                "les Pokémon. Ils sont parfois ingrats."
             ]
         },
         {
@@ -66,6 +70,10 @@
             "en_US": [
                 "Hey, now, enough. Stop attacking!\n",
                 "The battle’s long over already.\r"
+            ],
+            "fr_FR": [
+                "Hé! Ça suffit! Le combat est\n",
+                "terminé! On a gagné!\r"
             ]
         },
         {
@@ -73,7 +81,12 @@
             "en_US": [
                 "Hey, now, the battle’s over and done.\n",
                 "No attacking the Trainer.\r"
+            ],
+            "fr_FR": [
+                "Hé! Ça suffit! Le combat est\n",
+                "terminé! On a perdu!\r"
             ]
         }
-    ]
+    ],
+    "name_fr": "Roman"
 }

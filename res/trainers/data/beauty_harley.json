@@ -23,7 +23,12 @@
             "en_US": [
                 "I think I have what it takes to\n",
                 "become a successful model!\n"
+            ],
+            "fr_FR": [
+                "Je crois que je pourrais devenir un\n",
+                "mannequin à succès!\n"
             ]
         }
-    ]
+    ],
+    "name_fr": "Juliette"
 }

@@ -24,5 +24,13 @@
     "contest": {
         "effect": "CONTEST_EFFECT_VOLTAGE",
         "type": "CONTEST_TYPE_BEAUTY"
-    }
+    },
+    "name_fr": "Aurore",
+    "description_fr": [
+        "Un soin qui restaure\n",
+        "des PV au lanceur.\n",
+        "Son efficacité varie\n",
+        "en fonction de la\n",
+        "météo."
+    ]
 }

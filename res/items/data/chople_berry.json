@@ -39,5 +39,13 @@
     "bitterness": 10,
     "sourness": 0,
     "smoothness": 30
-  }
+  },
+  "name_fr": "Baie Pomroz",
+  "description_fr": [
+    "Ingrédient pour Poffin. Tenue, cette\n",
+    "Baie affaiblit une attaque ennemie super\n",
+    "efficace de type Combat."
+  ],
+  "plural_fr": "Baie Pomroz",
+  "article_fr": null
 }

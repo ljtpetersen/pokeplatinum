@@ -33,11 +33,16 @@
             "en_US": [
                 "When you’re up in the mountains,\n",
                 "a battle’d do for a proper greeting!\r"
+            ],
+            "fr_FR": [
+                "Quand on est en montagne, un combat\n",
+                "est la meilleure façon de dire bonjour!\r"
             ]
         },
         {
             "type": "TRMSG_DEFEAT",
-            "en_US": "Yahoo!\n"
+            "en_US": "Yahoo!\n",
+            "fr_FR": "Yahou!\n"
         },
         {
             "type": "TRMSG_POST_BATTLE",
@@ -46,7 +51,13 @@
                 "mountains, a simple hi’d do if\f",
                 "you walk past someone.\r",
                 "Oh, and this isn’t the mountains.\n"
+            ],
+            "fr_FR": [
+                "En fait, en montagne, un simple bonjour\n",
+                "fait l’affaire si on croise quelqu’un.\r",
+                "Oh, et on n’est pas en montagne.\n"
             ]
         }
-    ]
+    ],
+    "name_fr": "Nassim"
 }

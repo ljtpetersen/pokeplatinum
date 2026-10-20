@@ -6,6 +6,10 @@
       "en_US": [
         "The PSYDUCK are standing firm.\n",
         "They aren’t inclined to move at all."
+      ],
+      "fr_FR": [
+        "Les PSYKOKWAK tiennent bon. Ils n’ont\n",
+        "pas l’intention de bouger d’un pouce."
       ]
     },
     {
@@ -14,6 +18,12 @@
         "The PSYDUCK are standing firm.\n",
         "They aren’t inclined to move.\r",
         "Would you like to use the SecretPotion?"
+      ],
+      "fr_FR": [
+        "Les PSYKOKWAK tiennent bon. Ils n’ont\n",
+        "pas l’intention de bouger d’un pouce.\r",
+        "Avez-vous l’intention d’utiliser la\n",
+        "Potionsecret?"
       ]
     },
     {
@@ -23,6 +33,11 @@
         "SecretPotion!\r",
         "The PSYDUCK appear to be cured\n",
         "of their chronic headache!\r"
+      ],
+      "fr_FR": [
+        "{STRVAR_1 3, 0, 0} utilise la Potionsecret!\r",
+        "Les PSYKOKWAK ont l’air d’être guéris\n",
+        "de leur migraine chronique!\r"
       ]
     },
     {
@@ -40,6 +55,21 @@
         "I know there are some rare Pokémon\n",
         "between here and Celestic Town, so\f",
         "it will be worth your while to go."
+      ],
+      "fr_FR": [
+        "Cynthia: Oh, excellent. Tu as utilisé la\n",
+        "Potionsecret que je t’ai donnée.\r",
+        "Les PSYKOKWAK sont connus pour \n",
+        "souffrir de maux de tête chroniques.\r",
+        "Mais personne ne sait ce qui provoque\n",
+        "ces migraines.\r",
+        "Ah, j’oubliais! Je peux te demander\n",
+        "un énorme service?\r",
+        "Je voudrais que tu livres ce Vieux Grigri\n",
+        "à ma mamie à Célestia.\r",
+        "Je sais qu’il y a des Pokémon rares\n",
+        "sur la route qui mène à Célestia, le\f",
+        "voyage te sera profitable."
       ]
     },
     {
@@ -55,6 +85,18 @@
         "Map. You can’t miss it.\r",
         "OK, I’m counting on you!\n",
         "See you again down the road!\r"
+      ],
+      "fr_FR": [
+        "Cynthia: Ma mamie a un caractère\n",
+        "bien trempé, tu vas voir.\r",
+        "Je pense que tu la reconnaîtras\n",
+        "au premier coup d’œil.\r",
+        "Oui, ça ne fait aucun doute. C’est la\n",
+        "doyenne de Célestia.\r",
+        "Quant à l’emplacement... Regarde ta\n",
+        "Carte, tu ne peux pas le louper.\r",
+        "Très bien, je compte sur toi!\n",
+        "A une prochaine fois!\r"
       ]
     },
     {
@@ -64,6 +106,12 @@
         "of you.\r",
         "But I really want you to do it.\n",
         "Will you go to Celestic Town for me?"
+      ],
+      "fr_FR": [
+        "Je sais que je te demande un\n",
+        "énorme service.\r",
+        "Mais j’ai vraiment besoin que tu le \n",
+        "fasses. Iras-tu à Célestia pour moi?"
       ]
     },
     {
@@ -76,6 +124,11 @@
         "I’m taking a rest. If I were a bird\n",
         "Pokémon, it would be a roost. Haha!\r",
         "Uh... You should rest up, too.\r"
+      ],
+      "fr_FR": [
+        "Je me repose. Si j’étais un Pokémon\n",
+        "Oiseau, ce serait un Atterrissage. Ha!\r",
+        "Euh... toi aussi, tu devrais te reposer.\r"
       ]
     },
     {
@@ -83,6 +136,10 @@
       "en_US": [
         "If they had to keep flying forever,\n",
         "bird Pokémon would eventually crash."
+      ],
+      "fr_FR": [
+        "S’ils devaient voler tout le temps, les\n",
+        "Pokémon Oiseaux finiraient par flancher."
       ]
     },
     {
@@ -90,6 +147,10 @@
       "en_US": [
         "So long as there’s a road, we’ll\n",
         "keep on running..."
+      ],
+      "fr_FR": [
+        "Tant qu’il y aura une route,\n",
+        "nous continuerons de courir..."
       ]
     },
     {
@@ -97,6 +158,10 @@
       "en_US": [
         "Café Cabin\n",
         "Freshly Squeezed Milk"
+      ],
+      "fr_FR": [
+        "Café Cabane\n",
+        "Du lait fraîchement tiré"
       ]
     },
     {
@@ -104,6 +169,10 @@
       "en_US": [
         "Rt. 210\n",
         "Solaceon Town"
+      ],
+      "fr_FR": [
+        "Route 210\n",
+        "Bonville"
       ]
     }
   ]

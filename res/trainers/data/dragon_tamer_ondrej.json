@@ -35,18 +35,31 @@
                 "I take Pokémon that are tough to begin\n",
                 "with and toughen them up even more.\r",
                 "You can help me!\r"
+            ],
+            "fr_FR": [
+                "Je n’élève que des Pokémon qui sont\n",
+                "déjà endurcis.\r",
+                "Je les entraîne pour qu’ils deviennent\n",
+                "encore plus forts. Regarde!\r"
             ]
         },
         {
             "type": "TRMSG_DEFEAT",
-            "en_US": "There’s no way I could have won!\n"
+            "en_US": "There’s no way I could have won!\n",
+            "fr_FR": "Je n’aurais jamais pu gagner!\n"
         },
         {
             "type": "TRMSG_POST_BATTLE",
             "en_US": [
                 "How should I teach the most powerful\n",
                 "of the Dragon-type moves...?\n"
+            ],
+            "fr_FR": [
+                "Comment je vais faire pour leur\n",
+                "apprendre les meilleures capacités\f",
+                "de type Dragon?\n"
             ]
         }
-    ]
+    ],
+    "name_fr": "Igor"
 }

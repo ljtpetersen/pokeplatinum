@@ -51,18 +51,31 @@
             "en_US": [
                 "I’m not looking for any excitement.\n",
                 "I don’t need any drama."
+            ],
+            "fr_FR": [
+                "Je ne recherche pas les sensations\n",
+                "fortes. Je n’ai pas besoin de ça."
             ]
         },
         {
             "type": "TRMSG_WIN",
-            "en_US": "A battle is all the excitement I need.\r"
+            "en_US": "A battle is all the excitement I need.\r",
+            "fr_FR": [
+                "Par contre, j’apprécie toujours\n",
+                "un bon combat.\r"
+            ]
         },
         {
             "type": "TRMSG_DEFEAT",
             "en_US": [
                 "I recently realized that I’m not cut\n",
                 "out for this scary job.\r"
+            ],
+            "fr_FR": [
+                "Je crois que ce travail n’est pas \n",
+                "fait pour moi, finalement...\r"
             ]
         }
-    ]
+    ],
+    "name_fr": "Rohan"
 }

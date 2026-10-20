@@ -10,6 +10,14 @@
         "I’m so scared...\r",
         "Please!\n",
         "Please take me to the exit!\r"
+      ],
+      "fr_FR": [
+        "Je m’appelle Maïté...\r",
+        "Je me suis perdue en\n",
+        "pourchassant des Pokémon...\r",
+        "J’ai si peur...\r",
+        "S’il te plaît!\n",
+        "S’il te plaît, fais-moi sortir d’ici!\r"
       ]
     },
     {
@@ -17,6 +25,10 @@
       "en_US": [
         "{STRVAR_1 3, 0, 0} decided to go with\n",
         "Mira!"
+      ],
+      "fr_FR": [
+        "{STRVAR_1 3, 0, 0} décide d’accompagner\n",
+        "Maïté!"
       ]
     },
     {
@@ -24,6 +36,10 @@
       "en_US": [
         "Mira: I’ll keep your Pokémon healthy\n",
         "all the time!"
+      ],
+      "fr_FR": [
+        "Maïté: Quoi qu’il arrive, je garderai tes\n",
+        "Pokémon en bonne santé!"
       ]
     },
     {
@@ -32,6 +48,11 @@
         "Trainer, your name is {STRVAR_1 3, 0, 0}?\r",
         "My name is Mira.\n",
         "I like your name!\r"
+      ],
+      "fr_FR": [
+        "Alors tu t’appelles {STRVAR_1 3, 0, 0}?\r",
+        "Moi c’est Maïté.\n",
+        "J’aime bien ton nom!\r"
       ]
     },
     {
@@ -39,6 +60,10 @@
       "en_US": [
         "Mira: Oh! {STRVAR_1 3, 0, 0}...\n",
         "I waited... A long time...\r"
+      ],
+      "fr_FR": [
+        "Maïté: Oh! {STRVAR_1 3, 0, 0}...\n",
+        "J’ai attendu... si longtemps...\r"
       ]
     },
     {
@@ -49,6 +74,13 @@
         "won’t be such a scaredy-cat.\r",
         "{STRVAR_1 3, 0, 0}, bye-bye!\n",
         "Thank you!\r"
+      ],
+      "fr_FR": [
+        "Maïté: Oh! Voilà la sortie!\r",
+        "Je dois m’endurcir, j’en ai marre\n",
+        "d’être une poule mouillée.\r",
+        "A la prochaine, {STRVAR_1 3, 0, 0}!\n",
+        "Merci encore!\r"
       ]
     },
     {
@@ -70,6 +102,11 @@
         "like Growl and Minimize.\r",
         "Those kinds of moves are my\n",
         "favorites."
+      ],
+      "fr_FR": [
+        "Maïté: J’aime bien les capacités utiles\n",
+        "comme Rugissement et Lilliput.\r",
+        "Ce sont mes capacités préférées."
       ]
     },
     {
@@ -78,6 +115,10 @@
         "Mira: This cave...\n",
         "It’s so easy to get confused.\r",
         "Do you know where we are?"
+      ],
+      "fr_FR": [
+        "Maïté: Cette grotte... C’est un vrai \n",
+        "labyrinthe. Tu sais où on est?"
       ]
     },
     {
@@ -88,6 +129,13 @@
         "your Pokémon?\r",
         "Yes! That has to be it!\n",
         "Mira will try like you!"
+      ],
+      "fr_FR": [
+        "Maïté: {STRVAR_1 3, 0, 0}, comment fais-tu\n",
+        "pour progresser, tu ne quittes\f",
+        "jamais tes Pokémon?\r",
+        "Mais oui! C’est ça!\n",
+        "Je vais suivre ton exemple!"
       ]
     }
   ]

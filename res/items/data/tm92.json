@@ -27,5 +27,13 @@
   "fieldUseFunc": "ITEM_USE_FUNC_TM_HM",
   "battleUseCategory": "BATTLE_USE_CATEGORY_NONE",
   "itemUseParams": null,
-  "teachesMove": "MOVE_TRICK_ROOM"
+  "teachesMove": "MOVE_TRICK_ROOM",
+  "name_fr": "CT92",
+  "description_fr": [
+    "Le lanceur crée une zone étrange\n",
+    "où les Pokémon les plus lents\n",
+    "frappent en 1¹ pendant 5 tours."
+  ],
+  "plural_fr": "CT92",
+  "article_fr": null
 }

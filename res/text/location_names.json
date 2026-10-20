@@ -3,507 +3,633 @@
   "messages": [
     {
       "id": "LocationNames_Text_MysteryZone",
-      "en_US": "Mystery Zone"
+      "en_US": "Mystery Zone",
+      "fr_FR": "Endroit mystér."
     },
     {
       "id": "LocationNames_Text_TwinleafTown",
-      "en_US": "Twinleaf Town"
+      "en_US": "Twinleaf Town",
+      "fr_FR": "Bonaugure"
     },
     {
       "id": "LocationNames_Text_SandgemTown",
-      "en_US": "Sandgem Town"
+      "en_US": "Sandgem Town",
+      "fr_FR": "Littorella"
     },
     {
       "id": "LocationNames_Text_FloaromaTown",
-      "en_US": "Floaroma Town"
+      "en_US": "Floaroma Town",
+      "fr_FR": "Floraville"
     },
     {
       "id": "LocationNames_Text_SolaceonTown",
-      "en_US": "Solaceon Town"
+      "en_US": "Solaceon Town",
+      "fr_FR": "Bonville"
     },
     {
       "id": "LocationNames_Text_CelesticTown",
-      "en_US": "Celestic Town"
+      "en_US": "Celestic Town",
+      "fr_FR": "Célestia"
     },
     {
       "id": "LocationNames_Text_JubilifeCity",
-      "en_US": "Jubilife City"
+      "en_US": "Jubilife City",
+      "fr_FR": "Féli-Cité"
     },
     {
       "id": "LocationNames_Text_CanalaveCity",
-      "en_US": "Canalave City"
+      "en_US": "Canalave City",
+      "fr_FR": "Joliberges"
     },
     {
       "id": "LocationNames_Text_OreburghCity",
-      "en_US": "Oreburgh City"
+      "en_US": "Oreburgh City",
+      "fr_FR": "Charbourg"
     },
     {
       "id": "LocationNames_Text_EternaCity",
-      "en_US": "Eterna City"
+      "en_US": "Eterna City",
+      "fr_FR": "Vestigion"
     },
     {
       "id": "LocationNames_Text_HearthomeCity",
-      "en_US": "Hearthome City"
+      "en_US": "Hearthome City",
+      "fr_FR": "Unionpolis"
     },
     {
       "id": "LocationNames_Text_PastoriaCity",
-      "en_US": "Pastoria City"
+      "en_US": "Pastoria City",
+      "fr_FR": "Verchamps"
     },
     {
       "id": "LocationNames_Text_VeilstoneCity",
-      "en_US": "Veilstone City"
+      "en_US": "Veilstone City",
+      "fr_FR": "Voilaroc"
     },
     {
       "id": "LocationNames_Text_SunyshoreCity",
-      "en_US": "Sunyshore City"
+      "en_US": "Sunyshore City",
+      "fr_FR": "Rivamar"
     },
     {
       "id": "LocationNames_Text_SnowpointCity",
-      "en_US": "Snowpoint City"
+      "en_US": "Snowpoint City",
+      "fr_FR": "Frimapic"
     },
     {
       "id": "LocationNames_Text_PokemonLeague",
-      "en_US": "Pokémon League"
+      "en_US": "Pokémon League",
+      "fr_FR": "Ligue Pokémon"
     },
     {
       "id": "LocationNames_Text_Route201",
-      "en_US": "Route 201"
+      "en_US": "Route 201",
+      "fr_FR": "Route 201"
     },
     {
       "id": "LocationNames_Text_Route202",
-      "en_US": "Route 202"
+      "en_US": "Route 202",
+      "fr_FR": "Route 202"
     },
     {
       "id": "LocationNames_Text_Route203",
-      "en_US": "Route 203"
+      "en_US": "Route 203",
+      "fr_FR": "Route 203"
     },
     {
       "id": "LocationNames_Text_Route204",
-      "en_US": "Route 204"
+      "en_US": "Route 204",
+      "fr_FR": "Route 204"
     },
     {
       "id": "LocationNames_Text_Route205",
-      "en_US": "Route 205"
+      "en_US": "Route 205",
+      "fr_FR": "Route 205"
     },
     {
       "id": "LocationNames_Text_Route206",
-      "en_US": "Route 206"
+      "en_US": "Route 206",
+      "fr_FR": "Route 206"
     },
     {
       "id": "LocationNames_Text_Route207",
-      "en_US": "Route 207"
+      "en_US": "Route 207",
+      "fr_FR": "Route 207"
     },
     {
       "id": "LocationNames_Text_Route208",
-      "en_US": "Route 208"
+      "en_US": "Route 208",
+      "fr_FR": "Route 208"
     },
     {
       "id": "LocationNames_Text_Route209",
-      "en_US": "Route 209"
+      "en_US": "Route 209",
+      "fr_FR": "Route 209"
     },
     {
       "id": "LocationNames_Text_Route210",
-      "en_US": "Route 210"
+      "en_US": "Route 210",
+      "fr_FR": "Route 210"
     },
     {
       "id": "LocationNames_Text_Route211",
-      "en_US": "Route 211"
+      "en_US": "Route 211",
+      "fr_FR": "Route 211"
     },
     {
       "id": "LocationNames_Text_Route212",
-      "en_US": "Route 212"
+      "en_US": "Route 212",
+      "fr_FR": "Route 212"
     },
     {
       "id": "LocationNames_Text_Route213",
-      "en_US": "Route 213"
+      "en_US": "Route 213",
+      "fr_FR": "Route 213"
     },
     {
       "id": "LocationNames_Text_Route214",
-      "en_US": "Route 214"
+      "en_US": "Route 214",
+      "fr_FR": "Route 214"
     },
     {
       "id": "LocationNames_Text_Route215",
-      "en_US": "Route 215"
+      "en_US": "Route 215",
+      "fr_FR": "Route 215"
     },
     {
       "id": "LocationNames_Text_Route216",
-      "en_US": "Route 216"
+      "en_US": "Route 216",
+      "fr_FR": "Route 216"
     },
     {
       "id": "LocationNames_Text_Route217",
-      "en_US": "Route 217"
+      "en_US": "Route 217",
+      "fr_FR": "Route 217"
     },
     {
       "id": "LocationNames_Text_Route218",
-      "en_US": "Route 218"
+      "en_US": "Route 218",
+      "fr_FR": "Route 218"
     },
     {
       "id": "LocationNames_Text_Route219",
-      "en_US": "Route 219"
+      "en_US": "Route 219",
+      "fr_FR": "Route 219"
     },
     {
       "id": "LocationNames_Text_Route220",
-      "en_US": "Route 220"
+      "en_US": "Route 220",
+      "fr_FR": "Chenal 220"
     },
     {
       "id": "LocationNames_Text_Route221",
-      "en_US": "Route 221"
+      "en_US": "Route 221",
+      "fr_FR": "Route 221"
     },
     {
       "id": "LocationNames_Text_Route222",
-      "en_US": "Route 222"
+      "en_US": "Route 222",
+      "fr_FR": "Route 222"
     },
     {
       "id": "LocationNames_Text_Route223",
-      "en_US": "Route 223"
+      "en_US": "Route 223",
+      "fr_FR": "Chenal 223"
     },
     {
       "id": "LocationNames_Text_Route224",
-      "en_US": "Route 224"
+      "en_US": "Route 224",
+      "fr_FR": "Route 224"
     },
     {
       "id": "LocationNames_Text_Route225",
-      "en_US": "Route 225"
+      "en_US": "Route 225",
+      "fr_FR": "Route 225"
     },
     {
       "id": "LocationNames_Text_Route226",
-      "en_US": "Route 226"
+      "en_US": "Route 226",
+      "fr_FR": "Chenal 226"
     },
     {
       "id": "LocationNames_Text_Route227",
-      "en_US": "Route 227"
+      "en_US": "Route 227",
+      "fr_FR": "Route 227"
     },
     {
       "id": "LocationNames_Text_Route228",
-      "en_US": "Route 228"
+      "en_US": "Route 228",
+      "fr_FR": "Route 228"
     },
     {
       "id": "LocationNames_Text_Route229",
-      "en_US": "Route 229"
+      "en_US": "Route 229",
+      "fr_FR": "Route 229"
     },
     {
       "id": "LocationNames_Text_Route230",
-      "en_US": "Route 230"
+      "en_US": "Route 230",
+      "fr_FR": "Chenal 230"
     },
     {
       "id": "LocationNames_Text_OreburghMine",
-      "en_US": "Oreburgh Mine"
+      "en_US": "Oreburgh Mine",
+      "fr_FR": "Mine Charbourg"
     },
     {
       "id": "LocationNames_Text_ValleyWindworks",
-      "en_US": "Valley Windworks"
+      "en_US": "Valley Windworks",
+      "fr_FR": "Les Eoliennes"
     },
     {
       "id": "LocationNames_Text_EternaForest",
-      "en_US": "Eterna Forest"
+      "en_US": "Eterna Forest",
+      "fr_FR": "Forêt Vestigion"
     },
     {
       "id": "LocationNames_Text_FuegoIronworks",
-      "en_US": "Fuego Ironworks"
+      "en_US": "Fuego Ironworks",
+      "fr_FR": "Forge Fuego"
     },
     {
       "id": "LocationNames_Text_MtCoronet",
-      "en_US": "Mt. Coronet"
+      "en_US": "Mt. Coronet",
+      "fr_FR": "Mont Couronné"
     },
     {
       "id": "LocationNames_Text_SpearPillar",
-      "en_US": "Spear Pillar"
+      "en_US": "Spear Pillar",
+      "fr_FR": "Colonnes Lances"
     },
     {
       "id": "LocationNames_Text_GreatMarsh",
-      "en_US": "Great Marsh"
+      "en_US": "Great Marsh",
+      "fr_FR": "Grand Marais"
     },
     {
       "id": "LocationNames_Text_SolaceonRuins",
-      "en_US": "Solaceon Ruins"
+      "en_US": "Solaceon Ruins",
+      "fr_FR": "Ruines Bonville"
     },
     {
       "id": "LocationNames_Text_VictoryRoad",
-      "en_US": "Victory Road"
+      "en_US": "Victory Road",
+      "fr_FR": "Route Victoire"
     },
     {
       "id": "LocationNames_Text_PalPark",
-      "en_US": "Pal Park"
+      "en_US": "Pal Park",
+      "fr_FR": "Parc des Amis"
     },
     {
       "id": "LocationNames_Text_AmitySquare",
-      "en_US": "Amity Square"
+      "en_US": "Amity Square",
+      "fr_FR": "Square Paisible"
     },
     {
       "id": "LocationNames_Text_RavagedPath",
-      "en_US": "Ravaged Path"
+      "en_US": "Ravaged Path",
+      "fr_FR": "Chemin Rocheux"
     },
     {
       "id": "LocationNames_Text_FloaromaMeadow",
-      "en_US": "Floaroma Meadow"
+      "en_US": "Floaroma Meadow",
+      "fr_FR": "Pré Floraville"
     },
     {
       "id": "LocationNames_Text_OreburghGate",
-      "en_US": "Oreburgh Gate"
+      "en_US": "Oreburgh Gate",
+      "fr_FR": "Entrée Charbourg"
     },
     {
       "id": "LocationNames_Text_FullmoonIsland",
-      "en_US": "Fullmoon Island"
+      "en_US": "Fullmoon Island",
+      "fr_FR": "Ile Pleine Lune"
     },
     {
       "id": "LocationNames_Text_SendoffSpring",
-      "en_US": "Sendoff Spring"
+      "en_US": "Sendoff Spring",
+      "fr_FR": "Source Adieu"
     },
     {
       "id": "LocationNames_Text_TurnbackCave",
-      "en_US": "Turnback Cave"
+      "en_US": "Turnback Cave",
+      "fr_FR": "Grotte Retour"
     },
     {
       "id": "LocationNames_Text_FlowerParadise",
-      "en_US": "Flower Paradise"
+      "en_US": "Flower Paradise",
+      "fr_FR": "Paradis Fleuri"
     },
     {
       "id": "LocationNames_Text_SnowpointTemple",
-      "en_US": "Snowpoint Temple"
+      "en_US": "Snowpoint Temple",
+      "fr_FR": "Temple Frimapic"
     },
     {
       "id": "LocationNames_Text_WaywardCave",
-      "en_US": "Wayward Cave"
+      "en_US": "Wayward Cave",
+      "fr_FR": "Grotte Revêche"
     },
     {
       "id": "LocationNames_Text_RuinManiacCave",
-      "en_US": "Ruin Maniac Cave"
+      "en_US": "Ruin Maniac Cave",
+      "fr_FR": "Grotte Ruineman."
     },
     {
       "id": "LocationNames_Text_ManiacTunnel",
-      "en_US": "Maniac Tunnel"
+      "en_US": "Maniac Tunnel",
+      "fr_FR": "Tunnel Ruineman."
     },
     {
       "id": "LocationNames_Text_TrophyGarden",
-      "en_US": "Trophy Garden"
+      "en_US": "Trophy Garden",
+      "fr_FR": "Jardin Trophée"
     },
     {
       "id": "LocationNames_Text_IronIsland",
-      "en_US": "Iron Island"
+      "en_US": "Iron Island",
+      "fr_FR": "Ile de Fer"
     },
     {
       "id": "LocationNames_Text_OldChateau",
-      "en_US": "Old Chateau"
+      "en_US": "Old Chateau",
+      "fr_FR": "Vieux Château"
     },
     {
       "id": "LocationNames_Text_GalacticHQ",
-      "en_US": "Galactic HQ"
+      "en_US": "Galactic HQ",
+      "fr_FR": "QG Galaxie"
     },
     {
       "id": "LocationNames_Text_VerityLakefront",
-      "en_US": "Verity Lakefront"
+      "en_US": "Verity Lakefront",
+      "fr_FR": "Rive Lac Vérité"
     },
     {
       "id": "LocationNames_Text_ValorLakefront",
-      "en_US": "Valor Lakefront"
+      "en_US": "Valor Lakefront",
+      "fr_FR": "Rive Lac Courage"
     },
     {
       "id": "LocationNames_Text_AcuityLakefront",
-      "en_US": "Acuity Lakefront"
+      "en_US": "Acuity Lakefront",
+      "fr_FR": "Rive Lac Savoir"
     },
     {
       "id": "LocationNames_Text_SpringPath",
-      "en_US": "Spring Path"
+      "en_US": "Spring Path",
+      "fr_FR": "Chemin Source"
     },
     {
       "id": "LocationNames_Text_LakeVerity",
-      "en_US": "Lake Verity"
+      "en_US": "Lake Verity",
+      "fr_FR": "Lac Vérité"
     },
     {
       "id": "LocationNames_Text_LakeValor",
-      "en_US": "Lake Valor"
+      "en_US": "Lake Valor",
+      "fr_FR": "Lac Courage"
     },
     {
       "id": "LocationNames_Text_LakeAcuity",
-      "en_US": "Lake Acuity"
+      "en_US": "Lake Acuity",
+      "fr_FR": "Lac Savoir"
     },
     {
       "id": "LocationNames_Text_NewmoonIsland",
-      "en_US": "Newmoon Island"
+      "en_US": "Newmoon Island",
+      "fr_FR": "Ile Nouvellune"
     },
     {
       "id": "LocationNames_Text_BattleTower",
-      "en_US": "Battle Tower"
+      "en_US": "Battle Tower",
+      "fr_FR": "Tour de Combat"
     },
     {
       "id": "LocationNames_Text_FightArea",
-      "en_US": "Fight Area"
+      "en_US": "Fight Area",
+      "fr_FR": "Aire de Combat"
     },
     {
       "id": "LocationNames_Text_SurvivalArea",
-      "en_US": "Survival Area"
+      "en_US": "Survival Area",
+      "fr_FR": "Aire de Survie"
     },
     {
       "id": "LocationNames_Text_ResortArea",
-      "en_US": "Resort Area"
+      "en_US": "Resort Area",
+      "fr_FR": "Aire de Détente"
     },
     {
       "id": "LocationNames_Text_StarkMountain",
-      "en_US": "Stark Mountain"
+      "en_US": "Stark Mountain",
+      "fr_FR": "Mont Abrupt"
     },
     {
       "id": "LocationNames_Text_SeabreakPath",
-      "en_US": "Seabreak Path"
+      "en_US": "Seabreak Path",
+      "fr_FR": "Passage Marin"
     },
     {
       "id": "LocationNames_Text_HallOfOrigin",
-      "en_US": "Hall of Origin"
+      "en_US": "Hall of Origin",
+      "fr_FR": "Salle Originelle"
     },
     {
       "id": "LocationNames_Text_VerityCavern",
-      "en_US": "Verity Cavern"
+      "en_US": "Verity Cavern",
+      "fr_FR": "Caverne Vérité"
     },
     {
       "id": "LocationNames_Text_ValorCavern",
-      "en_US": "Valor Cavern"
+      "en_US": "Valor Cavern",
+      "fr_FR": "Caverne Courage"
     },
     {
       "id": "LocationNames_Text_AcuityCavern",
-      "en_US": "Acuity Cavern"
+      "en_US": "Acuity Cavern",
+      "fr_FR": "Caverne Savoir"
     },
     {
       "id": "LocationNames_Text_JubilifeTV",
-      "en_US": "Jubilife TV"
+      "en_US": "Jubilife TV",
+      "fr_FR": "Féli-Télé"
     },
     {
       "id": "LocationNames_Text_PoketchCo",
-      "en_US": "Pokétch Co."
+      "en_US": "Pokétch Co.",
+      "fr_FR": "Pokémontre S.A."
     },
     {
       "id": "LocationNames_Text_GTS",
-      "en_US": "GTS"
+      "en_US": "GTS",
+      "fr_FR": "GTS"
     },
     {
       "id": "LocationNames_Text_TrainersSchool",
-      "en_US": "Trainers’ School"
+      "en_US": "Trainers’ School",
+      "fr_FR": "Ecole Dresseurs"
     },
     {
       "id": "LocationNames_Text_MiningMuseum",
-      "en_US": "Mining Museum"
+      "en_US": "Mining Museum",
+      "fr_FR": "Musée Minier"
     },
     {
       "id": "LocationNames_Text_FlowerShop",
-      "en_US": "Flower Shop"
+      "en_US": "Flower Shop",
+      "fr_FR": "Fleuriste"
     },
     {
       "id": "LocationNames_Text_CycleShop",
-      "en_US": "Cycle Shop"
+      "en_US": "Cycle Shop",
+      "fr_FR": "Boutique de Vélo"
     },
     {
       "id": "LocationNames_Text_ContestHall",
-      "en_US": "Contest Hall"
+      "en_US": "Contest Hall",
+      "fr_FR": "Salle Concours"
     },
     {
       "id": "LocationNames_Text_PoffinHouse",
-      "en_US": "Poffin House"
+      "en_US": "Poffin House",
+      "fr_FR": "Poffinerie"
     },
     {
       "id": "LocationNames_Text_ForeignBuilding",
-      "en_US": "Foreign Building"
+      "en_US": "Foreign Building",
+      "fr_FR": "Bâtiment Etrange"
     },
     {
       "id": "LocationNames_Text_PokemonDayCare",
-      "en_US": "Pokémon Day Care"
+      "en_US": "Pokémon Day Care",
+      "fr_FR": "Pension Pokémon"
     },
     {
       "id": "LocationNames_Text_VeilstoneStore",
-      "en_US": "Veilstone Store"
+      "en_US": "Veilstone Store",
+      "fr_FR": "C. Com. Voilaroc"
     },
     {
       "id": "LocationNames_Text_GameCorner",
-      "en_US": "Game Corner"
+      "en_US": "Game Corner",
+      "fr_FR": "Casino"
     },
     {
       "id": "LocationNames_Text_CanalaveLibrary",
-      "en_US": "Canalave Library"
+      "en_US": "Canalave Library",
+      "fr_FR": "Bibl. Joliberges"
     },
     {
       "id": "LocationNames_Text_VistaLighthouse",
-      "en_US": "Vista Lighthouse"
+      "en_US": "Vista Lighthouse",
+      "fr_FR": "Phare Panorama"
     },
     {
       "id": "LocationNames_Text_SunyshoreMarket",
-      "en_US": "Sunyshore Market"
+      "en_US": "Sunyshore Market",
+      "fr_FR": "Marché Rivamar"
     },
     {
       "id": "LocationNames_Text_PokemonMansion",
-      "en_US": "Pokémon Mansion"
+      "en_US": "Pokémon Mansion",
+      "fr_FR": "Manoir Pokémon"
     },
     {
       "id": "LocationNames_Text_FootstepHouse",
-      "en_US": "Footstep House"
+      "en_US": "Footstep House",
+      "fr_FR": "Abri Petitpas"
     },
     {
       "id": "LocationNames_Text_Cafe",
-      "en_US": "Café"
+      "en_US": "Café",
+      "fr_FR": "Café"
     },
     {
       "id": "LocationNames_Text_GrandLake",
-      "en_US": "Grand Lake"
+      "en_US": "Grand Lake",
+      "fr_FR": "Grand Lac"
     },
     {
       "id": "LocationNames_Text_Restaurant",
-      "en_US": "Restaurant"
+      "en_US": "Restaurant",
+      "fr_FR": "Restaurant"
     },
     {
       "id": "LocationNames_Text_BattlePark",
-      "en_US": "Battle Park"
+      "en_US": "Battle Park",
+      "fr_FR": "Parc des Combats"
     },
     {
       "id": "LocationNames_Text_BattleFrontier",
-      "en_US": "Battle Frontier"
+      "en_US": "Battle Frontier",
+      "fr_FR": "Zone de Combat"
     },
     {
       "id": "LocationNames_Text_BattleFactory",
-      "en_US": "Battle Factory"
+      "en_US": "Battle Factory",
+      "fr_FR": "Usine de Combat"
     },
     {
       "id": "LocationNames_Text_BattleCastle",
-      "en_US": "Battle Castle"
+      "en_US": "Battle Castle",
+      "fr_FR": "Castel de Combat"
     },
     {
       "id": "LocationNames_Text_BattleArcade",
-      "en_US": "Battle Arcade"
+      "en_US": "Battle Arcade",
+      "fr_FR": "Arcade de Combat"
     },
     {
       "id": "LocationNames_Text_BattleHall",
-      "en_US": "Battle Hall"
+      "en_US": "Battle Hall",
+      "fr_FR": "Scène de Combat"
     },
     {
       "id": "LocationNames_Text_DistortionWorld",
-      "en_US": "Distortion World"
+      "en_US": "Distortion World",
+      "fr_FR": "Monde Distorsion"
     },
     {
       "id": "LocationNames_Text_GlobalTerminal",
-      "en_US": "Global Terminal"
+      "en_US": "Global Terminal",
+      "fr_FR": "Terminal Mondial"
     },
     {
       "id": "LocationNames_Text_Villa",
-      "en_US": "Villa"
+      "en_US": "Villa",
+      "fr_FR": "Villa"
     },
     {
       "id": "LocationNames_Text_Battleground",
-      "en_US": "Battleground"
+      "en_US": "Battleground",
+      "fr_FR": "Café Combats"
     },
     {
       "id": "LocationNames_Text_RotomsRoom",
-      "en_US": "ROTOM’s Room"
+      "en_US": "ROTOM’s Room",
+      "fr_FR": "Salle MOTISMA"
     },
     {
       "id": "LocationNames_Text_TeamGalacticEternaBuilding",
-      "en_US": "T.G. Eterna Bldg"
+      "en_US": "T.G. Eterna Bldg",
+      "fr_FR": "Team G Vestigion"
     },
     {
       "id": "LocationNames_Text_IronRuins",
-      "en_US": "Iron Ruins"
+      "en_US": "Iron Ruins",
+      "fr_FR": "Ruines de Fer"
     },
     {
       "id": "LocationNames_Text_IcebergRuins",
-      "en_US": "Iceberg Ruins"
+      "en_US": "Iceberg Ruins",
+      "fr_FR": "Ruines Iceberg"
     },
     {
       "id": "LocationNames_Text_RockPeakRuins",
-      "en_US": "Rock Peak Ruins"
+      "en_US": "Rock Peak Ruins",
+      "fr_FR": "Ruines Pic Roche"
     }
   ]
 }

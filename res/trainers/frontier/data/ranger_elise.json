@@ -77,6 +77,10 @@
             "en_US": [
                 "Mother Nature, I beseech you!\n",
                 "Please, lend me strength!"
+            ],
+            "fr_FR": [
+                "J’en appelle aux pouvoirs de\n",
+                "la nature! A moi!"
             ]
         },
         {
@@ -84,6 +88,10 @@
             "en_US": [
                 "Oh, Mother Nature, I thank you!\n",
                 "To you, I dedicate this victory!\r"
+            ],
+            "fr_FR": [
+                "Je dédie cette victoire aux pouvoirs\n",
+                "infinis de la nature.\r"
             ]
         },
         {
@@ -91,7 +99,12 @@
             "en_US": [
                 "I’m sorry, Mother Nature!\n",
                 "I’m sorry to disappoint you!\r"
+            ],
+            "fr_FR": [
+                "Non! La nature ne me pardonnera\n",
+                "pas cet échec!\r"
             ]
         }
-    ]
+    ],
+    "name_fr": "Eléanor"
 }

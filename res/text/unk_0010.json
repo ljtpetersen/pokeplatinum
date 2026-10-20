@@ -3,59 +3,73 @@
   "messages": [
     {
       "id": "pl_msg_00000010_00000",
-      "en_US": "BATTLE VIDEOS"
+      "en_US": "BATTLE VIDEOS",
+      "fr_FR": "VIDEOS DE COMBAT"
     },
     {
       "id": "pl_msg_00000010_00001",
-      "en_US": "FRONTIER RECORD"
+      "en_US": "FRONTIER RECORD",
+      "fr_FR": "RECORD ZONE COMBAT"
     },
     {
       "id": "pl_msg_00000010_00002",
-      "en_US": "CANCEL"
+      "en_US": "CANCEL",
+      "fr_FR": "QUITTER"
     },
     {
       "id": "pl_msg_00000010_00003",
-      "en_US": "EXIT"
+      "en_US": "EXIT",
+      "fr_FR": "RETOUR"
     },
     {
       "id": "pl_msg_00000010_00004",
-      "en_US": "MY VIDEO"
+      "en_US": "MY VIDEO",
+      "fr_FR": "VIDEO PERSO"
     },
     {
       "id": "pl_msg_00000010_00005",
-      "en_US": "OTHER VIDEOS"
+      "en_US": "OTHER VIDEOS",
+      "fr_FR": "AUTRES VIDEOS"
     },
     {
       "id": "pl_msg_00000010_00006",
-      "en_US": "DELETE VIDEOS"
+      "en_US": "DELETE VIDEOS",
+      "fr_FR": "EFFACER VIDEOS"
     },
     {
       "id": "pl_msg_00000010_00007",
-      "en_US": "{STRVAR_1 3, 0, 0}’S VIDEO"
+      "en_US": "{STRVAR_1 3, 0, 0}’S VIDEO",
+      "fr_FR": "VIDEO DE {STRVAR_1 3, 0, 0}"
     },
     {
       "id": "pl_msg_00000010_00008",
-      "en_US": "EMPTY"
+      "en_US": "EMPTY",
+      "fr_FR": "PAS DE DONNEES"
     },
     {
       "id": "pl_msg_00000010_00009",
-      "en_US": "{STRVAR_1 53, 0, 0}"
+      "en_US": "{STRVAR_1 53, 0, 0}",
+      "fr_FR": "{STRVAR_1 53, 0, 0}"
     },
     {
       "id": "pl_msg_00000010_00010",
-      "en_US": "Battle"
+      "en_US": "Battle",
+      "fr_FR": "Combat"
     },
     {
       "id": "pl_msg_00000010_00011",
-      "en_US": "Video no.: {STRVAR_1 51, 0, 0}-{STRVAR_1 54, 1, 0}-{STRVAR_1 54, 2, 0}"
+      "en_US": "Video no.: {STRVAR_1 51, 0, 0}-{STRVAR_1 54, 1, 0}-{STRVAR_1 54, 2, 0}",
+      "fr_FR": "Vidéo nº: {STRVAR_1 51, 0, 0}-{STRVAR_1 54, 1, 0}-{STRVAR_1 54, 2, 0}"
     },
     {
       "id": "pl_msg_00000010_00012",
-      "en_US": "Video no.: {STRVAR_1 51, 0, 0}-{STRVAR_1 54, 1, 0}-{STRVAR_1 54, 2, 0} ☆"
+      "en_US": "Video no.: {STRVAR_1 51, 0, 0}-{STRVAR_1 54, 1, 0}-{STRVAR_1 54, 2, 0} ☆",
+      "fr_FR": "Vidéo nº: {STRVAR_1 51, 0, 0}-{STRVAR_1 54, 1, 0}-{STRVAR_1 54, 2, 0} ☆"
     },
     {
       "id": "pl_msg_00000010_00013",
-      "en_US": "{STRVAR_1 3, 0, 0}’S PROFILE"
+      "en_US": "{STRVAR_1 3, 0, 0}’S PROFILE",
+      "fr_FR": "PROFIL DE {STRVAR_1 3, 0, 0}"
     },
     {
       "id": "pl_msg_00000010_00014",
@@ -63,15 +77,18 @@
     },
     {
       "id": "pl_msg_00000010_00015",
-      "en_US": "Birth month: {STRVAR_1 74, 0, 0}"
+      "en_US": "Birth month: {STRVAR_1 74, 0, 0}",
+      "fr_FR": "Né(e) en: {STRVAR_1 74, 0, 0}"
     },
     {
       "id": "pl_msg_00000010_00016",
-      "en_US": "Location"
+      "en_US": "Location",
+      "fr_FR": "Lieu"
     },
     {
       "id": "pl_msg_00000010_00017",
-      "en_US": "Trainer’s quote"
+      "en_US": "Trainer’s quote",
+      "fr_FR": "Devise"
     },
     {
       "id": "pl_msg_00000010_00018",
@@ -83,23 +100,34 @@
     },
     {
       "id": "pl_msg_00000010_00020",
-      "garbage": 1
+      "garbage": 1,
+      "fr_FR": null
+    },
+    {
+      "id": "pl_msg_00000010_00020",
+      "garbage": 0,
+      "en_US": null,
+      "en_GB": null
     },
     {
       "id": "pl_msg_00000010_00021",
-      "en_US": "Unspecified"
+      "en_US": "Unspecified",
+      "fr_FR": "Inconnu"
     },
     {
       "id": "pl_msg_00000010_00022",
-      "en_US": "{STRVAR_1 36, 0, 0}"
+      "en_US": "{STRVAR_1 36, 0, 0}",
+      "fr_FR": "{STRVAR_1 36, 0, 0}"
     },
     {
       "id": "pl_msg_00000010_00023",
-      "en_US": "{STRVAR_1 37, 0, 0}"
+      "en_US": "{STRVAR_1 37, 0, 0}",
+      "fr_FR": "{STRVAR_1 37, 0, 0}"
     },
     {
       "id": "pl_msg_00000010_00024",
-      "en_US": "{STRVAR_1 28, 0, 0} {STRVAR_1 28, 1, 0}"
+      "en_US": "{STRVAR_1 28, 0, 0} {STRVAR_1 28, 1, 0}",
+      "fr_FR": "{STRVAR_1 28, 0, 0} {STRVAR_1 28, 1, 0}"
     },
     {
       "id": "pl_msg_00000010_00025",
@@ -115,33 +143,43 @@
     },
     {
       "id": "pl_msg_00000010_00028",
-      "en_US": "{STRVAR_1 3, 0, 0}’S FAVORITE PC BOX"
+      "en_US": "{STRVAR_1 3, 0, 0}’S FAVORITE PC BOX",
+      "fr_FR": "BOITE PC FAVORITE DE {STRVAR_1 3, 0, 0}"
     },
     {
       "id": "pl_msg_00000010_00029",
-      "en_US": "{STRVAR_1 3, 0, 0}’S COOL PC BOX"
+      "en_US": "{STRVAR_1 3, 0, 0}’S COOL PC BOX",
+      "fr_FR": "BOITE PC SYMPA DE {STRVAR_1 3, 0, 0}"
     },
     {
       "id": "pl_msg_00000010_00030",
-      "en_US": "{STRVAR_1 3, 0, 0}’S CUTE PC BOX"
+      "en_US": "{STRVAR_1 3, 0, 0}’S CUTE PC BOX",
+      "fr_FR": "BOITE PC MIGNONNE DE {STRVAR_1 3, 0, 0}"
     },
     {
       "id": "pl_msg_00000010_00031",
-      "en_US": "{STRVAR_1 3, 0, 0}’S SUGGESTED PC BOX"
+      "en_US": "{STRVAR_1 3, 0, 0}’S SUGGESTED PC BOX",
+      "fr_FR": "BOITE PC CONSEILLEE PAR {STRVAR_1 3, 0, 0}"
     },
     {
       "id": "pl_msg_00000010_00032",
-      "en_US": "{STRVAR_1 3, 0, 0}’S FUN PC BOX"
+      "en_US": "{STRVAR_1 3, 0, 0}’S FUN PC BOX",
+      "fr_FR": "BOITE PC RIGOLOTE DE {STRVAR_1 3, 0, 0}"
     },
     {
       "id": "pl_msg_00000010_00033",
-      "en_US": "{STRVAR_1 3, 0, 0}’S SELECT PC BOX"
+      "en_US": "{STRVAR_1 3, 0, 0}’S SELECT PC BOX",
+      "fr_FR": "BOITE PC SPECIALE DE {STRVAR_1 3, 0, 0}"
     },
     {
       "id": "pl_msg_00000010_00034",
       "en_US": [
         "Next\n",
         "Pokémon"
+      ],
+      "fr_FR": [
+        "Pokémon\n",
+        "suivant"
       ]
     },
     {
@@ -162,15 +200,18 @@
     },
     {
       "id": "pl_msg_00000010_00039",
-      "en_US": "DELETE MY VIDEO"
+      "en_US": "DELETE MY VIDEO",
+      "fr_FR": "EFFACER VIDEO PERSO"
     },
     {
       "id": "pl_msg_00000010_00040",
-      "en_US": "DELETE OTHER VIDEOS"
+      "en_US": "DELETE OTHER VIDEOS",
+      "fr_FR": "EFFACER AUTRE VIDEO"
     },
     {
       "id": "pl_msg_00000010_00041",
-      "en_US": "EMPTY"
+      "en_US": "EMPTY",
+      "fr_FR": "PAS DE DONNEES"
     },
     {
       "id": "pl_msg_00000010_00042",
@@ -198,27 +239,33 @@
     },
     {
       "id": "pl_msg_00000010_00048",
-      "en_US": "SEARCH BY FACILITY"
+      "en_US": "SEARCH BY FACILITY",
+      "fr_FR": "PAR BATIMENT"
     },
     {
       "id": "pl_msg_00000010_00049",
-      "en_US": "SEARCH BY POKéMON"
+      "en_US": "SEARCH BY POKéMON",
+      "fr_FR": "PAR POKéMON"
     },
     {
       "id": "pl_msg_00000010_00050",
-      "en_US": "SEARCH YOUR LOCATION"
+      "en_US": "SEARCH YOUR LOCATION",
+      "fr_FR": "PAR LIEU"
     },
     {
       "id": "pl_msg_00000010_00051",
-      "en_US": "SEND PHOTO"
+      "en_US": "SEND PHOTO",
+      "fr_FR": "ENVOYER CLICHE HABI."
     },
     {
       "id": "pl_msg_00000010_00052",
-      "en_US": "VIEW PHOTOS"
+      "en_US": "VIEW PHOTOS",
+      "fr_FR": "VOIR CLICHES HABI."
     },
     {
       "id": "pl_msg_00000010_00053",
-      "en_US": "SEND"
+      "en_US": "SEND",
+      "fr_FR": "ENVOYER"
     },
     {
       "id": "pl_msg_00000010_00054",
@@ -233,6 +280,10 @@
       "en_US": [
         "{STRVAR_1 3, 0, 0}\n",
         "{STRVAR_1 28, 1, 0}"
+      ],
+      "fr_FR": [
+        "{STRVAR_1 3, 0, 0}\n",
+        "{STRVAR_1 28, 1, 0}"
       ]
     },
     {
@@ -241,35 +292,43 @@
     },
     {
       "id": "pl_msg_00000010_00058",
-      "en_US": "SEND BOX DATA"
+      "en_US": "SEND BOX DATA",
+      "fr_FR": "ENVOYER CLICHE BOITE"
     },
     {
       "id": "pl_msg_00000010_00059",
-      "en_US": "VIEW BOX DATA"
+      "en_US": "VIEW BOX DATA",
+      "fr_FR": "VOIR CLICHES BOITE"
     },
     {
       "id": "pl_msg_00000010_00060",
-      "en_US": "FAVORITE"
+      "en_US": "FAVORITE",
+      "fr_FR": "FAVORITE"
     },
     {
       "id": "pl_msg_00000010_00061",
-      "en_US": "COOL"
+      "en_US": "COOL",
+      "fr_FR": "SYMPA"
     },
     {
       "id": "pl_msg_00000010_00062",
-      "en_US": "CUTE"
+      "en_US": "CUTE",
+      "fr_FR": "MIGNONNE"
     },
     {
       "id": "pl_msg_00000010_00063",
-      "en_US": "SUGGESTED"
+      "en_US": "SUGGESTED",
+      "fr_FR": "CONSEILLEE"
     },
     {
       "id": "pl_msg_00000010_00064",
-      "en_US": "FUN"
+      "en_US": "FUN",
+      "fr_FR": "RIGOLOTE"
     },
     {
       "id": "pl_msg_00000010_00065",
-      "en_US": "SELECT"
+      "en_US": "SELECT",
+      "fr_FR": "SPECIALE"
     },
     {
       "id": "pl_msg_00000010_00066",
@@ -281,39 +340,48 @@
     },
     {
       "id": "pl_msg_00000010_00068",
-      "en_US": "ABC"
+      "en_US": "ABC",
+      "fr_FR": "ABC"
     },
     {
       "id": "pl_msg_00000010_00069",
-      "en_US": "DEF"
+      "en_US": "DEF",
+      "fr_FR": "DEF"
     },
     {
       "id": "pl_msg_00000010_00070",
-      "en_US": "GHI"
+      "en_US": "GHI",
+      "fr_FR": "GHI"
     },
     {
       "id": "pl_msg_00000010_00071",
-      "en_US": "JKL"
+      "en_US": "JKL",
+      "fr_FR": "JKL"
     },
     {
       "id": "pl_msg_00000010_00072",
-      "en_US": "MNO"
+      "en_US": "MNO",
+      "fr_FR": "MNO"
     },
     {
       "id": "pl_msg_00000010_00073",
-      "en_US": "PQR"
+      "en_US": "PQR",
+      "fr_FR": "PQR"
     },
     {
       "id": "pl_msg_00000010_00074",
-      "en_US": "STU"
+      "en_US": "STU",
+      "fr_FR": "STU"
     },
     {
       "id": "pl_msg_00000010_00075",
-      "en_US": "VWX"
+      "en_US": "VWX",
+      "fr_FR": "VWX"
     },
     {
       "id": "pl_msg_00000010_00076",
-      "en_US": "YZ"
+      "en_US": "YZ",
+      "fr_FR": "YZ"
     },
     {
       "id": "pl_msg_00000010_00077",
@@ -321,77 +389,98 @@
     },
     {
       "id": "pl_msg_00000010_00078",
-      "en_US": "THIS WEEK’S RANKINGS"
+      "en_US": "THIS WEEK’S RANKINGS",
+      "fr_FR": "CETTE SEMAINE"
     },
     {
       "id": "pl_msg_00000010_00079",
-      "en_US": "LAST WEEK’S RANKINGS"
+      "en_US": "LAST WEEK’S RANKINGS",
+      "fr_FR": "SEMAINE DERNIERE"
     },
     {
       "id": "pl_msg_00000010_00080",
-      "en_US": "SWITCH RANKINGS"
+      "en_US": "SWITCH RANKINGS",
+      "fr_FR": "AUTRES CLASSEMENTS"
     },
     {
       "id": "pl_msg_00000010_00081",
-      "en_US": "SWITCH TEAMS"
+      "en_US": "SWITCH TEAMS",
+      "fr_FR": "AUTRES GROUPES"
     },
     {
       "id": "pl_msg_00000010_00082",
-      "en_US": "Team: Trainer type"
+      "en_US": "Team: Trainer type",
+      "fr_FR": "Groupe/Type de Dresseur"
     },
     {
       "id": "pl_msg_00000010_00083",
-      "en_US": "Team: Birth month"
+      "en_US": "Team: Birth month",
+      "fr_FR": "Groupe/Mois de naissance"
     },
     {
       "id": "pl_msg_00000010_00084",
-      "en_US": "Team: Favorite Pokémon"
+      "en_US": "Team: Favorite Pokémon",
+      "fr_FR": "Groupe/Pokémon préféré"
     },
     {
       "id": "pl_msg_00000010_00085",
-      "en_US": "{STRVAR_1 3, 1, 0}: {STRVAR_1 14, 0, 0}"
+      "en_US": "{STRVAR_1 3, 1, 0}: {STRVAR_1 14, 0, 0}",
+      "fr_FR": "{STRVAR_1 3, 1, 0}/{STRVAR_1 14, 0, 0}"
     },
     {
       "id": "pl_msg_00000010_00086",
-      "en_US": "{STRVAR_1 3, 1, 0}: {STRVAR_1 74, 0, 0}"
+      "en_US": "{STRVAR_1 3, 1, 0}: {STRVAR_1 74, 0, 0}",
+      "fr_FR": "{STRVAR_1 3, 1, 0}/{STRVAR_1 74, 0, 0}"
     },
     {
       "id": "pl_msg_00000010_00087",
-      "en_US": "{STRVAR_1 3, 1, 0}: {STRVAR_1 0, 0, 0}"
+      "en_US": "{STRVAR_1 3, 1, 0}: {STRVAR_1 0, 0, 0}",
+      "fr_FR": "{STRVAR_1 3, 1, 0}/{STRVAR_1 0, 0, 0}"
     },
     {
       "id": "pl_msg_00000010_00088",
-      "en_US": "{STRVAR_1 51, 0, 0}: {STRVAR_1 14, 1, 0}"
+      "en_US": "{STRVAR_1 51, 0, 0}: {STRVAR_1 14, 1, 0}",
+      "fr_FR": "{STRVAR_1 51, 0, 0}/{STRVAR_1 14, 1, 0}"
     },
     {
       "id": "pl_msg_00000010_00089",
-      "en_US": "{STRVAR_1 51, 0, 0}: {STRVAR_1 51, 1, 0}"
+      "en_US": "{STRVAR_1 51, 0, 0}: {STRVAR_1 51, 1, 0}",
+      "fr_FR": "{STRVAR_1 51, 0, 0}/{STRVAR_1 51, 1, 0}"
     },
     {
       "id": "pl_msg_00000010_00090",
-      "en_US": "{STRVAR_1 51, 0, 0}: {STRVAR_1 0, 1, 0}"
+      "en_US": "{STRVAR_1 51, 0, 0}: {STRVAR_1 0, 1, 0}",
+      "fr_FR": "{STRVAR_1 51, 0, 0}/{STRVAR_1 0, 1, 0}"
     },
     {
       "id": "pl_msg_00000010_00091",
-      "en_US": "LAST WEEK’S RESULTS!"
+      "en_US": "LAST WEEK’S RESULTS!",
+      "fr_FR": "RESULTATS DE LA SEMAINE DERNIERE!"
     },
     {
       "id": "pl_msg_00000010_00092",
-      "en_US": "COLOSSEUM"
+      "en_US": "COLOSSEUM",
+      "fr_FR": "COLISEE"
     },
     {
       "id": "pl_msg_00000010_00093",
-      "en_US": "BATTLE FRONTIER"
+      "en_US": "BATTLE FRONTIER",
+      "fr_FR": "ZONE DE COMBAT"
     },
     {
       "id": "pl_msg_00000010_00094",
-      "en_US": "SAVE"
+      "en_US": "SAVE",
+      "fr_FR": "SAUV."
     },
     {
       "id": "pl_msg_00000010_00095",
       "en_US": [
         "VIEW BATTLE\n",
         "VIDEO"
+      ],
+      "fr_FR": [
+        "VOIR LA VIDEO\n",
+        "DE COMBAT"
       ]
     },
     {
@@ -403,6 +492,10 @@
       "en_US": [
         "TOP-RANKED BATTLE VIDEOS\n",
         "COLOSSEUM"
+      ],
+      "fr_FR": [
+        "MEILLEURES VIDEOS DE COMBAT\n",
+        "DU COLISEE"
       ]
     },
     {
@@ -410,17 +503,26 @@
       "en_US": [
         "TOP-RANKED BATTLE VIDEOS\n",
         "BATTLE FRONTIER"
+      ],
+      "fr_FR": [
+        "MEILLEURES VIDEOS DE COMBAT\n",
+        "DE LA ZONE DE COMBAT"
       ]
     },
     {
       "id": "pl_msg_00000010_00099",
-      "en_US": ":"
+      "en_US": ":",
+      "fr_FR": ":"
     },
     {
       "id": "pl_msg_00000010_00100",
       "en_US": [
         "Where would you like to save\n",
         "{STRVAR_1 3, 0, 0}’s Battle Video?"
+      ],
+      "fr_FR": [
+        "Choisissez l’emplacement où sauvegarder\n",
+        "la Vidéo de combat de {STRVAR_1 3, 0, 0}."
       ]
     },
     {
@@ -432,75 +534,96 @@
       "en_US": [
         "Is it OK to delete {STRVAR_1 3, 0, 0}’s Battle\n",
         "Video?"
+      ],
+      "fr_FR": [
+        "Voulez-vous effacer la Vidéo de combat\n",
+        "de {STRVAR_1 3, 0, 0}?"
       ]
     },
     {
       "id": "pl_msg_00000010_00103",
-      "en_US": "VIEW BATTLE VIDEOS"
+      "en_US": "VIEW BATTLE VIDEOS",
+      "fr_FR": "VOIR VIDEOS COMBAT"
     },
     {
       "id": "pl_msg_00000010_00104",
-      "en_US": "SEND BATTLE VIDEO"
+      "en_US": "SEND BATTLE VIDEO",
+      "fr_FR": "ENVOYER VIDEO COMBAT"
     },
     {
       "id": "pl_msg_00000010_00105",
-      "en_US": "NEWEST 30"
+      "en_US": "NEWEST 30",
+      "fr_FR": "30 PLUS RECENTES"
     },
     {
       "id": "pl_msg_00000010_00106",
-      "en_US": "SEARCH"
+      "en_US": "SEARCH",
+      "fr_FR": "RECHERCHER"
     },
     {
       "id": "pl_msg_00000010_00107",
-      "en_US": "SEARCH BY VIDEO NO."
+      "en_US": "SEARCH BY VIDEO NO.",
+      "fr_FR": "SAISIR Nº VIDEO"
     },
     {
       "id": "pl_msg_00000010_00108",
-      "en_US": "SEARCH BY FACILITY"
+      "en_US": "SEARCH BY FACILITY",
+      "fr_FR": "PAR BATIMENT"
     },
     {
       "id": "pl_msg_00000010_00109",
-      "en_US": "SEARCH BY POKéMON"
+      "en_US": "SEARCH BY POKéMON",
+      "fr_FR": "PAR POKéMON"
     },
     {
       "id": "pl_msg_00000010_00110",
-      "en_US": "SEARCH YOUR LOCATION"
+      "en_US": "SEARCH YOUR LOCATION",
+      "fr_FR": "PAR LIEU"
     },
     {
       "id": "pl_msg_00000010_00111",
-      "en_US": "OK!"
+      "en_US": "OK!",
+      "fr_FR": "OK"
     },
     {
       "id": "pl_msg_00000010_00112",
-      "en_US": "Please enter the Video Number."
+      "en_US": "Please enter the Video Number.",
+      "fr_FR": "Veuillez saisir le nº de la vidéo."
     },
     {
       "id": "pl_msg_00000010_00113",
-      "en_US": "Please choose the facility."
+      "en_US": "Please choose the facility.",
+      "fr_FR": "Veuillez choisir un bâtiment."
     },
     {
       "id": "pl_msg_00000010_00114",
-      "en_US": "Please choose the Pokémon."
+      "en_US": "Please choose the Pokémon.",
+      "fr_FR": "Veuillez choisir un Pokémon."
     },
     {
       "id": "pl_msg_00000010_00115",
-      "en_US": "Please enter the search criteria."
+      "en_US": "Please enter the search criteria.",
+      "fr_FR": "Veuillez définir votre recherche."
     },
     {
       "id": "pl_msg_00000010_00116",
-      "en_US": "You haven’t set any search criteria."
+      "en_US": "You haven’t set any search criteria.",
+      "fr_FR": "Vous n’avez précisé aucun critère."
     },
     {
       "id": "pl_msg_00000010_00117",
-      "en_US": "Searching Battle Videos..."
+      "en_US": "Searching Battle Videos...",
+      "fr_FR": "Opération en cours..."
     },
     {
       "id": "pl_msg_00000010_00118",
-      "en_US": "There is no matching Battle Video..."
+      "en_US": "There is no matching Battle Video...",
+      "fr_FR": "Aucune Vidéo de combat ne correspond."
     },
     {
       "id": "pl_msg_00000010_00119",
-      "en_US": "Sending the Battle Video..."
+      "en_US": "Sending the Battle Video...",
+      "fr_FR": "Envoi de la Vidéo de combat..."
     },
     {
       "id": "pl_msg_00000010_00120",
@@ -508,59 +631,83 @@
     },
     {
       "id": "pl_msg_00000010_00121",
-      "en_US": "VIEW PROFILE"
+      "en_US": "VIEW PROFILE",
+      "fr_FR": "VOIR LE PROFIL"
     },
     {
       "id": "pl_msg_00000010_00122",
-      "en_US": "CLOSE PROFILE"
+      "en_US": "CLOSE PROFILE",
+      "fr_FR": "FERMER LE PROFIL"
     },
     {
       "id": "pl_msg_00000010_00123",
-      "en_US": "NEWEST 30 BATTLE VIDEOS"
+      "en_US": "NEWEST 30 BATTLE VIDEOS",
+      "fr_FR": "30 VIDEOS LES PLUS RECENTES"
     },
     {
       "id": "pl_msg_00000010_00124",
-      "en_US": "Please set the search criteria."
+      "en_US": "Please set the search criteria.",
+      "fr_FR": "Veuillez définir votre recherche."
     },
     {
       "id": "pl_msg_00000010_00125",
-      "en_US": "Undefined"
+      "en_US": "Undefined",
+      "fr_FR": "Non précisé"
     },
     {
       "id": "pl_msg_00000010_00126",
       "en_US": [
         "LIST OF BATTLE VIDEOS FROM\n",
         "SEARCH RESULTS"
-      ]
+      ],
+      "fr_FR": "RESULTAT DE LA RECHERCHE"
     },
     {
       "id": "pl_msg_00000010_00127",
       "en_US": [
         "The same Battle Video can’t be sent again.\n",
         "Touch the Touch Screen to continue."
+      ],
+      "fr_FR": [
+        "Une Vidéo de combat ne peut être envoyée\n",
+        "qu’une seule fois. Touchez l’écran tactile."
       ]
     },
     {
       "id": "pl_msg_00000010_00128",
-      "en_US": "You have not registered your location."
+      "en_US": "You have not registered your location.",
+      "fr_FR": [
+        "Vous n’avez pas enregistré\n",
+        "votre lieu de résidence."
+      ]
     },
     {
       "id": "pl_msg_00000010_00129",
-      "en_US": "There is no Battle Video to send."
+      "en_US": "There is no Battle Video to send.",
+      "fr_FR": [
+        "Vous n’avez pas de Vidéo de combat\n",
+        "à envoyer."
+      ]
     },
     {
       "id": "pl_msg_00000010_00130",
-      "en_US": "YES"
+      "en_US": "YES",
+      "fr_FR": "OUI"
     },
     {
       "id": "pl_msg_00000010_00131",
-      "en_US": "NO"
+      "en_US": "NO",
+      "fr_FR": "NON"
     },
     {
       "id": "pl_msg_00000010_00132",
       "en_US": [
         "Colosseum\n",
         "Single, No Restrictions"
+      ],
+      "fr_FR": [
+        "Colisée\n",
+        "Solo, Tout est permis"
       ]
     },
     {
@@ -568,6 +715,10 @@
       "en_US": [
         "Colosseum\n",
         "Single, Standard Cup"
+      ],
+      "fr_FR": [
+        "Colisée\n",
+        "Solo, Coupe Standard"
       ]
     },
     {
@@ -575,6 +726,10 @@
       "en_US": [
         "Colosseum\n",
         "Single, Fancy Cup"
+      ],
+      "fr_FR": [
+        "Colisée\n",
+        "Solo, Coupe Chic"
       ]
     },
     {
@@ -582,6 +737,10 @@
       "en_US": [
         "Colosseum\n",
         "Single, Little Cup"
+      ],
+      "fr_FR": [
+        "Colisée\n",
+        "Solo, Coupe Mini"
       ]
     },
     {
@@ -589,6 +748,10 @@
       "en_US": [
         "Colosseum\n",
         "Single, Light Cup"
+      ],
+      "fr_FR": [
+        "Colisée\n",
+        "Solo, Coupe Légère"
       ]
     },
     {
@@ -596,6 +759,10 @@
       "en_US": [
         "Colosseum\n",
         "Single, Double Cup"
+      ],
+      "fr_FR": [
+        "Colisée\n",
+        "Solo, Coupe Double"
       ]
     },
     {
@@ -603,6 +770,10 @@
       "en_US": [
         "Colosseum\n",
         "Single, Other Cup"
+      ],
+      "fr_FR": [
+        "Colisée\n",
+        "Solo, Autre Coupe"
       ]
     },
     {
@@ -610,6 +781,10 @@
       "en_US": [
         "Colosseum\n",
         "Double, No Restrictions"
+      ],
+      "fr_FR": [
+        "Colisée\n",
+        "Duo, Tout est permis"
       ]
     },
     {
@@ -617,6 +792,10 @@
       "en_US": [
         "Colosseum\n",
         "Double, Standard Cup"
+      ],
+      "fr_FR": [
+        "Colisée\n",
+        "Duo, Coupe Standard"
       ]
     },
     {
@@ -624,6 +803,10 @@
       "en_US": [
         "Colosseum\n",
         "Double, Fancy Cup"
+      ],
+      "fr_FR": [
+        "Colisée\n",
+        "Duo, Coupe Chic"
       ]
     },
     {
@@ -631,6 +814,10 @@
       "en_US": [
         "Colosseum\n",
         "Double, Little Cup"
+      ],
+      "fr_FR": [
+        "Colisée\n",
+        "Duo, Coupe Mini"
       ]
     },
     {
@@ -638,6 +825,10 @@
       "en_US": [
         "Colosseum\n",
         "Double, Light Cup"
+      ],
+      "fr_FR": [
+        "Colisée\n",
+        "Duo, Coupe Légère"
       ]
     },
     {
@@ -645,6 +836,10 @@
       "en_US": [
         "Colosseum\n",
         "Double, Double Cup"
+      ],
+      "fr_FR": [
+        "Colisée\n",
+        "Duo, Coupe Double"
       ]
     },
     {
@@ -652,12 +847,20 @@
       "en_US": [
         "Colosseum\n",
         "Double, Other Cup"
+      ],
+      "fr_FR": [
+        "Colisée\n",
+        "Duo, Autre Coupe"
       ]
     },
     {
       "id": "pl_msg_00000010_00146",
       "en_US": [
         "Colosseum\n",
+        "Multi"
+      ],
+      "fr_FR": [
+        "Colisée\n",
         "Multi"
       ]
     },
@@ -666,6 +869,10 @@
       "en_US": [
         "Battle Tower\n",
         "Single"
+      ],
+      "fr_FR": [
+        "Tour de Combat\n",
+        "Solo"
       ]
     },
     {
@@ -673,12 +880,20 @@
       "en_US": [
         "Battle Tower\n",
         "Double"
+      ],
+      "fr_FR": [
+        "Tour de Combat\n",
+        "Duo"
       ]
     },
     {
       "id": "pl_msg_00000010_00149",
       "en_US": [
         "Battle Tower\n",
+        "Multi"
+      ],
+      "fr_FR": [
+        "Tour de Combat\n",
         "Multi"
       ]
     },
@@ -687,6 +902,10 @@
       "en_US": [
         "Battle Factory\n",
         "Level 50 Single"
+      ],
+      "fr_FR": [
+        "Usine de Combat\n",
+        "Solo, niveau 50"
       ]
     },
     {
@@ -694,6 +913,10 @@
       "en_US": [
         "Battle Factory\n",
         "Level 50 Double"
+      ],
+      "fr_FR": [
+        "Usine de Combat\n",
+        "Duo, niveau 50"
       ]
     },
     {
@@ -701,6 +924,10 @@
       "en_US": [
         "Battle Factory\n",
         "Level 50 Multi"
+      ],
+      "fr_FR": [
+        "Usine de Combat\n",
+        "Multi, niveau 50"
       ]
     },
     {
@@ -708,6 +935,10 @@
       "en_US": [
         "Battle Factory\n",
         "Open Level Single"
+      ],
+      "fr_FR": [
+        "Usine de Combat\n",
+        "Solo, niveau libre"
       ]
     },
     {
@@ -715,6 +946,10 @@
       "en_US": [
         "Battle Factory\n",
         "Open Level Double"
+      ],
+      "fr_FR": [
+        "Usine de Combat\n",
+        "Duo, niveau libre"
       ]
     },
     {
@@ -722,6 +957,10 @@
       "en_US": [
         "Battle Factory\n",
         "Open Level Multi"
+      ],
+      "fr_FR": [
+        "Usine de Combat\n",
+        "Multi, niveau libre"
       ]
     },
     {
@@ -729,6 +968,10 @@
       "en_US": [
         "Battle Hall\n",
         "Single"
+      ],
+      "fr_FR": [
+        "Scène de Combat\n",
+        "Solo"
       ]
     },
     {
@@ -736,12 +979,20 @@
       "en_US": [
         "Battle Hall\n",
         "Double"
+      ],
+      "fr_FR": [
+        "Scène de Combat\n",
+        "Duo"
       ]
     },
     {
       "id": "pl_msg_00000010_00158",
       "en_US": [
         "Battle Hall\n",
+        "Multi"
+      ],
+      "fr_FR": [
+        "Scène de Combat\n",
         "Multi"
       ]
     },
@@ -750,6 +1001,10 @@
       "en_US": [
         "Battle Castle\n",
         "Single"
+      ],
+      "fr_FR": [
+        "Castel de Combat\n",
+        "Solo"
       ]
     },
     {
@@ -757,12 +1012,20 @@
       "en_US": [
         "Battle Castle\n",
         "Double"
+      ],
+      "fr_FR": [
+        "Castel de Combat\n",
+        "Duo"
       ]
     },
     {
       "id": "pl_msg_00000010_00161",
       "en_US": [
         "Battle Castle\n",
+        "Multi"
+      ],
+      "fr_FR": [
+        "Castel de Combat\n",
         "Multi"
       ]
     },
@@ -771,6 +1034,10 @@
       "en_US": [
         "Battle Arcade\n",
         "Single"
+      ],
+      "fr_FR": [
+        "Arcade de Combat\n",
+        "Solo"
       ]
     },
     {
@@ -778,12 +1045,20 @@
       "en_US": [
         "Battle Arcade\n",
         "Double"
+      ],
+      "fr_FR": [
+        "Arcade de Combat\n",
+        "Duo"
       ]
     },
     {
       "id": "pl_msg_00000010_00164",
       "en_US": [
         "Battle Arcade\n",
+        "Multi"
+      ],
+      "fr_FR": [
+        "Arcade de Combat\n",
         "Multi"
       ]
     },
@@ -792,6 +1067,10 @@
       "en_US": [
         "Colosseum\n",
         "Single, No Restrictions"
+      ],
+      "fr_FR": [
+        "Colisée\n",
+        "Solo, Tout est permis"
       ]
     },
     {
@@ -799,6 +1078,10 @@
       "en_US": [
         "Colosseum\n",
         "Single, Cup match"
+      ],
+      "fr_FR": [
+        "Colisée\n",
+        "Solo, Combat de Coupe"
       ]
     },
     {
@@ -806,6 +1089,10 @@
       "en_US": [
         "Colosseum\n",
         "Double, No Restrictions"
+      ],
+      "fr_FR": [
+        "Colisée\n",
+        "Duo, Tout est permis"
       ]
     },
     {
@@ -813,6 +1100,10 @@
       "en_US": [
         "Colosseum\n",
         "Double, Cup match"
+      ],
+      "fr_FR": [
+        "Colisée\n",
+        "Duo, Combat de Coupe"
       ]
     },
     {
@@ -820,6 +1111,10 @@
       "en_US": [
         "1: Colosseum\n",
         "    Single, No Restrictions"
+      ],
+      "fr_FR": [
+        "1: Colisée\n",
+        "    Solo, Tout est permis"
       ]
     },
     {
@@ -827,6 +1122,10 @@
       "en_US": [
         "2: Colosseum\n",
         "    Single, Cup match"
+      ],
+      "fr_FR": [
+        "2: Colisée\n",
+        "    Solo, Combat de Coupe"
       ]
     },
     {
@@ -834,6 +1133,10 @@
       "en_US": [
         "3: Colosseum\n",
         "    Double, No Restrictions"
+      ],
+      "fr_FR": [
+        "3: Colisée\n",
+        "    Duo, Tout est permis"
       ]
     },
     {
@@ -841,12 +1144,20 @@
       "en_US": [
         "4: Colosseum\n",
         "    Double, Cup match"
+      ],
+      "fr_FR": [
+        "4: Colisée\n",
+        "    Duo, Combat de Coupe"
       ]
     },
     {
       "id": "pl_msg_00000010_00173",
       "en_US": [
         "5: Colosseum\n",
+        "    Multi"
+      ],
+      "fr_FR": [
+        "5: Colisée\n",
         "    Multi"
       ]
     },
@@ -855,6 +1166,10 @@
       "en_US": [
         "6: Battle Tower\n",
         "    Single"
+      ],
+      "fr_FR": [
+        "6: Tour de Combat\n",
+        "    Solo"
       ]
     },
     {
@@ -862,12 +1177,20 @@
       "en_US": [
         "7: Battle Tower\n",
         "    Double"
+      ],
+      "fr_FR": [
+        "7: Tour de Combat\n",
+        "    Duo"
       ]
     },
     {
       "id": "pl_msg_00000010_00176",
       "en_US": [
         "8: Battle Tower\n",
+        "    Multi"
+      ],
+      "fr_FR": [
+        "8: Tour de Combat\n",
         "    Multi"
       ]
     },
@@ -876,6 +1199,10 @@
       "en_US": [
         "9: Battle Factory\n",
         "    Level 50, Single"
+      ],
+      "fr_FR": [
+        "9: Usine de Combat\n",
+        "    Solo, niveau 50"
       ]
     },
     {
@@ -883,6 +1210,10 @@
       "en_US": [
         "10: Battle Factory\n",
         "      Level 50, Double"
+      ],
+      "fr_FR": [
+        "10: Usine de Combat\n",
+        "      Duo, niveau 50"
       ]
     },
     {
@@ -890,6 +1221,10 @@
       "en_US": [
         "11: Battle Factory\n",
         "      Level 50, Multi"
+      ],
+      "fr_FR": [
+        "11: Usine de Combat\n",
+        "      Multi, niveau 50"
       ]
     },
     {
@@ -897,6 +1232,10 @@
       "en_US": [
         "12: Battle Factory\n",
         "      Open Level, Single"
+      ],
+      "fr_FR": [
+        "12: Usine de Combat\n",
+        "      Solo, niveau libre"
       ]
     },
     {
@@ -904,6 +1243,10 @@
       "en_US": [
         "13: Battle Factory\n",
         "      Open Level, Double"
+      ],
+      "fr_FR": [
+        "13: Usine de Combat\n",
+        "      Duo, niveau libre"
       ]
     },
     {
@@ -911,6 +1254,10 @@
       "en_US": [
         "14: Battle Factory\n",
         "      Open Level, Multi"
+      ],
+      "fr_FR": [
+        "14: Usine de Combat\n",
+        "      Multi, niveau libre"
       ]
     },
     {
@@ -918,6 +1265,10 @@
       "en_US": [
         "15: Battle Hall\n",
         "      Single"
+      ],
+      "fr_FR": [
+        "15: Scène de Combat\n",
+        "      Solo"
       ]
     },
     {
@@ -925,12 +1276,20 @@
       "en_US": [
         "16: Battle Hall\n",
         "      Double"
+      ],
+      "fr_FR": [
+        "16: Scène de Combat\n",
+        "      Duo"
       ]
     },
     {
       "id": "pl_msg_00000010_00185",
       "en_US": [
         "17: Battle Hall\n",
+        "      Multi"
+      ],
+      "fr_FR": [
+        "17: Scène de Combat\n",
         "      Multi"
       ]
     },
@@ -939,6 +1298,10 @@
       "en_US": [
         "18: Battle Castle\n",
         "      Single"
+      ],
+      "fr_FR": [
+        "18: Castel de Combat\n",
+        "      Solo"
       ]
     },
     {
@@ -946,12 +1309,20 @@
       "en_US": [
         "19: Battle Castle\n",
         "      Double"
+      ],
+      "fr_FR": [
+        "19: Castel de Combat\n",
+        "      Duo"
       ]
     },
     {
       "id": "pl_msg_00000010_00188",
       "en_US": [
         "20: Battle Castle\n",
+        "      Multi"
+      ],
+      "fr_FR": [
+        "20: Castel de Combat\n",
         "      Multi"
       ]
     },
@@ -960,6 +1331,10 @@
       "en_US": [
         "21: Battle Arcade\n",
         "      Single"
+      ],
+      "fr_FR": [
+        "21: Arcade de Combat\n",
+        "      Solo"
       ]
     },
     {
@@ -967,6 +1342,10 @@
       "en_US": [
         "22: Battle Arcade\n",
         "      Double"
+      ],
+      "fr_FR": [
+        "22: Arcade de Combat\n",
+        "      Duo"
       ]
     },
     {
@@ -974,17 +1353,26 @@
       "en_US": [
         "23: Battle Arcade\n",
         "      Multi"
+      ],
+      "fr_FR": [
+        "23: Arcade de Combat\n",
+        "      Multi"
       ]
     },
     {
       "id": "pl_msg_00000010_00192",
-      "en_US": "TOUCH HERE!"
+      "en_US": "TOUCH HERE!",
+      "fr_FR": "TOUCHEZ L’ECRAN!"
     },
     {
       "id": "pl_msg_00000010_00193",
       "en_US": [
         "Is it OK to disconnect from\n",
         "Nintendo Wi-Fi Connection?"
+      ],
+      "fr_FR": [
+        "Voulez-vous interrompre la\n",
+        "connexion Wi-Fi Nintendo?"
       ]
     },
     {
@@ -996,6 +1384,10 @@
       "en_US": [
         "User authentication error.\n",
         "Please wait a while before reconnecting."
+      ],
+      "fr_FR": [
+        "Erreur d’authentification. Patientez,\n",
+        "puis réessayez. Touchez l’écran tactile."
       ]
     },
     {
@@ -1003,6 +1395,10 @@
       "en_US": [
         "This data is already registered.\n",
         "Touch the Touch Screen to continue."
+      ],
+      "fr_FR": [
+        "Données déjà enregistrées. \n",
+        "Veuillez toucher l’écran tactile."
       ]
     },
     {
@@ -1010,6 +1406,10 @@
       "en_US": [
         "There appears to be a problem with the\n",
         "Dress-Up Data."
+      ],
+      "fr_FR": [
+        "Il y a un problème avec Cliché habillage.\n",
+        "Veuillez toucher l’écran tactile."
       ]
     },
     {
@@ -1017,6 +1417,10 @@
       "en_US": [
         "There appears to be a problem with the\n",
         "Profile data."
+      ],
+      "fr_FR": [
+        "Il y a un problème avec les données de\n",
+        "Profil. Veuillez toucher l’écran tactile."
       ]
     },
     {
@@ -1024,6 +1428,10 @@
       "en_US": [
         "An error occurred.\n",
         "Touch the Touch Screen to continue."
+      ],
+      "fr_FR": [
+        "Une erreur est survenue.\n",
+        "Veuillez toucher l’écran tactile."
       ]
     },
     {
@@ -1035,6 +1443,10 @@
       "en_US": [
         "User authentication error.\n",
         "Please wait a while before reconnecting."
+      ],
+      "fr_FR": [
+        "Erreur d’authentification. Patientez,\n",
+        "puis réessayez. Touchez l’écran tactile."
       ]
     },
     {
@@ -1042,6 +1454,10 @@
       "en_US": [
         "There appears to be a problem with the\n",
         "chosen Pokémon."
+      ],
+      "fr_FR": [
+        "Il y a un problème avec le Pokémon\n",
+        "sélectionné. Touchez l’écran tactile."
       ]
     },
     {
@@ -1049,6 +1465,10 @@
       "en_US": [
         "An error occurred.\n",
         "Touch the Touch Screen to continue."
+      ],
+      "fr_FR": [
+        "Une erreur est survenue.\n",
+        "Veuillez toucher l’écran tactile."
       ]
     },
     {
@@ -1060,6 +1480,10 @@
       "en_US": [
         "User authentication error.\n",
         "Please wait a while before reconnecting."
+      ],
+      "fr_FR": [
+        "Erreur d’authentification. Patientez,\n",
+        "puis réessayez. Touchez l’écran tactile."
       ]
     },
     {
@@ -1067,6 +1491,10 @@
       "en_US": [
         "This data is already registered.\n",
         "Touch the Touch Screen to continue."
+      ],
+      "fr_FR": [
+        "Données déjà enregistrées.\n",
+        "Veuillez toucher l’écran tactile."
       ]
     },
     {
@@ -1074,6 +1502,10 @@
       "en_US": [
         "There appears to be a problem with the\n",
         "Box Data."
+      ],
+      "fr_FR": [
+        "Il y a un problème avec Cliché Boîte.\n",
+        "Veuillez toucher l’écran tactile."
       ]
     },
     {
@@ -1081,6 +1513,10 @@
       "en_US": [
         "There appears to be a problem with the\n",
         "Profile data."
+      ],
+      "fr_FR": [
+        "Il y a un problème avec les données de\n",
+        "Profil. Veuillez toucher l’écran tactile."
       ]
     },
     {
@@ -1088,6 +1524,10 @@
       "en_US": [
         "There appears to be a problem with your\n",
         "party."
+      ],
+      "fr_FR": [
+        "Il y a un problème avec votre équipe.\n",
+        "Veuillez toucher l’écran tactile."
       ]
     },
     {
@@ -1095,6 +1535,10 @@
       "en_US": [
         "An error occurred.\n",
         "Touch the Touch Screen to continue."
+      ],
+      "fr_FR": [
+        "Une erreur est survenue.\n",
+        "Veuillez toucher l’écran tactile."
       ]
     },
     {
@@ -1106,6 +1550,10 @@
       "en_US": [
         "User authentication error.\n",
         "Please wait a while before reconnecting."
+      ],
+      "fr_FR": [
+        "Erreur d’authentification. Patientez,\n",
+        "puis réessayez. Touchez l’écran tactile."
       ]
     },
     {
@@ -1113,6 +1561,10 @@
       "en_US": [
         "There appears to be a problem with your\n",
         "party."
+      ],
+      "fr_FR": [
+        "Il y a un problème avec votre équipe.\n",
+        "Veuillez toucher l’écran tactile."
       ]
     },
     {
@@ -1120,6 +1572,10 @@
       "en_US": [
         "An error occurred.\n",
         "Touch the Touch Screen to continue."
+      ],
+      "fr_FR": [
+        "Une erreur est survenue.\n",
+        "Veuillez toucher l’écran tactile."
       ]
     },
     {
@@ -1131,6 +1587,10 @@
       "en_US": [
         "User authentication error.\n",
         "Please wait a while before reconnecting."
+      ],
+      "fr_FR": [
+        "Erreur d’authentification. Patientez,\n",
+        "puis réessayez. Touchez l’écran tactile."
       ]
     },
     {
@@ -1138,6 +1598,10 @@
       "en_US": [
         "An error occurred.\n",
         "Touch the Touch Screen to continue."
+      ],
+      "fr_FR": [
+        "Une erreur est survenue.\n",
+        "Veuillez toucher l’écran tactile."
       ]
     },
     {
@@ -1149,6 +1613,10 @@
       "en_US": [
         "User authentication error.\n",
         "Please wait a while before reconnecting."
+      ],
+      "fr_FR": [
+        "Erreur d’authentification. Patientez,\n",
+        "puis réessayez. Touchez l’écran tactile."
       ]
     },
     {
@@ -1156,6 +1624,10 @@
       "en_US": [
         "Failed to receive ranking data.\n",
         "Touch the Touch Screen to continue."
+      ],
+      "fr_FR": [
+        "Impossible de recevoir les données de\n",
+        "Classement. Touchez l’écran tactile."
       ]
     },
     {
@@ -1163,6 +1635,10 @@
       "en_US": [
         "There appears to be a problem with your\n",
         "ranking record."
+      ],
+      "fr_FR": [
+        "Il y a un problème avec vos données de\n",
+        "Classement. Touchez l’écran tactile."
       ]
     },
     {
@@ -1170,6 +1646,10 @@
       "en_US": [
         "There appears to be a problem with the\n",
         "Profile data."
+      ],
+      "fr_FR": [
+        "Il y a un problème avec les données de\n",
+        "Profil. Veuillez toucher l’écran tactile."
       ]
     },
     {
@@ -1177,6 +1657,10 @@
       "en_US": [
         "An error occurred.\n",
         "Touch the Touch Screen to continue."
+      ],
+      "fr_FR": [
+        "Une erreur est survenue.\n",
+        "Veuillez toucher l’écran tactile."
       ]
     },
     {
@@ -1188,6 +1672,10 @@
       "en_US": [
         "User authentication error.\n",
         "Please wait a while before reconnecting."
+      ],
+      "fr_FR": [
+        "Erreur d’authentification. Patientez,\n",
+        "puis réessayez. Touchez l’écran tactile."
       ]
     },
     {
@@ -1195,6 +1683,10 @@
       "en_US": [
         "This data is already registered.\n",
         "Touch the Touch Screen to continue."
+      ],
+      "fr_FR": [
+        "Données déjà enregistrées.\n",
+        "Veuillez toucher l’écran tactile."
       ]
     },
     {
@@ -1202,6 +1694,10 @@
       "en_US": [
         "There appears to be a problem with the\n",
         "Battle Video."
+      ],
+      "fr_FR": [
+        "Il y a un problème avec la Vidéo de\n",
+        "combat. Veuillez toucher l’écran tactile."
       ]
     },
     {
@@ -1209,6 +1705,10 @@
       "en_US": [
         "There appears to be a problem with the\n",
         "Profile data."
+      ],
+      "fr_FR": [
+        "Il y a un problème avec les données de\n",
+        "Profil. Veuillez toucher l’écran tactile."
       ]
     },
     {
@@ -1216,6 +1716,10 @@
       "en_US": [
         "An error occurred.\n",
         "Touch the Touch Screen to continue."
+      ],
+      "fr_FR": [
+        "Une erreur est survenue.\n",
+        "Veuillez toucher l’écran tactile."
       ]
     },
     {
@@ -1223,6 +1727,10 @@
       "en_US": [
         "There appears to be a problem with your\n",
         "Pokémon. Data was not sent."
+      ],
+      "fr_FR": [
+        "Il y a un problème avec vos Pokémon. Envoi\n",
+        "impossible. Touchez l’écran tactile."
       ]
     },
     {
@@ -1230,6 +1738,10 @@
       "en_US": [
         "There appears to be a problem with the\n",
         "recipient’s Pokémon. Data was not sent."
+      ],
+      "fr_FR": [
+        "Problème avec les Pokémon de l’adversaire.\n",
+        "Envoi impossible. Touchez l’écran tactile."
       ]
     },
     {
@@ -1241,6 +1753,10 @@
       "en_US": [
         "User authentication error.\n",
         "Please wait a while before reconnecting."
+      ],
+      "fr_FR": [
+        "Erreur d’authentification. Patientez,\n",
+        "puis réessayez. Touchez l’écran tactile."
       ]
     },
     {
@@ -1248,6 +1764,10 @@
       "en_US": [
         "There appears to be a problem with the\n",
         "search criteria."
+      ],
+      "fr_FR": [
+        "Il y a un problème avec les critères de\n",
+        "recherche. Veuillez toucher l’écran tactile."
       ]
     },
     {
@@ -1255,6 +1775,10 @@
       "en_US": [
         "An error occurred.\n",
         "Touch the Touch Screen to continue."
+      ],
+      "fr_FR": [
+        "Une erreur est survenue.\n",
+        "Veuillez toucher l’écran tactile."
       ]
     },
     {
@@ -1266,6 +1790,10 @@
       "en_US": [
         "User authentication error.\n",
         "Please wait a while before reconnecting."
+      ],
+      "fr_FR": [
+        "Erreur d’authentification. Patientez,\n",
+        "puis réessayez. Touchez l’écran tactile."
       ]
     },
     {
@@ -1273,6 +1801,10 @@
       "en_US": [
         "No matching Battle Videos found...\n",
         "Touch the Touch Screen to continue."
+      ],
+      "fr_FR": [
+        "Aucune Vidéo de combat ne correspond.\n",
+        "Veuillez toucher l’écran tactile."
       ]
     },
     {
@@ -1280,6 +1812,10 @@
       "en_US": [
         "An error occurred.\n",
         "Touch the Touch Screen to continue."
+      ],
+      "fr_FR": [
+        "Une erreur est survenue.\n",
+        "Veuillez toucher l’écran tactile."
       ]
     },
     {
@@ -1307,6 +1843,10 @@
       "en_US": [
         "An error occurred.\n",
         "Error Code 10601"
+      ],
+      "fr_FR": [
+        "Une erreur est survenue.\n",
+        "Code d’erreur 10601"
       ]
     },
     {
@@ -1314,6 +1854,10 @@
       "en_US": [
         "An error occurred.\n",
         "Error Code 10602"
+      ],
+      "fr_FR": [
+        "Une erreur est survenue.\n",
+        "Code d’erreur 10602"
       ]
     },
     {
@@ -1321,6 +1865,10 @@
       "en_US": [
         "An error occurred.\n",
         "Error Code 10603"
+      ],
+      "fr_FR": [
+        "Une erreur est survenue.\n",
+        "Code d’erreur 10603"
       ]
     },
     {
@@ -1328,6 +1876,10 @@
       "en_US": [
         "An error occurred.\n",
         "Error Code 10604"
+      ],
+      "fr_FR": [
+        "Une erreur est survenue.\n",
+        "Code d’erreur 10604"
       ]
     },
     {
@@ -1335,6 +1887,10 @@
       "en_US": [
         "Unable to connect.\n",
         "Error Code 10605"
+      ],
+      "fr_FR": [
+        "Connexion impossible.\n",
+        "Code d’erreur 10605"
       ]
     },
     {
@@ -1342,6 +1898,10 @@
       "en_US": [
         "An error occurred.\n",
         "Error Code 10606"
+      ],
+      "fr_FR": [
+        "Une erreur est survenue.\n",
+        "Code d’erreur 10606"
       ]
     },
     {
@@ -1349,6 +1909,10 @@
       "en_US": [
         "Unable to connect.\n",
         "Error Code 10607"
+      ],
+      "fr_FR": [
+        "Connexion impossible.\n",
+        "Code d’erreur 10607"
       ]
     },
     {
@@ -1356,6 +1920,10 @@
       "en_US": [
         "An error occurred.\n",
         "Error Code 10608"
+      ],
+      "fr_FR": [
+        "Une erreur est survenue.\n",
+        "Code d’erreur 10608"
       ]
     },
     {
@@ -1363,6 +1931,10 @@
       "en_US": [
         "An error occurred.\n",
         "Error Code 10609"
+      ],
+      "fr_FR": [
+        "Une erreur est survenue.\n",
+        "Code d’erreur 10609"
       ]
     },
     {
@@ -1370,6 +1942,10 @@
       "en_US": [
         "There is no response.\n",
         "Error Code 10610"
+      ],
+      "fr_FR": [
+        "Pas de réponse.\n",
+        "Code d’erreur 10610"
       ]
     },
     {
@@ -1377,6 +1953,10 @@
       "en_US": [
         "There is no response.\n",
         "Error Code 10611"
+      ],
+      "fr_FR": [
+        "Pas de réponse.\n",
+        "Code d’erreur 10611"
       ]
     },
     {
@@ -1384,6 +1964,10 @@
       "en_US": [
         "There is no response.\n",
         "Error Code 10612"
+      ],
+      "fr_FR": [
+        "Pas de réponse.\n",
+        "Code d’erreur 10612"
       ]
     },
     {
@@ -1391,6 +1975,10 @@
       "en_US": [
         "Communication was interrupted.\n",
         "Error Code 10613"
+      ],
+      "fr_FR": [
+        "Communication interrompue.\n",
+        "Code d’erreur 10613"
       ]
     },
     {
@@ -1398,6 +1986,10 @@
       "en_US": [
         "Unable to connect.\n",
         "Error Code 10614"
+      ],
+      "fr_FR": [
+        "Connexion impossible.\n",
+        "Code d’erreur 10614"
       ]
     },
     {
@@ -1433,6 +2025,10 @@
       "en_US": [
         "The connection to the server was lost.\n",
         "Touch the Touch Screen to continue."
+      ],
+      "fr_FR": [
+        "La connexion au serveur a été perdue.\n",
+        "Veuillez toucher l’écran tactile."
       ]
     },
     {
@@ -1448,41 +2044,56 @@
       "en_US": [
         "There is nothing saved.\n",
         "Touch the Touch Screen to continue."
-      ]
+      ],
+      "fr_FR": "Il n’y a pas de données sauvegardées."
     },
     {
       "id": "pl_msg_00000010_00270",
-      "en_US": "Please choose a Box."
+      "en_US": "Please choose a Box.",
+      "fr_FR": "Veuillez choisir une Boîte."
     },
     {
       "id": "pl_msg_00000010_00271",
-      "en_US": "An empty Box’s Data can’t be sent."
+      "en_US": "An empty Box’s Data can’t be sent.",
+      "fr_FR": "La Boîte est vide. Envoi impossible."
     },
     {
       "id": "pl_msg_00000010_00272",
-      "en_US": "Where would you like to send this?"
+      "en_US": "Where would you like to send this?",
+      "fr_FR": "De quel type de Boîte s’agit-il?"
     },
     {
       "id": "pl_msg_00000010_00273",
-      "en_US": "Only one Box Data may be sent at a time."
+      "en_US": "Only one Box Data may be sent at a time.",
+      "fr_FR": [
+        "Impossible d’envoyer plus d’un Cliché Boîte\n",
+        "à la fois."
+      ]
     },
     {
       "id": "pl_msg_00000010_00274",
-      "en_US": "The same Box Data can’t be sent."
+      "en_US": "The same Box Data can’t be sent.",
+      "fr_FR": "Ce Cliché Boîte a déjà été envoyé."
     },
     {
       "id": "pl_msg_00000010_00275",
-      "en_US": "Which category would you like to see?"
+      "en_US": "Which category would you like to see?",
+      "fr_FR": "Quel type de Boîte voulez-vous voir?"
     },
     {
       "id": "pl_msg_00000010_00276",
-      "en_US": "The saved data could not be deleted..."
+      "en_US": "The saved data could not be deleted...",
+      "fr_FR": "Les données n’ont pas été effacées..."
     },
     {
       "id": "pl_msg_00000010_00277",
       "en_US": [
         "The same Battle Video can’t be saved again.\n",
         "Touch the Touch Screen to continue."
+      ],
+      "fr_FR": [
+        "Cette Vidéo de combat a déjà été\n",
+        "sauvegardée. Touchez l’écran tactile."
       ]
     },
     {
@@ -1490,21 +2101,34 @@
       "en_US": [
         "Saving...\n",
         "Don’t turn off the power."
+      ],
+      "fr_FR": [
+        "Sauvegarde en cours...\n",
+        "Ne pas éteindre."
       ]
     },
     {
       "id": "pl_msg_00000010_00279",
-      "en_US": "Receiving ranking data..."
+      "en_US": "Receiving ranking data...",
+      "fr_FR": "Réception des données de Classement..."
     },
     {
       "id": "pl_msg_00000010_00280",
-      "en_US": "Sending save data..."
+      "en_US": "Sending save data...",
+      "fr_FR": [
+        "Envoi des informations de sauvegarde\n",
+        "en cours..."
+      ]
     },
     {
       "id": "pl_msg_00000010_00281",
       "en_US": [
         "Save completed.\n",
         "Touch the Touch Screen to continue."
+      ],
+      "fr_FR": [
+        "Sauvegarde terminée. \n",
+        "Veuillez toucher l’écran tactile."
       ]
     },
     {
@@ -1512,17 +2136,23 @@
       "en_US": [
         "Do you want to delete {STRVAR_1 3, 0, 0}’s\n",
         "Battle Video?"
-      ]
+      ],
+      "fr_FR": "Effacer la Vidéo de combat de {STRVAR_1 3, 0, 0}?"
     },
     {
       "id": "pl_msg_00000010_00283",
-      "en_US": "Is it really OK to delete this data?"
+      "en_US": "Is it really OK to delete this data?",
+      "fr_FR": "Voulez-vous vraiment effacer ces données?"
     },
     {
       "id": "pl_msg_00000010_00284",
       "en_US": [
         "Deleting data...\n",
         "Saving... Don’t turn off the power."
+      ],
+      "fr_FR": [
+        "Effacement des données...\n",
+        "Sauvegarde en cours... Ne pas éteindre."
       ]
     },
     {
@@ -1530,29 +2160,41 @@
       "en_US": [
         "The data was deleted.\n",
         "Touch the Touch Screen to continue."
+      ],
+      "fr_FR": [
+        "Les données ont été effacées.\n",
+        "Veuillez toucher l’écran tactile."
       ]
     },
     {
       "id": "pl_msg_00000010_00286",
-      "en_US": "Sending your Dress-Up Data..."
+      "en_US": "Sending your Dress-Up Data...",
+      "fr_FR": "Envoi de données de Cliché habillage..."
     },
     {
       "id": "pl_msg_00000010_00287",
-      "en_US": "Receiving Dress-Up Data..."
+      "en_US": "Receiving Dress-Up Data...",
+      "fr_FR": "Réception de données de Cliché habillage..."
     },
     {
       "id": "pl_msg_00000010_00288",
-      "en_US": "Sending your Box Data..."
+      "en_US": "Sending your Box Data...",
+      "fr_FR": "Envoi de données de Cliché Boîte..."
     },
     {
       "id": "pl_msg_00000010_00289",
-      "en_US": "Receiving Box Data..."
+      "en_US": "Receiving Box Data...",
+      "fr_FR": "Réception de données de Cliché Boîte..."
     },
     {
       "id": "pl_msg_00000010_00290",
       "en_US": [
         "You have no saved data to send.\n",
         "Take a photo on Jubilife TV’s second floor."
+      ],
+      "fr_FR": [
+        "Aucun Cliché habillage trouvé. Prenez une\n",
+        "photo au 1¹ étage du bâtiment de Féli-Télé."
       ]
     },
     {
@@ -1560,24 +2202,34 @@
       "en_US": [
         "The same data can’t be sent again.\n",
         "Touch the Touch Screen to continue."
+      ],
+      "fr_FR": [
+        "Ces données ont déjà été envoyées.\n",
+        "Veuillez toucher l’écran tactile."
       ]
     },
     {
       "id": "pl_msg_00000010_00292",
-      "en_US": "Receiving Battle Videos..."
+      "en_US": "Receiving Battle Videos...",
+      "fr_FR": "Réception de données de Vidéo de combat..."
     },
     {
       "id": "pl_msg_00000010_00293",
       "en_US": [
         "No matching data was found...\n",
         "Touch the Touch Screen to continue."
-      ]
+      ],
+      "fr_FR": "Aucun résultat."
     },
     {
       "id": "pl_msg_00000010_00294",
       "en_US": [
         "No matching Box Data was found...\n",
         "Touch the Touch Screen to continue."
+      ],
+      "fr_FR": [
+        "Aucun Cliché Boîte ne correspond.\n",
+        "Veuillez toucher l’écran tactile."
       ]
     },
     {
@@ -1585,6 +2237,10 @@
       "en_US": [
         "Your Battle Video was sent.\n",
         "Video no.: {STRVAR_1 51, 0, 0}-{STRVAR_1 54, 1, 0}-{STRVAR_1 54, 2, 0}\n"
+      ],
+      "fr_FR": [
+        "Votre Vidéo de combat a été envoyée.\n",
+        "Vidéo nº: {STRVAR_1 51, 0, 0}-{STRVAR_1 54, 1, 0}-{STRVAR_1 54, 2, 0}"
       ]
     },
     {
@@ -1592,6 +2248,10 @@
       "en_US": [
         "The game will be saved before you can view\n",
         "Battle Videos."
+      ],
+      "fr_FR": [
+        "Avant de voir la Vidéo de combat, la\n",
+        "partie doit être sauvegardée."
       ]
     },
     {
@@ -1599,6 +2259,10 @@
       "en_US": [
         "Deleting data... Saving a lot of\n",
         "data... Don’t turn off the power."
+      ],
+      "fr_FR": [
+        "Effacement des données... Sauvegarde de\n",
+        "beaucoup de données... Ne pas éteindre."
       ]
     },
     {
@@ -1606,6 +2270,10 @@
       "en_US": [
         "Saving a lot of data...\n",
         "Don’t turn off the power."
+      ],
+      "fr_FR": [
+        "Sauvegarde de beaucoup de données...\n",
+        "Ne pas éteindre."
       ]
     },
     {
@@ -1613,6 +2281,10 @@
       "en_US": [
         "Saving...\n",
         "Don’t turn off the power."
+      ],
+      "fr_FR": [
+        "Sauvegarde en cours...\n",
+        "Ne pas éteindre."
       ]
     },
     {
@@ -1620,11 +2292,16 @@
       "en_US": [
         "There is no ranking data...\n",
         "Touch the Touch Screen to continue."
+      ],
+      "fr_FR": [
+        "Pas de données de Classement disponibles...\n",
+        "Veuillez toucher l’écran tactile."
       ]
     },
     {
       "id": "pl_msg_00000010_00301",
-      "en_US": "Would you like to send your Battle Video?"
+      "en_US": "Would you like to send your Battle Video?",
+      "fr_FR": "Envoyer votre Vidéo de combat?"
     },
     {
       "id": "pl_msg_00000010_00302",
@@ -1660,95 +2337,118 @@
     },
     {
       "id": "pl_msg_00000010_00310",
-      "en_US": "LATEST 20 IN THE FAVORITE PC BOX"
+      "en_US": "LATEST 20 IN THE FAVORITE PC BOX",
+      "fr_FR": "20 DERNIERES BOITES PC FAVORITES"
     },
     {
       "id": "pl_msg_00000010_00311",
-      "en_US": "LATEST 20 IN THE COOL PC BOX"
+      "en_US": "LATEST 20 IN THE COOL PC BOX",
+      "fr_FR": "20 DERNIERES BOITES PC SYMPAS"
     },
     {
       "id": "pl_msg_00000010_00312",
-      "en_US": "LATEST 20 IN THE CUTE PC BOX"
+      "en_US": "LATEST 20 IN THE CUTE PC BOX",
+      "fr_FR": "20 DERNIERES BOITES PC MIGNONNES"
     },
     {
       "id": "pl_msg_00000010_00313",
-      "en_US": "LATEST 20 IN THE SUGGESTED PC BOX"
+      "en_US": "LATEST 20 IN THE SUGGESTED PC BOX",
+      "fr_FR": "20 DERN. BOITES PC CONSEILLEES"
     },
     {
       "id": "pl_msg_00000010_00314",
-      "en_US": "LATEST 20 IN THE FUN PC BOX"
+      "en_US": "LATEST 20 IN THE FUN PC BOX",
+      "fr_FR": "20 DERNIERES BOITES PC RIGOLOTES"
     },
     {
       "id": "pl_msg_00000010_00315",
-      "en_US": "LATEST 20 IN THE SELECT PC BOX"
+      "en_US": "LATEST 20 IN THE SELECT PC BOX",
+      "fr_FR": "20 DERNIERES BOITES PC SPECIALES"
     },
     {
       "id": "pl_msg_00000010_00316",
-      "en_US": "School Kid♂"
+      "en_US": "School Kid♂",
+      "fr_FR": "Elève♂"
     },
     {
       "id": "pl_msg_00000010_00317",
-      "en_US": "Bug Catcher"
+      "en_US": "Bug Catcher",
+      "fr_FR": "Scout"
     },
     {
       "id": "pl_msg_00000010_00318",
-      "en_US": "Ace Trainer♂"
+      "en_US": "Ace Trainer♂",
+      "fr_FR": "Topdresseur♂"
     },
     {
       "id": "pl_msg_00000010_00319",
-      "en_US": "Roughneck"
+      "en_US": "Roughneck",
+      "fr_FR": "Loubard"
     },
     {
       "id": "pl_msg_00000010_00320",
-      "en_US": "Ruin Maniac"
+      "en_US": "Ruin Maniac",
+      "fr_FR": "Ruinemaniac"
     },
     {
       "id": "pl_msg_00000010_00321",
-      "en_US": "Black Belt"
+      "en_US": "Black Belt",
+      "fr_FR": "Karatéka"
     },
     {
       "id": "pl_msg_00000010_00322",
-      "en_US": "Rich Boy"
+      "en_US": "Rich Boy",
+      "fr_FR": "Richard"
     },
     {
       "id": "pl_msg_00000010_00323",
-      "en_US": "Psychic♂"
+      "en_US": "Psychic♂",
+      "fr_FR": "Kinésiste♂"
     },
     {
       "id": "pl_msg_00000010_00324",
-      "en_US": "Lass"
+      "en_US": "Lass",
+      "fr_FR": "Fillette"
     },
     {
       "id": "pl_msg_00000010_00325",
-      "en_US": "Battle Girl"
+      "en_US": "Battle Girl",
+      "fr_FR": "Combattante"
     },
     {
       "id": "pl_msg_00000010_00326",
-      "en_US": "Beauty"
+      "en_US": "Beauty",
+      "fr_FR": "Canon"
     },
     {
       "id": "pl_msg_00000010_00327",
-      "en_US": "Ace Trainer♀"
+      "en_US": "Ace Trainer♀",
+      "fr_FR": "Topdresseur♀"
     },
     {
       "id": "pl_msg_00000010_00328",
-      "en_US": "Idol"
+      "en_US": "Idol",
+      "fr_FR": "Star"
     },
     {
       "id": "pl_msg_00000010_00329",
-      "en_US": "Socialite"
+      "en_US": "Socialite",
+      "fr_FR": "Mondaine"
     },
     {
       "id": "pl_msg_00000010_00330",
-      "en_US": "Cowgirl"
+      "en_US": "Cowgirl",
+      "fr_FR": "Cowgirl"
     },
     {
       "id": "pl_msg_00000010_00331",
-      "en_US": "Lady"
+      "en_US": "Lady",
+      "fr_FR": "Mademoiselle"
     },
     {
       "id": "pl_msg_00000010_00332",
-      "en_US": "Plato"
+      "en_US": "Plato",
+      "fr_FR": "Platine"
     }
   ]
 }

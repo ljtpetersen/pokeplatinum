@@ -59,7 +59,12 @@
             "en_US": [
                 "Sheesh... I should have done the\n",
                 "fighting myself.\n"
+            ],
+            "fr_FR": [
+                "Pfiou... J’aurais dû me battre\n",
+                "moi-même.\n"
             ]
         }
-    ]
+    ],
+    "name_fr": "Mars"
 }

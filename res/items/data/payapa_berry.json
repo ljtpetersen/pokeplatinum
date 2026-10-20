@@ -39,5 +39,13 @@
     "bitterness": 0,
     "sourness": 15,
     "smoothness": 30
-  }
+  },
+  "name_fr": "Baie Yapap",
+  "description_fr": [
+    "Ingrédient pour Poffin. Tenue, cette\n",
+    "Baie affaiblit une attaque ennemie super\n",
+    "efficace de type Psy."
+  ],
+  "plural_fr": "Baie Yapap",
+  "article_fr": null
 }

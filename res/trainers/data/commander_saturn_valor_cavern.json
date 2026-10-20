@@ -58,7 +58,12 @@
             "en_US": [
                 "...You, my friend, are tough!\n",
                 "I can see why you defy us so...\n"
+            ],
+            "fr_FR": [
+                "... Toi, t’es coriace! Je comprends\n",
+                "pourquoi tu nous résistes...\n"
             ]
         }
-    ]
+    ],
+    "name_fr": "Saturne"
 }

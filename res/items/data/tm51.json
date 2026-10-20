@@ -27,5 +27,13 @@
   "fieldUseFunc": "ITEM_USE_FUNC_TM_HM",
   "battleUseCategory": "BATTLE_USE_CATEGORY_NONE",
   "itemUseParams": null,
-  "teachesMove": "MOVE_ROOST"
+  "teachesMove": "MOVE_ROOST",
+  "name_fr": "CT51",
+  "description_fr": [
+    "Le lanceur atterrit et se repose.\n",
+    "Restaure jusqu’à la moitié de ses PV\n",
+    "maximum."
+  ],
+  "plural_fr": "CT51",
+  "article_fr": null
 }

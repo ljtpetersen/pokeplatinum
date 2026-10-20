@@ -45,6 +45,11 @@
                 "There is something missing in the\n",
                 "way I battle...\r",
                 "I’ve come here to find it.\r"
+            ],
+            "fr_FR": [
+                "Il y a quelque chose qui me fait défaut\n",
+                "quand je combats...\r",
+                "Je suis venu ici pour trouver quoi.\r"
             ]
         },
         {
@@ -52,6 +57,10 @@
             "en_US": [
                 "I see it now...\n",
                 "I know what I lack.\n"
+            ],
+            "fr_FR": [
+                "Je vois...\n",
+                "Je sais maintenant ce qu’il me manque.\n"
             ]
         },
         {
@@ -60,6 +69,11 @@
                 "Battling you was an eye-opener.\r",
                 "I learned something very important\n",
                 "in that short time.\n"
+            ],
+            "fr_FR": [
+                "Notre combat m’a ouvert les yeux.\r",
+                "J’ai appris quelque chose d’important\n",
+                "durant ces quelques minutes.\n"
             ]
         },
         {
@@ -67,7 +81,12 @@
             "en_US": [
                 "Have you discovered what’s missing in\n",
                 "your battles? I have.\r"
+            ],
+            "fr_FR": [
+                "As-tu découvert ce qu’il te manque dans\n",
+                "les combats? Moi, oui.\r"
             ]
         }
-    ]
+    ],
+    "name_fr": "Paul-Alain"
 }

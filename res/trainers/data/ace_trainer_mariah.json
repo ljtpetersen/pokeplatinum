@@ -58,11 +58,19 @@
             "en_US": [
                 "Show me how you’ve battled to get\n",
                 "here! Let’s do this!\r"
+            ],
+            "fr_FR": [
+                "Montre-moi comment tu as combattu\n",
+                "pour arriver ici! C’est parti!\r"
             ]
         },
         {
             "type": "TRMSG_DEFEAT",
-            "en_US": "So, that’s how you battled...?\n"
+            "en_US": "So, that’s how you battled...?\n",
+            "fr_FR": [
+                "Alors, c’est comme ça que tu\n",
+                "combats...?\n"
+            ]
         },
         {
             "type": "TRMSG_POST_BATTLE",
@@ -72,7 +80,14 @@
                 "ahead...\r",
                 "But many Trainers fail to ever find\n",
                 "their way on Victory Road...\n"
+            ],
+            "fr_FR": [
+                "Quand tu sors de la Route Victoire,\n",
+                "la Ligue Pokémon est droit devant toi...\r",
+                "Mais beaucoup de Dresseurs n’arrivent\n",
+                "même pas à quitter la Route Victoire...\n"
             ]
         }
-    ]
+    ],
+    "name_fr": "Ninon"
 }

@@ -26,5 +26,13 @@
   "battlePocket": "BATTLE_POCKET_MASK_NONE",
   "fieldUseFunc": "ITEM_USE_FUNC_SUPER_ROD",
   "battleUseCategory": "BATTLE_USE_CATEGORY_NONE",
-  "itemUseParams": null
+  "itemUseParams": null,
+  "name_fr": "Méga Canne",
+  "description_fr": [
+    "Une canne à pêche ultramoderne.\n",
+    "Utilisez-la pour pêcher des Pokémon\n",
+    "sauvages dans les points d’eau."
+  ],
+  "plural_fr": "Méga Canne",
+  "article_fr": null
 }

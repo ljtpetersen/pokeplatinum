@@ -77,6 +77,10 @@
             "en_US": [
                 "Any bad kids littering the fields?\n",
                 "Any bad kids fouling the sea?"
+            ],
+            "fr_FR": [
+                "Tu as vu des gamins jeter des ordures\n",
+                "dans la nature?"
             ]
         },
         {
@@ -84,6 +88,10 @@
             "en_US": [
                 "Be sure to sort your recyclables from\n",
                 "the trash when you’re throwing it out!"
+            ],
+            "fr_FR": [
+                "N’oublie pas de toujours trier tes\n",
+                "déchets."
             ]
         },
         {
@@ -91,7 +99,12 @@
             "en_US": [
                 "Trash is like a battle.\n",
                 "Don’t be too quick to throw it!"
+            ],
+            "fr_FR": [
+                "Combattre des Pokémon, c’est bien.\n",
+                "Combattre la pollution, c’est mieux."
             ]
         }
-    ]
+    ],
+    "name_fr": "Orane"
 }

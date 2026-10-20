@@ -85,6 +85,10 @@
             "en_US": [
                 "There are no free deals on a battle.\n",
                 "You’ll get the full course, though."
+            ],
+            "fr_FR": [
+                "Dans mon restaurant comme au combat,\n",
+                "la note peut être très salée!"
             ]
         },
         {
@@ -92,6 +96,10 @@
             "en_US": [
                 "Where’s the fun if you don’t battle\n",
                 "like you mean it?\r"
+            ],
+            "fr_FR": [
+                "Tu devrais faire plus d’efforts\n",
+                "lorsque tu te bats.\r"
             ]
         },
         {
@@ -99,7 +107,12 @@
             "en_US": [
                 "I take work and play seriously.\n",
                 "That’s what sparks my passion!\r"
+            ],
+            "fr_FR": [
+                "Je suis toujours sérieuse, au travail\n",
+                "comme au combat.\r"
             ]
         }
-    ]
+    ],
+    "name_fr": "Ashley"
 }

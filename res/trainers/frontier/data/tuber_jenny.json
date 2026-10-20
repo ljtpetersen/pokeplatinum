@@ -55,6 +55,10 @@
             "en_US": [
                 "I’m the captain of a heroic vessel\n",
                 "among the crashing waves of a storm!"
+            ],
+            "fr_FR": [
+                "Holà, moussaillon! J’ai jeté l’ancre,\n",
+                "profitons-en pour combattre!"
             ]
         },
         {
@@ -62,11 +66,17 @@
             "en_US": [
                 "Made it to shore with the ease of a\n",
                 "real swashbuckler!\r"
+            ],
+            "fr_FR": [
+                "A l’abordage! Pas de quartier!\n",
+                "Notre victoire est absolue!\r"
             ]
         },
         {
             "type": "TRMSG_DEFEAT",
-            "en_US": "That was a bigger crash than I wanted!\r"
+            "en_US": "That was a bigger crash than I wanted!\r",
+            "fr_FR": "Comment oses-tu saborder mon navire!\r"
         }
-    ]
+    ],
+    "name_fr": "Jenifer"
 }

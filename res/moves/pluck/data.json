@@ -28,5 +28,13 @@
     "contest": {
         "effect": "CONTEST_EFFECT_STEAL_VOLTAGE",
         "type": "CONTEST_TYPE_CUTE"
-    }
+    },
+    "name_fr": "Picore",
+    "description_fr": [
+        "Le lanceur picore\n",
+        "l’ennemi. S’il tient\n",
+        "une Baie, le lanceur\n",
+        "s’en empare et\n",
+        "profite de ses effets."
+    ]
 }

@@ -7,6 +7,11 @@
         "I picked this up during a Safari Game.\r",
         "I don’t collect Shards, so you can\n",
         "have it. Take it away, even.\r"
+      ],
+      "fr_FR": [
+        "J’ai ramassé ça pendant un Jeu Safari.\r",
+        "Moi, je ne collectionne pas les Tessons,\n",
+        "alors tiens, prends-le. Bon débarras!\r"
       ]
     },
     {
@@ -15,11 +20,18 @@
         "Do those Shards turn into something\n",
         "good if you collect them?\r",
         "I’ll try finding more tomorrow."
+      ],
+      "fr_FR": [
+        "Est-ce que les Tessons s’avèrent utiles\n",
+        "quand on en rassemble tout un tas?\r",
+        "J’essaierai d’en trouver d’autres\n",
+        "demain."
       ]
     },
     {
       "id": "GreatMarsh6_Text_Area6",
-      "en_US": "Great Marsh Area 6"
+      "en_US": "Great Marsh Area 6",
+      "fr_FR": "Grand Marais Parc 6"
     }
   ]
 }

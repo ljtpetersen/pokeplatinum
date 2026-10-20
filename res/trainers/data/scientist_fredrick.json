@@ -47,6 +47,11 @@
                 "art facility!\r",
                 "A snot-nosed kid like you ought to\n",
                 "keep your dirty hands to yourself!\r"
+            ],
+            "fr_FR": [
+                "Hé, là! Notre QG est une installation\n",
+                "ultramoderne!\r",
+                "Ce n’est pas pour les enfants ici!\r"
             ]
         },
         {
@@ -54,6 +59,10 @@
             "en_US": [
                 "You and your Pokémon weren’t part\n",
                 "of my calculations...\n"
+            ],
+            "fr_FR": [
+                "Tu ne faisais pas partie de mes\n",
+                "calculs...\n"
             ]
         },
         {
@@ -63,7 +72,13 @@
                 "entirely new world.\r",
                 "A world only for us!\n",
                 "For Team Galactic!\n"
+            ],
+            "fr_FR": [
+                "Notre chef essaie de changer le monde.\r",
+                "Il veut un monde rien que pour nous!\n",
+                "Pour la Team Galaxie!\n"
             ]
         }
-    ]
+    ],
+    "name_fr": "Nestor"
 }

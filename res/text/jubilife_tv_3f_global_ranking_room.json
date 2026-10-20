@@ -8,6 +8,12 @@
         "record!\r",
         "I’ll reclaim my record and regain\n",
         "my place in the standings!"
+      ],
+      "fr_FR": [
+        "Mon record de captures de Pokémon a\n",
+        "été battu!\r",
+        "Je n’ai plus qu’à me surpasser pour\n",
+        "reprendre ma place dans le classement!"
       ]
     },
     {
@@ -17,6 +23,12 @@
         "number one here!\r",
         "Maybe I’ll enter some Contests with\n",
         "my partner."
+      ],
+      "fr_FR": [
+        "Ce serait super d’être sur la première\n",
+        "marche du podium!\r",
+        "Et si je participais à quelques Concours\n",
+        "avec mon partenaire?"
       ]
     },
     {
@@ -26,6 +38,12 @@
         "But it doesn’t get me down.\r",
         "I’m trying for the world record\n",
         "at Pokémon fishing!"
+      ],
+      "fr_FR": [
+        "Je ne gagne pas beaucoup de combats...\n",
+        "Mais je ne me laisse pas abattre.\r",
+        "J’essaie de battre le record du monde\n",
+        "de pêche de Pokémon!"
       ]
     },
     {
@@ -33,6 +51,10 @@
       "en_US": [
         "Sorry, I’m still fine-tuning this\n",
         "thingy here."
+      ],
+      "fr_FR": [
+        "Excuse-moi, je suis encore en plein\n",
+        "ajustement, là."
       ]
     }
   ]

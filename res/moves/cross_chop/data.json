@@ -27,5 +27,13 @@
     "contest": {
         "effect": "CONTEST_EFFECT_FINAL_PERFORMANCE_ADVANTAGE",
         "type": "CONTEST_TYPE_COOL"
-    }
+    },
+    "name_fr": "Coup-Croix",
+    "description_fr": [
+        "Le lanceur délivre un\n",
+        "coup double en\n",
+        "croisant les\n",
+        "avant-bras. Taux de\n",
+        "critiques élevé."
+    ]
 }

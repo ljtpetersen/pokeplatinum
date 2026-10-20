@@ -31,6 +31,10 @@
             "en_US": [
                 "Can you make it to the Gym Leader?\n",
                 "You sure now?\r"
+            ],
+            "fr_FR": [
+                "Arriveras-tu jusqu’au Champion\n",
+                "d’Arène? Tu le crois vraiment?\r"
             ]
         },
         {
@@ -38,6 +42,10 @@
             "en_US": [
                 "The gears spin round and round...\n",
                 "I spin down and out...\n"
+            ],
+            "fr_FR": [
+                "La roue continue de tourner...\n",
+                "Ma tête tourne et je suis battue...\n"
             ]
         },
         {
@@ -45,7 +53,12 @@
             "en_US": [
                 "Our Gym’s trick walkways are sure\n",
                 "to make your head spin!\n"
+            ],
+            "fr_FR": [
+                "Les allées piégées de notre Arène vont\n",
+                "te faire tourner la tête!\n"
             ]
         }
-    ]
+    ],
+    "name_fr": "Charlène"
 }

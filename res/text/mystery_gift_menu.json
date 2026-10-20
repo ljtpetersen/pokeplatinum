@@ -3,13 +3,18 @@
   "messages": [
     {
       "id": "MysteryGiftMenu_Text_Welcome",
-      "en_US": "Welcome to Mystery Gift!"
+      "en_US": "Welcome to Mystery Gift!",
+      "fr_FR": "Bienvenue au Cadeau Myst.!"
     },
     {
       "id": "MysteryGiftMenu_Text_ChooseHowToReceiveGift",
       "en_US": [
         "Please choose how you want to\n",
         "receive your gift."
+      ],
+      "fr_FR": [
+        "Veuillez choisir le mode de réception de\n",
+        "votre cadeau."
       ]
     },
     {
@@ -17,6 +22,10 @@
       "en_US": [
         "DS Wireless Communications will\n",
         "be launched."
+      ],
+      "fr_FR": [
+        "La communication sans fil DS va\n",
+        "démarrer."
       ]
     },
     {
@@ -24,21 +33,31 @@
       "en_US": [
         "Searching for a gift.\n",
         "Please wait..."
+      ],
+      "fr_FR": [
+        "Recherche d’un cadeau en cours...\n",
+        "Veuillez patienter."
       ]
     },
     {
       "id": "MysteryGiftMenu_Text_ReceiveThisGift",
-      "en_US": "Receive this gift?"
+      "en_US": "Receive this gift?",
+      "fr_FR": "Recevoir ce cadeau?"
     },
     {
       "id": "MysteryGiftMenu_Text_SearchForDifferentGift",
-      "en_US": "Search for a different gift?"
+      "en_US": "Search for a different gift?",
+      "fr_FR": "Rechercher un cadeau différent?"
     },
     {
       "id": "MysteryGiftMenu_Text_RequestSentPleaseWait",
       "en_US": [
         "Your request has been sent.\n",
         "Please wait a moment..."
+      ],
+      "fr_FR": [
+        "Votre requête a été envoyée.\n",
+        "Veuillez patienter un instant..."
       ]
     },
     {
@@ -46,6 +65,10 @@
       "en_US": [
         "Receiving your gift.\n",
         "Don’t turn off the power."
+      ],
+      "fr_FR": [
+        "Réception du cadeau en cours...\n",
+        "Ne pas éteindre."
       ]
     },
     {
@@ -54,6 +77,11 @@
         "The gift has been received!\r",
         "Please pick up your gift from the\n",
         "deliveryman in any Poké Mart."
+      ],
+      "fr_FR": [
+        "Le cadeau a été obtenu!\r",
+        "Vous pouvez le récupérer dans\n",
+        "n’importe quelle Boutique Pokémon."
       ]
     },
     {
@@ -65,6 +93,14 @@
         "will not be able to distribute it\f",
         "to your friends.\r",
         "Will you accept this gift?"
+      ],
+      "fr_FR": [
+        "Vous partagez ce cadeau avec une\n",
+        "autre personne.\r",
+        "Vous pouvez accepter ce cadeau mais\n",
+        "vous ne pourrez pas le distribuer à vos\f",
+        "amis.\r",
+        "Voulez-vous accepter ce cadeau?"
       ]
     },
     {
@@ -76,43 +112,56 @@
       "en_US": [
         "Pokémon Ranger\n",
         "MANAPHY Egg Transfer"
+      ],
+      "fr_FR": [
+        "Transfert Pokémon Ranger de\n",
+        "l’Oeuf de MANAPHY"
       ]
     },
     {
       "id": "MysteryGiftMenu_Text_ReceiveGift",
-      "en_US": "RECEIVE GIFT"
+      "en_US": "RECEIVE GIFT",
+      "fr_FR": "RECEVOIR LE CADEAU"
     },
     {
       "id": "MysteryGiftMenu_Text_CheckCard",
-      "en_US": "CHECK CARD"
+      "en_US": "CHECK CARD",
+      "fr_FR": "LIRE LA CARTE"
     },
     {
       "id": "MysteryGiftMenu_Text_Exit_MysteryGift",
-      "en_US": "EXIT"
+      "en_US": "EXIT",
+      "fr_FR": "RETOUR"
     },
     {
       "id": "MysteryGiftMenu_Text_GetFromFriend",
-      "en_US": "GET FROM A FRIEND"
+      "en_US": "GET FROM A FRIEND",
+      "fr_FR": "D’UN AMI"
     },
     {
       "id": "MysteryGiftMenu_Text_GetViaWFC",
-      "en_US": "GET VIA NINTENDO WFC"
+      "en_US": "GET VIA NINTENDO WFC",
+      "fr_FR": "VIA LA CWF NINTENDO"
     },
     {
       "id": "MysteryGiftMenu_Text_Cancel_MysteryGift",
-      "en_US": "CANCEL"
+      "en_US": "CANCEL",
+      "fr_FR": "SORTIR"
     },
     {
       "id": "MysteryGiftMenu_Text_Yes_MysteryGift",
-      "en_US": "YES"
+      "en_US": "YES",
+      "fr_FR": "OUI"
     },
     {
       "id": "MysteryGiftMenu_Text_No_MysteryGift",
-      "en_US": "NO"
+      "en_US": "NO",
+      "fr_FR": "NON"
     },
     {
       "id": "MysteryGiftMenu_Text_GetViaWireless",
-      "en_US": "GET VIA WIRELESS"
+      "en_US": "GET VIA WIRELESS",
+      "fr_FR": "VIA LE SANS FIL"
     },
     {
       "id": "MysteryGiftMenu_Text_DeliveryManOverloaded",
@@ -121,6 +170,13 @@
         "gifts for you!\r",
         "Please see him at any Poké Mart and\n",
         "pick up some of your gifts."
+      ],
+      "fr_FR": [
+        "Notre livreur a plein de cadeaux\n",
+        "pour vous!\r",
+        "Vous pouvez le trouver dans n’importe\n",
+        "quelle Boutique Pokémon où il vous\f",
+        "remettra certains de vos cadeaux.\n"
       ]
     },
     {
@@ -128,15 +184,21 @@
       "en_US": [
         "You’ve already received this gift.\n",
         "You may not get another one."
+      ],
+      "fr_FR": [
+        "Vous avez déjà reçu ce cadeau.\n",
+        "Vous ne pouvez le recevoir qu’une fois."
       ]
     },
     {
       "id": "MysteryGiftMenu_Text_NoGiftsToBeFound",
-      "en_US": "There were no gifts to be found."
+      "en_US": "There were no gifts to be found.",
+      "fr_FR": "Aucun cadeau n’a été trouvé."
     },
     {
       "id": "MysteryGiftMenu_Text_RequestTurnedDown",
-      "en_US": "Your request was turned down."
+      "en_US": "Your request was turned down.",
+      "fr_FR": "Votre demande a été refusée."
     },
     {
       "id": "MysteryGiftMenu_Text_OutOfRoomForWonderCards",
@@ -144,6 +206,12 @@
         "You are out of room for\n",
         "Wonder Cards.\r",
         "You may not accept another gift."
+      ],
+      "fr_FR": [
+        "Vous n’avez plus de place pour les\n",
+        "Cartes Miracle.\r",
+        "Vous ne pourrez pas obtenir d’autre\n",
+        "cadeau."
       ]
     },
     {
@@ -153,6 +221,12 @@
         "receiving the gift.\r",
         "Press the A Button to return to\n",
         "the title screen."
+      ],
+      "fr_FR": [
+        "Il y a un problème avec la réception du\n",
+        "cadeau.\r",
+        "Appuyez sur le bouton A pour retourner\n",
+        "à l’écran titre."
       ]
     },
     {
@@ -162,6 +236,12 @@
         "be received using this version.\r",
         "Press the A Button to return to\n",
         "the menu."
+      ],
+      "fr_FR": [
+        "Un cadeau a été trouvé, mais il ne peut\n",
+        "pas être reçu avec cette version.\r",
+        "Appuyez sur le bouton A pour retourner\n",
+        "au menu."
       ]
     },
     {
@@ -169,6 +249,10 @@
       "en_US": [
         "The person sharing has\n",
         "been disconnected..."
+      ],
+      "fr_FR": [
+        "La personne partageant le cadeau\n",
+        "a été déconnectée..."
       ]
     },
     {
@@ -177,7 +261,8 @@
     },
     {
       "id": "MysteryGiftMenu_Text_PressAButton",
-      "en_US": "Press the A Button."
+      "en_US": "Press the A Button.",
+      "fr_FR": "Appuyez sur le bouton A."
     },
     {
       "id": "MysteryGiftMenu_Text_Unused31",
@@ -196,6 +281,10 @@
       "en_US": [
         "Please touch Pokémon Ranger’s\n",
         "game screen."
+      ],
+      "fr_FR": [
+        "Veuillez toucher l’écran de jeu de\n",
+        "Pokémon Ranger."
       ]
     },
     {
@@ -204,13 +293,18 @@
     },
     {
       "id": "MysteryGiftMenu_Text_WonderCard",
-      "en_US": "Wonder Card"
+      "en_US": "Wonder Card",
+      "fr_FR": "Carte Miracle"
     },
     {
       "id": "MysteryGiftMenu_Text_PleasePickUpInPokeMart",
       "en_US": [
         "Please pick up your gift from the\n",
         "deliveryman in any Poké Mart."
+      ],
+      "fr_FR": [
+        "Vous pouvez récupérer votre cadeau dans\n",
+        "n’importe quelle Boutique Pokémon."
       ]
     },
     {
@@ -218,54 +312,69 @@
       "en_US": [
         "You have already received\n",
         "this gift before."
-      ]
+      ],
+      "fr_FR": "Vous avez déjà reçu ce cadeau."
     },
     {
       "id": "MysteryGiftMenu_Text_NoGiftAttached",
       "en_US": [
         "This card does not have\n",
         "a gift attached."
+      ],
+      "fr_FR": [
+        "Il n’y a pas de cadeau avec cette\n",
+        "carte."
       ]
     },
     {
       "id": "MysteryGiftMenu_Text_DateReceived",
-      "en_US": "Date received"
+      "en_US": "Date received",
+      "fr_FR": "Date réception"
     },
     {
       "id": "MysteryGiftMenu_Text_CanBeDistributedNTimes",
-      "en_US": "This gift can be distributed {STRVAR_1 52, 0, 0} time(s)."
+      "en_US": "This gift can be distributed {STRVAR_1 52, 0, 0} time(s).",
+      "fr_FR": "Ce cadeau peut être distribué {STRVAR_1 52, 0, 0} fois."
     },
     {
       "id": "MysteryGiftMenu_Text_Info",
-      "en_US": "INFO"
+      "en_US": "INFO",
+      "fr_FR": "INFOS"
     },
     {
       "id": "MysteryGiftMenu_Text_Share",
-      "en_US": "SHARE"
+      "en_US": "SHARE",
+      "fr_FR": "PARTAGER"
     },
     {
       "id": "MysteryGiftMenu_Text_Trash",
-      "en_US": "TRASH"
+      "en_US": "TRASH",
+      "fr_FR": "JETER"
     },
     {
       "id": "MysteryGiftMenu_Text_Exit_WonderCards",
-      "en_US": "EXIT"
+      "en_US": "EXIT",
+      "fr_FR": "RETOUR"
     },
     {
       "id": "MysteryGiftMenu_Text_WouldYouLikeToShareThisGift",
-      "en_US": "Would you like to share this gift?"
+      "en_US": "Would you like to share this gift?",
+      "fr_FR": "Souhaitez-vous partager ce cadeau?"
     },
     {
       "id": "MysteryGiftMenu_Text_Yes_MysteryGift2",
-      "en_US": "YES"
+      "en_US": "YES",
+      "fr_FR": "OUI"
     },
     {
       "id": "MysteryGiftMenu_Text_No_MysteryGift2",
-      "en_US": "NO"
+      "en_US": "NO",
+      "fr_FR": "NON"
     },
     {
       "id": "MysteryGiftMenu_Text_DateTemplate",
-      "en_US": "{STRVAR_1 74, 1, 0} {STRVAR_1 51, 2, 0}, {STRVAR_1 53, 0, 0}"
+      "en_US": "{STRVAR_1 74, 1, 0} {STRVAR_1 51, 2, 0}, {STRVAR_1 53, 0, 0}",
+      "fr_FR": "{STRVAR_1 51, 2, 0}/{STRVAR_1 74, 1, 0}/{STRVAR_1 53, 0, 0}"
     },
     {
       "id": "MysteryGiftMenu_Text_Unused50",
@@ -276,44 +385,62 @@
       "en_US": [
         "This gift can be shared with as\n",
         "many friends as you like."
+      ],
+      "fr_FR": [
+        "Ce cadeau peut être partagé avec\n",
+        "autant d’amis que vous le voulez."
       ]
     },
     {
       "id": "MysteryGiftMenu_Text_PalDistributionRegitration",
-      "en_US": "Pal Distribution Registration"
+      "en_US": "Pal Distribution Registration",
+      "fr_FR": "Enregistrement Distribution Ami"
     },
     {
       "id": "MysteryGiftMenu_Text_TrainerNameTemplate",
-      "en_US": "{STRVAR_1 3, 0, 0}"
+      "en_US": "{STRVAR_1 3, 0, 0}",
+      "fr_FR": "{STRVAR_1 3, 0, 0}"
     },
     {
       "id": "MysteryGiftMenu_Text_TrainerIdTemplate",
-      "en_US": "IDNo.{STRVAR_1 54, 0, 0}"
+      "en_US": "IDNo.{STRVAR_1 54, 0, 0}",
+      "fr_FR": "NºID {STRVAR_1 54, 0, 0}"
     },
     {
       "id": "MysteryGiftMenu_Text_CurrentEntries",
       "en_US": [
         "Current\n",
         "entries"
+      ],
+      "fr_FR": [
+        "Nombre\n",
+        "d’entrées"
       ]
     },
     {
       "id": "MysteryGiftMenu_Text_EntriesCountTemplate",
-      "en_US": "{COLOR 1}{STRVAR_1 50, 0, 0}{COLOR 0}/4"
+      "en_US": "{COLOR 1}{STRVAR_1 50, 0, 0}{COLOR 0}/4",
+      "fr_FR": "{COLOR 1}{STRVAR_1 50, 0, 0}{COLOR 0}/4"
     },
     {
       "id": "MysteryGiftMenu_Text_Send",
-      "en_US": "SEND"
+      "en_US": "SEND",
+      "fr_FR": "ENVOYER"
     },
     {
       "id": "MysteryGiftMenu_Text_Cancel_WonderCards",
-      "en_US": "CANCEL"
+      "en_US": "CANCEL",
+      "fr_FR": "ANNULER"
     },
     {
       "id": "MysteryGiftMenu_Text_GiftDistributionUnderWay",
       "en_US": [
         "Gift distribution under way...\n",
         "Don’t turn off the power."
+      ],
+      "fr_FR": [
+        "Distribution du cadeau en cours...\n",
+        "Ne pas éteindre."
       ]
     },
     {
@@ -321,17 +448,26 @@
       "en_US": [
         "Your gift distribution\n",
         "was successful."
+      ],
+      "fr_FR": [
+        "Votre cadeau a été distribué avec\n",
+        "succès."
       ]
     },
     {
       "id": "MysteryGiftMenu_Text_ThrowCardAway",
-      "en_US": "Throw this card away?"
+      "en_US": "Throw this card away?",
+      "fr_FR": "Jeter cette carte?"
     },
     {
       "id": "MysteryGiftMenu_Text_HaventReceivedGiftYet",
       "en_US": [
         "You haven’t received your gift yet.\n",
         "Do you want to discard this card?"
+      ],
+      "fr_FR": [
+        "Vous n’avez pas encore reçu le cadeau.\n",
+        "Voulez-vous vraiment jeter la carte?"
       ]
     },
     {
@@ -339,19 +475,26 @@
       "en_US": [
         "Discarding...\n",
         "Don’t turn off the power."
+      ],
+      "fr_FR": [
+        "Destruction de la carte...\n",
+        "Ne pas éteindre."
       ]
     },
     {
       "id": "MysteryGiftMenu_Text_Yes_WonderCards",
-      "en_US": "YES"
+      "en_US": "YES",
+      "fr_FR": "OUI"
     },
     {
       "id": "MysteryGiftMenu_Text_No_WonderCards",
-      "en_US": "NO"
+      "en_US": "NO",
+      "fr_FR": "NON"
     },
     {
       "id": "MysteryGiftMenu_Text_TrainerNameAndIdTemplate",
-      "en_US": "{COLOR 3}{STRVAR_1 3, 0, 0}{COLOR 2} {COLOR 0}IDNo.{STRVAR_1 54, 1, 0}"
+      "en_US": "{COLOR 3}{STRVAR_1 3, 0, 0}{COLOR 2} {COLOR 0}IDNo.{STRVAR_1 54, 1, 0}",
+      "fr_FR": "{COLOR 3}{STRVAR_1 3, 0, 0}{COLOR 2} {COLOR 0}NºID {STRVAR_1 54, 1, 0}"
     },
     {
       "id": "MysteryGiftMenu_Text_Unused67",
@@ -359,23 +502,33 @@
     },
     {
       "id": "MysteryGiftMenu_Text_ApplicationNumber",
-      "en_US": "Application No.:"
+      "en_US": "Application No.:",
+      "fr_FR": "Nº d’enregistrement:"
     },
     {
       "id": "MysteryGiftMenu_Text_ApplicationNumberTemplate",
-      "en_US": "{STRVAR_1 53, 0, 0}-{STRVAR_1 53, 1, 0}"
+      "en_US": "{STRVAR_1 53, 0, 0}-{STRVAR_1 53, 1, 0}",
+      "fr_FR": "{STRVAR_1 53, 0, 0}-{STRVAR_1 53, 1, 0}"
     },
     {
       "id": "MysteryGiftMenu_Text_ReceivingRecruitmentMsgFromRanger",
       "en_US": [
         "Receiving a Recruitment Message\n",
         "from a Pokémon Ranger."
+      ],
+      "fr_FR": [
+        "Réception d’un message d’un\n",
+        "₧₦ Ranger."
       ]
     },
     {
       "id": "MysteryGiftMenu_Text_AwaitingTransferFromRanger",
       "en_US": [
         "Awaiting transfer from Pokémon\n",
+        "Ranger."
+      ],
+      "fr_FR": [
+        "Attente du transfert du ₧₦\n",
         "Ranger."
       ]
     },
@@ -384,6 +537,10 @@
       "en_US": [
         "Receiving the MANAPHY Egg...\n",
         "Don’t turn off the power."
+      ],
+      "fr_FR": [
+        "Réception de l’Oeuf de MANAPHY...\n",
+        "Ne pas éteindre."
       ]
     },
     {
@@ -391,6 +548,10 @@
       "en_US": [
         "The transfer has been completed.\n",
         "A Button: title screen."
+      ],
+      "fr_FR": [
+        "Le transfert est terminé.\n",
+        "Bouton A: écran titre"
       ]
     },
     {
@@ -398,6 +559,10 @@
       "en_US": [
         "The connection with Pokémon Ranger\n",
         "has been lost... Press the A Button."
+      ],
+      "fr_FR": [
+        "La connexion avec le ₧₦ Ranger a été\n",
+        "interrompue... Appuyez sur le bouton A."
       ]
     },
     {
@@ -413,11 +578,16 @@
       "en_US": [
         "DS Wireless Communications\n",
         "will be launched."
+      ],
+      "fr_FR": [
+        "La communication sans fil DS va\n",
+        "démarrer."
       ]
     },
     {
       "id": "MysteryGiftMenu_Text_ConnectToWFC",
-      "en_US": "Connect to Nintendo Wi-Fi Connection?"
+      "en_US": "Connect to Nintendo Wi-Fi Connection?",
+      "fr_FR": "Se connecter à la CWF Nintendo?"
     }
   ]
 }

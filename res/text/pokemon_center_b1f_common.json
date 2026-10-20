@@ -6,6 +6,10 @@
       "en_US": [
         "Oh, hello!\n",
         "Right this way, please!\r"
+      ],
+      "fr_FR": [
+        "Oh, bonjour!\n",
+        "Par ici, s’il vous plaît!\r"
       ]
     },
     {
@@ -16,6 +20,13 @@
         "My name is Teala, and I’m your guide\n",
         "to the Pokémon Wi-Fi Club.\r",
         "First, I need to give you this.\r"
+      ],
+      "fr_FR": [
+        "Bonjour.\n",
+        "Ravie de faire votre connaissance.\r",
+        "Je m’appelle Zadia, je serai votre guide\n",
+        "dans le Club Wi-Fi Pokémon.\r",
+        "Je dois d’abord vous donner ça.\r"
       ]
     },
     {
@@ -27,6 +38,15 @@
         "those friends over Nintendo WFC to\f",
         "trade Pokémon, battle, and so on.\r",
         "Would you like to know more?"
+      ],
+      "fr_FR": [
+        "C’est votre Registre Ami. Vous pouvez y\n",
+        "enregistrer vos amis.\r",
+        "Une fois vos amis enregistrés, vous\n",
+        "pouvez échanger des Pokémon ou faire\r",
+        "des combats avec eux en vous\n",
+        "connectant à la CWF Nintendo.\r",
+        "Voulez-vous en savoir plus?"
       ]
     },
     {
@@ -41,6 +61,18 @@
         "by entering their Friend Codes into\f",
         "your Pal Pad.\r",
         "Would you like me to repeat that?"
+      ],
+      "fr_FR": [
+        "Vous rencontrerez peut-être des gens\n",
+        "au premier étage des Centres Pokémon\r",
+        "pour faire des échanges ou des combats\n",
+        "au Colisée.\r",
+        "Vous pouvez les enregistrer dans\n",
+        "votre Registre Ami.\r",
+        "Vous pouvez aussi enregistrer vos amis\n",
+        "manuellement en saisissant leur code\f",
+        "ami dans votre Registre Ami.\r",
+        "Voulez-vous que je répète?"
       ]
     },
     {
@@ -48,6 +80,10 @@
       "en_US": [
         "I hope you enjoy using Nintendo\n",
         "WFC!"
+      ],
+      "fr_FR": [
+        "J’espère que vous vous amuserez bien\n",
+        "avec la CWF Nintendo!"
       ]
     },
     {
@@ -56,6 +92,11 @@
         "Welcome to the Pokémon Center Wi-Fi\n",
         "Club!\r",
         "May I help you with anything?"
+      ],
+      "fr_FR": [
+        "Bienvenue au Club Wi-Fi du Centre\n",
+        "Pokémon!\r",
+        "Puis-je vous aider?"
       ]
     },
     {
@@ -68,6 +109,16 @@
         "Over Nintendo WFC, you may conduct\n",
         "trades and battles with friends that\f",
         "you have registered in your Pal Pad."
+      ],
+      "fr_FR": [
+        "Je vais vous expliquer le fonctionnement\n",
+        "du Club Wi-Fi Pokémon.\r",
+        "A partir du comptoir au centre, vous\n",
+        "pouvez utiliser la CWF Nintendo.\r",
+        "Avec la CWF Nintendo, vous pouvez\n",
+        "faire des échanges et des combats\r",
+        "avec les amis enregistrés dans\n",
+        "votre Registre Ami."
       ]
     },
     {
@@ -76,22 +127,32 @@
         "Welcome to the Pokémon Wi-Fi Club!\r",
         "Would you like to use Nintendo Wi-Fi\n",
         "Connection?"
+      ],
+      "fr_FR": [
+        "Bienvenue au Club Wi-Fi Pokémon!\r",
+        "Voulez-vous utiliser la CWF Nintendo?"
       ]
     },
     {
       "id": "PokemonCenterB1FCommon_Text_PleaseComeAgain",
-      "en_US": "Please come again."
+      "en_US": "Please come again.",
+      "fr_FR": "J’espère vous revoir bientôt."
     },
     {
       "id": "PokemonCenterB1FCommon_Text_LaunchNintendoWFC",
       "en_US": [
         "Would you like to launch\n",
         "Nintendo WFC?"
+      ],
+      "fr_FR": [
+        "Voulez-vous lancer la CWF\n",
+        "Nintendo?"
       ]
     },
     {
       "id": "PokemonCenterB1FCommon_Text_RightThisWay",
-      "en_US": "Right this way, please.\r"
+      "en_US": "Right this way, please.\r",
+      "fr_FR": "Veuillez entrer.\r"
     },
     {
       "id": "PokemonCenterB1FCommon_Text_NoFriendsGetAFriendCode",
@@ -103,6 +164,15 @@
         "no friends are in your Pal Pad.\r",
         "Would you like to get your own\n",
         "Friend Code at least?"
+      ],
+      "fr_FR": [
+        "Oh?\r",
+        "Je suis désolée, mais vous n’avez\n",
+        "aucun ami dans votre Registre Ami.\r",
+        "Vous ne pouvez pas utiliser le Club\n",
+        "Wi-Fi si aucun ami n’est enregistré.\r",
+        "Voulez-vous obtenir votre propre\n",
+        "code ami, au moins?"
       ]
     },
     {
@@ -115,6 +185,15 @@
         "no friends are in your Pal Pad.\r",
         "Please register friends in your Pal\n",
         "Pad, and then come back."
+      ],
+      "fr_FR": [
+        "Oh?\r",
+        "Je suis désolée, mais vous n’avez\n",
+        "aucun ami dans votre Registre Ami.\r",
+        "Vous ne pouvez pas utiliser le Club\n",
+        "Wi-Fi si aucun ami n’est enregistré.\r",
+        "Revenez quand vous aurez enregistré\n",
+        "des amis dans votre Registre Ami."
       ]
     },
     {
@@ -133,19 +212,38 @@
         "For Level 50 and Level 100, the levels\n",
         "of all participating Pokémon will be\f",
         "temporarily changed to the set level.\r"
+      ],
+      "fr_FR": [
+        "Au Club Wi-Fi, vous pouvez jouer via la\n",
+        "connexion Wi-Fi Nintendo.\r",
+        "Vous pouvez faire des échanges ou\n",
+        "des combats avec tous vos amis\f",
+        "enregistrés dans votre Registre Ami.\r",
+        "Vous avez le choix entre deux types de\n",
+        "combats: Solo ou Duo.\r",
+        "Dans chaque cas, vous avez le choix\n",
+        "entre trois restrictions de niveau:\f",
+        "libre, niveau 50 ou niveau 100.\r",
+        "Si vous choisissez niveau 50 ou\n",
+        "niveau 100, le niveau de tous les\r",
+        "Pokémon participants sera adapté en\n",
+        "fonction des règles choisies.\r"
       ]
     },
     {
       "id": "PokemonCenterB1FCommon_Text_GoToWiFiClub",
-      "en_US": "GO TO WI-FI CLUB"
+      "en_US": "GO TO WI-FI CLUB",
+      "fr_FR": "ACCEDER AU CLUB Wi-Fi"
     },
     {
       "id": "PokemonCenterB1FCommon_Text_InfoWiFiClub",
-      "en_US": "INFO"
+      "en_US": "INFO",
+      "fr_FR": "INFOS"
     },
     {
       "id": "PokemonCenterB1FCommon_Text_ExitWiFiClub",
-      "en_US": "EXIT"
+      "en_US": "EXIT",
+      "fr_FR": "RETOUR"
     },
     {
       "id": "PokemonCenterB1FCommon_Text_WiFiPlazaUseNintendoWFC",
@@ -154,6 +252,12 @@
         "Center Wi-Fi Plaza from here.\r",
         "Would you like to use Nintendo Wi-Fi\n",
         "Connection?"
+      ],
+      "fr_FR": [
+        "Bonjour! D’ici, vous pouvez accéder à\n",
+        "notre Square Wi-Fi.\r",
+        "Voulez-vous vous connecter à la\n",
+        "connexion Wi-Fi Nintendo?"
       ]
     },
     {
@@ -162,11 +266,16 @@
     },
     {
       "id": "PokemonCenterB1FCommon_Text_PleaseEnterThisWay",
-      "en_US": "Please enter this way.\r"
+      "en_US": "Please enter this way.\r",
+      "fr_FR": "Par ici, s’il vous plaît.\r"
     },
     {
       "id": "PokemonCenterB1FCommon_Text_LookForwardToNextVisit",
-      "en_US": "We look forward to your next visit."
+      "en_US": "We look forward to your next visit.",
+      "fr_FR": [
+        "Nous attendons votre prochaine visite\n",
+        "avec impatience."
+      ]
     },
     {
       "id": "PokemonCenterB1FCommon_Text_WiFiPlazaInfo",
@@ -184,25 +293,48 @@
         "amount of time.\r",
         "We hope you will get the most out of\n",
         "each visit to the Wi-Fi Plaza!\r"
+      ],
+      "fr_FR": [
+        "Au Square Wi-Fi, vous pouvez\n",
+        "rencontrer des Dresseurs venus\f",
+        "du monde entier.\r",
+        "Vous pouvez discuter avec eux et\n",
+        "jouer ensemble aux Jeux du Square.\r",
+        "Vous pouvez également vous amuser avec\n",
+        "nos Tape-joujoux. On ne les trouve\f",
+        "nulle part ailleurs!\r",
+        "Sachez que la connexion au Square Wi-Fi\n",
+        "est limitée dans le temps.\r",
+        "Nous vous déconnecterons après un\n",
+        "certain temps.\r",
+        "Profitez au maximum de chaque visite\n",
+        "au Square Wi-Fi!\r"
       ]
     },
     {
       "id": "PokemonCenterB1FCommon_Text_GoToWiFiPlaza",
-      "en_US": "GO TO WI-FI PLAZA"
+      "en_US": "GO TO WI-FI PLAZA",
+      "fr_FR": "ACCEDER AU SQUARE Wi-Fi"
     },
     {
       "id": "PokemonCenterB1FCommon_Text_InfoWiFiPlaza",
-      "en_US": "INFO"
+      "en_US": "INFO",
+      "fr_FR": "INFOS"
     },
     {
       "id": "PokemonCenterB1FCommon_Text_ExitWiFiPlaza",
-      "en_US": "EXIT"
+      "en_US": "EXIT",
+      "fr_FR": "RETOUR"
     },
     {
       "id": "PokemonCenterB1FCommon_Text_PleaseComeBackLater",
       "en_US": [
         "Sorry, we’re getting things ready.\n",
         "Please come back later."
+      ],
+      "fr_FR": [
+        "Désolée, mais nous ne sommes pas\n",
+        "prêts. Veuillez revenir plus tard."
       ]
     }
   ]

@@ -8,6 +8,12 @@
         "looks forward to seeing visitors.\r",
         "He must be able to wait around because\n",
         "he wants to brag about something."
+      ],
+      "fr_FR": [
+        "M. Décorum, du Manoir Pokémon, adore\n",
+        "recevoir les visiteurs.\r",
+        "Il les attend pendant des heures pour\n",
+        "pouvoir se pavaner devant eux."
       ]
     },
     {
@@ -17,6 +23,12 @@
         "smear with Honey, and some you can’t.\r",
         "If you want to lure rare Pokémon,\n",
         "you have to find an attractive tree."
+      ],
+      "fr_FR": [
+        "Il y a les arbres qu’on peut couvrir de\n",
+        "Miel et ceux qu’il faut éviter.\r",
+        "Si tu comptes attirer un Pokémon rare,\n",
+        "tu devras trouver un bel arbre."
       ]
     },
     {
@@ -25,6 +37,11 @@
         "Why, hello there!\r",
         "It’s nice to have an average citizen\n",
         "say hi to us Policemen!"
+      ],
+      "fr_FR": [
+        "Oh, bonjour!\r",
+        "C’est agréable pour un Agent de se\n",
+        "voir saluer par un citoyen lambda!"
       ]
     },
     {
@@ -32,6 +49,10 @@
       "en_US": [
         "Patrols day and night...\n",
         "I’m feeling drowsy... Yawn..."
+      ],
+      "fr_FR": [
+        "A patrouiller jour et nuit...\n",
+        "On finit par fatiguer... Bouaaah..."
       ]
     },
     {
@@ -39,6 +60,10 @@
       "en_US": [
         "Yo!\n",
         "Working hard at it, Trainer?"
+      ],
+      "fr_FR": [
+        "Yo!\n",
+        "Alors Dresseur, ça bosse dur?"
       ]
     },
     {
@@ -46,6 +71,10 @@
       "en_US": [
         "Just between you and me...\n",
         "I think we’re on patrol too much."
+      ],
+      "fr_FR": [
+        "De toi à moi...\n",
+        "Je crois qu’on patrouille un peu trop."
       ]
     },
     {
@@ -53,6 +82,10 @@
       "en_US": [
         "Rt. 212\n",
         "Hearthome City"
+      ],
+      "fr_FR": [
+        "Route 212\n",
+        "Unionpolis"
       ]
     },
     {
@@ -60,6 +93,10 @@
       "en_US": [
         "Pokémon Mansion\n",
         "Please Visit for Pokémon Viewings"
+      ],
+      "fr_FR": [
+        "Manoir Pokémon\n",
+        "Exposition permanente!"
       ]
     },
     {
@@ -68,6 +105,11 @@
         "Trainer Tips\r",
         "The items in the Bag can be\n",
         "reorganized by pressing SELECT."
+      ],
+      "fr_FR": [
+        "Conseils aux Dresseurs\r",
+        "Les objets dans le Sac peuvent être\n",
+        "réorganisés en appuyant sur SELECT."
       ]
     }
   ]

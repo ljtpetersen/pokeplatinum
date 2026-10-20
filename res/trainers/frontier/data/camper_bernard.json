@@ -59,6 +59,10 @@
             "en_US": [
                 "I’m glad to make your acquaintance!\n",
                 "May this friendship be fruitful!"
+            ],
+            "fr_FR": [
+                "Je suis ravi de te rencontrer! \n",
+                "J’attends beaucoup de notre combat!"
             ]
         },
         {
@@ -66,6 +70,10 @@
             "en_US": [
                 "Thank you very much!\n",
                 "Thank you so very much!\r"
+            ],
+            "fr_FR": [
+                "Merci beaucoup!\n",
+                "Merci beaucoup, beaucoup!\r"
             ]
         },
         {
@@ -73,7 +81,12 @@
             "en_US": [
                 "Thank you very much...\n",
                 "...Pah.\r"
+            ],
+            "fr_FR": [
+                "Merci beaucoup...\n",
+                "Enfin je crois...\r"
             ]
         }
-    ]
+    ],
+    "name_fr": "Brahim"
 }

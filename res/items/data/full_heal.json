@@ -33,5 +33,13 @@
     "healFreeze": true,
     "healParalysis": true,
     "healConfusion": true
-  }
+  },
+  "name_fr": "Total Soin",
+  "description_fr": [
+    "Un médicament sous forme de spray.\n",
+    "Soigne tous les problèmes de statut\n",
+    "d’un Pokémon."
+  ],
+  "plural_fr": "Total Soin",
+  "article_fr": null
 }

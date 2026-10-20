@@ -29,11 +29,13 @@
     "messages": [
         {
             "type": "TRMSG_PRE_BATTLE",
-            "en_US": "I’ll knock your Pokémon into orbit!\r"
+            "en_US": "I’ll knock your Pokémon into orbit!\r",
+            "fr_FR": "Je vais vous mettre sur orbite!\r"
         },
         {
             "type": "TRMSG_DEFEAT",
-            "en_US": "My mind is going orbital!\n"
+            "en_US": "My mind is going orbital!\n",
+            "fr_FR": "Mon esprit est sur orbite!\n"
         },
         {
             "type": "TRMSG_POST_BATTLE",
@@ -42,7 +44,14 @@
                 "taken to our HQ in Veilstone.\r",
                 "So, you see?\n",
                 "A child like you can’t touch us!\n"
+            ],
+            "fr_FR": [
+                "Le Pokémon légendaire a déjà été\n",
+                "transféré à notre QG de Voilaroc.\r",
+                "Tu comprends maintenant?\n",
+                "Tu ne peux rien contre nous!\n"
             ]
         }
-    ]
+    ],
+    "name_fr": "Sbire"
 }

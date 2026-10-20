@@ -12,6 +12,16 @@
         "reception counter, I think it was?\r",
         "Uh? What’d I do with that key anyway?\n",
         "Where’s it gone?"
+      ],
+      "fr_FR": [
+        "Pour assister au discours de Maître\n",
+        "Hélio... Euh, c’est où déjà?\r",
+        "Au Bâtiment Galaxie de Voilaroc, ça\n",
+        "c’est sûr.\r",
+        "Je crois qu’il faut prendre la porte\n",
+        "à côté de la réception...\r",
+        "Euh, qu’est-ce que j’ai fait de cette\n",
+        "clé, déjà? Où est-elle passée?"
       ]
     },
     {
@@ -21,6 +31,12 @@
         "all of nature!\r",
         "Uwahahaha!\n",
         "Team Galactic will then own it all!"
+      ],
+      "fr_FR": [
+        "La Team Galaxie libèrera tous les\n",
+        "Pokémon, tous les êtres vivants!\r",
+        "Et elle en profitera alors pour les\n",
+        "réduire en esclavage! Mwahahaha!"
       ]
     },
     {
@@ -28,6 +44,10 @@
       "en_US": [
         "The door is locked.\n",
         "A special key is needed."
+      ],
+      "fr_FR": [
+        "La porte est fermée.\n",
+        "Elle nécessite une clé spéciale."
       ]
     },
     {
@@ -36,11 +56,17 @@
         "The door is locked.\n",
         "A special key is needed.\r",
         "Use the Galactic Key?"
+      ],
+      "fr_FR": [
+        "La porte est fermée.\n",
+        "Elle nécessite une clé spéciale.\r",
+        "Utiliser la Clé Galaxie?"
       ]
     },
     {
       "id": "GalacticHQB2F_Text_DoorOpened",
-      "en_US": "The door opened."
+      "en_US": "The door opened.",
+      "fr_FR": "La porte s’est ouverte."
     }
   ]
 }

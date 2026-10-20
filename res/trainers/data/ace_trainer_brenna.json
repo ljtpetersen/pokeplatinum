@@ -59,18 +59,29 @@
                 "for a short time.\r",
                 "I managed to get this far because\n",
                 "skilled friends toughened me up!\r"
+            ],
+            "fr_FR": [
+                "Ça ne fait pas longtemps que je fais\n",
+                "des combats de Pokémon.\r",
+                "J’ai vite progressé grâce à mes amis!\r"
             ]
         },
         {
             "type": "TRMSG_DEFEAT",
-            "en_US": "I can’t believe how tough you are!\n"
+            "en_US": "I can’t believe how tough you are!\n",
+            "fr_FR": "Quelle force tu as, c’est incroyable!\n"
         },
         {
             "type": "TRMSG_POST_BATTLE",
             "en_US": [
                 "If you have wonderful friends, there\n",
                 "is no limit to how far you can go.\n"
+            ],
+            "fr_FR": [
+                "Si tu as des amis sur qui tu peux\n",
+                "compter, rien ne t’arrête!\n"
             ]
         }
-    ]
+    ],
+    "name_fr": "Nicole"
 }

@@ -8,6 +8,12 @@
         "then Stark Mountain.\r",
         "The road there is too tough for me to\n",
         "travel, though."
+      ],
+      "fr_FR": [
+        "L’Aire de Survie et le Mont Abrupt sont\n",
+        "au nord d’ici.\r",
+        "Mais le chemin est semé d’embûches.\n",
+        "Je n’ai pas le niveau pour y aller."
       ]
     },
     {
@@ -18,6 +24,13 @@
         "interesting Pokémon.\r",
         "Like, Pokémon you never see anywhere\n",
         "else in Sinnoh!"
+      ],
+      "fr_FR": [
+        "Tu as fait le plein de Poké Balls?\r",
+        "Par là, il y a des Pokémon intéressants\n",
+        "dans les hautes herbes.\r",
+        "Des Pokémon qu’on ne voit nulle part\n",
+        "ailleurs dans Sinnoh!"
       ]
     }
   ]

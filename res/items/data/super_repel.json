@@ -26,5 +26,12 @@
   "battlePocket": "BATTLE_POCKET_MASK_NONE",
   "fieldUseFunc": "ITEM_USE_FUNC_BAG_MESSAGE",
   "battleUseCategory": "BATTLE_USE_CATEGORY_NONE",
-  "itemUseParams": {}
+  "itemUseParams": {},
+  "name_fr": "Superepousse",
+  "description_fr": [
+    "Repousse les Pokémon sauvages\n",
+    "faibles pendant 200 pas."
+  ],
+  "plural_fr": "Superepousse",
+  "article_fr": null
 }

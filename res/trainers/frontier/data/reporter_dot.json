@@ -59,6 +59,10 @@
             "en_US": [
                 "I’ll be bringing you live coverage from\n",
                 "my imminent battle!"
+            ],
+            "fr_FR": [
+                "Je commenterai ce combat en direct\n",
+                "pour vous, chers téléspectateurs."
             ]
         },
         {
@@ -66,6 +70,10 @@
             "en_US": [
                 "Our intrepid and beautiful Reporter has\n",
                 "carried the day! Go, me!\r"
+            ],
+            "fr_FR": [
+                "Votre belle et courageuse Interviewer\n",
+                "s’impose avec grâce! Bravo!\r"
             ]
         },
         {
@@ -73,7 +81,12 @@
             "en_US": [
                 "Our intrepid and beautiful Reporter has\n",
                 "gone down in defeat. Take pity on me!\r"
+            ],
+            "fr_FR": [
+                "Votre belle et courageuse Interviewer\n",
+                "s’incline avec grâce! Dommage!\r"
             ]
         }
-    ]
+    ],
+    "name_fr": "Dora"
 }

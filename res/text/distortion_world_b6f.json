@@ -3,15 +3,18 @@
   "messages": [
     {
       "id": "DistortionWorldB6F_Text_MespritCry",
-      "en_US": "MESPRIT: Piih!\r"
+      "en_US": "MESPRIT: Piih!\r",
+      "fr_FR": "CREFOLLET: Folleeeet!\r"
     },
     {
       "id": "DistortionWorldB6F_Text_UxieCry",
-      "en_US": "UXIE: Piih!\r"
+      "en_US": "UXIE: Piih!\r",
+      "fr_FR": "CREHELF: Créééé!\r"
     },
     {
       "id": "DistortionWorldB6F_Text_AzelfCry",
-      "en_US": "AZELF: Piiuw!\r"
+      "en_US": "AZELF: Piiuw!\r",
+      "fr_FR": "CREFADET: Créfadet!\r"
     },
     {
       "id": "DistortionWorldB6F_Text_ThisPlaceGiantPuzzle",
@@ -28,6 +31,20 @@
         "the floor...\r",
         "The Pokémon of the lakes seem eager to\n",
         "show us something..."
+      ],
+      "fr_FR": [
+        "Cynthia: Cet endroit ressemble à un\n",
+        "puzzle géant.\r",
+        "Peut-être GIRATINA cherche-t-il à\n",
+        "mettre les visiteurs à l’épreuve...\r",
+        "On dirait que pour progresser, il nous\n",
+        "faut résoudre ce puzzle.\r",
+        "Tu as vu ces rochers qu’on pouvait\n",
+        "déplacer?\r",
+        "Et là-bas, regarde, des cavités\n",
+        "étranges dans le sol...\r",
+        "Les Pokémon des lacs semblent vouloir\n",
+        "nous montrer quelque chose..."
       ]
     },
     {
@@ -41,6 +58,17 @@
         "GIRATINA?\r",
         "...Oops.\n",
         "This is no time for idle chitchat.\r"
+      ],
+      "fr_FR": [
+        "Cynthia: J’imagine que les Pokémon des\n",
+        "lacs sont rentrés chez eux.\r",
+        "D’après ce que j’ai compris, ils peuvent\n",
+        "contrebalancer la force de PALKIA\f",
+        "ou de DIALGA.\r",
+        "Est-ce que ça signifie qu’ils en sont\n",
+        "incapables face à GIRATINA?\r",
+        "Trêve de bavardage.\n",
+        "Il n’y a pas une minute à perdre.\r"
       ]
     },
     {
@@ -49,6 +77,11 @@
         "Cynthia: Call it a Trainer’s intuition,\n",
         "but we’re getting close.\r",
         "Let’s go on!"
+      ],
+      "fr_FR": [
+        "Cynthia: On approche du but, c’est mon\n",
+        "intuition de Dresseur qui me le dit.\r",
+        "Courage!"
       ]
     },
     {
@@ -56,6 +89,10 @@
       "en_US": [
         "At the bottom of the pit is a space\n",
         "that a boulder might fit into..."
+      ],
+      "fr_FR": [
+        "Au fond de la cavité, un espace tout\n",
+        "juste assez grand pour un rocher..."
       ]
     }
   ]

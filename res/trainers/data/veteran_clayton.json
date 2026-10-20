@@ -44,11 +44,16 @@
             "en_US": [
                 "Let me see how well your Pokémon can\n",
                 "battle!\r"
+            ],
+            "fr_FR": [
+                "Montre-moi comment les Pokémon\n",
+                "combattent pour toi!\r"
             ]
         },
         {
             "type": "TRMSG_DEFEAT",
-            "en_US": "Brilliant!\n"
+            "en_US": "Brilliant!\n",
+            "fr_FR": "Eblouissant!\n"
         },
         {
             "type": "TRMSG_POST_BATTLE",
@@ -56,7 +61,13 @@
                 "Rather than navigating Victory Road,\n",
                 "I have a much better time putting\f",
                 "young Trainers like you to the test.\n"
+            ],
+            "fr_FR": [
+                "Plutôt que d’arpenter la Route \n",
+                "Victoire, je m’amuse en testant la\f",
+                "force de jeunes Dresseurs comme toi.\n"
             ]
         }
-    ]
+    ],
+    "name_fr": "Baptiste"
 }

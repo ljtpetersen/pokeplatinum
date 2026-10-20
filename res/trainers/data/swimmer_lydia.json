@@ -41,6 +41,10 @@
             "en_US": [
                 "I want to be with my water Pokémon!\n",
                 "That’s why I swim!\r"
+            ],
+            "fr_FR": [
+                "Nager me permet de passer beaucoup de\n",
+                "temps avec mes Pokémon Eau, tu sais.\r"
             ]
         },
         {
@@ -48,6 +52,10 @@
             "en_US": [
                 "Glub glub...\n",
                 "I’m sinking...\n"
+            ],
+            "fr_FR": [
+                "Glouglou...\n",
+                "Je coule...\n"
             ]
         },
         {
@@ -59,6 +67,14 @@
                 "It’s not like what I imagined.\r",
                 "I guess being with Pokémon, people get\n",
                 "all mellowed out.\n"
+            ],
+            "fr_FR": [
+                "Je pensais que les Dresseurs du coin\n",
+                "passaient leur temps à s’entraîner.\r",
+                "En réalité, la plupart préfèrent se\n",
+                "la couler douce. Quelle déception!\r",
+                "On dirait que passer autant de temps\n",
+                "avec leurs Pokémon les a ramollis.\n"
             ]
         },
         {
@@ -66,7 +82,12 @@
             "en_US": [
                 "I want to be with water Pokémon!\n",
                 "That’s why I’m going to get tougher!\r"
+            ],
+            "fr_FR": [
+                "Je veux passer tout mon temps avec\n",
+                "mes Pokémon Eau! Et je vais te battre!\r"
             ]
         }
-    ]
+    ],
+    "name_fr": "Valentine"
 }

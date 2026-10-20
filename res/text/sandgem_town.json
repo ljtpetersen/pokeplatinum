@@ -7,6 +7,11 @@
         "Dawn: Oh! There you are!\n",
         "Please, come with me!\f",
         "The professor is waiting!\r"
+      ],
+      "fr_FR": [
+        "Aurore: Oh! Te voilà!\n",
+        "Viens avec moi, s’il te plaît!\f",
+        "Le professeur nous attend!\r"
       ]
     },
     {
@@ -15,6 +20,11 @@
         "This is it!\n",
         "Our Pokémon Research Lab!\r",
         "Let’s go...\r"
+      ],
+      "fr_FR": [
+        "Nous y voici!\n",
+        "Notre Labo Pokémon!\r",
+        "Allons-y...\r"
       ]
     },
     {
@@ -23,6 +33,11 @@
         "Lucas: Hi! I’ve been waiting for you!\n",
         "Please, come with me.\f",
         "The prof’s waiting to see you.\r"
+      ],
+      "fr_FR": [
+        "Louka: Salut! Je t’attendais!\n",
+        "Suis-moi, s’il te plaît.\f",
+        "Le professeur t’attend.\r"
       ]
     },
     {
@@ -31,11 +46,16 @@
         "See? This is our Pokémon Research\n",
         "Lab.\r",
         "We’ll just go ahead and...\r"
+      ],
+      "fr_FR": [
+        "Tu vois? C’est notre Labo Pokémon.\r",
+        "On va entrer et...\r"
       ]
     },
     {
       "id": "SandgemTown_Text_BigThud",
-      "en_US": "{SIZE 200}Thud!!{SIZE 100}\r"
+      "en_US": "{SIZE 200}Thud!!{SIZE 100}\r",
+      "fr_FR": "{SIZE 200}Boum!!!{SIZE 100}\r"
     },
     {
       "id": "SandgemTown_Text_OhItsYouPlayer",
@@ -46,6 +66,14 @@
         "much as he is totally out there!\r",
         "Aww, it doesn’t matter, {STRVAR_1 3, 1, 0}.\n",
         "I’m out of here. See you later!\r"
+      ],
+      "fr_FR": [
+        "{STRVAR_1 3, 0, 0}: Mais que...\r",
+        "Oh, c’est toi, {STRVAR_1 3, 1, 0}!\r",
+        "Ce vieil homme... Il est encore plus fou\n",
+        "qu’effrayant!\r",
+        "Bah, ce n’est pas grave, {STRVAR_1 3, 1, 0}.\n",
+        "Je m’en vais. A plus!\r"
       ]
     },
     {
@@ -56,6 +84,12 @@
         "impatient.\r",
         "Well, anyway...\n",
         "Let’s go inside.\r"
+      ],
+      "fr_FR": [
+        "Aurore: C’était quoi, ça?\r",
+        "Ton ami a vraiment l’air impatient.\r",
+        "Bon, enfin...\n",
+        "Entrons.\r"
       ]
     },
     {
@@ -66,17 +100,29 @@
         "in such a rush.\r",
         "Anyway...\n",
         "Let’s go in.\r"
+      ],
+      "fr_FR": [
+        "Louka: C’était quoi, ça?!\r",
+        "Ton ami a toujours l’air tellement\n",
+        "pressé.\r",
+        "Peu importe...\n",
+        "Entrons.\r"
       ]
     },
     {
       "id": "SandgemTown_Text_BigPlayer",
-      "en_US": "{SIZE 200}{STRVAR_1 3, 0, 0}!{SIZE 100}\r"
+      "en_US": "{SIZE 200}{STRVAR_1 3, 0, 0}!{SIZE 100}\r",
+      "fr_FR": "{SIZE 200}{STRVAR_1 3, 0, 0}!{SIZE 100}\r"
     },
     {
       "id": "SandgemTown_Text_TakeThisAsWell",
       "en_US": [
         "Rowan: I have something good here.\n",
         "You should take this as well.\r"
+      ],
+      "fr_FR": [
+        "Sorbier: J’ai quelque chose d’utile\n",
+        "pour toi. Prends.\r"
       ]
     },
     {
@@ -95,6 +141,21 @@
         "to use that TM or not.\r",
         "I’ll send you off with the wish that\n",
         "your journey will be fun.\r"
+      ],
+      "fr_FR": [
+        "Sorbier: C’est une Capsule Technique.\n",
+        "Elle contient la capacité Retour.\r",
+        "Les Capsules Techniques, ou CT, te\n",
+        "permettent d’enseigner instantanément\f",
+        "une capacité à un Pokémon.\r",
+        "Cela dit, elles ne sont utilisables\n",
+        "qu’une fois.\r",
+        "L’efficacité de la capacité Retour\n",
+        "est proportionnelle à l’amitié que\f",
+        "ton Pokémon a pour toi.\r",
+        "A toi de décider si tu veux l’utiliser\n",
+        "ou non.\r",
+        "Sur ce, je te souhaite bon voyage.\r"
       ]
     },
     {
@@ -104,6 +165,12 @@
         "I didn’t know the professor had TMs.\r",
         "Was he a Trainer when he was\n",
         "young...?\r"
+      ],
+      "fr_FR": [
+        "Aurore: Waouh! J’ignorais que\n",
+        "le professeur avait des CT.\r",
+        "Etait-il Dresseur quand\n",
+        "il était jeune...?\r"
       ]
     },
     {
@@ -113,6 +180,12 @@
         "The professor had TMs...?\r",
         "Next thing, he’ll tell me he battled\n",
         "when he was young.\r"
+      ],
+      "fr_FR": [
+        "Louka: J’y crois pas...\n",
+        "Le professeur a des CT...?\r",
+        "On en apprend de belles! Si ça se\n",
+        "trouve, il était Dresseur, avant.\r"
       ]
     },
     {
@@ -124,6 +197,14 @@
         "you as a Trainer and as the professor’s\f",
         "assistant.\r",
         "OK, follow me!\r"
+      ],
+      "fr_FR": [
+        "OK, {STRVAR_1 3, 1, 0}, je vais te servir\n",
+        "de mentor.\r",
+        "J’ai un peu plus d’expérience que toi\n",
+        "en tant que Dresseur et assistante\f",
+        "du professeur.\r",
+        "Suis-moi!\r"
       ]
     },
     {
@@ -135,6 +216,14 @@
         "that have been hurt in battle.\r",
         "You can find a Pokémon Center in\n",
         "most towns.\r"
+      ],
+      "fr_FR": [
+        "Ce bâtiment avec le toit rouge est le\n",
+        "Centre Pokémon.\r",
+        "C’est l’endroit où on peut soigner les\n",
+        "Pokémon qui ont été blessés au combat.\r",
+        "Tu peux trouver un Centre Pokémon\n",
+        "dans la plupart des villes.\r"
       ]
     },
     {
@@ -148,6 +237,16 @@
         "Trainer, you won’t be able to buy\f",
         "many kinds of merchandise.\r",
         "Don’t let it bother you!\r"
+      ],
+      "fr_FR": [
+        "Le bâtiment avec le toit bleu que tu\n",
+        "vois ici est la Boutique Pokémon.\r",
+        "C’est un magasin où tu peux acheter et\n",
+        "vendre des objets ainsi que des soins.\r",
+        "{STRVAR_1 3, 0, 0}, puisque tu débutes\n",
+        "comme Dresseur, tu ne pourras acheter\f",
+        "que quelques types de produits.\r",
+        "Ne t’en préoccupe pas!\r"
       ]
     },
     {
@@ -164,6 +263,19 @@
         "Pokémon at the Pokémon Center.\r",
         "It will be a lot less scary that way.\n",
         "OK, bye now!\r"
+      ],
+      "fr_FR": [
+        "Oh, c’est vrai, j’oubliais!\n",
+        "{STRVAR_1 3, 0, 0}...\r",
+        "Il faudrait que tu préviennes ta famille\n",
+        "que tu vas aider le Professeur Sorbier\f",
+        "avec le Pokédex!\r",
+        "Tu vas peut-être devoir partir loin,\n",
+        "alors tu devrais prévenir quelqu’un.\r",
+        "Oh, mais avant de partir, soigne ton\n",
+        "Pokémon au Centre Pokémon.\r",
+        "Ça sera beaucoup moins risqué ainsi.\n",
+        "OK, allez, au revoir!\r"
       ]
     },
     {
@@ -172,6 +284,11 @@
         "Hey, {STRVAR_1 3, 1, 0}!\n",
         "I want to show you a few things.\f",
         "So, follow me!\r"
+      ],
+      "fr_FR": [
+        "Hé, {STRVAR_1 3, 1, 0}!\n",
+        "J’ai quelques trucs à te montrer.\f",
+        "Suis-moi!\r"
       ]
     },
     {
@@ -183,6 +300,14 @@
         "it’s been hurt in battle.\r",
         "You’ll find a Pokémon Center in most\n",
         "towns.\r"
+      ],
+      "fr_FR": [
+        "Ce bâtiment avec le toit rouge est le\n",
+        "Centre Pokémon.\r",
+        "Tu peux y soigner tes Pokémon qui\n",
+        "ont été blessés au combat.\r",
+        "Tu peux trouver un Centre Pokémon\n",
+        "dans la plupart des villes.\r"
       ]
     },
     {
@@ -196,6 +321,16 @@
         "Trainer, you won’t be able to buy\f",
         "very much stuff.\r",
         "Don’t worry about it, OK?\r"
+      ],
+      "fr_FR": [
+        "Par là, le bâtiment avec le toit bleu est\n",
+        "la Boutique Pokémon.\r",
+        "C’est un magasin où tu peux acheter et\n",
+        "vendre toutes sortes d’objets.\r",
+        "{STRVAR_1 3, 0, 0}, puisque tu es un\n",
+        "Dresseur débutant, tu ne peux pas\f",
+        "acheter grand-chose.\r",
+        "Ne t’inquiète pas pour ça, OK?\r"
       ]
     },
     {
@@ -212,6 +347,19 @@
         "Pokémon at the Pokémon Center.\r",
         "You’ll be safe then.\n",
         "OK, be seeing you!\r"
+      ],
+      "fr_FR": [
+        "Oh, oui, j’oubliais!\n",
+        "{STRVAR_1 3, 0, 0}...\r",
+        "Tu devrais prévenir ta famille que tu\n",
+        "vas aider le Professeur Sorbier à\f",
+        "compléter son Pokédex.\r",
+        "Parfois, on doit partir loin, mais il faut\n",
+        "toujours prévenir sa famille.\r",
+        "Oh, mais d’abord, va soigner ton\n",
+        "Pokémon au Centre Pokémon.\r",
+        "C’est plus sûr comme ça.\n",
+        "OK, à plus tard!\r"
       ]
     },
     {
@@ -223,6 +371,14 @@
         "them stronger!\r",
         "I wish I had some!\n",
         "It’s so cool!"
+      ],
+      "fr_FR": [
+        "Oh, waouh!\n",
+        "Les Pokémon sont si cool!\r",
+        "Tu peux faire combattre les tiens et\n",
+        "les rendre plus forts!\r",
+        "J’aimerais tellement en avoir!\n",
+        "Ils sont trop cool!"
       ]
     },
     {
@@ -232,6 +388,12 @@
         "It’s a Pokédex, isn’t it?!\r",
         "You’re off to see all kinds of\n",
         "Pokémon now! Lucky you!"
+      ],
+      "fr_FR": [
+        "Ce truc que tu as là!\r",
+        "C’est un Pokédex, pas vrai?\r",
+        "Tu es en route pour voir toutes sortes\n",
+        "de Pokémon! Quelle chance tu as!"
       ]
     },
     {
@@ -241,6 +403,12 @@
         "till now, I’d better save this...\r",
         "There!\n",
         "Now I can take a break."
+      ],
+      "fr_FR": [
+        "Pour ne pas oublier ce qui s’est passé\n",
+        "jusque-là, je devrais sauvegarder...\r",
+        "Ça y est!\n",
+        "Maintenant, je peux faire une pause."
       ]
     },
     {
@@ -251,6 +419,13 @@
         "he left.\r",
         "They say he was doing his research\n",
         "somewhere else all this time."
+      ],
+      "fr_FR": [
+        "Le Professeur Sorbier est de retour!\r",
+        "Ça doit faire plusieurs années qu’il\n",
+        "est parti.\r",
+        "On dit qu’il conduisait ses recherches\n",
+        "ailleurs pendant tout ce temps."
       ]
     },
     {
@@ -258,21 +433,31 @@
       "en_US": [
         "Sandgem Town\n",
         "Town of Sand!"
+      ],
+      "fr_FR": [
+        "Littorella\n",
+        "Ville du sable"
       ]
     },
     {
       "id": "SandgemTown_Text_SignPokemonResearchLab",
-      "en_US": "Pokémon Research Lab"
+      "en_US": "Pokémon Research Lab",
+      "fr_FR": "Labo Pokémon"
     },
     {
       "id": "SandgemTown_Text_SignCounterpartsHouse",
-      "en_US": "{STRVAR_1 3, 0, 0}’s House"
+      "en_US": "{STRVAR_1 3, 0, 0}’s House",
+      "fr_FR": "Chez {STRVAR_1 3, 0, 0}"
     },
     {
       "id": "SandgemTown_Text_SignPokeMart",
       "en_US": [
         "All Your Item Needs Fulfilled!\n",
         "Pokémon Mart"
+      ],
+      "fr_FR": [
+        "Boutique Pokémon\n",
+        "Faites le plein d’objets!"
       ]
     },
     {
@@ -280,6 +465,10 @@
       "en_US": [
         "Heal Your Pokémon!\n",
         "Pokémon Center"
+      ],
+      "fr_FR": [
+        "Centre Pokémon\n",
+        "Soignez vos Pokémon!"
       ]
     }
   ]

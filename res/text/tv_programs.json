@@ -7,6 +7,11 @@
         "MC: Good morning!\n",
         "Is everyone raising Pokémon?\r",
         "It’s time for the Battling Trainers!\r"
+      ],
+      "fr_FR": [
+        "Animateur: Bonjour!\n",
+        "Tout le monde élève des Pokémon?\r",
+        "C’est l’heure de Dresseurs en Action!\r"
       ]
     },
     {
@@ -15,6 +20,11 @@
         "MC: Good day!\n",
         "Is everyone raising Pokémon?\r",
         "It’s time for the Battling Trainers!\r"
+      ],
+      "fr_FR": [
+        "Animateur: Bonjour!\n",
+        "Tout le monde élève des Pokémon?\r",
+        "C’est l’heure de Dresseurs en Action!\r"
       ]
     },
     {
@@ -23,6 +33,11 @@
         "MC: Good evening!\n",
         "Is everyone raising Pokémon?\r",
         "It’s time for the Battling Trainers!\r"
+      ],
+      "fr_FR": [
+        "Animateur: Bonsoir!\n",
+        "Tout le monde élève des Pokémon?\r",
+        "C’est l’heure de Dresseurs en Action!\r"
       ]
     },
     {
@@ -30,6 +45,10 @@
       "en_US": [
         "OK, let’s get with it and check in\n",
         "on our Trainers!\r"
+      ],
+      "fr_FR": [
+        "OK, allons jeter un œil sur nos\n",
+        "Dresseurs!\r"
       ]
     },
     {
@@ -37,6 +56,11 @@
       "en_US": [
         "MC: All righty!\n",
         "What’s next on Battling Trainers?\r"
+      ],
+      "fr_FR": [
+        "Animateur: Très bien!\n",
+        "Que nous réserve la suite de\f",
+        "Dresseurs en Action?\r"
       ]
     },
     {
@@ -46,6 +70,13 @@
         "showing of Battling Trainers.\r",
         "Until the next broadcast...\n",
         "Good-bye, and good battling!"
+      ],
+      "fr_FR": [
+        "Animateur: J’espère que vous \n",
+        "avez apprécié ce numéro de\f",
+        "Dresseurs en Action.\r",
+        "En attendant le prochain...\n",
+        "Au revoir et... combattez bien!"
       ]
     },
     {
@@ -59,6 +90,16 @@
         "you, Trainers!\r",
         "That’s all the time we have today!\n",
         "Good-bye, and good battling!"
+      ],
+      "fr_FR": [
+        "Animateur: Dans Dresseurs en Action,\n",
+        "nous cherchons toujours la nouveauté.\r",
+        "Nos journalistes sont dispersés dans\n",
+        "tout Sinnoh.\r",
+        "Nous espérons vous revoir très\n",
+        "bientôt, Dresseurs!\r",
+        "C’est tout pour aujourd’hui!\n",
+        "Au revoir et... combattez bien!"
       ]
     },
     {
@@ -68,6 +109,13 @@
         "It’s time for Trainer Research.\r",
         "We examine the latest Pokémon trends\n",
         "by going directly to the Trainers.\r"
+      ],
+      "fr_FR": [
+        "Animateur: Bonjour.\n",
+        "C’est l’heure de Recherche Dresseur.\r",
+        "Nous étudions les dernières modes\n",
+        "Pokémon en nous adressant\f",
+        "directement aux Dresseurs.\r"
       ]
     },
     {
@@ -77,6 +125,13 @@
         "It’s time for Trainer Research.\r",
         "We examine the latest Pokémon trends\n",
         "by going directly to the Trainers.\r"
+      ],
+      "fr_FR": [
+        "Animateur: Bonjour.\n",
+        "C’est l’heure de Recherche Dresseur.\r",
+        "Nous étudions les dernières modes\n",
+        "Pokémon en nous adressant\f",
+        "directement aux Dresseurs.\r"
       ]
     },
     {
@@ -86,6 +141,13 @@
         "It’s time for Trainer Research.\r",
         "We examine the latest Pokémon trends\n",
         "by going directly to the Trainers.\r"
+      ],
+      "fr_FR": [
+        "Animateur: Bonsoir.\n",
+        "C’est l’heure de Recherche Dresseur.\r",
+        "Nous étudions les dernières modes\n",
+        "Pokémon en nous adressant\f",
+        "directement aux Dresseurs.\r"
       ]
     },
     {
@@ -93,6 +155,10 @@
       "en_US": [
         "OK, let’s take a look at the first\n",
         "piece of research we conducted.\r"
+      ],
+      "fr_FR": [
+        "OK, jetons un œil à la première étude\n",
+        "que nous avons menée.\r"
       ]
     },
     {
@@ -100,6 +166,10 @@
       "en_US": [
         "MC: Next up is this piece of\n",
         "research.\r"
+      ],
+      "fr_FR": [
+        "Animateur: En avant pour l’étude\n",
+        "suivante.\r"
       ]
     },
     {
@@ -111,6 +181,15 @@
         "of our research next time.\r",
         "That’s it for this show today.\n",
         "Farewell!"
+      ],
+      "fr_FR": [
+        "Animateur: Nous espérons que vous \n",
+        "avez apprécié ce numéro de\f",
+        "Recherche Dresseur.\r",
+        "Qui sait, vous serez peut-être notre\n",
+        "sujet la prochaine fois!\r",
+        "C’est tout pour aujourd’hui.\n",
+        "Au revoir!"
       ]
     },
     {
@@ -123,6 +202,15 @@
         "please stop by to say hello and grant\f",
         "us an interview.\r",
         "That’s all today. Farewell."
+      ],
+      "fr_FR": [
+        "Animateur: A Recherche Dresseur, nous\n",
+        "sommes toujours à la recherche de\f",
+        "Dresseurs à interviewer pour l’émission.\r",
+        "Si vous repérez un journaliste,\n",
+        "n’hésitez pas à vous arrêter pour dire\f",
+        "bonjour et lui accorder une interview.\r",
+        "C’est tout pour aujourd’hui, au revoir."
       ]
     },
     {
@@ -134,6 +222,14 @@
         "It’s time for Pokémon Battle Watch,\n",
         "where we do in-depth analyses of\f",
         "hot-blooded battling Trainers!\r"
+      ],
+      "fr_FR": [
+        "Animateur: Combat! Pokémon! En Direct!\r",
+        "Bonjour!\n",
+        "Ça marche bien, les combats?\r",
+        "C’est l’heure de Combat Pokémon en\n",
+        "Direct, où nous analysons en détail les\f",
+        "Dresseurs en plein combat!\r"
       ]
     },
     {
@@ -145,6 +241,14 @@
         "It’s time for Pokémon Battle Watch,\n",
         "where we do in-depth analyses of\f",
         "hot-blooded battling Trainers!\r"
+      ],
+      "fr_FR": [
+        "Animateur: Combat! Pokémon! En Direct!\r",
+        "Bonjour!\n",
+        "Ça marche bien, les combats?\r",
+        "C’est l’heure de Combat Pokémon en\n",
+        "Direct, où nous analysons en détail les\f",
+        "Dresseurs en plein combat!\r"
       ]
     },
     {
@@ -156,6 +260,14 @@
         "It’s time for Pokémon Battle Watch,\n",
         "where we do in-depth analyses of\f",
         "hot-blooded battling Trainers!\r"
+      ],
+      "fr_FR": [
+        "Animateur: Combat! Pokémon! En Direct!\r",
+        "Bonsoir!\n",
+        "Ça marche bien, les combats?\r",
+        "C’est l’heure de Combat Pokémon en\n",
+        "Direct, où nous analysons en détail les\f",
+        "Dresseurs en plein combat!\r"
       ]
     },
     {
@@ -163,13 +275,21 @@
       "en_US": [
         "Let’s get on with the show!\n",
         "Battle! Watch!\r"
-       ]
+      ],
+      "fr_FR": [
+        "Commençons notre émission!\n",
+        "Combat Pokémon en Direct!\r"
+      ]
     },
     {
       "id": "TVBroadcast_Text_BattleWatch_NextSegment",
       "en_US": [
         "MC: Let’s move to the next segment!\n",
         "Battle! Watch!\r"
+      ],
+      "fr_FR": [
+        "Animateur: Passons à la suite!\n",
+        "Combat Pokémon en Direct!\r"
       ]
     },
     {
@@ -179,6 +299,12 @@
         "of time!\r",
         "Let’s meet again here!\n",
         "Battle! Watch!"
+      ],
+      "fr_FR": [
+        "Animateur: Oups, on dirait que nous\n",
+        "n’avons plus le temps!\r",
+        "A très bientôt pour notre programme:\n",
+        "Combat Pokémon en Direct!"
       ]
     },
     {
@@ -194,6 +320,19 @@
         "about your friends, too.\r",
         "Let’s meet again here!\n",
         "Battle! Watch!"
+      ],
+      "fr_FR": [
+        "Animateur: Combat Pokémon en Direct a\n",
+        "besoin de votre aide!\r",
+        "Nous cherchons des infos sur tous vos\n",
+        "combats Pokémon.\r",
+        "Nous aimerions que vous fassiez des\n",
+        "échanges de données avec vos amis\f",
+        "dans la Salle Union.\r",
+        "Ainsi, nous aurions aussi des infos sur\n",
+        "les combats de vos amis.\r",
+        "A très bientôt pour notre programme:\n",
+        "Combat Pokémon en Direct!"
       ]
     },
     {
@@ -204,6 +343,13 @@
         "the daily lives of Trainers.\r",
         "We cover a variety of topics that\n",
         "affect and concern Trainers.\r"
+      ],
+      "fr_FR": [
+        "Animateur: Quotidien Dresseur!\r",
+        "Ce programme pose un regard unique sur\n",
+        "la vie quotidienne d’un Dresseur.\r",
+        "Nous couvrons toutes sortes de sujets\n",
+        "touchant à l’univers des Dresseurs.\r"
       ]
     },
     {
@@ -214,6 +360,13 @@
         "the daily lives of Trainers.\r",
         "We cover a variety of topics that\n",
         "affect and concern Trainers.\r"
+      ],
+      "fr_FR": [
+        "Animateur: Quotidien Dresseur!\r",
+        "Ce programme pose un regard unique sur\n",
+        "la vie quotidienne d’un Dresseur.\r",
+        "Nous couvrons toutes sortes de sujets\n",
+        "touchant et concernant les Dresseurs.\r"
       ]
     },
     {
@@ -224,6 +377,13 @@
         "the daily lives of Trainers.\r",
         "We cover a variety of topics that\n",
         "affect and concern Trainers.\r"
+      ],
+      "fr_FR": [
+        "Animateur: Quotidien Dresseur!\r",
+        "Ce programme pose un regard unique sur\n",
+        "la vie quotidienne d’un Dresseur.\r",
+        "Nous couvrons toutes sortes de sujets\n",
+        "touchant et concernant les Dresseurs.\r"
       ]
     },
     {
@@ -231,6 +391,10 @@
       "en_US": [
         "Let’s examine one aspect of\n",
         "a Trainer’s day.\r"
+      ],
+      "fr_FR": [
+        "Examinons un aspect du quotidien d’un\n",
+        "Dresseur.\r"
       ]
     },
     {
@@ -238,6 +402,10 @@
       "en_US": [
         "MC: Let’s take a look at a Trainer’s\n",
         "day from another perspective.\r"
+      ],
+      "fr_FR": [
+        "Animateur: Examinons le quotidien d’un\n",
+        "Dresseur sous un autre angle.\r"
       ]
     },
     {
@@ -252,6 +420,17 @@
         "We’ll keep bringing you more looks\n",
         "into the days of Trainers.\r",
         "Good-bye, but just for now!"
+      ],
+      "fr_FR": [
+        "Animateur: Nous arrivons à la fin de ce\n",
+        "numéro de Quotidien Dresseur.\r",
+        "Nous espérons que vous l’avez trouvé\n",
+        "instructif et divertissant.\r",
+        "Même dans un quotidien très ordinaire,\n",
+        "il y a toujours un peu de tragédie.\r",
+        "Nous continuerons à vous montrer le\n",
+        "quotidien des Dresseurs.\r",
+        "Au revoir, et à très bientôt!"
       ]
     },
     {
@@ -265,6 +444,18 @@
         "routines of your friends, too.\r",
         "Please tune in again next time.\n",
         "Good-bye, but just for now!"
+      ],
+      "fr_FR": [
+        "Animateur: Nous avons toujours \n",
+        "besoin d’infos sur les Dresseurs\f",
+        "pour nos programmes.\r",
+        "Pensez aussi à faire des échanges de\n",
+        "données avec vos amis dans la\f",
+        "Salle Union.\r",
+        "Cela nous permettra de voir également\n",
+        "le quotidien de vos amis.\r",
+        "Ne manquez pas notre prochain numéro!\n",
+        "Au revoir, et à très bientôt!"
       ]
     },
     {
@@ -273,6 +464,11 @@
         "MC: Sinnoh News Net.\r",
         "Good morning.\n",
         "This is Sinnoh News Net.\r"
+      ],
+      "fr_FR": [
+        "Animateur: Infos Sinnoh.\r",
+        "Bonjour.\n",
+        "Bienvenue sur Infos Sinnoh.\r"
       ]
     },
     {
@@ -281,6 +477,11 @@
         "MC: Sinnoh News Net.\r",
         "Hello.\n",
         "This is Sinnoh News Net.\r"
+      ],
+      "fr_FR": [
+        "Animateur: Infos Sinnoh.\r",
+        "Bonjour.\n",
+        "Bienvenue sur Infos Sinnoh.\r"
       ]
     },
     {
@@ -289,21 +490,32 @@
         "MC: Sinnoh News Net.\r",
         "Good evening.\n",
         "This is Sinnoh News Net.\r"
+      ],
+      "fr_FR": [
+        "Animateur: Infos Sinnoh.\r",
+        "Bonsoir.\n",
+        "Bienvenue sur Infos Sinnoh.\r"
       ]
     },
     {
       "id": "TVBroadcast_Text_SinnohNewsNet_LeadSegment",
-      "en_US": "This is today’s lead story.\r"
+      "en_US": "This is today’s lead story.\r",
+      "fr_FR": "Voici la une d’aujourd’hui.\r"
     },
     {
       "id": "TVBroadcast_Text_SinnohNewsNet_NextSegment",
-      "en_US": "We now bring you this news story.\r"
+      "en_US": "We now bring you this news story.\r",
+      "fr_FR": "Et maintenant, un autre sujet.\r"
     },
     {
       "id": "TVBroadcast_Text_SinnohNewsNet_Farewell",
       "en_US": [
         "MC: That’s all the news today.\n",
         "Thank you for watching."
+      ],
+      "fr_FR": [
+        "Animateur: C’est tout pour aujourd’hui.\n",
+        "Merci de votre attention."
       ]
     },
     {
@@ -318,6 +530,18 @@
         "Please join us for the next showing\n",
         "of the Sinnoh News Net.\r",
         "Thank you for watching."
+      ],
+      "fr_FR": [
+        "Animateur: Infos Sinnoh envoie ses\n",
+        "équipes dans tout Sinnoh à la\f",
+        "recherche d’infos.\r",
+        "Aidez-nous dans nos efforts en faisant\n",
+        "des échanges de données en Salle Union.\r",
+        "Ainsi nous obtiendrons aussi \n",
+        "des infos sur vos amis.\r",
+        "Ne manquez pas notre prochain \n",
+        "journal d’Infos Sinnoh.\r",
+        "Merci de votre attention."
       ]
     },
     {
@@ -328,6 +552,12 @@
         "Records!\r",
         "Like always, we look at a variety\n",
         "of cool records set by Trainers.\r"
+      ],
+      "fr_FR": [
+        "Animateur: Bonjour!\r",
+        "C’est l’heure d’A nous les Records!\r",
+        "Comme toujours, nous vous présentons\n",
+        "un record établi par un Dresseur.\r"
       ]
     },
     {
@@ -338,6 +568,12 @@
         "Records!\r",
         "Like always, we look at a variety\n",
         "of cool records set by Trainers.\r"
+      ],
+      "fr_FR": [
+        "Animateur: Bonjour!\r",
+        "C’est l’heure d’A nous les Records!\r",
+        "Comme toujours, nous vous présentons\n",
+        "un record établi par un Dresseur.\r"
       ]
     },
     {
@@ -348,6 +584,12 @@
         "Records!\r",
         "Like always, we look at a variety\n",
         "of cool records set by Trainers.\r"
+      ],
+      "fr_FR": [
+        "Animateur: Bonsoir!\r",
+        "C’est l’heure d’A nous les Records!\r",
+        "Comme toujours, nous vous présentons\n",
+        "un record établi par un Dresseur.\r"
       ]
     },
     {
@@ -357,6 +599,12 @@
         "Serge and Tanya take over.\r",
         "Here’s hoping they have some\n",
         "interesting records to cover!\r"
+      ],
+      "fr_FR": [
+        "Très bien, rejoignons nos experts,\n",
+        "Serge et Lola.\r",
+        "Espérons qu’ils auront des records\n",
+        "intéressants à nous présenter!\r"
       ]
     },
     {
@@ -364,6 +612,10 @@
       "en_US": [
         "MC: Let’s have our experts examine\n",
         "another eyebrow-raising record!\r"
+      ],
+      "fr_FR": [
+        "Animateur: Laissons nos experts\n",
+        "examiner un autre étonnant record!\r"
       ]
     },
     {
@@ -373,6 +625,12 @@
         "Rack ’Em Up Records as we did.\r",
         "That’s all for today!\n",
         "Bye-bye!"
+      ],
+      "fr_FR": [
+        "Animateur: Nous espérons que ce numéro\n",
+        "d’A nous les Records vous a plu.\r",
+        "C’est tout pour aujourd’hui!\n",
+        "Au revoir!"
       ]
     },
     {
@@ -390,6 +648,22 @@
         "moments of you, our loyal viewers!\r",
         "That’s all for today!\n",
         "Bye-bye!"
+      ],
+      "fr_FR": [
+        "Animateur: A nous les Records a \n",
+        "besoin de vous!\r",
+        "N’hésitez pas à venir nous informer des\n",
+        "nouveaux records que vous établissez.\r",
+        "N’oubliez pas non plus de faire des\n",
+        "échanges de données avec vos amis\f",
+        "en Salle Union.\r",
+        "Ainsi nous obtiendrons aussi \n",
+        "les records de vos amis.\r",
+        "Nous ne souhaitons qu’une \n",
+        "chose, présenter les records\f",
+        "de nos chers téléspectateurs!\r",
+        "C’est tout pour aujourd’hui!\n",
+        "Au revoir!"
       ]
     },
     {
@@ -400,6 +674,14 @@
         "The one you’ve all been waiting for!\r",
         "It’s time for Sinnoh Now, your portal\n",
         "to what’s hip and happening in Sinnoh!\r"
+      ],
+      "fr_FR": [
+        "Animateur: Tendances Sinnoh!\r",
+        "Ça y est! Le moment que nous\n",
+        "attendions tous est arrivé!\r",
+        "C’est l’heure de Tendances Sinnoh, le\n",
+        "magazine des tendances et des\f",
+        "événements de Sinnoh!\r"
       ]
     },
     {
@@ -410,6 +692,14 @@
         "The one you’ve all been waiting for!\r",
         "It’s time for Sinnoh Now, your portal\n",
         "to what’s hip and happening in Sinnoh!\r"
+      ],
+      "fr_FR": [
+        "Animateur: Tendances Sinnoh!\r",
+        "Ça y est! Le moment que nous\n",
+        "attendions tous est arrivé!\r",
+        "C’est l’heure de Tendances Sinnoh, le\n",
+        "magazine des tendances et des\f",
+        "événements de Sinnoh!\r"
       ]
     },
     {
@@ -420,6 +710,14 @@
         "The one you’ve all been waiting for!\r",
         "It’s time for Sinnoh Now, your portal\n",
         "to what’s hip and happening in Sinnoh!\r"
+      ],
+      "fr_FR": [
+        "Animateur: Tendances Sinnoh!\r",
+        "Ça y est! Le moment que nous\n",
+        "attendions tous est arrivé!\r",
+        "C’est l’heure de Tendances Sinnoh, le\n",
+        "magazine des tendances et des\f",
+        "événements de Sinnoh!\r"
       ]
     },
     {
@@ -427,6 +725,10 @@
       "en_US": [
         "Here’s the first story on the cutting\n",
         "edge of Sinnoh trends!\r"
+      ],
+      "fr_FR": [
+        "Voici notre premier sujet super\n",
+        "tendance à Sinnoh!\r"
       ]
     },
     {
@@ -434,6 +736,10 @@
       "en_US": [
         "MC: Here’s another story on the\n",
         "cutting edge!\r"
+      ],
+      "fr_FR": [
+        "Animateur: Voici un autre sujet\n",
+        "tendance!\r"
       ]
     },
     {
@@ -444,6 +750,13 @@
         "You can always count on us to keep\n",
         "bringing you the information you want!\r",
         "See you again!"
+      ],
+      "fr_FR": [
+        "Animateur: Cette édition de Tendances\n",
+        "Sinnoh vous a plu?\r",
+        "Vous pouvez compter sur nous pour vous\n",
+        "donner les infos que vous souhaitez!\r",
+        "A très bientôt!"
       ]
     },
     {
@@ -454,6 +767,14 @@
         "We promise to do our best to keep\n",
         "you informed with the news you want!\r",
         "See you again!"
+      ],
+      "fr_FR": [
+        "Animateur: Tendances Sinnoh \n",
+        "s’efforce de vous présenter\f",
+        "les dernières tendances.\r",
+        "Vous pouvez compter sur nous pour vous\n",
+        "donner les infos que vous souhaitez!\r",
+        "A très bientôt!"
       ]
     },
     {
@@ -464,6 +785,13 @@
         "be on the cutting edge of fashion!\r",
         "You guessed it!\n",
         "It’s the Trend Tracker Show!\r"
+      ],
+      "fr_FR": [
+        "Animateur: Bonjour!\r",
+        "Regardez notre programme et vous\n",
+        "serez toujours à la pointe de la mode!\r",
+        "Vous l’avez compris...\n",
+        "C’est l’heure de Chasseur de Tendance!\r"
       ]
     },
     {
@@ -474,6 +802,13 @@
         "be on the cutting edge of fashion!\r",
         "You guessed it!\n",
         "It’s the Trend Tracker Show!\r"
+      ],
+      "fr_FR": [
+        "Animateur: Bonjour!\r",
+        "Regardez notre programme et vous\n",
+        "serez toujours à la pointe de la mode!\r",
+        "Vous l’avez compris...\n",
+        "C’est l’heure de Chasseur de Tendance!\r"
       ]
     },
     {
@@ -484,6 +819,13 @@
         "be on the cutting edge of fashion!\r",
         "You guessed it!\n",
         "It’s the Trend Tracker Show!\r"
+      ],
+      "fr_FR": [
+        "Animateur: Bonsoir!\r",
+        "Regardez notre programme et vous\n",
+        "serez toujours à la pointe de la mode!\r",
+        "Vous l’avez compris...\n",
+        "C’est l’heure de Chasseur de Tendance!\r"
       ]
     },
     {
@@ -491,6 +833,10 @@
       "en_US": [
         "Let’s go to our latest trendy news\n",
         "story. Take it away!\r"
+      ],
+      "fr_FR": [
+        "Ecoutons les infos sur la dernière\n",
+        "tendance. Suivez-la!\r"
       ]
     },
     {
@@ -498,6 +844,10 @@
       "en_US": [
         "Don’t go away, we have another\n",
         "trendy news story next!\r"
+      ],
+      "fr_FR": [
+        "Ne zappez pas, encore plus d’infos\n",
+        "tendance tout de suite!\r"
       ]
     },
     {
@@ -508,6 +858,12 @@
         "Please tune in on our next\n",
         "broadcast!\r",
         "Over and out!"
+      ],
+      "fr_FR": [
+        "Animateur: Nous espérons que vous avez\n",
+        "apprécié ce Chasseur de Tendance.\r",
+        "Ne manquez pas la prochaine émission!\r",
+        "A vous les studios!"
       ]
     },
     {
@@ -520,6 +876,14 @@
         "Please tune in on our next\n",
         "broadcast!\r",
         "Over and out!"
+      ],
+      "fr_FR": [
+        "Animateur: Nous espérons que vous avez\n",
+        "apprécié ce Chasseur de Tendance.\r",
+        "Nous continuerons à vous signaler ce\n",
+        "qui est à la mode et ce qui est ringard!\r",
+        "Ne manquez pas la prochaine émission!\r",
+        "A vous les studios!"
       ]
     },
     {
@@ -530,6 +894,13 @@
         "The Pokémon Variety Hour’s here!\r",
         "Let’s spend an exciting, dreamy time\n",
         "together!\r"
+      ],
+      "fr_FR": [
+        "Animateur: Bonjour tout le monde!\n",
+        "Prêts à mettre le FEU... FOREVE?\f",
+        "C’est l’heure d’Horizon Pokémon!\r",
+        "Je vous souhaite de passer un bon\n",
+        "moment avec notre programme!\r"
       ]
     },
     {
@@ -540,6 +911,13 @@
         "The Pokémon Variety Hour’s here!\r",
         "Let’s spend an exciting, dreamy time\n",
         "together!\r"
+      ],
+      "fr_FR": [
+        "Animateur: Bonjour tout le monde!\n",
+        "Prêts pour le départ... CANIN?\f",
+        "C’est l’heure d’Horizon Pokémon!\r",
+        "Je vous souhaite de passer un bon\n",
+        "moment avec notre programme!\r"
       ]
     },
     {
@@ -550,6 +928,13 @@
         "The Pokémon Variety Hour’s here!\r",
         "Let’s spend an exciting, dreamy time\n",
         "together!\r"
+      ],
+      "fr_FR": [
+        "Animateur: Bonjour tout le monde!\n",
+        "Oubliez vos chagrins... SECATEUR!\f",
+        "C’est l’heure d’Horizon Pokémon!\r",
+        "Je vous souhaite de passer un bon\n",
+        "moment avec notre programme!\r"
       ]
     },
     {
@@ -558,6 +943,11 @@
         "So, what do our hosts have in store\n",
         "for you today?\r",
         "Let’s get to it and see!\r"
+      ],
+      "fr_FR": [
+        "Bien, qu’allons-nous vous proposer\n",
+        "aujourd’hui?\r",
+        "La réponse en images!\r"
       ]
     },
     {
@@ -565,6 +955,10 @@
       "en_US": [
         "MC: No time to waste!\n",
         "Here’s the next show!\r"
+      ],
+      "fr_FR": [
+        "Animateur: Sans transition, voici\n",
+        "la séquence suivante!\r"
       ]
     },
     {
@@ -574,6 +968,13 @@
         "the Pokémon Variety Hour!\r",
         "See you again!\n",
         "Can you DIGLETT?"
+      ],
+      "fr_FR": [
+        "Animateur: OK, tout le monde! J’espère\n",
+        "que le programme d’Horizon Pokémon\f",
+        "vous a plu!\r",
+        "A la prochaine fois!\n",
+        "Bonne fin de journée... NUPIOT!"
       ]
     },
     {
@@ -585,6 +986,14 @@
         "as often as you can!\r",
         "See you LATIAS, amigos!\n",
         "Keep it mellow like SWELLOW!"
+      ],
+      "fr_FR": [
+        "Animateur: Horizon Pokémon vous\n",
+        "offre le meilleur des émissions\f",
+        "consacrées aux Pokémon!\r",
+        "Regardez nos programmes... OLOSS!\n",
+        "Vous serez ravis... GOROTH!\f",
+        "Allez, à bientôt... GEPI!"
       ]
     }
   ]

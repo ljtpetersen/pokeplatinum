@@ -7,7 +7,10 @@
         "special_attack": 35,
         "special_defense": 35
     },
-    "types": [ "TYPE_ELECTRIC", "TYPE_ELECTRIC" ],
+    "types": [
+        "TYPE_ELECTRIC",
+        "TYPE_ELECTRIC"
+    ],
     "catch_rate": 190,
     "base_exp_reward": 42,
     "ev_yields": {
@@ -26,20 +29,44 @@
     "hatch_cycles": 10,
     "base_friendship": 70,
     "exp_rate": "EXP_RATE_MEDIUM_FAST",
-    "egg_groups": [ "EGG_GROUP_UNDISCOVERED", "EGG_GROUP_UNDISCOVERED" ],
-    "abilities": [ "ABILITY_STATIC", "ABILITY_NONE" ],
+    "egg_groups": [
+        "EGG_GROUP_UNDISCOVERED",
+        "EGG_GROUP_UNDISCOVERED"
+    ],
+    "abilities": [
+        "ABILITY_STATIC",
+        "ABILITY_NONE"
+    ],
     "safari_flee_rate": 0,
     "body_color": "MON_COLOR_YELLOW",
     "flip_sprite": false,
     "icon_palette": 0,
     "learnset": {
         "by_level": [
-            [ 1, "MOVE_THUNDER_SHOCK" ],
-            [ 1, "MOVE_CHARM" ],
-            [ 5, "MOVE_TAIL_WHIP" ],
-            [ 10, "MOVE_THUNDER_WAVE" ],
-            [ 13, "MOVE_SWEET_KISS" ],
-            [ 18, "MOVE_NASTY_PLOT" ]
+            [
+                1,
+                "MOVE_THUNDER_SHOCK"
+            ],
+            [
+                1,
+                "MOVE_CHARM"
+            ],
+            [
+                5,
+                "MOVE_TAIL_WHIP"
+            ],
+            [
+                10,
+                "MOVE_THUNDER_WAVE"
+            ],
+            [
+                13,
+                "MOVE_SWEET_KISS"
+            ],
+            [
+                18,
+                "MOVE_NASTY_PLOT"
+            ]
         ],
         "by_tm": [
             "TM06",
@@ -94,7 +121,10 @@
         ]
     },
     "evolutions": [
-        [ "EVO_LEVEL_HAPPINESS", "SPECIES_PIKACHU" ]
+        [
+            "EVO_LEVEL_HAPPINESS",
+            "SPECIES_PIKACHU"
+        ]
     ],
     "offspring": "SPECIES_PICHU",
     "footprint": {
@@ -118,9 +148,9 @@
             "name": "PICHU",
             "category": "Tiny Mouse Pokémon",
             "entry_text": [
-                "The electric sacs in its cheeks are\n",
-                "small. If even a little electricity\n",
-                "leaks, it becomes shocked."
+                "The electric pouches on its cheeks\n",
+                "are still small. They cannot store\n",
+                "much electricity yet."
             ]
         },
         "fr": {
@@ -166,6 +196,18 @@
                 "ほっぺたの　でんきぶくろが\n",
                 "まだ　ちいさいので\n",
                 "でんきを　たくさん　ためられない。"
+            ]
+        },
+        "local_version": {
+            "entry_text": [
+                "The electric sacs in its cheeks are\n",
+                "small. If even a little electricity\n",
+                "leaks, it becomes shocked."
+            ],
+            "entry_text_fr": [
+                "Les poches électriques de ses\n",
+                "joues sont encore petites, mais\n",
+                "risquent de l’électrocuter."
             ]
         }
     },

@@ -105,13 +105,18 @@
             "en_US": [
                 "I’m on a diet...\n",
                 "I’m so famished..."
-            ]
+            ],
+            "fr_FR": "Mince, je meurs de faim..."
         },
         {
             "type": "TRMSG_WIN",
             "en_US": [
                 "I’m happy, but if I get excited, I’ll get\n",
                 "hungry. No thanks...\r"
+            ],
+            "fr_FR": [
+                "Je suis ravie, mais le bonheur, ça donne\n",
+                "faim. Je ne peux pas me le permettre!\r"
             ]
         },
         {
@@ -119,7 +124,12 @@
             "en_US": [
                 "Oh...\n",
                 "Your Pokémon look delicious...\r"
+            ],
+            "fr_FR": [
+                "Oh...\n",
+                "Ce Pokémon a l’air délicieux...\r"
             ]
         }
-    ]
+    ],
+    "name_fr": "Eugénie"
 }

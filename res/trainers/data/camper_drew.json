@@ -55,6 +55,10 @@
             "en_US": [
                 "I’ve been to all sorts of places.\n",
                 "That means I know tons of things!\r"
+            ],
+            "fr_FR": [
+                "J’ai visité toutes sortes d’endroits.\n",
+                "Ça signifie que je sais plein de choses!\r"
             ]
         },
         {
@@ -62,6 +66,10 @@
             "en_US": [
                 "Yeah, whatever.\n",
                 "You can battle, too...\n"
+            ],
+            "fr_FR": [
+                "Ouais, peu importe.\n",
+                "Tu sais te battre, toi...\n"
             ]
         },
         {
@@ -69,7 +77,12 @@
             "en_US": [
                 "I’m gonna visit new places and find\n",
                 "new Pokémon so I’ll be a know-it-all!\n"
+            ],
+            "fr_FR": [
+                "Je vais visiter de nouveaux endroits et\n",
+                "trouver des Pokémon pour me cultiver!"
             ]
         }
-    ]
+    ],
+    "name_fr": "Omar"
 }

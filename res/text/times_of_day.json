@@ -3,23 +3,28 @@
   "messages": [
     {
       "id": "pl_msg_00000608_00000",
-      "en_US": "MORNING"
+      "en_US": "MORNING",
+      "fr_FR": "matin"
     },
     {
       "id": "pl_msg_00000608_00001",
-      "en_US": "DAY"
+      "en_US": "DAY",
+      "fr_FR": "jour"
     },
     {
       "id": "pl_msg_00000608_00002",
-      "en_US": "EVENING"
+      "en_US": "EVENING",
+      "fr_FR": "soir"
     },
     {
       "id": "pl_msg_00000608_00003",
-      "en_US": "NIGHT"
+      "en_US": "NIGHT",
+      "fr_FR": "nuit"
     },
     {
       "id": "pl_msg_00000608_00004",
-      "en_US": "LATE NIGHT"
+      "en_US": "LATE NIGHT",
+      "fr_FR": "pleine nuit"
     }
   ]
 }

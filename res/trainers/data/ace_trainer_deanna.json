@@ -44,6 +44,10 @@
             "en_US": [
                 "Worthy opponents... The search for\n",
                 "them drives me to travel far.\r"
+            ],
+            "fr_FR": [
+                "La recherche d’adversaires valables\n",
+                "me pousse à beaucoup voyager.\r"
             ]
         },
         {
@@ -51,6 +55,10 @@
             "en_US": [
                 "I’ve certainly found a tough\n",
                 "adversary in you...\n"
+            ],
+            "fr_FR": [
+                "Tu es certainement un adversaire\n",
+                "digne de moi...\n"
             ]
         },
         {
@@ -60,6 +68,11 @@
                 "Pokémon...\r",
                 "That’s a critical factor in how a\n",
                 "battle will turn out.\n"
+            ],
+            "fr_FR": [
+                "La confiance du Dresseur en ses\n",
+                "Pokémon...\r",
+                "Ça compte énormément."
             ]
         },
         {
@@ -69,7 +82,14 @@
                 "we met, but they were all weak...\r",
                 "I relish the tough resistance that\n",
                 "only you can provide!\r"
+            ],
+            "fr_FR": [
+                "Nous avons affronté beaucoup de\n",
+                "Dresseurs depuis notre dernier combat.\r",
+                "Mais aucun ne t’arrivait à la\n",
+                "cheville!\r"
             ]
         }
-    ]
+    ],
+    "name_fr": "Gaëlle"
 }

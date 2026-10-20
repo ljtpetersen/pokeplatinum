@@ -26,5 +26,13 @@
     "contest": {
         "effect": "CONTEST_EFFECT_ALL_SAME_JUDGE",
         "type": "CONTEST_TYPE_TOUGH"
-    }
+    },
+    "name_fr": "Abîme",
+    "description_fr": [
+        "Le lanceur fait tomber\n",
+        "l’ennemi dans une\n",
+        "crevasse. Si cette\n",
+        "attaque touche, elle\n",
+        "met K.O. sur le coup."
+    ]
 }

@@ -3,395 +3,493 @@
   "messages": [
     {
       "id": "pl_msg_00000328_00000",
-      "en_US": "Review"
+      "en_US": "Review",
+      "fr_FR": "Review"
     },
     {
       "id": "pl_msg_00000328_00001",
-      "en_US": "For Staff use"
+      "en_US": "For Staff use",
+      "fr_FR": "For Staff use"
     },
     {
       "id": "pl_msg_00000328_00002",
-      "en_US": "Jump"
+      "en_US": "Jump",
+      "fr_FR": "Jump"
     },
     {
       "id": "pl_msg_00000328_00003",
-      "en_US": "Out-of-range drawing"
+      "en_US": "Out-of-range drawing",
+      "fr_FR": "Out-of-range drawing"
     },
     {
       "id": "pl_msg_00000328_00004",
-      "en_US": "Create data"
+      "en_US": "Create data",
+      "fr_FR": "Create data"
     },
     {
       "id": "pl_msg_00000328_00005",
-      "en_US": "System"
+      "en_US": "System",
+      "fr_FR": "System"
     },
     {
       "id": "pl_msg_00000328_00006",
-      "en_US": "Enter value"
+      "en_US": "Enter value",
+      "fr_FR": "Enter value"
     },
     {
       "id": "pl_msg_00000328_00007",
-      "en_US": "Forced-saving process"
+      "en_US": "Forced-saving process",
+      "fr_FR": "Forced-saving process"
     },
     {
       "id": "pl_msg_00000328_00008",
-      "en_US": "Before the Counter stops"
+      "en_US": "Before the Counter stops",
+      "fr_FR": "Before the Counter stops"
     },
     {
       "id": "pl_msg_00000328_00009",
-      "en_US": "no use"
+      "en_US": "no use",
+      "fr_FR": "no use"
     },
     {
       "id": "pl_msg_00000328_00010",
-      "en_US": "Naming/GTS/DayCare"
+      "en_US": "Naming/GTS/DayCare",
+      "fr_FR": "Naming/GTS/DayCare"
     },
     {
       "id": "pl_msg_00000328_00011",
-      "en_US": "Berys/TMs/Rbns/Journal"
+      "en_US": "Berys/TMs/Rbns/Journal",
+      "fr_FR": "Berys/TMs/Rbns/Journal"
     },
     {
       "id": "pl_msg_00000328_00012",
-      "en_US": "no use"
+      "en_US": "no use",
+      "fr_FR": "no use"
     },
     {
       "id": "pl_msg_00000328_00013",
-      "en_US": "Camera/Sp.Encounter"
+      "en_US": "Camera/Sp.Encounter",
+      "fr_FR": "Camera/Sp.Encounter"
     },
     {
       "id": "pl_msg_00000328_00014",
-      "en_US": "Plaza/Pokedex"
+      "en_US": "Plaza/Pokedex",
+      "fr_FR": "Plaza/Pokedex"
     },
     {
       "id": "pl_msg_00000328_00015",
-      "en_US": "Tower/Mail/Poffin/Blender"
+      "en_US": "Tower/Mail/Poffin/Blender",
+      "fr_FR": "Tower/Mail/Poffin/Blender"
     },
     {
       "id": "pl_msg_00000328_00016",
-      "en_US": "no use"
+      "en_US": "no use",
+      "fr_FR": "no use"
     },
     {
       "id": "pl_msg_00000328_00017",
-      "en_US": "Mulch/Berys/PokéPark "
+      "en_US": "Mulch/Berys/PokéPark ",
+      "fr_FR": "Mulch/Berys/PokéPark "
     },
     {
       "id": "pl_msg_00000328_00018",
-      "en_US": "FtStamps/Terminal/Contest"
+      "en_US": "FtStamps/Terminal/Contest",
+      "fr_FR": "FtStamps/Terminal/Contest"
     },
     {
       "id": "pl_msg_00000328_00019",
-      "en_US": "3rdGym/Dist.World/Furniture"
+      "en_US": "3rdGym/Dist.World/Furniture",
+      "fr_FR": "3rdGym/Dist.World/Furniture"
     },
     {
       "id": "pl_msg_00000328_00020",
-      "en_US": "Villa/Frontier/Vs. Seeker"
+      "en_US": "Villa/Frontier/Vs. Seeker",
+      "fr_FR": "Villa/Frontier/Vs. Seeker"
     },
     {
       "id": "pl_msg_00000328_00021",
-      "en_US": "Box/HallOfFame/Pokétch"
+      "en_US": "Box/HallOfFame/Pokétch",
+      "fr_FR": "Box/HallOfFame/Pokétch"
     },
     {
       "id": "pl_msg_00000328_00022",
-      "en_US": "Rankings/Capsules/ProfileCreation"
+      "en_US": "Rankings/Capsules/ProfileCreation",
+      "fr_FR": "Rankings/Capsules/ProfileCreation"
     },
     {
       "id": "pl_msg_00000328_00023",
-      "en_US": "Underground"
+      "en_US": "Underground",
+      "fr_FR": "Underground"
     },
     {
       "id": "pl_msg_00000328_00024",
-      "en_US": "Mitsuhara"
+      "en_US": "Mitsuhara",
+      "fr_FR": "Mitsuhara"
     },
     {
       "id": "pl_msg_00000328_00025",
-      "en_US": "Load check"
+      "en_US": "Load check",
+      "fr_FR": "Load check"
     },
     {
       "id": "pl_msg_00000328_00026",
-      "en_US": "View location"
+      "en_US": "View location",
+      "fr_FR": "View location"
     },
     {
       "id": "pl_msg_00000328_00027",
-      "en_US": "Switch"
+      "en_US": "Switch",
+      "fr_FR": "Switch"
     },
     {
       "id": "pl_msg_00000328_00028",
-      "en_US": "Attribute"
+      "en_US": "Attribute",
+      "fr_FR": "Attribute"
     },
     {
       "id": "pl_msg_00000328_00029",
-      "en_US": "Fly"
+      "en_US": "Fly",
+      "fr_FR": "Fly"
     },
     {
       "id": "pl_msg_00000328_00030",
-      "en_US": "Gym jump"
+      "en_US": "Gym jump",
+      "fr_FR": "Gym jump"
     },
     {
       "id": "pl_msg_00000328_00031",
-      "en_US": "Map jump"
+      "en_US": "Map jump",
+      "fr_FR": "Map jump"
     },
     {
       "id": "pl_msg_00000328_00032",
-      "en_US": "Map jump 2"
+      "en_US": "Map jump 2",
+      "fr_FR": "Map jump 2"
     },
     {
       "id": "pl_msg_00000328_00033",
-      "en_US": "Map jump 3"
+      "en_US": "Map jump 3",
+      "fr_FR": "Map jump 3"
     },
     {
       "id": "pl_msg_00000328_00034",
-      "en_US": "Map jump 4"
+      "en_US": "Map jump 4",
+      "fr_FR": "Map jump 4"
     },
     {
       "id": "pl_msg_00000328_00035",
-      "en_US": "Map jump 5"
+      "en_US": "Map jump 5",
+      "fr_FR": "Map jump 5"
     },
     {
       "id": "pl_msg_00000328_00036",
-      "en_US": "Map jump 6"
+      "en_US": "Map jump 6",
+      "fr_FR": "Map jump 6"
     },
     {
       "id": "pl_msg_00000328_00037",
-      "en_US": "To Unown dungeon"
+      "en_US": "To Unown dungeon",
+      "fr_FR": "To Unown dungeon"
     },
     {
       "id": "pl_msg_00000328_00038",
-      "en_US": "To anywhere"
+      "en_US": "To anywhere",
+      "fr_FR": "To anywhere"
     },
     {
       "id": "pl_msg_00000328_00039",
-      "en_US": "Create Pokémon"
+      "en_US": "Create Pokémon",
+      "fr_FR": "Create Pokémon"
     },
     {
       "id": "pl_msg_00000328_00040",
-      "en_US": "Change Lead Pokémon"
+      "en_US": "Change Lead Pokémon",
+      "fr_FR": "Change Lead Pokémon"
     },
     {
       "id": "pl_msg_00000328_00041",
-      "en_US": "Bad Egg"
+      "en_US": "Bad Egg",
+      "fr_FR": "Bad Egg"
     },
     {
       "id": "pl_msg_00000328_00042",
-      "en_US": "Create items"
+      "en_US": "Create items",
+      "fr_FR": "Create items"
     },
     {
       "id": "pl_msg_00000328_00043",
-      "en_US": "Time"
+      "en_US": "Time",
+      "fr_FR": "Time"
     },
     {
       "id": "pl_msg_00000328_00044",
-      "en_US": "3D settings"
+      "en_US": "3D settings",
+      "fr_FR": "3D settings"
     },
     {
       "id": "pl_msg_00000328_00045",
-      "en_US": "Switch Gender"
+      "en_US": "Switch Gender",
+      "fr_FR": "Switch Gender"
     },
     {
       "id": "pl_msg_00000328_00046",
-      "en_US": "Flag control"
+      "en_US": "Flag control",
+      "fr_FR": "Flag control"
     },
     {
       "id": "pl_msg_00000328_00047",
-      "en_US": "Map and others"
+      "en_US": "Map and others",
+      "fr_FR": "Map and others"
     },
     {
       "id": "pl_msg_00000328_00048",
-      "en_US": "Up & down"
+      "en_US": "Up & down",
+      "fr_FR": "Up & down"
     },
     {
       "id": "pl_msg_00000328_00049",
-      "en_US": "ZX set"
+      "en_US": "ZX set",
+      "fr_FR": "ZX set"
     },
     {
       "id": "pl_msg_00000328_00050",
-      "en_US": "Union"
+      "en_US": "Union",
+      "fr_FR": "Union"
     },
     {
       "id": "pl_msg_00000328_00051",
-      "en_US": "Jump to Twinleaf Town"
+      "en_US": "Jump to Twinleaf Town",
+      "fr_FR": "Jump to Twinleaf Town"
     },
     {
       "id": "pl_msg_00000328_00052",
-      "en_US": "Back to title screen"
+      "en_US": "Back to title screen",
+      "fr_FR": "Back to title screen"
     },
     {
       "id": "pl_msg_00000328_00053",
-      "en_US": "Jump to Pastoria Gym"
+      "en_US": "Jump to Pastoria Gym",
+      "fr_FR": "Jump to Pastoria Gym"
     },
     {
       "id": "pl_msg_00000328_00054",
-      "en_US": "Time manipulation"
+      "en_US": "Time manipulation",
+      "fr_FR": "Time manipulation"
     },
     {
       "id": "pl_msg_00000328_00055",
-      "en_US": "DS time"
+      "en_US": "DS time",
+      "fr_FR": "DS time"
     },
     {
       "id": "pl_msg_00000328_00056",
-      "en_US": "8:00"
+      "en_US": "8:00",
+      "fr_FR": "8:00"
     },
     {
       "id": "pl_msg_00000328_00057",
-      "en_US": "12:00"
+      "en_US": "12:00",
+      "fr_FR": "12:00"
     },
     {
       "id": "pl_msg_00000328_00058",
-      "en_US": "18:00"
+      "en_US": "18:00",
+      "fr_FR": "18:00"
     },
     {
       "id": "pl_msg_00000328_00059",
-      "en_US": "22:00"
+      "en_US": "22:00",
+      "fr_FR": "22:00"
     },
     {
       "id": "pl_msg_00000328_00060",
-      "en_US": "2:00"
+      "en_US": "2:00",
+      "fr_FR": "2:00"
     },
     {
       "id": "pl_msg_00000328_00061",
-      "en_US": "Fast forward (60 times)"
+      "en_US": "Fast forward (60 times)",
+      "fr_FR": "Fast forward (60 times)"
     },
     {
       "id": "pl_msg_00000328_00062",
-      "en_US": "Fast forward (600 times)"
+      "en_US": "Fast forward (600 times)",
+      "fr_FR": "Fast forward (600 times)"
     },
     {
       "id": "pl_msg_00000328_00063",
-      "en_US": "RTC control"
+      "en_US": "RTC control",
+      "fr_FR": "RTC control"
     },
     {
       "id": "pl_msg_00000328_00064",
-      "en_US": "EDGE ON"
+      "en_US": "EDGE ON",
+      "fr_FR": "EDGE ON"
     },
     {
       "id": "pl_msg_00000328_00065",
-      "en_US": "EDGE OFF"
+      "en_US": "EDGE OFF",
+      "fr_FR": "EDGE OFF"
     },
     {
       "id": "pl_msg_00000328_00066",
-      "en_US": "ANTIALIAS ON"
+      "en_US": "ANTIALIAS ON",
+      "fr_FR": "ANTIALIAS ON"
     },
     {
       "id": "pl_msg_00000328_00067",
-      "en_US": "ANTIALIAS OFF"
+      "en_US": "ANTIALIAS OFF",
+      "fr_FR": "ANTIALIAS OFF"
     },
     {
       "id": "pl_msg_00000328_00068",
-      "en_US": "EDGE COLOR1"
+      "en_US": "EDGE COLOR1",
+      "fr_FR": "EDGE COLOR1"
     },
     {
       "id": "pl_msg_00000328_00069",
-      "en_US": "EDGE COLOR2"
+      "en_US": "EDGE COLOR2",
+      "fr_FR": "EDGE COLOR2"
     },
     {
       "id": "pl_msg_00000328_00070",
-      "en_US": "EDGE COLOR3"
+      "en_US": "EDGE COLOR3",
+      "fr_FR": "EDGE COLOR3"
     },
     {
       "id": "pl_msg_00000328_00071",
-      "en_US": "EDGE COLOR4"
+      "en_US": "EDGE COLOR4",
+      "fr_FR": "EDGE COLOR4"
     },
     {
       "id": "pl_msg_00000328_00072",
-      "en_US": "#ofPokémonEncounter"
+      "en_US": "#ofPokémonEncounter",
+      "fr_FR": "#ofPokémonEncounter"
     },
     {
       "id": "pl_msg_00000328_00073",
-      "en_US": "deliveryman"
+      "en_US": "deliveryman",
+      "fr_FR": "deliveryman"
     },
     {
       "id": "pl_msg_00000328_00074",
-      "en_US": "Change TV channel"
+      "en_US": "Change TV channel",
+      "fr_FR": "Change TV channel"
     },
     {
       "id": "pl_msg_00000328_00075",
-      "en_US": "Battle Tower"
+      "en_US": "Battle Tower",
+      "fr_FR": "Battle Tower"
     },
     {
       "id": "pl_msg_00000328_00076",
-      "en_US": "SysFlag"
+      "en_US": "SysFlag",
+      "fr_FR": "SysFlag"
     },
     {
       "id": "pl_msg_00000328_00077",
-      "en_US": "Records"
+      "en_US": "Records",
+      "fr_FR": "Records"
     },
     {
       "id": "pl_msg_00000328_00078",
-      "en_US": "Hero/Heroin"
+      "en_US": "Hero/Heroin",
+      "fr_FR": "Hero/Heroin"
     },
     {
       "id": "pl_msg_00000328_00079",
-      "en_US": "SaveStoryProgress"
+      "en_US": "SaveStoryProgress",
+      "fr_FR": "SaveStoryProgress"
     },
     {
       "id": "pl_msg_00000328_00080",
-      "en_US": "SaveBoxCondition"
+      "en_US": "SaveBoxCondition",
+      "fr_FR": "SaveBoxCondition"
     },
     {
       "id": "pl_msg_00000328_00081",
-      "en_US": "BGM control"
+      "en_US": "BGM control",
+      "fr_FR": "BGM control"
     },
     {
       "id": "pl_msg_00000328_00082",
-      "en_US": "Script control"
+      "en_US": "Script control",
+      "fr_FR": "Script control"
     },
     {
       "id": "pl_msg_00000328_00083",
-      "en_US": "GTS"
+      "en_US": "GTS",
+      "fr_FR": "GTS"
     },
     {
       "id": "pl_msg_00000328_00084",
-      "en_US": "Battle Tower"
+      "en_US": "Battle Tower",
+      "fr_FR": "Battle Tower"
     },
     {
       "id": "pl_msg_00000328_00085",
-      "en_US": "no use"
+      "en_US": "no use",
+      "fr_FR": "no use"
     },
     {
       "id": "pl_msg_00000328_00086",
-      "en_US": "Beacon(Union)"
+      "en_US": "Beacon(Union)",
+      "fr_FR": "Beacon(Union)"
     },
     {
       "id": "pl_msg_00000328_00087",
-      "en_US": "No. of Hall of Fame"
+      "en_US": "No. of Hall of Fame",
+      "fr_FR": "No. of Hall of Fame"
     },
     {
       "id": "pl_msg_00000328_00088",
-      "en_US": "TV"
+      "en_US": "TV",
+      "fr_FR": "TV"
     },
     {
       "id": "pl_msg_00000328_00089",
-      "en_US": "Link Contest"
+      "en_US": "Link Contest",
+      "fr_FR": "Link Contest"
     },
     {
       "id": "pl_msg_00000328_00090",
-      "en_US": "Others"
+      "en_US": "Others",
+      "fr_FR": "Others"
     },
     {
       "id": "pl_msg_00000328_00091",
-      "en_US": "Battle Factoy"
+      "en_US": "Battle Factoy",
+      "fr_FR": "Battle Factoy"
     },
     {
       "id": "pl_msg_00000328_00092",
-      "en_US": "Battle Hall"
+      "en_US": "Battle Hall",
+      "fr_FR": "Battle Hall"
     },
     {
       "id": "pl_msg_00000328_00093",
-      "en_US": "Battle Castle"
+      "en_US": "Battle Castle",
+      "fr_FR": "Battle Castle"
     },
     {
       "id": "pl_msg_00000328_00094",
-      "en_US": "PokeCenterB1F"
+      "en_US": "PokeCenterB1F",
+      "fr_FR": "PokeCenterB1F"
     },
     {
       "id": "pl_msg_00000328_00095",
-      "en_US": "Battle Arcade"
+      "en_US": "Battle Arcade",
+      "fr_FR": "Battle Arcade"
     },
     {
       "id": "pl_msg_00000328_00096",
-      "en_US": "Battle Frontier"
+      "en_US": "Battle Frontier",
+      "fr_FR": "Battle Frontier"
     },
     {
       "id": "pl_msg_00000328_00097",
-      "en_US": "Distortion World"
+      "en_US": "Distortion World",
+      "fr_FR": "Distortion World"
     }
   ]
 }

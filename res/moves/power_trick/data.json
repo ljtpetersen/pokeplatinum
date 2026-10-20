@@ -24,5 +24,13 @@
     "contest": {
         "effect": "CONTEST_EFFECT_LOW_VOLTAGE_ADVANTAGE",
         "type": "CONTEST_TYPE_COOL"
-    }
+    },
+    "name_fr": "Astuce Force",
+    "description_fr": [
+        "Le lanceur utilise ses\n",
+        "pouvoirs psychiques\n",
+        "pour échanger sa\n",
+        "stat Défense et sa\n",
+        "stat Attaque."
+    ]
 }

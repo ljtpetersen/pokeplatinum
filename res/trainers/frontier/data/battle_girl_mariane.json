@@ -83,15 +83,22 @@
             "en_US": [
                 "Come oooon! C’mon, c’mon!\n",
                 "Hey! Hey! C’mon, hey!"
+            ],
+            "fr_FR": [
+                "Vas-y! Allez viens, viens!\n",
+                "Allez! Allez! Viens, je t’attends!"
             ]
         },
         {
             "type": "TRMSG_WIN",
-            "en_US": "Oh, yesssss!\r"
+            "en_US": "Oh, yesssss!\r",
+            "fr_FR": "Ouiiiiiiiii!\r"
         },
         {
             "type": "TRMSG_DEFEAT",
-            "en_US": "Oh, noooooo!\r"
+            "en_US": "Oh, noooooo!\r",
+            "fr_FR": "Noooooooon!\r"
         }
-    ]
+    ],
+    "name_fr": "Marlène"
 }

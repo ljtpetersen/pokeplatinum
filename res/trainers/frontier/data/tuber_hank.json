@@ -55,6 +55,10 @@
             "en_US": [
                 "I promised Mommy I’ll practice swimming\n",
                 "if I lose."
+            ],
+            "fr_FR": [
+                "J’ai promis à ma maman que si je perdais,\n",
+                "j’apprendrais à nager."
             ]
         },
         {
@@ -62,6 +66,10 @@
             "en_US": [
                 "Yay! I won’t have to go to the pool\n",
                 "with Mommy today!\r"
+            ],
+            "fr_FR": [
+                "Super! Je n’ai pas besoin d’apprendre\n",
+                "à nager finalement!\r"
             ]
         },
         {
@@ -69,7 +77,12 @@
             "en_US": [
                 "Aww, I lost. Now I’ll have to go to\n",
                 "swimming practice today.\r"
+            ],
+            "fr_FR": [
+                "Oooh, perdu! Je crois que je\n",
+                "n’échapperai pas au cours de natation!\r"
             ]
         }
-    ]
+    ],
+    "name_fr": "Horace"
 }

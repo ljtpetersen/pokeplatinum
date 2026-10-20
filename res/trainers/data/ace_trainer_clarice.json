@@ -58,18 +58,28 @@
             "en_US": [
                 "Let me see what you got there, kid.\n",
                 "I could give you some advice.\r"
+            ],
+            "fr_FR": [
+                "Fais-moi voir ce que tu vaux.\n",
+                "Je pourrais te donner des conseils.\r"
             ]
         },
         {
             "type": "TRMSG_DEFEAT",
-            "en_US": "You got way too much!\n"
+            "en_US": "You got way too much!\n",
+            "fr_FR": "Incroyable!\n"
         },
         {
             "type": "TRMSG_POST_BATTLE",
             "en_US": [
                 "Well, I don’t have any advice for\n",
                 "someone as tough as you!\n"
+            ],
+            "fr_FR": [
+                "Eh bien, je n’ai aucun conseil pour\n",
+                "quelqu’un avec une telle force!\n"
             ]
         }
-    ]
+    ],
+    "name_fr": "Emeline"
 }

@@ -55,6 +55,10 @@
             "en_US": [
                 "I c-c-can’t stop shivering.\n",
                 "B-but this is a b-battle. I have to."
+            ],
+            "fr_FR": [
+                "J’ai f-f-f-froid, mais je n-ne peux pas\n",
+                "r-r-refuser un c-c-combat!"
             ]
         },
         {
@@ -62,14 +66,20 @@
             "en_US": [
                 "Urrff... Ch-chatter...\n",
                 "I won, I won...\r"
-            ]
+            ],
+            "fr_FR": "S-s-super! J’ai g-g-gagné!\r"
         },
         {
             "type": "TRMSG_DEFEAT",
             "en_US": [
                 "Sh-shiver... Urf...\n",
                 "My eyelids are getting droopy...\r"
+            ],
+            "fr_FR": [
+                "F-f-froid! Mes p-p-paupières sont\n",
+                "l-l-lourdes... si f-f-froid...\r"
             ]
         }
-    ]
+    ],
+    "name_fr": "Gianni"
 }

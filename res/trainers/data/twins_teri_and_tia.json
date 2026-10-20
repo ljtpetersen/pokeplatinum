@@ -32,6 +32,10 @@
             "en_US": [
                 "Teri: Yay! We’re gonna battle with\n",
                 "lots of Pokémon!\r"
+            ],
+            "fr_FR": [
+                "Taïs: Yahou! On va se battre avec\n",
+                "plein de Pokémon!\r"
             ]
         },
         {
@@ -39,17 +43,29 @@
             "en_US": [
                 "Teri: We tried really hard together,\n",
                 "but we lost anyway.\n"
+            ],
+            "fr_FR": [
+                "Taïs: On a fait de notre mieux, mais on\n",
+                "a quand même perdu...\n"
             ]
         },
         {
             "type": "TRMSG_POST_DOUBLE_BATTLE_1",
-            "en_US": "Teri: Our mommy is a twin, too.\n"
+            "en_US": "Teri: Our mommy is a twin, too.\n",
+            "fr_FR": [
+                "Taïs: Notre maman aussi a une\n",
+                "sœur jumelle.\n"
+            ]
         },
         {
             "type": "TRMSG_DOUBLE_BATTLE_NOT_ENOUGH_POKEMON_1",
             "en_US": [
                 "Teri: We want to battle with lots\n",
                 "of Pokémon.\n"
+            ],
+            "fr_FR": [
+                "Taïs: On veut se battre avec\n",
+                "plein de Pokémon.\n"
             ]
         },
         {
@@ -57,6 +73,10 @@
             "en_US": [
                 "Teri: Yay! We’re gonna battle with\n",
                 "lots of Pokémon again!\r"
+            ],
+            "fr_FR": [
+                "Taïs: Yahou! On va encore se\n",
+                "battre avec plein de Pokémon!\r"
             ]
         },
         {
@@ -64,13 +84,18 @@
             "en_US": [
                 "Tia: Yay!\n",
                 "We’re all going to battle!\r"
-            ]
+            ],
+            "fr_FR": "Tia: Yahou! On va se battre!\r"
         },
         {
             "type": "TRMSG_DOUBLE_BATTLE_DEFEAT_2",
             "en_US": [
                 "Tia: We tried really hard together,\n",
                 "but we couldn’t win anyway.\n"
+            ],
+            "fr_FR": [
+                "Tia: On a fait des efforts, mais on n’a\n",
+                "pas réussi à gagner.\n"
             ]
         },
         {
@@ -79,6 +104,12 @@
                 "Tia: When Mommy and Aunty and me\n",
                 "and Teri get together, it’s really\f",
                 "confusing and fun!\n"
+            ],
+            "fr_FR": [
+                "Tia: Des fois, maman, tatie, moi et\n",
+                "Taïs, on se retrouve ensemble.\r",
+                "On n’arrête pas de se confondre,\n",
+                "c’est vraiment amusant!\n"
             ]
         },
         {
@@ -86,6 +117,10 @@
             "en_US": [
                 "Tia: Um, no.\n",
                 "We all want to battle together.\n"
+            ],
+            "fr_FR": [
+                "Tia: Euh, non.\n",
+                "Je ne veux pas me battre toute seule...\n"
             ]
         },
         {
@@ -93,7 +128,9 @@
             "en_US": [
                 "Tia: Yay!\n",
                 "We’re all going to battle again!\r"
-            ]
+            ],
+            "fr_FR": "Tia: Yahou! On va encore se battre!\r"
         }
-    ]
+    ],
+    "name_fr": "Taïs & Tia"
 }

@@ -26,5 +26,13 @@
   "battlePocket": "BATTLE_POCKET_MASK_NONE",
   "fieldUseFunc": "ITEM_USE_FUNC_NONE",
   "battleUseCategory": "BATTLE_USE_CATEGORY_NONE",
-  "itemUseParams": null
+  "itemUseParams": null,
+  "name_fr": "Plaque Flam",
+  "description_fr": [
+    "Objet à tenir. Tablette en pierre\n",
+    "augmentant la puissance des capacités\n",
+    "de type Feu."
+  ],
+  "plural_fr": "Plaque Flam",
+  "article_fr": null
 }

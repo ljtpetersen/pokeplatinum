@@ -59,6 +59,10 @@
             "en_US": [
                 "I won’t lose ever!\n",
                 "Please abide by my rule!"
+            ],
+            "fr_FR": [
+                "Je ne perds jamais. \n",
+                "C’est un principe."
             ]
         },
         {
@@ -66,11 +70,17 @@
             "en_US": [
                 "Thank you so much!\n",
                 "I owe this win to you!\r"
+            ],
+            "fr_FR": [
+                "Merci. Grâce à toi, j’honore\n",
+                "mes principes.\r"
             ]
         },
         {
             "type": "TRMSG_DEFEAT",
-            "en_US": "I so did not want to lose...\r"
+            "en_US": "I so did not want to lose...\r",
+            "fr_FR": "Je n’aurais pas dû perdre.\r"
         }
-    ]
+    ],
+    "name_fr": "Lily"
 }

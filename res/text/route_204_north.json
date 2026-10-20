@@ -9,6 +9,12 @@
         "If you only have the same type of\n",
         "Pokémon, you’ll have a hard time\f",
         "against types it’s weak to."
+      ],
+      "fr_FR": [
+        "Elèves-tu différents types de Pokémon?\r",
+        "Si tu n’as que des Pokémon de même\n",
+        "type, tu auras du mal à battre les\f",
+        "types contre lesquels ils sont faibles."
       ]
     },
     {
@@ -20,6 +26,14 @@
         "and I’d like to give you a lesson.\r",
         "But before I do, I’d like you to\n",
         "have this TM.\r"
+      ],
+      "fr_FR": [
+        "Salut, aimes-tu séduire?\n",
+        "Je te demande ça pour savoir.\r",
+        "J’enseigne à l’Ecole de Dresseurs,\n",
+        "et je voudrais te donner une leçon.\r",
+        "Mais avant de commencer, je voudrais te\n",
+        "donner cette CT.\r"
       ]
     },
     {
@@ -37,6 +51,20 @@
         "TM is good for only one use.\r",
         "Choose the Pokémon wisely if you\n",
         "do decide to use it."
+      ],
+      "fr_FR": [
+        "Tu sais que les Pokémon peuvent être\n",
+        "mâles ou femelles?\r",
+        "La capacité Séduction ne marche que\n",
+        "sur le genre opposé.\r",
+        "Par exemple, si un mâle l’utilise, ça ne\n",
+        "marche que sur des femelles.\r",
+        "La capacité baisse beaucoup l’Attaque\n",
+        "Spéciale (l’Atq. Spé.) de la cible.\r",
+        "Tu le sais sûrement, mais tu ne peux\n",
+        "utiliser une CT qu’une fois.\r",
+        "Choisis bien le Pokémon sur lequel\n",
+        "l’utiliser."
       ]
     },
     {
@@ -44,6 +72,10 @@
       "en_US": [
         "Rt. 204\n",
         "Floaroma Town"
+      ],
+      "fr_FR": [
+        "Route 204\n",
+        "Floraville"
       ]
     }
   ]

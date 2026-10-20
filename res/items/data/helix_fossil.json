@@ -26,5 +26,12 @@
   "battlePocket": "BATTLE_POCKET_MASK_NONE",
   "fieldUseFunc": "ITEM_USE_FUNC_NONE",
   "battleUseCategory": "BATTLE_USE_CATEGORY_NONE",
-  "itemUseParams": {}
+  "itemUseParams": {},
+  "name_fr": "Nautile",
+  "description_fr": [
+    "Fossile d’un ancien Pokémon aquatique.\n",
+    "On dirait un morceau de coquillage."
+  ],
+  "plural_fr": "Nautile",
+  "article_fr": null
 }

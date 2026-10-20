@@ -37,6 +37,10 @@
             "en_US": [
                 "Daddy... Mommy... Can you hear me?\n",
                 "Please watch over me..."
+            ],
+            "fr_FR": [
+                "Père... mère... vous m’entendez?\n",
+                "J’ai besoin de votre soutien..."
             ]
         },
         {
@@ -44,6 +48,10 @@
             "en_US": [
                 "Daddy... Mommy... Did you see?\n",
                 "I won, and it’s all for you...\r"
+            ],
+            "fr_FR": [
+                "Père... mère... vous avez vu?\n",
+                "Grâce à vous, j’ai remporté la victoire!\r"
             ]
         },
         {
@@ -51,7 +59,12 @@
             "en_US": [
                 "Oh... Daddy... Mommy...\n",
                 "I couldn’t win...\r"
+            ],
+            "fr_FR": [
+                "Père... mère...\n",
+                "J’ai échoué...\r"
             ]
         }
-    ]
+    ],
+    "name_fr": "Rainier"
 }

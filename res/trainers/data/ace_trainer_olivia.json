@@ -58,6 +58,10 @@
             "en_US": [
                 "Wh-what is it?\n",
                 "P-Pokémon battle?!\r"
+            ],
+            "fr_FR": [
+                "Qu’est-ce que c’est?\n",
+                "Un combat de Pokémon?!\r"
             ]
         },
         {
@@ -65,6 +69,10 @@
             "en_US": [
                 "Whew...\n",
                 "You are alive, aren’t you?\n"
+            ],
+            "fr_FR": [
+                "Ouf...\n",
+                "Tu ne serais pas un fantôme?"
             ]
         },
         {
@@ -73,6 +81,11 @@
                 "Around these parts, perhaps because\n",
                 "of all the snow, there are many\f",
                 "folktales of hauntings...\n"
+            ],
+            "fr_FR": [
+                "Dans cette région, il y a beaucoup\n",
+                "d’histoires de spectres.\r",
+                "C’est peut-être à cause de la neige...\n"
             ]
         },
         {
@@ -80,7 +93,12 @@
             "en_US": [
                 "This isn’t like last time. See how\n",
                 "much I’ve trained since then!\r"
+            ],
+            "fr_FR": [
+                "Ça ne sera pas comme la dernière fois.\n",
+                "Tu vas voir comme je me suis entraînée!\r"
             ]
         }
-    ]
+    ],
+    "name_fr": "Zia"
 }

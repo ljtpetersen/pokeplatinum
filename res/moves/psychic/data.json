@@ -25,5 +25,13 @@
     "contest": {
         "effect": "CONTEST_EFFECT_FIRST_PERFORMANCE_ADVANTAGE",
         "type": "CONTEST_TYPE_SMART"
-    }
+    },
+    "name_fr": "Psyko",
+    "description_fr": [
+        "Une puissante force\n",
+        "télékinésique frappe\n",
+        "l’ennemi. Peut aussi\n",
+        "faire baisser sa Déf.\n",
+        "Spé."
+    ]
 }

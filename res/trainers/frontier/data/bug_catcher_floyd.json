@@ -45,6 +45,10 @@
             "en_US": [
                 "I love bug Pokémon!\n",
                 "I love my bug net even more!"
+            ],
+            "fr_FR": [
+                "Ce que j’aime le plus: les Pokémon de\n",
+                "type Insecte et mon filet à papillons!"
             ]
         },
         {
@@ -52,6 +56,10 @@
             "en_US": [
                 "I caught my Pokémon using my trusty\n",
                 "bug net.\r"
+            ],
+            "fr_FR": [
+                "J’ai attrapé beaucoup de Pokémon grâce\n",
+                "à mon cher filet à papillons.\r"
             ]
         },
         {
@@ -59,7 +67,12 @@
             "en_US": [
                 "It’d be cool if there was a bug net\n",
                 "Pokémon.\r"
+            ],
+            "fr_FR": [
+                "Le top du top, ce serait un Pokémon\n",
+                "qui ressemble à un filet à papillons.\r"
             ]
         }
-    ]
+    ],
+    "name_fr": "Fabian"
 }

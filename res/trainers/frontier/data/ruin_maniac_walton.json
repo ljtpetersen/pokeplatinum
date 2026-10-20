@@ -95,6 +95,10 @@
             "en_US": [
                 "I battle around the globe.\n",
                 "I’m a worldwide bad boy!"
+            ],
+            "fr_FR": [
+                "J’ai visité le monde entier. Je suis un\n",
+                "Dresseur de classe internationale!"
             ]
         },
         {
@@ -102,6 +106,10 @@
             "en_US": [
                 "I don’t lose at battling.\n",
                 "I can’t get over how cool I am!\r"
+            ],
+            "fr_FR": [
+                "Je ne perds jamais un combat.\n",
+                "Je suis beaucoup trop cool pour ça!\r"
             ]
         },
         {
@@ -109,7 +117,12 @@
             "en_US": [
                 "I’m hitting the road over that loss.\n",
                 "It’s good-bye to the old me!\r"
+            ],
+            "fr_FR": [
+                "Je repars sur les routes pour\n",
+                "méditer sur cet échec. Adieu!\r"
             ]
         }
-    ]
+    ],
+    "name_fr": "Iwan"
 }

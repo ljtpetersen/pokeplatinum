@@ -27,5 +27,12 @@
   "fieldUseFunc": "ITEM_USE_FUNC_TM_HM",
   "battleUseCategory": "BATTLE_USE_CATEGORY_NONE",
   "itemUseParams": null,
-  "teachesMove": "MOVE_FIRE_BLAST"
+  "teachesMove": "MOVE_FIRE_BLAST",
+  "name_fr": "CT38",
+  "description_fr": [
+    "Un déluge de flammes ardentes submerge\n",
+    "l’ennemi. Peut le brûler."
+  ],
+  "plural_fr": "CT38",
+  "article_fr": null
 }

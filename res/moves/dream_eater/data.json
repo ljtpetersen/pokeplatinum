@@ -25,5 +25,13 @@
     "contest": {
         "effect": "CONTEST_EFFECT_TWO_VOLTAGE_IN_A_ROW_ADVANTAGE",
         "type": "CONTEST_TYPE_SMART"
-    }
+    },
+    "name_fr": "Dévorêve",
+    "description_fr": [
+        "Attaque réservée aux\n",
+        "ennemis endormis. Le\n",
+        "lanceur récupère en\n",
+        "PV la moitié des\n",
+        "dégâts infligés."
+    ]
 }

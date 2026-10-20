@@ -3,501 +3,630 @@
   "messages": [
     {
       "id": "pl_msg_00000336_00000",
-      "en_US": "{COLOR 1}Status{COLOR 0}"
+      "en_US": "{COLOR 1}Status{COLOR 0}",
+      "fr_FR": "{COLOR 1}Status{COLOR 0}"
     },
     {
       "id": "pl_msg_00000336_00001",
-      "en_US": "{COLOR 1}VS demo{COLOR 0}"
+      "en_US": "{COLOR 1}VS demo{COLOR 0}",
+      "fr_FR": "{COLOR 1}VS demo{COLOR 0}"
     },
     {
       "id": "pl_msg_00000336_00002",
-      "en_US": "{COLOR 1}Move Tutor{COLOR 0}"
+      "en_US": "{COLOR 1}Move Tutor{COLOR 0}",
+      "fr_FR": "{COLOR 1}Move Tutor{COLOR 0}"
     },
     {
       "id": "pl_msg_00000336_00003",
-      "en_US": "{COLOR 1}Journal{COLOR 0}"
+      "en_US": "{COLOR 1}Journal{COLOR 0}",
+      "fr_FR": "{COLOR 1}Journal{COLOR 0}"
     },
     {
       "id": "pl_msg_00000336_00004",
-      "en_US": "Sleep"
+      "en_US": "Sleep",
+      "fr_FR": "Sleep"
     },
     {
       "id": "pl_msg_00000336_00005",
-      "en_US": "Touch screen"
+      "en_US": "Touch screen",
+      "fr_FR": "Touch screen"
     },
     {
       "id": "pl_msg_00000336_00006",
-      "en_US": "msg location"
+      "en_US": "msg location",
+      "fr_FR": "msg location"
     },
     {
       "id": "pl_msg_00000336_00007",
-      "en_US": "Test screen"
+      "en_US": "Test screen",
+      "fr_FR": "Test screen"
     },
     {
       "id": "pl_msg_00000336_00008",
-      "en_US": "Script"
+      "en_US": "Script",
+      "fr_FR": "Script"
     },
     {
       "id": "pl_msg_00000336_00009",
-      "en_US": "Map"
+      "en_US": "Map",
+      "fr_FR": "Map"
     },
     {
       "id": "pl_msg_00000336_00010",
-      "en_US": "Pokétch"
+      "en_US": "Pokétch",
+      "fr_FR": "Pokétch"
     },
     {
       "id": "pl_msg_00000336_00011",
-      "en_US": "Shop"
+      "en_US": "Shop",
+      "fr_FR": "Shop"
     },
     {
       "id": "pl_msg_00000336_00012",
-      "en_US": "Berry Max"
+      "en_US": "Berry Max",
+      "fr_FR": "Berry Max"
     },
     {
       "id": "pl_msg_00000336_00013",
-      "en_US": "TM & HM Max"
+      "en_US": "TM & HM Max",
+      "fr_FR": "TM & HM Max"
     },
     {
       "id": "pl_msg_00000336_00014",
-      "en_US": "F Note ADD"
+      "en_US": "F Note ADD",
+      "fr_FR": "F Note ADD"
     },
     {
       "id": "pl_msg_00000336_00015",
-      "en_US": "Field"
+      "en_US": "Field",
+      "fr_FR": "Field"
     },
     {
       "id": "pl_msg_00000336_00016",
-      "en_US": "Move Tutor"
+      "en_US": "Move Tutor",
+      "fr_FR": "Move Tutor"
     },
     {
       "id": "pl_msg_00000336_00017",
-      "en_US": "Move Deleter"
+      "en_US": "Move Deleter",
+      "fr_FR": "Move Deleter"
     },
     {
       "id": "pl_msg_00000336_00018",
-      "en_US": "Poffin"
+      "en_US": "Poffin",
+      "fr_FR": "Poffin"
     },
     {
       "id": "pl_msg_00000336_00019",
-      "en_US": "Condition"
+      "en_US": "Condition",
+      "fr_FR": "Condition"
     },
     {
       "id": "pl_msg_00000336_00020",
-      "en_US": "Multi 1"
+      "en_US": "Multi 1",
+      "fr_FR": "Multi 1"
     },
     {
       "id": "pl_msg_00000336_00021",
-      "en_US": "Start 1"
+      "en_US": "Start 1",
+      "fr_FR": "Start 1"
     },
     {
       "id": "pl_msg_00000336_00022",
-      "en_US": "End 1"
+      "en_US": "End 1",
+      "fr_FR": "End 1"
     },
     {
       "id": "pl_msg_00000336_00023",
-      "en_US": "Multi 2"
+      "en_US": "Multi 2",
+      "fr_FR": "Multi 2"
     },
     {
       "id": "pl_msg_00000336_00024",
-      "en_US": "Start 2"
+      "en_US": "Start 2",
+      "fr_FR": "Start 2"
     },
     {
       "id": "pl_msg_00000336_00025",
-      "en_US": "End 2"
+      "en_US": "End 2",
+      "fr_FR": "End 2"
     },
     {
       "id": "pl_msg_00000336_00026",
-      "en_US": "End 3"
+      "en_US": "End 3",
+      "fr_FR": "End 3"
     },
     {
       "id": "pl_msg_00000336_00027",
-      "en_US": "Move Tutor"
+      "en_US": "Move Tutor",
+      "fr_FR": "Move Tutor"
     },
     {
       "id": "pl_msg_00000336_00028",
-      "en_US": "Move Remainder"
+      "en_US": "Move Remainder",
+      "fr_FR": "Move Remainder"
     },
     {
       "id": "pl_msg_00000336_00029",
-      "en_US": "Set Ribbons"
+      "en_US": "Set Ribbons",
+      "fr_FR": "Set Ribbons"
     },
     {
       "id": "pl_msg_00000336_00030",
-      "en_US": "Pokémon icon"
+      "en_US": "Pokémon icon",
+      "fr_FR": "Pokémon icon"
     },
     {
       "id": "pl_msg_00000336_00031",
-      "en_US": "Item icon"
+      "en_US": "Item icon",
+      "fr_FR": "Item icon"
     },
     {
       "id": "pl_msg_00000336_00032",
-      "en_US": "F Note Clear"
+      "en_US": "F Note Clear",
+      "fr_FR": "F Note Clear"
     },
     {
       "id": "pl_msg_00000336_00033",
-      "en_US": "ｘ"
+      "en_US": "ｘ",
+      "fr_FR": "ｘ"
     },
     {
       "id": "pl_msg_00000336_00034",
-      "en_US": "{STRVAR_1 8, 0, 0}"
+      "en_US": "{STRVAR_1 8, 0, 0}",
+      "fr_FR": "{STRVAR_1 8, 0, 0}"
     },
     {
       "id": "pl_msg_00000336_00035",
-      "en_US": "{STRVAR_1 52, 0, 0}"
+      "en_US": "{STRVAR_1 52, 0, 0}",
+      "fr_FR": "{STRVAR_1 52, 0, 0}"
     },
     {
       "id": "pl_msg_00000336_00036",
-      "en_US": "Class"
+      "en_US": "Class",
+      "fr_FR": "Class"
     },
     {
       "id": "pl_msg_00000336_00037",
-      "en_US": "Level"
+      "en_US": "Level",
+      "fr_FR": "Level"
     },
     {
       "id": "pl_msg_00000336_00038",
-      "en_US": "Exp. Points"
+      "en_US": "Exp. Points",
+      "fr_FR": "Exp. Points"
     },
     {
       "id": "pl_msg_00000336_00039",
-      "en_US": "ID"
+      "en_US": "ID",
+      "fr_FR": "ID"
     },
     {
       "id": "pl_msg_00000336_00040",
-      "en_US": "Random value"
+      "en_US": "Random value",
+      "fr_FR": "Random value"
     },
     {
       "id": "pl_msg_00000336_00041",
-      "en_US": "Gender"
+      "en_US": "Gender",
+      "fr_FR": "Gender"
     },
     {
       "id": "pl_msg_00000336_00042",
-      "en_US": "Nature"
+      "en_US": "Nature",
+      "fr_FR": "Nature"
     },
     {
       "id": "pl_msg_00000336_00043",
-      "en_US": "Move 1"
+      "en_US": "Move 1",
+      "fr_FR": "Move 1"
     },
     {
       "id": "pl_msg_00000336_00044",
-      "en_US": "Move 2"
+      "en_US": "Move 2",
+      "fr_FR": "Move 2"
     },
     {
       "id": "pl_msg_00000336_00045",
-      "en_US": "Move 3"
+      "en_US": "Move 3",
+      "fr_FR": "Move 3"
     },
     {
       "id": "pl_msg_00000336_00046",
-      "en_US": "Move 4"
+      "en_US": "Move 4",
+      "fr_FR": "Move 4"
     },
     {
       "id": "pl_msg_00000336_00047",
-      "en_US": "Held item"
+      "en_US": "Held item",
+      "fr_FR": "Held item"
     },
     {
       "id": "pl_msg_00000336_00048",
-      "en_US": "Special ability"
+      "en_US": "Special ability",
+      "fr_FR": "Special ability"
     },
     {
       "id": "pl_msg_00000336_00049",
-      "en_US": "HP rnd"
+      "en_US": "HP rnd",
+      "fr_FR": "HP rnd"
     },
     {
       "id": "pl_msg_00000336_00050",
-      "en_US": "HP exp"
+      "en_US": "HP exp",
+      "fr_FR": "HP exp"
     },
     {
       "id": "pl_msg_00000336_00051",
-      "en_US": "Attack rnd"
+      "en_US": "Attack rnd",
+      "fr_FR": "Attack rnd"
     },
     {
       "id": "pl_msg_00000336_00052",
-      "en_US": "Attack exp"
+      "en_US": "Attack exp",
+      "fr_FR": "Attack exp"
     },
     {
       "id": "pl_msg_00000336_00053",
-      "en_US": "Defense rnd"
+      "en_US": "Defense rnd",
+      "fr_FR": "Defense rnd"
     },
     {
       "id": "pl_msg_00000336_00054",
-      "en_US": "Defense exp"
+      "en_US": "Defense exp",
+      "fr_FR": "Defense exp"
     },
     {
       "id": "pl_msg_00000336_00055",
-      "en_US": "Speed rnd"
+      "en_US": "Speed rnd",
+      "fr_FR": "Speed rnd"
     },
     {
       "id": "pl_msg_00000336_00056",
-      "en_US": "Speed exp"
+      "en_US": "Speed exp",
+      "fr_FR": "Speed exp"
     },
     {
       "id": "pl_msg_00000336_00057",
-      "en_US": "Sp. Atk rnd"
+      "en_US": "Sp. Atk rnd",
+      "fr_FR": "Sp. Atk rnd"
     },
     {
       "id": "pl_msg_00000336_00058",
-      "en_US": "Sp. Atk exp"
+      "en_US": "Sp. Atk exp",
+      "fr_FR": "Sp. Atk exp"
     },
     {
       "id": "pl_msg_00000336_00059",
-      "en_US": "Sp. Def rnd"
+      "en_US": "Sp. Def rnd",
+      "fr_FR": "Sp. Def rnd"
     },
     {
       "id": "pl_msg_00000336_00060",
-      "en_US": "Sp. Def exp"
+      "en_US": "Sp. Def exp",
+      "fr_FR": "Sp. Def exp"
     },
     {
       "id": "pl_msg_00000336_00061",
-      "en_US": "Coolness"
+      "en_US": "Coolness",
+      "fr_FR": "Coolness"
     },
     {
       "id": "pl_msg_00000336_00062",
-      "en_US": "Beauty"
+      "en_US": "Beauty",
+      "fr_FR": "Beauty"
     },
     {
       "id": "pl_msg_00000336_00063",
-      "en_US": "Cuteness"
+      "en_US": "Cuteness",
+      "fr_FR": "Cuteness"
     },
     {
       "id": "pl_msg_00000336_00064",
-      "en_US": "Smartness"
+      "en_US": "Smartness",
+      "fr_FR": "Smartness"
     },
     {
       "id": "pl_msg_00000336_00065",
-      "en_US": "Toughness"
+      "en_US": "Toughness",
+      "fr_FR": "Toughness"
     },
     {
       "id": "pl_msg_00000336_00066",
-      "en_US": "Luster"
+      "en_US": "Luster",
+      "fr_FR": "Luster"
     },
     {
       "id": "pl_msg_00000336_00067",
-      "en_US": "Tameness"
+      "en_US": "Tameness",
+      "fr_FR": "Tameness"
     },
     {
       "id": "pl_msg_00000336_00068",
-      "en_US": "POKéRUS"
+      "en_US": "POKéRUS",
+      "fr_FR": "POKéRUS"
     },
     {
       "id": "pl_msg_00000336_00069",
-      "en_US": "Egg"
+      "en_US": "Egg",
+      "fr_FR": "Egg"
     },
     {
       "id": "pl_msg_00000336_00070",
-      "en_US": "Status"
+      "en_US": "Status",
+      "fr_FR": "Status"
     },
     {
       "id": "pl_msg_00000336_00071",
-      "en_US": "HP"
+      "en_US": "HP",
+      "fr_FR": "HP"
     },
     {
       "id": "pl_msg_00000336_00072",
-      "en_US": "Attack"
+      "en_US": "Attack",
+      "fr_FR": "Attack"
     },
     {
       "id": "pl_msg_00000336_00073",
-      "en_US": "Defense"
+      "en_US": "Defense",
+      "fr_FR": "Defense"
     },
     {
       "id": "pl_msg_00000336_00074",
-      "en_US": "Speed"
+      "en_US": "Speed",
+      "fr_FR": "Speed"
     },
     {
       "id": "pl_msg_00000336_00075",
-      "en_US": "Special Attack"
+      "en_US": "Special Attack",
+      "fr_FR": "Special Attack"
     },
     {
       "id": "pl_msg_00000336_00076",
-      "en_US": "Special Defense"
+      "en_US": "Special Defense",
+      "fr_FR": "Special Defense"
     },
     {
       "id": "pl_msg_00000336_00077",
-      "en_US": "Event distribution"
+      "en_US": "Event distribution",
+      "fr_FR": "Event distribution"
     },
     {
       "id": "pl_msg_00000336_00078",
-      "en_US": "Area 1"
+      "en_US": "Area 1",
+      "fr_FR": "Area 1"
     },
     {
       "id": "pl_msg_00000336_00079",
-      "en_US": "Captured level"
+      "en_US": "Captured level",
+      "fr_FR": "Captured level"
     },
     {
       "id": "pl_msg_00000336_00080",
-      "en_US": "Captured cassette"
+      "en_US": "Captured cassette",
+      "fr_FR": "Captured cassette"
     },
     {
       "id": "pl_msg_00000336_00081",
-      "en_US": "Captured Ball"
+      "en_US": "Captured Ball",
+      "fr_FR": "Captured Ball"
     },
     {
       "id": "pl_msg_00000336_00082",
-      "en_US": "Country code"
+      "en_US": "Country code",
+      "fr_FR": "Country code"
     },
     {
       "id": "pl_msg_00000336_00083",
-      "en_US": "Form No."
+      "en_US": "Form No.",
+      "fr_FR": "Form No."
     },
     {
       "id": "pl_msg_00000336_00084",
-      "en_US": "Area 2"
+      "en_US": "Area 2",
+      "fr_FR": "Area 2"
     },
     {
       "id": "pl_msg_00000336_00085",
-      "en_US": "year"
+      "en_US": "year",
+      "fr_FR": "year"
     },
     {
       "id": "pl_msg_00000336_00086",
-      "en_US": "month"
+      "en_US": "month",
+      "fr_FR": "month"
     },
     {
       "id": "pl_msg_00000336_00087",
-      "en_US": "date"
+      "en_US": "date",
+      "fr_FR": "date"
     },
     {
       "id": "pl_msg_00000336_00088",
-      "en_US": "nickname"
+      "en_US": "nickname",
+      "fr_FR": "nickname"
     },
     {
       "id": "pl_msg_00000336_00089",
-      "en_US": "Normal"
+      "en_US": "Normal",
+      "fr_FR": "Normal"
     },
     {
       "id": "pl_msg_00000336_00090",
-      "en_US": "Sleep"
+      "en_US": "Sleep",
+      "fr_FR": "Sleep"
     },
     {
       "id": "pl_msg_00000336_00091",
-      "en_US": "Poison"
+      "en_US": "Poison",
+      "fr_FR": "Poison"
     },
     {
       "id": "pl_msg_00000336_00092",
-      "en_US": "Burned"
+      "en_US": "Burned",
+      "fr_FR": "Burned"
     },
     {
       "id": "pl_msg_00000336_00093",
-      "en_US": "Frozen"
+      "en_US": "Frozen",
+      "fr_FR": "Frozen"
     },
     {
       "id": "pl_msg_00000336_00094",
-      "en_US": "Paralysed"
+      "en_US": "Paralysed",
+      "fr_FR": "Paralysed"
     },
     {
       "id": "pl_msg_00000336_00095",
-      "en_US": "Badly poisoned"
+      "en_US": "Badly poisoned",
+      "fr_FR": "Badly poisoned"
     },
     {
       "id": "pl_msg_00000336_00096",
-      "en_US": "None"
+      "en_US": "None",
+      "fr_FR": "None"
     },
     {
       "id": "pl_msg_00000336_00097",
-      "en_US": "㊚"
+      "en_US": "㊚",
+      "fr_FR": "㊚"
     },
     {
       "id": "pl_msg_00000336_00098",
-      "en_US": "㊛"
+      "en_US": "㊛",
+      "fr_FR": "㊛"
     },
     {
       "id": "pl_msg_00000336_00099",
-      "en_US": "-"
+      "en_US": "-",
+      "fr_FR": "-"
     },
     {
       "id": "pl_msg_00000336_00100",
-      "en_US": "ON"
+      "en_US": "ON",
+      "fr_FR": "ON"
     },
     {
       "id": "pl_msg_00000336_00101",
-      "en_US": "OFF"
+      "en_US": "OFF",
+      "fr_FR": "OFF"
     },
     {
       "id": "pl_msg_00000336_00102",
-      "en_US": "{STRVAR_1 59, 0, 0}"
+      "en_US": "{STRVAR_1 59, 0, 0}",
+      "fr_FR": "{STRVAR_1 59, 0, 0}"
     },
     {
       "id": "pl_msg_00000336_00103",
-      "en_US": "{STRVAR_1 0, 0, 0}"
+      "en_US": "{STRVAR_1 0, 0, 0}",
+      "fr_FR": "{STRVAR_1 0, 0, 0}"
     },
     {
       "id": "pl_msg_00000336_00104",
-      "en_US": "{STRVAR_1 6, 0, 0}"
+      "en_US": "{STRVAR_1 6, 0, 0}",
+      "fr_FR": "{STRVAR_1 6, 0, 0}"
     },
     {
       "id": "pl_msg_00000336_00105",
-      "en_US": "{STRVAR_1 8, 0, 0}"
+      "en_US": "{STRVAR_1 8, 0, 0}",
+      "fr_FR": "{STRVAR_1 8, 0, 0}"
     },
     {
       "id": "pl_msg_00000336_00106",
-      "en_US": "{STRVAR_1 5, 0, 0}"
+      "en_US": "{STRVAR_1 5, 0, 0}",
+      "fr_FR": "{STRVAR_1 5, 0, 0}"
     },
     {
       "id": "pl_msg_00000336_00107",
-      "en_US": "{STRVAR_1 7, 0, 0}"
+      "en_US": "{STRVAR_1 7, 0, 0}",
+      "fr_FR": "{STRVAR_1 7, 0, 0}"
     },
     {
       "id": "pl_msg_00000336_00108",
-      "en_US": "Added a Pokémon to your party."
+      "en_US": "Added a Pokémon to your party.",
+      "fr_FR": "Added a Pokémon to your party."
     },
     {
       "id": "pl_msg_00000336_00109",
-      "en_US": "Added a Pokémon to the Box."
+      "en_US": "Added a Pokémon to the Box.",
+      "fr_FR": "Added a Pokémon to the Box."
     },
     {
       "id": "pl_msg_00000336_00110",
       "en_US": [
         "Create Pokémon\n",
         "  LR: Switch   START: Add"
+      ],
+      "fr_FR": [
+        "Create Pokémon\n",
+        "  LR: Switch   START: Add"
       ]
     },
     {
       "id": "pl_msg_00000336_00111",
-      "en_US": "ＤＢＰｏｋｅ1"
+      "en_US": "ＤＢＰｏｋｅ1",
+      "fr_FR": "ＤＢＰｏｋｅ1"
     },
     {
       "id": "pl_msg_00000336_00112",
-      "en_US": "Egg"
+      "en_US": "Egg",
+      "fr_FR": "Egg"
     },
     {
       "id": "pl_msg_00000336_00113",
       "en_US": [
         "(Test message)\n",
         "Pokémon used a move!"
+      ],
+      "fr_FR": [
+        "(Test message)\n",
+        "Pokémon used a move!"
       ]
     },
     {
       "id": "pl_msg_00000336_00114",
-      "en_US": "Diamond"
+      "en_US": "Diamond",
+      "fr_FR": "Diamond"
     },
     {
       "id": "pl_msg_00000336_00115",
-      "en_US": "Pearl"
+      "en_US": "Pearl",
+      "fr_FR": "Pearl"
     },
     {
       "id": "pl_msg_00000336_00116",
-      "en_US": "Emerald"
+      "en_US": "Emerald",
+      "fr_FR": "Emerald"
     },
     {
       "id": "pl_msg_00000336_00117",
-      "en_US": "Sapphire"
+      "en_US": "Sapphire",
+      "fr_FR": "Sapphire"
     },
     {
       "id": "pl_msg_00000336_00118",
-      "en_US": "{STRVAR_1 0, 0, 0}"
+      "en_US": "{STRVAR_1 0, 0, 0}",
+      "fr_FR": "{STRVAR_1 0, 0, 0}"
     },
     {
       "id": "pl_msg_00000336_00119",
-      "en_US": "{STRVAR_1 8, 0, 0}"
+      "en_US": "{STRVAR_1 8, 0, 0}",
+      "fr_FR": "{STRVAR_1 8, 0, 0}"
     },
     {
       "id": "pl_msg_00000336_00120",
-      "en_US": "Ribbons"
+      "en_US": "Ribbons",
+      "fr_FR": "Ribbons"
     },
     {
       "id": "pl_msg_00000336_00121",
-      "en_US": "Put on a ribbon"
+      "en_US": "Put on a ribbon",
+      "fr_FR": "Put on a ribbon"
     },
     {
       "id": "pl_msg_00000336_00122",
-      "en_US": "Take a ribbon off"
+      "en_US": "Take a ribbon off",
+      "fr_FR": "Take a ribbon off"
     }
   ]
 }

@@ -61,7 +61,12 @@
             "en_US": [
                 "Your toughness is something else.\n",
                 "We were completely overwhelmed!\n"
+            ],
+            "fr_FR": [
+                "Je suis impressionné.\n",
+                "Vous nous avez battus à plate couture!\n"
             ]
         }
-    ]
+    ],
+    "name_fr": "Tanguy"
 }

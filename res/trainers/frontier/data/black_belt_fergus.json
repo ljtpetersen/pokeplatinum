@@ -83,6 +83,10 @@
             "en_US": [
                 "I’m fine with practice and training, but\n",
                 "I wilt when the chips are down."
+            ],
+            "fr_FR": [
+                "Je passe ma vie à m’entraîner, mais je\n",
+                "suis très nerveux lors des combats..."
             ]
         },
         {
@@ -90,6 +94,10 @@
             "en_US": [
                 "I feel sick from tension!\n",
                 "I’d rather be at home practicing!\r"
+            ],
+            "fr_FR": [
+                "Cette tension me rend malade!\n",
+                "Je préfère retourner m’entraîner.\r"
             ]
         },
         {
@@ -97,7 +105,12 @@
             "en_US": [
                 "If it’s about practice, I’d be the\n",
                 "champ without a doubt.\r"
+            ],
+            "fr_FR": [
+                "Si on était jugés sur l’entraînement,\n",
+                "ce serait moi le numéro un.\r"
             ]
         }
-    ]
+    ],
+    "name_fr": "Fathi"
 }

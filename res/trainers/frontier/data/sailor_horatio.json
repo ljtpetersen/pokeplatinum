@@ -77,6 +77,10 @@
             "en_US": [
                 "Here comes your prey!\n",
                 "Get ’em! Chaaaarge!"
+            ],
+            "fr_FR": [
+                "Voilà ma victime!\n",
+                "A l’abordage!"
             ]
         },
         {
@@ -84,14 +88,20 @@
             "en_US": [
                 "Gaahahaha!\n",
                 "That’s it! Good job!\r"
-            ]
+            ],
+            "fr_FR": "Gwahahahaha!\r"
         },
         {
             "type": "TRMSG_DEFEAT",
             "en_US": [
                 "We’re outmatched!\n",
                 "Pull back, guys! Run away!\r"
+            ],
+            "fr_FR": [
+                "Nous sommes perdus!\n",
+                "Sabordez le navire!\r"
             ]
         }
-    ]
+    ],
+    "name_fr": "Helder"
 }

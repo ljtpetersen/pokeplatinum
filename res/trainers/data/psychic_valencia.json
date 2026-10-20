@@ -42,6 +42,10 @@
             "en_US": [
                 "I am a Psychic!\n",
                 "I can see your past!\r"
+            ],
+            "fr_FR": [
+                "Je suis Kinésiste!\n",
+                "Je peux voir ton passé!\r"
             ]
         },
         {
@@ -49,6 +53,10 @@
             "en_US": [
                 "Your past...\n",
                 "You’ve been through a lot...\n"
+            ],
+            "fr_FR": [
+                "Ton passé prouve que...\n",
+                "tu as traversé bien des épreuves...\n"
             ]
         },
         {
@@ -56,7 +64,12 @@
             "en_US": [
                 "Let me guess.\n",
                 "Have you met any legendary Pokémon?\n"
+            ],
+            "fr_FR": [
+                "Laisse-moi deviner...\n",
+                "Tu as rencontré un Pokémon légendaire?\n"
             ]
         }
-    ]
+    ],
+    "name_fr": "Emily"
 }

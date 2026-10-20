@@ -41,11 +41,17 @@
             "en_US": [
                 "People still keep coming to us for\n",
                 "battles! Why?!\r"
+            ],
+            "fr_FR": [
+                "On vient toujours me voir pour des\n",
+                "combats! Pourquoi?!\r"
             ]
         },
         {
             "type": "TRMSG_DEFEAT",
-            "en_US": "OK, we lost.\n"
+            "en_US": "OK, we lost.\n",
+            "fr_FR": "Ok, on a perdu!"
         }
-    ]
+    ],
+    "name_fr": "Heidi"
 }

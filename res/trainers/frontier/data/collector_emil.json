@@ -59,6 +59,10 @@
             "en_US": [
                 "I’m the main character of this story.\n",
                 "It’s impossible for me to lose."
+            ],
+            "fr_FR": [
+                "Je suis le héros de cet épisode.\n",
+                "Je ne peux pas perdre."
             ]
         },
         {
@@ -66,6 +70,10 @@
             "en_US": [
                 "You’re good! Though, as a supporting\n",
                 "character, you’re a bit too strong.\r"
+            ],
+            "fr_FR": [
+                "Pas mal! Pas encore suffisant pour me\n",
+                "faire de l’ombre, mais tu as du talent.\r"
             ]
         },
         {
@@ -73,7 +81,12 @@
             "en_US": [
                 "...The hero has to suffer a bit so the\n",
                 "audience feels more empathy.\r"
+            ],
+            "fr_FR": [
+                "Evidemment, le public aime voir le héros\n",
+                "souffrir. Ça le rend plus humain.\r"
             ]
         }
-    ]
+    ],
+    "name_fr": "Ilja"
 }

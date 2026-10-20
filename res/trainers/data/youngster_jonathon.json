@@ -26,6 +26,10 @@
             "en_US": [
                 "You avoided the long way around?\n",
                 "Let’s see why you’d do that!\r"
+            ],
+            "fr_FR": [
+                "Tu as pris un raccourci? \n",
+                "Voyons ce que ça cache!\r"
             ]
         },
         {
@@ -33,6 +37,10 @@
             "en_US": [
                 "Now I understand why you decided to\n",
                 "battle with me.\n"
+            ],
+            "fr_FR": [
+                "Je comprends mieux pourquoi tu n’avais \n",
+                "pas peur de combattre contre moi.\n"
             ]
         },
         {
@@ -40,7 +48,12 @@
             "en_US": [
                 "You should go whichever way you\n",
                 "want, shortcut or the long way!\n"
+            ],
+            "fr_FR": [
+                "Tu peux prendre un raccourci ou le\n",
+                "long chemin, la décision t’appartient.\n"
             ]
         }
-    ]
+    ],
+    "name_fr": "Justin"
 }

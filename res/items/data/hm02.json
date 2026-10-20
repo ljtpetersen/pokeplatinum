@@ -27,5 +27,13 @@
   "fieldUseFunc": "ITEM_USE_FUNC_TM_HM",
   "battleUseCategory": "BATTLE_USE_CATEGORY_NONE",
   "itemUseParams": null,
-  "teachesMove": "MOVE_FLY"
+  "teachesMove": "MOVE_FLY",
+  "name_fr": "CS02",
+  "description_fr": [
+    "Le lanceur s’envole au 1¹ tour et\n",
+    "frappe au 2⁴. Permet aussi d’être\n",
+    "porté dans une ville connue."
+  ],
+  "plural_fr": "CS02",
+  "article_fr": null
 }

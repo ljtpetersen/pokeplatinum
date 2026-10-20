@@ -25,5 +25,12 @@
     "contest": {
         "effect": "CONTEST_EFFECT_NO_VOLTAGE_DOWN",
         "type": "CONTEST_TYPE_SMART"
-    }
+    },
+    "name_fr": "Siffl’Herbe",
+    "description_fr": [
+        "Le lanceur joue une\n",
+        "douce mélodie qui\n",
+        "plonge l’ennemi dans\n",
+        "un profond sommeil."
+    ]
 }

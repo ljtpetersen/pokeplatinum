@@ -27,5 +27,13 @@
   "fieldUseFunc": "ITEM_USE_FUNC_TM_HM",
   "battleUseCategory": "BATTLE_USE_CATEGORY_NONE",
   "itemUseParams": null,
-  "teachesMove": "MOVE_IRON_TAIL"
+  "teachesMove": "MOVE_IRON_TAIL",
+  "name_fr": "CT23",
+  "description_fr": [
+    "Attaque l’ennemi avec une queue de fer.\n",
+    "Peut aussi baisser la Défense de\n",
+    "l’ennemi."
+  ],
+  "plural_fr": "CT23",
+  "article_fr": null
 }

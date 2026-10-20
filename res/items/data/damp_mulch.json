@@ -26,5 +26,13 @@
   "battlePocket": "BATTLE_POCKET_MASK_NONE",
   "fieldUseFunc": "ITEM_USE_FUNC_MULCH",
   "battleUseCategory": "BATTLE_USE_CATEGORY_NONE",
-  "itemUseParams": {}
+  "itemUseParams": {},
+  "name_fr": "Fertihumide",
+  "description_fr": [
+    "Un engrais utilisé sur sol meuble.\n",
+    "Les Baies poussent plus lentement, mais\n",
+    "le sol s’assèche moins vite."
+  ],
+  "plural_fr": "Fertihumide",
+  "article_fr": null
 }

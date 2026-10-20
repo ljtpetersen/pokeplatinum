@@ -25,5 +25,13 @@
     "contest": {
         "effect": "CONTEST_EFFECT_SUPPRESS_VOLTAGE",
         "type": "CONTEST_TYPE_BEAUTY"
-    }
+    },
+    "name_fr": "Mur Lumière",
+    "description_fr": [
+        "Un fabuleux mur de\n",
+        "lumière qui réduit les\n",
+        "dégâts causés par les\n",
+        "attaques spéciales\n",
+        "durant 5 tours."
+    ]
 }

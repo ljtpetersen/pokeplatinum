@@ -28,5 +28,12 @@
   "battleUseCategory": "BATTLE_USE_CATEGORY_HEALING",
   "itemUseParams": {
     "healParalysis": true
-  }
+  },
+  "name_fr": "Anti-Para",
+  "description_fr": [
+    "Un médicament sous forme de spray.\n",
+    "Soigne un Pokémon de la paralysie."
+  ],
+  "plural_fr": "Anti-Para",
+  "article_fr": null
 }

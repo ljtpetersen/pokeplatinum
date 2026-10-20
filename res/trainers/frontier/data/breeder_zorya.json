@@ -77,6 +77,10 @@
             "en_US": [
                 "Pokémon are Pokémon, no matter how\n",
                 "tough, weak, cute, or scary."
+            ],
+            "fr_FR": [
+                "Les Pokémon sont des Pokémon, qu’ils\n",
+                "soient forts ou faibles, jolis ou laids."
             ]
         },
         {
@@ -84,6 +88,10 @@
             "en_US": [
                 "Raise Pokémon with love, and they’ll\n",
                 "return it.\r"
+            ],
+            "fr_FR": [
+                "Si tu élèves tes Pokémon avec amour, ils\n",
+                "te le rendront bien.\r"
             ]
         },
         {
@@ -91,7 +99,12 @@
             "en_US": [
                 "I think it’s the Trainer who needs to\n",
                 "pick up the pace here.\r"
+            ],
+            "fr_FR": [
+                "Euh... Je crois que je dois revoir\n",
+                "ma copie...\r"
             ]
         }
-    ]
+    ],
+    "name_fr": "Zoée"
 }

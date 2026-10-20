@@ -27,5 +27,13 @@
     "contest": {
         "effect": "CONTEST_EFFECT_BASIC",
         "type": "CONTEST_TYPE_COOL"
-    }
+    },
+    "name_fr": "Sacrifice",
+    "description_fr": [
+        "Le lanceur agrippe\n",
+        "l’ennemi et l’écrase\n",
+        "au sol. Blesse aussi\n",
+        "légèrement le \n",
+        "lanceur."
+    ]
 }

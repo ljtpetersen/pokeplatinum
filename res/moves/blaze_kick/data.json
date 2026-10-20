@@ -26,5 +26,12 @@
     "contest": {
         "effect": "CONTEST_EFFECT_FIRST_PERFORMANCE_ADVANTAGE",
         "type": "CONTEST_TYPE_BEAUTY"
-    }
+    },
+    "name_fr": "Pied Brûleur",
+    "description_fr": [
+        "Le lanceur envoie un\n",
+        "coup de pied à taux de\n",
+        "critiques élevé. Peut\n",
+        "aussi brûler la cible."
+    ]
 }

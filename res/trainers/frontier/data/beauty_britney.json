@@ -59,21 +59,25 @@
             "en_US": [
                 "Ooh, aren’t you the most darling thing!\n",
                 "Can you win a smile from me?"
-            ]
+            ],
+            "fr_FR": "Ooh! Tu es vraiment chou!"
         },
         {
             "type": "TRMSG_WIN",
             "en_US": [
                 "Ooh, sweetie, I win, so no smile!\n",
                 "Be sure to win next time!\r"
-            ]
+            ],
+            "fr_FR": "Tu es chou mais moi, j’ai gagné!\r"
         },
         {
             "type": "TRMSG_DEFEAT",
             "en_US": [
                 "I don’t feel like smiling now...but\n",
                 "I’ll be happy to wave good-bye!\r"
-            ]
+            ],
+            "fr_FR": "Sur ce, on va se dire au revoir!\r"
         }
-    ]
+    ],
+    "name_fr": "Britney"
 }

@@ -8,6 +8,12 @@
         "to the mine.\r",
         "At night, everyone’s at home\n",
         "getting some well-deserved rest."
+      ],
+      "fr_FR": [
+        "Pendant la journée, tout le monde va\n",
+        "à la mine.\r",
+        "La nuit, tout le monde rentre prendre\n",
+        "un repos bien mérité."
       ]
     },
     {
@@ -15,6 +21,10 @@
       "en_US": [
         "We’ll keep digging coal.\n",
         "The world needs energy!"
+      ],
+      "fr_FR": [
+        "On creuse pour trouver du charbon.\n",
+        "Le monde a besoin d’énergie!"
       ]
     },
     {
@@ -22,6 +32,11 @@
       "en_US": [
         "Everyone, including lots of Pokémon,\n",
         "dug the big underground maze!"
+      ],
+      "fr_FR": [
+        "Tout le monde creuse le grand\n",
+        "labyrinthe souterrain, y compris des\f",
+        "tas de Pokémon!"
       ]
     }
   ]

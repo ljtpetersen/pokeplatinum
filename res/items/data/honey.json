@@ -26,5 +26,13 @@
   "battlePocket": "BATTLE_POCKET_MASK_NONE",
   "fieldUseFunc": "ITEM_USE_FUNC_HONEY",
   "battleUseCategory": "BATTLE_USE_CATEGORY_NONE",
-  "itemUseParams": {}
+  "itemUseParams": {},
+  "name_fr": "Miel",
+  "description_fr": [
+    "Un miel au parfum riche qui, utilisé dans\n",
+    "l’herbe, une grotte ou sur des arbres\n",
+    "spéciaux, attire les Pokémon sauvages."
+  ],
+  "plural_fr": "Miel",
+  "article_fr": null
 }

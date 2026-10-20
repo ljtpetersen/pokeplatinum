@@ -3,13 +3,18 @@
   "messages": [
     {
       "id": "pl_msg_00000353_00000",
-      "en_US": "There appears to be a problem..."
+      "en_US": "There appears to be a problem...",
+      "fr_FR": "Il y a un problème..."
     },
     {
       "id": "pl_msg_00000353_00001",
       "en_US": [
         "Waiting for {STRVAR_1 3, 1, 0}’s\n",
         "response..."
+      ],
+      "fr_FR": [
+        "Attente d’une réponse de\n",
+        "{STRVAR_1 3, 1, 0}..."
       ]
     },
     {
@@ -17,23 +22,31 @@
       "en_US": [
         "Asking {STRVAR_1 3, 1, 0} to do member\n",
         "registration. Please wait."
+      ],
+      "fr_FR": [
+        "{STRVAR_1 3, 1, 0} doit enregistrer les\n",
+        "membres. Veuillez patienter..."
       ]
     },
     {
       "id": "pl_msg_00000353_00003",
-      "en_US": "Do you want to leave the group?"
+      "en_US": "Do you want to leave the group?",
+      "fr_FR": "Voulez-vous quitter le groupe?"
     },
     {
       "id": "pl_msg_00000353_00004",
-      "en_US": "{STRVAR_1 3, 1, 0} replied, “OK.”"
+      "en_US": "{STRVAR_1 3, 1, 0} replied, “OK.”",
+      "fr_FR": "{STRVAR_1 3, 1, 0} a répondu “OK”."
     },
     {
       "id": "pl_msg_00000353_00005",
-      "en_US": "{STRVAR_1 3, 1, 0} refused...\r"
+      "en_US": "{STRVAR_1 3, 1, 0} refused...\r",
+      "fr_FR": "{STRVAR_1 3, 1, 0} a refusé...\r"
     },
     {
       "id": "pl_msg_00000353_00006",
-      "en_US": "You have left the group."
+      "en_US": "You have left the group.",
+      "fr_FR": "Vous avez quitté le groupe."
     },
     {
       "id": "pl_msg_00000353_00007",
@@ -44,6 +57,10 @@
       "en_US": [
         "Single Battle!\n",
         "Awaiting contact from your friend."
+      ],
+      "fr_FR": [
+        "Combat Solo! \n",
+        "Attente d’un autre joueur..."
       ]
     },
     {
@@ -51,6 +68,10 @@
       "en_US": [
         "Double Battle!\n",
         "Awaiting contact from your friend."
+      ],
+      "fr_FR": [
+        "Combat Duo! \n",
+        "Attente d’un autre joueur..."
       ]
     },
     {
@@ -58,6 +79,10 @@
       "en_US": [
         "Multi Battle!\n",
         "Awaiting contact from your friends."
+      ],
+      "fr_FR": [
+        "Combat Multi! \n",
+        "Attente d’un autre joueur..."
       ]
     },
     {
@@ -65,6 +90,10 @@
       "en_US": [
         "Mix Battle!\n",
         "Awaiting contact from your friend."
+      ],
+      "fr_FR": [
+        "Combat Mixte! \n",
+        "Attente d’un autre joueur..."
       ]
     },
     {
@@ -72,6 +101,10 @@
       "en_US": [
         "When the group is ready:\n",
         "A Button: Proceed   B Button: Cancel"
+      ],
+      "fr_FR": [
+        "Lorsque tous les joueurs sont prêts...\n",
+        "Bouton A: Confirmer   Bouton B: Annuler"
       ]
     },
     {
@@ -79,6 +112,10 @@
       "en_US": [
         "Record Corner!\n",
         "Awaiting contact from your friend(s)."
+      ],
+      "fr_FR": [
+        "Centre de Données!\n",
+        "Attente d’un autre joueur..."
       ]
     },
     {
@@ -86,6 +123,10 @@
       "en_US": [
         "When the group is ready:\n",
         "A Button: Proceed   B Button: Cancel"
+      ],
+      "fr_FR": [
+        "Lorsque tous les joueurs sont prêts...\n",
+        "Bouton A: Confirmer   Bouton B: Annuler"
       ]
     },
     {
@@ -93,6 +134,10 @@
       "en_US": [
         "Battle Tower!\n",
         "Awaiting contact from your friend."
+      ],
+      "fr_FR": [
+        "Tour de Combat! \n",
+        "Attente d’un autre joueur..."
       ]
     },
     {
@@ -100,6 +145,10 @@
       "en_US": [
         "Battle Factory--Level 50!\n",
         "Awaiting contact from your friend."
+      ],
+      "fr_FR": [
+        "Usine de Combat - Niveau 50!\n",
+        "Attente d’un autre joueur..."
       ]
     },
     {
@@ -107,6 +156,10 @@
       "en_US": [
         "Battle Factory--Open Level!\n",
         "Awaiting contact from your friend."
+      ],
+      "fr_FR": [
+        "Usine de Combat - Niveau libre!\n",
+        "Attente d’un autre joueur..."
       ]
     },
     {
@@ -114,6 +167,10 @@
       "en_US": [
         "Battle Hall!\n",
         "Awaiting contact from your friend."
+      ],
+      "fr_FR": [
+        "Scène de Combat! \n",
+        "Attente d’un autre joueur..."
       ]
     },
     {
@@ -121,6 +178,10 @@
       "en_US": [
         "Battle Castle!\n",
         "Awaiting contact from your friend."
+      ],
+      "fr_FR": [
+        "Castel de Combat! \n",
+        "Attente d’un autre joueur..."
       ]
     },
     {
@@ -128,6 +189,10 @@
       "en_US": [
         "Battle Arcade!\n",
         "Awaiting contact from your friend."
+      ],
+      "fr_FR": [
+        "Arcade de Combat! \n",
+        "Attente d’un autre joueur..."
       ]
     },
     {
@@ -135,6 +200,10 @@
       "en_US": [
         "{STRVAR_1 3, 1, 0} has contacted you.\n",
         "Would you like to trade?"
+      ],
+      "fr_FR": [
+        "{STRVAR_1 3, 1, 0} vous a contacté(e).\n",
+        "Voulez-vous faire un échange?"
       ]
     },
     {
@@ -142,6 +211,10 @@
       "en_US": [
         "{STRVAR_1 3, 1, 0} has contacted you.\n",
         "Start a Single Battle?"
+      ],
+      "fr_FR": [
+        "{STRVAR_1 3, 1, 0} vous a contacté(e).\n",
+        "Voulez-vous faire un Combat Solo?"
       ]
     },
     {
@@ -149,6 +222,10 @@
       "en_US": [
         "{STRVAR_1 3, 1, 0} has contacted you.\n",
         "Start a Double Battle?"
+      ],
+      "fr_FR": [
+        "{STRVAR_1 3, 1, 0} vous a contacté(e).\n",
+        "Voulez-vous faire un Combat Duo?"
       ]
     },
     {
@@ -156,6 +233,10 @@
       "en_US": [
         "{STRVAR_1 3, 1, 0} has contacted you.\n",
         "Start a Mix Battle?"
+      ],
+      "fr_FR": [
+        "{STRVAR_1 3, 1, 0} vous a contacté(e).\n",
+        "Voulez-vous faire un Combat Mixte?"
       ]
     },
     {
@@ -163,6 +244,10 @@
       "en_US": [
         "{STRVAR_1 3, 1, 0} has contacted you.\n",
         "Let {STRVAR_1 3, 1, 0} join your group?"
+      ],
+      "fr_FR": [
+        "{STRVAR_1 3, 1, 0} vous a contacté(e).\n",
+        "L’ajouter aux membres?"
       ]
     },
     {
@@ -170,6 +255,10 @@
       "en_US": [
         "{STRVAR_1 3, 1, 0} has contacted you.\n",
         "Take the Battle Tower challenge?"
+      ],
+      "fr_FR": [
+        "{STRVAR_1 3, 1, 0} vous a contacté(e). Vous\n",
+        "relevez le défi de la Tour de Combat?"
       ]
     },
     {
@@ -177,6 +266,10 @@
       "en_US": [
         "{STRVAR_1 3, 1, 0} has contacted you.\n",
         "Start the Battle Factory challenge?"
+      ],
+      "fr_FR": [
+        "{STRVAR_1 3, 1, 0} vous a contacté(e). Vous\n",
+        "relevez le défi de l’Usine de Combat?"
       ]
     },
     {
@@ -184,6 +277,10 @@
       "en_US": [
         "{STRVAR_1 3, 1, 0} has contacted you.\n",
         "Start the Battle Hall challenge?"
+      ],
+      "fr_FR": [
+        "{STRVAR_1 3, 1, 0} vous a contacté(e). Vous\n",
+        "relevez le défi de la Scène de Combat?"
       ]
     },
     {
@@ -191,6 +288,10 @@
       "en_US": [
         "{STRVAR_1 3, 1, 0} has contacted you.\n",
         "Start the Battle Castle challenge?"
+      ],
+      "fr_FR": [
+        "{STRVAR_1 3, 1, 0} vous a contacté(e). Vous\n",
+        "relevez le défi du Castel de Combat?"
       ]
     },
     {
@@ -198,6 +299,10 @@
       "en_US": [
         "{STRVAR_1 3, 1, 0} has contacted you.\n",
         "Start the Battle Arcade challenge?"
+      ],
+      "fr_FR": [
+        "{STRVAR_1 3, 1, 0} vous a contacté(e). Vous\n",
+        "relevez le défi de l’Arcade de Combat?"
       ]
     },
     {
@@ -205,6 +310,10 @@
       "en_US": [
         "{STRVAR_1 3, 1, 0} has contacted you.\n",
         "Let {STRVAR_1 3, 1, 0} join your group?"
+      ],
+      "fr_FR": [
+        "{STRVAR_1 3, 1, 0} vous a contacté(e).\n",
+        "L’ajouter aux membres?"
       ]
     },
     {
@@ -212,17 +321,26 @@
       "en_US": [
         "Multi Battle!\n",
         "Is this group OK?"
+      ],
+      "fr_FR": [
+        "Combat Multi!\n",
+        "Ce groupe vous convient?"
       ]
     },
     {
       "id": "pl_msg_00000353_00033",
-      "en_US": "Is this group OK?"
+      "en_US": "Is this group OK?",
+      "fr_FR": "Ce groupe vous convient?"
     },
     {
       "id": "pl_msg_00000353_00034",
       "en_US": [
         "Record Corner!\n",
         "Is this group OK?"
+      ],
+      "fr_FR": [
+        "Centre de Données!\n",
+        "Ce groupe vous convient?"
       ]
     },
     {
@@ -230,6 +348,10 @@
       "en_US": [
         "Contest!\n",
         "Is this group OK?"
+      ],
+      "fr_FR": [
+        "Concours!\n",
+        "Ce groupe vous convient?"
       ]
     },
     {
@@ -237,21 +359,34 @@
       "en_US": [
         "Cancel a Multi Battle involving this\n",
         "group?"
+      ],
+      "fr_FR": [
+        "Annuler le Combat Multi avec\n",
+        "ce groupe?"
       ]
     },
     {
       "id": "pl_msg_00000353_00037",
-      "en_US": "Cancel the cooking session?"
+      "en_US": "Cancel the cooking session?",
+      "fr_FR": "Annuler la séance de cuisine?"
     },
     {
       "id": "pl_msg_00000353_00038",
-      "en_US": "Cancel mixing records with this group?"
+      "en_US": "Cancel mixing records with this group?",
+      "fr_FR": [
+        "Annuler l’échange de données\n",
+        "avec ce groupe?"
+      ]
     },
     {
       "id": "pl_msg_00000353_00039",
       "en_US": [
         "Cancel holding a Contest with this\n",
         "group?"
+      ],
+      "fr_FR": [
+        "Annuler le Concours avec ce\n",
+        "groupe?"
       ]
     },
     {
@@ -259,6 +394,10 @@
       "en_US": [
         "Choose the friend that you want to\n",
         "trade Pokémon with."
+      ],
+      "fr_FR": [
+        "Veuillez choisir la personne\n",
+        "avec qui faire l’échange."
       ]
     },
     {
@@ -266,6 +405,10 @@
       "en_US": [
         "Choose the Single Battle you would\n",
         "like to join."
+      ],
+      "fr_FR": [
+        "Choisissez le Combat Solo auquel\n",
+        "vous voulez vous joindre."
       ]
     },
     {
@@ -273,6 +416,10 @@
       "en_US": [
         "Choose the Double Battle you would\n",
         "like to join."
+      ],
+      "fr_FR": [
+        "Choisissez le Combat Duo auquel\n",
+        "vous voulez vous joindre."
       ]
     },
     {
@@ -280,6 +427,10 @@
       "en_US": [
         "Choose the Multi Battle you would\n",
         "like to join."
+      ],
+      "fr_FR": [
+        "Choisissez le Combat Multi auquel\n",
+        "vous voulez vous joindre."
       ]
     },
     {
@@ -287,6 +438,10 @@
       "en_US": [
         "Choose the Mix Battle you would\n",
         "like to join."
+      ],
+      "fr_FR": [
+        "Choisissez le Combat Mixte auquel\n",
+        "vous voulez vous joindre."
       ]
     },
     {
@@ -294,6 +449,10 @@
       "en_US": [
         "Choose the friend(s) you want to\n",
         "cook with."
+      ],
+      "fr_FR": [
+        "Choisissez avec qui vous\n",
+        "voulez cuisiner."
       ]
     },
     {
@@ -301,6 +460,10 @@
       "en_US": [
         "Choose the friend(s) you want to\n",
         "mix records with."
+      ],
+      "fr_FR": [
+        "Choisissez avec qui vous voulez\n",
+        "échanger vos données."
       ]
     },
     {
@@ -308,6 +471,10 @@
       "en_US": [
         "Choose the friends you want to\n",
         "hold a Contest with."
+      ],
+      "fr_FR": [
+        "Choisissez avec qui vous voulez\n",
+        "participer à un Concours."
       ]
     },
     {
@@ -315,6 +482,10 @@
       "en_US": [
         "Choose the friend you want to take\n",
         "to the Battle Tower."
+      ],
+      "fr_FR": [
+        "Choisissez avec qui vous voulez\n",
+        "aller à la Tour de Combat."
       ]
     },
     {
@@ -322,6 +493,10 @@
       "en_US": [
         "Choose the friend you want to play\n",
         "with at the Battle Factory--Level 50."
+      ],
+      "fr_FR": [
+        "Choisissez avec qui vous voulez relever\n",
+        "le défi de l’Usine de Combat - Niveau 50."
       ]
     },
     {
@@ -329,6 +504,10 @@
       "en_US": [
         "Choose the friend you want to play with\n",
         "at the Battle Factory--Open Level."
+      ],
+      "fr_FR": [
+        "Choisissez avec qui vous voulez relever\n",
+        "le défi Usine de Combat - Niveau libre."
       ]
     },
     {
@@ -336,6 +515,10 @@
       "en_US": [
         "Choose the friend you want to play\n",
         "with in the Battle Hall."
+      ],
+      "fr_FR": [
+        "Choisissez avec qui vous voulez relever\n",
+        "le défi de la Scène de Combat."
       ]
     },
     {
@@ -343,6 +526,10 @@
       "en_US": [
         "Choose the friend you want to play\n",
         "with at the Battle Castle."
+      ],
+      "fr_FR": [
+        "Choisissez avec qui vous voulez relever\n",
+        "le défi du Castel de Combat."
       ]
     },
     {
@@ -350,6 +537,10 @@
       "en_US": [
         "Choose the friend you want to play\n",
         "with at the Battle Arcade."
+      ],
+      "fr_FR": [
+        "Choisissez avec qui vous voulez relever\n",
+        "le défi de l’Arcade de Combat."
       ]
     },
     {
@@ -358,6 +549,11 @@
         "A member has dropped out.\r",
         "Please repeat the registration\n",
         "process from the beginning."
+      ],
+      "fr_FR": [
+        "Un membre a abandonné.\r",
+        "Veuillez recommencer l’enregistrement\n",
+        "depuis le début."
       ]
     },
     {
@@ -365,6 +561,10 @@
       "en_US": [
         "Record mixing with this group will\n",
         "be canceled."
+      ],
+      "fr_FR": [
+        "L’échange de données avec ce groupe\n",
+        "va être annulé."
       ]
     },
     {
@@ -372,28 +572,45 @@
       "en_US": [
         "A Contest involving this group will\n",
         "be canceled."
+      ],
+      "fr_FR": [
+        "Un Concours avec ce groupe va être\n",
+        "annulé."
       ]
     },
     {
       "id": "pl_msg_00000353_00057",
-      "en_US": "Replied “OK” to {STRVAR_1 3, 1, 0}."
+      "en_US": "Replied “OK” to {STRVAR_1 3, 1, 0}.",
+      "fr_FR": [
+        "“OK” a été envoyé\n",
+        "à {STRVAR_1 3, 1, 0}."
+      ]
     },
     {
       "id": "pl_msg_00000353_00058",
       "en_US": [
         "Multi Battle!\n",
         "Waiting for the rest of the group."
+      ],
+      "fr_FR": [
+        "Combat Multi!\n",
+        "Attente du reste du groupe..."
       ]
     },
     {
       "id": "pl_msg_00000353_00059",
-      "en_US": "Waiting for the rest of the group."
+      "en_US": "Waiting for the rest of the group.",
+      "fr_FR": "Attente du reste du groupe..."
     },
     {
       "id": "pl_msg_00000353_00060",
       "en_US": [
         "Record Corner!\n",
         "Waiting for the rest of the group."
+      ],
+      "fr_FR": [
+        "Centre de Données!\n",
+        "Attente du reste du groupe..."
       ]
     },
     {
@@ -401,6 +618,10 @@
       "en_US": [
         "Contest!\n",
         "Waiting for the rest of the group."
+      ],
+      "fr_FR": [
+        "Concours!\n",
+        "Attente du reste du groupe..."
       ]
     },
     {
@@ -408,34 +629,44 @@
       "en_US": [
         "{STRVAR_1 3, 0, 0}\n",
         "ID{STRVAR_1 54, 1, 0}"
+      ],
+      "fr_FR": [
+        "{STRVAR_1 3, 0, 0}\n",
+        "Nº{STRVAR_1 54, 1, 0}"
       ]
     },
     {
       "id": "pl_msg_00000353_00063",
-      "en_US": "{STRVAR_1 51, 0, 0}:{STRVAR_1 3, 1, 0}"
+      "en_US": "{STRVAR_1 51, 0, 0}:{STRVAR_1 3, 1, 0}",
+      "fr_FR": "{STRVAR_1 51, 0, 0}: {STRVAR_1 3, 1, 0}"
     },
     {
       "id": "pl_msg_00000353_00064",
-      "en_US": "{STRVAR_1 51, 0, 0}:"
+      "en_US": "{STRVAR_1 51, 0, 0}:",
+      "fr_FR": "{STRVAR_1 51, 0, 0}:"
     },
     {
       "id": "pl_msg_00000353_00065",
-      "en_US": "ID{STRVAR_1 54, 2, 0}"
+      "en_US": "ID{STRVAR_1 54, 2, 0}",
+      "fr_FR": "Nº{STRVAR_1 54, 2, 0}"
     },
     {
       "id": "pl_msg_00000353_00066",
-      "en_US": "{STRVAR_1 3, 0, 0}"
+      "en_US": "{STRVAR_1 3, 0, 0}",
+      "fr_FR": "{STRVAR_1 3, 0, 0}"
     },
     {
       "id": "pl_msg_00000353_00067",
       "en_US": [
         "{STRVAR_1 50, 0, 0} more\n",
         "needed."
-      ]
+      ],
+      "fr_FR": "Manque {STRVAR_1 50, 0, 0}."
     },
     {
       "id": "pl_msg_00000353_00068",
-      "en_US": "{STRVAR_1 50, 0, 0} Players"
+      "en_US": "{STRVAR_1 50, 0, 0} Players",
+      "fr_FR": "{STRVAR_1 50, 0, 0} joueurs"
     },
     {
       "id": "pl_msg_00000353_00069",
@@ -443,117 +674,148 @@
     },
     {
       "id": "Unk0353_Text_StandardCup",
-      "en_US": "STANDARD"
+      "en_US": "STANDARD",
+      "fr_FR": "STANDARD"
     },
     {
       "id": "Unk0353_Text_FancyCup",
-      "en_US": "FANCY"
+      "en_US": "FANCY",
+      "fr_FR": "CHIC"
     },
     {
       "id": "Unk0353_Text_LittleCup",
-      "en_US": "LITTLE"
+      "en_US": "LITTLE",
+      "fr_FR": "MINI"
     },
     {
       "id": "Unk0353_Text_LightCup",
-      "en_US": "LIGHT"
+      "en_US": "LIGHT",
+      "fr_FR": "LEGERE"
     },
     {
       "id": "Unk0353_Text_DoubleCup",
-      "en_US": "DOUBLE"
+      "en_US": "DOUBLE",
+      "fr_FR": "DOUBLE"
     },
     {
       "id": "Unk0353_Text_RuleNoOfPokemon",
-      "en_US": "No. of Pokémon:"
+      "en_US": "No. of Pokémon:",
+      "fr_FR": "Nb de Pokémon:"
     },
     {
       "id": "Unk0353_Text_RulePokemonLevel",
-      "en_US": "Pokémon level:"
+      "en_US": "Pokémon level:",
+      "fr_FR": "Niveau des Pokémon:"
     },
     {
       "id": "Unk0353_Text_RuleTotalLevels",
-      "en_US": "Total levels:"
+      "en_US": "Total levels:",
+      "fr_FR": "Total niveaux:"
     },
     {
       "id": "Unk0353_Text_RuleHeight",
-      "en_US": "Height:"
+      "en_US": "Height:",
+      "fr_FR": "Hauteur:"
     },
     {
       "id": "Unk0353_Text_RuleWeight",
-      "en_US": "Weight:"
+      "en_US": "Weight:",
+      "fr_FR": "Poids:"
     },
     {
       "id": "Unk0353_Text_RuleEvolvedPokemon",
-      "en_US": "Evolved Pokémon:"
+      "en_US": "Evolved Pokémon:",
+      "fr_FR": "Pokémon après évolution:"
     },
     {
       "id": "Unk0353_Text_RuleSpecialPokemon",
-      "en_US": "Special Pokémon:"
+      "en_US": "Special Pokémon:",
+      "fr_FR": "Pokémon spéciaux:"
     },
     {
       "id": "Unk0353_Text_RuleSamePokemon",
-      "en_US": "Same Pokémon:"
+      "en_US": "Same Pokémon:",
+      "fr_FR": "Pokémon identiques:"
     },
     {
       "id": "Unk0353_Text_RuleSameItems",
-      "en_US": "Same items:"
+      "en_US": "Same items:",
+      "fr_FR": "Objets identiques:"
     },
     {
       "id": "Unk0353_Text_ValueNoOfPokemon",
-      "en_US": "{STRVAR_1 50, 0, 0}"
+      "en_US": "{STRVAR_1 50, 0, 0}",
+      "fr_FR": "{STRVAR_1 50, 0, 0}"
     },
     {
       "id": "Unk0353_Text_ValueMaxLevel",
-      "en_US": "Max. {STRVAR_1 52, 0, 0}"
+      "en_US": "Max. {STRVAR_1 52, 0, 0}",
+      "fr_FR": "Max. {STRVAR_1 52, 0, 0}"
     },
     {
       "id": "Unk0353_Text_ValueMaxTotalLevels",
-      "en_US": "Max. {STRVAR_1 52, 0, 0}"
+      "en_US": "Max. {STRVAR_1 52, 0, 0}",
+      "fr_FR": "Max. {STRVAR_1 52, 0, 0}"
     },
     {
       "id": "Unk0353_Text_ValueMaxHeight",
-      "en_US": "Max. {STRVAR_1 50, 0, 0}’ {STRVAR_1 50, 1, 0}”"
+      "en_US": "Max. {STRVAR_1 50, 0, 0}’ {STRVAR_1 50, 1, 0}”",
+      "fr_FR": "Max. {STRVAR_1 50, 0, 0},{STRVAR_1 50, 1, 0} m"
     },
     {
       "id": "Unk0353_Text_ValueMinHeight",
-      "en_US": "Min. {STRVAR_1 50, 0, 0}’ {STRVAR_1 50, 1, 0}”"
+      "en_US": "Min. {STRVAR_1 50, 0, 0}’ {STRVAR_1 50, 1, 0}”",
+      "fr_FR": "Min. {STRVAR_1 50, 0, 0},{STRVAR_1 50, 1, 0} m"
     },
     {
       "id": "Unk0353_Text_ValueMaxWeight",
-      "en_US": "Max. {STRVAR_1 51, 0, 0} lbs."
+      "en_US": "Max. {STRVAR_1 51, 0, 0} lbs.",
+      "fr_FR": "Max. {STRVAR_1 51, 0, 0} kg"
     },
     {
       "id": "Unk0353_Text_ValueMinWeight",
-      "en_US": "Min. {STRVAR_1 51, 0, 0} lbs."
+      "en_US": "Min. {STRVAR_1 51, 0, 0} lbs.",
+      "fr_FR": "Min. {STRVAR_1 51, 0, 0} kg"
     },
     {
       "id": "Unk0353_Text_ValuePokemonPermitted",
-      "en_US": "Permitted"
+      "en_US": "Permitted",
+      "fr_FR": "Autorisé"
     },
     {
       "id": "Unk0353_Text_ValuePokemonBanned",
-      "en_US": "Banned"
+      "en_US": "Banned",
+      "fr_FR": "Interdit"
     },
     {
       "id": "Unk0353_Text_ValueItemsPermitted",
-      "en_US": "Permitted"
+      "en_US": "Permitted",
+      "fr_FR": "Autorisé"
     },
     {
       "id": "Unk0353_Text_ValueItemsBanned",
-      "en_US": "Banned"
+      "en_US": "Banned",
+      "fr_FR": "Interdit"
     },
     {
       "id": "Unk0353_Text_Cup",
-      "en_US": "{STRVAR_1 26, 0, 0} Cup"
+      "en_US": "{STRVAR_1 26, 0, 0} Cup",
+      "fr_FR": "Coupe {STRVAR_1 26, 0, 0}"
     },
     {
       "id": "Unk0353_Text_NoRestrictions",
-      "en_US": "NO RESTRICTIONS"
+      "en_US": "NO RESTRICTIONS",
+      "fr_FR": "TOUT EST PERMIS"
     },
     {
       "id": "pl_msg_00000353_00097",
       "en_US": [
         "Players have chosen different rules.\n",
         "The same rules must be chosen."
+      ],
+      "fr_FR": [
+        "Les joueurs doivent choisir les\n",
+        "mêmes règles."
       ]
     },
     {
@@ -561,6 +823,10 @@
       "en_US": [
         "Cool Contest!\n",
         "Awaiting contact from another player."
+      ],
+      "fr_FR": [
+        "Concours de Sang-froid! \n",
+        "Attente d’un autre joueur..."
       ]
     },
     {
@@ -568,6 +834,10 @@
       "en_US": [
         "Beauty Contest!\n",
         "Awaiting contact from another player."
+      ],
+      "fr_FR": [
+        "Concours de Beauté!\n",
+        "Attente d’un autre joueur..."
       ]
     },
     {
@@ -575,6 +845,10 @@
       "en_US": [
         "Cute Contest!\n",
         "Awaiting contact from another player."
+      ],
+      "fr_FR": [
+        "Concours de Grâce! \n",
+        "Attente d’un autre joueur..."
       ]
     },
     {
@@ -582,6 +856,10 @@
       "en_US": [
         "Smart Contest!\n",
         "Awaiting contact from another player."
+      ],
+      "fr_FR": [
+        "Concours d’Intelligence!\n",
+        "Attente d’un autre joueur..."
       ]
     },
     {
@@ -589,6 +867,10 @@
       "en_US": [
         "Tough Contest!\n",
         "Awaiting contact from another player."
+      ],
+      "fr_FR": [
+        "Concours de Robustesse!\n",
+        "Attente d’un autre joueur..."
       ]
     },
     {
@@ -596,6 +878,10 @@
       "en_US": [
         "Cool Contest!\n",
         "Please choose the leader."
+      ],
+      "fr_FR": [
+        "Concours de Sang-froid!\n",
+        "Choisissez le meneur."
       ]
     },
     {
@@ -603,6 +889,10 @@
       "en_US": [
         "Beauty Contest!\n",
         "Please choose the leader."
+      ],
+      "fr_FR": [
+        "Concours de Beauté!\n",
+        "Choisissez le meneur."
       ]
     },
     {
@@ -610,6 +900,10 @@
       "en_US": [
         "Cute Contest!\n",
         "Please choose the leader."
+      ],
+      "fr_FR": [
+        "Concours de Grâce!\n",
+        "Choisissez le meneur."
       ]
     },
     {
@@ -617,6 +911,10 @@
       "en_US": [
         "Smart Contest!\n",
         "Please choose the leader."
+      ],
+      "fr_FR": [
+        "Concours d’Intelligence!\n",
+        "Choisissez le meneur."
       ]
     },
     {
@@ -624,6 +922,10 @@
       "en_US": [
         "Tough Contest!\n",
         "Please choose the leader."
+      ],
+      "fr_FR": [
+        "Concours de Robustesse!\n",
+        "Choisissez le meneur."
       ]
     },
     {
@@ -631,6 +933,10 @@
       "en_US": [
         "Cool Contest! Awaiting contact.\n",
         "A Button: When everyone’s ready."
+      ],
+      "fr_FR": [
+        "Concours de Sang-froid! Attente...\n",
+        "Appuyez sur le bouton A une fois prêts."
       ]
     },
     {
@@ -638,6 +944,10 @@
       "en_US": [
         "Beauty Contest! Awaiting contact.\n",
         "A Button: When everyone’s ready."
+      ],
+      "fr_FR": [
+        "Concours de Beauté! Attente...\n",
+        "Appuyez sur le bouton A une fois prêts."
       ]
     },
     {
@@ -645,6 +955,10 @@
       "en_US": [
         "Cute Contest! Awaiting contact.\n",
         "A Button: When everyone’s ready."
+      ],
+      "fr_FR": [
+        "Concours de Grâce! Attente...\n",
+        "Appuyez sur le bouton A une fois prêts."
       ]
     },
     {
@@ -652,6 +966,10 @@
       "en_US": [
         "Smart Contest! Awaiting contact.\n",
         "A Button: When everyone’s ready."
+      ],
+      "fr_FR": [
+        "Concours d’Intelligence! Attente...\n",
+        "Appuyez sur le bouton A une fois prêts."
       ]
     },
     {
@@ -659,6 +977,10 @@
       "en_US": [
         "Tough Contest! Awaiting contact.\n",
         "A Button: When everyone’s ready."
+      ],
+      "fr_FR": [
+        "Concours de Robustesse! Attente...\n",
+        "Appuyez sur le bouton A une fois prêts."
       ]
     },
     {
@@ -666,6 +988,10 @@
       "en_US": [
         "Cool Contest!\n",
         "Awaiting other members!"
+      ],
+      "fr_FR": [
+        "Concours de Sang-froid!\n",
+        "En attente de participants..."
       ]
     },
     {
@@ -673,6 +999,10 @@
       "en_US": [
         "Beauty Contest!\n",
         "Awaiting other members!"
+      ],
+      "fr_FR": [
+        "Concours de Beauté!\n",
+        "En attente de participants..."
       ]
     },
     {
@@ -680,6 +1010,10 @@
       "en_US": [
         "Cute Contest!\n",
         "Awaiting other members!"
+      ],
+      "fr_FR": [
+        "Concours de Grâce!\n",
+        "En attente de participants..."
       ]
     },
     {
@@ -687,6 +1021,10 @@
       "en_US": [
         "Smart Contest!\n",
         "Awaiting other members!"
+      ],
+      "fr_FR": [
+        "Concours d’Intelligence!\n",
+        "En attente de participants..."
       ]
     },
     {
@@ -694,6 +1032,10 @@
       "en_US": [
         "Tough Contest!\n",
         "Awaiting other members!"
+      ],
+      "fr_FR": [
+        "Concours de Robustesse!\n",
+        "En attente de participants..."
       ]
     },
     {
@@ -701,6 +1043,10 @@
       "en_US": [
         "The Cool Contest with\n",
         "these members will be canceled."
+      ],
+      "fr_FR": [
+        "Le Concours de Sang-froid avec ces\n",
+        "membres va être annulé."
       ]
     },
     {
@@ -708,6 +1054,10 @@
       "en_US": [
         "The Beauty Contest with\n",
         "these members will be canceled."
+      ],
+      "fr_FR": [
+        "Le Concours de Beauté avec ces\n",
+        "membres va être annulé."
       ]
     },
     {
@@ -715,6 +1065,10 @@
       "en_US": [
         "The Cute Contest with\n",
         "these members will be canceled."
+      ],
+      "fr_FR": [
+        "Le Concours de Grâce avec ces\n",
+        "membres va être annulé."
       ]
     },
     {
@@ -722,6 +1076,10 @@
       "en_US": [
         "The Smart Contest with\n",
         "these members will be canceled."
+      ],
+      "fr_FR": [
+        "Le Concours d’Intelligence avec ces\n",
+        "membres va être annulé."
       ]
     },
     {
@@ -729,6 +1087,10 @@
       "en_US": [
         "The Tough Contest with\n",
         "these members will be canceled."
+      ],
+      "fr_FR": [
+        "Le Concours de Robustesse avec ces\n",
+        "membres va être annulé."
       ]
     }
   ]

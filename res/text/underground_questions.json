@@ -3,51 +3,63 @@
   "messages": [
     {
       "id": "UndergroundQuestions_Text_FavoriteColor",
-      "en_US": "Favorite color"
+      "en_US": "Favorite color",
+      "fr_FR": "Une couleur préférée"
     },
     {
       "id": "UndergroundQuestions_Text_FavoriteSport",
-      "en_US": "Favorite sport"
+      "en_US": "Favorite sport",
+      "fr_FR": "Un sport préféré"
     },
     {
       "id": "UndergroundQuestions_Text_FavoritePlace",
-      "en_US": "Favorite place"
+      "en_US": "Favorite place",
+      "fr_FR": "Un endroit préféré"
     },
     {
       "id": "UndergroundQuestions_Text_FavoriteClass",
-      "en_US": "Favorite class"
+      "en_US": "Favorite class",
+      "fr_FR": "Un cours préféré"
     },
     {
       "id": "UndergroundQuestions_Text_LeastFavoriteClass",
-      "en_US": "Least favorite class"
+      "en_US": "Least favorite class",
+      "fr_FR": "Un cours redouté"
     },
     {
       "id": "UndergroundQuestions_Text_FavoriteThing",
-      "en_US": "Favorite thing"
+      "en_US": "Favorite thing",
+      "fr_FR": "Une activité préférée"
     },
     {
       "id": "UndergroundQuestions_Text_FavoritePersonality",
-      "en_US": "Favorite personality"
+      "en_US": "Favorite personality",
+      "fr_FR": "Un caractère préféré"
     },
     {
       "id": "UndergroundQuestions_Text_MostWantedThing",
-      "en_US": "Most wanted thing"
+      "en_US": "Most wanted thing",
+      "fr_FR": "Un objet convoité"
     },
     {
       "id": "UndergroundQuestions_Text_OwnDream",
-      "en_US": "Own dream"
+      "en_US": "Own dream",
+      "fr_FR": "Un grand rêve"
     },
     {
       "id": "UndergroundQuestions_Text_FoodIWantNow",
-      "en_US": "Food I want now"
+      "en_US": "Food I want now",
+      "fr_FR": "Un plat préféré"
     },
     {
       "id": "UndergroundQuestions_Text_FavoritePokemon",
-      "en_US": "Favorite Pokémon"
+      "en_US": "Favorite Pokémon",
+      "fr_FR": "Un Pokémon préféré"
     },
     {
       "id": "UndergroundQuestions_Text_HolidayActivity",
-      "en_US": "Holiday activity"
+      "en_US": "Holiday activity",
+      "fr_FR": "Un loisir de vacances"
     }
   ]
 }

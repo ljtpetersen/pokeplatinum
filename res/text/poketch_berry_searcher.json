@@ -3,7 +3,8 @@
   "messages": [
     {
       "id": "PoketchBerrySearcher_Text_Berries",
-      "en_US": "BERRIES"
+      "en_US": "BERRIES",
+      "fr_FR": "BAIES"
     }
   ]
 }

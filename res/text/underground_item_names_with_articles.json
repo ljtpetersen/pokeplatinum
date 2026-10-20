@@ -3,243 +3,303 @@
   "messages": [
     {
       "id": "pl_msg_00000629_00000",
-      "en_US": "a {COLOR 255}Prism Sphere{COLOR 0}"
+      "en_US": "a {COLOR 255}Prism Sphere{COLOR 0}",
+      "fr_FR": "{COLOR 255}Sphère Prisme{COLOR 0}"
     },
     {
       "id": "pl_msg_00000629_00001",
-      "en_US": "a {COLOR 255}Prism Sphere{COLOR 0}"
+      "en_US": "a {COLOR 255}Prism Sphere{COLOR 0}",
+      "fr_FR": "{COLOR 255}Sphère Prisme{COLOR 0}"
     },
     {
       "id": "pl_msg_00000629_00002",
-      "en_US": "a {COLOR 4}Pale Sphere{COLOR 0}"
+      "en_US": "a {COLOR 4}Pale Sphere{COLOR 0}",
+      "fr_FR": "{COLOR 4}Sphère Pâle{COLOR 0}"
     },
     {
       "id": "pl_msg_00000629_00003",
-      "en_US": "a {COLOR 1}Red Sphere{COLOR 0}"
+      "en_US": "a {COLOR 1}Red Sphere{COLOR 0}",
+      "fr_FR": "{COLOR 1}Sphère Rouge{COLOR 0}"
     },
     {
       "id": "pl_msg_00000629_00004",
-      "en_US": "a {COLOR 2}Blue Sphere{COLOR 0}"
+      "en_US": "a {COLOR 2}Blue Sphere{COLOR 0}",
+      "fr_FR": "{COLOR 2}Sphère Bleue{COLOR 0}"
     },
     {
       "id": "pl_msg_00000629_00005",
-      "en_US": "a {COLOR 3}Green Sphere{COLOR 0}"
+      "en_US": "a {COLOR 3}Green Sphere{COLOR 0}",
+      "fr_FR": "{COLOR 3}Sphère Verte{COLOR 0}"
     },
     {
       "id": "pl_msg_00000629_00006",
-      "en_US": "a {COLOR 255}Prism Sphere{COLOR 0}"
+      "en_US": "a {COLOR 255}Prism Sphere{COLOR 0}",
+      "fr_FR": "{COLOR 255}Sphère Prisme{COLOR 0}"
     },
     {
       "id": "pl_msg_00000629_00007",
-      "en_US": "a {COLOR 4}Pale Sphere{COLOR 0}"
+      "en_US": "a {COLOR 4}Pale Sphere{COLOR 0}",
+      "fr_FR": "{COLOR 4}Sphère Pâle{COLOR 0}"
     },
     {
       "id": "pl_msg_00000629_00008",
-      "en_US": "a {COLOR 1}Red Sphere{COLOR 0}"
+      "en_US": "a {COLOR 1}Red Sphere{COLOR 0}",
+      "fr_FR": "{COLOR 1}Sphère Rouge{COLOR 0}"
     },
     {
       "id": "pl_msg_00000629_00009",
-      "en_US": "a {COLOR 2}Blue Sphere{COLOR 0}"
+      "en_US": "a {COLOR 2}Blue Sphere{COLOR 0}",
+      "fr_FR": "{COLOR 2}Sphère Bleue{COLOR 0}"
     },
     {
       "id": "pl_msg_00000629_00010",
-      "en_US": "a {COLOR 3}Green Sphere{COLOR 0}"
+      "en_US": "a {COLOR 3}Green Sphere{COLOR 0}",
+      "fr_FR": "{COLOR 3}Sphère Verte{COLOR 0}"
     },
     {
       "id": "pl_msg_00000629_00011",
-      "en_US": "a {COLOR 255}Oval Stone{COLOR 0}"
+      "en_US": "a {COLOR 255}Oval Stone{COLOR 0}",
+      "fr_FR": "{COLOR 255}Pierre Ovale{COLOR 0}"
     },
     {
       "id": "pl_msg_00000629_00012",
-      "en_US": "an {COLOR 255}Odd Keystone{COLOR 0}"
+      "en_US": "an {COLOR 255}Odd Keystone{COLOR 0}",
+      "fr_FR": "{COLOR 255}Clé de Voûte{COLOR 0}"
     },
     {
       "id": "pl_msg_00000629_00013",
-      "en_US": "a {COLOR 255}Sun Stone{COLOR 0}"
+      "en_US": "a {COLOR 255}Sun Stone{COLOR 0}",
+      "fr_FR": "{COLOR 255}Pierresoleil{COLOR 0}"
     },
     {
       "id": "pl_msg_00000629_00014",
-      "en_US": "a {COLOR 255}Star Piece{COLOR 0}"
+      "en_US": "a {COLOR 255}Star Piece{COLOR 0}",
+      "fr_FR": "{COLOR 255}Morc. Etoile{COLOR 0}"
     },
     {
       "id": "pl_msg_00000629_00015",
-      "en_US": "a {COLOR 255}Moon Stone{COLOR 0}"
+      "en_US": "a {COLOR 255}Moon Stone{COLOR 0}",
+      "fr_FR": "{COLOR 255}Pierre Lune{COLOR 0}"
     },
     {
       "id": "pl_msg_00000629_00016",
-      "en_US": "a {COLOR 255}Hard Stone{COLOR 0}"
+      "en_US": "a {COLOR 255}Hard Stone{COLOR 0}",
+      "fr_FR": "{COLOR 255}Pierre Dure{COLOR 0}"
     },
     {
       "id": "pl_msg_00000629_00017",
-      "en_US": "a {COLOR 255}Thunderstone{COLOR 0}"
+      "en_US": "a {COLOR 255}Thunderstone{COLOR 0}",
+      "fr_FR": "{COLOR 255}Pierrefoudre{COLOR 0}"
     },
     {
       "id": "pl_msg_00000629_00018",
-      "en_US": "an {COLOR 255}Everstone{COLOR 0}"
+      "en_US": "an {COLOR 255}Everstone{COLOR 0}",
+      "fr_FR": "{COLOR 255}Pierre Stase{COLOR 0}"
     },
     {
       "id": "pl_msg_00000629_00019",
-      "en_US": "a {COLOR 255}Fire Stone{COLOR 0}"
+      "en_US": "a {COLOR 255}Fire Stone{COLOR 0}",
+      "fr_FR": "{COLOR 255}Pierre Feu{COLOR 0}"
     },
     {
       "id": "pl_msg_00000629_00020",
-      "en_US": "a {COLOR 255}Water Stone{COLOR 0}"
+      "en_US": "a {COLOR 255}Water Stone{COLOR 0}",
+      "fr_FR": "{COLOR 255}Pierre Eau{COLOR 0}"
     },
     {
       "id": "pl_msg_00000629_00021",
-      "en_US": "a {COLOR 255}Leaf Stone{COLOR 0}"
+      "en_US": "a {COLOR 255}Leaf Stone{COLOR 0}",
+      "fr_FR": "{COLOR 255}Pierreplante{COLOR 0}"
     },
     {
       "id": "pl_msg_00000629_00022",
-      "en_US": "a {COLOR 255}Nugget{COLOR 0}"
+      "en_US": "a {COLOR 255}Nugget{COLOR 0}",
+      "fr_FR": "{COLOR 255}Pépite{COLOR 0}"
     },
     {
       "id": "pl_msg_00000629_00023",
-      "en_US": "a {COLOR 255}Helix Fossil{COLOR 0}"
+      "en_US": "a {COLOR 255}Helix Fossil{COLOR 0}",
+      "fr_FR": "{COLOR 255}Nautile{COLOR 0}"
     },
     {
       "id": "pl_msg_00000629_00024",
-      "en_US": "a {COLOR 255}Dome Fossil{COLOR 0}"
+      "en_US": "a {COLOR 255}Dome Fossil{COLOR 0}",
+      "fr_FR": "{COLOR 255}Fossile Dôme{COLOR 0}"
     },
     {
       "id": "pl_msg_00000629_00025",
-      "en_US": "a {COLOR 255}Claw Fossil{COLOR 0}"
+      "en_US": "a {COLOR 255}Claw Fossil{COLOR 0}",
+      "fr_FR": "{COLOR 255}Foss. Griffe{COLOR 0}"
     },
     {
       "id": "pl_msg_00000629_00026",
-      "en_US": "a {COLOR 255}Root Fossil{COLOR 0}"
+      "en_US": "a {COLOR 255}Root Fossil{COLOR 0}",
+      "fr_FR": "{COLOR 255}Foss. Racine{COLOR 0}"
     },
     {
       "id": "pl_msg_00000629_00027",
-      "en_US": "an {COLOR 255}Old Amber{COLOR 0}"
+      "en_US": "an {COLOR 255}Old Amber{COLOR 0}",
+      "fr_FR": "{COLOR 255}Vieil Ambre{COLOR 0}"
     },
     {
       "id": "pl_msg_00000629_00028",
-      "en_US": "a {COLOR 255}Rare Bone{COLOR 0}"
+      "en_US": "a {COLOR 255}Rare Bone{COLOR 0}",
+      "fr_FR": "{COLOR 255}Os Rare{COLOR 0}"
     },
     {
       "id": "pl_msg_00000629_00029",
-      "en_US": "a {COLOR 255}Revive{COLOR 0}"
+      "en_US": "a {COLOR 255}Revive{COLOR 0}",
+      "fr_FR": "{COLOR 255}Rappel{COLOR 0}"
     },
     {
       "id": "pl_msg_00000629_00030",
-      "en_US": "a {COLOR 255}Max Revive{COLOR 0}"
+      "en_US": "a {COLOR 255}Max Revive{COLOR 0}",
+      "fr_FR": "{COLOR 255}Rappel Max{COLOR 0}"
     },
     {
       "id": "pl_msg_00000629_00031",
-      "en_US": "a {COLOR 255}Red Shard{COLOR 0}"
+      "en_US": "a {COLOR 255}Red Shard{COLOR 0}",
+      "fr_FR": "{COLOR 255}Tesson Rouge{COLOR 0}"
     },
     {
       "id": "pl_msg_00000629_00032",
-      "en_US": "a {COLOR 255}Blue Shard{COLOR 0}"
+      "en_US": "a {COLOR 255}Blue Shard{COLOR 0}",
+      "fr_FR": "{COLOR 255}Tesson Bleu{COLOR 0}"
     },
     {
       "id": "pl_msg_00000629_00033",
-      "en_US": "a {COLOR 255}Yellow Shard{COLOR 0}"
+      "en_US": "a {COLOR 255}Yellow Shard{COLOR 0}",
+      "fr_FR": "{COLOR 255}Tesson Jaune{COLOR 0}"
     },
     {
       "id": "pl_msg_00000629_00034",
-      "en_US": "a {COLOR 255}Green Shard{COLOR 0}"
+      "en_US": "a {COLOR 255}Green Shard{COLOR 0}",
+      "fr_FR": "{COLOR 255}Tesson Vert{COLOR 0}"
     },
     {
       "id": "pl_msg_00000629_00035",
-      "en_US": "a {COLOR 255}Heart Scale{COLOR 0}"
+      "en_US": "a {COLOR 255}Heart Scale{COLOR 0}",
+      "fr_FR": "{COLOR 255}Ecaillecoeur{COLOR 0}"
     },
     {
       "id": "pl_msg_00000629_00036",
-      "en_US": "an {COLOR 255}Armor Fossil{COLOR 0}"
+      "en_US": "an {COLOR 255}Armor Fossil{COLOR 0}",
+      "fr_FR": "{COLOR 255}Foss. Armure{COLOR 0}"
     },
     {
       "id": "pl_msg_00000629_00037",
-      "en_US": "a {COLOR 255}Skull Fossil{COLOR 0}"
+      "en_US": "a {COLOR 255}Skull Fossil{COLOR 0}",
+      "fr_FR": "{COLOR 255}Foss. Crâne{COLOR 0}"
     },
     {
       "id": "pl_msg_00000629_00038",
-      "en_US": "a {COLOR 255}Light Clay{COLOR 0}"
+      "en_US": "a {COLOR 255}Light Clay{COLOR 0}",
+      "fr_FR": "{COLOR 255}Lumargile{COLOR 0}"
     },
     {
       "id": "pl_msg_00000629_00039",
-      "en_US": "an {COLOR 255}Iron Ball{COLOR 0}"
+      "en_US": "an {COLOR 255}Iron Ball{COLOR 0}",
+      "fr_FR": "{COLOR 255}Balle Fer{COLOR 0}"
     },
     {
       "id": "pl_msg_00000629_00040",
-      "en_US": "an {COLOR 255}Icy Rock{COLOR 0}"
+      "en_US": "an {COLOR 255}Icy Rock{COLOR 0}",
+      "fr_FR": "{COLOR 255}Roche Glace{COLOR 0}"
     },
     {
       "id": "pl_msg_00000629_00041",
-      "en_US": "a {COLOR 255}Smooth Rock{COLOR 0}"
+      "en_US": "a {COLOR 255}Smooth Rock{COLOR 0}",
+      "fr_FR": "{COLOR 255}Roche Lisse{COLOR 0}"
     },
     {
       "id": "pl_msg_00000629_00042",
-      "en_US": "a {COLOR 255}Heat Rock{COLOR 0}"
+      "en_US": "a {COLOR 255}Heat Rock{COLOR 0}",
+      "fr_FR": "{COLOR 255}Roche Chaude{COLOR 0}"
     },
     {
       "id": "pl_msg_00000629_00043",
-      "en_US": "a {COLOR 255}Damp Rock{COLOR 0}"
+      "en_US": "a {COLOR 255}Damp Rock{COLOR 0}",
+      "fr_FR": "{COLOR 255}Roche Humide{COLOR 0}"
     },
     {
       "id": "pl_msg_00000629_00044",
-      "en_US": "a {COLOR 255}Flame Plate{COLOR 0}"
+      "en_US": "a {COLOR 255}Flame Plate{COLOR 0}",
+      "fr_FR": "{COLOR 255}Plaque Flam{COLOR 0}"
     },
     {
       "id": "pl_msg_00000629_00045",
-      "en_US": "a {COLOR 255}Splash Plate{COLOR 0}"
+      "en_US": "a {COLOR 255}Splash Plate{COLOR 0}",
+      "fr_FR": "{COLOR 255}Plaque Hydro{COLOR 0}"
     },
     {
       "id": "pl_msg_00000629_00046",
-      "en_US": "a {COLOR 255}Zap Plate{COLOR 0}"
+      "en_US": "a {COLOR 255}Zap Plate{COLOR 0}",
+      "fr_FR": "{COLOR 255}Plaque Volt{COLOR 0}"
     },
     {
       "id": "pl_msg_00000629_00047",
-      "en_US": "a {COLOR 255}Meadow Plate{COLOR 0}"
+      "en_US": "a {COLOR 255}Meadow Plate{COLOR 0}",
+      "fr_FR": "{COLOR 255}Plaque Herbe{COLOR 0}"
     },
     {
       "id": "pl_msg_00000629_00048",
-      "en_US": "an {COLOR 255}Icicle Plate{COLOR 0}"
+      "en_US": "an {COLOR 255}Icicle Plate{COLOR 0}",
+      "fr_FR": "{COLOR 255}Plaque Glace{COLOR 0}"
     },
     {
       "id": "pl_msg_00000629_00049",
-      "en_US": "a {COLOR 255}Fist Plate{COLOR 0}"
+      "en_US": "a {COLOR 255}Fist Plate{COLOR 0}",
+      "fr_FR": "{COLOR 255}Plaque Poing{COLOR 0}"
     },
     {
       "id": "pl_msg_00000629_00050",
-      "en_US": "a {COLOR 255}Toxic Plate{COLOR 0}"
+      "en_US": "a {COLOR 255}Toxic Plate{COLOR 0}",
+      "fr_FR": "{COLOR 255}Plaque Toxic{COLOR 0}"
     },
     {
       "id": "pl_msg_00000629_00051",
-      "en_US": "an {COLOR 255}Earth Plate{COLOR 0}"
+      "en_US": "an {COLOR 255}Earth Plate{COLOR 0}",
+      "fr_FR": "{COLOR 255}Plaque Terre{COLOR 0}"
     },
     {
       "id": "pl_msg_00000629_00052",
-      "en_US": "a {COLOR 255}Sky Plate{COLOR 0}"
+      "en_US": "a {COLOR 255}Sky Plate{COLOR 0}",
+      "fr_FR": "{COLOR 255}Plaque Ciel{COLOR 0}"
     },
     {
       "id": "pl_msg_00000629_00053",
-      "en_US": "a {COLOR 255}Mind Plate{COLOR 0}"
+      "en_US": "a {COLOR 255}Mind Plate{COLOR 0}",
+      "fr_FR": "{COLOR 255}Plaquesprit{COLOR 0}"
     },
     {
       "id": "pl_msg_00000629_00054",
-      "en_US": "an {COLOR 255}Insect Plate{COLOR 0}"
+      "en_US": "an {COLOR 255}Insect Plate{COLOR 0}",
+      "fr_FR": "{COLOR 255}Plaquinsect{COLOR 0}"
     },
     {
       "id": "pl_msg_00000629_00055",
-      "en_US": "a {COLOR 255}Stone Plate{COLOR 0}"
+      "en_US": "a {COLOR 255}Stone Plate{COLOR 0}",
+      "fr_FR": "{COLOR 255}Plaque Roc{COLOR 0}"
     },
     {
       "id": "pl_msg_00000629_00056",
-      "en_US": "a {COLOR 255}Spooky Plate{COLOR 0}"
+      "en_US": "a {COLOR 255}Spooky Plate{COLOR 0}",
+      "fr_FR": "{COLOR 255}Plaque Fantô{COLOR 0}"
     },
     {
       "id": "pl_msg_00000629_00057",
-      "en_US": "a {COLOR 255}Draco Plate{COLOR 0}"
+      "en_US": "a {COLOR 255}Draco Plate{COLOR 0}",
+      "fr_FR": "{COLOR 255}Plaque Draco{COLOR 0}"
     },
     {
       "id": "pl_msg_00000629_00058",
-      "en_US": "a {COLOR 255}Dread Plate{COLOR 0}"
+      "en_US": "a {COLOR 255}Dread Plate{COLOR 0}",
+      "fr_FR": "{COLOR 255}Plaque Ombre{COLOR 0}"
     },
     {
       "id": "pl_msg_00000629_00059",
-      "en_US": "an {COLOR 255}Iron Plate{COLOR 0}"
+      "en_US": "an {COLOR 255}Iron Plate{COLOR 0}",
+      "fr_FR": "{COLOR 255}Plaque Fer{COLOR 0}"
     },
     {
       "id": "pl_msg_00000629_00060",

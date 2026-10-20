@@ -34,11 +34,17 @@
             "en_US": [
                 "My dragon Pokémon chose to remain\n",
                 "here to become powerful.\r"
+            ],
+            "fr_FR": [
+                "Mes Pokémon de type Dragon ont\n",
+                "choisi de rester ici pour s’endurcir.\r"
             ]
         },
         {
             "type": "TRMSG_DEFEAT",
-            "en_US": "Your battle style...\n"
+            "en_US": "Your battle style...\n",
+            "fr_FR": "Ton style de combat...\n"
         }
-    ]
+    ],
+    "name_fr": "Bruno"
 }

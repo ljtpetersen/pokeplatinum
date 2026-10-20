@@ -6,6 +6,10 @@
       "en_US": [
         "Hahaha!\n",
         "I’m gonna swipe your Flag!"
+      ],
+      "fr_FR": [
+        "Ha, ha, ha!\n",
+        "Je vais te voler ton Drapeau!"
       ]
     },
     {
@@ -13,6 +17,10 @@
       "en_US": [
         "I set some nasty Traps!\n",
         "Catch me if you can!"
+      ],
+      "fr_FR": [
+        "J’ai installé plein de pièges sournois!\n",
+        "Attrape-moi si tu peux!"
       ]
     },
     {
@@ -20,6 +28,10 @@
       "en_US": [
         "Thanks to the Gym Leader, we can\n",
         "play underground."
+      ],
+      "fr_FR": [
+        "Grâce au Champion d’Arène, on peut\n",
+        "jouer dans le Souterrain."
       ]
     }
   ]

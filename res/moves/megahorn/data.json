@@ -28,5 +28,12 @@
     "contest": {
         "effect": "CONTEST_EFFECT_FINAL_PERFORMANCE_ADVANTAGE",
         "type": "CONTEST_TYPE_COOL"
-    }
+    },
+    "name_fr": "Mégacorne",
+    "description_fr": [
+        "Le lanceur utilise ses\n",
+        "gigantesques cornes\n",
+        "pour charger\n",
+        "l’ennemi."
+    ]
 }

@@ -41,18 +41,29 @@
                 "We’re the Karate Quads!\r",
                 "I will strike a blow for hope with my\n",
                 "fist! Hiyah, hoooooooooooooope!\r"
+            ],
+            "fr_FR": [
+                "Nous sommes le Quatuor Karaté!\r",
+                "Si je joue des poings, c’est pour\n",
+                "célébrer l’espoir! Oui, l’espoir!\r"
             ]
         },
         {
             "type": "TRMSG_DEFEAT",
-            "en_US": "We came up short, but not by much.\n"
+            "en_US": "We came up short, but not by much.\n",
+            "fr_FR": "On a failli y arriver.\n"
         },
         {
             "type": "TRMSG_POST_BATTLE",
             "en_US": [
                 "I’ll have to redo my training, though.\n",
                 "Maylene’s gonna trample me again...\n"
+            ],
+            "fr_FR": [
+                "Je vais devoir repenser mon\n",
+                "entraînement. Mélina va me gronder...\n"
             ]
         }
-    ]
+    ],
+    "name_fr": "Lucas"
 }

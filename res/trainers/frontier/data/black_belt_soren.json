@@ -57,6 +57,10 @@
             "en_US": [
                 "I don’t like to move much.\n",
                 "I trained using the Net and TV."
+            ],
+            "fr_FR": [
+                "Je déteste voyager. Je me suis\n",
+                "entraîné grâce à Internet."
             ]
         },
         {
@@ -64,6 +68,10 @@
             "en_US": [
                 "Uhihi! I’m a naturally talented pro at\n",
                 "both karate and Pokémon, I am.\r"
+            ],
+            "fr_FR": [
+                "Hé, hé! Une maîtrise absolue du karaté\n",
+                "et des Pokémon, tout ça sans effort!\r"
             ]
         },
         {
@@ -71,7 +79,12 @@
             "en_US": [
                 "Oh, man, this is rotten! I’m tired and\n",
                 "hungry and want to go home!\r"
+            ],
+            "fr_FR": [
+                "Bah, je suis déçu. Et fatigué. Et j’ai\n",
+                "faim. Et je veux rentrer chez moi.\r"
             ]
         }
-    ]
+    ],
+    "name_fr": "Soren"
 }

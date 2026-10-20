@@ -25,5 +25,13 @@
     "contest": {
         "effect": "CONTEST_EFFECT_BASIC",
         "type": "CONTEST_TYPE_TOUGH"
-    }
+    },
+    "name_fr": "Massd’Os",
+    "description_fr": [
+        "Le lanceur frappe\n",
+        "l’ennemi à grands\n",
+        "coups d’os. Peut\n",
+        "aussi apeurer\n",
+        "l’ennemi."
+    ]
 }

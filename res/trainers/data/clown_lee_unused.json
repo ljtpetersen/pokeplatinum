@@ -24,6 +24,11 @@
                 "Are we all ready to have some fun?\n",
                 "I sure am! Aren’t you having fun?!\f",
                 "Let’s make it fun! OK?! Mwahahah!\r"
+            ],
+            "fr_FR": [
+                "Tout le monde est prêt à s’amuser?\n",
+                "Moi, oui! Tu ne t’amuses pas?!\f",
+                "Amusons-nous! OK?! Mouah, ah, ah!\r"
             ]
         },
         {
@@ -31,6 +36,10 @@
             "en_US": [
                 "Oh, no, no, no!\n",
                 "Mwahahah?\n"
+            ],
+            "fr_FR": [
+                "Oh, non, non, non!\n",
+                "Mouah, ah, ah?\n"
             ]
         },
         {
@@ -39,7 +48,13 @@
                 "A clown’s makeup is a face that’s\n",
                 "crying while laughing. Mwahahah!\r",
                 "It defines what we do!\n"
+            ],
+            "fr_FR": [
+                "Le maquillage d’un Bouffon est un visage\n",
+                "qui rit tout en pleurant. Mouah, ah, ah!\r",
+                "Ça définit ce que nous faisons!\n"
             ]
         }
-    ]
+    ],
+    "name_fr": "Kenzo"
 }

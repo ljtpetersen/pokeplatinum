@@ -26,5 +26,13 @@
   "battlePocket": "BATTLE_POCKET_MASK_NONE",
   "fieldUseFunc": "ITEM_USE_FUNC_NONE",
   "battleUseCategory": "BATTLE_USE_CATEGORY_NONE",
-  "itemUseParams": {}
+  "itemUseParams": {},
+  "name_fr": "Foss. Crâne",
+  "description_fr": [
+    "Fossile d’un Pokémon préhistorique\n",
+    "terrestre. On dirait une partie d’un\n",
+    "crâne."
+  ],
+  "plural_fr": "Foss. Crâne",
+  "article_fr": null
 }

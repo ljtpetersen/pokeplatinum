@@ -77,6 +77,10 @@
             "en_US": [
                 "Hi! Are you my next opponent?\n",
                 "Let’s keep it clean and fair!"
+            ],
+            "fr_FR": [
+                "Salut! C’est toi mon adversaire?\n",
+                "Battons-nous dans le respect!"
             ]
         },
         {
@@ -84,6 +88,10 @@
             "en_US": [
                 "It feels great going all out with no\n",
                 "dirty tricks.\r"
+            ],
+            "fr_FR": [
+                "Ça fait du bien de se battre sans avoir\n",
+                "à craindre les coups bas.\r"
             ]
         },
         {
@@ -91,7 +99,12 @@
             "en_US": [
                 "That was an awesome workout!\n",
                 "We have to do this again sometime!\r"
+            ],
+            "fr_FR": [
+                "C’était vraiment génial!\n",
+                "Il faudra qu’on remette ça!\r"
             ]
         }
-    ]
+    ],
+    "name_fr": "Luis"
 }

@@ -26,5 +26,13 @@
   "battlePocket": "BATTLE_POCKET_MASK_POKE_BALLS",
   "fieldUseFunc": "ITEM_USE_FUNC_NONE",
   "battleUseCategory": "BATTLE_USE_CATEGORY_POKE_BALL",
-  "itemUseParams": null
+  "itemUseParams": null,
+  "name_fr": "Master Ball",
+  "description_fr": [
+    "Assurément la Ball la plus performante.\n",
+    "Elle permet de capturer à coup sûr un\n",
+    "Pokémon sauvage."
+  ],
+  "plural_fr": "Master Ball",
+  "article_fr": null
 }

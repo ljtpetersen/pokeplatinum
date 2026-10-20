@@ -14,6 +14,14 @@
         "but if you do that in real life...\r",
         "There’ll be no end to the fighting,\n",
         "that’s for sure.\r"
+      ],
+      "fr_FR": [
+        "Œil pour œil, dent pour dent...\n",
+        "Ouais, c’est Représailles!\r",
+        "C’est pratique pour les Pokémon,\n",
+        "mais si on faisait pareil dans la vie...\r",
+        "Les guerres n’auraient pas de fin.\n",
+        "Imagine la catastrophe!\r"
       ]
     },
     {
@@ -22,6 +30,11 @@
         "As I said, Payback is harsh.\r",
         "Use it after the foe, and its power\n",
         "gets doubled!"
+      ],
+      "fr_FR": [
+        "Avec Représailles, c’est sans merci. \r",
+        "Utilise cette capacité après une\n",
+        "attaque pour doubler sa puissance!"
       ]
     },
     {
@@ -29,6 +42,10 @@
       "en_US": [
         "Jogging is good for you, but you have\n",
         "to make sure you’re not overdoing it!"
+      ],
+      "fr_FR": [
+        "Le jogging, c’est bon pour la santé,\n",
+        "mais faut pas en faire trop!"
       ]
     },
     {
@@ -36,6 +53,10 @@
       "en_US": [
         "I slow down and stop at times, sure.\n",
         "I’m only human, after all."
+      ],
+      "fr_FR": [
+        "Bien sûr que je fais des pauses, des \n",
+        "fois. Je suis humain, après tout."
       ]
     },
     {
@@ -43,6 +64,10 @@
       "en_US": [
         "Celestic Town\n",
         "Solaceon Town"
+      ],
+      "fr_FR": [
+        "Célestia\n",
+        "Bonville"
       ]
     },
     {
@@ -50,6 +75,10 @@
       "en_US": [
         "Rt. 215\n",
         "Veilstone City"
+      ],
+      "fr_FR": [
+        "Route 215\n",
+        "Voilaroc"
       ]
     },
     {
@@ -62,6 +91,15 @@
         "Attack stat of the Pokémon.\r",
         "Likewise, a special attack is based\n",
         "on the Special Attack stat."
+      ],
+      "fr_FR": [
+        "Conseils aux Dresseurs\r",
+        "Les attaques Pokémon sont classées en\n",
+        "deux types: physiques et spéciales.\r",
+        "Une attaque physique repose sur la\n",
+        "stat d’Attaque du Pokémon.\r",
+        "Une attaque spéciale repose sur sa\n",
+        "stat d’Attaque Spéciale."
       ]
     }
   ]

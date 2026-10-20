@@ -10,6 +10,11 @@
       "en_US": [
         "Cycling Road is only for Bicycles!\r",
         "Please get on your Bicycle!\r"
+      ],
+      "fr_FR": [
+        "La Piste Cyclable est interdite aux\n",
+        "piétons!\r",
+        "En selle, camarade!\r"
       ]
     },
     {
@@ -17,6 +22,10 @@
       "en_US": [
         "Learn how to shift gears, and you’ll\n",
         "be able to ride anywhere."
+      ],
+      "fr_FR": [
+        "Apprenez à passer les vitesses et\n",
+        "vous pourrez aller n’importe où."
       ]
     },
     {
@@ -32,6 +41,19 @@
         "behest.\r",
         "{STRVAR_1 3, 0, 0}, let me ask you,\n",
         "how many Pokémon have you met?\r"
+      ],
+      "fr_FR": [
+        "{STRVAR_1 3, 0, 0}, ça faisait longtemps!\r",
+        "Oh? Quelque chose te chiffonne?\n",
+        "Tu te demandes qui je suis.\r",
+        "Je suis l’assistant du Professeur\n",
+        "Sorbier. Tu connais {STRVAR_1 3, 1, 0}?\f",
+        "Je suis son père.\r",
+        "J’ai parcouru un long chemin pour\n",
+        "t’aider dans ton aventure sur ordre\f",
+        "du professeur.\r",
+        "{STRVAR_1 3, 0, 0}, laisse-moi te poser une\n",
+        "question, combien as-tu vu de Pokémon?\r"
       ]
     },
     {
@@ -47,6 +69,19 @@
         "behest.\r",
         "{STRVAR_1 3, 0, 0}, let me ask you,\n",
         "how many Pokémon have you met?\r"
+      ],
+      "fr_FR": [
+        "{STRVAR_1 3, 0, 0}, ça faisait longtemps!\r",
+        "Oh? Quelque chose te chiffonne?\n",
+        "Tu te demandes qui je suis.\r",
+        "Je suis l’assistant du Professeur\n",
+        "Sorbier. Tu connais {STRVAR_1 3, 1, 0}?\f",
+        "Je suis son père.\r",
+        "J’ai parcouru un long chemin pour\n",
+        "t’aider dans ton aventure sur ordre\f",
+        "du professeur.\r",
+        "{STRVAR_1 3, 0, 0}, laisse-moi te poser une\n",
+        "question, combien as-tu vu de Pokémon?\r"
       ]
     },
     {
@@ -57,6 +92,13 @@
         "Wonderful! Yes, bravo!\n",
         "Professor Rowan should be delighted!\r",
         "Here is something for you!\r"
+      ],
+      "fr_FR": [
+        "Nom d’une pipe!\n",
+        "Tu as rencontré {STRVAR_1 52, 1, 0} Pokémon!\r",
+        "Merveilleux! Je te tire mon chapeau!\n",
+        "Le Professeur Sorbier sera ravi!\r",
+        "Voilà ta récompense!\r"
       ]
     },
     {
@@ -72,6 +114,20 @@
         "disobey you if it is too high in level.\r",
         "Don’t worry, though. It will obey if\n",
         "you have enough Gym Badges."
+      ],
+      "fr_FR": [
+        "Un Pokémon tenant Multi Exp recevra\n",
+        "une partie des Points Exp. obtenus\f",
+        "à la fin du combat.\r",
+        "Cela fonctionne même quand il\n",
+        "n’y participe pas.\r",
+        "Donne-le à un Pokémon que tu veux faire\n",
+        "grandir rapidement.\r",
+        "Au fait, il arrive qu’un Pokémon obtenu\n",
+        "lors d’un échange refuse d’obéir quand\f",
+        "son niveau est trop élevé.\r",
+        "Mais ne t’inquiète pas. Il t’obéira\n",
+        "quand tu auras assez de Badges."
       ]
     },
     {
@@ -82,6 +138,13 @@
         "You’ve got to find at least 35.\r",
         "If you can’t, it will be tough to\n",
         "complete the Sinnoh Pokédex."
+      ],
+      "fr_FR": [
+        "Tu n’as croisé que {STRVAR_1 52, 1, 0} Pokémon?\r",
+        "Hum...\n",
+        "Tu dois en trouver au moins 35.\r",
+        "Tu auras du mal à compléter le Pokédex\n",
+        "de Sinnoh si tu n’y arrives pas."
       ]
     }
   ]

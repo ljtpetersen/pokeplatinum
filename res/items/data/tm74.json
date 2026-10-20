@@ -27,5 +27,13 @@
   "fieldUseFunc": "ITEM_USE_FUNC_TM_HM",
   "battleUseCategory": "BATTLE_USE_CATEGORY_NONE",
   "itemUseParams": null,
-  "teachesMove": "MOVE_GYRO_BALL"
+  "teachesMove": "MOVE_GYRO_BALL",
+  "name_fr": "CT74",
+  "description_fr": [
+    "Le lanceur effectue une rotation et\n",
+    "frappe l’ennemi. Plus le lanceur est\n",
+    "lent, plus il fait de dégâts."
+  ],
+  "plural_fr": "CT74",
+  "article_fr": null
 }

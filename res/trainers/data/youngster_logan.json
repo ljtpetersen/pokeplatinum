@@ -25,6 +25,10 @@
             "en_US": [
                 "Let’s have a Pokémon battle!\n",
                 "Humph! But I’m gonna win!\r"
+            ],
+            "fr_FR": [
+                "Nous allons combattre! Mais attention: \n",
+                "j’ai bien l’intention de gagner!\r"
             ]
         },
         {
@@ -32,6 +36,10 @@
             "en_US": [
                 "You beat me?!\n",
                 "You’ve got talent!"
+            ],
+            "fr_FR": [
+                "Tu m’as battu!\n",
+                "Waouh, tu as du talent!"
             ]
         },
         {
@@ -39,6 +47,10 @@
             "en_US": [
                 "It was fun battling!\n",
                 "Yup! I’m going to battle everyone!"
+            ],
+            "fr_FR": [
+                "Hé, c’était amusant! Je vais affronter\n",
+                "tous les gens que je croise!"
             ]
         },
         {
@@ -46,7 +58,12 @@
             "en_US": [
                 "Let’s have another Pokémon battle!\n",
                 "This time, I’m gonna win!\r"
+            ],
+            "fr_FR": [
+                "Je te propose un autre combat. \n",
+                "Mais cette fois, c’est moi qui gagne!\r"
             ]
         }
-    ]
+    ],
+    "name_fr": "Chuk"
 }

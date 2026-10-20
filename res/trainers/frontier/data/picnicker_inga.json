@@ -77,6 +77,10 @@
             "en_US": [
                 "Trainer spotted!\n",
                 "It’s time to get cooking!"
+            ],
+            "fr_FR": [
+                "Tiens, un Dresseur!\n",
+                "Je vais te cuisiner aux petits oignons!"
             ]
         },
         {
@@ -84,11 +88,17 @@
             "en_US": [
                 "A battle should be enjoyed like a tasty\n",
                 "meal!\r"
+            ],
+            "fr_FR": [
+                "Un bon combat s’apprécie tout autant\n",
+                "qu’un bon repas!\r"
             ]
         },
         {
             "type": "TRMSG_DEFEAT",
-            "en_US": "I ended up getting cooked!\r"
+            "en_US": "I ended up getting cooked!\r",
+            "fr_FR": "Râpé!\r"
         }
-    ]
+    ],
+    "name_fr": "Isis"
 }

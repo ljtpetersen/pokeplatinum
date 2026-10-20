@@ -27,5 +27,13 @@
     "contest": {
         "effect": "CONTEST_EFFECT_NO_VOLTAGE_DOWN",
         "type": "CONTEST_TYPE_SMART"
-    }
+    },
+    "name_fr": "Croco Larme",
+    "description_fr": [
+        "Le lanceur fait \n",
+        "semblant de pleurer\n",
+        "pour troubler l’ennemi\n",
+        "et baisser fortement\n",
+        "sa Déf. Spé."
+    ]
 }

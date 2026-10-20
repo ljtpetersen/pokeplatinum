@@ -24,5 +24,13 @@
     "contest": {
         "effect": "CONTEST_EFFECT_FIRST_NEXT_TURN",
         "type": "CONTEST_TYPE_SMART"
-    }
+    },
+    "name_fr": "Vent Arrière",
+    "description_fr": [
+        "Génère une rafale de\n",
+        "vent qui augmente la\n",
+        "Vitesse des Pokémon\n",
+        "de l’équipe pendant 3\n",
+        "tours."
+    ]
 }

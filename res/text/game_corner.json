@@ -3,7 +3,8 @@
   "messages": [
     {
       "id": "GameCorner_Text_WelcomeToGameCorner",
-      "en_US": "Welcome to the Veilstone Game Corner!\r"
+      "en_US": "Welcome to the Veilstone Game Corner!\r",
+      "fr_FR": "Bienvenue au Casino de Voilaroc!\r"
     },
     {
       "id": "GameCorner_Text_NoCoinCaseToHoldCoins",
@@ -17,6 +18,12 @@
         "Hi there! Do you need some Coins?\r",
         "Oh, I’m sorry, you don’t have\n",
         "a Coin Case to hold your Coins."
+      ],
+      "fr_FR": [
+        "Voulez-vous des Jetons à échanger\n",
+        "contre des objets?\r",
+        "Oh, toutes mes excuses, vous n’avez\n",
+        "pas de Boîte Jetons."
       ]
     },
     {
@@ -25,6 +32,11 @@
         "Did you want some game Coins?\r",
         "It’s $1000 for 50 Coins.\n",
         "Would you like some?"
+      ],
+      "fr_FR": [
+        "Ici nous vendons des Jetons.\r",
+        "C’est 1 000 $ les 50 Jetons.\n",
+        "Qu’en dites-vous?"
       ]
     },
     {
@@ -32,6 +44,10 @@
       "en_US": [
         "Thank you very much!\n",
         "Here are your Coins!"
+      ],
+      "fr_FR": [
+        "Merci beaucoup!\n",
+        "Voici vos Jetons!"
       ]
     },
     {
@@ -39,6 +55,10 @@
       "en_US": [
         "Um... You don’t appear to have\n",
         "enough money..."
+      ],
+      "fr_FR": [
+        "Euh... On dirait que vous\n",
+        "n’avez pas assez d’argent..."
       ]
     },
     {
@@ -46,6 +66,10 @@
       "en_US": [
         "Oh?\n",
         "Your Coin Case is full."
+      ],
+      "fr_FR": [
+        "Oh?\n",
+        "Votre Boîte Jetons est pleine."
       ]
     },
     {
@@ -53,6 +77,10 @@
       "en_US": [
         "Oh... You don’t need Coins, then?\n",
         "Please come again!"
+      ],
+      "fr_FR": [
+        "Oh... Alors vous n’avez pas besoin de \n",
+        "Jetons? A une prochaine fois!"
       ]
     },
     {
@@ -70,6 +98,12 @@
         "a Technical Machine campaign!\r",
         "Here, please take this Technical\n",
         "Machine as a memento!\r"
+      ],
+      "fr_FR": [
+        "Nous menons actuellement une vaste\n",
+        "campagne sur les Capsules Techniques!\r",
+        "S’il vous plaît, prenez cette Capsule\n",
+        "Technique en souvenir!\r"
       ]
     },
     {
@@ -81,6 +115,10 @@
       "en_GB": [
         "You should definitely teach one of\n",
         "your Pokémon the move Explosion!"
+      ],
+      "fr_FR": [
+        "Pensez bien à enseigner la capacité\n",
+        "Explosion à un de vos Pokémon!"
       ]
     },
     {
@@ -88,6 +126,10 @@
       "en_US": [
         "Oh, your Bag is full...\n",
         "We will hold the TM for you."
+      ],
+      "fr_FR": [
+        "Oh, votre Sac est plein...\n",
+        "Nous vous mettons cette CT de côté."
       ]
     },
     {
@@ -105,6 +147,12 @@
         "Technical Machine campaign!\r",
         "Please accept this Technical Machine\n",
         "to help celebrate our success!\r"
+      ],
+      "fr_FR": [
+        "Notre campagne sur les Capsules\n",
+        "Techniques est un véritable succès!\r",
+        "Prenez donc cette Capsule Technique\n",
+        "pour fêter ça!\r"
       ]
     },
     {
@@ -116,6 +164,11 @@
       "en_GB": [
         "It’s a Game Machine!\r",
         "Come back when you have a Coin Case."
+      ],
+      "fr_FR": [
+        "Une borne de jeu!\r",
+        "Revenez quand vous aurez\n",
+        "une Boîte Jetons."
       ]
     },
     {
@@ -136,6 +189,14 @@
         "and collect a lot of coins here!\r",
         "You see, next door, you can exchange\n",
         "your Coins for Technical Machines!"
+      ],
+      "fr_FR": [
+        "Salut! Laisse-moi te donner quelques\n",
+        "tuyaux à propos du Casino!\r",
+        "A quoi bon accumuler les Jetons,\n",
+        "me diras-tu?\r",
+        "Pour les échanger contre des CT\n",
+        "à la boutique d’à côté, tiens!"
       ]
     },
     {
@@ -151,6 +212,13 @@
         "you can’t carry any Coins, see?\r",
         "You want a Coin Case right?\n",
         "Then go to the building next door!"
+      ],
+      "fr_FR": [
+        "Hé, mon p’tit, tu n’as rien pour ranger\n",
+        "tes Jetons.\r",
+        "Si tu cherches une Boîte Jetons, je\n",
+        "crois que le jeune homme d’à côté\f",
+        "en a une."
       ]
     },
     {
@@ -170,6 +238,14 @@
         "from the man.\r",
         "{STRVAR_1 3, 0, 0} put the Coins away in\n",
         "the Coin Case. "
+      ],
+      "fr_FR": [
+        "J’ai la pêche aujourd’hui!\n",
+        "Tiens, voilà des Jetons!\r",
+        "{STRVAR_1 3, 0, 0} obtient 20 Jetons\n",
+        "de la part de l’homme.\r",
+        "{STRVAR_1 3, 0, 0} range les Jetons\n",
+        "dans la Boîte Jetons."
       ]
     },
     {
@@ -185,6 +261,12 @@
         "sometimes extra Coins fall out!\r",
         "Thing is, it only tends to happen\n",
         "once a day..."
+      ],
+      "fr_FR": [
+        "Examine bien les bornes de jeu, tu y\n",
+        "décrouvriras peut-être des Jetons!\r",
+        "A vrai dire, ça n’arrive qu’une fois\n",
+        "par jour, en général..."
       ]
     },
     {
@@ -200,6 +282,12 @@
         "The Coins just keep on coming!\r",
         "Oh, if only you had a Coin Case!\n",
         "Then you’d know how much fun this is!"
+      ],
+      "fr_FR": [
+        "Wouhou! Des Jetons par milliers!\n",
+        "Par centaines de milliers!\r",
+        "Ah, si tu avais une Boîte Jetons! Tu\n",
+        "verrais ce que c’est que de s’amuser!"
       ]
     },
     {
@@ -223,6 +311,16 @@
         "from the man.\r",
         "{STRVAR_1 3, 0, 0} put the Coins away in\n",
         "the Coin Case. "
+      ],
+      "fr_FR": [
+        "Wouhou! Les Jetons s’amoncèlent!\n",
+        "A moi, les Capsules Techniques!\r",
+        "Laisse-moi te faire partager ma\n",
+        "joie!\r",
+        "{STRVAR_1 3, 0, 0} obtient 50 Jetons\n",
+        "de la part de l’homme.\r",
+        "{STRVAR_1 3, 0, 0} a rangé les Jetons\n",
+        "dans la Boîte Jetons."
       ]
     },
     {
@@ -243,6 +341,14 @@
         "Sometimes you can find Coins in the\n",
         "Game Machines which the previous\f",
         "person forgot! Cha-ching!"
+      ],
+      "fr_FR": [
+        "Ooh! Tous ces Jetons! On croit mettre\n",
+        "la main dessus et pouf... disparus!\r",
+        "Laisse-moi te donner un petit conseil!\r",
+        "Parfois, en examinant les bornes de\n",
+        "jeu, tu peux trouver des Jetons\f",
+        "oubliés là par les autres joueurs!"
       ]
     },
     {
@@ -254,6 +360,10 @@
       "en_GB": [
         "Sure, battling with Pokémon is great,\n",
         "but collecting Coins is pretty hot too!"
+      ],
+      "fr_FR": [
+        "Collectionner les Jetons, c’est aussi\n",
+        "cool que les combats de Pokémon!"
       ]
     },
     {
@@ -275,6 +385,17 @@
         "I know it, it’s already night time!\f",
         "But my trusty Pokémon are with me so\f",
         "I’m not afraid of going home at night."
+      ],
+      "fr_FR": [
+        "J’adore Voilaroc pour son centre\n",
+        "commercial et son Casino.\f",
+        "Je passe ma vie ici!\r",
+        "Mais tu sais quoi?\r",
+        "Je m’amuse tellement que je ne vois\n",
+        "pas le temps passer!\r",
+        "Heureusement que mes fidèles Pokémon\n",
+        "sont là pour me raccompagner chez moi\f",
+        "quand je rentre tard le soir."
       ]
     },
     {
@@ -289,6 +410,11 @@
         "Recently, my friends keep beating\n",
         "me at Pokémon battles so...\f",
         "I come here to let off some steam."
+      ],
+      "fr_FR": [
+        "Ces temps-ci, mes amis n’arrêtent pas\n",
+        "de me battre en combat de Pokémon...\f",
+        "Alors je viens ici pour me détendre."
       ]
     },
     {
@@ -306,6 +432,12 @@
         "Did you battle the Gym Leader?\r",
         "She happens to be my daughter.\n",
         "She’s a real tough cookie!"
+      ],
+      "fr_FR": [
+        "Tu es un Dresseur?\n",
+        "Tu as combattu le Champion d’Arène?\r",
+        "C’est ma fille, tu sais.\n",
+        "Un sacré petit bout de femme!"
       ]
     },
     {
@@ -329,6 +461,16 @@
         "Also, where the masses gather, so too\n",
         "does information.\r",
         "... Game Over? How can this be?"
+      ],
+      "fr_FR": [
+        "Beladonis: Ah, c’est toi.\r",
+        "Mon petit doigt me dit que la Team\n",
+        "Galaxie a peut-être ses habitudes ici.\r",
+        "Il faut mener l’enquête...\n",
+        "Heureusement, je suis là!\r",
+        "De plus, les indices fourmillent\n",
+        "toujours dans les endroits fréquentés.\r",
+        "Game over?! Comment est-ce possible?"
       ]
     },
     {
@@ -352,6 +494,16 @@
         "Also, if I have nothing to do, it means\n",
         "the world, it is at peace.\r",
         "... What? Game Over? AGAIN?"
+      ],
+      "fr_FR": [
+        "Beladonis: Ah, c’est toi.\r",
+        "J’ai décidé de profiter de mon séjour\n",
+        "à Sinnoh pour apprendre des capacités\f",
+        "aux Pokémon que j’ai capturés.\r",
+        "Et puis, quand j’ai du temps à moi, cela\n",
+        "signifie que tout va bien.\r",
+        "C’est plutôt bon signe.\n",
+        "Hein? Game over?! ENCORE?"
       ]
     },
     {
@@ -374,22 +526,35 @@
         "This will damage the Game Machines.\r",
         "If you do happen to spill a drink,\n",
         "please inform reception.\n"
+      ],
+      "fr_FR": [
+        "Chers clients,\n",
+        "Prenez bien soin de ne pas renverser\r",
+        "de Limonade ou de Soda Cool sur\n",
+        "les bornes de jeu.\r",
+        "Cela pourrait les endommager.\n",
+        "En cas de problème, veuillez vous\r",
+        "adresser à l’accueil.\n",
+        "La Direction"
       ]
     },
     {
       "id": "GameCorner_Text_Dummy26",
       "garbage": 0,
-      "en_GB": null
+      "en_GB": null,
+      "fr_FR": null
     },
     {
       "id": "GameCorner_Text_ItsAGameMachine",
       "en_US": null,
-      "en_GB": "It’s a Game Machine!"
+      "en_GB": "It’s a Game Machine!",
+      "fr_FR": "Une borne de jeu!"
     },
     {
       "id": "GameCorner_Text_Dummy27",
       "garbage": 0,
-      "en_GB": null
+      "en_GB": null,
+      "fr_FR": null
     },
     {
       "id": "GameCorner_Text_FoundCoins",
@@ -398,6 +563,11 @@
         "Found {STRVAR_1 51, 0, 0} Coins!\r",
         "{STRVAR_1 3, 1, 0} put the Coins away in\n",
         "the Coin Case."
+      ],
+      "fr_FR": [
+        "{STRVAR_1 51, 0, 0} Jetons!\r",
+        "{STRVAR_1 3, 1, 0} range les Jetons\n",
+        "dans la Boîte Jetons."
       ]
     }
   ]

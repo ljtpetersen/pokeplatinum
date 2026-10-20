@@ -9,6 +9,12 @@
         "\n",
         "Please turn the power off and\n",
         "reinsert the DS Game Card."
+      ],
+      "fr_FR": [
+        "La lecture a échoué.\n",
+        "\n",
+        "Veuillez éteindre la console, enlever\n",
+        "la carte DS, puis la réinsérer."
       ]
     },
     {
@@ -19,6 +25,13 @@
         "Please turn off the power, then\n",
         "remove and reinsert the Game Boy\n",
         "Advance Game Pak."
+      ],
+      "fr_FR": [
+        "La lecture a échoué.\n",
+        "\n",
+        "Veuillez éteindre la console, enlever\n",
+        "la cartouche de jeu GBA, puis la\n",
+        "réinsérer."
       ]
     }
   ]

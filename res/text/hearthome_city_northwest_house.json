@@ -17,6 +17,21 @@
         "I’m the system administrator!\r",
         "I know this is out of the blue, but do\n",
         "you want a Pokémon named EEVEE?"
+      ],
+      "fr_FR": [
+        "Youhou!\n",
+        "Oh, tu es un Dresseur!\r",
+        "Donc, tu utilises des Boîtes Pokémon!\n",
+        "J’adore croiser des utilisateurs!\r",
+        "Oh, qu’y a-t-il?\n",
+        "Pourquoi cet air étonné?\r",
+        "Oh, c’est vrai, pardon!\n",
+        "Une fois de plus, je parle trop!\r",
+        "Je m’appelle Amelle!\r",
+        "Tu sais, les Boîtes Pokémon du PC?\n",
+        "C’est moi l’administrateur système!\r",
+        "Je sais que c’est inattendu, mais ça te\n",
+        "dirait un Pokémon appelé EVOLI?"
       ]
     },
     {
@@ -24,6 +39,10 @@
       "en_US": [
         "Bebe: So, how about it?\n",
         "Do you want that Pokémon EEVEE?"
+      ],
+      "fr_FR": [
+        "Amelle: Alors, qu’en dis-tu?\n",
+        "Tu le veux cet EVOLI?"
       ]
     },
     {
@@ -37,17 +56,32 @@
         "Sorry, that doesn’t mean anything to\n",
         "you.\r",
         "Please, be good to it!\r"
+      ],
+      "fr_FR": [
+        "Amelle: Attrape!\r",
+        "J’ai obtenu cet EVOLI par un bon ami de\n",
+        "Johto qui en a toute une collection.\r",
+        "Qui sait combien il en a élevé pendant\n",
+        "toutes ces années?\r",
+        "Oh, pardon, ça n’a pas d’importance\n",
+        "pour toi.\r",
+        "Veille bien sur lui!\r"
       ]
     },
     {
       "id": "HearthomeCityNorthwestHouse_Text_PlayerAcceptedTheEevee",
-      "en_US": "{STRVAR_1 3, 0, 0} accepted the EEVEE!\r"
+      "en_US": "{STRVAR_1 3, 0, 0} accepted the EEVEE!\r",
+      "fr_FR": "{STRVAR_1 3, 0, 0} obtient un EVOLI!\r"
     },
     {
       "id": "HearthomeCityNorthwestHouse_Text_WouldYouLikeToNicknameEevee",
       "en_US": [
         "Would you like to give a nickname\n",
         "to the EEVEE that Bebe gave you?"
+      ],
+      "fr_FR": [
+        "Veux-tu donner un surnom à\n",
+        "l’EVOLI qu’Amelle t’a donné?"
       ]
     },
     {
@@ -58,6 +92,13 @@
         "any more Pokémon with you!\r",
         "Right about now, my Pokémon Boxes\n",
         "come in handy!"
+      ],
+      "fr_FR": [
+        "Amelle: Attrape!\r",
+        "Hé, je ne peux pas te le donner!\n",
+        "Il n’y a plus de place dans ton équipe!\r",
+        "C’est le moment ou jamais de faire bon\n",
+        "usage de mes Boîtes pour Pokémon!"
       ]
     },
     {
@@ -65,6 +106,10 @@
       "en_US": [
         "Bebe: Oh, OK...\n",
         "Guess I’ll have to raise it myself."
+      ],
+      "fr_FR": [
+        "Amelle: Oh, très bien...\n",
+        "Tant pis, je me chargerai de l’élever."
       ]
     },
     {
@@ -74,6 +119,12 @@
         "basic Pokémon Box storage system.\r",
         "I tinkered with it here and there to\n",
         "make it easier to use."
+      ],
+      "fr_FR": [
+        "Amelle: Mon copain Léo a développé les\n",
+        "bases du système de Gestion de Stocks.\r",
+        "J’ai modifié deux ou trois bricoles pour\n",
+        "le rendre plus facile d’utilisation."
       ]
     },
     {
@@ -86,6 +137,15 @@
         "Well, I always thought a good Trainer\n",
         "ought to juggle Boxes smartly, though.\f",
         "I shouldn’t be the one to say so."
+      ],
+      "fr_FR": [
+        "Amelle: Oh? Mazette, c’est un Pokédex\n",
+        "National? T’en as de la chance!\r",
+        "Si tu l’utilises, tu auras forcément\n",
+        "besoin d’utiliser mes Boîtes.\r",
+        "Dit comme ça, ça sonne prétentieux,\n",
+        "mais j’ai toujours pensé qu’un bon\f",
+        "Dresseur devait maîtriser les Boîtes."
       ]
     }
   ]

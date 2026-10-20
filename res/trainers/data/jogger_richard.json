@@ -23,6 +23,10 @@
             "en_US": [
                 "I jog every morning to keep my\n",
                 "Pokémon fit.\r"
+            ],
+            "fr_FR": [
+                "Je fais un jogging tous les matins \n",
+                "pour garder la forme.\r"
             ]
         },
         {
@@ -30,6 +34,10 @@
             "en_US": [
                 "Oops!\n",
                 "You threw off my running rhythm.\n"
+            ],
+            "fr_FR": [
+                "Oups! Tu m’as fait perdre \n",
+                "mon rythme de course.\n"
             ]
         },
         {
@@ -38,11 +46,20 @@
                 "Nothing beats being fit and healthy!\r",
                 "Come on, won’t you run with me?\n",
                 "To a better tomorrow!\n"
+            ],
+            "fr_FR": [
+                "Etre en bonne santé, c’est capital!\r",
+                "Courons ensemble pour un monde\n",
+                "meilleur!"
             ]
         },
         {
             "type": "TRMSG_NOT_MORNING_UNUSED",
-            "en_US": "Do you jog every morning, too?\n"
+            "en_US": "Do you jog every morning, too?\n",
+            "fr_FR": [
+                "Alors, est-ce que toi aussi tu \n",
+                "fais un jogging tous les matins?\n"
+            ]
         },
         {
             "type": "TRMSG_REMATCH",
@@ -51,7 +68,14 @@
                 "of people.\r",
                 "I have trouble remembering faces,\n",
                 "but we did meet before, right?\r"
+            ],
+            "fr_FR": [
+                "Pendant mon jogging, je croise \n",
+                "des tas de gens.\r",
+                "J’ai du mal à me souvenir de tous les \n",
+                "visages... On s’est déjà rencontrés?\r"
             ]
         }
-    ]
+    ],
+    "name_fr": "Amir"
 }

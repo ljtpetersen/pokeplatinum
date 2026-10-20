@@ -28,5 +28,12 @@
   "battleUseCategory": "BATTLE_USE_CATEGORY_HEALING",
   "itemUseParams": {
     "healFreeze": true
-  }
+  },
+  "name_fr": "Antigel",
+  "description_fr": [
+    "Un médicament sous forme de spray.\n",
+    "Réchauffe un Pokémon gelé."
+  ],
+  "plural_fr": "Antigel",
+  "article_fr": null
 }

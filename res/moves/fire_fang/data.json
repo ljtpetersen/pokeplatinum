@@ -27,5 +27,13 @@
     "contest": {
         "effect": "CONTEST_EFFECT_BASIC",
         "type": "CONTEST_TYPE_BEAUTY"
-    }
+    },
+    "name_fr": "Crocs Feu",
+    "description_fr": [
+        "Le lanceur utilise\n",
+        "une morsure\n",
+        "enflammée. Peut aussi\n",
+        "brûler ou apeurer\n",
+        "l’ennemi."
+    ]
 }

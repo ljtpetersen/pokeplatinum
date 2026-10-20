@@ -59,6 +59,10 @@
             "en_US": [
                 "I crammed hard for this.\n",
                 "I can’t possibly fail!"
+            ],
+            "fr_FR": [
+                "J’ai passé des heures à étudier la\n",
+                "théorie du combat. Je ne perdrai pas!"
             ]
         },
         {
@@ -66,6 +70,10 @@
             "en_US": [
                 "Yes! I get the win!\n",
                 "I’m glad I kept with this!\r"
+            ],
+            "fr_FR": [
+                "Comme prévu, je remporte la victoire!\n",
+                "J’ai bien fait de travailler si dur.\r"
             ]
         },
         {
@@ -73,7 +81,12 @@
             "en_US": [
                 "It means I need to study at home some\n",
                 "more.\r"
+            ],
+            "fr_FR": [
+                "On dirait que j’ai encore besoin\n",
+                "d’étudier un peu.\r"
             ]
         }
-    ]
+    ],
+    "name_fr": "Owen"
 }

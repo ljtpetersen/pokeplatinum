@@ -109,18 +109,28 @@
             "en_US": [
                 "Even though I always have my parasol\n",
                 "up, I actually like sunny days."
-            ]
+            ],
+            "fr_FR": "Il ne faut pas croire, j’adore le soleil."
         },
         {
             "type": "TRMSG_WIN",
-            "en_US": "I hope it will be sunny tomorrow...\r"
+            "en_US": "I hope it will be sunny tomorrow...\r",
+            "fr_FR": [
+                "J’espère que le soleil sera au\n",
+                "rendez-vous demain...\r"
+            ]
         },
         {
             "type": "TRMSG_DEFEAT",
             "en_US": [
                 "The heavy downpour in my heart...\n",
                 "When will it ever stop...?\r"
+            ],
+            "fr_FR": [
+                "Il pleut dans mon cœur...\n",
+                "J’ai tant besoin de soleil...\r"
             ]
         }
-    ]
+    ],
+    "name_fr": "Angie"
 }

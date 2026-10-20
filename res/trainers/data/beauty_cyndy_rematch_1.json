@@ -23,6 +23,10 @@
             "en_US": [
                 "Give this grown-up another chance to\n",
                 "demonstrate her technique.\r"
+            ],
+            "fr_FR": [
+                "Donne à ton aînée une nouvelle chance\n",
+                "de te montrer sa technique.\r"
             ]
         },
         {
@@ -30,7 +34,12 @@
             "en_US": [
                 "That’s how you attack?\n",
                 "So harshly?\n"
+            ],
+            "fr_FR": [
+                "C’est ainsi que tu attaques?\n",
+                "Si durement?\n"
             ]
         }
-    ]
+    ],
+    "name_fr": "Océane"
 }

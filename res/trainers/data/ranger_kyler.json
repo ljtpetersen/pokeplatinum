@@ -43,17 +43,26 @@
             "en_US": [
                 "People! Nature! Pokémon!\n",
                 "Harmony is essential!\r"
+            ],
+            "fr_FR": [
+                "Les hommes! La nature! Les Pokémon!\n",
+                "L’harmonie est essentielle!\r"
             ]
         },
         {
             "type": "TRMSG_DEFEAT",
-            "en_US": "You’re A-OK!\n"
+            "en_US": "You’re A-OK!\n",
+            "fr_FR": "Tu es OK!\n"
         },
         {
             "type": "TRMSG_POST_BATTLE",
             "en_US": [
                 "Protecting Pokémon and nature.\n",
                 "Think of what that means.\n"
+            ],
+            "fr_FR": [
+                "Protéger les Pokémon et la nature.\n",
+                "Réfléchis à ce que ça signifie.\n"
             ]
         },
         {
@@ -62,7 +71,13 @@
                 "Do you remember my slogan?\n",
                 "People! Nature! Pokémon!\r",
                 "That’s right, harmony is essential!\r"
+            ],
+            "fr_FR": [
+                "Tu te souviens de mon slogan?\n",
+                "Les hommes! La nature! Les Pokémon!\r",
+                "Tout à fait, l’harmonie est essentielle!\r"
             ]
         }
-    ]
+    ],
+    "name_fr": "Cyprien"
 }

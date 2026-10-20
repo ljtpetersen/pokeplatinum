@@ -59,6 +59,10 @@
             "en_US": [
                 "Oh, this place is so passé now.\n",
                 "I’m missing out on shopping."
+            ],
+            "fr_FR": [
+                "Cet endroit devient carrément ringard.\n",
+                "Il me faut de nouveaux vêtements."
             ]
         },
         {
@@ -66,6 +70,10 @@
             "en_US": [
                 "You’re kind of stylish, actually.\n",
                 "Oh, I wish I had new clothes.\r"
+            ],
+            "fr_FR": [
+                "J’aime bien ton style. J’ai vraiment\n",
+                "besoin de nouveaux vêtements.\r"
             ]
         },
         {
@@ -73,7 +81,12 @@
             "en_US": [
                 "Maybe I’ll collect accessories for some\n",
                 "Contests...\r"
+            ],
+            "fr_FR": [
+                "Je devrais peut-être acheter quelques\n",
+                "Accessoires pour les Concours...\r"
             ]
         }
-    ]
+    ],
+    "name_fr": "Liliane"
 }

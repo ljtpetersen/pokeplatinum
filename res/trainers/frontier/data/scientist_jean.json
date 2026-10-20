@@ -59,6 +59,10 @@
             "en_US": [
                 "Finally... The time has come to put the\n",
                 "fruits of my research to the test..."
+            ],
+            "fr_FR": [
+                "Aujourd’hui, mes années de recherches\n",
+                "vont enfin me servir à quelque chose..."
             ]
         },
         {
@@ -66,6 +70,10 @@
             "en_US": [
                 "Success...\n",
                 "Sacrificing my youth was worthwhile.\r"
+            ],
+            "fr_FR": [
+                "Victoire! Je n’ai pas sacrifié toutes\n",
+                "ces années pour rien!\r"
             ]
         },
         {
@@ -73,7 +81,12 @@
             "en_US": [
                 "No! Nooooooo!\n",
                 "Give me back my youth!\r"
+            ],
+            "fr_FR": [
+                "Non! Nooooon! Alors ce n’était qu’une\n",
+                "immense perte de temps?\r"
             ]
         }
-    ]
+    ],
+    "name_fr": "Jon"
 }

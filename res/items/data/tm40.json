@@ -27,5 +27,12 @@
   "fieldUseFunc": "ITEM_USE_FUNC_TM_HM",
   "battleUseCategory": "BATTLE_USE_CATEGORY_NONE",
   "itemUseParams": null,
-  "teachesMove": "MOVE_AERIAL_ACE"
+  "teachesMove": "MOVE_AERIAL_ACE",
+  "name_fr": "CT40",
+  "description_fr": [
+    "Le lanceur prend l’ennemi de vitesse\n",
+    "et le lacère. N’échoue jamais."
+  ],
+  "plural_fr": "CT40",
+  "article_fr": null
 }

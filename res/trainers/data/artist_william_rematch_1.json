@@ -34,6 +34,12 @@
                 "is to be observant.\r",
                 "That is the same for battling.\n",
                 "One must be observant!\r"
+            ],
+            "fr_FR": [
+                "La première qualité d’un Peintre,\n",
+                "c’est la capacité d’observation.\r",
+                "C’est la même chose au combat.\n",
+                "Il faut être observateur!\r"
             ]
         },
         {
@@ -41,7 +47,12 @@
             "en_US": [
                 "Magnificent!\n",
                 "I am aglow with inspiration!\n"
+            ],
+            "fr_FR": [
+                "Magnifique!\n",
+                "L’inspiration me dévore!\n"
             ]
         }
-    ]
+    ],
+    "name_fr": "Achille"
 }

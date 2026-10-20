@@ -18,6 +18,21 @@
         "I’m afraid I will have to go all out\n",
         "against you to live up to that\f",
         "reputation.\r"
+      ],
+      "fr_FR": [
+        "Ah, tu ne pouvais mieux tomber, \n",
+        "je viens tout juste de finir mon livre.\r",
+        "Mais je ne me suis pas présenté.\r",
+        "Je suis Lucio, adepte des\n",
+        "Pokémon de type Psy.\r",
+        "Je dois dire que je suis très \n",
+        "impressionné par ton parcours, tu es\f",
+        "vraiment un Dresseur exceptionnel.\r",
+        "On me considère comme le membre le\n",
+        "plus redoutable du Conseil 4.\r",
+        "Je ne te laisserai aucune chance, j’en\n",
+        "ai bien peur. Je dois me montrer à\f",
+        "la hauteur de ma réputation.\r"
       ]
     },
     {
@@ -32,6 +47,17 @@
         "far stronger than the Elite Four.\r",
         "Now, go on. Step through the\n",
         "doorway to your final battle."
+      ],
+      "fr_FR": [
+        "Toutes mes félicitations.\n",
+        "Tu as battu le Conseil 4.\r",
+        "Cependant, cela ne veut pas dire que \n",
+        "tu en as fini avec la Ligue Pokémon.\r",
+        "Il te reste à affronter le Maître.\r",
+        "Mais laisse-moi te prévenir, le Maître\n",
+        "est bien meilleur que le Conseil 4.\r",
+        "Allez, fougueux Dresseur, la route \n",
+        "vers la gloire est devant toi."
       ]
     },
     {
@@ -42,6 +68,13 @@
         "That will calm my nerves, so that\n",
         "I may deal with all situations without\f",
         "panicking."
+      ],
+      "fr_FR": [
+        "J’ai pour habitude de lire un livre \n",
+        "en attendant un adversaire.\r",
+        "C’est très bon pour les nerfs et la \n",
+        "concentration. Ça me permet de rester\f",
+        "maître de moi-même en toute situation."
       ]
     }
   ]

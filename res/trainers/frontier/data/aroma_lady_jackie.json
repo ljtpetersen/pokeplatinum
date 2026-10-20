@@ -51,6 +51,10 @@
             "en_US": [
                 "My acute sense of smell tells me how\n",
                 "tough a Trainer is."
+            ],
+            "fr_FR": [
+                "En respirant le parfum d’un Dresseur,\n",
+                "je sais tout de suite à qui j’ai affaire."
             ]
         },
         {
@@ -58,6 +62,10 @@
             "en_US": [
                 "Keep trying. My nose tells me\n",
                 "you have great potential.\r"
+            ],
+            "fr_FR": [
+                "Ne te décourage pas, je flaire un\n",
+                "grand potentiel en toi.\r"
             ]
         },
         {
@@ -65,7 +73,12 @@
             "en_US": [
                 "Sniff, sniff... Snort! My nose tells me\n",
                 "you’ve been working hard!\r"
+            ],
+            "fr_FR": [
+                "Je sens que tu as beaucoup travaillé\n",
+                "pour en arriver là.\r"
             ]
         }
-    ]
+    ],
+    "name_fr": "Jody"
 }

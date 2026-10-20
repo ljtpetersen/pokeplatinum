@@ -27,5 +27,13 @@
   "fieldUseFunc": "ITEM_USE_FUNC_TM_HM",
   "battleUseCategory": "BATTLE_USE_CATEGORY_NONE",
   "itemUseParams": null,
-  "teachesMove": "MOVE_ROAR"
+  "teachesMove": "MOVE_ROAR",
+  "name_fr": "CT05",
+  "description_fr": [
+    "Effraie le Pokémon ennemi et le\n",
+    "remplace par un autre. Dans la nature,\n",
+    "met fin au combat."
+  ],
+  "plural_fr": "CT05",
+  "article_fr": null
 }

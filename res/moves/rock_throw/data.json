@@ -25,5 +25,10 @@
     "contest": {
         "effect": "CONTEST_EFFECT_BASIC",
         "type": "CONTEST_TYPE_TOUGH"
-    }
+    },
+    "name_fr": "Jet-Pierres",
+    "description_fr": [
+        "Le lanceur lâche une\n",
+        "pierre sur l’ennemi."
+    ]
 }

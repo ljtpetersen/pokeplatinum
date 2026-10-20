@@ -50,17 +50,26 @@
             "en_US": [
                 "I’m getting bored of fishing.\n",
                 "Let’s have a quick battle!\r"
+            ],
+            "fr_FR": [
+                "J’en ai marre de la pêche.\n",
+                "Allez, on fait un petit combat!\r"
             ]
         },
         {
             "type": "TRMSG_DEFEAT",
-            "en_US": "I’ve been done in...\n"
+            "en_US": "I’ve been done in...\n",
+            "fr_FR": "Je me suis fait avoir...\n"
         },
         {
             "type": "TRMSG_POST_BATTLE",
             "en_US": [
                 "Thanks for that!\n",
                 "It was a good change of pace for me.\n"
+            ],
+            "fr_FR": [
+                "Merci beaucoup!\n",
+                "J’avais besoin d’un peu de distraction.\n"
             ]
         },
         {
@@ -69,7 +78,13 @@
                 "Yo! I remember how our battle was a\n",
                 "good change of pace before.\r",
                 "Let’s have another quick battle!\r"
+            ],
+            "fr_FR": [
+                "Yo! Je me souviens que notre dernier\n",
+                "combat était très distrayant.\r",
+                "Faisons encore un petit combat!\r"
             ]
         }
-    ]
+    ],
+    "name_fr": "Christophe"
 }

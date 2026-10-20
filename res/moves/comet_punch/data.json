@@ -27,5 +27,11 @@
     "contest": {
         "effect": "CONTEST_EFFECT_CONSECUTIVE_USE",
         "type": "CONTEST_TYPE_TOUGH"
-    }
+    },
+    "name_fr": "Poing Comète",
+    "description_fr": [
+        "Une tornade de coups\n",
+        "de poing qui frappe de\n",
+        "2 à 5 fois d’affilée."
+    ]
 }

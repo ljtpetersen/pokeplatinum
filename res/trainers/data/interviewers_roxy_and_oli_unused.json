@@ -32,6 +32,10 @@
             "en_US": [
                 "You’re live on camera, but try\n",
                 "to act natural, OK?\r"
+            ],
+            "fr_FR": [
+                "Tu es en direct, mais essaie\n",
+                "de prendre l’air naturel, OK?\r"
             ]
         },
         {
@@ -39,6 +43,10 @@
             "en_US": [
                 "The camera is our witness!\n",
                 "It’s recorded our defeat...\n"
+            ],
+            "fr_FR": [
+                "La caméra est notre témoin!\n",
+                "Elle a enregistré notre défaite...\n"
             ]
         },
         {
@@ -46,6 +54,10 @@
             "en_US": [
                 "I’d like to take that footage and\n",
                 "have it broadcast worldwide.\n"
+            ],
+            "fr_FR": [
+                "J’aimerais prendre cette vidéo et la\n",
+                "diffuser dans le monde entier.\n"
             ]
         },
         {
@@ -53,6 +65,10 @@
             "en_US": [
                 "Two Pokémon! If you had two Pokémon,\n",
                 "we’d have a great scene to shoot!\n"
+            ],
+            "fr_FR": [
+                "Deux Pokémon! Si tu avais eu deux\n",
+                "Pokémon, quelle scène on aurait tourné!\n"
             ]
         },
         {
@@ -60,6 +76,10 @@
             "en_US": [
                 "So, let’s begin and find out what\n",
                 "sort of a Trainer you are!\r"
+            ],
+            "fr_FR": [
+                "Alors, allons-y, je veux découvrir\n",
+                "quelle sorte de Dresseur tu es!\r"
             ]
         },
         {
@@ -67,6 +87,10 @@
             "en_US": [
                 "You have a superstar quality!\n",
                 "You sure could become a celebrity!\n"
+            ],
+            "fr_FR": [
+                "Tu as de grandes qualités!\n",
+                "Tu pourrais devenir célèbre!\n"
             ]
         },
         {
@@ -74,6 +98,10 @@
             "en_US": [
                 "I lost, but I’m totally thrilled!\n",
                 "We just made some great TV!\n"
+            ],
+            "fr_FR": [
+                "J’ai perdu, mais je suis contente!\n",
+                "C’était un grand moment de télé!\n"
             ]
         },
         {
@@ -81,7 +109,12 @@
             "en_US": [
                 "Oh, no. What we’re looking for is you\n",
                 "to battle with two Pokémon!\n"
+            ],
+            "fr_FR": [
+                "Oh, non. On voulait te voir en action\n",
+                "avec deux Pokémon!\n"
             ]
         }
-    ]
+    ],
+    "name_fr": "Jill & Jak"
 }

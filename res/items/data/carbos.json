@@ -31,5 +31,12 @@
     "friendshipLow": 5,
     "friendshipMed": 3,
     "friendshipHigh": 2
-  }
+  },
+  "name_fr": "Carbone",
+  "description_fr": [
+    "Une boisson très nutritive qui monte la\n",
+    "Vitesse d’un Pokémon."
+  ],
+  "plural_fr": "Carbone",
+  "article_fr": null
 }

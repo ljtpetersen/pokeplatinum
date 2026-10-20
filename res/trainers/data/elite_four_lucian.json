@@ -90,6 +90,10 @@
             "en_US": [
                 "Hmm...\n",
                 "Now what should I do...\n"
+            ],
+            "fr_FR": [
+                "Hum...\n",
+                "Que puis-je faire maintenant...?\n"
             ]
         },
         {
@@ -98,7 +102,13 @@
                 "I see...\r",
                 "You getting past the three before\n",
                 "me was no fluke. Your power is real.\n"
+            ],
+            "fr_FR": [
+                "Je vois...\r",
+                "Tes précédentes victoires n’étaient pas\n",
+                "dues à la chance. Ta force est réelle.\n"
             ]
         }
-    ]
+    ],
+    "name_fr": "Lucio"
 }

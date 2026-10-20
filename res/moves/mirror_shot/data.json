@@ -26,5 +26,13 @@
     "contest": {
         "effect": "CONTEST_EFFECT_FIRST_PERFORMANCE_ADVANTAGE",
         "type": "CONTEST_TYPE_CUTE"
-    }
+    },
+    "name_fr": "Miroi-Tir",
+    "description_fr": [
+        "Le corps poli du\n",
+        "lanceur libère un\n",
+        "éclair d’énergie. Peut\n",
+        "aussi baisser la\n",
+        "précision de l’ennemi."
+    ]
 }

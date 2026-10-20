@@ -27,5 +27,11 @@
     "contest": {
         "effect": "CONTEST_EFFECT_CONSECUTIVE_USE",
         "type": "CONTEST_TYPE_COOL"
-    }
+    },
+    "name_fr": "Double Pied",
+    "description_fr": [
+        "Deux coups de pied\n",
+        "qui frappent l’ennemi\n",
+        "deux fois d’affilée."
+    ]
 }

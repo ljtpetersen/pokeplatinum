@@ -7,7 +7,10 @@
         "special_attack": 45,
         "special_defense": 55
     },
-    "types": [ "TYPE_NORMAL", "TYPE_NORMAL" ],
+    "types": [
+        "TYPE_NORMAL",
+        "TYPE_NORMAL"
+    ],
     "catch_rate": 150,
     "base_exp_reward": 37,
     "ev_yields": {
@@ -26,21 +29,48 @@
     "hatch_cycles": 10,
     "base_friendship": 140,
     "exp_rate": "EXP_RATE_FAST",
-    "egg_groups": [ "EGG_GROUP_UNDISCOVERED", "EGG_GROUP_UNDISCOVERED" ],
-    "abilities": [ "ABILITY_CUTE_CHARM", "ABILITY_MAGIC_GUARD" ],
+    "egg_groups": [
+        "EGG_GROUP_UNDISCOVERED",
+        "EGG_GROUP_UNDISCOVERED"
+    ],
+    "abilities": [
+        "ABILITY_CUTE_CHARM",
+        "ABILITY_MAGIC_GUARD"
+    ],
     "safari_flee_rate": 0,
     "body_color": "MON_COLOR_PINK",
     "flip_sprite": false,
     "icon_palette": 0,
     "learnset": {
         "by_level": [
-            [ 1, "MOVE_POUND" ],
-            [ 1, "MOVE_CHARM" ],
-            [ 4, "MOVE_ENCORE" ],
-            [ 7, "MOVE_SING" ],
-            [ 10, "MOVE_SWEET_KISS" ],
-            [ 13, "MOVE_COPYCAT" ],
-            [ 16, "MOVE_MAGICAL_LEAF" ]
+            [
+                1,
+                "MOVE_POUND"
+            ],
+            [
+                1,
+                "MOVE_CHARM"
+            ],
+            [
+                4,
+                "MOVE_ENCORE"
+            ],
+            [
+                7,
+                "MOVE_SING"
+            ],
+            [
+                10,
+                "MOVE_SWEET_KISS"
+            ],
+            [
+                13,
+                "MOVE_COPYCAT"
+            ],
+            [
+                16,
+                "MOVE_MAGICAL_LEAF"
+            ]
         ],
         "by_tm": [
             "TM03",
@@ -108,7 +138,10 @@
         ]
     },
     "evolutions": [
-        [ "EVO_LEVEL_HAPPINESS", "SPECIES_CLEFAIRY" ]
+        [
+            "EVO_LEVEL_HAPPINESS",
+            "SPECIES_CLEFAIRY"
+        ]
     ],
     "offspring": "SPECIES_CLEFFA",
     "footprint": {
@@ -132,9 +165,9 @@
             "name": "CLEFFA",
             "category": "Star Shape Pokémon",
             "entry_text": [
-                "It is often seen when shooting\n",
-                "stars fill the night skies. It’s said\n",
-                "to arrive riding on a shooting star."
+                "Its silhouette is like a star.\n",
+                "It is believed to arrive riding on\n",
+                "shooting stars."
             ]
         },
         "fr": {
@@ -180,6 +213,18 @@
                 "よぞらの　ほしに　にた　シルエット。\n",
                 "ながれぼしに　のって　やってくると\n",
                 "しんじられている　ポケモン。"
+            ]
+        },
+        "local_version": {
+            "entry_text": [
+                "It is often seen when shooting\n",
+                "stars fill the night skies. It’s said\n",
+                "to arrive riding on a shooting star."
+            ],
+            "entry_text_fr": [
+                "On dit qu’il se déplace à dos\n",
+                "d’étoile filante. Il se montre\n",
+                "souvent quand on en voit."
             ]
         }
     },

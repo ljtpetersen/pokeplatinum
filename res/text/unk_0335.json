@@ -3,103 +3,128 @@
   "messages": [
     {
       "id": "pl_msg_00000335_00000",
-      "en_US": "Connection List"
+      "en_US": "Connection List",
+      "fr_FR": "Connection List"
     },
     {
       "id": "pl_msg_00000335_00001",
-      "en_US": "Long name"
+      "en_US": "Long name",
+      "fr_FR": "Long name"
     },
     {
       "id": "pl_msg_00000335_00002",
-      "en_US": "Delete notation"
+      "en_US": "Delete notation",
+      "fr_FR": "Delete notation"
     },
     {
       "id": "pl_msg_00000335_00003",
-      "en_US": "Microphone"
+      "en_US": "Microphone",
+      "fr_FR": "Microphone"
     },
     {
       "id": "pl_msg_00000335_00004",
-      "en_US": "Name"
+      "en_US": "Name",
+      "fr_FR": "Name"
     },
     {
       "id": "pl_msg_00000335_00005",
-      "en_US": "Signature"
+      "en_US": "Signature",
+      "fr_FR": "Signature"
     },
     {
       "id": "pl_msg_00000335_00006",
-      "en_US": "Record 8k"
+      "en_US": "Record 8k",
+      "fr_FR": "Record 8k"
     },
     {
       "id": "pl_msg_00000335_00007",
-      "en_US": "Record 4k"
+      "en_US": "Record 4k",
+      "fr_FR": "Record 4k"
     },
     {
       "id": "pl_msg_00000335_00008",
-      "en_US": "Record 2k"
+      "en_US": "Record 2k",
+      "fr_FR": "Record 2k"
     },
     {
       "id": "pl_msg_00000335_00009",
-      "en_US": "Record 1750"
+      "en_US": "Record 1750",
+      "fr_FR": "Record 1750"
     },
     {
       "id": "pl_msg_00000335_00010",
-      "en_US": "Record 1500"
+      "en_US": "Record 1500",
+      "fr_FR": "Record 1500"
     },
     {
       "id": "pl_msg_00000335_00011",
-      "en_US": "Record 1250"
+      "en_US": "Record 1250",
+      "fr_FR": "Record 1250"
     },
     {
       "id": "pl_msg_00000335_00012",
-      "en_US": "Record 1k"
+      "en_US": "Record 1k",
+      "fr_FR": "Record 1k"
     },
     {
       "id": "pl_msg_00000335_00013",
-      "en_US": "Record 500"
+      "en_US": "Record 500",
+      "fr_FR": "Record 500"
     },
     {
       "id": "pl_msg_00000335_00014",
-      "en_US": "Play"
+      "en_US": "Play",
+      "fr_FR": "Play"
     },
     {
       "id": "pl_msg_00000335_00015",
-      "en_US": "End"
+      "en_US": "End",
+      "fr_FR": "End"
     },
     {
       "id": "pl_msg_00000335_00016",
-      "en_US": "Wi-Fi"
+      "en_US": "Wi-Fi",
+      "fr_FR": "Wi-Fi"
     },
     {
       "id": "pl_msg_00000335_00017",
-      "en_US": "Create Friend code"
+      "en_US": "Create Friend code",
+      "fr_FR": "Create Friend code"
     },
     {
       "id": "pl_msg_00000335_00018",
-      "en_US": "Enter Friend code"
+      "en_US": "Enter Friend code",
+      "fr_FR": "Enter Friend code"
     },
     {
       "id": "pl_msg_00000335_00019",
-      "en_US": "World Trade"
+      "en_US": "World Trade",
+      "fr_FR": "World Trade"
     },
     {
       "id": "pl_msg_00000335_00020",
-      "en_US": "Wi-Fi Tower down"
+      "en_US": "Wi-Fi Tower down",
+      "fr_FR": "Wi-Fi Tower down"
     },
     {
       "id": "pl_msg_00000335_00021",
-      "en_US": "Day Care 1,000 steps"
+      "en_US": "Day Care 1,000 steps",
+      "fr_FR": "Day Care 1,000 steps"
     },
     {
       "id": "pl_msg_00000335_00022",
-      "en_US": "Day Care 10,000 steps"
+      "en_US": "Day Care 10,000 steps",
+      "fr_FR": "Day Care 10,000 steps"
     },
     {
       "id": "pl_msg_00000335_00023",
-      "en_US": "Set Egg"
+      "en_US": "Set Egg",
+      "fr_FR": "Set Egg"
     },
     {
       "id": "pl_msg_00000335_00024",
-      "en_US": "Hatch Egg"
+      "en_US": "Hatch Egg",
+      "fr_FR": "Hatch Egg"
     }
   ]
 }

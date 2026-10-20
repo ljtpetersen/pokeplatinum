@@ -11,6 +11,14 @@
         "I’ll make a gift of this to you.\n",
         "You hold up your end of the deal\f",
         "and put it to good use!\r"
+      ],
+      "fr_FR": [
+        "C’est moi! Je suis le premier à avoir\n",
+        "creusé des tunnels sous la surface.\r",
+        "Fais comme tout le monde, appelle-moi\n",
+        "l’Homme du Souterrain.\r",
+        "Je vais te faire ce cadeau. Fais-moi\n",
+        "plaisir, utilise-le à bon escient!\r"
       ]
     },
     {
@@ -26,6 +34,18 @@
         "Let me mentor you into becoming\n",
         "a full-fledged spelunker!\r",
         "Will you take on that challenge?"
+      ],
+      "fr_FR": [
+        "Mon cadeau, l’Explorakit, te permet\n",
+        "d’aller directement sous terre!\r",
+        "Tu n’as qu’à l’utiliser pour rejoindre\n",
+        "les tunnels!\r",
+        "Le Souterrain est un monde différent.\n",
+        "Tu peux y faire tout ce qui te chante,\f",
+        "c’est une véritable mine d’or!\r",
+        "Suis mes conseils et tu deviendras\n",
+        "une star de la spéléologie!\r",
+        "Alors, ça te dit de relever le défi?"
       ]
     },
     {
@@ -34,6 +54,11 @@
         "Let me mentor you as you become\n",
         "a full-fledged spelunker!\r",
         "Will you take on that challenge?"
+      ],
+      "fr_FR": [
+        "Allez, laisse-moi t’enseigner les\n",
+        "secrets de la spéléologie!\r",
+        "Ça te tente de relever ce défi?"
       ]
     },
     {
@@ -46,6 +71,15 @@
         "proposal if you’re not inclined.\r",
         "Sigh...\n",
         "I get so lonely sometimes..."
+      ],
+      "fr_FR": [
+        "J’espérais enseigner les secrets des\n",
+        "tunnels souterrains à la jeune\f",
+        "génération...\r",
+        "Mais je ne peux pas t’obliger\n",
+        "à accepter ma proposition.\r",
+        "Aaaaaah...\n",
+        "Je suis au fond du trou..."
       ]
     },
     {
@@ -59,6 +93,16 @@
         "Simply use your Explorer Kit.\r",
         "If you accomplish that, I will give\n",
         "you your next test."
+      ],
+      "fr_FR": [
+        "Hum!\n",
+        "Bien parlé, jeune camarade!\r",
+        "Je vais te confier quelques missions.\n",
+        "Tout d’abord, descends sous terre!\r",
+        "C’est pas bien compliqué. Il te\n",
+        "suffit d’utiliser l’Explorakit.\r",
+        "Je te donnerai la mission suivante\n",
+        "à ton retour de celle-ci."
       ]
     },
     {
@@ -71,6 +115,15 @@
         "But you need to be outside. It can’t\n",
         "be used indoors or in a cave.\r",
         "Now, off you go!"
+      ],
+      "fr_FR": [
+        "Tu n’as pas encore visité\n",
+        "le Souterrain?\r",
+        "Pour rejoindre les tunnels, il te suffit\n",
+        "d’utiliser l’Explorakit!\r",
+        "Utilise-le dehors. Il ne fonctionne\n",
+        "pas dans une grotte ni en intérieur.\r",
+        "Allez, dépêche-toi!"
       ]
     },
     {
@@ -80,6 +133,12 @@
         "the underground tunnels!\r",
         "Well done!\n",
         "Take these as rewards!\r"
+      ],
+      "fr_FR": [
+        "Hum! Tu as réussi à descendre\n",
+        "dans les tunnels souterrains!\r",
+        "Beau travail!\n",
+        "Voici tes récompenses!\r"
       ]
     },
     {
@@ -92,6 +151,16 @@
         "You might try setting those Traps\n",
         "when you’re down there with others.\r",
         "Now, what should I assign you next..."
+      ],
+      "fr_FR": [
+        "On appelle ça des Pièges. Ils se\n",
+        "déclenchent quand on marche dessus.\r",
+        "Tu peux visiter le Souterrain\n",
+        "avec des amis.\r",
+        "Essaie de poser ces Pièges quand\n",
+        "ils sont dans les parages.\r",
+        "Alors, qu’est-ce que je pourrais\n",
+        "bien te demander, maintenant..."
       ]
     },
     {
@@ -110,6 +179,21 @@
         "for yellow spots.\r",
         "Go to such a location and search\n",
         "for Treasure using the Touch Screen."
+      ],
+      "fr_FR": [
+        "Comment c’était dans les\n",
+        "tunnels souterrains?\r",
+        "Aussi vaste que vide, j’imagine...\r",
+        "C’est parce que tu débutes\n",
+        "tout juste en spéléologie!\r",
+        "Il y a beaucoup de choses invisibles,\n",
+        "là-dessous.\r",
+        "Pour ta prochaine mission, je veux que\n",
+        "tu déterres un Trésor ou une Sphère.\r",
+        "Une fois en bas, consulte ton Radar\n",
+        "en quête de points jaunes.\r",
+        "Place-toi au-dessus et utilise\n",
+        "l’écran tactile pour trouver un Trésor."
       ]
     },
     {
@@ -126,6 +210,19 @@
         "Once you are right in front of it,\n",
         "press the A Button!\r",
         "Now, off you go on your search!"
+      ],
+      "fr_FR": [
+        "Tu n’as pas encore trouvé de Trésor ou\n",
+        "de Sphère? Ecoute bien...\r",
+        "Consulte ton Radar et rends-toi sur\n",
+        "les points jaunes qui apparaissent.\r",
+        "Ensuite, utilise l’écran tactile pour\n",
+        "identifier les endroits où creuser.\r",
+        "Essaie de te placer à côté d’un point\n",
+        "jaune sur le Radar, OK?\r",
+        "Appuie sur le bouton A quand tu es\n",
+        "juste en face!\r",
+        "Allez, reprends tes recherches!"
       ]
     },
     {
@@ -135,6 +232,12 @@
         "Good job on finding it!\r",
         "Well done, indeed!\n",
         "Take these as your reward!\r"
+      ],
+      "fr_FR": [
+        "Ah! Tu as déterré ce que je cherchais!\n",
+        "C’est une sacrée trouvaille!\r",
+        "Toutes mes félicitations!\n",
+        "Voilà tes récompenses!\r"
       ]
     },
     {
@@ -149,6 +252,17 @@
         "exchanged for goods down there.\r",
         "Now, what should I assign you\n",
         "next...?"
+      ],
+      "fr_FR": [
+        "Creuse les murs des tunnels \n",
+        "pour trouver des objets enfouis.\r",
+        "Tu peux déterrer les Fossiles et les\n",
+        "Pierres pour les emporter à l’air libre.\r",
+        "Les Sphères, des sortes de gemmes, ne\n",
+        "peuvent pas être sorties, mais on peut\f",
+        "les échanger contre des articles.\r",
+        "Voyons, qu’est-ce que tu pourrais \n",
+        "faire, maintenant...?"
       ]
     },
     {
@@ -163,6 +277,17 @@
         "I want you to go bury these strange\n",
         "Spheres in the Underground.\r",
         "That is my latest test!"
+      ],
+      "fr_FR": [
+        "T’as pas fini ton apprentissage!\n",
+        "On passe aux Sphères, maintenant!\r",
+        "Les Sphères qu’on peut trouver en\n",
+        "sous-sol sont très spéciales.\r",
+        "Quand on les enterre, elles grossissent\n",
+        "lentement, jour après jour.\r",
+        "Je veux que tu ailles enterrer une\n",
+        "Sphère dans le Souterrain.\r",
+        "C’est ta prochaine épreuve!"
       ]
     },
     {
@@ -176,6 +301,16 @@
         "Spheres like I’ve said.\r",
         "Just don’t forget where you’ve buried\n",
         "them--the Underground is huge!"
+      ],
+      "fr_FR": [
+        "T’as pas encore enterré de Sphère?\n",
+        "Tu ne risques pas d’en perdre...\r",
+        "Ne crains rien! Les Sphères sont aussi\n",
+        "faciles à enterrer qu’à déterrer.\r",
+        "N’aie pas peur. Enterres-en comme\n",
+        "je te l’ai demandé.\r",
+        "Mais note bien l’endroit où tu en\n",
+        "enterres, le Souterrain est vaste!"
       ]
     },
     {
@@ -189,6 +324,16 @@
         "your Spheres!\r",
         "Anyway, well done!\n",
         "This is your reward!\r"
+      ],
+      "fr_FR": [
+        "Bien, bien!\n",
+        "Tu as enterré des Sphères!\r",
+        "La prochaine fois que tu descendras,\n",
+        "elles devraient avoir grossi!\r",
+        "Note toujours bien l’endroit où tu\n",
+        "enterres des Sphères!\r",
+        "Beau travail, en tout cas!\n",
+        "Voici ta récompense!\r"
       ]
     },
     {
@@ -201,6 +346,15 @@
         "They’ll happily trade you items for\n",
         "big Spheres.\r",
         "Now, what shall I assign you next...?"
+      ],
+      "fr_FR": [
+        "Il y a des collectionneurs de Sphères,\n",
+        "peut-être les as-tu déjà rencontrés?\r",
+        "Ils rôdent dans les tunnels souterrains\n",
+        "en quête de Sphères.\r",
+        "Ils seront ravis de t’échanger des\n",
+        "objets contre de grosses Sphères.\r",
+        "Alors, ta prochaine mission sera..."
       ]
     },
     {
@@ -220,6 +374,22 @@
         "very own Secret Base!\r",
         "So, your next assignment is: go make\n",
         "your own Secret Base!"
+      ],
+      "fr_FR": [
+        "Tu n’en as pas marre de ces\n",
+        "allers-retours dans le Souterrain?\r",
+        "Tant mieux, parce que c’est pas fini!\n",
+        "On va parler de ta Base Secrète!\r",
+        "Tu m’as bien compris, je vais\n",
+        "t’apprendre à bâtir une Base Secrète!\r",
+        "Tout ce dont tu as besoin, c’est\n",
+        "de la Foreuse que je t’ai donnée.\r",
+        "Tu n’as qu’à descendre là-dessous\n",
+        "et l’essayer où tu veux.\r",
+        "Et voilà! C’est aussi simple que ça,\n",
+        "de construire une Base Secrète!\r",
+        "Je pense que tu as deviné ta mission:\n",
+        "va creuser ta propre Base Secrète!"
       ]
     },
     {
@@ -237,6 +407,20 @@
         "Base before you can say...\r",
         "{SIZE 200}Boo!{SIZE 100}\r",
         "No, seriously though!"
+      ],
+      "fr_FR": [
+        "Hum? Tu ne sais pas utiliser\n",
+        "la Foreuse?\r",
+        "Je vois, cette épreuve était peut-être\n",
+        "un peu plus dure que les autres.\r",
+        "Il te suffit de sélectionner la\n",
+        "Foreuse parmi tes Pièges.\r",
+        "Ensuite, mets-toi face à un mur et \n",
+        "utilise la Foreuse. C’est tout.\r",
+        "Suis mes conseils et tu auras fini \n",
+        "avant d’avoir eu le temps de dire...\r",
+        "{SIZE 200}Ouf!{SIZE 100}\r",
+        "Non, vraiment... C’est pas des craques!"
       ]
     },
     {
@@ -248,6 +432,14 @@
         "too much of you, but you did it!\r",
         "Well done!\n",
         "Take these as your reward!\r"
+      ],
+      "fr_FR": [
+        "Ah, tu as terminé ta Base Secrète!\n",
+        "Excellent!\r",
+        "Je pensais t’en avoir demandé un\n",
+        "peu trop, mais t’as réussi!\r",
+        "Joli coup!\n",
+        "Voilà tes récompenses!\r"
       ]
     },
     {
@@ -261,6 +453,17 @@
         "You can trade a Sphere for one\n",
         "underground.\r",
         "What should I make you do next..."
+      ],
+      "fr_FR": [
+        "Au fait, une Foreuse est\n",
+        "toujours à usage unique.\r",
+        "Si tu veux déplacer ta Base\n",
+        "Secrète, il te faudra mettre la\f",
+        "main sur une autre Foreuse.\r",
+        "Tu peux en échanger une contre une\n",
+        "Sphère dans le Souterrain.\r",
+        "Qu’est-ce que je pourrais te demander,\n",
+        "maintenant..."
       ]
     },
     {
@@ -276,6 +479,18 @@
         "decorate your Secret Base.\r",
         "Use furniture and interior goods\n",
         "to give your Secret Base character!"
+      ],
+      "fr_FR": [
+        "Hum! Tu as tenu bon jusqu’au bout!\n",
+        "C’est ma dernière épreuve.\r",
+        "Tu as construit ta Base Secrète,\n",
+        "mais elle est un peu vide, n’est-ce pas?\r",
+        "Pas d’inquiétude! Tu peux la\n",
+        "décorer absolument comme tu veux!\r",
+        "Alors! Pour cette dernière épreuve,\n",
+        "tu devras décorer ta Base Secrète.\r",
+        "Utilise des meubles et des articles\n",
+        "pour lui donner un peu de cachet!"
       ]
     },
     {
@@ -292,6 +507,18 @@
         "on your Secret Base.\r",
         "Don’t forget to close the door while\n",
         "you’re redecorating!"
+      ],
+      "fr_FR": [
+        "Ah, j’ai enfin réussi à te coller?\r",
+        "Peut-être as-tu laissé la porte de ta\n",
+        "Base Secrète ouverte?\r",
+        "De nombreux Dresseurs visitent les\n",
+        "tunnels souterrains, vois-tu.\r",
+        "Il ne faudrait pas que quelqu’un\n",
+        "pénètre dans ta Base Secrète pendant\f",
+        "que tu la décores. Ça ne se fait pas!\r",
+        "N’oublie pas de fermer ta porte quand\n",
+        "tu te mets au travail!"
       ]
     },
     {
@@ -310,6 +537,20 @@
         "PC first.\r",
         "Anyway, well done!\n",
         "This is your reward!\r"
+      ],
+      "fr_FR": [
+        "Ah! Tu as même réussi à décorer\n",
+        "ta Base Secrète!\r",
+        "Je savais que tu avais l’étoffe d’une\n",
+        "star de la spéléologie!\r",
+        "N’oublie pas de fermer la porte quand\n",
+        "tu décores ta Base Secrète!\r",
+        "Il ne faudrait pas qu’un visiteur\n",
+        "soit blessé durant tes travaux!\r",
+        "Les articles doivent être stockés dans\n",
+        "le PC pour que tu puisses les installer.\r",
+        "Enfin bref, bien joué!\n",
+        "Voici ta récompense!\r"
       ]
     },
     {
@@ -321,6 +562,14 @@
         "and trade them for goods.\r",
         "It’s also possible to obtain goods\n",
         "from friends."
+      ],
+      "fr_FR": [
+        "Il y a différents moyens de\n",
+        "récupérer des articles de décoration.\r",
+        "Tu peux faire grossir des Sphères\n",
+        "que tu as trouvées pour les échanger.\r",
+        "Tu peux également en récupérer auprès\n",
+        "de tes amis."
       ]
     },
     {
@@ -337,6 +586,19 @@
         "for you now.\r",
         "I suppose I could tell you how when\n",
         "you get better as a spelunker...\r"
+      ],
+      "fr_FR": [
+        "Je t’ai appris tout ce que je sais,\n",
+        "mais puisque tu insistes, il y a une\f",
+        "dernière chose que je dois te dire.\r",
+        "De Gros Rochers obstruent ta Base\n",
+        "Secrète, non?\r",
+        "Il existe un moyen de t’en\n",
+        "débarrasser...\r",
+        "Mais tu es un peu jeune pour t’atteler\n",
+        "à une tâche aussi dangereuse.\r",
+        "Je t’expliquerai comment faire quand\n",
+        "tu auras progressé en spéléologie...\r"
       ]
     },
     {
@@ -358,6 +620,24 @@
         "and take the Flag to your PC!\r",
         "If you can do that, I will permit\n",
         "you to move boulders."
+      ],
+      "fr_FR": [
+        "... Hum! En même temps, tu as tout\n",
+        "pour devenir une star de la spéléo...\r",
+        "Allez! Je vais te le dire, mais c’est\n",
+        "bien parce que c’est toi!\r",
+        "Tu sais que tu peux descendre dans le\n",
+        "Souterrain avec des amis, n’est-ce pas?\r",
+        "Cela signifie qu’eux aussi vont bâtir\n",
+        "leur propre Base Secrète.\r",
+        "Voilà ce qu’il faut que tu fasses:\n",
+        "trouve la Base Secrète d’un ami.\r",
+        "Ensuite, connecte-toi à son PC\n",
+        "pour voler son Drapeau.\r",
+        "Enfin, cours rapporter son Drapeau\n",
+        "au PC de ta Base Secrète!\r",
+        "Si tu réussis, je t’autoriserai à\n",
+        "déplacer des rochers."
       ]
     },
     {
@@ -370,6 +650,15 @@
         "If you manage to steal a Flag from\n",
         "a friend’s Secret Base, you be sure\f",
         "to come show me!"
+      ],
+      "fr_FR": [
+        "Ah! Ma star de la spéléo!\n",
+        "Tu explores avec tes amis?\r",
+        "C’est cent fois plus marrant de\n",
+        "visiter le Souterrain à plusieurs!\r",
+        "Si tu arrives à piquer un Drapeau\n",
+        "dans la Base Secrète d’un ami,\f",
+        "n’oublie pas de venir me le dire!"
       ]
     },
     {
@@ -384,6 +673,17 @@
         "storing it like furniture.\r",
         "Anyway, well done!\n",
         "This is your reward!\r"
+      ],
+      "fr_FR": [
+        "Attends! Ne me dis rien!\n",
+        "Tu as capturé un Drapeau?\r",
+        "Excellent! Tu devrais déjà être\n",
+        "capable de déplacer des Gros\f",
+        "Rochers dans ta Base Secrète!\r",
+        "Tu peux te débarrasser d’un rocher\n",
+        "en le rangeant comme un meuble.\r",
+        "Enfin bref, beau boulot!\n",
+        "Voilà ta récompense!\r"
       ]
     },
     {
@@ -395,6 +695,15 @@
         "Boulders or put out more goods,\f",
         "keep capturing more Flags.\r",
         "Become the spelunking master for me!"
+      ],
+      "fr_FR": [
+        "Je n’ai vraiment plus rien à\n",
+        "t’apprendre.\r",
+        "Si tu veux ranger d’autres Gros\n",
+        "Rochers ou placer d’autres articles\f",
+        "de décoration, capture des Drapeaux.\r",
+        "Fais-moi plaisir, deviens la star de\n",
+        "la spéléo!"
       ]
     },
     {
@@ -405,6 +714,13 @@
         "The underground tunnels are vast.\n",
         "They can be a place where you meet\r",
         "many others like you."
+      ],
+      "fr_FR": [
+        "Alors, spéléologue, tu visites le\n",
+        "Souterrain avec tes amis?\r",
+        "Les tunnels du sous-sol sont si vastes.\n",
+        "Tu croiseras sûrement beaucoup de\f",
+        "gens comme toi."
       ]
     },
     {
@@ -413,6 +729,11 @@
         "Ah, you’ve captured three Flags!\r",
         "Well done!\n",
         "Take this as your reward!\r"
+      ],
+      "fr_FR": [
+        "Ah, tu as capturé trois Drapeaux!\r",
+        "Beau travail!\n",
+        "Voici ta récompense!\r"
       ]
     },
     {
@@ -421,6 +742,11 @@
         "Ah, you’ve captured ten Flags!\r",
         "Well done!\n",
         "Take this as your reward!\r"
+      ],
+      "fr_FR": [
+        "Ah, tu as capturé dix Drapeaux!\r",
+        "Beau travail!\n",
+        "Voilà ta récompense!\r"
       ]
     },
     {
@@ -430,6 +756,12 @@
         "You’ve captured fifty Flags!\r",
         "Fantastic!\n",
         "Take this as your reward!\r"
+      ],
+      "fr_FR": [
+        "Oh! Oh! Juste ciel!\n",
+        "Tu as capturé cinquante Drapeaux!\r",
+        "Fantastique!\n",
+        "Voilà ta récompense!\r"
       ]
     },
     {
@@ -439,6 +771,12 @@
         "really is nothing left to teach you.\r",
         "From now on, you are the spelunking\n",
         "master!"
+      ],
+      "fr_FR": [
+        "C’était stupéfiant! Je n’ai vraiment\n",
+        "plus rien à t’apprendre.\r",
+        "A partir de maintenant, tu es la star\n",
+        "incontestée de la spéléologie!"
       ]
     },
     {
@@ -448,6 +786,12 @@
         "to be full.\r",
         "Discard a decorative item or two,\n",
         "then come see me again."
+      ],
+      "fr_FR": [
+        "Oh? Ton PC souterrain a l’air\n",
+        "rempli.\r",
+        "Débarrasse-toi d’un article ou\n",
+        "deux et reviens me voir."
       ]
     },
     {
@@ -455,6 +799,10 @@
       "en_US": [
         "Hm!\n",
         "This belongs to you!\r"
+      ],
+      "fr_FR": [
+        "Hum!\n",
+        "C’est à toi, ça!\r"
       ]
     },
     {
@@ -465,6 +813,12 @@
         "Grab your friends and let’s play\n",
         "together using DS Wireless\f",
         "Communications!"
+      ],
+      "fr_FR": [
+        "Le réseau souterrain s’étend\n",
+        "partout!\r",
+        "Rassemble tes copains et jouez ensemble\n",
+        "grâce à la communication sans fil DS!"
       ]
     },
     {
@@ -477,6 +831,16 @@
         "swap them with my buddy.\r",
         "I simply let a Pokémon hold an Armor\n",
         "Fossil and trade it to him."
+      ],
+      "fr_FR": [
+        "Je tombe toujours sur des Foss.\n",
+        "Armure et mon pote, sur des Foss.\f",
+        "Crâne.\r",
+        "Je me demande bien pourquoi...\r",
+        "Bah, c’est pas bien grave, on s’arrange\n",
+        "entre nous pour faire du troc.\r",
+        "Je donne un Foss. Armure à tenir à un\n",
+        "Pokémon et je lui échange."
       ]
     },
     {
@@ -495,6 +859,21 @@
         "hitting them, the wall will collapse.\r",
         "Don’t forget that, and you’ll be\n",
         "digging up Treasure in no time!"
+      ],
+      "fr_FR": [
+        "Allez, on va déterrer des Trésors!\r",
+        "Je viens de Charbourg.\n",
+        "Je travaille au Musée Minier.\r",
+        "L’Homme du Souterrain m’a appris\n",
+        "à déterrer les Trésors et les Sphères.\r",
+        "Je vais te faire part de ses\n",
+        "conseils avant de prendre ma pioche.\r",
+        "En creusant, il arrive que tu tombes\n",
+        "sur de la roche sombre.\r",
+        "Elle est vraiment dure! Si tu continues\n",
+        "à creuser, le mur finira par s’écrouler.\r",
+        "Garde ça en tête et tu déterreras\n",
+        "des Trésors en un rien de temps!"
       ]
     },
     {
@@ -514,6 +893,22 @@
         "will collapse.\r",
         "Don’t forget that, and you’ll be\n",
         "digging up Treasure in no time!"
+      ],
+      "fr_FR": [
+        "Oh, tu voudrais d’autres conseils pour\n",
+        "déterrer des Trésors et des Sphères?\r",
+        "Eh bien, l’Explorakit contient\n",
+        "un marteau et une pioche.\r",
+        "Choisis l’un de ces outils et touche\n",
+        "l’écran tactile pour creuser.\r",
+        "Tu pourras conserver les objets\n",
+        "obtenus avant l’effondrement.\r",
+        "N’oublie pas que la roche sombre\n",
+        "est très résistante.\r",
+        "Si tu la frappes trop souvent, le\n",
+        "mur finira par s’écrouler.\r",
+        "Garde ça en tête et tu déterreras\n",
+        "des Trésors en un rien de temps!"
       ]
     },
     {
@@ -525,6 +920,14 @@
         "possible Treasure locations.\r",
         "The lower Touch Radar indicates\n",
         "precise locations!"
+      ],
+      "fr_FR": [
+        "Nouveau, vu à la télé!\n",
+        "Le Radar Souterrain!\r",
+        "L’écran supérieur indique l’emplacement\n",
+        "éventuel des Trésors.\r",
+        "L’écran tactile indique leur\n",
+        "emplacement précis!"
       ]
     },
     {
@@ -532,11 +935,16 @@
       "en_US": [
         "“Shortcut to the Underground” is on\n",
         "the screen.\r"
+      ],
+      "fr_FR": [
+        "“Guide malin du Souterrain”\n",
+        "est affiché à l’écran.\r"
       ]
     },
     {
       "id": "EternaCityUndergroundManHouse_Text_ReadWhichHeading",
-      "en_US": "Which heading would you like to read?"
+      "en_US": "Which heading would you like to read?",
+      "fr_FR": "Lire quel chapitre?"
     },
     {
       "id": "EternaCityUndergroundManHouse_Text_ExplainFlags",
@@ -548,6 +956,15 @@
         "improvements to it!\r",
         "Find your friends’ Secret Bases and\n",
         "capture their Flags!\r"
+      ],
+      "fr_FR": [
+        "Drapeaux: Chaque Base Secrète contient\n",
+        "un Drapeau.\r",
+        "Capturez le Drapeau d’un ami et\n",
+        "rapportez-le à votre Base Secrète\f",
+        "pour débloquer des améliorations!\r",
+        "Localisez les Bases Secrètes de vos\n",
+        "amis pour dérober leurs Drapeaux!\r"
       ]
     },
     {
@@ -563,6 +980,19 @@
         "These Spheres also have the strange\n",
         "property of growing if they are\f",
         "buried in the ground.\r"
+      ],
+      "fr_FR": [
+        "Sphères: Dans les tunnels souterrains,\n",
+        "vous trouverez de jolies pierres\f",
+        "appelées Sphères.\r",
+        "Certaines personnes du Souterrain\n",
+        "les traitent comme de la monnaie.\r",
+        "Ils échangeront vos Sphères contre\n",
+        "des meubles et des articles de\f",
+        "décoration.\r",
+        "Ces Sphères ont également l’étrange\n",
+        "propriété de grandir quand on\f",
+        "les enfouit dans le sol.\r"
       ]
     },
     {
@@ -574,6 +1004,14 @@
         "unwary Trainers under the ground.\r",
         "Some Traps need to be blown away.\n",
         "Some need to be removed by touch.\r"
+      ],
+      "fr_FR": [
+        "Pièges: Il s’agit de Pièges que l’on peut\n",
+        "poser dans les tunnels souterrains.\r",
+        "Il existe de nombreux types de pièges\n",
+        "pour berner les Dresseurs distraits.\r",
+        "Certains se désamorcent au toucher.\n",
+        "D’autres exigent qu’on souffle dessus.\r"
       ]
     },
     {
@@ -583,6 +1021,13 @@
         "decorative items for Secret Bases.\r",
         "Collect goods by exchanging Spheres for\n",
         "them, or by getting gifts from friends!\r"
+      ],
+      "fr_FR": [
+        "Articles: Il s’agit des meubles et\n",
+        "des décorations des Bases Secrètes.\r",
+        "Vous pouvez les échanger contre des \n",
+        "Sphères ou vous les faire offrir\f",
+        "par vos amis!\r"
       ]
     },
     {
@@ -595,6 +1040,14 @@
         "while in the tunnels.\r",
         "Dig around all over and find\n",
         "Treasure!\r"
+      ],
+      "fr_FR": [
+        "Trésors: Ces objets rares apparaissent\n",
+        "quand vous creusez.\r",
+        "Vous pourrez les sortir du Souterrain\n",
+        "en les rangeant dans votre Sac.\r",
+        "Creusez un peu partout et vous\n",
+        "découvrirez des Trésors!\r"
       ]
     }
   ]

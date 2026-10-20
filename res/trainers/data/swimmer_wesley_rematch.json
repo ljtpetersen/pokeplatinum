@@ -41,11 +41,17 @@
             "en_US": [
                 "I’ve decided! If I finally beat you,\n",
                 "I’m challenging the Pokémon League!\r"
+            ],
+            "fr_FR": [
+                "C’est décidé! Si je parviens à te \n",
+                "battre, je rejoindrai la Ligue Pokémon!\r"
             ]
         },
         {
             "type": "TRMSG_DEFEAT",
-            "en_US": "Blblblblugh...\n"
+            "en_US": "Blblblblugh...\n",
+            "fr_FR": "Glouglouglou...\n"
         }
-    ]
+    ],
+    "name_fr": "Gilles"
 }

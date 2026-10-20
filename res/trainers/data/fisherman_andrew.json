@@ -68,11 +68,16 @@
             "en_US": [
                 "Nothing’s biting...\n",
                 "I could use a break, I suppose.\r"
+            ],
+            "fr_FR": [
+                "Ça ne mord pas aujourd’hui...\n",
+                "Je devrais peut-être faire une pause.\r"
             ]
         },
         {
             "type": "TRMSG_DEFEAT",
-            "en_US": "Well, that didn’t do anything for me...\n"
+            "en_US": "Well, that didn’t do anything for me...\n",
+            "fr_FR": "Bah... Ce n’est pas mon jour...\n"
         },
         {
             "type": "TRMSG_POST_BATTLE",
@@ -80,6 +85,11 @@
                 "!\r",
                 "Yank your fishing rod when that\n",
                 "appears. That’s how you fish.\n"
+            ],
+            "fr_FR": [
+                "Tu connais le symbole “!”?\r",
+                "Tu dois ferrer quand il apparaît.\n",
+                "C’est comme ça qu’il faut pêcher."
             ]
         },
         {
@@ -87,7 +97,12 @@
             "en_US": [
                 "All right! I caught some tough\n",
                 "Pokémon. I’m ready for battle!\r"
+            ],
+            "fr_FR": [
+                "J’ai attrapé des Pokémon plutôt \n",
+                "costauds, je suis prêt à combattre!\r"
             ]
         }
-    ]
+    ],
+    "name_fr": "Abel"
 }

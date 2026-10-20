@@ -3,103 +3,128 @@
   "messages": [
     {
       "id": "pl_msg_00000692_00000",
-      "en_US": "None"
+      "en_US": "None",
+      "fr_FR": "Aucun"
     },
     {
       "id": "pl_msg_00000692_00001",
-      "en_US": "Angermanland"
+      "en_US": "Angermanland",
+      "fr_FR": "Ångermanland"
     },
     {
       "id": "pl_msg_00000692_00002",
-      "en_US": "Blekinge"
+      "en_US": "Blekinge",
+      "fr_FR": "Blekinge"
     },
     {
       "id": "pl_msg_00000692_00003",
-      "en_US": "Bohuslan"
+      "en_US": "Bohuslan",
+      "fr_FR": "Bohuslän "
     },
     {
       "id": "pl_msg_00000692_00004",
-      "en_US": "Dalarna"
+      "en_US": "Dalarna",
+      "fr_FR": "Dalécarlie"
     },
     {
       "id": "pl_msg_00000692_00005",
-      "en_US": "Dalsland"
+      "en_US": "Dalsland",
+      "fr_FR": "Dalie"
     },
     {
       "id": "pl_msg_00000692_00006",
-      "en_US": "Gastrikland"
+      "en_US": "Gastrikland",
+      "fr_FR": "Gästrikland"
     },
     {
       "id": "pl_msg_00000692_00007",
-      "en_US": "Gotland"
+      "en_US": "Gotland",
+      "fr_FR": "Gotland"
     },
     {
       "id": "pl_msg_00000692_00008",
-      "en_US": "Halland"
+      "en_US": "Halland",
+      "fr_FR": "Halland"
     },
     {
       "id": "pl_msg_00000692_00009",
-      "en_US": "Halsingland"
+      "en_US": "Halsingland",
+      "fr_FR": "Hälsingland"
     },
     {
       "id": "pl_msg_00000692_00010",
-      "en_US": "Jamtland"
+      "en_US": "Jamtland",
+      "fr_FR": "Jämtland "
     },
     {
       "id": "pl_msg_00000692_00011",
-      "en_US": "North Lapland"
+      "en_US": "North Lapland",
+      "fr_FR": "Laponie (Nord)"
     },
     {
       "id": "pl_msg_00000692_00012",
-      "en_US": "South Lapland"
+      "en_US": "South Lapland",
+      "fr_FR": "Laponie (Sud)"
     },
     {
       "id": "pl_msg_00000692_00013",
-      "en_US": "Medelpad"
+      "en_US": "Medelpad",
+      "fr_FR": "Medelpad"
     },
     {
       "id": "pl_msg_00000692_00014",
-      "en_US": "Narke"
+      "en_US": "Narke",
+      "fr_FR": "Néricie"
     },
     {
       "id": "pl_msg_00000692_00015",
-      "en_US": "Norrbotten"
+      "en_US": "Norrbotten",
+      "fr_FR": "Botnie Septentrionale"
     },
     {
       "id": "pl_msg_00000692_00016",
-      "en_US": "Oland"
+      "en_US": "Oland",
+      "fr_FR": "Öland"
     },
     {
       "id": "pl_msg_00000692_00017",
-      "en_US": "Ostergotland / Vastergotland"
+      "en_US": "Ostergotland / Vastergotland",
+      "fr_FR": "Västergötland / Östergötland"
     },
     {
       "id": "pl_msg_00000692_00018",
-      "en_US": "Skane"
+      "en_US": "Skane",
+      "fr_FR": "Scanie"
     },
     {
       "id": "pl_msg_00000692_00019",
-      "en_US": "Smaland"
+      "en_US": "Smaland",
+      "fr_FR": "Småland"
     },
     {
       "id": "pl_msg_00000692_00020",
-      "en_US": "Sodermanland"
+      "en_US": "Sodermanland",
+      "fr_FR": "Södermanland"
     },
     {
       "id": "pl_msg_00000692_00021",
-      "en_US": "Uppland"
+      "en_US": "Uppland",
+      "fr_FR": "Uppland"
     },
     {
       "id": "pl_msg_00000692_00022",
-      "en_US": "Varmland"
+      "en_US": "Varmland",
+      "fr_FR": "Värmland"
     },
     {
       "id": "pl_msg_00000692_00023",
-      "en_US": "Vasterbotten"
+      "en_US": "Vasterbotten",
+      "fr_FR": "Botnie Occidentale"
     },
     {
       "id": "pl_msg_00000692_00024",
-      "en_US": "Vastmanland"
+      "en_US": "Vastmanland",
+      "fr_FR": "Västmanland"
     }
   ]
 }

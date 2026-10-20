@@ -6,6 +6,10 @@
       "en_US": [
         "You seem to be tired...\n",
         "Rest a while."
+      ],
+      "fr_FR": [
+        "Tu as l’air raplapla.\n",
+        "Tu devrais peut-être te reposer."
       ]
     },
     {
@@ -13,6 +17,10 @@
       "en_US": [
         "You and your Pokémon look\n",
         "completely refreshed!"
+      ],
+      "fr_FR": [
+        "Eh bien, toi et ton équipe Pokémon avez\n",
+        "l’air d’aller mieux."
       ]
     },
     {
@@ -20,6 +28,10 @@
       "en_US": [
         "Just because you’re young doesn’t\n",
         "mean you should push yourself."
+      ],
+      "fr_FR": [
+        "Ce n’est pas parce que tu es jeune que\n",
+        "tu dois abuser de tes forces!"
       ]
     },
     {
@@ -30,6 +42,13 @@
         "won’t come out.\r",
         "...But that also means there won’t be\n",
         "any Pokémon to capture."
+      ],
+      "fr_FR": [
+        "L’objet Repousse est très utile!\r",
+        "Il permet de faire fuir les Pokémon\n",
+        "faibles.\r",
+        "Cela veut aussi dire qu’il y a beaucoup\n",
+        "moins de Pokémon à capturer..."
       ]
     }
   ]

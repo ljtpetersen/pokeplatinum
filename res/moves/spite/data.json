@@ -25,5 +25,13 @@
     "contest": {
         "effect": "CONTEST_EFFECT_NO_VOLTAGE_DOWN",
         "type": "CONTEST_TYPE_TOUGH"
-    }
+    },
+    "name_fr": "Dépit",
+    "description_fr": [
+        "Le lanceur exprime \n",
+        "son ressentiment\n",
+        "en retirant 4 PP de\n",
+        "la dernière attaque\n",
+        "de l’ennemi."
+    ]
 }

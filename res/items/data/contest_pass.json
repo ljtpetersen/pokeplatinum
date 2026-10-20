@@ -26,5 +26,13 @@
   "battlePocket": "BATTLE_POCKET_MASK_NONE",
   "fieldUseFunc": "ITEM_USE_FUNC_NONE",
   "battleUseCategory": "BATTLE_USE_CATEGORY_NONE",
-  "itemUseParams": null
+  "itemUseParams": null,
+  "name_fr": "Passeconcour",
+  "description_fr": [
+    "La carte requise pour participer aux\n",
+    "Concours Pokémon. Il y a un ruban\n",
+    "dessiné dessus."
+  ],
+  "plural_fr": "Passeconcour",
+  "article_fr": null
 }

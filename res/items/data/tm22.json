@@ -27,5 +27,13 @@
   "fieldUseFunc": "ITEM_USE_FUNC_TM_HM",
   "battleUseCategory": "BATTLE_USE_CATEGORY_NONE",
   "itemUseParams": null,
-  "teachesMove": "MOVE_SOLAR_BEAM"
+  "teachesMove": "MOVE_SOLAR_BEAM",
+  "name_fr": "CT22",
+  "description_fr": [
+    "Absorbe la lumière au premier tour et\n",
+    "envoie un rayon puissant au tour\n",
+    "suivant."
+  ],
+  "plural_fr": "CT22",
+  "article_fr": null
 }

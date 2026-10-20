@@ -3,14 +3,16 @@
   "messages": [
     {
       "id": "FlowerParadise_Text_KyuuUuhn",
-      "en_US": "Kyuu uuhn.\r"
+      "en_US": "Kyuu uuhn.\r",
+      "fr_FR": "Shaaay shaaay.\r"
     },
     {
       "id": "FlowerParadise_Text_ShayminDisappearedAmongFlowers",
       "en_US": [
         "SHAYMIN disappeared among\n",
         "the flowers..."
-      ]
+      ],
+      "fr_FR": "SHAYMIN a disparu dans les fleurs..."
     }
   ]
 }

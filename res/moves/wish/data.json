@@ -24,5 +24,12 @@
     "contest": {
         "effect": "CONTEST_EFFECT_VOLTAGE",
         "type": "CONTEST_TYPE_CUTE"
-    }
+    },
+    "name_fr": "Voeu",
+    "description_fr": [
+        "Un vœu qui permet\n",
+        "de récupérer jusqu’à\n",
+        "la moitié de ses PV\n",
+        "max au tour suivant."
+    ]
 }

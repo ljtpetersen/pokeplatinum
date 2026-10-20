@@ -6,6 +6,10 @@
       "en_US": [
         "Hello.\n",
         "May I help you with anything?"
+      ],
+      "fr_FR": [
+        "Bonjour.\n",
+        "Je peux vous renseigner?"
       ]
     },
     {
@@ -13,17 +17,26 @@
       "en_US": [
         "Hello, {STRVAR_1 3, 0, 0}.\n",
         "May I help you with anything?"
+      ],
+      "fr_FR": [
+        "Bonjour, {STRVAR_1 3, 0, 0}.\n",
+        "Je peux vous aider?"
       ]
     },
     {
       "id": "VeilstoneStore2F_Text_PleaseEnjoyYourself",
-      "en_US": "Please enjoy yourself."
+      "en_US": "Please enjoy yourself.",
+      "fr_FR": "Faites comme chez vous."
     },
     {
       "id": "VeilstoneStore2F_Text_CareForAProtein",
       "en_US": [
         "Would you care for a Protein?\n",
         "It’s a drink that boosts Attack."
+      ],
+      "fr_FR": [
+        "Que diriez-vous de la boisson Protéine?\n",
+        "Elle augmente l’Attaque."
       ]
     },
     {
@@ -31,6 +44,10 @@
       "en_US": [
         "May I suggest a Carbos? It’s a drink\n",
         "that boosts the base Speed stat."
+      ],
+      "fr_FR": [
+        "Puis-je suggérer la boisson Carbone?\n",
+        "Elle augmente la Vitesse."
       ]
     },
     {
@@ -38,6 +55,10 @@
       "en_US": [
         "When you need to make sure attacks hit\n",
         "the target hard... Dire Hit is for you."
+      ],
+      "fr_FR": [
+        "Si vous cherchez à frapper fort...\n",
+        "Muscle + est votre allié."
       ]
     },
     {
@@ -45,6 +66,10 @@
       "en_US": [
         "If your Pokémon has trouble with aim,\n",
         "try treating it to an X Accuracy."
+      ],
+      "fr_FR": [
+        "Si votre Pokémon a du mal à viser,\n",
+        "donnez-lui Précision +."
       ]
     },
     {
@@ -52,6 +77,10 @@
       "en_US": [
         "Where can I find matching dresses for\n",
         "myself and my dear Pokémon?"
+      ],
+      "fr_FR": [
+        "Où puis-je trouver des vêtements\n",
+        "assortis, pour mon Pokémon et moi?"
       ]
     },
     {
@@ -60,6 +89,11 @@
         "I’m going to give an HP Up to\n",
         "my KRICKETOT.\r",
         "This is going to raise its HP, huh?"
+      ],
+      "fr_FR": [
+        "Je vais donner du PV Plus à\n",
+        "mon CRIKZIK.\r",
+        "Ça sert à augmenter ses PV, c’est ça?"
       ]
     },
     {
@@ -68,6 +102,12 @@
         "I’m getting the Carbos!\n",
         "I should get a Protein instead, maybe.\f",
         "But Iron’s not bad, either."
+      ],
+      "fr_FR": [
+        "Je vais prendre de la boisson Carbone!\n",
+        "Ou peut-être de la boisson Protéine.\r",
+        "Mais il y a la boisson Fer, aussi...\n",
+        "Quel dilemme!"
       ]
     },
     {
@@ -77,6 +117,12 @@
         "free as a promotion.\r",
         "I can give you the Counter app\n",
         "over the counter. Would you like it?"
+      ],
+      "fr_FR": [
+        "Dans le cadre de nos promotions, nous \n",
+        "offrons un logiciel Pokémontre gratuit.\r",
+        "Je peux vous offrir le Compteur, si vous\n",
+        "voulez. Qu’en dites-vous?"
       ]
     },
     {
@@ -84,6 +130,10 @@
       "en_US": [
         "OK, here you go.\n",
         "Go forth and count!\r"
+      ],
+      "fr_FR": [
+        "Très bien, tenez. Vous pouvez toujours\n",
+        "compter sur nous!\r"
       ]
     },
     {
@@ -91,6 +141,10 @@
       "en_US": [
         "I hope that Counter app I gave you\n",
         "is useful."
+      ],
+      "fr_FR": [
+        "J’espère que le Compteur que je vous ai\n",
+        "offert vous est utile."
       ]
     },
     {
@@ -98,6 +152,10 @@
       "en_US": [
         "You’re not interested? I’ll be here\n",
         "if you change your mind."
+      ],
+      "fr_FR": [
+        "Ça ne vous intéresse pas? Je serai ici\n",
+        "si vous changez d’avis."
       ]
     },
     {
@@ -109,6 +167,14 @@
         "3F: TM Corner\r",
         "4F: Poké Dolls & Goods\r",
         "5F: Rooftop Plaza"
+      ],
+      "fr_FR": [
+        "-1: Alimentation\r",
+        "RC: Espace Dresseurs\r",
+        "1¹: Fournitures de Combat\r",
+        "2⁴: Centre CT\r",
+        "3⁴: Poupées Pokémon et articles\r",
+        "4⁴: Terrasse"
       ]
     }
   ]

@@ -24,5 +24,13 @@
     "contest": {
         "effect": "CONTEST_EFFECT_LOW_VOLTAGE_ADVANTAGE",
         "type": "CONTEST_TYPE_COOL"
-    }
+    },
+    "name_fr": "Permucoeur",
+    "description_fr": [
+        "Le lanceur utilise un\n",
+        "pouvoir psychique\n",
+        "pour échanger ses\n",
+        "changements de \n",
+        "stats avec l’ennemi."
+    ]
 }

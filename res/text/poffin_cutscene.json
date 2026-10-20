@@ -6,6 +6,10 @@
       "en_US": [
         "{STRVAR_1 0, 0, 0} happily ate\n",
         "the Poffin!"
+      ],
+      "fr_FR": [
+        "{STRVAR_1 0, 0, 0} a mangé le Poffin\n",
+        "avec plaisir!"
       ]
     },
     {
@@ -13,11 +17,16 @@
       "en_US": [
         "{STRVAR_1 0, 0, 0} disdainfully\n",
         "ate the Poffin..."
+      ],
+      "fr_FR": [
+        "{STRVAR_1 0, 0, 0} a mangé le Poffin\n",
+        "sans plaisir..."
       ]
     },
     {
       "id": "PoffinCutscene_Text_NeutralToPoffin",
-      "en_US": "{STRVAR_1 0, 0, 0} ate the Poffin."
+      "en_US": "{STRVAR_1 0, 0, 0} ate the Poffin.",
+      "fr_FR": "{STRVAR_1 0, 0, 0} a mangé le Poffin."
     }
   ]
 }
