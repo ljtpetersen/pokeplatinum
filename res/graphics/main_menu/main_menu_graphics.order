@@ -21,10 +21,10 @@ gba_migration_bg_tiles.NCLR
 gba_migration_box.NSCR.lz
 gba_migration_confirm.NSCR.lz
 gba_migration_bg_tiles.NCGR.lz
-gba_migration_sprites.NCLR
+gba_migration_sprites{LANG}.NCLR
 gba_migration_sprites_anim.NANR.lz
 gba_migration_sprites_cell.NCER.lz
-gba_migration_sprites.NCGR.lz
+gba_migration_sprites{LANG}.NCGR.lz
 unused_00027.NCGR.lz
 unused_00028.NSCR.lz
 gift_reception_bg_tiles.NCLR

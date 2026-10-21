@@ -1,5 +1,5 @@
 trainer_case_pal_pngs_8bpp = files(
-    'badge_case_lid_tiles.png',
+    'badge_case_lid_tiles_' + game_language + '.png',
     'player_dp_tiles.png',
 )
 
@@ -13,11 +13,11 @@ trainer_case_pal_pngs_cell = files(
 
 trainer_case_pngs_4bpp = files(
     'case_top_screen_tiles.png',
-    'badge_case_tiles.png',
+    'badge_case_tiles_' + game_language + '.png',
 )
 
 trainer_case_pngs_8bpp = files(
-    'trainer_card_tiles.png',
+    'trainer_card_tiles_' + game_language + '.png',
     'player_tiles.png',
 )
 
@@ -135,7 +135,7 @@ trainer_case_nscrs = copy_gen.process(files(
     'trainer_card_front.NSCR',
     'trainer_card_back.NSCR',
     'case_top_screen.NSCR',
-    'badge_case.NSCR',
+    'badge_case_' + game_language + '.NSCR',
     'badge_case_lid.NSCR',
     'lucas.NSCR',
     'dawn.NSCR',

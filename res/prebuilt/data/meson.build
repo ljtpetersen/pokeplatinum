@@ -18,7 +18,6 @@ prebuilt_files = [
     'dt_test_res_multianm.txt',
     'dt_test_res_pltt.txt',
     'dun_sea.nsbtx',
-    'eoo.dat',
     'exdata.dat',
     'field_cutin.narc',
     'fld_anime0.bin',
@@ -48,7 +47,6 @@ prebuilt_files = [
     'nfont.NCGR',
     'nfont.NCLR',
     'pc.nsbca',
-    'plbr.dat',
     'smptm_koori.NANR',
     'smptm_koori.NCER',
     'smptm_koori.NCGR',
@@ -93,9 +91,12 @@ prebuilt_files = [
 
 if get_option('version') == 'us_rev0' or get_option('version') == 'us_rev1'
     prebuilt_files += ['slot_us.narc']
-elif get_option('version') == 'eu' or get_option('version') == 'fr'
+elif get_option('version') == 'eu'
     prebuilt_files += ['slot_eu.narc']
+elif get_option('version') == 'fr'
+    prebuilt_files += ['slot_fr.narc']
 endif
+prebuilt_files += ['eoo_' + game_language + '.dat', 'plbr_' + game_language + '.dat']
 
 foreach f : prebuilt_files
     nitrofs_files += fs.copyfile(f)

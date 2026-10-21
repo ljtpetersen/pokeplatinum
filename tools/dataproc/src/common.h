@@ -19,9 +19,11 @@
 #if POKEPLATINUM_VERSION < 3
 #define TEXT_BANK_KEY "en_US"
 #define ATTRIBUTE_EXTENSION ""
+#define LANG_EXTENSION "_en"
 #else
 #define TEXT_BANK_KEY "fr_FR"
 #define ATTRIBUTE_EXTENSION "_fr"
+#define LANG_EXTENSION "_fr"
 #endif
 
 

@@ -1,5 +1,5 @@
 # Tiles and tilemaps
-tiles_ncgr = ncgr_gen.process(files('tiles_main.png','tiles_sub.png'),
+tiles_ncgr = ncgr_gen.process(files('tiles_main_' + game_language + '.png','tiles_sub.png'),
     extra_args: [
         '-sopc',
         '-version101',
@@ -10,7 +10,7 @@ tilemaps_nscr = copy_gen.process(files(
     'tiles_sub.NSCR',
     'page_info.NSCR',
     'page_memo.NSCR',
-    'page_skills.NSCR',
+    'page_skills_' + game_language + '.NSCR',
     'page_battle_moves.NSCR',
     'page_condition.NSCR',
     'page_contest_moves.NSCR',
@@ -40,7 +40,7 @@ sprites_png_clobbersize = files(
     'marking_heart.png',
     'shiny_and_pokerus_cured_icon.png',
     'tab_arrow.png',
-    'status_icons.png',
+    'status_icons_' + game_language + '.png',
     'sheen.png',
     'ribbon_cursor.png',
     'dummy121.png',

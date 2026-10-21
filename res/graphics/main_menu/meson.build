@@ -7,7 +7,7 @@ main_menu_palettes_nclr = nclr_gen.process(
         'wonder_card_share_buttons.png',
         'wonder_card_share_bg_tiles.png',
         'gba_migration_bg_tiles.png',
-        'gba_migration_sprites.png',
+        'gba_migration_sprites_' + game_language + '.png',
         'gift_reception_bg_tiles.png',
         'giftbox.png',
         'mystery_gift_particles.png',
@@ -89,7 +89,7 @@ main_menu_download_arrow_ncgr = ncgr_lz_gen.process(
 
 main_menu_gba_migration_sprites_ncgr = ncgr_lz_gen.process(
     files(
-        'gba_migration_sprites.png',
+        'gba_migration_sprites_' + game_language + '.png',
     ),
     extra_args: [
         '-version101',

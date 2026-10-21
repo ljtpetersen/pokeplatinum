@@ -22,5 +22,6 @@
     "otGender": "GENDER_MALE",
     "unused2": 50,
     "language": "LANGUAGE_ENGLISH",
+    "language_fr": "LANGUAGE_FRENCH",
     "requestedSpecies": "SPECIES_BUIZEL"
 }

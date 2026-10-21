@@ -21,7 +21,7 @@ battle_hall_battle_room_lights.NCGR.lz
 battle_hall_battle_room.NSCR.lz
 battle_hall_battle_room_dupe.NSCR.lz
 battle_hall_battle_room_lights.NSCR.lz
-battle_hall_app.NCGR.lz
+battle_hall_app{LANG}.NCGR.lz
 battle_hall_app.NSCR.lz
 battle_castle_corridor.NCGR.lz
 battle_castle_corridor.NSCR.lz
@@ -87,7 +87,7 @@ battle_arcade_screen_no_battle.NSCR.lz
 battle_arcade_screen_get_1_bp.NSCR.lz
 battle_arcade_screen_no_event.NSCR.lz
 battle_arcade_screen_get_3_bp.NSCR.lz
-battle_arcade_screen_lower_hp.NCGR.lz
+battle_arcade_screen_lower_hp{LANG}.NCGR.lz
 battle_arcade_screen_poison.NCGR.lz
 battle_arcade_screen_paralyze.NCGR.lz
 battle_arcade_screen_burn.NCGR.lz
@@ -95,7 +95,7 @@ battle_arcade_screen_sleep.NCGR.lz
 battle_arcade_screen_freeze.NCGR.lz
 battle_arcade_screen_get_berry.NCGR.lz
 battle_arcade_screen_get_item.NCGR.lz
-battle_arcade_screen_level_up.NCGR.lz
+battle_arcade_screen_level_up{LANG}.NCGR.lz
 battle_arcade_screen_sunny_battle.NCGR.lz
 battle_arcade_screen_rainy_battle.NCGR.lz
 battle_arcade_screen_sandy_battle.NCGR.lz
@@ -107,9 +107,9 @@ battle_arcade_screen_speed_up.NCGR.lz
 battle_arcade_screen_slow_down.NCGR.lz
 battle_arcade_screen_randomize_cursor.NCGR.lz
 battle_arcade_screen_no_battle.NCGR.lz
-battle_arcade_screen_get_1_bp.NCGR.lz
+battle_arcade_screen_get_1_bp{LANG}.NCGR.lz
 battle_arcade_screen_no_event.NCGR.lz
-battle_arcade_screen_get_3_bp.NCGR.lz
+battle_arcade_screen_get_3_bp{LANG}.NCGR.lz
 dummy6.NSCR.lz
 dummy7.NSCR.lz
 dummy8.NSCR.lz
@@ -132,7 +132,7 @@ battle_factory_app.NCLR
 battle_hall_battle_room.NCLR
 battle_hall_corridor.NCLR
 battle_hall_battle_room_lights.NCLR
-battle_hall_app.NCLR
+battle_hall_app{LANG}.NCLR
 battle_castle_corridor.NCLR
 battle_castle_unknown.NCLR
 battle_castle_self_app.NCLR

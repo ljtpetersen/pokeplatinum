@@ -7,6 +7,7 @@ word_bank_object = custom_target(
         '-I', meson.global_source_root() / 'include',
         '-I', meson.global_build_root(),
         '-I', meson.global_source_root() / 'subprojects' / 'NitroSDK-4.2.30001' / 'include',
+        '-DPOKEPLATINUM_VERSION=' + version_id,
         '-c', '-o', '@OUTPUT@',
         '@INPUT@',
     ],

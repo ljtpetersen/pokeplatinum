@@ -1,9 +1,9 @@
-tiles_main.NCGR
+tiles_main{LANG}.NCGR
 tiles_main.NCLR
 sub_buttons.NCGR
 page_info.NSCR
 page_memo.NSCR
-page_skills.NSCR
+page_skills{LANG}.NSCR
 page_battle_moves.NSCR
 page_condition.NSCR
 page_contest_moves.NSCR
@@ -62,7 +62,7 @@ tab_arrow_cell.NCER
 tab_arrow.NCGR
 status_icons_anim.NANR
 status_icons_cell.NCER
-status_icons.NCGR
+status_icons{LANG}.NCGR
 status_icons.NCLR
 sheen_anim.NANR
 sheen_cell.NCER

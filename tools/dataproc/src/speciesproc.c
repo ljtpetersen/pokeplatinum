@@ -805,7 +805,23 @@ static SpeciesDexData proc_dexdata(datafile_t *df, size_t i, const char *base_di
 #elif POKEPLATINUM_VERSION == 3
     const char *name = dp_string(dp_objmemb(dp_objmemb(dexdata, "fr"), "name"));
 #endif
-    if (name) strcpy(name_store[i], name); // NOTE: This is an error later
+    if (name) {
+        strcpy(name_store[i], name); // NOTE: This is an error later
+#if POKEPLATINUM_VERSION == 3
+        // this is a bit hack-ish.
+        for (char *c = name_store[i]; *c; ++c) {
+            if (*c == '.') {
+                // '.' is between 'I' and 'O'...
+                // set it to J.
+                *c = 'J';
+            } else if (*c == '-') {
+                // '-' is above '2'...
+                // set it above all decimal digits.
+                *c = '9' + 1;
+            }
+        }
+#endif
+    }
     return (SpeciesDexData) {
         .index = {
             .species = (enum Species)i,

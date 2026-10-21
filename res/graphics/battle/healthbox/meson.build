@@ -1,7 +1,7 @@
 healthbox_nclr = custom_target(
   'primary.NCLR',
   output: 'primary.NCLR',
-  input: files('player_singles.png'),
+  input: files('player_singles' + '_' + game_language + '.png'),
   command: [
     nitrogfx_exe, '@INPUT@', '@OUTPUT@',
     '-bitdepth', '4',
@@ -47,7 +47,7 @@ battle_sprites += [
   ),
 
   ncgr_lz_gen.process(
-    files('player_doubles.png', 'enemy.png'),
+    files('player_doubles' + '_' + game_language + '.png', 'enemy' + '_' + game_language + '.png'),
     preserve_path_from: base_directory,
     extra_args: [
       '-bitdepth', '4', '-clobbersize', '-mappingtype', '64',
@@ -56,7 +56,7 @@ battle_sprites += [
   ),
 
   ncgr_lz_gen.process(
-    files('player_singles.png'),
+    'player_singles' + '_' + game_language + '.png',
     preserve_path_from: base_directory,
     extra_args: [
       '-bitdepth', '4', '-clobbersize', '-mappingtype', '64',

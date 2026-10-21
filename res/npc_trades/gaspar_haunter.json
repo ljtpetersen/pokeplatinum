@@ -22,5 +22,6 @@
     "otGender": "GENDER_FEMALE",
     "unused2": 0,
     "language": "LANGUAGE_ENGLISH",
+    "language_fr": "LANGUAGE_FRENCH",
     "requestedSpecies": "SPECIES_MEDICHAM"
 }

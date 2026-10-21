@@ -1,4 +1,4 @@
-yes_no_touch_menu_pngs = files('yes_no_button_tiles.png')
+yes_no_touch_menu_pngs = files('yes_no_button_tiles_' + game_language + '.png')
 
 yes_no_button_nscrs = files(
     'yes_button.NSCR',

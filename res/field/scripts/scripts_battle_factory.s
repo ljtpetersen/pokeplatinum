@@ -2,6 +2,7 @@
 #include "res/text/bank/battle_factory.h"
 #include "res/text/bank/menu_entries.h"
 #include "constants/battle_frontier.h"
+#include "constants/platinum_version.h"
 
 
     ScriptEntry BattleFactory_SingleAttendant
@@ -417,8 +418,22 @@ BattleFactory_SaveGame:
 BattleFactory_OnFrame_DidntSaveBeforeQuit:
     Message BattleFactory_Text_DidntSaveBeforeQuit
     DeleteActiveBattleFactoryStreak VAR_BATTLE_FACTORY_CHALLENGE_TYPE, VAR_BATTLE_FACTORY_CHALLENGE_LEVEL
+#if POKEPLATINUM_VERSION == POKEPLATINUM_VERSION_FR
+    CallIfEq VAR_BATTLE_FACTORY_PRINT_STATE, 1, BattleFactory_OnFrame_DidntSaveBeforeQuit_ResetPrintState0
+    CallIfEq VAR_BATTLE_FACTORY_PRINT_STATE, 3, BattleFactory_OnFrame_DidntSaveBeforeQuit_ResetPrintState2
+#endif
     GoTo BattleFactory_EndChallenge
     End
+
+#if POKEPLATINUM_VERSION == POKEPLATINUM_VERSION_FR
+BattleFactory_OnFrame_DidntSaveBeforeQuit_ResetPrintState0:
+    SetVar VAR_BATTLE_FACTORY_PRINT_STATE, 0
+    Return
+
+BattleFactory_OnFrame_DidntSaveBeforeQuit_ResetPrintState2:
+    SetVar VAR_BATTLE_FACTORY_PRINT_STATE, 2
+    Return
+#endif
 
 BattleFactory_OnFrame_ChallengeEndedCompletedRound:
     CallIfEq VAR_BATTLE_FACTORY_CHALLENGE_TYPE, FRONTIER_CHALLENGE_SINGLE, BattleFactory_IncrementTrainerScoreRoundCompleted

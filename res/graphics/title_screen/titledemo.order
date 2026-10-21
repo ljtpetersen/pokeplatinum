@@ -9,8 +9,8 @@ top_screen_border.NCLR
 logo_jp.NCLR
 logo_jp.NCGR
 logo_jp.NSCR
-logo.NCLR
-logo.NCGR
+logo{LANG}.NCLR
+logo{LANG}.NCGR
 copyright.NSCR
 copyright.NCLR
 copyright.NCGR

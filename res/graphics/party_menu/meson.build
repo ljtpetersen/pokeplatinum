@@ -14,7 +14,7 @@ party_menu_narc = custom_target('party_menu_graphics.narc',
         ncgr_gen.process(
             files(
                 'subscreen_tiles.png',
-                'menu_tiles.png'
+                'menu_tiles_' + game_language + '.png'
             ),
             extra_args: ['-version101', '-sopc'],
         ),

@@ -6,13 +6,13 @@ player_name.NSCR
 textbox.NCGR
 textbox.NCLR
 textbox.NSCR
-interface.NCLR
+interface{LANG}.NCLR
 puff0.NCLR
 puff1.NCLR
 puff2.NCLR
 interface_anim.NANR
 interface_cell.NCER
-interface.NCGR
+interface{LANG}.NCGR
 sparkles_anim.NANR
 sparkles_cell.NCER
 sparkles.NCGR
@@ -27,7 +27,7 @@ puff2_cell.NCER
 puff2.NCGR
 done_anim.NANR
 done_cell.NCER
-done.NCGR
+done{LANG}.NCGR
 arrow_anim.NANR
 arrow_cell.NCER
 arrow.NCGR

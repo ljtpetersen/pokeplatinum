@@ -5,8 +5,8 @@ naming_screen_pngs = files(
 )
 
 naming_screen_sprites_pngs = files(
-    'naming_screen_sprites.png',
     'naming_screen_unk_sprite.png',
+    'naming_screen_sprites_' + game_language + '.png',
 )
 
 naming_screen_pals = files(

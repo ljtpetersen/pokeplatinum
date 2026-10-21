@@ -76,5 +76,6 @@ int read_archive(const char *data, size_t size, nitroarc_t *narc);
 int set_logfile(bool verbose);
 int set_workdir(const char *path);
 int ensure_mkdir(const char *path);
+const char *substitute_path(const char *path, bool is_for_opening_file);
 
 #endif // TOOL_COMMON_H

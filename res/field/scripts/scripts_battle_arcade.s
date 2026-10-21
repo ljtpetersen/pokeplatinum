@@ -3,6 +3,7 @@
 #include "res/text/bank/menu_entries.h"
 #include "constants/battle_frontier.h"
 #include "constants/battle_arcade_functions.h"
+#include "constants/platinum_version.h"
 
 
     ScriptEntry BattleArcade_SingleAttendant
@@ -466,8 +467,22 @@ BattleArcade_SaveGame:
 BattleArcade_OnFrame_DidntSaveBeforeQuit:
     Message BattleArcade_Text_DidntSaveBeforeQuit
     DeleteActiveBattleArcadeStreak VAR_BATTLE_ARCADE_CHALLENGE_TYPE
+#if POKEPLATINUM_VERSION == POKEPLATINUM_VERSION_FR
+    CallIfEq VAR_BATTLE_ARCADE_PRINT_STATE, 1, BattleArcade_OnFrame_DidntSaveBeforeQuit_ResetPrintState0
+    CallIfEq VAR_BATTLE_ARCADE_PRINT_STATE, 3, BattleArcade_OnFrame_DidntSaveBeforeQuit_ResetPrintState2
+#endif
     GoTo BattleArcade_EndChallenge
     End
+
+#if POKEPLATINUM_VERSION == POKEPLATINUM_VERSION_FR
+BattleArcade_OnFrame_DidntSaveBeforeQuit_ResetPrintState0:
+    SetVar VAR_BATTLE_ARCADE_PRINT_STATE, 0
+    Return
+
+BattleArcade_OnFrame_DidntSaveBeforeQuit_ResetPrintState2:
+    SetVar VAR_BATTLE_ARCADE_PRINT_STATE, 2
+    Return
+#endif
 
 BattleArcade_OnFrame_ChallengeEndedCompletedRound:
     CallIfEq VAR_BATTLE_ARCADE_CHALLENGE_TYPE, FRONTIER_CHALLENGE_SINGLE, BattleArcade_IncrementTrainerScoreRoundCompleted
@@ -504,6 +519,7 @@ BattleArcade_OnFrame_ChallengeEnded:
     GoTo BattleArcade_EndChallenge
     End
 
+    .balign 4, 0
 BattleArcade_Movement_Unused:
     WalkNormalNorth 2
     Delay8

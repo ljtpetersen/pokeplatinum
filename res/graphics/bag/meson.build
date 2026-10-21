@@ -1,3 +1,4 @@
+
 tilemaps_nscr = copy_gen.process(files(
     'bag_ui_main.NSCR',
     'item_list_border.NSCR',
@@ -59,11 +60,11 @@ palettes_4bpp = nclr_gen.process(
 
 sprites_ncgr_sopc = ncgr_gen.process(
     files(
-        'bag_ui_main_tileset.png',
         'buttons.png',
-        'item_entry_icons.png',
         'pocket_selector_icons.png',
         'pokeball_borders_tileset.png',
+        'item_entry_icons_' + game_language + '.png',
+        'bag_ui_main_tileset_' + game_language + '.png',
     ),
     extra_args: [
         '-version101',

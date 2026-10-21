@@ -100,19 +100,10 @@ relative_source_root = fs.relative_to(meson.project_source_root(), meson.project
 # *breaks* the dependency-chain if any of these files are edited. However, because
 # this generator produces a depfile, the build back-end will still see the correct
 # granular headers on which each input source file depends.
-if get_option('version') == 'us_rev0'
-version_number = '0'
-elif get_option('version') == 'us_rev1'
-version_number = '1'
-elif get_option('version') == 'eu'
-version_number = '2'
-elif get_option('version') == 'fr'
-version_number = '3'
-endif
 
 script_bin_gen = generator(make_script_bin_sh,
     arguments: [
-        '--version', version_number,
+        '--version', version_id,
         '-i', relative_source_root / 'include',
         '-i', relative_source_root / 'asm',
         '-i', '.',

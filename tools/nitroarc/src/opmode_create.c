@@ -209,6 +209,7 @@ static int collect_explicit_files(const char *fdata, packcfg_t *cfg) { // bool a
 
     stat_t  stb = { 0 };
     char   *s   = (char *)fdata;
+    const char *path;
     for (char *p = NULL, *n = NULL; *s; s = n) {
         s    = strltrim(s);
         p    = streol(s);
@@ -216,8 +217,11 @@ static int collect_explicit_files(const char *fdata, packcfg_t *cfg) { // bool a
         p    = strrtrim(s, p - 1);
         p[1] = 0;
 
-        if (p == s)               continue;
-        if (stat(s, &stb) == -1)  goto errstat;
+        if (p == s) continue;
+        path = substitute_path(s, true);
+        if (!path) goto erralloc;
+        if (stat(path, &stb) == -1) goto errstat;
+        if (path != s) free((void *)path);
         if (S_ISDIR(stb.st_mode)) continue;
 
         if (!allow_dupes && strvec_has(out_files, s)) continue;
@@ -235,6 +239,7 @@ erralloc:
 
 errstat:
     progerr("I/O failure statting file '%s': %s", s, strerror(errno));
+    if (path != s) free((void *)path);
     errc = PROGRAM_EFILEIO;
     goto errcleanup;
 
@@ -288,8 +293,22 @@ static int collect_implicit_files(strvec_t *files, const strvec_t *excls, size_t
         .cap  = 64,
     };
 
+    strvec_t files_subst = {
+        .data = calloc(files->size, sizeof(char *)),
+        .size = files->size,
+        .cap = files->size,
+    };
+
     if (queue.data == NULL) goto erralloc;
     strvec_push(&queue, ".");
+
+    if (files_subst.data == NULL) goto erralloc;
+    for (size_t i = 0; i < files->size; ++i) {
+        files_subst.data[i] = (char *)substitute_path(files->data[i], true);
+        if (!files_subst.data[i]) {
+            goto erralloc;
+        }
+    }
 
     for (size_t i = 0; i < queue.size; i++) {
         char *path = queue.data[i];
@@ -314,7 +333,7 @@ static int collect_implicit_files(strvec_t *files, const strvec_t *excls, size_t
             if (S_ISDIR(stb.st_mode)) {
                 if (strvec_push(&queue, name)) goto erralloc;
             }
-            else if (strvec_has(files, name))     { free(name); }
+            else if (strvec_has(&files_subst, name))     { free(name); }
             else if (should_exclude(name, excls)) { free(name); }
             else {
                 proglog("f %s", name);
@@ -326,6 +345,13 @@ static int collect_implicit_files(strvec_t *files, const strvec_t *excls, size_t
         closedir(dir);
     }
 
+    for (size_t i = 0; i < files_subst.size; ++i) {
+        if (files->data[i] != files_subst.data[i]) {
+            free(files_subst.data[i]);
+        }
+    }
+    free(files_subst.data);
+
     // Only sort implicit includes
     qsort(
         &files->data[*out_nexpls],
@@ -335,6 +361,7 @@ static int collect_implicit_files(strvec_t *files, const strvec_t *excls, size_t
     );
 
     free(queue.data);
+
     return PROGRAM_ENONE;
 
 erralloc:
@@ -356,6 +383,14 @@ errstat:
 errcleanup:
     if (dir) closedir(dir);
     free(queue.data);
+    if (files_subst.data) {
+        for (size_t i = 0; i < files_subst.size; ++i) {
+            if (files->data[i] != files_subst.data[i]) {
+                free(files_subst.data[i]);
+            }
+        }
+        free(files_subst.data);
+    }
     return errc;
 }
 
@@ -524,8 +559,11 @@ static int write_index(const char *fname, bool index, const strvec_t *files) {
 
     for (size_t i = 0; i < files->size; i++) {
         size_t nhits = strvec_nhits(files, files->data[i], i);
-        char  *defn  = guardify_nhits(files->data[i], strlen(files->data[i]), nhits);
-        if (defn == NULL) { free(defn); goto erralloc; }
+        const char *path = substitute_path(files->data[i], false);
+        if (!path) { goto erralloc; }
+        char  *defn  = guardify_nhits(path, strlen(path), nhits);
+        if (path != files->data[i]) { free((void *)path); }
+        if (defn == NULL) { goto erralloc; }
 
         fprintf(fnaix, "#define %s %zu\n", defn, i);
         free(defn);

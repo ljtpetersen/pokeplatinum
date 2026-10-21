@@ -1,5 +1,5 @@
-yes_no_button_tiles.NCLR
-yes_no_button_tiles.NCGR.lz
+yes_no_button_tiles{LANG}.NCLR
+yes_no_button_tiles{LANG}.NCGR.lz
 yes_button.NSCR.lz
 no_button.NSCR.lz
 yes_button_pressed_1.NSCR.lz

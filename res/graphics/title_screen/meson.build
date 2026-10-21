@@ -3,7 +3,7 @@ pngs_4bpp = files(
 )
 
 pngs_8bpp = files(
-    'logo.png',
+    'logo_' + game_language + '.png',
     'logo_jp.png',
 )
 

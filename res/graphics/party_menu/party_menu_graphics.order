@@ -13,7 +13,7 @@ button.NCGR
 subscreen_tiles.NCGR
 subscreen.NCLR
 subscreen.NSCR
-menu_tiles.NCGR
+menu_tiles{LANG}.NCGR
 menu.NCLR
 menu.NSCR
 icons_anim.NANR

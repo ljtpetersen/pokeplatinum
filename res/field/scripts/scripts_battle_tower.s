@@ -4,6 +4,8 @@
 #include "res/field/events/events_battle_tower.h"
 #include "generated/goods.h"
 
+#include "constants/platinum_version.h"
+
 
     ScriptEntry BattleTower_SingleAttendant
     ScriptEntry BattleTower_MultiAttendant
@@ -341,9 +343,23 @@ BattleTower_OnFrame_DidntSaveBeforeQuit:
     LockAll
     Message BattleTower_Text_DidntSaveBeforeQuit
     CallBattleTowerFunction BT_FUNC_UNK_14, 0, VAR_RESULT
+#if POKEPLATINUM_VERSION == POKEPLATINUM_VERSION_FR
+    CallIfEq VAR_BATTLE_TOWER_PRINT_STATE, 1, BattleTower_OnFrame_DidntSaveBeforeQuit_ResetPrintState0
+    CallIfEq VAR_BATTLE_TOWER_PRINT_STATE, 3, BattleTower_OnFrame_DidntSaveBeforeQuit_ResetPrintState2
+#endif
     GoToIfEq VAR_RESULT, 4, BattleTower_DidntSaveCheckDemoted
     GoTo BattleTower_ClearCommunicationAndEnd
     End
+
+#if POKEPLATINUM_VERSION == POKEPLATINUM_VERSION_FR
+BattleTower_OnFrame_DidntSaveBeforeQuit_ResetPrintState0:
+    SetVar VAR_BATTLE_TOWER_PRINT_STATE, 0
+    Return
+
+BattleTower_OnFrame_DidntSaveBeforeQuit_ResetPrintState2:
+    SetVar VAR_BATTLE_TOWER_PRINT_STATE, 2
+    Return
+#endif
 
 BattleTower_DidntSaveCheckDemoted:
     CallBattleTowerFunction BT_FUNC_UNK_09, 0, VAR_RESULT

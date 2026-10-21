@@ -8,6 +8,7 @@ nitroarc_cflags = [
     '-Wconversion',
     '-Wno-sign-conversion',
     '-Werror',
+    '-DNARC_SUBST_LANG="_' + game_language + '"',
 ]
 
 nitroarc_incdir = include_directories('lib/include')

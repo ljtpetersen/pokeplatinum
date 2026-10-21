@@ -75,7 +75,15 @@ int load_file(const char *path, char **out_buf, size_t *out_size) {
 
     FILE *f    = NULL;
     char *buf  = NULL;
-    int   errc = open_file(path, "rb", &f);
+    const char *substituted_path = substitute_path(path, true);
+    if (!substituted_path) {
+        progerr("alloc failure substituting path: %s", strerror(errno));
+        return PROGRAM_EALLOC;
+    }
+    int   errc = open_file(substituted_path, "rb", &f);
+    if (substituted_path != path) {
+        free((void *)substituted_path);
+    }
     if (errc) return errc;
     if (!f)   return PROGRAM_EGENERAL; // NOTE: Only to silence the compiler
 
@@ -181,4 +189,51 @@ int write_file(const char *path, void *data, size_t size) {
 
     fclose(f);
     return PROGRAM_ENONE;
+}
+
+#ifndef NARC_SUBST_LANG
+#define NARC_SUBST_LANG ""
+#endif
+
+const char *substitute_path(const char *path, bool is_for_opening_file) {
+    size_t i, p, l;
+    p = 0;
+    l = strlen(path);
+    for (i = 0; i < l; ++i) {
+        if (path[i] == '{') {
+            break;
+        }
+    }
+    if (i == l) {
+        return path;
+    }
+
+    char *ret = calloc(l + 1, 1);
+    if (!ret) {
+        return NULL;
+    }
+    char *cur = ret;
+    do {
+        memcpy(cur, path + p, i - p);
+        cur += i - p;
+        if (strncmp(path + i + 1, "LANG}", sizeof("LANG}") - 1) == 0) {
+            if (is_for_opening_file) {
+                memcpy(cur, NARC_SUBST_LANG, sizeof(NARC_SUBST_LANG) - 1);
+                cur += sizeof(NARC_SUBST_LANG) - 1;
+            }
+            i += sizeof("{LANG}") - 1;
+            p = i;
+        } else {
+            p = i;
+            i += 1;
+        }
+        for (; i < l; ++i) {
+            if (path[i] == '{') {
+                break;
+            }
+        }
+    } while (i < l);
+    memcpy(cur, path + p, l - p + 1);
+
+    return (const char *)ret;
 }

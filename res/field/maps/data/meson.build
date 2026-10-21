@@ -1,9 +1,7 @@
 if get_option('version') == 'us_rev0' or get_option('version') == 'us_rev1'
-map_data_164 = 'map_data_164_us.bin'
-map_data_order = files('map_data_us.order')
+map_data_164 = fs.copyfile('map_data_164_us.bin', 'map_data_164.bin')
 elif get_option('version') == 'eu' or get_option('version') == 'fr'
-map_data_164 = 'map_data_164_eu.bin'
-map_data_order = files('map_data_eu.order')
+map_data_164 = fs.copyfile('map_data_164_eu.bin', 'map_data_164.bin')
 endif
 
 map_data_files = copy_gen.process(files(
@@ -171,7 +169,6 @@ map_data_files = copy_gen.process(files(
     'map_data_161.bin',
     'map_data_162.bin',
     'map_data_163.bin',
-    map_data_164,
     'map_data_165.bin',
     'map_data_166.bin',
     'map_data_167.bin',
@@ -673,7 +670,7 @@ map_data_files = copy_gen.process(files(
     'map_data_663.bin',
     'map_data_664.bin',
     'map_data_665.bin'
-))
+) + map_data_164)
 
 map_data_narc = custom_target('land_data.narc',
     output: [
@@ -683,7 +680,7 @@ map_data_narc = custom_target('land_data.narc',
     command: [
         nitroarc_exe,
         '--create',
-        '--files-from', map_data_order,
+        '--files-from', files('map_data.order'),
         '--file', '@OUTPUT0@',
         '@PRIVATE_DIR@',
     ],

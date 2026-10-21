@@ -9,7 +9,7 @@ bag_sprite_female.NCLR
 pocket_selector_arrows_anim.NANR
 pocket_selector_arrows_cell.NCER
 pocket_selector_arrows.NCGR
-bag_ui_main_tileset.NCGR
+bag_ui_main_tileset{LANG}.NCGR
 bag_ui_main.NCLR
 item_list_border.NSCR
 bag_ui_main.NSCR
@@ -36,4 +36,4 @@ button_shockwave_anim.NANR
 button_shockwave_cell.NCER
 button_shockwave.NCGR
 button_shockwave.NCLR
-item_entry_icons.NCGR
+item_entry_icons{LANG}.NCGR

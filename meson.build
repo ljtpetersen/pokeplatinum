@@ -15,7 +15,6 @@ fs = import('fs')
 public_includes = include_directories('include', 'asm')
 toplevel_includes = include_directories('.')
 
-
 ############################################################
 ###                    COMPILER FLAGS                    ###
 ############################################################
@@ -37,22 +36,21 @@ shared_args = [
 ]
 
 if get_option('version') == 'us_rev0'
-    shared_args += [
-        '-DPOKEPLATINUM_VERSION=0'
-    ]
+    version_id = '0'
+    game_language = 'en'
 elif get_option('version') == 'us_rev1'
-    shared_args += [
-        '-DPOKEPLATINUM_VERSION=1'
-    ]
+    version_id = '1'
+    game_language = 'en'
 elif get_option('version') == 'eu'
-    shared_args += [
-        '-DPOKEPLATINUM_VERSION=2'
-    ]
+    version_id = '2'
+    game_language = 'en'
 elif get_option('version') == 'fr'
-    shared_args += [
-        '-DPOKEPLATINUM_VERSION=3'
-    ]
+    version_id = '3'
+    game_language = 'fr'
 endif
+shared_args += [
+    '-DPOKEPLATINUM_VERSION=' + version_id
+]
 
 if get_option('gdb_debugging')
     shared_args += [

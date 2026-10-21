@@ -40,7 +40,7 @@ textbox_ncgr = ncgr_gen.process('textbox.png',
     ]
 )
 
-interface_ncgr = ncgr_gen.process('interface.png',
+interface_ncgr = ncgr_gen.process('interface_' + game_language + '.png',
     extra_args: [
         '-convertTo4Bpp',
         '-version101',
@@ -55,7 +55,7 @@ particle_ncgrs = ncgr_gen.process(
         'puff0.png',
         'puff1.png',
         'puff2.png',
-        'done.png',
+        'done_' + game_language + '.png',
     ),
     extra_args: [
         '-version101',
@@ -104,7 +104,7 @@ nclrs = nclr_gen.process(
     files(
         'textbox.png',
         'top_screen.png',
-        'interface.png',
+        'interface_' + game_language + '.png',
         'puff0.png',
         'puff1.png',
         'puff2.png',

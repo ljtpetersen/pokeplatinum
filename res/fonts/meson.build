@@ -8,7 +8,7 @@ nfgr_gen = generator(nitrogfx_exe,
 # custom target, then copy it into the private directory for packing.
 font_base_nclr = custom_target('font.NCLR',
     output: 'font.NCLR',
-    input: files('font_special_chars.png'),
+    input: 'font_special_chars_' + game_language + '.png',
     command: [ nitrogfx_exe, '@INPUT@', '@OUTPUT@', '-bitdepth', '4', '-nopad', '-pcmp' ],
 )
 
@@ -27,8 +27,8 @@ pl_font_narc = custom_target('pl_font.narc',
             )
         ),
         ncgr_lz_gen.process(
-            files('font_special_chars.png'),
-            extra_args: [ '-sopc', '-version101' ],
+            files('font_special_chars_' + game_language + '.png'),
+            extra_args: [ '-sopc', '-version101', '-nopad' ],
         ),
         ncgr_gen.process(
             files('screen_indicators.png'),

@@ -3,6 +3,7 @@
 #include "constants/menu.h"
 #include "res/text/bank/battle_frontier_records.h"
 #include "constants/battle_hall_functions.h"
+#include "constants/platinum_version.h"
 
 
     ScriptEntry FrontierRecords_BattleTower
@@ -164,7 +165,12 @@ FrontierRecords_SelectChallengeType:
     Return
 
 FrontierRecords_InitMenuStartingLetters:
+#if POKEPLATINUM_VERSION == POKEPLATINUM_VERSION_FR
+    InitLocalTextListMenu 31, 1, 0, VAR_0x8002
+    SetMenuXOriginToRight
+#else
     InitLocalTextListMenu 25, 1, 0, VAR_0x8002
+#endif
     AddListMenuEntry BattleFrontierRecords_Text_ABC, 0
     AddListMenuEntry BattleFrontierRecords_Text_DEF, 1
     AddListMenuEntry BattleFrontierRecords_Text_GHI, 2

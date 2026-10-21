@@ -1,3 +1,35 @@
+lang_dependent_types = [
+  'beauty',
+  'cute',
+  'dragon',
+  'electric',
+  'psychic',
+  'dark',
+  'fighting',
+  'fire',
+  'flying',
+  'ghost',
+  'ground',
+  'ice',
+  'bug',
+  'smart',
+  'grass',
+  'normal',
+  'poison',
+  'mystery',
+  'rock',
+  'steel',
+  'tough',
+  'cool',
+  'water',
+]
+
+processed_lang_dependent_types = []
+
+foreach t : lang_dependent_types
+    processed_lang_dependent_types += t + '_' + game_language + '.png'
+endforeach
+
 battle_sprites += [
   nclr_gen.process(
     files('shared.pal'),
@@ -6,31 +38,7 @@ battle_sprites += [
   ),
 
   ncgr_lz_gen.process(
-    files(
-      'beauty.png',
-      'cute.png',
-      'dragon.png',
-      'electric.png',
-      'psychic.png',
-      'dark.png',
-      'fighting.png',
-      'fire.png',
-      'flying.png',
-      'ghost.png',
-      'ground.png',
-      'ice.png',
-      'bug.png',
-      'smart.png',
-      'grass.png',
-      'normal.png',
-      'poison.png',
-      'mystery.png',
-      'rock.png',
-      'steel.png',
-      'tough.png',
-      'cool.png',
-      'water.png',
-    ),
+    files(processed_lang_dependent_types),
     extra_args: [ '-bitdepth', '4', '-version101', '-clobbersize' ],
     preserve_path_from: base_directory,
   ),

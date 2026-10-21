@@ -105,7 +105,7 @@ static void proc_trade(datafile_t *df) {
         .heldItem         = enum_u16(".heldItem", enum Item),
         .otGender         = enum_u16(".otGender", enum Gender),
         .unused2          = u32(".unused2"),
-        .language         = enum_u16(".language", enum Language),
+        .language         = dp_try(df, ".language" ATTRIBUTE_EXTENSION).type != DATAPROC_T_ERR ? enum_u16(".language" ATTRIBUTE_EXTENSION, enum Language) : enum_u16(".language", enum Language),
         .requestedSpecies = enum_u16(".requestedSpecies", enum Species),
     };
 

@@ -1,12 +1,12 @@
 # Tiles and tilemaps
 tiles_png_4bpp = files(
-    'scroll_main_background.png',
+    'scroll_main_background_' + game_language + '.png',
     'scroll_sub_background.png',
     'dummy1.png',
     'dummy2.png',
     'dummy3.png',
     'entry_main.png',
-    'entry_sub.png',
+    'entry_sub_' + game_language + '.png',
 )
 
 tiles_png_8bpp = files(
@@ -90,8 +90,8 @@ tilemaps_nscr = lz_gen.process(
 # sprite images
 sprites_png_mappingtype0 = files(
     'scroll_buttons.png',
-    'page_buttons.png',
-    'info_language_buttons.png',
+    'page_buttons_' + game_language + '.png',
+    'info_language_buttons_' + game_language + '.png',
     'size_buttons_pressed.png',
     'cry_dials.png',
     'search_buttons.png',
@@ -112,7 +112,7 @@ sprites_png_mappingtype128_cell = files(
     'name_tag.png',
     'search_body_shapes.png',
     'banner.png',
-    'type_icons.png',
+    'type_icons_' + game_language + '.png',
     'unseen_icon.png',
 )
 
@@ -176,7 +176,7 @@ sprites_cell_json = files(
     'search_body_shapes_cell.json',
     'scroll_buttons_cell.json',
     'banner_cell.json',
-    'type_icons_cell.json',
+    'type_icons_' + game_language + '_cell.json',
     'size_check_icons_cell.json',
     'page_buttons_cell.json',
     'info_language_buttons_cell.json',

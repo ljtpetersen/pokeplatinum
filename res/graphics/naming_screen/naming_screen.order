@@ -8,7 +8,7 @@ naming_screen_chars_bg_0.NSCR.lz
 naming_screen_chars_bg_1.NSCR.lz
 naming_screen_chars_bg_2.NSCR.lz
 naming_screen_chars_bg_3.NSCR.lz
-naming_screen_sprites.NCGR.lz
+naming_screen_sprites{LANG}.NCGR.lz
 naming_screen_unk_sprite.NCGR.lz
 naming_screen_sprites_cell.NCER.lz
 naming_screen_unk_sprite_cell.NCER.lz

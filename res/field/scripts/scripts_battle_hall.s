@@ -4,6 +4,7 @@
 #include "res/field/events/events_battle_hall.h"
 #include "constants/battle_frontier.h"
 #include "constants/battle_hall_functions.h"
+#include "constants/platinum_version.h"
 
 
     ScriptEntry BattleHall_SingleAttendant
@@ -266,8 +267,21 @@ BattleHall_SelectPokemon:
     GoToIfEq VAR_MAP_LOCAL_0x02, 0xFF, BattleHall_EndChallenge
     TryRevertPokemonForm VAR_MAP_LOCAL_0x02, VAR_RESULT
     GoToIfEq VAR_RESULT, 0xFF, BattleHall_ShowGriseousOrbErrorAndExit
+#if POKEPLATINUM_VERSION == POKEPLATINUM_VERSION_FR
+    GoToIfEq VAR_BATTLE_HALL_CHALLENGE_TYPE, 1, BattleHall_SelectPokemon_ChallengeType1
+    GoTo BattleHall_SelectPokemon_OtherChallengeType
+    End
+
+BattleHall_SelectPokemon_ChallengeType1:
+#endif
     TryRevertPokemonForm VAR_MAP_LOCAL_0x05, VAR_RESULT
     GoToIfEq VAR_RESULT, 0xFF, BattleHall_ShowGriseousOrbErrorAndExit
+#if POKEPLATINUM_VERSION == POKEPLATINUM_VERSION_FR
+    GoTo BattleHall_SelectPokemon_OtherChallengeType
+    End
+
+BattleHall_SelectPokemon_OtherChallengeType:
+#endif
     GetPartyMonSpecies VAR_MAP_LOCAL_0x02, VAR_MAP_LOCAL_0x01
     GoToIfEq VAR_MAP_LOCAL_0x01, 0, BattleHall_EndChallenge
     CallBattleHallLobbyFunction BH_LOBBY_FUNC_CHECK_STREAK_ACTIVE, VAR_BATTLE_HALL_CHALLENGE_TYPE, VAR_RESULT
@@ -589,8 +603,22 @@ BattleHall_SaveGame:
 BattleHall_OnFrame_DidntSaveBeforeQuit:
     Message BattleHall_Text_DidntSaveBeforeQuit
     DeleteActiveBattleHallStreak VAR_BATTLE_HALL_CHALLENGE_TYPE
+#if POKEPLATINUM_VERSION == POKEPLATINUM_VERSION_FR
+    CallIfEq VAR_BATTLE_HALL_PRINT_STATE, 1, BattleHall_OnFrame_DidntSaveBeforeQuit_ResetPrintState0
+    CallIfEq VAR_BATTLE_HALL_PRINT_STATE, 3, BattleHall_OnFrame_DidntSaveBeforeQuit_ResetPrintState2
+#endif
     GoTo BattleHall_EndChallenge
     End
+
+#if POKEPLATINUM_VERSION == POKEPLATINUM_VERSION_FR
+BattleHall_OnFrame_DidntSaveBeforeQuit_ResetPrintState0:
+    SetVar VAR_BATTLE_HALL_PRINT_STATE, 0
+    Return
+
+BattleHall_OnFrame_DidntSaveBeforeQuit_ResetPrintState2:
+    SetVar VAR_BATTLE_HALL_PRINT_STATE, 2
+    Return
+#endif
 
 BattleHall_OnFrame_ChallengeEndedCompletedRound:
     CallIfEq VAR_BATTLE_HALL_CHALLENGE_TYPE, FRONTIER_CHALLENGE_SINGLE, BattleHall_IncrementTrainerScoreRoundCompleted
@@ -627,6 +655,7 @@ BattleHall_OnFrame_ChallengeEnded:
     GoTo BattleHall_EndChallenge
     End
 
+    .balign 4, 0
 BattleHall_Movement_Unused:
     WalkNormalNorth 2
     Delay8

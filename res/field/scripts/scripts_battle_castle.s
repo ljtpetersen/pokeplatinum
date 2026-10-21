@@ -3,6 +3,7 @@
 #include "res/text/bank/menu_entries.h"
 #include "constants/battle_frontier.h"
 #include "constants/battle_castle_functions.h"
+#include "constants/platinum_version.h"
 
 
     ScriptEntry BattleCastle_SingleAttendant
@@ -461,8 +462,22 @@ BattleCastle_SaveGame:
 BattleCastle_OnFrame_DidntSaveBeforeQuit:
     Message BattleCastle_Text_DidntSaveBeforeQuit
     DeleteActiveBattleCastleStreak VAR_BATTLE_CASTLE_CHALLENGE_TYPE
+#if POKEPLATINUM_VERSION == POKEPLATINUM_VERSION_FR
+    CallIfEq VAR_BATTLE_CASTLE_PRINT_STATE, 1, BattleCastle_OnFrame_DidntSaveBeforeQuit_ResetPrintState0
+    CallIfEq VAR_BATTLE_CASTLE_PRINT_STATE, 3, BattleCastle_OnFrame_DidntSaveBeforeQuit_ResetPrintState2
+#endif
     GoTo BattleCastle_EndChallenge
     End
+
+#if POKEPLATINUM_VERSION == POKEPLATINUM_VERSION_FR
+BattleCastle_OnFrame_DidntSaveBeforeQuit_ResetPrintState0:
+    SetVar VAR_BATTLE_CASTLE_PRINT_STATE, 0
+    Return
+
+BattleCastle_OnFrame_DidntSaveBeforeQuit_ResetPrintState2:
+    SetVar VAR_BATTLE_CASTLE_PRINT_STATE, 2
+    Return
+#endif
 
 BattleCastle_OnFrame_ChallengeEndedCompletedRound:
     CallIfEq VAR_BATTLE_CASTLE_CHALLENGE_TYPE, FRONTIER_CHALLENGE_SINGLE, BattleCastle_IncrementTrainerScoreRoundCompleted
@@ -499,6 +514,7 @@ BattleCastle_OnFrame_ChallengeEnded:
     GoTo BattleCastle_EndChallenge
     End
 
+    .balign 4, 0
 BattleCastle_Movement_Unused:
     WalkNormalNorth 2
     Delay8
