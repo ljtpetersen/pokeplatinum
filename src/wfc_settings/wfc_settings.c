@@ -1,5 +1,7 @@
 #include "wfc_settings/wfc_settings.h"
 
+#include "constants/platinum_version.h"
+
 #include <dwc.h>
 #include <nitro.h>
 #include <string.h>
@@ -18,7 +20,11 @@ void WFCSettings_StartApplication(enum HeapID heapID)
     DWC_SetAuthServer(DWC_CONNECTINET_AUTH_RELEASE);
     void *dwcUtilityWorkObj = Heap_Alloc(heapID, DWC_UTILITY_WORK_SIZE);
 
+#if POKEPLATINUM_VERSION == POKEPLATINUM_VERSION_FR
+    DWC_StartUtility(dwcUtilityWorkObj, DWC_LANGUAGE_FRENCH, DWC_UTILITY_TOP_MENU_COMMON);
+#else
     DWC_StartUtility(dwcUtilityWorkObj, DWC_LANGUAGE_ENGLISH, DWC_UTILITY_TOP_MENU_COMMON);
+#endif
 
     Heap_Free(dwcUtilityWorkObj);
 

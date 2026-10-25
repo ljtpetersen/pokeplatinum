@@ -3,6 +3,8 @@
 
 #include <nitro/wm.h>
 
+#include "constants/platinum_version.h"
+
 enum WirelessManagerState {
     WIRELESS_STATE_STOP = 0,
     WIRELESS_STATE_IDLE,
@@ -68,6 +70,9 @@ void WirelessManager_SetMaxNumConnections(int numConnectionsMax);
 BOOL WirelessManager_IsIdle(void);
 BOOL WirelessManager_IsBusy(void);
 BOOL WirelessManager_IsError(void);
+#if POKEPLATINUM_VERSION == POKEPLATINUM_VERSION_FR
+BOOL WirelessManager_IsFatalError(void);
+#endif
 BOOL WirelessManager_IsScanning(void);
 void WirelessManager_SetGameInfo(void *buffer, int size, int ggid, int tgid);
 BOOL WirelessManager_SetEntry(BOOL enable);

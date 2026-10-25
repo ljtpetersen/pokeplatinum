@@ -96,7 +96,7 @@ healthbox_parts_embed = custom_target(
     'healthbox_parts.4bpp',
     'healthbox_parts.4bpp.h',
   ],
-  input: files('healthbox_parts.png'),
+  input: files('healthbox_parts_' + game_language + '.png'),
   command: [ nitrogfx_exe, '@INPUT@', '@OUTPUT0@', '-embed', 'sHealthBoxPartsBitmap' ],
 )
 

@@ -4,6 +4,7 @@
 #include <string.h>
 
 #include "constants/field_base_tiles.h"
+#include "constants/platinum_version.h"
 #include "generated/trainer_score_events.h"
 
 #include "field/field_system.h"
@@ -230,7 +231,11 @@ static const ListMenuTemplate sListMenuTemplate = {
     .count = NELEMS(sTalkOptions),
     .maxDisplay = NELEMS(sTalkOptions),
     .headerXOffset = 0,
+#if POKEPLATINUM_VERSION == POKEPLATINUM_VERSION_FR
+    .textXOffset = 7,
+#else
     .textXOffset = 8,
+#endif
     .cursorXOffset = 0,
     .yOffset = 0,
     .textColorFg = 1,

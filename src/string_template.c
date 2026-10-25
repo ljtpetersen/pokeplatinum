@@ -7,6 +7,7 @@
 #include "constants/heap.h"
 #include "constants/narc.h"
 #include "constants/pokemon.h"
+#include "constants/platinum_version.h"
 #include "generated/abilities.h"
 #include "generated/genders.h"
 #include "generated/moves.h"
@@ -22,6 +23,7 @@
 #include "message.h"
 #include "pc_boxes.h"
 #include "pokemon.h"
+#include "poffin_types.h"
 #include "record_mixed_rng.h"
 #include "save_player.h"
 #include "savedata.h"
@@ -627,6 +629,28 @@ void StringTemplate_SetFloorNumber(StringTemplate *template, u32 idx, u32 floor)
         MessageLoader_Free(loader);
     }
 }
+
+
+#if POKEPLATINUM_VERSION == POKEPLATINUM_VERSION_FR
+void StringTemplate_SetPoffinName2(StringTemplate *template, u32 idx, u32 poffin)
+{
+    SetArgFromArchive(template, idx, poffin, TEXT_BANK_POFFIN_TYPES);
+}
+
+void StringTemplate_SetPoffinFlavorName(StringTemplate *template, u32 idx, u32 poffinIndex)
+{
+    static u32 sIndexedPoffinTypes[] = {
+        POFFIN_TYPE_SPICY,
+        POFFIN_TYPE_DRY,
+        POFFIN_TYPE_SWEET,
+        POFFIN_TYPE_BITTER,
+        POFFIN_TYPE_SOUR,
+    };
+
+    GF_ASSERT(poffinIndex < NELEMS(sIndexedPoffinTypes));
+    StringTemplate_SetPoffinName2(template, idx, sIndexedPoffinTypes[poffinIndex]);
+}
+#endif
 
 void StringTemplate_Format(const StringTemplate *template, String *dst, const String *fmtString)
 {

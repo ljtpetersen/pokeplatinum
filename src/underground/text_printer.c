@@ -3,6 +3,8 @@
 #include <nitro.h>
 #include <string.h>
 
+#include "constants/platinum_version.h"
+
 #include "bg_window.h"
 #include "heap.h"
 #include "list_menu.h"
@@ -30,7 +32,11 @@ static const ListMenuTemplate sListMenuTemplate = {
     .count = 0,
     .maxDisplay = 0,
     .headerXOffset = 0,
+#if POKEPLATINUM_VERSION == POKEPLATINUM_VERSION_FR
+    .textXOffset = 7,
+#else
     .textXOffset = 8,
+#endif
     .cursorXOffset = 0,
     .yOffset = 0,
     .textColorFg = 1,

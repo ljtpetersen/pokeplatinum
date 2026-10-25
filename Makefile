@@ -19,7 +19,7 @@
 	target        \
 	update
 
-ROM_VERSION ?= us_rev1
+ROM_VERSION ?= eu
 
 SUBPROJ_DIR := subprojects
 

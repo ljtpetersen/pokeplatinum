@@ -6,6 +6,7 @@
 #include "constants/charcode.h"
 #include "constants/graphics.h"
 #include "constants/heap.h"
+#include "constants/platinum_version.h"
 
 #include "pch/global_pch.h"
 
@@ -473,11 +474,19 @@ static const charcode_t sCharCodesUpper2[] = {
 };
 
 static const charcode_t sCharCodesUpper3[] = {
+#if POKEPLATINUM_VERSION == POKEPLATINUM_VERSION_FR
+    CHAR_A_GRAVE,
+    CHAR_C_OGONEK,
+    CHAR_E_ACUTE,
+    CHAR_E_GRAVE,
+    CHAR_U_GRAVE,
+#else
     CHAR_SPACE,
     CHAR_SPACE,
     CHAR_SPACE,
     CHAR_SPACE,
     CHAR_SPACE,
+#endif
     CHAR_SPACE,
     CHAR_SPACE,
     CHAR_SPACE,
@@ -558,6 +567,20 @@ static const charcode_t sCharCodesLower2[] = {
 };
 
 static const charcode_t sCharCodesLower3[] = {
+#if POKEPLATINUM_VERSION == POKEPLATINUM_VERSION_FR
+    CHAR_a_GRAVE,
+    CHAR_a_CIRCUMFLEX,
+    CHAR_c_OGONEK,
+    CHAR_e_ACUTE,
+    CHAR_e_GRAVE,
+    CHAR_e_CIRCUMFLEX,
+    CHAR_e_DIERESIS,
+    CHAR_i_CIRCUMFLEX,
+    CHAR_i_DIERESIS,
+    CHAR_o_CIRCUMFLEX,
+    CHAR_u_GRAVE,
+    CHAR_u_CIRCUMFLEX,
+#else
     CHAR_SPACE,
     CHAR_SPACE,
     CHAR_SPACE,
@@ -570,6 +593,7 @@ static const charcode_t sCharCodesLower3[] = {
     CHAR_SPACE,
     CHAR_SPACE,
     CHAR_SPACE,
+#endif
     CHAR_SPACE,
     CHAR_EOS,
 };
@@ -609,14 +633,20 @@ static const charcode_t sCharCodesOthers0[] = {
 };
 
 static const charcode_t sCharCodesOthers1[] = {
+#if POKEPLATINUM_VERSION == POKEPLATINUM_VERSION_FR
+    CHAR_DOUBLE_PAREN_OPEN,
+    CHAR_DOUBLE_PAREN_CLOSE,
+#endif
     CHAR_DOUBLE_QUOTE_OPEN,
     CHAR_DOUBLE_QUOTE_CLOSE,
     CHAR_SINGLE_QUOTE_OPEN,
     CHAR_SINGLE_QUOTE_CLOSE,
     CHAR_PAREN_OPEN,
     CHAR_PAREN_CLOSE,
+#if POKEPLATINUM_VERSION != POKEPLATINUM_VERSION_FR
     CHAR_SPACE,
     CHAR_SPACE,
+#endif
     CHAR_SPACE,
     CHAR_SPACE,
     CHAR_SPACE,

@@ -2,6 +2,7 @@
 #include <string.h>
 
 #include "constants/narc.h"
+#include "constants/platinum_version.h"
 
 #include "struct_defs/struct_0208C06C.h"
 #include "struct_defs/wifi_battle_tower_data.h"
@@ -224,7 +225,11 @@ static void ov62_0223712C(UnkStruct_0208C06C *param0)
     SpriteManager *v3 = param0->unk_14.unk_08;
     PaletteData *v4 = param0->unk_14.unk_14;
     int v5;
+#if POKEPLATINUM_VERSION == POKEPLATINUM_VERSION_FR
+    u32 v6[5];
+#else
     int v6[5];
+#endif
 
     {
         VarsFlags *v7 = SaveData_GetVarsFlags(param0->saveData);
@@ -240,7 +245,11 @@ static void ov62_0223712C(UnkStruct_0208C06C *param0)
         if (v6[v5] != 0) {
             int v8[] = { 0, 1, 4, 3, 2 };
 
+#if POKEPLATINUM_VERSION == POKEPLATINUM_VERSION_FR
+            if (v6[v5] - 2 <= 1) {
+#else
             if (v6[v5] == 2) {
+#endif
                 PaletteData *v9 = param0->unk_14.unk_14;
                 u16 *v10;
 
@@ -258,7 +267,11 @@ static void ov62_022371CC(UnkStruct_0208C06C *param0)
     int v0;
     int v1 = 0;
     int v2[4 + 1];
+#if POKEPLATINUM_VERSION == POKEPLATINUM_VERSION_FR
+    u32 v3[5];
+#else
     int v3[5];
+#endif
     UnkStruct_ov62_02236CBC *v4 = param0->unk_860;
     BgConfig *v5 = param0->unk_14.unk_10;
     SpriteSystem *v6 = param0->unk_14.unk_04;
@@ -335,7 +348,11 @@ static void ov62_022371CC(UnkStruct_0208C06C *param0)
     for (v0 = 0; v0 < 5; v0++) {
         v4->unk_68[v0] = SpriteSystem_NewSprite(param0->unk_14.unk_04, param0->unk_14.unk_08, &v9);
 
+#if POKEPLATINUM_VERSION == POKEPLATINUM_VERSION_FR
+        if (v3[v0] <= 1) {
+#else
         if (v3[v0] == 0) {
+#endif
             ManagedSprite_SetAnim(v4->unk_68[v0], 5);
             ManagedSprite_SetExplicitPalette(v4->unk_68[v0], 4 + 5);
             ManagedSprite_SetDrawFlag(v4->unk_54[v0], 0);

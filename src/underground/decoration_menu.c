@@ -4,6 +4,7 @@
 #include <string.h>
 
 #include "constants/field_base_tiles.h"
+#include "constants/platinum_version.h"
 
 #include "field/field_system.h"
 #include "underground/item_list_menu.h"
@@ -57,7 +58,11 @@ static const ListMenuTemplate sListMenuTemplate = {
     .count = 4,
     .maxDisplay = 4,
     .headerXOffset = 0,
+#if POKEPLATINUM_VERSION == POKEPLATINUM_VERSION_FR
+    .textXOffset = 7,
+#else
     .textXOffset = 8,
+#endif
     .cursorXOffset = 0,
     .yOffset = 0,
     .textColorFg = 1,

@@ -1,10 +1,12 @@
 #include "overlay062/ov62_02231690.h"
 
+#include "nitro/os/common/system.h"
 #include <nitro.h>
 #include <string.h>
 
 #include "constants/graphics.h"
 #include "constants/narc.h"
+#include "constants/platinum_version.h"
 #include "constants/string.h"
 
 #include "struct_decls/struct_0202F298_decl.h"
@@ -214,7 +216,11 @@ void ov62_0223197C(UnkStruct_0208C06C *param0, int param1)
     param0->unk_8A0 = 1;
 
     ov62_022302A8(param0, 6, 0);
+
+#if POKEPLATINUM_VERSION != POKEPLATINUM_VERSION_FR
     GXLayers_EngineBToggleLayers(GX_PLANEMASK_BG2, 1);
+#endif
+
     G2S_BlendNone();
     Bg_SetPriority(BG_LAYER_SUB_2, 0);
     Window_Init(v1);
@@ -226,6 +232,11 @@ void ov62_0223197C(UnkStruct_0208C06C *param0, int param1)
     Text_AddPrinterWithParamsAndColor(v1, FONT_SYSTEM, v0, 0, 0, TEXT_SPEED_NO_TRANSFER, TEXT_COLOR(15, 13, 12), NULL);
     Window_ScheduleCopyToVRAM(v1);
     String_Free(v0);
+
+#if POKEPLATINUM_VERSION == POKEPLATINUM_VERSION_FR
+    OS_WaitVBlankIntr();
+    GXLayers_EngineBToggleLayers(GX_PLANEMASK_BG2, 1);
+#endif
 }
 
 void ov62_02231A1C(UnkStruct_0208C06C *param0)
@@ -1982,8 +1993,13 @@ static void ov62_02233B50(UnkStruct_ov62_02233F74 *param0, UnkStruct_0208C06C *p
         s16 v4[][4] = {
             { 0x4, 0x4, 0x18, 0x2 },
             { 0x4, 0x6, 0x18, 0x4 },
+#if POKEPLATINUM_VERSION == POKEPLATINUM_VERSION_FR
+            { 0x4, 0xD, 0x5, 0x2 },
+            { 0x4, 0xB, 0x5, 0x2 },
+#else
             { 0x4, 0xB, 0x5, 0x2 },
             { 0x4, 0xD, 0x5, 0x2 },
+#endif
             { 0x4, 0x15, 0x18, 0x2 }
         };
 

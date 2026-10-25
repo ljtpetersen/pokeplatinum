@@ -4,6 +4,8 @@
 #include <nitro.h>
 #include <string.h>
 
+#include "constants/platinum_version.h"
+
 #include "overlay066/ov66_0222DDF0.h"
 #include "overlay066/ov66_022324F0.h"
 #include "overlay066/struct_ov66_0222DFF8_decl.h"
@@ -21,6 +23,7 @@
 #include "communication_information.h"
 #include "communication_system.h"
 #include "enums.h"
+#include "font.h"
 #include "list_menu.h"
 #include "sound_playback.h"
 #include "string_gf.h"
@@ -1035,12 +1038,21 @@ static void ov70_02266D08(UnkStruct_ov70_02266C68 *param0, UnkStruct_ov70_0225DE
     }
 
     if (param0->unk_07 & 4) {
+#if POKEPLATINUM_VERSION == POKEPLATINUM_VERSION_FR
+        ov70_0225E14C(param1, 0, 16, 13 * 8, 16);
+#else
         ov70_0225E14C(param1, 36, 16, 13 * 8, 16);
+#endif
 
         if (param3 == 1) {
             if ((param0->unk_02 == 0) && (param0->unk_00 == 1)) {
                 v0 = ov70_0225E20C(param1, 1, 69);
+#if POKEPLATINUM_VERSION == POKEPLATINUM_VERSION_FR
+                u8 paramForNext = 0x68 - Font_CalcStringWidth(FONT_SYSTEM, v0, 0);
+                ov70_0225E13C(param1, v0, paramForNext, 16);
+#else
                 ov70_0225E13C(param1, v0, 36, 16);
+#endif
             }
         }
     }

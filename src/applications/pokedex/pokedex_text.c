@@ -2,6 +2,7 @@
 
 #include "constants/heap.h"
 #include "constants/narc.h"
+#include "constants/platinum_version.h"
 #include "constants/species.h"
 
 #include "message.h"
@@ -19,8 +20,13 @@ enum LangIndex {
 };
 
 static const u8 messageBankLanguageOrder[NUM_LANGUAGES] = {
+#if POKEPLATINUM_VERSION == POKEPLATINUM_VERSION_FR
+    LI_FRENCH,
+    LI_ENGLISH,
+#else
     LI_ENGLISH,
     LI_FRENCH,
+#endif
     LI_GERMAN,
     LI_ITALIAN,
     LI_SPANISH,
@@ -169,5 +175,9 @@ static void GetLanguageIndex(int species, int language, int *dexNum, int *langua
 static inline int LanguageIndex_Guarded(int languageIndex)
 {
     GF_ASSERT(languageIndex < NUM_LANGUAGES);
+#if POKEPLATINUM_VERSION == POKEPLATINUM_VERSION_FR
+    return (languageIndex == LI_FRENCH) ? NUM_LANGUAGES : languageIndex;
+#else
     return (languageIndex == LI_ENGLISH) ? NUM_LANGUAGES : languageIndex;
+#endif
 }

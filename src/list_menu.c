@@ -4,6 +4,8 @@
 #include <nnsys.h>
 #include <string.h>
 
+#include "constants/platinum_version.h"
+
 #include "bg_window.h"
 #include "colored_arrow.h"
 #include "font.h"
@@ -389,7 +391,11 @@ static void EraseCursor(ListMenu *menu, u16 atLine)
             menu->template.textColorBg,
             menu->template.cursorXOffset,
             atLine * lineHeight + menu->template.yOffset,
+#if POKEPLATINUM_VERSION == POKEPLATINUM_VERSION_FR
+            7,
+#else
             8,
+#endif
             16);
         break;
 

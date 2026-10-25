@@ -3,6 +3,8 @@
 #include <nitro.h>
 #include <string.h>
 
+#include "constants/platinum_version.h"
+
 #include "struct_decls/struct_0202F41C_decl.h"
 #include "struct_defs/struct_02030A80.h"
 #include "struct_defs/struct_0208C06C.h"
@@ -214,6 +216,18 @@ static BOOL ov62_022454D8(UnkStruct_0208C06C *param0);
 static void ov62_022469A0(UnkStruct_ov62_02241204 *param0, UnkStruct_0208C06C *param1);
 
 static u16 Unk_ov62_02249944[] = {
+#if POKEPLATINUM_VERSION == POKEPLATINUM_VERSION_FR
+    0x0,
+    0x6A,
+    0x9F,
+    0xCB,
+    0xFE,
+    0x154,
+    0x19B,
+    0x1DD,
+    0x1E8,
+    0x1ED
+#else
     0x0,
     0x57,
     0x88,
@@ -224,6 +238,7 @@ static u16 Unk_ov62_02249944[] = {
     0x1C9,
     0x1E7,
     0x1ED
+#endif
 };
 
 static const TouchScreenRect Unk_ov62_0224919C[] = {

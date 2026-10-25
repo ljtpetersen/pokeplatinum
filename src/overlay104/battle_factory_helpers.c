@@ -3,6 +3,7 @@
 #include <nitro.h>
 
 #include "constants/battle_frontier.h"
+#include "constants/platinum_version.h"
 #include "generated/ai_flags.h"
 #include "generated/frontier_trainers.h"
 
@@ -103,8 +104,13 @@ static const BattleFactoryPokemonPool sLevel50Pools[] = {
     },
     {
         .trainerIDMax = FRONTIER_TRAINER_ARCADE_STAR_DAHLIA_SILVER,
+#if POKEPLATINUM_VERSION == POKEPLATINUM_VERSION_FR
+        .setIDMin = 759,
+        .setIDMax = 950,
+#else
         .setIDMin = 351,
         .setIDMax = 486,
+#endif
         .ivs = 31,
         .canBeUpgraded = FALSE,
     }
@@ -169,8 +175,13 @@ static const BattleFactoryPokemonPool sOpenLevelOpponentPools[] = {
     },
     {
         .trainerIDMax = FRONTIER_TRAINER_FACTORY_HEAD_THORTON_GOLD,
+#if POKEPLATINUM_VERSION == POKEPLATINUM_VERSION_FR
+        .setIDMin = 351,
+        .setIDMax = 486,
+#else
         .setIDMin = 759,
         .setIDMax = 950,
+#endif
         .ivs = 12,
         .canBeUpgraded = FALSE,
     },

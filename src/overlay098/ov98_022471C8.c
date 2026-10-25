@@ -315,7 +315,11 @@ int ov98_022471C8(ApplicationManager *appMan, int *param1)
     v0->unk_30 = MessageLoader_Init(MSG_LOADER_PRELOAD_ENTIRE_BANK, NARC_INDEX_MSGDATA__PL_MSG, TEXT_BANK_UNK_0695, HEAP_ID_109);
     v0->unk_28 = MessageLoader_Init(MSG_LOADER_PRELOAD_ENTIRE_BANK, NARC_INDEX_MSGDATA__PL_MSG, TEXT_BANK_SPECIES_NAME, HEAP_ID_109);
     v0->unk_34 = MessageLoader_Init(MSG_LOADER_PRELOAD_ENTIRE_BANK, NARC_INDEX_MSGDATA__PL_MSG, TEXT_BANK_UNK_0358, HEAP_ID_109);
+#if POKEPLATINUM_VERSION == POKEPLATINUM_VERSION_FR
+    v0->unk_38 = String_Init(90 * 3, HEAP_ID_109);
+#else
     v0->unk_38 = String_Init(90 * 2, HEAP_ID_109);
+#endif
     v0->unk_40 = String_Init(16 * 8 * 2, HEAP_ID_109);
     v0->unk_3C = MessageLoader_GetNewString(v0->unk_24, 31);
 

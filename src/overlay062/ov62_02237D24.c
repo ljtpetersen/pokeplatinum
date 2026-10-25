@@ -3,6 +3,8 @@
 #include <nitro.h>
 #include <string.h>
 
+#include "constants/platinum_version.h"
+
 #include "struct_defs/dress_up_photo.h"
 #include "struct_defs/struct_02030A80.h"
 #include "struct_defs/struct_0208C06C.h"
@@ -122,6 +124,18 @@ void ov62_02239D34(void *param0, const UnkStruct_ov62_0223CAA4 *param1);
 void ov62_02239D38(void *param0, const UnkStruct_ov62_0223CAA4 *param1);
 
 static u16 Unk_ov62_022497D4[] = {
+#if POKEPLATINUM_VERSION == POKEPLATINUM_VERSION_FR
+    0x0,
+    0x6A,
+    0x9F,
+    0xCB,
+    0xFE,
+    0x154,
+    0x19B,
+    0x1DD,
+    0x1E8,
+    0x1ED
+#else
     0x0,
     0x57,
     0x88,
@@ -132,6 +146,7 @@ static u16 Unk_ov62_022497D4[] = {
     0x1C9,
     0x1E7,
     0x1ED
+#endif
 };
 
 // clang-format off

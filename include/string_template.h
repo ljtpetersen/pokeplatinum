@@ -1,6 +1,8 @@
 #ifndef POKEPLATINUM_STRING_TEMPLATE_H
 #define POKEPLATINUM_STRING_TEMPLATE_H
 
+#include "constants/platinum_version.h"
+
 #include "generated/abilities.h"
 #include "generated/genders.h"
 
@@ -91,6 +93,9 @@ void StringTemplate_SetBallSealName(StringTemplate *template, u32 idx, u32 ballS
 void StringTemplate_SetBallSealNamePlural(StringTemplate *template, u32 idx, u32 ballSeal);
 void StringTemplate_SetMetLocationName(StringTemplate *template, u32 idx, u32 location);
 void StringTemplate_SetPoffinName(StringTemplate *template, u32 idx, u32 poffin);
+#if POKEPLATINUM_VERSION == POKEPLATINUM_VERSION_FR
+void StringTemplate_SetPoffinFlavorName(StringTemplate *template, u32 idx, u32 poffinIndex);
+#endif
 void StringTemplate_SetContestAccessoryName(StringTemplate *template, u32 idx, u32 accessory);
 void StringTemplate_SetContestAccessoryNameWithArticle(StringTemplate *template, u32 idx, u32 accessory);
 void StringTemplate_SetContestBackdropName(StringTemplate *template, u32 idx, u32 backdrop);

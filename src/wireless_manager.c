@@ -6,6 +6,7 @@
 #include <string.h>
 
 #include "constants/communication/comm_error.h"
+#include "constants/platinum_version.h"
 
 #include "struct_defs/struct_0203330C.h"
 
@@ -1321,7 +1322,11 @@ static void WirelessManager_FinishInitializeWM(void *wm_callback)
         WirelessManager_SetErrorCode(callback->errcode);
 
         WirelessManager_SetState(WIRELESS_STATE_FATAL_ERROR);
+#if POKEPLATINUM_VERSION == POKEPLATINUM_VERSION_FR
+        CommManager_SetCommError(COMM_ERROR_5);
+#else
         CommManager_SetCommError(COMM_ERROR_RESET_SAVEPOINT);
+#endif
 
         return;
     }
@@ -1332,7 +1337,11 @@ static void WirelessManager_FinishInitializeWM(void *wm_callback)
         WirelessManager_SetErrorCode(errorCode);
 
         WirelessManager_SetState(WIRELESS_STATE_FATAL_ERROR);
+#if POKEPLATINUM_VERSION == POKEPLATINUM_VERSION_FR
+        CommManager_SetCommError(COMM_ERROR_5);
+#else
         CommManager_SetCommError(COMM_ERROR_RESET_SAVEPOINT);
+#endif
 
         return;
     }
@@ -1608,6 +1617,18 @@ BOOL WirelessManager_IsError(void)
 {
     return sWirelessManager->state == WIRELESS_STATE_ERROR;
 }
+
+#if POKEPLATINUM_VERSION == POKEPLATINUM_VERSION_FR
+/**
+ * @brief Checks if the WirelessManager is scanning. Doesn't check that sWirelessManager is not NULL.
+ *
+ * @return sWirelessManager->state == WIRELESS_STATE_SCAN
+ */
+BOOL WirelessManager_IsFatalError(void)
+{
+    return sWirelessManager->state == WIRELESS_STATE_FATAL_ERROR;
+}
+#endif
 
 /**
  * @brief Checks if the WirelessManager is scanning.

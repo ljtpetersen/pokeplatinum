@@ -5,6 +5,7 @@
 #include <string.h>
 
 #include "constants/graphics.h"
+#include "constants/platinum_version.h"
 
 #include "overlay065/struct_ov65_0222F6EC.h"
 #include "overlay066/ov66_0222DDF0.h"
@@ -3182,3 +3183,9 @@ static void ov70_02260A68(UnkStruct_ov70_02260744 *param0)
 {
     param0->unk_00 = 0;
 }
+
+#if POKEPLATINUM_VERSION == POKEPLATINUM_VERSION_FR
+u32 ov70_02260C50_fr(UnkStruct_ov70_0225DEE8 *param0) {
+    return param0->unk_35C.unk_14;
+}
+#endif

@@ -9,6 +9,7 @@
 #include "constants/heap.h"
 #include "constants/items.h"
 #include "constants/rtc.h"
+#include "constants/platinum_version.h"
 #include "generated/abilities.h"
 #include "generated/battle_backgrounds.h"
 #include "generated/species.h"
@@ -65,6 +66,7 @@
 #include "string_gf.h"
 #include "string_template.h"
 #include "text.h"
+#include "trainer_classes.h"
 #include "trainer_data.h"
 #include "trainer_info.h"
 #include "tv_segment.h"
@@ -1605,7 +1607,12 @@ u8 BattleMessage_PrintTrainerMessage(BattleSystem *battleSys, int trainerID, int
             }
 
             Window_FillTilemap(window, 0xFF);
+#if POKEPLATINUM_VERSION == POKEPLATINUM_VERSION_FR
+            String_Copy(battleSys->msgBuffer, string);
+            printerID = Text_AddPrinterWithParams(window, FONT_MESSAGE, battleSys->msgBuffer, 0, 0, renderDelay, BattleMessage_Callback);
+#else
             printerID = Text_AddPrinterWithParams(window, FONT_MESSAGE, string, 0, 0, renderDelay, BattleMessage_Callback);
+#endif
             String_Free(string);
         } else {
             String *string;
@@ -1636,7 +1643,12 @@ u8 BattleMessage_PrintTrainerMessage(BattleSystem *battleSys, int trainerID, int
 
             Window_FillTilemap(window, 0xFF);
 
+#if POKEPLATINUM_VERSION == POKEPLATINUM_VERSION_FR
+            String_Copy(battleSys->msgBuffer, string);
+            printerID = Text_AddPrinterWithParams(window, FONT_MESSAGE, battleSys->msgBuffer, 0, 0, renderDelay, BattleMessage_Callback);
+#else
             printerID = Text_AddPrinterWithParams(window, FONT_MESSAGE, string, 0, 0, renderDelay, BattleMessage_Callback);
+#endif
             String_Free(string);
             MessageLoader_Free(loader);
         }
@@ -1989,9 +2001,26 @@ static void BattleMessage_FillFormatBuffers(BattleSystem *battleSys, BattleMessa
         break;
 
     case TAG_TRCLASS_TRNAME:
+#if POKEPLATINUM_VERSION == POKEPLATINUM_VERSION_FR
+        {
+            u8 type = BattleSystem_GetTrainer(battleSys, battleMsg->params[0])->header.trainerType;
+            u32 param1, param2;
+            if (type == TRAINER_CLASS_GALACTIC_GRUNT_MALE || type == TRAINER_CLASS_GALACTIC_GRUNT_FEMALE) {
+                param1 = 1;
+                param2 = 0;
+            } else {
+                param1 = 0;
+                param2 = 1;
+            } 
+            BattleMessage_SetTrainerClassName(battleSys, param1, battleMsg->params[0]);
+            BattleMessage_SetTrainerName(battleSys, param2, battleMsg->params[1]);
+            break;
+        }
+#else
         BattleMessage_SetTrainerClassName(battleSys, 0, battleMsg->params[0]);
         BattleMessage_SetTrainerName(battleSys, 1, battleMsg->params[1]);
         break;
+#endif
 
     case TAG_NICKNAME_NICKNAME_MOVE:
         BattleMessage_SetNickname(battleSys, 0, battleMsg->params[0]);
@@ -2108,16 +2137,52 @@ static void BattleMessage_FillFormatBuffers(BattleSystem *battleSys, BattleMessa
         break;
 
     case TAG_TRCLASS_TRNAME_NICKNAME:
+#if POKEPLATINUM_VERSION == POKEPLATINUM_VERSION_FR
+        {
+            u8 type = BattleSystem_GetTrainer(battleSys, battleMsg->params[0])->header.trainerType;
+            u32 param1, param2;
+            if (type == TRAINER_CLASS_GALACTIC_GRUNT_MALE || type == TRAINER_CLASS_GALACTIC_GRUNT_FEMALE) {
+                param1 = 1;
+                param2 = 0;
+            } else {
+                param1 = 0;
+                param2 = 1;
+            } 
+            BattleMessage_SetTrainerClassName(battleSys, param1, battleMsg->params[0]);
+            BattleMessage_SetTrainerName(battleSys, param2, battleMsg->params[1]);
+            BattleMessage_SetNickname(battleSys, 2, battleMsg->params[2]);
+            break;
+        }
+#else
         BattleMessage_SetTrainerClassName(battleSys, 0, battleMsg->params[0]);
         BattleMessage_SetTrainerName(battleSys, 1, battleMsg->params[1]);
         BattleMessage_SetNickname(battleSys, 2, battleMsg->params[2]);
         break;
+#endif
 
     case TAG_TRCLASS_TRNAME_ITEM:
+#if POKEPLATINUM_VERSION == POKEPLATINUM_VERSION_FR
+        {
+            u8 type = BattleSystem_GetTrainer(battleSys, battleMsg->params[0])->header.trainerType;
+            u32 param1, param2;
+            if (type == TRAINER_CLASS_GALACTIC_GRUNT_MALE || type == TRAINER_CLASS_GALACTIC_GRUNT_FEMALE) {
+                param1 = 1;
+                param2 = 0;
+            } else {
+                param1 = 0;
+                param2 = 1;
+            } 
+            BattleMessage_SetTrainerClassName(battleSys, param1, battleMsg->params[0]);
+            BattleMessage_SetTrainerName(battleSys, param2, battleMsg->params[1]);
+            BattleMessage_SetItemName(battleSys, 2, battleMsg->params[2]);
+            break;
+        }
+#else
         BattleMessage_SetTrainerClassName(battleSys, 0, battleMsg->params[0]);
         BattleMessage_SetTrainerName(battleSys, 1, battleMsg->params[1]);
         BattleMessage_SetItemName(battleSys, 2, battleMsg->params[2]);
         break;
+#endif
 
     case TAG_NICKNAME_ABILITY_NICKNAME_MOVE:
         BattleMessage_SetNickname(battleSys, 0, battleMsg->params[0]);
@@ -2155,27 +2220,122 @@ static void BattleMessage_FillFormatBuffers(BattleSystem *battleSys, BattleMessa
         break;
 
     case TAG_TRCLASS_TRNAME_NICKNAME_NICKNAME:
+#if POKEPLATINUM_VERSION == POKEPLATINUM_VERSION_FR
+        {
+            u8 type = BattleSystem_GetTrainer(battleSys, battleMsg->params[0])->header.trainerType;
+            u32 param1, param2;
+            if (type == TRAINER_CLASS_GALACTIC_GRUNT_MALE || type == TRAINER_CLASS_GALACTIC_GRUNT_FEMALE) {
+                param1 = 1;
+                param2 = 0;
+            } else {
+                param1 = 0;
+                param2 = 1;
+            } 
+            BattleMessage_SetTrainerClassName(battleSys, param1, battleMsg->params[0]);
+            BattleMessage_SetTrainerName(battleSys, param2, battleMsg->params[1]);
+            BattleMessage_SetNickname(battleSys, 2, battleMsg->params[2]);
+            BattleMessage_SetNickname(battleSys, 3, battleMsg->params[3]);
+            break;
+        }
+#else
         BattleMessage_SetTrainerClassName(battleSys, 0, battleMsg->params[0]);
         BattleMessage_SetTrainerName(battleSys, 1, battleMsg->params[1]);
         BattleMessage_SetNickname(battleSys, 2, battleMsg->params[2]);
         BattleMessage_SetNickname(battleSys, 3, battleMsg->params[3]);
         break;
+#endif
 
     case TAG_TRCLASS_TRNAME_NICKNAME_TRNAME:
+#if POKEPLATINUM_VERSION == POKEPLATINUM_VERSION_FR
+        {
+            u8 type = BattleSystem_GetTrainer(battleSys, battleMsg->params[0])->header.trainerType;
+            u32 param1, param2;
+            if (type == TRAINER_CLASS_GALACTIC_GRUNT_MALE || type == TRAINER_CLASS_GALACTIC_GRUNT_FEMALE) {
+                param1 = 1;
+                param2 = 0;
+            } else {
+                param1 = 0;
+                param2 = 1;
+            } 
+            BattleMessage_SetTrainerClassName(battleSys, param1, battleMsg->params[0]);
+            BattleMessage_SetTrainerName(battleSys, param2, battleMsg->params[1]);
+            BattleMessage_SetNickname(battleSys, 2, battleMsg->params[2]);
+            BattleMessage_SetTrainerName(battleSys, 3, battleMsg->params[3]);
+            break;
+        }
+#else
         BattleMessage_SetTrainerClassName(battleSys, 0, battleMsg->params[0]);
         BattleMessage_SetTrainerName(battleSys, 1, battleMsg->params[1]);
         BattleMessage_SetNickname(battleSys, 2, battleMsg->params[2]);
         BattleMessage_SetTrainerName(battleSys, 3, battleMsg->params[3]);
         break;
+#endif
 
     case TAG_TRCLASS_TRNAME_TRCLASS_TRNAME:
+#if POKEPLATINUM_VERSION == POKEPLATINUM_VERSION_FR
+        {
+            u8 type = BattleSystem_GetTrainer(battleSys, battleMsg->params[0])->header.trainerType;
+            u32 param1, param2;
+            if (type == TRAINER_CLASS_GALACTIC_GRUNT_MALE || type == TRAINER_CLASS_GALACTIC_GRUNT_FEMALE) {
+                param1 = 1;
+                param2 = 0;
+            } else {
+                param1 = 0;
+                param2 = 1;
+            } 
+            BattleMessage_SetTrainerClassName(battleSys, param1, battleMsg->params[0]);
+            BattleMessage_SetTrainerName(battleSys, param2, battleMsg->params[1]);
+
+            type = BattleSystem_GetTrainer(battleSys, battleMsg->params[2])->header.trainerType;
+            if (type == TRAINER_CLASS_GALACTIC_GRUNT_MALE || type == TRAINER_CLASS_GALACTIC_GRUNT_FEMALE) {
+                param1 = 3;
+                param2 = 2;
+            } else {
+                param1 = 2;
+                param2 = 3;
+            } 
+            BattleMessage_SetTrainerClassName(battleSys, param1, battleMsg->params[2]);
+            BattleMessage_SetTrainerName(battleSys, param2, battleMsg->params[3]);
+            break;
+        }
+#else
         BattleMessage_SetTrainerClassName(battleSys, 0, battleMsg->params[0]);
         BattleMessage_SetTrainerName(battleSys, 1, battleMsg->params[1]);
         BattleMessage_SetTrainerClassName(battleSys, 2, battleMsg->params[2]);
         BattleMessage_SetTrainerName(battleSys, 3, battleMsg->params[3]);
         break;
+#endif
 
     case TAG_TRCLASS_TRNAME_NICKNAME_TRCLASS_TRNAME_NICKNAME:
+#if POKEPLATINUM_VERSION == POKEPLATINUM_VERSION_FR
+        {
+            u8 type = BattleSystem_GetTrainer(battleSys, battleMsg->params[0])->header.trainerType;
+            u32 param1, param2;
+            if (type == TRAINER_CLASS_GALACTIC_GRUNT_MALE || type == TRAINER_CLASS_GALACTIC_GRUNT_FEMALE) {
+                param1 = 1;
+                param2 = 0;
+            } else {
+                param1 = 0;
+                param2 = 1;
+            } 
+            BattleMessage_SetTrainerClassName(battleSys, param1, battleMsg->params[0]);
+            BattleMessage_SetTrainerName(battleSys, param2, battleMsg->params[1]);
+            BattleMessage_SetNickname(battleSys, 2, battleMsg->params[2]);
+
+            type = BattleSystem_GetTrainer(battleSys, battleMsg->params[3])->header.trainerType;
+            if (type == TRAINER_CLASS_GALACTIC_GRUNT_MALE || type == TRAINER_CLASS_GALACTIC_GRUNT_FEMALE) {
+                param1 = 4;
+                param2 = 3;
+            } else {
+                param1 = 3;
+                param2 = 4;
+            } 
+            BattleMessage_SetTrainerClassName(battleSys, param1, battleMsg->params[3]);
+            BattleMessage_SetTrainerName(battleSys, param2, battleMsg->params[4]);
+            BattleMessage_SetNickname(battleSys, 5, battleMsg->params[5]);
+            break;
+        }
+#else
         BattleMessage_SetTrainerClassName(battleSys, 0, battleMsg->params[0]);
         BattleMessage_SetTrainerName(battleSys, 1, battleMsg->params[1]);
         BattleMessage_SetNickname(battleSys, 2, battleMsg->params[2]);
@@ -2183,6 +2343,7 @@ static void BattleMessage_FillFormatBuffers(BattleSystem *battleSys, BattleMessa
         BattleMessage_SetTrainerName(battleSys, 4, battleMsg->params[4]);
         BattleMessage_SetNickname(battleSys, 5, battleMsg->params[5]);
         break;
+#endif
 
     default:
         GF_ASSERT(FALSE);

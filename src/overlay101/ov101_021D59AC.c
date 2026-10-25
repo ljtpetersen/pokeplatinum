@@ -3,6 +3,7 @@
 #include <nitro.h>
 #include <string.h>
 
+#include "constants/platinum_version.h"
 #include "constants/species.h"
 
 #include "overlay101/ov101_021D1A28.h"
@@ -1727,7 +1728,11 @@ OverworldAnimManager *ov101_021D72D4(UnkStruct_ov101_021D13C8 *param0)
     VecFx32 v0;
     OverworldAnimManager *v1;
 
+#if POKEPLATINUM_VERSION == POKEPLATINUM_VERSION_FR
+    v0.x = FX32_ONE * 74;
+#else
     v0.x = (FX32_ONE * (128 - (((6 + 5) * 8) / 2)));
+#endif
     v0.y = ((FX32_ONE * 192) + (FX32_ONE * (96 + 16)));
     v1 = OverworldAnimManagerList_InitManager(param0->unk_44C, &Unk_ov101_021D91C8, &v0, 0, param0, 142);
 
@@ -1840,7 +1845,11 @@ OverworldAnimManager *ov101_021D7460(UnkStruct_ov101_021D13C8 *param0)
     OverworldAnimManager *v0;
     VecFx32 v1 = { (FX32_ONE * 200), ((FX32_ONE * 192) + (FX32_ONE * 184)), 0 };
 
+#if POKEPLATINUM_VERSION == POKEPLATINUM_VERSION_FR
+    v1.x = FX32_ONE * 106;
+#else
     v1.x = (FX32_ONE * (128 - (((10 + 5) * 8) / 2)));
+#endif
     v1.y = ((FX32_ONE * 192) + (FX32_ONE * (96 - 16)));
     v0 = OverworldAnimManagerList_InitManager(param0->unk_44C, &Unk_ov101_021D9254, &v1, 0, param0, 142);
 
@@ -2105,7 +2114,11 @@ static int ov101_021D7810(OverworldAnimManager *param0, void *param1)
             v6->unk_08 = 1;
         }
 
+#if POKEPLATINUM_VERSION == POKEPLATINUM_VERSION_FR
+        v3.x = FX32_ONE * 210;
+#else
         v3.x = (FX32_ONE * (128 + (((4 + 5) * 16) / 2)));
+#endif
         v3.y = ((FX32_ONE * 192) + (FX32_ONE * (96 + 16)));
     } else {
         v6->unk_04 = v7->unk_14;
@@ -2126,7 +2139,11 @@ static int ov101_021D7810(OverworldAnimManager *param0, void *param1)
             v6->unk_08 = 1;
         }
 
+#if POKEPLATINUM_VERSION == POKEPLATINUM_VERSION_FR
+        v3.x = FX32_ONE * 210;
+#else
         v3.x = (FX32_ONE * (128 + (((4 + 5) * 16) / 2)));
+#endif
         v3.y = ((FX32_ONE * 192) + (FX32_ONE * (96 - 16)));
     }
 

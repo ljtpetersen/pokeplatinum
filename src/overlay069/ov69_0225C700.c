@@ -4,6 +4,7 @@
 #include <string.h>
 
 #include "constants/graphics.h"
+#include "constants/platinum_version.h"
 #include "constants/versions.h"
 
 #include "struct_defs/wi_fi_history.h"
@@ -1506,7 +1507,11 @@ static void ov69_0225D6D8(UnkStruct_ov69_0225D71C *param0, UnkStruct_ov69_0225D3
 {
     VEC_Set(&param0->unk_00, 0, 0, 0);
     VEC_Set(&param0->unk_0C, FX32_ONE, FX32_ONE, FX32_ONE);
+#if POKEPLATINUM_VERSION == POKEPLATINUM_VERSION_FR
+    VEC_Set(&param0->unk_18, 0x2300, 0x3100, 0);
+#else
     VEC_Set(&param0->unk_18, 0x1A40, 0x7C00, 0);
+#endif
     Easy3DModel_LoadFrom(&param0->unk_9C, param1->unk_1A8, 3, heapID);
     Easy3DObject_Init(&param0->unk_24, &param0->unk_9C);
 }

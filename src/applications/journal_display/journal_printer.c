@@ -3,6 +3,7 @@
 #include <nitro.h>
 #include <string.h>
 
+#include "constants/platinum_version.h"
 #include "generated/genders.h"
 #include "generated/journal_location_events.h"
 #include "generated/journal_online_events.h"
@@ -161,18 +162,29 @@ static u8 JournalPrinter_PrintTitle(JournalManager *journalManager, Window *titl
         return 0;
     }
 
+#if POKEPLATINUM_VERSION == POKEPLATINUM_VERSION_FR
+    string = MessageLoader_GetNewString(journalManager->loader, JournalEntries_Text_Sunday + journalEntryTitle.week);
+    Text_AddPrinterWithParamsAndColor(titleWindow, FONT_SYSTEM, string, 0, 0, TEXT_SPEED_NO_TRANSFER, TEXT_COLOR(1, 2, 0), NULL);
+    xOffset = Font_CalcStringWidth(FONT_SYSTEM, string, 0);
+    String_Free(string);
+#endif
+
     string = MessageLoader_GetNewString(journalManager->loader, JournalEntries_Text_Date);
 
     StringTemplate_SetMonthName(journalManager->template, 0, journalEntryTitle.month);
     StringTemplate_SetNumber(journalManager->template, 1, journalEntryTitle.day, 2, PADDING_MODE_NONE, CHARSET_MODE_EN);
     StringTemplate_Format(journalManager->template, journalManager->string, string);
     String_Free(string);
+#if POKEPLATINUM_VERSION == POKEPLATINUM_VERSION_FR
+    Text_AddPrinterWithParamsAndColor(titleWindow, FONT_SYSTEM, journalManager->string, xOffset + 4, 0, TEXT_SPEED_NO_TRANSFER, TEXT_COLOR(1, 2, 0), NULL);
+#else
     Text_AddPrinterWithParamsAndColor(titleWindow, FONT_SYSTEM, journalManager->string, 0, 0, TEXT_SPEED_NO_TRANSFER, TEXT_COLOR(1, 2, 0), NULL);
 
     xOffset = Font_CalcStringWidth(FONT_SYSTEM, journalManager->string, 0);
     string = MessageLoader_GetNewString(journalManager->loader, JournalEntries_Text_Sunday + journalEntryTitle.week);
     Text_AddPrinterWithParamsAndColor(titleWindow, FONT_SYSTEM, string, xOffset + 12, 0, TEXT_SPEED_NO_TRANSFER, TEXT_COLOR(1, 2, 0), NULL);
     String_Free(string);
+#endif
 
     string = MessageLoader_GetNewString(journalManager->loader, JournalEntries_Text_StartedFromLocation);
     StringTemplate_SetLocationName(journalManager->template, 0, MapHeader_GetMapLabelTextID(journalEntryTitle.mapID));

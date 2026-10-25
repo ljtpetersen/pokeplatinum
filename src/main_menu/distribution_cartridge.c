@@ -5,6 +5,7 @@
 #include <string.h>
 
 #include "constants/heap.h"
+#include "constants/platinum_version.h"
 
 #include "heap.h"
 
@@ -20,6 +21,29 @@
 #define NINTENDO_MAKER_CODE 0x3130 // ASCII characters "01", as a little-endian 16-bit integer
 
 static u32 sDistributionCartridgeGameCodes[] = {
+#if POKEPLATINUM_VERSION == POKEPLATINUM_VERSION_FR
+    'B5BF',
+    'B5CF',
+    'B5DF',
+    'B5EF',
+    'B5FF',
+    'B5GF',
+    'B5HF',
+    'B5IF',
+    'B5JF',
+    'B5KF',
+    'B5LF',
+    'B5MF',
+    'B5PF',
+    'B5QF',
+    'B5RF',
+    'B5SF',
+    'B5TF',
+    'B5UF',
+    'B5VF',
+    'B5WF',
+    0x0
+#else
     'B5BE',
     'B5CE',
     'B5DE',
@@ -41,6 +65,7 @@ static u32 sDistributionCartridgeGameCodes[] = {
     'B5VE',
     'B5WE',
     0x0
+#endif
 };
 
 // clang-format off

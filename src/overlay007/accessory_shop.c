@@ -5,6 +5,7 @@
 
 #include "constants/accessories.h"
 #include "constants/field/window.h"
+#include "constants/platinum_version.h"
 
 #include "overlay007/shop_menu.h"
 
@@ -94,6 +95,13 @@ AccessoryShop *AccessoryShop_New(enum HeapID heapID, SaveData *saveData, BgConfi
     shop->heapID = heapID;
     shop->bgConfig = bgConfig;
     shop->saveData = saveData;
+
+#if POKEPLATINUM_VERSION == POKEPLATINUM_VERSION_FR
+    RenderControlFlags_SetCanABSpeedUpPrint(TRUE);
+    RenderControlFlags_SetAutoScrollFlags(FALSE);
+    RenderControlFlags_SetSpeedUpOnTouch(FALSE);
+#endif
+
     shop->fashionCase = ImageClips_GetFashionCase(SaveData_GetImageClips(shop->saveData));
     shop->bag = SaveData_GetBag(saveData);
     shop->msgLoader = MessageLoader_Init(MSG_LOADER_PRELOAD_ENTIRE_BANK, NARC_INDEX_MSGDATA__PL_MSG, TEXT_BANK_FLOWER_SHOP, shop->heapID);

@@ -10,6 +10,7 @@
 #include "constants/items.h"
 #include "constants/moves.h"
 #include "constants/narc.h"
+#include "constants/platinum_version.h"
 #include "constants/pokemon.h"
 #include "constants/sound.h"
 #include "generated/abilities.h"
@@ -635,6 +636,12 @@ void Pokemon_CalcStats(Pokemon *mon)
             monCurrentHp = 1;
         } else if (monCurrentHp == 0) {
             monCurrentHp = newMaxHp;
+#if POKEPLATINUM_VERSION == POKEPLATINUM_VERSION_FR
+        } else if (newMaxHp - monMaxHp < 0) {
+            if (monCurrentHp > newMaxHp) {
+                monCurrentHp = newMaxHp;
+            }
+#endif
         } else {
             monCurrentHp += newMaxHp - monMaxHp;
         }

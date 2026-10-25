@@ -1,0 +1,1 @@
+option('game_language', type: 'combo', value: 'en', choices: ['en', 'fr'], description: 'Language of the game being built')

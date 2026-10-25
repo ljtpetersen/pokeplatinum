@@ -3,10 +3,12 @@
 #include <nitro.h>
 
 #include "constants/heap.h"
+#include "constants/platinum_version.h"
 #include "constants/versions.h"
 #include "generated/abilities.h"
 #include "generated/moves.h"
 #include "generated/pokemon_types.h"
+#include "generated/species.h"
 #include "generated/text_banks.h"
 
 #include "graphics.h"
@@ -56,6 +58,74 @@ static const u16 sTextBanks[] = {
     TEXT_BANK_UNION_WORDS
 };
 
+#if POKEPLATINUM_VERSION == POKEPLATINUM_VERSION_FR
+static const u16 sDummy[] = {
+    MOVE_WORD(MOVE_TRUMP_CARD),
+    TRAINER_WORD(TrainerWords_Text_AceCard),
+};
+
+static const u16 sDummy2[] = {
+    MOVE_WORD(MOVE_OUTRAGE),
+    FEELINGS_WORD(Feelings_Text_Anger),
+};
+
+static const u16 sDummy5[] = {
+    TYPE_WORD(TYPE_FIGHTING),
+    TRAINER_WORD(TrainerWords_Text_Battle),
+};
+
+static const u16 sDummy6[] = {
+    MOVE_WORD(MOVE_REVERSAL),
+    TRAINER_WORD(TrainerWords_Text_Versus),
+};
+
+static const u16 sDummy7[] = {
+    ABILITY_WORD(ABILITY_GUTS),
+    TRAINER_WORD(TrainerWords_Text_Courage),
+};
+
+static const u16 sDummy8[] = {
+    MOVE_WORD(MOVE_GLARE),
+    ABILITY_WORD(ABILITY_INTIMIDATE),
+};
+
+static const u16 sDummy9[] = {
+    MOVE_WORD(MOVE_FOCUS_ENERGY),
+    TRAINER_WORD(TrainerWords_Text_Power),
+};
+
+static const u16 sDummy10[] = {
+    ABILITY_WORD(ABILITY_SIMPLE),
+    FEELINGS_WORD(Feelings_Text_Simple),
+};
+
+static const u16 sDummy11[] = {
+    MOVE_WORD(MOVE_NIGHT_SHADE),
+    TYPE_WORD(TYPE_DARK),
+};
+
+static const u16 sDummy12[] = {
+    MOVE_WORD(MOVE_FLY),
+    TYPE_WORD(TYPE_FLYING),
+};
+
+static const struct {
+    const u16 *dummy;
+    int length;
+} sDummy13[] = {
+    { sDummy, 2 },
+    { sDummy2, 2 },
+    { sDummy5, 2 },
+    { sDummy6, 2 },
+    { sDummy7, 2 },
+    { sDummy8, 2 },
+    { sDummy9, 2 },
+    { sDummy10, 2 },
+    { sDummy11, 2 },
+    { sDummy12, 2 },
+};
+
+#else
 static const u16 sDummy[] = {
     ABILITY_WORD(ABILITY_ANTICIPATION),
     FEELINGS_WORD(Feelings_Text_Anticipation)
@@ -135,6 +205,8 @@ static const struct {
     { sDummy11, 2 },
     { sDummy12, 2 }
 };
+#endif
+
 
 // function gets optimized out but is necessary to match due to the data inside it
 void Dummy_020E5538(void)

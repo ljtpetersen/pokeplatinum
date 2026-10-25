@@ -8,6 +8,7 @@
 #include "constants/communication/comm_error.h"
 #include "constants/communication/comm_type.h"
 #include "constants/net.h"
+#include "constants/platinum_version.h"
 
 #include "nintendo_wfc/main.h"
 #include "overlay065/struct_ov65_0222F6EC.h"
@@ -1948,13 +1949,21 @@ static void CommManager_GGIDScanCallback(u32 ggid, int commType)
             sCommMan->availableConnections |= AV_CONNECT_MYSTERY_GIFT;
         }
         break;
+#if POKEPLATINUM_VERSION == POKEPLATINUM_VERSION_FR
+    case 0x8000CD:
+#else
     case 0x400318:
+#endif
         sCommMan->availableConnections |= AV_CONNECT_MYSTERY_GIFT;
         break;
     case 0x400131:
         sCommMan->availableConnections |= AV_CONNECT_RANGER_LINK;
         break;
+#if POKEPLATINUM_VERSION == POKEPLATINUM_VERSION_FR
+    case 0x8000EC:
+#else
     case 0x400286:
+#endif
         sCommMan->availableConnections |= AV_CONNECT_WII;
         break;
     }
@@ -3079,6 +3088,10 @@ void CommManager_DisplayError(int unused)
 
                     if (sCommMan->commError == COMM_ERROR_3) {
                         CommManager_SetResetType(COMM_ERROR_3);
+#if POKEPLATINUM_VERSION == POKEPLATINUM_VERSION_FR
+                    } else if (sCommMan->commError == COMM_ERROR_5) {
+                        CommManager_SetResetType(COMM_ERROR_5);
+#endif
                     } else if ((sCommMan->commType == COMM_TYPE_25) || (sCommMan->commType == COMM_TYPE_MYSTERY_GIFT) || (sCommMan->commType == COMM_TYPE_EMAIL_WIFI)) {
                         CommManager_SetResetType(COMM_ERROR_RESET_TITLE);
                     } else {
@@ -3104,6 +3117,12 @@ BOOL CommManager_CheckResetFinished(void)
     if (!sub_020332D0()) {
         return TRUE;
     }
+
+#if POKEPLATINUM_VERSION == POKEPLATINUM_VERSION_FR
+    if (WirelessManager_IsFatalError()) {
+        return TRUE;
+    }
+#endif
 
     return FALSE;
 }

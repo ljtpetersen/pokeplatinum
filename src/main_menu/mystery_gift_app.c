@@ -5,6 +5,7 @@
 
 #include "constants/graphics.h"
 #include "constants/narc.h"
+#include "constants/platinum_version.h"
 #include "constants/savedata/savedata.h"
 #include "constants/string.h"
 #include "generated/text_banks.h"
@@ -324,7 +325,11 @@ static void ToggleWaitDial(MysteryGiftAppData *appData, BOOL show)
         }
     } else {
         if (appData->waitDial) {
+#if POKEPLATINUM_VERSION == POKEPLATINUM_VERSION_FR
+            DestroyWaitDialTaskOnly(appData->waitDial);
+#else
             DestroyWaitDial(appData->waitDial);
+#endif
         }
 
         appData->waitDial = NULL;
@@ -1064,7 +1069,9 @@ void MysteryGiftApp_ShowWiFiCommError(MysteryGiftAppData *appData)
 {
     int textEntryID = appData->wifiCommErrorStringID != -1 ? appData->wifiCommErrorStringID : pl_msg_00000695_00011;
 
+#if POKEPLATINUM_VERSION != POKEPLATINUM_VERSION_FR
     ToggleWaitDial(appData, FALSE);
+#endif
     GXLayers_EngineAToggleLayers(GX_PLANEMASK_OBJ, FALSE);
     Bg_ClearTilemap(appData->bgConfig, BG_LAYER_MAIN_0);
 

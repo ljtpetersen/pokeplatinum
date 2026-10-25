@@ -1,6 +1,8 @@
 #ifndef POKEPLATINUM_OV70_0225D9A4_H
 #define POKEPLATINUM_OV70_0225D9A4_H
 
+#include "constants/platinum_version.h"
+
 #include "overlay066/struct_ov66_0222DFF8_decl.h"
 #include "overlay070/struct_ov70_0225C894_decl.h"
 #include "overlay070/struct_ov70_0225CA20_decl.h"
@@ -93,5 +95,9 @@ void ov70_0225E44C(UnkStruct_ov70_0225DEE8 *param0);
 BOOL ov70_0225E45C(UnkStruct_ov70_0225DEE8 *param0);
 void ov70_0225E46C(UnkStruct_ov70_0225DEE8 *param0, u32 param1);
 BOOL ov70_0225E4AC(const UnkStruct_ov70_0225DEE8 *param0, u32 param1);
+
+#if POKEPLATINUM_VERSION == POKEPLATINUM_VERSION_FR
+u32 ov70_02260C50_fr(UnkStruct_ov70_0225DEE8 *param0);
+#endif
 
 #endif // POKEPLATINUM_OV70_0225D9A4_H

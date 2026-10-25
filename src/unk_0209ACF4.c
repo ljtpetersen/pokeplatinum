@@ -3,6 +3,7 @@
 #include <nitro.h>
 #include <string.h>
 
+#include "constants/platinum_version.h"
 #include "field/field_system.h"
 #include "overlay005/fieldmap.h"
 
@@ -295,8 +296,13 @@ static void sub_0209B12C(UnkStruct_0209AD84 *param0)
     if (Window_IsInUse(v0) == 0) {
         int v1;
 
+#if POKEPLATINUM_VERSION == POKEPLATINUM_VERSION_FR
+        LoadStandardWindowGraphics(param0->fieldSystem->bgConfig, 3, 165, 11, 0, HEAP_ID_FIELD3);
+        Window_Add(param0->fieldSystem->bgConfig, v0, 3, 1, 1, 14, 10, 13, 1);
+#else
         LoadStandardWindowGraphics(param0->fieldSystem->bgConfig, 3, 155, 11, 0, HEAP_ID_FIELD3);
         Window_Add(param0->fieldSystem->bgConfig, v0, 3, 1, 1, 13, 10, 13, 1);
+#endif
         Window_FillTilemap(v0, 15);
 
         for (v1 = 0; v1 < 5; v1++) {
@@ -311,7 +317,11 @@ static void sub_0209B12C(UnkStruct_0209AD84 *param0)
     param0->unk_5C = 0;
     param0->unk_60 = 5;
 
+#if POKEPLATINUM_VERSION == POKEPLATINUM_VERSION_FR
+    Window_DrawStandardFrame(v0, 0, 165, 11);
+#else
     Window_DrawStandardFrame(v0, 0, 155, 11);
+#endif
 }
 
 static void sub_0209B1CC(UnkStruct_0209AD84 *param0)
@@ -327,8 +337,13 @@ static void sub_0209B1D8(UnkStruct_0209AD84 *param0)
     if (Window_IsInUse(v0) == 0) {
         int v1;
 
+#if POKEPLATINUM_VERSION == POKEPLATINUM_VERSION_FR
+        LoadStandardWindowGraphics(param0->fieldSystem->bgConfig, 3, 165, 11, 0, HEAP_ID_FIELD3);
+        Window_Add(param0->fieldSystem->bgConfig, v0, 3, 25, 13, 6, 4, 13, 141);
+#else
         LoadStandardWindowGraphics(param0->fieldSystem->bgConfig, 3, 155, 11, 0, HEAP_ID_FIELD3);
         Window_Add(param0->fieldSystem->bgConfig, v0, 3, 25, 13, 6, 4, 13, 131);
+#endif
         Window_FillTilemap(v0, 15);
 
         for (v1 = 0; v1 < 2; v1++) {
@@ -343,7 +358,11 @@ static void sub_0209B1D8(UnkStruct_0209AD84 *param0)
     param0->unk_5C = 0;
     param0->unk_60 = 2;
 
+#if POKEPLATINUM_VERSION == POKEPLATINUM_VERSION_FR
+    Window_DrawStandardFrame(v0, 0, 165, 11);
+#else
     Window_DrawStandardFrame(v0, 0, 155, 11);
+#endif
 }
 
 static void sub_0209B27C(UnkStruct_0209AD84 *param0)

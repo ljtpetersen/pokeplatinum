@@ -5,6 +5,7 @@
 
 #include "constants/field_base_tiles.h"
 #include "constants/narc.h"
+#include "constants/platinum_version.h"
 #include "constants/scrcmd.h"
 #include "generated/map_headers.h"
 
@@ -329,6 +330,20 @@ void FieldMenuManager_ShowListMenuWithCursorPosition(FieldMenuManager *menuManag
     u32 menuWidth = CalcListMenuWidth(menuManager);
 
     menuWidth = PixelToTiles(menuWidth);
+
+#if POKEPLATINUM_VERSION == POKEPLATINUM_VERSION_FR
+    if (menuManager->anchorRight) {
+        menuManager->anchorX -= menuWidth;
+    }
+
+    if (menuManager->anchorBottom) {
+        if (menuManager->optionsCount > LIST_MENU_MAX_DISPLAY) {
+            menuManager->anchorY -= 0x10;
+        } else {
+            menuManager->anchorY -= 2 * menuManager->optionsCount;
+        }
+    }
+#endif
 
     if (menuManager->optionsCount > LIST_MENU_MAX_DISPLAY) {
         Window_Add(menuManager->fieldSystem->bgConfig, &menuManager->menuWindow, BG_LAYER_MAIN_3, menuManager->anchorX, menuManager->anchorY, menuWidth, LIST_MENU_MAX_DISPLAY * GLYPH_ROW_TILES_HEIGHT, 13, (1 + (10 * 4)) + (10 * 2));

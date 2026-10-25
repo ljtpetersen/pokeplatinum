@@ -1,5 +1,7 @@
 #include "unk_020996D0.h"
 
+#include "constants/platinum_version.h"
+
 #include <nitro.h>
 #include <string.h>
 
@@ -8,7 +10,9 @@ static const u8 Unk_020F6EB8[] = {
     0x3,
     0x4,
     0x5,
+#if POKEPLATINUM_VERSION != POKEPLATINUM_VERSION_FR
     0x2,
+#endif
     0x6,
     0x7,
     0x8,
@@ -27,10 +31,22 @@ static const u8 Unk_020F6EB8[] = {
     0x15,
     0x16,
     0x17,
-    0x18
+    0x18,
+#if POKEPLATINUM_VERSION == POKEPLATINUM_VERSION_FR
+    0x2,
+#endif
 };
 
 static const u8 Unk_020F6E18[] = {
+#if POKEPLATINUM_VERSION == POKEPLATINUM_VERSION_FR
+    0x4,
+    0x7,
+    0x1,
+    0x3,
+    0x5,
+    0x2,
+    0x6,
+#else
     0x1,
     0x2,
     0x3,
@@ -38,6 +54,7 @@ static const u8 Unk_020F6E18[] = {
     0x5,
     0x6,
     0x7
+#endif
 };
 
 static const u8 Unk_020F6EE8[] = {
@@ -59,9 +76,15 @@ static const u8 Unk_020F6EE8[] = {
     0x11,
     0x12,
     0x13,
+#if POKEPLATINUM_VERSION == POKEPLATINUM_VERSION_FR
+    0x14,
+    0x16,
+    0x15,
+#else
     0x16,
     0x15,
     0x14,
+#endif
     0x2,
     0x17,
     0x18,
@@ -73,6 +96,19 @@ static const u8 Unk_020F6EE8[] = {
 static const u8 Unk_020F6E34[] = {
     0x1,
     0x2,
+#if POKEPLATINUM_VERSION == POKEPLATINUM_VERSION_FR
+    0xA,
+    0x3,
+    0x4,
+    0x7,
+    0x8,
+    0x9,
+    0xB,
+    0xC,
+    0x5,
+    0xD,
+    0x6,
+#else
     0x3,
     0x4,
     0x5,
@@ -84,11 +120,14 @@ static const u8 Unk_020F6E34[] = {
     0xB,
     0xC,
     0xD
+#endif
 };
 
 static const u8 Unk_020F6F04[] = {
     0x1,
+#if POKEPLATINUM_VERSION != POKEPLATINUM_VERSION_FR
     0x2,
+#endif
     0x3,
     0x4,
     0x5,
@@ -107,6 +146,9 @@ static const u8 Unk_020F6F04[] = {
     0x12,
     0x13,
     0x14,
+#if POKEPLATINUM_VERSION == POKEPLATINUM_VERSION_FR
+    0x2,
+#endif
     0x15,
     0x16,
     0x17,
@@ -114,14 +156,30 @@ static const u8 Unk_020F6F04[] = {
     0x19,
     0x1A,
     0x1B,
+#if POKEPLATINUM_VERSION == POKEPLATINUM_VERSION_FR
+    0x1D,
+    0x1C,
+#else
     0x1C,
     0x1D,
+#endif
     0x1E,
     0x1F
 };
 
 static const u8 Unk_020F6E54[] = {
     0x1,
+#if POKEPLATINUM_VERSION == POKEPLATINUM_VERSION_FR
+    0x9,
+    0x2,
+    0x3,
+    0x4,
+    0x5,
+    0x10,
+    0x6,
+    0x7,
+    0x8,
+#else
     0x2,
     0x3,
     0x4,
@@ -131,6 +189,7 @@ static const u8 Unk_020F6E54[] = {
     0x7,
     0x8,
     0x9,
+#endif
     0xA,
     0xB,
     0xC,
@@ -160,12 +219,21 @@ static const u8 Unk_020F6E64[] = {
 };
 
 static const u8 Unk_020F6E10[] = {
+#if POKEPLATINUM_VERSION == POKEPLATINUM_VERSION_FR
+    0x4,
+    0x6,
+    0x3,
+    0x1,
+    0x2,
+    0x5,
+#else
     0x1,
     0x3,
     0x2,
     0x5,
     0x4,
     0x6
+#endif
 };
 
 static const u8 Unk_020F6EA0[] = {
@@ -174,6 +242,16 @@ static const u8 Unk_020F6EA0[] = {
     0x4,
     0xC,
     0xD,
+#if POKEPLATINUM_VERSION == POKEPLATINUM_VERSION_FR
+    0x16,
+    0x7,
+    0x6,
+    0x5,
+    0xB,
+    0x3,
+    0x12,
+    0x13,
+#else
     0x7,
     0x6,
     0x5,
@@ -182,6 +260,7 @@ static const u8 Unk_020F6EA0[] = {
     0x12,
     0x13,
     0x16,
+#endif
     0x15,
     0x11,
     0x8,
@@ -194,6 +273,19 @@ static const u8 Unk_020F6EA0[] = {
 };
 
 static const u8 Unk_020F6E28[] = {
+#if POKEPLATINUM_VERSION == POKEPLATINUM_VERSION_FR
+    0x1,
+    0x4,
+    0x5,
+    0x8,
+    0x9,
+    0x7,
+    0x3,
+    0x6,
+    0x2,
+    0xB,
+    0xA,
+#else
     0x2,
     0x1,
     0x3,
@@ -205,14 +297,20 @@ static const u8 Unk_020F6E28[] = {
     0x9,
     0xA,
     0xB,
+#endif
     0xC
 };
 
 static const u8 Unk_020F6F24[] = {
+#if POKEPLATINUM_VERSION != POKEPLATINUM_VERSION_FR
     0x1,
+#endif
     0x2,
     0x3,
     0x4,
+#if POKEPLATINUM_VERSION == POKEPLATINUM_VERSION_FR
+    0x23,
+#endif
     0x5,
     0x6,
     0x7,
@@ -223,6 +321,9 @@ static const u8 Unk_020F6F24[] = {
     0xC,
     0xD,
     0xE,
+#if POKEPLATINUM_VERSION == POKEPLATINUM_VERSION_FR
+    0x1,
+#endif
     0xF,
     0x10,
     0x11,
@@ -235,15 +336,25 @@ static const u8 Unk_020F6F24[] = {
     0x17,
     0x19,
     0x1A,
+#if POKEPLATINUM_VERSION == POKEPLATINUM_VERSION_FR
+    0x1C,
+    0x1B,
+#else
     0x1B,
     0x1C,
+#endif
     0x1D,
     0x1E,
     0x1F,
     0x20,
+#if POKEPLATINUM_VERSION == POKEPLATINUM_VERSION_FR
+    0x22,
+    0x21,
+#else
     0x21,
     0x22,
     0x23
+#endif
 };
 
 static const u8 Unk_020F6E8C[] = {
@@ -258,6 +369,15 @@ static const u8 Unk_020F6E8C[] = {
     0x9,
     0xA,
     0xB,
+#if POKEPLATINUM_VERSION == POKEPLATINUM_VERSION_FR
+    0x12,
+    0xC,
+    0xD,
+    0xE,
+    0xF,
+    0x10,
+    0x11,
+#else
     0xC,
     0xD,
     0xE,
@@ -265,6 +385,7 @@ static const u8 Unk_020F6E8C[] = {
     0x10,
     0x11,
     0x12,
+#endif
     0x13,
     0x14
 };
@@ -331,8 +452,13 @@ static const u8 Unk_020F6E78[] = {
     0x6,
     0x7,
     0x8,
+#if POKEPLATINUM_VERSION == POKEPLATINUM_VERSION_FR
+    0x9,
+    0xA,
+#else
     0xA,
     0x9,
+#endif
     0xB,
     0xC,
     0x14,
@@ -346,6 +472,24 @@ static const u8 Unk_020F6E78[] = {
 };
 
 static const u8 Unk_020F6E44[] = {
+#if POKEPLATINUM_VERSION == POKEPLATINUM_VERSION_FR
+    0x9,
+    0x1,
+    0x2,
+    0xF,
+    0x5,
+    0x3,
+    0x4,
+    0x7,
+    0x8,
+    0x6,
+    0xA,
+    0xB,
+    0x10,
+    0xD,
+    0xC,
+    0xE,
+#else
     0x1,
     0x2,
     0x5,
@@ -362,22 +506,36 @@ static const u8 Unk_020F6E44[] = {
     0xE,
     0xF,
     0x10
+#endif
 };
 
 static const u8 Unk_020F6E20[] = {
     0x1,
+#if POKEPLATINUM_VERSION == POKEPLATINUM_VERSION_FR
+    0x4,
+    0x7,
+    0x3,
+    0x6,
+    0x2,
+    0x5,
+#else
     0x2,
     0x3,
     0x5,
     0x6,
     0x7,
     0x4
+#endif
 };
 
 static const u8 Unk_020F6ED0[] = {
     0x1,
     0x2,
     0x3,
+#if POKEPLATINUM_VERSION == POKEPLATINUM_VERSION_FR
+    0x17,
+    0xF,
+#endif
     0x4,
     0x5,
     0x6,
@@ -385,19 +543,33 @@ static const u8 Unk_020F6ED0[] = {
     0x8,
     0x9,
     0xA,
+#if POKEPLATINUM_VERSION == POKEPLATINUM_VERSION_FR
+    0xB,
+    0xC,
+#endif
     0xD,
     0xE,
+#if POKEPLATINUM_VERSION != POKEPLATINUM_VERSION_FR
     0xF,
     0xB,
+#endif
     0x10,
+#if POKEPLATINUM_VERSION != POKEPLATINUM_VERSION_FR
     0x11,
+#endif
     0x12,
     0x13,
     0x14,
+#if POKEPLATINUM_VERSION != POKEPLATINUM_VERSION_FR
     0xC,
+#endif
     0x15,
     0x16,
+#if POKEPLATINUM_VERSION == POKEPLATINUM_VERSION_FR
+    0x11,
+#else
     0x17,
+#endif
     0x18
 };
 
@@ -407,8 +579,16 @@ static const u8 Unk_020F6F7C[] = {
     0x3,
     0x4,
     0x5,
+#if POKEPLATINUM_VERSION == POKEPLATINUM_VERSION_FR
+    0x21,
+    0x28,
+#endif
     0x6,
     0x7,
+#if POKEPLATINUM_VERSION == POKEPLATINUM_VERSION_FR
+    0x22,
+    0x29,
+#endif
     0x8,
     0x9,
     0xA,
@@ -432,33 +612,52 @@ static const u8 Unk_020F6F7C[] = {
     0x1C,
     0x1D,
     0x1E,
+#if POKEPLATINUM_VERSION == POKEPLATINUM_VERSION_FR
+    0x20,
+    0x1F,
+#else
     0x1F,
     0x20,
     0x21,
     0x22,
+#endif
     0x23,
     0x24,
     0x25,
     0x26,
     0x27,
+#if POKEPLATINUM_VERSION != POKEPLATINUM_VERSION_FR
     0x28,
     0x29,
+#endif
     0x2A,
     0x2B,
     0x2C,
     0x2D,
     0x2E,
+#if POKEPLATINUM_VERSION == POKEPLATINUM_VERSION_FR
+    0x31,
+    0x2F,
+    0x30,
+#else
     0x2F,
     0x30,
     0x31,
+#endif
     0x32,
     0x33
 };
 
 static const u8 Unk_020F7094[] = {
     0x1,
+#if POKEPLATINUM_VERSION == POKEPLATINUM_VERSION_FR
+    0xC0,
+#endif
     0x2,
     0x3,
+#if POKEPLATINUM_VERSION == POKEPLATINUM_VERSION_FR
+    0x4D,
+#endif
     0x6,
     0x8,
     0x9,
@@ -467,60 +666,106 @@ static const u8 Unk_020F7094[] = {
     0xF,
     0x10,
     0x11,
+#if POKEPLATINUM_VERSION != POKEPLATINUM_VERSION_FR
     0x12,
+#endif
     0x14,
     0x15,
     0x16,
+#if POKEPLATINUM_VERSION != POKEPLATINUM_VERSION_FR
     0x17,
+#endif
     0x19,
     0x1B,
     0x1C,
+#if POKEPLATINUM_VERSION != POKEPLATINUM_VERSION_FR
     0x1D,
+#endif
     0x1F,
     0x21,
     0x22,
     0x23,
     0x24,
+#if POKEPLATINUM_VERSION != POKEPLATINUM_VERSION_FR
     0x28,
+#endif
     0x2A,
     0x2B,
+#if POKEPLATINUM_VERSION == POKEPLATINUM_VERSION_FR
+    0x36,
+#endif
     0x2D,
     0x30,
+#if POKEPLATINUM_VERSION == POKEPLATINUM_VERSION_FR
+    0x6E,
+#else
     0x31,
+#endif
     0x32,
     0x34,
+#if POKEPLATINUM_VERSION != POKEPLATINUM_VERSION_FR
     0x36,
     0x37,
+#endif
     0x38,
     0x3A,
+#if POKEPLATINUM_VERSION == POKEPLATINUM_VERSION_FR
+    0x3D,
+    0xDA,
+    0x3C,
+    0xC1,
+    0xDC,
+#else
     0x3B,
     0x3C,
     0x3D,
     0x3E,
+#endif
     0x45,
     0x46,
     0x47,
+#if POKEPLATINUM_VERSION != POKEPLATINUM_VERSION_FR
     0x48,
+#endif
     0x4A,
+#if POKEPLATINUM_VERSION != POKEPLATINUM_VERSION_FR
     0x4D,
+#endif
     0x4E,
     0x4F,
     0x50,
+#if POKEPLATINUM_VERSION == POKEPLATINUM_VERSION_FR
+    0x52,
+    0x51,
+#else
     0x51,
     0x52,
+#endif
     0x53,
     0x55,
     0x56,
     0x58,
+#if POKEPLATINUM_VERSION == POKEPLATINUM_VERSION_FR
+    0x48,
+#endif
     0x59,
     0x5A,
     0x5B,
     0x5C,
+#if POKEPLATINUM_VERSION == POKEPLATINUM_VERSION_FR
+    0x31,
+    0xDD,
+    0x1D,
+#else
     0x5D,
+#endif
     0x5E,
     0x5F,
     0x61,
     0x62,
+#if POKEPLATINUM_VERSION == POKEPLATINUM_VERSION_FR
+    0x5D,
+#endif
     0x64,
     0x65,
     0x66,
@@ -528,60 +773,111 @@ static const u8 Unk_020F7094[] = {
     0x68,
     0x6B,
     0x6F,
+#if POKEPLATINUM_VERSION == POKEPLATINUM_VERSION_FR
+    0x12,
+    0x17,
+#endif
     0x73,
     0x75,
+#if POKEPLATINUM_VERSION == POKEPLATINUM_VERSION_FR
+    0x79,
+    0x76,
+#else
     0x76,
     0x79,
+#endif
     0x7A,
     0x7E,
     0x81,
+#if POKEPLATINUM_VERSION == POKEPLATINUM_VERSION_FR
+    0x8C,
+#endif
     0x83,
     0x85,
     0x87,
+#if POKEPLATINUM_VERSION != POKEPLATINUM_VERSION_FR
     0x8C,
+#endif
     0x8E,
+#if POKEPLATINUM_VERSION != POKEPLATINUM_VERSION_FR
     0x92,
     0x94,
     0x95,
+#endif
     0x96,
     0x97,
     0x98,
     0x9C,
+#if POKEPLATINUM_VERSION == POKEPLATINUM_VERSION_FR
+    0x94,
+    0x95,
+#endif
     0x9D,
+#if POKEPLATINUM_VERSION == POKEPLATINUM_VERSION_FR
+    0xD8,
+#endif
     0x9E,
     0xA0,
     0xA1,
+#if POKEPLATINUM_VERSION == POKEPLATINUM_VERSION_FR
+    0x92,
+#endif
     0xA3,
     0xA4,
     0xA6,
     0xA7,
+#if POKEPLATINUM_VERSION == POKEPLATINUM_VERSION_FR
+    0x3B,
+    0x37,
+#else
     0x6E,
+#endif
     0xAB,
+#if POKEPLATINUM_VERSION == POKEPLATINUM_VERSION_FR
+    0xDB,
+#endif
     0xAC,
+#if POKEPLATINUM_VERSION == POKEPLATINUM_VERSION_FR
+    0x3E,
+#endif
     0xB3,
     0xB7,
     0xBA,
     0xBB,
     0xBC,
     0xBD,
+#if POKEPLATINUM_VERSION != POKEPLATINUM_VERSION_FR
     0xC0,
     0xC1,
+#endif
     0xC2,
+#if POKEPLATINUM_VERSION != POKEPLATINUM_VERSION_FR
     0xC4,
     0xC6,
+#endif
     0xC7,
     0xC8,
+#if POKEPLATINUM_VERSION == POKEPLATINUM_VERSION_FR
+    0xC4,
+    0xC6,
+#endif
     0xCA,
+#if POKEPLATINUM_VERSION == POKEPLATINUM_VERSION_FR
+    0xCC,
+    0x28,
+#endif
     0xCD,
     0xCF,
     0xD3,
     0xD4,
+#if POKEPLATINUM_VERSION != POKEPLATINUM_VERSION_FR
     0xD8,
     0xDA,
     0xDB,
     0xCC,
     0xDD,
     0xDC,
+#endif
     0xDE,
     0xE0,
     0xE2,

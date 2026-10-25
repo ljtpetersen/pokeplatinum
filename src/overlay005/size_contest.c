@@ -4,6 +4,7 @@
 #include <string.h>
 
 #include "constants/string.h"
+#include "constants/platinum_version.h"
 #include "generated/size_contest_results.h"
 
 #include "field/field_system.h"
@@ -117,6 +118,18 @@ u8 SizeContest_CalcResultForPartyMon(FieldSystem *fieldSystem, u16 partySlot)
     vu16 recordSizeFactor = SystemVars_GetSizeContestRecord(SaveData_GetVarsFlags(fieldSystem->saveData));
     u32 recordSize = CalcMillimeterSize(species, recordSizeFactor);
 
+#if POKEPLATINUM_VERSION == POKEPLATINUM_VERSION_FR
+    if (newSize == recordSize) {
+        return SIZE_CONTEST_SAME_SIZE;
+    } else {
+        if (newSize > recordSize) {
+            sub_0206DC6C(fieldSystem, newSize, mon);
+            return SIZE_CONTEST_LARGER;
+        } else {
+            return SIZE_CONTEST_SMALLER;
+        }
+    }
+#else
     u32 newSizeInches = MM_TO_TENTH_OF_INCH(newSize);
     u32 recordSizeInches = MM_TO_TENTH_OF_INCH(recordSize);
 
@@ -130,6 +143,7 @@ u8 SizeContest_CalcResultForPartyMon(FieldSystem *fieldSystem, u16 partySlot)
             return SIZE_CONTEST_SMALLER;
         }
     }
+#endif
 }
 
 void SizeContest_UpdateRecordFromPartyMon(FieldSystem *fieldSystem, u16 partySlot)
@@ -145,7 +159,9 @@ static void SetStrTemplateMonSizeParams(FieldSystem *fieldSystem, u8 intPartIdx,
     StringTemplate **strTemplate = FieldSystem_GetScriptMemberPtr(fieldSystem, SCRIPT_MANAGER_STR_TEMPLATE);
 
     u32 size = CalcMillimeterSize(species, sizeFactor);
+#if POKEPLATINUM_VERSION != POKEPLATINUM_VERSION_FR
     size = MM_TO_TENTH_OF_INCH(size);
+#endif
 
     StringTemplate_SetNumber(*strTemplate, intPartIdx, size / 10, 3, PADDING_MODE_NONE, CHARSET_MODE_EN);
     StringTemplate_SetNumber(*strTemplate, fracPartIdx, size % 10, 1, PADDING_MODE_NONE, CHARSET_MODE_EN);

@@ -4,6 +4,7 @@
 #include <string.h>
 
 #include "constants/heap.h"
+#include "constants/platinum_version.h"
 
 #include "savedata/save_table.h"
 
@@ -1292,8 +1293,10 @@ static BOOL SaveData_CardSave_Main(s32 lockID, BOOL lockFlag, BOOL *result)
             return TRUE;
         }
 
+#if POKEPLATINUM_VERSION != POKEPLATINUM_VERSION_FR
         CARD_UnlockBackup(lockID);
         OS_ReleaseLockID(lockID);
+#endif
 
         switch (CARD_GetResultCode()) {
         case CARD_RESULT_SUCCESS:
@@ -1309,6 +1312,11 @@ static BOOL SaveData_CardSave_Main(s32 lockID, BOOL lockFlag, BOOL *result)
             SaveData_CardSave_Error(lockID, SAVE_ERROR_DISABLE_READ);
             break;
         }
+
+#if POKEPLATINUM_VERSION == POKEPLATINUM_VERSION_FR
+        CARD_UnlockBackup(lockID);
+        OS_ReleaseLockID(lockID);
+#endif
 
         return TRUE;
     }

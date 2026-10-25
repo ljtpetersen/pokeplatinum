@@ -4,6 +4,8 @@
 #include <nitro.h>
 #include <string.h>
 
+#include "constants/platinum_version.h"
+
 #include "overlay063/ov63_0222BE18.h"
 #include "overlay066/ov66_0222DDF0.h"
 #include "overlay066/struct_ov66_0222DFF8_decl.h"
@@ -1021,7 +1023,23 @@ BOOL ov70_02266E9C(UnkStruct_ov70_02263344 *param0, UnkStruct_ov70_0225DEE8 *par
         ov70_0225DF8C(param1, v5);
         v0->unk_0A = 0;
 
+#if POKEPLATINUM_VERSION == POKEPLATINUM_VERSION_FR
+        {
+            u32 len = String_Length(v5);
+            u32 v0_fr = ov70_02260C50_fr(param1) * len / 2 + 0x3C;
+
+            if (v0_fr < 0x80) {
+                v0_fr = 0x80;
+            } else if (v0_fr > 0xFF) {
+                v0_fr = 0xFF;
+            }
+
+            ov70_02268BA4(v0, v0_fr, 38, param0, 36);
+        }
+#else
         ov70_02268BA4(v0, 128, 38, param0, 36);
+#endif
+
         ov66_0222EDC0(v1);
         break;
     case 33:
@@ -1506,7 +1524,23 @@ BOOL ov70_02267A44(UnkStruct_ov70_02263344 *param0, UnkStruct_ov70_0225DEE8 *par
         ov70_0225DF8C(param1, v4);
         v0->unk_0A = 0;
 
+#if POKEPLATINUM_VERSION == POKEPLATINUM_VERSION_FR
+        {
+            u32 len = String_Length(v4);
+            u32 v0_fr = ov70_02260C50_fr(param1) * len / 2 + 0x3C;
+
+            if (v0_fr < 0x80) {
+                v0_fr = 0x80;
+            } else if (v0_fr > 0xFF) {
+                v0_fr = 0xFF;
+            }
+
+            ov70_02268BA4(v0, v0_fr, 31, param0, 29);
+        }
+#else
         ov70_02268BA4(v0, 128, 31, param0, 29);
+#endif
+
         ov66_0222EDC0(v1);
         break;
     case 27:

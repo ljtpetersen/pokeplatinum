@@ -3,6 +3,8 @@
 #include <nitro.h>
 #include <string.h>
 
+#include "constants/platinum_version.h"
+
 #include "generated/genders.h"
 #include "generated/items.h"
 
@@ -95,7 +97,11 @@ static const WindowTemplate sStaticWindowTemplates[] = {
         .bgLayer = BG_LAYER_MAIN_1,
         .tilemapLeft = 1,
         .tilemapTop = 0,
+#if POKEPLATINUM_VERSION == POKEPLATINUM_VERSION_FR
+        .width = 12,
+#else
         .width = 9,
+#endif
         .height = 2,
         .palette = 15,
         .baseTile = 0x63,
@@ -107,7 +113,11 @@ static const WindowTemplate sStaticWindowTemplates[] = {
         .width = 11,
         .height = 2,
         .palette = 15,
+#if POKEPLATINUM_VERSION == POKEPLATINUM_VERSION_FR
+        .baseTile = 0x7B,
+#else
         .baseTile = 0x75,
+#endif
     },
     [SUMMARY_WINDOW_LABEL_ITEM] = {
         .bgLayer = BG_LAYER_MAIN_1,
@@ -116,7 +126,11 @@ static const WindowTemplate sStaticWindowTemplates[] = {
         .width = 6,
         .height = 2,
         .palette = 15,
+#if POKEPLATINUM_VERSION == POKEPLATINUM_VERSION_FR
+        .baseTile = 0x91,
+#else
         .baseTile = 0x8B,
+#endif
     },
     [SUMMARY_WINDOW_LABEL_DEX_NUM] = {
         .bgLayer = BG_LAYER_MAIN_1,
@@ -125,7 +139,11 @@ static const WindowTemplate sStaticWindowTemplates[] = {
         .width = 9,
         .height = 2,
         .palette = 15,
+#if POKEPLATINUM_VERSION == POKEPLATINUM_VERSION_FR
+        .baseTile = 0x9D,
+#else
         .baseTile = 0x97,
+#endif
     },
     [SUMMARY_WINDOW_LABEL_SPECIES_NAME] = {
         .bgLayer = BG_LAYER_MAIN_1,
@@ -134,7 +152,11 @@ static const WindowTemplate sStaticWindowTemplates[] = {
         .width = 5,
         .height = 2,
         .palette = 15,
+#if POKEPLATINUM_VERSION == POKEPLATINUM_VERSION_FR
+        .baseTile = 0xAF,
+#else
         .baseTile = 0xA9,
+#endif
     },
     [SUMMARY_WINDOW_LABEL_TYPE] = {
         .bgLayer = BG_LAYER_MAIN_1,
@@ -143,7 +165,11 @@ static const WindowTemplate sStaticWindowTemplates[] = {
         .width = 5,
         .height = 2,
         .palette = 15,
+#if POKEPLATINUM_VERSION == POKEPLATINUM_VERSION_FR
+        .baseTile = 0xB9,
+#else
         .baseTile = 0xB3,
+#endif
     },
     [SUMMARY_WINDOW_LABEL_OT_NAME] = {
         .bgLayer = BG_LAYER_MAIN_1,
@@ -152,7 +178,11 @@ static const WindowTemplate sStaticWindowTemplates[] = {
         .width = 5,
         .height = 2,
         .palette = 15,
+#if POKEPLATINUM_VERSION == POKEPLATINUM_VERSION_FR
+        .baseTile = 0xC3,
+#else
         .baseTile = 0xBD,
+#endif
     },
     [SUMMARY_WINDOW_LABEL_OT_ID] = {
         .bgLayer = BG_LAYER_MAIN_1,
@@ -161,7 +191,11 @@ static const WindowTemplate sStaticWindowTemplates[] = {
         .width = 5,
         .height = 2,
         .palette = 15,
+#if POKEPLATINUM_VERSION == POKEPLATINUM_VERSION_FR
+        .baseTile = 0xCD,
+#else
         .baseTile = 0xC7,
+#endif
     },
     [SUMMARY_WINDOW_LABEL_EXP] = {
         .bgLayer = BG_LAYER_MAIN_1,
@@ -170,7 +204,11 @@ static const WindowTemplate sStaticWindowTemplates[] = {
         .width = 15,
         .height = 2,
         .palette = 15,
+#if POKEPLATINUM_VERSION == POKEPLATINUM_VERSION_FR
+        .baseTile = 0xD7,
+#else
         .baseTile = 0xD1,
+#endif
     },
     [SUMMARY_WINDOW_LABEL_EXP_NEXT_LV] = {
         .bgLayer = BG_LAYER_MAIN_1,
@@ -179,7 +217,11 @@ static const WindowTemplate sStaticWindowTemplates[] = {
         .width = 12,
         .height = 2,
         .palette = 15,
+#if POKEPLATINUM_VERSION == POKEPLATINUM_VERSION_FR
+        .baseTile = 0xF5,
+#else
         .baseTile = 0xEF,
+#endif
     },
     [SUMMARY_WINDOW_DUMMY_14] = {
         .bgLayer = BG_LAYER_MAIN_1,
@@ -188,7 +230,11 @@ static const WindowTemplate sStaticWindowTemplates[] = {
         .width = 3,
         .height = 2,
         .palette = 15,
+#if POKEPLATINUM_VERSION == POKEPLATINUM_VERSION_FR
+        .baseTile = 0x10D,
+#else
         .baseTile = 0x107,
+#endif
     },
     [SUMMARY_WINDOW_LABEL_HP] = {
         .bgLayer = BG_LAYER_MAIN_1,
@@ -197,7 +243,11 @@ static const WindowTemplate sStaticWindowTemplates[] = {
         .width = 2,
         .height = 2,
         .palette = 15,
+#if POKEPLATINUM_VERSION == POKEPLATINUM_VERSION_FR
+        .baseTile = 0x113,
+#else
         .baseTile = 0x10D,
+#endif
     },
     [SUMMARY_WINDOW_LABEL_ATTACK] = {
         .bgLayer = BG_LAYER_MAIN_1,
@@ -206,7 +256,11 @@ static const WindowTemplate sStaticWindowTemplates[] = {
         .width = 6,
         .height = 2,
         .palette = 15,
+#if POKEPLATINUM_VERSION == POKEPLATINUM_VERSION_FR
+        .baseTile = 0x117,
+#else
         .baseTile = 0x111,
+#endif
     },
     [SUMMARY_WINDOW_LABEL_DEFENSE] = {
         .bgLayer = BG_LAYER_MAIN_1,
@@ -215,7 +269,11 @@ static const WindowTemplate sStaticWindowTemplates[] = {
         .width = 6,
         .height = 2,
         .palette = 15,
+#if POKEPLATINUM_VERSION == POKEPLATINUM_VERSION_FR
+        .baseTile = 0x123,
+#else
         .baseTile = 0x11D,
+#endif
     },
     [SUMMARY_WINDOW_LABEL_SP_ATTACK] = {
         .bgLayer = BG_LAYER_MAIN_1,
@@ -224,7 +282,11 @@ static const WindowTemplate sStaticWindowTemplates[] = {
         .width = 6,
         .height = 2,
         .palette = 15,
+#if POKEPLATINUM_VERSION == POKEPLATINUM_VERSION_FR
+        .baseTile = 0x12F,
+#else
         .baseTile = 0x129,
+#endif
     },
     [SUMMARY_WINDOW_LABEL_SP_DEFENSE] = {
         .bgLayer = BG_LAYER_MAIN_1,
@@ -233,7 +295,11 @@ static const WindowTemplate sStaticWindowTemplates[] = {
         .width = 6,
         .height = 2,
         .palette = 15,
+#if POKEPLATINUM_VERSION == POKEPLATINUM_VERSION_FR
+        .baseTile = 0x13B,
+#else
         .baseTile = 0x135,
+#endif
     },
     [SUMMARY_WINDOW_LABEL_SPEED] = {
         .bgLayer = BG_LAYER_MAIN_1,
@@ -242,16 +308,28 @@ static const WindowTemplate sStaticWindowTemplates[] = {
         .width = 6,
         .height = 2,
         .palette = 15,
+#if POKEPLATINUM_VERSION == POKEPLATINUM_VERSION_FR
+        .baseTile = 0x147,
+#else
         .baseTile = 0x141,
+#endif
     },
     [SUMMARY_WINDOW_LABEL_ABILITY] = {
         .bgLayer = BG_LAYER_MAIN_1,
         .tilemapLeft = 14,
         .tilemapTop = 18,
+#if POKEPLATINUM_VERSION == POKEPLATINUM_VERSION_FR
+        .width = 7,
+#else
         .width = 6,
+#endif
         .height = 2,
         .palette = 15,
+#if POKEPLATINUM_VERSION == POKEPLATINUM_VERSION_FR
+        .baseTile = 0x153,
+#else
         .baseTile = 0x14D,
+#endif
     },
     [SUMMARY_WINDOW_LABEL_SHEEN] = {
         .bgLayer = BG_LAYER_MAIN_1,
@@ -260,25 +338,45 @@ static const WindowTemplate sStaticWindowTemplates[] = {
         .width = 5,
         .height = 2,
         .palette = 15,
+#if POKEPLATINUM_VERSION == POKEPLATINUM_VERSION_FR
+        .baseTile = 0x161,
+#else
         .baseTile = 0x159,
+#endif
     },
     [SUMMARY_WINDOW_DUMMY_23] = {
         .bgLayer = BG_LAYER_MAIN_1,
         .tilemapLeft = 1,
         .tilemapTop = 22,
+#if POKEPLATINUM_VERSION == POKEPLATINUM_VERSION_FR
+        .width = 1,
+#else
         .width = 6,
+#endif
         .height = 2,
         .palette = 15,
+#if POKEPLATINUM_VERSION == POKEPLATINUM_VERSION_FR
+        .baseTile = 0x16B,
+#else
         .baseTile = 0x163,
+#endif
     },
     [SUMMARY_WINDOW_LABEL_MOVE_CANCEL] = {
         .bgLayer = BG_LAYER_MAIN_1,
         .tilemapLeft = 21,
         .tilemapTop = 20,
+#if POKEPLATINUM_VERSION == POKEPLATINUM_VERSION_FR
+        .width = 6,
+#else
         .width = 5,
+#endif
         .height = 2,
         .palette = 15,
+#if POKEPLATINUM_VERSION == POKEPLATINUM_VERSION_FR
+        .baseTile = 0x16D,
+#else
         .baseTile = 0x16F,
+#endif
     },
     [SUMMARY_WINDOW_LABEL_MOVE_CATEGORY] = {
         .bgLayer = BG_LAYER_MAIN_1,
@@ -372,7 +470,11 @@ static const WindowTemplate sStaticWindowTemplates[] = {
     },
     [SUMMARY_WINDOW_BUTTON_PROMPT] = {
         .bgLayer = BG_LAYER_MAIN_1,
+#if POKEPLATINUM_VERSION == POKEPLATINUM_VERSION_FR
+        .tilemapLeft = 24,
+#else
         .tilemapLeft = 26,
+#endif
         .tilemapTop = 0,
         .width = 6,
         .height = 2,
@@ -507,9 +609,15 @@ static const WindowTemplate sExtraWindowTemplates_Skills[] = {
     },
     [SUMMARY_WINDOW_ABILITY] = {
         .bgLayer = BG_LAYER_MAIN_1,
+#if POKEPLATINUM_VERSION == POKEPLATINUM_VERSION_FR
+        .tilemapLeft = 22,
+        .tilemapTop = 18,
+        .width = 10,
+#else
         .tilemapLeft = 21,
         .tilemapTop = 18,
         .width = 11,
+#endif
         .height = 2,
         .palette = 15,
         .baseTile = 0x267,

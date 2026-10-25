@@ -5,6 +5,7 @@
 #include <string.h>
 
 #include "constants/net.h"
+#include "constants/platinum_version.h"
 
 #include "main_menu/mystery_gift_app.h"
 #include "nintendo_wfc/main.h"
@@ -266,7 +267,11 @@ int ov97_02238EAC(ApplicationManager *appMan, int *param1)
         }
         break;
     case 4102:
+#if POKEPLATINUM_VERSION == POKEPLATINUM_VERSION_FR
+        if (DWC_NdInitAsync(ov97_02238E78, "CPUF", "W4ZKNVsRrnzhutkc") == 0) {
+#else
         if (DWC_NdInitAsync(ov97_02238E78, "CPUE", "DwuCXmdJfPVLBnKA") == 0) {
+#endif
             *param1 = ov97_02238DA4(v2);
             break;
         }

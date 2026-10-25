@@ -5,6 +5,7 @@
 #include "constants/graphics.h"
 #include "constants/heap.h"
 #include "constants/versions.h"
+#include "constants/platinum_version.h"
 
 #include "assert.h"
 #include "brightness_controller.h"
@@ -232,6 +233,11 @@ static void CheckHeapCanary(void)
     int v0 = CommManager_GetResetType();
 
     switch (v0) {
+#if POKEPLATINUM_VERSION == POKEPLATINUM_VERSION_FR
+    case 5:
+        HeapCanaryFailed(0, v0);
+        break;
+#endif
     case 1:
         HeapCanaryFailed(1, v0);
         break;

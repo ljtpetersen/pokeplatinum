@@ -3,6 +3,8 @@
 #include <nitro.h>
 #include <string.h>
 
+#include "constants/platinum_version.h"
+
 #include "struct_decls/font_oam.h"
 #include "struct_decls/struct_02012744_decl.h"
 #include "struct_defs/struct_020127E8.h"
@@ -801,8 +803,13 @@ static void ov17_0223FBD4(UnkStruct_ov17_0223F7E4 *param0, int param1, int param
     contestRankString = MessageLoader_GetNewString(param0->unk_04->contestTextMessageLoader, contestRankMessageID);
     contestTypeString = MessageLoader_GetNewString(param0->unk_04->contestTextMessageLoader, contestTypeMessageID);
 
+#if POKEPLATINUM_VERSION == POKEPLATINUM_VERSION_FR
+    ov17_02240138(param0, &param0->unk_40[0], contestRankString, FONT_SYSTEM, TEXT_COLOR(1, 2, 0), 0, 33008, 128, 10 * 0x10 - 1, 1, NULL);
+    ov17_02240138(param0, &param0->unk_40[1], contestTypeString, FONT_SYSTEM, TEXT_COLOR(1, 2, 0), 0, 33008, 128, 8 * 0x10 - 1, 1, NULL);
+#else
     ov17_02240138(param0, &param0->unk_40[0], contestRankString, FONT_SYSTEM, TEXT_COLOR(1, 2, 0), 0, 33008, 128, 8 * 0x10 - 1, 1, NULL);
     ov17_02240138(param0, &param0->unk_40[1], contestTypeString, FONT_SYSTEM, TEXT_COLOR(1, 2, 0), 0, 33008, 128, 8 * 0x14 - 1, 1, NULL);
+#endif
 
     String_Free(contestRankString);
     String_Free(contestTypeString);

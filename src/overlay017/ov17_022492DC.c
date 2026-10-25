@@ -3,6 +3,8 @@
 #include <nitro.h>
 #include <string.h>
 
+#include "constants/platinum_version.h"
+
 #include "struct_decls/font_oam.h"
 #include "struct_decls/struct_02012744_decl.h"
 #include "struct_defs/struct_020127E8.h"
@@ -522,8 +524,13 @@ static void ov17_02249828(UnkStruct_ov17_022492DC *param0)
     v0 = MessageLoader_GetNewString(contestTextMessageLoader, v2);
     v1 = MessageLoader_GetNewString(contestTextMessageLoader, v3);
 
+#if POKEPLATINUM_VERSION == POKEPLATINUM_VERSION_FR
+    ov17_02249BC4(param0, &param0->unk_1C[0], v0, FONT_SYSTEM, TEXT_COLOR(1, 2, 0), 0, 33003, 128, 10 * 0x10 - 1, 1);
+    ov17_02249BC4(param0, &param0->unk_1C[1], v1, FONT_SYSTEM, TEXT_COLOR(1, 2, 0), 0, 33003, 128, 8 * 0x10 - 1, 1);
+#else
     ov17_02249BC4(param0, &param0->unk_1C[0], v0, FONT_SYSTEM, TEXT_COLOR(1, 2, 0), 0, 33003, 128, 8 * 0x10 - 1, 1);
     ov17_02249BC4(param0, &param0->unk_1C[1], v1, FONT_SYSTEM, TEXT_COLOR(1, 2, 0), 0, 33003, 128, 8 * 0x14 - 1, 1);
+#endif
 
     String_Free(v0);
     String_Free(v1);

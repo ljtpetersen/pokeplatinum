@@ -4,6 +4,7 @@
 #include <string.h>
 
 #include "constants/heap.h"
+#include "constants/platinum_version.h"
 #include "constants/start_menu.h"
 #include "generated/traps.h"
 
@@ -177,7 +178,11 @@ static const ListMenuTemplate sListMenuTemplate = {
     .count = 20,
     .maxDisplay = 20,
     .headerXOffset = 0,
+#if POKEPLATINUM_VERSION == POKEPLATINUM_VERSION_FR
+    .textXOffset = 7,
+#else
     .textXOffset = 8,
+#endif
     .cursorXOffset = 0,
     .yOffset = 0,
     .textColorFg = 1,

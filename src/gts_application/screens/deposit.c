@@ -1,10 +1,11 @@
-﻿#include "gts_application/screens/deposit.h"
+#include "gts_application/screens/deposit.h"
 
 #include <dwc.h>
 #include <nitro.h>
 #include <string.h>
 
 #include "constants/species.h"
+#include "constants/platinum_version.h"
 #include "generated/gender_ratios.h"
 #include "generated/species_data_params.h"
 
@@ -138,6 +139,138 @@ static const GTSLevelRangeMessage gtsLevelRangeMessages[] = {
 };
 
 __attribute__((aligned(4))) static const u16 gtsAvailableCountries[] = {
+#if POKEPLATINUM_VERSION == POKEPLATINUM_VERSION_FR
+    Country_Text_Afghanistan,
+    Country_Text_SouthAfrica,
+    Country_Text_Albania,
+    Country_Text_Algeria,
+    Country_Text_Germany,
+    Country_Text_Angola,
+    Country_Text_AntiguaAndBarbuda,
+    Country_Text_Argentina,
+    Country_Text_Australia,
+    Country_Text_Austria,
+    Country_Text_Bahamas,
+    Country_Text_Bahrain,
+    Country_Text_Bangladesh,
+    Country_Text_Belgium,
+    Country_Text_Belize,
+    Country_Text_Benin,
+    Country_Text_Bolivia,
+    Country_Text_Botswana,
+    Country_Text_Brazil,
+    Country_Text_Bulgaria,
+    Country_Text_Burundi,
+    Country_Text_Cambodia,
+    Country_Text_Cameroon,
+    Country_Text_Canada,
+    Country_Text_Chile,
+    Country_Text_China,
+    Country_Text_Cyprus,
+    Country_Text_Colombia,
+    Country_Text_Congo,
+    Country_Text_SouthKorea,
+    Country_Text_CostaRica,
+    Country_Text_Croatia,
+    Country_Text_Denmark,
+    Country_Text_Dominica,
+    Country_Text_Egypt,
+    Country_Text_UAE,
+    Country_Text_Ecuador,
+    Country_Text_Spain,
+    Country_Text_USA,
+    Country_Text_Fiji,
+    Country_Text_Finland,
+    Country_Text_France,
+    Country_Text_Gabon,
+    Country_Text_Ghana,
+    Country_Text_Gibraltar,
+    Country_Text_Greece,
+    Country_Text_Grenada,
+    Country_Text_Greenland,
+    Country_Text_Guadeloupe,
+    Country_Text_Guatemala,
+    Country_Text_Guinea,
+    Country_Text_Guyana,
+    Country_Text_FrenchGuiana,
+    Country_Text_Haiti,
+    Country_Text_Honduras,
+    Country_Text_HongKong,
+    Country_Text_Hungary,
+    Country_Text_CookIslands,
+    Country_Text_USVirginIslands,
+    Country_Text_BritishVirginIslands,
+    Country_Text_India,
+    Country_Text_Indonesia,
+    Country_Text_Iraq,
+    Country_Text_Ireland,
+    Country_Text_Iceland,
+    Country_Text_Israel,
+    Country_Text_Italy,
+    Country_Text_Jamaica,
+    Country_Text_Japan,
+    Country_Text_Jordan,
+    Country_Text_Kenya,
+    Country_Text_Kuwait,
+    Country_Text_Barbados,
+    Country_Text_Bermuda,
+    Country_Text_Lebanon,
+    Country_Text_Liberia,
+    Country_Text_Luxembourg,
+    Country_Text_Libya,
+    Country_Text_Macau,
+    Country_Text_Malaysia,
+    Country_Text_Malta,
+    Country_Text_Morocco,
+    Country_Text_Martinique,
+    Country_Text_Mauritius,
+    Country_Text_Mexico,
+    Country_Text_Myanmar,
+    Country_Text_Nicaragua,
+    Country_Text_Niger,
+    Country_Text_Nigeria,
+    Country_Text_Norway,
+    Country_Text_NewCaledonia,
+    Country_Text_NewZealand,
+    Country_Text_Oman,
+    Country_Text_Uganda,
+    Country_Text_Pakistan,
+    Country_Text_Panama,
+    Country_Text_PapuaNewGuinea,
+    Country_Text_Netherlands,
+    Country_Text_Peru,
+    Country_Text_Philippines,
+    Country_Text_Poland,
+    Country_Text_Portugal,
+    Country_Text_DominicanRepublic,
+    Country_Text_CzechRepublic,
+    Country_Text_Romania,
+    Country_Text_UK,
+    Country_Text_Russia,
+    Country_Text_ElSalvador,
+    Country_Text_Samoa,
+    Country_Text_Senegal,
+    Country_Text_SierraLeone,
+    Country_Text_Singapore,
+    Country_Text_Slovakia,
+    Country_Text_Slovenia,
+    Country_Text_SriLanka,
+    Country_Text_Sweden,
+    Country_Text_Switzerland,
+    Country_Text_Suriname,
+    Country_Text_Swaziland,
+    Country_Text_Taiwan,
+    Country_Text_Tanzania,
+    Country_Text_Chad,
+    Country_Text_Thailand,
+    Country_Text_Togo,
+    Country_Text_Tunisia,
+    Country_Text_Turkey,
+    Country_Text_Uruguay,
+    Country_Text_Vanuatu,
+    Country_Text_Venezuela,
+    Country_Text_Vietnam,
+#else
     Country_Text_Afghanistan,
     Country_Text_Albania,
     Country_Text_Algeria,
@@ -268,6 +401,7 @@ __attribute__((aligned(4))) static const u16 gtsAvailableCountries[] = {
     Country_Text_Vanuatu,
     Country_Text_Venezuela,
     Country_Text_Vietnam
+#endif
 };
 
 const u32 gGTSAvailableCountryCount = NELEMS(gtsAvailableCountries);
@@ -1060,6 +1194,18 @@ ListMenu *GTS_CreateCharpadMenu(GTSApplicationState *appState, StringList **stri
 }
 
 static u16 sAlphabeticalSpeciesCharpadIndices[] = {
+#if POKEPLATINUM_VERSION == POKEPLATINUM_VERSION_FR
+    0,
+    106,
+    159,
+    203,
+    254,
+    340,
+    411,
+    477,
+    488,
+    493
+#else
     0,
     87, // ABC
     136, // DEF
@@ -1070,6 +1216,7 @@ static u16 sAlphabeticalSpeciesCharpadIndices[] = {
     457, // STU
     487, // VWX
     493 // YZ
+#endif
 };
 
 static int GTSDeposit_BuildSeenSpeciesList(StringList **stringList, MessageLoader *speciesMessageLoader, MessageLoader *gtsMessageLoader, u16 *species, u8 *unused1, int unused2, int charpad, Pokedex *pokedex)

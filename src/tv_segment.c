@@ -6,6 +6,7 @@
 #include "constants/heap.h"
 #include "constants/overworld_weather.h"
 #include "constants/tv_broadcast.h"
+#include "constants/platinum_version.h"
 #include "generated/first_arrival_to_zones.h"
 #include "generated/map_headers.h"
 #include "generated/natures.h"
@@ -1339,10 +1340,15 @@ static int sub_0206DC9C(FieldSystem *fieldSystem, StringTemplate *param1, TVEpis
     TVSegment_SetTemplatePokemonSpecies(param1, 1, v0->unk_00, v0->unk_02, v0->language, v0->unk_04);
 
     {
+#if POKEPLATINUM_VERSION == POKEPLATINUM_VERSION_FR
+        StringTemplate_SetNumber(param1, 2, v0->unk_08 / 10, 3, PADDING_MODE_NONE, CHARSET_MODE_EN);
+        StringTemplate_SetNumber(param1, 3, v0->unk_08 % 10, 1, PADDING_MODE_NONE, CHARSET_MODE_EN);
+#else
         u32 v1 = (((v0->unk_08 * 1000) / 254 + 5) / 10);
 
         StringTemplate_SetNumber(param1, 2, v1 / 10, 3, PADDING_MODE_NONE, CHARSET_MODE_EN);
         StringTemplate_SetNumber(param1, 3, v1 % 10, 1, PADDING_MODE_NONE, CHARSET_MODE_EN);
+#endif
     }
 
     return 2;
@@ -2509,7 +2515,11 @@ static int TVSegment_LoadMessage_RichBoyNatureCorner(FieldSystem *fieldSystem, S
             }
         }
 
+#if POKEPLATINUM_VERSION == POKEPLATINUM_VERSION_FR
+        StringTemplate_SetPoffinFlavorName(template, 2, flavor);
+#else
         StringTemplate_SetFlavorName(template, 2, flavor);
+#endif
         return TVProgramSinnohNow_Text_RichBoyNatureCorner_FlavorAffinity;
     }
 
@@ -2769,7 +2779,11 @@ static int sub_0206F160(FieldSystem *fieldSystem, StringTemplate *template, TVEp
         }
     }
 
+#if POKEPLATINUM_VERSION == POKEPLATINUM_VERSION_FR
+    StringTemplate_SetMoveName(template, 3, LCRNG_Next() % 467 + 1);
+#else
     StringTemplate_SetMoveName(template, 3, (LCRNG_Next() % 467 - 2) + 1);
+#endif
 
     return 17;
 }

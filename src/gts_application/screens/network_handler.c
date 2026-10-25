@@ -1,10 +1,11 @@
-﻿#include "gts_application/screens/network_handler.h"
+#include "gts_application/screens/network_handler.h"
 
 #include <dwc.h>
 #include <nitro.h>
 #include <string.h>
 
 #include "constants/net.h"
+#include "constants/platinum_version.h"
 #include "constants/savedata/savedata.h"
 #include "generated/game_records.h"
 #include "generated/species.h"
@@ -808,7 +809,11 @@ static int GTSNetworkHandler_GetListingStatusResponse(GTSApplicationState *appSt
             break;
         case GTS_RESULT_ERROR:
             NetworkError_DisplayNetworkError(HEAP_ID_APPLICATION, 1, 0);
+#if POKEPLATINUM_VERSION == POKEPLATINUM_VERSION_FR
+            while (TRUE);
+#else
             break;
+#endif
         }
     } else {
         appState->networkTimeoutCounter++;

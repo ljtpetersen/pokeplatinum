@@ -3,6 +3,8 @@
 #include <nitro.h>
 #include <string.h>
 
+#include "constants/platinum_version.h"
+
 #include "generated/journal_online_events.h"
 
 #include "struct_defs/struct_0207DE04.h"
@@ -26,6 +28,7 @@
 #include "comm_manager.h"
 #include "communication_information.h"
 #include "communication_system.h"
+#include "dwc_main.h"
 #include "enums.h"
 #include "font.h"
 #include "game_options.h"
@@ -187,6 +190,9 @@ static void ov65_02237970(UnkStruct_ov65_022367A8 *param0);
 static BOOL ov65_02237A10(UnkStruct_ov65_022367A8 *param0);
 static void ov65_02237A24(UnkStruct_0207DE04 *param0, u32 heapID);
 static void ov65_02237A44(UnkStruct_ov65_022367A8 *param0);
+#if POKEPLATINUM_VERSION == POKEPLATINUM_VERSION_FR
+static void ov65_02237C30(UnkStruct_ov65_022367A8 *param0);
+#endif
 static BOOL ov65_02237A54(UnkStruct_ov65_022367A8 *param0);
 static BOOL ov65_02237A70(UnkStruct_ov65_022367A8 *param0, UnkStruct_0207DE04 *param1, u32 heapID);
 static BOOL ov65_02237AA8(UnkStruct_ov65_022367A8 *param0, UnkStruct_0207DE04 *param1, u32 heapID);
@@ -1602,6 +1608,13 @@ static void ov65_02237A44(UnkStruct_ov65_022367A8 *param0)
     param0->unk_00.unk_0C = (60 * 30);
 }
 
+#if POKEPLATINUM_VERSION == POKEPLATINUM_VERSION_FR
+static void ov65_02237C30(UnkStruct_ov65_022367A8 *param0)
+{
+    param0->unk_00.unk_10 = 0;
+}
+#endif
+
 static BOOL ov65_02237A54(UnkStruct_ov65_022367A8 *param0)
 {
     if (param0->unk_00.unk_10 == 0) {
@@ -2132,11 +2145,24 @@ static BOOL ov65_022380E8(UnkStruct_ov65_022367A8 *param0, UnkStruct_0207DE04 *p
     param0->unk_00.unk_05 = 29;
     ov65_022375CC(param0);
 
+#if POKEPLATINUM_VERSION == POKEPLATINUM_VERSION_FR
+    ov65_02237498(param0, param1);
+    if ((u32)CommManager_GetMatchmakingState() - 4 <= 1) {
+        DWC_ProcessFriendsMatch();
+    }
+#endif
+
     return 0;
 }
 
 static BOOL ov65_02238104(UnkStruct_ov65_022367A8 *param0, UnkStruct_0207DE04 *param1, u32 heapID)
 {
+#if POKEPLATINUM_VERSION == POKEPLATINUM_VERSION_FR
+    if ((u32)CommManager_GetMatchmakingState() - 4 <= 1) {
+        DWC_ProcessFriendsMatch();
+    }
+#endif
+
     BOOL v0 = ov65_02236EF8(&param0->unk_30);
 
     if (v0 == 0) {
@@ -2204,6 +2230,9 @@ static BOOL ov65_022381CC(UnkStruct_ov65_022367A8 *param0, UnkStruct_0207DE04 *p
 {
     CommInfo_SendPlayerInfo();
     CommManager_SetErrorHandling(0, 1);
+#if POKEPLATINUM_VERSION == POKEPLATINUM_VERSION_FR
+    ov65_02237A44(param0);
+#endif
     param0->unk_00.unk_05 = 1;
     return 0;
 }
@@ -2213,9 +2242,15 @@ static BOOL ov65_022381E4(UnkStruct_ov65_022367A8 *param0, UnkStruct_0207DE04 *p
     ov65_02237550(param0, heapID);
 
     if (CommSys_IsPlayerConnected(0) == 0) {
+#if POKEPLATINUM_VERSION == POKEPLATINUM_VERSION_FR
+        ov65_02237C30(param0);
+#endif
         param0->unk_00.unk_05 = 15;
     } else {
         if (sub_02032E00(0)) {
+#if POKEPLATINUM_VERSION == POKEPLATINUM_VERSION_FR
+            ov65_02237C30(param0);
+#endif
             param0->unk_00.unk_05 = 2;
         }
     }

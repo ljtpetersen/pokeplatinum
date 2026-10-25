@@ -688,7 +688,9 @@ static void BerryTag_PrintSize(BerryTag *berryTag)
     Window_FillTilemap(window, 0);
 
     u32 size = BerryData_GetAttribute(berryTag->berryData, BERRYATTR_SIZE);
+#if POKEPLATINUM_VERSION != POKEPLATINUM_VERSION_FR
     size = ((size * 1000) / 254 + 5) / 10;
+#endif
     String *formatString = MessageLoader_GetNewString(berryTag->messageLoader, BerryTag_Text_Size);
     String *string = String_Init(32, HEAP_ID_BERRY_TAG);
 

@@ -1829,8 +1829,13 @@ static int GBAMigrator_Init(ApplicationManager *appMan, int *state)
     migrator->trainerInfo = SaveData_GetTrainerInfo(migrator->saveData);
     migrator->options = SaveData_GetOptions(migrator->saveData);
     migrator->messageBoxFrame = Options_Frame(migrator->options);
+#if POKEPLATINUM_VERSION == POKEPLATINUM_VERSION_FR
+    migrator->unk_12668 = String_Init(384, HEAP_ID_MIGRATE_FROM_GBA);
+    migrator->unk_1266C = String_Init(384, HEAP_ID_MIGRATE_FROM_GBA);
+#else
     migrator->unk_12668 = String_Init(256, HEAP_ID_MIGRATE_FROM_GBA);
     migrator->unk_1266C = String_Init(256, HEAP_ID_MIGRATE_FROM_GBA);
+#endif
 
     Sound_SetSceneAndPlayBGM(SOUND_SCENE_9, SEQ_PRESENT_sseq, 1);
 

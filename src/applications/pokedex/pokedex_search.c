@@ -3,6 +3,8 @@
 #include <nitro.h>
 #include <string.h>
 
+#include "constants/platinum_version.h"
+
 #include "applications/pokedex/ov21_021D4340.h"
 #include "applications/pokedex/pokedex_app.h"
 #include "applications/pokedex/pokedex_data_manager.h"
@@ -868,7 +870,11 @@ static void FilterTypeMessage(PokedexGraphicData **param0, int typeFilter, enum 
 
     switch (typeFilter) {
     case FT_NONE:
+#if POKEPLATINUM_VERSION == POKEPLATINUM_VERSION_FR
+        entryID = pl_msg_pokedex_nonetype;
+#else
         entryID = pl_msg_pokedex_dash;
+#endif
         break;
     case FT_NORMAL:
         entryID = pl_msg_pokedex_normal;

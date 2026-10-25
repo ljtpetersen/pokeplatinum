@@ -2,12 +2,15 @@
 #include <string.h>
 
 #include "constants/heap.h"
+#include "constants/narc.h"
 #include "constants/string.h"
+#include "constants/platinum_version.h"
 #include "constants/versions.h"
 #include "generated/genders.h"
 
 #include "applications/naming_screen.h"
 #include "applications/rowan_intro/main.h"
+#include "nnsys/g2d/load/g2d_NSC_load.h"
 
 #include "bg_window.h"
 #include "brightness_controller.h"
@@ -35,6 +38,7 @@
 #include "string_gf.h"
 #include "string_list.h"
 #include "string_template.h"
+#include "sys_task.h"
 #include "sys_task_manager.h"
 #include "system.h"
 #include "text.h"
@@ -75,6 +79,9 @@ enum RowanIntroState {
     RI_STATE_CONTROL_INFO_FADE_OUT_START,
     RI_STATE_CONTROL_INFO_FADE_OUT_END,
     RI_STATE_CONTROL_INFO_REPEAT,
+#if POKEPLATINUM_VERSION == POKEPLATINUM_VERSION_FR
+    RI_STATE_CONTROL_INFO_REPEAT_2,
+#endif
     RI_STATE_CONTROL_INFO_DIALOGUE_USE_TOUCHSCREEN,
     RI_STATE_FADE_IN_ROWAN_2_START,
     RI_STATE_FADE_IN_ROWAN_2_END,
@@ -272,6 +279,11 @@ typedef struct RowanIntro {
     int bunearyPaletteBlendUpdateCounter;
     u16 *bunearyPalette;
     u16 *bunearyBlendedPalette;
+#if POKEPLATINUM_VERSION == POKEPLATINUM_VERSION_FR
+    SysTask *unk_c0;
+    void *unk_c4;
+    void *unk_c8;
+#endif
 } RowanIntro;
 
 static void RowanIntro_VBlankCallback(void *manager);
@@ -2020,6 +2032,35 @@ static void RowanIntro_SetBunearyLayerPriority(RowanIntro *manager)
     Bg_SetPriority(BG_LAYER_MAIN_2, 1);
 }
 
+#if POKEPLATINUM_VERSION == POKEPLATINUM_VERSION_FR
+static void ov73_021d24f8(void *param0, BgConfig *bgConfig, int bgLayer, int param3, int param4)
+{
+    NNSG2dScreenData *screenData;
+    if (param0 && NNS_G2dGetUnpackedScreenData(param0, &screenData)) {
+        if (param4 == 0) {
+            param4 = screenData->szByte;
+        }
+        void *tilemapBuf = Bg_GetTilemapBuffer(bgConfig, bgLayer);
+        if (tilemapBuf) {
+            Bg_LoadTilemapBuffer(bgConfig, bgLayer, &screenData->rawData, param4);
+        }
+        Bg_CopyTilemapBufferRangeToVRAM(bgConfig, bgLayer, &screenData->rawData, param4, param3);
+    }
+}
+
+static void ov73_021d2550(SysTask *task, RowanIntro *manager)
+{
+    ov73_021d24f8(manager->unk_c4, manager->bgConfig, BG_LAYER_MAIN_3, 0, 0);
+    ov73_021d24f8(manager->unk_c8, manager->bgConfig, BG_LAYER_SUB_3, 0, 0);
+
+    RowanIntro_ChangePaletteAndCopyTilemap(manager, 7, 3);
+
+    manager->unk_c0 = NULL;
+
+    SysTask_Done(task);
+}
+#endif
+
 static BOOL RowanIntro_Run(RowanIntro *manager)
 {
     BOOL isFinished = FALSE;
@@ -2257,6 +2298,31 @@ static BOOL RowanIntro_Run(RowanIntro *manager)
             manager->state = RI_STATE_FADE_IN_ROWAN_2_START;
         }
         break;
+#if POKEPLATINUM_VERSION == POKEPLATINUM_VERSION_FR
+    case RI_STATE_CONTROL_INFO_REPEAT:
+        if (RowanIntro_FadeBgLayer(manager, BG_LAYER_SUB_2, FADE_OUT) == TRUE) {
+            {
+                Bg_ClearTilemap(manager->bgConfig, BG_LAYER_MAIN_0);
+            }
+            YesNoTouchMenu_Reset(manager->yesNoTouchMenu);
+            manager->bgLayer3TilemapIndex = 1;
+            manager->unk_c4 = LoadMemberFromNARC(NARC_INDEX_DEMO__INTRO__INTRO, 5, FALSE, manager->heapID, TRUE);
+            manager->bgSubLayer3TilemapIndex = 1;
+            manager->unk_c8 = LoadMemberFromNARC(NARC_INDEX_DEMO__INTRO__INTRO, 29, FALSE, manager->heapID, TRUE);
+
+            manager->unk_c0 = SysTask_ExecuteOnVBlank((SysTaskFunc)ov73_021d2550, manager, 0);
+
+            manager->state = RI_STATE_CONTROL_INFO_REPEAT_2;
+        }
+        break;
+    case RI_STATE_CONTROL_INFO_REPEAT_2:
+        if (!manager->unk_c0) {
+            Heap_Free(manager->unk_c4);
+            Heap_Free(manager->unk_c8);
+            manager->state = RI_STATE_CONTROL_INFO_TEXT_0;
+        }
+        break;
+#else
     case RI_STATE_CONTROL_INFO_REPEAT:
         if (RowanIntro_FadeBgLayer(manager, BG_LAYER_SUB_2, FADE_OUT) == TRUE) {
             {
@@ -2270,6 +2336,7 @@ static BOOL RowanIntro_Run(RowanIntro *manager)
             manager->state = RI_STATE_CONTROL_INFO_TEXT_0;
         }
         break;
+#endif
     case RI_STATE_CONTROL_INFO_DIALOGUE_USE_TOUCHSCREEN:
         if (RowanIntro_DisplayMessage(manager, RowanIntro_Text_ControlInfoUseTouchscreen, TRUE) == TRUE) {
             manager->state = RI_STATE_CONTROL_INFO_WAIT_INPUT;

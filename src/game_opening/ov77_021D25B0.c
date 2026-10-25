@@ -2,6 +2,7 @@
 #include <string.h>
 
 #include "constants/graphics.h"
+#include "constants/platinum_version.h"
 
 #include "game_opening/ov77_021D54B0.h"
 #include "game_opening/ov77_021D6670.h"
@@ -355,6 +356,7 @@ static void ov77_021D2610(UnkStruct_ov77_021D2E9C *param0)
         Bg_InitFromTemplate(param0->unk_0C, BG_LAYER_MAIN_3, &v3, 0);
     }
 
+#if POKEPLATINUM_VERSION != POKEPLATINUM_VERSION_FR
     {
         BgTemplate v4 = {
             .x = 0,
@@ -373,6 +375,7 @@ static void ov77_021D2610(UnkStruct_ov77_021D2E9C *param0)
 
         Bg_InitFromTemplate(param0->unk_0C, BG_LAYER_SUB_1, &v4, 0);
     }
+#endif
 
     {
         BgTemplate v5 = {
@@ -1054,16 +1057,21 @@ static void ov77_021D2F38(UnkStruct_ov77_021D2F38 *param0)
 
     Graphics_LoadTilemapToBgLayer(NARC_INDEX_DEMO__TITLE__OP_DEMO, 19, param0->unk_0C, 3, 0, 0, 0, HEAP_ID_76);
     Graphics_LoadTilemapToBgLayer(NARC_INDEX_DEMO__TITLE__OP_DEMO, 19, param0->unk_0C, 7, 0, 0, 0, HEAP_ID_76);
+
+#if POKEPLATINUM_VERSION != POKEPLATINUM_VERSION_FR
     Graphics_LoadTilesToBgLayer(NARC_INDEX_DEMO__TITLE__OP_DEMO, 114, param0->unk_0C, 5, 0, 0, 0, HEAP_ID_76);
     Graphics_LoadTilemapToBgLayer(NARC_INDEX_DEMO__TITLE__OP_DEMO, 113, param0->unk_0C, 5, 0, 0, 0, HEAP_ID_76);
 
     Graphics_LoadPalette(NARC_INDEX_DEMO__TITLE__OP_DEMO, 115, 4, 0, 2 * 16 * 1, HEAP_ID_76);
+#endif
 
     GXLayers_EngineAToggleLayers(GX_PLANEMASK_BG2, 0);
     GXLayers_EngineBToggleLayers(GX_PLANEMASK_BG2, 0);
 
     G2_SetBlendAlpha(GX_BLEND_PLANEMASK_BG1, GX_BLEND_PLANEMASK_BG3, 0, 16);
+#if POKEPLATINUM_VERSION != POKEPLATINUM_VERSION_FR
     G2S_SetBlendAlpha(GX_BLEND_PLANEMASK_BG1, GX_BLEND_PLANEMASK_BG3, 0, 16);
+#endif
 
     OS_WaitIrq(1, OS_IE_V_BLANK);
 
@@ -1099,7 +1107,9 @@ static BOOL ov77_021D30D0(UnkStruct_ov77_021D2F38 *param0, const int param1)
     case 2:
         if ((param0->unk_08) && (param1 >= 265)) {
             GXLayers_EngineAToggleLayers(GX_PLANEMASK_BG1, 0);
+#if POKEPLATINUM_VERSION != POKEPLATINUM_VERSION_FR
             GXLayers_EngineBToggleLayers(GX_PLANEMASK_BG1, 0);
+#endif
 
             G2_SetBlendAlpha(GX_BLEND_PLANEMASK_BG2, GX_BLEND_PLANEMASK_BG3, 0, 16);
             G2S_SetBlendAlpha(GX_BLEND_PLANEMASK_BG2, GX_BLEND_PLANEMASK_BG3, 0, 16);
@@ -1150,7 +1160,9 @@ static void ov77_021D3234(UnkStruct_ov77_021D2E9C *param0)
         Bg_FreeTilemapBuffer(param0->unk_0C, BG_LAYER_SUB_2);
         Bg_FreeTilemapBuffer(param0->unk_0C, BG_LAYER_MAIN_3);
         Bg_FreeTilemapBuffer(param0->unk_0C, BG_LAYER_SUB_3);
+#if POKEPLATINUM_VERSION != POKEPLATINUM_VERSION_FR
         Bg_FreeTilemapBuffer(param0->unk_0C, BG_LAYER_SUB_1);
+#endif
         Heap_Free(param0->unk_0C);
 
         param0->unk_18.unk_02 = 0;
@@ -1181,7 +1193,9 @@ static void ov77_021D32A4(SysTask *param0, void *param1)
     }
 
     G2_SetBlendAlpha(GX_BLEND_PLANEMASK_BG1, GX_BLEND_PLANEMASK_BG3, v0->unk_06, 16);
+#if POKEPLATINUM_VERSION != POKEPLATINUM_VERSION_FR
     G2S_SetBlendAlpha(GX_BLEND_PLANEMASK_BG1, GX_BLEND_PLANEMASK_BG3, v0->unk_06, 16);
+#endif
 }
 
 static void ov77_021D3300(SysTask *param0, void *param1)
@@ -1203,7 +1217,9 @@ static void ov77_021D3300(SysTask *param0, void *param1)
     }
 
     G2_SetBlendAlpha(GX_BLEND_PLANEMASK_BG1, GX_BLEND_PLANEMASK_BG3, v0->unk_06, 16);
+#if POKEPLATINUM_VERSION != POKEPLATINUM_VERSION_FR
     G2S_SetBlendAlpha(GX_BLEND_PLANEMASK_BG1, GX_BLEND_PLANEMASK_BG3, v0->unk_06, 16);
+#endif
 }
 
 static void ov77_021D3360(SysTask *param0, void *param1)

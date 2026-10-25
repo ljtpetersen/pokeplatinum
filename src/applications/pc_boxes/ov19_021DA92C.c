@@ -10,6 +10,8 @@
 #include "applications/pc_boxes/struct_ov19_021D61B0_decl.h"
 #include "applications/pc_boxes/struct_ov19_021DA9E0.h"
 
+#include "constants/platinum_version.h"
+
 #include "bg_window.h"
 #include "font_special_chars.h"
 #include "graphics.h"
@@ -296,7 +298,15 @@ static void ov19_021DACF8(SysTask *param0, void *param1)
         v0->unk_00 = 1;
     case 1:
         ov19_021DAE60(&v1->unk_04[3], v1, v0->unk_02, 0);
+
+#if POKEPLATINUM_VERSION == POKEPLATINUM_VERSION_FR
+        if (!BoxApp_GetPCMonPreview(v0->unk_08->unk_10)->isEgg) {
+            Window_LoadTiles(&v1->unk_04[3]);
+        }
+#else
         Window_LoadTiles(&v1->unk_04[3]);
+#endif
+
         v0->unk_04 = 0;
         v0->unk_00 = 2;
         break;

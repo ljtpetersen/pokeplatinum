@@ -3,6 +3,7 @@
 #include <nitro.h>
 
 #include "constants/battle_frontier.h"
+#include "constants/platinum_version.h"
 
 #include "applications/frontier/battle_hall/sprite_manager.h"
 #include "applications/frontier/battle_hall/sprites.h"
@@ -32,6 +33,7 @@
 #include "pokemon.h"
 #include "render_oam.h"
 #include "render_window.h"
+#include "ribbon_save_data.h"
 #include "save_player.h"
 #include "savedata.h"
 #include "screen_fade.h"
@@ -1160,6 +1162,10 @@ static void SetupMonSummaryApp(BattleHallApp *app)
     app->monSummary->move = 0;
     app->monSummary->dexMode = SaveData_GetDexMode(app->saveData);
     app->monSummary->showContest = PokemonSummaryScreen_ShowContestData(app->saveData);
+
+#if POKEPLATINUM_VERSION == POKEPLATINUM_VERSION_FR
+    app->monSummary->specialRibbons = SaveData_GetRibbons(app->saveData);
+#endif
 
     PokemonSummaryScreen_FlagVisiblePages(app->monSummary, sSummaryPages);
     PokemonSummaryScreen_SetPlayerProfile(app->monSummary, SaveData_GetTrainerInfo(app->saveData));

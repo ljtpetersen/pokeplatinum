@@ -4,6 +4,7 @@
 #include <string.h>
 
 #include "constants/graphics.h"
+#include "constants/platinum_version.h"
 #include "constants/versions.h"
 
 #include "struct_defs/wi_fi_history.h"
@@ -1225,8 +1226,13 @@ static void ov92_021D2254(UnkStruct_ov92_021D1B24 *param0)
         param0->unk_BAA8.z = (FX32_ONE);
     }
     {
+#if POKEPLATINUM_VERSION == POKEPLATINUM_VERSION_FR
+        param0->unk_BAB4.x = 0x2300;
+        param0->unk_BAB4.y = 0x3100;
+#else
         param0->unk_BAB4.x = 0x1A40;
         param0->unk_BAB4.y = 0x7C00;
+#endif
         param0->unk_BAB4.z = 0;
     }
     {
@@ -1246,11 +1252,15 @@ static void ov92_021D22B0(UnkStruct_ov92_021D1B24 *param0)
     Camera_ComputeProjectionMatrix(0, param0->camera);
     Camera_SetAsActive(param0->camera);
 
+#if POKEPLATINUM_VERSION == POKEPLATINUM_VERSION_FR
+    param0->unk_BAD8 = 1;
+#else
     if (param0->unk_BAF4 == 0) {
         param0->unk_BAD8 = 1;
     } else {
         param0->unk_BAD8 = 0;
     }
+#endif
 
     while (TRUE) {
         if (ov92_021D2644(param0) == 1) {

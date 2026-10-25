@@ -1,4 +1,9 @@
-project('libsyscall', ['c', 'nasm'])
+project('libsyscall', ['c', 'nasm'],
+    meson_version: '>=1.1',
+    default_options : [
+        'game_language=en'
+    ]
+)
 
 asm_args = [
     '-proc', 'arm5TE',
@@ -7,7 +12,7 @@ asm_args = [
 ]
 
 libsyscall = static_library('syscall',
-    sources: 'asm/_secure.s',
+    sources: 'asm/_secure_' + get_option('game_language') + '.s',
     nasm_args: asm_args,
     pic: false
 )

@@ -5,6 +5,7 @@
 
 #include "constants/field_base_tiles.h"
 #include "constants/heap.h"
+#include "constants/platinum_version.h"
 
 #include "field/field_system.h"
 
@@ -353,10 +354,16 @@ static void ShowBattleRegulationRules(BattleRegulationMenu *menu)
             }
             break;
         case BATTLE_REGULATION_RULE_HEIGHT_RESTRICT:
+#if POKEPLATINUM_VERSION == POKEPLATINUM_VERSION_FR
+            StringTemplate_SetNumber(strTemplate, 0, abs(ruleValue / 10), 2, 0, 1);
+            StringTemplate_SetNumber(strTemplate, 1, abs(ruleValue % 10), 1, 2, 1);
+#else
             ruleValue = (ruleValue >= 0) ? (((ruleValue * 10 * 1000) / 254 + 5) / 10) : -(((-ruleValue * 10 * 1000) / 254 + 5) / 10);
 
             StringTemplate_SetNumber(strTemplate, 0, abs(ruleValue / 12), 2, 0, 1);
             StringTemplate_SetNumber(strTemplate, 1, abs(ruleValue % 12), 2, 2, 1);
+#endif
+
 
             if (ruleValue == 0) {
                 valueMessage = Unk0353_Text_NoRestrictions;
@@ -365,8 +372,12 @@ static void ShowBattleRegulationRules(BattleRegulationMenu *menu)
             }
             break;
         case BATTLE_REGULATION_RULE_WEIGHT_RESTRICT:
+#if POKEPLATINUM_VERSION == POKEPLATINUM_VERSION_FR
+            StringTemplate_SetNumber(strTemplate, 0, abs(ruleValue), 2, 0, 1);
+#else
             ruleValue = (ruleValue >= 0) ? (((ruleValue * 220462) + 50000) / 100000) : -(((-ruleValue * 220462) + 50000) / 100000);
             StringTemplate_SetNumber(strTemplate, 0, abs(ruleValue), 3, 0, 1);
+#endif
 
             if (ruleValue == 0) {
                 valueMessage = Unk0353_Text_NoRestrictions;

@@ -3,6 +3,8 @@
 #include <nitro.h>
 #include <string.h>
 
+#include "constants/platinum_version.h"
+
 #include "applications/pokedex/infomain.h"
 #include "applications/pokedex/infomain_foreign.h"
 #include "applications/pokedex/ov21_021D4340.h"
@@ -123,8 +125,13 @@ static u32 const Unk_ov21_021E9D80[(7 - 2 + 1)] = {
 };
 
 static u32 const Unk_ov21_021E9D98[(7 - 2 + 1)] = {
+#if POKEPLATINUM_VERSION == POKEPLATINUM_VERSION_FR
+    0x4,
+    0x2,
+#else
     0x2,
     0x4,
+#endif
     0x6,
     0x8,
     0xA,

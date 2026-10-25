@@ -3,6 +3,7 @@
 #include <nitro.h>
 #include <string.h>
 
+#include "constants/platinum_version.h"
 #include "generated/pokemon_types.h"
 
 #include "applications/pokedex/footprint.h"
@@ -444,7 +445,11 @@ static void RenderHeight(Window *window, enum HeapID heapID, int species, u32 te
     MessageLoader *heightMsgLoader = MessageLoader_Init(MSG_LOADER_PRELOAD_ENTIRE_BANK, NARC_INDEX_MSGDATA__PL_MSG, Height_Message_Bank_Index(), heapID);
 
     MessageLoader_GetString(heightMsgLoader, species, heightString);
+#if POKEPLATINUM_VERSION == POKEPLATINUM_VERSION_FR
+    Text_AddPrinterWithParamsAndColor(window, FONT_SYSTEM, heightString, 192, 88, TEXT_SPEED_INSTANT, textColor, NULL);
+#else
     Text_AddPrinterWithParamsAndColor(window, FONT_SYSTEM, heightString, 184, 88, TEXT_SPEED_INSTANT, textColor, NULL);
+#endif
     String_Free(heightString);
     MessageLoader_Free(heightMsgLoader);
 }
@@ -455,7 +460,11 @@ static void RenderWeight(Window *window, enum HeapID heapID, int species, u32 te
     MessageLoader *weightMsgLoader = MessageLoader_Init(MSG_LOADER_PRELOAD_ENTIRE_BANK, NARC_INDEX_MSGDATA__PL_MSG, Weight_Message_Bank_Index(), heapID);
 
     MessageLoader_GetString(weightMsgLoader, species, weightString);
+#if POKEPLATINUM_VERSION == POKEPLATINUM_VERSION_FR
+    Text_AddPrinterWithParamsAndColor(window, FONT_SYSTEM, weightString, 192, 104, TEXT_SPEED_INSTANT, textColor, NULL);
+#else
     Text_AddPrinterWithParamsAndColor(window, FONT_SYSTEM, weightString, 184, 104, TEXT_SPEED_INSTANT, textColor, NULL);
+#endif
     String_Free(weightString);
     MessageLoader_Free(weightMsgLoader);
 }

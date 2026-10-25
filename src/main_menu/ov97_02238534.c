@@ -6,6 +6,8 @@
 #include <nitro/wm.h>
 #include <string.h>
 
+#include "constants/platinum_version.h"
+
 #include "main_menu/funcptr_ov97_02238A4C.h"
 
 typedef struct {
@@ -226,9 +228,17 @@ static void ov97_02238720(void *param0)
     case WM_STATECODE_PARENT_FOUND:
         DC_InvalidateRange(&((*Unk_ov97_022403F8).unk_F00), sizeof(WMbssDesc));
 
+#if POKEPLATINUM_VERSION == POKEPLATINUM_VERSION_FR
+        if ((v0->gameInfoLength < 8) || (v0->gameInfo.ggid != 0x8000CD)) {
+#else
         if ((v0->gameInfoLength < 8) || (v0->gameInfo.ggid != 0x400318)) {
+#endif
             if (Unk_ov97_022403FC) {
+#if POKEPLATINUM_VERSION == POKEPLATINUM_VERSION_FR
+                Unk_ov97_022403FC("not my parent ggid (%d != %d)\n", v0->gameInfo.ggid, 0x8000CD);
+#else
                 Unk_ov97_022403FC("not my parent ggid (%d != %d)\n", v0->gameInfo.ggid, 0x400318);
+#endif
             }
             break;
         }

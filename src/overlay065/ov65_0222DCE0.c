@@ -4,6 +4,8 @@
 #include <nitro.h>
 #include <string.h>
 
+#include "constants/platinum_version.h"
+
 #include "generated/journal_online_events.h"
 
 #include "struct_decls/struct_02012B20_decl.h"
@@ -2244,7 +2246,11 @@ static void ov65_0222FD70(UnkStruct_ov65_0222EBE0 *param0)
         v0 = TEXT_COLOR(3, 4, 0);
     }
 
+#if POKEPLATINUM_VERSION == POKEPLATINUM_VERSION_FR
+    Text_AddPrinterWithParamsAndColor(&param0->unk_340, FONT_SYSTEM, v5, 28, 0, TEXT_SPEED_NO_TRANSFER, v0, NULL);
+#else
     Text_AddPrinterWithParamsAndColor(&param0->unk_340, FONT_SYSTEM, v5, 32, 0, TEXT_SPEED_NO_TRANSFER, v0, NULL);
+#endif
     String_Free(v5);
 
     v6 = ov65_0222DD20(param0, &param0->unk_04->unk_00);
@@ -2268,7 +2274,11 @@ static void ov65_0222FD70(UnkStruct_ov65_0222EBE0 *param0)
         MessageLoader_GetString(param0->unk_168, v3, param0->unk_170);
     }
 
+#if POKEPLATINUM_VERSION == POKEPLATINUM_VERSION_FR
+    Text_AddPrinterWithParamsAndColor(&param0->unk_340, FONT_SYSTEM, param0->unk_170, 88, 0, TEXT_SPEED_NO_TRANSFER, v0, NULL);
+#else
     Text_AddPrinterWithParamsAndColor(&param0->unk_340, FONT_SYSTEM, param0->unk_170, 102, 0, TEXT_SPEED_NO_TRANSFER, v0, NULL);
+#endif
     ov65_0222EA38(param0->unk_15C, &param0->unk_BD0, 1, 2, 1, v6);
 
     if (param0->unk_04->unk_00.unk_21) {
@@ -5918,8 +5928,13 @@ static void ov65_02234A68(UnkStruct_ov65_0222EBE0 *param0, NARC *param1, enum He
     MessageLoader_GetString(param0->unk_168, 73, v4);
 
     {
+#if POKEPLATINUM_VERSION == POKEPLATINUM_VERSION_FR
+        u32 v9 = Font_CalcCenterAlignment(FONT_SUBSCREEN, v4, 0, 0x40);
+        Text_AddPrinterWithParamsAndColor(&v3, FONT_SUBSCREEN, v4, v9, 0, TEXT_SPEED_NO_TRANSFER, TEXT_COLOR(1, 2, 0), NULL);
+#else
         v8 = -((Font_CalcStringWidth(FONT_SYSTEM, param0->unk_178, 0) + 1) / 2);
         Text_AddPrinterWithParamsAndColor(&v3, FONT_SUBSCREEN, v4, 0, 0, TEXT_SPEED_NO_TRANSFER, TEXT_COLOR(1, 2, 0), NULL);
+#endif
     }
 
     String_Free(v4);
@@ -5936,7 +5951,11 @@ static void ov65_02234A68(UnkStruct_ov65_0222EBE0 *param0, NARC *param1, enum He
     v7.unk_0C = SpriteTransfer_GetPaletteProxy(param0->unk_BE0.unk_20C[1], NULL);
     v7.unk_10 = param0->unk_BE0.unk_21C[1];
     v7.unk_14 = param0->unk_BE0.unk_228.offset;
+#if POKEPLATINUM_VERSION == POKEPLATINUM_VERSION_FR
+    v7.unk_18 = -32;
+#else
     v7.unk_18 = v8;
+#endif
     v7.unk_1C = -8;
     v7.unk_20 = 0;
     v7.unk_24 = 0;
@@ -6040,7 +6059,11 @@ static void ov65_02234E50(UnkStruct_ov65_02234E50 *param0, u32 param1)
     Sprite_SetAnimFrame(param0->unk_21C[param1], 5 - 1);
 
     if (param1 == 1) {
+#if POKEPLATINUM_VERSION == POKEPLATINUM_VERSION_FR
+        FontOAM_SetXY(param0->unk_234, -32, Unk_ov65_0223893C[0]);
+#else
         FontOAM_SetXY(param0->unk_234, -18, Unk_ov65_0223893C[0]);
+#endif
     }
 }
 
@@ -6063,7 +6086,11 @@ static BOOL ov65_02234E8C(UnkStruct_ov65_02234E50 *param0, u32 param1, u32 param
                 v1 = Sprite_GetAnimFrame(param0->unk_21C[param1]);
 
                 if (param1 == 1) {
+#if POKEPLATINUM_VERSION == POKEPLATINUM_VERSION_FR
+                    FontOAM_SetXY(param0->unk_234, -32, Unk_ov65_0223893C[v1]);
+#else
                     FontOAM_SetXY(param0->unk_234, -18, Unk_ov65_0223893C[v1]);
+#endif
                 }
 
                 if (v1 >= 3) {

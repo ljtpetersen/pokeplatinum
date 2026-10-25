@@ -77,8 +77,13 @@ add_global_arguments(cpp_args,
 pokeplatinum_args = [
     '-DPM_KEEP_ASSERTS',
     '-DGAME_VERSION=VERSION_PLATINUM',
-    '-DGAME_LANGUAGE=LANGUAGE_ENGLISH'
 ]
+
+if game_language == 'en'
+    pokeplatinum_args += '-DGAME_LANGUAGE=LANGUAGE_ENGLISH'
+elif game_language == 'fr'
+    pokeplatinum_args += '-DGAME_LANGUAGE=LANGUAGE_FRENCH'
+endif
 
 if get_option('gdb_debugging')
     pokeplatinum_args += '-DGDB_DEBUGGING'
@@ -141,7 +146,11 @@ nitrodwc_dep = dependency('NitroDWC',
 )
 
 libvct_dep = dependency('libvct')
-libsyscall_dep = dependency('libsyscall')
+libsyscall_dep = dependency('libsyscall',
+    default_options: [
+        'game_language=' + game_language
+    ]
+)
 
 ############################################################
 ###                       CONSTS                         ###

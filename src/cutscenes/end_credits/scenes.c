@@ -4,6 +4,7 @@
 #include <string.h>
 
 #include "constants/graphics.h"
+#include "constants/platinum_version.h"
 
 #include "cutscenes/end_credits/common.h"
 #include "cutscenes/end_credits/defs.h"
@@ -1034,7 +1035,11 @@ static void EndCreditsScenes_LoadFin(EndCreditsApp *endCreditsApp)
     Window_PutToTilemap(endCreditsApp->window);
 
     String *finalString = MessageLoader_GetNewString(endCreditsApp->messageLoader, EndCreditsStrings_GetLastMessageID());
+#if POKEPLATINUM_VERSION == POKEPLATINUM_VERSION_FR
+    int xOffset = (256 - Font_CalcStringWidth(FONT_SYSTEM, finalString, 3)) / 2;
+#else
     int xOffset = (256 - Font_CalcStringWidth(FONT_SYSTEM, finalString, 0)) / 2;
+#endif
 
     Text_AddPrinterWithParamsColorAndSpacing(endCreditsApp->window, FONT_SYSTEM, finalString, xOffset, 80, TEXT_SPEED_NO_TRANSFER, TEXT_COLOR(1, 2, 15), 3, 0, NULL);
     Window_LoadTiles(endCreditsApp->window);
